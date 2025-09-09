@@ -1,0 +1,81 @@
+#!perl
+
+use strict;
+use warnings;
+use v5.10;
+use utf8;
+
+use URI::PackageURL;
+use CPAN::PackageDetails;
+use CPAN::DistnameInfo;
+use HTTP::Tiny;
+use Getopt::Long;
+use Data::Dumper;
+
+my %options = (
+    '02packages-url' => 'https://cpan.metacpan.org/modules/02packages.details.txt',
+    '02purl-url'     => 'https://cpan.metacpan.org/modules/02purl.details.txt',
+    'output'         => '02purl.details.txt',
+);
+
+GetOptions(\%options, '02packages-url=s', '02purl-url=s', 'o|output=s') or Carp::croak 'Error in CLI arguments';
+
+
+my $packages_filename = '02packages.details.txt';
+my $purl_filename     = '02purl.details.txt';
+
+my $ua  = HTTP::Tiny->new;
+my $res = $ua->mirror($options{'02packages-url'}, $packages_filename);
+
+if ($res->{success}) {
+    say STDERR "$packages_filename is up to date!";
+}
+
+my $purl_details = CPAN::PackageDetails->new(
+    file         => $purl_filename,
+    url          => $options{'02purl-url'},
+    description  => "PURL for CPAN distributions",
+    columns      => "package name, version, purl",
+    intended_for => "PURL compatible CPAN clients",
+);
+
+my $package_details = CPAN::PackageDetails->read($packages_filename);
+my $records         = $package_details->entries->get_hash;
+
+foreach my $package (keys %{$records}) {
+    foreach my $version (keys %{$records->{$package}}) {
+
+        my $record = $records->{$package}{$version};
+
+        my $d = CPAN::DistnameInfo->new($record->path);
+
+        next unless $d->dist;
+
+        my $qualifiers = {};
+
+        if ($d->extension ne 'tar.gz') {
+            $qualifiers->{ext} = $d->extension;
+        }
+
+        my $purl = eval {
+            URI::PackageURL->new(
+                type       => 'cpan',
+                namespace  => $d->cpanid,
+                name       => $d->dist,
+                version    => $d->version,
+                qualifiers => $qualifiers
+            );
+        };
+
+        say Carp::croak Dumper($record) . " => $@" if $@;
+
+        $purl_details->add_entry('package name' => $package, version => $record->version, purl => $purl->to_string);
+
+    }
+}
+
+say STDERR "About to write ", $purl_details->count, " entries";
+
+open(my $fh, '>', $options{output}) or Carp::croak "Failed to open file: $!";
+
+$purl_details->write_fh($fh);
