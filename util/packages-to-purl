@@ -60,10 +60,10 @@ foreach my $package (keys %{$records}) {
         my $purl = eval {
             URI::PackageURL->new(
                 type       => 'cpan',
-                namespace  => $d->cpanid,
                 name       => $d->dist,
                 version    => $d->version,
-                qualifiers => $qualifiers
+                qualifiers => $qualifiers,
+                validate   => 0
             );
         };
 
