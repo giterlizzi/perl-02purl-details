@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 09 Apr 2026 18:54:35 GMT
-Line-Count: 263549
+Last-Updated: Thu, 09 Apr 2026 20:41:53 GMT
+Line-Count: 263552
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -3843,7 +3843,7 @@ Agent::Transport                   undef  pkg:cpan/Agent@3.20
 Agent::Transport::TCP              undef  pkg:cpan/Agent@3.20
 Agni                               undef  pkg:cpan/PApp@2.4
 Agni::Callback                     undef  pkg:cpan/PApp@2.4
-Aion                                 1.7  pkg:cpan/Aion@1.7
+Aion                                 1.8  pkg:cpan/Aion@1.8
 Aion::Annotation                   v0.0.3  pkg:cpan/Aion-Annotation@0.0.3
 Aion::Carp                           1.6  pkg:cpan/Aion-Carp@1.6
 Aion::Emitter                      v0.1.0  pkg:cpan/Aion-Emitter@0.1.0
@@ -3858,13 +3858,13 @@ Aion::Fs                           v0.2.3  pkg:cpan/Aion-Fs@0.2.3
 Aion::Fs::Cat                      undef  pkg:cpan/Aion-Fs@0.2.3
 Aion::Fs::Find                     undef  pkg:cpan/Aion-Fs@0.2.3
 Aion::Fs::Lay                      undef  pkg:cpan/Aion-Fs@0.2.3
-Aion::Meta::Feature                undef  pkg:cpan/Aion@1.7
-Aion::Meta::FeatureConstruct       undef  pkg:cpan/Aion@1.7
-Aion::Meta::RequiresAnyFunction    undef  pkg:cpan/Aion@1.7
-Aion::Meta::RequiresFeature        undef  pkg:cpan/Aion@1.7
-Aion::Meta::Subroutine             undef  pkg:cpan/Aion@1.7
-Aion::Meta::Util                   undef  pkg:cpan/Aion@1.7
-Aion::Pleroma                      undef  pkg:cpan/Aion@1.7
+Aion::Meta::Feature                undef  pkg:cpan/Aion@1.8
+Aion::Meta::FeatureConstruct       undef  pkg:cpan/Aion@1.8
+Aion::Meta::RequiresAnyFunction    undef  pkg:cpan/Aion@1.8
+Aion::Meta::RequiresFeature        undef  pkg:cpan/Aion@1.8
+Aion::Meta::Subroutine             undef  pkg:cpan/Aion@1.8
+Aion::Meta::Util                   undef  pkg:cpan/Aion@1.8
+Aion::Pleroma                      undef  pkg:cpan/Aion@1.8
 Aion::Query                        v0.0.6  pkg:cpan/Aion-Query@0.0.6
 Aion::Query::Transaction           undef  pkg:cpan/Aion-Query@0.0.6
 Aion::Refmark                      undef  pkg:cpan/Aion-Telemetry@0.0.1
@@ -3875,8 +3875,8 @@ Aion::Run::RunsRun                 undef  pkg:cpan/Aion-Run@0.0.3
 Aion::Spirit                       v0.0.1  pkg:cpan/Aion-Spirit@0.0.1
 Aion::Surf                         v0.0.3  pkg:cpan/Aion-Surf@0.0.3
 Aion::Telemetry                    v0.0.1  pkg:cpan/Aion-Telemetry@0.0.1
-Aion::Type                         undef  pkg:cpan/Aion@1.7
-Aion::Types                        undef  pkg:cpan/Aion@1.7
+Aion::Type                         undef  pkg:cpan/Aion@1.8
+Aion::Types                        undef  pkg:cpan/Aion@1.8
 Akado::Account                     1.002000  pkg:cpan/Akado-Account@1.2.0
 Akamai::Edgegrid                   1.000005  pkg:cpan/Akamai-Edgegrid@1.0.5
 Akamai::Open::Client                0.03  pkg:cpan/Akamai-Open-Client@0.03
@@ -10969,7 +10969,7 @@ App::Logs                              0  pkg:cpan/App-FargateStack@1.0.50
 App::MARC::Count                    0.04  pkg:cpan/App-MARC-Count@0.04
 App::MARC::Filter                   0.08  pkg:cpan/App-MARC-Filter@0.08
 App::MARC::Leader                   0.07  pkg:cpan/App-MARC-Leader@0.07
-App::MARC::List                     0.07  pkg:cpan/App-MARC-List@0.07
+App::MARC::List                     0.08  pkg:cpan/App-MARC-List@0.08
 App::MARC::Record::Stats            0.02  pkg:cpan/App-MARC-Record-Stats@0.02
 App::MARC::Validator                0.08  pkg:cpan/App-MARC-Validator@0.08
 App::MARC::Validator::Report        0.03  pkg:cpan/App-MARC-Validator-Report@0.03
@@ -114772,8 +114772,8 @@ JSON::XS::VersionOneAndTwo          0.31  pkg:cpan/JSON-XS-VersionOneAndTwo@0.31
 JSON::YAJL                          0.10  pkg:cpan/JSON-YAJL@0.10
 JSON::YAJL::Generator               0.10  pkg:cpan/JSON-YAJL@0.10
 JSON::YAJL::Parser                  0.10  pkg:cpan/JSON-YAJL@0.10
-JSON::YY                            0.03  pkg:cpan/JSON-YY@0.03
-JSON::YY::Doc                       0.03  pkg:cpan/JSON-YY@0.03
+JSON::YY                            0.04  pkg:cpan/JSON-YY@0.04
+JSON::YY::Doc                       0.04  pkg:cpan/JSON-YY@0.04
 JSON::backportPP::Boolean          2.27203  pkg:cpan/JSON@2.61
 JSON::ize                          0.202  pkg:cpan/JSON-ize@0.202
 JSONAPI::Document                    2.4  pkg:cpan/JSONAPI-Document@2.4
@@ -227173,6 +227173,7 @@ Test2::AsyncSubtest::Hub           1.302219  pkg:cpan/Test-Simple@1.302219
 Test2::Bundle                      1.302219  pkg:cpan/Test-Simple@1.302219
 Test2::Bundle::Extended            1.302219  pkg:cpan/Test-Simple@1.302219
 Test2::Bundle::More                1.302219  pkg:cpan/Test-Simple@1.302219
+Test2::Bundle::Numerical            0.01  pkg:cpan/Test2-Bundle-Numerical@0.01
 Test2::Bundle::Simple              1.302219  pkg:cpan/Test-Simple@1.302219
 Test2::Bundle::SpecDeclare         undef  pkg:cpan/Test2-Plugin-SpecDeclare@0.000003
 Test2::Compare                     1.302219  pkg:cpan/Test-Simple@1.302219
@@ -227431,6 +227432,7 @@ Test2::Plugin::IOEvents            0.001001  pkg:cpan/Test2-Plugin-IOEvents@0.00
 Test2::Plugin::IOEvents::Tie       0.001001  pkg:cpan/Test2-Plugin-IOEvents@0.001001
 Test2::Plugin::MemUsage            0.002003  pkg:cpan/Test2-Plugin-MemUsage@0.002003
 Test2::Plugin::NoWarnings           0.10  pkg:cpan/Test2-Plugin-NoWarnings@0.10
+Test2::Plugin::Numerical            0.01  pkg:cpan/Test2-Bundle-Numerical@0.01
 Test2::Plugin::SRand               1.302219  pkg:cpan/Test-Simple@1.302219
 Test2::Plugin::SourceDiag          0.000005  pkg:cpan/Test2-Plugin-SourceDiag@0.000005
 Test2::Plugin::SpecDeclare         0.000003  pkg:cpan/Test2-Plugin-SpecDeclare@0.000003
@@ -227511,6 +227513,7 @@ Test2::Tools::LoadModule           0.009  pkg:cpan/Test2-Tools-LoadModule@0.009
 Test2::Tools::MIDI                  0.02  pkg:cpan/Test2-Tools-MIDI@0.02
 Test2::Tools::MemoryCycle           0.01  pkg:cpan/Test2-Tools-MemoryCycle@0.01
 Test2::Tools::Mock                 1.302219  pkg:cpan/Test-Simple@1.302219
+Test2::Tools::Numerical             0.01  pkg:cpan/Test2-Bundle-Numerical@0.01
 Test2::Tools::PDL                  0.001  pkg:cpan/Test2-Tools-PDL@0.001
 Test2::Tools::PerlCritic            0.08  pkg:cpan/Test2-Tools-PerlCritic@0.08
 Test2::Tools::PerlCritic::File      0.08  pkg:cpan/Test2-Tools-PerlCritic@0.08
