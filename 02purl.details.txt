@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 09 Apr 2026 07:13:40 GMT
+Last-Updated: Thu, 09 Apr 2026 09:00:48 GMT
 Line-Count: 263481
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -158158,11 +158158,11 @@ PDL::Image2D                       undef  pkg:cpan/PDL@2.104
 PDL::ImageND                       undef  pkg:cpan/PDL@2.104
 PDL::ImageRGB                      undef  pkg:cpan/PDL@2.104
 PDL::Install::Files                2.009  pkg:cpan/PDL@2.104
-PDL::LinearAlgebra                 0.434  pkg:cpan/PDL-LinearAlgebra@0.434
-PDL::LinearAlgebra::Complex        0.434  pkg:cpan/PDL-LinearAlgebra@0.434
-PDL::LinearAlgebra::Real           0.434  pkg:cpan/PDL-LinearAlgebra@0.434
-PDL::LinearAlgebra::Special         0.14  pkg:cpan/PDL-LinearAlgebra@0.434
-PDL::LinearAlgebra::Trans          0.434  pkg:cpan/PDL-LinearAlgebra@0.434
+PDL::LinearAlgebra                 0.435  pkg:cpan/PDL-LinearAlgebra@0.435
+PDL::LinearAlgebra::Complex        0.435  pkg:cpan/PDL-LinearAlgebra@0.435
+PDL::LinearAlgebra::Real           0.435  pkg:cpan/PDL-LinearAlgebra@0.435
+PDL::LinearAlgebra::Special         0.14  pkg:cpan/PDL-LinearAlgebra@0.435
+PDL::LinearAlgebra::Trans          0.435  pkg:cpan/PDL-LinearAlgebra@0.435
 PDL::Lite                          undef  pkg:cpan/PDL@2.104
 PDL::LiteF                         undef  pkg:cpan/PDL@2.104
 PDL::Logical                       0.006005  pkg:cpan/Data-Frame@0.006005
