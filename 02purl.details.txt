@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 09 Apr 2026 04:28:36 GMT
-Line-Count: 263480
+Last-Updated: Thu, 09 Apr 2026 07:13:40 GMT
+Line-Count: 263481
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -60458,6 +60458,7 @@ Data::Tab                           0.02  pkg:cpan/Data-Tab@0.02
 Data::Tab::db                       0.02  pkg:cpan/Data-Tab@0.02
 Data::Table                         1.78  pkg:cpan/Data-Table@1.78
 Data::Table::Excel                   0.5  pkg:cpan/Data-Table-Excel@0.5
+Data::Table::Gherkin               v1.0.0  pkg:cpan/Data-Table-Gherkin@v1.0.0
 Data::Table::Text                  20250521  pkg:cpan/Data-Table-Text@20250521
 Data::TableAutoSum                  0.11  pkg:cpan/Data-TableAutoSum@0.11
 Data::TableData::Lookup            0.003  pkg:cpan/Data-TableData-Lookup@0.003
@@ -142325,7 +142326,7 @@ Music::RhythmSet::Voice             0.06  pkg:cpan/Music-RhythmSet@0.06
 Music::Scala                        1.08  pkg:cpan/Music-Scala@1.08
 Music::ScaleNote                   0.0804  pkg:cpan/Music-ScaleNote@0.0804
 Music::Scales                       0.07  pkg:cpan/Music-Scales@0.07
-Music::SimpleDrumMachine           0.0500  pkg:cpan/Music-SimpleDrumMachine@0.0500
+Music::SimpleDrumMachine           0.0501  pkg:cpan/Music-SimpleDrumMachine@0.0501
 Music::Song                        undef  pkg:cpan/Gtk2-Ex-FormFactory@0.67
 Music::Tag                         0.4103  pkg:cpan/Music-Tag@0.4103
 Music::Tag::Amazon                 0.4101  pkg:cpan/Music-Tag-Amazon@0.4101
