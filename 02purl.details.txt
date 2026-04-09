@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 09 Apr 2026 20:41:53 GMT
+Last-Updated: Thu, 09 Apr 2026 22:34:50 GMT
 Line-Count: 263552
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -227173,7 +227173,7 @@ Test2::AsyncSubtest::Hub           1.302219  pkg:cpan/Test-Simple@1.302219
 Test2::Bundle                      1.302219  pkg:cpan/Test-Simple@1.302219
 Test2::Bundle::Extended            1.302219  pkg:cpan/Test-Simple@1.302219
 Test2::Bundle::More                1.302219  pkg:cpan/Test-Simple@1.302219
-Test2::Bundle::Numerical            0.01  pkg:cpan/Test2-Bundle-Numerical@0.01
+Test2::Bundle::Numerical            0.02  pkg:cpan/Test2-Bundle-Numerical@0.02
 Test2::Bundle::Simple              1.302219  pkg:cpan/Test-Simple@1.302219
 Test2::Bundle::SpecDeclare         undef  pkg:cpan/Test2-Plugin-SpecDeclare@0.000003
 Test2::Compare                     1.302219  pkg:cpan/Test-Simple@1.302219
@@ -227432,7 +227432,7 @@ Test2::Plugin::IOEvents            0.001001  pkg:cpan/Test2-Plugin-IOEvents@0.00
 Test2::Plugin::IOEvents::Tie       0.001001  pkg:cpan/Test2-Plugin-IOEvents@0.001001
 Test2::Plugin::MemUsage            0.002003  pkg:cpan/Test2-Plugin-MemUsage@0.002003
 Test2::Plugin::NoWarnings           0.10  pkg:cpan/Test2-Plugin-NoWarnings@0.10
-Test2::Plugin::Numerical            0.01  pkg:cpan/Test2-Bundle-Numerical@0.01
+Test2::Plugin::Numerical            0.02  pkg:cpan/Test2-Bundle-Numerical@0.02
 Test2::Plugin::SRand               1.302219  pkg:cpan/Test-Simple@1.302219
 Test2::Plugin::SourceDiag          0.000005  pkg:cpan/Test2-Plugin-SourceDiag@0.000005
 Test2::Plugin::SpecDeclare         0.000003  pkg:cpan/Test2-Plugin-SpecDeclare@0.000003
@@ -227513,7 +227513,7 @@ Test2::Tools::LoadModule           0.009  pkg:cpan/Test2-Tools-LoadModule@0.009
 Test2::Tools::MIDI                  0.02  pkg:cpan/Test2-Tools-MIDI@0.02
 Test2::Tools::MemoryCycle           0.01  pkg:cpan/Test2-Tools-MemoryCycle@0.01
 Test2::Tools::Mock                 1.302219  pkg:cpan/Test-Simple@1.302219
-Test2::Tools::Numerical             0.01  pkg:cpan/Test2-Bundle-Numerical@0.01
+Test2::Tools::Numerical             0.02  pkg:cpan/Test2-Bundle-Numerical@0.02
 Test2::Tools::PDL                  0.001  pkg:cpan/Test2-Tools-PDL@0.001
 Test2::Tools::PerlCritic            0.08  pkg:cpan/Test2-Tools-PerlCritic@0.08
 Test2::Tools::PerlCritic::File      0.08  pkg:cpan/Test2-Tools-PerlCritic@0.08
@@ -263181,7 +263181,7 @@ skip_num                           undef  pkg:cpan/assign@0.0.16
 slot                                0.01  pkg:cpan/Tie-Hash-KeysMask@0.03
 slots                               0.03  pkg:cpan/slots@0.03
 smallnum                            1.02  pkg:cpan/smallnum@1.02
-smallnum::XS                        0.10  pkg:cpan/smallnum-XS@0.10
+smallnum::XS                        0.11  pkg:cpan/smallnum-XS@0.11
 smg                                 0.01  pkg:cpan/smg?ext=zip
 smokebrew                           1.06  pkg:cpan/smokebrew@1.06
 snaked                              0.14  pkg:cpan/snaked@0.14
