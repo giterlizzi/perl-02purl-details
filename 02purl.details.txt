@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 09 Apr 2026 01:44:25 GMT
+Last-Updated: Thu, 09 Apr 2026 04:28:36 GMT
 Line-Count: 263480
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -8102,7 +8102,7 @@ Apache::Wyrd::User                  0.98  pkg:cpan/Apache-Wyrd@0.98
 Apache::Wyrd::Var                   0.98  pkg:cpan/Apache-Wyrd@0.98
 Apache::Wyrd::Version               0.98  pkg:cpan/Apache-Wyrd@0.98
 Apache::Wyrd::View                  0.98  pkg:cpan/Apache-Wyrd@0.98
-Apache::XAO                         2.01  pkg:cpan/XAO-Web@1.93
+Apache::XAO                         2.01  pkg:cpan/XAO-Web@1.94
 Apache::XBEL                         1.3  pkg:cpan/Apache-XBEL@1.3
 Apache::XMLRPC                     undef  pkg:cpan/Frontier-RPC@0.07b4
 Apache::XMLRPC::Lite                1.01  pkg:cpan/SOAP-Lite@1.01
@@ -142325,7 +142325,7 @@ Music::RhythmSet::Voice             0.06  pkg:cpan/Music-RhythmSet@0.06
 Music::Scala                        1.08  pkg:cpan/Music-Scala@1.08
 Music::ScaleNote                   0.0804  pkg:cpan/Music-ScaleNote@0.0804
 Music::Scales                       0.07  pkg:cpan/Music-Scales@0.07
-Music::SimpleDrumMachine           0.0407  pkg:cpan/Music-SimpleDrumMachine@0.0407
+Music::SimpleDrumMachine           0.0500  pkg:cpan/Music-SimpleDrumMachine@0.0500
 Music::Song                        undef  pkg:cpan/Gtk2-Ex-FormFactory@0.67
 Music::Tag                         0.4103  pkg:cpan/Music-Tag@0.4103
 Music::Tag::Amazon                 0.4101  pkg:cpan/Music-Tag-Amazon@0.4101
@@ -195779,7 +195779,7 @@ Plack::App::WebSocket               0.08  pkg:cpan/Plack-App-WebSocket@0.08
 Plack::App::WebSocket::Connection   0.08  pkg:cpan/Plack-App-WebSocket@0.08
 Plack::App::WrapApacheReq           0.09  pkg:cpan/Plack-App-FakeApache@0.09
 Plack::App::WrapCGI                undef  pkg:cpan/Plack@1.0051
-Plack::App::XAO                    undef  pkg:cpan/XAO-Web@1.93
+Plack::App::XAO                    undef  pkg:cpan/XAO-Web@1.94
 Plack::App::dbi2http                0.07  pkg:cpan/Plack-App-dbi2http@0.07
 Plack::App::robots                 undef  pkg:cpan/Webqq-Client@8.5.3
 Plack::App::unAPI                   0.61  pkg:cpan/Plack-App-unAPI@0.61
@@ -254352,13 +254352,13 @@ X::classes::traceable              0.944  pkg:cpan/classes@0.944
 XAO::Base                           1.28  pkg:cpan/XAO-Base@1.28
 XAO::Cache                           2.1  pkg:cpan/XAO-Base@1.28
 XAO::DO::Atom                      undef  pkg:cpan/XAO-Base@1.28
-XAO::DO::CGI                       undef  pkg:cpan/XAO-Web@1.93
+XAO::DO::CGI                       undef  pkg:cpan/XAO-Web@1.94
 XAO::DO::Cache::Memcached          undef  pkg:cpan/XAO-Base@1.28
 XAO::DO::Cache::Memory               2.1  pkg:cpan/XAO-Base@1.28
 XAO::DO::Cache::Uncached           undef  pkg:cpan/XAO-Base@1.28
 XAO::DO::Catalogs                   1.04  pkg:cpan/XAO-Catalogs@1.04
 XAO::DO::Config                    undef  pkg:cpan/XAO-Base@1.28
-XAO::DO::Context                   undef  pkg:cpan/XAO-Web@1.93
+XAO::DO::Context                   undef  pkg:cpan/XAO-Web@1.94
 XAO::DO::Data::Catalog             1.003  pkg:cpan/XAO-Catalogs@1.04
 XAO::DO::Data::CatalogCategoryMap  1.002  pkg:cpan/XAO-Catalogs@1.04
 XAO::DO::Data::CatalogData         1.002  pkg:cpan/XAO-Catalogs@1.04
@@ -254389,51 +254389,51 @@ XAO::DO::ImportMap::Sample         1.002  pkg:cpan/XAO-Catalogs@1.04
 XAO::DO::Indexer::Base             1.047  pkg:cpan/XAO-Indexer@1.05
 XAO::DO::SpellChecker::Aspell      1.007  pkg:cpan/XAO-Indexer@1.05
 XAO::DO::SpellChecker::Base        1.004  pkg:cpan/XAO-Indexer@1.05
-XAO::DO::Web::Action               undef  pkg:cpan/XAO-Web@1.93
-XAO::DO::Web::Benchmark            undef  pkg:cpan/XAO-Web@1.93
-XAO::DO::Web::CgiParam               2.2  pkg:cpan/XAO-Web@1.93
-XAO::DO::Web::Clipboard            2.001  pkg:cpan/XAO-Web@1.93
-XAO::DO::Web::Condition            2.009  pkg:cpan/XAO-Web@1.93
-XAO::DO::Web::Config               2.004  pkg:cpan/XAO-Web@1.93
+XAO::DO::Web::Action               undef  pkg:cpan/XAO-Web@1.94
+XAO::DO::Web::Benchmark            undef  pkg:cpan/XAO-Web@1.94
+XAO::DO::Web::CgiParam               2.2  pkg:cpan/XAO-Web@1.94
+XAO::DO::Web::Clipboard            2.001  pkg:cpan/XAO-Web@1.94
+XAO::DO::Web::Condition            2.009  pkg:cpan/XAO-Web@1.94
+XAO::DO::Web::Config               2.004  pkg:cpan/XAO-Web@1.94
 XAO::DO::Web::Content               1.06  pkg:cpan/XAO-Content@1.06
-XAO::DO::Web::Cookie               2.004  pkg:cpan/XAO-Web@1.93
-XAO::DO::Web::Date                 2.001  pkg:cpan/XAO-Web@1.93
-XAO::DO::Web::Debug                2.001  pkg:cpan/XAO-Web@1.93
-XAO::DO::Web::Default              2.003  pkg:cpan/XAO-Web@1.93
-XAO::DO::Web::FS                   2.004  pkg:cpan/XAO-Web@1.93
-XAO::DO::Web::FilloutForm          2.029  pkg:cpan/XAO-Web@1.93
-XAO::DO::Web::Footer               2.002  pkg:cpan/XAO-Web@1.93
-XAO::DO::Web::Header               2.004  pkg:cpan/XAO-Web@1.93
-XAO::DO::Web::IdentifyAgent        2.001  pkg:cpan/XAO-Web@1.93
-XAO::DO::Web::IdentifyUser          2.16  pkg:cpan/XAO-Web@1.93
+XAO::DO::Web::Cookie               2.004  pkg:cpan/XAO-Web@1.94
+XAO::DO::Web::Date                 2.001  pkg:cpan/XAO-Web@1.94
+XAO::DO::Web::Debug                2.001  pkg:cpan/XAO-Web@1.94
+XAO::DO::Web::Default              2.003  pkg:cpan/XAO-Web@1.94
+XAO::DO::Web::FS                   2.004  pkg:cpan/XAO-Web@1.94
+XAO::DO::Web::FilloutForm          2.029  pkg:cpan/XAO-Web@1.94
+XAO::DO::Web::Footer               2.002  pkg:cpan/XAO-Web@1.94
+XAO::DO::Web::Header               2.004  pkg:cpan/XAO-Web@1.94
+XAO::DO::Web::IdentifyAgent        2.001  pkg:cpan/XAO-Web@1.94
+XAO::DO::Web::IdentifyUser          2.16  pkg:cpan/XAO-Web@1.94
 XAO::DO::Web::Indexer              1.004  pkg:cpan/XAO-Indexer@1.05
-XAO::DO::Web::Mailer               2.012  pkg:cpan/XAO-Web@1.93
-XAO::DO::Web::Math                 undef  pkg:cpan/XAO-Web@1.93
-XAO::DO::Web::MenuBuilder          2.002  pkg:cpan/XAO-Web@1.93
-XAO::DO::Web::MultiPageNav         2.002  pkg:cpan/XAO-Web@1.93
-XAO::DO::Web::Page                 undef  pkg:cpan/XAO-Web@1.93
-XAO::DO::Web::Redirect             2.002  pkg:cpan/XAO-Web@1.93
-XAO::DO::Web::Search               2.002  pkg:cpan/XAO-Web@1.93
-XAO::DO::Web::SetArg               2.002  pkg:cpan/XAO-Web@1.93
-XAO::DO::Web::Styler               2.003  pkg:cpan/XAO-Web@1.93
-XAO::DO::Web::TextTable            2.001  pkg:cpan/XAO-Web@1.93
-XAO::DO::Web::URL                  2.002  pkg:cpan/XAO-Web@1.93
-XAO::DO::Web::Utility              2.003  pkg:cpan/XAO-Web@1.93
+XAO::DO::Web::Mailer               2.012  pkg:cpan/XAO-Web@1.94
+XAO::DO::Web::Math                 undef  pkg:cpan/XAO-Web@1.94
+XAO::DO::Web::MenuBuilder          2.002  pkg:cpan/XAO-Web@1.94
+XAO::DO::Web::MultiPageNav         2.002  pkg:cpan/XAO-Web@1.94
+XAO::DO::Web::Page                 undef  pkg:cpan/XAO-Web@1.94
+XAO::DO::Web::Redirect             2.002  pkg:cpan/XAO-Web@1.94
+XAO::DO::Web::Search               2.002  pkg:cpan/XAO-Web@1.94
+XAO::DO::Web::SetArg               2.002  pkg:cpan/XAO-Web@1.94
+XAO::DO::Web::Styler               2.003  pkg:cpan/XAO-Web@1.94
+XAO::DO::Web::TextTable            2.001  pkg:cpan/XAO-Web@1.94
+XAO::DO::Web::URL                  2.002  pkg:cpan/XAO-Web@1.94
+XAO::DO::Web::Utility              2.003  pkg:cpan/XAO-Web@1.94
 XAO::Errors                        2.001  pkg:cpan/XAO-Base@1.28
 XAO::FS                             1.27  pkg:cpan/XAO-FS@1.27
 XAO::ImageCache                     1.22  pkg:cpan/XAO-ImageCache@1.22
 XAO::Indexer                        1.05  pkg:cpan/XAO-Indexer@1.05
 XAO::IndexerSupport                1.005  pkg:cpan/XAO-Indexer@1.05
 XAO::Objects                       2.001  pkg:cpan/XAO-Base@1.28
-XAO::PageSupport                     2.3  pkg:cpan/XAO-Web@1.93
-XAO::PluginUtils                   2.001  pkg:cpan/XAO-Web@1.93
-XAO::PreLoad                       2.001  pkg:cpan/XAO-Web@1.93
+XAO::PageSupport                     2.3  pkg:cpan/XAO-Web@1.94
+XAO::PluginUtils                   2.001  pkg:cpan/XAO-Web@1.94
+XAO::PreLoad                       2.001  pkg:cpan/XAO-Web@1.94
 XAO::Projects                      2.001  pkg:cpan/XAO-Base@1.28
 XAO::SimpleHash                    2.001  pkg:cpan/XAO-Base@1.28
-XAO::Templates                     2.001  pkg:cpan/XAO-Web@1.93
+XAO::Templates                     2.001  pkg:cpan/XAO-Web@1.94
 XAO::TestUtils                     2.002  pkg:cpan/XAO-Base@1.28
 XAO::Utils                           2.7  pkg:cpan/XAO-Base@1.28
-XAO::Web                            1.93  pkg:cpan/XAO-Web@1.93
+XAO::Web                            1.94  pkg:cpan/XAO-Web@1.94
 XAO::testcases::FS::base           undef  pkg:cpan/XAO-FS@1.27
 XAO::testcases::FS::basic          undef  pkg:cpan/XAO-FS@1.27
 XAO::testcases::FS::blobs          undef  pkg:cpan/XAO-FS@1.27
@@ -254448,7 +254448,7 @@ XAO::testcases::FS::placeholders   undef  pkg:cpan/XAO-FS@1.27
 XAO::testcases::FS::qstart         undef  pkg:cpan/XAO-FS@1.27
 XAO::testcases::FS::search         undef  pkg:cpan/XAO-FS@1.27
 XAO::testcases::FS::transact       undef  pkg:cpan/XAO-FS@1.27
-XAO::testcases::Web::base          undef  pkg:cpan/XAO-Web@1.93
+XAO::testcases::Web::base          undef  pkg:cpan/XAO-Web@1.94
 XAO::testcases::base               undef  pkg:cpan/XAO-Base@1.28
 XAS                                 0.15  pkg:cpan/XAS@0.15
 XAS::Apps::Alert                    0.01  pkg:cpan/XAS@0.15
@@ -263226,7 +263226,7 @@ test_CGI_OOP                         0.1  pkg:cpan/Dancer-Plugin-FakeCGI@0.63
 test_CGI_die                         0.1  pkg:cpan/Dancer-Plugin-FakeCGI@0.63
 test_CGI_mocked                      0.1  pkg:cpan/Dancer-Plugin-FakeCGI@0.63
 test_in_further_subdir              0.07  pkg:cpan/PAR@0.88
-testcases::base                    undef  pkg:cpan/XAO-Web@1.93
+testcases::base                    undef  pkg:cpan/XAO-Web@1.94
 testcases::collection              undef  pkg:cpan/XAO-MySQL@1.0
 testcases::config                  undef  pkg:cpan/XAO-MySQL@1.0
 testcases::dictionary              undef  pkg:cpan/XAO-FS@1.03
@@ -263235,7 +263235,7 @@ testcases::index                   undef  pkg:cpan/XAO-MySQL@1.0
 testcases::linkage                 undef  pkg:cpan/XAO-MySQL@1.0
 testcases::lists                   undef  pkg:cpan/XAO-MySQL@1.0
 testcases::placeholders            undef  pkg:cpan/XAO-MySQL@1.0
-testcases::requires                undef  pkg:cpan/XAO-Web@1.93
+testcases::requires                undef  pkg:cpan/XAO-Web@1.94
 testflds                               1  pkg:cpan/Tuxedo@2.08
 testthread                          0.08  pkg:cpan/Finance-Quant@0.08
 thanks                             0.005  pkg:cpan/thanks@0.005
