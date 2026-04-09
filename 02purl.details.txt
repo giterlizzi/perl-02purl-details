@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 09 Apr 2026 10:53:38 GMT
+Last-Updated: Thu, 09 Apr 2026 13:08:46 GMT
 Line-Count: 263481
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -42768,22 +42768,22 @@ ChainMake::Parallel                    0  pkg:cpan/ChainMake@0.9.0
 ChainMake::Tester                      0  pkg:cpan/ChainMake@0.9.0
 Champ                              0.001  pkg:cpan/App-PythonToPerl@0.001
 Champlain                           0.14  pkg:cpan/Champlain@0.14
-Chandra                             0.19  pkg:cpan/Chandra@0.19
-Chandra::App                        0.19  pkg:cpan/Chandra@0.19
-Chandra::Assets                     0.19  pkg:cpan/Chandra@0.19
-Chandra::Bind                       0.19  pkg:cpan/Chandra@0.19
-Chandra::Bridge                     0.19  pkg:cpan/Chandra@0.19
-Chandra::Bridge::Extension          0.19  pkg:cpan/Chandra@0.19
-Chandra::Clipboard                  0.19  pkg:cpan/Chandra@0.19
-Chandra::ContextMenu                0.19  pkg:cpan/Chandra@0.19
-Chandra::DevTools                   0.19  pkg:cpan/Chandra@0.19
-Chandra::Dialog                     0.19  pkg:cpan/Chandra@0.19
-Chandra::DragDrop                   0.19  pkg:cpan/Chandra@0.19
+Chandra                             0.20  pkg:cpan/Chandra@0.20
+Chandra::App                        0.20  pkg:cpan/Chandra@0.20
+Chandra::Assets                     0.20  pkg:cpan/Chandra@0.20
+Chandra::Bind                       0.20  pkg:cpan/Chandra@0.20
+Chandra::Bridge                     0.20  pkg:cpan/Chandra@0.20
+Chandra::Bridge::Extension          0.20  pkg:cpan/Chandra@0.20
+Chandra::Clipboard                  0.20  pkg:cpan/Chandra@0.20
+Chandra::ContextMenu                0.20  pkg:cpan/Chandra@0.20
+Chandra::DevTools                   0.20  pkg:cpan/Chandra@0.20
+Chandra::Dialog                     0.20  pkg:cpan/Chandra@0.20
+Chandra::DragDrop                   0.20  pkg:cpan/Chandra@0.20
 Chandra::EPUB                       0.02  pkg:cpan/Chandra-EPUB@0.02
-Chandra::Element                    0.19  pkg:cpan/Chandra@0.19
-Chandra::Error                      0.19  pkg:cpan/Chandra@0.19
-Chandra::Event                      0.19  pkg:cpan/Chandra@0.19
-Chandra::Form                       0.19  pkg:cpan/Chandra@0.19
+Chandra::Element                    0.20  pkg:cpan/Chandra@0.20
+Chandra::Error                      0.20  pkg:cpan/Chandra@0.20
+Chandra::Event                      0.20  pkg:cpan/Chandra@0.20
+Chandra::Form                       0.20  pkg:cpan/Chandra@0.20
 Chandra::Game::Tetris               0.03  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Blocks      undef  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Blocks::IBlock undef  pkg:cpan/Chandra-Game-Tetris@0.03
@@ -42796,20 +42796,20 @@ Chandra::Game::Tetris::Blocks::TBlock undef  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Blocks::ZBlock undef  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Engine      undef  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Grid        undef  pkg:cpan/Chandra-Game-Tetris@0.03
-Chandra::HotReload                  0.19  pkg:cpan/Chandra@0.19
-Chandra::Log                        0.19  pkg:cpan/Chandra@0.19
-Chandra::Notify                     0.19  pkg:cpan/Chandra@0.19
-Chandra::Pack                       0.19  pkg:cpan/Chandra@0.19
-Chandra::Protocol                   0.19  pkg:cpan/Chandra@0.19
-Chandra::Shortcut                   0.19  pkg:cpan/Chandra@0.19
-Chandra::Socket::Client             0.19  pkg:cpan/Chandra@0.19
-Chandra::Socket::Connection         0.19  pkg:cpan/Chandra@0.19
-Chandra::Socket::Hub                0.19  pkg:cpan/Chandra@0.19
-Chandra::Socket::Token              0.19  pkg:cpan/Chandra@0.19
-Chandra::Splash                     0.19  pkg:cpan/Chandra@0.19
-Chandra::Store                      0.19  pkg:cpan/Chandra@0.19
-Chandra::Tray                       0.19  pkg:cpan/Chandra@0.19
-Chandra::Window                     0.19  pkg:cpan/Chandra@0.19
+Chandra::HotReload                  0.20  pkg:cpan/Chandra@0.20
+Chandra::Log                        0.20  pkg:cpan/Chandra@0.20
+Chandra::Notify                     0.20  pkg:cpan/Chandra@0.20
+Chandra::Pack                       0.20  pkg:cpan/Chandra@0.20
+Chandra::Protocol                   0.20  pkg:cpan/Chandra@0.20
+Chandra::Shortcut                   0.20  pkg:cpan/Chandra@0.20
+Chandra::Socket::Client             0.20  pkg:cpan/Chandra@0.20
+Chandra::Socket::Connection         0.20  pkg:cpan/Chandra@0.20
+Chandra::Socket::Hub                0.20  pkg:cpan/Chandra@0.20
+Chandra::Socket::Token              0.20  pkg:cpan/Chandra@0.20
+Chandra::Splash                     0.20  pkg:cpan/Chandra@0.20
+Chandra::Store                      0.20  pkg:cpan/Chandra@0.20
+Chandra::Tray                       0.20  pkg:cpan/Chandra@0.20
+Chandra::Window                     0.20  pkg:cpan/Chandra@0.20
 Changes                            0.003006  pkg:cpan/Changes@v0.3.6
 Changes::Change                    0.001002  pkg:cpan/Changes@v0.3.6
 Changes::Group                     0.002001  pkg:cpan/Changes@v0.3.6
@@ -73812,7 +73812,7 @@ File::Random::Pick                  0.03  pkg:cpan/File-Random-Pick@0.03
 File::RandomAccess                  1.13  pkg:cpan/Image-ExifTool@13.55
 File::RandomGenerator               0.06  pkg:cpan/File-RandomGenerator@0.06
 File::RandomLine                    0.20  pkg:cpan/File-RandomLine@0.20
-File::Raw                           0.07  pkg:cpan/File-Raw@0.07
+File::Raw                           0.08  pkg:cpan/File-Raw@0.08
 File::Rdiff                          1.0  pkg:cpan/File-Rdiff@1.0
 File::RdistByRsync                   0.3  pkg:cpan/File-RdistByRsync@0.3
 File::Read                         0.0801  pkg:cpan/File-Read@0.0801
@@ -76999,9 +76999,9 @@ Future::IO::Impl::Tickit            0.05  pkg:cpan/Future-IO-Impl-Tickit@0.05
 Future::IO::Impl::UV                0.08  pkg:cpan/Future-IO-Impl-UV@0.08
 Future::IO::Impl::Uring            0.010  pkg:cpan/Future-IO-Impl-Uring@0.010
 Future::IO::ImplBase                0.23  pkg:cpan/Future-IO@0.23
-Future::IO::Resolver                0.03  pkg:cpan/Future-IO-Resolver@0.03
-Future::IO::Resolver::Using::LibAsyncNS  0.03  pkg:cpan/Future-IO-Resolver@0.03
-Future::IO::Resolver::Using::Socket  0.03  pkg:cpan/Future-IO-Resolver@0.03
+Future::IO::Resolver                0.04  pkg:cpan/Future-IO-Resolver@0.04
+Future::IO::Resolver::Using::LibAsyncNS  0.04  pkg:cpan/Future-IO-Resolver@0.04
+Future::IO::Resolver::Using::Socket  0.04  pkg:cpan/Future-IO-Resolver@0.04
 Future::IO::System                  0.23  pkg:cpan/Future-IO@0.23
 Future::IO::TLS                    0.001  pkg:cpan/Future-IO-TLS@0.001
 Future::Mojo                       1.003  pkg:cpan/Future-Mojo@1.003
@@ -246839,7 +246839,7 @@ Weather::MOSMIX                     0.04  pkg:cpan/Weather-MOSMIX@0.04
 Weather::MOSMIX::Reader             0.04  pkg:cpan/Weather-MOSMIX@0.04
 Weather::MOSMIX::Weathercodes       0.04  pkg:cpan/Weather-MOSMIX@0.04
 Weather::MOSMIX::Writer             0.04  pkg:cpan/Weather-MOSMIX@0.04
-Weather::Meteo                      0.12  pkg:cpan/Weather-Meteo@0.12
+Weather::Meteo                      0.13  pkg:cpan/Weather-Meteo@0.13
 Weather::NHC::TropicalCyclone       0.34  pkg:cpan/Weather-NHC-TropicalCyclone@0.34
 Weather::NHC::TropicalCyclone::ForecastAdvisory  0.34  pkg:cpan/Weather-NHC-TropicalCyclone@0.34
 Weather::NHC::TropicalCyclone::Storm  0.34  pkg:cpan/Weather-NHC-TropicalCyclone@0.34
