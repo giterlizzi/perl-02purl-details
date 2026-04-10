@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 10 Apr 2026 01:56:22 GMT
+Last-Updated: Fri, 10 Apr 2026 04:44:50 GMT
 Line-Count: 263575
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -225217,7 +225217,7 @@ Task::BeLike::MELO                 0.011  pkg:cpan/Task-BeLike-MELO@0.011
 Task::BeLike::MPERRY                0.01  pkg:cpan/Task-BeLike-MPERRY@0.01
 Task::BeLike::MRUIZ                 0.01  pkg:cpan/Task-BeLike-MRUIZ@0.01
 Task::BeLike::MSCHOUT              1.171510  pkg:cpan/Task-BeLike-MSCHOUT@1.171510
-Task::BeLike::PERLANCAR::Used      20260410.0  pkg:cpan/Task-BeLike-PERLANCAR-Used@20260410.0
+Task::BeLike::PERLANCAR::Used      20260410.1  pkg:cpan/Task-BeLike-PERLANCAR-Used@20260410.1
 Task::BeLike::PHIPS                0.001002  pkg:cpan/Task-BeLike-PHIPS@0.1.2
 Task::BeLike::RJBS                 20221231.000  pkg:cpan/Task-BeLike-RJBS@20221231.000
 Task::BeLike::RJRAY                0.009  pkg:cpan/Task-BeLike-RJRAY@0.009
