@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 10 Apr 2026 09:01:25 GMT
-Line-Count: 263575
+Last-Updated: Fri, 10 Apr 2026 10:47:02 GMT
+Line-Count: 263576
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -30242,7 +30242,7 @@ Business::IS::PIN                   0.06  pkg:cpan/Business-IS-PIN@0.06
 Business::ISBN                     3.013  pkg:cpan/Business-ISBN@3.013
 Business::ISBN10                   3.013  pkg:cpan/Business-ISBN@3.013
 Business::ISBN13                   3.013  pkg:cpan/Business-ISBN@3.013
-Business::ISBN::Data               20260408.001  pkg:cpan/Business-ISBN-Data@20260408.001
+Business::ISBN::Data               20260410.001  pkg:cpan/Business-ISBN-Data@20260410.001
 Business::ISIN                      0.20  pkg:cpan/Business-ISIN@0.20?ext=tgz
 Business::ISMN                     1.205  pkg:cpan/Business-ISMN@1.205
 Business::ISMN::Data               1.205  pkg:cpan/Business-ISMN@1.205
@@ -59359,11 +59359,11 @@ Data::Properties                    1.07  pkg:cpan/Data-Properties@1.07
 Data::Properties::JSON             0.004  pkg:cpan/Data-Properties-JSON@0.004
 Data::Properties::YAML              0.04  pkg:cpan/Data-Properties-YAML@0.04
 Data::PropertyList                 1998.1217  pkg:cpan/Data-PropertyList@1998.1217
-Data::PubSub::Shared                0.01  pkg:cpan/Data-PubSub-Shared@0.01
-Data::PubSub::Shared::Int          undef  pkg:cpan/Data-PubSub-Shared@0.01
-Data::PubSub::Shared::Int16        undef  pkg:cpan/Data-PubSub-Shared@0.01
-Data::PubSub::Shared::Int32        undef  pkg:cpan/Data-PubSub-Shared@0.01
-Data::PubSub::Shared::Str          undef  pkg:cpan/Data-PubSub-Shared@0.01
+Data::PubSub::Shared                0.02  pkg:cpan/Data-PubSub-Shared@0.02
+Data::PubSub::Shared::Int          undef  pkg:cpan/Data-PubSub-Shared@0.02
+Data::PubSub::Shared::Int16        undef  pkg:cpan/Data-PubSub-Shared@0.02
+Data::PubSub::Shared::Int32        undef  pkg:cpan/Data-PubSub-Shared@0.02
+Data::PubSub::Shared::Str          undef  pkg:cpan/Data-PubSub-Shared@0.02
 Data::Pulp                          0.01  pkg:cpan/Data-Pulp@0.01
 Data::Pulp::Carp                   undef  pkg:cpan/Data-Pulp@0.01
 Data::Pulp::Pulper                 undef  pkg:cpan/Data-Pulp@0.01
@@ -81110,20 +81110,20 @@ Geo::CountryFlags::Util             0.01  pkg:cpan/Geo-CountryFlags@1.01
 Geo::CountryFlags::XCPs            2006258.001  pkg:cpan/Geo-CountryFlags@1.01
 Geo::DNA                            0.33  pkg:cpan/Geo-DNA@0.33
 Geo::Demo::Zipskinny                0.01  pkg:cpan/Geo-Demo-Zipskinny@0.01
-Geo::Details                       undef  pkg:cpan/Geo-IPinfo@3.3.0
-Geo::DetailsCore                   undef  pkg:cpan/Geo-IPinfo@3.3.0
-Geo::DetailsCore::AS               undef  pkg:cpan/Geo-IPinfo@3.3.0
-Geo::DetailsCore::Geo              undef  pkg:cpan/Geo-IPinfo@3.3.0
-Geo::DetailsLite                   undef  pkg:cpan/Geo-IPinfo@3.3.0
-Geo::DetailsPlus                   undef  pkg:cpan/Geo-IPinfo@3.3.0
-Geo::DetailsPlus::AS               undef  pkg:cpan/Geo-IPinfo@3.3.0
-Geo::DetailsPlus::Abuse            undef  pkg:cpan/Geo-IPinfo@3.3.0
-Geo::DetailsPlus::Anonymous        undef  pkg:cpan/Geo-IPinfo@3.3.0
-Geo::DetailsPlus::Company          undef  pkg:cpan/Geo-IPinfo@3.3.0
-Geo::DetailsPlus::Domains          undef  pkg:cpan/Geo-IPinfo@3.3.0
-Geo::DetailsPlus::Geo              undef  pkg:cpan/Geo-IPinfo@3.3.0
-Geo::DetailsPlus::Mobile           undef  pkg:cpan/Geo-IPinfo@3.3.0
-Geo::DetailsPlus::Privacy          undef  pkg:cpan/Geo-IPinfo@3.3.0
+Geo::Details                       undef  pkg:cpan/Geo-IPinfo@3.4.0
+Geo::DetailsCore                   undef  pkg:cpan/Geo-IPinfo@3.4.0
+Geo::DetailsCore::AS               undef  pkg:cpan/Geo-IPinfo@3.4.0
+Geo::DetailsCore::Geo              undef  pkg:cpan/Geo-IPinfo@3.4.0
+Geo::DetailsLite                   undef  pkg:cpan/Geo-IPinfo@3.4.0
+Geo::DetailsPlus                   undef  pkg:cpan/Geo-IPinfo@3.4.0
+Geo::DetailsPlus::AS               undef  pkg:cpan/Geo-IPinfo@3.4.0
+Geo::DetailsPlus::Abuse            undef  pkg:cpan/Geo-IPinfo@3.4.0
+Geo::DetailsPlus::Anonymous        undef  pkg:cpan/Geo-IPinfo@3.4.0
+Geo::DetailsPlus::Company          undef  pkg:cpan/Geo-IPinfo@3.4.0
+Geo::DetailsPlus::Domains          undef  pkg:cpan/Geo-IPinfo@3.4.0
+Geo::DetailsPlus::Geo              undef  pkg:cpan/Geo-IPinfo@3.4.0
+Geo::DetailsPlus::Mobile           undef  pkg:cpan/Geo-IPinfo@3.4.0
+Geo::DetailsPlus::Privacy          undef  pkg:cpan/Geo-IPinfo@3.4.0
 Geo::Direction::Distance           0.000002  pkg:cpan/Geo-Direction-Distance@0.0.2
 Geo::Direction::Name               0.0.4  pkg:cpan/Geo-Direction-Name@0.0.4
 Geo::Direction::Name::Locale       0.0.4  pkg:cpan/Geo-Direction-Name@0.0.4
@@ -81360,10 +81360,10 @@ Geo::IP::PurePerl                   1.26  pkg:cpan/Geo-IP-PurePerl@1.26
 Geo::IP::RU::IpGeoBase              0.05  pkg:cpan/Geo-IP-RU-IpGeoBase@0.05
 Geo::IP::Record                     1.51  pkg:cpan/Geo-IP@1.51
 Geo::IPfree                        1.160001  pkg:cpan/Geo-IPfree@1.160001
-Geo::IPinfo                        3.003000  pkg:cpan/Geo-IPinfo@3.3.0
-Geo::IPinfoCore                    3.003000  pkg:cpan/Geo-IPinfo@3.3.0
-Geo::IPinfoLite                    3.003000  pkg:cpan/Geo-IPinfo@3.3.0
-Geo::IPinfoPlus                    3.003000  pkg:cpan/Geo-IPinfo@3.3.0
+Geo::IPinfo                        3.004000  pkg:cpan/Geo-IPinfo@3.4.0
+Geo::IPinfoCore                    3.004000  pkg:cpan/Geo-IPinfo@3.4.0
+Geo::IPinfoLite                    3.004000  pkg:cpan/Geo-IPinfo@3.4.0
+Geo::IPinfoPlus                    3.004000  pkg:cpan/Geo-IPinfo@3.4.0
 Geo::ISO19139                       0.11  pkg:cpan/Geo-ISO19139@0.11
 Geo::ISO19139::2005                 0.11  pkg:cpan/Geo-ISO19139@0.11
 Geo::ISO19139::Util                 0.11  pkg:cpan/Geo-ISO19139@0.11
@@ -193764,6 +193764,7 @@ Perl::Critic::Policy::Reneeb::Capitalization  2.05  pkg:cpan/Perl-Critic-RENEEB@
 Perl::Critic::Policy::Reneeb::ProhibitBlockEval  2.05  pkg:cpan/Perl-Critic-RENEEB@2.05
 Perl::Critic::Policy::Reneeb::ProhibitGrepToGetFirstFoundElement  2.05  pkg:cpan/Perl-Critic-RENEEB@2.05
 Perl::Critic::Policy::Reneeb::RequirePostderef  2.05  pkg:cpan/Perl-Critic-RENEEB@2.05
+Perl::Critic::Policy::Security::RandBytesFromHash v0.1.0  pkg:cpan/Perl-Critic-Policy-Security-RandBytesFromHash@v0.1.0
 Perl::Critic::Policy::Storable::ProhibitStoreOrFreeze  0.01  pkg:cpan/Perl-Critic-Storable@0.01
 Perl::Critic::Policy::Subroutines::ProhibitAmbiguousFunctionCalls 1.002  pkg:cpan/Perl-Critic-Policy-Subroutines-ProhibitAmbiguousFunctionCalls@1.002
 Perl::Critic::Policy::Subroutines::ProhibitAmpersandSigils 1.156  pkg:cpan/Perl-Critic@1.156
@@ -227196,7 +227197,7 @@ Test2::AsyncSubtest::Hub           1.302219  pkg:cpan/Test-Simple@1.302219
 Test2::Bundle                      1.302219  pkg:cpan/Test-Simple@1.302219
 Test2::Bundle::Extended            1.302219  pkg:cpan/Test-Simple@1.302219
 Test2::Bundle::More                1.302219  pkg:cpan/Test-Simple@1.302219
-Test2::Bundle::Numerical            0.02  pkg:cpan/Test2-Bundle-Numerical@0.02
+Test2::Bundle::Numerical            0.03  pkg:cpan/Test2-Bundle-Numerical@0.03
 Test2::Bundle::Simple              1.302219  pkg:cpan/Test-Simple@1.302219
 Test2::Bundle::SpecDeclare         undef  pkg:cpan/Test2-Plugin-SpecDeclare@0.000003
 Test2::Compare                     1.302219  pkg:cpan/Test-Simple@1.302219
@@ -227455,7 +227456,7 @@ Test2::Plugin::IOEvents            0.001001  pkg:cpan/Test2-Plugin-IOEvents@0.00
 Test2::Plugin::IOEvents::Tie       0.001001  pkg:cpan/Test2-Plugin-IOEvents@0.001001
 Test2::Plugin::MemUsage            0.002003  pkg:cpan/Test2-Plugin-MemUsage@0.002003
 Test2::Plugin::NoWarnings           0.10  pkg:cpan/Test2-Plugin-NoWarnings@0.10
-Test2::Plugin::Numerical            0.02  pkg:cpan/Test2-Bundle-Numerical@0.02
+Test2::Plugin::Numerical            0.03  pkg:cpan/Test2-Bundle-Numerical@0.03
 Test2::Plugin::SRand               1.302219  pkg:cpan/Test-Simple@1.302219
 Test2::Plugin::SourceDiag          0.000005  pkg:cpan/Test2-Plugin-SourceDiag@0.000005
 Test2::Plugin::SpecDeclare         0.000003  pkg:cpan/Test2-Plugin-SpecDeclare@0.000003
@@ -227536,7 +227537,7 @@ Test2::Tools::LoadModule           0.009  pkg:cpan/Test2-Tools-LoadModule@0.009
 Test2::Tools::MIDI                  0.02  pkg:cpan/Test2-Tools-MIDI@0.02
 Test2::Tools::MemoryCycle           0.01  pkg:cpan/Test2-Tools-MemoryCycle@0.01
 Test2::Tools::Mock                 1.302219  pkg:cpan/Test-Simple@1.302219
-Test2::Tools::Numerical             0.02  pkg:cpan/Test2-Bundle-Numerical@0.02
+Test2::Tools::Numerical             0.03  pkg:cpan/Test2-Bundle-Numerical@0.03
 Test2::Tools::PDL                  0.001  pkg:cpan/Test2-Tools-PDL@0.001
 Test2::Tools::PerlCritic            0.08  pkg:cpan/Test2-Tools-PerlCritic@0.08
 Test2::Tools::PerlCritic::File      0.08  pkg:cpan/Test2-Tools-PerlCritic@0.08
