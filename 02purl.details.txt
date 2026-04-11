@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 11 Apr 2026 10:27:31 GMT
-Line-Count: 263593
+Last-Updated: Sat, 11 Apr 2026 12:41:33 GMT
+Line-Count: 263594
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -80962,6 +80962,7 @@ Geo::Address::Mail::Standardizer::USPS::AMS::Results  0.05  pkg:cpan/Geo-Address
 Geo::Address::Mail::UK              0.02  pkg:cpan/Geo-Address-Mail-UK@0.02
 Geo::Address::Mail::US             undef  pkg:cpan/Geo-Address-Mail@0.04
 Geo::Address::Parser                0.08  pkg:cpan/Geo-Address-Parser@0.08
+Geo::Address::Parser::Country       0.01  pkg:cpan/Geo-Address-Parser-Country@0.01
 Geo::Address::Parser::Rules::AU     0.08  pkg:cpan/Geo-Address-Parser@0.08
 Geo::Address::Parser::Rules::CA     0.08  pkg:cpan/Geo-Address-Parser@0.08
 Geo::Address::Parser::Rules::FR     0.08  pkg:cpan/Geo-Address-Parser@0.08
