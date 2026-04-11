@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 11 Apr 2026 06:53:27 GMT
+Last-Updated: Sat, 11 Apr 2026 08:34:50 GMT
 Line-Count: 263592
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -153709,7 +153709,7 @@ Number::ZipCode::JP::Table         0.20260331  pkg:cpan/Number-ZipCode-JP@0.2026
 Number::ZipCode::JP::Table::Area   0.20260331  pkg:cpan/Number-ZipCode-JP@0.20260331
 Number::ZipCode::JP::Table::Company 0.20260331  pkg:cpan/Number-ZipCode-JP@0.20260331
 Numeric::LL_Array                  0.1504  pkg:cpan/Numeric-LL_Array@0.1504
-Numeric::Vector                     0.01  pkg:cpan/Numeric-Vector@0.01
+Numeric::Vector                     0.02  pkg:cpan/Numeric-Vector@0.02
 NumericCodes                        0.04  pkg:cpan/Net-Bot-IRC-NumericCodes@0.04
 Nuspec::Reader                     v0.1.0  pkg:cpan/Nuspec-Reader@0.1.0
 Nuvol                               0.03  pkg:cpan/Nuvol@0.03
