@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 11 Apr 2026 16:28:46 GMT
-Line-Count: 263594
+Last-Updated: Sat, 11 Apr 2026 18:34:32 GMT
+Line-Count: 263595
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -9493,7 +9493,7 @@ App::CryptoCurrencyUtils           0.012  pkg:cpan/App-CryptoCurrencyUtils@0.012
 App::CveClient                     1.001001  pkg:cpan/App-CveClient@v1.1.1
 App::D                             1.003002  pkg:cpan/App-D@1.3.2
 App::DAVThis                       0.001  pkg:cpan/App-DAVThis@0.001
-App::DBBrowser                     2.439  pkg:cpan/App-DBBrowser@2.439
+App::DBBrowser                     2.440  pkg:cpan/App-DBBrowser@2.440
 App::DBCritic                      0.023  pkg:cpan/App-DBCritic@0.023
 App::DBCritic::Loader              0.023  pkg:cpan/App-DBCritic@0.023
 App::DBCritic::Policy              0.023  pkg:cpan/App-DBCritic@0.023
@@ -42768,22 +42768,22 @@ ChainMake::Parallel                    0  pkg:cpan/ChainMake@0.9.0
 ChainMake::Tester                      0  pkg:cpan/ChainMake@0.9.0
 Champ                              0.001  pkg:cpan/App-PythonToPerl@0.001
 Champlain                           0.14  pkg:cpan/Champlain@0.14
-Chandra                             0.21  pkg:cpan/Chandra@0.21
-Chandra::App                        0.21  pkg:cpan/Chandra@0.21
-Chandra::Assets                     0.21  pkg:cpan/Chandra@0.21
-Chandra::Bind                       0.21  pkg:cpan/Chandra@0.21
-Chandra::Bridge                     0.21  pkg:cpan/Chandra@0.21
-Chandra::Bridge::Extension          0.21  pkg:cpan/Chandra@0.21
-Chandra::Clipboard                  0.21  pkg:cpan/Chandra@0.21
-Chandra::ContextMenu                0.21  pkg:cpan/Chandra@0.21
-Chandra::DevTools                   0.21  pkg:cpan/Chandra@0.21
-Chandra::Dialog                     0.21  pkg:cpan/Chandra@0.21
-Chandra::DragDrop                   0.21  pkg:cpan/Chandra@0.21
+Chandra                             0.22  pkg:cpan/Chandra@0.22
+Chandra::App                        0.22  pkg:cpan/Chandra@0.22
+Chandra::Assets                     0.22  pkg:cpan/Chandra@0.22
+Chandra::Bind                       0.22  pkg:cpan/Chandra@0.22
+Chandra::Bridge                     0.22  pkg:cpan/Chandra@0.22
+Chandra::Bridge::Extension          0.22  pkg:cpan/Chandra@0.22
+Chandra::Clipboard                  0.22  pkg:cpan/Chandra@0.22
+Chandra::ContextMenu                0.22  pkg:cpan/Chandra@0.22
+Chandra::DevTools                   0.22  pkg:cpan/Chandra@0.22
+Chandra::Dialog                     0.22  pkg:cpan/Chandra@0.22
+Chandra::DragDrop                   0.22  pkg:cpan/Chandra@0.22
 Chandra::EPUB                       0.02  pkg:cpan/Chandra-EPUB@0.02
-Chandra::Element                    0.21  pkg:cpan/Chandra@0.21
-Chandra::Error                      0.21  pkg:cpan/Chandra@0.21
-Chandra::Event                      0.21  pkg:cpan/Chandra@0.21
-Chandra::Form                       0.21  pkg:cpan/Chandra@0.21
+Chandra::Element                    0.22  pkg:cpan/Chandra@0.22
+Chandra::Error                      0.22  pkg:cpan/Chandra@0.22
+Chandra::Event                      0.22  pkg:cpan/Chandra@0.22
+Chandra::Form                       0.22  pkg:cpan/Chandra@0.22
 Chandra::Game::Tetris               0.03  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Blocks      undef  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Blocks::IBlock undef  pkg:cpan/Chandra-Game-Tetris@0.03
@@ -42796,20 +42796,20 @@ Chandra::Game::Tetris::Blocks::TBlock undef  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Blocks::ZBlock undef  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Engine      undef  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Grid        undef  pkg:cpan/Chandra-Game-Tetris@0.03
-Chandra::HotReload                  0.21  pkg:cpan/Chandra@0.21
-Chandra::Log                        0.21  pkg:cpan/Chandra@0.21
-Chandra::Notify                     0.21  pkg:cpan/Chandra@0.21
-Chandra::Pack                       0.21  pkg:cpan/Chandra@0.21
-Chandra::Protocol                   0.21  pkg:cpan/Chandra@0.21
-Chandra::Shortcut                   0.21  pkg:cpan/Chandra@0.21
-Chandra::Socket::Client             0.21  pkg:cpan/Chandra@0.21
-Chandra::Socket::Connection         0.21  pkg:cpan/Chandra@0.21
-Chandra::Socket::Hub                0.21  pkg:cpan/Chandra@0.21
-Chandra::Socket::Token              0.21  pkg:cpan/Chandra@0.21
-Chandra::Splash                     0.21  pkg:cpan/Chandra@0.21
-Chandra::Store                      0.21  pkg:cpan/Chandra@0.21
-Chandra::Tray                       0.21  pkg:cpan/Chandra@0.21
-Chandra::Window                     0.21  pkg:cpan/Chandra@0.21
+Chandra::HotReload                  0.22  pkg:cpan/Chandra@0.22
+Chandra::Log                        0.22  pkg:cpan/Chandra@0.22
+Chandra::Notify                     0.22  pkg:cpan/Chandra@0.22
+Chandra::Pack                       0.22  pkg:cpan/Chandra@0.22
+Chandra::Protocol                   0.22  pkg:cpan/Chandra@0.22
+Chandra::Shortcut                   0.22  pkg:cpan/Chandra@0.22
+Chandra::Socket::Client             0.22  pkg:cpan/Chandra@0.22
+Chandra::Socket::Connection         0.22  pkg:cpan/Chandra@0.22
+Chandra::Socket::Hub                0.22  pkg:cpan/Chandra@0.22
+Chandra::Socket::Token              0.22  pkg:cpan/Chandra@0.22
+Chandra::Splash                     0.22  pkg:cpan/Chandra@0.22
+Chandra::Store                      0.22  pkg:cpan/Chandra@0.22
+Chandra::Tray                       0.22  pkg:cpan/Chandra@0.22
+Chandra::Window                     0.22  pkg:cpan/Chandra@0.22
 Changes                            0.003006  pkg:cpan/Changes@v0.3.6
 Changes::Change                    0.001002  pkg:cpan/Changes@v0.3.6
 Changes::Group                     0.002001  pkg:cpan/Changes@v0.3.6
@@ -74234,6 +74234,7 @@ Filesys::DiskSpace                  0.05  pkg:cpan/Filesys-DiskSpace@0.05
 Filesys::DiskUsage                  0.13  pkg:cpan/Filesys-DiskUsage@0.13
 Filesys::DiskUsage::Fast            0.04  pkg:cpan/Filesys-DiskUsage-Fast@0.04
 Filesys::Ext2::Dump                0.002  pkg:cpan/Filesys-Ext2-Dump@0.002
+Filesys::Fuse3                     0.020  pkg:cpan/Filesys-Fuse3@0.020
 Filesys::MakeISO                   0.001000  pkg:cpan/Filesys-MakeISO@v0.1.0
 Filesys::MakeISO::Driver::MagicISO 0.000001  pkg:cpan/Filesys-MakeISO-Driver-MagicISO@v0.0.1
 Filesys::MakeISO::Driver::Mkisofs  0.000001  pkg:cpan/Filesys-MakeISO-Driver-Mkisofs@v0.0.1
@@ -112124,37 +112125,37 @@ IPC::MMA::Scalar                    0.81  pkg:cpan/IPC-MMA@0.81
 IPC::MPS                            0.21  pkg:cpan/IPC-MPS@0.21
 IPC::MPS::EV                        0.21  pkg:cpan/IPC-MPS@0.21
 IPC::MPS::Event                     0.21  pkg:cpan/IPC-MPS@0.21
-IPC::Manager                       0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Base::DBI            0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Base::FS             0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Base::FS::Handle     0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Client               0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Client::AtomicPipe   0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Client::JSONFile     0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Client::LocalMemory  0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Client::MariaDB      0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Client::MessageFiles 0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Client::MySQL        0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Client::PostgreSQL   0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Client::SQLite       0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Client::SharedMem    0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Client::UnixSocket   0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::DBI                  0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Message              0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Role::Service        0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Role::Service::Requests 0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Role::Service::Select 0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Serializer           0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Serializer::JSON     0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Service              0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Service::Echo        0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Service::Handle      0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Service::Peer        0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Service::State       undef  pkg:cpan/IPC-Manager@0.000016
+IPC::Manager                       0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Base::DBI            0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Base::FS             0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Base::FS::Handle     0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Client               0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Client::AtomicPipe   0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Client::JSONFile     0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Client::LocalMemory  0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Client::MariaDB      0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Client::MessageFiles 0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Client::MySQL        0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Client::PostgreSQL   0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Client::SQLite       0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Client::SharedMem    0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Client::UnixSocket   0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::DBI                  0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Message              0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Role::Service        0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Role::Service::Requests 0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Role::Service::Select 0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Serializer           0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Serializer::JSON     0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Service              0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Service::Echo        0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Service::Handle      0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Service::Peer        0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Service::State       undef  pkg:cpan/IPC-Manager@0.000017
 IPC::Manager::ServicePeer          0.000010  pkg:cpan/IPC-Manager@0.000010
-IPC::Manager::Spawn                0.000016  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Test                 undef  pkg:cpan/IPC-Manager@0.000016
-IPC::Manager::Util                 0.000016  pkg:cpan/IPC-Manager@0.000016
+IPC::Manager::Spawn                0.000017  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Test                 undef  pkg:cpan/IPC-Manager@0.000017
+IPC::Manager::Util                 0.000017  pkg:cpan/IPC-Manager@0.000017
 IPC::MicroSocket                    0.05  pkg:cpan/IPC-MicroSocket@0.05
 IPC::MicroSocket::Client            0.05  pkg:cpan/IPC-MicroSocket@0.05
 IPC::MicroSocket::Server            0.05  pkg:cpan/IPC-MicroSocket@0.05
@@ -114984,7 +114985,7 @@ Jabber::RPC::Server                undef  pkg:cpan/Jabber-RPC@0.01
 Jabber::Reload                      0.01  pkg:cpan/Jabber-mod_perl@0.15
 Jabber::SimpleSend                  0.03  pkg:cpan/Jabber-SimpleSend@0.03
 Jabber::mod_perl                    0.15  pkg:cpan/Jabber-mod_perl@0.15
-Jacode                             2.013004031  pkg:cpan/Jacode@2.13.4.31
+Jacode                             2.013004032  pkg:cpan/Jacode@2.13.4.32
 Jacode4e                           2.013006021  pkg:cpan/Jacode4e@2.13.6.21
 Jacode4e::RoundTrip                2.013081014  pkg:cpan/Jacode4e-RoundTrip@2.13.81.14
 Jail                                 0.8  pkg:cpan/Jail@0.8
@@ -216003,7 +216004,7 @@ Shadowd::Connector                   2.0  pkg:cpan/Shadowd-Connector@2.0.0
 Shadowd::Connector::CGI              2.0  pkg:cpan/Shadowd-Connector@2.0.0
 Shadowd::Connector::Mojolicious      2.0  pkg:cpan/Shadowd-Connector@2.0.0
 Shannon::Entropy                    1.12  pkg:cpan/Shannon-Entropy@1.12
-Shannon::Entropy::XS                1.12  pkg:cpan/Shannon-Entropy-XS@1.12
+Shannon::Entropy::XS                1.14  pkg:cpan/Shannon-Entropy-XS@1.14
 Shape::RegularPolygon               0.01  pkg:cpan/Shape-RegularPolygon@0.01
 Shardcache::Client                  0.05  pkg:cpan/Shardcache-Client@0.05
 Shardcache::Client::Fast            0.20  pkg:cpan/Shardcache-Client-Fast@0.20
@@ -227124,8 +227125,8 @@ Term::Table::HashBase              0.028  pkg:cpan/Term-Table@0.028
 Term::Table::LineBreak             0.028  pkg:cpan/Term-Table@0.028
 Term::Table::Spacer                0.028  pkg:cpan/Term-Table@0.028
 Term::Table::Util                  0.028  pkg:cpan/Term-Table@0.028
-Term::TablePrint                   0.179  pkg:cpan/Term-TablePrint@0.179
-Term::TablePrint::ProgressBar      0.179  pkg:cpan/Term-TablePrint@0.179
+Term::TablePrint                   0.180  pkg:cpan/Term-TablePrint@0.180
+Term::TablePrint::ProgressBar      0.180  pkg:cpan/Term-TablePrint@0.180
 Term::TermKey                       0.19  pkg:cpan/Term-TermKey@0.19
 Term::TermKey::Async                0.08  pkg:cpan/Term-TermKey-Async@0.08
 Term::Terminfo                      0.09  pkg:cpan/Term-Terminfo@0.09
