@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 11 Apr 2026 12:41:33 GMT
+Last-Updated: Sat, 11 Apr 2026 14:31:28 GMT
 Line-Count: 263594
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -80962,7 +80962,7 @@ Geo::Address::Mail::Standardizer::USPS::AMS::Results  0.05  pkg:cpan/Geo-Address
 Geo::Address::Mail::UK              0.02  pkg:cpan/Geo-Address-Mail-UK@0.02
 Geo::Address::Mail::US             undef  pkg:cpan/Geo-Address-Mail@0.04
 Geo::Address::Parser                0.08  pkg:cpan/Geo-Address-Parser@0.08
-Geo::Address::Parser::Country       0.01  pkg:cpan/Geo-Address-Parser-Country@0.01
+Geo::Address::Parser::Country       0.02  pkg:cpan/Geo-Address-Parser-Country@0.02
 Geo::Address::Parser::Rules::AU     0.08  pkg:cpan/Geo-Address-Parser@0.08
 Geo::Address::Parser::Rules::CA     0.08  pkg:cpan/Geo-Address-Parser@0.08
 Geo::Address::Parser::Rules::FR     0.08  pkg:cpan/Geo-Address-Parser@0.08
@@ -127014,11 +127014,11 @@ MARC::Charset::Subscripts          undef  pkg:cpan/MARC-Charset@0.6
 MARC::Charset::Superscripts        undef  pkg:cpan/MARC-Charset@0.6
 MARC::Charset::Table               undef  pkg:cpan/MARC-Charset@1.35
 MARC::Charset::UTF8                undef  pkg:cpan/MARC-Charset@0.6
-MARC::Convert::Wikidata             0.32  pkg:cpan/MARC-Convert-Wikidata@0.32
-MARC::Convert::Wikidata::Item       0.32  pkg:cpan/MARC-Convert-Wikidata@0.32
-MARC::Convert::Wikidata::Item::AudioBook  0.32  pkg:cpan/MARC-Convert-Wikidata@0.32
-MARC::Convert::Wikidata::Item::BookEdition  0.32  pkg:cpan/MARC-Convert-Wikidata@0.32
-MARC::Convert::Wikidata::Item::Periodical  0.32  pkg:cpan/MARC-Convert-Wikidata@0.32
+MARC::Convert::Wikidata             0.33  pkg:cpan/MARC-Convert-Wikidata@0.33
+MARC::Convert::Wikidata::Item       0.33  pkg:cpan/MARC-Convert-Wikidata@0.33
+MARC::Convert::Wikidata::Item::AudioBook  0.33  pkg:cpan/MARC-Convert-Wikidata@0.33
+MARC::Convert::Wikidata::Item::BookEdition  0.33  pkg:cpan/MARC-Convert-Wikidata@0.33
+MARC::Convert::Wikidata::Item::Periodical  0.33  pkg:cpan/MARC-Convert-Wikidata@0.33
 MARC::Convert::Wikidata::Object     0.15  pkg:cpan/MARC-Convert-Wikidata-Object@0.15
 MARC::Convert::Wikidata::Object::ExternalId  0.15  pkg:cpan/MARC-Convert-Wikidata-Object@0.15
 MARC::Convert::Wikidata::Object::ISBN  0.15  pkg:cpan/MARC-Convert-Wikidata-Object@0.15
@@ -127029,8 +127029,8 @@ MARC::Convert::Wikidata::Object::Publisher  0.15  pkg:cpan/MARC-Convert-Wikidata
 MARC::Convert::Wikidata::Object::Series  0.15  pkg:cpan/MARC-Convert-Wikidata-Object@0.15
 MARC::Convert::Wikidata::Object::Utils  0.02  pkg:cpan/MARC-Convert-Wikidata-Object@0.02
 MARC::Convert::Wikidata::Object::Work  0.15  pkg:cpan/MARC-Convert-Wikidata-Object@0.15
-MARC::Convert::Wikidata::Transform  0.32  pkg:cpan/MARC-Convert-Wikidata@0.32
-MARC::Convert::Wikidata::Utils      0.32  pkg:cpan/MARC-Convert-Wikidata@0.32
+MARC::Convert::Wikidata::Transform  0.33  pkg:cpan/MARC-Convert-Wikidata@0.33
+MARC::Convert::Wikidata::Utils      0.33  pkg:cpan/MARC-Convert-Wikidata@0.33
 MARC::Crosswalk::DublinCore         0.02  pkg:cpan/MARC-Crosswalk-DublinCore@0.02
 MARC::Descriptions                   0.9  pkg:cpan/MARC-Descriptions@0.9
 MARC::Descriptions::Data             0.6  pkg:cpan/MARC-Descriptions@0.9
