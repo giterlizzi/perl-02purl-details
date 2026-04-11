@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 11 Apr 2026 18:34:32 GMT
-Line-Count: 263595
+Last-Updated: Sat, 11 Apr 2026 20:25:13 GMT
+Line-Count: 263623
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -114670,13 +114670,41 @@ JSON::SL::Boolean                  1.000007  pkg:cpan/JSON-SL@1.0.7
 JSON::SL::EscapeTH                 undef  pkg:cpan/JSON-SL@1.0.7
 JSON::SL::Tuba                     undef  pkg:cpan/JSON-SL@1.0.7
 JSON::Schema                       0.016  pkg:cpan/JSON-Schema@0.016
-JSON::Schema::AsType               v0.4.4  pkg:cpan/JSON-Schema-AsType@0.4.4
-JSON::Schema::AsType::Draft3       v0.4.4  pkg:cpan/JSON-Schema-AsType@0.4.4
-JSON::Schema::AsType::Draft3::Types v0.4.4  pkg:cpan/JSON-Schema-AsType@0.4.4
-JSON::Schema::AsType::Draft4       v0.4.4  pkg:cpan/JSON-Schema-AsType@0.4.4
-JSON::Schema::AsType::Draft4::Types v0.4.4  pkg:cpan/JSON-Schema-AsType@0.4.4
-JSON::Schema::AsType::Draft6       v0.4.4  pkg:cpan/JSON-Schema-AsType@0.4.4
-JSON::Schema::AsType::Draft6::Types v0.4.4  pkg:cpan/JSON-Schema-AsType@0.4.4
+JSON::Schema::AsType               v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Annotations  v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft2019_09 v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft2019_09::Types v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft2019_09::Vocabulary::Applicator v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft2019_09::Vocabulary::Content v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft2019_09::Vocabulary::Core v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft2019_09::Vocabulary::Format v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft2019_09::Vocabulary::Metadata v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft2019_09::Vocabulary::Validation v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft2020_12 v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft2020_12::Types v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft2020_12::Vocabulary::Applicator v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft2020_12::Vocabulary::Content v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft2020_12::Vocabulary::Core v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft2020_12::Vocabulary::Format v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft2020_12::Vocabulary::Formatannotation v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft2020_12::Vocabulary::Metadata v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft2020_12::Vocabulary::Unevaluated v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft2020_12::Vocabulary::Validation v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft3       v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft3::Keywords v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft3::Types v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft4       v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft4::Keywords v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft4::Types v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft6       v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft6::Keywords v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft6::Types v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft7       v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft7::Keywords v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Draft7::Types v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Registry     v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Type         v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
+JSON::Schema::AsType::Visit        v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
 JSON::Schema::Draft201909          0.130  pkg:cpan/JSON-Schema-Draft201909@0.130
 JSON::Schema::Error                0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Fit                   0.07  pkg:cpan/JSON-Schema-Fit@0.07
@@ -195286,7 +195314,7 @@ Physics::Ballistics                 1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::External       1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::Internal       1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::Terminal       1.03  pkg:cpan/Physics-Ballistics@1.03
-Physics::Ellipsometry::VASE         0.01  pkg:cpan/Physics-Ellipsometry-VASE@0.01
+Physics::Ellipsometry::VASE         0.02  pkg:cpan/Physics-Ellipsometry-VASE@0.02
 Physics::Lorentz                    0.01  pkg:cpan/Physics-Lorentz@0.01
 Physics::Lorentz::Transformation    0.01  pkg:cpan/Physics-Lorentz@0.01
 Physics::Lorentz::Vector            0.01  pkg:cpan/Physics-Lorentz@0.01
