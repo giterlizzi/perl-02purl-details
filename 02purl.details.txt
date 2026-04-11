@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 11 Apr 2026 20:25:13 GMT
+Last-Updated: Sat, 11 Apr 2026 22:24:57 GMT
 Line-Count: 263623
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -103632,9 +103632,9 @@ Graphics::Fig::Parameters          1.000008  pkg:cpan/Graphics-Fig@v1.0.8
 Graphics::Fig::Polyline            1.000008  pkg:cpan/Graphics-Fig@v1.0.8
 Graphics::Fig::Spline              1.000008  pkg:cpan/Graphics-Fig@v1.0.8
 Graphics::Fig::Text                1.000008  pkg:cpan/Graphics-Fig@v1.0.8
-Graphics::Framebuffer               6.95  pkg:cpan/Graphics-Framebuffer@6.95
-Graphics::Framebuffer::Mouse        0.03  pkg:cpan/Graphics-Framebuffer@6.95
-Graphics::Framebuffer::Splash       1.27  pkg:cpan/Graphics-Framebuffer@6.95
+Graphics::Framebuffer               6.96  pkg:cpan/Graphics-Framebuffer@6.96
+Graphics::Framebuffer::Mouse        0.03  pkg:cpan/Graphics-Framebuffer@6.96
+Graphics::Framebuffer::Splash       1.27  pkg:cpan/Graphics-Framebuffer@6.96
 Graphics::GVG                       0.92  pkg:cpan/Graphics-GVG@0.92
 Graphics::GVG::AST                  0.92  pkg:cpan/Graphics-GVG@0.92
 Graphics::GVG::AST::Circle          0.92  pkg:cpan/Graphics-GVG@0.92
@@ -109900,7 +109900,7 @@ Horris::Connection::Plugin::Retry  undef  pkg:cpan/Horris@v0.1.2
 Horris::Connection::Plugin::Twitter undef  pkg:cpan/Horris@v0.1.2
 Horris::Message                    undef  pkg:cpan/Horris@v0.1.2
 Horris::Message::Address           undef  pkg:cpan/Horris@v0.1.2
-Horus                               0.04  pkg:cpan/Horus@0.04
+Horus                               0.05  pkg:cpan/Horus@0.05
 Hostfile::Manager                   0.09  pkg:cpan/Hostfile-Manager@0.09
 Howdy                               0.01  pkg:cpan/ptkFAQ@0_03
 HtDig::Config                       1.02  pkg:cpan/HtDig-Config@1.02
