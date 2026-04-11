@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 11 Apr 2026 08:34:50 GMT
-Line-Count: 263592
+Last-Updated: Sat, 11 Apr 2026 10:27:31 GMT
+Line-Count: 263593
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -30242,7 +30242,7 @@ Business::IS::PIN                   0.06  pkg:cpan/Business-IS-PIN@0.06
 Business::ISBN                     3.013  pkg:cpan/Business-ISBN@3.013
 Business::ISBN10                   3.013  pkg:cpan/Business-ISBN@3.013
 Business::ISBN13                   3.013  pkg:cpan/Business-ISBN@3.013
-Business::ISBN::Data               20260410.001  pkg:cpan/Business-ISBN-Data@20260410.001
+Business::ISBN::Data               20260411.001  pkg:cpan/Business-ISBN-Data@20260411.001
 Business::ISIN                      0.20  pkg:cpan/Business-ISIN@0.20?ext=tgz
 Business::ISMN                     1.205  pkg:cpan/Business-ISMN@1.205
 Business::ISMN::Data               1.205  pkg:cpan/Business-ISMN@1.205
@@ -33144,9 +33144,9 @@ CPAN::Local::Role::Inject          0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Local::Role::MetaCPAN::API   0.001  pkg:cpan/CPAN-Local-Role-MetaCPAN-API@0.001
 CPAN::Local::Role::Prune           0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Local::Role::Remove          0.010  pkg:cpan/CPAN-Local@0.010
-CPAN::Maker                        v1.7.1  pkg:cpan/CPAN-Maker@1.7.1
-CPAN::Maker::Constants             v1.7.1  pkg:cpan/CPAN-Maker@1.7.1
-CPAN::Maker::Utils                 v1.7.1  pkg:cpan/CPAN-Maker@1.7.1
+CPAN::Maker                        v1.7.2  pkg:cpan/CPAN-Maker@1.7.2
+CPAN::Maker::Constants             v1.7.2  pkg:cpan/CPAN-Maker@1.7.2
+CPAN::Maker::Utils                 v1.7.2  pkg:cpan/CPAN-Maker@1.7.2
 CPAN::Meta                         2.150013  pkg:cpan/CPAN-Meta@2.150013
 CPAN::Meta::Check                  0.018  pkg:cpan/CPAN-Meta-Check@0.018
 CPAN::Meta::Converter              2.150013  pkg:cpan/CPAN-Meta@2.150013
@@ -64858,49 +64858,50 @@ Devel::throttle                     0.01  pkg:cpan/Devel-throttle@0.01
 Devel::tkdb                          2.4  pkg:cpan/Devel-tkdb@2.4
 Devel::tvdb                        undef  pkg:cpan/TVision@0.29
 Devel::vscode                       0.02  pkg:cpan/Devel-vscode@0.02
-Developer::Dashboard                2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::ActionRunner  2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::Auth          2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::CLI::OpenFile  2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::CLI::Paths    2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::CLI::Query    2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::CLI::SeededPages  2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::CLI::Ticket   2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::Codec         2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::Collector     2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::CollectorRunner  2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::Config        2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::DataHelper    2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::DockerCompose  2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::Doctor        2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::File          2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::FileRegistry  2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::Folder        2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::IndicatorStore  2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::InternalCLI   2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::JSON          2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::PageDocument  2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::PageResolver  2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::PageRuntime   2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::PageRuntime::StreamHandle  2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::PageStore     2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::PathRegistry  2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::Platform      2.25  pkg:cpan/Developer-Dashboard@2.25
+Developer::Dashboard                2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::ActionRunner  2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::Auth          2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::CLI::OpenFile  2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::CLI::Paths    2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::CLI::Query    2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::CLI::SeededPages  2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::CLI::Skills   2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::CLI::Ticket   2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::Codec         2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::Collector     2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::CollectorRunner  2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::Config        2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::DataHelper    2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::DockerCompose  2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::Doctor        2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::File          2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::FileRegistry  2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::Folder        2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::IndicatorStore  2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::InternalCLI   2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::JSON          2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::PageDocument  2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::PageResolver  2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::PageRuntime   2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::PageRuntime::StreamHandle  2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::PageStore     2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::PathRegistry  2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::Platform      2.26  pkg:cpan/Developer-Dashboard@2.26
 Developer::Dashboard::PluginManager  0.89  pkg:cpan/Developer-Dashboard@0.89
-Developer::Dashboard::Prompt        2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::Runtime::Result  2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::RuntimeManager  2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::SKILLS        2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::SeedSync      2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::SessionStore  2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::SkillDispatcher  2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::SkillManager  2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::UpdateManager  2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::Web::App      2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::Web::DancerApp  2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::Web::Server   2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::Web::Server::Daemon  2.25  pkg:cpan/Developer-Dashboard@2.25
-Developer::Dashboard::Zipper        2.25  pkg:cpan/Developer-Dashboard@2.25
+Developer::Dashboard::Prompt        2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::Runtime::Result  2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::RuntimeManager  2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::SKILLS        2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::SeedSync      2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::SessionStore  2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::SkillDispatcher  2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::SkillManager  2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::UpdateManager  2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::Web::App      2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::Web::DancerApp  2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::Web::Server   2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::Web::Server::Daemon  2.26  pkg:cpan/Developer-Dashboard@2.26
+Developer::Dashboard::Zipper        2.26  pkg:cpan/Developer-Dashboard@2.26
 Device::AVR::Info                   0.03  pkg:cpan/Device-AVR-Info@0.03
 Device::AVR::Info::Module           0.03  pkg:cpan/Device-AVR-Info@0.03
 Device::AVR::UPDI                   0.19  pkg:cpan/Device-AVR-UPDI@0.19
@@ -73819,8 +73820,8 @@ File::Policy                       1.005  pkg:cpan/File-Policy@1.005
 File::Policy::Default              1.006  pkg:cpan/File-Policy@1.005
 File::Prepend::Undoable             0.05  pkg:cpan/File-Prepend-Undoable@0.05
 File::Print::Many                   0.04  pkg:cpan/File-Print-Many@0.04
-File::Process                       0.15  pkg:cpan/CPAN-Maker@1.7.1
-File::Process::Utils                0.12  pkg:cpan/CPAN-Maker@1.7.1
+File::Process                       0.15  pkg:cpan/CPAN-Maker@1.7.2
+File::Process::Utils                0.12  pkg:cpan/CPAN-Maker@1.7.2
 File::ProjectHome                   0.02  pkg:cpan/File-ProjectHome@0.02
 File::Properties                    0.02  pkg:cpan/File-Properties@0.02
 File::Properties::Cache             0.01  pkg:cpan/File-Properties@0.02
