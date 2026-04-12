@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 12 Apr 2026 18:37:51 GMT
+Last-Updated: Sun, 12 Apr 2026 20:28:17 GMT
 Line-Count: 263679
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -70419,9 +70419,9 @@ Env::Assert::Functions             0.015  pkg:cpan/Env-Assert@0.015
 Env::Bash                           0.04  pkg:cpan/Env-Bash@0.04
 Env::Browser                        0.06  pkg:cpan/Env-Browser@0.06
 Env::C                              0.15  pkg:cpan/Env-C@0.15
-Env::Dot                           0.021  pkg:cpan/Env-Dot@0.021
-Env::Dot::Functions                0.021  pkg:cpan/Env-Dot@0.021
-Env::Dot::ScriptFunctions          0.021  pkg:cpan/Env-Dot@0.021
+Env::Dot                           0.022  pkg:cpan/Env-Dot@0.022
+Env::Dot::Functions                0.022  pkg:cpan/Env-Dot@0.022
+Env::Dot::ScriptFunctions          0.022  pkg:cpan/Env-Dot@0.022
 Env::Export                         0.22  pkg:cpan/Env-Export@0.22
 Env::Heroku                        0.003  pkg:cpan/Env-Heroku@0.003
 Env::Heroku::Cloudinary            0.003  pkg:cpan/Env-Heroku@0.003
@@ -256719,7 +256719,7 @@ XML::SemanticDiff                  1.0007  pkg:cpan/XML-SemanticDiff@1.0007
 XML::SemanticDiff::BasicHandler    1.0007  pkg:cpan/XML-SemanticDiff@1.0007
 XML::SemanticDiff::PathFinder      1.0007  pkg:cpan/XML-SemanticDiff@1.0007
 XML::SemanticDiff::PathFinder::Obj 1.0007  pkg:cpan/XML-SemanticDiff@1.0007
-XML::Sig                            0.69  pkg:cpan/XML-Sig@0.69
+XML::Sig                            0.70  pkg:cpan/XML-Sig@0.70
 XML::Sig::OO                       0.012  pkg:cpan/XML-Sig-OO@0.012
 XML::Similarity                    undef  pkg:cpan/HTML-Similarity@0.2.0
 XML::Simple                         2.25  pkg:cpan/XML-Simple@2.25
