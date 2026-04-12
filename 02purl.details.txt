@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 12 Apr 2026 12:45:22 GMT
-Line-Count: 263641
+Last-Updated: Sun, 12 Apr 2026 14:35:52 GMT
+Line-Count: 263678
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -31962,7 +31962,7 @@ CGI::IDS::Whitelist                1.0217  pkg:cpan/CGI-IDS@1.0217
 CGI::ImageMagick                   undef  pkg:cpan/Apache-ImageMagick@2.0b7
 CGI::ImageMagick::SubRequest       undef  pkg:cpan/Apache-ImageMagick@2.0b7
 CGI::Imagemap                          2  pkg:cpan/CGI-Imagemap@2.01?ext=tgz
-CGI::Info                           1.12  pkg:cpan/CGI-Info@1.12
+CGI::Info                           1.13  pkg:cpan/CGI-Info@1.13
 CGI::Inspect                         0.5  pkg:cpan/CGI-Inspect@0.5
 CGI::Inspect::Here                 undef  pkg:cpan/CGI-Inspect@0.5
 CGI::Inspect::Plugin               undef  pkg:cpan/CGI-Inspect@0.5
@@ -57064,6 +57064,7 @@ Data::Define                        1.03  pkg:cpan/Data-Define@1.03
 Data::Delete                        0.07  pkg:cpan/Data-Skeleton@0.07
 Data::Demos                        0.000002  pkg:cpan/Data-Demos@0.0.2
 Data::Denter                        0.15  pkg:cpan/Data-Denter@0.15
+Data::Deque::Shared                 0.01  pkg:cpan/Data-Deque-Shared@0.01
 Data::Describe                      1.03  pkg:cpan/Data-Describe@1.03
 Data::Dict                         0.003  pkg:cpan/Data-Dict@0.003
 Data::Diff                          0.01  pkg:cpan/Data-Diff@0.01
@@ -58113,6 +58114,7 @@ Data::Localize::Util               undef  pkg:cpan/Data-Localize@0.00028
 Data::Localize::YAML               0.002  pkg:cpan/Data-Localize-YAML@0.002
 Data::Locations                      5.5  pkg:cpan/Data-Locations@5.5
 Data::Lock                          1.03  pkg:cpan/Data-Lock@1.03
+Data::Log::Shared                   0.01  pkg:cpan/Data-Log-Shared@0.01
 Data::Login                         0.05  pkg:cpan/Data-Login@0.05
 Data::Login::Role                   0.05  pkg:cpan/Data-Login@0.05
 Data::Lotter                       0.00004  pkg:cpan/Data-Lotter@0.00004
@@ -59291,6 +59293,8 @@ Data::Pokemon::Go::Skill           undef  pkg:cpan/Data-Pokemon-Go@0.14
 Data::Polipo                        0.02  pkg:cpan/Data-Polipo@0.02
 Data::Polymorph                     0.01  pkg:cpan/Data-Polymorph@0.01
 Data::Pond                         0.006  pkg:cpan/Data-Pond@0.006
+Data::Pool::Shared                  0.01  pkg:cpan/Data-Pool-Shared@0.01
+Data::Pool::Shared::Guard           0.01  pkg:cpan/Data-Pool-Shared@0.01
 Data::Power::FaultDetectorBase      0.01  pkg:cpan/Data-Power-FaultDetectorBase@0.01?ext=tgz
 Data::Power::Inspection             0.07  pkg:cpan/Data-Power-Inspection@0.07?ext=tgz
 Data::PowerSet                      0.05  pkg:cpan/Data-PowerSet@0.05
@@ -60379,6 +60383,7 @@ Data::Sorting                        0.9  pkg:cpan/Data-Sorting@0.9
 Data::SplitSerializer               0.91  pkg:cpan/Data-SplitSerializer@0.91
 Data::SpreadPagination             0.001002  pkg:cpan/Data-SpreadPagination@0.1.2
 Data::Stack                         0.01  pkg:cpan/Data-Stack@0.01
+Data::Stack::Shared                 0.01  pkg:cpan/Data-Stack-Shared@0.01
 Data::StackedHash                   0.99  pkg:cpan/Data-StackedHash@0.99
 Data::StackedMap                    0.03  pkg:cpan/Data-StackedMap@0.03
 Data::Stacker                       1.03  pkg:cpan/Data-Stacker@1.03
@@ -60455,6 +60460,15 @@ Data::Structure::Util               0.16  pkg:cpan/Data-Structure-Util@0.16
 Data::Swap                          0.08  pkg:cpan/Data-Swap@0.08
 Data::Sync                          0.08  pkg:cpan/Data-Sync@0.08
 Data::Sync::Advanced               undef  pkg:cpan/Data-Sync@0.08
+Data::Sync::Shared                  0.02  pkg:cpan/Data-Sync-Shared@0.02
+Data::Sync::Shared::Barrier        undef  pkg:cpan/Data-Sync-Shared@0.02
+Data::Sync::Shared::Condvar        undef  pkg:cpan/Data-Sync-Shared@0.02
+Data::Sync::Shared::Condvar::Guard  0.02  pkg:cpan/Data-Sync-Shared@0.02
+Data::Sync::Shared::Once           undef  pkg:cpan/Data-Sync-Shared@0.02
+Data::Sync::Shared::RWLock         undef  pkg:cpan/Data-Sync-Shared@0.02
+Data::Sync::Shared::RWLock::Guard   0.02  pkg:cpan/Data-Sync-Shared@0.02
+Data::Sync::Shared::Semaphore      undef  pkg:cpan/Data-Sync-Shared@0.02
+Data::Sync::Shared::Semaphore::Guard  0.02  pkg:cpan/Data-Sync-Shared@0.02
 Data::TDMA                         undef  pkg:cpan/Data-TDMA@0.2
 Data::TDMA::Constants              undef  pkg:cpan/Data-TDMA@0.2
 Data::TDMA::Day                    undef  pkg:cpan/Data-TDMA@0.2
@@ -62846,16 +62860,16 @@ DateTime::LazyInit::Constructor_new 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ex
 DateTime::LazyInit::Constructor_now 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ext=tgz
 DateTime::LazyInit::Constructor_today 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ext=tgz
 DateTime::LeapSecond                1.66  pkg:cpan/DateTime@1.66
-DateTime::Lite                     0.001000  pkg:cpan/DateTime-Lite@v0.1.0
-DateTime::Lite::Duration           0.001000  pkg:cpan/DateTime-Lite@v0.1.0
-DateTime::Lite::Exception          0.001000  pkg:cpan/DateTime-Lite@v0.1.0
-DateTime::Lite::Infinite           0.001000  pkg:cpan/DateTime-Lite@v0.1.0
-DateTime::Lite::Infinite::Future   0.001000  pkg:cpan/DateTime-Lite@v0.1.0
-DateTime::Lite::Infinite::Past     0.001000  pkg:cpan/DateTime-Lite@v0.1.0
-DateTime::Lite::PP                 0.001000  pkg:cpan/DateTime-Lite@v0.1.0
-DateTime::Lite::TimeZone           0.001000  pkg:cpan/DateTime-Lite@v0.1.0
-DateTime::Lite::_FakeLocale        0.001000  pkg:cpan/DateTime-Lite@v0.1.0
-DateTime::Lite::_Thawed            0.001000  pkg:cpan/DateTime-Lite@v0.1.0
+DateTime::Lite                     0.002000  pkg:cpan/DateTime-Lite@v0.2.0
+DateTime::Lite::Duration           0.001000  pkg:cpan/DateTime-Lite@v0.2.0
+DateTime::Lite::Exception          0.001000  pkg:cpan/DateTime-Lite@v0.2.0
+DateTime::Lite::Infinite           0.001000  pkg:cpan/DateTime-Lite@v0.2.0
+DateTime::Lite::Infinite::Future   0.001000  pkg:cpan/DateTime-Lite@v0.2.0
+DateTime::Lite::Infinite::Past     0.001000  pkg:cpan/DateTime-Lite@v0.2.0
+DateTime::Lite::PP                 0.001000  pkg:cpan/DateTime-Lite@v0.2.0
+DateTime::Lite::TimeZone           0.002000  pkg:cpan/DateTime-Lite@v0.2.0
+DateTime::Lite::_FakeLocale        0.001000  pkg:cpan/DateTime-Lite@v0.2.0
+DateTime::Lite::_Thawed            0.002000  pkg:cpan/DateTime-Lite@v0.2.0
 DateTime::Locale                    1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Base              1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Catalog           1.45  pkg:cpan/DateTime-Locale@1.45
@@ -248065,6 +248079,29 @@ WebService::Braintree::_::VenmoAccount   1.7  pkg:cpan/WebService-Braintree@1.7
 WebService::Braintree::_::VisaCheckoutCard   1.7  pkg:cpan/WebService-Braintree@1.7
 WebService::Braintree::_::WebhookNotification   1.7  pkg:cpan/WebService-Braintree@1.7
 WebService::Browshot               1.029000  pkg:cpan/WebService-Browshot@1.29.0
+WebService::Bugzilla               0.001  pkg:cpan/WebService-Bugzilla@0.001
+WebService::Bugzilla::Attachment   0.001  pkg:cpan/WebService-Bugzilla@0.001
+WebService::Bugzilla::Bug          0.001  pkg:cpan/WebService-Bugzilla@0.001
+WebService::Bugzilla::Bug::History 0.001  pkg:cpan/WebService-Bugzilla@0.001
+WebService::Bugzilla::Bug::History::Change 0.001  pkg:cpan/WebService-Bugzilla@0.001
+WebService::Bugzilla::BugUserLastVisit 0.001  pkg:cpan/WebService-Bugzilla@0.001
+WebService::Bugzilla::Classification 0.001  pkg:cpan/WebService-Bugzilla@0.001
+WebService::Bugzilla::Comment      0.001  pkg:cpan/WebService-Bugzilla@0.001
+WebService::Bugzilla::Component    0.001  pkg:cpan/WebService-Bugzilla@0.001
+WebService::Bugzilla::Exception    0.001  pkg:cpan/WebService-Bugzilla@0.001
+WebService::Bugzilla::Field        0.001  pkg:cpan/WebService-Bugzilla@0.001
+WebService::Bugzilla::Field::Value 0.001  pkg:cpan/WebService-Bugzilla@0.001
+WebService::Bugzilla::FlagActivity 0.001  pkg:cpan/WebService-Bugzilla@0.001
+WebService::Bugzilla::FlagActivity::Type 0.001  pkg:cpan/WebService-Bugzilla@0.001
+WebService::Bugzilla::GitHub       0.001  pkg:cpan/WebService-Bugzilla@0.001
+WebService::Bugzilla::Group        0.001  pkg:cpan/WebService-Bugzilla@0.001
+WebService::Bugzilla::Information  0.001  pkg:cpan/WebService-Bugzilla@0.001
+WebService::Bugzilla::Object       0.001  pkg:cpan/WebService-Bugzilla@0.001
+WebService::Bugzilla::Product      0.001  pkg:cpan/WebService-Bugzilla@0.001
+WebService::Bugzilla::Reminder     0.001  pkg:cpan/WebService-Bugzilla@0.001
+WebService::Bugzilla::Role::Updatable 0.001  pkg:cpan/WebService-Bugzilla@0.001
+WebService::Bugzilla::User         0.001  pkg:cpan/WebService-Bugzilla@0.001
+WebService::Bugzilla::UserDetail   0.001  pkg:cpan/WebService-Bugzilla@0.001
 WebService::Bukget                  1.00  pkg:cpan/WebService-Bukget@1.00
 WebService::Buxfer                  0.01  pkg:cpan/WebService-Buxfer@0.01
 WebService::Buxfer::Response       undef  pkg:cpan/WebService-Buxfer@0.01
