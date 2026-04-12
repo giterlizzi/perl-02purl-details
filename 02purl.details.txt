@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 12 Apr 2026 14:35:52 GMT
+Last-Updated: Sun, 12 Apr 2026 16:30:17 GMT
 Line-Count: 263678
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -32969,7 +32969,7 @@ CPAN::02Packages::Search           0.100  pkg:cpan/CPAN-02Packages-Search@0.100
 CPAN::API::BuildPL                 0.002  pkg:cpan/CPAN-API-BuildPL@0.002
 CPAN::Admin                        5.501  pkg:cpan/CPAN@2.38
 CPAN::Audit                        20260308.002  pkg:cpan/CPAN-Audit@20260308.002
-CPAN::Audit::DB                    20260405.001  pkg:cpan/CPANSA-DB@20260405.001
+CPAN::Audit::DB                    20260412.001  pkg:cpan/CPANSA-DB@20260412.001
 CPAN::Audit::Discover              1.001  pkg:cpan/CPAN-Audit@20260308.002
 CPAN::Audit::Discover::Cpanfile    1.001  pkg:cpan/CPAN-Audit@20260308.002
 CPAN::Audit::Discover::CpanfileSnapshot 1.001  pkg:cpan/CPAN-Audit@20260308.002
@@ -33724,7 +33724,7 @@ CPANPLUS::YACSmoke::ReAssemble      1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::SortVers        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::locallib        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::inc                      undef  pkg:cpan/CPANPLUS@0.84
-CPANSA::DB                         20260405.001  pkg:cpan/CPANSA-DB@20260405.001
+CPANSA::DB                         20260412.001  pkg:cpan/CPANSA-DB@20260412.001
 CPANSEC::Admin                     0.001  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command            undef  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command::Amend     undef  pkg:cpan/CPANSec-Admin@0.001
@@ -74252,7 +74252,7 @@ Filesys::DiskSpace                  0.05  pkg:cpan/Filesys-DiskSpace@0.05
 Filesys::DiskUsage                  0.13  pkg:cpan/Filesys-DiskUsage@0.13
 Filesys::DiskUsage::Fast            0.04  pkg:cpan/Filesys-DiskUsage-Fast@0.04
 Filesys::Ext2::Dump                0.002  pkg:cpan/Filesys-Ext2-Dump@0.002
-Filesys::Fuse3                     0.020  pkg:cpan/Filesys-Fuse3@0.020
+Filesys::Fuse3                     0.021  pkg:cpan/Filesys-Fuse3@0.021
 Filesys::MakeISO                   0.001000  pkg:cpan/Filesys-MakeISO@v0.1.0
 Filesys::MakeISO::Driver::MagicISO 0.000001  pkg:cpan/Filesys-MakeISO-Driver-MagicISO@v0.0.1
 Filesys::MakeISO::Driver::Mkisofs  0.000001  pkg:cpan/Filesys-MakeISO-Driver-Mkisofs@v0.0.1
@@ -153758,7 +153758,7 @@ Number::ZipCode::JP::Table         0.20260331  pkg:cpan/Number-ZipCode-JP@0.2026
 Number::ZipCode::JP::Table::Area   0.20260331  pkg:cpan/Number-ZipCode-JP@0.20260331
 Number::ZipCode::JP::Table::Company 0.20260331  pkg:cpan/Number-ZipCode-JP@0.20260331
 Numeric::LL_Array                  0.1504  pkg:cpan/Numeric-LL_Array@0.1504
-Numeric::Matrix                     0.01  pkg:cpan/Numeric-Matrix@0.01
+Numeric::Matrix                     0.02  pkg:cpan/Numeric-Matrix@0.02
 Numeric::Vector                     0.02  pkg:cpan/Numeric-Vector@0.02
 NumericCodes                        0.04  pkg:cpan/Net-Bot-IRC-NumericCodes@0.04
 Nuspec::Reader                     v0.1.0  pkg:cpan/Nuspec-Reader@0.1.0
@@ -234360,11 +234360,11 @@ Travel::Routing::DE::EFA            2.24  pkg:cpan/Travel-Routing-DE-VRR@2.24
 Travel::Routing::DE::EFA::Route     2.24  pkg:cpan/Travel-Routing-DE-VRR@2.24
 Travel::Routing::DE::EFA::Route::Message  2.24  pkg:cpan/Travel-Routing-DE-VRR@2.24
 Travel::Routing::DE::EFA::Route::Part  2.24  pkg:cpan/Travel-Routing-DE-VRR@2.24
-Travel::Routing::DE::HAFAS          0.10  pkg:cpan/Travel-Routing-DE-HAFAS@0.10
-Travel::Routing::DE::HAFAS::Connection  0.10  pkg:cpan/Travel-Routing-DE-HAFAS@0.10
-Travel::Routing::DE::HAFAS::Connection::Section  0.10  pkg:cpan/Travel-Routing-DE-HAFAS@0.10
+Travel::Routing::DE::HAFAS          0.11  pkg:cpan/Travel-Routing-DE-HAFAS@0.11
+Travel::Routing::DE::HAFAS::Connection  0.11  pkg:cpan/Travel-Routing-DE-HAFAS@0.11
+Travel::Routing::DE::HAFAS::Connection::Section  0.11  pkg:cpan/Travel-Routing-DE-HAFAS@0.11
 Travel::Routing::DE::HAFAS::Location  0.01  pkg:cpan/Travel-Routing-DE-HAFAS@0.01
-Travel::Routing::DE::HAFAS::Utils   0.10  pkg:cpan/Travel-Routing-DE-HAFAS@0.10
+Travel::Routing::DE::HAFAS::Utils   0.11  pkg:cpan/Travel-Routing-DE-HAFAS@0.11
 Travel::Routing::DE::VRR            2.24  pkg:cpan/Travel-Routing-DE-VRR@2.24
 Travel::Status::DE::ASEAG           2.01  pkg:cpan/Travel-Status-DE-URA@2.01
 Travel::Status::DE::DBRIS           0.27  pkg:cpan/Travel-Status-DE-DBRIS@0.27
