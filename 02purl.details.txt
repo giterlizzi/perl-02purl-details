@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 12 Apr 2026 16:30:17 GMT
-Line-Count: 263678
+Last-Updated: Sun, 12 Apr 2026 18:37:51 GMT
+Line-Count: 263679
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -103050,7 +103050,7 @@ Google::Drive::Coco                undef  pkg:cpan/Google-OAuth@0.05
 Google::Fusion                      0.10  pkg:cpan/Google-Fusion@0.10
 Google::Fusion::Result              0.03  pkg:cpan/Google-Fusion@0.10
 Google::GPRC                       undef  pkg:cpan/Google-OAuth@0.05
-Google::GeoCoder::Smart            v2.6.6  pkg:cpan/Google-GeoCoder-Smart@v2.6.6
+Google::GeoCoder::Smart            v2.6.8  pkg:cpan/Google-GeoCoder-Smart@v2.6.8
 Google::ISBNNumbers                 1.00  pkg:cpan/Google-ISBNNumbers@1.00
 Google::OAuth                       0.05  pkg:cpan/Google-OAuth@0.05
 Google::OAuth2::Client::Simple     0.004  pkg:cpan/Google-OAuth2-Client-Simple@0.004
@@ -155194,8 +155194,8 @@ Object::Pluggable::Pipeline         1.29  pkg:cpan/Object-Pluggable@1.29
 Object::Previous                   1.1012  pkg:cpan/Object-Previous@1.1012
 Object::Properties                 1.003  pkg:cpan/Object-Properties@1.003
 Object::Properties::Base           1.003  pkg:cpan/Object-Properties@1.003
-Object::Proto                       0.11  pkg:cpan/Object-Proto@0.11
-Object::Proto::Sugar                0.04  pkg:cpan/Object-Proto-Sugar@0.04
+Object::Proto                       0.12  pkg:cpan/Object-Proto@0.12
+Object::Proto::Sugar                0.05  pkg:cpan/Object-Proto-Sugar@0.05
 Object::Prototype                   0.02  pkg:cpan/Object-Prototype@0.02
 Object::Quick                      undef  pkg:cpan/Mock-Quick@1.111
 Object::RateLimiter                1.004001  pkg:cpan/Object-RateLimiter@1.004001
@@ -229373,6 +229373,7 @@ Test::Proto::Where                 0.001  pkg:cpan/Test-Proto-Where@0.001
 Test::ProveRdeps                   0.002  pkg:cpan/Test-ProveRdeps@0.002
 Test::Puppet::Compile               0.04  pkg:cpan/Test-Puppet-Compile@0.04
 Test::PureASCII                     0.02  pkg:cpan/Test-PureASCII@0.02
+Test::QuickGen                     0.001000  pkg:cpan/Test-QuickGen@0.1.0
 Test::RDF                           1.22  pkg:cpan/Test-RDF@1.22
 Test::RDF::DOAP::Version           0.010  pkg:cpan/Test-RDF-DOAP-Version@0.010
 Test::RDF::Trine::Store            1.019  pkg:cpan/RDF-Trine@1.019
