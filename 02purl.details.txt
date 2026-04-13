@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 13 Apr 2026 19:05:28 GMT
-Line-Count: 263686
+Last-Updated: Mon, 13 Apr 2026 20:46:12 GMT
+Line-Count: 263688
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -50908,7 +50908,7 @@ DBD::SearchServer                   0.21  pkg:cpan/DBD-SearchServer@0.21
 DBD::SearchServer::db               0.21  pkg:cpan/DBD-SearchServer@0.21
 DBD::SearchServer::dr               0.21  pkg:cpan/DBD-SearchServer@0.21
 DBD::SearchServer::st               0.21  pkg:cpan/DBD-SearchServer@0.21
-DBD::SimpleMock                     0.01  pkg:cpan/SimpleMock@0.02
+DBD::SimpleMock                     0.03  pkg:cpan/SimpleMock@0.03
 DBD::SimpleMock::db                 0.01  pkg:cpan/SimpleMock@0.02
 DBD::SimpleMock::dr                 0.01  pkg:cpan/SimpleMock@0.02
 DBD::SimpleMock::st                 0.01  pkg:cpan/SimpleMock@0.02
@@ -70412,6 +70412,8 @@ EntityModel::Web::Site             0.004  pkg:cpan/EntityModel-Web@0.004
 EntityModel::Web::User             0.004  pkg:cpan/EntityModel-Web@0.004
 Entrez                               1.1  pkg:cpan/Boulder@1.30
 EntryDialog                          0.1  pkg:cpan/Tk-EntryDialog@0.10
+Enum::Declare                       0.01  pkg:cpan/Enum-Declare@0.01
+Enum::Declare::Meta                undef  pkg:cpan/Enum-Declare@0.01
 Enumerate::PerlList                 0.01  pkg:cpan/Enumerate-PerlList@0.01
 Enumeration                         0.03  pkg:cpan/Enumeration@0.03
 Env                                 1.04  pkg:cpan/Env@1.04
@@ -218479,16 +218481,16 @@ SimpleDBI::mysql                   undef  pkg:cpan/SimpleDBI@0.02
 SimpleException                    0.103  pkg:cpan/Exceptions@0.103
 SimpleFlake                         0.11  pkg:cpan/SimpleFlake@0.11
 SimpleFlow                          0.12  pkg:cpan/SimpleFlow@0.12
-SimpleMock                          0.02  pkg:cpan/SimpleMock@0.02
-SimpleMock::Mocks::DBI              0.01  pkg:cpan/SimpleMock@0.02
-SimpleMock::Mocks::LWP::UserAgent   0.01  pkg:cpan/SimpleMock@0.02
-SimpleMock::Mocks::Path::Tiny       0.01  pkg:cpan/SimpleMock@0.02
-SimpleMock::Model::DBI              0.01  pkg:cpan/SimpleMock@0.02
-SimpleMock::Model::LWP_UA           0.01  pkg:cpan/SimpleMock@0.02
-SimpleMock::Model::PATH_TINY        0.01  pkg:cpan/SimpleMock@0.02
-SimpleMock::Model::SUBS             0.01  pkg:cpan/SimpleMock@0.02
-SimpleMock::ScopeGuard             undef  pkg:cpan/SimpleMock@0.02
-SimpleMock::Util                    0.01  pkg:cpan/SimpleMock@0.02
+SimpleMock                          0.03  pkg:cpan/SimpleMock@0.03
+SimpleMock::Mocks::DBI              0.03  pkg:cpan/SimpleMock@0.03
+SimpleMock::Mocks::LWP::UserAgent   0.03  pkg:cpan/SimpleMock@0.03
+SimpleMock::Mocks::Path::Tiny       0.03  pkg:cpan/SimpleMock@0.03
+SimpleMock::Model::DBI              0.03  pkg:cpan/SimpleMock@0.03
+SimpleMock::Model::LWP_UA           0.03  pkg:cpan/SimpleMock@0.03
+SimpleMock::Model::PATH_TINY        0.03  pkg:cpan/SimpleMock@0.03
+SimpleMock::Model::SUBS             0.03  pkg:cpan/SimpleMock@0.03
+SimpleMock::ScopeGuard              0.03  pkg:cpan/SimpleMock@0.03
+SimpleMock::Util                    0.03  pkg:cpan/SimpleMock@0.03
 SimpleObjectClass                   1.54  pkg:cpan/CGI-Session@4.10
 SimpleR::Reshape                    0.09  pkg:cpan/SimpleR-Reshape@0.09
 SimpleR::Reshape::ChartData         0.05  pkg:cpan/SimpleR-Reshape-ChartData@0.05
