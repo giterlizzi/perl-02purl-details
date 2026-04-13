@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 13 Apr 2026 13:10:01 GMT
+Last-Updated: Mon, 13 Apr 2026 15:11:03 GMT
 Line-Count: 263685
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -64880,50 +64880,50 @@ Devel::throttle                     0.01  pkg:cpan/Devel-throttle@0.01
 Devel::tkdb                          2.4  pkg:cpan/Devel-tkdb@2.4
 Devel::tvdb                        undef  pkg:cpan/TVision@0.29
 Devel::vscode                       0.02  pkg:cpan/Devel-vscode@0.02
-Developer::Dashboard                2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::ActionRunner  2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::Auth          2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::CLI::OpenFile  2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::CLI::Paths    2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::CLI::Query    2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::CLI::SeededPages  2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::CLI::Skills   2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::CLI::Ticket   2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::Codec         2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::Collector     2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::CollectorRunner  2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::Config        2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::DataHelper    2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::DockerCompose  2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::Doctor        2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::File          2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::FileRegistry  2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::Folder        2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::IndicatorStore  2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::InternalCLI   2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::JSON          2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::PageDocument  2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::PageResolver  2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::PageRuntime   2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::PageRuntime::StreamHandle  2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::PageStore     2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::PathRegistry  2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::Platform      2.34  pkg:cpan/Developer-Dashboard@2.34
+Developer::Dashboard                2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::ActionRunner  2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::Auth          2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::CLI::OpenFile  2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::CLI::Paths    2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::CLI::Query    2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::CLI::SeededPages  2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::CLI::Skills   2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::CLI::Ticket   2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::Codec         2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::Collector     2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::CollectorRunner  2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::Config        2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::DataHelper    2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::DockerCompose  2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::Doctor        2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::File          2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::FileRegistry  2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::Folder        2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::IndicatorStore  2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::InternalCLI   2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::JSON          2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::PageDocument  2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::PageResolver  2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::PageRuntime   2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::PageRuntime::StreamHandle  2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::PageStore     2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::PathRegistry  2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::Platform      2.35  pkg:cpan/Developer-Dashboard@2.35
 Developer::Dashboard::PluginManager  0.89  pkg:cpan/Developer-Dashboard@0.89
-Developer::Dashboard::Prompt        2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::Runtime::Result  2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::RuntimeManager  2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::SKILLS        2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::SeedSync      2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::SessionStore  2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::SkillDispatcher  2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::SkillManager  2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::UpdateManager  2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::Web::App      2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::Web::DancerApp  2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::Web::Server   2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::Web::Server::Daemon  2.34  pkg:cpan/Developer-Dashboard@2.34
-Developer::Dashboard::Zipper        2.34  pkg:cpan/Developer-Dashboard@2.34
+Developer::Dashboard::Prompt        2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::Runtime::Result  2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::RuntimeManager  2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::SKILLS        2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::SeedSync      2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::SessionStore  2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::SkillDispatcher  2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::SkillManager  2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::UpdateManager  2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::Web::App      2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::Web::DancerApp  2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::Web::Server   2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::Web::Server::Daemon  2.35  pkg:cpan/Developer-Dashboard@2.35
+Developer::Dashboard::Zipper        2.35  pkg:cpan/Developer-Dashboard@2.35
 Device::AVR::Info                   0.03  pkg:cpan/Device-AVR-Info@0.03
 Device::AVR::Info::Module           0.03  pkg:cpan/Device-AVR-Info@0.03
 Device::AVR::UPDI                   0.19  pkg:cpan/Device-AVR-UPDI@0.19
@@ -193834,7 +193834,7 @@ Perl::Critic::Policy::Reneeb::Capitalization  2.05  pkg:cpan/Perl-Critic-RENEEB@
 Perl::Critic::Policy::Reneeb::ProhibitBlockEval  2.05  pkg:cpan/Perl-Critic-RENEEB@2.05
 Perl::Critic::Policy::Reneeb::ProhibitGrepToGetFirstFoundElement  2.05  pkg:cpan/Perl-Critic-RENEEB@2.05
 Perl::Critic::Policy::Reneeb::RequirePostderef  2.05  pkg:cpan/Perl-Critic-RENEEB@2.05
-Perl::Critic::Policy::Security::RandBytesFromHash v0.1.1  pkg:cpan/Perl-Critic-Policy-Security-RandBytesFromHash@v0.1.1
+Perl::Critic::Policy::Security::RandBytesFromHash v0.1.2  pkg:cpan/Perl-Critic-Policy-Security-RandBytesFromHash@v0.1.2
 Perl::Critic::Policy::Storable::ProhibitStoreOrFreeze  0.01  pkg:cpan/Perl-Critic-Storable@0.01
 Perl::Critic::Policy::Subroutines::ProhibitAmbiguousFunctionCalls 1.002  pkg:cpan/Perl-Critic-Policy-Subroutines-ProhibitAmbiguousFunctionCalls@1.002
 Perl::Critic::Policy::Subroutines::ProhibitAmpersandSigils 1.156  pkg:cpan/Perl-Critic@1.156
