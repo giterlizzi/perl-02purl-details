@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 13 Apr 2026 02:03:23 GMT
-Line-Count: 263683
+Last-Updated: Mon, 13 Apr 2026 06:09:35 GMT
+Line-Count: 263685
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -219994,6 +219994,8 @@ Sort::Bucket                        0.02  pkg:cpan/Sort-Bucket@0.02
 Sort::ByExample                    0.008  pkg:cpan/Sort-ByExample@0.008
 Sort::BySimilarity                 0.002  pkg:cpan/Sort-BySimilarity@0.002
 Sort::BySpec                       0.040  pkg:cpan/Sort-BySpec@0.040
+Sort::DJB                            0.2  pkg:cpan/Sort-DJB@0.2
+Sort::DJB::Pure                      0.2  pkg:cpan/Sort-DJB@0.2
 Sort::DataTypes                     3.01  pkg:cpan/Sort-DataTypes@3.01
 Sort::External                      0.18  pkg:cpan/Sort-External@0.18
 Sort::Fields                       1.003  pkg:cpan/Sort-Fields@1.003
@@ -254552,15 +254554,15 @@ X::bae::MatrixLeaveCellCallData        1  pkg:cpan/X11-Motif@1.1b3
 X::bae::RowColumnCallData              1  pkg:cpan/X11-Motif@1.1b3
 X::classes                         0.944  pkg:cpan/classes@0.944
 X::classes::traceable              0.944  pkg:cpan/classes@0.944
-XAO::Base                           1.28  pkg:cpan/XAO-Base@1.28
-XAO::Cache                           2.1  pkg:cpan/XAO-Base@1.28
-XAO::DO::Atom                      undef  pkg:cpan/XAO-Base@1.28
+XAO::Base                           1.29  pkg:cpan/XAO-Base@1.29
+XAO::Cache                           2.1  pkg:cpan/XAO-Base@1.29
+XAO::DO::Atom                      undef  pkg:cpan/XAO-Base@1.29
 XAO::DO::CGI                       undef  pkg:cpan/XAO-Web@1.94
-XAO::DO::Cache::Memcached          undef  pkg:cpan/XAO-Base@1.28
-XAO::DO::Cache::Memory               2.1  pkg:cpan/XAO-Base@1.28
-XAO::DO::Cache::Uncached           undef  pkg:cpan/XAO-Base@1.28
+XAO::DO::Cache::Memcached          undef  pkg:cpan/XAO-Base@1.29
+XAO::DO::Cache::Memory               2.1  pkg:cpan/XAO-Base@1.29
+XAO::DO::Cache::Uncached           undef  pkg:cpan/XAO-Base@1.29
 XAO::DO::Catalogs                   1.04  pkg:cpan/XAO-Catalogs@1.04
-XAO::DO::Config                    undef  pkg:cpan/XAO-Base@1.28
+XAO::DO::Config                    undef  pkg:cpan/XAO-Base@1.29
 XAO::DO::Context                   undef  pkg:cpan/XAO-Web@1.94
 XAO::DO::Data::Catalog             1.003  pkg:cpan/XAO-Catalogs@1.04
 XAO::DO::Data::CatalogCategoryMap  1.002  pkg:cpan/XAO-Catalogs@1.04
@@ -254575,7 +254577,7 @@ XAO::DO::Data::Level0              1.001  pkg:cpan/XAO-FS@1.27
 XAO::DO::Data::Level1              1.001  pkg:cpan/XAO-FS@1.27
 XAO::DO::Data::Order               2.001  pkg:cpan/XAO-FS@1.27
 XAO::DO::Data::Product             2.001  pkg:cpan/XAO-FS@1.27
-XAO::DO::Embeddable                  2.1  pkg:cpan/XAO-Base@1.28
+XAO::DO::Embeddable                  2.1  pkg:cpan/XAO-Base@1.29
 XAO::DO::FS::Collection            2.001  pkg:cpan/XAO-FS@1.27
 XAO::DO::FS::Config                2.002  pkg:cpan/XAO-FS@1.27
 XAO::DO::FS::Global                2.001  pkg:cpan/XAO-FS@1.27
@@ -254622,20 +254624,20 @@ XAO::DO::Web::Styler               2.003  pkg:cpan/XAO-Web@1.94
 XAO::DO::Web::TextTable            2.001  pkg:cpan/XAO-Web@1.94
 XAO::DO::Web::URL                  2.002  pkg:cpan/XAO-Web@1.94
 XAO::DO::Web::Utility              2.003  pkg:cpan/XAO-Web@1.94
-XAO::Errors                        2.001  pkg:cpan/XAO-Base@1.28
+XAO::Errors                        2.001  pkg:cpan/XAO-Base@1.29
 XAO::FS                             1.27  pkg:cpan/XAO-FS@1.27
 XAO::ImageCache                     1.22  pkg:cpan/XAO-ImageCache@1.22
 XAO::Indexer                        1.05  pkg:cpan/XAO-Indexer@1.05
 XAO::IndexerSupport                1.005  pkg:cpan/XAO-Indexer@1.05
-XAO::Objects                       2.001  pkg:cpan/XAO-Base@1.28
+XAO::Objects                       2.001  pkg:cpan/XAO-Base@1.29
 XAO::PageSupport                     2.3  pkg:cpan/XAO-Web@1.94
 XAO::PluginUtils                   2.001  pkg:cpan/XAO-Web@1.94
 XAO::PreLoad                       2.001  pkg:cpan/XAO-Web@1.94
-XAO::Projects                      2.001  pkg:cpan/XAO-Base@1.28
-XAO::SimpleHash                    2.001  pkg:cpan/XAO-Base@1.28
+XAO::Projects                      2.001  pkg:cpan/XAO-Base@1.29
+XAO::SimpleHash                    2.001  pkg:cpan/XAO-Base@1.29
 XAO::Templates                     2.001  pkg:cpan/XAO-Web@1.94
-XAO::TestUtils                     2.002  pkg:cpan/XAO-Base@1.28
-XAO::Utils                           2.7  pkg:cpan/XAO-Base@1.28
+XAO::TestUtils                     2.002  pkg:cpan/XAO-Base@1.29
+XAO::Utils                           2.7  pkg:cpan/XAO-Base@1.29
 XAO::Web                            1.94  pkg:cpan/XAO-Web@1.94
 XAO::testcases::FS::base           undef  pkg:cpan/XAO-FS@1.27
 XAO::testcases::FS::basic          undef  pkg:cpan/XAO-FS@1.27
@@ -254652,7 +254654,7 @@ XAO::testcases::FS::qstart         undef  pkg:cpan/XAO-FS@1.27
 XAO::testcases::FS::search         undef  pkg:cpan/XAO-FS@1.27
 XAO::testcases::FS::transact       undef  pkg:cpan/XAO-FS@1.27
 XAO::testcases::Web::base          undef  pkg:cpan/XAO-Web@1.94
-XAO::testcases::base               undef  pkg:cpan/XAO-Base@1.28
+XAO::testcases::base               undef  pkg:cpan/XAO-Base@1.29
 XAS                                 0.15  pkg:cpan/XAS@0.15
 XAS::Apps::Alert                    0.01  pkg:cpan/XAS@0.15
 XAS::Apps::Base::Alerts             0.03  pkg:cpan/XAS@0.05
