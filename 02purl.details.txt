@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 14 Apr 2026 20:44:52 GMT
+Last-Updated: Tue, 14 Apr 2026 22:39:20 GMT
 Line-Count: 263740
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -48139,9 +48139,9 @@ Continuus                            0.1  pkg:cpan/Continuus@0.1
 Contize                              0.3  pkg:cpan/Contize@0.3
 Contract::Declare                    1.0  pkg:cpan/Contract-Declare@1.0.0
 ContractClosure                    undef  pkg:cpan/Sub-Contract@0.12
-Control::CLI                        2.12  pkg:cpan/Control-CLI@2.12
+Control::CLI                        2.13  pkg:cpan/Control-CLI@2.13
 Control::CLI::AvayaData             2.05  pkg:cpan/Control-CLI-AvayaData@2.05
-Control::CLI::Extreme               1.13  pkg:cpan/Control-CLI-Extreme@1.13
+Control::CLI::Extreme               1.14  pkg:cpan/Control-CLI-Extreme@1.14
 ControlBreak                       v0.22.244  pkg:cpan/ControlBreak@v0.22.244
 ControlFreak                         1.0  pkg:cpan/ControlFreak@1.0.0
 ControlFreak::Command              undef  pkg:cpan/ControlFreak@1.0.0
@@ -202726,20 +202726,20 @@ RT::Client::CLI                    6.000002  pkg:cpan/RT-Client-CLI@6.0.2
 RT::Client::Container              undef  pkg:cpan/RT-Client@0.01
 RT::Client::Object                 undef  pkg:cpan/RT-Client@0.01
 RT::Client::Property               undef  pkg:cpan/RT-Client@0.01
-RT::Client::REST                    0.72  pkg:cpan/RT-Client-REST@0.72
-RT::Client::REST::Attachment        0.72  pkg:cpan/RT-Client-REST@0.72
-RT::Client::REST::Exception         0.72  pkg:cpan/RT-Client-REST@0.72
-RT::Client::REST::Forms             0.72  pkg:cpan/RT-Client-REST@0.72
-RT::Client::REST::Group             0.72  pkg:cpan/RT-Client-REST@0.72
-RT::Client::REST::HTTPClient        0.72  pkg:cpan/RT-Client-REST@0.72
-RT::Client::REST::NoopLogger        0.72  pkg:cpan/RT-Client-REST@0.72
-RT::Client::REST::Object            0.72  pkg:cpan/RT-Client-REST@0.72
-RT::Client::REST::Object::Exception  0.72  pkg:cpan/RT-Client-REST@0.72
-RT::Client::REST::Queue             0.72  pkg:cpan/RT-Client-REST@0.72
-RT::Client::REST::SearchResult      0.72  pkg:cpan/RT-Client-REST@0.72
-RT::Client::REST::Ticket            0.72  pkg:cpan/RT-Client-REST@0.72
-RT::Client::REST::Transaction       0.72  pkg:cpan/RT-Client-REST@0.72
-RT::Client::REST::User              0.72  pkg:cpan/RT-Client-REST@0.72
+RT::Client::REST                    0.73  pkg:cpan/RT-Client-REST@0.73
+RT::Client::REST::Attachment        0.73  pkg:cpan/RT-Client-REST@0.73
+RT::Client::REST::Exception         0.73  pkg:cpan/RT-Client-REST@0.73
+RT::Client::REST::Forms             0.73  pkg:cpan/RT-Client-REST@0.73
+RT::Client::REST::Group             0.73  pkg:cpan/RT-Client-REST@0.73
+RT::Client::REST::HTTPClient        0.73  pkg:cpan/RT-Client-REST@0.73
+RT::Client::REST::NoopLogger        0.73  pkg:cpan/RT-Client-REST@0.73
+RT::Client::REST::Object            0.73  pkg:cpan/RT-Client-REST@0.73
+RT::Client::REST::Object::Exception  0.73  pkg:cpan/RT-Client-REST@0.73
+RT::Client::REST::Queue             0.73  pkg:cpan/RT-Client-REST@0.73
+RT::Client::REST::SearchResult      0.73  pkg:cpan/RT-Client-REST@0.73
+RT::Client::REST::Ticket            0.73  pkg:cpan/RT-Client-REST@0.73
+RT::Client::REST::Transaction       0.73  pkg:cpan/RT-Client-REST@0.73
+RT::Client::REST::User              0.73  pkg:cpan/RT-Client-REST@0.73
 RT::Client::ResultSet              undef  pkg:cpan/RT-Client@0.01
 RT::ClientX::GrabBugs              0.005  pkg:cpan/RT-ClientX-GrabBugs@0.005
 RT::Condition::ACNSMessage         undef  pkg:cpan/RT-Extension-ACNS@1.00
