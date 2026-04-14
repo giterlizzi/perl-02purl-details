@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 14 Apr 2026 09:10:35 GMT
-Line-Count: 263690
+Last-Updated: Tue, 14 Apr 2026 10:56:37 GMT
+Line-Count: 263711
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -10485,12 +10485,12 @@ App::Greple::pgp                   undef  pkg:cpan/App-Greple@10.04
 App::Greple::pw                     1.02  pkg:cpan/App-Greple-pw@1.02
 App::Greple::select                undef  pkg:cpan/App-Greple@10.04
 App::Greple::stripe                 1.02  pkg:cpan/App-Greple-stripe@1.02
-App::Greple::subst                  2.37  pkg:cpan/App-Greple-subst@2.37
-App::Greple::subst::Dict           undef  pkg:cpan/App-Greple-subst@2.37
-App::Greple::subst::Dict::Ent      undef  pkg:cpan/App-Greple-subst@2.37
+App::Greple::subst                 2.3701  pkg:cpan/App-Greple-subst@2.3701
+App::Greple::subst::Dict           undef  pkg:cpan/App-Greple-subst@2.3701
+App::Greple::subst::Dict::Ent      undef  pkg:cpan/App-Greple-subst@2.3701
 App::Greple::subst::SmartString    undef  pkg:cpan/App-Greple-subst@2.19
 App::Greple::subst::desumasu        0.07  pkg:cpan/App-Greple-subst-desumasu@0.07
-App::Greple::subst::dyncmap        undef  pkg:cpan/App-Greple-subst@2.37
+App::Greple::subst::dyncmap        undef  pkg:cpan/App-Greple-subst@2.3701
 App::Greple::tee                    1.05  pkg:cpan/App-Greple-tee@1.05
 App::Greple::tee::Autoload         undef  pkg:cpan/App-Greple-tee@1.05
 App::Greple::type                  1.0301  pkg:cpan/App-Greple-type@1.0301
@@ -70412,8 +70412,29 @@ EntityModel::Web::Site             0.004  pkg:cpan/EntityModel-Web@0.004
 EntityModel::Web::User             0.004  pkg:cpan/EntityModel-Web@0.004
 Entrez                               1.1  pkg:cpan/Boulder@1.30
 EntryDialog                          0.1  pkg:cpan/Tk-EntryDialog@0.10
-Enum::Declare                       0.03  pkg:cpan/Enum-Declare@0.03
-Enum::Declare::Meta                undef  pkg:cpan/Enum-Declare@0.03
+Enum::Declare                       0.04  pkg:cpan/Enum-Declare@0.04
+Enum::Declare::Common               0.01  pkg:cpan/Enum-Declare-Common@0.01
+Enum::Declare::Common::Bool        undef  pkg:cpan/Enum-Declare-Common@0.01
+Enum::Declare::Common::Calendar    undef  pkg:cpan/Enum-Declare-Common@0.01
+Enum::Declare::Common::Color       undef  pkg:cpan/Enum-Declare-Common@0.01
+Enum::Declare::Common::Country     undef  pkg:cpan/Enum-Declare-Common@0.01
+Enum::Declare::Common::CountryISO  undef  pkg:cpan/Enum-Declare-Common@0.01
+Enum::Declare::Common::Currency    undef  pkg:cpan/Enum-Declare-Common@0.01
+Enum::Declare::Common::CurrencyISO undef  pkg:cpan/Enum-Declare-Common@0.01
+Enum::Declare::Common::Encoding    undef  pkg:cpan/Enum-Declare-Common@0.01
+Enum::Declare::Common::Environment undef  pkg:cpan/Enum-Declare-Common@0.01
+Enum::Declare::Common::FileType    undef  pkg:cpan/Enum-Declare-Common@0.01
+Enum::Declare::Common::HTTP        undef  pkg:cpan/Enum-Declare-Common@0.01
+Enum::Declare::Common::Locale      undef  pkg:cpan/Enum-Declare-Common@0.01
+Enum::Declare::Common::LogLevel    undef  pkg:cpan/Enum-Declare-Common@0.01
+Enum::Declare::Common::MIME        undef  pkg:cpan/Enum-Declare-Common@0.01
+Enum::Declare::Common::Permission  undef  pkg:cpan/Enum-Declare-Common@0.01
+Enum::Declare::Common::Priority    undef  pkg:cpan/Enum-Declare-Common@0.01
+Enum::Declare::Common::Sort        undef  pkg:cpan/Enum-Declare-Common@0.01
+Enum::Declare::Common::Status      undef  pkg:cpan/Enum-Declare-Common@0.01
+Enum::Declare::Common::Timezone    undef  pkg:cpan/Enum-Declare-Common@0.01
+Enum::Declare::Common::TimezoneOffset undef  pkg:cpan/Enum-Declare-Common@0.01
+Enum::Declare::Meta                undef  pkg:cpan/Enum-Declare@0.04
 Enumerate::PerlList                 0.01  pkg:cpan/Enumerate-PerlList@0.01
 Enumeration                         0.03  pkg:cpan/Enumeration@0.03
 Env                                 1.04  pkg:cpan/Env@1.04
