@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 14 Apr 2026 07:21:22 GMT
+Last-Updated: Tue, 14 Apr 2026 09:10:35 GMT
 Line-Count: 263690
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -155200,7 +155200,7 @@ Object::Pluggable::Pipeline         1.29  pkg:cpan/Object-Pluggable@1.29
 Object::Previous                   1.1012  pkg:cpan/Object-Previous@1.1012
 Object::Properties                 1.003  pkg:cpan/Object-Properties@1.003
 Object::Properties::Base           1.003  pkg:cpan/Object-Properties@1.003
-Object::Proto                       0.12  pkg:cpan/Object-Proto@0.12
+Object::Proto                       0.13  pkg:cpan/Object-Proto@0.13
 Object::Proto::Sugar                0.05  pkg:cpan/Object-Proto-Sugar@0.05
 Object::Prototype                   0.02  pkg:cpan/Object-Prototype@0.02
 Object::Quick                      undef  pkg:cpan/Mock-Quick@1.111
@@ -202739,7 +202739,7 @@ RT::Extension::AI                   0.05  pkg:cpan/RT-Extension-AI@0.05
 RT::Extension::AI::Provider        undef  pkg:cpan/RT-Extension-AI@0.05
 RT::Extension::AI::Provider::Gemini undef  pkg:cpan/RT-Extension-AI@0.05
 RT::Extension::AI::Provider::OpenAI undef  pkg:cpan/RT-Extension-AI@0.05
-RT::Extension::AWS::Assets          0.07  pkg:cpan/RT-Extension-AWS-Assets@0.07
+RT::Extension::AWS::Assets          0.08  pkg:cpan/RT-Extension-AWS-Assets@0.08
 RT::Extension::ActivityReports      2.00  pkg:cpan/RT-Extension-ActivityReports@2.00
 RT::Extension::AddAdminCcsOnQueueChange  1.01  pkg:cpan/RT-Extension-AddAdminCcsOnQueueChange@1.01
 RT::Extension::AddAttachmentsFromTransactions  2.10  pkg:cpan/RT-Extension-AddAttachmentsFromTransactions@2.10
