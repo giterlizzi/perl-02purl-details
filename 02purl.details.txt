@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 14 Apr 2026 04:45:19 GMT
+Last-Updated: Tue, 14 Apr 2026 07:21:22 GMT
 Line-Count: 263690
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -70412,8 +70412,8 @@ EntityModel::Web::Site             0.004  pkg:cpan/EntityModel-Web@0.004
 EntityModel::Web::User             0.004  pkg:cpan/EntityModel-Web@0.004
 Entrez                               1.1  pkg:cpan/Boulder@1.30
 EntryDialog                          0.1  pkg:cpan/Tk-EntryDialog@0.10
-Enum::Declare                       0.01  pkg:cpan/Enum-Declare@0.01
-Enum::Declare::Meta                undef  pkg:cpan/Enum-Declare@0.01
+Enum::Declare                       0.03  pkg:cpan/Enum-Declare@0.03
+Enum::Declare::Meta                undef  pkg:cpan/Enum-Declare@0.03
 Enumerate::PerlList                 0.01  pkg:cpan/Enumerate-PerlList@0.01
 Enumeration                         0.03  pkg:cpan/Enumeration@0.03
 Env                                 1.04  pkg:cpan/Env@1.04
