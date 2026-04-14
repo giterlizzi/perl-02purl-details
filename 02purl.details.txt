@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 14 Apr 2026 15:08:09 GMT
+Last-Updated: Tue, 14 Apr 2026 16:58:19 GMT
 Line-Count: 263732
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -10968,7 +10968,7 @@ App::LogStats                      0.091  pkg:cpan/App-LogStats@0.091
 App::Logs                              0  pkg:cpan/App-FargateStack@1.0.50
 App::MARC::Count                    0.04  pkg:cpan/App-MARC-Count@0.04
 App::MARC::Filter                   0.08  pkg:cpan/App-MARC-Filter@0.08
-App::MARC::Leader                   0.07  pkg:cpan/App-MARC-Leader@0.07
+App::MARC::Leader                   0.08  pkg:cpan/App-MARC-Leader@0.08
 App::MARC::List                     0.08  pkg:cpan/App-MARC-List@0.08
 App::MARC::Record::Stats            0.02  pkg:cpan/App-MARC-Record-Stats@0.02
 App::MARC::Validator                0.08  pkg:cpan/App-MARC-Validator@0.08
@@ -115079,7 +115079,7 @@ Jabber::RPC::Server                undef  pkg:cpan/Jabber-RPC@0.01
 Jabber::Reload                      0.01  pkg:cpan/Jabber-mod_perl@0.15
 Jabber::SimpleSend                  0.03  pkg:cpan/Jabber-SimpleSend@0.03
 Jabber::mod_perl                    0.15  pkg:cpan/Jabber-mod_perl@0.15
-Jacode                             2.013004032  pkg:cpan/Jacode@2.13.4.32
+Jacode                             2.013004033  pkg:cpan/Jacode@2.13.4.33
 Jacode4e                           2.013006021  pkg:cpan/Jacode4e@2.13.6.21
 Jacode4e::RoundTrip                2.013081014  pkg:cpan/Jacode4e-RoundTrip@2.13.81.14
 Jail                                 0.8  pkg:cpan/Jail@0.8
@@ -126177,7 +126177,7 @@ Log::Fine::Logger                  undef  pkg:cpan/Log-Fine@0.65
 Log::Fine::Utils                   undef  pkg:cpan/Log-Fine@0.65
 Log::Fmt                           3.101  pkg:cpan/Log-Dispatchouli@3.101
 Log::Fmt::Test                     3.101  pkg:cpan/Log-Dispatchouli@3.101
-Log::Fmt::XS                       0.001  pkg:cpan/Log-Fmt-XS@0.001
+Log::Fmt::XS                       0.002  pkg:cpan/Log-Fmt-XS@0.002
 Log::ForPerl                        0.03  pkg:cpan/Log-ForPerl@0.03
 Log::FreeSWITCH::Line               0.08  pkg:cpan/Log-FreeSWITCH-Line@0.08
 Log::FreeSWITCH::Line::Data         0.08  pkg:cpan/Log-FreeSWITCH-Line@0.08
