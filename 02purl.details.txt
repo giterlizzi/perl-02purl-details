@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 14 Apr 2026 19:03:03 GMT
-Line-Count: 263737
+Last-Updated: Tue, 14 Apr 2026 20:44:52 GMT
+Line-Count: 263740
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -45691,7 +45691,7 @@ Class::MethodVars::_ATTRS          1.133  pkg:cpan/Class-Framework@1.228
 Class::MethodVars::_Private        1.133  pkg:cpan/Class-Framework@1.228
 Class::Methodist                   undef  pkg:cpan/Class-Methodist@1.6
 Class::Methods                     0.062  pkg:cpan/Class-Methods@0.062
-Class::Mite                        v0.1.0  pkg:cpan/Class-Mite@v0.1.0
+Class::Mite                        v0.1.1  pkg:cpan/Class-Mite@v0.1.1
 Class::Mix                         0.006  pkg:cpan/Class-Mix@0.006
 Class::Mixer                        0.54  pkg:cpan/Class-Mixer@0.54
 Class::Mixin                        1.00  pkg:cpan/Class-Mixin@1.00
@@ -53144,23 +53144,23 @@ DBIx::SchemaChecksum::Driver::Pg   1.104  pkg:cpan/DBIx-SchemaChecksum@1.104
 DBIx::SchemaChecksum::Driver::SQLite 1.104  pkg:cpan/DBIx-SchemaChecksum@1.104
 DBIx::SchemaChecksum::Driver::mysql undef  pkg:cpan/DBIx-SchemaChecksum@1.102
 DBIx::ScopedTransaction            v1.2.0  pkg:cpan/DBIx-ScopedTransaction@v1.2.0
-DBIx::SearchBuilder                 1.84  pkg:cpan/DBIx-SearchBuilder@1.84
-DBIx::SearchBuilder::Handle        undef  pkg:cpan/DBIx-SearchBuilder@1.84
-DBIx::SearchBuilder::Handle::Informix undef  pkg:cpan/DBIx-SearchBuilder@1.84
-DBIx::SearchBuilder::Handle::MariaDB undef  pkg:cpan/DBIx-SearchBuilder@1.84
-DBIx::SearchBuilder::Handle::ODBC  undef  pkg:cpan/DBIx-SearchBuilder@1.84
-DBIx::SearchBuilder::Handle::Oracle undef  pkg:cpan/DBIx-SearchBuilder@1.84
-DBIx::SearchBuilder::Handle::Pg    undef  pkg:cpan/DBIx-SearchBuilder@1.84
-DBIx::SearchBuilder::Handle::SQLite undef  pkg:cpan/DBIx-SearchBuilder@1.84
-DBIx::SearchBuilder::Handle::Sybase undef  pkg:cpan/DBIx-SearchBuilder@1.84
-DBIx::SearchBuilder::Handle::mysql undef  pkg:cpan/DBIx-SearchBuilder@1.84
-DBIx::SearchBuilder::Handle::mysqlPP undef  pkg:cpan/DBIx-SearchBuilder@1.84
-DBIx::SearchBuilder::Record        undef  pkg:cpan/DBIx-SearchBuilder@1.84
-DBIx::SearchBuilder::Record::Cachable undef  pkg:cpan/DBIx-SearchBuilder@1.84
-DBIx::SearchBuilder::SchemaGenerator undef  pkg:cpan/DBIx-SearchBuilder@1.84
-DBIx::SearchBuilder::Union             0  pkg:cpan/DBIx-SearchBuilder@1.84
-DBIx::SearchBuilder::Unique         0.01  pkg:cpan/DBIx-SearchBuilder@1.84
-DBIx::SearchBuilder::Util          undef  pkg:cpan/DBIx-SearchBuilder@1.84
+DBIx::SearchBuilder                 1.85  pkg:cpan/DBIx-SearchBuilder@1.85
+DBIx::SearchBuilder::Handle        undef  pkg:cpan/DBIx-SearchBuilder@1.85
+DBIx::SearchBuilder::Handle::Informix undef  pkg:cpan/DBIx-SearchBuilder@1.85
+DBIx::SearchBuilder::Handle::MariaDB undef  pkg:cpan/DBIx-SearchBuilder@1.85
+DBIx::SearchBuilder::Handle::ODBC  undef  pkg:cpan/DBIx-SearchBuilder@1.85
+DBIx::SearchBuilder::Handle::Oracle undef  pkg:cpan/DBIx-SearchBuilder@1.85
+DBIx::SearchBuilder::Handle::Pg    undef  pkg:cpan/DBIx-SearchBuilder@1.85
+DBIx::SearchBuilder::Handle::SQLite undef  pkg:cpan/DBIx-SearchBuilder@1.85
+DBIx::SearchBuilder::Handle::Sybase undef  pkg:cpan/DBIx-SearchBuilder@1.85
+DBIx::SearchBuilder::Handle::mysql undef  pkg:cpan/DBIx-SearchBuilder@1.85
+DBIx::SearchBuilder::Handle::mysqlPP undef  pkg:cpan/DBIx-SearchBuilder@1.85
+DBIx::SearchBuilder::Record        undef  pkg:cpan/DBIx-SearchBuilder@1.85
+DBIx::SearchBuilder::Record::Cachable undef  pkg:cpan/DBIx-SearchBuilder@1.85
+DBIx::SearchBuilder::SchemaGenerator undef  pkg:cpan/DBIx-SearchBuilder@1.85
+DBIx::SearchBuilder::Union             0  pkg:cpan/DBIx-SearchBuilder@1.85
+DBIx::SearchBuilder::Unique         0.01  pkg:cpan/DBIx-SearchBuilder@1.85
+DBIx::SearchBuilder::Util          undef  pkg:cpan/DBIx-SearchBuilder@1.85
 DBIx::SearchProfiles                 1.9  pkg:cpan/Apache-iNcom@0.09
 DBIx::SecureCGI                    v3.0.1  pkg:cpan/DBIx-SecureCGI@v3.0.1
 DBIx::Sequence                       1.5  pkg:cpan/DBIx-Sequence@1.5
@@ -57607,7 +57607,7 @@ Data::Hopen::Util::MergeWithoutCloneBlessed 0.000020  pkg:cpan/Data-Hopen@0.0000
 Data::Hopen::Util::NameSet         0.000021  pkg:cpan/Data-Hopen@0.000021
 Data::Hopen::Visitor               0.000021  pkg:cpan/Data-Hopen@0.000021
 Data::ICal                          0.24  pkg:cpan/Data-ICal@0.24
-Data::ICal::DAVAdapter              0.02  pkg:cpan/Meetup-API@0.02
+Data::ICal::DAVAdapter              0.03  pkg:cpan/Meetup-API@0.03
 Data::ICal::DateTime                0.82  pkg:cpan/Data-ICal-DateTime@0.82
 Data::ICal::Entry                  undef  pkg:cpan/Data-ICal@0.24
 Data::ICal::Entry::Alarm           undef  pkg:cpan/Data-ICal@0.24
@@ -70435,7 +70435,7 @@ EntityModel::Web::Site             0.004  pkg:cpan/EntityModel-Web@0.004
 EntityModel::Web::User             0.004  pkg:cpan/EntityModel-Web@0.004
 Entrez                               1.1  pkg:cpan/Boulder@1.30
 EntryDialog                          0.1  pkg:cpan/Tk-EntryDialog@0.10
-Enum::Declare                       0.05  pkg:cpan/Enum-Declare@0.05
+Enum::Declare                       0.06  pkg:cpan/Enum-Declare@0.06
 Enum::Declare::Common               0.01  pkg:cpan/Enum-Declare-Common@0.01
 Enum::Declare::Common::Bool        undef  pkg:cpan/Enum-Declare-Common@0.01
 Enum::Declare::Common::Calendar    undef  pkg:cpan/Enum-Declare-Common@0.01
@@ -70457,8 +70457,8 @@ Enum::Declare::Common::Sort        undef  pkg:cpan/Enum-Declare-Common@0.01
 Enum::Declare::Common::Status      undef  pkg:cpan/Enum-Declare-Common@0.01
 Enum::Declare::Common::Timezone    undef  pkg:cpan/Enum-Declare-Common@0.01
 Enum::Declare::Common::TimezoneOffset undef  pkg:cpan/Enum-Declare-Common@0.01
-Enum::Declare::Meta                undef  pkg:cpan/Enum-Declare@0.05
-Enum::Declare::Set                 undef  pkg:cpan/Enum-Declare@0.05
+Enum::Declare::Meta                undef  pkg:cpan/Enum-Declare@0.06
+Enum::Declare::Set                 undef  pkg:cpan/Enum-Declare@0.06
 Enumerate::PerlList                 0.01  pkg:cpan/Enumerate-PerlList@0.01
 Enumeration                         0.03  pkg:cpan/Enumeration@0.03
 Env                                 1.04  pkg:cpan/Env@1.04
@@ -127156,6 +127156,9 @@ MARC::File::XML                    1.000005  pkg:cpan/MARC-File-XML@1.0.5
 MARC::Indexer                       0.04  pkg:cpan/MARC-Indexer@0.04
 MARC::Indexer::Config              undef  pkg:cpan/MARC-Indexer@0.04
 MARC::Leader                        0.08  pkg:cpan/MARC-Leader@0.08
+MARC::Leader::L10N                  0.01  pkg:cpan/MARC-Leader-L10N@0.01
+MARC::Leader::L10N::cs              0.01  pkg:cpan/MARC-Leader-L10N@0.01
+MARC::Leader::L10N::en              0.01  pkg:cpan/MARC-Leader-L10N@0.01
 MARC::Leader::Print                 0.04  pkg:cpan/MARC-Leader-Print@0.04
 MARC::Leader::Utils                 0.02  pkg:cpan/MARC-Leader-Utils@0.02
 MARC::Lint                          1.53  pkg:cpan/MARC-Lint@1.53
@@ -133220,9 +133223,9 @@ Meerkat::Cursor                    0.016  pkg:cpan/Meerkat@0.016
 Meerkat::DateTime                  0.016  pkg:cpan/Meerkat@0.016
 Meerkat::Role::Document            0.016  pkg:cpan/Meerkat@0.016
 Meerkat::Types                     0.016  pkg:cpan/Meerkat@0.016
-Meetup::API                         0.02  pkg:cpan/Meetup-API@0.02
-Meetup::API::v3                     0.02  pkg:cpan/Meetup-API@0.02
-Meetup::ToICal                      0.02  pkg:cpan/Meetup-API@0.02
+Meetup::API                         0.03  pkg:cpan/Meetup-API@0.03
+Meetup::API::v3                     0.03  pkg:cpan/Meetup-API@0.03
+Meetup::ToICal                      0.03  pkg:cpan/Meetup-API@0.03
 MegaDistro                          0.02  pkg:cpan/MegaDistro@0.02-5
 MegaDistro::Config                 undef  pkg:cpan/MegaDistro@0.02-5
 MegaDistro::DebMaker::Build        undef  pkg:cpan/MegaDistro@0.02-5
@@ -155245,8 +155248,8 @@ Object::Pluggable::Pipeline         1.29  pkg:cpan/Object-Pluggable@1.29
 Object::Previous                   1.1012  pkg:cpan/Object-Previous@1.1012
 Object::Properties                 1.003  pkg:cpan/Object-Properties@1.003
 Object::Properties::Base           1.003  pkg:cpan/Object-Properties@1.003
-Object::Proto                       0.14  pkg:cpan/Object-Proto@0.14
-Object::Proto::Install::Files      undef  pkg:cpan/Object-Proto@0.14
+Object::Proto                       0.15  pkg:cpan/Object-Proto@0.15
+Object::Proto::Install::Files      undef  pkg:cpan/Object-Proto@0.15
 Object::Proto::Sugar                0.05  pkg:cpan/Object-Proto-Sugar@0.05
 Object::Prototype                   0.02  pkg:cpan/Object-Prototype@0.02
 Object::Quick                      undef  pkg:cpan/Mock-Quick@1.111
@@ -155789,12 +155792,12 @@ OpenGL::Install::Files             undef  pkg:cpan/OpenGL@0.7009
 OpenGL::List                        0.01  pkg:cpan/OpenGL-List@0.01
 OpenGL::Matrix                     0.7003  pkg:cpan/OpenGL@0.7009
 OpenGL::Misc                       undef  pkg:cpan/OpenGL@0.7009
-OpenGL::Modern                     0.0404  pkg:cpan/OpenGL-Modern@0.0404
-OpenGL::Modern::Const              0.4001  pkg:cpan/OpenGL-Modern@0.0404
-OpenGL::Modern::Install::Files     undef  pkg:cpan/OpenGL-Modern@0.0404
+OpenGL::Modern                     0.0405  pkg:cpan/OpenGL-Modern@0.0405
+OpenGL::Modern::Const              0.4001  pkg:cpan/OpenGL-Modern@0.0405
+OpenGL::Modern::Install::Files     undef  pkg:cpan/OpenGL-Modern@0.0405
 OpenGL::Modern::NameLists::MakefileAll undef  pkg:cpan/OpenGL-Modern@0.04
 OpenGL::Modern::NameLists::Modern  undef  pkg:cpan/OpenGL-Modern@0.04
-OpenGL::Modern::Registry           undef  pkg:cpan/OpenGL-Modern@0.0404
+OpenGL::Modern::Registry           undef  pkg:cpan/OpenGL-Modern@0.0405
 OpenGL::PLG                         0.03  pkg:cpan/OpenGL-PLG@0.03
 OpenGL::QEng                       undef  pkg:cpan/OpenGL-QEng@0.27
 OpenGL::QEng::ArchWall             undef  pkg:cpan/OpenGL-QEng@0.27
