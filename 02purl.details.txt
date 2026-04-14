@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 14 Apr 2026 13:12:38 GMT
-Line-Count: 263711
+Last-Updated: Tue, 14 Apr 2026 15:08:09 GMT
+Line-Count: 263732
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -48296,29 +48296,50 @@ Convert::Number::Roman              0.04  pkg:cpan/Convert-Number-Roman@0.04
 Convert::PEM                        0.13  pkg:cpan/Convert-PEM@0.13
 Convert::PEM::CBC                   0.13  pkg:cpan/Convert-PEM@0.13
 Convert::PerlRef2String             0.03  pkg:cpan/Convert-PerlRef2String@0.03
-Convert::Pheno                      0.29  pkg:cpan/Convert-Pheno@0.29
+Convert::Pheno                      0.30  pkg:cpan/Convert-Pheno@0.30
 Convert::Pheno::BFF                undef  pkg:cpan/Convert-Pheno@0.27
+Convert::Pheno::BFF::DerivedEntities undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::BFF::ToOMOP        undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::BFF::ToPXF         undef  pkg:cpan/Convert-Pheno@0.30
 Convert::Pheno::Bff2Omop           undef  pkg:cpan/Convert-Pheno@0.29
 Convert::Pheno::Bff2Pxf            undef  pkg:cpan/Convert-Pheno@0.29
-Convert::Pheno::CDISC              undef  pkg:cpan/Convert-Pheno@0.29
-Convert::Pheno::CSV                undef  pkg:cpan/Convert-Pheno@0.29
-Convert::Pheno::DB::SQLite         undef  pkg:cpan/Convert-Pheno@0.29
-Convert::Pheno::DB::Similarity     undef  pkg:cpan/Convert-Pheno@0.29
+Convert::Pheno::CDISC              undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::CLI::Args          undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::CSV                undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::Context            undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::DB::SQLite         undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::DB::Similarity     undef  pkg:cpan/Convert-Pheno@0.30
 Convert::Pheno::Default            undef  pkg:cpan/Convert-Pheno@0.27
+Convert::Pheno::Emit::OMOP         undef  pkg:cpan/Convert-Pheno@0.30
 Convert::Pheno::IO                 undef  pkg:cpan/Convert-Pheno@0.17
-Convert::Pheno::IO::CSVHandler     undef  pkg:cpan/Convert-Pheno@0.29
-Convert::Pheno::IO::FileIO         undef  pkg:cpan/Convert-Pheno@0.29
+Convert::Pheno::IO::CSVHandler     undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::IO::FileIO         undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::JSONLD             undef  pkg:cpan/Convert-Pheno@0.30
 Convert::Pheno::Mapping            undef  pkg:cpan/Convert-Pheno@0.27
+Convert::Pheno::Mapping::BFF::Individuals::Tabular undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::Mapping::Shared    undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::Model::Bundle      undef  pkg:cpan/Convert-Pheno@0.30
 Convert::Pheno::OMOP               undef  pkg:cpan/Convert-Pheno@0.29
-Convert::Pheno::OMOP::Definitions  undef  pkg:cpan/Convert-Pheno@0.29
+Convert::Pheno::OMOP::Definitions  undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::OMOP::ParticipantStream undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::OMOP::Source       undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::OMOP::ToBFF        undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::OMOP::ToBFF::Biosamples undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::OMOP::ToBFF::Individuals undef  pkg:cpan/Convert-Pheno@0.30
 Convert::Pheno::PXF                undef  pkg:cpan/Convert-Pheno@0.29
+Convert::Pheno::PXF::ToBFF         undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::PXF::ToBFF::Biosamples undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::PXF::ToBFF::Individuals undef  pkg:cpan/Convert-Pheno@0.30
 Convert::Pheno::RDF                undef  pkg:cpan/Convert-Pheno@0.29
-Convert::Pheno::REDCap             undef  pkg:cpan/Convert-Pheno@0.29
+Convert::Pheno::REDCap             undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::Runner             undef  pkg:cpan/Convert-Pheno@0.30
 Convert::Pheno::SQLite             undef  pkg:cpan/Convert-Pheno@0.27
 Convert::Pheno::Schema             undef  pkg:cpan/Convert-Pheno@0.27
-Convert::Pheno::Utils::Default     undef  pkg:cpan/Convert-Pheno@0.29
+Convert::Pheno::Tabular::REDCap::Dictionary undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::Tabular::Record    undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::Utils::Default     undef  pkg:cpan/Convert-Pheno@0.30
 Convert::Pheno::Utils::Mapping     undef  pkg:cpan/Convert-Pheno@0.29
-Convert::Pheno::Utils::Schema      undef  pkg:cpan/Convert-Pheno@0.29
+Convert::Pheno::Utils::Schema      undef  pkg:cpan/Convert-Pheno@0.30
 Convert::Pluggable                 0.0322  pkg:cpan/Convert-Pluggable@0.0322
 Convert::RACE                       0.07  pkg:cpan/Convert-RACE@0.07
 Convert::Recode                     1.04  pkg:cpan/Convert-Recode@1.04
