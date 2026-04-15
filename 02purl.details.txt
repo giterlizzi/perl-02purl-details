@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 15 Apr 2026 04:41:27 GMT
+Last-Updated: Wed, 15 Apr 2026 07:21:58 GMT
 Line-Count: 263740
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -10485,12 +10485,12 @@ App::Greple::pgp                   undef  pkg:cpan/App-Greple@10.04
 App::Greple::pw                     1.02  pkg:cpan/App-Greple-pw@1.02
 App::Greple::select                undef  pkg:cpan/App-Greple@10.04
 App::Greple::stripe                 1.02  pkg:cpan/App-Greple-stripe@1.02
-App::Greple::subst                 2.3701  pkg:cpan/App-Greple-subst@2.3701
-App::Greple::subst::Dict           undef  pkg:cpan/App-Greple-subst@2.3701
-App::Greple::subst::Dict::Ent      undef  pkg:cpan/App-Greple-subst@2.3701
+App::Greple::subst                 2.3702  pkg:cpan/App-Greple-subst@2.3702
+App::Greple::subst::Dict           undef  pkg:cpan/App-Greple-subst@2.3702
+App::Greple::subst::Dict::Ent      undef  pkg:cpan/App-Greple-subst@2.3702
 App::Greple::subst::SmartString    undef  pkg:cpan/App-Greple-subst@2.19
 App::Greple::subst::desumasu        0.07  pkg:cpan/App-Greple-subst-desumasu@0.07
-App::Greple::subst::dyncmap        undef  pkg:cpan/App-Greple-subst@2.3701
+App::Greple::subst::dyncmap        undef  pkg:cpan/App-Greple-subst@2.3702
 App::Greple::tee                    1.05  pkg:cpan/App-Greple-tee@1.05
 App::Greple::tee::Autoload         undef  pkg:cpan/App-Greple-tee@1.05
 App::Greple::type                  1.0301  pkg:cpan/App-Greple-type@1.0301
@@ -128114,29 +128114,29 @@ MODS::Record::Unique                0.14  pkg:cpan/MODS-Record@0.14
 MODS::Record::Util                  0.14  pkg:cpan/MODS-Record@0.14
 MODS::Record::Xml_String            0.14  pkg:cpan/MODS-Record@0.14
 MOP                                 0.14  pkg:cpan/MOP@0.14
-MOP4Import::Base::CLI              undef  pkg:cpan/MOP4Import-Declare@0.071
-MOP4Import::Base::CLI_JSON         undef  pkg:cpan/MOP4Import-Declare@0.071
-MOP4Import::Base::CLI_Opts         undef  pkg:cpan/MOP4Import-Declare@0.071
-MOP4Import::Base::Configure        undef  pkg:cpan/MOP4Import-Declare@0.071
-MOP4Import::Base::JSON             undef  pkg:cpan/MOP4Import-Declare@0.071
-MOP4Import::Declare                0.071  pkg:cpan/MOP4Import-Declare@0.071
-MOP4Import::Declare::Type          undef  pkg:cpan/MOP4Import-Declare@0.071
-MOP4Import::FieldSpec              undef  pkg:cpan/MOP4Import-Declare@0.071
-MOP4Import::NamedCodeAttributes    undef  pkg:cpan/MOP4Import-Declare@0.071
-MOP4Import::Opts                   undef  pkg:cpan/MOP4Import-Declare@0.071
-MOP4Import::PSGIEnv                undef  pkg:cpan/MOP4Import-Declare@0.071
-MOP4Import::Pairs                  undef  pkg:cpan/MOP4Import-Declare@0.071
-MOP4Import::Types                  undef  pkg:cpan/MOP4Import-Declare@0.071
-MOP4Import::Types::Extend          undef  pkg:cpan/MOP4Import-Declare@0.071
-MOP4Import::Util                   undef  pkg:cpan/MOP4Import-Declare@0.071
-MOP4Import::Util::CallTester       undef  pkg:cpan/MOP4Import-Declare@0.071
-MOP4Import::Util::CommentedJson    undef  pkg:cpan/MOP4Import-Declare@0.071
-MOP4Import::Util::FindMethods      undef  pkg:cpan/MOP4Import-Declare@0.071
-MOP4Import::Util::Inspector        undef  pkg:cpan/MOP4Import-Declare@0.071
-MOP4Import::Util::JSON_TYPE        undef  pkg:cpan/MOP4Import-Declare@0.071
-MOP4Import::Util::ResolveSymlinks  undef  pkg:cpan/MOP4Import-Declare@0.071
-MOP4Import::Util::compat_double_diamond undef  pkg:cpan/MOP4Import-Declare@0.071
-MOP4Import::Util::compat_double_diamond_5_20 undef  pkg:cpan/MOP4Import-Declare@0.071
+MOP4Import::Base::CLI              undef  pkg:cpan/MOP4Import-Declare@0.072
+MOP4Import::Base::CLI_JSON         undef  pkg:cpan/MOP4Import-Declare@0.072
+MOP4Import::Base::CLI_Opts         undef  pkg:cpan/MOP4Import-Declare@0.072
+MOP4Import::Base::Configure        undef  pkg:cpan/MOP4Import-Declare@0.072
+MOP4Import::Base::JSON             undef  pkg:cpan/MOP4Import-Declare@0.072
+MOP4Import::Declare                0.072  pkg:cpan/MOP4Import-Declare@0.072
+MOP4Import::Declare::Type          undef  pkg:cpan/MOP4Import-Declare@0.072
+MOP4Import::FieldSpec              undef  pkg:cpan/MOP4Import-Declare@0.072
+MOP4Import::NamedCodeAttributes    undef  pkg:cpan/MOP4Import-Declare@0.072
+MOP4Import::Opts                   undef  pkg:cpan/MOP4Import-Declare@0.072
+MOP4Import::PSGIEnv                undef  pkg:cpan/MOP4Import-Declare@0.072
+MOP4Import::Pairs                  undef  pkg:cpan/MOP4Import-Declare@0.072
+MOP4Import::Types                  undef  pkg:cpan/MOP4Import-Declare@0.072
+MOP4Import::Types::Extend          undef  pkg:cpan/MOP4Import-Declare@0.072
+MOP4Import::Util                   undef  pkg:cpan/MOP4Import-Declare@0.072
+MOP4Import::Util::CallTester       undef  pkg:cpan/MOP4Import-Declare@0.072
+MOP4Import::Util::CommentedJson    undef  pkg:cpan/MOP4Import-Declare@0.072
+MOP4Import::Util::FindMethods      undef  pkg:cpan/MOP4Import-Declare@0.072
+MOP4Import::Util::Inspector        undef  pkg:cpan/MOP4Import-Declare@0.072
+MOP4Import::Util::JSON_TYPE        undef  pkg:cpan/MOP4Import-Declare@0.072
+MOP4Import::Util::ResolveSymlinks  undef  pkg:cpan/MOP4Import-Declare@0.072
+MOP4Import::Util::compat_double_diamond undef  pkg:cpan/MOP4Import-Declare@0.072
+MOP4Import::Util::compat_double_diamond_5_20 undef  pkg:cpan/MOP4Import-Declare@0.072
 MOP::Class                          0.14  pkg:cpan/MOP@0.14
 MOP::Internal::Util                 0.14  pkg:cpan/MOP@0.14
 MOP::Method                         0.14  pkg:cpan/MOP@0.14
