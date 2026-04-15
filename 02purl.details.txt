@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 15 Apr 2026 01:54:34 GMT
+Last-Updated: Wed, 15 Apr 2026 04:41:27 GMT
 Line-Count: 263740
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -66753,7 +66753,7 @@ Dist::Zilla::Plugin::RenderTemplate  0.01  pkg:cpan/Dist-Zilla-Plugin-RenderTemp
 Dist::Zilla::Plugin::ReportPhase   undef  pkg:cpan/Dist-Zilla-Plugin-ReportPhase@0.03
 Dist::Zilla::Plugin::ReportVersions 1.110730  pkg:cpan/Dist-Zilla-Plugin-ReportVersions@1.110730
 Dist::Zilla::Plugin::ReportVersions::Tiny  1.12  pkg:cpan/Dist-Zilla-Plugin-ReportVersions-Tiny@1.12
-Dist::Zilla::Plugin::Repository     0.24  pkg:cpan/Dist-Zilla-Plugin-Repository@0.24
+Dist::Zilla::Plugin::Repository     0.25  pkg:cpan/Dist-Zilla-Plugin-Repository@0.25
 Dist::Zilla::Plugin::RequiresExternal 1.009  pkg:cpan/Dist-Zilla-Plugin-RequiresExternal@1.009
 Dist::Zilla::Plugin::ReversionAfterRelease   0.3  pkg:cpan/Dist-Zilla-Plugin-ReversionAfterRelease@0.3
 Dist::Zilla::Plugin::ReversionOnRelease  0.06  pkg:cpan/Dist-Zilla-Plugin-ReversionOnRelease@0.06
@@ -131792,9 +131792,9 @@ Math::GF::Extension                0.004  pkg:cpan/Math-GF@0.004
 Math::GF::Zn                       0.004  pkg:cpan/Math-GF@0.004
 Math::GMP                           2.25  pkg:cpan/Math-GMP@2.25
 Math::GMP_OLOAD                     0.03  pkg:cpan/Math-GMP_OLOAD@0.03
-Math::GMPf                          0.55  pkg:cpan/Math-GMPf@0.55
-Math::GMPf::Random                  0.55  pkg:cpan/Math-GMPf@0.55
-Math::GMPf::V                       0.55  pkg:cpan/Math-GMPf@0.55
+Math::GMPf                          0.56  pkg:cpan/Math-GMPf@0.56
+Math::GMPf::Random                  0.56  pkg:cpan/Math-GMPf@0.56
+Math::GMPf::V                       0.56  pkg:cpan/Math-GMPf@0.56
 Math::GMPn                          0.03  pkg:cpan/Math-GMPn@0.03
 Math::GMPq                          0.70  pkg:cpan/Math-GMPq@0.70
 Math::GMPq::Random                  0.70  pkg:cpan/Math-GMPq@0.70
