@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 15 Apr 2026 09:11:39 GMT
+Last-Updated: Wed, 15 Apr 2026 10:53:54 GMT
 Line-Count: 263740
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -33143,9 +33143,9 @@ CPAN::Local::Role::Inject          0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Local::Role::MetaCPAN::API   0.001  pkg:cpan/CPAN-Local-Role-MetaCPAN-API@0.001
 CPAN::Local::Role::Prune           0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Local::Role::Remove          0.010  pkg:cpan/CPAN-Local@0.010
-CPAN::Maker                        v1.7.4  pkg:cpan/CPAN-Maker@1.7.4
-CPAN::Maker::Constants             v1.7.4  pkg:cpan/CPAN-Maker@1.7.4
-CPAN::Maker::Utils                 v1.7.4  pkg:cpan/CPAN-Maker@1.7.4
+CPAN::Maker                        v1.7.5  pkg:cpan/CPAN-Maker@1.7.5
+CPAN::Maker::Constants             v1.7.5  pkg:cpan/CPAN-Maker@1.7.5
+CPAN::Maker::Utils                 v1.7.5  pkg:cpan/CPAN-Maker@1.7.5
 CPAN::Meta                         2.150013  pkg:cpan/CPAN-Meta@2.150013
 CPAN::Meta::Check                  0.018  pkg:cpan/CPAN-Meta-Check@0.018
 CPAN::Meta::Converter              2.150013  pkg:cpan/CPAN-Meta@2.150013
@@ -73889,8 +73889,8 @@ File::Policy                       1.005  pkg:cpan/File-Policy@1.005
 File::Policy::Default              1.006  pkg:cpan/File-Policy@1.005
 File::Prepend::Undoable             0.05  pkg:cpan/File-Prepend-Undoable@0.05
 File::Print::Many                   0.04  pkg:cpan/File-Print-Many@0.04
-File::Process                       0.15  pkg:cpan/CPAN-Maker@1.7.4
-File::Process::Utils                0.12  pkg:cpan/CPAN-Maker@1.7.4
+File::Process                       0.15  pkg:cpan/CPAN-Maker@1.7.5
+File::Process::Utils                0.12  pkg:cpan/CPAN-Maker@1.7.5
 File::ProjectHome                   0.02  pkg:cpan/File-ProjectHome@0.02
 File::Properties                    0.02  pkg:cpan/File-Properties@0.02
 File::Properties::Cache             0.01  pkg:cpan/File-Properties@0.02
