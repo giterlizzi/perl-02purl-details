@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 15 Apr 2026 07:21:58 GMT
+Last-Updated: Wed, 15 Apr 2026 09:11:39 GMT
 Line-Count: 263740
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -49836,7 +49836,7 @@ Crypt::SEAL2                         1.0  pkg:cpan/Crypt-SEAL2@1.0.4
 Crypt::SEED                         0.01  pkg:cpan/Crypt-SEED@0.01
 Crypt::SHAVS                        0.02  pkg:cpan/Crypt-SHAVS@0.02
 Crypt::SKey                         0.10  pkg:cpan/Crypt-SKey@0.10
-Crypt::SMIME                        0.31  pkg:cpan/Crypt-SMIME@0.31
+Crypt::SMIME                        0.32  pkg:cpan/Crypt-SMIME@0.32
 Crypt::SMimeEngine                  0.06  pkg:cpan/Crypt-SMimeEngine@0.06
 Crypt::SRP                         0.019  pkg:cpan/Crypt-SRP@0.019
 Crypt::SSLeay                       0.72  pkg:cpan/Crypt-SSLeay@0.72
@@ -109969,7 +109969,7 @@ Horris::Connection::Plugin::Retry  undef  pkg:cpan/Horris@v0.1.2
 Horris::Connection::Plugin::Twitter undef  pkg:cpan/Horris@v0.1.2
 Horris::Message                    undef  pkg:cpan/Horris@v0.1.2
 Horris::Message::Address           undef  pkg:cpan/Horris@v0.1.2
-Horus                               0.05  pkg:cpan/Horus@0.05
+Horus                               0.06  pkg:cpan/Horus@0.06
 Hostfile::Manager                   0.09  pkg:cpan/Hostfile-Manager@0.09
 Howdy                               0.01  pkg:cpan/ptkFAQ@0_03
 HtDig::Config                       1.02  pkg:cpan/HtDig-Config@1.02
