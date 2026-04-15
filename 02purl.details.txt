@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 15 Apr 2026 13:09:54 GMT
-Line-Count: 263740
+Last-Updated: Wed, 15 Apr 2026 15:01:15 GMT
+Line-Count: 263758
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -8149,6 +8149,24 @@ ApacheMagicApp                     undef  pkg:cpan/CGI-Builder@1.36
 ApacheMagicApp::Lookups            undef  pkg:cpan/CGI-Builder@1.36
 Apachish                           0.009000  pkg:cpan/Apachish@0.9.0
 Apachish::Examples                  0.01  pkg:cpan/Apachish-Examples@0.01
+Apertur::SDK                        0.01  pkg:cpan/Apertur-SDK@0.01
+Apertur::SDK::Crypto               undef  pkg:cpan/Apertur-SDK@0.01
+Apertur::SDK::Error                undef  pkg:cpan/Apertur-SDK@0.01
+Apertur::SDK::Error::Authentication undef  pkg:cpan/Apertur-SDK@0.01
+Apertur::SDK::Error::NotFound      undef  pkg:cpan/Apertur-SDK@0.01
+Apertur::SDK::Error::RateLimit     undef  pkg:cpan/Apertur-SDK@0.01
+Apertur::SDK::Error::Validation    undef  pkg:cpan/Apertur-SDK@0.01
+Apertur::SDK::HTTPClient           undef  pkg:cpan/Apertur-SDK@0.01
+Apertur::SDK::Resource::Destinations undef  pkg:cpan/Apertur-SDK@0.01
+Apertur::SDK::Resource::Encryption undef  pkg:cpan/Apertur-SDK@0.01
+Apertur::SDK::Resource::Keys       undef  pkg:cpan/Apertur-SDK@0.01
+Apertur::SDK::Resource::Polling    undef  pkg:cpan/Apertur-SDK@0.01
+Apertur::SDK::Resource::Sessions   undef  pkg:cpan/Apertur-SDK@0.01
+Apertur::SDK::Resource::Stats      undef  pkg:cpan/Apertur-SDK@0.01
+Apertur::SDK::Resource::Upload     undef  pkg:cpan/Apertur-SDK@0.01
+Apertur::SDK::Resource::Uploads    undef  pkg:cpan/Apertur-SDK@0.01
+Apertur::SDK::Resource::Webhooks   undef  pkg:cpan/Apertur-SDK@0.01
+Apertur::SDK::Signature            undef  pkg:cpan/Apertur-SDK@0.01
 Api::Account                        0.03  pkg:cpan/ElasticEmail@0.03
 Api::Attachment                     0.03  pkg:cpan/ElasticEmail@0.03
 Api::Campaign                       0.03  pkg:cpan/ElasticEmail@0.03
@@ -10968,7 +10986,7 @@ App::LogStats                      0.091  pkg:cpan/App-LogStats@0.091
 App::Logs                              0  pkg:cpan/App-FargateStack@1.0.50
 App::MARC::Count                    0.04  pkg:cpan/App-MARC-Count@0.04
 App::MARC::Filter                   0.08  pkg:cpan/App-MARC-Filter@0.08
-App::MARC::Leader                   0.08  pkg:cpan/App-MARC-Leader@0.08
+App::MARC::Leader                   0.09  pkg:cpan/App-MARC-Leader@0.09
 App::MARC::List                     0.08  pkg:cpan/App-MARC-List@0.08
 App::MARC::Record::Stats            0.02  pkg:cpan/App-MARC-Record-Stats@0.02
 App::MARC::Validator                0.08  pkg:cpan/App-MARC-Validator@0.08
@@ -57548,17 +57566,17 @@ Data::HashMap::SI                   0.07  pkg:cpan/Data-HashMap@0.07
 Data::HashMap::SI16                 0.07  pkg:cpan/Data-HashMap@0.07
 Data::HashMap::SI32                 0.07  pkg:cpan/Data-HashMap@0.07
 Data::HashMap::SS                   0.07  pkg:cpan/Data-HashMap@0.07
-Data::HashMap::Shared               0.05  pkg:cpan/Data-HashMap-Shared@0.05
-Data::HashMap::Shared::I16          0.02  pkg:cpan/Data-HashMap-Shared@0.05
-Data::HashMap::Shared::I16S         0.02  pkg:cpan/Data-HashMap-Shared@0.05
-Data::HashMap::Shared::I32          0.02  pkg:cpan/Data-HashMap-Shared@0.05
-Data::HashMap::Shared::I32S         0.02  pkg:cpan/Data-HashMap-Shared@0.05
-Data::HashMap::Shared::II           0.02  pkg:cpan/Data-HashMap-Shared@0.05
-Data::HashMap::Shared::IS           0.02  pkg:cpan/Data-HashMap-Shared@0.05
-Data::HashMap::Shared::SI           0.02  pkg:cpan/Data-HashMap-Shared@0.05
-Data::HashMap::Shared::SI16         0.02  pkg:cpan/Data-HashMap-Shared@0.05
-Data::HashMap::Shared::SI32         0.02  pkg:cpan/Data-HashMap-Shared@0.05
-Data::HashMap::Shared::SS           0.02  pkg:cpan/Data-HashMap-Shared@0.05
+Data::HashMap::Shared               0.06  pkg:cpan/Data-HashMap-Shared@0.06
+Data::HashMap::Shared::I16          0.02  pkg:cpan/Data-HashMap-Shared@0.06
+Data::HashMap::Shared::I16S         0.02  pkg:cpan/Data-HashMap-Shared@0.06
+Data::HashMap::Shared::I32          0.02  pkg:cpan/Data-HashMap-Shared@0.06
+Data::HashMap::Shared::I32S         0.02  pkg:cpan/Data-HashMap-Shared@0.06
+Data::HashMap::Shared::II           0.02  pkg:cpan/Data-HashMap-Shared@0.06
+Data::HashMap::Shared::IS           0.02  pkg:cpan/Data-HashMap-Shared@0.06
+Data::HashMap::Shared::SI           0.02  pkg:cpan/Data-HashMap-Shared@0.06
+Data::HashMap::Shared::SI16         0.02  pkg:cpan/Data-HashMap-Shared@0.06
+Data::HashMap::Shared::SI32         0.02  pkg:cpan/Data-HashMap-Shared@0.06
+Data::HashMap::Shared::SS           0.02  pkg:cpan/Data-HashMap-Shared@0.06
 Data::HashType                      0.07  pkg:cpan/Data-HashType@0.07
 Data::Header::Fields                0.05  pkg:cpan/Data-Header-Fields@0.05
 Data::Heap::Shared                  0.02  pkg:cpan/Data-Heap-Shared@0.02
@@ -127159,7 +127177,7 @@ MARC::Leader                        0.08  pkg:cpan/MARC-Leader@0.08
 MARC::Leader::L10N                  0.03  pkg:cpan/MARC-Leader-L10N@0.03
 MARC::Leader::L10N::cs              0.03  pkg:cpan/MARC-Leader-L10N@0.03
 MARC::Leader::L10N::en              0.03  pkg:cpan/MARC-Leader-L10N@0.03
-MARC::Leader::Print                 0.05  pkg:cpan/MARC-Leader-Print@0.05
+MARC::Leader::Print                 0.06  pkg:cpan/MARC-Leader-Print@0.06
 MARC::Leader::Utils                 0.02  pkg:cpan/MARC-Leader-Utils@0.02
 MARC::Lint                          1.53  pkg:cpan/MARC-Lint@1.53
 MARC::Lint::CodeData                1.38  pkg:cpan/MARC-Lint@1.53
@@ -147956,10 +147974,10 @@ Net::Gandi::Operation              1.122180  pkg:cpan/Net-Gandi@1.122180
 Net::Gandi::Role::XMLRPC           1.122180  pkg:cpan/Net-Gandi@1.122180
 Net::Gandi::Transport::XMLRPC      1.122180  pkg:cpan/Net-Gandi@1.122180
 Net::Gandi::Types                  1.122180  pkg:cpan/Net-Gandi@1.122180
-Net::Gearman                        0.04  pkg:cpan/Protocol-Gearman@0.04
+Net::Gearman                        0.05  pkg:cpan/Protocol-Gearman@0.05
 Net::Gearman::Administrative       undef  pkg:cpan/Net-Gearman-Administrative@0.00101
-Net::Gearman::Client                0.04  pkg:cpan/Protocol-Gearman@0.04
-Net::Gearman::Worker                0.04  pkg:cpan/Protocol-Gearman@0.04
+Net::Gearman::Client                0.05  pkg:cpan/Protocol-Gearman@0.05
+Net::Gearman::Worker                0.05  pkg:cpan/Protocol-Gearman@0.05
 Net::Gemini                         0.11  pkg:cpan/Net-Gemini@0.11
 Net::Gemini::Server                 0.11  pkg:cpan/Net-Gemini@0.11
 Net::Gen                           1.011  pkg:cpan/Net-ext@1.011
@@ -199529,9 +199547,9 @@ Protocol::FIX::Message              0.08  pkg:cpan/Protocol-FIX@0.08
 Protocol::FIX::MessageInstance      0.08  pkg:cpan/Protocol-FIX@0.08
 Protocol::FIX::Parser               0.08  pkg:cpan/Protocol-FIX@0.08
 Protocol::FIX::TagsAccessor         0.08  pkg:cpan/Protocol-FIX@0.08
-Protocol::Gearman                   0.04  pkg:cpan/Protocol-Gearman@0.04
-Protocol::Gearman::Client           0.04  pkg:cpan/Protocol-Gearman@0.04
-Protocol::Gearman::Worker           0.04  pkg:cpan/Protocol-Gearman@0.04
+Protocol::Gearman                   0.05  pkg:cpan/Protocol-Gearman@0.05
+Protocol::Gearman::Client           0.05  pkg:cpan/Protocol-Gearman@0.05
+Protocol::Gearman::Worker           0.05  pkg:cpan/Protocol-Gearman@0.05
 Protocol::HTTP                     1.001006  pkg:cpan/Protocol-HTTP@1.1.6
 Protocol::HTTP2                     1.12  pkg:cpan/Protocol-HTTP2@1.12
 Protocol::HTTP2::Client            undef  pkg:cpan/Protocol-HTTP2@1.12
