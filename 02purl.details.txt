@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 15 Apr 2026 10:53:54 GMT
+Last-Updated: Wed, 15 Apr 2026 13:09:54 GMT
 Line-Count: 263740
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -58154,7 +58154,7 @@ Data::MARC::Field008::MixedMaterial  0.04  pkg:cpan/Data-MARC-Field008@0.04
 Data::MARC::Field008::Music         0.04  pkg:cpan/Data-MARC-Field008@0.04
 Data::MARC::Field008::Utils         0.04  pkg:cpan/Data-MARC-Field008@0.04
 Data::MARC::Field008::VisualMaterial  0.04  pkg:cpan/Data-MARC-Field008@0.04
-Data::MARC::Leader                  0.07  pkg:cpan/Data-MARC-Leader@0.07
+Data::MARC::Leader                  0.08  pkg:cpan/Data-MARC-Leader@0.08
 Data::MARC::Leader::Utils           0.07  pkg:cpan/Data-MARC-Leader@0.07
 Data::MARC::Leader::Utils::CES      0.07  pkg:cpan/Data-MARC-Leader@0.07
 Data::MARC::Leader::Utils::ENG      0.07  pkg:cpan/Data-MARC-Leader@0.07
@@ -127156,10 +127156,10 @@ MARC::File::XML                    1.000005  pkg:cpan/MARC-File-XML@1.0.5
 MARC::Indexer                       0.04  pkg:cpan/MARC-Indexer@0.04
 MARC::Indexer::Config              undef  pkg:cpan/MARC-Indexer@0.04
 MARC::Leader                        0.08  pkg:cpan/MARC-Leader@0.08
-MARC::Leader::L10N                  0.02  pkg:cpan/MARC-Leader-L10N@0.02
-MARC::Leader::L10N::cs              0.02  pkg:cpan/MARC-Leader-L10N@0.02
-MARC::Leader::L10N::en              0.02  pkg:cpan/MARC-Leader-L10N@0.02
-MARC::Leader::Print                 0.04  pkg:cpan/MARC-Leader-Print@0.04
+MARC::Leader::L10N                  0.03  pkg:cpan/MARC-Leader-L10N@0.03
+MARC::Leader::L10N::cs              0.03  pkg:cpan/MARC-Leader-L10N@0.03
+MARC::Leader::L10N::en              0.03  pkg:cpan/MARC-Leader-L10N@0.03
+MARC::Leader::Print                 0.05  pkg:cpan/MARC-Leader-Print@0.05
 MARC::Leader::Utils                 0.02  pkg:cpan/MARC-Leader-Utils@0.02
 MARC::Lint                          1.53  pkg:cpan/MARC-Lint@1.53
 MARC::Lint::CodeData                1.38  pkg:cpan/MARC-Lint@1.53
@@ -230241,7 +230241,7 @@ Test::Web::AssetLib::TestLibrary   undef  pkg:cpan/Web-AssetLib@0.042
 Test::Web::AssetLib::TestRole      undef  pkg:cpan/Web-AssetLib@0.042
 Test::WebDriver                    undef  pkg:cpan/Test-WebDriver@0.01
 Test::WebService::Amazon::DynamoDB::Server 0.001  pkg:cpan/WebService-Amazon-DynamoDB-Server@0.001
-Test::Which                         0.06  pkg:cpan/Test-Which@0.06
+Test::Which                         0.07  pkg:cpan/Test-Which@0.07
 Test::Whitespaces                  1.002001  pkg:cpan/Test-Whitespaces@1.2.1
 Test::Wight                        undef  pkg:cpan/Wight@0.02
 Test::Wiretap                       1.01  pkg:cpan/Test-Wiretap@1.01
