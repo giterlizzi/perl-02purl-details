@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 15 Apr 2026 20:41:02 GMT
+Last-Updated: Wed, 15 Apr 2026 22:36:24 GMT
 Line-Count: 263768
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -108952,9 +108952,9 @@ HTTPRequest                          1.0  pkg:cpan/MMM-Text-Search@0.07
 HTTPx::Dispatcher                   0.10  pkg:cpan/HTTPx-Dispatcher@0.10
 HTTPx::Dispatcher::Rule            undef  pkg:cpan/HTTPx-Dispatcher@0.10
 HTTunnel::Client                    0.08  pkg:cpan/Apache-HTTunnel@0.08
-HV::Monitor                        0.001000  pkg:cpan/HV-Monitor@0.1.0
-HV::Monitor::Backends::CBSD        0.000003  pkg:cpan/HV-Monitor@0.1.0
-HV::Monitor::Backends::Libvirt     0.000004  pkg:cpan/HV-Monitor@0.1.0
+HV::Monitor                        0.002000  pkg:cpan/HV-Monitor@0.2.0
+HV::Monitor::Backends::CBSD        0.000003  pkg:cpan/HV-Monitor@0.2.0
+HV::Monitor::Backends::Libvirt     0.000004  pkg:cpan/HV-Monitor@0.2.0
 HWND                                0.02  pkg:cpan/OS2-WinObject@0.02
 Hack::Natas                        0.003  pkg:cpan/Hack-Natas@0.003
 Hack::Natas::15                    0.003  pkg:cpan/Hack-Natas@0.003
@@ -126752,7 +126752,7 @@ Logo                               1.000  pkg:cpan/Language-Logo@1.000
 Logo::svplus                        0.01  pkg:cpan/SchemaView-Plus@0.17
 Logwatch::RecordTree               2.056  pkg:cpan/Logwatch-RecordTree@2.056
 Logwatch::RecordTree::IPv4         2.056  pkg:cpan/Logwatch-RecordTree@2.056
-Long::Jump                         0.000003  pkg:cpan/Long-Jump@0.000003
+Long::Jump                         0.000004  pkg:cpan/Long-Jump@0.000004
 LongSearch                         undef  pkg:cpan/JRPC@0.61
 Loo                                 0.10  pkg:cpan/Loo@0.10
 LooksLike                          v0.20.60  pkg:cpan/LooksLike@v0.20.060
