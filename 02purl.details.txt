@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 16 Apr 2026 07:44:51 GMT
+Last-Updated: Thu, 16 Apr 2026 09:11:48 GMT
 Line-Count: 263789
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -49870,7 +49870,7 @@ Crypt::SEAL2                         1.0  pkg:cpan/Crypt-SEAL2@1.0.4
 Crypt::SEED                         0.01  pkg:cpan/Crypt-SEED@0.01
 Crypt::SHAVS                        0.02  pkg:cpan/Crypt-SHAVS@0.02
 Crypt::SKey                         0.10  pkg:cpan/Crypt-SKey@0.10
-Crypt::SMIME                        0.32  pkg:cpan/Crypt-SMIME@0.32
+Crypt::SMIME                        0.32  pkg:cpan/Crypt-SMIME@0.33
 Crypt::SMimeEngine                  0.06  pkg:cpan/Crypt-SMimeEngine@0.06
 Crypt::SRP                         0.019  pkg:cpan/Crypt-SRP@0.019
 Crypt::SSLeay                       0.72  pkg:cpan/Crypt-SSLeay@0.72
@@ -63790,7 +63790,7 @@ Devel::CCompat::C99::VariableLengthArrays 0.002  pkg:cpan/Devel-CCompat-C99-Vari
 Devel::CCov                         0.20  pkg:cpan/Devel-CCov@0.20
 Devel::CStacktrace                 0.012  pkg:cpan/Devel-cst@0.012
 Devel::CallChecker                 0.009  pkg:cpan/Devel-CallChecker@0.009
-Devel::CallParser                  0.002  pkg:cpan/Devel-CallParser@0.002
+Devel::CallParser                  0.004  pkg:cpan/Devel-CallParser@0.004
 Devel::CallSequence                undef  pkg:cpan/UML-Sequence@0.08
 Devel::CallStack                    0.19  pkg:cpan/Devel-CallStack@0.19
 Devel::CallTrace                     1.2  pkg:cpan/Devel-CallTrace@1.2
@@ -112228,37 +112228,37 @@ IPC::MMA::Scalar                    0.81  pkg:cpan/IPC-MMA@0.81
 IPC::MPS                            0.21  pkg:cpan/IPC-MPS@0.21
 IPC::MPS::EV                        0.21  pkg:cpan/IPC-MPS@0.21
 IPC::MPS::Event                     0.21  pkg:cpan/IPC-MPS@0.21
-IPC::Manager                       0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Base::DBI            0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Base::FS             0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Base::FS::Handle     0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Client               0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Client::AtomicPipe   0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Client::JSONFile     0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Client::LocalMemory  0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Client::MariaDB      0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Client::MessageFiles 0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Client::MySQL        0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Client::PostgreSQL   0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Client::SQLite       0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Client::SharedMem    0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Client::UnixSocket   0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::DBI                  0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Message              0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Role::Service        0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Role::Service::Requests 0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Role::Service::Select 0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Serializer           0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Serializer::JSON     0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Service              0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Service::Echo        0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Service::Handle      0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Service::Peer        0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Service::State       undef  pkg:cpan/IPC-Manager@0.000019
+IPC::Manager                       0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Base::DBI            0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Base::FS             0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Base::FS::Handle     0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Client               0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Client::AtomicPipe   0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Client::JSONFile     0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Client::LocalMemory  0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Client::MariaDB      0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Client::MessageFiles 0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Client::MySQL        0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Client::PostgreSQL   0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Client::SQLite       0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Client::SharedMem    0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Client::UnixSocket   0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::DBI                  0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Message              0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Role::Service        0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Role::Service::Requests 0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Role::Service::Select 0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Serializer           0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Serializer::JSON     0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Service              0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Service::Echo        0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Service::Handle      0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Service::Peer        0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Service::State       undef  pkg:cpan/IPC-Manager@0.000020
 IPC::Manager::ServicePeer          0.000010  pkg:cpan/IPC-Manager@0.000010
-IPC::Manager::Spawn                0.000019  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Test                 undef  pkg:cpan/IPC-Manager@0.000019
-IPC::Manager::Util                 0.000019  pkg:cpan/IPC-Manager@0.000019
+IPC::Manager::Spawn                0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Test                 undef  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Util                 0.000020  pkg:cpan/IPC-Manager@0.000020
 IPC::MicroSocket                    0.05  pkg:cpan/IPC-MicroSocket@0.05
 IPC::MicroSocket::Client            0.05  pkg:cpan/IPC-MicroSocket@0.05
 IPC::MicroSocket::Server            0.05  pkg:cpan/IPC-MicroSocket@0.05
