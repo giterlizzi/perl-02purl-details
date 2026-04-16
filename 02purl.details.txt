@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 16 Apr 2026 17:06:50 GMT
-Line-Count: 263796
+Last-Updated: Thu, 16 Apr 2026 19:02:57 GMT
+Line-Count: 263809
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -81454,11 +81454,11 @@ Geo::Gpx                            1.11  pkg:cpan/Geo-Gpx@1.11
 Geo::Gpx::Point                     1.11  pkg:cpan/Geo-Gpx@1.11
 Geo::H3                             0.09  pkg:cpan/Geo-H3@0.09
 Geo::H3::Base                       0.09  pkg:cpan/Geo-H3@0.09
-Geo::H3::FFI                        0.07  pkg:cpan/Geo-H3-FFI@0.07
-Geo::H3::FFI::Array::GeoCoord       0.07  pkg:cpan/Geo-H3-FFI@0.07
+Geo::H3::FFI                        0.08  pkg:cpan/Geo-H3-FFI@0.08
+Geo::H3::FFI::Array::GeoCoord       0.08  pkg:cpan/Geo-H3-FFI@0.08
 Geo::H3::FFI::Array::H3Index        0.05  pkg:cpan/Geo-H3-FFI@0.05
-Geo::H3::FFI::Struct::GeoBoundary   0.07  pkg:cpan/Geo-H3-FFI@0.07
-Geo::H3::FFI::Struct::GeoCoord      0.07  pkg:cpan/Geo-H3-FFI@0.07
+Geo::H3::FFI::Struct::GeoBoundary   0.08  pkg:cpan/Geo-H3-FFI@0.08
+Geo::H3::FFI::Struct::GeoCoord      0.08  pkg:cpan/Geo-H3-FFI@0.08
 Geo::H3::FFI::Struct::H3Index       0.05  pkg:cpan/Geo-H3-FFI@0.05
 Geo::H3::Geo                        0.09  pkg:cpan/Geo-H3@0.09
 Geo::H3::GeoBoundary                0.09  pkg:cpan/Geo-H3@0.09
@@ -224478,6 +224478,19 @@ TSVRPC::Parser                     undef  pkg:cpan/Cache-KyotoTycoon@0.16
 TSVRPC::Util                       undef  pkg:cpan/Cache-KyotoTycoon@0.16
 TT2::Play::Area                    0.002  pkg:cpan/TT2-Play-Area@0.002
 TTransportException                undef  pkg:cpan/Thrift@0.9.3
+TUI::App                           v2.0.0  pkg:cpan/TUI-Vision@2.0.0
+TUI::Dialogs                       v2.0.0  pkg:cpan/TUI-Vision@2.0.0
+TUI::Drivers                       v2.0.0  pkg:cpan/TUI-Vision@2.0.0
+TUI::Gadgets                       v2.0.0  pkg:cpan/TUI-Vision@2.0.0
+TUI::Memory                        v2.0.0  pkg:cpan/TUI-Vision@2.0.0
+TUI::MsgBox                        v2.0.0  pkg:cpan/TUI-Vision@2.0.0
+TUI::Objects                       v2.0.0  pkg:cpan/TUI-Vision@2.0.0
+TUI::StdDlg                        v2.0.0  pkg:cpan/TUI-Vision@2.0.0
+TUI::TextView                      v2.0.0  pkg:cpan/TUI-Vision@2.0.0
+TUI::Validate                      v2.0.0  pkg:cpan/TUI-Vision@2.0.0
+TUI::Views                         v2.0.0  pkg:cpan/TUI-Vision@2.0.0
+TUI::Vision                        v2.0.0  pkg:cpan/TUI-Vision@2.0.0
+TUI::toolkit                       v2.0.0  pkg:cpan/TUI-Vision@2.0.0
 TUWF                                 1.6  pkg:cpan/TUWF@1.6
 TUWF::DB                             1.6  pkg:cpan/TUWF@1.6
 TUWF::Exception                    undef  pkg:cpan/TUWF@1.6
