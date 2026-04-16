@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 16 Apr 2026 13:16:59 GMT
-Line-Count: 263795
+Last-Updated: Thu, 16 Apr 2026 15:20:49 GMT
+Line-Count: 263796
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -15973,6 +15973,7 @@ App::makefilepl2cpanfile            0.02  pkg:cpan/App-makefilepl2cpanfile@0.02
 App::manwrap::pm                   0.006  pkg:cpan/App-manwrap-pm@0.006
 App::matrixpack                    0.0014  pkg:cpan/App-matrixpack@0.0014
 App::mbxilinx                       0.13  pkg:cpan/Module-Build-Xilinx@0.13
+App::md2html                       0.001001  pkg:cpan/App-md2html@0.01.1
 App::mdee                           1.08  pkg:cpan/App-mdee@1.08
 App::merge_cpanfile                 0.01  pkg:cpan/App-merge_cpanfile@0.01
 App::metacpansearch                undef  pkg:cpan/App-metacpansearch@0.01
@@ -29554,8 +29555,8 @@ Business::Bitcoin                  1.051  pkg:cpan/Business-Bitcoin@1.051
 Business::Bitcoin::Request         1.051  pkg:cpan/Business-Bitcoin@1.051
 Business::Bitpay                    0.05  pkg:cpan/Business-Bitpay@0.05
 Business::CA::GST                   1.03  pkg:cpan/Business-CA-GST@1.03
-Business::CAMT                      0.14  pkg:cpan/Business-CAMT@0.14
-Business::CAMT::Message             0.14  pkg:cpan/Business-CAMT@0.14
+Business::CAMT                      0.15  pkg:cpan/Business-CAMT@0.15
+Business::CAMT::Message             0.15  pkg:cpan/Business-CAMT@0.15
 Business::CCCheck                   0.10  pkg:cpan/Business-CCCheck@0.10
 Business::CCCheck::CardID           0.10  pkg:cpan/Business-CCCheck@0.10
 Business::CCProcessor               0.09  pkg:cpan/Business-CCProcessor@0.09
@@ -30278,7 +30279,7 @@ Business::IS::PIN                   0.06  pkg:cpan/Business-IS-PIN@0.06
 Business::ISBN                     3.013  pkg:cpan/Business-ISBN@3.013
 Business::ISBN10                   3.013  pkg:cpan/Business-ISBN@3.013
 Business::ISBN13                   3.013  pkg:cpan/Business-ISBN@3.013
-Business::ISBN::Data               20260411.001  pkg:cpan/Business-ISBN-Data@20260411.001
+Business::ISBN::Data               20260416.001  pkg:cpan/Business-ISBN-Data@20260416.001
 Business::ISIN                      0.20  pkg:cpan/Business-ISIN@0.20?ext=tgz
 Business::ISMN                     1.205  pkg:cpan/Business-ISMN@1.205
 Business::ISMN::Data               1.205  pkg:cpan/Business-ISMN@1.205
@@ -112234,37 +112235,37 @@ IPC::MMA::Scalar                    0.81  pkg:cpan/IPC-MMA@0.81
 IPC::MPS                            0.21  pkg:cpan/IPC-MPS@0.21
 IPC::MPS::EV                        0.21  pkg:cpan/IPC-MPS@0.21
 IPC::MPS::Event                     0.21  pkg:cpan/IPC-MPS@0.21
-IPC::Manager                       0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Base::DBI            0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Base::FS             0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Base::FS::Handle     0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Client               0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Client::AtomicPipe   0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Client::JSONFile     0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Client::LocalMemory  0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Client::MariaDB      0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Client::MessageFiles 0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Client::MySQL        0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Client::PostgreSQL   0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Client::SQLite       0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Client::SharedMem    0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Client::UnixSocket   0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::DBI                  0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Message              0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Role::Service        0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Role::Service::Requests 0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Role::Service::Select 0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Serializer           0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Serializer::JSON     0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Service              0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Service::Echo        0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Service::Handle      0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Service::Peer        0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Service::State       undef  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager                       0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Base::DBI            0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Base::FS             0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Base::FS::Handle     0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Client               0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Client::AtomicPipe   0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Client::JSONFile     0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Client::LocalMemory  0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Client::MariaDB      0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Client::MessageFiles 0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Client::MySQL        0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Client::PostgreSQL   0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Client::SQLite       0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Client::SharedMem    0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Client::UnixSocket   0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::DBI                  0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Message              0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Role::Service        0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Role::Service::Requests 0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Role::Service::Select 0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Serializer           0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Serializer::JSON     0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Service              0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Service::Echo        0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Service::Handle      0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Service::Peer        0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Service::State       undef  pkg:cpan/IPC-Manager@0.000021
 IPC::Manager::ServicePeer          0.000010  pkg:cpan/IPC-Manager@0.000010
-IPC::Manager::Spawn                0.000020  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Test                 undef  pkg:cpan/IPC-Manager@0.000020
-IPC::Manager::Util                 0.000020  pkg:cpan/IPC-Manager@0.000020
+IPC::Manager::Spawn                0.000021  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Test                 undef  pkg:cpan/IPC-Manager@0.000021
+IPC::Manager::Util                 0.000021  pkg:cpan/IPC-Manager@0.000021
 IPC::MicroSocket                    0.05  pkg:cpan/IPC-MicroSocket@0.05
 IPC::MicroSocket::Client            0.05  pkg:cpan/IPC-MicroSocket@0.05
 IPC::MicroSocket::Server            0.05  pkg:cpan/IPC-MicroSocket@0.05
@@ -127157,16 +127158,16 @@ MARC::Convert::Wikidata::Item       0.33  pkg:cpan/MARC-Convert-Wikidata@0.33
 MARC::Convert::Wikidata::Item::AudioBook  0.33  pkg:cpan/MARC-Convert-Wikidata@0.33
 MARC::Convert::Wikidata::Item::BookEdition  0.33  pkg:cpan/MARC-Convert-Wikidata@0.33
 MARC::Convert::Wikidata::Item::Periodical  0.33  pkg:cpan/MARC-Convert-Wikidata@0.33
-MARC::Convert::Wikidata::Object     0.15  pkg:cpan/MARC-Convert-Wikidata-Object@0.15
-MARC::Convert::Wikidata::Object::ExternalId  0.15  pkg:cpan/MARC-Convert-Wikidata-Object@0.15
-MARC::Convert::Wikidata::Object::ISBN  0.15  pkg:cpan/MARC-Convert-Wikidata-Object@0.15
-MARC::Convert::Wikidata::Object::Kramerius  0.15  pkg:cpan/MARC-Convert-Wikidata-Object@0.15
-MARC::Convert::Wikidata::Object::People  0.15  pkg:cpan/MARC-Convert-Wikidata-Object@0.15
-MARC::Convert::Wikidata::Object::PublicationDate  0.15  pkg:cpan/MARC-Convert-Wikidata-Object@0.15
-MARC::Convert::Wikidata::Object::Publisher  0.15  pkg:cpan/MARC-Convert-Wikidata-Object@0.15
-MARC::Convert::Wikidata::Object::Series  0.15  pkg:cpan/MARC-Convert-Wikidata-Object@0.15
+MARC::Convert::Wikidata::Object     0.16  pkg:cpan/MARC-Convert-Wikidata-Object@0.16
+MARC::Convert::Wikidata::Object::ExternalId  0.16  pkg:cpan/MARC-Convert-Wikidata-Object@0.16
+MARC::Convert::Wikidata::Object::ISBN  0.16  pkg:cpan/MARC-Convert-Wikidata-Object@0.16
+MARC::Convert::Wikidata::Object::Kramerius  0.16  pkg:cpan/MARC-Convert-Wikidata-Object@0.16
+MARC::Convert::Wikidata::Object::People  0.16  pkg:cpan/MARC-Convert-Wikidata-Object@0.16
+MARC::Convert::Wikidata::Object::PublicationDate  0.16  pkg:cpan/MARC-Convert-Wikidata-Object@0.16
+MARC::Convert::Wikidata::Object::Publisher  0.16  pkg:cpan/MARC-Convert-Wikidata-Object@0.16
+MARC::Convert::Wikidata::Object::Series  0.16  pkg:cpan/MARC-Convert-Wikidata-Object@0.16
 MARC::Convert::Wikidata::Object::Utils  0.02  pkg:cpan/MARC-Convert-Wikidata-Object@0.02
-MARC::Convert::Wikidata::Object::Work  0.15  pkg:cpan/MARC-Convert-Wikidata-Object@0.15
+MARC::Convert::Wikidata::Object::Work  0.16  pkg:cpan/MARC-Convert-Wikidata-Object@0.16
 MARC::Convert::Wikidata::Transform  0.33  pkg:cpan/MARC-Convert-Wikidata@0.33
 MARC::Convert::Wikidata::Utils      0.33  pkg:cpan/MARC-Convert-Wikidata@0.33
 MARC::Crosswalk::DublinCore         0.02  pkg:cpan/MARC-Crosswalk-DublinCore@0.02
@@ -229480,7 +229481,7 @@ Test::Proto::Where                 0.001  pkg:cpan/Test-Proto-Where@0.001
 Test::ProveRdeps                   0.002  pkg:cpan/Test-ProveRdeps@0.002
 Test::Puppet::Compile               0.04  pkg:cpan/Test-Puppet-Compile@0.04
 Test::PureASCII                     0.02  pkg:cpan/Test-PureASCII@0.02
-Test::QuickGen                     0.001001  pkg:cpan/Test-QuickGen@0.1.1
+Test::QuickGen                     0.001002  pkg:cpan/Test-QuickGen@0.1.2
 Test::RDF                           1.22  pkg:cpan/Test-RDF@1.22
 Test::RDF::DOAP::Version           0.010  pkg:cpan/Test-RDF-DOAP-Version@0.010
 Test::RDF::Trine::Store            1.019  pkg:cpan/RDF-Trine@1.019
