@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 16 Apr 2026 02:02:44 GMT
-Line-Count: 263785
+Last-Updated: Thu, 16 Apr 2026 05:57:19 GMT
+Line-Count: 263789
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -47175,7 +47175,7 @@ CommitBit::Notification::InviteToProject undef  pkg:cpan/CommitBit@0.02
 CommitBit::Record                  undef  pkg:cpan/CommitBit@0.02
 CommitBit::Test                    undef  pkg:cpan/CommitBit@0.02
 Common::CLI                         0.04  pkg:cpan/Common-CLI@0.04
-Common::CodingTools                 2.04  pkg:cpan/Common-CodingTools@2.04
+Common::CodingTools                 2.06  pkg:cpan/Common-CodingTools@2.06
 Common::Log::Parser                v0.2.0  pkg:cpan/Common-Log-Parser@v0.2.0
 Common::Routine                    0.000005  pkg:cpan/Common-Routine@0.0.5
 CommonAPIHandler                   undef  pkg:cpan/ZZZ-SDK@0.0.2
@@ -63442,7 +63442,7 @@ Debug::Client                       0.34  pkg:cpan/Debug-Client@0.34
 Debug::CodeBlock                    1.03  pkg:cpan/Debug-CodeBlock@1.03
 Debug::Comments                    1.000  pkg:cpan/Debug-Comments@1.000
 Debug::DumpCore                     0.01  pkg:cpan/Debug-FaultAutoBT@0.02
-Debug::Easy                         2.24  pkg:cpan/Debug-Easy@2.24
+Debug::Easy                         2.26  pkg:cpan/Debug-Easy@2.26
 Debug::EchoMessage                  1.03  pkg:cpan/Debug-EchoMessage@1.03
 Debug::FaultAutoBT                  0.02  pkg:cpan/Debug-FaultAutoBT@0.02
 Debug::Filter::PrintExpr            0.19  pkg:cpan/Debug-Filter-PrintExpr@0.19
@@ -112038,7 +112038,7 @@ IO::TieCombine::Scalar             1.005  pkg:cpan/IO-TieCombine@1.005
 IO::Tokenized                       0.04  pkg:cpan/IO-Tokenized@0.04
 IO::Tokenized::File                 0.05  pkg:cpan/IO-Tokenized@0.04
 IO::Tokenized::Scalar               0.05  pkg:cpan/FrameMaker-MifTree@0.075
-IO::Trace                          0.024  pkg:cpan/IO-Trace@0.024
+IO::Trace                          0.025  pkg:cpan/IO-Trace@0.025
 IO::Tty                             1.27  pkg:cpan/IO-Tty@1.27
 IO::Tty::Constant                   0.04  pkg:cpan/IO-Tty@0.04
 IO::Tty::Util                       0.03  pkg:cpan/IO-Tty-Util@0.03
@@ -127622,11 +127622,11 @@ MHonArc::UTF8::VISCII              2.006024  pkg:cpan/MHonArc@2.6.24
 MIDI                                0.84  pkg:cpan/MIDI-Perl@0.84
 MIDI::ALSA                          1.22  pkg:cpan/MIDI-ALSA@1.22
 MIDI::Chord::Guitar                0.0706  pkg:cpan/MIDI-Chord-Guitar@0.0706
-MIDI::Drummer::Tiny                0.7006  pkg:cpan/MIDI-Drummer-Tiny@0.7006
-MIDI::Drummer::Tiny::Grooves       0.7006  pkg:cpan/MIDI-Drummer-Tiny@0.7006
-MIDI::Drummer::Tiny::SwingFills    0.7006  pkg:cpan/MIDI-Drummer-Tiny@0.7006
-MIDI::Drummer::Tiny::Syncopate     0.7006  pkg:cpan/MIDI-Drummer-Tiny@0.7006
-MIDI::Drummer::Tiny::Types         0.7006  pkg:cpan/MIDI-Drummer-Tiny@0.7006
+MIDI::Drummer::Tiny                0.7011  pkg:cpan/MIDI-Drummer-Tiny@0.7011
+MIDI::Drummer::Tiny::Grooves       0.7011  pkg:cpan/MIDI-Drummer-Tiny@0.7011
+MIDI::Drummer::Tiny::SwingFills    0.7011  pkg:cpan/MIDI-Drummer-Tiny@0.7011
+MIDI::Drummer::Tiny::Syncopate     0.7011  pkg:cpan/MIDI-Drummer-Tiny@0.7011
+MIDI::Drummer::Tiny::Types         0.7011  pkg:cpan/MIDI-Drummer-Tiny@0.7011
 MIDI::Event                         0.84  pkg:cpan/MIDI-Perl@0.84
 MIDI::Morph                         0.02  pkg:cpan/MIDI-Morph@0.02
 MIDI::Music                         0.01  pkg:cpan/MIDI-Music@0.01
@@ -142468,7 +142468,7 @@ Music::CreatingRhythms             0.0806  pkg:cpan/Music-CreatingRhythms@0.0806
 Music::DBI                         undef  pkg:cpan/Gtk2-Ex-FormFactory@0.67
 Music::Dataset::ChordProgressions  0.0400  pkg:cpan/Music-Dataset-ChordProgressions@0.0400
 Music::Dice                        0.0206  pkg:cpan/Music-Dice@0.0206
-Music::Drummer                     0.7006  pkg:cpan/Music-Drummer@0.7006
+Music::Drummer                     0.7011  pkg:cpan/Music-Drummer@0.7011
 Music::Duration                    0.0901  pkg:cpan/Music-Duration@0.0901
 Music::Duration::Partition         0.0823  pkg:cpan/Music-Duration-Partition@0.0823
 Music::Factory                      0.01  pkg:cpan/Music-Factory@0.01
@@ -224898,6 +224898,10 @@ Tail::Tool::PreProcess             v0.4.8  pkg:cpan/Tail-Tool@v0.4.8
 Tail::Tool::Regex                  v0.4.8  pkg:cpan/Tail-Tool@v0.4.8
 Tail::Tool::RegexList              v0.4.8  pkg:cpan/Tail-Tool@v0.4.8
 TailModule                         undef  pkg:cpan/Parse-Eyapp@1.182
+Tailscale                           0.01  pkg:cpan/Tailscale@0.01
+Tailscale::HttpServer              undef  pkg:cpan/Tailscale@0.01
+Tailscale::TcpListener             undef  pkg:cpan/Tailscale@0.01
+Tailscale::TcpStream               undef  pkg:cpan/Tailscale@0.01
 Taint                               0.09  pkg:cpan/Taint@0.09
 Taint::Runtime                      0.03  pkg:cpan/Taint-Runtime@0.03
 Taint::Util                         0.08  pkg:cpan/Taint-Util@0.08
