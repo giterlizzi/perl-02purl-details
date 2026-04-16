@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 16 Apr 2026 19:02:57 GMT
-Line-Count: 263809
+Last-Updated: Thu, 16 Apr 2026 20:41:27 GMT
+Line-Count: 263810
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -42805,22 +42805,23 @@ ChainMake::Parallel                    0  pkg:cpan/ChainMake@0.9.0
 ChainMake::Tester                      0  pkg:cpan/ChainMake@0.9.0
 Champ                              0.001  pkg:cpan/App-PythonToPerl@0.001
 Champlain                           0.14  pkg:cpan/Champlain@0.14
-Chandra                             0.22  pkg:cpan/Chandra@0.22
-Chandra::App                        0.22  pkg:cpan/Chandra@0.22
-Chandra::Assets                     0.22  pkg:cpan/Chandra@0.22
-Chandra::Bind                       0.22  pkg:cpan/Chandra@0.22
-Chandra::Bridge                     0.22  pkg:cpan/Chandra@0.22
-Chandra::Bridge::Extension          0.22  pkg:cpan/Chandra@0.22
-Chandra::Clipboard                  0.22  pkg:cpan/Chandra@0.22
-Chandra::ContextMenu                0.22  pkg:cpan/Chandra@0.22
-Chandra::DevTools                   0.22  pkg:cpan/Chandra@0.22
-Chandra::Dialog                     0.22  pkg:cpan/Chandra@0.22
-Chandra::DragDrop                   0.22  pkg:cpan/Chandra@0.22
+Chandra                             0.23  pkg:cpan/Chandra@0.23
+Chandra::App                        0.23  pkg:cpan/Chandra@0.23
+Chandra::Assets                     0.23  pkg:cpan/Chandra@0.23
+Chandra::Bind                       0.23  pkg:cpan/Chandra@0.23
+Chandra::Bridge                     0.23  pkg:cpan/Chandra@0.23
+Chandra::Bridge::Extension          0.23  pkg:cpan/Chandra@0.23
+Chandra::Canvas                     0.23  pkg:cpan/Chandra@0.23
+Chandra::Clipboard                  0.23  pkg:cpan/Chandra@0.23
+Chandra::ContextMenu                0.23  pkg:cpan/Chandra@0.23
+Chandra::DevTools                   0.23  pkg:cpan/Chandra@0.23
+Chandra::Dialog                     0.23  pkg:cpan/Chandra@0.23
+Chandra::DragDrop                   0.23  pkg:cpan/Chandra@0.23
 Chandra::EPUB                       0.02  pkg:cpan/Chandra-EPUB@0.02
-Chandra::Element                    0.22  pkg:cpan/Chandra@0.22
-Chandra::Error                      0.22  pkg:cpan/Chandra@0.22
-Chandra::Event                      0.22  pkg:cpan/Chandra@0.22
-Chandra::Form                       0.22  pkg:cpan/Chandra@0.22
+Chandra::Element                    0.23  pkg:cpan/Chandra@0.23
+Chandra::Error                      0.23  pkg:cpan/Chandra@0.23
+Chandra::Event                      0.23  pkg:cpan/Chandra@0.23
+Chandra::Form                       0.23  pkg:cpan/Chandra@0.23
 Chandra::Game::Tetris               0.03  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Blocks      undef  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Blocks::IBlock undef  pkg:cpan/Chandra-Game-Tetris@0.03
@@ -42833,20 +42834,20 @@ Chandra::Game::Tetris::Blocks::TBlock undef  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Blocks::ZBlock undef  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Engine      undef  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Grid        undef  pkg:cpan/Chandra-Game-Tetris@0.03
-Chandra::HotReload                  0.22  pkg:cpan/Chandra@0.22
-Chandra::Log                        0.22  pkg:cpan/Chandra@0.22
-Chandra::Notify                     0.22  pkg:cpan/Chandra@0.22
-Chandra::Pack                       0.22  pkg:cpan/Chandra@0.22
-Chandra::Protocol                   0.22  pkg:cpan/Chandra@0.22
-Chandra::Shortcut                   0.22  pkg:cpan/Chandra@0.22
-Chandra::Socket::Client             0.22  pkg:cpan/Chandra@0.22
-Chandra::Socket::Connection         0.22  pkg:cpan/Chandra@0.22
-Chandra::Socket::Hub                0.22  pkg:cpan/Chandra@0.22
-Chandra::Socket::Token              0.22  pkg:cpan/Chandra@0.22
-Chandra::Splash                     0.22  pkg:cpan/Chandra@0.22
-Chandra::Store                      0.22  pkg:cpan/Chandra@0.22
-Chandra::Tray                       0.22  pkg:cpan/Chandra@0.22
-Chandra::Window                     0.22  pkg:cpan/Chandra@0.22
+Chandra::HotReload                  0.23  pkg:cpan/Chandra@0.23
+Chandra::Log                        0.23  pkg:cpan/Chandra@0.23
+Chandra::Notify                     0.23  pkg:cpan/Chandra@0.23
+Chandra::Pack                       0.23  pkg:cpan/Chandra@0.23
+Chandra::Protocol                   0.23  pkg:cpan/Chandra@0.23
+Chandra::Shortcut                   0.23  pkg:cpan/Chandra@0.23
+Chandra::Socket::Client             0.23  pkg:cpan/Chandra@0.23
+Chandra::Socket::Connection         0.23  pkg:cpan/Chandra@0.23
+Chandra::Socket::Hub                0.23  pkg:cpan/Chandra@0.23
+Chandra::Socket::Token              0.23  pkg:cpan/Chandra@0.23
+Chandra::Splash                     0.23  pkg:cpan/Chandra@0.23
+Chandra::Store                      0.23  pkg:cpan/Chandra@0.23
+Chandra::Tray                       0.23  pkg:cpan/Chandra@0.23
+Chandra::Window                     0.23  pkg:cpan/Chandra@0.23
 Changes                            0.003006  pkg:cpan/Changes@v0.3.6
 Changes::Change                    0.001002  pkg:cpan/Changes@v0.3.6
 Changes::Group                     0.002001  pkg:cpan/Changes@v0.3.6
@@ -68040,8 +68041,8 @@ Dumbbench::Instance::PerlEval      undef  pkg:cpan/Dumbbench@0.505
 Dumbbench::Instance::PerlSub       undef  pkg:cpan/Dumbbench@0.505
 Dumbbench::Result                  undef  pkg:cpan/Dumbbench@0.505
 Dumbbench::Stats                   undef  pkg:cpan/Dumbbench@0.505
-DummyRecord                        undef  pkg:cpan/Net-Z3950-FOLIO@v4.3.0
-DummyResultSet                     undef  pkg:cpan/Net-Z3950-FOLIO@v4.3.0
+DummyRecord                        undef  pkg:cpan/Net-Z3950-FOLIO@v4.4.0
+DummyResultSet                     undef  pkg:cpan/Net-Z3950-FOLIO@v4.4.0
 Dump::Krumo                        0.001008  pkg:cpan/Dump-Krumo@v0.1.8
 Dumpvalue                           1.17  pkg:cpan/Dumpvalue@1.17
 Dunce::Files                        0.04  pkg:cpan/Dunce@0.04
@@ -152281,21 +152282,21 @@ Net::Z3950::DBIServer::Spec        undef  pkg:cpan/Net-Z3950-DBIServer@1.07
 Net::Z3950::DBIServer::Tutorial    undef  pkg:cpan/Net-Z3950-DBIServer@1.07
 Net::Z3950::DBIServer::XML         undef  pkg:cpan/Net-Z3950-DBIServer@1.07
 Net::Z3950::ElementData            undef  pkg:cpan/Net-Z3950@0.51
-Net::Z3950::FOLIO                  4.003000  pkg:cpan/Net-Z3950-FOLIO@v4.3.0
-Net::Z3950::FOLIO::Config          undef  pkg:cpan/Net-Z3950-FOLIO@v4.3.0
-Net::Z3950::FOLIO::HoldingsRecords undef  pkg:cpan/Net-Z3950-FOLIO@v4.3.0
-Net::Z3950::FOLIO::MARCHoldings    undef  pkg:cpan/Net-Z3950-FOLIO@v4.3.0
-Net::Z3950::FOLIO::OPACXMLRecord   undef  pkg:cpan/Net-Z3950-FOLIO@v4.3.0
+Net::Z3950::FOLIO                  4.004000  pkg:cpan/Net-Z3950-FOLIO@v4.4.0
+Net::Z3950::FOLIO::Config          undef  pkg:cpan/Net-Z3950-FOLIO@v4.4.0
+Net::Z3950::FOLIO::HoldingsRecords undef  pkg:cpan/Net-Z3950-FOLIO@v4.4.0
+Net::Z3950::FOLIO::MARCHoldings    undef  pkg:cpan/Net-Z3950-FOLIO@v4.4.0
+Net::Z3950::FOLIO::OPACXMLRecord   undef  pkg:cpan/Net-Z3950-FOLIO@v4.4.0
 Net::Z3950::FOLIO::PostProcess     undef  pkg:cpan/Net-Z3950-FOLIO@v3.0.1
-Net::Z3950::FOLIO::PostProcess::MARC undef  pkg:cpan/Net-Z3950-FOLIO@v4.3.0
-Net::Z3950::FOLIO::PostProcess::OPAC undef  pkg:cpan/Net-Z3950-FOLIO@v4.3.0
-Net::Z3950::FOLIO::PostProcess::Transform undef  pkg:cpan/Net-Z3950-FOLIO@v4.3.0
-Net::Z3950::FOLIO::Record          undef  pkg:cpan/Net-Z3950-FOLIO@v4.3.0
-Net::Z3950::FOLIO::ResultSet       undef  pkg:cpan/Net-Z3950-FOLIO@v4.3.0
-Net::Z3950::FOLIO::Session         undef  pkg:cpan/Net-Z3950-FOLIO@v4.3.0
-Net::Z3950::FOLIO::SurrogateDiagnostic undef  pkg:cpan/Net-Z3950-FOLIO@v4.3.0
-Net::Z3950::FOLIO::TransformXML    undef  pkg:cpan/Net-Z3950-FOLIO@v4.3.0
-Net::Z3950::FOLIO::lodashGet       undef  pkg:cpan/Net-Z3950-FOLIO@v4.3.0
+Net::Z3950::FOLIO::PostProcess::MARC undef  pkg:cpan/Net-Z3950-FOLIO@v4.4.0
+Net::Z3950::FOLIO::PostProcess::OPAC undef  pkg:cpan/Net-Z3950-FOLIO@v4.4.0
+Net::Z3950::FOLIO::PostProcess::Transform undef  pkg:cpan/Net-Z3950-FOLIO@v4.4.0
+Net::Z3950::FOLIO::Record          undef  pkg:cpan/Net-Z3950-FOLIO@v4.4.0
+Net::Z3950::FOLIO::ResultSet       undef  pkg:cpan/Net-Z3950-FOLIO@v4.4.0
+Net::Z3950::FOLIO::Session         undef  pkg:cpan/Net-Z3950-FOLIO@v4.4.0
+Net::Z3950::FOLIO::SurrogateDiagnostic undef  pkg:cpan/Net-Z3950-FOLIO@v4.4.0
+Net::Z3950::FOLIO::TransformXML    undef  pkg:cpan/Net-Z3950-FOLIO@v4.4.0
+Net::Z3950::FOLIO::lodashGet       undef  pkg:cpan/Net-Z3950-FOLIO@v4.4.0
 Net::Z3950::FacetField              1.29  pkg:cpan/Net-Z3950-SimpleServer@1.29
 Net::Z3950::FacetList               1.29  pkg:cpan/Net-Z3950-SimpleServer@1.29
 Net::Z3950::FacetTerm               1.29  pkg:cpan/Net-Z3950-SimpleServer@1.29
