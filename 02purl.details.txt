@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 16 Apr 2026 10:56:25 GMT
-Line-Count: 263792
+Last-Updated: Thu, 16 Apr 2026 13:16:59 GMT
+Line-Count: 263795
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -62862,6 +62862,9 @@ DateTime::Format::Japanese::Era     0.01  pkg:cpan/DateTime-Format-Japanese@0.01
 DateTime::Format::Japanese::Traditional  0.01  pkg:cpan/DateTime-Format-Japanese@0.01
 DateTime::Format::JavaScript        0.02  pkg:cpan/DateTime-Format-JavaScript@0.02
 DateTime::Format::LDAP             0.002  pkg:cpan/DateTime-Format-LDAP@0.002
+DateTime::Format::Lite             0.001000  pkg:cpan/DateTime-Format-Lite@v0.1.0
+DateTime::Format::Lite::Exception  0.001000  pkg:cpan/DateTime-Format-Lite@v0.1.0
+DateTime::Format::Lite::PP         0.001000  pkg:cpan/DateTime-Format-Lite@v0.1.0
 DateTime::Format::MSSQL            1.001000  pkg:cpan/DateTime-Format-MSSQL@1.001000
 DateTime::Format::Mail             0.403  pkg:cpan/DateTime-Format-Mail@0.403
 DateTime::Format::MySQL             0.08  pkg:cpan/DateTime-Format-MySQL@0.08
