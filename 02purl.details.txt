@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 15 Apr 2026 22:36:24 GMT
-Line-Count: 263768
+Last-Updated: Thu, 16 Apr 2026 02:02:44 GMT
+Line-Count: 263785
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -9716,6 +9716,22 @@ App::Dothe::Task                   v0.0.1  pkg:cpan/App-Dothe@0.0.1
 App::DoubleUp                      0.004002  pkg:cpan/App-DoubleUp@0.4.2
 App::Download                      1.000001  pkg:cpan/App-Download@1.0.1
 App::DownloadsDirUtils             0.008  pkg:cpan/App-DownloadsDirUtils@0.008
+App::DrivePlayer                   0.002000  pkg:cpan/App-DrivePlayer@0.2.0
+App::DrivePlayer::Config           undef  pkg:cpan/App-DrivePlayer@0.2.0
+App::DrivePlayer::DB               undef  pkg:cpan/App-DrivePlayer@0.2.0
+App::DrivePlayer::GUI              undef  pkg:cpan/App-DrivePlayer@0.2.0
+App::DrivePlayer::GUI::FolderBrowse undef  pkg:cpan/App-DrivePlayer@0.2.0
+App::DrivePlayer::GUI::MetadataFetch undef  pkg:cpan/App-DrivePlayer@0.2.0
+App::DrivePlayer::GUI::SheetSync   undef  pkg:cpan/App-DrivePlayer@0.2.0
+App::DrivePlayer::MetadataFetcher  undef  pkg:cpan/App-DrivePlayer@0.2.0
+App::DrivePlayer::Player           undef  pkg:cpan/App-DrivePlayer@0.2.0
+App::DrivePlayer::Scanner          undef  pkg:cpan/App-DrivePlayer@0.2.0
+App::DrivePlayer::Schema           undef  pkg:cpan/App-DrivePlayer@0.2.0
+App::DrivePlayer::Schema::Result::Folder undef  pkg:cpan/App-DrivePlayer@0.2.0
+App::DrivePlayer::Schema::Result::ScanFolder undef  pkg:cpan/App-DrivePlayer@0.2.0
+App::DrivePlayer::Schema::Result::Track undef  pkg:cpan/App-DrivePlayer@0.2.0
+App::DrivePlayer::Setup            undef  pkg:cpan/App-DrivePlayer@0.2.0
+App::DrivePlayer::SheetDB          undef  pkg:cpan/App-DrivePlayer@0.2.0
 App::DrugUtils                     0.001  pkg:cpan/App-DrugUtils@0.001
 App::Dthumb                          0.2  pkg:cpan/dthumb@0.2
 App::Dthumb::Data                    0.2  pkg:cpan/dthumb@0.2
@@ -131810,9 +131826,9 @@ Math::GF::Extension                0.004  pkg:cpan/Math-GF@0.004
 Math::GF::Zn                       0.004  pkg:cpan/Math-GF@0.004
 Math::GMP                           2.25  pkg:cpan/Math-GMP@2.25
 Math::GMP_OLOAD                     0.03  pkg:cpan/Math-GMP_OLOAD@0.03
-Math::GMPf                          0.56  pkg:cpan/Math-GMPf@0.56
-Math::GMPf::Random                  0.56  pkg:cpan/Math-GMPf@0.56
-Math::GMPf::V                       0.56  pkg:cpan/Math-GMPf@0.56
+Math::GMPf                          0.57  pkg:cpan/Math-GMPf@0.57
+Math::GMPf::Random                  0.57  pkg:cpan/Math-GMPf@0.57
+Math::GMPf::V                       0.57  pkg:cpan/Math-GMPf@0.57
 Math::GMPn                          0.03  pkg:cpan/Math-GMPn@0.03
 Math::GMPq                          0.70  pkg:cpan/Math-GMPq@0.70
 Math::GMPq::Random                  0.70  pkg:cpan/Math-GMPq@0.70
@@ -203399,6 +203415,7 @@ RadioMobile::UnitsHeightParser      0.10  pkg:cpan/RadioMobile@0.11
 RadioMobile::UnitsSystemParser      0.10  pkg:cpan/RadioMobile@0.11
 RadioMobile::Utils::Matrix          0.10  pkg:cpan/RadioMobile@0.11
 Radioactive::Decay                  1.00  pkg:cpan/Radioactive-Decay@1.00
+Ragnetto::Console                   0.01  pkg:cpan/Ragnetto-Console@0.01
 Rails::Assets                       0.02  pkg:cpan/Rails-Assets@0.02
 Rails::Assets::Base                 0.02  pkg:cpan/Rails-Assets@0.02
 Rails::Assets::Formatter            0.02  pkg:cpan/Rails-Assets@0.02
