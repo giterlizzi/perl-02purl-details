@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 17 Apr 2026 14:49:54 GMT
-Line-Count: 263815
+Last-Updated: Fri, 17 Apr 2026 16:48:37 GMT
+Line-Count: 263816
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -12595,7 +12595,7 @@ App::Prove::Plugin::HTML            0.13  pkg:cpan/TAP-Formatter-HTML@0.13
 App::Prove::Plugin::Harriet        undef  pkg:cpan/Harriet@0.06
 App::Prove::Plugin::Idempotent      0.01  pkg:cpan/App-Prove-Plugin-Idempotent@0.01
 App::Prove::Plugin::KohaBootstrap   0.02  pkg:cpan/App-Prove-Plugin-KohaBootstrap@0.02
-App::Prove::Plugin::Metrics        0.000003  pkg:cpan/App-Prove-Plugin-Metrics@0.0.3
+App::Prove::Plugin::Metrics        0.000004  pkg:cpan/App-Prove-Plugin-Metrics@0.0.4
 App::Prove::Plugin::MultipleConfig  0.02  pkg:cpan/App-Prove-Plugin-MultipleConfig@0.02
 App::Prove::Plugin::MySQLPool       0.10  pkg:cpan/App-Prove-Plugin-MySQLPool@0.10
 App::Prove::Plugin::PassEnv        0.002  pkg:cpan/App-Prove-Plugin-PassEnv@0.002
@@ -127277,26 +127277,27 @@ MARC::Transform                    0.003009  pkg:cpan/MARC-Transform@0.003009
 MARC::Utils::MARC2Ini               0.02  pkg:cpan/MARC-Utils-MARC2Ini@0.02
 MARC::Utils::MARC2MARC_in_JSON      0.05  pkg:cpan/MARC-Utils-MARC2MARC_in_JSON@0.05
 MARC::Utils::MARC2Pairs             0.02  pkg:cpan/MARC-Utils-MARC2Pairs@0.02
-MARC::Validator                     0.15  pkg:cpan/MARC-Validator@0.15
-MARC::Validator::Abstract           0.15  pkg:cpan/MARC-Validator@0.15
-MARC::Validator::Const              0.15  pkg:cpan/MARC-Validator@0.15
+MARC::Validator                     0.17  pkg:cpan/MARC-Validator@0.17
+MARC::Validator::Abstract           0.17  pkg:cpan/MARC-Validator@0.17
+MARC::Validator::Const              0.17  pkg:cpan/MARC-Validator@0.17
 MARC::Validator::Filter             0.01  pkg:cpan/MARC-Validator-Filter@0.01
 MARC::Validator::Filter::Abstract   0.01  pkg:cpan/MARC-Validator-Filter@0.01
 MARC::Validator::Filter::Plugin::AACR2  0.01  pkg:cpan/MARC-Validator-Filter@0.01
 MARC::Validator::Filter::Plugin::Material  0.01  pkg:cpan/MARC-Validator-Filter@0.01
 MARC::Validator::Filter::Plugin::RDA  0.01  pkg:cpan/MARC-Validator-Filter@0.01
-MARC::Validator::Plugin::Field008   0.15  pkg:cpan/MARC-Validator@0.15
-MARC::Validator::Plugin::Field020   0.15  pkg:cpan/MARC-Validator@0.15
-MARC::Validator::Plugin::Field035   0.15  pkg:cpan/MARC-Validator@0.15
-MARC::Validator::Plugin::Field040   0.15  pkg:cpan/MARC-Validator@0.15
-MARC::Validator::Plugin::Field045   0.15  pkg:cpan/MARC-Validator@0.15
-MARC::Validator::Plugin::Field080   0.15  pkg:cpan/MARC-Validator@0.15
-MARC::Validator::Plugin::Field260   0.15  pkg:cpan/MARC-Validator@0.15
-MARC::Validator::Plugin::Field264   0.15  pkg:cpan/MARC-Validator@0.15
-MARC::Validator::Plugin::Field300   0.15  pkg:cpan/MARC-Validator@0.15
-MARC::Validator::Plugin::Field504   0.15  pkg:cpan/MARC-Validator@0.15
-MARC::Validator::Plugin::Field655   0.15  pkg:cpan/MARC-Validator@0.15
-MARC::Validator::Utils              0.15  pkg:cpan/MARC-Validator@0.15
+MARC::Validator::Plugin::Field008   0.17  pkg:cpan/MARC-Validator@0.17
+MARC::Validator::Plugin::Field020   0.17  pkg:cpan/MARC-Validator@0.17
+MARC::Validator::Plugin::Field035   0.17  pkg:cpan/MARC-Validator@0.17
+MARC::Validator::Plugin::Field040   0.17  pkg:cpan/MARC-Validator@0.17
+MARC::Validator::Plugin::Field045   0.17  pkg:cpan/MARC-Validator@0.17
+MARC::Validator::Plugin::Field080   0.17  pkg:cpan/MARC-Validator@0.17
+MARC::Validator::Plugin::Field260   0.17  pkg:cpan/MARC-Validator@0.17
+MARC::Validator::Plugin::Field264   0.17  pkg:cpan/MARC-Validator@0.17
+MARC::Validator::Plugin::Field300   0.17  pkg:cpan/MARC-Validator@0.17
+MARC::Validator::Plugin::Field500   0.17  pkg:cpan/MARC-Validator@0.17
+MARC::Validator::Plugin::Field504   0.17  pkg:cpan/MARC-Validator@0.17
+MARC::Validator::Plugin::Field655   0.17  pkg:cpan/MARC-Validator@0.17
+MARC::Validator::Utils              0.17  pkg:cpan/MARC-Validator@0.17
 MARC::Xform                         0.02  pkg:cpan/MARC-Xform@0.02
 MARC::Xform::AddRDA33x             undef  pkg:cpan/MARC-Xform@0.02
 MAS::TIFF::Compression::LZW        undef  pkg:cpan/MAS-TIFF@0.4
@@ -224119,7 +224120,7 @@ TAP::Harness::Env                   3.52  pkg:cpan/Test-Harness@3.52
 TAP::Harness::FOO                  1.000003  pkg:cpan/App-Prove-Plugin-TraceUse@1.0.3
 TAP::Harness::JUnit                 0.42  pkg:cpan/TAP-Harness-JUnit@0.42
 TAP::Harness::JUnit::Parser        undef  pkg:cpan/TAP-Harness-JUnit@0.42
-TAP::Harness::Metrics              0.000003  pkg:cpan/App-Prove-Plugin-Metrics@0.0.3
+TAP::Harness::Metrics              0.000004  pkg:cpan/App-Prove-Plugin-Metrics@0.0.4
 TAP::Harness::MultipleConfig       undef  pkg:cpan/App-Prove-Plugin-MultipleConfig@0.02
 TAP::Harness::Remote                1.10  pkg:cpan/TAP-Harness-Remote@1.10
 TAP::Harness::Remote::EC2           1.00  pkg:cpan/TAP-Harness-Remote-EC2@1.00
@@ -224140,7 +224141,7 @@ TAP::Parser::Iterator::Worker::LSF  0.01  pkg:cpan/App-Prove-Plugin-Distributed@
 TAP::Parser::Iterator::Worker::PBS  0.05  pkg:cpan/App-Prove-Plugin-Distributed@0.08
 TAP::Parser::Iterator::Worker::SSH  0.03  pkg:cpan/App-Prove-Plugin-Distributed@0.08
 TAP::Parser::IteratorFactory        3.52  pkg:cpan/Test-Harness@3.52
-TAP::Parser::Metrics               0.000003  pkg:cpan/App-Prove-Plugin-Metrics@0.0.3
+TAP::Parser::Metrics               0.000004  pkg:cpan/App-Prove-Plugin-Metrics@0.0.4
 TAP::Parser::Multiplexer            3.52  pkg:cpan/Test-Harness@3.52
 TAP::Parser::Result                 3.52  pkg:cpan/Test-Harness@3.52
 TAP::Parser::Result::Bailout        3.52  pkg:cpan/Test-Harness@3.52
@@ -255635,7 +255636,7 @@ XML::Elemental::SAXHandler          0.11  pkg:cpan/XML-Elemental@2.11
 XML::Elemental::Util               undef  pkg:cpan/XML-Elemental@2.11
 XML::Elemental::doc                undef  pkg:cpan/XML-Elemental@2.011
 XML::Embperl                       3.000001  pkg:cpan/Embperl@3.0.1
-XML::Enc                            0.15  pkg:cpan/XML-Enc@0.15
+XML::Enc                            0.16  pkg:cpan/XML-Enc@0.16
 XML::Encoding                       2.11  pkg:cpan/XML-Encoding@2.11
 XML::Entities                      1.0002  pkg:cpan/XML-Entities@1.0002
 XML::Entities::Data                undef  pkg:cpan/XML-Entities@1.0002
