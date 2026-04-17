@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 17 Apr 2026 16:48:37 GMT
+Last-Updated: Fri, 17 Apr 2026 18:50:39 GMT
 Line-Count: 263816
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -47448,7 +47448,7 @@ Config::ApacheExtended::Grammar    undef  pkg:cpan/Config-ApacheExtended@1.16
 Config::ApacheFormat                 1.2  pkg:cpan/Config-ApacheFormat@1.2
 Config::Apachish::Base              0.03  pkg:cpan/Config-Apachish-Reader@0.03
 Config::Apachish::Reader            0.03  pkg:cpan/Config-Apachish-Reader@0.03
-Config::App                         1.19  pkg:cpan/Config-App@1.19
+Config::App                         1.20  pkg:cpan/Config-App@1.20
 Config::Apt::SourceEntry            0.10  pkg:cpan/Config-Apt-Sources@0.10
 Config::Apt::Sources                0.10  pkg:cpan/Config-Apt-Sources@0.10
 Config::Augeas                     1.000  pkg:cpan/Config-Augeas@1.000
@@ -81456,17 +81456,17 @@ Geo::GoogleMaps::MobileTool        0.000001  pkg:cpan/Geo-GoogleMaps-MobileTool@
 Geo::GoogleMaps::OffsetCenter       0.04  pkg:cpan/Geo-GoogleMaps-OffsetCenter@0.04
 Geo::Gpx                            1.11  pkg:cpan/Geo-Gpx@1.11
 Geo::Gpx::Point                     1.11  pkg:cpan/Geo-Gpx@1.11
-Geo::H3                             0.09  pkg:cpan/Geo-H3@0.09
-Geo::H3::Base                       0.09  pkg:cpan/Geo-H3@0.09
+Geo::H3                             0.10  pkg:cpan/Geo-H3@0.10
+Geo::H3::Base                       0.10  pkg:cpan/Geo-H3@0.10
 Geo::H3::FFI                        0.08  pkg:cpan/Geo-H3-FFI@0.08
 Geo::H3::FFI::Array::GeoCoord       0.08  pkg:cpan/Geo-H3-FFI@0.08
 Geo::H3::FFI::Array::H3Index        0.05  pkg:cpan/Geo-H3-FFI@0.05
 Geo::H3::FFI::Struct::GeoBoundary   0.08  pkg:cpan/Geo-H3-FFI@0.08
 Geo::H3::FFI::Struct::GeoCoord      0.08  pkg:cpan/Geo-H3-FFI@0.08
 Geo::H3::FFI::Struct::H3Index       0.05  pkg:cpan/Geo-H3-FFI@0.05
-Geo::H3::Geo                        0.09  pkg:cpan/Geo-H3@0.09
-Geo::H3::GeoBoundary                0.09  pkg:cpan/Geo-H3@0.09
-Geo::H3::Index                      0.09  pkg:cpan/Geo-H3@0.09
+Geo::H3::Geo                        0.10  pkg:cpan/Geo-H3@0.10
+Geo::H3::GeoBoundary                0.10  pkg:cpan/Geo-H3@0.10
+Geo::H3::Index                      0.10  pkg:cpan/Geo-H3@0.10
 Geo::Hash                           0.02  pkg:cpan/Geo-Hash@0.02
 Geo::Hash::Grid                     0.08  pkg:cpan/Geo-Hash-Grid@0.08
 Geo::Hash::XS                      0.00015  pkg:cpan/Geo-Hash-XS@0.00015
@@ -126779,7 +126779,7 @@ Logo                               1.000  pkg:cpan/Language-Logo@1.000
 Logo::svplus                        0.01  pkg:cpan/SchemaView-Plus@0.17
 Logwatch::RecordTree               2.056  pkg:cpan/Logwatch-RecordTree@2.056
 Logwatch::RecordTree::IPv4         2.056  pkg:cpan/Logwatch-RecordTree@2.056
-Long::Jump                         0.000004  pkg:cpan/Long-Jump@0.000004
+Long::Jump                         0.000005  pkg:cpan/Long-Jump@0.000005
 LongSearch                         undef  pkg:cpan/JRPC@0.61
 Loo                                 0.11  pkg:cpan/Loo@0.11
 LooksLike                          v0.20.60  pkg:cpan/LooksLike@v0.20.060
@@ -227479,7 +227479,7 @@ Test2::Formatter::WWWWTF           1.000036  pkg:cpan/WWW-WTF@0.7
 Test2::Formatter::YAMLEnhancedTAP  0.000005  pkg:cpan/Test2-Formatter-YAMLEnhancedTAP@0.0.5
 Test2::Handle                      1.302219  pkg:cpan/Test-Simple@1.302219
 Test2::Harness                     1.000170  pkg:cpan/Test2-Harness@1.000170
-Test2::Harness2::ChildSubReaper    0.000001  pkg:cpan/Test2-Harness2-ChildSubReaper@0.000001
+Test2::Harness2::ChildSubReaper    0.000002  pkg:cpan/Test2-Harness2-ChildSubReaper@0.000002
 Test2::Harness::Auditor            1.000170  pkg:cpan/Test2-Harness@1.000170
 Test2::Harness::Auditor::TimeTracker 1.000170  pkg:cpan/Test2-Harness@1.000170
 Test2::Harness::Auditor::Watcher   1.000170  pkg:cpan/Test2-Harness@1.000170
