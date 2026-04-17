@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 17 Apr 2026 10:48:31 GMT
-Line-Count: 263813
+Last-Updated: Fri, 17 Apr 2026 13:04:07 GMT
+Line-Count: 263814
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -48337,50 +48337,51 @@ Convert::Number::Roman              0.04  pkg:cpan/Convert-Number-Roman@0.04
 Convert::PEM                        0.13  pkg:cpan/Convert-PEM@0.13
 Convert::PEM::CBC                   0.13  pkg:cpan/Convert-PEM@0.13
 Convert::PerlRef2String             0.03  pkg:cpan/Convert-PerlRef2String@0.03
-Convert::Pheno                      0.30  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno                      0.31  pkg:cpan/Convert-Pheno@0.31
 Convert::Pheno::BFF                undef  pkg:cpan/Convert-Pheno@0.27
-Convert::Pheno::BFF::DerivedEntities undef  pkg:cpan/Convert-Pheno@0.30
-Convert::Pheno::BFF::ToOMOP        undef  pkg:cpan/Convert-Pheno@0.30
-Convert::Pheno::BFF::ToPXF         undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::BFF::DerivedEntities undef  pkg:cpan/Convert-Pheno@0.31
+Convert::Pheno::BFF::ToOMOP        undef  pkg:cpan/Convert-Pheno@0.31
+Convert::Pheno::BFF::ToPXF         undef  pkg:cpan/Convert-Pheno@0.31
 Convert::Pheno::Bff2Omop           undef  pkg:cpan/Convert-Pheno@0.29
 Convert::Pheno::Bff2Pxf            undef  pkg:cpan/Convert-Pheno@0.29
-Convert::Pheno::CDISC              undef  pkg:cpan/Convert-Pheno@0.30
-Convert::Pheno::CLI::Args          undef  pkg:cpan/Convert-Pheno@0.30
-Convert::Pheno::CSV                undef  pkg:cpan/Convert-Pheno@0.30
-Convert::Pheno::Context            undef  pkg:cpan/Convert-Pheno@0.30
-Convert::Pheno::DB::SQLite         undef  pkg:cpan/Convert-Pheno@0.30
-Convert::Pheno::DB::Similarity     undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::CDISC              undef  pkg:cpan/Convert-Pheno@0.31
+Convert::Pheno::CLI::Args          undef  pkg:cpan/Convert-Pheno@0.31
+Convert::Pheno::CSV                undef  pkg:cpan/Convert-Pheno@0.31
+Convert::Pheno::Context            undef  pkg:cpan/Convert-Pheno@0.31
+Convert::Pheno::DB::SQLite         undef  pkg:cpan/Convert-Pheno@0.31
+Convert::Pheno::DB::Similarity     undef  pkg:cpan/Convert-Pheno@0.31
 Convert::Pheno::Default            undef  pkg:cpan/Convert-Pheno@0.27
-Convert::Pheno::Emit::OMOP         undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::Emit::OMOP         undef  pkg:cpan/Convert-Pheno@0.31
 Convert::Pheno::IO                 undef  pkg:cpan/Convert-Pheno@0.17
-Convert::Pheno::IO::CSVHandler     undef  pkg:cpan/Convert-Pheno@0.30
-Convert::Pheno::IO::FileIO         undef  pkg:cpan/Convert-Pheno@0.30
-Convert::Pheno::JSONLD             undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::IO::CSVHandler     undef  pkg:cpan/Convert-Pheno@0.31
+Convert::Pheno::IO::FileIO         undef  pkg:cpan/Convert-Pheno@0.31
+Convert::Pheno::JSONLD             undef  pkg:cpan/Convert-Pheno@0.31
 Convert::Pheno::Mapping            undef  pkg:cpan/Convert-Pheno@0.27
-Convert::Pheno::Mapping::BFF::Individuals::Tabular undef  pkg:cpan/Convert-Pheno@0.30
-Convert::Pheno::Mapping::Shared    undef  pkg:cpan/Convert-Pheno@0.30
-Convert::Pheno::Model::Bundle      undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::Mapping::BFF::Individuals::Tabular undef  pkg:cpan/Convert-Pheno@0.31
+Convert::Pheno::Mapping::Shared    undef  pkg:cpan/Convert-Pheno@0.31
+Convert::Pheno::Model::Bundle      undef  pkg:cpan/Convert-Pheno@0.31
 Convert::Pheno::OMOP               undef  pkg:cpan/Convert-Pheno@0.29
-Convert::Pheno::OMOP::Definitions  undef  pkg:cpan/Convert-Pheno@0.30
-Convert::Pheno::OMOP::ParticipantStream undef  pkg:cpan/Convert-Pheno@0.30
-Convert::Pheno::OMOP::Source       undef  pkg:cpan/Convert-Pheno@0.30
-Convert::Pheno::OMOP::ToBFF        undef  pkg:cpan/Convert-Pheno@0.30
-Convert::Pheno::OMOP::ToBFF::Biosamples undef  pkg:cpan/Convert-Pheno@0.30
-Convert::Pheno::OMOP::ToBFF::Individuals undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::OMOP::Definitions  undef  pkg:cpan/Convert-Pheno@0.31
+Convert::Pheno::OMOP::ParticipantStream undef  pkg:cpan/Convert-Pheno@0.31
+Convert::Pheno::OMOP::Source       undef  pkg:cpan/Convert-Pheno@0.31
+Convert::Pheno::OMOP::ToBFF        undef  pkg:cpan/Convert-Pheno@0.31
+Convert::Pheno::OMOP::ToBFF::Biosamples undef  pkg:cpan/Convert-Pheno@0.31
+Convert::Pheno::OMOP::ToBFF::Individuals undef  pkg:cpan/Convert-Pheno@0.31
+Convert::Pheno::OpenEHR::ToBFF     undef  pkg:cpan/Convert-Pheno@0.31
 Convert::Pheno::PXF                undef  pkg:cpan/Convert-Pheno@0.29
-Convert::Pheno::PXF::ToBFF         undef  pkg:cpan/Convert-Pheno@0.30
-Convert::Pheno::PXF::ToBFF::Biosamples undef  pkg:cpan/Convert-Pheno@0.30
-Convert::Pheno::PXF::ToBFF::Individuals undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::PXF::ToBFF         undef  pkg:cpan/Convert-Pheno@0.31
+Convert::Pheno::PXF::ToBFF::Biosamples undef  pkg:cpan/Convert-Pheno@0.31
+Convert::Pheno::PXF::ToBFF::Individuals undef  pkg:cpan/Convert-Pheno@0.31
 Convert::Pheno::RDF                undef  pkg:cpan/Convert-Pheno@0.29
-Convert::Pheno::REDCap             undef  pkg:cpan/Convert-Pheno@0.30
-Convert::Pheno::Runner             undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::REDCap             undef  pkg:cpan/Convert-Pheno@0.31
+Convert::Pheno::Runner             undef  pkg:cpan/Convert-Pheno@0.31
 Convert::Pheno::SQLite             undef  pkg:cpan/Convert-Pheno@0.27
 Convert::Pheno::Schema             undef  pkg:cpan/Convert-Pheno@0.27
-Convert::Pheno::Tabular::REDCap::Dictionary undef  pkg:cpan/Convert-Pheno@0.30
-Convert::Pheno::Tabular::Record    undef  pkg:cpan/Convert-Pheno@0.30
-Convert::Pheno::Utils::Default     undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::Tabular::REDCap::Dictionary undef  pkg:cpan/Convert-Pheno@0.31
+Convert::Pheno::Tabular::Record    undef  pkg:cpan/Convert-Pheno@0.31
+Convert::Pheno::Utils::Default     undef  pkg:cpan/Convert-Pheno@0.31
 Convert::Pheno::Utils::Mapping     undef  pkg:cpan/Convert-Pheno@0.29
-Convert::Pheno::Utils::Schema      undef  pkg:cpan/Convert-Pheno@0.30
+Convert::Pheno::Utils::Schema      undef  pkg:cpan/Convert-Pheno@0.31
 Convert::Pluggable                 0.0322  pkg:cpan/Convert-Pluggable@0.0322
 Convert::RACE                       0.07  pkg:cpan/Convert-RACE@0.07
 Convert::Recode                     1.04  pkg:cpan/Convert-Recode@1.04
@@ -49366,7 +49367,7 @@ Crypt::OpenSSL::EC                  1.34  pkg:cpan/Crypt-OpenSSL-EC@1.34
 Crypt::OpenSSL::ECDSA               0.10  pkg:cpan/Crypt-OpenSSL-ECDSA@0.10
 Crypt::OpenSSL::FASTPBKDF2          0.01  pkg:cpan/Crypt-OpenSSL-FASTPBKDF2@0.01
 Crypt::OpenSSL::Guess               0.15  pkg:cpan/Crypt-OpenSSL-Guess@0.15
-Crypt::OpenSSL::PBKDF2              0.10  pkg:cpan/Crypt-OpenSSL-PBKDF2@0.10
+Crypt::OpenSSL::PBKDF2              0.11  pkg:cpan/Crypt-OpenSSL-PBKDF2@0.11
 Crypt::OpenSSL::PKCS10              0.37  pkg:cpan/Crypt-OpenSSL-PKCS10@0.37
 Crypt::OpenSSL::PKCS12              1.94  pkg:cpan/Crypt-OpenSSL-PKCS12@1.94
 Crypt::OpenSSL::RC4                 0.04  pkg:cpan/Crypt-OpenSSL-RC4@0.04
@@ -50970,7 +50971,7 @@ DBD::SearchServer                   0.21  pkg:cpan/DBD-SearchServer@0.21
 DBD::SearchServer::db               0.21  pkg:cpan/DBD-SearchServer@0.21
 DBD::SearchServer::dr               0.21  pkg:cpan/DBD-SearchServer@0.21
 DBD::SearchServer::st               0.21  pkg:cpan/DBD-SearchServer@0.21
-DBD::SimpleMock                     0.03  pkg:cpan/SimpleMock@0.03
+DBD::SimpleMock                     0.04  pkg:cpan/SimpleMock@0.04
 DBD::SimpleMock::db                 0.01  pkg:cpan/SimpleMock@0.02
 DBD::SimpleMock::dr                 0.01  pkg:cpan/SimpleMock@0.02
 DBD::SimpleMock::st                 0.01  pkg:cpan/SimpleMock@0.02
@@ -122283,7 +122284,7 @@ Lingua::TT::Unify                  undef  pkg:cpan/Lingua-TT@0.13
 Lingua::TT::Unigrams               undef  pkg:cpan/Lingua-TT@0.13
 Lingua::TUR::Num2Word              0.2603300  pkg:cpan/Lingua-TUR-Num2Word@0.2603300
 Lingua::TUR::Word2Num              0.2603300  pkg:cpan/Lingua-TUR-Word2Num@0.2603300
-Lingua::Text                        0.07  pkg:cpan/Lingua-Text@0.07
+Lingua::Text                        0.08  pkg:cpan/Lingua-Text@0.08
 Lingua::Thesaurus                   0.13  pkg:cpan/Lingua-Thesaurus@0.13
 Lingua::Thesaurus::IO              undef  pkg:cpan/Lingua-Thesaurus@0.13
 Lingua::Thesaurus::IO::ISO2788     undef  pkg:cpan/Lingua-Thesaurus@0.13
@@ -218577,16 +218578,16 @@ SimpleDBI::mysql                   undef  pkg:cpan/SimpleDBI@0.02
 SimpleException                    0.103  pkg:cpan/Exceptions@0.103
 SimpleFlake                         0.11  pkg:cpan/SimpleFlake@0.11
 SimpleFlow                          0.12  pkg:cpan/SimpleFlow@0.12
-SimpleMock                          0.03  pkg:cpan/SimpleMock@0.03
-SimpleMock::Mocks::DBI              0.03  pkg:cpan/SimpleMock@0.03
-SimpleMock::Mocks::LWP::UserAgent   0.03  pkg:cpan/SimpleMock@0.03
-SimpleMock::Mocks::Path::Tiny       0.03  pkg:cpan/SimpleMock@0.03
-SimpleMock::Model::DBI              0.03  pkg:cpan/SimpleMock@0.03
-SimpleMock::Model::LWP_UA           0.03  pkg:cpan/SimpleMock@0.03
-SimpleMock::Model::PATH_TINY        0.03  pkg:cpan/SimpleMock@0.03
-SimpleMock::Model::SUBS             0.03  pkg:cpan/SimpleMock@0.03
-SimpleMock::ScopeGuard              0.03  pkg:cpan/SimpleMock@0.03
-SimpleMock::Util                    0.03  pkg:cpan/SimpleMock@0.03
+SimpleMock                          0.04  pkg:cpan/SimpleMock@0.04
+SimpleMock::Mocks::DBI              0.04  pkg:cpan/SimpleMock@0.04
+SimpleMock::Mocks::LWP::UserAgent   0.04  pkg:cpan/SimpleMock@0.04
+SimpleMock::Mocks::Path::Tiny       0.04  pkg:cpan/SimpleMock@0.04
+SimpleMock::Model::DBI              0.04  pkg:cpan/SimpleMock@0.04
+SimpleMock::Model::LWP_UA           0.04  pkg:cpan/SimpleMock@0.04
+SimpleMock::Model::PATH_TINY        0.04  pkg:cpan/SimpleMock@0.04
+SimpleMock::Model::SUBS             0.04  pkg:cpan/SimpleMock@0.04
+SimpleMock::ScopeGuard              0.04  pkg:cpan/SimpleMock@0.04
+SimpleMock::Util                    0.04  pkg:cpan/SimpleMock@0.04
 SimpleObjectClass                   1.54  pkg:cpan/CGI-Session@4.10
 SimpleR::Reshape                    0.09  pkg:cpan/SimpleR-Reshape@0.09
 SimpleR::Reshape::ChartData         0.05  pkg:cpan/SimpleR-Reshape-ChartData@0.05
