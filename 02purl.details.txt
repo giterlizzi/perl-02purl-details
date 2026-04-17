@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 17 Apr 2026 13:04:07 GMT
-Line-Count: 263814
+Last-Updated: Fri, 17 Apr 2026 14:49:54 GMT
+Line-Count: 263815
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -27833,6 +27833,7 @@ Bit::Vector::Overload                7.4  pkg:cpan/Bit-Vector@7.4
 Bit::Vector::String                  7.4  pkg:cpan/Bit-Vector@7.4
 BitArray                            0.01  pkg:cpan/BitArray1
 BitTorrent                          0.10  pkg:cpan/BitTorrent@V0.1?ext=zip
+BitTorrent::Simple                  0.01  pkg:cpan/BitTorrent-Simple@0.01
 BitVecIterator                      1.26  pkg:cpan/Algorithm-BitVector@1.26
 Bitcoin::BIP39                     0.003  pkg:cpan/Bitcoin-BIP39@0.003
 Bitcoin::Crypto                    4.004  pkg:cpan/Bitcoin-Crypto@4.004
@@ -62930,16 +62931,16 @@ DateTime::LazyInit::Constructor_new 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ex
 DateTime::LazyInit::Constructor_now 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ext=tgz
 DateTime::LazyInit::Constructor_today 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ext=tgz
 DateTime::LeapSecond                1.66  pkg:cpan/DateTime@1.66
-DateTime::Lite                     0.005000  pkg:cpan/DateTime-Lite@v0.5.0
-DateTime::Lite::Duration           0.001000  pkg:cpan/DateTime-Lite@v0.5.0
-DateTime::Lite::Exception          0.001000  pkg:cpan/DateTime-Lite@v0.5.0
-DateTime::Lite::Infinite           0.001000  pkg:cpan/DateTime-Lite@v0.5.0
-DateTime::Lite::Infinite::Future   0.001000  pkg:cpan/DateTime-Lite@v0.5.0
-DateTime::Lite::Infinite::Past     0.001000  pkg:cpan/DateTime-Lite@v0.5.0
-DateTime::Lite::PP                 0.001000  pkg:cpan/DateTime-Lite@v0.5.0
-DateTime::Lite::TimeZone           0.004000  pkg:cpan/DateTime-Lite@v0.5.0
-DateTime::Lite::_FakeLocale        0.001000  pkg:cpan/DateTime-Lite@v0.5.0
-DateTime::Lite::_Thawed            0.005000  pkg:cpan/DateTime-Lite@v0.5.0
+DateTime::Lite                     0.006000  pkg:cpan/DateTime-Lite@v0.6.0
+DateTime::Lite::Duration           0.001000  pkg:cpan/DateTime-Lite@v0.6.0
+DateTime::Lite::Exception          0.001000  pkg:cpan/DateTime-Lite@v0.6.0
+DateTime::Lite::Infinite           0.001000  pkg:cpan/DateTime-Lite@v0.6.0
+DateTime::Lite::Infinite::Future   0.001000  pkg:cpan/DateTime-Lite@v0.6.0
+DateTime::Lite::Infinite::Past     0.001000  pkg:cpan/DateTime-Lite@v0.6.0
+DateTime::Lite::PP                 0.001000  pkg:cpan/DateTime-Lite@v0.6.0
+DateTime::Lite::TimeZone           0.005000  pkg:cpan/DateTime-Lite@v0.6.0
+DateTime::Lite::_FakeLocale        0.001000  pkg:cpan/DateTime-Lite@v0.6.0
+DateTime::Lite::_Thawed            0.006000  pkg:cpan/DateTime-Lite@v0.6.0
 DateTime::Locale                    1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Base              1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Catalog           1.45  pkg:cpan/DateTime-Locale@1.45
