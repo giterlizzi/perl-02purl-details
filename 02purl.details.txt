@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 18 Apr 2026 20:28:58 GMT
-Line-Count: 263841
+Last-Updated: Sat, 18 Apr 2026 22:27:21 GMT
+Line-Count: 263847
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -9716,22 +9716,22 @@ App::Dothe::Task                   v0.0.1  pkg:cpan/App-Dothe@0.0.1
 App::DoubleUp                      0.004002  pkg:cpan/App-DoubleUp@0.4.2
 App::Download                      1.000001  pkg:cpan/App-Download@1.0.1
 App::DownloadsDirUtils             0.008  pkg:cpan/App-DownloadsDirUtils@0.008
-App::DrivePlayer                   0.002004  pkg:cpan/App-DrivePlayer@0.2.4
-App::DrivePlayer::Config           undef  pkg:cpan/App-DrivePlayer@0.2.4
-App::DrivePlayer::DB               undef  pkg:cpan/App-DrivePlayer@0.2.4
-App::DrivePlayer::GUI              undef  pkg:cpan/App-DrivePlayer@0.2.4
-App::DrivePlayer::GUI::FolderBrowse undef  pkg:cpan/App-DrivePlayer@0.2.4
-App::DrivePlayer::GUI::MetadataFetch undef  pkg:cpan/App-DrivePlayer@0.2.4
-App::DrivePlayer::GUI::SheetSync   undef  pkg:cpan/App-DrivePlayer@0.2.4
-App::DrivePlayer::MetadataFetcher  undef  pkg:cpan/App-DrivePlayer@0.2.4
-App::DrivePlayer::Player           undef  pkg:cpan/App-DrivePlayer@0.2.4
-App::DrivePlayer::Scanner          undef  pkg:cpan/App-DrivePlayer@0.2.4
-App::DrivePlayer::Schema           undef  pkg:cpan/App-DrivePlayer@0.2.4
-App::DrivePlayer::Schema::Result::Folder undef  pkg:cpan/App-DrivePlayer@0.2.4
-App::DrivePlayer::Schema::Result::ScanFolder undef  pkg:cpan/App-DrivePlayer@0.2.4
-App::DrivePlayer::Schema::Result::Track undef  pkg:cpan/App-DrivePlayer@0.2.4
-App::DrivePlayer::Setup            undef  pkg:cpan/App-DrivePlayer@0.2.4
-App::DrivePlayer::SheetDB          undef  pkg:cpan/App-DrivePlayer@0.2.4
+App::DrivePlayer                   0.002005  pkg:cpan/App-DrivePlayer@0.2.5
+App::DrivePlayer::Config           undef  pkg:cpan/App-DrivePlayer@0.2.5
+App::DrivePlayer::DB               undef  pkg:cpan/App-DrivePlayer@0.2.5
+App::DrivePlayer::GUI              undef  pkg:cpan/App-DrivePlayer@0.2.5
+App::DrivePlayer::GUI::FolderBrowse undef  pkg:cpan/App-DrivePlayer@0.2.5
+App::DrivePlayer::GUI::MetadataFetch undef  pkg:cpan/App-DrivePlayer@0.2.5
+App::DrivePlayer::GUI::SheetSync   undef  pkg:cpan/App-DrivePlayer@0.2.5
+App::DrivePlayer::MetadataFetcher  undef  pkg:cpan/App-DrivePlayer@0.2.5
+App::DrivePlayer::Player           undef  pkg:cpan/App-DrivePlayer@0.2.5
+App::DrivePlayer::Scanner          undef  pkg:cpan/App-DrivePlayer@0.2.5
+App::DrivePlayer::Schema           undef  pkg:cpan/App-DrivePlayer@0.2.5
+App::DrivePlayer::Schema::Result::Folder undef  pkg:cpan/App-DrivePlayer@0.2.5
+App::DrivePlayer::Schema::Result::ScanFolder undef  pkg:cpan/App-DrivePlayer@0.2.5
+App::DrivePlayer::Schema::Result::Track undef  pkg:cpan/App-DrivePlayer@0.2.5
+App::DrivePlayer::Setup            undef  pkg:cpan/App-DrivePlayer@0.2.5
+App::DrivePlayer::SheetDB          undef  pkg:cpan/App-DrivePlayer@0.2.5
 App::DrugUtils                     0.001  pkg:cpan/App-DrugUtils@0.001
 App::Dthumb                          0.2  pkg:cpan/dthumb@0.2
 App::Dthumb::Data                    0.2  pkg:cpan/dthumb@0.2
@@ -11002,7 +11002,7 @@ App::LogStats                      0.091  pkg:cpan/App-LogStats@0.091
 App::Logs                              0  pkg:cpan/App-FargateStack@1.0.50
 App::MARC::Count                    0.04  pkg:cpan/App-MARC-Count@0.04
 App::MARC::Filter                   0.09  pkg:cpan/App-MARC-Filter@0.09
-App::MARC::Leader                    0.1  pkg:cpan/App-MARC-Leader@0.10
+App::MARC::Leader                   0.11  pkg:cpan/App-MARC-Leader@0.11
 App::MARC::List                     0.08  pkg:cpan/App-MARC-List@0.08
 App::MARC::Record::Stats            0.02  pkg:cpan/App-MARC-Record-Stats@0.02
 App::MARC::Validator                0.08  pkg:cpan/App-MARC-Validator@0.08
@@ -122284,6 +122284,11 @@ Lingua::TT::Unify                  undef  pkg:cpan/Lingua-TT@0.13
 Lingua::TT::Unigrams               undef  pkg:cpan/Lingua-TT@0.13
 Lingua::TUR::Num2Word              0.2603300  pkg:cpan/Lingua-TUR-Num2Word@0.2603300
 Lingua::TUR::Word2Num              0.2603300  pkg:cpan/Lingua-TUR-Word2Num@0.2603300
+Lingua::TermWeight                  0.01  pkg:cpan/Lingua-TermWeight@0.01
+Lingua::TermWeight::WordCounter::Lossy  0.01  pkg:cpan/Lingua-TermWeight@0.01
+Lingua::TermWeight::WordCounter::Simple  0.01  pkg:cpan/Lingua-TermWeight@0.01
+Lingua::TermWeight::WordSegmenter::LetterNgram  0.01  pkg:cpan/Lingua-TermWeight@0.01
+Lingua::TermWeight::WordSegmenter::SplitBySpace  0.01  pkg:cpan/Lingua-TermWeight@0.01
 Lingua::Text                        0.08  pkg:cpan/Lingua-Text@0.08
 Lingua::Thesaurus                   0.13  pkg:cpan/Lingua-Thesaurus@0.13
 Lingua::Thesaurus::IO              undef  pkg:cpan/Lingua-Thesaurus@0.13
@@ -127200,9 +127205,10 @@ MARC::File::XML                    1.000005  pkg:cpan/MARC-File-XML@1.0.5
 MARC::Indexer                       0.04  pkg:cpan/MARC-Indexer@0.04
 MARC::Indexer::Config              undef  pkg:cpan/MARC-Indexer@0.04
 MARC::Leader                        0.08  pkg:cpan/MARC-Leader@0.08
-MARC::Leader::L10N                  0.04  pkg:cpan/MARC-Leader-L10N@0.04
-MARC::Leader::L10N::cs              0.04  pkg:cpan/MARC-Leader-L10N@0.04
-MARC::Leader::L10N::en              0.04  pkg:cpan/MARC-Leader-L10N@0.04
+MARC::Leader::L10N                  0.05  pkg:cpan/MARC-Leader-L10N@0.05
+MARC::Leader::L10N::cs              0.05  pkg:cpan/MARC-Leader-L10N@0.05
+MARC::Leader::L10N::de              0.05  pkg:cpan/MARC-Leader-L10N@0.05
+MARC::Leader::L10N::en              0.05  pkg:cpan/MARC-Leader-L10N@0.05
 MARC::Leader::Print                 0.08  pkg:cpan/MARC-Leader-Print@0.08
 MARC::Leader::Utils                 0.02  pkg:cpan/MARC-Leader-Utils@0.02
 MARC::Lint                          1.53  pkg:cpan/MARC-Lint@1.53
