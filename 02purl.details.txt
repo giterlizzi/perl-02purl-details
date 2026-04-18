@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 18 Apr 2026 10:33:57 GMT
-Line-Count: 263831
+Last-Updated: Sat, 18 Apr 2026 12:46:58 GMT
+Line-Count: 263828
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -45731,7 +45731,6 @@ Class::MethodVars::_ATTRS          1.133  pkg:cpan/Class-Framework@1.228
 Class::MethodVars::_Private        1.133  pkg:cpan/Class-Framework@1.228
 Class::Methodist                   undef  pkg:cpan/Class-Methodist@1.6
 Class::Methods                     0.062  pkg:cpan/Class-Methods@0.062
-Class::Mite                        v0.1.1  pkg:cpan/Class-Mite@v0.1.1
 Class::Mix                         0.006  pkg:cpan/Class-Mix@0.006
 Class::Mixer                        0.54  pkg:cpan/Class-Mixer@0.54
 Class::Mixin                        1.00  pkg:cpan/Class-Mixin@1.00
@@ -45750,7 +45749,6 @@ Class::Monadic                      0.04  pkg:cpan/Class-Monadic@0.04
 Class::Monadic::Object              0.04  pkg:cpan/Class-Monadic@0.04
 Class::Monadic::Object::Clonable    0.04  pkg:cpan/Class-Monadic@0.04
 Class::Monkey                      0.007  pkg:cpan/Class-Monkey@0.007
-Class::More                        v0.1.0  pkg:cpan/Class-Mite@v0.1.0
 Class::Multi                        1.04  pkg:cpan/Class-Multi@1.04
 Class::Multimethods                1.701  pkg:cpan/Class-Multimethods@1.701
 Class::Multimethods::Pure           0.13  pkg:cpan/Class-Multimethods-Pure@0.13
@@ -66953,7 +66951,7 @@ Dist::Zilla::Plugin::Upload::SCP   0.002  pkg:cpan/Dist-Zilla-Plugin-Upload-SCP@
 Dist::Zilla::Plugin::UploadToCPAN  6.037  pkg:cpan/Dist-Zilla@6.037
 Dist::Zilla::Plugin::UploadToCPAN::WWWPAUSESimple  0.04  pkg:cpan/Dist-Zilla-Plugin-UploadToCPAN-WWWPAUSESimple@0.04
 Dist::Zilla::Plugin::UploadToCpanSite 1.132210  pkg:cpan/Dist-Zilla-Plugin-UploadToCpanSite@1.132210
-Dist::Zilla::Plugin::UploadToDarkPAN v2.0.0  pkg:cpan/Dist-Zilla-Plugin-UploadToDarkPAN@2.0.0
+Dist::Zilla::Plugin::UploadToDarkPAN v2.0.1  pkg:cpan/Dist-Zilla-Plugin-UploadToDarkPAN@2.0.1
 Dist::Zilla::Plugin::UploadToSFTP  0.003  pkg:cpan/Dist-Zilla-Plugin-UploadToSFTP@0.003
 Dist::Zilla::Plugin::UploadToStratopan 0.015  pkg:cpan/Dist-Zilla-Plugin-UploadToStratopan@0.015
 Dist::Zilla::Plugin::UseBuildPL      0.3  pkg:cpan/Dist-Zilla-Plugin-UseBuildPL@0.3
@@ -67130,7 +67128,7 @@ Dist::Zilla::PluginBundle::NIGELM   0.27  pkg:cpan/Dist-Zilla-PluginBundle-NIGEL
 Dist::Zilla::PluginBundle::NRR     0.121220  pkg:cpan/Dist-Zilla-PluginBundle-NRR@0.121220
 Dist::Zilla::PluginBundle::NUFFIN   0.01  pkg:cpan/Dist-Zilla-PluginBundle-NUFFIN@0.01
 Dist::Zilla::PluginBundle::ODYNIEC 0.021  pkg:cpan/Dist-Zilla-PluginBundle-ODYNIEC@0.021
-Dist::Zilla::PluginBundle::OYOULE  v2.0.0  pkg:cpan/Dist-Zilla-PluginBundle-OYOULE@2.0.0
+Dist::Zilla::PluginBundle::OYOULE  v2.1.0  pkg:cpan/Dist-Zilla-PluginBundle-OYOULE@2.1.0
 Dist::Zilla::PluginBundle::PDONELAN 1.201  pkg:cpan/Dist-Zilla-PluginBundle-PDONELAN@1.201
 Dist::Zilla::PluginBundle::PERLSRVDE v1.1.1  pkg:cpan/Dist-Zilla-PERLSRVDE@1.1.1
 Dist::Zilla::PluginBundle::Prereqs  0.93  pkg:cpan/Dist-Zilla-PluginBundle-Prereqs@0.93
@@ -206073,7 +206071,6 @@ RogueQuest::stateimagelibrary      undef  pkg:cpan/RogueQuest@0.1.5
 Roku::ECP                            1.0  pkg:cpan/Roku-ECP@1.0.0
 Roku::LCD                           0.05  pkg:cpan/Roku-LCD@0.05
 Roku::RCP                           0.08  pkg:cpan/Roku-RCP@0.08
-Role                               v0.1.0  pkg:cpan/Class-Mite@v0.1.0
 Role::Basic                         0.16  pkg:cpan/Role-Basic@0.16
 Role::Cache::LRU                    0.05  pkg:cpan/Role-Cache-LRU@0.05
 Role::Commons                      0.104  pkg:cpan/Role-Commons@0.104
@@ -262435,8 +262432,8 @@ maybe                              0.0202  pkg:cpan/maybe@0.0202
 maybe::start                       undef  pkg:cpan/Object-Remote@0.004004
 mb                                  0.61  pkg:cpan/mb@0.61
 mb::Encode                          0.04  pkg:cpan/mb-Encode@0.04
-mb::JSON                            0.05  pkg:cpan/mb-JSON@0.05
-mb::JSON::Boolean                   0.05  pkg:cpan/mb-JSON@0.05
+mb::JSON                            0.06  pkg:cpan/mb-JSON@0.06
+mb::JSON::Boolean                   0.06  pkg:cpan/mb-JSON@0.06
 mcoder                              0.10  pkg:cpan/mcoder@0.10
 mcoder::array::calculated           0.01  pkg:cpan/mcoder@0.10
 mcoder::array::get                  0.01  pkg:cpan/mcoder@0.10
