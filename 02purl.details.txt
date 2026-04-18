@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 18 Apr 2026 12:46:58 GMT
+Last-Updated: Sat, 18 Apr 2026 14:35:57 GMT
 Line-Count: 263828
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -67128,7 +67128,7 @@ Dist::Zilla::PluginBundle::NIGELM   0.27  pkg:cpan/Dist-Zilla-PluginBundle-NIGEL
 Dist::Zilla::PluginBundle::NRR     0.121220  pkg:cpan/Dist-Zilla-PluginBundle-NRR@0.121220
 Dist::Zilla::PluginBundle::NUFFIN   0.01  pkg:cpan/Dist-Zilla-PluginBundle-NUFFIN@0.01
 Dist::Zilla::PluginBundle::ODYNIEC 0.021  pkg:cpan/Dist-Zilla-PluginBundle-ODYNIEC@0.021
-Dist::Zilla::PluginBundle::OYOULE  v2.1.0  pkg:cpan/Dist-Zilla-PluginBundle-OYOULE@2.1.0
+Dist::Zilla::PluginBundle::OYOULE  v2.1.1  pkg:cpan/Dist-Zilla-PluginBundle-OYOULE@2.1.1
 Dist::Zilla::PluginBundle::PDONELAN 1.201  pkg:cpan/Dist-Zilla-PluginBundle-PDONELAN@1.201
 Dist::Zilla::PluginBundle::PERLSRVDE v1.1.1  pkg:cpan/Dist-Zilla-PERLSRVDE@1.1.1
 Dist::Zilla::PluginBundle::Prereqs  0.93  pkg:cpan/Dist-Zilla-PluginBundle-Prereqs@0.93
@@ -136899,8 +136899,8 @@ Module::Extract                     0.01  pkg:cpan/Module-Extract@0.01
 Module::Extract::DeclaredMinimumPerl 1.027  pkg:cpan/Module-Extract-DeclaredMinimumPerl@1.027
 Module::Extract::DeclaredVersion   1.026  pkg:cpan/Module-Extract-DeclaredVersion@1.026
 Module::Extract::Namespaces        1.026  pkg:cpan/Module-Extract-Namespaces@1.026
-Module::Extract::Use               1.054  pkg:cpan/Module-Extract-Use@1.054
-Module::Extract::Use::Item         1.054  pkg:cpan/Module-Extract-Use@1.054
+Module::Extract::Use               1.055  pkg:cpan/Module-Extract-Use@1.055
+Module::Extract::Use::Item         1.055  pkg:cpan/Module-Extract-Use@1.055
 Module::Extract::VERSION           1.119  pkg:cpan/Module-Extract-VERSION@1.119
 Module::ExtractUse                 0.345  pkg:cpan/Module-ExtractUse@0.345
 Module::ExtractUse::Grammar        0.345  pkg:cpan/Module-ExtractUse@0.345
@@ -145095,9 +145095,9 @@ Net::Async::FastCGI::Protocol       0.26  pkg:cpan/Net-Async-FastCGI@0.26
 Net::Async::FastCGI::Request        0.26  pkg:cpan/Net-Async-FastCGI@0.26
 Net::Async::FastCGI::ServerProtocol  0.26  pkg:cpan/Net-Async-FastCGI@0.26
 Net::Async::Firecrawl              0.001  pkg:cpan/Net-Async-Firecrawl@0.001
-Net::Async::Gearman                 0.01  pkg:cpan/Net-Async-Gearman@0.01
-Net::Async::Gearman::Client         0.01  pkg:cpan/Net-Async-Gearman@0.01
-Net::Async::Gearman::Worker         0.01  pkg:cpan/Net-Async-Gearman@0.01
+Net::Async::Gearman                 0.02  pkg:cpan/Net-Async-Gearman@0.02
+Net::Async::Gearman::Client         0.02  pkg:cpan/Net-Async-Gearman@0.02
+Net::Async::Gearman::Worker         0.02  pkg:cpan/Net-Async-Gearman@0.02
 Net::Async::Github                 0.013  pkg:cpan/Net-Async-Github@0.013
 Net::Async::Github::Branch         0.013  pkg:cpan/Net-Async-Github@0.013
 Net::Async::Github::Comment        0.013  pkg:cpan/Net-Async-Github@0.013
