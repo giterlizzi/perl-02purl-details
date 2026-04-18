@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 18 Apr 2026 04:27:06 GMT
+Last-Updated: Sat, 18 Apr 2026 06:59:20 GMT
 Line-Count: 263831
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -27833,7 +27833,7 @@ Bit::Vector::Overload                7.4  pkg:cpan/Bit-Vector@7.4
 Bit::Vector::String                  7.4  pkg:cpan/Bit-Vector@7.4
 BitArray                            0.01  pkg:cpan/BitArray1
 BitTorrent                          0.10  pkg:cpan/BitTorrent@V0.1?ext=zip
-BitTorrent::Simple                  0.01  pkg:cpan/BitTorrent-Simple@0.01
+BitTorrent::Simple                  0.03  pkg:cpan/BitTorrent-Simple@0.03
 BitVecIterator                      1.26  pkg:cpan/Algorithm-BitVector@1.26
 Bitcoin::BIP39                     0.003  pkg:cpan/Bitcoin-BIP39@0.003
 Bitcoin::Crypto                    4.004  pkg:cpan/Bitcoin-Crypto@4.004
