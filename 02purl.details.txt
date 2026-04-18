@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 18 Apr 2026 01:49:51 GMT
-Line-Count: 263828
+Last-Updated: Sat, 18 Apr 2026 04:27:06 GMT
+Line-Count: 263831
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -145096,6 +145096,7 @@ Net::Async::FastCGI::PSGI           0.26  pkg:cpan/Net-Async-FastCGI@0.26
 Net::Async::FastCGI::Protocol       0.26  pkg:cpan/Net-Async-FastCGI@0.26
 Net::Async::FastCGI::Request        0.26  pkg:cpan/Net-Async-FastCGI@0.26
 Net::Async::FastCGI::ServerProtocol  0.26  pkg:cpan/Net-Async-FastCGI@0.26
+Net::Async::Firecrawl              0.001  pkg:cpan/Net-Async-Firecrawl@0.001
 Net::Async::Gearman                 0.01  pkg:cpan/Net-Async-Gearman@0.01
 Net::Async::Gearman::Client         0.01  pkg:cpan/Net-Async-Gearman@0.01
 Net::Async::Gearman::Worker         0.01  pkg:cpan/Net-Async-Gearman@0.01
@@ -244190,6 +244191,8 @@ WWW::Finger::CPAN                  0.105  pkg:cpan/WWW-Finger@0.105
 WWW::Finger::Fingerpoint           0.105  pkg:cpan/WWW-Finger@0.105
 WWW::Finger::Webfinger             0.105  pkg:cpan/WWW-Finger@0.105
 WWW::Finger::_GenericRDF           0.105  pkg:cpan/WWW-Finger@0.105
+WWW::Firecrawl                     0.001  pkg:cpan/WWW-Firecrawl@0.001
+WWW::Firecrawl::Error              0.001  pkg:cpan/WWW-Firecrawl@0.001
 WWW::Flatten                        0.09  pkg:cpan/WWW-Flatten@0.09
 WWW::FleXtel                        0.03  pkg:cpan/WWW-FleXtel@0.03
 WWW::FoneFinder                     0.02  pkg:cpan/WWW-FoneFinder@0.02
