@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 18 Apr 2026 14:35:57 GMT
-Line-Count: 263828
+Last-Updated: Sat, 18 Apr 2026 16:32:02 GMT
+Line-Count: 263840
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -137658,7 +137658,8 @@ Mojo::DOM::Role::Analyzer          0.015  pkg:cpan/Mojo-DOM-Role-Analyzer@0.015
 Mojo::DOM::Role::Form              undef  pkg:cpan/Mojo-Transaction-HTTP-Role-Mechanize@0.06
 Mojo::DOM::Role::PrettyPrinter      0.03  pkg:cpan/Mojo-DOM-Role-PrettyPrinter@0.03
 Mojo::DOM::Role::Restrict           0.06  pkg:cpan/Mojo-DOM-Role-Restrict@0.06
-Mojo::DOM::Role::Style             undef  pkg:cpan/Mojo-DOM-Role-Style@0.003
+Mojo::DOM::Role::Style             undef  pkg:cpan/Mojo-DOM-Role-Style@0.004
+Mojo::DOM::Role::Style::Value      undef  pkg:cpan/Mojo-DOM-Role-Style@0.004
 Mojo::Darkpan                       0.09  pkg:cpan/Mojo-Darkpan@0.09
 Mojo::Darkpan::Config              undef  pkg:cpan/Mojo-Darkpan@0.09
 Mojo::Darkpan::Controller::Index   undef  pkg:cpan/Mojo-Darkpan@0.09
@@ -145465,6 +145466,17 @@ Net::Async::Trello::WS             0.007  pkg:cpan/Net-Async-Trello@0.007
 Net::Async::UWSGI                  0.006  pkg:cpan/Net-Async-UWSGI@0.006
 Net::Async::UWSGI::Server          0.006  pkg:cpan/Net-Async-UWSGI@0.006
 Net::Async::UWSGI::Server::Connection 0.006  pkg:cpan/Net-Async-UWSGI@0.006
+Net::Async::WebSearch              0.002  pkg:cpan/Net-Async-WebSearch@0.002
+Net::Async::WebSearch::Provider    0.002  pkg:cpan/Net-Async-WebSearch@0.002
+Net::Async::WebSearch::Provider::Brave 0.002  pkg:cpan/Net-Async-WebSearch@0.002
+Net::Async::WebSearch::Provider::DuckDuckGo 0.002  pkg:cpan/Net-Async-WebSearch@0.002
+Net::Async::WebSearch::Provider::Google 0.002  pkg:cpan/Net-Async-WebSearch@0.002
+Net::Async::WebSearch::Provider::Reddit 0.002  pkg:cpan/Net-Async-WebSearch@0.002
+Net::Async::WebSearch::Provider::Reddit::OAuth 0.002  pkg:cpan/Net-Async-WebSearch@0.002
+Net::Async::WebSearch::Provider::SearxNG 0.002  pkg:cpan/Net-Async-WebSearch@0.002
+Net::Async::WebSearch::Provider::Serper 0.002  pkg:cpan/Net-Async-WebSearch@0.002
+Net::Async::WebSearch::Provider::Yandex 0.002  pkg:cpan/Net-Async-WebSearch@0.002
+Net::Async::WebSearch::Result      0.002  pkg:cpan/Net-Async-WebSearch@0.002
 Net::Async::WebService::lxd         0.03  pkg:cpan/Net-Async-WebService-lxd@0.03
 Net::Async::WebSocket               0.14  pkg:cpan/Net-Async-WebSocket@0.14
 Net::Async::WebSocket::Client       0.14  pkg:cpan/Net-Async-WebSocket@0.14
@@ -155239,8 +155251,8 @@ Object::InsideOut::Secure           4.05  pkg:cpan/Object-InsideOut@4.05
 Object::InsideOut::Util             4.05  pkg:cpan/Object-InsideOut@4.05
 Object::Interface                    1.1  pkg:cpan/Object-Interface@1.1?ext=zip
 Object::InterfaceType               0.01  pkg:cpan/Object-InterfaceType@0.01
-Object::Iterate                    1.152  pkg:cpan/Object-Iterate@1.152
-Object::Iterate::Tester            1.152  pkg:cpan/Object-Iterate@1.152
+Object::Iterate                    1.153  pkg:cpan/Object-Iterate@1.153
+Object::Iterate::Tester            1.152  pkg:cpan/Object-Iterate@1.153
 Object::KeyValueCoding              0.94  pkg:cpan/Object-KeyValueCoding@0.94
 Object::KeyValueCoding::Additions  undef  pkg:cpan/Object-KeyValueCoding@0.94
 Object::KeyValueCoding::Complex    undef  pkg:cpan/Object-KeyValueCoding@0.94
@@ -209892,7 +209904,7 @@ SVG::VCD::Taxon                    undef  pkg:cpan/SVG-VCD@0.4
 SVG::XML                            2.89  pkg:cpan/SVG@2.89
 SVGExtension                        1.06  pkg:cpan/svg-svg2zinc@0.10
 SVGGraph                            0.07  pkg:cpan/SVGGraph@0.07
-SVGPDF                             v0.91.1  pkg:cpan/SVGPDF@0.091.1
+SVGPDF                             0.092  pkg:cpan/SVGPDF@0.092
 SVGraph                             0.02  pkg:cpan/SVGraph@0.02
 SVK                                v2.2.3  pkg:cpan/SVK@v2.2.3
 SVK::Accessor                      undef  pkg:cpan/SVK@v2.2.3
