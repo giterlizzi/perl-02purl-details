@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 19 Apr 2026 14:36:08 GMT
+Last-Updated: Sun, 19 Apr 2026 16:31:56 GMT
 Line-Count: 263848
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -112238,37 +112238,37 @@ IPC::MMA::Scalar                    0.81  pkg:cpan/IPC-MMA@0.81
 IPC::MPS                            0.21  pkg:cpan/IPC-MPS@0.21
 IPC::MPS::EV                        0.21  pkg:cpan/IPC-MPS@0.21
 IPC::MPS::Event                     0.21  pkg:cpan/IPC-MPS@0.21
-IPC::Manager                       0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Base::DBI            0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Base::FS             0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Base::FS::Handle     0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Client               0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Client::AtomicPipe   0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Client::JSONFile     0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Client::LocalMemory  0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Client::MariaDB      0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Client::MessageFiles 0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Client::MySQL        0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Client::PostgreSQL   0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Client::SQLite       0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Client::SharedMem    0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Client::UnixSocket   0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::DBI                  0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Message              0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Role::Service        0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Role::Service::Requests 0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Role::Service::Select 0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Serializer           0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Serializer::JSON     0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Service              0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Service::Echo        0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Service::Handle      0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Service::Peer        0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Service::State       undef  pkg:cpan/IPC-Manager@0.000025
+IPC::Manager                       0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Base::DBI            0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Base::FS             0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Base::FS::Handle     0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Client               0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Client::AtomicPipe   0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Client::JSONFile     0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Client::LocalMemory  0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Client::MariaDB      0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Client::MessageFiles 0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Client::MySQL        0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Client::PostgreSQL   0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Client::SQLite       0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Client::SharedMem    0.000026  pkg:cpan/IPC-Manager-Client-SharedMem@0.000026
+IPC::Manager::Client::UnixSocket   0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::DBI                  0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Message              0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Role::Service        0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Role::Service::Requests 0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Role::Service::Select 0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Serializer           0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Serializer::JSON     0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Service              0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Service::Echo        0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Service::Handle      0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Service::Peer        0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Service::State       undef  pkg:cpan/IPC-Manager@0.000026
 IPC::Manager::ServicePeer          0.000010  pkg:cpan/IPC-Manager@0.000010
-IPC::Manager::Spawn                0.000025  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Test                 undef  pkg:cpan/IPC-Manager@0.000025
-IPC::Manager::Util                 0.000025  pkg:cpan/IPC-Manager@0.000025
+IPC::Manager::Spawn                0.000026  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Test                 undef  pkg:cpan/IPC-Manager@0.000026
+IPC::Manager::Util                 0.000026  pkg:cpan/IPC-Manager@0.000026
 IPC::MicroSocket                    0.05  pkg:cpan/IPC-MicroSocket@0.05
 IPC::MicroSocket::Client            0.05  pkg:cpan/IPC-MicroSocket@0.05
 IPC::MicroSocket::Server            0.05  pkg:cpan/IPC-MicroSocket@0.05
