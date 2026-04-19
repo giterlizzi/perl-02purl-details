@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 19 Apr 2026 08:44:18 GMT
+Last-Updated: Sun, 19 Apr 2026 10:32:57 GMT
 Line-Count: 263848
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -132297,10 +132297,10 @@ Math::Logic::Ternary::Trit         0.004  pkg:cpan/Math-Logic-Ternary@0.004
 Math::Logic::Ternary::Word         0.004  pkg:cpan/Math-Logic-Ternary@0.004
 Math::LongDouble                    0.26  pkg:cpan/Math-LongDouble@0.26
 Math::Lsoda                         0.04  pkg:cpan/Math-Lsoda@0.04
-Math::MPC                           1.41  pkg:cpan/Math-MPC@1.41
-Math::MPC::Ball                     1.41  pkg:cpan/Math-MPC@1.41
-Math::MPC::Constant                 1.41  pkg:cpan/Math-MPC@1.41
-Math::MPC::Radius                   1.41  pkg:cpan/Math-MPC@1.41
+Math::MPC                           1.42  pkg:cpan/Math-MPC@1.42
+Math::MPC::Ball                     1.42  pkg:cpan/Math-MPC@1.42
+Math::MPC::Constant                 1.42  pkg:cpan/Math-MPC@1.42
+Math::MPC::Radius                   1.42  pkg:cpan/Math-MPC@1.42
 Math::MPFI                          0.14  pkg:cpan/Math-MPFI@0.14
 Math::MPFI::Constant                0.14  pkg:cpan/Math-MPFI@0.14
 Math::MPFR                          4.47  pkg:cpan/Math-MPFR@4.47
