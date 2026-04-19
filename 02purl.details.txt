@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 19 Apr 2026 18:38:44 GMT
+Last-Updated: Sun, 19 Apr 2026 20:29:49 GMT
 Line-Count: 263848
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -57572,21 +57572,21 @@ Data::Hash::Patch::Smart::Engine   undef  pkg:cpan/Data-Hash-Patch-Smart@0.01
 Data::Hash::Totals                  0.10  pkg:cpan/Data-Hash-Totals@0.10
 Data::Hash::Transform               0.05  pkg:cpan/Module-Which@0.05
 Data::HashArray                     1.03  pkg:cpan/Data-HashArray@1.03
-Data::HashMap                       0.07  pkg:cpan/Data-HashMap@0.07
-Data::HashMap::I16                  0.07  pkg:cpan/Data-HashMap@0.07
-Data::HashMap::I16A                 0.07  pkg:cpan/Data-HashMap@0.07
-Data::HashMap::I16S                 0.07  pkg:cpan/Data-HashMap@0.07
-Data::HashMap::I32                  0.07  pkg:cpan/Data-HashMap@0.07
-Data::HashMap::I32A                 0.07  pkg:cpan/Data-HashMap@0.07
-Data::HashMap::I32S                 0.07  pkg:cpan/Data-HashMap@0.07
-Data::HashMap::IA                   0.07  pkg:cpan/Data-HashMap@0.07
-Data::HashMap::II                   0.07  pkg:cpan/Data-HashMap@0.07
-Data::HashMap::IS                   0.07  pkg:cpan/Data-HashMap@0.07
-Data::HashMap::SA                   0.07  pkg:cpan/Data-HashMap@0.07
-Data::HashMap::SI                   0.07  pkg:cpan/Data-HashMap@0.07
-Data::HashMap::SI16                 0.07  pkg:cpan/Data-HashMap@0.07
-Data::HashMap::SI32                 0.07  pkg:cpan/Data-HashMap@0.07
-Data::HashMap::SS                   0.07  pkg:cpan/Data-HashMap@0.07
+Data::HashMap                       0.08  pkg:cpan/Data-HashMap@0.08
+Data::HashMap::I16                  0.08  pkg:cpan/Data-HashMap@0.08
+Data::HashMap::I16A                 0.08  pkg:cpan/Data-HashMap@0.08
+Data::HashMap::I16S                 0.08  pkg:cpan/Data-HashMap@0.08
+Data::HashMap::I32                  0.08  pkg:cpan/Data-HashMap@0.08
+Data::HashMap::I32A                 0.08  pkg:cpan/Data-HashMap@0.08
+Data::HashMap::I32S                 0.08  pkg:cpan/Data-HashMap@0.08
+Data::HashMap::IA                   0.08  pkg:cpan/Data-HashMap@0.08
+Data::HashMap::II                   0.08  pkg:cpan/Data-HashMap@0.08
+Data::HashMap::IS                   0.08  pkg:cpan/Data-HashMap@0.08
+Data::HashMap::SA                   0.08  pkg:cpan/Data-HashMap@0.08
+Data::HashMap::SI                   0.08  pkg:cpan/Data-HashMap@0.08
+Data::HashMap::SI16                 0.08  pkg:cpan/Data-HashMap@0.08
+Data::HashMap::SI32                 0.08  pkg:cpan/Data-HashMap@0.08
+Data::HashMap::SS                   0.08  pkg:cpan/Data-HashMap@0.08
 Data::HashMap::Shared               0.06  pkg:cpan/Data-HashMap-Shared@0.06
 Data::HashMap::Shared::I16          0.02  pkg:cpan/Data-HashMap-Shared@0.06
 Data::HashMap::Shared::I16S         0.02  pkg:cpan/Data-HashMap-Shared@0.06
@@ -158202,7 +158202,7 @@ PDL::Demos::General                undef  pkg:cpan/PDL@2.104
 PDL::Demos::Gnuplot                undef  pkg:cpan/PDL-Graphics-Gnuplot@2.032
 PDL::Demos::PGPLOT                 undef  pkg:cpan/PGPLOT@2.35
 PDL::Demos::PGPLOT_OO              undef  pkg:cpan/PGPLOT@2.35
-PDL::Demos::PLplot                 undef  pkg:cpan/PDL-Graphics-PLplot@0.841
+PDL::Demos::PLplot                 undef  pkg:cpan/PDL-Graphics-PLplot@0.842
 PDL::Demos::Prima                  undef  pkg:cpan/PDL-Graphics-Prima@0.21
 PDL::Demos::Proj4_demo             undef  pkg:cpan/PDL-Transform-Proj4@2.099
 PDL::Demos::Simplex                undef  pkg:cpan/PDL-Opt-Simplex@2.097
@@ -158267,7 +158267,7 @@ PDL::Graphics::OpenGLQ             undef  pkg:cpan/PDL-Graphics-TriD@2.102
 PDL::Graphics::PGPLOT              undef  pkg:cpan/PGPLOT@2.35
 PDL::Graphics::PGPLOT::Window      undef  pkg:cpan/PGPLOT@2.35
 PDL::Graphics::PGPLOTOptions       undef  pkg:cpan/PGPLOT@2.35
-PDL::Graphics::PLplot              0.841  pkg:cpan/PDL-Graphics-PLplot@0.841
+PDL::Graphics::PLplot              0.842  pkg:cpan/PDL-Graphics-PLplot@0.842
 PDL::Graphics::Prima                0.21  pkg:cpan/PDL-Graphics-Prima@0.21
 PDL::Graphics::Prima::Axis          0.18  pkg:cpan/PDL-Graphics-Prima@0.21
 PDL::Graphics::Prima::DataSet       0.18  pkg:cpan/PDL-Graphics-Prima@0.21
