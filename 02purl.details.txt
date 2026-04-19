@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 18 Apr 2026 22:27:21 GMT
-Line-Count: 263847
+Last-Updated: Sun, 19 Apr 2026 02:02:37 GMT
+Line-Count: 263848
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -62929,16 +62929,16 @@ DateTime::LazyInit::Constructor_new 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ex
 DateTime::LazyInit::Constructor_now 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ext=tgz
 DateTime::LazyInit::Constructor_today 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ext=tgz
 DateTime::LeapSecond                1.66  pkg:cpan/DateTime@1.66
-DateTime::Lite                     0.006000  pkg:cpan/DateTime-Lite@v0.6.0
-DateTime::Lite::Duration           0.001000  pkg:cpan/DateTime-Lite@v0.6.0
-DateTime::Lite::Exception          0.001000  pkg:cpan/DateTime-Lite@v0.6.0
-DateTime::Lite::Infinite           0.001000  pkg:cpan/DateTime-Lite@v0.6.0
-DateTime::Lite::Infinite::Future   0.001000  pkg:cpan/DateTime-Lite@v0.6.0
-DateTime::Lite::Infinite::Past     0.001000  pkg:cpan/DateTime-Lite@v0.6.0
-DateTime::Lite::PP                 0.001000  pkg:cpan/DateTime-Lite@v0.6.0
-DateTime::Lite::TimeZone           0.005000  pkg:cpan/DateTime-Lite@v0.6.0
-DateTime::Lite::_FakeLocale        0.001000  pkg:cpan/DateTime-Lite@v0.6.0
-DateTime::Lite::_Thawed            0.006000  pkg:cpan/DateTime-Lite@v0.6.0
+DateTime::Lite                     0.006001  pkg:cpan/DateTime-Lite@v0.6.1
+DateTime::Lite::Duration           0.001000  pkg:cpan/DateTime-Lite@v0.6.1
+DateTime::Lite::Exception          0.001000  pkg:cpan/DateTime-Lite@v0.6.1
+DateTime::Lite::Infinite           0.001000  pkg:cpan/DateTime-Lite@v0.6.1
+DateTime::Lite::Infinite::Future   0.001000  pkg:cpan/DateTime-Lite@v0.6.1
+DateTime::Lite::Infinite::Past     0.001000  pkg:cpan/DateTime-Lite@v0.6.1
+DateTime::Lite::PP                 0.001000  pkg:cpan/DateTime-Lite@v0.6.1
+DateTime::Lite::TimeZone           0.005001  pkg:cpan/DateTime-Lite@v0.6.1
+DateTime::Lite::_FakeLocale        0.001000  pkg:cpan/DateTime-Lite@v0.6.1
+DateTime::Lite::_Thawed            0.006001  pkg:cpan/DateTime-Lite@v0.6.1
 DateTime::Locale                    1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Base              1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Catalog           1.45  pkg:cpan/DateTime-Locale@1.45
@@ -72187,7 +72187,7 @@ FCGI::Async::ClientConnection      undef  pkg:cpan/FCGI-Async@0.21
 FCGI::Async::PSGI                   0.22  pkg:cpan/FCGI-Async@0.22
 FCGI::Async::Request                0.21  pkg:cpan/FCGI-Async@0.21
 FCGI::Async::Stream                 0.21  pkg:cpan/FCGI-Async@0.21
-FCGI::Buffer                        0.21  pkg:cpan/FCGI-Buffer@0.21
+FCGI::Buffer                        0.22  pkg:cpan/FCGI-Buffer@0.22
 FCGI::Client                        0.09  pkg:cpan/FCGI-Client@0.09
 FCGI::Client::Connection           undef  pkg:cpan/FCGI-Client@0.09
 FCGI::Client::Constant             undef  pkg:cpan/FCGI-Client@0.09
@@ -112238,37 +112238,37 @@ IPC::MMA::Scalar                    0.81  pkg:cpan/IPC-MMA@0.81
 IPC::MPS                            0.21  pkg:cpan/IPC-MPS@0.21
 IPC::MPS::EV                        0.21  pkg:cpan/IPC-MPS@0.21
 IPC::MPS::Event                     0.21  pkg:cpan/IPC-MPS@0.21
-IPC::Manager                       0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Base::DBI            0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Base::FS             0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Base::FS::Handle     0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Client               0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Client::AtomicPipe   0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Client::JSONFile     0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Client::LocalMemory  0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Client::MariaDB      0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Client::MessageFiles 0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Client::MySQL        0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Client::PostgreSQL   0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Client::SQLite       0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Client::SharedMem    0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Client::UnixSocket   0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::DBI                  0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Message              0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Role::Service        0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Role::Service::Requests 0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Role::Service::Select 0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Serializer           0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Serializer::JSON     0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Service              0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Service::Echo        0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Service::Handle      0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Service::Peer        0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Service::State       undef  pkg:cpan/IPC-Manager@0.000023
+IPC::Manager                       0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Base::DBI            0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Base::FS             0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Base::FS::Handle     0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Client               0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Client::AtomicPipe   0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Client::JSONFile     0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Client::LocalMemory  0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Client::MariaDB      0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Client::MessageFiles 0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Client::MySQL        0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Client::PostgreSQL   0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Client::SQLite       0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Client::SharedMem    0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Client::UnixSocket   0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::DBI                  0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Message              0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Role::Service        0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Role::Service::Requests 0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Role::Service::Select 0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Serializer           0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Serializer::JSON     0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Service              0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Service::Echo        0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Service::Handle      0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Service::Peer        0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Service::State       undef  pkg:cpan/IPC-Manager@0.000024
 IPC::Manager::ServicePeer          0.000010  pkg:cpan/IPC-Manager@0.000010
-IPC::Manager::Spawn                0.000023  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Test                 undef  pkg:cpan/IPC-Manager@0.000023
-IPC::Manager::Util                 0.000023  pkg:cpan/IPC-Manager@0.000023
+IPC::Manager::Spawn                0.000024  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Test                 undef  pkg:cpan/IPC-Manager@0.000024
+IPC::Manager::Util                 0.000024  pkg:cpan/IPC-Manager@0.000024
 IPC::MicroSocket                    0.05  pkg:cpan/IPC-MicroSocket@0.05
 IPC::MicroSocket::Client            0.05  pkg:cpan/IPC-MicroSocket@0.05
 IPC::MicroSocket::Server            0.05  pkg:cpan/IPC-MicroSocket@0.05
@@ -153200,6 +153200,7 @@ Nullius                             0.60  pkg:cpan/Games-Worms@0.65
 NumSeq::Iter                       0.008  pkg:cpan/NumSeq-Iter@0.008
 Number::AnyBase                    1.60000  pkg:cpan/Number-AnyBase@1.60000
 Number::Base::DWIM                  0.04  pkg:cpan/Number-Base-DWIM@0.04
+Number::Base::SpreadsheetColumn    0.001  pkg:cpan/Number-Base-SpreadsheetColumn@0.001
 Number::Bytes::Human                0.11  pkg:cpan/Number-Bytes-Human@0.11
 Number::Closest                     0.06  pkg:cpan/Number-Closest@0.06
 Number::Closest::NonOO              0.06  pkg:cpan/Number-Closest-NonOO@0.06
