@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 19 Apr 2026 05:54:11 GMT
+Last-Updated: Sun, 19 Apr 2026 07:09:54 GMT
 Line-Count: 263848
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -137665,8 +137665,8 @@ Mojo::DOM::Role::Analyzer          0.015  pkg:cpan/Mojo-DOM-Role-Analyzer@0.015
 Mojo::DOM::Role::Form              undef  pkg:cpan/Mojo-Transaction-HTTP-Role-Mechanize@0.06
 Mojo::DOM::Role::PrettyPrinter      0.03  pkg:cpan/Mojo-DOM-Role-PrettyPrinter@0.03
 Mojo::DOM::Role::Restrict           0.06  pkg:cpan/Mojo-DOM-Role-Restrict@0.06
-Mojo::DOM::Role::Style             undef  pkg:cpan/Mojo-DOM-Role-Style@0.004
-Mojo::DOM::Role::Style::Value      undef  pkg:cpan/Mojo-DOM-Role-Style@0.004
+Mojo::DOM::Role::Style             undef  pkg:cpan/Mojo-DOM-Role-Style@0.005
+Mojo::DOM::Role::Style::Value      undef  pkg:cpan/Mojo-DOM-Role-Style@0.005
 Mojo::Darkpan                       0.09  pkg:cpan/Mojo-Darkpan@0.09
 Mojo::Darkpan::Config              undef  pkg:cpan/Mojo-Darkpan@0.09
 Mojo::Darkpan::Controller::Index   undef  pkg:cpan/Mojo-Darkpan@0.09
