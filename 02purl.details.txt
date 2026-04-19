@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 19 Apr 2026 02:02:37 GMT
+Last-Updated: Sun, 19 Apr 2026 05:54:11 GMT
 Line-Count: 263848
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -51711,15 +51711,15 @@ DBIx::Class::InflateColumn::Markup::Unified 0.021  pkg:cpan/DBIx-Class-InflateCo
 DBIx::Class::InflateColumn::Math::Currency 0.002000  pkg:cpan/DBIx-Class-InflateColumn-Math-Currency@0.2.0
 DBIx::Class::InflateColumn::Object::Enum  0.06  pkg:cpan/DBIx-Class-InflateColumn-Object-Enum@0.06
 DBIx::Class::InflateColumn::Path::Class 0.001001  pkg:cpan/DBIx-Class-InflateColumn-Path-Class@0.001001
-DBIx::Class::InflateColumn::Serializer  0.09  pkg:cpan/DBIx-Class-InflateColumn-Serializer@0.09
+DBIx::Class::InflateColumn::Serializer  0.10  pkg:cpan/DBIx-Class-InflateColumn-Serializer@0.10
 DBIx::Class::InflateColumn::Serializer::CompressJSON 0.004  pkg:cpan/DBIx-Class-InflateColumn-Serializer-CompressJSON@0.004
 DBIx::Class::InflateColumn::Serializer::Hstore  0.02  pkg:cpan/DBIx-Class-InflateColumn-Serializer-Hstore@0.02
-DBIx::Class::InflateColumn::Serializer::JSON  0.09  pkg:cpan/DBIx-Class-InflateColumn-Serializer@0.09
+DBIx::Class::InflateColumn::Serializer::JSON  0.10  pkg:cpan/DBIx-Class-InflateColumn-Serializer@0.10
 DBIx::Class::InflateColumn::Serializer::JSYNC 0.002001  pkg:cpan/DBIx-Class-InflateColumn-Serializer-JSYNC@0.002001
 DBIx::Class::InflateColumn::Serializer::Role::HashContentAccessor 0.001000  pkg:cpan/DBIx-Class-InflateColumn-Serializer-Role-HashContentAccessor@0.001000
 DBIx::Class::InflateColumn::Serializer::Sereal 0.001002  pkg:cpan/DBIx-Class-InflateColumn-Serializer-Sereal@0.001002
-DBIx::Class::InflateColumn::Serializer::Storable  0.09  pkg:cpan/DBIx-Class-InflateColumn-Serializer@0.09
-DBIx::Class::InflateColumn::Serializer::YAML  0.09  pkg:cpan/DBIx-Class-InflateColumn-Serializer@0.09
+DBIx::Class::InflateColumn::Serializer::Storable  0.10  pkg:cpan/DBIx-Class-InflateColumn-Serializer@0.10
+DBIx::Class::InflateColumn::Serializer::YAML  0.10  pkg:cpan/DBIx-Class-InflateColumn-Serializer@0.10
 DBIx::Class::InflateColumn::Time   0.000001  pkg:cpan/DBIx-Class-InflateColumn-Time@0.0.1
 DBIx::Class::InflateColumn::TimeMoment 0.050  pkg:cpan/DBIx-Class-InflateColumn-TimeMoment@0.050
 DBIx::Class::InflateColumn::TimePiece  0.03  pkg:cpan/DBIx-Class-InflateColumn-TimePiece@0.03
@@ -205782,7 +205782,7 @@ Riak::Light::Timeout::SetSockOpt    0.12  pkg:cpan/Riak-Light@0.12
 Riak::Light::Timeout::TimeOut       0.12  pkg:cpan/Riak-Light@0.12
 Riak::Light::Util                   0.12  pkg:cpan/Riak-Light@0.12
 Riap                               1.002004  pkg:cpan/Riap@1.2.4
-Riemann::Client                     0.05  pkg:cpan/Riemann-Client@0.05
+Riemann::Client                     0.06  pkg:cpan/Riemann-Client@0.06
 RightScale::Query                  undef  pkg:cpan/RightScale-Query@0.201
 Riji                               v1.1.4  pkg:cpan/Riji@v1.1.4
 Riji::CLI                          undef  pkg:cpan/Riji@v1.1.4
