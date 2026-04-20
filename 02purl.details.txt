@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 20 Apr 2026 15:12:11 GMT
-Line-Count: 263854
+Last-Updated: Mon, 20 Apr 2026 16:57:48 GMT
+Line-Count: 263860
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -53397,6 +53397,12 @@ DBIx::Web::dbcUnion                 0.80  pkg:cpan/DBIx-Web@0.80
 DBIx::Web::dbiCursor                0.80  pkg:cpan/DBIx-Web@0.80
 DBIx::Web::dbmCursor                0.80  pkg:cpan/DBIx-Web@0.80
 DBIx::Web::dbmHandle                0.80  pkg:cpan/DBIx-Web@0.80
+DBIx::Wizard                        0.04  pkg:cpan/DBIx-Wizard@0.04
+DBIx::Wizard::Cursor               undef  pkg:cpan/DBIx-Wizard@0.04
+DBIx::Wizard::DB                   undef  pkg:cpan/DBIx-Wizard@0.04
+DBIx::Wizard::DB::Table            undef  pkg:cpan/DBIx-Wizard@0.04
+DBIx::Wizard::DB::Wrapper          undef  pkg:cpan/DBIx-Wizard@0.04
+DBIx::Wizard::ResultSet            undef  pkg:cpan/DBIx-Wizard@0.04
 DBIx::Wrap                          1.00  pkg:cpan/DBIx-Wrap@1.00
 DBIx::Wrap::Iterator                1.00  pkg:cpan/DBIx-Wrap@1.00
 DBIx::Wrapper                       0.29  pkg:cpan/DBIx-Wrapper@0.29
@@ -209318,7 +209324,7 @@ SQL::TwoWay                         0.05  pkg:cpan/SQL-TwoWay@0.05
 SQL::Type::Guess                    0.06  pkg:cpan/SQL-Type-Guess@0.06
 SQL::Validator                      0.02  pkg:cpan/SQL-Validator@0.02
 SQL::Validator::Error               0.02  pkg:cpan/SQL-Validator@0.02
-SQL::Wizard                         0.10  pkg:cpan/SQL-Wizard@0.10
+SQL::Wizard                         0.11  pkg:cpan/SQL-Wizard@0.11
 SQL::Wizard::Expr                  undef  pkg:cpan/SQL-Wizard@0.02
 SQL::Wizard::Expr::Alias           undef  pkg:cpan/SQL-Wizard@0.02
 SQL::Wizard::Expr::BinaryOp        undef  pkg:cpan/SQL-Wizard@0.02
