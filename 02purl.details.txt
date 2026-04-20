@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 20 Apr 2026 06:10:01 GMT
+Last-Updated: Mon, 20 Apr 2026 09:52:28 GMT
 Line-Count: 263852
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -82779,7 +82779,7 @@ Git::SVN::Prompt                   undef  pkg:cpan/Git@0.42
 Git::SVN::Ra                       undef  pkg:cpan/Git@0.42
 Git::SVN::Utils                    undef  pkg:cpan/Git@0.42
 Git::SVNReplay                     1.0214  pkg:cpan/Git-SVNReplay@1.0214
-Git::Server                        0.041  pkg:cpan/Git-Server@0.041
+Git::Server                        0.042  pkg:cpan/Git-Server@0.042
 Git::Status::Tackle                 0.01  pkg:cpan/Git-Status-Tackle@0.01
 Git::Status::Tackle::CompletedFeatureBranches undef  pkg:cpan/Git-Status-Tackle@0.01
 Git::Status::Tackle::IndexChanges  undef  pkg:cpan/Git-Status-Tackle@0.01
