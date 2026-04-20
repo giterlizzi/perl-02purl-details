@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 20 Apr 2026 09:52:28 GMT
-Line-Count: 263852
+Last-Updated: Mon, 20 Apr 2026 11:15:30 GMT
+Line-Count: 263854
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -64945,54 +64945,56 @@ Devel::throttle                     0.01  pkg:cpan/Devel-throttle@0.01
 Devel::tkdb                          2.4  pkg:cpan/Devel-tkdb@2.4
 Devel::tvdb                        undef  pkg:cpan/TVision@0.29
 Devel::vscode                       0.02  pkg:cpan/Devel-vscode@0.02
-Developer::Dashboard                2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::ActionRunner  2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::Auth          2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::CLI::OpenFile  2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::CLI::Paths    2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::CLI::Query    2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::CLI::SeededPages  2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::CLI::Skills   2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::CLI::Ticket   2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::CLI::Which    2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::Codec         2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::Collector     2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::CollectorRunner  2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::Config        2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::DataHelper    2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::DockerCompose  2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::Doctor        2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::EnvAudit      2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::EnvLoader     2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::File          2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::FileRegistry  2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::Folder        2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::Housekeeper   2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::IndicatorStore  2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::InternalCLI   2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::JSON          2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::PageDocument  2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::PageResolver  2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::PageRuntime   2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::PageRuntime::StreamHandle  2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::PageStore     2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::PathRegistry  2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::Platform      2.68  pkg:cpan/Developer-Dashboard@2.68
+Developer::Dashboard                2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::ActionRunner  2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::Auth          2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::CLI::Complete  2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::CLI::OpenFile  2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::CLI::Paths    2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::CLI::Query    2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::CLI::SeededPages  2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::CLI::Skills   2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::CLI::Suggest  2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::CLI::Ticket   2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::CLI::Which    2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::Codec         2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::Collector     2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::CollectorRunner  2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::Config        2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::DataHelper    2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::DockerCompose  2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::Doctor        2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::EnvAudit      2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::EnvLoader     2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::File          2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::FileRegistry  2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::Folder        2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::Housekeeper   2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::IndicatorStore  2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::InternalCLI   2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::JSON          2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::PageDocument  2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::PageResolver  2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::PageRuntime   2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::PageRuntime::StreamHandle  2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::PageStore     2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::PathRegistry  2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::Platform      2.72  pkg:cpan/Developer-Dashboard@2.72
 Developer::Dashboard::PluginManager  0.89  pkg:cpan/Developer-Dashboard@0.89
-Developer::Dashboard::Prompt        2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::Runtime::Result  2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::RuntimeManager  2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::SKILLS        2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::SeedSync      2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::SessionStore  2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::SkillDispatcher  2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::SkillManager  2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::UpdateManager  2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::Web::App      2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::Web::DancerApp  2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::Web::Server   2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::Web::Server::Daemon  2.68  pkg:cpan/Developer-Dashboard@2.68
-Developer::Dashboard::Zipper        2.68  pkg:cpan/Developer-Dashboard@2.68
+Developer::Dashboard::Prompt        2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::Runtime::Result  2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::RuntimeManager  2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::SKILLS        2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::SeedSync      2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::SessionStore  2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::SkillDispatcher  2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::SkillManager  2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::UpdateManager  2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::Web::App      2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::Web::DancerApp  2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::Web::Server   2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::Web::Server::Daemon  2.72  pkg:cpan/Developer-Dashboard@2.72
+Developer::Dashboard::Zipper        2.72  pkg:cpan/Developer-Dashboard@2.72
 Device::AVR::Info                   0.03  pkg:cpan/Device-AVR-Info@0.03
 Device::AVR::Info::Module           0.03  pkg:cpan/Device-AVR-Info@0.03
 Device::AVR::UPDI                   0.19  pkg:cpan/Device-AVR-UPDI@0.19
