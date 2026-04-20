@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 20 Apr 2026 18:56:00 GMT
+Last-Updated: Mon, 20 Apr 2026 20:38:55 GMT
 Line-Count: 263869
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -209932,7 +209932,7 @@ SVG::VCD::Taxon                    undef  pkg:cpan/SVG-VCD@0.4
 SVG::XML                            2.89  pkg:cpan/SVG@2.89
 SVGExtension                        1.06  pkg:cpan/svg-svg2zinc@0.10
 SVGGraph                            0.07  pkg:cpan/SVGGraph@0.07
-SVGPDF                             v0.92.1  pkg:cpan/SVGPDF@0.092.1
+SVGPDF                             v0.92.2  pkg:cpan/SVGPDF@0.092.2
 SVGraph                             0.02  pkg:cpan/SVGraph@0.02
 SVK                                v2.2.3  pkg:cpan/SVK@v2.2.3
 SVK::Accessor                      undef  pkg:cpan/SVK@v2.2.3
