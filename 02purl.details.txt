@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 19 Apr 2026 22:28:23 GMT
-Line-Count: 263851
+Last-Updated: Mon, 20 Apr 2026 02:03:36 GMT
+Line-Count: 263852
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -230054,8 +230054,9 @@ Test::Subroutines                  1.113350  pkg:cpan/Test-Subroutines@1.113350
 Test::Subs                          0.08  pkg:cpan/Test-Subs@0.08
 Test::Subtest::Attribute            0.04  pkg:cpan/Test-Subtest-Attribute@0.04
 Test::Subtests                      0.01  pkg:cpan/Test-Subtests@0.01
-Test::Subunit                      0.000002  pkg:cpan/Test-Subunit@0.1
-Test::Subunit::Diff                undef  pkg:cpan/Test-Subunit@0.1
+Test::Subunit                        0.2  pkg:cpan/Test-Subunit@0.2
+Test::Subunit::Diff                undef  pkg:cpan/Test-Subunit@0.2
+Test::Subunit::V2                  undef  pkg:cpan/Test-Subunit@0.2
 Test::Subunits                     0.000003  pkg:cpan/Test-Subunits@0.000003
 Test::Sweet                         0.03  pkg:cpan/Test-Sweet@0.03
 Test::Sweet::Exception              0.03  pkg:cpan/Test-Sweet@0.03
