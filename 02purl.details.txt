@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 20 Apr 2026 16:57:48 GMT
-Line-Count: 263860
+Last-Updated: Mon, 20 Apr 2026 18:56:00 GMT
+Line-Count: 263869
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -12719,6 +12719,12 @@ App::Rad::Plugin::ReadLine         0.002  pkg:cpan/App-Rad-Plugin-ReadLine@0.002
 App::Rad::Plugin::ReadLine::Demo   0.002  pkg:cpan/App-Rad-Plugin-ReadLine@0.002
 App::Rad::Plugin::TT                 0.2  pkg:cpan/App-Rad-Plugin-TT@0.2
 App::Rad::Plugin::ValuePriority     0.02  pkg:cpan/App-Rad-Plugin-ValuePriority@0.02
+App::Raider                        0.001  pkg:cpan/App-Raider@0.001
+App::Raider::FileTools             0.001  pkg:cpan/App-Raider@0.001
+App::Raider::Plugin::Situation     0.001  pkg:cpan/App-Raider@0.001
+App::Raider::Plugin::Trace         0.001  pkg:cpan/App-Raider@0.001
+App::Raider::Skill                 0.001  pkg:cpan/App-Raider@0.001
+App::Raider::WebTools              0.001  pkg:cpan/App-Raider@0.001
 App::Rakubrew                         45  pkg:cpan/App-Rakubrew@45
 App::Rakubrew::Build                  45  pkg:cpan/App-Rakubrew@45
 App::Rakubrew::Config                 45  pkg:cpan/App-Rakubrew@45
@@ -114682,6 +114688,9 @@ JSON::Karabiner::Manipulator::Conditions::Variable_if 0.018  pkg:cpan/JSON-Karab
 JSON::Karabiner::Manipulator::Conditions::Variable_unless 0.018  pkg:cpan/JSON-Karabiner@0.018
 JSON::Karabiner::Rule              0.018  pkg:cpan/JSON-Karabiner@0.018
 JSON::LD                            0.02  pkg:cpan/JSON-LD@0.02
+JSON::LINQ                          1.00  pkg:cpan/JSON-LINQ@1.00
+JSON::LINQ::Boolean                 1.00  pkg:cpan/JSON-LINQ@1.00
+JSON::LINQ::Ordered                 1.00  pkg:cpan/JSON-LINQ@1.00
 JSON::Lines                         1.11  pkg:cpan/JSON-Lines@1.11
 JSON::Literal                       0.96  pkg:cpan/JSON@1.14
 JSON::Literal::false                0.96  pkg:cpan/JSON@1.14
@@ -138909,7 +138918,7 @@ Mojolicious::Plugin::Obrazi         0.15  pkg:cpan/Mojolicious-Plugin-Obrazi@0.1
 Mojolicious::Plugin::OnFork        0.006  pkg:cpan/Mojolicious-Plugin-OnFork@0.006
 Mojolicious::Plugin::OpenAPI        5.11  pkg:cpan/Mojolicious-Plugin-OpenAPI@5.11
 Mojolicious::Plugin::OpenAPI::Cors undef  pkg:cpan/Mojolicious-Plugin-OpenAPI@5.11
-Mojolicious::Plugin::OpenAPI::Modern 0.019  pkg:cpan/Mojolicious-Plugin-OpenAPI-Modern@0.019
+Mojolicious::Plugin::OpenAPI::Modern 0.020  pkg:cpan/Mojolicious-Plugin-OpenAPI-Modern@0.020
 Mojolicious::Plugin::OpenAPI::Parameters undef  pkg:cpan/Mojolicious-Plugin-OpenAPI@5.11
 Mojolicious::Plugin::OpenAPI::Security undef  pkg:cpan/Mojolicious-Plugin-OpenAPI@5.11
 Mojolicious::Plugin::OpenAPI::SpecRenderer undef  pkg:cpan/Mojolicious-Plugin-OpenAPI@5.11
