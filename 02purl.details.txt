@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 21 Apr 2026 07:25:12 GMT
+Last-Updated: Tue, 21 Apr 2026 09:18:48 GMT
 Line-Count: 263872
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -127662,11 +127662,11 @@ MHonArc::UTF8::VISCII              2.006024  pkg:cpan/MHonArc@2.6.24
 MIDI                                0.84  pkg:cpan/MIDI-Perl@0.84
 MIDI::ALSA                          1.22  pkg:cpan/MIDI-ALSA@1.22
 MIDI::Chord::Guitar                0.0706  pkg:cpan/MIDI-Chord-Guitar@0.0706
-MIDI::Drummer::Tiny                0.7013  pkg:cpan/MIDI-Drummer-Tiny@0.7013
-MIDI::Drummer::Tiny::Grooves       0.7013  pkg:cpan/MIDI-Drummer-Tiny@0.7013
-MIDI::Drummer::Tiny::SwingFills    0.7013  pkg:cpan/MIDI-Drummer-Tiny@0.7013
-MIDI::Drummer::Tiny::Syncopate     0.7013  pkg:cpan/MIDI-Drummer-Tiny@0.7013
-MIDI::Drummer::Tiny::Types         0.7013  pkg:cpan/MIDI-Drummer-Tiny@0.7013
+MIDI::Drummer::Tiny                0.7014  pkg:cpan/MIDI-Drummer-Tiny@0.7014
+MIDI::Drummer::Tiny::Grooves       0.7014  pkg:cpan/MIDI-Drummer-Tiny@0.7014
+MIDI::Drummer::Tiny::SwingFills    0.7014  pkg:cpan/MIDI-Drummer-Tiny@0.7014
+MIDI::Drummer::Tiny::Syncopate     0.7014  pkg:cpan/MIDI-Drummer-Tiny@0.7014
+MIDI::Drummer::Tiny::Types         0.7014  pkg:cpan/MIDI-Drummer-Tiny@0.7014
 MIDI::Event                         0.84  pkg:cpan/MIDI-Perl@0.84
 MIDI::Morph                         0.02  pkg:cpan/MIDI-Morph@0.02
 MIDI::Music                         0.01  pkg:cpan/MIDI-Music@0.01
@@ -142509,7 +142509,7 @@ Music::CreatingRhythms             0.0806  pkg:cpan/Music-CreatingRhythms@0.0806
 Music::DBI                         undef  pkg:cpan/Gtk2-Ex-FormFactory@0.67
 Music::Dataset::ChordProgressions  0.0400  pkg:cpan/Music-Dataset-ChordProgressions@0.0400
 Music::Dice                        0.0206  pkg:cpan/Music-Dice@0.0206
-Music::Drummer                     0.7013  pkg:cpan/Music-Drummer@0.7013
+Music::Drummer                     0.7014  pkg:cpan/Music-Drummer@0.7014
 Music::Duration                    0.0901  pkg:cpan/Music-Duration@0.0901
 Music::Duration::Partition         0.0823  pkg:cpan/Music-Duration-Partition@0.0823
 Music::Factory                      0.01  pkg:cpan/Music-Factory@0.01
@@ -142554,7 +142554,7 @@ Music::RhythmSet::Voice             0.06  pkg:cpan/Music-RhythmSet@0.06
 Music::Scala                        1.08  pkg:cpan/Music-Scala@1.08
 Music::ScaleNote                   0.0804  pkg:cpan/Music-ScaleNote@0.0804
 Music::Scales                       0.07  pkg:cpan/Music-Scales@0.07
-Music::SimpleDrumMachine           0.0507  pkg:cpan/Music-SimpleDrumMachine@0.0507
+Music::SimpleDrumMachine           0.0508  pkg:cpan/Music-SimpleDrumMachine@0.0508
 Music::Song                        undef  pkg:cpan/Gtk2-Ex-FormFactory@0.67
 Music::Tag                         0.4103  pkg:cpan/Music-Tag@0.4103
 Music::Tag::Amazon                 0.4101  pkg:cpan/Music-Tag-Amazon@0.4101
