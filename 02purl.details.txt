@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 21 Apr 2026 16:53:02 GMT
+Last-Updated: Tue, 21 Apr 2026 19:02:53 GMT
 Line-Count: 263874
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -138923,7 +138923,7 @@ Mojolicious::Plugin::Obrazi         0.15  pkg:cpan/Mojolicious-Plugin-Obrazi@0.1
 Mojolicious::Plugin::OnFork        0.006  pkg:cpan/Mojolicious-Plugin-OnFork@0.006
 Mojolicious::Plugin::OpenAPI        5.11  pkg:cpan/Mojolicious-Plugin-OpenAPI@5.11
 Mojolicious::Plugin::OpenAPI::Cors undef  pkg:cpan/Mojolicious-Plugin-OpenAPI@5.11
-Mojolicious::Plugin::OpenAPI::Modern 0.020  pkg:cpan/Mojolicious-Plugin-OpenAPI-Modern@0.020
+Mojolicious::Plugin::OpenAPI::Modern 0.021  pkg:cpan/Mojolicious-Plugin-OpenAPI-Modern@0.021
 Mojolicious::Plugin::OpenAPI::Parameters undef  pkg:cpan/Mojolicious-Plugin-OpenAPI@5.11
 Mojolicious::Plugin::OpenAPI::Security undef  pkg:cpan/Mojolicious-Plugin-OpenAPI@5.11
 Mojolicious::Plugin::OpenAPI::SpecRenderer undef  pkg:cpan/Mojolicious-Plugin-OpenAPI@5.11
