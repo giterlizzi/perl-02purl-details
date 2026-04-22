@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 22 Apr 2026 15:06:35 GMT
-Line-Count: 263876
+Last-Updated: Wed, 22 Apr 2026 16:52:21 GMT
+Line-Count: 263877
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -53404,12 +53404,12 @@ DBIx::Web::dbcUnion                 0.80  pkg:cpan/DBIx-Web@0.80
 DBIx::Web::dbiCursor                0.80  pkg:cpan/DBIx-Web@0.80
 DBIx::Web::dbmCursor                0.80  pkg:cpan/DBIx-Web@0.80
 DBIx::Web::dbmHandle                0.80  pkg:cpan/DBIx-Web@0.80
-DBIx::Wizard                        0.04  pkg:cpan/DBIx-Wizard@0.04
-DBIx::Wizard::Cursor               undef  pkg:cpan/DBIx-Wizard@0.04
-DBIx::Wizard::DB                   undef  pkg:cpan/DBIx-Wizard@0.04
-DBIx::Wizard::DB::Table            undef  pkg:cpan/DBIx-Wizard@0.04
-DBIx::Wizard::DB::Wrapper          undef  pkg:cpan/DBIx-Wizard@0.04
-DBIx::Wizard::ResultSet            undef  pkg:cpan/DBIx-Wizard@0.04
+DBIx::Wizard                        0.05  pkg:cpan/DBIx-Wizard@0.05
+DBIx::Wizard::Cursor               undef  pkg:cpan/DBIx-Wizard@0.05
+DBIx::Wizard::DB                   undef  pkg:cpan/DBIx-Wizard@0.05
+DBIx::Wizard::DB::Table            undef  pkg:cpan/DBIx-Wizard@0.05
+DBIx::Wizard::DB::Wrapper          undef  pkg:cpan/DBIx-Wizard@0.05
+DBIx::Wizard::ResultSet            undef  pkg:cpan/DBIx-Wizard@0.05
 DBIx::Wrap                          1.00  pkg:cpan/DBIx-Wrap@1.00
 DBIx::Wrap::Iterator                1.00  pkg:cpan/DBIx-Wrap@1.00
 DBIx::Wrapper                       0.29  pkg:cpan/DBIx-Wrapper@0.29
@@ -158697,6 +158697,7 @@ PGPLOT                              2.35  pkg:cpan/PGPLOT@2.35
 PGPLOT::Device                      0.13  pkg:cpan/PGPLOT-Device@0.13
 PGPLOT::Device::PGWin               0.13  pkg:cpan/PGPLOT-Device@0.13
 PGPLOT::Simple                      0.05  pkg:cpan/PGPLOT-Simple@0.05
+PGPLOTx::Constants                  0.03  pkg:cpan/PGPLOTx-Constants@0.03
 PGXN::API                          v0.21.0  pkg:cpan/PGXN-API@v0.21.0
 PGXN::API::Indexer                 v0.21.0  pkg:cpan/PGXN-API@v0.21.0
 PGXN::API::Router                  v0.21.0  pkg:cpan/PGXN-API@v0.21.0
