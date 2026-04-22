@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 22 Apr 2026 07:23:03 GMT
+Last-Updated: Wed, 22 Apr 2026 09:13:18 GMT
 Line-Count: 263874
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -50977,7 +50977,7 @@ DBD::SearchServer                   0.21  pkg:cpan/DBD-SearchServer@0.21
 DBD::SearchServer::db               0.21  pkg:cpan/DBD-SearchServer@0.21
 DBD::SearchServer::dr               0.21  pkg:cpan/DBD-SearchServer@0.21
 DBD::SearchServer::st               0.21  pkg:cpan/DBD-SearchServer@0.21
-DBD::SimpleMock                     0.04  pkg:cpan/SimpleMock@0.04
+DBD::SimpleMock                     0.05  pkg:cpan/SimpleMock@0.05
 DBD::SimpleMock::db                 0.01  pkg:cpan/SimpleMock@0.02
 DBD::SimpleMock::dr                 0.01  pkg:cpan/SimpleMock@0.02
 DBD::SimpleMock::st                 0.01  pkg:cpan/SimpleMock@0.02
@@ -137402,7 +137402,7 @@ Module::Starter::AddModule         1.011  pkg:cpan/Module-Starter-AddModule@1.01
 Module::Starter::App                1.82  pkg:cpan/Module-Starter@1.82
 Module::Starter::BuilderSet         1.82  pkg:cpan/Module-Starter@1.82
 Module::Starter::Handel            undef  pkg:cpan/Handel@1.00014
-Module::Starter::PBP               0.000003  pkg:cpan/Module-Starter-PBP@v0.0.3
+Module::Starter::PBP               0.002  pkg:cpan/Module-Starter-PBP@0.002
 Module::Starter::Plugin::App::Cmd   0.02  pkg:cpan/App-Cmd-Starter@0.02
 Module::Starter::Plugin::CGIApp     0.44  pkg:cpan/Module-Starter-Plugin-CGIApp@0.44
 Module::Starter::Plugin::DebPackage 0.000005  pkg:cpan/Module-Starter-Plugin-DebPackage@0.0.5
@@ -218624,16 +218624,16 @@ SimpleDBI::mysql                   undef  pkg:cpan/SimpleDBI@0.02
 SimpleException                    0.103  pkg:cpan/Exceptions@0.103
 SimpleFlake                         0.11  pkg:cpan/SimpleFlake@0.11
 SimpleFlow                          0.12  pkg:cpan/SimpleFlow@0.12
-SimpleMock                          0.04  pkg:cpan/SimpleMock@0.04
-SimpleMock::Mocks::DBI              0.04  pkg:cpan/SimpleMock@0.04
-SimpleMock::Mocks::LWP::UserAgent   0.04  pkg:cpan/SimpleMock@0.04
-SimpleMock::Mocks::Path::Tiny       0.04  pkg:cpan/SimpleMock@0.04
-SimpleMock::Model::DBI              0.04  pkg:cpan/SimpleMock@0.04
-SimpleMock::Model::LWP_UA           0.04  pkg:cpan/SimpleMock@0.04
-SimpleMock::Model::PATH_TINY        0.04  pkg:cpan/SimpleMock@0.04
-SimpleMock::Model::SUBS             0.04  pkg:cpan/SimpleMock@0.04
-SimpleMock::ScopeGuard              0.04  pkg:cpan/SimpleMock@0.04
-SimpleMock::Util                    0.04  pkg:cpan/SimpleMock@0.04
+SimpleMock                          0.05  pkg:cpan/SimpleMock@0.05
+SimpleMock::Mocks::DBI              0.05  pkg:cpan/SimpleMock@0.05
+SimpleMock::Mocks::LWP::UserAgent   0.05  pkg:cpan/SimpleMock@0.05
+SimpleMock::Mocks::Path::Tiny       0.05  pkg:cpan/SimpleMock@0.05
+SimpleMock::Model::DBI              0.05  pkg:cpan/SimpleMock@0.05
+SimpleMock::Model::LWP_UA           0.05  pkg:cpan/SimpleMock@0.05
+SimpleMock::Model::PATH_TINY        0.05  pkg:cpan/SimpleMock@0.05
+SimpleMock::Model::SUBS             0.05  pkg:cpan/SimpleMock@0.05
+SimpleMock::ScopeGuard              0.05  pkg:cpan/SimpleMock@0.05
+SimpleMock::Util                    0.05  pkg:cpan/SimpleMock@0.05
 SimpleObjectClass                   1.54  pkg:cpan/CGI-Session@4.10
 SimpleR::Reshape                    0.09  pkg:cpan/SimpleR-Reshape@0.09
 SimpleR::Reshape::ChartData         0.05  pkg:cpan/SimpleR-Reshape-ChartData@0.05
