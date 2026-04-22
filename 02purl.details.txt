@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 22 Apr 2026 16:52:21 GMT
+Last-Updated: Wed, 22 Apr 2026 19:04:06 GMT
 Line-Count: 263877
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -9386,7 +9386,7 @@ App::Cme::Command::fix             1.047  pkg:cpan/App-Cme@1.047
 App::Cme::Command::fusefs          1.047  pkg:cpan/App-Cme@1.047
 App::Cme::Command::gen_class_pod   1.047  pkg:cpan/App-Cme@1.047
 App::Cme::Command::list            1.047  pkg:cpan/App-Cme@1.047
-App::Cme::Command::meta            2.028  pkg:cpan/Config-Model-Itself@2.028
+App::Cme::Command::meta            2.029  pkg:cpan/Config-Model-Itself@2.029
 App::Cme::Command::migrate         1.047  pkg:cpan/App-Cme@1.047
 App::Cme::Command::modify          1.047  pkg:cpan/App-Cme@1.047
 App::Cme::Command::run             1.047  pkg:cpan/App-Cme@1.047
@@ -9716,22 +9716,22 @@ App::Dothe::Task                   v0.0.1  pkg:cpan/App-Dothe@0.0.1
 App::DoubleUp                      0.004002  pkg:cpan/App-DoubleUp@0.4.2
 App::Download                      1.000001  pkg:cpan/App-Download@1.0.1
 App::DownloadsDirUtils             0.008  pkg:cpan/App-DownloadsDirUtils@0.008
-App::DrivePlayer                   0.002006  pkg:cpan/App-DrivePlayer@0.2.6
-App::DrivePlayer::Config           undef  pkg:cpan/App-DrivePlayer@0.2.6
-App::DrivePlayer::DB               undef  pkg:cpan/App-DrivePlayer@0.2.6
-App::DrivePlayer::GUI              undef  pkg:cpan/App-DrivePlayer@0.2.6
-App::DrivePlayer::GUI::FolderBrowse undef  pkg:cpan/App-DrivePlayer@0.2.6
-App::DrivePlayer::GUI::MetadataFetch undef  pkg:cpan/App-DrivePlayer@0.2.6
-App::DrivePlayer::GUI::SheetSync   undef  pkg:cpan/App-DrivePlayer@0.2.6
-App::DrivePlayer::MetadataFetcher  undef  pkg:cpan/App-DrivePlayer@0.2.6
-App::DrivePlayer::Player           undef  pkg:cpan/App-DrivePlayer@0.2.6
-App::DrivePlayer::Scanner          undef  pkg:cpan/App-DrivePlayer@0.2.6
-App::DrivePlayer::Schema           undef  pkg:cpan/App-DrivePlayer@0.2.6
-App::DrivePlayer::Schema::Result::Folder undef  pkg:cpan/App-DrivePlayer@0.2.6
-App::DrivePlayer::Schema::Result::ScanFolder undef  pkg:cpan/App-DrivePlayer@0.2.6
-App::DrivePlayer::Schema::Result::Track undef  pkg:cpan/App-DrivePlayer@0.2.6
-App::DrivePlayer::Setup            undef  pkg:cpan/App-DrivePlayer@0.2.6
-App::DrivePlayer::SheetDB          undef  pkg:cpan/App-DrivePlayer@0.2.6
+App::DrivePlayer                   0.002007  pkg:cpan/App-DrivePlayer@0.2.7
+App::DrivePlayer::Config           undef  pkg:cpan/App-DrivePlayer@0.2.7
+App::DrivePlayer::DB               undef  pkg:cpan/App-DrivePlayer@0.2.7
+App::DrivePlayer::GUI              undef  pkg:cpan/App-DrivePlayer@0.2.7
+App::DrivePlayer::GUI::FolderBrowse undef  pkg:cpan/App-DrivePlayer@0.2.7
+App::DrivePlayer::GUI::MetadataFetch undef  pkg:cpan/App-DrivePlayer@0.2.7
+App::DrivePlayer::GUI::SheetSync   undef  pkg:cpan/App-DrivePlayer@0.2.7
+App::DrivePlayer::MetadataFetcher  undef  pkg:cpan/App-DrivePlayer@0.2.7
+App::DrivePlayer::Player           undef  pkg:cpan/App-DrivePlayer@0.2.7
+App::DrivePlayer::Scanner          undef  pkg:cpan/App-DrivePlayer@0.2.7
+App::DrivePlayer::Schema           undef  pkg:cpan/App-DrivePlayer@0.2.7
+App::DrivePlayer::Schema::Result::Folder undef  pkg:cpan/App-DrivePlayer@0.2.7
+App::DrivePlayer::Schema::Result::ScanFolder undef  pkg:cpan/App-DrivePlayer@0.2.7
+App::DrivePlayer::Schema::Result::Track undef  pkg:cpan/App-DrivePlayer@0.2.7
+App::DrivePlayer::Setup            undef  pkg:cpan/App-DrivePlayer@0.2.7
+App::DrivePlayer::SheetDB          undef  pkg:cpan/App-DrivePlayer@0.2.7
 App::DrugUtils                     0.001  pkg:cpan/App-DrugUtils@0.001
 App::Dthumb                          0.2  pkg:cpan/dthumb@0.2
 App::Dthumb::Data                    0.2  pkg:cpan/dthumb@0.2
@@ -47682,8 +47682,8 @@ Config::Model::Backend::CdsFile    2.162  pkg:cpan/Config-Model@2.162
 Config::Model::Backend::Fstab      2.162  pkg:cpan/Config-Model@2.162
 Config::Model::Backend::IniFile    2.162  pkg:cpan/Config-Model@2.162
 Config::Model::Backend::Json       2.162  pkg:cpan/Config-Model@2.162
-Config::Model::Backend::Master::Other undef  pkg:cpan/Config-Model-Itself@2.028
-Config::Model::Backend::MasterModel undef  pkg:cpan/Config-Model-Itself@2.028
+Config::Model::Backend::Master::Other undef  pkg:cpan/Config-Model-Itself@2.029
+Config::Model::Backend::MasterModel undef  pkg:cpan/Config-Model-Itself@2.029
 Config::Model::Backend::OpenSsh::Role::MatchBlock 2.010002001  pkg:cpan/Config-Model-OpenSsh@2.10.2.1
 Config::Model::Backend::OpenSsh::Role::Reader 2.010002001  pkg:cpan/Config-Model-OpenSsh@2.10.2.1
 Config::Model::Backend::OpenSsh::Role::Writer 2.010002001  pkg:cpan/Config-Model-OpenSsh@2.10.2.1
@@ -47734,9 +47734,9 @@ Config::Model::HashId              2.162  pkg:cpan/Config-Model@2.162
 Config::Model::IdElementReference  2.162  pkg:cpan/Config-Model@2.162
 Config::Model::Instance            2.162  pkg:cpan/Config-Model@2.162
 Config::Model::Iterator            2.162  pkg:cpan/Config-Model@2.162
-Config::Model::Itself              2.028  pkg:cpan/Config-Model-Itself@2.028
-Config::Model::Itself::BackendDetector 2.028  pkg:cpan/Config-Model-Itself@2.028
-Config::Model::Itself::TkEditUI    2.028  pkg:cpan/Config-Model-Itself@2.028
+Config::Model::Itself              2.029  pkg:cpan/Config-Model-Itself@2.029
+Config::Model::Itself::BackendDetector 2.029  pkg:cpan/Config-Model-Itself@2.029
+Config::Model::Itself::TkEditUI    2.029  pkg:cpan/Config-Model-Itself@2.029
 Config::Model::LcdProc             2.055  pkg:cpan/Config-Model-LcdProc@2.055
 Config::Model::ListId              2.162  pkg:cpan/Config-Model@2.162
 Config::Model::Lister              2.162  pkg:cpan/Config-Model@2.162
