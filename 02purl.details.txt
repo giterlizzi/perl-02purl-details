@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 22 Apr 2026 01:57:38 GMT
+Last-Updated: Wed, 22 Apr 2026 04:46:18 GMT
 Line-Count: 263874
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -67035,7 +67035,7 @@ Dist::Zilla::PluginBundle::Author::DOMM 0.912  pkg:cpan/Dist-Zilla-PluginBundle-
 Dist::Zilla::PluginBundle::Author::ETHER 0.172  pkg:cpan/Dist-Zilla-PluginBundle-Author-ETHER@0.172
 Dist::Zilla::PluginBundle::Author::FERREIRA v0.4.0  pkg:cpan/Dist-Zilla-PluginBundle-Author-FERREIRA@0.4.0
 Dist::Zilla::PluginBundle::Author::GABRIEL  0.01  pkg:cpan/Dist-Zilla-PluginBundle-Author-GABRIEL@0.01
-Dist::Zilla::PluginBundle::Author::GETTY 0.306  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.306
+Dist::Zilla::PluginBundle::Author::GETTY 0.307  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.307
 Dist::Zilla::PluginBundle::Author::GSG v0.6.2  pkg:cpan/Dist-Zilla-PluginBundle-Author-GSG@v0.6.2
 Dist::Zilla::PluginBundle::Author::GTERMARS  0.06  pkg:cpan/Dist-Zilla-PluginBundle-Author-GTERMARS@0.06
 Dist::Zilla::PluginBundle::Author::HAYOBAAN 0.016  pkg:cpan/Dist-Zilla-PluginBundle-Author-HAYOBAAN@0.016
@@ -125432,10 +125432,10 @@ Locale::RecodeData::_Encode        undef  pkg:cpan/libintl-perl@1.37
 Locale::Scope                       0.04  pkg:cpan/Locale-Scope@0.04
 Locale::Script                      3.88  pkg:cpan/Locale-Codes@3.88
 Locale::Set                         0.77  pkg:cpan/Locale-Set@0.77
-Locale::Simple                     0.101  pkg:cpan/Locale-Simple@0.101
-Locale::Simple::Scraper            0.101  pkg:cpan/Locale-Simple@0.101
-Locale::Simple::Scraper::Parser    0.101  pkg:cpan/Locale-Simple@0.101
-Locale::Simple::Scraper::ParserShortcuts 0.101  pkg:cpan/Locale-Simple@0.101
+Locale::Simple                     0.108  pkg:cpan/Locale-Simple@0.108
+Locale::Simple::Scraper            0.108  pkg:cpan/Locale-Simple@0.108
+Locale::Simple::Scraper::Parser    0.108  pkg:cpan/Locale-Simple@0.108
+Locale::Simple::Scraper::ParserShortcuts 0.108  pkg:cpan/Locale-Simple@0.108
 Locale::SubCountry                  2.07  pkg:cpan/Locale-SubCountry@2.07
 Locale::SubCountry::Codes          undef  pkg:cpan/Locale-SubCountry@2.07
 Locale::SubCountry::World           2.07  pkg:cpan/Locale-SubCountry@2.07
@@ -142527,7 +142527,7 @@ Music::Harmonica::TabsCreator::TabParser  0.05  pkg:cpan/Music-Harmonica-TabsCre
 Music::Harmonica::TabsCreator::Warning  0.01  pkg:cpan/Music-Harmonica-TabsCreator@1.06
 Music::Harmonics                    0.01  pkg:cpan/Music-Harmonics@0.01
 Music::Image::Chord                0.006  pkg:cpan/Music-Image-Chord@0.006
-Music::Interval::Barycentric       0.0402  pkg:cpan/Music-Interval-Barycentric@0.0402
+Music::Interval::Barycentric       0.0403  pkg:cpan/Music-Interval-Barycentric@0.0403
 Music::Intervals                   0.1101  pkg:cpan/Music-Intervals@0.1101
 Music::Intervals::Numeric          0.1101  pkg:cpan/Music-Intervals@0.1101
 Music::Intervals::Ratios           0.1101  pkg:cpan/Music-Intervals@0.1101
@@ -197406,7 +197406,7 @@ Pod::Elemental::Paragraph          0.103006  pkg:cpan/Pod-Elemental@0.103006
 Pod::Elemental::PerlMunger         0.200007  pkg:cpan/Pod-Elemental-PerlMunger@0.200007
 Pod::Elemental::Selectors          0.103006  pkg:cpan/Pod-Elemental@0.103006
 Pod::Elemental::Transformer        0.103006  pkg:cpan/Pod-Elemental@0.103006
-Pod::Elemental::Transformer::Author::GETTY 0.306  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.306
+Pod::Elemental::Transformer::Author::GETTY 0.307  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.307
 Pod::Elemental::Transformer::Codebox 0.101001  pkg:cpan/Pod-Elemental-Transformer-SynHi@0.101001
 Pod::Elemental::Transformer::Cowl_GenDoc undef  pkg:cpan/RDF-Cowl@1.0.0
 Pod::Elemental::Transformer::Ditaa 0.001006  pkg:cpan/Pod-Weaver-Plugin-Ditaa@0.001006
@@ -197919,7 +197919,7 @@ Pod::Weaver::PluginBundle::Author::CCM 0.012  pkg:cpan/Dist-Zilla-PluginBundle-A
 Pod::Weaver::PluginBundle::Author::CSSON 0.1101  pkg:cpan/Pod-Weaver-PluginBundle-Author-CSSON@0.1101
 Pod::Weaver::PluginBundle::Author::DOHERTY 0.010  pkg:cpan/Pod-Weaver-PluginBundle-Author-DOHERTY@0.010
 Pod::Weaver::PluginBundle::Author::ETHER 0.172  pkg:cpan/Dist-Zilla-PluginBundle-Author-ETHER@0.172
-Pod::Weaver::PluginBundle::Author::GETTY 0.306  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.306
+Pod::Weaver::PluginBundle::Author::GETTY 0.307  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.307
 Pod::Weaver::PluginBundle::Author::HAYOBAAN 0.016  pkg:cpan/Dist-Zilla-PluginBundle-Author-HAYOBAAN@0.016
 Pod::Weaver::PluginBundle::Author::IOANR 1.230480  pkg:cpan/Dist-Zilla-PluginBundle-Author-IOANR@1.230480
 Pod::Weaver::PluginBundle::Author::KENTNL 0.001003  pkg:cpan/Pod-Weaver-PluginBundle-Author-KENTNL@0.001003
