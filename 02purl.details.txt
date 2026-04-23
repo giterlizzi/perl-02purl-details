@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 22 Apr 2026 22:40:59 GMT
+Last-Updated: Thu, 23 Apr 2026 02:01:56 GMT
 Line-Count: 263890
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -57259,7 +57259,7 @@ Data::Dumper::EasyOO               0.0503  pkg:cpan/Data-Dumper-EasyOO@0.0503
 Data::Dumper::GUI                  0.006  pkg:cpan/Data-Dumper-GUI@0.006
 Data::Dumper::HTML                 0.000002  pkg:cpan/Data-Dumper-HTML@v0.0.2
 Data::Dumper::Hash                   1.0  pkg:cpan/Data-Dumper-Hash@0.001
-Data::Dumper::Interp               7.023  pkg:cpan/Data-Dumper-Interp@7.023
+Data::Dumper::Interp               8.000  pkg:cpan/Data-Dumper-Interp@8.000
 Data::Dumper::Lazy                  0.01  pkg:cpan/Data-Dumper-Lazy?ext=zip
 Data::Dumper::Limited               0.03  pkg:cpan/Data-Dumper-Limited@0.03
 Data::Dumper::LispLike             0.004  pkg:cpan/Data-Dumper-LispLike@0.004
