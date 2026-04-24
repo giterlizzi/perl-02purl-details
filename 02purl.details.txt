@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 24 Apr 2026 09:24:44 GMT
+Last-Updated: Fri, 24 Apr 2026 11:00:33 GMT
 Line-Count: 263908
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -62946,16 +62946,16 @@ DateTime::LazyInit::Constructor_new 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ex
 DateTime::LazyInit::Constructor_now 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ext=tgz
 DateTime::LazyInit::Constructor_today 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ext=tgz
 DateTime::LeapSecond                1.66  pkg:cpan/DateTime@1.66
-DateTime::Lite                     0.006004  pkg:cpan/DateTime-Lite@v0.6.4
-DateTime::Lite::Duration           0.001000  pkg:cpan/DateTime-Lite@v0.6.4
-DateTime::Lite::Exception          0.001000  pkg:cpan/DateTime-Lite@v0.6.4
-DateTime::Lite::Infinite           0.001000  pkg:cpan/DateTime-Lite@v0.6.4
-DateTime::Lite::Infinite::Future   0.001000  pkg:cpan/DateTime-Lite@v0.6.4
-DateTime::Lite::Infinite::Past     0.001000  pkg:cpan/DateTime-Lite@v0.6.4
-DateTime::Lite::PP                 0.001000  pkg:cpan/DateTime-Lite@v0.6.4
-DateTime::Lite::TimeZone           0.005004  pkg:cpan/DateTime-Lite@v0.6.4
-DateTime::Lite::_FakeLocale        0.001000  pkg:cpan/DateTime-Lite@v0.6.4
-DateTime::Lite::_Thawed            0.006004  pkg:cpan/DateTime-Lite@v0.6.4
+DateTime::Lite                     0.006005  pkg:cpan/DateTime-Lite@v0.6.5
+DateTime::Lite::Duration           0.001000  pkg:cpan/DateTime-Lite@v0.6.5
+DateTime::Lite::Exception          0.001000  pkg:cpan/DateTime-Lite@v0.6.5
+DateTime::Lite::Infinite           0.001000  pkg:cpan/DateTime-Lite@v0.6.5
+DateTime::Lite::Infinite::Future   0.001000  pkg:cpan/DateTime-Lite@v0.6.5
+DateTime::Lite::Infinite::Past     0.001000  pkg:cpan/DateTime-Lite@v0.6.5
+DateTime::Lite::PP                 0.001000  pkg:cpan/DateTime-Lite@v0.6.5
+DateTime::Lite::TimeZone           0.005004  pkg:cpan/DateTime-Lite@v0.6.5
+DateTime::Lite::_FakeLocale        0.001000  pkg:cpan/DateTime-Lite@v0.6.5
+DateTime::Lite::_Thawed            0.006005  pkg:cpan/DateTime-Lite@v0.6.5
 DateTime::Locale                    1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Base              1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Catalog           1.45  pkg:cpan/DateTime-Locale@1.45
@@ -132344,10 +132344,10 @@ Math::Logic::Ternary::Trit         0.004  pkg:cpan/Math-Logic-Ternary@0.004
 Math::Logic::Ternary::Word         0.004  pkg:cpan/Math-Logic-Ternary@0.004
 Math::LongDouble                    0.26  pkg:cpan/Math-LongDouble@0.26
 Math::Lsoda                         0.04  pkg:cpan/Math-Lsoda@0.04
-Math::MPC                           1.42  pkg:cpan/Math-MPC@1.42
-Math::MPC::Ball                     1.42  pkg:cpan/Math-MPC@1.42
-Math::MPC::Constant                 1.42  pkg:cpan/Math-MPC@1.42
-Math::MPC::Radius                   1.42  pkg:cpan/Math-MPC@1.42
+Math::MPC                           1.43  pkg:cpan/Math-MPC@1.43
+Math::MPC::Ball                     1.43  pkg:cpan/Math-MPC@1.43
+Math::MPC::Constant                 1.43  pkg:cpan/Math-MPC@1.43
+Math::MPC::Radius                   1.43  pkg:cpan/Math-MPC@1.43
 Math::MPFI                          0.14  pkg:cpan/Math-MPFI@0.14
 Math::MPFI::Constant                0.14  pkg:cpan/Math-MPFI@0.14
 Math::MPFR                          4.47  pkg:cpan/Math-MPFR@4.47
@@ -194727,7 +194727,7 @@ Perl::Type::Void                   0.003  pkg:cpan/Perl-Types@0.400
 Perl::Types                        0.009  pkg:cpan/Perl-Types@0.400
 Perl::Unsafe::Signals               0.03  pkg:cpan/Perl-Unsafe-Signals@0.03
 Perl::Version                      1.019  pkg:cpan/Perl-Version@1.019
-Perl::Version::Bumper              0.250  pkg:cpan/Perl-Version-Bumper@0.250
+Perl::Version::Bumper              0.256  pkg:cpan/Perl-Version-Bumper@0.256
 Perl::Visualize                     1.02  pkg:cpan/Perl-Visualize@1.02
 Perl::WhichPhase                    0.01  pkg:cpan/Perl-WhichPhase@0.01
 Perl::osnames                      0.122  pkg:cpan/Perl-osnames@0.122
