@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 24 Apr 2026 16:48:30 GMT
-Line-Count: 263908
+Last-Updated: Fri, 24 Apr 2026 18:40:03 GMT
+Line-Count: 263910
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -127423,8 +127423,10 @@ MCP::K8s::Permissions              0.002  pkg:cpan/MCP-K8s@0.002
 MCP::Kubernetes                    0.002  pkg:cpan/MCP-K8s@0.002
 MCP::Prompt                        undef  pkg:cpan/MCP@0.08
 MCP::Resource                      undef  pkg:cpan/MCP@0.08
-MCP::Run                           0.001  pkg:cpan/MCP-Run@0.001
-MCP::Run::Bash                     0.001  pkg:cpan/MCP-Run@0.001
+MCP::Run                           0.002  pkg:cpan/MCP-Run@0.002
+MCP::Run::Bash                     0.002  pkg:cpan/MCP-Run@0.002
+MCP::Run::Compress                 0.002  pkg:cpan/MCP-Run@0.002
+MCP::Run::Compress::Filters        0.002  pkg:cpan/MCP-Run@0.002
 MCP::Server                        undef  pkg:cpan/MCP@0.08
 MCP::Server::Transport             undef  pkg:cpan/MCP@0.08
 MCP::Server::Transport::HTTP       undef  pkg:cpan/MCP@0.08
