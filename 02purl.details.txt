@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 23 Apr 2026 22:37:15 GMT
+Last-Updated: Fri, 24 Apr 2026 02:02:20 GMT
 Line-Count: 263898
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -9716,22 +9716,22 @@ App::Dothe::Task                   v0.0.1  pkg:cpan/App-Dothe@0.0.1
 App::DoubleUp                      0.004002  pkg:cpan/App-DoubleUp@0.4.2
 App::Download                      1.000001  pkg:cpan/App-Download@1.0.1
 App::DownloadsDirUtils             0.008  pkg:cpan/App-DownloadsDirUtils@0.008
-App::DrivePlayer                   0.002007  pkg:cpan/App-DrivePlayer@0.2.7
-App::DrivePlayer::Config           undef  pkg:cpan/App-DrivePlayer@0.2.7
-App::DrivePlayer::DB               undef  pkg:cpan/App-DrivePlayer@0.2.7
-App::DrivePlayer::GUI              undef  pkg:cpan/App-DrivePlayer@0.2.7
-App::DrivePlayer::GUI::FolderBrowse undef  pkg:cpan/App-DrivePlayer@0.2.7
-App::DrivePlayer::GUI::MetadataFetch undef  pkg:cpan/App-DrivePlayer@0.2.7
-App::DrivePlayer::GUI::SheetSync   undef  pkg:cpan/App-DrivePlayer@0.2.7
-App::DrivePlayer::MetadataFetcher  undef  pkg:cpan/App-DrivePlayer@0.2.7
-App::DrivePlayer::Player           undef  pkg:cpan/App-DrivePlayer@0.2.7
-App::DrivePlayer::Scanner          undef  pkg:cpan/App-DrivePlayer@0.2.7
-App::DrivePlayer::Schema           undef  pkg:cpan/App-DrivePlayer@0.2.7
-App::DrivePlayer::Schema::Result::Folder undef  pkg:cpan/App-DrivePlayer@0.2.7
-App::DrivePlayer::Schema::Result::ScanFolder undef  pkg:cpan/App-DrivePlayer@0.2.7
-App::DrivePlayer::Schema::Result::Track undef  pkg:cpan/App-DrivePlayer@0.2.7
-App::DrivePlayer::Setup            undef  pkg:cpan/App-DrivePlayer@0.2.7
-App::DrivePlayer::SheetDB          undef  pkg:cpan/App-DrivePlayer@0.2.7
+App::DrivePlayer                   0.002008  pkg:cpan/App-DrivePlayer@0.2.8
+App::DrivePlayer::Config           undef  pkg:cpan/App-DrivePlayer@0.2.8
+App::DrivePlayer::DB               undef  pkg:cpan/App-DrivePlayer@0.2.8
+App::DrivePlayer::GUI              undef  pkg:cpan/App-DrivePlayer@0.2.8
+App::DrivePlayer::GUI::FolderBrowse undef  pkg:cpan/App-DrivePlayer@0.2.8
+App::DrivePlayer::GUI::MetadataFetch undef  pkg:cpan/App-DrivePlayer@0.2.8
+App::DrivePlayer::GUI::SheetSync   undef  pkg:cpan/App-DrivePlayer@0.2.8
+App::DrivePlayer::MetadataFetcher  undef  pkg:cpan/App-DrivePlayer@0.2.8
+App::DrivePlayer::Player           undef  pkg:cpan/App-DrivePlayer@0.2.8
+App::DrivePlayer::Scanner          undef  pkg:cpan/App-DrivePlayer@0.2.8
+App::DrivePlayer::Schema           undef  pkg:cpan/App-DrivePlayer@0.2.8
+App::DrivePlayer::Schema::Result::Folder undef  pkg:cpan/App-DrivePlayer@0.2.8
+App::DrivePlayer::Schema::Result::ScanFolder undef  pkg:cpan/App-DrivePlayer@0.2.8
+App::DrivePlayer::Schema::Result::Track undef  pkg:cpan/App-DrivePlayer@0.2.8
+App::DrivePlayer::Setup            undef  pkg:cpan/App-DrivePlayer@0.2.8
+App::DrivePlayer::SheetDB          undef  pkg:cpan/App-DrivePlayer@0.2.8
 App::DrugUtils                     0.001  pkg:cpan/App-DrugUtils@0.001
 App::Dthumb                          0.2  pkg:cpan/dthumb@0.2
 App::Dthumb::Data                    0.2  pkg:cpan/dthumb@0.2
@@ -66196,7 +66196,7 @@ Dist::Zilla::App::Command::stale   0.060  pkg:cpan/Dist-Zilla-Plugin-PromptIfSta
 Dist::Zilla::App::Command::test    6.037  pkg:cpan/Dist-Zilla@6.037
 Dist::Zilla::App::Command::update   0.06  pkg:cpan/Dist-Zilla-App-Command-update@0.06
 Dist::Zilla::App::Command::version 6.037  pkg:cpan/Dist-Zilla@6.037
-Dist::Zilla::App::Command::weave   0.001  pkg:cpan/Dist-Zilla-Plugin-WeaveFile@0.001
+Dist::Zilla::App::Command::weave   0.002  pkg:cpan/Dist-Zilla-Plugin-WeaveFile@0.002
 Dist::Zilla::App::Command::weaverconf  0.05  pkg:cpan/Dist-Zilla-App-Command-weaverconf@0.05
 Dist::Zilla::App::Command::workflower 5.036  pkg:cpan/Dist-Zilla-PluginBundle-RJBS@5.036
 Dist::Zilla::App::Command::xtest   0.029  pkg:cpan/Dist-Zilla-Plugin-CheckExtraTests@0.029
@@ -66952,7 +66952,7 @@ Dist::Zilla::Plugin::Test::TrailingSpace v0.4.0  pkg:cpan/Dist-Zilla-Plugin-Test
 Dist::Zilla::Plugin::Test::UnusedVars 2.001001  pkg:cpan/Dist-Zilla-Plugin-Test-UnusedVars@2.001001
 Dist::Zilla::Plugin::Test::UseAllModules 0.002  pkg:cpan/Dist-Zilla-Plugin-Test-UseAllModules@0.002
 Dist::Zilla::Plugin::Test::Version  1.09  pkg:cpan/Dist-Zilla-Plugin-Test-Version@1.09
-Dist::Zilla::Plugin::Test::WeaveFile 0.001  pkg:cpan/Dist-Zilla-Plugin-WeaveFile@0.001
+Dist::Zilla::Plugin::Test::WeaveFile 0.002  pkg:cpan/Dist-Zilla-Plugin-WeaveFile@0.002
 Dist::Zilla::Plugin::TestBaseIncluder  0.09  pkg:cpan/Dist-Zilla-Plugin-TestBaseIncluder@0.09
 Dist::Zilla::Plugin::TestML1Includer 0.000002  pkg:cpan/Dist-Zilla-Plugin-TestML1Includer@0.0.2
 Dist::Zilla::Plugin::TestMLIncluder  0.19  pkg:cpan/Dist-Zilla-Plugin-TestMLIncluder@0.19
@@ -66988,8 +66988,8 @@ Dist::Zilla::Plugin::VersionFromMainModule  0.04  pkg:cpan/Dist-Zilla-Plugin-Ver
 Dist::Zilla::Plugin::VersionFromModule  0.08  pkg:cpan/Dist-Zilla-Plugins-CJM@6.000
 Dist::Zilla::Plugin::VersionFromScript 0.017  pkg:cpan/Dist-Zilla-Plugin-VersionFromScript@0.017
 Dist::Zilla::Plugin::WSDL          0.208  pkg:cpan/Dist-Zilla-Plugin-WSDL@0.208
-Dist::Zilla::Plugin::WeaveFile     0.001  pkg:cpan/Dist-Zilla-Plugin-WeaveFile@0.001
-Dist::Zilla::Plugin::WeaveFile::Engine 0.001  pkg:cpan/Dist-Zilla-Plugin-WeaveFile@0.001
+Dist::Zilla::Plugin::WeaveFile     0.002  pkg:cpan/Dist-Zilla-Plugin-WeaveFile@0.002
+Dist::Zilla::Plugin::WeaveFile::Engine 0.002  pkg:cpan/Dist-Zilla-Plugin-WeaveFile@0.002
 Dist::Zilla::Plugin::Web           0.000010  pkg:cpan/Dist-Zilla-Plugin-Web@0.0.10
 Dist::Zilla::Plugin::Web::Bundle   0.000010  pkg:cpan/Dist-Zilla-Plugin-Web@0.0.10
 Dist::Zilla::Plugin::Web::FileHeader 0.000010  pkg:cpan/Dist-Zilla-Plugin-Web@0.0.10
