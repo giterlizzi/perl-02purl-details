@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 25 Apr 2026 07:05:43 GMT
+Last-Updated: Sat, 25 Apr 2026 08:43:20 GMT
 Line-Count: 263913
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -42816,23 +42816,23 @@ ChainMake::Parallel                    0  pkg:cpan/ChainMake@0.9.0
 ChainMake::Tester                      0  pkg:cpan/ChainMake@0.9.0
 Champ                              0.001  pkg:cpan/App-PythonToPerl@0.001
 Champlain                           0.14  pkg:cpan/Champlain@0.14
-Chandra                             0.23  pkg:cpan/Chandra@0.23
-Chandra::App                        0.23  pkg:cpan/Chandra@0.23
-Chandra::Assets                     0.23  pkg:cpan/Chandra@0.23
-Chandra::Bind                       0.23  pkg:cpan/Chandra@0.23
-Chandra::Bridge                     0.23  pkg:cpan/Chandra@0.23
-Chandra::Bridge::Extension          0.23  pkg:cpan/Chandra@0.23
-Chandra::Canvas                     0.23  pkg:cpan/Chandra@0.23
-Chandra::Clipboard                  0.23  pkg:cpan/Chandra@0.23
-Chandra::ContextMenu                0.23  pkg:cpan/Chandra@0.23
-Chandra::DevTools                   0.23  pkg:cpan/Chandra@0.23
-Chandra::Dialog                     0.23  pkg:cpan/Chandra@0.23
-Chandra::DragDrop                   0.23  pkg:cpan/Chandra@0.23
+Chandra                             0.24  pkg:cpan/Chandra@0.24
+Chandra::App                        0.24  pkg:cpan/Chandra@0.24
+Chandra::Assets                     0.24  pkg:cpan/Chandra@0.24
+Chandra::Bind                       0.24  pkg:cpan/Chandra@0.24
+Chandra::Bridge                     0.24  pkg:cpan/Chandra@0.24
+Chandra::Bridge::Extension          0.24  pkg:cpan/Chandra@0.24
+Chandra::Canvas                     0.24  pkg:cpan/Chandra@0.24
+Chandra::Clipboard                  0.24  pkg:cpan/Chandra@0.24
+Chandra::ContextMenu                0.24  pkg:cpan/Chandra@0.24
+Chandra::DevTools                   0.24  pkg:cpan/Chandra@0.24
+Chandra::Dialog                     0.24  pkg:cpan/Chandra@0.24
+Chandra::DragDrop                   0.24  pkg:cpan/Chandra@0.24
 Chandra::EPUB                       0.02  pkg:cpan/Chandra-EPUB@0.02
-Chandra::Element                    0.23  pkg:cpan/Chandra@0.23
-Chandra::Error                      0.23  pkg:cpan/Chandra@0.23
-Chandra::Event                      0.23  pkg:cpan/Chandra@0.23
-Chandra::Form                       0.23  pkg:cpan/Chandra@0.23
+Chandra::Element                    0.24  pkg:cpan/Chandra@0.24
+Chandra::Error                      0.24  pkg:cpan/Chandra@0.24
+Chandra::Event                      0.24  pkg:cpan/Chandra@0.24
+Chandra::Form                       0.24  pkg:cpan/Chandra@0.24
 Chandra::Game::Tetris               0.03  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Blocks      undef  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Blocks::IBlock undef  pkg:cpan/Chandra-Game-Tetris@0.03
@@ -42845,20 +42845,20 @@ Chandra::Game::Tetris::Blocks::TBlock undef  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Blocks::ZBlock undef  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Engine      undef  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Grid        undef  pkg:cpan/Chandra-Game-Tetris@0.03
-Chandra::HotReload                  0.23  pkg:cpan/Chandra@0.23
-Chandra::Log                        0.23  pkg:cpan/Chandra@0.23
-Chandra::Notify                     0.23  pkg:cpan/Chandra@0.23
-Chandra::Pack                       0.23  pkg:cpan/Chandra@0.23
-Chandra::Protocol                   0.23  pkg:cpan/Chandra@0.23
-Chandra::Shortcut                   0.23  pkg:cpan/Chandra@0.23
-Chandra::Socket::Client             0.23  pkg:cpan/Chandra@0.23
-Chandra::Socket::Connection         0.23  pkg:cpan/Chandra@0.23
-Chandra::Socket::Hub                0.23  pkg:cpan/Chandra@0.23
-Chandra::Socket::Token              0.23  pkg:cpan/Chandra@0.23
-Chandra::Splash                     0.23  pkg:cpan/Chandra@0.23
-Chandra::Store                      0.23  pkg:cpan/Chandra@0.23
-Chandra::Tray                       0.23  pkg:cpan/Chandra@0.23
-Chandra::Window                     0.23  pkg:cpan/Chandra@0.23
+Chandra::HotReload                  0.24  pkg:cpan/Chandra@0.24
+Chandra::Log                        0.24  pkg:cpan/Chandra@0.24
+Chandra::Notify                     0.24  pkg:cpan/Chandra@0.24
+Chandra::Pack                       0.24  pkg:cpan/Chandra@0.24
+Chandra::Protocol                   0.24  pkg:cpan/Chandra@0.24
+Chandra::Shortcut                   0.24  pkg:cpan/Chandra@0.24
+Chandra::Socket::Client             0.24  pkg:cpan/Chandra@0.24
+Chandra::Socket::Connection         0.24  pkg:cpan/Chandra@0.24
+Chandra::Socket::Hub                0.24  pkg:cpan/Chandra@0.24
+Chandra::Socket::Token              0.24  pkg:cpan/Chandra@0.24
+Chandra::Splash                     0.24  pkg:cpan/Chandra@0.24
+Chandra::Store                      0.24  pkg:cpan/Chandra@0.24
+Chandra::Tray                       0.24  pkg:cpan/Chandra@0.24
+Chandra::Window                     0.24  pkg:cpan/Chandra@0.24
 Changes                            0.004001  pkg:cpan/Changes@v0.4.1
 Changes::Change                    0.001002  pkg:cpan/Changes@v0.4.1
 Changes::Group                     0.002001  pkg:cpan/Changes@v0.4.1
@@ -70506,7 +70506,7 @@ EntityModel::Web::Site             0.004  pkg:cpan/EntityModel-Web@0.004
 EntityModel::Web::User             0.004  pkg:cpan/EntityModel-Web@0.004
 Entrez                               1.1  pkg:cpan/Boulder@1.30
 EntryDialog                          0.1  pkg:cpan/Tk-EntryDialog@0.10
-Enum::Declare                       0.07  pkg:cpan/Enum-Declare@0.07
+Enum::Declare                       0.08  pkg:cpan/Enum-Declare@0.08
 Enum::Declare::Common               0.02  pkg:cpan/Enum-Declare-Common@0.02
 Enum::Declare::Common::Bool        undef  pkg:cpan/Enum-Declare-Common@0.02
 Enum::Declare::Common::Calendar    undef  pkg:cpan/Enum-Declare-Common@0.02
@@ -70528,8 +70528,8 @@ Enum::Declare::Common::Sort        undef  pkg:cpan/Enum-Declare-Common@0.02
 Enum::Declare::Common::Status      undef  pkg:cpan/Enum-Declare-Common@0.02
 Enum::Declare::Common::Timezone    undef  pkg:cpan/Enum-Declare-Common@0.02
 Enum::Declare::Common::TimezoneOffset undef  pkg:cpan/Enum-Declare-Common@0.02
-Enum::Declare::Meta                undef  pkg:cpan/Enum-Declare@0.07
-Enum::Declare::Set                 undef  pkg:cpan/Enum-Declare@0.07
+Enum::Declare::Meta                undef  pkg:cpan/Enum-Declare@0.08
+Enum::Declare::Set                 undef  pkg:cpan/Enum-Declare@0.08
 Enumerate::PerlList                 0.01  pkg:cpan/Enumerate-PerlList@0.01
 Enumeration                         0.03  pkg:cpan/Enumeration@0.03
 Env                                 1.04  pkg:cpan/Env@1.04
@@ -110054,7 +110054,7 @@ Horris::Connection::Plugin::Retry  undef  pkg:cpan/Horris@v0.1.2
 Horris::Connection::Plugin::Twitter undef  pkg:cpan/Horris@v0.1.2
 Horris::Message                    undef  pkg:cpan/Horris@v0.1.2
 Horris::Message::Address           undef  pkg:cpan/Horris@v0.1.2
-Horus                               0.07  pkg:cpan/Horus@0.07
+Horus                               0.08  pkg:cpan/Horus@0.08
 Hostfile::Manager                   0.09  pkg:cpan/Hostfile-Manager@0.09
 Howdy                               0.01  pkg:cpan/ptkFAQ@0_03
 HtDig::Config                       1.02  pkg:cpan/HtDig-Config@1.02
@@ -126833,7 +126833,7 @@ Logwatch::RecordTree               2.056  pkg:cpan/Logwatch-RecordTree@2.056
 Logwatch::RecordTree::IPv4         2.056  pkg:cpan/Logwatch-RecordTree@2.056
 Long::Jump                         0.000005  pkg:cpan/Long-Jump@0.000005
 LongSearch                         undef  pkg:cpan/JRPC@0.61
-Loo                                 0.11  pkg:cpan/Loo@0.11
+Loo                                 0.12  pkg:cpan/Loo@0.12
 LooksLike                          v0.20.60  pkg:cpan/LooksLike@v0.20.060
 Loompa                              0.51  pkg:cpan/Loompa@0.51
 Loop                                1.00  pkg:cpan/Loop@1.00
