@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 25 Apr 2026 04:31:37 GMT
-Line-Count: 263911
+Last-Updated: Sat, 25 Apr 2026 07:05:43 GMT
+Line-Count: 263913
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -228962,6 +228962,7 @@ Test::Inter                         1.12  pkg:cpan/Test-Inter@1.12
 Test::Interface                     0.02  pkg:cpan/Test-Interface@0.02
 Test::Internet                      0.07  pkg:cpan/Test-Internet@0.07
 Test::Is                           20140823.1  pkg:cpan/Test-Is@20140823.1
+Test::IsAny                         0.01  pkg:cpan/Test-IsAny@0.01
 Test::JSON                          0.11  pkg:cpan/Test-JSON@0.11
 Test::JSON::Assert                 undef  pkg:cpan/JSON-Assert@0.08
 Test::JSON::Entails                  0.2  pkg:cpan/Test-JSON-Entails@0.2
@@ -245201,6 +245202,7 @@ WWW::Ohloh::API::Stack             v1.0.2  pkg:cpan/WWW-Ohloh-API@1.0.2
 WWW::Ohloh::API::StackEntry        v1.0.2  pkg:cpan/WWW-Ohloh-API@1.0.2
 WWW::Omegle                         0.02  pkg:cpan/WWW-Omegle@0.02
 WWW::OneAll                         0.03  pkg:cpan/WWW-OneAll@0.03
+WWW::OpenBao                       0.001  pkg:cpan/WWW-OpenBao@0.001
 WWW::OpenSearch                     0.17  pkg:cpan/WWW-OpenSearch@0.17
 WWW::OpenSearch::Agent             undef  pkg:cpan/WWW-OpenSearch@0.17
 WWW::OpenSearch::Description       undef  pkg:cpan/WWW-OpenSearch@0.17
