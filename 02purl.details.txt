@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 25 Apr 2026 14:37:19 GMT
+Last-Updated: Sat, 25 Apr 2026 16:33:51 GMT
 Line-Count: 263913
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -16109,7 +16109,7 @@ App::palien                         0.18  pkg:cpan/App-af@0.18
 App::pandoc::preprocess            0.009010  pkg:cpan/App-pandoc-preprocess@v0.9.10
 App::pandoc::preprocess::File      v0.3.1  pkg:cpan/App-pandoc-preprocess@0.3.1
 App::paperback                      1.42  pkg:cpan/app-paperback@1.42
-App::papersway                     2.003  pkg:cpan/App-papersway@2.003
+App::papersway                     3.000  pkg:cpan/App-papersway@3.000
 App::part                           0.07  pkg:cpan/App-part@0.07
 App::pathed                         0.07  pkg:cpan/App-pathed@0.07
 App::pause                         0.662  pkg:cpan/App-pause@0.662
@@ -227733,7 +227733,7 @@ Test2::Plugin::GitHub::Actions::AnnotateFailedTest  0.04  pkg:cpan/Test2-Plugin-
 Test2::Plugin::GitHub::Actions::AnnotateWarnings  0.01  pkg:cpan/Test2-Plugin-GitHub-Actions-AnnotateWarnings@0.01
 Test2::Plugin::IOEvents            0.001001  pkg:cpan/Test2-Plugin-IOEvents@0.001001
 Test2::Plugin::IOEvents::Tie       0.001001  pkg:cpan/Test2-Plugin-IOEvents@0.001001
-Test2::Plugin::MemUsage            0.002003  pkg:cpan/Test2-Plugin-MemUsage@0.002003
+Test2::Plugin::MemUsage            0.002004  pkg:cpan/Test2-Plugin-MemUsage@0.002004
 Test2::Plugin::NoWarnings           0.10  pkg:cpan/Test2-Plugin-NoWarnings@0.10
 Test2::Plugin::Numerical            0.03  pkg:cpan/Test2-Bundle-Numerical@0.03
 Test2::Plugin::SRand               1.302219  pkg:cpan/Test-Simple@1.302219
@@ -231404,7 +231404,7 @@ Text::Microformat::Plugin::Parser::XML undef  pkg:cpan/Text-Microformat@0.04
 Text::Microformat::XML::Element    undef  pkg:cpan/Text-Microformat@0.04
 Text::Migemo                        0.01  pkg:cpan/Text-Migemo@0.01
 Text::MiniTmpl                     v2.0.1  pkg:cpan/Text-MiniTmpl@v2.0.1
-Text::Minify::XS                   v0.7.7  pkg:cpan/Text-Minify-XS@v0.7.7
+Text::Minify::XS                   v0.7.8  pkg:cpan/Text-Minify-XS@v0.7.8
 Text::Modify                         0.5  pkg:cpan/Text-Modify@0.5
 Text::Modify::Rule                   0.4  pkg:cpan/Text-Modify@0.5
 Text::Morse                         0.07  pkg:cpan/Text-Morse@0.07
