@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 26 Apr 2026 16:35:26 GMT
-Line-Count: 263934
+Last-Updated: Sun, 26 Apr 2026 18:41:20 GMT
+Line-Count: 263936
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -11003,6 +11003,7 @@ App::LogGerUtils                   0.002  pkg:cpan/App-LogGerUtils@0.002
 App::LogStats                      0.091  pkg:cpan/App-LogStats@0.091
 App::Logs                              0  pkg:cpan/App-FargateStack@1.0.50
 App::MARC::Count                    0.04  pkg:cpan/App-MARC-Count@0.04
+App::MARC::Field008                 0.01  pkg:cpan/App-MARC-Field008@0.01
 App::MARC::Filter                    0.1  pkg:cpan/App-MARC-Filter@0.10
 App::MARC::Leader                   0.11  pkg:cpan/App-MARC-Leader@0.11
 App::MARC::List                     0.08  pkg:cpan/App-MARC-List@0.08
@@ -47108,7 +47109,7 @@ ColorTransform::Tint               0.002  pkg:cpan/ColorTransforms-Standard@0.00
 ColorTransform::Weight             0.002  pkg:cpan/ColorTransforms-Standard@0.002
 ColorTransforms::Standard          0.002  pkg:cpan/ColorTransforms-Standard@0.002
 Colouring::In                       0.27  pkg:cpan/Colouring-In@0.27
-Colouring::In::XS                   0.09  pkg:cpan/Colouring-In-XS@0.09
+Colouring::In::XS                   0.10  pkg:cpan/Colouring-In-XS@0.10
 ComXo::Call2                        0.02  pkg:cpan/ComXo-Call2@0.02
 Combinator                         0.004003  pkg:cpan/Combinator@0.004003
 Combinatorial::Permutations        undef  pkg:cpan/Algorithm-Permute@0.10
@@ -57154,7 +57155,7 @@ Data::Define                        1.03  pkg:cpan/Data-Define@1.03
 Data::Delete                        0.07  pkg:cpan/Data-Skeleton@0.07
 Data::Demos                        0.000002  pkg:cpan/Data-Demos@0.0.2
 Data::Denter                        0.15  pkg:cpan/Data-Denter@0.15
-Data::Deque::Shared                 0.02  pkg:cpan/Data-Deque-Shared@0.02
+Data::Deque::Shared                 0.03  pkg:cpan/Data-Deque-Shared@0.03
 Data::Describe                      1.03  pkg:cpan/Data-Describe@1.03
 Data::Dict                         0.003  pkg:cpan/Data-Dict@0.003
 Data::Diff                          0.01  pkg:cpan/Data-Diff@0.01
@@ -57627,7 +57628,7 @@ Data::HashMap::Shared::SI32         0.02  pkg:cpan/Data-HashMap-Shared@0.06
 Data::HashMap::Shared::SS           0.02  pkg:cpan/Data-HashMap-Shared@0.06
 Data::HashType                      0.07  pkg:cpan/Data-HashType@0.07
 Data::Header::Fields                0.05  pkg:cpan/Data-Header-Fields@0.05
-Data::Heap::Shared                  0.02  pkg:cpan/Data-Heap-Shared@0.02
+Data::Heap::Shared                  0.03  pkg:cpan/Data-Heap-Shared@0.03
 Data::HexConverter                  0.65  pkg:cpan/Data-HexConverter@0.65
 Data::HexDump                       0.04  pkg:cpan/Data-HexDump@0.04
 Data::HexDump::Range                0.13  pkg:cpan/Data-HexDump-Range@0.13.72
@@ -59496,11 +59497,11 @@ Data::Query                        undef  pkg:cpan/Data-CapabilityBased@0.001000
 Data::Queue                        1.0002  pkg:cpan/Data-Queue@1.0002
 Data::Queue::Batch                  0.04  pkg:cpan/Data-Queue-Batch@0.04
 Data::Queue::Persistent             0.13  pkg:cpan/Data-Queue-Persistent@0.13
-Data::Queue::Shared                 0.02  pkg:cpan/Data-Queue-Shared@0.02
-Data::Queue::Shared::Int           undef  pkg:cpan/Data-Queue-Shared@0.02
-Data::Queue::Shared::Int16         undef  pkg:cpan/Data-Queue-Shared@0.02
-Data::Queue::Shared::Int32         undef  pkg:cpan/Data-Queue-Shared@0.02
-Data::Queue::Shared::Str           undef  pkg:cpan/Data-Queue-Shared@0.02
+Data::Queue::Shared                 0.03  pkg:cpan/Data-Queue-Shared@0.03
+Data::Queue::Shared::Int           undef  pkg:cpan/Data-Queue-Shared@0.03
+Data::Queue::Shared::Int16         undef  pkg:cpan/Data-Queue-Shared@0.03
+Data::Queue::Shared::Int32         undef  pkg:cpan/Data-Queue-Shared@0.03
+Data::Queue::Shared::Str           undef  pkg:cpan/Data-Queue-Shared@0.03
 Data::QuickMemoPlus::Reader         0.12  pkg:cpan/Data-QuickMemoPlus-Reader@0.12
 Data::Radius                       1.002009  pkg:cpan/Data-Radius@1.2.9
 Data::Radius::Constants            undef  pkg:cpan/Data-Radius@1.2.9
@@ -60476,7 +60477,7 @@ Data::Sorting                        0.9  pkg:cpan/Data-Sorting@0.9
 Data::SplitSerializer               0.91  pkg:cpan/Data-SplitSerializer@0.91
 Data::SpreadPagination             0.001002  pkg:cpan/Data-SpreadPagination@0.1.2
 Data::Stack                         0.01  pkg:cpan/Data-Stack@0.01
-Data::Stack::Shared                 0.02  pkg:cpan/Data-Stack-Shared@0.02
+Data::Stack::Shared                 0.03  pkg:cpan/Data-Stack-Shared@0.03
 Data::StackedHash                   0.99  pkg:cpan/Data-StackedHash@0.99
 Data::StackedMap                    0.03  pkg:cpan/Data-StackedMap@0.03
 Data::Stacker                       1.03  pkg:cpan/Data-Stacker@1.03
@@ -127256,6 +127257,7 @@ MARC::Field008                      0.05  pkg:cpan/MARC-Field008@0.05
 MARC::Field008::L10N                0.01  pkg:cpan/MARC-Field008-L10N@0.01
 MARC::Field008::L10N::cs            0.01  pkg:cpan/MARC-Field008-L10N@0.01
 MARC::Field008::L10N::en            0.01  pkg:cpan/MARC-Field008-L10N@0.01
+MARC::Field008::Print               0.01  pkg:cpan/MARC-Field008-Print@0.01
 MARC::Field::Normalize::NACO        0.06  pkg:cpan/MARC-Field-Normalize-NACO@0.06
 MARC::File                         undef  pkg:cpan/MARC-Record@2.0.7
 MARC::File::Encode                 undef  pkg:cpan/MARC-Record@2.0.7
@@ -234403,7 +234405,7 @@ Tkx::WinIco                         0.01  pkg:cpan/Tkx-WinIco@0.01
 Tkx::i                              1.10  pkg:cpan/Tkx@1.10
 Tkx::widget                         1.10  pkg:cpan/Tkx@1.10
 Tkx::widget::_destroy               1.10  pkg:cpan/Tkx@1.10
-Tlaloc                              0.04  pkg:cpan/Tlaloc@0.04
+Tlaloc                              0.05  pkg:cpan/Tlaloc@0.05
 Tmpfile                            undef  pkg:cpan/App-optex@v0.0.15
 To_Add_Fails                       undef  pkg:cpan/Test-Unit@0.13
 To_Add_Fails_Too                   undef  pkg:cpan/Test-Unit@0.13
@@ -256565,7 +256567,7 @@ XML::Perl2SAX                       0.08  pkg:cpan/libxml-perl@0.08
 XML::Printer::ESCPOS                0.06  pkg:cpan/XML-Printer-ESCPOS@0.06
 XML::Printer::ESCPOS::Debug         0.06  pkg:cpan/XML-Printer-ESCPOS@0.06
 XML::Printer::ESCPOS::Tags          0.06  pkg:cpan/XML-Printer-ESCPOS@0.06
-XML::PugiXML                        0.03  pkg:cpan/XML-PugiXML@0.03
+XML::PugiXML                        0.04  pkg:cpan/XML-PugiXML@0.04
 XML::QL                             0.07  pkg:cpan/XML-QL@0.07
 XML::QL::Search                     0.07  pkg:cpan/XML-QL@0.07
 XML::QL::Where                      0.07  pkg:cpan/XML-QL@0.07
