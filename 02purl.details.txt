@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 26 Apr 2026 08:52:33 GMT
+Last-Updated: Sun, 26 Apr 2026 10:38:59 GMT
 Line-Count: 263918
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -15062,8 +15062,8 @@ App::Yath::Plugin::SysInfo         1.000171  pkg:cpan/Test2-Harness@1.000171
 App::Yath::Plugin::YathUI          1.000171  pkg:cpan/Test2-Harness@1.000171
 App::Yath::Plugin::YathUIDB        0.000145  pkg:cpan/Test2-Harness-UI@0.000145
 App::Yath::Plugin::pgTAP           0.001105  pkg:cpan/Test2-Plugin-pgTAP@0.001105
-App::Yath::Script                  2.000011  pkg:cpan/App-Yath-Script@2.000011
-App::Yath::Script::V0              2.000011  pkg:cpan/App-Yath-Script@2.000011
+App::Yath::Script                  2.000012  pkg:cpan/App-Yath-Script@2.000012
+App::Yath::Script::V0              2.000012  pkg:cpan/App-Yath-Script@2.000012
 App::Yath::Script::V1              1.000171  pkg:cpan/Test2-Harness@1.000171
 App::Yath::Tester                  1.000171  pkg:cpan/Test2-Harness@1.000171
 App::Yath::Tester::UI              undef  pkg:cpan/Test2-Harness-UI@0.000145
@@ -33341,8 +33341,8 @@ CPAN::Perl::Releases               5.20260420  pkg:cpan/CPAN-Perl-Releases@5.202
 CPAN::Perl::Releases::MetaCPAN     0.010  pkg:cpan/CPAN-Perl-Releases-MetaCPAN@0.010
 CPAN::Plugin                        0.97  pkg:cpan/CPAN@2.38
 CPAN::Plugin::Specfile              0.02  pkg:cpan/CPAN@2.38
-CPAN::Plugin::Sysdeps               0.82  pkg:cpan/CPAN-Plugin-Sysdeps@0.82
-CPAN::Plugin::Sysdeps::Mapping      0.82  pkg:cpan/CPAN-Plugin-Sysdeps@0.82
+CPAN::Plugin::Sysdeps               0.83  pkg:cpan/CPAN-Plugin-Sysdeps@0.83
+CPAN::Plugin::Sysdeps::Mapping      0.83  pkg:cpan/CPAN-Plugin-Sysdeps@0.83
 CPAN::Porters                       0.04  pkg:cpan/CPAN-Porters@0.04
 CPAN::Prompt                         5.5  pkg:cpan/CPAN@2.38
 CPAN::Queue                        5.5003  pkg:cpan/CPAN@2.38
@@ -258027,7 +258027,7 @@ YAML::Full::Parser                 0.000001  pkg:cpan/YAML-Full@0.0.1
 YAML::Full::Representer            0.000001  pkg:cpan/YAML-Full@0.0.1
 YAML::Full::Serializer             0.000001  pkg:cpan/YAML-Full@0.0.1
 YAML::Hobo                         v0.2.0  pkg:cpan/YAML-Hobo@0.2.0
-YAML::LibYAML                      v0.905.0  pkg:cpan/YAML-LibYAML@v0.905.0
+YAML::LibYAML                      v0.906.0  pkg:cpan/YAML-LibYAML@v0.906.0
 YAML::LibYAML::API                 v0.14.0  pkg:cpan/YAML-LibYAML-API@v0.14.0
 YAML::LibYAML::API::XS             v0.14.0  pkg:cpan/YAML-LibYAML-API@v0.14.0
 YAML::LoadBundle                   v0.4.3  pkg:cpan/YAML-LoadBundle@v0.4.3
@@ -258201,7 +258201,7 @@ YAML::Type::regexp                 undef  pkg:cpan/YAML@1.31
 YAML::Type::undef                  undef  pkg:cpan/YAML@1.31
 YAML::Types                        undef  pkg:cpan/YAML@1.31
 YAML::Warning                      undef  pkg:cpan/YAML@1.31
-YAML::XS                           v0.905.0  pkg:cpan/YAML-LibYAML@v0.905.0
+YAML::XS                           v0.906.0  pkg:cpan/YAML-LibYAML@v0.906.0
 YAML::XS::LibYAML                  undef  pkg:cpan/YAML-LibYAML@0.89
 YAML::YAML2ADoc                    0.001000  pkg:cpan/YAML-YAML2ADoc@0.1.0
 YAML::yq::Helper                   0.002000  pkg:cpan/YAML-yq-Helper@0.2.0
