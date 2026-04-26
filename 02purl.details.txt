@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 26 Apr 2026 02:05:42 GMT
-Line-Count: 263914
+Last-Updated: Sun, 26 Apr 2026 06:02:14 GMT
+Line-Count: 263916
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -103787,9 +103787,9 @@ Graphics::Fig::Parameters          1.000008  pkg:cpan/Graphics-Fig@v1.0.8
 Graphics::Fig::Polyline            1.000008  pkg:cpan/Graphics-Fig@v1.0.8
 Graphics::Fig::Spline              1.000008  pkg:cpan/Graphics-Fig@v1.0.8
 Graphics::Fig::Text                1.000008  pkg:cpan/Graphics-Fig@v1.0.8
-Graphics::Framebuffer               6.98  pkg:cpan/Graphics-Framebuffer@6.98
-Graphics::Framebuffer::Mouse        0.03  pkg:cpan/Graphics-Framebuffer@6.98
-Graphics::Framebuffer::Splash       1.28  pkg:cpan/Graphics-Framebuffer@6.98
+Graphics::Framebuffer               6.99  pkg:cpan/Graphics-Framebuffer@6.99
+Graphics::Framebuffer::Mouse        0.03  pkg:cpan/Graphics-Framebuffer@6.99
+Graphics::Framebuffer::Splash       1.28  pkg:cpan/Graphics-Framebuffer@6.99
 Graphics::GVG                       0.92  pkg:cpan/Graphics-GVG@0.92
 Graphics::GVG::AST                  0.92  pkg:cpan/Graphics-GVG@0.92
 Graphics::GVG::AST::Circle          0.92  pkg:cpan/Graphics-GVG@0.92
@@ -145191,6 +145191,8 @@ Net::Async::Kubernetes::Controller 0.007  pkg:cpan/Net-Async-Kubernetes@0.007
 Net::Async::Kubernetes::PortForwardSession 0.007  pkg:cpan/Net-Async-Kubernetes@0.007
 Net::Async::Kubernetes::Watcher    0.007  pkg:cpan/Net-Async-Kubernetes@0.007
 Net::Async::MCP                    0.002  pkg:cpan/Net-Async-MCP@0.002
+Net::Async::MCP::Server            0.001  pkg:cpan/Net-Async-MCP-Server@0.001
+Net::Async::MCP::Server::Transport::Stdio 0.001  pkg:cpan/Net-Async-MCP-Server@0.001
 Net::Async::MCP::Transport::HTTP   0.002  pkg:cpan/Net-Async-MCP@0.002
 Net::Async::MCP::Transport::InProcess 0.002  pkg:cpan/Net-Async-MCP@0.002
 Net::Async::MCP::Transport::Stdio  0.002  pkg:cpan/Net-Async-MCP@0.002
@@ -235334,7 +235336,7 @@ Tropo::WebAPI::Wait                 0.01  pkg:cpan/Tropo@0.16
 True::Truth                          1.1  pkg:cpan/True-Truth@1.1
 Trustee                            0.002  pkg:cpan/Class-Maker@0.06
 Try                                 0.03  pkg:cpan/Try@0.03
-Try::ALRM                           1.03  pkg:cpan/Try-ALRM@1.03
+Try::ALRM                           1.05  pkg:cpan/Try-ALRM@1.05
 Try::Catch                         1.001000  pkg:cpan/Try-Catch@1.1.0
 Try::Chain                         0.005  pkg:cpan/Try-Chain@0.005
 Try::Harder                        0.005  pkg:cpan/Try-Harder@0.005
