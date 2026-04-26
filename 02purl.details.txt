@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 26 Apr 2026 20:31:42 GMT
-Line-Count: 263941
+Last-Updated: Sun, 26 Apr 2026 22:31:19 GMT
+Line-Count: 263942
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -119760,47 +119760,48 @@ Langertha::Engine::vLLM            0.500  pkg:cpan/Langertha@0.500
 Langertha::ImageGen                0.500  pkg:cpan/Langertha@0.500
 Langertha::Input                   0.500  pkg:cpan/Langertha@0.500
 Langertha::Input::Tools            0.500  pkg:cpan/Langertha@0.500
-Langertha::Knarr                   1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::CLI              1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::CLI::Cmd::Check  1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::CLI::Cmd::Container 1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::CLI::Cmd::Init   1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::CLI::Cmd::Models 1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::CLI::Cmd::Start  1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::Config           1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::Handler          1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::Handler::A2AClient 1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::Handler::ACPClient 1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::Handler::Code    1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::Handler::Engine  1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::Handler::Passthrough 1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::Handler::Raider  1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::Handler::RequestLog 1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::Handler::Router  1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::Handler::Tracing 1.001  pkg:cpan/Langertha-Knarr@1.001
+Langertha::Knarr                   1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::CLI              1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::CLI::Cmd::Check  1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::CLI::Cmd::Container 1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::CLI::Cmd::Init   1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::CLI::Cmd::Models 1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::CLI::Cmd::Start  1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::Config           1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::Handler          1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::Handler::A2AClient 1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::Handler::ACPClient 1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::Handler::Code    1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::Handler::Engine  1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::Handler::Passthrough 1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::Handler::Raider  1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::Handler::RequestLog 1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::Handler::Router  1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::Handler::Tracing 1.100  pkg:cpan/Langertha-Knarr@1.100
 Langertha::Knarr::Input            0.007  pkg:cpan/Langertha-Knarr@0.007
 Langertha::Knarr::Input::Tools     0.007  pkg:cpan/Langertha-Knarr@0.007
 Langertha::Knarr::Metrics          0.007  pkg:cpan/Langertha-Knarr@0.007
 Langertha::Knarr::Output           0.007  pkg:cpan/Langertha-Knarr@0.007
 Langertha::Knarr::Output::Tools    0.007  pkg:cpan/Langertha-Knarr@0.007
-Langertha::Knarr::PSGI             1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::PSGI::FakeReq    1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::Protocol         1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::Protocol::A2A    1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::Protocol::ACP    1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::Protocol::AGUI   1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::Protocol::Anthropic 1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::Protocol::Ollama 1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::Protocol::OpenAI 1.001  pkg:cpan/Langertha-Knarr@1.001
+Langertha::Knarr::PSGI             1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::PSGI::FakeReq    1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::Protocol         1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::Protocol::A2A    1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::Protocol::ACP    1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::Protocol::AGUI   1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::Protocol::Anthropic 1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::Protocol::Ollama 1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::Protocol::OpenAI 1.100  pkg:cpan/Langertha-Knarr@1.100
 Langertha::Knarr::Proxy::Anthropic 0.007  pkg:cpan/Langertha-Knarr@0.007
 Langertha::Knarr::Proxy::Ollama    0.007  pkg:cpan/Langertha-Knarr@0.007
 Langertha::Knarr::Proxy::OpenAI    0.007  pkg:cpan/Langertha-Knarr@0.007
-Langertha::Knarr::Request          1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::RequestLog       1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::Router           1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::Session          1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::Stream           1.001  pkg:cpan/Langertha-Knarr@1.001
-Langertha::Knarr::Tracing          1.001  pkg:cpan/Langertha-Knarr@1.001
+Langertha::Knarr::Request          1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::RequestLog       1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::Response         1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::Router           1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::Session          1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::Stream           1.100  pkg:cpan/Langertha-Knarr@1.100
+Langertha::Knarr::Tracing          1.100  pkg:cpan/Langertha-Knarr@1.100
 Langertha::Metrics                 0.500  pkg:cpan/Langertha@0.500
 Langertha::Output                  0.500  pkg:cpan/Langertha@0.500
 Langertha::Output::Tools           0.500  pkg:cpan/Langertha@0.500
