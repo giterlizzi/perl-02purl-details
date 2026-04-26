@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 26 Apr 2026 14:38:12 GMT
-Line-Count: 263931
+Last-Updated: Sun, 26 Apr 2026 16:35:26 GMT
+Line-Count: 263934
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -4813,7 +4813,7 @@ Alien::cargo::clone                 0.02  pkg:cpan/Alien-cargo-clone@0.02
 Alien::castxml                      0.02  pkg:cpan/Alien-castxml@0.02
 Alien::chromaprint                  0.02  pkg:cpan/Alien-chromaprint@0.02
 Alien::cmake3                       0.10  pkg:cpan/Alien-cmake3@0.10
-Alien::cmake4                       0.01  pkg:cpan/Alien-cmake4@0.01
+Alien::cmake4                       0.02  pkg:cpan/Alien-cmake4@0.02
 Alien::cmark                       0.005  pkg:cpan/Alien-cmark@0.005
 Alien::cue                          0.01  pkg:cpan/Alien-cue@0.01
 Alien::curl                         0.11  pkg:cpan/Alien-curl@0.11
@@ -16355,7 +16355,7 @@ App::pscan::Scanner                undef  pkg:cpan/App-pscan@0.02
 App::pscan::Utils                  undef  pkg:cpan/App-pscan@0.02
 App::psort                          0.12  pkg:cpan/App-psort@0.12
 App::psst                           0.09  pkg:cpan/App-psst@0.09
-App::ptimeout                      1.000002  pkg:cpan/App-ptimeout@1.0.2
+App::ptimeout                      1.000003  pkg:cpan/App-ptimeout@1.0.3
 App::puzzl                          0.01  pkg:cpan/App-puzzl@0.01
 App::puzzl::new                    undef  pkg:cpan/App-puzzl@0.01
 App::puzzl::run                    undef  pkg:cpan/App-puzzl@0.01
@@ -127252,7 +127252,10 @@ MARC::Detrans::Rules               undef  pkg:cpan/MARC-Detrans@1.41
 MARC::Errorchecks                   1.18  pkg:cpan/MARC-Errorchecks@1.18
 MARC::Fast                          0.12  pkg:cpan/MARC-Fast@0.12
 MARC::Field                        undef  pkg:cpan/MARC-Record@2.0.7
-MARC::Field008                      0.04  pkg:cpan/MARC-Field008@0.04
+MARC::Field008                      0.05  pkg:cpan/MARC-Field008@0.05
+MARC::Field008::L10N                0.01  pkg:cpan/MARC-Field008-L10N@0.01
+MARC::Field008::L10N::cs            0.01  pkg:cpan/MARC-Field008-L10N@0.01
+MARC::Field008::L10N::en            0.01  pkg:cpan/MARC-Field008-L10N@0.01
 MARC::Field::Normalize::NACO        0.06  pkg:cpan/MARC-Field-Normalize-NACO@0.06
 MARC::File                         undef  pkg:cpan/MARC-Record@2.0.7
 MARC::File::Encode                 undef  pkg:cpan/MARC-Record@2.0.7
@@ -137420,7 +137423,7 @@ Module::Setup::Plugin::VC::SVK     undef  pkg:cpan/Module-Setup@0.09
 Module::Setup::Plugin::VC::SVN     undef  pkg:cpan/Module-Setup@0.09
 Module::Setup::Test::Flavor        undef  pkg:cpan/Module-Setup@0.09
 Module::Setup::Test::Utils         undef  pkg:cpan/Module-Setup@0.09
-Module::Signature                   0.93  pkg:cpan/Module-Signature@0.93
+Module::Signature                   0.95  pkg:cpan/Module-Signature@0.95
 Module::Spec                       v0.9.0  pkg:cpan/Module-Spec@0.9.0
 Module::Spec::OO                   v0.9.0  pkg:cpan/Module-Spec@0.9.0
 Module::Spec::V0                   v0.9.0  pkg:cpan/Module-Spec@0.9.0
