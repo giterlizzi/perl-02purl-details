@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 26 Apr 2026 06:02:14 GMT
-Line-Count: 263916
+Last-Updated: Sun, 26 Apr 2026 08:52:33 GMT
+Line-Count: 263918
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -46975,7 +46975,7 @@ Collision::2D::Entity::Rect        undef  pkg:cpan/Collision-2D@0.07
 Collision::Util                     0.01  pkg:cpan/Collision-Util@0.01
 Colloquy::Bot::Simple              undef  pkg:cpan/Colloquy-Bot-Simple@1.08
 Colloquy::Data                      1.15  pkg:cpan/Colloquy-Data@1.15
-Colon::Config                      0.004  pkg:cpan/Colon-Config@0.004
+Colon::Config                      0.005  pkg:cpan/Colon-Config@0.005
 Color                              undef  pkg:cpan/FigAnim@0.1
 Color::ANSI::Util                  0.165  pkg:cpan/Color-ANSI-Util@0.165
 Color::Brewer                      0.001  pkg:cpan/Color-Brewer@0.001
@@ -82197,7 +82197,7 @@ Getopt::Gen::cmdline_c             undef  pkg:cpan/Getopt-Gen@0.14
 Getopt::Gen::cmdline_h             undef  pkg:cpan/Getopt-Gen@0.14
 Getopt::Gen::cmdline_pod           undef  pkg:cpan/Getopt-Gen@0.14
 Getopt::GetArgs                     1.03  pkg:cpan/Getopt-GetArgs@1.03
-Getopt::Guided                     v3.1.2  pkg:cpan/Getopt-Guided@v3.1.2
+Getopt::Guided                     v3.2.0  pkg:cpan/Getopt-Guided@v3.2.0
 Getopt::Helpful                     0.04  pkg:cpan/Getopt-Helpful@0.04
 Getopt::Inherited                  1.100860  pkg:cpan/Getopt-Inherited@1.100860
 Getopt::Janus                       1.03  pkg:cpan/Getopt-Janus@1.03
@@ -157103,7 +157103,8 @@ Outthentic::Glue::Bash             undef  pkg:cpan/Outthentic@0.4.7
 Outthentic::Glue::Perl             undef  pkg:cpan/Outthentic@0.4.7
 Outthentic::Story                  undef  pkg:cpan/Outthentic@0.4.7
 Outthentic::Story::Stat            undef  pkg:cpan/Outthentic@0.4.7
-Overload::FileCheck                0.014  pkg:cpan/Overload-FileCheck@0.014
+Overload::FileCheck                0.015  pkg:cpan/Overload-FileCheck@0.015
+Overload::FileCheck::Guard         0.015  pkg:cpan/Overload-FileCheck@0.015
 OverloadedClass                        0  pkg:cpan/CGI-Session@4.48
 OverloadedObjectClass               1.54  pkg:cpan/CGI-Session@4.10
 OvhApi                               0.2  pkg:cpan/OvhApi@0.2
@@ -161942,7 +161943,7 @@ Parallel::Simple::Dynamic          0.000004  pkg:cpan/Parallel-Simple-Dynamic@0.
 Parallel::SubArray                   0.6  pkg:cpan/Parallel-SubArray@0.6
 Parallel::SubFork                   0.10  pkg:cpan/Parallel-SubFork@0.10
 Parallel::SubFork::Task             0.08  pkg:cpan/Parallel-SubFork@0.10
-Parallel::Subs                     0.002  pkg:cpan/Parallel-Subs@0.002
+Parallel::Subs                     0.003  pkg:cpan/Parallel-Subs@0.003
 Parallel::Supervisor                0.03  pkg:cpan/Parallel-Supervisor@0.03
 Parallel::TaskExecutor              0.05  pkg:cpan/Parallel-TaskExecutor@0.05
 Parallel::TaskExecutor::Task        0.05  pkg:cpan/Parallel-TaskExecutor@0.05
@@ -233542,6 +233543,7 @@ Time::StasisField                   0.01  pkg:cpan/Time-StasisField@0.01
 Time::Stats                          1.0  pkg:cpan/Time-Stats@1.0?ext=tgz
 Time::StopWatchWithMessage          0.06  pkg:cpan/Time-StopWatchWithMessage@0.06
 Time::Stopwatch                     1.00  pkg:cpan/Time-Stopwatch@1.00
+Time::Str                           0.01  pkg:cpan/Time-Str@0.01
 Time::Strptime                      1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::Format              1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::TimeZone           undef  pkg:cpan/Time-Strptime@1.04
