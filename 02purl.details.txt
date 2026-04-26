@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 26 Apr 2026 10:38:59 GMT
-Line-Count: 263918
+Last-Updated: Sun, 26 Apr 2026 12:51:50 GMT
+Line-Count: 263922
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -110654,7 +110654,7 @@ IO::Async::JSONStream               0.02  pkg:cpan/IO-Async-JSONStream@0.02
 IO::Async::Listener                0.805  pkg:cpan/IO-Async@0.805
 IO::Async::Loop                    0.805  pkg:cpan/IO-Async@0.805
 IO::Async::Loop::AnyEvent           0.04  pkg:cpan/IO-Async-Loop-AnyEvent@0.04
-IO::Async::Loop::EV                 0.03  pkg:cpan/IO-Async-Loop-EV@0.03
+IO::Async::Loop::EV                 0.04  pkg:cpan/IO-Async-Loop-EV@0.04
 IO::Async::Loop::Epoll              0.23  pkg:cpan/IO-Async-Loop-Epoll@0.23
 IO::Async::Loop::Epoll::FD         0.004  pkg:cpan/IO-Async-Loop-Epoll-FD@0.004
 IO::Async::Loop::Event              0.03  pkg:cpan/IO-Async-Loop-Event@0.03
@@ -112280,37 +112280,41 @@ IPC::MMA::Scalar                    0.81  pkg:cpan/IPC-MMA@0.81
 IPC::MPS                            0.21  pkg:cpan/IPC-MPS@0.21
 IPC::MPS::EV                        0.21  pkg:cpan/IPC-MPS@0.21
 IPC::MPS::Event                     0.21  pkg:cpan/IPC-MPS@0.21
-IPC::Manager                       0.000033  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::Base::DBI            0.000033  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::Base::FS             0.000033  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::Base::FS::Handle     0.000033  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::Client               0.000033  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::Client::AtomicPipe   0.000033  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::Client::JSONFile     0.000033  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::Client::LocalMemory  0.000033  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::Client::MariaDB      0.000033  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::Client::MessageFiles 0.000033  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::Client::MySQL        0.000033  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::Client::PostgreSQL   0.000033  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::Client::SQLite       0.000033  pkg:cpan/IPC-Manager@0.000033
+IPC::Manager                       0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Base::DBI            0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Base::FS             0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Base::FS::Handle     0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Client               0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Client::AtomicPipe   0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Client::ConnectionUnix 0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Client::JSONFile     0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Client::LocalMemory  0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Client::MariaDB      0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Client::MessageFiles 0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Client::MySQL        0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Client::PostgreSQL   0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Client::SQLite       0.000034  pkg:cpan/IPC-Manager@0.000034
 IPC::Manager::Client::SharedMem    0.000027  pkg:cpan/IPC-Manager-Client-SharedMem@0.000027
-IPC::Manager::Client::UnixSocket   0.000033  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::DBI                  0.000033  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::Message              0.000033  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::Role::Service        0.000033  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::Role::Service::Requests 0.000033  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::Role::Service::Select 0.000033  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::Serializer           0.000033  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::Serializer::JSON     0.000033  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::Service              0.000033  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::Service::Echo        0.000033  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::Service::Handle      0.000033  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::Service::Peer        0.000033  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::Service::State       undef  pkg:cpan/IPC-Manager@0.000033
+IPC::Manager::Client::UnixSocket   0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::DBI                  0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Message              0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Role::Client::Connection 0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Role::Outbox         0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Role::Service        0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Role::Service::Requests 0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Role::Service::Select 0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Serializer           0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Serializer::JSON     0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Serializer::JSON::Zstd 0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Service              0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Service::Echo        0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Service::Handle      0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Service::Peer        0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Service::State       undef  pkg:cpan/IPC-Manager@0.000034
 IPC::Manager::ServicePeer          0.000010  pkg:cpan/IPC-Manager@0.000010
-IPC::Manager::Spawn                0.000033  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::Test                 undef  pkg:cpan/IPC-Manager@0.000033
-IPC::Manager::Util                 0.000033  pkg:cpan/IPC-Manager@0.000033
+IPC::Manager::Spawn                0.000034  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Test                 undef  pkg:cpan/IPC-Manager@0.000034
+IPC::Manager::Util                 0.000034  pkg:cpan/IPC-Manager@0.000034
 IPC::MicroSocket                    0.05  pkg:cpan/IPC-MicroSocket@0.05
 IPC::MicroSocket::Client            0.05  pkg:cpan/IPC-MicroSocket@0.05
 IPC::MicroSocket::Server            0.05  pkg:cpan/IPC-MicroSocket@0.05
@@ -134032,28 +134036,28 @@ MetaCPAN::API::Rating               0.52  pkg:cpan/MetaCPAN-API@0.52
 MetaCPAN::API::Release              0.52  pkg:cpan/MetaCPAN-API@0.52
 MetaCPAN::API::Source               0.52  pkg:cpan/MetaCPAN-API@0.52
 MetaCPAN::API::Tiny                1.150270  pkg:cpan/MetaCPAN-API-Tiny@1.150270
-MetaCPAN::Client                   2.041000  pkg:cpan/MetaCPAN-Client@2.041000
-MetaCPAN::Client::Author           2.041000  pkg:cpan/MetaCPAN-Client@2.041000
-MetaCPAN::Client::CVE              2.041000  pkg:cpan/MetaCPAN-Client@2.041000
-MetaCPAN::Client::Cover            2.041000  pkg:cpan/MetaCPAN-Client@2.041000
-MetaCPAN::Client::Distribution     2.041000  pkg:cpan/MetaCPAN-Client@2.041000
-MetaCPAN::Client::DownloadURL      2.041000  pkg:cpan/MetaCPAN-Client@2.041000
-MetaCPAN::Client::Favorite         2.041000  pkg:cpan/MetaCPAN-Client@2.041000
-MetaCPAN::Client::File             2.041000  pkg:cpan/MetaCPAN-Client@2.041000
-MetaCPAN::Client::Mirror           2.041000  pkg:cpan/MetaCPAN-Client@2.041000
-MetaCPAN::Client::Module           2.041000  pkg:cpan/MetaCPAN-Client@2.041000
-MetaCPAN::Client::Package          2.041000  pkg:cpan/MetaCPAN-Client@2.041000
-MetaCPAN::Client::Permission       2.041000  pkg:cpan/MetaCPAN-Client@2.041000
-MetaCPAN::Client::Pod              2.041000  pkg:cpan/MetaCPAN-Client@2.041000
+MetaCPAN::Client                   2.042000  pkg:cpan/MetaCPAN-Client@2.042000
+MetaCPAN::Client::Author           2.042000  pkg:cpan/MetaCPAN-Client@2.042000
+MetaCPAN::Client::Cover            2.042000  pkg:cpan/MetaCPAN-Client@2.042000
+MetaCPAN::Client::Cve              2.042000  pkg:cpan/MetaCPAN-Client@2.042000
+MetaCPAN::Client::Distribution     2.042000  pkg:cpan/MetaCPAN-Client@2.042000
+MetaCPAN::Client::DownloadURL      2.042000  pkg:cpan/MetaCPAN-Client@2.042000
+MetaCPAN::Client::Favorite         2.042000  pkg:cpan/MetaCPAN-Client@2.042000
+MetaCPAN::Client::File             2.042000  pkg:cpan/MetaCPAN-Client@2.042000
+MetaCPAN::Client::Mirror           2.042000  pkg:cpan/MetaCPAN-Client@2.042000
+MetaCPAN::Client::Module           2.042000  pkg:cpan/MetaCPAN-Client@2.042000
+MetaCPAN::Client::Package          2.042000  pkg:cpan/MetaCPAN-Client@2.042000
+MetaCPAN::Client::Permission       2.042000  pkg:cpan/MetaCPAN-Client@2.042000
+MetaCPAN::Client::Pod              2.042000  pkg:cpan/MetaCPAN-Client@2.042000
 MetaCPAN::Client::Pod::PDF          0.05  pkg:cpan/MetaCPAN-Client-Pod-PDF@0.05
 MetaCPAN::Client::Rating           2.040000  pkg:cpan/MetaCPAN-Client@2.040000
-MetaCPAN::Client::Release          2.041000  pkg:cpan/MetaCPAN-Client@2.041000
-MetaCPAN::Client::Request          2.041000  pkg:cpan/MetaCPAN-Client@2.041000
-MetaCPAN::Client::ResultSet        2.041000  pkg:cpan/MetaCPAN-Client@2.041000
-MetaCPAN::Client::Role::Entity     2.041000  pkg:cpan/MetaCPAN-Client@2.041000
-MetaCPAN::Client::Role::HasUA      2.041000  pkg:cpan/MetaCPAN-Client@2.041000
-MetaCPAN::Client::Scroll           2.041000  pkg:cpan/MetaCPAN-Client@2.041000
-MetaCPAN::Client::Types            2.041000  pkg:cpan/MetaCPAN-Client@2.041000
+MetaCPAN::Client::Release          2.042000  pkg:cpan/MetaCPAN-Client@2.042000
+MetaCPAN::Client::Request          2.042000  pkg:cpan/MetaCPAN-Client@2.042000
+MetaCPAN::Client::ResultSet        2.042000  pkg:cpan/MetaCPAN-Client@2.042000
+MetaCPAN::Client::Role::Entity     2.042000  pkg:cpan/MetaCPAN-Client@2.042000
+MetaCPAN::Client::Role::HasUA      2.042000  pkg:cpan/MetaCPAN-Client@2.042000
+MetaCPAN::Client::Scroll           2.042000  pkg:cpan/MetaCPAN-Client@2.042000
+MetaCPAN::Client::Types            2.042000  pkg:cpan/MetaCPAN-Client@2.042000
 MetaCPAN::Clients                   1.00  pkg:cpan/MetaCPAN-Clients@1.00
 MetaCPAN::Helper                    0.04  pkg:cpan/MetaCPAN-Helper@0.04
 MetaCPAN::Moose                    0.000003  pkg:cpan/MetaCPAN-Moose@0.000003
@@ -219710,7 +219714,7 @@ SockJS::Transport::WebSocket       undef  pkg:cpan/SockJS@0.10
 SockJS::Transport::XHRPolling      undef  pkg:cpan/SockJS@0.10
 SockJS::Transport::XHRSend         undef  pkg:cpan/SockJS@0.10
 SockJS::Transport::XHRStreaming    undef  pkg:cpan/SockJS@0.10
-Socket                             2.040  pkg:cpan/Socket@2.040
+Socket                             2.041  pkg:cpan/Socket@2.041
 Socket6                             0.29  pkg:cpan/Socket6@0.29
 Socket::AcceptFilter                0.03  pkg:cpan/Socket-AcceptFilter@0.03
 Socket::Class                      2.258  pkg:cpan/Socket-Class@2.258
