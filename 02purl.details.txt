@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 25 Apr 2026 22:30:03 GMT
-Line-Count: 263913
+Last-Updated: Sun, 26 Apr 2026 02:05:42 GMT
+Line-Count: 263914
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -8866,6 +8866,7 @@ App::Caoliu                            1  pkg:cpan/App-Caoliu@1.0
 App::Caoliu::Downloader            undef  pkg:cpan/App-Caoliu@1.0
 App::Caoliu::Parser                undef  pkg:cpan/App-Caoliu@1.0
 App::Caoliu::Utils                 undef  pkg:cpan/App-Caoliu@1.0
+App::CaseUtils                     0.001  pkg:cpan/App-CaseUtils@0.001
 App::CatalystStarter::Bloated      v0.9.3  pkg:cpan/App-CatalystStarter-Bloated@v0.9.3
 App::CatalystStarter::Bloated::Initializr v0.9.1  pkg:cpan/App-CatalystStarter-Bloated@v0.9.1
 App::CdUtils                       0.015  pkg:cpan/App-CdUtils@0.015
@@ -161980,7 +161981,7 @@ Params::Dry::Types::Number         1.2003  pkg:cpan/Params-Dry@1.2003
 Params::Dry::Types::Object         1.2003  pkg:cpan/Params-Dry@1.2003
 Params::Dry::Types::Ref            1.2003  pkg:cpan/Params-Dry@1.2003
 Params::Dry::Types::String         1.2003  pkg:cpan/Params-Dry@1.2003
-Params::Filter                     0.017001  pkg:cpan/Params-Filter@0.017001
+Params::Filter                     0.018  pkg:cpan/Params-Filter@0.018
 Params::Get                         0.13  pkg:cpan/Params-Get@0.13
 Params::Lazy                       0.005  pkg:cpan/Params-Lazy@0.005
 Params::Named                        1.0  pkg:cpan/Params-Named@1.0.2
