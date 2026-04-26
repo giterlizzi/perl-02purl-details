@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 26 Apr 2026 12:51:50 GMT
-Line-Count: 263922
+Last-Updated: Sun, 26 Apr 2026 14:38:12 GMT
+Line-Count: 263931
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -15349,39 +15349,44 @@ App::cpanreports                   0.004  pkg:cpan/App-cpanreports@0.004
 App::cpantested                    0.003  pkg:cpan/App-cpantested@0.003
 App::cpanthanks                     0.03  pkg:cpan/App-cpanthanks@0.03
 App::cpantimes                     1.502101  pkg:cpan/App-cpantimes@1.502101
-App::cpm                           0.998003  pkg:cpan/App-cpm@0.998003
-App::cpm::Builder::Static          undef  pkg:cpan/App-cpm@0.998003
-App::cpm::CLI                      undef  pkg:cpan/App-cpm@0.998003
-App::cpm::CircularDependency       undef  pkg:cpan/App-cpm@0.998003
-App::cpm::Context                  undef  pkg:cpan/App-cpm@0.998003
-App::cpm::DistNotation             undef  pkg:cpan/App-cpm@0.998003
-App::cpm::Distribution             undef  pkg:cpan/App-cpm@0.998003
-App::cpm::HTTP                     undef  pkg:cpan/App-cpm@0.998003
-App::cpm::Installer::Unpacker      undef  pkg:cpan/App-cpm@0.998003
+App::cpm                           v1.0.0  pkg:cpan/App-cpm@v1.0.0
+App::cpm::Builder::Base            undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::Builder::EUMM            undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::Builder::MB              undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::Builder::Prebuilt        undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::Builder::Static          undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::CLI                      undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::CircularDependency       undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::Context                  undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::DistNotation             undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::Distribution             undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::HTTP                     undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::Installer::Unpacker      undef  pkg:cpan/App-cpm@v1.0.0
 App::cpm::Job                      undef  pkg:cpan/App-cpm@0.997003
-App::cpm::Logger                   undef  pkg:cpan/App-cpm@0.998003
-App::cpm::Logger::File             undef  pkg:cpan/App-cpm@0.998003
-App::cpm::Master                   undef  pkg:cpan/App-cpm@0.998003
-App::cpm::Requirement              undef  pkg:cpan/App-cpm@0.998003
-App::cpm::Resolver                 undef  pkg:cpan/App-cpm@0.998003
-App::cpm::Resolver::02Packages     undef  pkg:cpan/App-cpm@0.998003
+App::cpm::Logger                   undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::Logger::File             undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::Logger::Terminal         undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::Master                   undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::Requirement              undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::Resolver                 undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::Resolver::02Packages     undef  pkg:cpan/App-cpm@v1.0.0
 App::cpm::Resolver::CPANfile       undef  pkg:cpan/App-cpm@0.997005
-App::cpm::Resolver::Cascade        undef  pkg:cpan/App-cpm@0.998003
-App::cpm::Resolver::Custom         undef  pkg:cpan/App-cpm@0.998003
-App::cpm::Resolver::Fixed          undef  pkg:cpan/App-cpm@0.998003
-App::cpm::Resolver::MetaCPAN       undef  pkg:cpan/App-cpm@0.998003
-App::cpm::Resolver::MetaDB         undef  pkg:cpan/App-cpm@0.998003
-App::cpm::Resolver::Snapshot       undef  pkg:cpan/App-cpm@0.998003
-App::cpm::Task                     undef  pkg:cpan/App-cpm@0.998003
-App::cpm::Tutorial                 undef  pkg:cpan/App-cpm@0.998003
-App::cpm::Util                     undef  pkg:cpan/App-cpm@0.998003
-App::cpm::Worker                   undef  pkg:cpan/App-cpm@0.998003
-App::cpm::Worker::Installer        undef  pkg:cpan/App-cpm@0.998003
+App::cpm::Resolver::Cascade        undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::Resolver::Custom         undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::Resolver::Fixed          undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::Resolver::MetaCPAN       undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::Resolver::MetaDB         undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::Resolver::Snapshot       undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::Task                     undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::Tutorial                 undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::Util                     undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::Worker                   undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::Worker::Installer        undef  pkg:cpan/App-cpm@v1.0.0
 App::cpm::Worker::Installer::Menlo undef  pkg:cpan/App-cpm@0.997024
-App::cpm::Worker::Installer::Prebuilt undef  pkg:cpan/App-cpm@0.998003
-App::cpm::Worker::Resolver         undef  pkg:cpan/App-cpm@0.998003
+App::cpm::Worker::Installer::Prebuilt undef  pkg:cpan/App-cpm@v1.0.0
+App::cpm::Worker::Resolver         undef  pkg:cpan/App-cpm@v1.0.0
 App::cpm::file                     undef  pkg:cpan/App-cpm@0.997004
-App::cpm::version                  undef  pkg:cpan/App-cpm@0.998003
+App::cpm::version                  undef  pkg:cpan/App-cpm@v1.0.0
 App::cpx                            0.04  pkg:cpan/App-cpx@0.04
 App::crosstable                    0.110  pkg:cpan/App-crosstable@0.110
 App::cryp::Cmd::Exchange::accounts 0.012  pkg:cpan/App-cryp-exchange@0.012
@@ -21414,6 +21419,10 @@ BACnet::ServiceRequestSequences::SubscribeCOV undef  pkg:cpan/BACnet@0.08
 BACnet::ServiceRequestSequences::Utils undef  pkg:cpan/BACnet@0.08
 BACnet::Socket                     undef  pkg:cpan/BACnet@0.08
 BACnet::Subscription               undef  pkg:cpan/BACnet@0.08
+BATsh                               0.01  pkg:cpan/BATsh@0.01
+BATsh::CMD                          0.01  pkg:cpan/BATsh@0.01
+BATsh::Env                          0.01  pkg:cpan/BATsh@0.01
+BATsh::SH                           0.01  pkg:cpan/BATsh@0.01
 BBBB                               undef  pkg:cpan/Data-Table-Text@20210818
 BBCode::Body                        0.34  pkg:cpan/BBCode-Parser@0.34
 BBCode::Parser                      0.34  pkg:cpan/BBCode-Parser@0.34
@@ -56734,7 +56743,7 @@ Data::Bind::Sig                     0.30  pkg:cpan/Data-Bind@0.30
 Data::Bind::SigCollection           0.30  pkg:cpan/Data-Bind@0.30
 Data::Binder                           1  pkg:cpan/Data-Binder@1
 Data::BitMask                       1.00  pkg:cpan/Data-BitMask@1.00
-Data::BitSet::Shared                0.01  pkg:cpan/Data-BitSet-Shared@0.01
+Data::BitSet::Shared                0.02  pkg:cpan/Data-BitSet-Shared@0.02
 Data::BitStream                     0.08  pkg:cpan/Data-BitStream@0.08
 Data::BitStream::BLVec              0.08  pkg:cpan/Data-BitStream@0.08
 Data::BitStream::Base               0.08  pkg:cpan/Data-BitStream@0.08
@@ -56769,18 +56778,18 @@ Data::Bool                         2.98014  pkg:cpan/Data-Bool@2.98014
 Data::Bool::Impl                   2.98014  pkg:cpan/Data-Bool@2.98014
 Data::Bucketeer                    0.006  pkg:cpan/Data-Bucketeer@0.006
 Data::Buffer                        0.06  pkg:cpan/Data-Buffer@0.06
-Data::Buffer::Shared                0.02  pkg:cpan/Data-Buffer-Shared@0.02
-Data::Buffer::Shared::F32           0.01  pkg:cpan/Data-Buffer-Shared@0.02
-Data::Buffer::Shared::F64           0.01  pkg:cpan/Data-Buffer-Shared@0.02
-Data::Buffer::Shared::I16           0.01  pkg:cpan/Data-Buffer-Shared@0.02
-Data::Buffer::Shared::I32           0.01  pkg:cpan/Data-Buffer-Shared@0.02
-Data::Buffer::Shared::I64           0.01  pkg:cpan/Data-Buffer-Shared@0.02
-Data::Buffer::Shared::I8            0.01  pkg:cpan/Data-Buffer-Shared@0.02
-Data::Buffer::Shared::Str           0.01  pkg:cpan/Data-Buffer-Shared@0.02
-Data::Buffer::Shared::U16           0.01  pkg:cpan/Data-Buffer-Shared@0.02
-Data::Buffer::Shared::U32           0.01  pkg:cpan/Data-Buffer-Shared@0.02
-Data::Buffer::Shared::U64           0.01  pkg:cpan/Data-Buffer-Shared@0.02
-Data::Buffer::Shared::U8            0.01  pkg:cpan/Data-Buffer-Shared@0.02
+Data::Buffer::Shared                0.03  pkg:cpan/Data-Buffer-Shared@0.03
+Data::Buffer::Shared::F32           0.03  pkg:cpan/Data-Buffer-Shared@0.03
+Data::Buffer::Shared::F64           0.03  pkg:cpan/Data-Buffer-Shared@0.03
+Data::Buffer::Shared::I16           0.03  pkg:cpan/Data-Buffer-Shared@0.03
+Data::Buffer::Shared::I32           0.03  pkg:cpan/Data-Buffer-Shared@0.03
+Data::Buffer::Shared::I64           0.03  pkg:cpan/Data-Buffer-Shared@0.03
+Data::Buffer::Shared::I8            0.03  pkg:cpan/Data-Buffer-Shared@0.03
+Data::Buffer::Shared::Str           0.03  pkg:cpan/Data-Buffer-Shared@0.03
+Data::Buffer::Shared::U16           0.03  pkg:cpan/Data-Buffer-Shared@0.03
+Data::Buffer::Shared::U32           0.03  pkg:cpan/Data-Buffer-Shared@0.03
+Data::Buffer::Shared::U64           0.03  pkg:cpan/Data-Buffer-Shared@0.03
+Data::Buffer::Shared::U8            0.03  pkg:cpan/Data-Buffer-Shared@0.03
 Data::Bvec                          1.01  pkg:cpan/Data-Bvec@1.01
 Data::BytesLocker                  v1.0.8.0  pkg:cpan/Crypt-NaCl-Sodium@1.0.8.0
 Data::CEFACT::Unit                  0.01  pkg:cpan/Data-CEFACT-Unit@0.01
@@ -59772,7 +59781,7 @@ Data::Riak::Types                    2.0  pkg:cpan/Data-Riak@2.0
 Data::Riak::Util::MapCount           2.0  pkg:cpan/Data-Riak@2.0
 Data::Riak::Util::ReduceCount        2.0  pkg:cpan/Data-Riak@2.0
 Data::RingBuffer                    0.02  pkg:cpan/Data-RingBuffer@0.02
-Data::RingBuffer::Shared            0.01  pkg:cpan/Data-RingBuffer-Shared@0.01
+Data::RingBuffer::Shared            0.02  pkg:cpan/Data-RingBuffer-Shared@0.02
 Data::RingBuffer::Time              0.02  pkg:cpan/Data-RingBuffer-Time@0.02
 Data::Rlist                         1.44  pkg:cpan/Data-Rlist@1.44
 Data::Rmap                          0.65  pkg:cpan/Data-Rmap@0.65
@@ -209971,7 +209980,7 @@ SVG::VCD::Taxon                    undef  pkg:cpan/SVG-VCD@0.4
 SVG::XML                            2.89  pkg:cpan/SVG@2.89
 SVGExtension                        1.06  pkg:cpan/svg-svg2zinc@0.10
 SVGGraph                            0.07  pkg:cpan/SVGGraph@0.07
-SVGPDF                             v0.92.3  pkg:cpan/SVGPDF@0.092.3
+SVGPDF                             1.000  pkg:cpan/SVGPDF@1.000
 SVGraph                             0.02  pkg:cpan/SVGraph@0.02
 SVK                                v2.2.3  pkg:cpan/SVK@v2.2.3
 SVK::Accessor                      undef  pkg:cpan/SVK@v2.2.3
@@ -253729,7 +253738,7 @@ Wordsmith::Claude::Blog::Reviewer::Interactive undef  pkg:cpan/Wordsmith-Claude@
 Wordsmith::Claude::Mode            undef  pkg:cpan/Wordsmith-Claude@0.02
 Wordsmith::Claude::Options         undef  pkg:cpan/Wordsmith-Claude@0.02
 Wordsmith::Claude::Result          undef  pkg:cpan/Wordsmith-Claude@0.02
-WorePAN                             0.18  pkg:cpan/WorePAN@0.18
+WorePAN                             0.19  pkg:cpan/WorePAN@0.19
 Worker::Test                       undef  pkg:cpan/Qudo-Parallel-Manager@0.06
 WorkerManager                      0.1002  pkg:cpan/WorkerManager@0.1002
 WorkerManager::Client::Gearman     undef  pkg:cpan/WorkerManager-Gearman@0.1000
