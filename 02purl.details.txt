@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 27 Apr 2026 17:16:10 GMT
+Last-Updated: Mon, 27 Apr 2026 19:08:03 GMT
 Line-Count: 263942
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -4813,7 +4813,7 @@ Alien::cargo::clone                 0.02  pkg:cpan/Alien-cargo-clone@0.02
 Alien::castxml                      0.02  pkg:cpan/Alien-castxml@0.02
 Alien::chromaprint                  0.02  pkg:cpan/Alien-chromaprint@0.02
 Alien::cmake3                       0.10  pkg:cpan/Alien-cmake3@0.10
-Alien::cmake4                       0.02  pkg:cpan/Alien-cmake4@0.02
+Alien::cmake4                       0.03  pkg:cpan/Alien-cmake4@0.03
 Alien::cmark                       0.005  pkg:cpan/Alien-cmark@0.005
 Alien::cue                          0.01  pkg:cpan/Alien-cue@0.01
 Alien::curl                         0.11  pkg:cpan/Alien-curl@0.11
@@ -68877,7 +68877,7 @@ EV::Kafka::Conn                     0.01  pkg:cpan/EV-Kafka@0.01
 EV::Loop                           undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Loop::Async                     1.01  pkg:cpan/EV-Loop-Async@1.01
 EV::MakeMaker                      undef  pkg:cpan/EV@4.37
-EV::MariaDB                         0.04  pkg:cpan/EV-MariaDB@0.04
+EV::MariaDB                         0.06  pkg:cpan/EV-MariaDB@0.06
 EV::Memcached                       0.01  pkg:cpan/EV-Memcached@0.01
 EV::Nats                            0.01  pkg:cpan/EV-Nats@0.01
 EV::Nats::JetStream                undef  pkg:cpan/EV-Nats@0.01
@@ -82815,7 +82815,7 @@ Git::SVN::Prompt                   undef  pkg:cpan/Git@0.42
 Git::SVN::Ra                       undef  pkg:cpan/Git@0.42
 Git::SVN::Utils                    undef  pkg:cpan/Git@0.42
 Git::SVNReplay                     1.0214  pkg:cpan/Git-SVNReplay@1.0214
-Git::Server                        0.042  pkg:cpan/Git-Server@0.042
+Git::Server                        0.043  pkg:cpan/Git-Server@0.043
 Git::Status::Tackle                 0.01  pkg:cpan/Git-Status-Tackle@0.01
 Git::Status::Tackle::CompletedFeatureBranches undef  pkg:cpan/Git-Status-Tackle@0.01
 Git::Status::Tackle::IndexChanges  undef  pkg:cpan/Git-Status-Tackle@0.01
@@ -145901,9 +145901,9 @@ Net::CIDR::Lite::Span               0.23  pkg:cpan/Net-CIDR-Lite@0.23
 Net::CIDR::MobileJP                 0.24  pkg:cpan/Net-CIDR-MobileJP@0.24
 Net::CIDR::ORTC                     0.02  pkg:cpan/Net-CIDR-ORTC@0.02
 Net::CIDR::Overlap                 0.002000  pkg:cpan/Net-CIDR-Overlap@0.2.0
-Net::CIDR::Set                      0.19  pkg:cpan/Net-CIDR-Set@0.19
-Net::CIDR::Set::IPv4                0.19  pkg:cpan/Net-CIDR-Set@0.19
-Net::CIDR::Set::IPv6                0.19  pkg:cpan/Net-CIDR-Set@0.19
+Net::CIDR::Set                      0.20  pkg:cpan/Net-CIDR-Set@0.20
+Net::CIDR::Set::IPv4                0.20  pkg:cpan/Net-CIDR-Set@0.20
+Net::CIDR::Set::IPv6                0.20  pkg:cpan/Net-CIDR-Set@0.20
 Net::CLI::Interact                 2.400002  pkg:cpan/Net-CLI-Interact@2.400002
 Net::CLI::Interact::Action         2.400002  pkg:cpan/Net-CLI-Interact@2.400002
 Net::CLI::Interact::ActionSet      2.400002  pkg:cpan/Net-CLI-Interact@2.400002
@@ -200500,11 +200500,11 @@ Qgoda::Template::GitProvider       0.009008  pkg:cpan/Qgoda@0.9.8
 Qgoda::Util                        0.009008  pkg:cpan/Qgoda@0.9.8
 Qgoda::Util::Date                  0.009008  pkg:cpan/Qgoda@0.9.8
 Qgoda::Util::Translate             0.009008  pkg:cpan/Qgoda@0.9.8
-Qhull                               0.07  pkg:cpan/Qhull@0.07
-Qhull::Options                      0.07  pkg:cpan/Qhull@0.07
-Qhull::PP                           0.07  pkg:cpan/Qhull@0.07
-Qhull::Util                         0.07  pkg:cpan/Qhull@0.07
-Qhull::Util::Options                0.07  pkg:cpan/Qhull@0.07
+Qhull                               0.08  pkg:cpan/Qhull@0.08
+Qhull::Options                      0.08  pkg:cpan/Qhull@0.08
+Qhull::PP                           0.08  pkg:cpan/Qhull@0.08
+Qhull::Util                         0.08  pkg:cpan/Qhull@0.08
+Qhull::Util::Options                0.08  pkg:cpan/Qhull@0.08
 Qiime2::Artifact                   v0.14.0  pkg:cpan/Qiime2-Artifact@0.14.0
 Qiniu::Auth                         0.05  pkg:cpan/Qiniu@0.07
 Qiniu::Storage                      0.06  pkg:cpan/Qiniu@0.07
@@ -256573,7 +256573,7 @@ XML::Perl2SAX                       0.08  pkg:cpan/libxml-perl@0.08
 XML::Printer::ESCPOS                0.06  pkg:cpan/XML-Printer-ESCPOS@0.06
 XML::Printer::ESCPOS::Debug         0.06  pkg:cpan/XML-Printer-ESCPOS@0.06
 XML::Printer::ESCPOS::Tags          0.06  pkg:cpan/XML-Printer-ESCPOS@0.06
-XML::PugiXML                        0.04  pkg:cpan/XML-PugiXML@0.04
+XML::PugiXML                        0.05  pkg:cpan/XML-PugiXML@0.05
 XML::QL                             0.07  pkg:cpan/XML-QL@0.07
 XML::QL::Search                     0.07  pkg:cpan/XML-QL@0.07
 XML::QL::Where                      0.07  pkg:cpan/XML-QL@0.07
