@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 27 Apr 2026 10:08:23 GMT
+Last-Updated: Mon, 27 Apr 2026 13:24:35 GMT
 Line-Count: 263942
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -68884,9 +68884,9 @@ EV::Nats::JetStream                undef  pkg:cpan/EV-Nats@0.01
 EV::Nats::KV                       undef  pkg:cpan/EV-Nats@0.01
 EV::Nats::ObjectStore              undef  pkg:cpan/EV-Nats@0.01
 EV::Periodic                       undef  pkg:cpan/App-SimpleBackuper@0.2.22
-EV::Pg                              0.03  pkg:cpan/EV-Pg@0.04
+EV::Pg                              0.05  pkg:cpan/EV-Pg@0.05
 EV::Prepare                        undef  pkg:cpan/App-SimpleBackuper@0.2.22
-EV::Redis                           0.09  pkg:cpan/EV-Redis@0.09
+EV::Redis                           0.10  pkg:cpan/EV-Redis@0.10
 EV::Signal                         undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Stat                           undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Timer                          undef  pkg:cpan/App-SimpleBackuper@0.2.22
@@ -161912,7 +161912,7 @@ Parallel::Async::Task              undef  pkg:cpan/Parallel-Async@0.03
 Parallel::Batch                     0.04  pkg:cpan/Parallel-Batch@0.04
 Parallel::Benchmark                 0.11  pkg:cpan/Parallel-Benchmark@0.11
 Parallel::Boss                      0.03  pkg:cpan/Parallel-Boss@0.03
-Parallel::DataPipe                  0.12  pkg:cpan/Parallel-DataPipe@0.12
+Parallel::DataPipe                  0.14  pkg:cpan/Parallel-DataPipe@0.14
 Parallel::Downloader               0.132071  pkg:cpan/Parallel-Downloader@0.132071
 Parallel::Dragons                  0.009004  pkg:cpan/Parallel-Dragons@0.9.4
 Parallel::Fork::BossWorker          0.05  pkg:cpan/Parallel-Fork-BossWorker@0.05
