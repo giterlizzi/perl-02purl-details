@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 26 Apr 2026 22:31:19 GMT
+Last-Updated: Mon, 27 Apr 2026 02:08:01 GMT
 Line-Count: 263942
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -19880,24 +19880,24 @@ Async::Microservice::HelloWorld    undef  pkg:cpan/Async-Microservice@0.08
 Async::Microservice::Time           0.08  pkg:cpan/Async-Microservice@0.08
 Async::MicroserviceReq              0.08  pkg:cpan/Async-Microservice@0.08
 Async::Queue                       0.021  pkg:cpan/Async-Queue@0.021
-Async::Redis                       0.001007  pkg:cpan/Async-Redis@0.001007
-Async::Redis::AutoPipeline         undef  pkg:cpan/Async-Redis@0.001007
-Async::Redis::Commands             undef  pkg:cpan/Async-Redis@0.001007
-Async::Redis::Error                0.001  pkg:cpan/Async-Redis@0.001007
-Async::Redis::Error::Connection    0.001  pkg:cpan/Async-Redis@0.001007
-Async::Redis::Error::Disconnected  0.001  pkg:cpan/Async-Redis@0.001007
-Async::Redis::Error::Protocol      0.001  pkg:cpan/Async-Redis@0.001007
-Async::Redis::Error::Redis         0.001  pkg:cpan/Async-Redis@0.001007
-Async::Redis::Error::Timeout       0.001  pkg:cpan/Async-Redis@0.001007
-Async::Redis::Iterator             undef  pkg:cpan/Async-Redis@0.001007
-Async::Redis::KeyExtractor         undef  pkg:cpan/Async-Redis@0.001007
-Async::Redis::Pipeline             undef  pkg:cpan/Async-Redis@0.001007
-Async::Redis::Pool                 0.001  pkg:cpan/Async-Redis@0.001007
-Async::Redis::Script               undef  pkg:cpan/Async-Redis@0.001007
-Async::Redis::Subscription         0.001  pkg:cpan/Async-Redis@0.001007
-Async::Redis::Telemetry            0.001  pkg:cpan/Async-Redis@0.001007
-Async::Redis::Transaction          undef  pkg:cpan/Async-Redis@0.001007
-Async::Redis::URI                  0.001  pkg:cpan/Async-Redis@0.001007
+Async::Redis                       0.002000  pkg:cpan/Async-Redis@0.002000
+Async::Redis::AutoPipeline         undef  pkg:cpan/Async-Redis@0.002000
+Async::Redis::Commands             undef  pkg:cpan/Async-Redis@0.002000
+Async::Redis::Error                undef  pkg:cpan/Async-Redis@0.002000
+Async::Redis::Error::Connection    undef  pkg:cpan/Async-Redis@0.002000
+Async::Redis::Error::Disconnected  undef  pkg:cpan/Async-Redis@0.002000
+Async::Redis::Error::Protocol      undef  pkg:cpan/Async-Redis@0.002000
+Async::Redis::Error::Redis         undef  pkg:cpan/Async-Redis@0.002000
+Async::Redis::Error::Timeout       undef  pkg:cpan/Async-Redis@0.002000
+Async::Redis::Iterator             undef  pkg:cpan/Async-Redis@0.002000
+Async::Redis::KeyExtractor         undef  pkg:cpan/Async-Redis@0.002000
+Async::Redis::Pipeline             undef  pkg:cpan/Async-Redis@0.002000
+Async::Redis::Pool                 undef  pkg:cpan/Async-Redis@0.002000
+Async::Redis::Script               undef  pkg:cpan/Async-Redis@0.002000
+Async::Redis::Subscription         undef  pkg:cpan/Async-Redis@0.002000
+Async::Redis::Telemetry            undef  pkg:cpan/Async-Redis@0.002000
+Async::Redis::Transaction          undef  pkg:cpan/Async-Redis@0.002000
+Async::Redis::URI                  undef  pkg:cpan/Async-Redis@0.002000
 Async::ResourcePool                v0.1.3  pkg:cpan/Async-ResourcePool@v0.1.3
 Async::Selector                     1.03  pkg:cpan/Async-Selector@1.03
 Async::Selector::Aggregator         1.02  pkg:cpan/Async-Selector@1.03
@@ -47149,8 +47149,8 @@ Command::Common                    undef  pkg:cpan/UR@0.47
 Command::DynamicSubCommands        undef  pkg:cpan/UR@0.47
 Command::Interactive                 1.4  pkg:cpan/Command-Interactive@1.4
 Command::Interactive::Interaction   1.21  pkg:cpan/Command-Interactive@1.21
-Command::Run                       0.9903  pkg:cpan/Command-Run@0.9903
-Command::Run::Tmpfile              undef  pkg:cpan/Command-Run@0.9903
+Command::Run                        1.00  pkg:cpan/Command-Run@1.00
+Command::Run::Tmpfile              undef  pkg:cpan/Command-Run@1.00
 Command::Runner                    0.201  pkg:cpan/Command-Runner@0.201
 Command::Runner::Format            undef  pkg:cpan/Command-Runner@0.200
 Command::Runner::LineBuffer        undef  pkg:cpan/Command-Runner@0.201
@@ -233566,7 +233566,7 @@ Time::StasisField                   0.01  pkg:cpan/Time-StasisField@0.01
 Time::Stats                          1.0  pkg:cpan/Time-Stats@1.0?ext=tgz
 Time::StopWatchWithMessage          0.06  pkg:cpan/Time-StopWatchWithMessage@0.06
 Time::Stopwatch                     1.00  pkg:cpan/Time-Stopwatch@1.00
-Time::Str                           0.01  pkg:cpan/Time-Str@0.01
+Time::Str                           0.02  pkg:cpan/Time-Str@0.02
 Time::Strptime                      1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::Format              1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::TimeZone           undef  pkg:cpan/Time-Strptime@1.04
