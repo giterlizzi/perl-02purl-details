@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 28 Apr 2026 21:01:44 GMT
-Line-Count: 263943
+Last-Updated: Tue, 28 Apr 2026 22:50:17 GMT
+Line-Count: 263944
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -64973,58 +64973,59 @@ Devel::throttle                     0.01  pkg:cpan/Devel-throttle@0.01
 Devel::tkdb                          2.4  pkg:cpan/Devel-tkdb@2.4
 Devel::tvdb                        undef  pkg:cpan/TVision@0.29
 Devel::vscode                       0.02  pkg:cpan/Devel-vscode@0.02
-Developer::Dashboard                3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::ActionRunner  3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::Auth          3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::CLI::Complete  3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::CLI::Files    3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::CLI::OpenFile  3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::CLI::Paths    3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::CLI::Progress  3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::CLI::Query    3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::CLI::SeededPages  3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::CLI::Skills   3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::CLI::Suggest  3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::CLI::Ticket   3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::CLI::Which    3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::Codec         3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::Collector     3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::CollectorRunner  3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::Config        3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::DataHelper    3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::DockerCompose  3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::Doctor        3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::EnvAudit      3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::EnvLoader     3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::File          3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::FileRegistry  3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::Folder        3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::Housekeeper   3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::IndicatorStore  3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::InternalCLI   3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::JSON          3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::PageDocument  3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::PageResolver  3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::PageRuntime   3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::PageRuntime::StreamHandle  3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::PageStore     3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::PathRegistry  3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::Platform      3.14  pkg:cpan/Developer-Dashboard@3.14
+Developer::Dashboard                3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::ActionRunner  3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::Auth          3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::CLI::Complete  3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::CLI::Files    3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::CLI::OpenFile  3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::CLI::Paths    3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::CLI::Progress  3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::CLI::Query    3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::CLI::RuntimeControl  3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::CLI::SeededPages  3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::CLI::Skills   3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::CLI::Suggest  3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::CLI::Ticket   3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::CLI::Which    3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::Codec         3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::Collector     3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::CollectorRunner  3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::Config        3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::DataHelper    3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::DockerCompose  3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::Doctor        3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::EnvAudit      3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::EnvLoader     3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::File          3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::FileRegistry  3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::Folder        3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::Housekeeper   3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::IndicatorStore  3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::InternalCLI   3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::JSON          3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::PageDocument  3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::PageResolver  3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::PageRuntime   3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::PageRuntime::StreamHandle  3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::PageStore     3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::PathRegistry  3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::Platform      3.16  pkg:cpan/Developer-Dashboard@3.16
 Developer::Dashboard::PluginManager  0.89  pkg:cpan/Developer-Dashboard@0.89
-Developer::Dashboard::Prompt        3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::Runtime::Result  3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::RuntimeManager  3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::SKILLS        3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::SeedSync      3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::SessionStore  3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::SkillDispatcher  3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::SkillManager  3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::UpdateManager  3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::Web::App      3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::Web::DancerApp  3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::Web::Server   3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::Web::Server::Daemon  3.14  pkg:cpan/Developer-Dashboard@3.14
-Developer::Dashboard::Zipper        3.14  pkg:cpan/Developer-Dashboard@3.14
+Developer::Dashboard::Prompt        3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::Runtime::Result  3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::RuntimeManager  3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::SKILLS        3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::SeedSync      3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::SessionStore  3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::SkillDispatcher  3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::SkillManager  3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::UpdateManager  3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::Web::App      3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::Web::DancerApp  3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::Web::Server   3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::Web::Server::Daemon  3.16  pkg:cpan/Developer-Dashboard@3.16
+Developer::Dashboard::Zipper        3.16  pkg:cpan/Developer-Dashboard@3.16
 Device::AVR::Info                   0.03  pkg:cpan/Device-AVR-Info@0.03
 Device::AVR::Info::Module           0.03  pkg:cpan/Device-AVR-Info@0.03
 Device::AVR::UPDI                   0.19  pkg:cpan/Device-AVR-UPDI@0.19
