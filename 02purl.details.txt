@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 28 Apr 2026 16:04:08 GMT
+Last-Updated: Tue, 28 Apr 2026 19:24:07 GMT
 Line-Count: 263943
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -59259,7 +59259,7 @@ Data::Password::zxcvbn::RankedDictionaries::English undef  pkg:cpan/Data-Passwor
 Data::Password::zxcvbn::RankedDictionaries::French undef  pkg:cpan/Data-Password-zxcvbn-French@1.0.2
 Data::Password::zxcvbn::RankedDictionaries::German undef  pkg:cpan/Data-Password-zxcvbn-German@1.0.2
 Data::Password::zxcvbn::TimeEstimate 1.001003  pkg:cpan/Data-Password-zxcvbn@1.1.3
-Data::Path::XS                      0.02  pkg:cpan/Data-Path-XS@0.02
+Data::Path::XS                      0.03  pkg:cpan/Data-Path-XS@0.03
 Data::PathSimple                   2.000001  pkg:cpan/Data-PathSimple@v2.0.1
 Data::PatternCompare                0.04  pkg:cpan/Data-PatternCompare@0.04
 Data::PatternCompare::Any           0.04  pkg:cpan/Data-PatternCompare@0.04
@@ -155052,9 +155052,9 @@ OSGi::Osgish::CommandHandler           0  pkg:cpan/osgish@v0.3.1
 OSGi::Osgish::CompletionHandler        0  pkg:cpan/osgish@v0.3.1
 OSGi::Osgish::ServerHandler            0  pkg:cpan/osgish@v0.3.1
 OSGi::Osgish::Shell                    0  pkg:cpan/osgish@v0.3.1
-OSLV::Monitor                      1.000002  pkg:cpan/OSLV-Monitor@1.0.2
-OSLV::Monitor::Backends::FreeBSD   0.000004  pkg:cpan/OSLV-Monitor@1.0.2
-OSLV::Monitor::Backends::cgroups   1.000002  pkg:cpan/OSLV-Monitor@1.0.2
+OSLV::Monitor                      1.000003  pkg:cpan/OSLV-Monitor@1.0.3
+OSLV::Monitor::Backends::FreeBSD   0.000004  pkg:cpan/OSLV-Monitor@1.0.3
+OSLV::Monitor::Backends::cgroups   1.000003  pkg:cpan/OSLV-Monitor@1.0.3
 OSPF::LSDB                          1.18  pkg:cpan/OSPF-LSDB@1.18
 OSPF::LSDB::Cisco                  undef  pkg:cpan/OSPF-LSDB@1.18
 OSPF::LSDB::View                   undef  pkg:cpan/OSPF-LSDB@1.18
