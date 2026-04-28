@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 28 Apr 2026 19:24:07 GMT
+Last-Updated: Tue, 28 Apr 2026 21:01:44 GMT
 Line-Count: 263943
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -9334,18 +9334,18 @@ App::Cleo                          0.004  pkg:cpan/App-Cleo@0.004
 App::Cleo::Patra                   0.001  pkg:cpan/App-Cleo-Patra@0.001
 App::ClipboardUtils                0.014  pkg:cpan/App-ClipboardUtils@0.014
 App::CloudTrail                        0  pkg:cpan/App-FargateStack@1.0.50
-App::ClusterSSH                    4.180  pkg:cpan/App-ClusterSSH@4.18
-App::ClusterSSH::Base               4.18  pkg:cpan/App-ClusterSSH@4.18
-App::ClusterSSH::Cluster            4.18  pkg:cpan/App-ClusterSSH@4.18
-App::ClusterSSH::Config             4.18  pkg:cpan/App-ClusterSSH@4.18
-App::ClusterSSH::Getopt             4.18  pkg:cpan/App-ClusterSSH@4.18
-App::ClusterSSH::Helper             4.18  pkg:cpan/App-ClusterSSH@4.18
-App::ClusterSSH::Host               4.18  pkg:cpan/App-ClusterSSH@4.18
-App::ClusterSSH::L10N               4.18  pkg:cpan/App-ClusterSSH@4.18
-App::ClusterSSH::L10N::en           4.18  pkg:cpan/App-ClusterSSH@4.18
-App::ClusterSSH::Range              4.18  pkg:cpan/App-ClusterSSH@4.18
-App::ClusterSSH::Window             4.18  pkg:cpan/App-ClusterSSH@4.18
-App::ClusterSSH::Window::Tk         4.18  pkg:cpan/App-ClusterSSH@4.18
+App::ClusterSSH                    4.190  pkg:cpan/App-ClusterSSH@4.19
+App::ClusterSSH::Base               4.19  pkg:cpan/App-ClusterSSH@4.19
+App::ClusterSSH::Cluster            4.19  pkg:cpan/App-ClusterSSH@4.19
+App::ClusterSSH::Config             4.19  pkg:cpan/App-ClusterSSH@4.19
+App::ClusterSSH::Getopt             4.19  pkg:cpan/App-ClusterSSH@4.19
+App::ClusterSSH::Helper             4.19  pkg:cpan/App-ClusterSSH@4.19
+App::ClusterSSH::Host               4.19  pkg:cpan/App-ClusterSSH@4.19
+App::ClusterSSH::L10N               4.19  pkg:cpan/App-ClusterSSH@4.19
+App::ClusterSSH::L10N::en           4.19  pkg:cpan/App-ClusterSSH@4.19
+App::ClusterSSH::Range              4.19  pkg:cpan/App-ClusterSSH@4.19
+App::ClusterSSH::Window             4.19  pkg:cpan/App-ClusterSSH@4.19
+App::ClusterSSH::Window::Tk         4.19  pkg:cpan/App-ClusterSSH@4.19
 App::Cmd                           0.340  pkg:cpan/App-Cmd@0.340
 App::Cmd::ArgProcessor             0.340  pkg:cpan/App-Cmd@0.340
 App::Cmd::Command                  0.340  pkg:cpan/App-Cmd@0.340
@@ -103797,9 +103797,9 @@ Graphics::Fig::Parameters          1.000008  pkg:cpan/Graphics-Fig@v1.0.8
 Graphics::Fig::Polyline            1.000008  pkg:cpan/Graphics-Fig@v1.0.8
 Graphics::Fig::Spline              1.000008  pkg:cpan/Graphics-Fig@v1.0.8
 Graphics::Fig::Text                1.000008  pkg:cpan/Graphics-Fig@v1.0.8
-Graphics::Framebuffer               6.99  pkg:cpan/Graphics-Framebuffer@6.99
-Graphics::Framebuffer::Mouse        0.03  pkg:cpan/Graphics-Framebuffer@6.99
-Graphics::Framebuffer::Splash       1.28  pkg:cpan/Graphics-Framebuffer@6.99
+Graphics::Framebuffer               7.00  pkg:cpan/Graphics-Framebuffer@7.00
+Graphics::Framebuffer::Mouse        0.03  pkg:cpan/Graphics-Framebuffer@7.00
+Graphics::Framebuffer::Splash       1.28  pkg:cpan/Graphics-Framebuffer@7.00
 Graphics::GVG                       0.92  pkg:cpan/Graphics-GVG@0.92
 Graphics::GVG::AST                  0.92  pkg:cpan/Graphics-GVG@0.92
 Graphics::GVG::AST::Circle          0.92  pkg:cpan/Graphics-GVG@0.92
@@ -203005,7 +203005,7 @@ RT::Extension::Drafts               0.05  pkg:cpan/RT-Extension-Drafts@0.05.1
 RT::Extension::DynamicWebPath       0.04  pkg:cpan/RT-Extension-DynamicWebPath@0.04
 RT::Extension::EasyRelatedTickets    0.1  pkg:cpan/RT-Extension-EasyRelatedTickets@0.1
 RT::Extension::ElapsedBusinessTime  0.05  pkg:cpan/RT-Extension-ElapsedBusinessTime@0.05
-RT::Extension::EmailReplyDelimiter  0.10  pkg:cpan/RT-Extension-EmailReplyDelimiter@0.10
+RT::Extension::EmailReplyDelimiter  0.11  pkg:cpan/RT-Extension-EmailReplyDelimiter@0.11
 RT::Extension::EscalationDates       0.4  pkg:cpan/RT-Extension-EscalationDates@0.4
 RT::Extension::ExampleTheme         0.01  pkg:cpan/RT-Extension-ExampleTheme@0.01
 RT::Extension::ExcelFeed            1.01  pkg:cpan/RT-Extension-ExcelFeed@1.01
