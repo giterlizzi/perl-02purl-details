@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 28 Apr 2026 06:25:04 GMT
+Last-Updated: Tue, 28 Apr 2026 10:07:55 GMT
 Line-Count: 263943
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -109567,7 +109567,7 @@ Heap::Elem::StrRev                  0.80  pkg:cpan/Heap@0.80
 Heap::Fibonacci                     0.80  pkg:cpan/Heap@0.80
 Heap::Fibonacci::Fast              0.0101  pkg:cpan/Heap-Fibonacci-Fast@0.0101
 Heap::MinMax                        1.04  pkg:cpan/Heap-MinMax@1.04
-Heap::PQ                            0.04  pkg:cpan/Heap-PQ@0.04
+Heap::PQ                            0.05  pkg:cpan/Heap-PQ@0.05
 Heap::Priority                      0.01  pkg:cpan/Heap-Priority@0.01
 Heap::Simple                        0.13  pkg:cpan/Heap-Simple@0.13
 Heap::Simple::Any                   0.03  pkg:cpan/Heap-Simple-Perl@0.14
@@ -133338,8 +133338,8 @@ Medical::OPCS4::Graph              undef  pkg:cpan/Medical-OPCS4@0.003
 Medical::OPCS4::Parser             undef  pkg:cpan/Medical-OPCS4@0.003
 Medical::OPCS4::Term               undef  pkg:cpan/Medical-OPCS4@0.003
 MedlineAccessor                     1.02  pkg:cpan/Boulder@1.30
-Medusa                              0.04  pkg:cpan/Medusa@0.04
-Medusa::Logger                     undef  pkg:cpan/Medusa@0.04
+Medusa                              0.05  pkg:cpan/Medusa@0.05
+Medusa::Logger                     undef  pkg:cpan/Medusa@0.05
 Medusa::XS                          0.02  pkg:cpan/Medusa-XS@0.02
 Medusa::XS::Logger                 undef  pkg:cpan/Medusa-XS@0.02
 Meerkat                            0.016  pkg:cpan/Meerkat@0.016
@@ -231576,10 +231576,10 @@ Text::PDF::TTFont                  undef  pkg:cpan/Text-PDF@0.31
 Text::PDF::TTFont0                 undef  pkg:cpan/Text-PDF@0.31
 Text::PDF::TTIOString              undef  pkg:cpan/Text-PDF@0.31
 Text::PDF::Utils                   undef  pkg:cpan/Text-PDF@0.31
-Text::PO                           1.000000  pkg:cpan/Text-PO@v1.0.0
-Text::PO::Element                  0.004002  pkg:cpan/Text-PO@v1.0.0
-Text::PO::Gettext                  1.000000  pkg:cpan/Text-PO@v1.0.0
-Text::PO::MO                       0.004000  pkg:cpan/Text-PO@v1.0.0
+Text::PO                           1.000001  pkg:cpan/Text-PO@v1.0.1
+Text::PO::Element                  0.004002  pkg:cpan/Text-PO@v1.0.1
+Text::PO::Gettext                  1.000000  pkg:cpan/Text-PO@v1.0.1
+Text::PO::MO                       0.004000  pkg:cpan/Text-PO@v1.0.1
 Text::PO::Parser                   0.000001  pkg:cpan/Text-PO-Parser@0.0.1?ext=tar.bz2
 Text::PORE                          1.02  pkg:cpan/Text-PORE@1.02
 Text::PORE::Globals                undef  pkg:cpan/Text-PORE@1.02
@@ -257697,11 +257697,11 @@ XS::Install::FrozenShit::Typemaps::InputMap  3.57  pkg:cpan/XS-Install@1.5.1
 XS::Install::FrozenShit::Typemaps::OutputMap  3.57  pkg:cpan/XS-Install@1.5.1
 XS::Install::FrozenShit::Typemaps::Type  3.57  pkg:cpan/XS-Install@1.5.1
 XS::Install::Payload               undef  pkg:cpan/XS-Install@1.5.2
-XS::JIT                             0.18  pkg:cpan/XS-JIT@0.18
-XS::JIT::Builder                    0.18  pkg:cpan/XS-JIT@0.18
-XS::JIT::Header                     0.18  pkg:cpan/XS-JIT@0.18
-XS::JIT::Header::Parser             0.18  pkg:cpan/XS-JIT@0.18
-XS::JIT::Header::TypeMap            0.18  pkg:cpan/XS-JIT@0.18
+XS::JIT                             0.19  pkg:cpan/XS-JIT@0.19
+XS::JIT::Builder                    0.19  pkg:cpan/XS-JIT@0.19
+XS::JIT::Header                     0.19  pkg:cpan/XS-JIT@0.19
+XS::JIT::Header::Parser             0.19  pkg:cpan/XS-JIT@0.19
+XS::JIT::Header::TypeMap            0.19  pkg:cpan/XS-JIT@0.19
 XS::Loader                         undef  pkg:cpan/XS-Install@1.5.2
 XS::Log                             1.12  pkg:cpan/XS-Log@1.12
 XS::Logger                         0.005  pkg:cpan/XS-Logger@0.005
