@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 28 Apr 2026 10:07:55 GMT
+Last-Updated: Tue, 28 Apr 2026 16:04:08 GMT
 Line-Count: 263943
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -16429,7 +16429,7 @@ App::safer                         0.003  pkg:cpan/App-safer@0.003
 App::saikoro                       0.300  pkg:cpan/App-saikoro@0.300
 App::samelines                     0.033  pkg:cpan/App-samelines@0.033
 App::samesize                      0.018  pkg:cpan/App-samesize@0.018
-App::sbozyp                        undef  pkg:cpan/App-sbozyp@v1.7.1
+App::sbozyp                        undef  pkg:cpan/App-sbozyp@v1.7.2
 App::scan_prereqs_cpanfile          1.10  pkg:cpan/App-scan_prereqs_cpanfile@1.10
 App::scanrdeps                      0.02  pkg:cpan/App-scanrdeps@0.02
 App::scrape                         0.08  pkg:cpan/App-scrape@0.08
@@ -21420,10 +21420,10 @@ BACnet::ServiceRequestSequences::SubscribeCOV undef  pkg:cpan/BACnet@0.08
 BACnet::ServiceRequestSequences::Utils undef  pkg:cpan/BACnet@0.08
 BACnet::Socket                     undef  pkg:cpan/BACnet@0.08
 BACnet::Subscription               undef  pkg:cpan/BACnet@0.08
-BATsh                               0.01  pkg:cpan/BATsh@0.01
-BATsh::CMD                          0.01  pkg:cpan/BATsh@0.01
-BATsh::Env                          0.01  pkg:cpan/BATsh@0.01
-BATsh::SH                           0.01  pkg:cpan/BATsh@0.01
+BATsh                               0.02  pkg:cpan/BATsh@0.02
+BATsh::CMD                          0.02  pkg:cpan/BATsh@0.02
+BATsh::Env                          0.02  pkg:cpan/BATsh@0.02
+BATsh::SH                           0.02  pkg:cpan/BATsh@0.02
 BBBB                               undef  pkg:cpan/Data-Table-Text@20210818
 BBCode::Body                        0.34  pkg:cpan/BBCode-Parser@0.34
 BBCode::Parser                      0.34  pkg:cpan/BBCode-Parser@0.34
@@ -30685,10 +30685,10 @@ Business::TrueLayer::User          undef  pkg:cpan/Business-TrueLayer@0.05
 Business::TrueLayer::Webhook       undef  pkg:cpan/Business-TrueLayer@0.05
 Business::TrueLayer::Webhook::Mandate undef  pkg:cpan/Business-TrueLayer@0.05
 Business::TrueLayer::Webhook::Resource undef  pkg:cpan/Business-TrueLayer@0.05
-Business::UDC                       0.03  pkg:cpan/Business-UDC@0.03
-Business::UDC::Grammar              0.03  pkg:cpan/Business-UDC@0.03
-Business::UDC::Parser               0.03  pkg:cpan/Business-UDC@0.03
-Business::UDC::Tokenizer            0.03  pkg:cpan/Business-UDC@0.03
+Business::UDC                       0.04  pkg:cpan/Business-UDC@0.04
+Business::UDC::Grammar              0.04  pkg:cpan/Business-UDC@0.04
+Business::UDC::Parser               0.04  pkg:cpan/Business-UDC@0.04
+Business::UDC::Tokenizer            0.04  pkg:cpan/Business-UDC@0.04
 Business::UPC                       0.06  pkg:cpan/Business-UPC@0.06
 Business::UPS                       2.04  pkg:cpan/Business-UPS@2.04
 Business::UPS::Tracking             1.13  pkg:cpan/Business-UPS-Tracking@1.13
@@ -127276,7 +127276,7 @@ MARC::File::USMARC                 undef  pkg:cpan/MARC-Record@2.0.7
 MARC::File::XML                    1.000005  pkg:cpan/MARC-File-XML@1.0.5
 MARC::Indexer                       0.04  pkg:cpan/MARC-Indexer@0.04
 MARC::Indexer::Config              undef  pkg:cpan/MARC-Indexer@0.04
-MARC::Leader                        0.08  pkg:cpan/MARC-Leader@0.08
+MARC::Leader                        0.09  pkg:cpan/MARC-Leader@0.09
 MARC::Leader::L10N                  0.05  pkg:cpan/MARC-Leader-L10N@0.05
 MARC::Leader::L10N::cs              0.05  pkg:cpan/MARC-Leader-L10N@0.05
 MARC::Leader::L10N::de              0.05  pkg:cpan/MARC-Leader-L10N@0.05
@@ -127354,27 +127354,27 @@ MARC::Transform                    0.003009  pkg:cpan/MARC-Transform@0.003009
 MARC::Utils::MARC2Ini               0.02  pkg:cpan/MARC-Utils-MARC2Ini@0.02
 MARC::Utils::MARC2MARC_in_JSON      0.05  pkg:cpan/MARC-Utils-MARC2MARC_in_JSON@0.05
 MARC::Utils::MARC2Pairs             0.02  pkg:cpan/MARC-Utils-MARC2Pairs@0.02
-MARC::Validator                     0.17  pkg:cpan/MARC-Validator@0.17
-MARC::Validator::Abstract           0.17  pkg:cpan/MARC-Validator@0.17
-MARC::Validator::Const              0.17  pkg:cpan/MARC-Validator@0.17
+MARC::Validator                     0.18  pkg:cpan/MARC-Validator@0.18
+MARC::Validator::Abstract           0.18  pkg:cpan/MARC-Validator@0.18
+MARC::Validator::Const              0.18  pkg:cpan/MARC-Validator@0.18
 MARC::Validator::Filter             0.01  pkg:cpan/MARC-Validator-Filter@0.01
 MARC::Validator::Filter::Abstract   0.01  pkg:cpan/MARC-Validator-Filter@0.01
 MARC::Validator::Filter::Plugin::AACR2  0.01  pkg:cpan/MARC-Validator-Filter@0.01
 MARC::Validator::Filter::Plugin::Material  0.01  pkg:cpan/MARC-Validator-Filter@0.01
 MARC::Validator::Filter::Plugin::RDA  0.01  pkg:cpan/MARC-Validator-Filter@0.01
-MARC::Validator::Plugin::Field008   0.17  pkg:cpan/MARC-Validator@0.17
-MARC::Validator::Plugin::Field020   0.17  pkg:cpan/MARC-Validator@0.17
-MARC::Validator::Plugin::Field035   0.17  pkg:cpan/MARC-Validator@0.17
-MARC::Validator::Plugin::Field040   0.17  pkg:cpan/MARC-Validator@0.17
-MARC::Validator::Plugin::Field045   0.17  pkg:cpan/MARC-Validator@0.17
-MARC::Validator::Plugin::Field080   0.17  pkg:cpan/MARC-Validator@0.17
-MARC::Validator::Plugin::Field260   0.17  pkg:cpan/MARC-Validator@0.17
-MARC::Validator::Plugin::Field264   0.17  pkg:cpan/MARC-Validator@0.17
-MARC::Validator::Plugin::Field300   0.17  pkg:cpan/MARC-Validator@0.17
-MARC::Validator::Plugin::Field500   0.17  pkg:cpan/MARC-Validator@0.17
-MARC::Validator::Plugin::Field504   0.17  pkg:cpan/MARC-Validator@0.17
-MARC::Validator::Plugin::Field655   0.17  pkg:cpan/MARC-Validator@0.17
-MARC::Validator::Utils              0.17  pkg:cpan/MARC-Validator@0.17
+MARC::Validator::Plugin::Field008   0.18  pkg:cpan/MARC-Validator@0.18
+MARC::Validator::Plugin::Field020   0.18  pkg:cpan/MARC-Validator@0.18
+MARC::Validator::Plugin::Field035   0.18  pkg:cpan/MARC-Validator@0.18
+MARC::Validator::Plugin::Field040   0.18  pkg:cpan/MARC-Validator@0.18
+MARC::Validator::Plugin::Field045   0.18  pkg:cpan/MARC-Validator@0.18
+MARC::Validator::Plugin::Field080   0.18  pkg:cpan/MARC-Validator@0.18
+MARC::Validator::Plugin::Field260   0.18  pkg:cpan/MARC-Validator@0.18
+MARC::Validator::Plugin::Field264   0.18  pkg:cpan/MARC-Validator@0.18
+MARC::Validator::Plugin::Field300   0.18  pkg:cpan/MARC-Validator@0.18
+MARC::Validator::Plugin::Field500   0.18  pkg:cpan/MARC-Validator@0.18
+MARC::Validator::Plugin::Field504   0.18  pkg:cpan/MARC-Validator@0.18
+MARC::Validator::Plugin::Field655   0.18  pkg:cpan/MARC-Validator@0.18
+MARC::Validator::Utils              0.18  pkg:cpan/MARC-Validator@0.18
 MARC::Xform                         0.02  pkg:cpan/MARC-Xform@0.02
 MARC::Xform::AddRDA33x             undef  pkg:cpan/MARC-Xform@0.02
 MAS::TIFF::Compression::LZW        undef  pkg:cpan/MAS-TIFF@0.4
@@ -233567,7 +233567,7 @@ Time::StasisField                   0.01  pkg:cpan/Time-StasisField@0.01
 Time::Stats                          1.0  pkg:cpan/Time-Stats@1.0?ext=tgz
 Time::StopWatchWithMessage          0.06  pkg:cpan/Time-StopWatchWithMessage@0.06
 Time::Stopwatch                     1.00  pkg:cpan/Time-Stopwatch@1.00
-Time::Str                           0.02  pkg:cpan/Time-Str@0.02
+Time::Str                           0.03  pkg:cpan/Time-Str@0.03
 Time::Strptime                      1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::Format              1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::TimeZone           undef  pkg:cpan/Time-Strptime@1.04
