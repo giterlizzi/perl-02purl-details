@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 29 Apr 2026 15:52:45 GMT
+Last-Updated: Wed, 29 Apr 2026 17:21:09 GMT
 Line-Count: 264010
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -233634,7 +233634,7 @@ Time::StasisField                   0.01  pkg:cpan/Time-StasisField@0.01
 Time::Stats                          1.0  pkg:cpan/Time-Stats@1.0?ext=tgz
 Time::StopWatchWithMessage          0.06  pkg:cpan/Time-StopWatchWithMessage@0.06
 Time::Stopwatch                     1.00  pkg:cpan/Time-Stopwatch@1.00
-Time::Str                           0.03  pkg:cpan/Time-Str@0.03
+Time::Str                           0.04  pkg:cpan/Time-Str@0.04
 Time::Strptime                      1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::Format              1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::TimeZone           undef  pkg:cpan/Time-Strptime@1.04
