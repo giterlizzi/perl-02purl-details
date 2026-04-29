@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 29 Apr 2026 19:14:23 GMT
-Line-Count: 264010
+Last-Updated: Wed, 29 Apr 2026 20:56:29 GMT
+Line-Count: 264022
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5154,6 +5154,9 @@ Amazon::S3::BucketV2               v2.0.2  pkg:cpan/Amazon-S3@2.0.2
 Amazon::S3::Constants              v2.0.2  pkg:cpan/Amazon-S3@2.0.2
 Amazon::S3::FastUploader            0.08  pkg:cpan/Amazon-S3-FastUploader@0.08
 Amazon::S3::FastUploader::File      0.05  pkg:cpan/Amazon-S3-FastUploader@0.08
+Amazon::S3::Lite                   v1.0.1  pkg:cpan/Amazon-S3-Lite@1.0.1
+Amazon::S3::Lite::Credentials      v1.0.1  pkg:cpan/Amazon-S3-Lite@1.0.1
+Amazon::S3::Lite::Logger           v1.0.1  pkg:cpan/Amazon-S3-Lite@1.0.1
 Amazon::S3::Logger                 v2.0.2  pkg:cpan/Amazon-S3@2.0.2
 Amazon::S3::Signature::V4              0  pkg:cpan/Amazon-S3@2.0.2
 Amazon::S3::SignedURLGenerator      0.02  pkg:cpan/Amazon-S3-SignedURLGenerator@0.02
@@ -32710,9 +32713,13 @@ CLI::Popt                           0.01  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X                       undef  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X::BadOption            undef  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X::Base                 undef  pkg:cpan/CLI-Popt@0.01
-CLI::Simple                        v1.0.12  pkg:cpan/CLI-Simple@1.0.12
-CLI::Simple::Constants             v1.0.12  pkg:cpan/CLI-Simple@1.0.12
-CLI::Simple::Utils                 v1.0.12  pkg:cpan/CLI-Simple@1.0.12
+CLI::Simple                        v2.0.0  pkg:cpan/CLI-Simple@2.0.0
+CLI::Simple::Constants             v2.0.0  pkg:cpan/CLI-Simple@2.0.0
+CLI::Simple::DumpSpec                  0  pkg:cpan/CLI-Simple@2.0.0
+CLI::Simple::Helpers                   0  pkg:cpan/CLI-Simple@2.0.0
+CLI::Simple::Migrate                   0  pkg:cpan/CLI-Simple@2.0.0
+CLI::Simple::Scaffold                  0  pkg:cpan/CLI-Simple@2.0.0
+CLI::Simple::Utils                 v2.0.0  pkg:cpan/CLI-Simple@2.0.0
 CLI::Startup                        0.29  pkg:cpan/CLI-Startup@0.29
 CLI::Table::Key::Finder             0.31  pkg:cpan/CLI-Table-Key-Finder@0.31
 CLI::Table::Util                    0.06  pkg:cpan/CLI-Table-Util@0.06
@@ -33216,9 +33223,9 @@ CPAN::Local::Role::Inject          0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Local::Role::MetaCPAN::API   0.001  pkg:cpan/CPAN-Local-Role-MetaCPAN-API@0.001
 CPAN::Local::Role::Prune           0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Local::Role::Remove          0.010  pkg:cpan/CPAN-Local@0.010
-CPAN::Maker                        v1.8.1  pkg:cpan/CPAN-Maker@1.8.1
-CPAN::Maker::Constants             v1.8.1  pkg:cpan/CPAN-Maker@1.8.1
-CPAN::Maker::Utils                 v1.8.1  pkg:cpan/CPAN-Maker@1.8.1
+CPAN::Maker                        v1.8.2  pkg:cpan/CPAN-Maker@1.8.2
+CPAN::Maker::Constants             v1.8.2  pkg:cpan/CPAN-Maker@1.8.2
+CPAN::Maker::Utils                 v1.8.2  pkg:cpan/CPAN-Maker@1.8.2
 CPAN::Meta                         2.150013  pkg:cpan/CPAN-Meta@2.150013
 CPAN::Meta::Check                  0.018  pkg:cpan/CPAN-Meta-Check@0.018
 CPAN::Meta::Converter              2.150013  pkg:cpan/CPAN-Meta@2.150013
@@ -44506,10 +44513,12 @@ Chemistry::Ring::Find               0.21  pkg:cpan/Chemistry-Ring@0.21
 Chemistry::SQL                      0.01  pkg:cpan/Chemistry-SQL@0.01
 Chemistry::Smiles                   0.13  pkg:cpan/Chemistry-Smiles@0.13
 Chess                              0.006002  pkg:cpan/Chess@0.6.2
-Chess4p                            0.000003  pkg:cpan/Chess4p@0.0.3
-Chess4p::Board                     undef  pkg:cpan/Chess4p@0.0.3
-Chess4p::Common                    undef  pkg:cpan/Chess4p@0.0.3
-Chess4p::Move                      undef  pkg:cpan/Chess4p@0.0.3
+Chess4p                            0.000004  pkg:cpan/Chess4p@0.0.4
+Chess4p::Board                     undef  pkg:cpan/Chess4p@0.0.4
+Chess4p::Common                    undef  pkg:cpan/Chess4p@0.0.4
+Chess4p::Move                      undef  pkg:cpan/Chess4p@0.0.4
+Chess4p::Perft                     undef  pkg:cpan/Chess4p@0.0.4
+Chess4p::Pgn::Reader               undef  pkg:cpan/Chess4p@0.0.4
 Chess::960                         0.003  pkg:cpan/Chess-960@0.003
 Chess::Board                       undef  pkg:cpan/Chess@0.6.2
 Chess::ELO::FEDA                    0.04  pkg:cpan/Chess-ELO-FEDA@0.04
@@ -73991,8 +74000,8 @@ File::Policy                       1.005  pkg:cpan/File-Policy@1.005
 File::Policy::Default              1.006  pkg:cpan/File-Policy@1.005
 File::Prepend::Undoable             0.05  pkg:cpan/File-Prepend-Undoable@0.05
 File::Print::Many                   0.04  pkg:cpan/File-Print-Many@0.04
-File::Process                       0.15  pkg:cpan/CPAN-Maker@1.8.1
-File::Process::Utils                0.12  pkg:cpan/CPAN-Maker@1.8.1
+File::Process                       0.15  pkg:cpan/CPAN-Maker@1.8.2
+File::Process::Utils                0.12  pkg:cpan/CPAN-Maker@1.8.2
 File::ProjectHome                   0.02  pkg:cpan/File-ProjectHome@0.02
 File::Properties                    0.02  pkg:cpan/File-Properties@0.02
 File::Properties::Cache             0.01  pkg:cpan/File-Properties@0.02
@@ -134082,28 +134091,28 @@ MetaCPAN::API::Rating               0.52  pkg:cpan/MetaCPAN-API@0.52
 MetaCPAN::API::Release              0.52  pkg:cpan/MetaCPAN-API@0.52
 MetaCPAN::API::Source               0.52  pkg:cpan/MetaCPAN-API@0.52
 MetaCPAN::API::Tiny                1.150270  pkg:cpan/MetaCPAN-API-Tiny@1.150270
-MetaCPAN::Client                   2.042000  pkg:cpan/MetaCPAN-Client@2.042000
-MetaCPAN::Client::Author           2.042000  pkg:cpan/MetaCPAN-Client@2.042000
-MetaCPAN::Client::Cover            2.042000  pkg:cpan/MetaCPAN-Client@2.042000
-MetaCPAN::Client::Cve              2.042000  pkg:cpan/MetaCPAN-Client@2.042000
-MetaCPAN::Client::Distribution     2.042000  pkg:cpan/MetaCPAN-Client@2.042000
-MetaCPAN::Client::DownloadURL      2.042000  pkg:cpan/MetaCPAN-Client@2.042000
-MetaCPAN::Client::Favorite         2.042000  pkg:cpan/MetaCPAN-Client@2.042000
-MetaCPAN::Client::File             2.042000  pkg:cpan/MetaCPAN-Client@2.042000
-MetaCPAN::Client::Mirror           2.042000  pkg:cpan/MetaCPAN-Client@2.042000
-MetaCPAN::Client::Module           2.042000  pkg:cpan/MetaCPAN-Client@2.042000
-MetaCPAN::Client::Package          2.042000  pkg:cpan/MetaCPAN-Client@2.042000
-MetaCPAN::Client::Permission       2.042000  pkg:cpan/MetaCPAN-Client@2.042000
-MetaCPAN::Client::Pod              2.042000  pkg:cpan/MetaCPAN-Client@2.042000
+MetaCPAN::Client                   2.043000  pkg:cpan/MetaCPAN-Client@2.043000
+MetaCPAN::Client::Author           2.043000  pkg:cpan/MetaCPAN-Client@2.043000
+MetaCPAN::Client::Cover            2.043000  pkg:cpan/MetaCPAN-Client@2.043000
+MetaCPAN::Client::Cve              2.043000  pkg:cpan/MetaCPAN-Client@2.043000
+MetaCPAN::Client::Distribution     2.043000  pkg:cpan/MetaCPAN-Client@2.043000
+MetaCPAN::Client::DownloadURL      2.043000  pkg:cpan/MetaCPAN-Client@2.043000
+MetaCPAN::Client::Favorite         2.043000  pkg:cpan/MetaCPAN-Client@2.043000
+MetaCPAN::Client::File             2.043000  pkg:cpan/MetaCPAN-Client@2.043000
+MetaCPAN::Client::Mirror           2.043000  pkg:cpan/MetaCPAN-Client@2.043000
+MetaCPAN::Client::Module           2.043000  pkg:cpan/MetaCPAN-Client@2.043000
+MetaCPAN::Client::Package          2.043000  pkg:cpan/MetaCPAN-Client@2.043000
+MetaCPAN::Client::Permission       2.043000  pkg:cpan/MetaCPAN-Client@2.043000
+MetaCPAN::Client::Pod              2.043000  pkg:cpan/MetaCPAN-Client@2.043000
 MetaCPAN::Client::Pod::PDF          0.05  pkg:cpan/MetaCPAN-Client-Pod-PDF@0.05
 MetaCPAN::Client::Rating           2.040000  pkg:cpan/MetaCPAN-Client@2.040000
-MetaCPAN::Client::Release          2.042000  pkg:cpan/MetaCPAN-Client@2.042000
-MetaCPAN::Client::Request          2.042000  pkg:cpan/MetaCPAN-Client@2.042000
-MetaCPAN::Client::ResultSet        2.042000  pkg:cpan/MetaCPAN-Client@2.042000
-MetaCPAN::Client::Role::Entity     2.042000  pkg:cpan/MetaCPAN-Client@2.042000
-MetaCPAN::Client::Role::HasUA      2.042000  pkg:cpan/MetaCPAN-Client@2.042000
-MetaCPAN::Client::Scroll           2.042000  pkg:cpan/MetaCPAN-Client@2.042000
-MetaCPAN::Client::Types            2.042000  pkg:cpan/MetaCPAN-Client@2.042000
+MetaCPAN::Client::Release          2.043000  pkg:cpan/MetaCPAN-Client@2.043000
+MetaCPAN::Client::Request          2.043000  pkg:cpan/MetaCPAN-Client@2.043000
+MetaCPAN::Client::ResultSet        2.043000  pkg:cpan/MetaCPAN-Client@2.043000
+MetaCPAN::Client::Role::Entity     2.043000  pkg:cpan/MetaCPAN-Client@2.043000
+MetaCPAN::Client::Role::HasUA      2.043000  pkg:cpan/MetaCPAN-Client@2.043000
+MetaCPAN::Client::Scroll           2.043000  pkg:cpan/MetaCPAN-Client@2.043000
+MetaCPAN::Client::Types            2.043000  pkg:cpan/MetaCPAN-Client@2.043000
 MetaCPAN::Clients                   1.00  pkg:cpan/MetaCPAN-Clients@1.00
 MetaCPAN::Helper                    0.04  pkg:cpan/MetaCPAN-Helper@0.04
 MetaCPAN::Moose                    0.000003  pkg:cpan/MetaCPAN-Moose@0.000003
@@ -156835,7 +156844,10 @@ OrePAN2::Logger                    undef  pkg:cpan/OrePAN2@0.53
 OrePAN2::Repository                undef  pkg:cpan/OrePAN2@0.53
 OrePAN2::Repository::Cache         undef  pkg:cpan/OrePAN2@0.53
 OrePAN2::Role::HasLogger           undef  pkg:cpan/OrePAN2@0.53
-OrePAN2::S3                        v1.0.4  pkg:cpan/OrePAN2-S3@1.0.4
+OrePAN2::S3                        v1.2.0  pkg:cpan/OrePAN2-S3@1.2.0
+OrePAN2::S3::Role::Delete              0  pkg:cpan/OrePAN2-S3@1.2.0
+OrePAN2::S3::Role::Inject              0  pkg:cpan/OrePAN2-S3@1.2.0
+OrePAN2::S3::Role::UploadArtifacts     0  pkg:cpan/OrePAN2-S3@1.2.0
 OrePAN2::Server                     0.04  pkg:cpan/OrePAN2-Server@0.04
 OrePAN2::Server::CLI               undef  pkg:cpan/OrePAN2-Server@0.04
 OrePAN::Archive                    undef  pkg:cpan/OrePAN@0.08
