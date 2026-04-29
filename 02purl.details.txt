@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 29 Apr 2026 09:59:20 GMT
-Line-Count: 263970
+Last-Updated: Wed, 29 Apr 2026 11:41:34 GMT
+Line-Count: 263971
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -202978,6 +202978,7 @@ RT::Extension::Assets::AppleGSX      1.0  pkg:cpan/RT-Extension-Assets-AppleGSX@
 RT::Extension::Assets::AppleGSX::Client undef  pkg:cpan/RT-Extension-Assets-AppleGSX@1.0
 RT::Extension::Assets::Import::CSV   2.5  pkg:cpan/RT-Extension-Assets-Import-CSV@2.5
 RT::Extension::AttachmentFilter     0.01  pkg:cpan/RT-Extension-AttachmentFilter@0.01
+RT::Extension::AttachmentViewer     0.01  pkg:cpan/RT-Extension-AttachmentViewer@0.01
 RT::Extension::AttachmentWarning    0.02  pkg:cpan/RT-Extension-AttachmentWarning@0.02
 RT::Extension::AttributeWalker      0.02  pkg:cpan/RT-Extension-AttributeWalker@0.02
 RT::Extension::AuditLog             0.04  pkg:cpan/RT-Extension-AuditLog@0.04
