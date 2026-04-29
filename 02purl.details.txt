@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 29 Apr 2026 06:18:38 GMT
+Last-Updated: Wed, 29 Apr 2026 09:59:20 GMT
 Line-Count: 263970
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -12306,7 +12306,7 @@ App::PerlCriticUtils               0.008  pkg:cpan/App-PerlCriticUtils@0.008
 App::PerlFuzzyTokenFinder           0.02  pkg:cpan/App-PerlFuzzyTokenFinder@0.02
 App::PerlFuzzyTokenFinder::CLI     undef  pkg:cpan/App-PerlFuzzyTokenFinder@0.02
 App::PerlFuzzyTokenFinder::MatchedPosition undef  pkg:cpan/App-PerlFuzzyTokenFinder@0.02
-App::PerlGlue                       0.01  pkg:cpan/App-PerlGlue@0.01
+App::PerlGlue                       0.03  pkg:cpan/App-PerlGlue@0.03
 App::PerlGzipScript                v0.0.2  pkg:cpan/App-PerlGzipScript@v0.0.2
 App::PerlLocalEnv                  undef  pkg:cpan/perl-local-env@0.03
 App::PerlNitpick                    0.01  pkg:cpan/App-PerlNitpick@0.01
@@ -69785,7 +69785,7 @@ Email::Sender::Transport           2.601  pkg:cpan/Email-Sender@2.601
 Email::Sender::Transport::DevNull  2.601  pkg:cpan/Email-Sender@2.601
 Email::Sender::Transport::Failable 2.601  pkg:cpan/Email-Sender@2.601
 Email::Sender::Transport::Maildir  2.601  pkg:cpan/Email-Sender@2.601
-Email::Sender::Transport::Mailgun   0.05  pkg:cpan/Email-Sender-Transport-Mailgun@0.05
+Email::Sender::Transport::Mailgun   0.06  pkg:cpan/Email-Sender-Transport-Mailgun@0.06
 Email::Sender::Transport::Mbox     2.601  pkg:cpan/Email-Sender@2.601
 Email::Sender::Transport::Print    2.601  pkg:cpan/Email-Sender@2.601
 Email::Sender::Transport::QMQP     0.001  pkg:cpan/Email-Sender-Transport-QMQP@0.001
@@ -230834,7 +230834,7 @@ Text::CSV_Multiline                 0.01  pkg:cpan/Text-CSV_Multiline@0.02
 Text::CSV_PP                        2.06  pkg:cpan/Text-CSV@2.06
 Text::CSV_PP::Iterator              1.04  pkg:cpan/Text-CSV_PP-Iterator@1.04?ext=tgz
 Text::CSV_PP::Simple               0.000005  pkg:cpan/Text-CSV_PP-Simple@0.0.5
-Text::CSV_XS                        1.61  pkg:cpan/Text-CSV_XS@1.61?ext=tgz
+Text::CSV_XS                        1.62  pkg:cpan/Text-CSV_XS@1.62?ext=tgz
 Text::CSV_XS::Backslash            0.001  pkg:cpan/Text-CSV_XS-Backslash@0.001
 Text::CSV_XS::TSV                  0.003  pkg:cpan/Text-CSV_XS-TSV@0.003
 Text::CaboCha                       0.06  pkg:cpan/Text-CaboCha@0.06
