@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 29 Apr 2026 11:41:34 GMT
-Line-Count: 263971
+Last-Updated: Wed, 29 Apr 2026 13:29:26 GMT
+Line-Count: 264010
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -157420,6 +157420,45 @@ PAUSEx::Log::received              0.002  pkg:cpan/PAUSEx-Log@0.002
 PAUSEx::Log::renamed               0.002  pkg:cpan/PAUSEx-Log@0.002
 PAUSEx::Log::unknown               0.002  pkg:cpan/PAUSEx-Log@0.002
 PAUSEx::Log::verified              0.002  pkg:cpan/PAUSEx-Log@0.002
+PAX                                0.018  pkg:cpan/PAX@0.018
+PAX::AppImage                      0.018  pkg:cpan/PAX@0.018
+PAX::AppServer                     0.018  pkg:cpan/PAX@0.018
+PAX::ArtifactCache                 0.018  pkg:cpan/PAX@0.018
+PAX::Backend::Tier1CraneliftEquivalent 0.018  pkg:cpan/PAX@0.018
+PAX::Backend::Tier2LLVM            0.018  pkg:cpan/PAX@0.018
+PAX::Benchmark                     0.018  pkg:cpan/PAX@0.018
+PAX::BenchmarkMatrix               0.018  pkg:cpan/PAX@0.018
+PAX::CLI                           0.018  pkg:cpan/PAX@0.018
+PAX::CLI::Progress                 0.018  pkg:cpan/PAX@0.018
+PAX::CPANMatrix                    0.018  pkg:cpan/PAX@0.018
+PAX::Capture                       0.018  pkg:cpan/PAX@0.018
+PAX::CodeUnitCompiler              0.018  pkg:cpan/PAX@0.018
+PAX::Compatibility                 0.018  pkg:cpan/PAX@0.018
+PAX::CoreSuite                     0.018  pkg:cpan/PAX@0.018
+PAX::Corpus                        0.018  pkg:cpan/PAX@0.018
+PAX::DeoptEngine                   0.018  pkg:cpan/PAX@0.018
+PAX::Differential                  0.018  pkg:cpan/PAX@0.018
+PAX::Gatekeeper                    0.018  pkg:cpan/PAX@0.018
+PAX::GuardManager                  0.018  pkg:cpan/PAX@0.018
+PAX::GuardedSSA                    0.018  pkg:cpan/PAX@0.018
+PAX::HIR                           0.018  pkg:cpan/PAX@0.018
+PAX::HotRegionJIT                  0.018  pkg:cpan/PAX@0.018
+PAX::InlineCache                   0.018  pkg:cpan/PAX@0.018
+PAX::Manifest                      0.018  pkg:cpan/PAX@0.018
+PAX::Mode                          0.018  pkg:cpan/PAX@0.018
+PAX::NativeRunner                  0.018  pkg:cpan/PAX@0.018
+PAX::OSR                           0.018  pkg:cpan/PAX@0.018
+PAX::Paxfile                       0.018  pkg:cpan/PAX@0.018
+PAX::ProfileGuidedAOT              0.018  pkg:cpan/PAX@0.018
+PAX::ProfileStore                  0.018  pkg:cpan/PAX@0.018
+PAX::RegionSelector                0.018  pkg:cpan/PAX@0.018
+PAX::Runtime::Value                0.018  pkg:cpan/PAX@0.018
+PAX::RuntimeDispatcher             0.018  pkg:cpan/PAX@0.018
+PAX::StandaloneAnalysis            0.018  pkg:cpan/PAX@0.018
+PAX::StandaloneDispatch            0.018  pkg:cpan/PAX@0.018
+PAX::StandaloneImage               0.018  pkg:cpan/PAX@0.018
+PAX::StandaloneRuntime             0.018  pkg:cpan/PAX@0.018
+PAX::Tier1                         0.018  pkg:cpan/PAX@0.018
 PApp                                 2.4  pkg:cpan/PApp@2.4
 PApp::Admin                          2.4  pkg:cpan/PApp@2.4
 PApp::Application                    2.4  pkg:cpan/PApp@2.4
