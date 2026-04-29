@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 29 Apr 2026 20:56:29 GMT
-Line-Count: 264022
+Last-Updated: Wed, 29 Apr 2026 22:51:43 GMT
+Line-Count: 264039
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -12309,7 +12309,7 @@ App::PerlCriticUtils               0.008  pkg:cpan/App-PerlCriticUtils@0.008
 App::PerlFuzzyTokenFinder           0.02  pkg:cpan/App-PerlFuzzyTokenFinder@0.02
 App::PerlFuzzyTokenFinder::CLI     undef  pkg:cpan/App-PerlFuzzyTokenFinder@0.02
 App::PerlFuzzyTokenFinder::MatchedPosition undef  pkg:cpan/App-PerlFuzzyTokenFinder@0.02
-App::PerlGlue                       0.03  pkg:cpan/App-PerlGlue@0.03
+App::PerlGlue                       0.04  pkg:cpan/App-PerlGlue@0.04
 App::PerlGzipScript                v0.0.2  pkg:cpan/App-PerlGzipScript@v0.0.2
 App::PerlLocalEnv                  undef  pkg:cpan/perl-local-env@0.03
 App::PerlNitpick                    0.01  pkg:cpan/App-PerlNitpick@0.01
@@ -33224,6 +33224,18 @@ CPAN::Local::Role::MetaCPAN::API   0.001  pkg:cpan/CPAN-Local-Role-MetaCPAN-API@
 CPAN::Local::Role::Prune           0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Local::Role::Remove          0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Maker                        v1.8.2  pkg:cpan/CPAN-Maker@1.8.2
+CPAN::Maker::Bootstrapper          v2.0.0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.0
+CPAN::Maker::Bootstrapper::ConfigReader     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.0
+CPAN::Maker::Bootstrapper::Constants     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.0
+CPAN::Maker::Bootstrapper::Role::CreateConfig     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.0
+CPAN::Maker::Bootstrapper::Role::Init     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.0
+CPAN::Maker::Bootstrapper::Role::Installer     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.0
+CPAN::Maker::Bootstrapper::Role::LLM::Annotator     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.0
+CPAN::Maker::Bootstrapper::Role::LLM::Models     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.0
+CPAN::Maker::Bootstrapper::Role::LLM::ReleaseNotes     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.0
+CPAN::Maker::Bootstrapper::Role::LLM::Reviewer     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.0
+CPAN::Maker::Bootstrapper::Role::LLM::Utils     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.0
+CPAN::Maker::Bootstrapper::Role::ScaffoldImporter     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.0
 CPAN::Maker::Constants             v1.8.2  pkg:cpan/CPAN-Maker@1.8.2
 CPAN::Maker::Utils                 v1.8.2  pkg:cpan/CPAN-Maker@1.8.2
 CPAN::Meta                         2.150013  pkg:cpan/CPAN-Meta@2.150013
@@ -56400,8 +56412,8 @@ Darcs::Notify                      2.000001  pkg:cpan/Darcs-Notify@2.0.1
 Darcs::Notify::Base                undef  pkg:cpan/Darcs-Notify@2.0.1
 Darcs::Notify::Email               undef  pkg:cpan/Darcs-Notify@2.0.1
 DarkPAN::Compare                    0.03  pkg:cpan/DarkPAN-Compare@0.03
-DarkPAN::Utils                     v1.0.0  pkg:cpan/DarkPAN-Utils@1.0.0
-DarkPAN::Utils::Docs               v1.0.0  pkg:cpan/DarkPAN-Utils@1.0.0
+DarkPAN::Utils                     v1.1.0  pkg:cpan/DarkPAN-Utils@1.1.0
+DarkPAN::Utils::Docs               v1.1.0  pkg:cpan/DarkPAN-Utils@1.1.0
 DarkSky::API                       1.001005  pkg:cpan/DarkSky-API@1.1.5
 Darwin::InitObjC                   0.001  pkg:cpan/Darwin-InitObjC@0.001
 Das                                undef  pkg:cpan/Das
@@ -75170,6 +75182,11 @@ Finance::Tax::Aruba::Income::2023  0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::Tax::Aruba::Income::2025  0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::Tax::Aruba::Role::Income::TaxYear 0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::TickerSymbols              3.11  pkg:cpan/Finance-TickerSymbols@3.11?ext=zip
+Finance::Tiller2QIF                 1.02  pkg:cpan/Finance-Tiller2QIF@1.02
+Finance::Tiller2QIF::Map            1.02  pkg:cpan/Finance-Tiller2QIF@1.02
+Finance::Tiller2QIF::ReadCSV        1.02  pkg:cpan/Finance-Tiller2QIF@1.02
+Finance::Tiller2QIF::Util           1.02  pkg:cpan/Finance-Tiller2QIF@1.02
+Finance::Tiller2QIF::WriteQIF       1.02  pkg:cpan/Finance-Tiller2QIF@1.02
 Finance::USDX                       0.03  pkg:cpan/Finance-USDX@0.03
 Finance::Wesabe                     0.02  pkg:cpan/Finance-Wesabe@0.02
 Finance::Wesabe::Account           undef  pkg:cpan/Finance-Wesabe@0.02
@@ -114682,7 +114699,7 @@ JSCalendar::Duration               0.004  pkg:cpan/JSCalendar-Duration@0.004
 JSON                                4.11  pkg:cpan/JSON@4.11
 JSON5                               0.01  pkg:cpan/JSON5@0.01
 JSON5::Parser                      undef  pkg:cpan/JSON5@0.01
-JSON::API                          v1.1.1  pkg:cpan/JSON-API@v1.1.1
+JSON::API                          v1.2.0  pkg:cpan/JSON-API@v1.2.0
 JSON::API::Error                    0.01  pkg:cpan/JSON-API-Error@0.01
 JSON::API::v1                      0.002  pkg:cpan/JSON-API-v1@0.002
 JSON::API::v1::Attribute           0.002  pkg:cpan/JSON-API-v1@0.002
@@ -157432,45 +157449,45 @@ PAUSEx::Log::received              0.002  pkg:cpan/PAUSEx-Log@0.002
 PAUSEx::Log::renamed               0.002  pkg:cpan/PAUSEx-Log@0.002
 PAUSEx::Log::unknown               0.002  pkg:cpan/PAUSEx-Log@0.002
 PAUSEx::Log::verified              0.002  pkg:cpan/PAUSEx-Log@0.002
-PAX                                0.018  pkg:cpan/PAX@0.018
-PAX::AppImage                      0.018  pkg:cpan/PAX@0.018
-PAX::AppServer                     0.018  pkg:cpan/PAX@0.018
-PAX::ArtifactCache                 0.018  pkg:cpan/PAX@0.018
-PAX::Backend::Tier1CraneliftEquivalent 0.018  pkg:cpan/PAX@0.018
-PAX::Backend::Tier2LLVM            0.018  pkg:cpan/PAX@0.018
-PAX::Benchmark                     0.018  pkg:cpan/PAX@0.018
-PAX::BenchmarkMatrix               0.018  pkg:cpan/PAX@0.018
-PAX::CLI                           0.018  pkg:cpan/PAX@0.018
-PAX::CLI::Progress                 0.018  pkg:cpan/PAX@0.018
-PAX::CPANMatrix                    0.018  pkg:cpan/PAX@0.018
-PAX::Capture                       0.018  pkg:cpan/PAX@0.018
-PAX::CodeUnitCompiler              0.018  pkg:cpan/PAX@0.018
-PAX::Compatibility                 0.018  pkg:cpan/PAX@0.018
-PAX::CoreSuite                     0.018  pkg:cpan/PAX@0.018
-PAX::Corpus                        0.018  pkg:cpan/PAX@0.018
-PAX::DeoptEngine                   0.018  pkg:cpan/PAX@0.018
-PAX::Differential                  0.018  pkg:cpan/PAX@0.018
-PAX::Gatekeeper                    0.018  pkg:cpan/PAX@0.018
-PAX::GuardManager                  0.018  pkg:cpan/PAX@0.018
-PAX::GuardedSSA                    0.018  pkg:cpan/PAX@0.018
-PAX::HIR                           0.018  pkg:cpan/PAX@0.018
-PAX::HotRegionJIT                  0.018  pkg:cpan/PAX@0.018
-PAX::InlineCache                   0.018  pkg:cpan/PAX@0.018
-PAX::Manifest                      0.018  pkg:cpan/PAX@0.018
-PAX::Mode                          0.018  pkg:cpan/PAX@0.018
-PAX::NativeRunner                  0.018  pkg:cpan/PAX@0.018
-PAX::OSR                           0.018  pkg:cpan/PAX@0.018
-PAX::Paxfile                       0.018  pkg:cpan/PAX@0.018
-PAX::ProfileGuidedAOT              0.018  pkg:cpan/PAX@0.018
-PAX::ProfileStore                  0.018  pkg:cpan/PAX@0.018
-PAX::RegionSelector                0.018  pkg:cpan/PAX@0.018
-PAX::Runtime::Value                0.018  pkg:cpan/PAX@0.018
-PAX::RuntimeDispatcher             0.018  pkg:cpan/PAX@0.018
-PAX::StandaloneAnalysis            0.018  pkg:cpan/PAX@0.018
-PAX::StandaloneDispatch            0.018  pkg:cpan/PAX@0.018
-PAX::StandaloneImage               0.018  pkg:cpan/PAX@0.018
-PAX::StandaloneRuntime             0.018  pkg:cpan/PAX@0.018
-PAX::Tier1                         0.018  pkg:cpan/PAX@0.018
+PAX                                0.025  pkg:cpan/PAX@0.025
+PAX::AppImage                      0.025  pkg:cpan/PAX@0.025
+PAX::AppServer                     0.025  pkg:cpan/PAX@0.025
+PAX::ArtifactCache                 0.025  pkg:cpan/PAX@0.025
+PAX::Backend::Tier1CraneliftEquivalent 0.025  pkg:cpan/PAX@0.025
+PAX::Backend::Tier2LLVM            0.025  pkg:cpan/PAX@0.025
+PAX::Benchmark                     0.025  pkg:cpan/PAX@0.025
+PAX::BenchmarkMatrix               0.025  pkg:cpan/PAX@0.025
+PAX::CLI                           0.025  pkg:cpan/PAX@0.025
+PAX::CLI::Progress                 0.025  pkg:cpan/PAX@0.025
+PAX::CPANMatrix                    0.025  pkg:cpan/PAX@0.025
+PAX::Capture                       0.025  pkg:cpan/PAX@0.025
+PAX::CodeUnitCompiler              0.025  pkg:cpan/PAX@0.025
+PAX::Compatibility                 0.025  pkg:cpan/PAX@0.025
+PAX::CoreSuite                     0.025  pkg:cpan/PAX@0.025
+PAX::Corpus                        0.025  pkg:cpan/PAX@0.025
+PAX::DeoptEngine                   0.025  pkg:cpan/PAX@0.025
+PAX::Differential                  0.025  pkg:cpan/PAX@0.025
+PAX::Gatekeeper                    0.025  pkg:cpan/PAX@0.025
+PAX::GuardManager                  0.025  pkg:cpan/PAX@0.025
+PAX::GuardedSSA                    0.025  pkg:cpan/PAX@0.025
+PAX::HIR                           0.025  pkg:cpan/PAX@0.025
+PAX::HotRegionJIT                  0.025  pkg:cpan/PAX@0.025
+PAX::InlineCache                   0.025  pkg:cpan/PAX@0.025
+PAX::Manifest                      0.025  pkg:cpan/PAX@0.025
+PAX::Mode                          0.025  pkg:cpan/PAX@0.025
+PAX::NativeRunner                  0.025  pkg:cpan/PAX@0.025
+PAX::OSR                           0.025  pkg:cpan/PAX@0.025
+PAX::Paxfile                       0.025  pkg:cpan/PAX@0.025
+PAX::ProfileGuidedAOT              0.025  pkg:cpan/PAX@0.025
+PAX::ProfileStore                  0.025  pkg:cpan/PAX@0.025
+PAX::RegionSelector                0.025  pkg:cpan/PAX@0.025
+PAX::Runtime::Value                0.025  pkg:cpan/PAX@0.025
+PAX::RuntimeDispatcher             0.025  pkg:cpan/PAX@0.025
+PAX::StandaloneAnalysis            0.025  pkg:cpan/PAX@0.025
+PAX::StandaloneDispatch            0.025  pkg:cpan/PAX@0.025
+PAX::StandaloneImage               0.025  pkg:cpan/PAX@0.025
+PAX::StandaloneRuntime             0.025  pkg:cpan/PAX@0.025
+PAX::Tier1                         0.025  pkg:cpan/PAX@0.025
 PApp                                 2.4  pkg:cpan/PApp@2.4
 PApp::Admin                          2.4  pkg:cpan/PApp@2.4
 PApp::Application                    2.4  pkg:cpan/PApp@2.4
@@ -203123,7 +203140,7 @@ RT::Extension::Log::MemoryUsage     0.02  pkg:cpan/RT-Extension-Log-MemoryUsage@
 RT::Extension::Log::MemoryUsage::MPL  0.02  pkg:cpan/RT-Extension-Log-MemoryUsage@0.02
 RT::Extension::ManageAutoCreatedUsers  0.12  pkg:cpan/RT-Extension-ManageAutoCreatedUsers@0.12
 RT::Extension::MandatoryFields       0.6  pkg:cpan/RT-Extension-MandatoryFields@0.6
-RT::Extension::MandatoryOnTransition  1.01  pkg:cpan/RT-Extension-MandatoryOnTransition@1.01
+RT::Extension::MandatoryOnTransition  1.02  pkg:cpan/RT-Extension-MandatoryOnTransition@1.02
 RT::Extension::MandatoryOnTransition::Test undef  pkg:cpan/RT-Extension-MandatoryOnTransition@0.04
 RT::Extension::MandatoryRequestor   0.02  pkg:cpan/RT-Extension-MandatoryRequestor@0.02
 RT::Extension::MandatorySubject     0.06  pkg:cpan/RT-Extension-MandatorySubject@0.06
