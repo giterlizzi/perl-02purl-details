@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 29 Apr 2026 22:51:43 GMT
+Last-Updated: Thu, 30 Apr 2026 02:24:55 GMT
 Line-Count: 264039
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -33049,7 +33049,7 @@ CPAN::02Packages::Search           0.100  pkg:cpan/CPAN-02Packages-Search@0.100
 CPAN::API::BuildPL                 0.002  pkg:cpan/CPAN-API-BuildPL@0.002
 CPAN::Admin                        5.501  pkg:cpan/CPAN@2.38
 CPAN::Audit                        20260308.002  pkg:cpan/CPAN-Audit@20260308.002
-CPAN::Audit::DB                    20260419.002  pkg:cpan/CPANSA-DB@20260419.002
+CPAN::Audit::DB                    20260426.001  pkg:cpan/CPANSA-DB@20260426.001
 CPAN::Audit::Discover              1.001  pkg:cpan/CPAN-Audit@20260308.002
 CPAN::Audit::Discover::Cpanfile    1.001  pkg:cpan/CPAN-Audit@20260308.002
 CPAN::Audit::Discover::CpanfileSnapshot 1.001  pkg:cpan/CPAN-Audit@20260308.002
@@ -33816,7 +33816,7 @@ CPANPLUS::YACSmoke::ReAssemble      1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::SortVers        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::locallib        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::inc                      undef  pkg:cpan/CPANPLUS@0.84
-CPANSA::DB                         20260419.002  pkg:cpan/CPANSA-DB@20260419.002
+CPANSA::DB                         20260426.001  pkg:cpan/CPANSA-DB@20260426.001
 CPANSEC::Admin                     0.001  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command            undef  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command::Amend     undef  pkg:cpan/CPANSec-Admin@0.001
@@ -34918,7 +34918,7 @@ Captcha::noCAPTCHA                  0.16  pkg:cpan/Captcha-noCAPTCHA@0.16
 Captcha::reCAPTCHA                  0.99  pkg:cpan/Captcha-reCaptcha@0.99
 Captcha::reCAPTCHA::Mailhide        0.94  pkg:cpan/Captcha-reCAPTCHA-Mailhide@0.94
 Captcha::reCAPTCHA::V2               0.3  pkg:cpan/Captcha-reCAPTCHA-V2@0.3
-Captcha::reCAPTCHA::V3              0.06  pkg:cpan/Captcha-reCAPTCHA-V3@0.06
+Captcha::reCAPTCHA::V3              0.08  pkg:cpan/Captcha-reCAPTCHA-V3@0.08
 Captive::Portal                     4.10  pkg:cpan/Captive-Portal@4.10
 Captive::Portal::LockHandle         4.10  pkg:cpan/Captive-Portal@4.10
 Captive::Portal::Role::AuthenSimple  4.10  pkg:cpan/Captive-Portal@4.10
@@ -153079,7 +153079,7 @@ Nginx::Test::Child                 1.008001010  pkg:cpan/Nginx-Perl@1.8.1.10
 NginxPerlTest                      1.008001010  pkg:cpan/Nginx-Perl@1.8.1.10
 NgxQueue                            0.02  pkg:cpan/NgxQueue@0.02
 NgxQueue::PP                       undef  pkg:cpan/NgxQueue@0.02
-Nice::Try                          1.003017  pkg:cpan/Nice-Try@v1.3.17
+Nice::Try                          1.004000  pkg:cpan/Nice-Try@v1.4.0
 Nikto::Parser                       0.01  pkg:cpan/Nikto-Parser@0.01
 Nikto::Parser::Host                 0.01  pkg:cpan/Nikto-Parser@0.01
 Nikto::Parser::Host::Port           0.01  pkg:cpan/Nikto-Parser@0.01
@@ -202888,7 +202888,7 @@ RS_4                               undef  pkg:cpan/Data-RecordStore@6.06
 RS_5                               undef  pkg:cpan/Data-RecordStore@6.06
 RS_6                               undef  pkg:cpan/Data-RecordStore@6.06
 RT::ACE                            undef  pkg:cpan/RTx-Shredder@0.07
-RT::ACL                             1.14  pkg:cpan/RT-Extension-MergeUsers@1.14
+RT::ACL                             1.15  pkg:cpan/RT-Extension-MergeUsers@1.15
 RT::Action::AddNewCFValue          undef  pkg:cpan/RT-Extension-Tags@0.02
 RT::Action::AddQueueAdminCcs       undef  pkg:cpan/RT-Extension-AddAdminCcsOnQueueChange@1.01
 RT::Action::AddTicketSentiment     undef  pkg:cpan/RT-Extension-AI@0.05
@@ -203148,7 +203148,7 @@ RT::Extension::Memo                 0.09  pkg:cpan/RT-Extension-Memo@0.09
 RT::Extension::Memo::Test          undef  pkg:cpan/RT-Extension-Memo@0.09
 RT::Extension::MenuBarSearches      0.06  pkg:cpan/RT-Extension-MenubarSearches@0.06
 RT::Extension::MenuBarUserTickets    1.1  pkg:cpan/RT-Extension-MenubarUserTickets@1.1
-RT::Extension::MergeUsers           1.14  pkg:cpan/RT-Extension-MergeUsers@1.14
+RT::Extension::MergeUsers           1.15  pkg:cpan/RT-Extension-MergeUsers@1.15
 RT::Extension::MergeUsers::Test    undef  pkg:cpan/RT-Extension-MergeUsers@1.12
 RT::Extension::MessageSizeLimit     0.03  pkg:cpan/RT-Extension-MessageSizeLimit@0.03
 RT::Extension::MobileUI             1.07  pkg:cpan/RT-Extension-MobileUI@1.07
@@ -203300,7 +203300,7 @@ RT::FilterRuleMatches               0.01  pkg:cpan/RT-Extension-FilterRules@0.01
 RT::FilterRules                     0.01  pkg:cpan/RT-Extension-FilterRules@0.01
 RT::Group                          undef  pkg:cpan/RTx-Shredder@0.07
 RT::GroupMember                    undef  pkg:cpan/RTx-Shredder@0.07
-RT::Groups                          1.14  pkg:cpan/RT-Extension-MergeUsers@1.14
+RT::Groups                          1.15  pkg:cpan/RT-Extension-MergeUsers@1.15
 RT::IODEF                           0.08  pkg:cpan/RT-IODEF@0.08
 RT::IR::ExternalFeeds              undef  pkg:cpan/RTIR-Extension-MISP@0.02
 RT::Integration::SVN                0.04  pkg:cpan/RT-Integration-SVN@0.04
@@ -203317,7 +203317,7 @@ RT::ObjectCustomFieldValue         undef  pkg:cpan/RTx-Shredder@0.07
 RT::OnlineDocs                       1.1  pkg:cpan/RT-OnlineDocs@1.1
 RT::Principal                      undef  pkg:cpan/RTx-Shredder@0.07
 RT::Queue                          undef  pkg:cpan/RTx-Shredder@0.07
-RT::REST2::Resource::User          undef  pkg:cpan/RT-Extension-MergeUsers@1.14
+RT::REST2::Resource::User          undef  pkg:cpan/RT-Extension-MergeUsers@1.15
 RT::Record                         undef  pkg:cpan/RTx-Shredder@0.07
 RT::Scrip                          undef  pkg:cpan/RTx-Shredder@0.07
 RT::ScripAction                    undef  pkg:cpan/RTx-Shredder@0.07
@@ -203332,7 +203332,7 @@ RT::System                         0.003000  pkg:cpan/RTx-RightsMatrix@0.03.00?e
 RT::Template                       undef  pkg:cpan/RTx-Shredder@0.07
 RT::Ticket                         undef  pkg:cpan/RTx-Shredder@0.07
 RT::TicketWhiteboard                 1.7  pkg:cpan/RT-TicketWhiteboard@1.7
-RT::Tickets                         1.14  pkg:cpan/RT-Extension-MergeUsers@1.14
+RT::Tickets                         1.15  pkg:cpan/RT-Extension-MergeUsers@1.15
 RT::Todo                            0.02  pkg:cpan/RT-Todo@0.02
 RT::Transaction                    undef  pkg:cpan/RTx-Shredder@0.07
 RT::URI::remote_rt                 undef  pkg:cpan/RTx-RemoteLinks@1.02
