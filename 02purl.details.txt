@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 30 Apr 2026 13:26:44 GMT
+Last-Updated: Thu, 30 Apr 2026 15:43:58 GMT
 Line-Count: 264049
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -33051,7 +33051,7 @@ CPAN::02Packages::Search           0.100  pkg:cpan/CPAN-02Packages-Search@0.100
 CPAN::API::BuildPL                 0.002  pkg:cpan/CPAN-API-BuildPL@0.002
 CPAN::Admin                        5.501  pkg:cpan/CPAN@2.38
 CPAN::Audit                        20260308.002  pkg:cpan/CPAN-Audit@20260308.002
-CPAN::Audit::DB                    20260426.001  pkg:cpan/CPANSA-DB@20260426.001
+CPAN::Audit::DB                    20260430.001  pkg:cpan/CPANSA-DB@20260430.001
 CPAN::Audit::Discover              1.001  pkg:cpan/CPAN-Audit@20260308.002
 CPAN::Audit::Discover::Cpanfile    1.001  pkg:cpan/CPAN-Audit@20260308.002
 CPAN::Audit::Discover::CpanfileSnapshot 1.001  pkg:cpan/CPAN-Audit@20260308.002
@@ -33818,7 +33818,7 @@ CPANPLUS::YACSmoke::ReAssemble      1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::SortVers        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::locallib        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::inc                      undef  pkg:cpan/CPANPLUS@0.84
-CPANSA::DB                         20260426.001  pkg:cpan/CPANSA-DB@20260426.001
+CPANSA::DB                         20260430.001  pkg:cpan/CPANSA-DB@20260430.001
 CPANSEC::Admin                     0.001  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command            undef  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command::Amend     undef  pkg:cpan/CPANSec-Admin@0.001
@@ -34920,7 +34920,7 @@ Captcha::noCAPTCHA                  0.16  pkg:cpan/Captcha-noCAPTCHA@0.16
 Captcha::reCAPTCHA                  0.99  pkg:cpan/Captcha-reCaptcha@0.99
 Captcha::reCAPTCHA::Mailhide        0.94  pkg:cpan/Captcha-reCAPTCHA-Mailhide@0.94
 Captcha::reCAPTCHA::V2               0.3  pkg:cpan/Captcha-reCAPTCHA-V2@0.3
-Captcha::reCAPTCHA::V3              0.09  pkg:cpan/Captcha-reCAPTCHA-V3@0.09
+Captcha::reCAPTCHA::V3              0.10  pkg:cpan/Captcha-reCAPTCHA-V3@0.10
 Captive::Portal                     4.10  pkg:cpan/Captive-Portal@4.10
 Captive::Portal::LockHandle         4.10  pkg:cpan/Captive-Portal@4.10
 Captive::Portal::Role::AuthenSimple  4.10  pkg:cpan/Captive-Portal@4.10
@@ -142661,7 +142661,7 @@ Music::RhythmSet                    0.06  pkg:cpan/Music-RhythmSet@0.06
 Music::RhythmSet::Util              0.06  pkg:cpan/Music-RhythmSet@0.06
 Music::RhythmSet::Voice             0.06  pkg:cpan/Music-RhythmSet@0.06
 Music::Scala                        1.08  pkg:cpan/Music-Scala@1.08
-Music::ScaleNote                   0.0900  pkg:cpan/Music-ScaleNote@0.0900
+Music::ScaleNote                   0.0901  pkg:cpan/Music-ScaleNote@0.0901
 Music::Scales                       0.07  pkg:cpan/Music-Scales@0.07
 Music::SimpleDrumMachine           0.0509  pkg:cpan/Music-SimpleDrumMachine@0.0509
 Music::Song                        undef  pkg:cpan/Gtk2-Ex-FormFactory@0.67
@@ -157453,45 +157453,45 @@ PAUSEx::Log::received              0.002  pkg:cpan/PAUSEx-Log@0.002
 PAUSEx::Log::renamed               0.002  pkg:cpan/PAUSEx-Log@0.002
 PAUSEx::Log::unknown               0.002  pkg:cpan/PAUSEx-Log@0.002
 PAUSEx::Log::verified              0.002  pkg:cpan/PAUSEx-Log@0.002
-PAX                                0.029  pkg:cpan/PAX@0.029
-PAX::AppImage                      0.029  pkg:cpan/PAX@0.029
-PAX::AppServer                     0.029  pkg:cpan/PAX@0.029
-PAX::ArtifactCache                 0.029  pkg:cpan/PAX@0.029
-PAX::Backend::Tier1CraneliftEquivalent 0.029  pkg:cpan/PAX@0.029
-PAX::Backend::Tier2LLVM            0.029  pkg:cpan/PAX@0.029
-PAX::Benchmark                     0.029  pkg:cpan/PAX@0.029
-PAX::BenchmarkMatrix               0.029  pkg:cpan/PAX@0.029
-PAX::CLI                           0.029  pkg:cpan/PAX@0.029
-PAX::CLI::Progress                 0.029  pkg:cpan/PAX@0.029
-PAX::CPANMatrix                    0.029  pkg:cpan/PAX@0.029
-PAX::Capture                       0.029  pkg:cpan/PAX@0.029
-PAX::CodeUnitCompiler              0.029  pkg:cpan/PAX@0.029
-PAX::Compatibility                 0.029  pkg:cpan/PAX@0.029
-PAX::CoreSuite                     0.029  pkg:cpan/PAX@0.029
-PAX::Corpus                        0.029  pkg:cpan/PAX@0.029
-PAX::DeoptEngine                   0.029  pkg:cpan/PAX@0.029
-PAX::Differential                  0.029  pkg:cpan/PAX@0.029
-PAX::Gatekeeper                    0.029  pkg:cpan/PAX@0.029
-PAX::GuardManager                  0.029  pkg:cpan/PAX@0.029
-PAX::GuardedSSA                    0.029  pkg:cpan/PAX@0.029
-PAX::HIR                           0.029  pkg:cpan/PAX@0.029
-PAX::HotRegionJIT                  0.029  pkg:cpan/PAX@0.029
-PAX::InlineCache                   0.029  pkg:cpan/PAX@0.029
-PAX::Manifest                      0.029  pkg:cpan/PAX@0.029
-PAX::Mode                          0.029  pkg:cpan/PAX@0.029
-PAX::NativeRunner                  0.029  pkg:cpan/PAX@0.029
-PAX::OSR                           0.029  pkg:cpan/PAX@0.029
-PAX::Paxfile                       0.029  pkg:cpan/PAX@0.029
-PAX::ProfileGuidedAOT              0.029  pkg:cpan/PAX@0.029
-PAX::ProfileStore                  0.029  pkg:cpan/PAX@0.029
-PAX::RegionSelector                0.029  pkg:cpan/PAX@0.029
-PAX::Runtime::Value                0.029  pkg:cpan/PAX@0.029
-PAX::RuntimeDispatcher             0.029  pkg:cpan/PAX@0.029
-PAX::StandaloneAnalysis            0.029  pkg:cpan/PAX@0.029
-PAX::StandaloneDispatch            0.029  pkg:cpan/PAX@0.029
-PAX::StandaloneImage               0.029  pkg:cpan/PAX@0.029
-PAX::StandaloneRuntime             0.029  pkg:cpan/PAX@0.029
-PAX::Tier1                         0.029  pkg:cpan/PAX@0.029
+PAX                                0.031  pkg:cpan/PAX@0.031
+PAX::AppImage                      0.031  pkg:cpan/PAX@0.031
+PAX::AppServer                     0.031  pkg:cpan/PAX@0.031
+PAX::ArtifactCache                 0.031  pkg:cpan/PAX@0.031
+PAX::Backend::Tier1CraneliftEquivalent 0.031  pkg:cpan/PAX@0.031
+PAX::Backend::Tier2LLVM            0.031  pkg:cpan/PAX@0.031
+PAX::Benchmark                     0.031  pkg:cpan/PAX@0.031
+PAX::BenchmarkMatrix               0.031  pkg:cpan/PAX@0.031
+PAX::CLI                           0.031  pkg:cpan/PAX@0.031
+PAX::CLI::Progress                 0.031  pkg:cpan/PAX@0.031
+PAX::CPANMatrix                    0.031  pkg:cpan/PAX@0.031
+PAX::Capture                       0.031  pkg:cpan/PAX@0.031
+PAX::CodeUnitCompiler              0.031  pkg:cpan/PAX@0.031
+PAX::Compatibility                 0.031  pkg:cpan/PAX@0.031
+PAX::CoreSuite                     0.031  pkg:cpan/PAX@0.031
+PAX::Corpus                        0.031  pkg:cpan/PAX@0.031
+PAX::DeoptEngine                   0.031  pkg:cpan/PAX@0.031
+PAX::Differential                  0.031  pkg:cpan/PAX@0.031
+PAX::Gatekeeper                    0.031  pkg:cpan/PAX@0.031
+PAX::GuardManager                  0.031  pkg:cpan/PAX@0.031
+PAX::GuardedSSA                    0.031  pkg:cpan/PAX@0.031
+PAX::HIR                           0.031  pkg:cpan/PAX@0.031
+PAX::HotRegionJIT                  0.031  pkg:cpan/PAX@0.031
+PAX::InlineCache                   0.031  pkg:cpan/PAX@0.031
+PAX::Manifest                      0.031  pkg:cpan/PAX@0.031
+PAX::Mode                          0.031  pkg:cpan/PAX@0.031
+PAX::NativeRunner                  0.031  pkg:cpan/PAX@0.031
+PAX::OSR                           0.031  pkg:cpan/PAX@0.031
+PAX::Paxfile                       0.031  pkg:cpan/PAX@0.031
+PAX::ProfileGuidedAOT              0.031  pkg:cpan/PAX@0.031
+PAX::ProfileStore                  0.031  pkg:cpan/PAX@0.031
+PAX::RegionSelector                0.031  pkg:cpan/PAX@0.031
+PAX::Runtime::Value                0.031  pkg:cpan/PAX@0.031
+PAX::RuntimeDispatcher             0.031  pkg:cpan/PAX@0.031
+PAX::StandaloneAnalysis            0.031  pkg:cpan/PAX@0.031
+PAX::StandaloneDispatch            0.031  pkg:cpan/PAX@0.031
+PAX::StandaloneImage               0.031  pkg:cpan/PAX@0.031
+PAX::StandaloneRuntime             0.031  pkg:cpan/PAX@0.031
+PAX::Tier1                         0.031  pkg:cpan/PAX@0.031
 PApp                                 2.4  pkg:cpan/PApp@2.4
 PApp::Admin                          2.4  pkg:cpan/PApp@2.4
 PApp::Application                    2.4  pkg:cpan/PApp@2.4
