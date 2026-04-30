@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 30 Apr 2026 15:43:58 GMT
+Last-Updated: Thu, 30 Apr 2026 17:12:49 GMT
 Line-Count: 264049
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -19964,7 +19964,7 @@ AtomBus                            1.0405  pkg:cpan/AtomBus@1.0405
 AtomBus::Schema                    undef  pkg:cpan/AtomBus@1.0405
 AtomBus::Schema::Result::AtomBusEntry undef  pkg:cpan/AtomBus@1.0405
 AtomBus::Schema::Result::AtomBusFeed undef  pkg:cpan/AtomBus@1.0405
-Atomic::Pipe                       0.023  pkg:cpan/Atomic-Pipe@0.023
+Atomic::Pipe                       0.029  pkg:cpan/Atomic-Pipe@0.029
 AtomicParsley::Command             1.153400  pkg:cpan/AtomicParsley-Command@1.153400
 AtomicParsley::Command::Tags       1.153400  pkg:cpan/AtomicParsley-Command@1.153400
 Atompub                            0.003007  pkg:cpan/Atompub@0.3.7
@@ -29271,7 +29271,7 @@ Bundle::DBD::InterBase              0.30  pkg:cpan/DBD-InterBase@0.43
 Bundle::DBD::JDBC                   0.72  pkg:cpan/DBD-JDBC@0.72
 Bundle::DBD::KB                    3.18.5  pkg:cpan/DBD-KB@3.18.5
 Bundle::DBD::PO                     2.10  pkg:cpan/Bundle-DBD-PO@2.10
-Bundle::DBD::Pg                    3.20.0  pkg:cpan/DBD-Pg@3.20.0
+Bundle::DBD::Pg                    3.20.1  pkg:cpan/DBD-Pg@3.20.1
 Bundle::DBD::PgAsync               0.008001  pkg:cpan/DBD-PgAsync@0.8.1
 Bundle::DBD::Sys                   0.102  pkg:cpan/DBD-Sys@0.102
 Bundle::DBD::Yaswi                  0.01  pkg:cpan/DBD-Yaswi@0.01
@@ -50887,7 +50887,7 @@ DBD::Patroni                        0.03  pkg:cpan/DBD-Patroni@0.03
 DBD::Patroni::db                    0.02  pkg:cpan/DBD-Patroni@0.02
 DBD::Patroni::dr                    0.02  pkg:cpan/DBD-Patroni@0.02
 DBD::Patroni::st                    0.02  pkg:cpan/DBD-Patroni@0.02
-DBD::Pg                            3.20.0  pkg:cpan/DBD-Pg@3.20.0
+DBD::Pg                            3.20.1  pkg:cpan/DBD-Pg@3.20.1
 DBD::PgAsync                       0.008001  pkg:cpan/DBD-PgAsync@0.8.1
 DBD::PgAsync::DefaultValue         0.008001  pkg:cpan/DBD-PgAsync@0.8.1
 DBD::PgAsync::db                   0.008001  pkg:cpan/DBD-PgAsync@0.8.1
@@ -142661,7 +142661,7 @@ Music::RhythmSet                    0.06  pkg:cpan/Music-RhythmSet@0.06
 Music::RhythmSet::Util              0.06  pkg:cpan/Music-RhythmSet@0.06
 Music::RhythmSet::Voice             0.06  pkg:cpan/Music-RhythmSet@0.06
 Music::Scala                        1.08  pkg:cpan/Music-Scala@1.08
-Music::ScaleNote                   0.0901  pkg:cpan/Music-ScaleNote@0.0901
+Music::ScaleNote                   0.0902  pkg:cpan/Music-ScaleNote@0.0902
 Music::Scales                       0.07  pkg:cpan/Music-Scales@0.07
 Music::SimpleDrumMachine           0.0509  pkg:cpan/Music-SimpleDrumMachine@0.0509
 Music::Song                        undef  pkg:cpan/Gtk2-Ex-FormFactory@0.67
