@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 01 May 2026 02:29:37 GMT
+Last-Updated: Fri, 01 May 2026 06:32:13 GMT
 Line-Count: 264053
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -51502,25 +51502,25 @@ DBIx::Class::AccessorGroup         undef  pkg:cpan/DBIx-Class@0.082844
 DBIx::Class::Admin                 undef  pkg:cpan/DBIx-Class@0.082844
 DBIx::Class::AlwaysUpdate          0.001  pkg:cpan/DBIx-Class-AlwaysUpdate@0.001
 DBIx::Class::AsFdat                 0.03  pkg:cpan/DBIx-Class-AsFdat@0.03
-DBIx::Class::Async                  0.65  pkg:cpan/DBIx-Class-Async@0.65
+DBIx::Class::Async                 v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
 DBIx::Class::Async::Cursor          0.25  pkg:cpan/DBIx-Class-Async@0.25
-DBIx::Class::Async::Exception       0.65  pkg:cpan/DBIx-Class-Async@0.65
-DBIx::Class::Async::Exception::AmbiguousColumn  0.65  pkg:cpan/DBIx-Class-Async@0.65
-DBIx::Class::Async::Exception::Factory  0.65  pkg:cpan/DBIx-Class-Async@0.65
-DBIx::Class::Async::Exception::MissingColumn  0.65  pkg:cpan/DBIx-Class-Async@0.65
-DBIx::Class::Async::Exception::NoSuchRelationship  0.65  pkg:cpan/DBIx-Class-Async@0.65
-DBIx::Class::Async::Exception::NotInStorage  0.65  pkg:cpan/DBIx-Class-Async@0.65
-DBIx::Class::Async::Exception::RelationshipAsColumn  0.65  pkg:cpan/DBIx-Class-Async@0.65
+DBIx::Class::Async::Exception      v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
+DBIx::Class::Async::Exception::AmbiguousColumn v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
+DBIx::Class::Async::Exception::Factory v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
+DBIx::Class::Async::Exception::MissingColumn v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
+DBIx::Class::Async::Exception::NoSuchRelationship v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
+DBIx::Class::Async::Exception::NotInStorage v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
+DBIx::Class::Async::Exception::RelationshipAsColumn v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
 DBIx::Class::Async::ResultComponent     0  pkg:cpan/DBIx-Class-Async@0.49
-DBIx::Class::Async::ResultSet       0.65  pkg:cpan/DBIx-Class-Async@0.65
-DBIx::Class::Async::ResultSet::Pager  0.65  pkg:cpan/DBIx-Class-Async@0.65
-DBIx::Class::Async::ResultSetColumn  0.65  pkg:cpan/DBIx-Class-Async@0.65
-DBIx::Class::Async::Row             0.65  pkg:cpan/DBIx-Class-Async@0.65
-DBIx::Class::Async::Schema          0.65  pkg:cpan/DBIx-Class-Async@0.65
-DBIx::Class::Async::SelectNormaliser  0.65  pkg:cpan/DBIx-Class-Async@0.65
-DBIx::Class::Async::Storage         0.65  pkg:cpan/DBIx-Class-Async@0.65
-DBIx::Class::Async::Storage::DBI    0.65  pkg:cpan/DBIx-Class-Async@0.65
-DBIx::Class::Async::Storage::DBI::Cursor  0.65  pkg:cpan/DBIx-Class-Async@0.65
+DBIx::Class::Async::ResultSet      v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
+DBIx::Class::Async::ResultSet::Pager v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
+DBIx::Class::Async::ResultSetColumn v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
+DBIx::Class::Async::Row            v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
+DBIx::Class::Async::Schema         v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
+DBIx::Class::Async::SelectNormaliser v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
+DBIx::Class::Async::Storage        v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
+DBIx::Class::Async::Storage::DBI   v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
+DBIx::Class::Async::Storage::DBI::Cursor v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
 DBIx::Class::Async::TxnGuard        0.36  pkg:cpan/DBIx-Class-Async@0.36
 DBIx::Class::AuditAny              0.200200  pkg:cpan/DBIx-Class-AuditAny@0.200200
 DBIx::Class::AuditAny::AuditContext::Change undef  pkg:cpan/DBIx-Class-AuditAny@0.200200
@@ -75187,11 +75187,11 @@ Finance::Tax::Aruba::Income::2023  0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::Tax::Aruba::Income::2025  0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::Tax::Aruba::Role::Income::TaxYear 0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::TickerSymbols              3.11  pkg:cpan/Finance-TickerSymbols@3.11?ext=zip
-Finance::Tiller2QIF                 1.02  pkg:cpan/Finance-Tiller2QIF@1.02
-Finance::Tiller2QIF::Map            1.02  pkg:cpan/Finance-Tiller2QIF@1.02
-Finance::Tiller2QIF::ReadCSV        1.02  pkg:cpan/Finance-Tiller2QIF@1.02
-Finance::Tiller2QIF::Util           1.02  pkg:cpan/Finance-Tiller2QIF@1.02
-Finance::Tiller2QIF::WriteQIF       1.02  pkg:cpan/Finance-Tiller2QIF@1.02
+Finance::Tiller2QIF                 1.03  pkg:cpan/Finance-Tiller2QIF@1.03
+Finance::Tiller2QIF::Map            1.03  pkg:cpan/Finance-Tiller2QIF@1.03
+Finance::Tiller2QIF::ReadCSV        1.03  pkg:cpan/Finance-Tiller2QIF@1.03
+Finance::Tiller2QIF::Util           1.03  pkg:cpan/Finance-Tiller2QIF@1.03
+Finance::Tiller2QIF::WriteQIF       1.03  pkg:cpan/Finance-Tiller2QIF@1.03
 Finance::USDX                       0.03  pkg:cpan/Finance-USDX@0.03
 Finance::Wesabe                     0.02  pkg:cpan/Finance-Wesabe@0.02
 Finance::Wesabe::Account           undef  pkg:cpan/Finance-Wesabe@0.02
@@ -229361,7 +229361,7 @@ Test::MockFile::FileHandle         0.039  pkg:cpan/Test-MockFile@0.039
 Test::MockFile::Plugin             0.039  pkg:cpan/Test-MockFile@0.039
 Test::MockFile::Plugin::FileTemp   0.039  pkg:cpan/Test-MockFile@0.039
 Test::MockFile::Plugins            0.039  pkg:cpan/Test-MockFile@0.039
-Test::MockModule                   v0.181.0  pkg:cpan/Test-MockModule@v0.181.0
+Test::MockModule                   v0.182.0  pkg:cpan/Test-MockModule@v0.182.0
 Test::MockObject                   1.20200122  pkg:cpan/Test-MockObject@1.20200122
 Test::MockObject::Chain             1.00  pkg:cpan/Test-MockObject-Chain@1.00?ext=zip
 Test::MockObject::Extends          1.20200122  pkg:cpan/Test-MockObject@1.20200122
