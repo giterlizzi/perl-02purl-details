@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 01 May 2026 14:49:10 GMT
-Line-Count: 264053
+Last-Updated: Fri, 01 May 2026 16:49:40 GMT
+Line-Count: 264065
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -77243,9 +77243,9 @@ Future::Q                          0.120  pkg:cpan/Future-Q@0.120
 Future::Queue                       0.52  pkg:cpan/Future-Queue@0.52
 Future::Role::Promisify            1.003  pkg:cpan/Future-Mojo@1.003
 Future::Selector                    0.05  pkg:cpan/Future-Selector@0.05
-Future::Uring                      0.004  pkg:cpan/Future-Uring@0.004
-Future::Uring::Exception           0.004  pkg:cpan/Future-Uring@0.004
-Future::Uring::Handle              0.004  pkg:cpan/Future-Uring@0.004
+Future::Uring                      0.005  pkg:cpan/Future-Uring@0.005
+Future::Uring::Exception           0.005  pkg:cpan/Future-Uring@0.005
+Future::Uring::Handle              0.005  pkg:cpan/Future-Uring@0.005
 Future::Utils                       0.52  pkg:cpan/Future@0.52
 Future::Workflow                    0.02  pkg:cpan/Future-Workflow@0.02
 Future::Workflow::Pipeline          0.02  pkg:cpan/Future-Workflow@0.02
@@ -155802,7 +155802,7 @@ OneTool::Configuration             undef  pkg:cpan/OneTool-Core@0.1
 OneTool::Daemon                    undef  pkg:cpan/OneTool-App-Core@0.1
 OnlineJudge::Progra                0.023  pkg:cpan/OnlineJudge-Progra@0.023
 OnlineJudge::Progra::Test          0.023  pkg:cpan/OnlineJudge-Progra@0.023
-Ontologies                         undef  pkg:cpan/Pheno-Ranker@1.07
+Ontologies                         undef  pkg:cpan/Pheno-Ranker@1.08
 Onyphe                             undef  pkg:cpan/Onyphe@4.18
 Onyphe::Api                        undef  pkg:cpan/Onyphe@4.18
 Oogaboogo::Date                     0.01  pkg:cpan/Oogaboogo-Date@0.01
@@ -195534,12 +195534,24 @@ Phaylon::Class::Cloner              0.01  pkg:cpan/Phaylon-Class-Cloner@0.01
 PheMail::General                    0.01  pkg:cpan/PheMail-General@0.01
 PheMail::Server                     0.04  pkg:cpan/PheMail-Server@0.04
 PheMail::Vhost                      0.14  pkg:cpan/PheMail-Vhost@0.14
-Pheno::Ranker                       1.07  pkg:cpan/Pheno-Ranker@1.07
+Pheno::Ranker                       1.08  pkg:cpan/Pheno-Ranker@1.08
 Pheno::Ranker::Align               undef  pkg:cpan/Pheno-Ranker@1.01
-Pheno::Ranker::Compare             undef  pkg:cpan/Pheno-Ranker@1.07
-Pheno::Ranker::Graph               undef  pkg:cpan/Pheno-Ranker@1.07
-Pheno::Ranker::IO                  undef  pkg:cpan/Pheno-Ranker@1.07
-Pheno::Ranker::Metrics             undef  pkg:cpan/Pheno-Ranker@1.07
+Pheno::Ranker::CLI                 undef  pkg:cpan/Pheno-Ranker@1.08
+Pheno::Ranker::Compare             undef  pkg:cpan/Pheno-Ranker@1.08
+Pheno::Ranker::Compare::Alignment  undef  pkg:cpan/Pheno-Ranker@1.08
+Pheno::Ranker::Compare::Encoding   undef  pkg:cpan/Pheno-Ranker@1.08
+Pheno::Ranker::Compare::Matrix     undef  pkg:cpan/Pheno-Ranker@1.08
+Pheno::Ranker::Compare::Ontology   undef  pkg:cpan/Pheno-Ranker@1.08
+Pheno::Ranker::Compare::Prepare    undef  pkg:cpan/Pheno-Ranker@1.08
+Pheno::Ranker::Compare::Prune      undef  pkg:cpan/Pheno-Ranker@1.08
+Pheno::Ranker::Compare::Rank       undef  pkg:cpan/Pheno-Ranker@1.08
+Pheno::Ranker::Compare::Remap      undef  pkg:cpan/Pheno-Ranker@1.08
+Pheno::Ranker::Config              undef  pkg:cpan/Pheno-Ranker@1.08
+Pheno::Ranker::Context             undef  pkg:cpan/Pheno-Ranker@1.08
+Pheno::Ranker::Graph               undef  pkg:cpan/Pheno-Ranker@1.08
+Pheno::Ranker::IO                  undef  pkg:cpan/Pheno-Ranker@1.08
+Pheno::Ranker::Metrics             undef  pkg:cpan/Pheno-Ranker@1.08
+Pheno::Ranker::Options             undef  pkg:cpan/Pheno-Ranker@1.08
 Pheno::Ranker::Stats               undef  pkg:cpan/Pheno-Ranker@1.02
 Phenyx::Utils::LSF::JobInfo        undef  pkg:cpan/Phenyx-Utils@0.0.3
 Phenyx::Utils::LSF::Submission     undef  pkg:cpan/Phenyx-Utils@0.0.3
