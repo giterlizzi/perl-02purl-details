@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 01 May 2026 06:32:13 GMT
+Last-Updated: Fri, 01 May 2026 09:27:23 GMT
 Line-Count: 264053
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -257807,11 +257807,11 @@ XS::Install::FrozenShit::Typemaps::InputMap  3.57  pkg:cpan/XS-Install@1.5.1
 XS::Install::FrozenShit::Typemaps::OutputMap  3.57  pkg:cpan/XS-Install@1.5.1
 XS::Install::FrozenShit::Typemaps::Type  3.57  pkg:cpan/XS-Install@1.5.1
 XS::Install::Payload               undef  pkg:cpan/XS-Install@1.5.2
-XS::JIT                             0.19  pkg:cpan/XS-JIT@0.19
-XS::JIT::Builder                    0.19  pkg:cpan/XS-JIT@0.19
-XS::JIT::Header                     0.19  pkg:cpan/XS-JIT@0.19
-XS::JIT::Header::Parser             0.19  pkg:cpan/XS-JIT@0.19
-XS::JIT::Header::TypeMap            0.19  pkg:cpan/XS-JIT@0.19
+XS::JIT                             0.20  pkg:cpan/XS-JIT@0.20
+XS::JIT::Builder                    0.20  pkg:cpan/XS-JIT@0.20
+XS::JIT::Header                     0.20  pkg:cpan/XS-JIT@0.20
+XS::JIT::Header::Parser             0.20  pkg:cpan/XS-JIT@0.20
+XS::JIT::Header::TypeMap            0.20  pkg:cpan/XS-JIT@0.20
 XS::Loader                         undef  pkg:cpan/XS-Install@1.5.2
 XS::Log                             1.12  pkg:cpan/XS-Log@1.12
 XS::Logger                         0.005  pkg:cpan/XS-Logger@0.005
