@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 01 May 2026 09:27:23 GMT
+Last-Updated: Fri, 01 May 2026 11:02:24 GMT
 Line-Count: 264053
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -73806,20 +73806,20 @@ File::Ignore                       0.021  pkg:cpan/File-Ignore@0.021
 File::IgnoreReadonly                0.01  pkg:cpan/File-IgnoreReadonly@0.01
 File::Index                         0.06  pkg:cpan/File-Index@0.06
 File::Info                          1.02  pkg:cpan/File-Info@1.02
-File::Information                  v0.16.0  pkg:cpan/File-Information@v0.16
-File::Information::Base            v0.16.0  pkg:cpan/File-Information@v0.16
-File::Information::Chunk           v0.16.0  pkg:cpan/File-Information@v0.16
-File::Information::Deep            v0.16.0  pkg:cpan/File-Information@v0.16
-File::Information::Editor          v0.16.0  pkg:cpan/File-Information@v0.16
-File::Information::Filesystem      v0.16.0  pkg:cpan/File-Information@v0.16
-File::Information::Inode           v0.16.0  pkg:cpan/File-Information@v0.16
-File::Information::Link            v0.16.0  pkg:cpan/File-Information@v0.16
-File::Information::Lock            v0.16.0  pkg:cpan/File-Information@v0.16
-File::Information::Remote          v0.16.0  pkg:cpan/File-Information@v0.16
-File::Information::Tagpool         v0.16.0  pkg:cpan/File-Information@v0.16
-File::Information::VerifyBase      v0.16.0  pkg:cpan/File-Information@v0.16
-File::Information::VerifyResult    v0.16.0  pkg:cpan/File-Information@v0.16
-File::Information::VerifyTestResult v0.16.0  pkg:cpan/File-Information@v0.16
+File::Information                  v0.17.0  pkg:cpan/File-Information@v0.17
+File::Information::Base            v0.17.0  pkg:cpan/File-Information@v0.17
+File::Information::Chunk           v0.17.0  pkg:cpan/File-Information@v0.17
+File::Information::Deep            v0.17.0  pkg:cpan/File-Information@v0.17
+File::Information::Editor          v0.17.0  pkg:cpan/File-Information@v0.17
+File::Information::Filesystem      v0.17.0  pkg:cpan/File-Information@v0.17
+File::Information::Inode           v0.17.0  pkg:cpan/File-Information@v0.17
+File::Information::Link            v0.17.0  pkg:cpan/File-Information@v0.17
+File::Information::Lock            v0.17.0  pkg:cpan/File-Information@v0.17
+File::Information::Remote          v0.17.0  pkg:cpan/File-Information@v0.17
+File::Information::Tagpool         v0.17.0  pkg:cpan/File-Information@v0.17
+File::Information::VerifyBase      v0.17.0  pkg:cpan/File-Information@v0.17
+File::Information::VerifyResult    v0.17.0  pkg:cpan/File-Information@v0.17
+File::Information::VerifyTestResult v0.17.0  pkg:cpan/File-Information@v0.17
 File::Inplace                       0.20  pkg:cpan/File-Inplace@0.20
 File::Irenamer                      1.03  pkg:cpan/File-Irenamer@1.03
 File::IsSorted                     v0.2.0  pkg:cpan/File-IsSorted@0.2.0
