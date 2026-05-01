@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 01 May 2026 19:01:48 GMT
+Last-Updated: Fri, 01 May 2026 20:43:14 GMT
 Line-Count: 264065
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -229373,7 +229373,7 @@ Test::MockFile::FileHandle         0.039  pkg:cpan/Test-MockFile@0.039
 Test::MockFile::Plugin             0.039  pkg:cpan/Test-MockFile@0.039
 Test::MockFile::Plugin::FileTemp   0.039  pkg:cpan/Test-MockFile@0.039
 Test::MockFile::Plugins            0.039  pkg:cpan/Test-MockFile@0.039
-Test::MockModule                   v0.182.0  pkg:cpan/Test-MockModule@v0.182.0
+Test::MockModule                   v0.183.0  pkg:cpan/Test-MockModule@v0.183.0
 Test::MockObject                   1.20200122  pkg:cpan/Test-MockObject@1.20200122
 Test::MockObject::Chain             1.00  pkg:cpan/Test-MockObject-Chain@1.00?ext=zip
 Test::MockObject::Extends          1.20200122  pkg:cpan/Test-MockObject@1.20200122
