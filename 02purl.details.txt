@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 02 May 2026 06:02:10 GMT
+Last-Updated: Sat, 02 May 2026 08:59:13 GMT
 Line-Count: 264065
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -33263,13 +33263,13 @@ CPAN::Meta::Validator              2.150013  pkg:cpan/CPAN-Meta@2.150013
 CPAN::Meta::X                      0.010  pkg:cpan/CPAN-Meta-X@0.010
 CPAN::Meta::X::Old                 0.010  pkg:cpan/CPAN-Meta-X@0.010
 CPAN::Meta::YAML                   0.020  pkg:cpan/CPAN-Meta-YAML@0.020
-CPAN::MetaCurator                   1.15  pkg:cpan/CPAN-MetaCurator@1.15?ext=tgz
-CPAN::MetaCurator::Config           1.15  pkg:cpan/CPAN-MetaCurator@1.15?ext=tgz
-CPAN::MetaCurator::Create           1.15  pkg:cpan/CPAN-MetaCurator@1.15?ext=tgz
-CPAN::MetaCurator::Database         1.15  pkg:cpan/CPAN-MetaCurator@1.15?ext=tgz
-CPAN::MetaCurator::Export           1.15  pkg:cpan/CPAN-MetaCurator@1.15?ext=tgz
-CPAN::MetaCurator::HTML             1.15  pkg:cpan/CPAN-MetaCurator@1.15?ext=tgz
-CPAN::MetaCurator::Import           1.15  pkg:cpan/CPAN-MetaCurator@1.15?ext=tgz
+CPAN::MetaCurator                   1.17  pkg:cpan/CPAN-MetaCurator@1.17?ext=tgz
+CPAN::MetaCurator::Config           1.17  pkg:cpan/CPAN-MetaCurator@1.17?ext=tgz
+CPAN::MetaCurator::Create           1.17  pkg:cpan/CPAN-MetaCurator@1.17?ext=tgz
+CPAN::MetaCurator::Database         1.17  pkg:cpan/CPAN-MetaCurator@1.17?ext=tgz
+CPAN::MetaCurator::Export           1.17  pkg:cpan/CPAN-MetaCurator@1.17?ext=tgz
+CPAN::MetaCurator::HTML             1.17  pkg:cpan/CPAN-MetaCurator@1.17?ext=tgz
+CPAN::MetaCurator::Import           1.17  pkg:cpan/CPAN-MetaCurator@1.17?ext=tgz
 CPAN::MetaPackager                  1.01  pkg:cpan/CPAN-MetaPackager@1.01?ext=tgz
 CPAN::MetaPackager::Config          1.01  pkg:cpan/CPAN-MetaPackager@1.01?ext=tgz
 CPAN::MetaPackager::Create          1.01  pkg:cpan/CPAN-MetaPackager@1.01?ext=tgz
@@ -233689,7 +233689,7 @@ Time::StasisField                   0.01  pkg:cpan/Time-StasisField@0.01
 Time::Stats                          1.0  pkg:cpan/Time-Stats@1.0?ext=tgz
 Time::StopWatchWithMessage          0.06  pkg:cpan/Time-StopWatchWithMessage@0.06
 Time::Stopwatch                     1.00  pkg:cpan/Time-Stopwatch@1.00
-Time::Str                           0.04  pkg:cpan/Time-Str@0.04
+Time::Str                           0.05  pkg:cpan/Time-Str@0.05
 Time::Strptime                      1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::Format              1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::TimeZone           undef  pkg:cpan/Time-Strptime@1.04
