@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 01 May 2026 22:42:29 GMT
+Last-Updated: Sat, 02 May 2026 02:06:18 GMT
 Line-Count: 264065
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -66517,12 +66517,12 @@ Dist::Zilla::Plugin::DistINI       6.037  pkg:cpan/Dist-Zilla@6.037
 Dist::Zilla::Plugin::DistIller::MetaGeneratedBy 0.1411  pkg:cpan/Dist-Iller@0.1411
 Dist::Zilla::Plugin::DistManifestTests 2.000006  pkg:cpan/Dist-Zilla-Plugin-Test-DistManifest@2.000006
 Dist::Zilla::Plugin::Docker         0.01  pkg:cpan/Dist-Zilla-Plugin-Docker@0.01
-Dist::Zilla::Plugin::Docker::API   0.001  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.001
-Dist::Zilla::Plugin::Docker::API::Client 0.001  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.001
-Dist::Zilla::Plugin::Docker::API::Config 0.001  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.001
-Dist::Zilla::Plugin::Docker::API::Context 0.001  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.001
-Dist::Zilla::Plugin::Docker::API::Result 0.001  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.001
-Dist::Zilla::Plugin::Docker::API::TagTemplate 0.001  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.001
+Dist::Zilla::Plugin::Docker::API   0.002  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.002
+Dist::Zilla::Plugin::Docker::API::Client 0.002  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.002
+Dist::Zilla::Plugin::Docker::API::Config 0.002  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.002
+Dist::Zilla::Plugin::Docker::API::Context 0.002  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.002
+Dist::Zilla::Plugin::Docker::API::Result 0.002  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.002
+Dist::Zilla::Plugin::Docker::API::TagTemplate 0.002  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.002
 Dist::Zilla::Plugin::Docker::DockerClient  0.01  pkg:cpan/Dist-Zilla-Plugin-Docker@0.01
 Dist::Zilla::Plugin::Documentation::SQL  0.03  pkg:cpan/Dist-Zilla-Plugin-Documentation-SQL@0.03
 Dist::Zilla::Plugin::Doppelgaenger 0.008  pkg:cpan/Dist-Zilla-Plugin-Doppelgaenger@0.008
@@ -114938,7 +114938,7 @@ JSON::Schema::Helper               0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Modern               0.638  pkg:cpan/JSON-Schema-Modern@0.638
 JSON::Schema::Modern::Annotation   0.638  pkg:cpan/JSON-Schema-Modern@0.638
 JSON::Schema::Modern::Document     0.638  pkg:cpan/JSON-Schema-Modern@0.638
-JSON::Schema::Modern::Document::OpenAPI 0.134  pkg:cpan/OpenAPI-Modern@0.134
+JSON::Schema::Modern::Document::OpenAPI 0.135  pkg:cpan/OpenAPI-Modern@0.135
 JSON::Schema::Modern::Error        0.638  pkg:cpan/JSON-Schema-Modern@0.638
 JSON::Schema::Modern::Result       0.638  pkg:cpan/JSON-Schema-Modern@0.638
 JSON::Schema::Modern::ResultNode   0.638  pkg:cpan/JSON-Schema-Modern@0.638
@@ -114950,8 +114950,8 @@ JSON::Schema::Modern::Vocabulary::Core 0.638  pkg:cpan/JSON-Schema-Modern@0.638
 JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.638  pkg:cpan/JSON-Schema-Modern@0.638
 JSON::Schema::Modern::Vocabulary::FormatAssertion 0.638  pkg:cpan/JSON-Schema-Modern@0.638
 JSON::Schema::Modern::Vocabulary::MetaData 0.638  pkg:cpan/JSON-Schema-Modern@0.638
-JSON::Schema::Modern::Vocabulary::OpenAPI 0.134  pkg:cpan/OpenAPI-Modern@0.134
-JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.134  pkg:cpan/OpenAPI-Modern@0.134
+JSON::Schema::Modern::Vocabulary::OpenAPI 0.135  pkg:cpan/OpenAPI-Modern@0.135
+JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.135  pkg:cpan/OpenAPI-Modern@0.135
 JSON::Schema::Modern::Vocabulary::Unevaluated 0.638  pkg:cpan/JSON-Schema-Modern@0.638
 JSON::Schema::Modern::Vocabulary::Validation 0.638  pkg:cpan/JSON-Schema-Modern@0.638
 JSON::Schema::Null                 0.016  pkg:cpan/JSON-Schema@0.016
@@ -155845,8 +155845,8 @@ OpenAPI::Generator::From::Pod      undef  pkg:cpan/OpenAPI-Generator@0.06
 OpenAPI::Generator::Util           undef  pkg:cpan/OpenAPI-Generator@0.06
 OpenAPI::Linter                     0.19  pkg:cpan/OpenAPI-Linter@0.19
 OpenAPI::Linter::Location           0.19  pkg:cpan/OpenAPI-Linter@0.19
-OpenAPI::Modern                    0.134  pkg:cpan/OpenAPI-Modern@0.134
-OpenAPI::Modern::Utilities         0.134  pkg:cpan/OpenAPI-Modern@0.134
+OpenAPI::Modern                    0.135  pkg:cpan/OpenAPI-Modern@0.135
+OpenAPI::Modern::Utilities         0.135  pkg:cpan/OpenAPI-Modern@0.135
 OpenAPI::PerlGenerator              0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
 OpenAPI::PerlGenerator::Template    0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
 OpenAPI::PerlGenerator::Template::Mojo  0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
