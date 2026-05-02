@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 02 May 2026 18:48:59 GMT
+Last-Updated: Sat, 02 May 2026 20:34:26 GMT
 Line-Count: 264065
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -68917,9 +68917,9 @@ EV::Glib                            2.01  pkg:cpan/EV-Glib@2.01
 EV::Hiredis                         0.07  pkg:cpan/EV-Hiredis@0.07
 EV::IO                             undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Idle                           undef  pkg:cpan/App-SimpleBackuper@0.2.22
-EV::Kafka                           0.01  pkg:cpan/EV-Kafka@0.01
-EV::Kafka::Client                   0.01  pkg:cpan/EV-Kafka@0.01
-EV::Kafka::Conn                     0.01  pkg:cpan/EV-Kafka@0.01
+EV::Kafka                           0.02  pkg:cpan/EV-Kafka@0.02
+EV::Kafka::Client                   0.02  pkg:cpan/EV-Kafka@0.02
+EV::Kafka::Conn                     0.02  pkg:cpan/EV-Kafka@0.02
 EV::Loop                           undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Loop::Async                     1.01  pkg:cpan/EV-Loop-Async@1.01
 EV::MakeMaker                      undef  pkg:cpan/EV@4.37
