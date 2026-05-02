@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 02 May 2026 14:40:50 GMT
+Last-Updated: Sat, 02 May 2026 16:38:49 GMT
 Line-Count: 264065
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -29272,7 +29272,7 @@ Bundle::DBD::InterBase              0.30  pkg:cpan/DBD-InterBase@0.43
 Bundle::DBD::JDBC                   0.72  pkg:cpan/DBD-JDBC@0.72
 Bundle::DBD::KB                    3.18.5  pkg:cpan/DBD-KB@3.18.5
 Bundle::DBD::PO                     2.10  pkg:cpan/Bundle-DBD-PO@2.10
-Bundle::DBD::Pg                    3.20.1  pkg:cpan/DBD-Pg@3.20.1
+Bundle::DBD::Pg                    3.20.2  pkg:cpan/DBD-Pg@3.20.2
 Bundle::DBD::PgAsync               0.008001  pkg:cpan/DBD-PgAsync@0.8.1
 Bundle::DBD::Sys                   0.102  pkg:cpan/DBD-Sys@0.102
 Bundle::DBD::Yaswi                  0.01  pkg:cpan/DBD-Yaswi@0.01
@@ -30704,10 +30704,10 @@ Business::TrueLayer::User          undef  pkg:cpan/Business-TrueLayer@0.05
 Business::TrueLayer::Webhook       undef  pkg:cpan/Business-TrueLayer@0.05
 Business::TrueLayer::Webhook::Mandate undef  pkg:cpan/Business-TrueLayer@0.05
 Business::TrueLayer::Webhook::Resource undef  pkg:cpan/Business-TrueLayer@0.05
-Business::UDC                       0.05  pkg:cpan/Business-UDC@0.05
-Business::UDC::Grammar              0.05  pkg:cpan/Business-UDC@0.05
-Business::UDC::Parser               0.05  pkg:cpan/Business-UDC@0.05
-Business::UDC::Tokenizer            0.05  pkg:cpan/Business-UDC@0.05
+Business::UDC                       0.06  pkg:cpan/Business-UDC@0.06
+Business::UDC::Grammar              0.06  pkg:cpan/Business-UDC@0.06
+Business::UDC::Parser               0.06  pkg:cpan/Business-UDC@0.06
+Business::UDC::Tokenizer            0.06  pkg:cpan/Business-UDC@0.06
 Business::UPC                       0.06  pkg:cpan/Business-UPC@0.06
 Business::UPS                       2.04  pkg:cpan/Business-UPS@2.04
 Business::UPS::Tracking             1.13  pkg:cpan/Business-UPS-Tracking@1.13
@@ -50888,7 +50888,7 @@ DBD::Patroni                        0.03  pkg:cpan/DBD-Patroni@0.03
 DBD::Patroni::db                    0.02  pkg:cpan/DBD-Patroni@0.02
 DBD::Patroni::dr                    0.02  pkg:cpan/DBD-Patroni@0.02
 DBD::Patroni::st                    0.02  pkg:cpan/DBD-Patroni@0.02
-DBD::Pg                            3.20.1  pkg:cpan/DBD-Pg@3.20.1
+DBD::Pg                            3.20.2  pkg:cpan/DBD-Pg@3.20.2
 DBD::PgAsync                       0.008001  pkg:cpan/DBD-PgAsync@0.8.1
 DBD::PgAsync::DefaultValue         0.008001  pkg:cpan/DBD-PgAsync@0.8.1
 DBD::PgAsync::db                   0.008001  pkg:cpan/DBD-PgAsync@0.8.1
@@ -114938,7 +114938,7 @@ JSON::Schema::Helper               0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Modern               0.638  pkg:cpan/JSON-Schema-Modern@0.638
 JSON::Schema::Modern::Annotation   0.638  pkg:cpan/JSON-Schema-Modern@0.638
 JSON::Schema::Modern::Document     0.638  pkg:cpan/JSON-Schema-Modern@0.638
-JSON::Schema::Modern::Document::OpenAPI 0.135  pkg:cpan/OpenAPI-Modern@0.135
+JSON::Schema::Modern::Document::OpenAPI 0.136  pkg:cpan/OpenAPI-Modern@0.136
 JSON::Schema::Modern::Error        0.638  pkg:cpan/JSON-Schema-Modern@0.638
 JSON::Schema::Modern::Result       0.638  pkg:cpan/JSON-Schema-Modern@0.638
 JSON::Schema::Modern::ResultNode   0.638  pkg:cpan/JSON-Schema-Modern@0.638
@@ -114950,8 +114950,8 @@ JSON::Schema::Modern::Vocabulary::Core 0.638  pkg:cpan/JSON-Schema-Modern@0.638
 JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.638  pkg:cpan/JSON-Schema-Modern@0.638
 JSON::Schema::Modern::Vocabulary::FormatAssertion 0.638  pkg:cpan/JSON-Schema-Modern@0.638
 JSON::Schema::Modern::Vocabulary::MetaData 0.638  pkg:cpan/JSON-Schema-Modern@0.638
-JSON::Schema::Modern::Vocabulary::OpenAPI 0.135  pkg:cpan/OpenAPI-Modern@0.135
-JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.135  pkg:cpan/OpenAPI-Modern@0.135
+JSON::Schema::Modern::Vocabulary::OpenAPI 0.136  pkg:cpan/OpenAPI-Modern@0.136
+JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.136  pkg:cpan/OpenAPI-Modern@0.136
 JSON::Schema::Modern::Vocabulary::Unevaluated 0.638  pkg:cpan/JSON-Schema-Modern@0.638
 JSON::Schema::Modern::Vocabulary::Validation 0.638  pkg:cpan/JSON-Schema-Modern@0.638
 JSON::Schema::Null                 0.016  pkg:cpan/JSON-Schema@0.016
@@ -155845,8 +155845,8 @@ OpenAPI::Generator::From::Pod      undef  pkg:cpan/OpenAPI-Generator@0.06
 OpenAPI::Generator::Util           undef  pkg:cpan/OpenAPI-Generator@0.06
 OpenAPI::Linter                     0.19  pkg:cpan/OpenAPI-Linter@0.19
 OpenAPI::Linter::Location           0.19  pkg:cpan/OpenAPI-Linter@0.19
-OpenAPI::Modern                    0.135  pkg:cpan/OpenAPI-Modern@0.135
-OpenAPI::Modern::Utilities         0.135  pkg:cpan/OpenAPI-Modern@0.135
+OpenAPI::Modern                    0.136  pkg:cpan/OpenAPI-Modern@0.136
+OpenAPI::Modern::Utilities         0.136  pkg:cpan/OpenAPI-Modern@0.136
 OpenAPI::PerlGenerator              0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
 OpenAPI::PerlGenerator::Template    0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
 OpenAPI::PerlGenerator::Template::Mojo  0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
