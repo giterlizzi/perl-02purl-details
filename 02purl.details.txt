@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 02 May 2026 16:38:49 GMT
+Last-Updated: Sat, 02 May 2026 18:48:59 GMT
 Line-Count: 264065
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -7715,7 +7715,7 @@ Apache::Session::Generate::DBMS      0.1  pkg:cpan/Apache-Session-DBMS@0.32
 Apache::Session::Generate::MD5      2.12  pkg:cpan/Apache-Session@1.94
 Apache::Session::Generate::ModUniqueId  0.02  pkg:cpan/Apache-Session@1.94
 Apache::Session::Generate::ModUsertrack  0.02  pkg:cpan/Apache-Session@1.94
-Apache::Session::Generate::Random  0.002001  pkg:cpan/Apache-Session-Generate-Random@0.002001
+Apache::Session::Generate::Random  0.002002  pkg:cpan/Apache-Session-Generate-Random@0.002002
 Apache::Session::Generate::SHA256  v1.2.2  pkg:cpan/Apache-Session-Browseable@1.3.18
 Apache::Session::Generate::UUID      0.2  pkg:cpan/Apache-Session-Generate-UUID@0.2
 Apache::Session::IPC                0.01  pkg:cpan/Apache-Session@0.17.1
@@ -7794,7 +7794,7 @@ Apache::Session::libmemcached       0.01  pkg:cpan/Apache-Session-libmemcached@0
 Apache::SessionManager              1.03  pkg:cpan/Apache-SessionManager@1.03
 Apache::SessionX                    2.01  pkg:cpan/Apache-SessionX@2.01
 Apache::SessionX::Generate::MD5      2.2  pkg:cpan/Apache-SessionX@2.01
-Apache::SessionX::Generate::Random 0.002001  pkg:cpan/Apache-Session-Generate-Random@0.002001
+Apache::SessionX::Generate::Random 0.002002  pkg:cpan/Apache-Session-Generate-Random@0.002002
 Apache::SessionX::Manager           2.00  pkg:cpan/Apache-SessionX@2.01
 Apache::SessionX::Store::File       2.00  pkg:cpan/Apache-SessionX@2.01
 Apache::SetWWWTheme                 1.06  pkg:cpan/Apache-SetWWWTheme@1.06
@@ -15369,44 +15369,44 @@ App::cpanreports                   0.004  pkg:cpan/App-cpanreports@0.004
 App::cpantested                    0.003  pkg:cpan/App-cpantested@0.003
 App::cpanthanks                     0.03  pkg:cpan/App-cpanthanks@0.03
 App::cpantimes                     1.502101  pkg:cpan/App-cpantimes@1.502101
-App::cpm                           v1.0.1  pkg:cpan/App-cpm@v1.0.1
-App::cpm::Builder::Base            undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::Builder::EUMM            undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::Builder::MB              undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::Builder::Prebuilt        undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::Builder::Static          undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::CLI                      undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::CircularDependency       undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::Context                  undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::DistNotation             undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::Distribution             undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::HTTP                     undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::Installer::Unpacker      undef  pkg:cpan/App-cpm@v1.0.1
+App::cpm                           v1.0.3  pkg:cpan/App-cpm@v1.0.3
+App::cpm::Builder::Base            undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::Builder::EUMM            undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::Builder::MB              undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::Builder::Prebuilt        undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::Builder::Static          undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::CLI                      undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::CircularDependency       undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::Context                  undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::DistNotation             undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::Distribution             undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::HTTP                     undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::Installer::Unpacker      undef  pkg:cpan/App-cpm@v1.0.3
 App::cpm::Job                      undef  pkg:cpan/App-cpm@0.997003
-App::cpm::Logger                   undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::Logger::File             undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::Logger::Terminal         undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::Master                   undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::Requirement              undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::Resolver                 undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::Resolver::02Packages     undef  pkg:cpan/App-cpm@v1.0.1
+App::cpm::Logger                   undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::Logger::File             undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::Logger::Terminal         undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::Master                   undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::Requirement              undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::Resolver                 undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::Resolver::02Packages     undef  pkg:cpan/App-cpm@v1.0.3
 App::cpm::Resolver::CPANfile       undef  pkg:cpan/App-cpm@0.997005
-App::cpm::Resolver::Cascade        undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::Resolver::Custom         undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::Resolver::Fixed          undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::Resolver::MetaCPAN       undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::Resolver::MetaDB         undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::Resolver::Snapshot       undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::Task                     undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::Tutorial                 undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::Util                     undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::Worker                   undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::Worker::Installer        undef  pkg:cpan/App-cpm@v1.0.1
+App::cpm::Resolver::Cascade        undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::Resolver::Custom         undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::Resolver::Fixed          undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::Resolver::MetaCPAN       undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::Resolver::MetaDB         undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::Resolver::Snapshot       undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::Task                     undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::Tutorial                 undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::Util                     undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::Worker                   undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::Worker::Installer        undef  pkg:cpan/App-cpm@v1.0.3
 App::cpm::Worker::Installer::Menlo undef  pkg:cpan/App-cpm@0.997024
-App::cpm::Worker::Installer::Prebuilt undef  pkg:cpan/App-cpm@v1.0.1
-App::cpm::Worker::Resolver         undef  pkg:cpan/App-cpm@v1.0.1
+App::cpm::Worker::Installer::Prebuilt undef  pkg:cpan/App-cpm@v1.0.3
+App::cpm::Worker::Resolver         undef  pkg:cpan/App-cpm@v1.0.3
 App::cpm::file                     undef  pkg:cpan/App-cpm@0.997004
-App::cpm::version                  undef  pkg:cpan/App-cpm@v1.0.1
+App::cpm::version                  undef  pkg:cpan/App-cpm@v1.0.3
 App::cpx                            0.04  pkg:cpan/App-cpx@0.04
 App::crosstable                    0.110  pkg:cpan/App-crosstable@0.110
 App::cryp::Cmd::Exchange::accounts 0.012  pkg:cpan/App-cryp-exchange@0.012
@@ -68938,7 +68938,7 @@ EV::Stat                           undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Timer                          undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Watcher                        undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Watcher::Bind                  0.00001  pkg:cpan/EV-Watcher-Bind@0.00001
-EV::Websockets                      0.05  pkg:cpan/EV-Websockets@0.05
+EV::Websockets                      0.06  pkg:cpan/EV-Websockets@0.06
 EV::Websockets::Connection          0.05  pkg:cpan/EV-Websockets@0.05
 EV::Websockets::Context             0.05  pkg:cpan/EV-Websockets@0.05
 EV::cares                           0.01  pkg:cpan/EV-cares@0.01
@@ -196426,7 +196426,7 @@ Plack::Middleware::AutoReloadCSS    0.02  pkg:cpan/Plack-Middleware-AutoReloadCS
 Plack::Middleware::AxsLog           0.21  pkg:cpan/Plack-Middleware-AxsLog@0.21
 Plack::Middleware::BasicStyle      0.001001  pkg:cpan/Plack-Middleware-BasicStyle@0.001001
 Plack::Middleware::BetterStackTrace  0.02  pkg:cpan/Plack-Middleware-BetterStackTrace@0.02
-Plack::Middleware::BlockHeaderInjection v1.3.0  pkg:cpan/Plack-Middleware-BlockHeaderInjection@v1.3.0
+Plack::Middleware::BlockHeaderInjection v1.3.1  pkg:cpan/Plack-Middleware-BlockHeaderInjection@v1.3.1
 Plack::Middleware::Bootstrap        0.08  pkg:cpan/Plack-Middleware-Bootstrap@0.08
 Plack::Middleware::BotDetector     undef  pkg:cpan/Plack-Middleware-BotDetector@1.20170315.1614
 Plack::Middleware::BrowserDetector undef  pkg:cpan/Plack-Middleware-BrowserDetector@0.04
@@ -196784,7 +196784,7 @@ Plack::Middleware::SuppressResponseCodes   0.2  pkg:cpan/Plack-Middleware-Suppre
 Plack::Middleware::TMT              0.04  pkg:cpan/Plack-Middleware-TMT@0.04
 Plack::Middleware::TemplateToolkit  0.28  pkg:cpan/Plack-Middleware-TemplateToolkit@0.28
 Plack::Middleware::Test::StashWarnings  0.08  pkg:cpan/Plack-Middleware-Test-StashWarnings@0.08
-Plack::Middleware::Text::Minify    v0.4.1  pkg:cpan/Plack-Middleware-Text-Minify@v0.4.1
+Plack::Middleware::Text::Minify    v0.4.2  pkg:cpan/Plack-Middleware-Text-Minify@v0.4.2
 Plack::Middleware::Throttle         0.01  pkg:cpan/Plack-Middleware-Throttle@0.01
 Plack::Middleware::Throttle::Backend::Hash undef  pkg:cpan/Plack-Middleware-Throttle@0.01
 Plack::Middleware::Throttle::Daily undef  pkg:cpan/Plack-Middleware-Throttle@0.01
