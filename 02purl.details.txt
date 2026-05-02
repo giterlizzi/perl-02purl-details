@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 02 May 2026 12:54:59 GMT
+Last-Updated: Sat, 02 May 2026 14:40:50 GMT
 Line-Count: 264065
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -11024,7 +11024,7 @@ App::MARC::Count                    0.04  pkg:cpan/App-MARC-Count@0.04
 App::MARC::Field008                 0.01  pkg:cpan/App-MARC-Field008@0.01
 App::MARC::Filter                    0.1  pkg:cpan/App-MARC-Filter@0.10
 App::MARC::Leader                   0.11  pkg:cpan/App-MARC-Leader@0.11
-App::MARC::List                     0.08  pkg:cpan/App-MARC-List@0.08
+App::MARC::List                     0.09  pkg:cpan/App-MARC-List@0.09
 App::MARC::Record::Stats            0.02  pkg:cpan/App-MARC-Record-Stats@0.02
 App::MARC::Validator                0.08  pkg:cpan/App-MARC-Validator@0.08
 App::MARC::Validator::Report        0.04  pkg:cpan/App-MARC-Validator-Report@0.04
@@ -199909,17 +199909,17 @@ Protocol::SocketIO::Message        undef  pkg:cpan/Protocol-SocketIO@0.07
 Protocol::SocketIO::Path           undef  pkg:cpan/Protocol-SocketIO@0.07
 Protocol::Star::Linemode             1.0  pkg:cpan/Protocol-Star-Linemode@1.0.0
 Protocol::Star::Linemode::Generated undef  pkg:cpan/Protocol-Star-Linemode@1.0.0
-Protocol::Sys::Virt                12.002000  pkg:cpan/Protocol-Sys-Virt@v12.2.0
+Protocol::Sys::Virt                12.003000  pkg:cpan/Protocol-Sys-Virt@v12.3.0
 Protocol::Sys::Virt::Devel         1.000001  pkg:cpan/Protocol-Sys-Virt-Devel@v1.0.1
-Protocol::Sys::Virt::KeepAlive     12.002000  pkg:cpan/Protocol-Sys-Virt@v12.2.0
-Protocol::Sys::Virt::KeepAlive::XDR 12.002000  pkg:cpan/Protocol-Sys-Virt@v12.2.0
-Protocol::Sys::Virt::Remote        12.002000  pkg:cpan/Protocol-Sys-Virt@v12.2.0
-Protocol::Sys::Virt::Remote::XDR   12.002000  pkg:cpan/Protocol-Sys-Virt@v12.2.0
-Protocol::Sys::Virt::Transport     12.002000  pkg:cpan/Protocol-Sys-Virt@v12.2.0
-Protocol::Sys::Virt::Transport::XDR 12.002000  pkg:cpan/Protocol-Sys-Virt@v12.2.0
-Protocol::Sys::Virt::TypedParams   12.002000  pkg:cpan/Protocol-Sys-Virt@v12.2.0
-Protocol::Sys::Virt::UNIXSocket    12.002000  pkg:cpan/Protocol-Sys-Virt@v12.2.0
-Protocol::Sys::Virt::URI           12.002000  pkg:cpan/Protocol-Sys-Virt@v12.2.0
+Protocol::Sys::Virt::KeepAlive     12.003000  pkg:cpan/Protocol-Sys-Virt@v12.3.0
+Protocol::Sys::Virt::KeepAlive::XDR 12.003000  pkg:cpan/Protocol-Sys-Virt@v12.3.0
+Protocol::Sys::Virt::Remote        12.003000  pkg:cpan/Protocol-Sys-Virt@v12.3.0
+Protocol::Sys::Virt::Remote::XDR   12.003000  pkg:cpan/Protocol-Sys-Virt@v12.3.0
+Protocol::Sys::Virt::Transport     12.003000  pkg:cpan/Protocol-Sys-Virt@v12.3.0
+Protocol::Sys::Virt::Transport::XDR 12.003000  pkg:cpan/Protocol-Sys-Virt@v12.3.0
+Protocol::Sys::Virt::TypedParams   12.003000  pkg:cpan/Protocol-Sys-Virt@v12.3.0
+Protocol::Sys::Virt::UNIXSocket    12.003000  pkg:cpan/Protocol-Sys-Virt@v12.3.0
+Protocol::Sys::Virt::URI           12.003000  pkg:cpan/Protocol-Sys-Virt@v12.3.0
 Protocol::TLS                       0.04  pkg:cpan/Protocol-TLS@0.04
 Protocol::TLS::Alert               undef  pkg:cpan/Protocol-TLS@0.04
 Protocol::TLS::Application         undef  pkg:cpan/Protocol-TLS@0.04
@@ -223728,28 +223728,28 @@ Synth::Config                      0.0063  pkg:cpan/Synth-Config@0.0063
 Syringe                             0.01  pkg:cpan/Syringe
 Sys::AlarmCall                       1.2  pkg:cpan/Sys-AlarmCall@1.2
 Sys::Apm                            0.05  pkg:cpan/Sys-Apm@0.05
-Sys::Async::Virt                   0.006002  pkg:cpan/Sys-Async-Virt@0.6.2
-Sys::Async::Virt::Callback         0.006002  pkg:cpan/Sys-Async-Virt@0.6.2
-Sys::Async::Virt::Connection       0.006002  pkg:cpan/Sys-Async-Virt@0.6.2
-Sys::Async::Virt::Connection::Factory 0.006002  pkg:cpan/Sys-Async-Virt@0.6.2
-Sys::Async::Virt::Connection::Local 0.006002  pkg:cpan/Sys-Async-Virt@0.6.2
-Sys::Async::Virt::Connection::Process 0.006002  pkg:cpan/Sys-Async-Virt@0.6.2
-Sys::Async::Virt::Connection::SSH  0.006002  pkg:cpan/Sys-Async-Virt@0.6.2
-Sys::Async::Virt::Connection::TCP  0.006002  pkg:cpan/Sys-Async-Virt@0.6.2
+Sys::Async::Virt                   0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
+Sys::Async::Virt::Callback         0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
+Sys::Async::Virt::Connection       0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
+Sys::Async::Virt::Connection::Factory 0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
+Sys::Async::Virt::Connection::Local 0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
+Sys::Async::Virt::Connection::Process 0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
+Sys::Async::Virt::Connection::SSH  0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
+Sys::Async::Virt::Connection::TCP  0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
 Sys::Async::Virt::Connection::TLS  v0.0.4  pkg:cpan/Sys-Async-Virt-Connection-TLS@0.0.4
-Sys::Async::Virt::Domain           0.006002  pkg:cpan/Sys-Async-Virt@0.6.2
-Sys::Async::Virt::DomainCheckpoint 0.006002  pkg:cpan/Sys-Async-Virt@0.6.2
-Sys::Async::Virt::DomainSnapshot   0.006002  pkg:cpan/Sys-Async-Virt@0.6.2
-Sys::Async::Virt::Interface        0.006002  pkg:cpan/Sys-Async-Virt@0.6.2
-Sys::Async::Virt::Network          0.006002  pkg:cpan/Sys-Async-Virt@0.6.2
-Sys::Async::Virt::NetworkPort      0.006002  pkg:cpan/Sys-Async-Virt@0.6.2
-Sys::Async::Virt::NodeDevice       0.006002  pkg:cpan/Sys-Async-Virt@0.6.2
-Sys::Async::Virt::NwFilter         0.006002  pkg:cpan/Sys-Async-Virt@0.6.2
-Sys::Async::Virt::NwFilterBinding  0.006002  pkg:cpan/Sys-Async-Virt@0.6.2
-Sys::Async::Virt::Secret           0.006002  pkg:cpan/Sys-Async-Virt@0.6.2
-Sys::Async::Virt::StoragePool      0.006002  pkg:cpan/Sys-Async-Virt@0.6.2
-Sys::Async::Virt::StorageVol       0.006002  pkg:cpan/Sys-Async-Virt@0.6.2
-Sys::Async::Virt::Stream           0.006002  pkg:cpan/Sys-Async-Virt@0.6.2
+Sys::Async::Virt::Domain           0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
+Sys::Async::Virt::DomainCheckpoint 0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
+Sys::Async::Virt::DomainSnapshot   0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
+Sys::Async::Virt::Interface        0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
+Sys::Async::Virt::Network          0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
+Sys::Async::Virt::NetworkPort      0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
+Sys::Async::Virt::NodeDevice       0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
+Sys::Async::Virt::NwFilter         0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
+Sys::Async::Virt::NwFilterBinding  0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
+Sys::Async::Virt::Secret           0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
+Sys::Async::Virt::StoragePool      0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
+Sys::Async::Virt::StorageVol       0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
+Sys::Async::Virt::Stream           0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
 Sys::Binmode                        0.05  pkg:cpan/Sys-Binmode@0.05
 Sys::Bprsync                        0.25  pkg:cpan/Sys-Bprsync@0.25
 Sys::Bprsync::Cmd                   0.25  pkg:cpan/Sys-Bprsync@0.25
