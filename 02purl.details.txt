@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 02 May 2026 10:43:45 GMT
+Last-Updated: Sat, 02 May 2026 12:54:59 GMT
 Line-Count: 264065
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -30704,10 +30704,10 @@ Business::TrueLayer::User          undef  pkg:cpan/Business-TrueLayer@0.05
 Business::TrueLayer::Webhook       undef  pkg:cpan/Business-TrueLayer@0.05
 Business::TrueLayer::Webhook::Mandate undef  pkg:cpan/Business-TrueLayer@0.05
 Business::TrueLayer::Webhook::Resource undef  pkg:cpan/Business-TrueLayer@0.05
-Business::UDC                       0.04  pkg:cpan/Business-UDC@0.04
-Business::UDC::Grammar              0.04  pkg:cpan/Business-UDC@0.04
-Business::UDC::Parser               0.04  pkg:cpan/Business-UDC@0.04
-Business::UDC::Tokenizer            0.04  pkg:cpan/Business-UDC@0.04
+Business::UDC                       0.05  pkg:cpan/Business-UDC@0.05
+Business::UDC::Grammar              0.05  pkg:cpan/Business-UDC@0.05
+Business::UDC::Parser               0.05  pkg:cpan/Business-UDC@0.05
+Business::UDC::Tokenizer            0.05  pkg:cpan/Business-UDC@0.05
 Business::UPC                       0.06  pkg:cpan/Business-UPC@0.06
 Business::UPS                       2.04  pkg:cpan/Business-UPS@2.04
 Business::UPS::Tracking             1.13  pkg:cpan/Business-UPS-Tracking@1.13
