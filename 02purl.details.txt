@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 03 May 2026 09:16:42 GMT
+Last-Updated: Sun, 03 May 2026 10:48:28 GMT
 Line-Count: 264068
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -126450,7 +126450,7 @@ Log::Log4perl::Config::BaseConfigurator undef  pkg:cpan/Log-Log4perl@1.57
 Log::Log4perl::Config::DOMConfigurator  0.03  pkg:cpan/Log-Log4perl@1.57
 Log::Log4perl::Config::PropertyConfigurator undef  pkg:cpan/Log-Log4perl@1.57
 Log::Log4perl::Config::Watch       undef  pkg:cpan/Log-Log4perl@1.57
-Log::Log4perl::Config::YamlConfigurator v1.0.3  pkg:cpan/Log-Log4perl-Config-YamlConfigurator@v1.0.3
+Log::Log4perl::Config::YamlConfigurator v1.0.4  pkg:cpan/Log-Log4perl-Config-YamlConfigurator@v1.0.4
 Log::Log4perl::ConfigByInifile      0.04  pkg:cpan/Log-Log4perl-ConfigByInifile@0.04
 Log::Log4perl::DataDumper           0.01  pkg:cpan/Log-Log4perl-DataDumper@0.01
 Log::Log4perl::DateFormat          undef  pkg:cpan/Log-Log4perl@1.57
