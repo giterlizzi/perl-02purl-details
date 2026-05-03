@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 02 May 2026 22:33:18 GMT
-Line-Count: 264065
+Last-Updated: Sun, 03 May 2026 02:12:17 GMT
+Line-Count: 264066
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -114780,9 +114780,9 @@ JSON::Karabiner::Manipulator::Conditions::Variable_if 0.018  pkg:cpan/JSON-Karab
 JSON::Karabiner::Manipulator::Conditions::Variable_unless 0.018  pkg:cpan/JSON-Karabiner@0.018
 JSON::Karabiner::Rule              0.018  pkg:cpan/JSON-Karabiner@0.018
 JSON::LD                            0.02  pkg:cpan/JSON-LD@0.02
-JSON::LINQ                          1.00  pkg:cpan/JSON-LINQ@1.00
-JSON::LINQ::Boolean                 1.00  pkg:cpan/JSON-LINQ@1.00
-JSON::LINQ::Ordered                 1.00  pkg:cpan/JSON-LINQ@1.00
+JSON::LINQ                          1.01  pkg:cpan/JSON-LINQ@1.01
+JSON::LINQ::Boolean                 1.01  pkg:cpan/JSON-LINQ@1.01
+JSON::LINQ::Ordered                 1.01  pkg:cpan/JSON-LINQ@1.01
 JSON::Lines                         1.11  pkg:cpan/JSON-Lines@1.11
 JSON::Literal                       0.96  pkg:cpan/JSON@1.14
 JSON::Literal::false                0.96  pkg:cpan/JSON@1.14
@@ -195253,6 +195253,7 @@ Perlude::Sh                          0.0  pkg:cpan/perlude-sh@0.0
 Perlude::builtins                    0.0  pkg:cpan/perlude@0.61
 Permute::Named                     1.100980  pkg:cpan/Permute-Named@1.100980
 Permute::Named::Iter                0.04  pkg:cpan/Permute-Named-Iter@0.04
+Permute::Unnamed                   0.001  pkg:cpan/Permute-Unnamed@0.001
 Permute::Unnamed::Iter             0.001  pkg:cpan/Permute-Unnamed-Iter@0.001
 Persevere::Client                   0.31  pkg:cpan/Persevere-Client@0.31
 Persevere::Client::Class            0.31  pkg:cpan/Persevere-Client@0.31
