@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 03 May 2026 20:35:36 GMT
+Last-Updated: Sun, 03 May 2026 22:33:53 GMT
 Line-Count: 264069
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -78189,9 +78189,9 @@ Game::Deckar::Card                 undef  pkg:cpan/Game-Deckar@0.02
 Game::DijkstraMap                   1.05  pkg:cpan/Game-DijkstraMap@1.05
 Game::EnergyLoop                    0.01  pkg:cpan/Game-EnergyLoop@0.01
 Game::Entities                     0.101  pkg:cpan/Game-Entities@0.101
-Game::FaceGenerator                 1.03  pkg:cpan/Game-FaceGenerator@1.03
-Game::FaceGenerator::Command::random undef  pkg:cpan/Game-FaceGenerator@1.03
-Game::FaceGenerator::Core          undef  pkg:cpan/Game-FaceGenerator@1.03
+Game::FaceGenerator                 1.04  pkg:cpan/Game-FaceGenerator@1.04
+Game::FaceGenerator::Command::random undef  pkg:cpan/Game-FaceGenerator@1.04
+Game::FaceGenerator::Core          undef  pkg:cpan/Game-FaceGenerator@1.04
 Game::Floppy                        0.07  pkg:cpan/Game-Floppy@0.07
 Game::Floppy::Bird                  0.07  pkg:cpan/Game-Floppy@0.07
 Game::Floppy::Sprite                0.07  pkg:cpan/Game-Floppy@0.07
@@ -78216,10 +78216,10 @@ Game::HeroesVsAliens::Role::Alien  undef  pkg:cpan/Game-HeroesVsAliens@1.01
 Game::HeroesVsAliens::Role::Hero   undef  pkg:cpan/Game-HeroesVsAliens@1.01
 Game::HeroesVsAliens::Role::Projectile undef  pkg:cpan/Game-HeroesVsAliens@1.01
 Game::HeroesVsAliens::Role::ResourceDirectory undef  pkg:cpan/Game-HeroesVsAliens@1.01
-Game::HexDescribe                   1.03  pkg:cpan/Game-HexDescribe@1.03
-Game::HexDescribe::Command::rule   undef  pkg:cpan/Game-HexDescribe@1.03
-Game::HexDescribe::Log             undef  pkg:cpan/Game-HexDescribe@1.03
-Game::HexDescribe::Utils           undef  pkg:cpan/Game-HexDescribe@1.03
+Game::HexDescribe                   1.04  pkg:cpan/Game-HexDescribe@1.04
+Game::HexDescribe::Command::rule   undef  pkg:cpan/Game-HexDescribe@1.04
+Game::HexDescribe::Log             undef  pkg:cpan/Game-HexDescribe@1.04
+Game::HexDescribe::Utils           undef  pkg:cpan/Game-HexDescribe@1.04
 Game::Kezboard                      0.04  pkg:cpan/Game-Kezboard@0.04
 Game::LevelMap                      0.02  pkg:cpan/Game-LevelMap@0.02
 Game::Life                          0.06  pkg:cpan/Game-Life@0.06
@@ -78249,32 +78249,32 @@ Game::Snake::Head                   0.10  pkg:cpan/Game-Snake@0.10
 Game::Snake::Sprite                 0.10  pkg:cpan/Game-Snake@0.10
 Game::Snake::Tail                   0.10  pkg:cpan/Game-Snake@0.10
 Game::Snake::Text                   0.10  pkg:cpan/Game-Snake@0.10
-Game::TextMapper                    1.08  pkg:cpan/Game-TextMapper@1.08
-Game::TextMapper::Apocalypse       undef  pkg:cpan/Game-TextMapper@1.08
-Game::TextMapper::Command::random  undef  pkg:cpan/Game-TextMapper@1.08
-Game::TextMapper::Command::render  undef  pkg:cpan/Game-TextMapper@1.08
-Game::TextMapper::Constants        undef  pkg:cpan/Game-TextMapper@1.08
-Game::TextMapper::Folkesten        undef  pkg:cpan/Game-TextMapper@1.08
-Game::TextMapper::Gridmapper       undef  pkg:cpan/Game-TextMapper@1.08
-Game::TextMapper::Line             undef  pkg:cpan/Game-TextMapper@1.08
-Game::TextMapper::Line::Hex        undef  pkg:cpan/Game-TextMapper@1.08
-Game::TextMapper::Line::Square     undef  pkg:cpan/Game-TextMapper@1.08
-Game::TextMapper::Log              undef  pkg:cpan/Game-TextMapper@1.08
-Game::TextMapper::Mapper           undef  pkg:cpan/Game-TextMapper@1.08
-Game::TextMapper::Mapper::Hex      undef  pkg:cpan/Game-TextMapper@1.08
-Game::TextMapper::Mapper::Square   undef  pkg:cpan/Game-TextMapper@1.08
-Game::TextMapper::Point            undef  pkg:cpan/Game-TextMapper@1.08
-Game::TextMapper::Point::Hex       undef  pkg:cpan/Game-TextMapper@1.08
-Game::TextMapper::Point::Square    undef  pkg:cpan/Game-TextMapper@1.08
-Game::TextMapper::Schroeder::Alpine undef  pkg:cpan/Game-TextMapper@1.08
-Game::TextMapper::Schroeder::Archipelago undef  pkg:cpan/Game-TextMapper@1.08
-Game::TextMapper::Schroeder::Base  undef  pkg:cpan/Game-TextMapper@1.08
-Game::TextMapper::Schroeder::Hex   undef  pkg:cpan/Game-TextMapper@1.08
-Game::TextMapper::Schroeder::Island undef  pkg:cpan/Game-TextMapper@1.08
-Game::TextMapper::Schroeder::Square undef  pkg:cpan/Game-TextMapper@1.08
-Game::TextMapper::Smale            undef  pkg:cpan/Game-TextMapper@1.08
-Game::TextMapper::Solo             undef  pkg:cpan/Game-TextMapper@1.08
-Game::TextMapper::Traveller        undef  pkg:cpan/Game-TextMapper@1.08
+Game::TextMapper                    1.09  pkg:cpan/Game-TextMapper@1.09
+Game::TextMapper::Apocalypse       undef  pkg:cpan/Game-TextMapper@1.09
+Game::TextMapper::Command::random  undef  pkg:cpan/Game-TextMapper@1.09
+Game::TextMapper::Command::render  undef  pkg:cpan/Game-TextMapper@1.09
+Game::TextMapper::Constants        undef  pkg:cpan/Game-TextMapper@1.09
+Game::TextMapper::Folkesten        undef  pkg:cpan/Game-TextMapper@1.09
+Game::TextMapper::Gridmapper       undef  pkg:cpan/Game-TextMapper@1.09
+Game::TextMapper::Line             undef  pkg:cpan/Game-TextMapper@1.09
+Game::TextMapper::Line::Hex        undef  pkg:cpan/Game-TextMapper@1.09
+Game::TextMapper::Line::Square     undef  pkg:cpan/Game-TextMapper@1.09
+Game::TextMapper::Log              undef  pkg:cpan/Game-TextMapper@1.09
+Game::TextMapper::Mapper           undef  pkg:cpan/Game-TextMapper@1.09
+Game::TextMapper::Mapper::Hex      undef  pkg:cpan/Game-TextMapper@1.09
+Game::TextMapper::Mapper::Square   undef  pkg:cpan/Game-TextMapper@1.09
+Game::TextMapper::Point            undef  pkg:cpan/Game-TextMapper@1.09
+Game::TextMapper::Point::Hex       undef  pkg:cpan/Game-TextMapper@1.09
+Game::TextMapper::Point::Square    undef  pkg:cpan/Game-TextMapper@1.09
+Game::TextMapper::Schroeder::Alpine undef  pkg:cpan/Game-TextMapper@1.09
+Game::TextMapper::Schroeder::Archipelago undef  pkg:cpan/Game-TextMapper@1.09
+Game::TextMapper::Schroeder::Base  undef  pkg:cpan/Game-TextMapper@1.09
+Game::TextMapper::Schroeder::Hex   undef  pkg:cpan/Game-TextMapper@1.09
+Game::TextMapper::Schroeder::Island undef  pkg:cpan/Game-TextMapper@1.09
+Game::TextMapper::Schroeder::Square undef  pkg:cpan/Game-TextMapper@1.09
+Game::TextMapper::Smale            undef  pkg:cpan/Game-TextMapper@1.09
+Game::TextMapper::Solo             undef  pkg:cpan/Game-TextMapper@1.09
+Game::TextMapper::Traveller        undef  pkg:cpan/Game-TextMapper@1.09
 Game::TextPacMonster                0.03  pkg:cpan/Game-TextPacMonster@0.03
 Game::TextPacMonster::Creature     undef  pkg:cpan/Game-TextPacMonster@0.03
 Game::TextPacMonster::H            undef  pkg:cpan/Game-TextPacMonster@0.03
@@ -162131,7 +162131,7 @@ Params::Registry::Template          0.04  pkg:cpan/Params-Registry@0.08
 Params::Registry::Types             0.02  pkg:cpan/Params-Registry@0.08
 Params::Sah                        0.073  pkg:cpan/Params-Sah@0.073
 Params::Smart                       0.09  pkg:cpan/Params-Smart@0.09
-Params::SomeUtil                    1.08  pkg:cpan/Params-SomeUtil@1.08
+Params::SomeUtil                    1.09  pkg:cpan/Params-SomeUtil@1.09
 Params::Style                       0.06  pkg:cpan/Params-Style@0.06
 Params::Util                       1.102  pkg:cpan/Params-Util@1.102
 Params::Util::PP                   1.102  pkg:cpan/Params-Util@1.102
@@ -223840,7 +223840,7 @@ Sys::GNU::ldconfig                  0.03  pkg:cpan/Sys-GNU-ldconfig@0.03
 Sys::Gamin                           0.1  pkg:cpan/Sys-Gamin@0.1
 Sys::GetRandom                      0.02  pkg:cpan/Sys-GetRandom@0.02
 Sys::GetRandom::FFI                v0.1.1  pkg:cpan/Sys-GetRandom-FFI@v0.1.1
-Sys::GetRandom::PP                  0.05  pkg:cpan/Sys-GetRandom-PP@0.05
+Sys::GetRandom::PP                  0.06  pkg:cpan/Sys-GetRandom-PP@0.06
 Sys::GetRandom::PP::_Bits          undef  pkg:cpan/Sys-GetRandom-PP@0.05
 Sys::Group::GIDhelper              0.001000  pkg:cpan/Sys-Group-GIDhelper@0.1.0
 Sys::Headers                        0.01  pkg:cpan/Sys-Headers@0.01
@@ -257823,11 +257823,11 @@ XS::Install::FrozenShit::Typemaps::InputMap  3.57  pkg:cpan/XS-Install@1.5.1
 XS::Install::FrozenShit::Typemaps::OutputMap  3.57  pkg:cpan/XS-Install@1.5.1
 XS::Install::FrozenShit::Typemaps::Type  3.57  pkg:cpan/XS-Install@1.5.1
 XS::Install::Payload               undef  pkg:cpan/XS-Install@1.5.2
-XS::JIT                             0.20  pkg:cpan/XS-JIT@0.20
-XS::JIT::Builder                    0.20  pkg:cpan/XS-JIT@0.20
-XS::JIT::Header                     0.20  pkg:cpan/XS-JIT@0.20
-XS::JIT::Header::Parser             0.20  pkg:cpan/XS-JIT@0.20
-XS::JIT::Header::TypeMap            0.20  pkg:cpan/XS-JIT@0.20
+XS::JIT                             0.21  pkg:cpan/XS-JIT@0.21
+XS::JIT::Builder                    0.21  pkg:cpan/XS-JIT@0.21
+XS::JIT::Header                     0.21  pkg:cpan/XS-JIT@0.21
+XS::JIT::Header::Parser             0.21  pkg:cpan/XS-JIT@0.21
+XS::JIT::Header::TypeMap            0.21  pkg:cpan/XS-JIT@0.21
 XS::Loader                         undef  pkg:cpan/XS-Install@1.5.2
 XS::Log                             1.12  pkg:cpan/XS-Log@1.12
 XS::Logger                         0.005  pkg:cpan/XS-Logger@0.005
