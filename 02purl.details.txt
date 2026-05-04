@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 04 May 2026 10:07:18 GMT
+Last-Updated: Mon, 04 May 2026 13:27:59 GMT
 Line-Count: 264069
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -33052,7 +33052,7 @@ CPAN::02Packages::Search           0.100  pkg:cpan/CPAN-02Packages-Search@0.100
 CPAN::API::BuildPL                 0.002  pkg:cpan/CPAN-API-BuildPL@0.002
 CPAN::Admin                        5.501  pkg:cpan/CPAN@2.38
 CPAN::Audit                        20260308.002  pkg:cpan/CPAN-Audit@20260308.002
-CPAN::Audit::DB                    20260430.001  pkg:cpan/CPANSA-DB@20260430.001
+CPAN::Audit::DB                    20260503.001  pkg:cpan/CPANSA-DB@20260503.001
 CPAN::Audit::Discover              1.001  pkg:cpan/CPAN-Audit@20260308.002
 CPAN::Audit::Discover::Cpanfile    1.001  pkg:cpan/CPAN-Audit@20260308.002
 CPAN::Audit::Discover::CpanfileSnapshot 1.001  pkg:cpan/CPAN-Audit@20260308.002
@@ -33819,7 +33819,7 @@ CPANPLUS::YACSmoke::ReAssemble      1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::SortVers        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::locallib        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::inc                      undef  pkg:cpan/CPANPLUS@0.84
-CPANSA::DB                         20260430.001  pkg:cpan/CPANSA-DB@20260430.001
+CPANSA::DB                         20260503.001  pkg:cpan/CPANSA-DB@20260503.001
 CPANSEC::Admin                     0.001  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command            undef  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command::Amend     undef  pkg:cpan/CPANSec-Admin@0.001
@@ -203068,7 +203068,7 @@ RT::Extension::Assets::AppleGSX      1.0  pkg:cpan/RT-Extension-Assets-AppleGSX@
 RT::Extension::Assets::AppleGSX::Client undef  pkg:cpan/RT-Extension-Assets-AppleGSX@1.0
 RT::Extension::Assets::Import::CSV   2.5  pkg:cpan/RT-Extension-Assets-Import-CSV@2.5
 RT::Extension::AttachmentFilter     0.01  pkg:cpan/RT-Extension-AttachmentFilter@0.01
-RT::Extension::AttachmentViewer     0.03  pkg:cpan/RT-Extension-AttachmentViewer@0.03
+RT::Extension::AttachmentViewer     0.04  pkg:cpan/RT-Extension-AttachmentViewer@0.04
 RT::Extension::AttachmentWarning    0.02  pkg:cpan/RT-Extension-AttachmentWarning@0.02
 RT::Extension::AttributeWalker      0.02  pkg:cpan/RT-Extension-AttributeWalker@0.02
 RT::Extension::AuditLog             0.04  pkg:cpan/RT-Extension-AuditLog@0.04
