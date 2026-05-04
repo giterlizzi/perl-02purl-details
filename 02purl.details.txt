@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 03 May 2026 22:33:53 GMT
+Last-Updated: Mon, 04 May 2026 02:11:23 GMT
 Line-Count: 264069
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -62996,16 +62996,16 @@ DateTime::LazyInit::Constructor_new 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ex
 DateTime::LazyInit::Constructor_now 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ext=tgz
 DateTime::LazyInit::Constructor_today 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ext=tgz
 DateTime::LeapSecond                1.66  pkg:cpan/DateTime@1.66
-DateTime::Lite                     0.006005  pkg:cpan/DateTime-Lite@v0.6.5
-DateTime::Lite::Duration           0.001000  pkg:cpan/DateTime-Lite@v0.6.5
-DateTime::Lite::Exception          0.001000  pkg:cpan/DateTime-Lite@v0.6.5
-DateTime::Lite::Infinite           0.001000  pkg:cpan/DateTime-Lite@v0.6.5
-DateTime::Lite::Infinite::Future   0.001000  pkg:cpan/DateTime-Lite@v0.6.5
-DateTime::Lite::Infinite::Past     0.001000  pkg:cpan/DateTime-Lite@v0.6.5
-DateTime::Lite::PP                 0.001000  pkg:cpan/DateTime-Lite@v0.6.5
-DateTime::Lite::TimeZone           0.005004  pkg:cpan/DateTime-Lite@v0.6.5
-DateTime::Lite::_FakeLocale        0.001000  pkg:cpan/DateTime-Lite@v0.6.5
-DateTime::Lite::_Thawed            0.006005  pkg:cpan/DateTime-Lite@v0.6.5
+DateTime::Lite                     0.006006  pkg:cpan/DateTime-Lite@v0.6.6
+DateTime::Lite::Duration           0.001000  pkg:cpan/DateTime-Lite@v0.6.6
+DateTime::Lite::Exception          0.001000  pkg:cpan/DateTime-Lite@v0.6.6
+DateTime::Lite::Infinite           0.001000  pkg:cpan/DateTime-Lite@v0.6.6
+DateTime::Lite::Infinite::Future   0.001000  pkg:cpan/DateTime-Lite@v0.6.6
+DateTime::Lite::Infinite::Past     0.001000  pkg:cpan/DateTime-Lite@v0.6.6
+DateTime::Lite::PP                 0.001001  pkg:cpan/DateTime-Lite@v0.6.6
+DateTime::Lite::TimeZone           0.005005  pkg:cpan/DateTime-Lite@v0.6.6
+DateTime::Lite::_FakeLocale        0.001000  pkg:cpan/DateTime-Lite@v0.6.6
+DateTime::Lite::_Thawed            0.006006  pkg:cpan/DateTime-Lite@v0.6.6
 DateTime::Locale                    1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Base              1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Catalog           1.45  pkg:cpan/DateTime-Locale@1.45
@@ -66924,7 +66924,7 @@ Dist::Zilla::Plugin::ShareDir::Clean  0.05  pkg:cpan/Dist-Zilla-Plugin-ShareDir-
 Dist::Zilla::Plugin::ShareDir::ProjectDistDir 3.002000  pkg:cpan/Dist-Zilla-PluginBundle-Author-MAXHQ@3.2.0
 Dist::Zilla::Plugin::ShareDir::Tarball v0.6.0  pkg:cpan/Dist-Zilla-Plugin-ShareDir-Tarball@0.6.0
 Dist::Zilla::Plugin::ShareEmbed    0.004  pkg:cpan/Dist-Zilla-Plugin-ShareEmbed@0.004
-Dist::Zilla::Plugin::SigStore::SignRelease  0.01  pkg:cpan/Dist-Zilla-Plugin-SigStore-SignRelease@0.01
+Dist::Zilla::Plugin::SigStore::SignRelease  0.02  pkg:cpan/Dist-Zilla-Plugin-SigStore-SignRelease@0.02
 Dist::Zilla::Plugin::SigStore::UploadToCPAN  0.01  pkg:cpan/Dist-Zilla-Plugin-SigStore-SignRelease@0.01
 Dist::Zilla::Plugin::SignReleaseNotes 0.0008  pkg:cpan/Dist-Zilla-Plugin-SignReleaseNotes@0.0008
 Dist::Zilla::Plugin::Signature     1.252860  pkg:cpan/Dist-Zilla-Plugin-Signature@1.252860
@@ -75189,11 +75189,11 @@ Finance::Tax::Aruba::Income::2023  0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::Tax::Aruba::Income::2025  0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::Tax::Aruba::Role::Income::TaxYear 0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::TickerSymbols              3.11  pkg:cpan/Finance-TickerSymbols@3.11?ext=zip
-Finance::Tiller2QIF                 1.03  pkg:cpan/Finance-Tiller2QIF@1.03
-Finance::Tiller2QIF::Map            1.03  pkg:cpan/Finance-Tiller2QIF@1.03
-Finance::Tiller2QIF::ReadCSV        1.03  pkg:cpan/Finance-Tiller2QIF@1.03
-Finance::Tiller2QIF::Util           1.03  pkg:cpan/Finance-Tiller2QIF@1.03
-Finance::Tiller2QIF::WriteQIF       1.03  pkg:cpan/Finance-Tiller2QIF@1.03
+Finance::Tiller2QIF                 1.04  pkg:cpan/Finance-Tiller2QIF@1.04
+Finance::Tiller2QIF::Map            1.04  pkg:cpan/Finance-Tiller2QIF@1.04
+Finance::Tiller2QIF::ReadCSV        1.04  pkg:cpan/Finance-Tiller2QIF@1.04
+Finance::Tiller2QIF::Util           1.04  pkg:cpan/Finance-Tiller2QIF@1.04
+Finance::Tiller2QIF::WriteQIF       1.04  pkg:cpan/Finance-Tiller2QIF@1.04
 Finance::USDX                       0.03  pkg:cpan/Finance-USDX@0.03
 Finance::Wesabe                     0.02  pkg:cpan/Finance-Wesabe@0.02
 Finance::Wesabe::Account           undef  pkg:cpan/Finance-Wesabe@0.02
@@ -103850,9 +103850,9 @@ Graphics::Fig::Parameters          1.000008  pkg:cpan/Graphics-Fig@v1.0.8
 Graphics::Fig::Polyline            1.000008  pkg:cpan/Graphics-Fig@v1.0.8
 Graphics::Fig::Spline              1.000008  pkg:cpan/Graphics-Fig@v1.0.8
 Graphics::Fig::Text                1.000008  pkg:cpan/Graphics-Fig@v1.0.8
-Graphics::Framebuffer               7.00  pkg:cpan/Graphics-Framebuffer@7.00
-Graphics::Framebuffer::Mouse        0.03  pkg:cpan/Graphics-Framebuffer@7.00
-Graphics::Framebuffer::Splash       1.28  pkg:cpan/Graphics-Framebuffer@7.00
+Graphics::Framebuffer               7.01  pkg:cpan/Graphics-Framebuffer@7.01
+Graphics::Framebuffer::Mouse        0.03  pkg:cpan/Graphics-Framebuffer@7.01
+Graphics::Framebuffer::Splash       1.28  pkg:cpan/Graphics-Framebuffer@7.01
 Graphics::GVG                       0.92  pkg:cpan/Graphics-GVG@0.92
 Graphics::GVG::AST                  0.92  pkg:cpan/Graphics-GVG@0.92
 Graphics::GVG::AST::Circle          0.92  pkg:cpan/Graphics-GVG@0.92
@@ -233693,7 +233693,7 @@ Time::StasisField                   0.01  pkg:cpan/Time-StasisField@0.01
 Time::Stats                          1.0  pkg:cpan/Time-Stats@1.0?ext=tgz
 Time::StopWatchWithMessage          0.06  pkg:cpan/Time-StopWatchWithMessage@0.06
 Time::Stopwatch                     1.00  pkg:cpan/Time-Stopwatch@1.00
-Time::Str                           0.05  pkg:cpan/Time-Str@0.05
+Time::Str                           0.06  pkg:cpan/Time-Str@0.06
 Time::Strptime                      1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::Format              1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::TimeZone           undef  pkg:cpan/Time-Strptime@1.04
