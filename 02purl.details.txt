@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 04 May 2026 02:11:23 GMT
+Last-Updated: Mon, 04 May 2026 06:34:19 GMT
 Line-Count: 264069
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -62959,8 +62959,8 @@ DateTime::Format::Pg               0.16014  pkg:cpan/DateTime-Format-Pg@0.16014
 DateTime::Format::RFC3339          1.010000  pkg:cpan/DateTime-Format-RFC3339@v1.10.0
 DateTime::Format::RFC3501           0.03  pkg:cpan/DateTime-Format-RFC3501@0.03
 DateTime::Format::RSS              0.03000  pkg:cpan/DateTime-Format-RSS@0.03000
-DateTime::Format::RelativeTime     0.002002  pkg:cpan/DateTime-Format-RelativeTime@v0.2.2
-DateTime::Format::RelativeTime::Exception 0.002002  pkg:cpan/DateTime-Format-RelativeTime@v0.2.2
+DateTime::Format::RelativeTime     0.002003  pkg:cpan/DateTime-Format-RelativeTime@v0.2.3
+DateTime::Format::RelativeTime::Exception 0.002003  pkg:cpan/DateTime-Format-RelativeTime@v0.2.3
 DateTime::Format::Roman             0.04  pkg:cpan/DateTime-Format-Roman@0.04
 DateTime::Format::SQLite            0.11  pkg:cpan/DateTime-Format-SQLite@0.11
 DateTime::Format::Simple           undef  pkg:cpan/DateTime-Format-Builder@0.81
