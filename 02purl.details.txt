@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 04 May 2026 06:34:19 GMT
+Last-Updated: Mon, 04 May 2026 10:07:18 GMT
 Line-Count: 264069
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -127409,27 +127409,27 @@ MARC::Transform                    0.003009  pkg:cpan/MARC-Transform@0.003009
 MARC::Utils::MARC2Ini               0.02  pkg:cpan/MARC-Utils-MARC2Ini@0.02
 MARC::Utils::MARC2MARC_in_JSON      0.05  pkg:cpan/MARC-Utils-MARC2MARC_in_JSON@0.05
 MARC::Utils::MARC2Pairs             0.02  pkg:cpan/MARC-Utils-MARC2Pairs@0.02
-MARC::Validator                     0.18  pkg:cpan/MARC-Validator@0.18
-MARC::Validator::Abstract           0.18  pkg:cpan/MARC-Validator@0.18
-MARC::Validator::Const              0.18  pkg:cpan/MARC-Validator@0.18
+MARC::Validator                      0.2  pkg:cpan/MARC-Validator@0.20
+MARC::Validator::Abstract            0.2  pkg:cpan/MARC-Validator@0.20
+MARC::Validator::Const               0.2  pkg:cpan/MARC-Validator@0.20
 MARC::Validator::Filter             0.01  pkg:cpan/MARC-Validator-Filter@0.01
 MARC::Validator::Filter::Abstract   0.01  pkg:cpan/MARC-Validator-Filter@0.01
 MARC::Validator::Filter::Plugin::AACR2  0.01  pkg:cpan/MARC-Validator-Filter@0.01
 MARC::Validator::Filter::Plugin::Material  0.01  pkg:cpan/MARC-Validator-Filter@0.01
 MARC::Validator::Filter::Plugin::RDA  0.01  pkg:cpan/MARC-Validator-Filter@0.01
-MARC::Validator::Plugin::Field008   0.18  pkg:cpan/MARC-Validator@0.18
-MARC::Validator::Plugin::Field020   0.18  pkg:cpan/MARC-Validator@0.18
-MARC::Validator::Plugin::Field035   0.18  pkg:cpan/MARC-Validator@0.18
-MARC::Validator::Plugin::Field040   0.18  pkg:cpan/MARC-Validator@0.18
-MARC::Validator::Plugin::Field045   0.18  pkg:cpan/MARC-Validator@0.18
-MARC::Validator::Plugin::Field080   0.18  pkg:cpan/MARC-Validator@0.18
-MARC::Validator::Plugin::Field260   0.18  pkg:cpan/MARC-Validator@0.18
-MARC::Validator::Plugin::Field264   0.18  pkg:cpan/MARC-Validator@0.18
-MARC::Validator::Plugin::Field300   0.18  pkg:cpan/MARC-Validator@0.18
-MARC::Validator::Plugin::Field500   0.18  pkg:cpan/MARC-Validator@0.18
-MARC::Validator::Plugin::Field504   0.18  pkg:cpan/MARC-Validator@0.18
-MARC::Validator::Plugin::Field655   0.18  pkg:cpan/MARC-Validator@0.18
-MARC::Validator::Utils              0.18  pkg:cpan/MARC-Validator@0.18
+MARC::Validator::Plugin::Field008    0.2  pkg:cpan/MARC-Validator@0.20
+MARC::Validator::Plugin::Field020    0.2  pkg:cpan/MARC-Validator@0.20
+MARC::Validator::Plugin::Field035    0.2  pkg:cpan/MARC-Validator@0.20
+MARC::Validator::Plugin::Field040    0.2  pkg:cpan/MARC-Validator@0.20
+MARC::Validator::Plugin::Field045    0.2  pkg:cpan/MARC-Validator@0.20
+MARC::Validator::Plugin::Field080    0.2  pkg:cpan/MARC-Validator@0.20
+MARC::Validator::Plugin::Field260    0.2  pkg:cpan/MARC-Validator@0.20
+MARC::Validator::Plugin::Field264    0.2  pkg:cpan/MARC-Validator@0.20
+MARC::Validator::Plugin::Field300    0.2  pkg:cpan/MARC-Validator@0.20
+MARC::Validator::Plugin::Field500    0.2  pkg:cpan/MARC-Validator@0.20
+MARC::Validator::Plugin::Field504    0.2  pkg:cpan/MARC-Validator@0.20
+MARC::Validator::Plugin::Field655    0.2  pkg:cpan/MARC-Validator@0.20
+MARC::Validator::Utils               0.2  pkg:cpan/MARC-Validator@0.20
 MARC::Xform                         0.02  pkg:cpan/MARC-Xform@0.02
 MARC::Xform::AddRDA33x             undef  pkg:cpan/MARC-Xform@0.02
 MAS::TIFF::Compression::LZW        undef  pkg:cpan/MAS-TIFF@0.4
@@ -203068,7 +203068,7 @@ RT::Extension::Assets::AppleGSX      1.0  pkg:cpan/RT-Extension-Assets-AppleGSX@
 RT::Extension::Assets::AppleGSX::Client undef  pkg:cpan/RT-Extension-Assets-AppleGSX@1.0
 RT::Extension::Assets::Import::CSV   2.5  pkg:cpan/RT-Extension-Assets-Import-CSV@2.5
 RT::Extension::AttachmentFilter     0.01  pkg:cpan/RT-Extension-AttachmentFilter@0.01
-RT::Extension::AttachmentViewer     0.02  pkg:cpan/RT-Extension-AttachmentViewer@0.02
+RT::Extension::AttachmentViewer     0.03  pkg:cpan/RT-Extension-AttachmentViewer@0.03
 RT::Extension::AttachmentWarning    0.02  pkg:cpan/RT-Extension-AttachmentWarning@0.02
 RT::Extension::AttributeWalker      0.02  pkg:cpan/RT-Extension-AttributeWalker@0.02
 RT::Extension::AuditLog             0.04  pkg:cpan/RT-Extension-AuditLog@0.04
