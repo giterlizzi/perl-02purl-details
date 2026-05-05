@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 04 May 2026 22:50:59 GMT
+Last-Updated: Tue, 05 May 2026 02:09:39 GMT
 Line-Count: 264080
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -112651,7 +112651,7 @@ IRC::Toolkit::Parser               0.092002  pkg:cpan/IRC-Toolkit@0.092002
 IRC::Toolkit::Role::CaseMap        0.092002  pkg:cpan/IRC-Toolkit@0.092002
 IRC::Toolkit::TS6                  0.092002  pkg:cpan/IRC-Toolkit@0.092002
 IRC::Utils                          0.12  pkg:cpan/IRC-Utils@0.12
-IRI                                0.013  pkg:cpan/IRI@0.013
+IRI                                0.014  pkg:cpan/IRI@0.014
 IS::Conf                            0.01  pkg:cpan/IS-Conf@0.01
 IS::Init                            0.93  pkg:cpan/IS-Init@0.93
 ISAL::Crypto                        0.01  pkg:cpan/ISAL-Crypto@0.01
@@ -220840,10 +220840,10 @@ Spreadsheet::Compare::Single       undef  pkg:cpan/Spreadsheet-Compare@0.16
 Spreadsheet::ConvertAA              0.06  pkg:cpan/Spreadsheet-ConvertAA@0.06
 Spreadsheet::DataFromExcel         1.001003  pkg:cpan/Spreadsheet-DataFromExcel@1.001003
 Spreadsheet::DataToExcel           0.0104  pkg:cpan/Spreadsheet-DataToExcel@0.0104
-Spreadsheet::Edit                  1001.001  pkg:cpan/Spreadsheet-Edit@1001.001
-Spreadsheet::Edit::IO              1001.001  pkg:cpan/Spreadsheet-Edit@1001.001
-Spreadsheet::Edit::Log             1001.001  pkg:cpan/Spreadsheet-Edit@1001.001
-Spreadsheet::Edit::Preload         1001.001  pkg:cpan/Spreadsheet-Edit@1001.001
+Spreadsheet::Edit                  1001.002  pkg:cpan/Spreadsheet-Edit@1001.002
+Spreadsheet::Edit::IO              1001.002  pkg:cpan/Spreadsheet-Edit@1001.002
+Spreadsheet::Edit::Log             1001.002  pkg:cpan/Spreadsheet-Edit@1001.002
+Spreadsheet::Edit::Preload         1001.002  pkg:cpan/Spreadsheet-Edit@1001.002
 Spreadsheet::Engine                 0.14  pkg:cpan/Spreadsheet-Engine@0.14
 Spreadsheet::Engine::Error         undef  pkg:cpan/Spreadsheet-Engine@0.14
 Spreadsheet::Engine::Fn::Approximator undef  pkg:cpan/Spreadsheet-Engine@0.14
@@ -229415,10 +229415,10 @@ Test::Mockify::Sut                 undef  pkg:cpan/Test-Mockify@2.4
 Test::Mockify::Tools               undef  pkg:cpan/Test-Mockify@2.4
 Test::Mockify::TypeTests           undef  pkg:cpan/Test-Mockify@2.4
 Test::Mockify::Verify              undef  pkg:cpan/Test-Mockify@2.4
-Test::Mockingbird                   0.08  pkg:cpan/Test-Mockingbird@0.08
-Test::Mockingbird::DeepMock         0.08  pkg:cpan/Test-Mockingbird@0.08
-Test::Mockingbird::Guard            0.08  pkg:cpan/Test-Mockingbird@0.08
-Test::Mockingbird::TimeTravel       0.08  pkg:cpan/Test-Mockingbird@0.08
+Test::Mockingbird                   0.09  pkg:cpan/Test-Mockingbird@0.09
+Test::Mockingbird::DeepMock         0.09  pkg:cpan/Test-Mockingbird@0.09
+Test::Mockingbird::Guard            0.09  pkg:cpan/Test-Mockingbird@0.09
+Test::Mockingbird::TimeTravel       0.09  pkg:cpan/Test-Mockingbird@0.09
 Test::Modern                       0.013  pkg:cpan/Test-Modern@0.013
 Test::Module                       undef  pkg:cpan/Devel-Trepan@0.73
 Test::Module::Basic                undef  pkg:cpan/Test-Subunits@0.000003
