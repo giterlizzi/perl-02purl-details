@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 05 May 2026 20:56:06 GMT
-Line-Count: 264105
+Last-Updated: Tue, 05 May 2026 22:50:19 GMT
+Line-Count: 264118
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -54238,6 +54238,19 @@ DMA::Version                       undef  pkg:cpan/DMAMisc@1.01-3
 DMA::ldconfig                      undef  pkg:cpan/DMAMisc@1.01-3
 DMI::Decode                         2.04  pkg:cpan/DMI-Decode@2.05
 DMS::Emitter                       0.005000  pkg:cpan/DMS-XS-Parser@0.5.0
+DMS::Parser                        0.005001  pkg:cpan/DMS-Parser@0.5.1
+DMS::Parser::Bool                  0.005001  pkg:cpan/DMS-Parser@0.5.1
+DMS::Parser::Emitter               0.005001  pkg:cpan/DMS-Parser@0.5.1
+DMS::Parser::Float                 0.005001  pkg:cpan/DMS-Parser@0.5.1
+DMS::Parser::Index                 0.005001  pkg:cpan/DMS-Parser@0.5.1
+DMS::Parser::Integer               0.005001  pkg:cpan/DMS-Parser@0.5.1
+DMS::Parser::LocalDate             0.005001  pkg:cpan/DMS-Parser@0.5.1
+DMS::Parser::LocalDateTime         0.005001  pkg:cpan/DMS-Parser@0.5.1
+DMS::Parser::LocalTime             0.005001  pkg:cpan/DMS-Parser@0.5.1
+DMS::Parser::OffsetDateTime        0.005001  pkg:cpan/DMS-Parser@0.5.1
+DMS::Parser::Tier1                 0.005001  pkg:cpan/DMS-Parser@0.5.1
+DMS::Parser::UnorderedTable        0.005001  pkg:cpan/DMS-Parser@0.5.1
+DMS::Parser::XS                    0.005001  pkg:cpan/DMS-Parser-XS@0.5.1
 DMS::XS::Parser                    0.005000  pkg:cpan/DMS-XS-Parser@0.5.0
 DMTF::CIM                          0.004000  pkg:cpan/DMTF-CIM@v0.04
 DMTF::CIM::Instance                0.004000  pkg:cpan/DMTF-CIM@v0.04
