@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 05 May 2026 02:09:39 GMT
+Last-Updated: Tue, 05 May 2026 06:10:37 GMT
 Line-Count: 264080
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -252575,7 +252575,7 @@ Wily::Connect                       0.01  pkg:cpan/Wily@0.02
 Wily::Message                       0.01  pkg:cpan/Wily@0.02
 Wily::RPC                           0.01  pkg:cpan/Wily@0.02
 Wily::Win                           0.02  pkg:cpan/Wily@0.02
-Win32                               0.59  pkg:cpan/Win32@0.59
+Win32                               0.60  pkg:cpan/Win32@0.60
 Win32::AD::Constant                 0.01  pkg:cpan/Win32-AD-Control-DirSync@0.01
 Win32::AD::Control::DirSync         0.01  pkg:cpan/Win32-AD-Control-DirSync@0.01
 Win32::AD::User                     0.04  pkg:cpan/Win32-AD-User@0.04
@@ -252781,7 +252781,7 @@ Win32::Env::Path                    0.03  pkg:cpan/Win32-Env-Path@0.03
 Win32::EnvProcess                   0.06  pkg:cpan/Win32-EnvProcess@0.06
 Win32::ErrorMode                    0.07  pkg:cpan/Win32-ErrorMode@0.07
 Win32::Event                        1.09  pkg:cpan/Win32-IPC@1.11
-Win32::EventLog                    0.077  pkg:cpan/Win32-EventLog@0.077
+Win32::EventLog                    0.079  pkg:cpan/Win32-EventLog@0.079
 Win32::EventLog::Carp               1.42  pkg:cpan/Win32-EventLog-Carp@1.42
 Win32::Excel::Refresh               0.02  pkg:cpan/Win32-Excel-Refresh@0.02
 Win32::ExcelSimple                  0.59  pkg:cpan/Win32-ExcelSimple@0.59
@@ -252994,7 +252994,7 @@ Win32::NTFS::Symlink                0.10  pkg:cpan/Win32-NTFS-Symlink@0.10
 Win32::NameTranslate                0.06  pkg:cpan/Win32-NameTranslate@0.06
 Win32::Net::Info                    1.00  pkg:cpan/Win32-Net-Info@1.00
 Win32::Net::Session                 0.02  pkg:cpan/Win32-Net-Session@0.02
-Win32::NetAdmin                     0.13  pkg:cpan/Win32-NetAdmin@0.13
+Win32::NetAdmin                     0.14  pkg:cpan/Win32-NetAdmin@0.14
 Win32::NetName                       0.3  pkg:cpan/Win32-NetName@0.3
 Win32::NetPacket                    0.03  pkg:cpan/Win32-NetPacket@0.03
 Win32::NetResource                 0.057  pkg:cpan/Win32-NetResource@0.057
