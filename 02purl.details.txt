@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 05 May 2026 15:48:08 GMT
+Last-Updated: Tue, 05 May 2026 17:16:57 GMT
 Line-Count: 264104
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -234754,10 +234754,10 @@ Transmission::Utils                undef  pkg:cpan/Transmission-Client@0.0806
 Trash::Park                         0.03  pkg:cpan/Trash-Park@0.03
 Trash::Park::Element                0.03  pkg:cpan/Trash-Park@0.03
 Trav::Dir                           0.02  pkg:cpan/Trav-Dir@0.02
-Travel::Routing::DE::DBRIS          0.11  pkg:cpan/Travel-Routing-DE-DBRIS@0.11
-Travel::Routing::DE::DBRIS::Connection  0.11  pkg:cpan/Travel-Routing-DE-DBRIS@0.11
-Travel::Routing::DE::DBRIS::Connection::Segment  0.11  pkg:cpan/Travel-Routing-DE-DBRIS@0.11
-Travel::Routing::DE::DBRIS::Offer   0.11  pkg:cpan/Travel-Routing-DE-DBRIS@0.11
+Travel::Routing::DE::DBRIS          0.12  pkg:cpan/Travel-Routing-DE-DBRIS@0.12
+Travel::Routing::DE::DBRIS::Connection  0.12  pkg:cpan/Travel-Routing-DE-DBRIS@0.12
+Travel::Routing::DE::DBRIS::Connection::Segment  0.12  pkg:cpan/Travel-Routing-DE-DBRIS@0.12
+Travel::Routing::DE::DBRIS::Offer   0.12  pkg:cpan/Travel-Routing-DE-DBRIS@0.12
 Travel::Routing::DE::EFA            2.24  pkg:cpan/Travel-Routing-DE-VRR@2.24
 Travel::Routing::DE::EFA::Route     2.24  pkg:cpan/Travel-Routing-DE-VRR@2.24
 Travel::Routing::DE::EFA::Route::Message  2.24  pkg:cpan/Travel-Routing-DE-VRR@2.24
@@ -234769,15 +234769,15 @@ Travel::Routing::DE::HAFAS::Location  0.01  pkg:cpan/Travel-Routing-DE-HAFAS@0.0
 Travel::Routing::DE::HAFAS::Utils   0.11  pkg:cpan/Travel-Routing-DE-HAFAS@0.11
 Travel::Routing::DE::VRR            2.24  pkg:cpan/Travel-Routing-DE-VRR@2.24
 Travel::Status::DE::ASEAG           2.01  pkg:cpan/Travel-Status-DE-URA@2.01
-Travel::Status::DE::DBRIS           0.27  pkg:cpan/Travel-Status-DE-DBRIS@0.27
-Travel::Status::DE::DBRIS::Formation  0.27  pkg:cpan/Travel-Status-DE-DBRIS@0.27
-Travel::Status::DE::DBRIS::Formation::Carriage  0.27  pkg:cpan/Travel-Status-DE-DBRIS@0.27
-Travel::Status::DE::DBRIS::Formation::Group  0.27  pkg:cpan/Travel-Status-DE-DBRIS@0.27
-Travel::Status::DE::DBRIS::Formation::Sector  0.27  pkg:cpan/Travel-Status-DE-DBRIS@0.27
-Travel::Status::DE::DBRIS::Journey  0.27  pkg:cpan/Travel-Status-DE-DBRIS@0.27
-Travel::Status::DE::DBRIS::JourneyAtStop  0.27  pkg:cpan/Travel-Status-DE-DBRIS@0.27
-Travel::Status::DE::DBRIS::Location  0.27  pkg:cpan/Travel-Status-DE-DBRIS@0.27
-Travel::Status::DE::DBRIS::Operators  0.27  pkg:cpan/Travel-Status-DE-DBRIS@0.27
+Travel::Status::DE::DBRIS           0.28  pkg:cpan/Travel-Status-DE-DBRIS@0.28
+Travel::Status::DE::DBRIS::Formation  0.28  pkg:cpan/Travel-Status-DE-DBRIS@0.28
+Travel::Status::DE::DBRIS::Formation::Carriage  0.28  pkg:cpan/Travel-Status-DE-DBRIS@0.28
+Travel::Status::DE::DBRIS::Formation::Group  0.28  pkg:cpan/Travel-Status-DE-DBRIS@0.28
+Travel::Status::DE::DBRIS::Formation::Sector  0.28  pkg:cpan/Travel-Status-DE-DBRIS@0.28
+Travel::Status::DE::DBRIS::Journey  0.28  pkg:cpan/Travel-Status-DE-DBRIS@0.28
+Travel::Status::DE::DBRIS::JourneyAtStop  0.28  pkg:cpan/Travel-Status-DE-DBRIS@0.28
+Travel::Status::DE::DBRIS::Location  0.28  pkg:cpan/Travel-Status-DE-DBRIS@0.28
+Travel::Status::DE::DBRIS::Operators  0.28  pkg:cpan/Travel-Status-DE-DBRIS@0.28
 Travel::Status::DE::DBWagenreihung  0.18  pkg:cpan/Travel-Status-DE-DBWagenreihung@0.18
 Travel::Status::DE::DBWagenreihung::Carriage  0.18  pkg:cpan/Travel-Status-DE-DBWagenreihung@0.18
 Travel::Status::DE::DBWagenreihung::Group  0.18  pkg:cpan/Travel-Status-DE-DBWagenreihung@0.18
