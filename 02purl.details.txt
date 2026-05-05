@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 05 May 2026 09:55:55 GMT
-Line-Count: 264080
+Last-Updated: Tue, 05 May 2026 11:13:13 GMT
+Line-Count: 264092
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -74042,8 +74042,8 @@ File::RandomAccess                  1.13  pkg:cpan/Image-ExifTool@13.55
 File::RandomGenerator               0.06  pkg:cpan/File-RandomGenerator@0.06
 File::RandomLine                    0.20  pkg:cpan/File-RandomLine@0.20
 File::Raw                           0.11  pkg:cpan/File-Raw@0.11
-File::Raw::Base64                   0.01  pkg:cpan/File-Raw-Base64@0.01
-File::Raw::Separated                0.01  pkg:cpan/File-Raw-Separated@0.01
+File::Raw::Base64                   0.02  pkg:cpan/File-Raw-Base64@0.02
+File::Raw::Separated                0.02  pkg:cpan/File-Raw-Separated@0.02
 File::Rdiff                          1.0  pkg:cpan/File-Rdiff@1.0
 File::RdistByRsync                   0.3  pkg:cpan/File-RdistByRsync@0.3
 File::Read                         0.0801  pkg:cpan/File-Read@0.0801
@@ -104011,37 +104011,49 @@ Graphics::Simple::TkCanvas         undef  pkg:cpan/Graphics-Simple@0.04
 Graphics::Skullplot                 0.02  pkg:cpan/Graphics-Skullplot@0.02
 Graphics::Skullplot::ClassifyColumns  0.02  pkg:cpan/Graphics-Skullplot@0.02
 Graphics::TIFF                        21  pkg:cpan/Graphics-TIFF@21
-Graphics::Toolkit::Color            2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Calculator  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Name      2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Name::Constant  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Name::Scheme  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::SetCalculator  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Space     2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Space::Basis  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Space::Format  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Space::Hub  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Space::Instance::CIELAB  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Space::Instance::CIELCHab  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Space::Instance::CIELCHuv  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Space::Instance::CIELUV  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Space::Instance::CIEXYZ  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Space::Instance::CMY  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Space::Instance::CMYK  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Space::Instance::HSB  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Space::Instance::HSL  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Space::Instance::HSV  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Space::Instance::HWB  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Space::Instance::HunterLAB  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Space::Instance::NCol  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Space::Instance::OKLAB  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Space::Instance::OKLCH  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Space::Instance::RGB  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Space::Instance::YIQ  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Space::Instance::YUV  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Space::Shape  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Space::Util  2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
-Graphics::Toolkit::Color::Values    2.02  pkg:cpan/Graphics-Toolkit-Color@2.02
+Graphics::Toolkit::Color             2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Calculator   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Name       2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Name::Constant   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Name::Scheme   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::SetCalculator   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space      2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Basis   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Format   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Hub   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::AdobeRGB   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::AppleRGB   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::CIELAB   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::CIELCHab   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::CIELCHuv   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::CIELUV   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::CIERGB   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::CIEXYZ   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::CMY   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::CMYK   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::DCIP3   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::DCIP3Linear   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::DisplayP3   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::DisplayP3Linear   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::HSB   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::HSL   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::HSV   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::HWB   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::HunterLAB   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::NCol   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::OKLAB   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::OKLCH   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::ProPhotoRGB   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::RGB   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::RGBLinear   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::Rec2020   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::Rec709   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::WideGamutRGB   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::YIQ   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Instance::YUV   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Shape   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Space::Util   2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
+Graphics::Toolkit::Color::Values     2.1  pkg:cpan/Graphics-Toolkit-Color@2.1
 Graphics::VTK                        4.0  pkg:cpan/Graphics-VTK@4.0.001
 Graphics::VTK::3DSImporter           4.0  pkg:cpan/Graphics-VTK@4.0.001
 Graphics::VTK::AbstractMapper        4.0  pkg:cpan/Graphics-VTK@4.0.001
