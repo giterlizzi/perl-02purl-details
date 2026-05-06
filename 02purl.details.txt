@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 06 May 2026 02:10:31 GMT
-Line-Count: 264118
+Last-Updated: Wed, 06 May 2026 06:25:10 GMT
+Line-Count: 264120
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -66339,7 +66339,7 @@ Dist::Zilla::MintingProfile::PLTK  v0.2.0  pkg:cpan/Dist-Zilla-MintingProfile-PL
 Dist::Zilla::MintingProfile::Project::OSM v0.2.0  pkg:cpan/Dist-Zilla-MintingProfile-Project-OSM@0.2.0
 Dist::Zilla::MintingProfile::RTx    0.15  pkg:cpan/Dist-Zilla-MintingProfile-RTx@0.15
 Dist::Zilla::MintingProfile::SYP   0.009  pkg:cpan/Dist-Zilla-MintingProfile-SYP@0.009
-Dist::Zilla::MintingProfile::Starter v6.0.1  pkg:cpan/Dist-Zilla-PluginBundle-Starter@v6.0.1
+Dist::Zilla::MintingProfile::Starter v6.0.2  pkg:cpan/Dist-Zilla-PluginBundle-Starter@v6.0.2
 Dist::Zilla::MintingProfile::Starter::Git v6.0.0  pkg:cpan/Dist-Zilla-PluginBundle-Starter-Git@v6.0.0
 Dist::Zilla::MintingProfile::ZURBORG 0.007  pkg:cpan/Dist-Zilla-PluginBundle-ZURBORG@0.007
 Dist::Zilla::MintingProfile::zxcvbn 1.000002  pkg:cpan/Data-Password-zxcvbn-AuthorTools@1.0.2
@@ -67256,7 +67256,7 @@ Dist::Zilla::PluginBundle::SHANTANU  0.43  pkg:cpan/Dist-Zilla-PluginBundle-SHAN
 Dist::Zilla::PluginBundle::SHLOMIF 0.000011  pkg:cpan/Dist-Zilla-PluginBundle-SHLOMIF@0.000011
 Dist::Zilla::PluginBundle::SILEX   v0.0.2  pkg:cpan/Dist-Zilla-PluginBundle-SILEX@v0.0.2
 Dist::Zilla::PluginBundle::SVK     undef  pkg:cpan/Dist-Zilla-Plugin-SVK@0.10
-Dist::Zilla::PluginBundle::Starter v6.0.1  pkg:cpan/Dist-Zilla-PluginBundle-Starter@v6.0.1
+Dist::Zilla::PluginBundle::Starter v6.0.2  pkg:cpan/Dist-Zilla-PluginBundle-Starter@v6.0.2
 Dist::Zilla::PluginBundle::Starter::Git v6.0.0  pkg:cpan/Dist-Zilla-PluginBundle-Starter-Git@v6.0.0
 Dist::Zilla::PluginBundle::TAPPER  0.006  pkg:cpan/Dist-Zilla-PluginBundle-TAPPER@0.006
 Dist::Zilla::PluginBundle::TestingMania  0.25  pkg:cpan/Dist-Zilla-PluginBundle-TestingMania@0.25
@@ -67381,7 +67381,7 @@ Dist::Zilla::Role::VersionProvider 6.037  pkg:cpan/Dist-Zilla@6.037
 Dist::Zilla::Role::YANICK::PreviousVersionProvider v0.2.6  pkg:cpan/Dist-Zilla-Plugin-NextVersion-Semantic@0.2.6
 Dist::Zilla::Role::xPANResolver    v0.3.0  pkg:cpan/Dist-Zilla-Plugin-Prereqs-DarkPAN@v0.3.0
 Dist::Zilla::Shell                 0.005  pkg:cpan/Dist-Zilla-Shell@0.005
-Dist::Zilla::Starter               v6.0.1  pkg:cpan/Dist-Zilla-PluginBundle-Starter@v6.0.1
+Dist::Zilla::Starter               v6.0.2  pkg:cpan/Dist-Zilla-PluginBundle-Starter@v6.0.2
 Dist::Zilla::Stash::Contributors   v0.1.1  pkg:cpan/Dist-Zilla-Stash-Contributors@0.1.1
 Dist::Zilla::Stash::Contributors::Contributor v0.1.1  pkg:cpan/Dist-Zilla-Stash-Contributors@0.1.1
 Dist::Zilla::Stash::DefaultURLs    0.900  pkg:cpan/Dist-Zilla-BeLike-CSJEWELL@0.901
@@ -126489,7 +126489,7 @@ Log::Log4perl::Config::BaseConfigurator undef  pkg:cpan/Log-Log4perl@1.57
 Log::Log4perl::Config::DOMConfigurator  0.03  pkg:cpan/Log-Log4perl@1.57
 Log::Log4perl::Config::PropertyConfigurator undef  pkg:cpan/Log-Log4perl@1.57
 Log::Log4perl::Config::Watch       undef  pkg:cpan/Log-Log4perl@1.57
-Log::Log4perl::Config::YamlConfigurator v1.1.0  pkg:cpan/Log-Log4perl-Config-YamlConfigurator@v1.1.0
+Log::Log4perl::Config::YamlConfigurator v1.1.1  pkg:cpan/Log-Log4perl-Config-YamlConfigurator@v1.1.1
 Log::Log4perl::ConfigByInifile      0.04  pkg:cpan/Log-Log4perl-ConfigByInifile@0.04
 Log::Log4perl::DataDumper           0.01  pkg:cpan/Log-Log4perl-DataDumper@0.01
 Log::Log4perl::DateFormat          undef  pkg:cpan/Log-Log4perl@1.57
@@ -233742,7 +233742,9 @@ Time::StasisField                   0.01  pkg:cpan/Time-StasisField@0.01
 Time::Stats                          1.0  pkg:cpan/Time-Stats@1.0?ext=tgz
 Time::StopWatchWithMessage          0.06  pkg:cpan/Time-StopWatchWithMessage@0.06
 Time::Stopwatch                     1.00  pkg:cpan/Time-Stopwatch@1.00
-Time::Str                           0.06  pkg:cpan/Time-Str@0.06
+Time::Str                           0.07  pkg:cpan/Time-Str@0.07
+Time::Str::PP                       0.07  pkg:cpan/Time-Str@0.07
+Time::Str::Regexp                   0.07  pkg:cpan/Time-Str@0.07
 Time::Strptime                      1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::Format              1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::TimeZone           undef  pkg:cpan/Time-Strptime@1.04
