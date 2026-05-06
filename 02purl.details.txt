@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 05 May 2026 22:50:19 GMT
+Last-Updated: Wed, 06 May 2026 02:10:31 GMT
 Line-Count: 264118
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -51511,25 +51511,25 @@ DBIx::Class::AccessorGroup         undef  pkg:cpan/DBIx-Class@0.082844
 DBIx::Class::Admin                 undef  pkg:cpan/DBIx-Class@0.082844
 DBIx::Class::AlwaysUpdate          0.001  pkg:cpan/DBIx-Class-AlwaysUpdate@0.001
 DBIx::Class::AsFdat                 0.03  pkg:cpan/DBIx-Class-AsFdat@0.03
-DBIx::Class::Async                 v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
+DBIx::Class::Async                 v1.0.1  pkg:cpan/DBIx-Class-Async@v1.0.1
 DBIx::Class::Async::Cursor          0.25  pkg:cpan/DBIx-Class-Async@0.25
-DBIx::Class::Async::Exception      v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
-DBIx::Class::Async::Exception::AmbiguousColumn v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
-DBIx::Class::Async::Exception::Factory v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
-DBIx::Class::Async::Exception::MissingColumn v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
-DBIx::Class::Async::Exception::NoSuchRelationship v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
-DBIx::Class::Async::Exception::NotInStorage v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
-DBIx::Class::Async::Exception::RelationshipAsColumn v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
+DBIx::Class::Async::Exception      v1.0.1  pkg:cpan/DBIx-Class-Async@v1.0.1
+DBIx::Class::Async::Exception::AmbiguousColumn v1.0.1  pkg:cpan/DBIx-Class-Async@v1.0.1
+DBIx::Class::Async::Exception::Factory v1.0.1  pkg:cpan/DBIx-Class-Async@v1.0.1
+DBIx::Class::Async::Exception::MissingColumn v1.0.1  pkg:cpan/DBIx-Class-Async@v1.0.1
+DBIx::Class::Async::Exception::NoSuchRelationship v1.0.1  pkg:cpan/DBIx-Class-Async@v1.0.1
+DBIx::Class::Async::Exception::NotInStorage v1.0.1  pkg:cpan/DBIx-Class-Async@v1.0.1
+DBIx::Class::Async::Exception::RelationshipAsColumn v1.0.1  pkg:cpan/DBIx-Class-Async@v1.0.1
 DBIx::Class::Async::ResultComponent     0  pkg:cpan/DBIx-Class-Async@0.49
-DBIx::Class::Async::ResultSet      v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
-DBIx::Class::Async::ResultSet::Pager v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
-DBIx::Class::Async::ResultSetColumn v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
-DBIx::Class::Async::Row            v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
-DBIx::Class::Async::Schema         v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
-DBIx::Class::Async::SelectNormaliser v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
-DBIx::Class::Async::Storage        v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
-DBIx::Class::Async::Storage::DBI   v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
-DBIx::Class::Async::Storage::DBI::Cursor v1.0.0  pkg:cpan/DBIx-Class-Async@v1.0.0
+DBIx::Class::Async::ResultSet      v1.0.1  pkg:cpan/DBIx-Class-Async@v1.0.1
+DBIx::Class::Async::ResultSet::Pager v1.0.1  pkg:cpan/DBIx-Class-Async@v1.0.1
+DBIx::Class::Async::ResultSetColumn v1.0.1  pkg:cpan/DBIx-Class-Async@v1.0.1
+DBIx::Class::Async::Row            v1.0.1  pkg:cpan/DBIx-Class-Async@v1.0.1
+DBIx::Class::Async::Schema         v1.0.1  pkg:cpan/DBIx-Class-Async@v1.0.1
+DBIx::Class::Async::SelectNormaliser v1.0.1  pkg:cpan/DBIx-Class-Async@v1.0.1
+DBIx::Class::Async::Storage        v1.0.1  pkg:cpan/DBIx-Class-Async@v1.0.1
+DBIx::Class::Async::Storage::DBI   v1.0.1  pkg:cpan/DBIx-Class-Async@v1.0.1
+DBIx::Class::Async::Storage::DBI::Cursor v1.0.1  pkg:cpan/DBIx-Class-Async@v1.0.1
 DBIx::Class::Async::TxnGuard        0.36  pkg:cpan/DBIx-Class-Async@0.36
 DBIx::Class::AuditAny              0.200200  pkg:cpan/DBIx-Class-AuditAny@0.200200
 DBIx::Class::AuditAny::AuditContext::Change undef  pkg:cpan/DBIx-Class-AuditAny@0.200200
@@ -54238,19 +54238,19 @@ DMA::Version                       undef  pkg:cpan/DMAMisc@1.01-3
 DMA::ldconfig                      undef  pkg:cpan/DMAMisc@1.01-3
 DMI::Decode                         2.04  pkg:cpan/DMI-Decode@2.05
 DMS::Emitter                       0.005000  pkg:cpan/DMS-XS-Parser@0.5.0
-DMS::Parser                        0.005001  pkg:cpan/DMS-Parser@0.5.1
-DMS::Parser::Bool                  0.005001  pkg:cpan/DMS-Parser@0.5.1
-DMS::Parser::Emitter               0.005001  pkg:cpan/DMS-Parser@0.5.1
-DMS::Parser::Float                 0.005001  pkg:cpan/DMS-Parser@0.5.1
-DMS::Parser::Index                 0.005001  pkg:cpan/DMS-Parser@0.5.1
-DMS::Parser::Integer               0.005001  pkg:cpan/DMS-Parser@0.5.1
-DMS::Parser::LocalDate             0.005001  pkg:cpan/DMS-Parser@0.5.1
-DMS::Parser::LocalDateTime         0.005001  pkg:cpan/DMS-Parser@0.5.1
-DMS::Parser::LocalTime             0.005001  pkg:cpan/DMS-Parser@0.5.1
-DMS::Parser::OffsetDateTime        0.005001  pkg:cpan/DMS-Parser@0.5.1
-DMS::Parser::Tier1                 0.005001  pkg:cpan/DMS-Parser@0.5.1
-DMS::Parser::UnorderedTable        0.005001  pkg:cpan/DMS-Parser@0.5.1
-DMS::Parser::XS                    0.005001  pkg:cpan/DMS-Parser-XS@0.5.1
+DMS::Parser                        0.005003  pkg:cpan/DMS-Parser@0.5.3
+DMS::Parser::Bool                  0.005003  pkg:cpan/DMS-Parser@0.5.3
+DMS::Parser::Emitter               0.005003  pkg:cpan/DMS-Parser@0.5.3
+DMS::Parser::Float                 0.005003  pkg:cpan/DMS-Parser@0.5.3
+DMS::Parser::Index                 0.005003  pkg:cpan/DMS-Parser@0.5.3
+DMS::Parser::Integer               0.005003  pkg:cpan/DMS-Parser@0.5.3
+DMS::Parser::LocalDate             0.005003  pkg:cpan/DMS-Parser@0.5.3
+DMS::Parser::LocalDateTime         0.005003  pkg:cpan/DMS-Parser@0.5.3
+DMS::Parser::LocalTime             0.005003  pkg:cpan/DMS-Parser@0.5.3
+DMS::Parser::OffsetDateTime        0.005003  pkg:cpan/DMS-Parser@0.5.3
+DMS::Parser::Tier1                 0.005003  pkg:cpan/DMS-Parser@0.5.3
+DMS::Parser::UnorderedTable        0.005003  pkg:cpan/DMS-Parser@0.5.3
+DMS::Parser::XS                    0.005003  pkg:cpan/DMS-Parser-XS@0.5.3
 DMS::XS::Parser                    0.005000  pkg:cpan/DMS-XS-Parser@0.5.0
 DMTF::CIM                          0.004000  pkg:cpan/DMTF-CIM@v0.04
 DMTF::CIM::Instance                0.004000  pkg:cpan/DMTF-CIM@v0.04
