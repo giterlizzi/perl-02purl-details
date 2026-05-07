@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 07 May 2026 19:28:34 GMT
-Line-Count: 264154
+Last-Updated: Thu, 07 May 2026 20:59:17 GMT
+Line-Count: 264162
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -158430,6 +158430,7 @@ PDL::Demos                         undef  pkg:cpan/PDL@2.104
 PDL::Demos::BAD_demo               undef  pkg:cpan/PDL@2.104
 PDL::Demos::Cartography_demo       undef  pkg:cpan/PDL@2.104
 PDL::Demos::DSPWindows             0.102  pkg:cpan/PDL-DSP-Windows@0.102
+PDL::Demos::Ellipsometry           undef  pkg:cpan/Physics-Ellipsometry-VASE@1.00
 PDL::Demos::Func_demo              undef  pkg:cpan/PDL@2.104
 PDL::Demos::GSL_CDF                undef  pkg:cpan/PDL-GSL@2.103
 PDL::Demos::GSL_RNG                undef  pkg:cpan/PDL-GSL@2.103
@@ -195703,7 +195704,13 @@ Physics::Ballistics                 1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::External       1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::Internal       1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::Terminal       1.03  pkg:cpan/Physics-Ballistics@1.03
-Physics::Ellipsometry::VASE         0.03  pkg:cpan/Physics-Ellipsometry-VASE@0.03
+Physics::Ellipsometry::VASE         1.00  pkg:cpan/Physics-Ellipsometry-VASE@1.00
+Physics::Ellipsometry::VASE::Dispersion  0.01  pkg:cpan/Physics-Ellipsometry-VASE@1.00
+Physics::Ellipsometry::VASE::EMA    0.01  pkg:cpan/Physics-Ellipsometry-VASE@1.00
+Physics::Ellipsometry::VASE::Materials  0.01  pkg:cpan/Physics-Ellipsometry-VASE@1.00
+Physics::Ellipsometry::VASE::Optimizer  0.01  pkg:cpan/Physics-Ellipsometry-VASE@1.00
+Physics::Ellipsometry::VASE::Parameter  0.01  pkg:cpan/Physics-Ellipsometry-VASE@1.00
+Physics::Ellipsometry::VASE::TMM    0.01  pkg:cpan/Physics-Ellipsometry-VASE@1.00
 Physics::Lorentz                    0.01  pkg:cpan/Physics-Lorentz@0.01
 Physics::Lorentz::Transformation    0.01  pkg:cpan/Physics-Lorentz@0.01
 Physics::Lorentz::Vector            0.01  pkg:cpan/Physics-Lorentz@0.01
@@ -263943,6 +263950,7 @@ transliterate_win1251              undef  pkg:cpan/MP3-Tag@0.9713
 true                               1.000002  pkg:cpan/true@v1.0.2
 true::VERSION                      1.000002  pkg:cpan/true@v1.0.2
 ts                                  0.09  pkg:cpan/Finance-Quant@0.09
+tstregex                            1.00  pkg:cpan/tstregex@1.00
 tt                                  0.02  pkg:cpan/Module-Compile-TT@0.02
 tube                                1.17  pkg:cpan/LIMS-MT_Plate@1.17?ext=zip
 typedjson                          undef  pkg:cpan/Net-OpenStack-Client@0.1.4
