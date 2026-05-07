@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 07 May 2026 13:49:25 GMT
-Line-Count: 264152
+Last-Updated: Thu, 07 May 2026 16:01:59 GMT
+Line-Count: 264153
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -77718,19 +77718,20 @@ GDA::Log                           undef  pkg:cpan/GDA@0.2
 GDA::Provider                      undef  pkg:cpan/GDA@0.2
 GDB::bt                            undef  pkg:cpan/GDB-bt@0.01
 GDBM_File                           1.24  pkg:cpan/perl@5.42.2
-GDPR::IAB::TCFv2                   0.380  pkg:cpan/GDPR-IAB-TCFv2@0.380
-GDPR::IAB::TCFv2::BitField             0  pkg:cpan/GDPR-IAB-TCFv2@0.380
-GDPR::IAB::TCFv2::BitUtils             0  pkg:cpan/GDPR-IAB-TCFv2@0.380
-GDPR::IAB::TCFv2::Constants::Purpose     0  pkg:cpan/GDPR-IAB-TCFv2@0.380
-GDPR::IAB::TCFv2::Constants::RestrictionType     0  pkg:cpan/GDPR-IAB-TCFv2@0.380
-GDPR::IAB::TCFv2::Constants::SpecialFeature     0  pkg:cpan/GDPR-IAB-TCFv2@0.380
-GDPR::IAB::TCFv2::Publisher            0  pkg:cpan/GDPR-IAB-TCFv2@0.380
-GDPR::IAB::TCFv2::PublisherRestrictions     0  pkg:cpan/GDPR-IAB-TCFv2@0.380
-GDPR::IAB::TCFv2::PublisherTC          0  pkg:cpan/GDPR-IAB-TCFv2@0.380
+GDPR::IAB::TCFv2                   0.390  pkg:cpan/GDPR-IAB-TCFv2@0.390
+GDPR::IAB::TCFv2::BitField             0  pkg:cpan/GDPR-IAB-TCFv2@0.390
+GDPR::IAB::TCFv2::BitUtils             0  pkg:cpan/GDPR-IAB-TCFv2@0.390
+GDPR::IAB::TCFv2::CMPValidator     0.001  pkg:cpan/GDPR-IAB-TCFv2@0.390
+GDPR::IAB::TCFv2::Constants::Purpose     0  pkg:cpan/GDPR-IAB-TCFv2@0.390
+GDPR::IAB::TCFv2::Constants::RestrictionType     0  pkg:cpan/GDPR-IAB-TCFv2@0.390
+GDPR::IAB::TCFv2::Constants::SpecialFeature     0  pkg:cpan/GDPR-IAB-TCFv2@0.390
+GDPR::IAB::TCFv2::Publisher            0  pkg:cpan/GDPR-IAB-TCFv2@0.390
+GDPR::IAB::TCFv2::PublisherRestrictions     0  pkg:cpan/GDPR-IAB-TCFv2@0.390
+GDPR::IAB::TCFv2::PublisherTC          0  pkg:cpan/GDPR-IAB-TCFv2@0.390
 GDPR::IAB::TCFv2::RangeConsent     undef  pkg:cpan/GDPR-IAB-TCFv2@0.082
-GDPR::IAB::TCFv2::RangeSection         0  pkg:cpan/GDPR-IAB-TCFv2@0.380
-GDPR::IAB::TCFv2::Validator            0  pkg:cpan/GDPR-IAB-TCFv2@0.380
-GDPR::IAB::TCFv2::Validator::Result     0  pkg:cpan/GDPR-IAB-TCFv2@0.380
+GDPR::IAB::TCFv2::RangeSection         0  pkg:cpan/GDPR-IAB-TCFv2@0.390
+GDPR::IAB::TCFv2::Validator            0  pkg:cpan/GDPR-IAB-TCFv2@0.390
+GDPR::IAB::TCFv2::Validator::Result     0  pkg:cpan/GDPR-IAB-TCFv2@0.390
 GDS2                                3.35  pkg:cpan/GDS2@3.35
 GENJobAd                           undef  pkg:cpan/Gantry@3.42
 GFF::Filehandle                    undef  pkg:cpan/AcePerl@1.92
@@ -227494,7 +227495,7 @@ Term::ReadLine::Perl5::Tie          1.45  pkg:cpan/Term-ReadLine-Perl5@1.45
 Term::ReadLine::Perl5::readline     1.45  pkg:cpan/Term-ReadLine-Perl5@1.45
 Term::ReadLine::Perl::AU           1.0303  pkg:cpan/Term-ReadLine-Perl@1.0303
 Term::ReadLine::Perl::Tie          1.0303  pkg:cpan/Term-ReadLine-Perl@1.0303
-Term::ReadLine::Repl               v0.0.1  pkg:cpan/Term-ReadLine-Repl@v0.0.1
+Term::ReadLine::Repl               v0.0.2  pkg:cpan/Term-ReadLine-Repl@v0.0.2
 Term::ReadLine::Stub                1.14  pkg:cpan/Term-ReadLine@1.14
 Term::ReadLine::TTYtter              1.4  pkg:cpan/Term-ReadLine-TTYtter@1.4
 Term::ReadLine::TTYtter::AU          1.4  pkg:cpan/Term-ReadLine-TTYtter@1.4
@@ -229433,7 +229434,7 @@ Test::MockFile::FileHandle         0.039  pkg:cpan/Test-MockFile@0.039
 Test::MockFile::Plugin             0.039  pkg:cpan/Test-MockFile@0.039
 Test::MockFile::Plugin::FileTemp   0.039  pkg:cpan/Test-MockFile@0.039
 Test::MockFile::Plugins            0.039  pkg:cpan/Test-MockFile@0.039
-Test::MockModule                   v0.184.0  pkg:cpan/Test-MockModule@v0.184.0
+Test::MockModule                   v0.185.0  pkg:cpan/Test-MockModule@v0.185.0
 Test::MockObject                   1.20200122  pkg:cpan/Test-MockObject@1.20200122
 Test::MockObject::Chain             1.00  pkg:cpan/Test-MockObject-Chain@1.00?ext=zip
 Test::MockObject::Extends          1.20200122  pkg:cpan/Test-MockObject@1.20200122
