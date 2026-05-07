@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 07 May 2026 02:12:58 GMT
-Line-Count: 264128
+Last-Updated: Thu, 07 May 2026 06:30:06 GMT
+Line-Count: 264152
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -20203,8 +20203,8 @@ AtteanX::Functions::CompositeMaps::TurtleLexerWithNull 0.032  pkg:cpan/Attean@0.
 AtteanX::Model::SPARQL             0.012  pkg:cpan/AtteanX-Store-SPARQL@0.012
 AtteanX::Model::SPARQLCache        undef  pkg:cpan/AtteanX-Query-Cache@0.002
 AtteanX::Model::SPARQLCache::LDF   undef  pkg:cpan/AtteanX-Query-Cache@0.002
-AtteanX::Parser::JSONLD            0.001  pkg:cpan/AtteanX-Parser-JSONLD@0.001
-AtteanX::Parser::JSONLD::Handler   0.001  pkg:cpan/AtteanX-Parser-JSONLD@0.001
+AtteanX::Parser::JSONLD            0.002  pkg:cpan/AtteanX-Parser-JSONLD@0.002
+AtteanX::Parser::JSONLD::Handler   0.002  pkg:cpan/AtteanX-Parser-JSONLD@0.002
 AtteanX::Parser::NQuads            0.037  pkg:cpan/Attean@0.037
 AtteanX::Parser::NTriples          0.037  pkg:cpan/Attean@0.037
 AtteanX::Parser::NTuples           0.037  pkg:cpan/Attean@0.037
@@ -30319,9 +30319,9 @@ Business::ID::POM                  0.006  pkg:cpan/Business-ID-POM@0.006
 Business::ID::SIM                  0.081  pkg:cpan/Business-ID-SIM@0.081
 Business::ID::VehiclePlate         0.002  pkg:cpan/Business-ID-VehiclePlate@0.002
 Business::IS::PIN                   0.06  pkg:cpan/Business-IS-PIN@0.06
-Business::ISBN                     3.013  pkg:cpan/Business-ISBN@3.013
-Business::ISBN10                   3.013  pkg:cpan/Business-ISBN@3.013
-Business::ISBN13                   3.013  pkg:cpan/Business-ISBN@3.013
+Business::ISBN                     3.014  pkg:cpan/Business-ISBN@3.014
+Business::ISBN10                   3.014  pkg:cpan/Business-ISBN@3.014
+Business::ISBN13                   3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN::Data               20260502.001  pkg:cpan/Business-ISBN-Data@20260502.001
 Business::ISIN                      0.20  pkg:cpan/Business-ISIN@0.20?ext=tgz
 Business::ISMN                     1.205  pkg:cpan/Business-ISMN@1.205
@@ -245052,6 +245052,30 @@ WWW::MLite::Util                    1.01  pkg:cpan/WWW-MLite@1.05
 WWW::MSA::Hadith                    1.01  pkg:cpan/WWW-MSA-Hadith@1.01
 WWW::Mail15                         0.01  pkg:cpan/WWW-Mail15@0.01
 WWW::Mail15::Message                0.01  pkg:cpan/WWW-Mail15@0.01
+WWW::MailboxOrg                    0.001  pkg:cpan/WWW-MailboxOrg@0.001
+WWW::MailboxOrg::API::Account      0.001  pkg:cpan/WWW-MailboxOrg@0.001
+WWW::MailboxOrg::API::Backup       0.001  pkg:cpan/WWW-MailboxOrg@0.001
+WWW::MailboxOrg::API::Base         0.001  pkg:cpan/WWW-MailboxOrg@0.001
+WWW::MailboxOrg::API::Blacklist    0.001  pkg:cpan/WWW-MailboxOrg@0.001
+WWW::MailboxOrg::API::Domain       0.001  pkg:cpan/WWW-MailboxOrg@0.001
+WWW::MailboxOrg::API::Invoice      0.001  pkg:cpan/WWW-MailboxOrg@0.001
+WWW::MailboxOrg::API::Mail         0.001  pkg:cpan/WWW-MailboxOrg@0.001
+WWW::MailboxOrg::API::Mailinglist  0.001  pkg:cpan/WWW-MailboxOrg@0.001
+WWW::MailboxOrg::API::Passwordreset 0.001  pkg:cpan/WWW-MailboxOrg@0.001
+WWW::MailboxOrg::API::Spamprotect  0.001  pkg:cpan/WWW-MailboxOrg@0.001
+WWW::MailboxOrg::API::System       0.001  pkg:cpan/WWW-MailboxOrg@0.001
+WWW::MailboxOrg::API::Utils        0.001  pkg:cpan/WWW-MailboxOrg@0.001
+WWW::MailboxOrg::API::Validate     0.001  pkg:cpan/WWW-MailboxOrg@0.001
+WWW::MailboxOrg::API::Videochat    0.001  pkg:cpan/WWW-MailboxOrg@0.001
+WWW::MailboxOrg::Entity::Account   0.001  pkg:cpan/WWW-MailboxOrg@0.001
+WWW::MailboxOrg::Entity::Domain    0.001  pkg:cpan/WWW-MailboxOrg@0.001
+WWW::MailboxOrg::JSONRPCRequest    0.001  pkg:cpan/WWW-MailboxOrg@0.001
+WWW::MailboxOrg::JSONRPCResponse   0.001  pkg:cpan/WWW-MailboxOrg@0.001
+WWW::MailboxOrg::LWPIO             0.001  pkg:cpan/WWW-MailboxOrg@0.001
+WWW::MailboxOrg::Role::HTTP        0.001  pkg:cpan/WWW-MailboxOrg@0.001
+WWW::MailboxOrg::Role::IO          0.001  pkg:cpan/WWW-MailboxOrg@0.001
+WWW::MailboxOrg::Role::RPC         0.001  pkg:cpan/WWW-MailboxOrg@0.001
+WWW::MailboxOrg::Types             0.001  pkg:cpan/WWW-MailboxOrg@0.001
 WWW::Mailchimp                     0.010  pkg:cpan/WWW-Mailchimp@0.010
 WWW::Mailgun                        0.54  pkg:cpan/WWW-Mailgun@0.54
 WWW::Mailman                       1.061  pkg:cpan/WWW-Mailman@1.061
