@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 07 May 2026 16:01:59 GMT
-Line-Count: 264153
+Last-Updated: Thu, 07 May 2026 19:28:34 GMT
+Line-Count: 264154
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -50214,7 +50214,7 @@ Cucumber::TagExpressions::LiteralNode v9.1.0  pkg:cpan/Cucumber-TagExpressions@9
 Cucumber::TagExpressions::Node     v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
 Cucumber::TagExpressions::NotNode  v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
 Cucumber::TagExpressions::OrNode   v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.91
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.92
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
@@ -221869,6 +221869,7 @@ Stats::Fermi::FermiDiracStats      undef  pkg:cpan/Stats-Fermi@0.1.7
 Stats::Hawking                     0.001003  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HTRandom           undef  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HawkingTemperature undef  pkg:cpan/Stats-Hawking@0.1.3
+Stats::LikeR                        0.01  pkg:cpan/Stats-LikeR@0.01
 StatsView::Graph                    1.15  pkg:cpan/StatsView@1.4
 StatsView::Graph::Iost             undef  pkg:cpan/StatsView@1.4
 StatsView::Graph::Iostat           undef  pkg:cpan/StatsView@1.4
@@ -229527,8 +229528,8 @@ Test::More::Strict                  0.02  pkg:cpan/Test-More-Strict@0.02
 Test::More::UTF8                    0.05  pkg:cpan/Test-More-UTF8@0.05
 Test::More::Unlike                  0.03  pkg:cpan/Test-More-Unlike@0.03
 Test::More::YAMLScript             0.001007  pkg:cpan/Test-More-YAMLScript@0.1.7
-Test::Most                          0.41  pkg:cpan/Test-Most@0.41
-Test::Most::Exception               0.41  pkg:cpan/Test-Most@0.41
+Test::Most                          0.42  pkg:cpan/Test-Most@0.42
+Test::Most::Exception               0.42  pkg:cpan/Test-Most@0.42
 Test::Most::Explain                 0.01  pkg:cpan/Test-Most-Explain@0.01
 Test::Mountebank                   0.001  pkg:cpan/Test-Mountebank@0.001
 Test::Mountebank::Client           0.001  pkg:cpan/Test-Mountebank@0.001
@@ -233751,9 +233752,9 @@ Time::StasisField                   0.01  pkg:cpan/Time-StasisField@0.01
 Time::Stats                          1.0  pkg:cpan/Time-Stats@1.0?ext=tgz
 Time::StopWatchWithMessage          0.06  pkg:cpan/Time-StopWatchWithMessage@0.06
 Time::Stopwatch                     1.00  pkg:cpan/Time-Stopwatch@1.00
-Time::Str                           0.07  pkg:cpan/Time-Str@0.07
-Time::Str::PP                       0.07  pkg:cpan/Time-Str@0.07
-Time::Str::Regexp                   0.07  pkg:cpan/Time-Str@0.07
+Time::Str                           0.08  pkg:cpan/Time-Str@0.08
+Time::Str::PP                       0.08  pkg:cpan/Time-Str@0.08
+Time::Str::Regexp                   0.08  pkg:cpan/Time-Str@0.08
 Time::Strptime                      1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::Format              1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::TimeZone           undef  pkg:cpan/Time-Strptime@1.04
