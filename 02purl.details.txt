@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 07 May 2026 06:30:06 GMT
+Last-Updated: Thu, 07 May 2026 10:16:38 GMT
 Line-Count: 264152
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -20852,7 +20852,7 @@ Authen::RBAC::Group::Acl::PolicyFactory  0.01  pkg:cpan/authen-rbac@0.1
 Authen::RBAC::Group::Acl::PolicyFactory::Deny  0.01  pkg:cpan/authen-rbac@0.1
 Authen::RBAC::Group::Acl::PolicyFactory::Hostmask  0.01  pkg:cpan/authen-rbac@0.1
 Authen::RBAC::Group::Acl::PolicyFactory::Permit  0.01  pkg:cpan/authen-rbac@0.1
-Authen::Radius                      0.35  pkg:cpan/Authen-Radius@0.35
+Authen::Radius                      0.36  pkg:cpan/Authen-Radius@0.36
 Authen::SASL                       2.2000  pkg:cpan/Authen-SASL@2.2000
 Authen::SASL::Authd                 0.04  pkg:cpan/Authen-SASL-Authd@0.04
 Authen::SASL::CRAM_MD5             2.2000  pkg:cpan/Authen-SASL@2.2000
