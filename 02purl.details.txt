@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 07 May 2026 20:59:17 GMT
-Line-Count: 264162
+Last-Updated: Thu, 07 May 2026 22:55:27 GMT
+Line-Count: 264164
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -50214,7 +50214,7 @@ Cucumber::TagExpressions::LiteralNode v9.1.0  pkg:cpan/Cucumber-TagExpressions@9
 Cucumber::TagExpressions::Node     v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
 Cucumber::TagExpressions::NotNode  v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
 Cucumber::TagExpressions::OrNode   v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.92
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.93
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
@@ -66670,6 +66670,7 @@ Dist::Zilla::Plugin::Hook::ReleaseStatusProvider v0.8.4  pkg:cpan/Dist-Zilla-Plu
 Dist::Zilla::Plugin::Hook::Releaser v0.8.4  pkg:cpan/Dist-Zilla-Plugin-Hook@v0.8.4
 Dist::Zilla::Plugin::Hook::VersionProvider v0.8.4  pkg:cpan/Dist-Zilla-Plugin-Hook@v0.8.4
 Dist::Zilla::Plugin::INI::Baked    0.002002  pkg:cpan/Dist-Zilla-Plugin-INI-Baked@0.002002
+Dist::Zilla::Plugin::IRC           0.001  pkg:cpan/Dist-Zilla-Plugin-IRC@0.001
 Dist::Zilla::Plugin::IfBuilt        0.02  pkg:cpan/Dist-Zilla-Plugin-IfBuilt@0.02
 Dist::Zilla::Plugin::Inject        0.001  pkg:cpan/Dist-Zilla-Plugin-Inject@0.001
 Dist::Zilla::Plugin::InlineFiles   6.037  pkg:cpan/Dist-Zilla@6.037
@@ -77718,20 +77719,21 @@ GDA::Log                           undef  pkg:cpan/GDA@0.2
 GDA::Provider                      undef  pkg:cpan/GDA@0.2
 GDB::bt                            undef  pkg:cpan/GDB-bt@0.01
 GDBM_File                           1.24  pkg:cpan/perl@5.42.2
-GDPR::IAB::TCFv2                   0.390  pkg:cpan/GDPR-IAB-TCFv2@0.390
-GDPR::IAB::TCFv2::BitField             0  pkg:cpan/GDPR-IAB-TCFv2@0.390
-GDPR::IAB::TCFv2::BitUtils             0  pkg:cpan/GDPR-IAB-TCFv2@0.390
-GDPR::IAB::TCFv2::CMPValidator     0.001  pkg:cpan/GDPR-IAB-TCFv2@0.390
-GDPR::IAB::TCFv2::Constants::Purpose     0  pkg:cpan/GDPR-IAB-TCFv2@0.390
-GDPR::IAB::TCFv2::Constants::RestrictionType     0  pkg:cpan/GDPR-IAB-TCFv2@0.390
-GDPR::IAB::TCFv2::Constants::SpecialFeature     0  pkg:cpan/GDPR-IAB-TCFv2@0.390
-GDPR::IAB::TCFv2::Publisher            0  pkg:cpan/GDPR-IAB-TCFv2@0.390
-GDPR::IAB::TCFv2::PublisherRestrictions     0  pkg:cpan/GDPR-IAB-TCFv2@0.390
-GDPR::IAB::TCFv2::PublisherTC          0  pkg:cpan/GDPR-IAB-TCFv2@0.390
+GDPR::IAB::TCFv2                   0.391  pkg:cpan/GDPR-IAB-TCFv2@0.391
+GDPR::IAB::TCFv2::BitField             0  pkg:cpan/GDPR-IAB-TCFv2@0.391
+GDPR::IAB::TCFv2::BitUtils             0  pkg:cpan/GDPR-IAB-TCFv2@0.391
+GDPR::IAB::TCFv2::CMPValidator     0.001  pkg:cpan/GDPR-IAB-TCFv2@0.391
+GDPR::IAB::TCFv2::Constants::Purpose     0  pkg:cpan/GDPR-IAB-TCFv2@0.391
+GDPR::IAB::TCFv2::Constants::RestrictionType     0  pkg:cpan/GDPR-IAB-TCFv2@0.391
+GDPR::IAB::TCFv2::Constants::SpecialFeature     0  pkg:cpan/GDPR-IAB-TCFv2@0.391
+GDPR::IAB::TCFv2::Publisher            0  pkg:cpan/GDPR-IAB-TCFv2@0.391
+GDPR::IAB::TCFv2::PublisherRestrictions     0  pkg:cpan/GDPR-IAB-TCFv2@0.391
+GDPR::IAB::TCFv2::PublisherTC          0  pkg:cpan/GDPR-IAB-TCFv2@0.391
 GDPR::IAB::TCFv2::RangeConsent     undef  pkg:cpan/GDPR-IAB-TCFv2@0.082
-GDPR::IAB::TCFv2::RangeSection         0  pkg:cpan/GDPR-IAB-TCFv2@0.390
-GDPR::IAB::TCFv2::Validator            0  pkg:cpan/GDPR-IAB-TCFv2@0.390
-GDPR::IAB::TCFv2::Validator::Result     0  pkg:cpan/GDPR-IAB-TCFv2@0.390
+GDPR::IAB::TCFv2::RangeSection         0  pkg:cpan/GDPR-IAB-TCFv2@0.391
+GDPR::IAB::TCFv2::Validator            0  pkg:cpan/GDPR-IAB-TCFv2@0.391
+GDPR::IAB::TCFv2::Validator::Reason     0  pkg:cpan/GDPR-IAB-TCFv2@0.391
+GDPR::IAB::TCFv2::Validator::Result     0  pkg:cpan/GDPR-IAB-TCFv2@0.391
 GDS2                                3.35  pkg:cpan/GDS2@3.35
 GENJobAd                           undef  pkg:cpan/Gantry@3.42
 GFF::Filehandle                    undef  pkg:cpan/AcePerl@1.92
@@ -158430,7 +158432,7 @@ PDL::Demos                         undef  pkg:cpan/PDL@2.104
 PDL::Demos::BAD_demo               undef  pkg:cpan/PDL@2.104
 PDL::Demos::Cartography_demo       undef  pkg:cpan/PDL@2.104
 PDL::Demos::DSPWindows             0.102  pkg:cpan/PDL-DSP-Windows@0.102
-PDL::Demos::Ellipsometry           undef  pkg:cpan/Physics-Ellipsometry-VASE@1.00
+PDL::Demos::Ellipsometry           undef  pkg:cpan/Physics-Ellipsometry-VASE@1.02
 PDL::Demos::Func_demo              undef  pkg:cpan/PDL@2.104
 PDL::Demos::GSL_CDF                undef  pkg:cpan/PDL-GSL@2.103
 PDL::Demos::GSL_RNG                undef  pkg:cpan/PDL-GSL@2.103
@@ -195704,13 +195706,13 @@ Physics::Ballistics                 1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::External       1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::Internal       1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::Terminal       1.03  pkg:cpan/Physics-Ballistics@1.03
-Physics::Ellipsometry::VASE         1.00  pkg:cpan/Physics-Ellipsometry-VASE@1.00
-Physics::Ellipsometry::VASE::Dispersion  0.01  pkg:cpan/Physics-Ellipsometry-VASE@1.00
-Physics::Ellipsometry::VASE::EMA    0.01  pkg:cpan/Physics-Ellipsometry-VASE@1.00
-Physics::Ellipsometry::VASE::Materials  0.01  pkg:cpan/Physics-Ellipsometry-VASE@1.00
-Physics::Ellipsometry::VASE::Optimizer  0.01  pkg:cpan/Physics-Ellipsometry-VASE@1.00
-Physics::Ellipsometry::VASE::Parameter  0.01  pkg:cpan/Physics-Ellipsometry-VASE@1.00
-Physics::Ellipsometry::VASE::TMM    0.01  pkg:cpan/Physics-Ellipsometry-VASE@1.00
+Physics::Ellipsometry::VASE         1.02  pkg:cpan/Physics-Ellipsometry-VASE@1.02
+Physics::Ellipsometry::VASE::Dispersion  0.01  pkg:cpan/Physics-Ellipsometry-VASE@1.02
+Physics::Ellipsometry::VASE::EMA    0.01  pkg:cpan/Physics-Ellipsometry-VASE@1.02
+Physics::Ellipsometry::VASE::Materials  0.01  pkg:cpan/Physics-Ellipsometry-VASE@1.02
+Physics::Ellipsometry::VASE::Optimizer  0.01  pkg:cpan/Physics-Ellipsometry-VASE@1.02
+Physics::Ellipsometry::VASE::Parameter  0.01  pkg:cpan/Physics-Ellipsometry-VASE@1.02
+Physics::Ellipsometry::VASE::TMM    0.01  pkg:cpan/Physics-Ellipsometry-VASE@1.02
 Physics::Lorentz                    0.01  pkg:cpan/Physics-Lorentz@0.01
 Physics::Lorentz::Transformation    0.01  pkg:cpan/Physics-Lorentz@0.01
 Physics::Lorentz::Vector            0.01  pkg:cpan/Physics-Lorentz@0.01
