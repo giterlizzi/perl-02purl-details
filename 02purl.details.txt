@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 07 May 2026 22:55:27 GMT
+Last-Updated: Fri, 08 May 2026 02:28:57 GMT
 Line-Count: 264164
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -66950,7 +66950,7 @@ Dist::Zilla::Plugin::ShareDir::Clean  0.05  pkg:cpan/Dist-Zilla-Plugin-ShareDir-
 Dist::Zilla::Plugin::ShareDir::ProjectDistDir 3.002000  pkg:cpan/Dist-Zilla-PluginBundle-Author-MAXHQ@3.2.0
 Dist::Zilla::Plugin::ShareDir::Tarball v0.6.0  pkg:cpan/Dist-Zilla-Plugin-ShareDir-Tarball@0.6.0
 Dist::Zilla::Plugin::ShareEmbed    0.004  pkg:cpan/Dist-Zilla-Plugin-ShareEmbed@0.004
-Dist::Zilla::Plugin::SigStore::SignRelease  0.03  pkg:cpan/Dist-Zilla-Plugin-SigStore-SignRelease@0.03
+Dist::Zilla::Plugin::SigStore::SignRelease  0.05  pkg:cpan/Dist-Zilla-Plugin-SigStore-SignRelease@0.05
 Dist::Zilla::Plugin::SigStore::UploadToCPAN  0.01  pkg:cpan/Dist-Zilla-Plugin-SigStore-SignRelease@0.01
 Dist::Zilla::Plugin::SignReleaseNotes 0.0008  pkg:cpan/Dist-Zilla-Plugin-SignReleaseNotes@0.0008
 Dist::Zilla::Plugin::Signature     1.252860  pkg:cpan/Dist-Zilla-Plugin-Signature@1.252860
@@ -158432,7 +158432,7 @@ PDL::Demos                         undef  pkg:cpan/PDL@2.104
 PDL::Demos::BAD_demo               undef  pkg:cpan/PDL@2.104
 PDL::Demos::Cartography_demo       undef  pkg:cpan/PDL@2.104
 PDL::Demos::DSPWindows             0.102  pkg:cpan/PDL-DSP-Windows@0.102
-PDL::Demos::Ellipsometry           undef  pkg:cpan/Physics-Ellipsometry-VASE@1.02
+PDL::Demos::Ellipsometry           undef  pkg:cpan/Physics-Ellipsometry-VASE@1.03
 PDL::Demos::Func_demo              undef  pkg:cpan/PDL@2.104
 PDL::Demos::GSL_CDF                undef  pkg:cpan/PDL-GSL@2.103
 PDL::Demos::GSL_RNG                undef  pkg:cpan/PDL-GSL@2.103
@@ -195706,13 +195706,13 @@ Physics::Ballistics                 1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::External       1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::Internal       1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::Terminal       1.03  pkg:cpan/Physics-Ballistics@1.03
-Physics::Ellipsometry::VASE         1.02  pkg:cpan/Physics-Ellipsometry-VASE@1.02
-Physics::Ellipsometry::VASE::Dispersion  0.01  pkg:cpan/Physics-Ellipsometry-VASE@1.02
-Physics::Ellipsometry::VASE::EMA    0.01  pkg:cpan/Physics-Ellipsometry-VASE@1.02
-Physics::Ellipsometry::VASE::Materials  0.01  pkg:cpan/Physics-Ellipsometry-VASE@1.02
-Physics::Ellipsometry::VASE::Optimizer  0.01  pkg:cpan/Physics-Ellipsometry-VASE@1.02
-Physics::Ellipsometry::VASE::Parameter  0.01  pkg:cpan/Physics-Ellipsometry-VASE@1.02
-Physics::Ellipsometry::VASE::TMM    0.01  pkg:cpan/Physics-Ellipsometry-VASE@1.02
+Physics::Ellipsometry::VASE         1.03  pkg:cpan/Physics-Ellipsometry-VASE@1.03
+Physics::Ellipsometry::VASE::Dispersion  1.03  pkg:cpan/Physics-Ellipsometry-VASE@1.03
+Physics::Ellipsometry::VASE::EMA    1.03  pkg:cpan/Physics-Ellipsometry-VASE@1.03
+Physics::Ellipsometry::VASE::Materials  1.03  pkg:cpan/Physics-Ellipsometry-VASE@1.03
+Physics::Ellipsometry::VASE::Optimizer  1.03  pkg:cpan/Physics-Ellipsometry-VASE@1.03
+Physics::Ellipsometry::VASE::Parameter  1.03  pkg:cpan/Physics-Ellipsometry-VASE@1.03
+Physics::Ellipsometry::VASE::TMM    1.03  pkg:cpan/Physics-Ellipsometry-VASE@1.03
 Physics::Lorentz                    0.01  pkg:cpan/Physics-Lorentz@0.01
 Physics::Lorentz::Transformation    0.01  pkg:cpan/Physics-Lorentz@0.01
 Physics::Lorentz::Vector            0.01  pkg:cpan/Physics-Lorentz@0.01
