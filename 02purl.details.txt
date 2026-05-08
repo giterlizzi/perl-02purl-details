@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 08 May 2026 07:19:58 GMT
+Last-Updated: Fri, 08 May 2026 09:09:27 GMT
 Line-Count: 264185
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -16984,27 +16984,27 @@ Archive::Har::Page                  0.21  pkg:cpan/Archive-Har@0.21
 Archive::Har::Page::PageTimings     0.21  pkg:cpan/Archive-Har@0.21
 Archive::Heritrix                   0.02  pkg:cpan/Archive-Heritrix@0.02
 Archive::Ipkg                       0.04  pkg:cpan/Archive-Ipkg@0.04
-Archive::Lha                        0.11  pkg:cpan/Archive-Lha@0.11
-Archive::Lha::CRC                  undef  pkg:cpan/Archive-Lha@0.11
-Archive::Lha::Constants            undef  pkg:cpan/Archive-Lha@0.11
-Archive::Lha::Debug                undef  pkg:cpan/Archive-Lha@0.11
-Archive::Lha::Decode               undef  pkg:cpan/Archive-Lha@0.11
-Archive::Lha::Decode::Base         undef  pkg:cpan/Archive-Lha@0.11
-Archive::Lha::Decode::LH0          undef  pkg:cpan/Archive-Lha@0.11
-Archive::Lha::Decode::LH5          undef  pkg:cpan/Archive-Lha@0.11
-Archive::Lha::Decode::LH6          undef  pkg:cpan/Archive-Lha@0.11
-Archive::Lha::Decode::LH7          undef  pkg:cpan/Archive-Lha@0.11
-Archive::Lha::Header               undef  pkg:cpan/Archive-Lha@0.11
-Archive::Lha::Header::Base         undef  pkg:cpan/Archive-Lha@0.11
-Archive::Lha::Header::Level0       undef  pkg:cpan/Archive-Lha@0.11
-Archive::Lha::Header::Level1       undef  pkg:cpan/Archive-Lha@0.11
-Archive::Lha::Header::Level2       undef  pkg:cpan/Archive-Lha@0.11
-Archive::Lha::Header::Utils        undef  pkg:cpan/Archive-Lha@0.11
-Archive::Lha::Stream               undef  pkg:cpan/Archive-Lha@0.11
-Archive::Lha::Stream::Base         undef  pkg:cpan/Archive-Lha@0.11
-Archive::Lha::Stream::File         undef  pkg:cpan/Archive-Lha@0.11
-Archive::Lha::Stream::Hex          undef  pkg:cpan/Archive-Lha@0.11
-Archive::Lha::Stream::String       undef  pkg:cpan/Archive-Lha@0.11
+Archive::Lha                        0.12  pkg:cpan/Archive-Lha@0.12
+Archive::Lha::CRC                  undef  pkg:cpan/Archive-Lha@0.12
+Archive::Lha::Constants            undef  pkg:cpan/Archive-Lha@0.12
+Archive::Lha::Debug                undef  pkg:cpan/Archive-Lha@0.12
+Archive::Lha::Decode               undef  pkg:cpan/Archive-Lha@0.12
+Archive::Lha::Decode::Base         undef  pkg:cpan/Archive-Lha@0.12
+Archive::Lha::Decode::LH0          undef  pkg:cpan/Archive-Lha@0.12
+Archive::Lha::Decode::LH5          undef  pkg:cpan/Archive-Lha@0.12
+Archive::Lha::Decode::LH6          undef  pkg:cpan/Archive-Lha@0.12
+Archive::Lha::Decode::LH7          undef  pkg:cpan/Archive-Lha@0.12
+Archive::Lha::Header               undef  pkg:cpan/Archive-Lha@0.12
+Archive::Lha::Header::Base         undef  pkg:cpan/Archive-Lha@0.12
+Archive::Lha::Header::Level0       undef  pkg:cpan/Archive-Lha@0.12
+Archive::Lha::Header::Level1       undef  pkg:cpan/Archive-Lha@0.12
+Archive::Lha::Header::Level2       undef  pkg:cpan/Archive-Lha@0.12
+Archive::Lha::Header::Utils        undef  pkg:cpan/Archive-Lha@0.12
+Archive::Lha::Stream               undef  pkg:cpan/Archive-Lha@0.12
+Archive::Lha::Stream::Base         undef  pkg:cpan/Archive-Lha@0.12
+Archive::Lha::Stream::File         undef  pkg:cpan/Archive-Lha@0.12
+Archive::Lha::Stream::Hex          undef  pkg:cpan/Archive-Lha@0.12
+Archive::Lha::Stream::String       undef  pkg:cpan/Archive-Lha@0.12
 Archive::Libarchive                 0.09  pkg:cpan/Archive-Libarchive@0.09
 Archive::Libarchive::API            0.09  pkg:cpan/Archive-Libarchive@0.09
 Archive::Libarchive::Any           0.0901  pkg:cpan/Archive-Libarchive-Any@0.0901
@@ -30727,10 +30727,10 @@ Business::TrueLayer::User          undef  pkg:cpan/Business-TrueLayer@0.05
 Business::TrueLayer::Webhook       undef  pkg:cpan/Business-TrueLayer@0.05
 Business::TrueLayer::Webhook::Mandate undef  pkg:cpan/Business-TrueLayer@0.05
 Business::TrueLayer::Webhook::Resource undef  pkg:cpan/Business-TrueLayer@0.05
-Business::UDC                       0.07  pkg:cpan/Business-UDC@0.07
-Business::UDC::Grammar              0.07  pkg:cpan/Business-UDC@0.07
-Business::UDC::Parser               0.07  pkg:cpan/Business-UDC@0.07
-Business::UDC::Tokenizer            0.07  pkg:cpan/Business-UDC@0.07
+Business::UDC                       0.08  pkg:cpan/Business-UDC@0.08
+Business::UDC::Grammar              0.08  pkg:cpan/Business-UDC@0.08
+Business::UDC::Parser               0.08  pkg:cpan/Business-UDC@0.08
+Business::UDC::Tokenizer            0.08  pkg:cpan/Business-UDC@0.08
 Business::UPC                       0.06  pkg:cpan/Business-UPC@0.06
 Business::UPS                       2.04  pkg:cpan/Business-UPS@2.04
 Business::UPS::Tracking             1.13  pkg:cpan/Business-UPS-Tracking@1.13
