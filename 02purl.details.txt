@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 08 May 2026 19:07:28 GMT
+Last-Updated: Fri, 08 May 2026 20:52:16 GMT
 Line-Count: 264186
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -74087,11 +74087,11 @@ File::Random::Pick                  0.03  pkg:cpan/File-Random-Pick@0.03
 File::RandomAccess                  1.13  pkg:cpan/Image-ExifTool@13.55
 File::RandomGenerator               0.06  pkg:cpan/File-RandomGenerator@0.06
 File::RandomLine                    0.20  pkg:cpan/File-RandomLine@0.20
-File::Raw                           0.11  pkg:cpan/File-Raw@0.11
-File::Raw::Base64                   0.02  pkg:cpan/File-Raw-Base64@0.02
-File::Raw::Gzip                     0.01  pkg:cpan/File-Raw-Gzip@0.01
-File::Raw::Hash                     0.01  pkg:cpan/File-Raw-Hash@0.01
-File::Raw::Separated                0.02  pkg:cpan/File-Raw-Separated@0.02
+File::Raw                           0.12  pkg:cpan/File-Raw@0.12
+File::Raw::Base64                   0.03  pkg:cpan/File-Raw-Base64@0.03
+File::Raw::Gzip                     0.02  pkg:cpan/File-Raw-Gzip@0.02
+File::Raw::Hash                     0.02  pkg:cpan/File-Raw-Hash@0.02
+File::Raw::Separated                0.03  pkg:cpan/File-Raw-Separated@0.03
 File::Rdiff                          1.0  pkg:cpan/File-Rdiff@1.0
 File::RdistByRsync                   0.3  pkg:cpan/File-RdistByRsync@0.3
 File::Read                         0.0801  pkg:cpan/File-Read@0.0801
@@ -229493,10 +229493,10 @@ Test::Mockify::Sut                 undef  pkg:cpan/Test-Mockify@2.4
 Test::Mockify::Tools               undef  pkg:cpan/Test-Mockify@2.4
 Test::Mockify::TypeTests           undef  pkg:cpan/Test-Mockify@2.4
 Test::Mockify::Verify              undef  pkg:cpan/Test-Mockify@2.4
-Test::Mockingbird                   0.09  pkg:cpan/Test-Mockingbird@0.09
-Test::Mockingbird::DeepMock         0.09  pkg:cpan/Test-Mockingbird@0.09
-Test::Mockingbird::Guard            0.09  pkg:cpan/Test-Mockingbird@0.09
-Test::Mockingbird::TimeTravel       0.09  pkg:cpan/Test-Mockingbird@0.09
+Test::Mockingbird                   0.10  pkg:cpan/Test-Mockingbird@0.10
+Test::Mockingbird::DeepMock         0.10  pkg:cpan/Test-Mockingbird@0.10
+Test::Mockingbird::Guard            0.10  pkg:cpan/Test-Mockingbird@0.10
+Test::Mockingbird::TimeTravel       0.10  pkg:cpan/Test-Mockingbird@0.10
 Test::Modern                       0.013  pkg:cpan/Test-Modern@0.013
 Test::Module                       undef  pkg:cpan/Devel-Trepan@0.73
 Test::Module::Basic                undef  pkg:cpan/Test-Subunits@0.000003
