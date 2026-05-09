@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 09 May 2026 02:13:36 GMT
-Line-Count: 264187
+Last-Updated: Sat, 09 May 2026 06:10:26 GMT
+Line-Count: 264188
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -33591,6 +33591,7 @@ CPAN::Test::Dummy::Perl5::NoBugTracker  1.00  pkg:cpan/CPAN-Test-Dummy-Perl5-NoB
 CPAN::Test::Dummy::Perl5::PackageWithBlock::AndVersion  0.03  pkg:cpan/CPAN-Test-Dummy-Perl5-PackageWithBlock@0.03
 CPAN::Test::Dummy::Perl5::RecSug   0.001  pkg:cpan/CPAN-Test-Dummy-Perl5-RecSug@0.001
 CPAN::Test::Dummy::Perl5::Requires  0.02  pkg:cpan/CPAN-Test-Dummy-Perl5-Requires@0.02
+CPAN::Test::Dummy::Perl5::SKAJI    v0.0.4  pkg:cpan/CPAN-Test-Dummy-Perl5-SKAJI@v0.0.4
 CPAN::Test::Dummy::Perl5::StaticInstall  0.01  pkg:cpan/CPAN-Test-Dummy-Perl5-StaticInstall@0.01
 CPAN::Test::Dummy::Perl5::UseUnsafeINC::Fail  0.04  pkg:cpan/CPAN-Test-Dummy-Perl5-UseUnsafeINC-Fail@0.04
 CPAN::Test::Dummy::Perl5::UseUnsafeINC::One  0.01  pkg:cpan/CPAN-Test-Dummy-Perl5-UseUnsafeINC-One@0.01
