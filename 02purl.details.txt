@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 09 May 2026 18:50:46 GMT
-Line-Count: 264194
+Last-Updated: Sat, 09 May 2026 20:37:37 GMT
+Line-Count: 264196
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -74092,6 +74092,8 @@ File::Raw                           0.12  pkg:cpan/File-Raw@0.12
 File::Raw::Base64                   0.03  pkg:cpan/File-Raw-Base64@0.03
 File::Raw::Gzip                     0.02  pkg:cpan/File-Raw-Gzip@0.02
 File::Raw::Hash                     0.02  pkg:cpan/File-Raw-Hash@0.02
+File::Raw::JSON                     0.01  pkg:cpan/File-Raw-JSON@0.01
+File::Raw::JSON::Boolean            0.01  pkg:cpan/File-Raw-JSON@0.01
 File::Raw::Separated                0.03  pkg:cpan/File-Raw-Separated@0.03
 File::Rdiff                          1.0  pkg:cpan/File-Rdiff@1.0
 File::RdistByRsync                   0.3  pkg:cpan/File-RdistByRsync@0.3
@@ -110330,47 +110332,47 @@ Hyperscan::Matcher                  0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Scratch                  0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Stream                   0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Util                     0.04  pkg:cpan/Hyperscan@0.04
-Hypersonic                          0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::Compress                0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::Event                   0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::Event::Epoll            0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::Event::EventPorts       0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::Event::IOCP             0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::Event::IOUring          0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::Event::Kqueue           0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::Event::Poll             0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::Event::Role             0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::Event::Select           0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::Future                  0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::Future::Pool            0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::JIT::Util               0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::Middleware::RequestId   0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::Protocol::HTTP1         0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::Protocol::HTTP2         0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::Protocol::SSE           0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::Protocol::WebSocket     0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::Protocol::WebSocket::Frame  0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::Request                 0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::Response                0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::SSE                     0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::Session                 0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::Socket                  0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::Stream                  0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::TLS                     0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::UA                      0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::UA::Async               0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::UA::HTTP2               0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::UA::Pool                0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::UA::Protocol::HTTP1     0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::UA::Response            0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::UA::SSE                 0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::UA::Socket              0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::UA::Stream              0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::UA::TLS                 0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::UA::WebSocket           0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::WebSocket               0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::WebSocket::Handler      0.12  pkg:cpan/Hypersonic@0.12
-Hypersonic::WebSocket::Room         0.12  pkg:cpan/Hypersonic@0.12
+Hypersonic                          0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::Compress                0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::Event                   0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::Event::Epoll            0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::Event::EventPorts       0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::Event::IOCP             0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::Event::IOUring          0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::Event::Kqueue           0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::Event::Poll             0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::Event::Role             0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::Event::Select           0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::Future                  0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::Future::Pool            0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::JIT::Util               0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::Middleware::RequestId   0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::Protocol::HTTP1         0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::Protocol::HTTP2         0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::Protocol::SSE           0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::Protocol::WebSocket     0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::Protocol::WebSocket::Frame  0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::Request                 0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::Response                0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::SSE                     0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::Session                 0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::Socket                  0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::Stream                  0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::TLS                     0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::UA                      0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::UA::Async               0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::UA::HTTP2               0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::UA::Pool                0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::UA::Protocol::HTTP1     0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::UA::Response            0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::UA::SSE                 0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::UA::Socket              0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::UA::Stream              0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::UA::TLS                 0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::UA::WebSocket           0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::WebSocket               0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::WebSocket::Handler      0.13  pkg:cpan/Hypersonic@0.13
+Hypersonic::WebSocket::Room         0.13  pkg:cpan/Hypersonic@0.13
 Hypothesis::API                     0.13  pkg:cpan/Hypothesis-API@0.13
 I18N::AcceptLanguage                1.04  pkg:cpan/I18N-AcceptLanguage@1.04
 I18N::Charset                      1.419  pkg:cpan/I18N-Charset@1.419
@@ -155193,9 +155195,9 @@ OSGi::Osgish::CommandHandler           0  pkg:cpan/osgish@v0.3.1
 OSGi::Osgish::CompletionHandler        0  pkg:cpan/osgish@v0.3.1
 OSGi::Osgish::ServerHandler            0  pkg:cpan/osgish@v0.3.1
 OSGi::Osgish::Shell                    0  pkg:cpan/osgish@v0.3.1
-OSLV::Monitor                      1.000003  pkg:cpan/OSLV-Monitor@1.0.3
-OSLV::Monitor::Backends::FreeBSD   0.000004  pkg:cpan/OSLV-Monitor@1.0.3
-OSLV::Monitor::Backends::cgroups   1.000003  pkg:cpan/OSLV-Monitor@1.0.3
+OSLV::Monitor                      1.000004  pkg:cpan/OSLV-Monitor@1.0.4
+OSLV::Monitor::Backends::FreeBSD   0.000005  pkg:cpan/OSLV-Monitor@1.0.4
+OSLV::Monitor::Backends::cgroups   1.000003  pkg:cpan/OSLV-Monitor@1.0.4
 OSPF::LSDB                          1.18  pkg:cpan/OSPF-LSDB@1.18
 OSPF::LSDB::Cisco                  undef  pkg:cpan/OSPF-LSDB@1.18
 OSPF::LSDB::View                   undef  pkg:cpan/OSPF-LSDB@1.18
@@ -262675,7 +262677,7 @@ layouts::LayoutsOperations         undef  pkg:cpan/ZZZ-SDK@0.0.2
 layouts::Properties                undef  pkg:cpan/ZZZ-SDK@0.0.2
 layouts::ResponseWrapper           undef  pkg:cpan/ZZZ-SDK@0.0.2
 layouts::Section                   undef  pkg:cpan/ZZZ-SDK@0.0.2
-lazy                               1.000001  pkg:cpan/lazy@1.000001
+lazy                               1.000002  pkg:cpan/lazy@1.000002
 lc_time                             0.15  pkg:cpan/lc_time@0.15
 less                                0.03  pkg:cpan/perl@5.42.2
 lexical::underscore                0.004  pkg:cpan/lexical-underscore@0.004
