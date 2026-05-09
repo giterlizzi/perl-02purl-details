@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 09 May 2026 20:37:37 GMT
-Line-Count: 264196
+Last-Updated: Sat, 09 May 2026 22:35:40 GMT
+Line-Count: 264197
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -16984,27 +16984,27 @@ Archive::Har::Page                  0.21  pkg:cpan/Archive-Har@0.21
 Archive::Har::Page::PageTimings     0.21  pkg:cpan/Archive-Har@0.21
 Archive::Heritrix                   0.02  pkg:cpan/Archive-Heritrix@0.02
 Archive::Ipkg                       0.04  pkg:cpan/Archive-Ipkg@0.04
-Archive::Lha                        0.13  pkg:cpan/Archive-Lha@0.13
-Archive::Lha::CRC                  undef  pkg:cpan/Archive-Lha@0.13
-Archive::Lha::Constants            undef  pkg:cpan/Archive-Lha@0.13
-Archive::Lha::Debug                undef  pkg:cpan/Archive-Lha@0.13
-Archive::Lha::Decode               undef  pkg:cpan/Archive-Lha@0.13
-Archive::Lha::Decode::Base         undef  pkg:cpan/Archive-Lha@0.13
-Archive::Lha::Decode::LH0          undef  pkg:cpan/Archive-Lha@0.13
-Archive::Lha::Decode::LH5          undef  pkg:cpan/Archive-Lha@0.13
-Archive::Lha::Decode::LH6          undef  pkg:cpan/Archive-Lha@0.13
-Archive::Lha::Decode::LH7          undef  pkg:cpan/Archive-Lha@0.13
-Archive::Lha::Header               undef  pkg:cpan/Archive-Lha@0.13
-Archive::Lha::Header::Base         undef  pkg:cpan/Archive-Lha@0.13
-Archive::Lha::Header::Level0       undef  pkg:cpan/Archive-Lha@0.13
-Archive::Lha::Header::Level1       undef  pkg:cpan/Archive-Lha@0.13
-Archive::Lha::Header::Level2       undef  pkg:cpan/Archive-Lha@0.13
-Archive::Lha::Header::Utils        undef  pkg:cpan/Archive-Lha@0.13
-Archive::Lha::Stream               undef  pkg:cpan/Archive-Lha@0.13
-Archive::Lha::Stream::Base         undef  pkg:cpan/Archive-Lha@0.13
-Archive::Lha::Stream::File         undef  pkg:cpan/Archive-Lha@0.13
-Archive::Lha::Stream::Hex          undef  pkg:cpan/Archive-Lha@0.13
-Archive::Lha::Stream::String       undef  pkg:cpan/Archive-Lha@0.13
+Archive::Lha                        0.14  pkg:cpan/Archive-Lha@0.14
+Archive::Lha::CRC                  undef  pkg:cpan/Archive-Lha@0.14
+Archive::Lha::Constants            undef  pkg:cpan/Archive-Lha@0.14
+Archive::Lha::Debug                undef  pkg:cpan/Archive-Lha@0.14
+Archive::Lha::Decode               undef  pkg:cpan/Archive-Lha@0.14
+Archive::Lha::Decode::Base         undef  pkg:cpan/Archive-Lha@0.14
+Archive::Lha::Decode::LH0          undef  pkg:cpan/Archive-Lha@0.14
+Archive::Lha::Decode::LH5          undef  pkg:cpan/Archive-Lha@0.14
+Archive::Lha::Decode::LH6          undef  pkg:cpan/Archive-Lha@0.14
+Archive::Lha::Decode::LH7          undef  pkg:cpan/Archive-Lha@0.14
+Archive::Lha::Header               undef  pkg:cpan/Archive-Lha@0.14
+Archive::Lha::Header::Base         undef  pkg:cpan/Archive-Lha@0.14
+Archive::Lha::Header::Level0       undef  pkg:cpan/Archive-Lha@0.14
+Archive::Lha::Header::Level1       undef  pkg:cpan/Archive-Lha@0.14
+Archive::Lha::Header::Level2       undef  pkg:cpan/Archive-Lha@0.14
+Archive::Lha::Header::Utils        undef  pkg:cpan/Archive-Lha@0.14
+Archive::Lha::Stream               undef  pkg:cpan/Archive-Lha@0.14
+Archive::Lha::Stream::Base         undef  pkg:cpan/Archive-Lha@0.14
+Archive::Lha::Stream::File         undef  pkg:cpan/Archive-Lha@0.14
+Archive::Lha::Stream::Hex          undef  pkg:cpan/Archive-Lha@0.14
+Archive::Lha::Stream::String       undef  pkg:cpan/Archive-Lha@0.14
 Archive::Libarchive                 0.09  pkg:cpan/Archive-Libarchive@0.09
 Archive::Libarchive::API            0.09  pkg:cpan/Archive-Libarchive@0.09
 Archive::Libarchive::Any           0.0901  pkg:cpan/Archive-Libarchive-Any@0.0901
@@ -81014,6 +81014,7 @@ Genealogy::Obituary::Lookup::obituaries  0.20  pkg:cpan/Genealogy-Obituary-Looku
 Genealogy::Obituary::Parser         0.04  pkg:cpan/Genealogy-Obituary-Parser@0.04
 Genealogy::ObituaryDailyTimes       0.16  pkg:cpan/Genealogy-ObituaryDailyTimes@0.16
 Genealogy::ObituaryDailyTimes::obituaries  0.15  pkg:cpan/Genealogy-ObituaryDailyTimes@0.16
+Genealogy::Occupation               0.01  pkg:cpan/Genealogy-Occupation@0.01
 Genealogy::Relationship              2.0  pkg:cpan/Genealogy-Relationship@2.0.0
 Genealogy::Wills                    0.10  pkg:cpan/Genealogy-Wills@0.10
 Genealogy::Wills::wills             0.10  pkg:cpan/Genealogy-Wills@0.10
