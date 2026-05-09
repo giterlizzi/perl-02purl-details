@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 09 May 2026 06:10:26 GMT
-Line-Count: 264188
+Last-Updated: Sat, 09 May 2026 09:12:07 GMT
+Line-Count: 264190
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -47654,7 +47654,7 @@ Config::INI::Reader                0.029  pkg:cpan/Config-INI@0.029
 Config::INI::Reader::LibIni        0.002  pkg:cpan/lib-ini@0.002
 Config::INI::Reader::Multiline     1.002  pkg:cpan/Config-INI-Reader-Multiline@1.002
 Config::INI::Reader::Ordered       0.022  pkg:cpan/Config-INI-Reader-Ordered@0.022
-Config::INI::RefVars                0.21  pkg:cpan/Config-INI-RefVars@0.21
+Config::INI::RefVars                0.24  pkg:cpan/Config-INI-RefVars@0.24
 Config::INI::Serializer            0.002  pkg:cpan/Config-INI-Serializer@0.002
 Config::INI::Tiny                  0.106  pkg:cpan/Config-INI-Tiny@0.106
 Config::INI::Writer                0.029  pkg:cpan/Config-INI@0.029
@@ -137842,6 +137842,8 @@ Mojo::Cloudstack::Api              undef  pkg:cpan/Mojo-Cloudstack@0.07
 Mojo::Cloudstack::Base             undef  pkg:cpan/Mojo-Cloudstack@0.07
 Mojo::Collection                   undef  pkg:cpan/Mojolicious@9.45
 Mojo::Collection::Role::Extra      0.015  pkg:cpan/Mojo-DOM-Role-Analyzer@0.015
+Mojo::Collection::Role::GroupBy    0.003  pkg:cpan/Mojo-Collection-Role-GroupBy@0.003
+Mojo::Collection::Role::GroupBy::Util undef  pkg:cpan/Mojo-Collection-Role-GroupBy@0.003
 Mojo::Collection::Role::Transform   0.04  pkg:cpan/Mojo-Collection-Role-Transform@0.04
 Mojo::Collection::Role::UtilsBy    0.002  pkg:cpan/Mojo-Collection-Role-UtilsBy@0.002
 Mojo::Collection::XS                 0.2  pkg:cpan/Mojo-Collection-XS@0.2
