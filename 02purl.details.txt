@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 09 May 2026 13:01:25 GMT
-Line-Count: 264190
+Last-Updated: Sat, 09 May 2026 14:43:31 GMT
+Line-Count: 264192
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -14648,33 +14648,33 @@ App::TermAttrUtils                 0.007  pkg:cpan/App-TermAttrUtils@0.007
 App::Termcast                       0.13  pkg:cpan/App-Termcast@0.13
 App::Test::DWG::LibreDWG::DwgRead   0.06  pkg:cpan/App-Test-DWG-LibreDWG-DwgRead@0.06
 App::Test::DWG::LibreDWG::JSON      0.05  pkg:cpan/App-Test-DWG-LibreDWG-JSON@0.05
-App::Test::Generator                0.34  pkg:cpan/App-Test-Generator@0.34
-App::Test::Generator::Analyzer::Complexity  0.34  pkg:cpan/App-Test-Generator@0.34
-App::Test::Generator::Analyzer::Return  0.34  pkg:cpan/App-Test-Generator@0.34
-App::Test::Generator::Analyzer::ReturnMeta  0.34  pkg:cpan/App-Test-Generator@0.34
-App::Test::Generator::Analyzer::SideEffect  0.34  pkg:cpan/App-Test-Generator@0.34
-App::Test::Generator::CoverageGuidedFuzzer  0.34  pkg:cpan/App-Test-Generator@0.34
-App::Test::Generator::Emitter::Perl  0.34  pkg:cpan/App-Test-Generator@0.34
-App::Test::Generator::LCSAJ         0.34  pkg:cpan/App-Test-Generator@0.34
-App::Test::Generator::LCSAJ::Coverage  0.34  pkg:cpan/App-Test-Generator@0.34
-App::Test::Generator::Model::Method  0.34  pkg:cpan/App-Test-Generator@0.34
-App::Test::Generator::Mutant        0.34  pkg:cpan/App-Test-Generator@0.34
-App::Test::Generator::Mutation::Base  0.34  pkg:cpan/App-Test-Generator@0.34
-App::Test::Generator::Mutation::BooleanNegation  0.34  pkg:cpan/App-Test-Generator@0.34
-App::Test::Generator::Mutation::ConditionalInversion  0.34  pkg:cpan/App-Test-Generator@0.34
-App::Test::Generator::Mutation::NumericBoundary  0.34  pkg:cpan/App-Test-Generator@0.34
-App::Test::Generator::Mutation::ReturnUndef  0.34  pkg:cpan/App-Test-Generator@0.34
-App::Test::Generator::Mutator       0.34  pkg:cpan/App-Test-Generator@0.34
+App::Test::Generator                0.35  pkg:cpan/App-Test-Generator@0.35
+App::Test::Generator::Analyzer::Complexity  0.35  pkg:cpan/App-Test-Generator@0.35
+App::Test::Generator::Analyzer::Return  0.35  pkg:cpan/App-Test-Generator@0.35
+App::Test::Generator::Analyzer::ReturnMeta  0.35  pkg:cpan/App-Test-Generator@0.35
+App::Test::Generator::Analyzer::SideEffect  0.35  pkg:cpan/App-Test-Generator@0.35
+App::Test::Generator::CoverageGuidedFuzzer  0.35  pkg:cpan/App-Test-Generator@0.35
+App::Test::Generator::Emitter::Perl  0.35  pkg:cpan/App-Test-Generator@0.35
+App::Test::Generator::LCSAJ         0.35  pkg:cpan/App-Test-Generator@0.35
+App::Test::Generator::LCSAJ::Coverage  0.35  pkg:cpan/App-Test-Generator@0.35
+App::Test::Generator::Model::Method  0.35  pkg:cpan/App-Test-Generator@0.35
+App::Test::Generator::Mutant        0.35  pkg:cpan/App-Test-Generator@0.35
+App::Test::Generator::Mutation::Base  0.35  pkg:cpan/App-Test-Generator@0.35
+App::Test::Generator::Mutation::BooleanNegation  0.35  pkg:cpan/App-Test-Generator@0.35
+App::Test::Generator::Mutation::ConditionalInversion  0.35  pkg:cpan/App-Test-Generator@0.35
+App::Test::Generator::Mutation::NumericBoundary  0.35  pkg:cpan/App-Test-Generator@0.35
+App::Test::Generator::Mutation::ReturnUndef  0.35  pkg:cpan/App-Test-Generator@0.35
+App::Test::Generator::Mutator       0.35  pkg:cpan/App-Test-Generator@0.35
 App::Test::Generator::Pipeline      0.33  pkg:cpan/App-Test-Generator@0.33
-App::Test::Generator::Planner       0.34  pkg:cpan/App-Test-Generator@0.34
-App::Test::Generator::Planner::Fixture  0.34  pkg:cpan/App-Test-Generator@0.34
-App::Test::Generator::Planner::Grouping  0.34  pkg:cpan/App-Test-Generator@0.34
-App::Test::Generator::Planner::Isolation  0.34  pkg:cpan/App-Test-Generator@0.34
-App::Test::Generator::Planner::Mock  0.34  pkg:cpan/App-Test-Generator@0.34
+App::Test::Generator::Planner       0.35  pkg:cpan/App-Test-Generator@0.35
+App::Test::Generator::Planner::Fixture  0.35  pkg:cpan/App-Test-Generator@0.35
+App::Test::Generator::Planner::Grouping  0.35  pkg:cpan/App-Test-Generator@0.35
+App::Test::Generator::Planner::Isolation  0.35  pkg:cpan/App-Test-Generator@0.35
+App::Test::Generator::Planner::Mock  0.35  pkg:cpan/App-Test-Generator@0.35
 App::Test::Generator::Report::HTML  0.32  pkg:cpan/App-Test-Generator@0.32
-App::Test::Generator::SchemaExtractor  0.34  pkg:cpan/App-Test-Generator@0.34
-App::Test::Generator::Template      0.34  pkg:cpan/App-Test-Generator@0.34
-App::Test::Generator::TestStrategy  0.34  pkg:cpan/App-Test-Generator@0.34
+App::Test::Generator::SchemaExtractor  0.35  pkg:cpan/App-Test-Generator@0.35
+App::Test::Generator::Template      0.35  pkg:cpan/App-Test-Generator@0.35
+App::Test::Generator::TestStrategy  0.35  pkg:cpan/App-Test-Generator@0.35
 App::Test::Tapat                    0.04  pkg:cpan/App-Test-Tapat@0.04
 App::TestOnTap                     1.001  pkg:cpan/App-TestOnTap@1.001
 App::TestOnTap::Args               1.001  pkg:cpan/App-TestOnTap@1.001
@@ -33591,7 +33591,7 @@ CPAN::Test::Dummy::Perl5::NoBugTracker  1.00  pkg:cpan/CPAN-Test-Dummy-Perl5-NoB
 CPAN::Test::Dummy::Perl5::PackageWithBlock::AndVersion  0.03  pkg:cpan/CPAN-Test-Dummy-Perl5-PackageWithBlock@0.03
 CPAN::Test::Dummy::Perl5::RecSug   0.001  pkg:cpan/CPAN-Test-Dummy-Perl5-RecSug@0.001
 CPAN::Test::Dummy::Perl5::Requires  0.02  pkg:cpan/CPAN-Test-Dummy-Perl5-Requires@0.02
-CPAN::Test::Dummy::Perl5::SKAJI    v0.0.4  pkg:cpan/CPAN-Test-Dummy-Perl5-SKAJI@v0.0.4
+CPAN::Test::Dummy::Perl5::SKAJI    v0.0.8  pkg:cpan/CPAN-Test-Dummy-Perl5-SKAJI@v0.0.8
 CPAN::Test::Dummy::Perl5::StaticInstall  0.01  pkg:cpan/CPAN-Test-Dummy-Perl5-StaticInstall@0.01
 CPAN::Test::Dummy::Perl5::UseUnsafeINC::Fail  0.04  pkg:cpan/CPAN-Test-Dummy-Perl5-UseUnsafeINC-Fail@0.04
 CPAN::Test::Dummy::Perl5::UseUnsafeINC::One  0.01  pkg:cpan/CPAN-Test-Dummy-Perl5-UseUnsafeINC-One@0.01
@@ -63787,7 +63787,7 @@ Devel::Agent::AwareRole            0.001  pkg:cpan/Devel-Agent@0.006
 Devel::Agent::EveryThing           undef  pkg:cpan/Devel-Agent@0.007
 Devel::Agent::Proxy                0.0002  pkg:cpan/Devel-Agent@0.006
 Devel::Agent::Util                 undef  pkg:cpan/Devel-Agent@0.007
-Devel::App::Test::Generator::LCSAJ::Runtime  0.34  pkg:cpan/App-Test-Generator@0.34
+Devel::App::Test::Generator::LCSAJ::Runtime  0.35  pkg:cpan/App-Test-Generator@0.35
 Devel::Arena                        0.23  pkg:cpan/Devel-Arena@0.23
 Devel::ArgNames                     0.03  pkg:cpan/Devel-ArgNames@0.03
 Devel::Assert                       1.06  pkg:cpan/Devel-Assert@1.06
@@ -137844,6 +137844,7 @@ Mojo::Collection                   undef  pkg:cpan/Mojolicious@9.45
 Mojo::Collection::Role::Extra      0.015  pkg:cpan/Mojo-DOM-Role-Analyzer@0.015
 Mojo::Collection::Role::GroupBy    0.003  pkg:cpan/Mojo-Collection-Role-GroupBy@0.003
 Mojo::Collection::Role::GroupBy::Util undef  pkg:cpan/Mojo-Collection-Role-GroupBy@0.003
+Mojo::Collection::Role::Iterable   undef  pkg:cpan/Mojo-Collection-Role-Iterable@0.003
 Mojo::Collection::Role::Transform   0.04  pkg:cpan/Mojo-Collection-Role-Transform@0.04
 Mojo::Collection::Role::UtilsBy    0.002  pkg:cpan/Mojo-Collection-Role-UtilsBy@0.002
 Mojo::Collection::XS                 0.2  pkg:cpan/Mojo-Collection-XS@0.2
@@ -225901,6 +225902,7 @@ Task::Unicode                       0.06  pkg:cpan/Task-Unicode@0.06
 Task::Viral                        0.002001  pkg:cpan/Task-Viral@0.02.1
 Task::WWW::Search::Antiquarian::Czech  0.01  pkg:cpan/Task-WWW-Search-Antiquarian-Czech@0.01
 Task::Weaken                        1.06  pkg:cpan/Task-Weaken@1.06
+Task::WebDyne::PAGI                0.002  pkg:cpan/Task-WebDyne-PAGI@0.002
 Task::WebDyne::Plack               0.003  pkg:cpan/Task-WebDyne-Plack@0.003
 Task::WebDyne::Starman             0.003  pkg:cpan/Task-WebDyne-Starman@0.003
 Task::WebGUI                       2.0000  pkg:cpan/Task-WebGUI@2.0000
@@ -228217,7 +228219,7 @@ Test::Apocalypse::Synopsis         1.006  pkg:cpan/Test-Apocalypse@1.006
 Test::Apocalypse::UnusedVars       1.006  pkg:cpan/Test-Apocalypse@1.006
 Test::App                          undef  pkg:cpan/Nginx-Simple@0.07
 Test::App::CPANIDX::Database        0.06  pkg:cpan/Test-App-CPANIDX-Database@0.06
-Test::App::Generator::Sample::Module  0.34  pkg:cpan/App-Test-Generator@0.34
+Test::App::Generator::Sample::Module  0.35  pkg:cpan/App-Test-Generator@0.35
 Test::App::RunCron                 undef  pkg:cpan/App-RunCron@0.08
 Test::App::members                 undef  pkg:cpan/Nginx-Simple@0.07
 Test::Applify                       0.06  pkg:cpan/Test-Applify@0.06
