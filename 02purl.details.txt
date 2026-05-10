@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 10 May 2026 02:24:42 GMT
+Last-Updated: Sun, 10 May 2026 06:29:08 GMT
 Line-Count: 264198
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -252692,7 +252692,7 @@ Wily::Connect                       0.01  pkg:cpan/Wily@0.02
 Wily::Message                       0.01  pkg:cpan/Wily@0.02
 Wily::RPC                           0.01  pkg:cpan/Wily@0.02
 Wily::Win                           0.02  pkg:cpan/Wily@0.02
-Win32                               0.60  pkg:cpan/Win32@0.60
+Win32                               0.61  pkg:cpan/Win32@0.61
 Win32::AD::Constant                 0.01  pkg:cpan/Win32-AD-Control-DirSync@0.01
 Win32::AD::Control::DirSync         0.01  pkg:cpan/Win32-AD-Control-DirSync@0.01
 Win32::AD::User                     0.04  pkg:cpan/Win32-AD-User@0.04
