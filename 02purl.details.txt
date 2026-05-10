@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 10 May 2026 10:56:06 GMT
+Last-Updated: Sun, 10 May 2026 13:03:27 GMT
 Line-Count: 264208
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -154817,7 +154817,7 @@ OMA::Download::DRM::REL            undef  pkg:cpan/OMA-Download-DRM@1.00.07
 OMA::Download::DRM::REL::WBXML     undef  pkg:cpan/OMA-Download-DRM@1.00.07
 OMA::Download::DRM::REL::XML       undef  pkg:cpan/OMA-Download-DRM@1.00.07
 OMA::Download::OTA                 1.000006  pkg:cpan/OMA-Download-OTA@1.00.06
-OMOP::CSV::Validator                0.04  pkg:cpan/OMOP-CSV-Validator@0.04
+OMOP::CSV::Validator                0.05  pkg:cpan/OMOP-CSV-Validator@0.05
 OMSession                           0.02  pkg:cpan/POE-Component-Omegle@0.02
 ONE                                0.002000  pkg:cpan/ONE@v0.2.0
 ONE::Collect                       0.002000  pkg:cpan/ONE@v0.2.0
