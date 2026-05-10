@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 10 May 2026 14:45:12 GMT
+Last-Updated: Sun, 10 May 2026 20:40:36 GMT
 Line-Count: 264208
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -74102,8 +74102,8 @@ File::Raw                           0.12  pkg:cpan/File-Raw@0.12
 File::Raw::Base64                   0.03  pkg:cpan/File-Raw-Base64@0.03
 File::Raw::Gzip                     0.02  pkg:cpan/File-Raw-Gzip@0.02
 File::Raw::Hash                     0.02  pkg:cpan/File-Raw-Hash@0.02
-File::Raw::JSON                     0.01  pkg:cpan/File-Raw-JSON@0.01
-File::Raw::JSON::Boolean            0.01  pkg:cpan/File-Raw-JSON@0.01
+File::Raw::JSON                     0.02  pkg:cpan/File-Raw-JSON@0.02
+File::Raw::JSON::Boolean            0.01  pkg:cpan/File-Raw-JSON@0.02
 File::Raw::Separated                0.03  pkg:cpan/File-Raw-Separated@0.03
 File::Rdiff                          1.0  pkg:cpan/File-Rdiff@1.0
 File::RdistByRsync                   0.3  pkg:cpan/File-RdistByRsync@0.3
@@ -146051,8 +146051,8 @@ Net::CDP::IPPrefix                   1.6  pkg:cpan/Net-CDP@0.09
 Net::CDP::Packet                     1.5  pkg:cpan/Net-CDP@0.09
 Net::CIDR                           0.27  pkg:cpan/Net-CIDR@0.27
 Net::CIDR::Compare                  0.03  pkg:cpan/Net-CIDR-Compare@0.03
-Net::CIDR::Lite                     0.23  pkg:cpan/Net-CIDR-Lite@0.23
-Net::CIDR::Lite::Span               0.23  pkg:cpan/Net-CIDR-Lite@0.23
+Net::CIDR::Lite                     0.24  pkg:cpan/Net-CIDR-Lite@0.24
+Net::CIDR::Lite::Span               0.24  pkg:cpan/Net-CIDR-Lite@0.24
 Net::CIDR::MobileJP                 0.24  pkg:cpan/Net-CIDR-MobileJP@0.24
 Net::CIDR::ORTC                     0.02  pkg:cpan/Net-CIDR-ORTC@0.02
 Net::CIDR::Overlap                 0.002000  pkg:cpan/Net-CIDR-Overlap@0.2.0
@@ -224697,12 +224697,12 @@ TOML::Parser                        0.91  pkg:cpan/TOML-Parser@0.91
 TOML::Parser::Tokenizer            undef  pkg:cpan/TOML-Parser@0.91
 TOML::Parser::Tokenizer::Strict    undef  pkg:cpan/TOML-Parser@0.91
 TOML::Parser::Util                 undef  pkg:cpan/TOML-Parser@0.91
-TOML::Tiny                          0.20  pkg:cpan/TOML-Tiny@0.20
-TOML::Tiny::Grammar                 0.20  pkg:cpan/TOML-Tiny@0.20
-TOML::Tiny::Parser                  0.20  pkg:cpan/TOML-Tiny@0.20
-TOML::Tiny::Tokenizer               0.20  pkg:cpan/TOML-Tiny@0.20
-TOML::Tiny::Util                    0.20  pkg:cpan/TOML-Tiny@0.20
-TOML::Tiny::Writer                  0.20  pkg:cpan/TOML-Tiny@0.20
+TOML::Tiny                          0.21  pkg:cpan/TOML-Tiny@0.21
+TOML::Tiny::Grammar                 0.21  pkg:cpan/TOML-Tiny@0.21
+TOML::Tiny::Parser                  0.21  pkg:cpan/TOML-Tiny@0.21
+TOML::Tiny::Tokenizer               0.21  pkg:cpan/TOML-Tiny@0.21
+TOML::Tiny::Util                    0.21  pkg:cpan/TOML-Tiny@0.21
+TOML::Tiny::Writer                  0.21  pkg:cpan/TOML-Tiny@0.21
 TOML::XS                            0.05  pkg:cpan/TOML-XS@0.05
 TOML::XS::Document                 undef  pkg:cpan/TOML-XS@0.05
 TOML::XS::Timestamp                undef  pkg:cpan/TOML-XS@0.05
@@ -233489,7 +233489,7 @@ Tie::NumRange::Wrap                0.021  pkg:cpan/Tie-NumRange@0.021
 Tie::NumericRange                   0.01  pkg:cpan/Tie-NumericRange@0.01
 Tie::OffsetArray                    0.01  pkg:cpan/Tie-OffsetArray@0.01
 Tie::OneOff                         1.03  pkg:cpan/Tie-OneOff@1.03
-Tie::OrderedHash                    0.01  pkg:cpan/Tie-OrderedHash@0.01
+Tie::OrderedHash                    0.02  pkg:cpan/Tie-OrderedHash@0.02
 Tie::PagedArray                     0.02  pkg:cpan/Tie-PagedArray@0.0.3
 Tie::Parent                         1.10  pkg:cpan/Tie-Tools@1.10
 Tie::PerFH                          1.00  pkg:cpan/Tie-PerFH@1.00
@@ -258316,7 +258316,7 @@ YAML::Full::Parser                 0.000001  pkg:cpan/YAML-Full@0.0.1
 YAML::Full::Representer            0.000001  pkg:cpan/YAML-Full@0.0.1
 YAML::Full::Serializer             0.000001  pkg:cpan/YAML-Full@0.0.1
 YAML::Hobo                         v0.2.0  pkg:cpan/YAML-Hobo@0.2.0
-YAML::LibYAML                      v0.906.0  pkg:cpan/YAML-LibYAML@v0.906.0
+YAML::LibYAML                      v0.907.0  pkg:cpan/YAML-LibYAML@v0.907.0
 YAML::LibYAML::API                 v0.14.0  pkg:cpan/YAML-LibYAML-API@v0.14.0
 YAML::LibYAML::API::XS             v0.14.0  pkg:cpan/YAML-LibYAML-API@v0.14.0
 YAML::LoadBundle                   v0.4.3  pkg:cpan/YAML-LoadBundle@v0.4.3
@@ -258490,7 +258490,7 @@ YAML::Type::regexp                 undef  pkg:cpan/YAML@1.31
 YAML::Type::undef                  undef  pkg:cpan/YAML@1.31
 YAML::Types                        undef  pkg:cpan/YAML@1.31
 YAML::Warning                      undef  pkg:cpan/YAML@1.31
-YAML::XS                           v0.906.0  pkg:cpan/YAML-LibYAML@v0.906.0
+YAML::XS                           v0.907.0  pkg:cpan/YAML-LibYAML@v0.907.0
 YAML::XS::LibYAML                  undef  pkg:cpan/YAML-LibYAML@0.89
 YAML::YAML2ADoc                    0.001000  pkg:cpan/YAML-YAML2ADoc@0.1.0
 YAML::yq::Helper                   0.002000  pkg:cpan/YAML-yq-Helper@0.2.0
