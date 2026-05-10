@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 10 May 2026 13:03:27 GMT
+Last-Updated: Sun, 10 May 2026 14:45:12 GMT
 Line-Count: 264208
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -33591,7 +33591,7 @@ CPAN::Test::Dummy::Perl5::NoBugTracker  1.00  pkg:cpan/CPAN-Test-Dummy-Perl5-NoB
 CPAN::Test::Dummy::Perl5::PackageWithBlock::AndVersion  0.03  pkg:cpan/CPAN-Test-Dummy-Perl5-PackageWithBlock@0.03
 CPAN::Test::Dummy::Perl5::RecSug   0.001  pkg:cpan/CPAN-Test-Dummy-Perl5-RecSug@0.001
 CPAN::Test::Dummy::Perl5::Requires  0.02  pkg:cpan/CPAN-Test-Dummy-Perl5-Requires@0.02
-CPAN::Test::Dummy::Perl5::SKAJI    v0.0.11  pkg:cpan/CPAN-Test-Dummy-Perl5-SKAJI@v0.0.11
+CPAN::Test::Dummy::Perl5::SKAJI    v0.0.12  pkg:cpan/CPAN-Test-Dummy-Perl5-SKAJI@v0.0.12
 CPAN::Test::Dummy::Perl5::StaticInstall  0.01  pkg:cpan/CPAN-Test-Dummy-Perl5-StaticInstall@0.01
 CPAN::Test::Dummy::Perl5::UseUnsafeINC::Fail  0.04  pkg:cpan/CPAN-Test-Dummy-Perl5-UseUnsafeINC-Fail@0.04
 CPAN::Test::Dummy::Perl5::UseUnsafeINC::One  0.01  pkg:cpan/CPAN-Test-Dummy-Perl5-UseUnsafeINC-One@0.01
@@ -36239,7 +36239,7 @@ Catalyst::Plugin::Static::Simple    0.37  pkg:cpan/Catalyst-Plugin-Static-Simple
 Catalyst::Plugin::Static::Simple::ButMaintained  0.30  pkg:cpan/Catalyst-Plugin-Static-Simple-ButMaintained@0.30
 Catalyst::Plugin::Static::Simple::ByClass 0.005  pkg:cpan/Catalyst-Plugin-Static-Simple-ByClass@0.005
 Catalyst::Plugin::Static::TT       0.002  pkg:cpan/Catalyst-Plugin-Static-TT@0.002
-Catalyst::Plugin::Statsd           v0.10.0  pkg:cpan/Catalyst-Plugin-Statsd@v0.10.0
+Catalyst::Plugin::Statsd           v0.10.1  pkg:cpan/Catalyst-Plugin-Statsd@v0.10.1
 Catalyst::Plugin::StatusMessage    1.002000  pkg:cpan/Catalyst-Plugin-StatusMessage@1.002000
 Catalyst::Plugin::StatusMessageTypeRole undef  pkg:cpan/Catalyst-Plugin-StatusMessage@0.003000
 Catalyst::Plugin::StripScripts       0.1  pkg:cpan/Catalyst-Plugin-StripScripts@0.1
@@ -49127,20 +49127,20 @@ Crypt::HC128::HC128                v0.0.2  pkg:cpan/Crypt-HC128@0.0.2
 Crypt::HC128c                      v0.0.2  pkg:cpan/Crypt-HC128@0.0.2
 Crypt::HCE_MD5                      0.75  pkg:cpan/Crypt-HCE_MD5@0.75
 Crypt::HCE_SHA                      0.75  pkg:cpan/Crypt-HCE_SHA@0.75
-Crypt::HSM                         0.031  pkg:cpan/Crypt-HSM@0.031
-Crypt::HSM::Decrypt                0.031  pkg:cpan/Crypt-HSM@0.031
-Crypt::HSM::Digest                 0.031  pkg:cpan/Crypt-HSM@0.031
-Crypt::HSM::Encrypt                0.031  pkg:cpan/Crypt-HSM@0.031
+Crypt::HSM                         0.032  pkg:cpan/Crypt-HSM@0.032
+Crypt::HSM::Decrypt                0.032  pkg:cpan/Crypt-HSM@0.032
+Crypt::HSM::Digest                 0.032  pkg:cpan/Crypt-HSM@0.032
+Crypt::HSM::Encrypt                0.032  pkg:cpan/Crypt-HSM@0.032
 Crypt::HSM::Key                    0.017  pkg:cpan/Crypt-HSM@0.017
-Crypt::HSM::Mechanism              0.031  pkg:cpan/Crypt-HSM@0.031
-Crypt::HSM::Mechanism::Info        0.031  pkg:cpan/Crypt-HSM@0.031
-Crypt::HSM::Object                 0.031  pkg:cpan/Crypt-HSM@0.031
-Crypt::HSM::Provider               0.031  pkg:cpan/Crypt-HSM@0.031
-Crypt::HSM::Session                0.031  pkg:cpan/Crypt-HSM@0.031
-Crypt::HSM::Sign                   0.031  pkg:cpan/Crypt-HSM@0.031
-Crypt::HSM::Slot                   0.031  pkg:cpan/Crypt-HSM@0.031
-Crypt::HSM::Stream                 0.031  pkg:cpan/Crypt-HSM@0.031
-Crypt::HSM::Verify                 0.031  pkg:cpan/Crypt-HSM@0.031
+Crypt::HSM::Mechanism              0.032  pkg:cpan/Crypt-HSM@0.032
+Crypt::HSM::Mechanism::Info        0.032  pkg:cpan/Crypt-HSM@0.032
+Crypt::HSM::Object                 0.032  pkg:cpan/Crypt-HSM@0.032
+Crypt::HSM::Provider               0.032  pkg:cpan/Crypt-HSM@0.032
+Crypt::HSM::Session                0.032  pkg:cpan/Crypt-HSM@0.032
+Crypt::HSM::Sign                   0.032  pkg:cpan/Crypt-HSM@0.032
+Crypt::HSM::Slot                   0.032  pkg:cpan/Crypt-HSM@0.032
+Crypt::HSM::Stream                 0.032  pkg:cpan/Crypt-HSM@0.032
+Crypt::HSM::Verify                 0.032  pkg:cpan/Crypt-HSM@0.032
 Crypt::HSXKPasswd                  v3.6.0  pkg:cpan/Crypt-HSXKPasswd@v3.6
 Crypt::HSXKPasswd::Dictionary      v1.2.0  pkg:cpan/Crypt-HSXKPasswd@v3.6
 Crypt::HSXKPasswd::Dictionary::Basic v1.2.0  pkg:cpan/Crypt-HSXKPasswd@v3.6
