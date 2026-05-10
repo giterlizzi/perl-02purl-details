@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 09 May 2026 22:35:40 GMT
-Line-Count: 264197
+Last-Updated: Sun, 10 May 2026 02:24:42 GMT
+Line-Count: 264198
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -14648,33 +14648,33 @@ App::TermAttrUtils                 0.007  pkg:cpan/App-TermAttrUtils@0.007
 App::Termcast                       0.13  pkg:cpan/App-Termcast@0.13
 App::Test::DWG::LibreDWG::DwgRead   0.06  pkg:cpan/App-Test-DWG-LibreDWG-DwgRead@0.06
 App::Test::DWG::LibreDWG::JSON      0.05  pkg:cpan/App-Test-DWG-LibreDWG-JSON@0.05
-App::Test::Generator                0.35  pkg:cpan/App-Test-Generator@0.35
-App::Test::Generator::Analyzer::Complexity  0.35  pkg:cpan/App-Test-Generator@0.35
-App::Test::Generator::Analyzer::Return  0.35  pkg:cpan/App-Test-Generator@0.35
-App::Test::Generator::Analyzer::ReturnMeta  0.35  pkg:cpan/App-Test-Generator@0.35
-App::Test::Generator::Analyzer::SideEffect  0.35  pkg:cpan/App-Test-Generator@0.35
-App::Test::Generator::CoverageGuidedFuzzer  0.35  pkg:cpan/App-Test-Generator@0.35
-App::Test::Generator::Emitter::Perl  0.35  pkg:cpan/App-Test-Generator@0.35
-App::Test::Generator::LCSAJ         0.35  pkg:cpan/App-Test-Generator@0.35
-App::Test::Generator::LCSAJ::Coverage  0.35  pkg:cpan/App-Test-Generator@0.35
-App::Test::Generator::Model::Method  0.35  pkg:cpan/App-Test-Generator@0.35
-App::Test::Generator::Mutant        0.35  pkg:cpan/App-Test-Generator@0.35
-App::Test::Generator::Mutation::Base  0.35  pkg:cpan/App-Test-Generator@0.35
-App::Test::Generator::Mutation::BooleanNegation  0.35  pkg:cpan/App-Test-Generator@0.35
-App::Test::Generator::Mutation::ConditionalInversion  0.35  pkg:cpan/App-Test-Generator@0.35
-App::Test::Generator::Mutation::NumericBoundary  0.35  pkg:cpan/App-Test-Generator@0.35
-App::Test::Generator::Mutation::ReturnUndef  0.35  pkg:cpan/App-Test-Generator@0.35
-App::Test::Generator::Mutator       0.35  pkg:cpan/App-Test-Generator@0.35
+App::Test::Generator                0.36  pkg:cpan/App-Test-Generator@0.36
+App::Test::Generator::Analyzer::Complexity  0.36  pkg:cpan/App-Test-Generator@0.36
+App::Test::Generator::Analyzer::Return  0.36  pkg:cpan/App-Test-Generator@0.36
+App::Test::Generator::Analyzer::ReturnMeta  0.36  pkg:cpan/App-Test-Generator@0.36
+App::Test::Generator::Analyzer::SideEffect  0.36  pkg:cpan/App-Test-Generator@0.36
+App::Test::Generator::CoverageGuidedFuzzer  0.36  pkg:cpan/App-Test-Generator@0.36
+App::Test::Generator::Emitter::Perl  0.36  pkg:cpan/App-Test-Generator@0.36
+App::Test::Generator::LCSAJ         0.36  pkg:cpan/App-Test-Generator@0.36
+App::Test::Generator::LCSAJ::Coverage  0.36  pkg:cpan/App-Test-Generator@0.36
+App::Test::Generator::Model::Method  0.36  pkg:cpan/App-Test-Generator@0.36
+App::Test::Generator::Mutant        0.36  pkg:cpan/App-Test-Generator@0.36
+App::Test::Generator::Mutation::Base  0.36  pkg:cpan/App-Test-Generator@0.36
+App::Test::Generator::Mutation::BooleanNegation  0.36  pkg:cpan/App-Test-Generator@0.36
+App::Test::Generator::Mutation::ConditionalInversion  0.36  pkg:cpan/App-Test-Generator@0.36
+App::Test::Generator::Mutation::NumericBoundary  0.36  pkg:cpan/App-Test-Generator@0.36
+App::Test::Generator::Mutation::ReturnUndef  0.36  pkg:cpan/App-Test-Generator@0.36
+App::Test::Generator::Mutator       0.36  pkg:cpan/App-Test-Generator@0.36
 App::Test::Generator::Pipeline      0.33  pkg:cpan/App-Test-Generator@0.33
-App::Test::Generator::Planner       0.35  pkg:cpan/App-Test-Generator@0.35
-App::Test::Generator::Planner::Fixture  0.35  pkg:cpan/App-Test-Generator@0.35
-App::Test::Generator::Planner::Grouping  0.35  pkg:cpan/App-Test-Generator@0.35
-App::Test::Generator::Planner::Isolation  0.35  pkg:cpan/App-Test-Generator@0.35
-App::Test::Generator::Planner::Mock  0.35  pkg:cpan/App-Test-Generator@0.35
+App::Test::Generator::Planner       0.36  pkg:cpan/App-Test-Generator@0.36
+App::Test::Generator::Planner::Fixture  0.36  pkg:cpan/App-Test-Generator@0.36
+App::Test::Generator::Planner::Grouping  0.36  pkg:cpan/App-Test-Generator@0.36
+App::Test::Generator::Planner::Isolation  0.36  pkg:cpan/App-Test-Generator@0.36
+App::Test::Generator::Planner::Mock  0.36  pkg:cpan/App-Test-Generator@0.36
 App::Test::Generator::Report::HTML  0.32  pkg:cpan/App-Test-Generator@0.32
-App::Test::Generator::SchemaExtractor  0.35  pkg:cpan/App-Test-Generator@0.35
-App::Test::Generator::Template      0.35  pkg:cpan/App-Test-Generator@0.35
-App::Test::Generator::TestStrategy  0.35  pkg:cpan/App-Test-Generator@0.35
+App::Test::Generator::SchemaExtractor  0.36  pkg:cpan/App-Test-Generator@0.36
+App::Test::Generator::Template      0.36  pkg:cpan/App-Test-Generator@0.36
+App::Test::Generator::TestStrategy  0.36  pkg:cpan/App-Test-Generator@0.36
 App::Test::Tapat                    0.04  pkg:cpan/App-Test-Tapat@0.04
 App::TestOnTap                     1.001  pkg:cpan/App-TestOnTap@1.001
 App::TestOnTap::Args               1.001  pkg:cpan/App-TestOnTap@1.001
@@ -36239,7 +36239,7 @@ Catalyst::Plugin::Static::Simple    0.37  pkg:cpan/Catalyst-Plugin-Static-Simple
 Catalyst::Plugin::Static::Simple::ButMaintained  0.30  pkg:cpan/Catalyst-Plugin-Static-Simple-ButMaintained@0.30
 Catalyst::Plugin::Static::Simple::ByClass 0.005  pkg:cpan/Catalyst-Plugin-Static-Simple-ByClass@0.005
 Catalyst::Plugin::Static::TT       0.002  pkg:cpan/Catalyst-Plugin-Static-TT@0.002
-Catalyst::Plugin::Statsd           v0.9.0  pkg:cpan/Catalyst-Plugin-Statsd@v0.9.0
+Catalyst::Plugin::Statsd           v0.10.0  pkg:cpan/Catalyst-Plugin-Statsd@v0.10.0
 Catalyst::Plugin::StatusMessage    1.002000  pkg:cpan/Catalyst-Plugin-StatusMessage@1.002000
 Catalyst::Plugin::StatusMessageTypeRole undef  pkg:cpan/Catalyst-Plugin-StatusMessage@0.003000
 Catalyst::Plugin::StripScripts       0.1  pkg:cpan/Catalyst-Plugin-StripScripts@0.1
@@ -63787,7 +63787,7 @@ Devel::Agent::AwareRole            0.001  pkg:cpan/Devel-Agent@0.006
 Devel::Agent::EveryThing           undef  pkg:cpan/Devel-Agent@0.007
 Devel::Agent::Proxy                0.0002  pkg:cpan/Devel-Agent@0.006
 Devel::Agent::Util                 undef  pkg:cpan/Devel-Agent@0.007
-Devel::App::Test::Generator::LCSAJ::Runtime  0.35  pkg:cpan/App-Test-Generator@0.35
+Devel::App::Test::Generator::LCSAJ::Runtime  0.36  pkg:cpan/App-Test-Generator@0.36
 Devel::Arena                        0.23  pkg:cpan/Devel-Arena@0.23
 Devel::ArgNames                     0.03  pkg:cpan/Devel-ArgNames@0.03
 Devel::Assert                       1.06  pkg:cpan/Devel-Assert@1.06
@@ -115010,25 +115010,25 @@ JSON::Schema::Error                0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Fit                   0.07  pkg:cpan/JSON-Schema-Fit@0.07
 JSON::Schema::Generate              0.15  pkg:cpan/JSON-Schema-Generate@0.15
 JSON::Schema::Helper               0.016  pkg:cpan/JSON-Schema@0.016
-JSON::Schema::Modern               0.638  pkg:cpan/JSON-Schema-Modern@0.638
-JSON::Schema::Modern::Annotation   0.638  pkg:cpan/JSON-Schema-Modern@0.638
-JSON::Schema::Modern::Document     0.638  pkg:cpan/JSON-Schema-Modern@0.638
+JSON::Schema::Modern               0.639  pkg:cpan/JSON-Schema-Modern@0.639
+JSON::Schema::Modern::Annotation   0.639  pkg:cpan/JSON-Schema-Modern@0.639
+JSON::Schema::Modern::Document     0.639  pkg:cpan/JSON-Schema-Modern@0.639
 JSON::Schema::Modern::Document::OpenAPI 0.136  pkg:cpan/OpenAPI-Modern@0.136
-JSON::Schema::Modern::Error        0.638  pkg:cpan/JSON-Schema-Modern@0.638
-JSON::Schema::Modern::Result       0.638  pkg:cpan/JSON-Schema-Modern@0.638
-JSON::Schema::Modern::ResultNode   0.638  pkg:cpan/JSON-Schema-Modern@0.638
-JSON::Schema::Modern::Utilities    0.638  pkg:cpan/JSON-Schema-Modern@0.638
-JSON::Schema::Modern::Vocabulary   0.638  pkg:cpan/JSON-Schema-Modern@0.638
-JSON::Schema::Modern::Vocabulary::Applicator 0.638  pkg:cpan/JSON-Schema-Modern@0.638
-JSON::Schema::Modern::Vocabulary::Content 0.638  pkg:cpan/JSON-Schema-Modern@0.638
-JSON::Schema::Modern::Vocabulary::Core 0.638  pkg:cpan/JSON-Schema-Modern@0.638
-JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.638  pkg:cpan/JSON-Schema-Modern@0.638
-JSON::Schema::Modern::Vocabulary::FormatAssertion 0.638  pkg:cpan/JSON-Schema-Modern@0.638
-JSON::Schema::Modern::Vocabulary::MetaData 0.638  pkg:cpan/JSON-Schema-Modern@0.638
+JSON::Schema::Modern::Error        0.639  pkg:cpan/JSON-Schema-Modern@0.639
+JSON::Schema::Modern::Result       0.639  pkg:cpan/JSON-Schema-Modern@0.639
+JSON::Schema::Modern::ResultNode   0.639  pkg:cpan/JSON-Schema-Modern@0.639
+JSON::Schema::Modern::Utilities    0.639  pkg:cpan/JSON-Schema-Modern@0.639
+JSON::Schema::Modern::Vocabulary   0.639  pkg:cpan/JSON-Schema-Modern@0.639
+JSON::Schema::Modern::Vocabulary::Applicator 0.639  pkg:cpan/JSON-Schema-Modern@0.639
+JSON::Schema::Modern::Vocabulary::Content 0.639  pkg:cpan/JSON-Schema-Modern@0.639
+JSON::Schema::Modern::Vocabulary::Core 0.639  pkg:cpan/JSON-Schema-Modern@0.639
+JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.639  pkg:cpan/JSON-Schema-Modern@0.639
+JSON::Schema::Modern::Vocabulary::FormatAssertion 0.639  pkg:cpan/JSON-Schema-Modern@0.639
+JSON::Schema::Modern::Vocabulary::MetaData 0.639  pkg:cpan/JSON-Schema-Modern@0.639
 JSON::Schema::Modern::Vocabulary::OpenAPI 0.136  pkg:cpan/OpenAPI-Modern@0.136
 JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.136  pkg:cpan/OpenAPI-Modern@0.136
-JSON::Schema::Modern::Vocabulary::Unevaluated 0.638  pkg:cpan/JSON-Schema-Modern@0.638
-JSON::Schema::Modern::Vocabulary::Validation 0.638  pkg:cpan/JSON-Schema-Modern@0.638
+JSON::Schema::Modern::Vocabulary::Unevaluated 0.639  pkg:cpan/JSON-Schema-Modern@0.639
+JSON::Schema::Modern::Vocabulary::Validation 0.639  pkg:cpan/JSON-Schema-Modern@0.639
 JSON::Schema::Null                 0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Result               0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Shorthand            v0.0.2  pkg:cpan/JSON-Schema-Shorthand@0.0.2
@@ -196873,7 +196873,7 @@ Plack::Middleware::Static::Precompressed 1.002  pkg:cpan/Plack-Middleware-Static
 Plack::Middleware::Static::Range    0.01  pkg:cpan/Plack-Middleware-Static-Range@0.01
 Plack::Middleware::StaticShared     0.06  pkg:cpan/Plack-Middleware-StaticShared@0.06
 Plack::Middleware::StatsPerRequest 0.902  pkg:cpan/Plack-Middleware-StatsPerRequest@0.902
-Plack::Middleware::Statsd          v0.8.2  pkg:cpan/Plack-Middleware-Statsd@v0.8.2
+Plack::Middleware::Statsd          v0.9.0  pkg:cpan/Plack-Middleware-Statsd@v0.9.0
 Plack::Middleware::Status          1.101150  pkg:cpan/Plack-Middleware-Status@1.101150
 Plack::Middleware::SuppressResponseCodes   0.2  pkg:cpan/Plack-Middleware-SuppressResponseCodes@0.2
 Plack::Middleware::TMT              0.04  pkg:cpan/Plack-Middleware-TMT@0.04
@@ -228224,7 +228224,7 @@ Test::Apocalypse::Synopsis         1.006  pkg:cpan/Test-Apocalypse@1.006
 Test::Apocalypse::UnusedVars       1.006  pkg:cpan/Test-Apocalypse@1.006
 Test::App                          undef  pkg:cpan/Nginx-Simple@0.07
 Test::App::CPANIDX::Database        0.06  pkg:cpan/Test-App-CPANIDX-Database@0.06
-Test::App::Generator::Sample::Module  0.35  pkg:cpan/App-Test-Generator@0.35
+Test::App::Generator::Sample::Module  0.36  pkg:cpan/App-Test-Generator@0.36
 Test::App::RunCron                 undef  pkg:cpan/App-RunCron@0.08
 Test::App::members                 undef  pkg:cpan/Nginx-Simple@0.07
 Test::Applify                       0.06  pkg:cpan/Test-Applify@0.06
@@ -232205,6 +232205,7 @@ Text::Template::Lexer              undef  pkg:cpan/Text-Template@0.1b
 Text::Template::Library             0.04  pkg:cpan/Text-Template-Library@0.04
 Text::Template::LocalVars           0.04  pkg:cpan/Text-Template-LocalVars@0.04
 Text::Template::LocalVars::Package undef  pkg:cpan/Text-Template-LocalVars@0.04
+Text::Template::Permute            0.002  pkg:cpan/Text-Template-Permute@0.002
 Text::Template::Preprocess          1.61  pkg:cpan/Text-Template@1.61
 Text::Template::Simple              0.91  pkg:cpan/Text-Template-Simple@0.91
 Text::Template::Simple::Base::Compiler  0.91  pkg:cpan/Text-Template-Simple@0.91
