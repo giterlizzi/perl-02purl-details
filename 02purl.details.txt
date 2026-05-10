@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 10 May 2026 06:29:08 GMT
+Last-Updated: Sun, 10 May 2026 09:23:44 GMT
 Line-Count: 264198
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -16984,27 +16984,27 @@ Archive::Har::Page                  0.21  pkg:cpan/Archive-Har@0.21
 Archive::Har::Page::PageTimings     0.21  pkg:cpan/Archive-Har@0.21
 Archive::Heritrix                   0.02  pkg:cpan/Archive-Heritrix@0.02
 Archive::Ipkg                       0.04  pkg:cpan/Archive-Ipkg@0.04
-Archive::Lha                        0.14  pkg:cpan/Archive-Lha@0.14
-Archive::Lha::CRC                  undef  pkg:cpan/Archive-Lha@0.14
-Archive::Lha::Constants            undef  pkg:cpan/Archive-Lha@0.14
-Archive::Lha::Debug                undef  pkg:cpan/Archive-Lha@0.14
-Archive::Lha::Decode               undef  pkg:cpan/Archive-Lha@0.14
-Archive::Lha::Decode::Base         undef  pkg:cpan/Archive-Lha@0.14
-Archive::Lha::Decode::LH0          undef  pkg:cpan/Archive-Lha@0.14
-Archive::Lha::Decode::LH5          undef  pkg:cpan/Archive-Lha@0.14
-Archive::Lha::Decode::LH6          undef  pkg:cpan/Archive-Lha@0.14
-Archive::Lha::Decode::LH7          undef  pkg:cpan/Archive-Lha@0.14
-Archive::Lha::Header               undef  pkg:cpan/Archive-Lha@0.14
-Archive::Lha::Header::Base         undef  pkg:cpan/Archive-Lha@0.14
-Archive::Lha::Header::Level0       undef  pkg:cpan/Archive-Lha@0.14
-Archive::Lha::Header::Level1       undef  pkg:cpan/Archive-Lha@0.14
-Archive::Lha::Header::Level2       undef  pkg:cpan/Archive-Lha@0.14
-Archive::Lha::Header::Utils        undef  pkg:cpan/Archive-Lha@0.14
-Archive::Lha::Stream               undef  pkg:cpan/Archive-Lha@0.14
-Archive::Lha::Stream::Base         undef  pkg:cpan/Archive-Lha@0.14
-Archive::Lha::Stream::File         undef  pkg:cpan/Archive-Lha@0.14
-Archive::Lha::Stream::Hex          undef  pkg:cpan/Archive-Lha@0.14
-Archive::Lha::Stream::String       undef  pkg:cpan/Archive-Lha@0.14
+Archive::Lha                        0.15  pkg:cpan/Archive-Lha@0.15
+Archive::Lha::CRC                  undef  pkg:cpan/Archive-Lha@0.15
+Archive::Lha::Constants            undef  pkg:cpan/Archive-Lha@0.15
+Archive::Lha::Debug                undef  pkg:cpan/Archive-Lha@0.15
+Archive::Lha::Decode               undef  pkg:cpan/Archive-Lha@0.15
+Archive::Lha::Decode::Base         undef  pkg:cpan/Archive-Lha@0.15
+Archive::Lha::Decode::LH0          undef  pkg:cpan/Archive-Lha@0.15
+Archive::Lha::Decode::LH5          undef  pkg:cpan/Archive-Lha@0.15
+Archive::Lha::Decode::LH6          undef  pkg:cpan/Archive-Lha@0.15
+Archive::Lha::Decode::LH7          undef  pkg:cpan/Archive-Lha@0.15
+Archive::Lha::Header               undef  pkg:cpan/Archive-Lha@0.15
+Archive::Lha::Header::Base         undef  pkg:cpan/Archive-Lha@0.15
+Archive::Lha::Header::Level0       undef  pkg:cpan/Archive-Lha@0.15
+Archive::Lha::Header::Level1       undef  pkg:cpan/Archive-Lha@0.15
+Archive::Lha::Header::Level2       undef  pkg:cpan/Archive-Lha@0.15
+Archive::Lha::Header::Utils        undef  pkg:cpan/Archive-Lha@0.15
+Archive::Lha::Stream               undef  pkg:cpan/Archive-Lha@0.15
+Archive::Lha::Stream::Base         undef  pkg:cpan/Archive-Lha@0.15
+Archive::Lha::Stream::File         undef  pkg:cpan/Archive-Lha@0.15
+Archive::Lha::Stream::Hex          undef  pkg:cpan/Archive-Lha@0.15
+Archive::Lha::Stream::String       undef  pkg:cpan/Archive-Lha@0.15
 Archive::Libarchive                 0.09  pkg:cpan/Archive-Libarchive@0.09
 Archive::Libarchive::API            0.09  pkg:cpan/Archive-Libarchive@0.09
 Archive::Libarchive::Any           0.0901  pkg:cpan/Archive-Libarchive-Any@0.0901
@@ -253188,7 +253188,7 @@ Win32::ProcFarm::Pool               2.15  pkg:cpan/Win32-ProcFarm@2.15
 Win32::ProcFarm::Port               2.15  pkg:cpan/Win32-ProcFarm@2.15
 Win32::ProcFarm::TickCount          2.15  pkg:cpan/Win32-ProcFarm@2.15
 Win32::ProcFarm::TkPool             2.15  pkg:cpan/Win32-ProcFarm@2.15
-Win32::Process                      0.17  pkg:cpan/Win32-Process@0.17
+Win32::Process                      0.18  pkg:cpan/Win32-Process@0.18
 Win32::Process::CommandLine         0.03  pkg:cpan/Win32-Process-CommandLine@0.03
 Win32::Process::Info               1.023  pkg:cpan/Win32-Process-Info@1.023
 Win32::Process::Info::NT           1.023  pkg:cpan/Win32-Process-Info@1.023
