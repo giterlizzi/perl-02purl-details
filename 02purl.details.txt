@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 10 May 2026 20:40:36 GMT
+Last-Updated: Sun, 10 May 2026 22:39:07 GMT
 Line-Count: 264208
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -16984,27 +16984,27 @@ Archive::Har::Page                  0.21  pkg:cpan/Archive-Har@0.21
 Archive::Har::Page::PageTimings     0.21  pkg:cpan/Archive-Har@0.21
 Archive::Heritrix                   0.02  pkg:cpan/Archive-Heritrix@0.02
 Archive::Ipkg                       0.04  pkg:cpan/Archive-Ipkg@0.04
-Archive::Lha                        0.15  pkg:cpan/Archive-Lha@0.15
-Archive::Lha::CRC                  undef  pkg:cpan/Archive-Lha@0.15
-Archive::Lha::Constants            undef  pkg:cpan/Archive-Lha@0.15
-Archive::Lha::Debug                undef  pkg:cpan/Archive-Lha@0.15
-Archive::Lha::Decode               undef  pkg:cpan/Archive-Lha@0.15
-Archive::Lha::Decode::Base         undef  pkg:cpan/Archive-Lha@0.15
-Archive::Lha::Decode::LH0          undef  pkg:cpan/Archive-Lha@0.15
-Archive::Lha::Decode::LH5          undef  pkg:cpan/Archive-Lha@0.15
-Archive::Lha::Decode::LH6          undef  pkg:cpan/Archive-Lha@0.15
-Archive::Lha::Decode::LH7          undef  pkg:cpan/Archive-Lha@0.15
-Archive::Lha::Header               undef  pkg:cpan/Archive-Lha@0.15
-Archive::Lha::Header::Base         undef  pkg:cpan/Archive-Lha@0.15
-Archive::Lha::Header::Level0       undef  pkg:cpan/Archive-Lha@0.15
-Archive::Lha::Header::Level1       undef  pkg:cpan/Archive-Lha@0.15
-Archive::Lha::Header::Level2       undef  pkg:cpan/Archive-Lha@0.15
-Archive::Lha::Header::Utils        undef  pkg:cpan/Archive-Lha@0.15
-Archive::Lha::Stream               undef  pkg:cpan/Archive-Lha@0.15
-Archive::Lha::Stream::Base         undef  pkg:cpan/Archive-Lha@0.15
-Archive::Lha::Stream::File         undef  pkg:cpan/Archive-Lha@0.15
-Archive::Lha::Stream::Hex          undef  pkg:cpan/Archive-Lha@0.15
-Archive::Lha::Stream::String       undef  pkg:cpan/Archive-Lha@0.15
+Archive::Lha                        0.16  pkg:cpan/Archive-Lha@0.16
+Archive::Lha::CRC                  undef  pkg:cpan/Archive-Lha@0.16
+Archive::Lha::Constants            undef  pkg:cpan/Archive-Lha@0.16
+Archive::Lha::Debug                undef  pkg:cpan/Archive-Lha@0.16
+Archive::Lha::Decode               undef  pkg:cpan/Archive-Lha@0.16
+Archive::Lha::Decode::Base         undef  pkg:cpan/Archive-Lha@0.16
+Archive::Lha::Decode::LH0          undef  pkg:cpan/Archive-Lha@0.16
+Archive::Lha::Decode::LH5          undef  pkg:cpan/Archive-Lha@0.16
+Archive::Lha::Decode::LH6          undef  pkg:cpan/Archive-Lha@0.16
+Archive::Lha::Decode::LH7          undef  pkg:cpan/Archive-Lha@0.16
+Archive::Lha::Header               undef  pkg:cpan/Archive-Lha@0.16
+Archive::Lha::Header::Base         undef  pkg:cpan/Archive-Lha@0.16
+Archive::Lha::Header::Level0       undef  pkg:cpan/Archive-Lha@0.16
+Archive::Lha::Header::Level1       undef  pkg:cpan/Archive-Lha@0.16
+Archive::Lha::Header::Level2       undef  pkg:cpan/Archive-Lha@0.16
+Archive::Lha::Header::Utils        undef  pkg:cpan/Archive-Lha@0.16
+Archive::Lha::Stream               undef  pkg:cpan/Archive-Lha@0.16
+Archive::Lha::Stream::Base         undef  pkg:cpan/Archive-Lha@0.16
+Archive::Lha::Stream::File         undef  pkg:cpan/Archive-Lha@0.16
+Archive::Lha::Stream::Hex          undef  pkg:cpan/Archive-Lha@0.16
+Archive::Lha::Stream::String       undef  pkg:cpan/Archive-Lha@0.16
 Archive::Libarchive                 0.09  pkg:cpan/Archive-Libarchive@0.09
 Archive::Libarchive::API            0.09  pkg:cpan/Archive-Libarchive@0.09
 Archive::Libarchive::Any           0.0901  pkg:cpan/Archive-Libarchive-Any@0.0901
@@ -209390,12 +209390,12 @@ SQL::Schema::Versioned             0.239  pkg:cpan/SQL-Schema-Versioned@0.239
 SQL::Script                         1.06  pkg:cpan/SQL-Script@1.06
 SQL::Shell                          1.18  pkg:cpan/SQL-Shell@1.18
 SQL::Shell::Manual                 1.006  pkg:cpan/SQL-Shell@1.18
-SQL::SimpleOps                     2026.101001  pkg:cpan/SQL-SimpleOps@2026.101.1
-SQL::SimpleOps::DBI::MyPlugin      2023.284001  pkg:cpan/SQL-SimpleOps@2026.101.1
-SQL::SimpleOps::DBI::MySQL         2023.284001  pkg:cpan/SQL-SimpleOps@2026.101.1
+SQL::SimpleOps                     2026.129001  pkg:cpan/SQL-SimpleOps@2026.129.1
+SQL::SimpleOps::DBI::MyPlugin      2026.129001  pkg:cpan/SQL-SimpleOps@2026.129.1
+SQL::SimpleOps::DBI::MySQL         2026.129001  pkg:cpan/SQL-SimpleOps@2026.129.1
 SQL::SimpleOps::DBI::ODBC          2023.284001  pkg:cpan/SQL-SimpleOps@2026.101.1
-SQL::SimpleOps::DBI::PG            2023.284001  pkg:cpan/SQL-SimpleOps@2026.101.1
-SQL::SimpleOps::DBI::SQLite        2023.284001  pkg:cpan/SQL-SimpleOps@2026.101.1
+SQL::SimpleOps::DBI::PG            2026.129001  pkg:cpan/SQL-SimpleOps@2026.129.1
+SQL::SimpleOps::DBI::SQLite        2026.129001  pkg:cpan/SQL-SimpleOps@2026.129.1
 SQL::Smart                          0.06  pkg:cpan/SQL-Smart@0.06
 SQL::Snippet                        0.03  pkg:cpan/SQL-Snippet@0.03
 SQL::Snippet::ExampleRepository    undef  pkg:cpan/SQL-Snippet@0.03
