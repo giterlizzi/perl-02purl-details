@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 11 May 2026 14:34:06 GMT
+Last-Updated: Mon, 11 May 2026 17:50:19 GMT
 Line-Count: 264212
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -133202,7 +133202,7 @@ MathWorks::platformList            undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::product                 undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepItem          undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepList          undef  pkg:cpan/XML-Pastor@0.6.0
-Matplotlib::Simple                  0.25  pkg:cpan/Matplotlib-Simple@0.25
+Matplotlib::Simple                  0.26  pkg:cpan/Matplotlib-Simple@0.26
 Matrix::Simple                      1.04  pkg:cpan/Matrix-Simple@1.04
 Matts::Message                     undef  pkg:cpan/Matts-Message-Parser@1.0
 Matts::Message::Parser               1.0  pkg:cpan/Matts-Message-Parser@1.0
@@ -231427,8 +231427,8 @@ Text::Info::Readability            undef  pkg:cpan/Text-Info@0.01
 Text::Info::Sentence               undef  pkg:cpan/Text-Info@0.01
 Text::Info::Utils                  undef  pkg:cpan/Text-Info@0.01
 Text::Ispell                        0.04  pkg:cpan/Text-Ispell@0.04
-Text::JSCalendar                    0.03  pkg:cpan/Text-JSCalendar@0.03
-Text::JSCalendar::TimeZones        undef  pkg:cpan/Text-JSCalendar@0.03
+Text::JSCalendar                    0.04  pkg:cpan/Text-JSCalendar@0.04
+Text::JSCalendar::TimeZones        undef  pkg:cpan/Text-JSCalendar@0.04
 Text::JSContact                     0.01  pkg:cpan/Text-JSContact@0.01
 Text::JSON::Nibble                  1.01  pkg:cpan/Text-JSON-Nibble@1.01
 Text::JaroWinkler                    0.1  pkg:cpan/Text-JaroWinkler@0.1
