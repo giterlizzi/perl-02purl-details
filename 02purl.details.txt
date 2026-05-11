@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 11 May 2026 10:54:56 GMT
-Line-Count: 264209
+Last-Updated: Mon, 11 May 2026 14:34:06 GMT
+Line-Count: 264212
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -16984,27 +16984,27 @@ Archive::Har::Page                  0.21  pkg:cpan/Archive-Har@0.21
 Archive::Har::Page::PageTimings     0.21  pkg:cpan/Archive-Har@0.21
 Archive::Heritrix                   0.02  pkg:cpan/Archive-Heritrix@0.02
 Archive::Ipkg                       0.04  pkg:cpan/Archive-Ipkg@0.04
-Archive::Lha                        0.18  pkg:cpan/Archive-Lha@0.18
-Archive::Lha::CRC                  undef  pkg:cpan/Archive-Lha@0.18
-Archive::Lha::Constants            undef  pkg:cpan/Archive-Lha@0.18
-Archive::Lha::Debug                undef  pkg:cpan/Archive-Lha@0.18
-Archive::Lha::Decode               undef  pkg:cpan/Archive-Lha@0.18
-Archive::Lha::Decode::Base         undef  pkg:cpan/Archive-Lha@0.18
-Archive::Lha::Decode::LH0          undef  pkg:cpan/Archive-Lha@0.18
-Archive::Lha::Decode::LH5          undef  pkg:cpan/Archive-Lha@0.18
-Archive::Lha::Decode::LH6          undef  pkg:cpan/Archive-Lha@0.18
-Archive::Lha::Decode::LH7          undef  pkg:cpan/Archive-Lha@0.18
-Archive::Lha::Header               undef  pkg:cpan/Archive-Lha@0.18
-Archive::Lha::Header::Base         undef  pkg:cpan/Archive-Lha@0.18
-Archive::Lha::Header::Level0       undef  pkg:cpan/Archive-Lha@0.18
-Archive::Lha::Header::Level1       undef  pkg:cpan/Archive-Lha@0.18
-Archive::Lha::Header::Level2       undef  pkg:cpan/Archive-Lha@0.18
-Archive::Lha::Header::Utils        undef  pkg:cpan/Archive-Lha@0.18
-Archive::Lha::Stream               undef  pkg:cpan/Archive-Lha@0.18
-Archive::Lha::Stream::Base         undef  pkg:cpan/Archive-Lha@0.18
-Archive::Lha::Stream::File         undef  pkg:cpan/Archive-Lha@0.18
-Archive::Lha::Stream::Hex          undef  pkg:cpan/Archive-Lha@0.18
-Archive::Lha::Stream::String       undef  pkg:cpan/Archive-Lha@0.18
+Archive::Lha                        0.19  pkg:cpan/Archive-Lha@0.19
+Archive::Lha::CRC                  undef  pkg:cpan/Archive-Lha@0.19
+Archive::Lha::Constants            undef  pkg:cpan/Archive-Lha@0.19
+Archive::Lha::Debug                undef  pkg:cpan/Archive-Lha@0.19
+Archive::Lha::Decode               undef  pkg:cpan/Archive-Lha@0.19
+Archive::Lha::Decode::Base         undef  pkg:cpan/Archive-Lha@0.19
+Archive::Lha::Decode::LH0          undef  pkg:cpan/Archive-Lha@0.19
+Archive::Lha::Decode::LH5          undef  pkg:cpan/Archive-Lha@0.19
+Archive::Lha::Decode::LH6          undef  pkg:cpan/Archive-Lha@0.19
+Archive::Lha::Decode::LH7          undef  pkg:cpan/Archive-Lha@0.19
+Archive::Lha::Header               undef  pkg:cpan/Archive-Lha@0.19
+Archive::Lha::Header::Base         undef  pkg:cpan/Archive-Lha@0.19
+Archive::Lha::Header::Level0       undef  pkg:cpan/Archive-Lha@0.19
+Archive::Lha::Header::Level1       undef  pkg:cpan/Archive-Lha@0.19
+Archive::Lha::Header::Level2       undef  pkg:cpan/Archive-Lha@0.19
+Archive::Lha::Header::Utils        undef  pkg:cpan/Archive-Lha@0.19
+Archive::Lha::Stream               undef  pkg:cpan/Archive-Lha@0.19
+Archive::Lha::Stream::Base         undef  pkg:cpan/Archive-Lha@0.19
+Archive::Lha::Stream::File         undef  pkg:cpan/Archive-Lha@0.19
+Archive::Lha::Stream::Hex          undef  pkg:cpan/Archive-Lha@0.19
+Archive::Lha::Stream::String       undef  pkg:cpan/Archive-Lha@0.19
 Archive::Libarchive                 0.09  pkg:cpan/Archive-Libarchive@0.09
 Archive::Libarchive::API            0.09  pkg:cpan/Archive-Libarchive@0.09
 Archive::Libarchive::Any           0.0901  pkg:cpan/Archive-Libarchive-Any@0.0901
@@ -81025,7 +81025,7 @@ Genealogy::Obituary::Lookup::obituaries  0.20  pkg:cpan/Genealogy-Obituary-Looku
 Genealogy::Obituary::Parser         0.04  pkg:cpan/Genealogy-Obituary-Parser@0.04
 Genealogy::ObituaryDailyTimes       0.16  pkg:cpan/Genealogy-ObituaryDailyTimes@0.16
 Genealogy::ObituaryDailyTimes::obituaries  0.15  pkg:cpan/Genealogy-ObituaryDailyTimes@0.16
-Genealogy::Occupation               0.01  pkg:cpan/Genealogy-Occupation@0.01
+Genealogy::Occupation               0.02  pkg:cpan/Genealogy-Occupation@0.02
 Genealogy::Relationship              2.0  pkg:cpan/Genealogy-Relationship@2.0.0
 Genealogy::Wills                    0.10  pkg:cpan/Genealogy-Wills@0.10
 Genealogy::Wills::wills             0.10  pkg:cpan/Genealogy-Wills@0.10
@@ -128161,9 +128161,9 @@ MLPerl::Classifier::KNeighbors::Neighbor2D 0.001  pkg:cpan/MLPerl@0.101000
 MLPerl::Config                     0.002  pkg:cpan/MLPerl@0.101000
 MLPerl::PythonShims                0.001  pkg:cpan/MLPerl@0.101000
 MM                                  7.78  pkg:cpan/ExtUtils-MakeMaker@7.78
-MM::Const                          0.001000  pkg:cpan/Mail-Make@v0.22.0
-MM::Table                          0.005000  pkg:cpan/Mail-Make@v0.22.0
-MM::Table::Tie                     0.005000  pkg:cpan/Mail-Make@v0.22.0
+MM::Const                          0.001000  pkg:cpan/Mail-Make@v0.23.0
+MM::Table                          0.005000  pkg:cpan/Mail-Make@v0.23.0
+MM::Table::Tie                     0.005000  pkg:cpan/Mail-Make@v0.23.0
 MMDS::Common                       undef  pkg:cpan/mmds@1.902
 MMDS::Output::Html                 undef  pkg:cpan/mmds@1.902
 MMDS::Output::Html::Latin1Html     undef  pkg:cpan/mmds@1.902
@@ -129718,24 +129718,24 @@ Mail::Mailer::smtps                 2.22  pkg:cpan/MailTools@2.22
 Mail::Mailer::smtps::pipe           2.22  pkg:cpan/MailTools@2.22
 Mail::Mailer::testfile              2.22  pkg:cpan/MailTools@2.22
 Mail::Mailer::testfile::pipe        2.22  pkg:cpan/MailTools@2.22
-Mail::Make                         0.022000  pkg:cpan/Mail-Make@v0.22.0
-Mail::Make::Body                   0.001000  pkg:cpan/Mail-Make@v0.22.0
-Mail::Make::Body::File             0.001000  pkg:cpan/Mail-Make@v0.22.0
-Mail::Make::Body::InCore           0.001001  pkg:cpan/Mail-Make@v0.22.0
-Mail::Make::Entity                 0.004001  pkg:cpan/Mail-Make@v0.22.0
-Mail::Make::Exception              0.001000  pkg:cpan/Mail-Make@v0.22.0
-Mail::Make::GPG                    0.001004  pkg:cpan/Mail-Make@v0.22.0
-Mail::Make::Headers                0.009000  pkg:cpan/Mail-Make@v0.22.0
-Mail::Make::Headers::ContentDisposition 0.001000  pkg:cpan/Mail-Make@v0.22.0
-Mail::Make::Headers::ContentTransferEncoding 0.002000  pkg:cpan/Mail-Make@v0.22.0
-Mail::Make::Headers::ContentType   0.001000  pkg:cpan/Mail-Make@v0.22.0
-Mail::Make::Headers::Generic       0.001000  pkg:cpan/Mail-Make@v0.22.0
-Mail::Make::Headers::MessageID     0.002000  pkg:cpan/Mail-Make@v0.22.0
-Mail::Make::Headers::Subject       0.001001  pkg:cpan/Mail-Make@v0.22.0
-Mail::Make::SMIME                  0.001002  pkg:cpan/Mail-Make@v0.22.0
-Mail::Make::Stream                 0.001000  pkg:cpan/Mail-Make@v0.22.0
-Mail::Make::Stream::Base64         0.003000  pkg:cpan/Mail-Make@v0.22.0
-Mail::Make::Stream::QuotedPrint    0.003001  pkg:cpan/Mail-Make@v0.22.0
+Mail::Make                         0.023000  pkg:cpan/Mail-Make@v0.23.0
+Mail::Make::Body                   0.001000  pkg:cpan/Mail-Make@v0.23.0
+Mail::Make::Body::File             0.001000  pkg:cpan/Mail-Make@v0.23.0
+Mail::Make::Body::InCore           0.001002  pkg:cpan/Mail-Make@v0.23.0
+Mail::Make::Entity                 0.004002  pkg:cpan/Mail-Make@v0.23.0
+Mail::Make::Exception              0.001000  pkg:cpan/Mail-Make@v0.23.0
+Mail::Make::GPG                    0.001005  pkg:cpan/Mail-Make@v0.23.0
+Mail::Make::Headers                0.009001  pkg:cpan/Mail-Make@v0.23.0
+Mail::Make::Headers::ContentDisposition 0.001001  pkg:cpan/Mail-Make@v0.23.0
+Mail::Make::Headers::ContentTransferEncoding 0.002000  pkg:cpan/Mail-Make@v0.23.0
+Mail::Make::Headers::ContentType   0.001000  pkg:cpan/Mail-Make@v0.23.0
+Mail::Make::Headers::Generic       0.001000  pkg:cpan/Mail-Make@v0.23.0
+Mail::Make::Headers::MessageID     0.002000  pkg:cpan/Mail-Make@v0.23.0
+Mail::Make::Headers::Subject       0.001001  pkg:cpan/Mail-Make@v0.23.0
+Mail::Make::SMIME                  0.001003  pkg:cpan/Mail-Make@v0.23.0
+Mail::Make::Stream                 0.001000  pkg:cpan/Mail-Make@v0.23.0
+Mail::Make::Stream::Base64         0.003000  pkg:cpan/Mail-Make@v0.23.0
+Mail::Make::Stream::QuotedPrint    0.003001  pkg:cpan/Mail-Make@v0.23.0
 Mail::Maps::Lookup                  0.02  pkg:cpan/Mail-Maps-Lookup@0.02
 Mail::Mbox::MessageParser          1.5111  pkg:cpan/Mail-Mbox-MessageParser@1.5111
 Mail::Mbox::MessageParser::Cache   1.3002  pkg:cpan/Mail-Mbox-MessageParser@1.5111
@@ -138154,6 +138154,8 @@ Mojo::SNMP                          0.13  pkg:cpan/Mojo-SNMP@0.13
 Mojo::SNMP::Dispatcher             undef  pkg:cpan/Mojo-SNMP@0.13
 Mojo::SOAP::Client                 0.001008  pkg:cpan/Mojo-SOAP-Client@0.1.8
 Mojo::SOAP::Exception              0.001000  pkg:cpan/Mojo-SOAP-Client@0.1.0
+Mojo::SQL                           0.01  pkg:cpan/Mojo-SQL@0.01
+Mojo::SQL::Statement               undef  pkg:cpan/Mojo-SQL@0.01
 Mojo::SQLite                       3.009  pkg:cpan/Mojo-SQLite@3.009
 Mojo::SQLite::Database             3.009  pkg:cpan/Mojo-SQLite@3.009
 Mojo::SQLite::Database::Role::InsertHelpers undef  pkg:cpan/Mojo-SQLite-Database-Role-InsertHelpers@0.001
@@ -203405,7 +203407,7 @@ RT::Extension::TimeTracking::Test  undef  pkg:cpan/RT-Extension-TimeTracking@0.2
 RT::Extension::TimeWorkedReport     1.04  pkg:cpan/RT-Extension-TimeWorkedReport@1.04
 RT::Extension::Timeline             0.03  pkg:cpan/RTx-Timeline@0.03
 RT::Extension::ToggleSuperUser      0.02  pkg:cpan/RT-Extension-ToggleSuperUser@0.02
-RT::Extension::ToggleTheme          1.02  pkg:cpan/RT-Extension-ToggleTheme@1.02
+RT::Extension::ToggleTheme          1.03  pkg:cpan/RT-Extension-ToggleTheme@1.03
 RT::Extension::TrailingSubjectTag   0.01  pkg:cpan/RT-Extension-TrailingSubjectTag@0.01
 RT::Extension::TravisCI             0.01  pkg:cpan/RT-Extension-TravisCI@0.01
 RT::Extension::TravisCI::Test      undef  pkg:cpan/RT-Extension-TravisCI@0.01
@@ -247097,6 +247099,7 @@ WWW::VieDeMerde::Comment            0.21  pkg:cpan/WWW-VieDeMerde@0.21
 WWW::VieDeMerde::Message            0.21  pkg:cpan/WWW-VieDeMerde@0.21
 WWW::Vimeo::Download                0.06  pkg:cpan/WWW-Vimeo-Download@0.06
 WWW::Virull                        0.001  pkg:cpan/WWW-Virull@0.001
+WWW::Vonage::API                   0.001  pkg:cpan/WWW-Vonage-API
 WWW::WCAP                           0.01  pkg:cpan/WWW-WCAP@0.01
 WWW::WTF                             0.7  pkg:cpan/WWW-WTF@0.7
 WWW::WTF::HTTPResource             undef  pkg:cpan/WWW-WTF@0.7
