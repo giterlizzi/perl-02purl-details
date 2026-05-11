@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 11 May 2026 21:11:56 GMT
-Line-Count: 264212
+Last-Updated: Mon, 11 May 2026 22:47:53 GMT
+Line-Count: 264213
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -66118,6 +66118,7 @@ Dispatch::Profile::Forwarder       0.001  pkg:cpan/Dispatch-Profile-Forwarder@0.
 Dispatcher::Small                   0.02  pkg:cpan/Dispatcher-Small@0.02
 Display::Resolution                0.005  pkg:cpan/Display-Resolution@0.005
 Disque                              0.04  pkg:cpan/Disque@0.04
+Dist::AutomationPolicy             v0.1.0  pkg:cpan/Dist-AutomationPolicy@v0.1.0
 Dist::Banshee                      0.002  pkg:cpan/Dist-Banshee@0.002
 Dist::Banshee::Core                0.002  pkg:cpan/Dist-Banshee@0.002
 Dist::Banshee::Git                 0.002  pkg:cpan/Dist-Banshee@0.002
@@ -209393,12 +209394,12 @@ SQL::Schema::Versioned             0.239  pkg:cpan/SQL-Schema-Versioned@0.239
 SQL::Script                         1.06  pkg:cpan/SQL-Script@1.06
 SQL::Shell                          1.18  pkg:cpan/SQL-Shell@1.18
 SQL::Shell::Manual                 1.006  pkg:cpan/SQL-Shell@1.18
-SQL::SimpleOps                     2026.129001  pkg:cpan/SQL-SimpleOps@2026.129.1
-SQL::SimpleOps::DBI::MyPlugin      2026.129001  pkg:cpan/SQL-SimpleOps@2026.129.1
-SQL::SimpleOps::DBI::MySQL         2026.129001  pkg:cpan/SQL-SimpleOps@2026.129.1
+SQL::SimpleOps                     2026.131001  pkg:cpan/SQL-SimpleOps@2026.131.1
+SQL::SimpleOps::DBI::MyPlugin      2026.129001  pkg:cpan/SQL-SimpleOps@2026.131.1
+SQL::SimpleOps::DBI::MySQL         2026.129001  pkg:cpan/SQL-SimpleOps@2026.131.1
 SQL::SimpleOps::DBI::ODBC          2023.284001  pkg:cpan/SQL-SimpleOps@2026.101.1
-SQL::SimpleOps::DBI::PG            2026.129001  pkg:cpan/SQL-SimpleOps@2026.129.1
-SQL::SimpleOps::DBI::SQLite        2026.129001  pkg:cpan/SQL-SimpleOps@2026.129.1
+SQL::SimpleOps::DBI::PG            2026.129001  pkg:cpan/SQL-SimpleOps@2026.131.1
+SQL::SimpleOps::DBI::SQLite        2026.129001  pkg:cpan/SQL-SimpleOps@2026.131.1
 SQL::Smart                          0.06  pkg:cpan/SQL-Smart@0.06
 SQL::Snippet                        0.03  pkg:cpan/SQL-Snippet@0.03
 SQL::Snippet::ExampleRepository    undef  pkg:cpan/SQL-Snippet@0.03
@@ -231427,8 +231428,8 @@ Text::Info::Readability            undef  pkg:cpan/Text-Info@0.01
 Text::Info::Sentence               undef  pkg:cpan/Text-Info@0.01
 Text::Info::Utils                  undef  pkg:cpan/Text-Info@0.01
 Text::Ispell                        0.04  pkg:cpan/Text-Ispell@0.04
-Text::JSCalendar                    0.04  pkg:cpan/Text-JSCalendar@0.04
-Text::JSCalendar::TimeZones        undef  pkg:cpan/Text-JSCalendar@0.04
+Text::JSCalendar                    0.05  pkg:cpan/Text-JSCalendar@0.05
+Text::JSCalendar::TimeZones        undef  pkg:cpan/Text-JSCalendar@0.05
 Text::JSContact                     0.01  pkg:cpan/Text-JSContact@0.01
 Text::JSON::Nibble                  1.01  pkg:cpan/Text-JSON-Nibble@1.01
 Text::JaroWinkler                    0.1  pkg:cpan/Text-JaroWinkler@0.1
