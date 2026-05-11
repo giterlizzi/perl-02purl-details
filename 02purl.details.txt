@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 11 May 2026 07:35:33 GMT
+Last-Updated: Mon, 11 May 2026 10:54:56 GMT
 Line-Count: 264209
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -16984,27 +16984,27 @@ Archive::Har::Page                  0.21  pkg:cpan/Archive-Har@0.21
 Archive::Har::Page::PageTimings     0.21  pkg:cpan/Archive-Har@0.21
 Archive::Heritrix                   0.02  pkg:cpan/Archive-Heritrix@0.02
 Archive::Ipkg                       0.04  pkg:cpan/Archive-Ipkg@0.04
-Archive::Lha                        0.17  pkg:cpan/Archive-Lha@0.17
-Archive::Lha::CRC                  undef  pkg:cpan/Archive-Lha@0.17
-Archive::Lha::Constants            undef  pkg:cpan/Archive-Lha@0.17
-Archive::Lha::Debug                undef  pkg:cpan/Archive-Lha@0.17
-Archive::Lha::Decode               undef  pkg:cpan/Archive-Lha@0.17
-Archive::Lha::Decode::Base         undef  pkg:cpan/Archive-Lha@0.17
-Archive::Lha::Decode::LH0          undef  pkg:cpan/Archive-Lha@0.17
-Archive::Lha::Decode::LH5          undef  pkg:cpan/Archive-Lha@0.17
-Archive::Lha::Decode::LH6          undef  pkg:cpan/Archive-Lha@0.17
-Archive::Lha::Decode::LH7          undef  pkg:cpan/Archive-Lha@0.17
-Archive::Lha::Header               undef  pkg:cpan/Archive-Lha@0.17
-Archive::Lha::Header::Base         undef  pkg:cpan/Archive-Lha@0.17
-Archive::Lha::Header::Level0       undef  pkg:cpan/Archive-Lha@0.17
-Archive::Lha::Header::Level1       undef  pkg:cpan/Archive-Lha@0.17
-Archive::Lha::Header::Level2       undef  pkg:cpan/Archive-Lha@0.17
-Archive::Lha::Header::Utils        undef  pkg:cpan/Archive-Lha@0.17
-Archive::Lha::Stream               undef  pkg:cpan/Archive-Lha@0.17
-Archive::Lha::Stream::Base         undef  pkg:cpan/Archive-Lha@0.17
-Archive::Lha::Stream::File         undef  pkg:cpan/Archive-Lha@0.17
-Archive::Lha::Stream::Hex          undef  pkg:cpan/Archive-Lha@0.17
-Archive::Lha::Stream::String       undef  pkg:cpan/Archive-Lha@0.17
+Archive::Lha                        0.18  pkg:cpan/Archive-Lha@0.18
+Archive::Lha::CRC                  undef  pkg:cpan/Archive-Lha@0.18
+Archive::Lha::Constants            undef  pkg:cpan/Archive-Lha@0.18
+Archive::Lha::Debug                undef  pkg:cpan/Archive-Lha@0.18
+Archive::Lha::Decode               undef  pkg:cpan/Archive-Lha@0.18
+Archive::Lha::Decode::Base         undef  pkg:cpan/Archive-Lha@0.18
+Archive::Lha::Decode::LH0          undef  pkg:cpan/Archive-Lha@0.18
+Archive::Lha::Decode::LH5          undef  pkg:cpan/Archive-Lha@0.18
+Archive::Lha::Decode::LH6          undef  pkg:cpan/Archive-Lha@0.18
+Archive::Lha::Decode::LH7          undef  pkg:cpan/Archive-Lha@0.18
+Archive::Lha::Header               undef  pkg:cpan/Archive-Lha@0.18
+Archive::Lha::Header::Base         undef  pkg:cpan/Archive-Lha@0.18
+Archive::Lha::Header::Level0       undef  pkg:cpan/Archive-Lha@0.18
+Archive::Lha::Header::Level1       undef  pkg:cpan/Archive-Lha@0.18
+Archive::Lha::Header::Level2       undef  pkg:cpan/Archive-Lha@0.18
+Archive::Lha::Header::Utils        undef  pkg:cpan/Archive-Lha@0.18
+Archive::Lha::Stream               undef  pkg:cpan/Archive-Lha@0.18
+Archive::Lha::Stream::Base         undef  pkg:cpan/Archive-Lha@0.18
+Archive::Lha::Stream::File         undef  pkg:cpan/Archive-Lha@0.18
+Archive::Lha::Stream::Hex          undef  pkg:cpan/Archive-Lha@0.18
+Archive::Lha::Stream::String       undef  pkg:cpan/Archive-Lha@0.18
 Archive::Libarchive                 0.09  pkg:cpan/Archive-Libarchive@0.09
 Archive::Libarchive::API            0.09  pkg:cpan/Archive-Libarchive@0.09
 Archive::Libarchive::Any           0.0901  pkg:cpan/Archive-Libarchive-Any@0.0901
@@ -71364,7 +71364,7 @@ Exception::Sink::Class             undef  pkg:cpan/Exception-Sink@3.09
 Exception::Stringy                  0.20  pkg:cpan/Exception-Stringy@0.20
 Exception::SysDie                    2.8  pkg:cpan/qbit@2.8
 Exception::System                   0.11  pkg:cpan/Exception-System@0.11
-Exception::ThrowUnless              1.11  pkg:cpan/Exception-ThrowUnless@1.11
+Exception::ThrowUnless              1.12  pkg:cpan/Exception-ThrowUnless@1.12
 Exception::Tiny                    v0.2.1  pkg:cpan/Exception-Tiny@v0.2.1
 Exception::Validator               0.012  pkg:cpan/QBit-Validator@0.012
 Exception::Validator::FailedField  0.012  pkg:cpan/QBit-Validator@0.012
@@ -82436,7 +82436,7 @@ Getopt::TypeConstraint::Mouse       0.05  pkg:cpan/Getopt-TypeConstraint-Mouse@0
 Getopt::Usaginator                 0.0012  pkg:cpan/Getopt-Usaginator@0.0012
 Getopt::Valid                      0.001004  pkg:cpan/Getopt-Valid@v0.1.4
 Getopt::Whatever                    0.01  pkg:cpan/Getopt-Whatever@0.01
-Getopt::WonderBra                   1.04  pkg:cpan/Getopt-WonderBra@1.04
+Getopt::WonderBra                   1.05  pkg:cpan/Getopt-WonderBra@1.05
 Getopt::XML                         0.53  pkg:cpan/Getopt-XML@0.53?ext=tgz
 Getopt::Yagow                       1.01  pkg:cpan/Getopt-Yagow@1.01
 Getopt::Yath                       2.000011  pkg:cpan/Getopt-Yath@2.000011
