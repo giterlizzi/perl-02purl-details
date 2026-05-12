@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 12 May 2026 10:26:03 GMT
+Last-Updated: Tue, 12 May 2026 14:04:43 GMT
 Line-Count: 264215
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -66118,7 +66118,7 @@ Dispatch::Profile::Forwarder       0.001  pkg:cpan/Dispatch-Profile-Forwarder@0.
 Dispatcher::Small                   0.02  pkg:cpan/Dispatcher-Small@0.02
 Display::Resolution                0.005  pkg:cpan/Display-Resolution@0.005
 Disque                              0.04  pkg:cpan/Disque@0.04
-Dist::AutomationPolicy             v0.1.0  pkg:cpan/Dist-AutomationPolicy@v0.1.0
+Dist::AutomationPolicy             v0.1.1  pkg:cpan/Dist-AutomationPolicy@v0.1.1
 Dist::Banshee                      0.002  pkg:cpan/Dist-Banshee@0.002
 Dist::Banshee::Core                0.002  pkg:cpan/Dist-Banshee@0.002
 Dist::Banshee::Git                 0.002  pkg:cpan/Dist-Banshee@0.002
@@ -69002,7 +69002,7 @@ EV::Watcher::Bind                  0.00001  pkg:cpan/EV-Watcher-Bind@0.00001
 EV::Websockets                      0.06  pkg:cpan/EV-Websockets@0.06
 EV::Websockets::Connection          0.05  pkg:cpan/EV-Websockets@0.05
 EV::Websockets::Context             0.05  pkg:cpan/EV-Websockets@0.05
-EV::cares                           0.01  pkg:cpan/EV-cares@0.01
+EV::cares                           0.02  pkg:cpan/EV-cares@0.02
 EVDB::API                           0.99  pkg:cpan/EVDB-API@0.99
 EVDB::API::JSON                    undef  pkg:cpan/EVDB-API@0.99
 EVDB::API::REST                    undef  pkg:cpan/EVDB-API@0.99
@@ -119077,13 +119077,13 @@ LW4::Reader                         0.01  pkg:cpan/LW4-Reader@0.01
 LWES                               undef  pkg:cpan/LWES@0.01
 LWES::EventParser                  undef  pkg:cpan/LWES@0.01
 LWESc                              undef  pkg:cpan/LWES@0.01
-LWP                                 6.82  pkg:cpan/libwww-perl@6.82
+LWP                                 6.83  pkg:cpan/libwww-perl@6.83
 LWP::Auth_UA                        1.05  pkg:cpan/Link_Controller@0.037
-LWP::Authen::Basic                  6.82  pkg:cpan/libwww-perl@6.82
-LWP::Authen::Digest                 6.82  pkg:cpan/libwww-perl@6.82
+LWP::Authen::Basic                  6.83  pkg:cpan/libwww-perl@6.83
+LWP::Authen::Digest                 6.83  pkg:cpan/libwww-perl@6.83
 LWP::Authen::Gooddata                  0  pkg:cpan/WWW-GoodData@1.11
 LWP::Authen::Negotiate              0.08  pkg:cpan/LWP-Authen-Negotiate@0.08
-LWP::Authen::Ntlm                   6.82  pkg:cpan/libwww-perl@6.82
+LWP::Authen::Ntlm                   6.83  pkg:cpan/libwww-perl@6.83
 LWP::Authen::OAuth                  1.02  pkg:cpan/LWP-Authen-OAuth@1.02
 LWP::Authen::OAuth2                 0.20  pkg:cpan/LWP-Authen-OAuth2@0.20
 LWP::Authen::OAuth2::AccessToken    0.20  pkg:cpan/LWP-Authen-OAuth2@0.20
@@ -119106,7 +119106,7 @@ LWP::Authen::OAuth2::ServiceProvider::Withings  0.20  pkg:cpan/LWP-Authen-OAuth2
 LWP::Authen::OAuth2::ServiceProvider::Yahoo  0.20  pkg:cpan/LWP-Authen-OAuth2@0.20
 LWP::Authen::Wsse                   0.05  pkg:cpan/LWP-Authen-Wsse@0.05
 LWP::AuthenAgent                   0.001  pkg:cpan/sitemapper@1.019
-LWP::ConnCache                      6.82  pkg:cpan/libwww-perl@6.82
+LWP::ConnCache                      6.83  pkg:cpan/libwww-perl@6.83
 LWP::ConnCache::MaxKeepAliveRequests  0.33  pkg:cpan/LWP-ConnCache-MaxKeepAliveRequests@0.33
 LWP::ConnCache::Resolving           0.02  pkg:cpan/LWP-ConnCache-Resolving@0.02
 LWP::ConsoleLogger                 1.000001  pkg:cpan/LWP-ConsoleLogger@1.000001
@@ -119114,14 +119114,14 @@ LWP::ConsoleLogger::Easy           1.000001  pkg:cpan/LWP-ConsoleLogger@1.000001
 LWP::ConsoleLogger::Everywhere     1.000001  pkg:cpan/LWP-ConsoleLogger@1.000001
 LWP::Curl                           0.14  pkg:cpan/LWP-Curl@0.14
 LWP::CurlLog                        0.04  pkg:cpan/LWP-CurlLog@0.04
-LWP::Debug                          6.82  pkg:cpan/libwww-perl@6.82
-LWP::Debug::TraceHTTP               6.82  pkg:cpan/libwww-perl@6.82
-LWP::DebugFile                      6.82  pkg:cpan/libwww-perl@6.82
+LWP::Debug                          6.83  pkg:cpan/libwww-perl@6.83
+LWP::Debug::TraceHTTP               6.83  pkg:cpan/libwww-perl@6.83
+LWP::DebugFile                      6.83  pkg:cpan/libwww-perl@6.83
 LWP::FastRobot                      1.05  pkg:cpan/Link_Controller@0.037
 LWP::Iterator::UserAgent           0.000001  pkg:cpan/dotReader@v0.11.2
 LWP::JSON::Tiny                    0.014  pkg:cpan/LWP-JSON-Tiny@0.014
 LWP::MediaTypes                     6.04  pkg:cpan/LWP-MediaTypes@6.04
-LWP::MemberMixin                    6.82  pkg:cpan/libwww-perl@6.82
+LWP::MemberMixin                    6.83  pkg:cpan/libwww-perl@6.83
 LWP::NoStopRobot                    1.10  pkg:cpan/Link_Controller@0.037
 LWP::Online                         1.08  pkg:cpan/LWP-Online@1.08
 LWP::Parallel                       2.62  pkg:cpan/ParallelUserAgent@2.62?ext=tgz
@@ -119138,7 +119138,7 @@ LWP::Parallel::RobotUA              1.12  pkg:cpan/ParallelUserAgent@2.62?ext=tg
 LWP::Parallel::UserAgent           undef  pkg:cpan/ParallelUserAgent@2.62?ext=tgz
 LWP::Parallel::UserAgent::Entry    undef  pkg:cpan/ParallelUserAgent@2.62?ext=tgz
 LWP::ParallelUA                    undef  pkg:cpan/ParallelUserAgent@2.62?ext=tgz
-LWP::Protocol                       6.82  pkg:cpan/libwww-perl@6.82
+LWP::Protocol                       6.83  pkg:cpan/libwww-perl@6.83
 LWP::Protocol::AnyEvent::http      v1.14.0  pkg:cpan/LWP-Protocol-AnyEvent-http@v1.14.0
 LWP::Protocol::Coro::http          v1.14.0  pkg:cpan/LWP-Protocol-Coro-http@v1.14.0
 LWP::Protocol::GHTTP                6.17  pkg:cpan/LWP-Protocol-GHTTP@6.17
@@ -119150,12 +119150,12 @@ LWP::Protocol::UWSGI::Socket       1.001008  pkg:cpan/LWP-Protocol-UWSGI@v1.1.8
 LWP::Protocol::clipboard           0.001  pkg:cpan/LWP-Protocol-clipboard@0.001
 LWP::Protocol::connect              6.09  pkg:cpan/LWP-Protocol-connect@6.09
 LWP::Protocol::connect::Socket::Base  6.09  pkg:cpan/LWP-Protocol-connect@6.09
-LWP::Protocol::cpan                 6.82  pkg:cpan/libwww-perl@6.82
-LWP::Protocol::data                 6.82  pkg:cpan/libwww-perl@6.82
-LWP::Protocol::file                 6.82  pkg:cpan/libwww-perl@6.82
-LWP::Protocol::ftp                  6.82  pkg:cpan/libwww-perl@6.82
-LWP::Protocol::gopher               6.82  pkg:cpan/libwww-perl@6.82
-LWP::Protocol::http                 6.82  pkg:cpan/libwww-perl@6.82
+LWP::Protocol::cpan                 6.83  pkg:cpan/libwww-perl@6.83
+LWP::Protocol::data                 6.83  pkg:cpan/libwww-perl@6.83
+LWP::Protocol::file                 6.83  pkg:cpan/libwww-perl@6.83
+LWP::Protocol::ftp                  6.83  pkg:cpan/libwww-perl@6.83
+LWP::Protocol::gopher               6.83  pkg:cpan/libwww-perl@6.83
+LWP::Protocol::http                 6.83  pkg:cpan/libwww-perl@6.83
 LWP::Protocol::http10               6.03  pkg:cpan/LWP-Protocol-http10@6.03
 LWP::Protocol::http::SocketUnix     0.02  pkg:cpan/LWP-Protocol-http-SocketUnix@0.02
 LWP::Protocol::http::SocketUnix::Socket  0.02  pkg:cpan/LWP-Protocol-http-SocketUnix@0.02
@@ -119182,25 +119182,25 @@ LWP::Protocol::https::socks::Socket   1.7  pkg:cpan/LWP-Protocol-socks@1.7
 LWP::Protocol::ldap                 1.25  pkg:cpan/perl-ldap@0.68
 LWP::Protocol::ldapi               undef  pkg:cpan/perl-ldap@0.68
 LWP::Protocol::ldaps               undef  pkg:cpan/perl-ldap@0.68
-LWP::Protocol::loopback             6.82  pkg:cpan/libwww-perl@6.82
-LWP::Protocol::mailto               6.82  pkg:cpan/libwww-perl@6.82
-LWP::Protocol::nntp                 6.82  pkg:cpan/libwww-perl@6.82
-LWP::Protocol::nogo                 6.82  pkg:cpan/libwww-perl@6.82
+LWP::Protocol::loopback             6.83  pkg:cpan/libwww-perl@6.83
+LWP::Protocol::mailto               6.83  pkg:cpan/libwww-perl@6.83
+LWP::Protocol::nntp                 6.83  pkg:cpan/libwww-perl@6.83
+LWP::Protocol::nogo                 6.83  pkg:cpan/libwww-perl@6.83
 LWP::Protocol::rsync                   2  pkg:cpan/LWP-Protocol-rsync@2
 LWP::Protocol::sftp                 0.05  pkg:cpan/LWP-Protocol-sftp@0.05
 LWP::Protocol::socks                 1.7  pkg:cpan/LWP-Protocol-socks@1.7
 LWP::Protocol::socks4              undef  pkg:cpan/LWP-Protocol-socks@1.7
 LWP::Protocol::virtual              0.02  pkg:cpan/LWP-Protocol-virtual@0.02
 LWP::RobotPUA                      undef  pkg:cpan/ParallelUserAgent@2.62?ext=tgz
-LWP::RobotUA                        6.82  pkg:cpan/libwww-perl@6.82
+LWP::RobotUA                        6.83  pkg:cpan/libwww-perl@6.83
 LWP::SecureSocket                   1.03  pkg:cpan/LWP-attic@1.00
-LWP::Simple                         6.82  pkg:cpan/libwww-perl@6.82
+LWP::Simple                         6.83  pkg:cpan/libwww-perl@6.83
 LWP::Simple::Cookies                0.01  pkg:cpan/LWP-Simple-Cookies@0.01
 LWP::Simple::Post                   0.05  pkg:cpan/LWP-Simple-Post@0.05
 LWP::Simple::REST                   0.20  pkg:cpan/LWP-Simple-REST@0.20
 LWP::Simple::WithCache              0.04  pkg:cpan/LWP-Simple-WithCache@0.04
 LWP::Socket                         1.24  pkg:cpan/LWP-attic@1.00
-LWP::UserAgent                      6.82  pkg:cpan/libwww-perl@6.82
+LWP::UserAgent                      6.83  pkg:cpan/libwww-perl@6.83
 LWP::UserAgent::AG                  0.02  pkg:cpan/RDF-AllegroGraph-Easy@0.01
 LWP::UserAgent::Anonymous           0.09  pkg:cpan/LWP-UserAgent-Anonymous@0.09
 LWP::UserAgent::AtomClient         undef  pkg:cpan/XML-Atom@0.43
@@ -131777,7 +131777,7 @@ MasonX::WebApp                      0.12  pkg:cpan/MasonX-WebApp@0.12
 MassSpec::CUtilities                0.05  pkg:cpan/MassSpec-CUtilities@0.05
 MassSpec::ViewSpectrum              0.08  pkg:cpan/MassSpec-ViewSpectrum@0.08
 MassSpec::ViewSpectrum::RealVsHypPeptide  0.02  pkg:cpan/MassSpec-ViewSpectrum-RealVsHypPeptide@0.02
-Masscan::Client                      0.2  pkg:cpan/Masscan-Client@0.2
+Masscan::Client                     0.21  pkg:cpan/Masscan-Client@0.21
 Mastodon::Client                   0.017  pkg:cpan/Mastodon-Client@0.017
 Mastodon::Entity::Account          0.017  pkg:cpan/Mastodon-Client@0.017
 Mastodon::Entity::Application      0.017  pkg:cpan/Mastodon-Client@0.017
