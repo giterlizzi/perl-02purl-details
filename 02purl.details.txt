@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 12 May 2026 17:53:56 GMT
+Last-Updated: Tue, 12 May 2026 19:40:50 GMT
 Line-Count: 264216
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -16341,7 +16341,7 @@ App::pmodinfo                       0.10  pkg:cpan/App-pmodinfo@0.10
 App::pmpatcher                      0.06  pkg:cpan/App-pmpatcher@0.06
 App::pmuninstall                    0.33  pkg:cpan/App-pmuninstall@0.33
 App::pnc                            0.02  pkg:cpan/App-pnc@0.02
-App::pod2gfm                       1.000001  pkg:cpan/App-pod2gfm@v1.0.1
+App::pod2gfm                       1.001000  pkg:cpan/App-pod2gfm@v1.1.0
 App::pod2pandoc                    0.003002  pkg:cpan/Pod-Pandoc@0.5.0
 App::pod2pdf                        0.42  pkg:cpan/pod2pdf@0.42
 App::pod2wp                        0.005  pkg:cpan/App-pod2wp@0.005
@@ -115024,7 +115024,7 @@ JSON::Schema::Helper               0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Modern               0.639  pkg:cpan/JSON-Schema-Modern@0.639
 JSON::Schema::Modern::Annotation   0.639  pkg:cpan/JSON-Schema-Modern@0.639
 JSON::Schema::Modern::Document     0.639  pkg:cpan/JSON-Schema-Modern@0.639
-JSON::Schema::Modern::Document::OpenAPI 0.136  pkg:cpan/OpenAPI-Modern@0.136
+JSON::Schema::Modern::Document::OpenAPI 0.137  pkg:cpan/OpenAPI-Modern@0.137
 JSON::Schema::Modern::Error        0.639  pkg:cpan/JSON-Schema-Modern@0.639
 JSON::Schema::Modern::Result       0.639  pkg:cpan/JSON-Schema-Modern@0.639
 JSON::Schema::Modern::ResultNode   0.639  pkg:cpan/JSON-Schema-Modern@0.639
@@ -115036,8 +115036,8 @@ JSON::Schema::Modern::Vocabulary::Core 0.639  pkg:cpan/JSON-Schema-Modern@0.639
 JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.639  pkg:cpan/JSON-Schema-Modern@0.639
 JSON::Schema::Modern::Vocabulary::FormatAssertion 0.639  pkg:cpan/JSON-Schema-Modern@0.639
 JSON::Schema::Modern::Vocabulary::MetaData 0.639  pkg:cpan/JSON-Schema-Modern@0.639
-JSON::Schema::Modern::Vocabulary::OpenAPI 0.136  pkg:cpan/OpenAPI-Modern@0.136
-JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.136  pkg:cpan/OpenAPI-Modern@0.136
+JSON::Schema::Modern::Vocabulary::OpenAPI 0.137  pkg:cpan/OpenAPI-Modern@0.137
+JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.137  pkg:cpan/OpenAPI-Modern@0.137
 JSON::Schema::Modern::Vocabulary::Unevaluated 0.639  pkg:cpan/JSON-Schema-Modern@0.639
 JSON::Schema::Modern::Vocabulary::Validation 0.639  pkg:cpan/JSON-Schema-Modern@0.639
 JSON::Schema::Null                 0.016  pkg:cpan/JSON-Schema@0.016
@@ -155942,8 +155942,8 @@ OpenAPI::Generator::From::Pod      undef  pkg:cpan/OpenAPI-Generator@0.06
 OpenAPI::Generator::Util           undef  pkg:cpan/OpenAPI-Generator@0.06
 OpenAPI::Linter                     0.19  pkg:cpan/OpenAPI-Linter@0.19
 OpenAPI::Linter::Location           0.19  pkg:cpan/OpenAPI-Linter@0.19
-OpenAPI::Modern                    0.136  pkg:cpan/OpenAPI-Modern@0.136
-OpenAPI::Modern::Utilities         0.136  pkg:cpan/OpenAPI-Modern@0.136
+OpenAPI::Modern                    0.137  pkg:cpan/OpenAPI-Modern@0.137
+OpenAPI::Modern::Utilities         0.137  pkg:cpan/OpenAPI-Modern@0.137
 OpenAPI::PerlGenerator              0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
 OpenAPI::PerlGenerator::Template    0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
 OpenAPI::PerlGenerator::Template::Mojo  0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
@@ -224810,19 +224810,19 @@ TSVRPC::Parser                     undef  pkg:cpan/Cache-KyotoTycoon@0.16
 TSVRPC::Util                       undef  pkg:cpan/Cache-KyotoTycoon@0.16
 TT2::Play::Area                    0.002  pkg:cpan/TT2-Play-Area@0.002
 TTransportException                undef  pkg:cpan/Thrift@0.9.3
-TUI::App                           v2.0.0  pkg:cpan/TUI-Vision@2.0.0
-TUI::Dialogs                       v2.0.0  pkg:cpan/TUI-Vision@2.0.0
-TUI::Drivers                       v2.0.0  pkg:cpan/TUI-Vision@2.0.0
-TUI::Gadgets                       v2.0.0  pkg:cpan/TUI-Vision@2.0.0
-TUI::Memory                        v2.0.0  pkg:cpan/TUI-Vision@2.0.0
-TUI::MsgBox                        v2.0.0  pkg:cpan/TUI-Vision@2.0.0
-TUI::Objects                       v2.0.0  pkg:cpan/TUI-Vision@2.0.0
-TUI::StdDlg                        v2.0.0  pkg:cpan/TUI-Vision@2.0.0
-TUI::TextView                      v2.0.0  pkg:cpan/TUI-Vision@2.0.0
-TUI::Validate                      v2.0.0  pkg:cpan/TUI-Vision@2.0.0
-TUI::Views                         v2.0.0  pkg:cpan/TUI-Vision@2.0.0
-TUI::Vision                        v2.0.0  pkg:cpan/TUI-Vision@2.0.0
-TUI::toolkit                       v2.0.0  pkg:cpan/TUI-Vision@2.0.0
+TUI::App                           v2.0.1  pkg:cpan/TUI-Vision@v2.0.1
+TUI::Dialogs                       v2.0.1  pkg:cpan/TUI-Vision@v2.0.1
+TUI::Drivers                       v2.0.1  pkg:cpan/TUI-Vision@v2.0.1
+TUI::Gadgets                       v2.0.1  pkg:cpan/TUI-Vision@v2.0.1
+TUI::Memory                        v2.0.1  pkg:cpan/TUI-Vision@v2.0.1
+TUI::MsgBox                        v2.0.1  pkg:cpan/TUI-Vision@v2.0.1
+TUI::Objects                       v2.0.1  pkg:cpan/TUI-Vision@v2.0.1
+TUI::StdDlg                        v2.0.1  pkg:cpan/TUI-Vision@v2.0.1
+TUI::TextView                      v2.0.1  pkg:cpan/TUI-Vision@v2.0.1
+TUI::Validate                      v2.0.1  pkg:cpan/TUI-Vision@v2.0.1
+TUI::Views                         v2.0.1  pkg:cpan/TUI-Vision@v2.0.1
+TUI::Vision                        v2.0.1  pkg:cpan/TUI-Vision@v2.0.1
+TUI::toolkit                       v2.0.1  pkg:cpan/TUI-Vision@v2.0.1
 TUWF                                 1.6  pkg:cpan/TUWF@1.6
 TUWF::DB                             1.6  pkg:cpan/TUWF@1.6
 TUWF::Exception                    undef  pkg:cpan/TUWF@1.6
