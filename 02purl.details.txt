@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 12 May 2026 14:04:43 GMT
-Line-Count: 264215
+Last-Updated: Tue, 12 May 2026 17:53:56 GMT
+Line-Count: 264216
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -14671,7 +14671,6 @@ App::Test::Generator::Planner::Fixture  0.36  pkg:cpan/App-Test-Generator@0.36
 App::Test::Generator::Planner::Grouping  0.36  pkg:cpan/App-Test-Generator@0.36
 App::Test::Generator::Planner::Isolation  0.36  pkg:cpan/App-Test-Generator@0.36
 App::Test::Generator::Planner::Mock  0.36  pkg:cpan/App-Test-Generator@0.36
-App::Test::Generator::Report::HTML  0.32  pkg:cpan/App-Test-Generator@0.32
 App::Test::Generator::SchemaExtractor  0.36  pkg:cpan/App-Test-Generator@0.36
 App::Test::Generator::Template      0.36  pkg:cpan/App-Test-Generator@0.36
 App::Test::Generator::TestStrategy  0.36  pkg:cpan/App-Test-Generator@0.36
@@ -66118,7 +66117,7 @@ Dispatch::Profile::Forwarder       0.001  pkg:cpan/Dispatch-Profile-Forwarder@0.
 Dispatcher::Small                   0.02  pkg:cpan/Dispatcher-Small@0.02
 Display::Resolution                0.005  pkg:cpan/Display-Resolution@0.005
 Disque                              0.04  pkg:cpan/Disque@0.04
-Dist::AutomationPolicy             v0.1.1  pkg:cpan/Dist-AutomationPolicy@v0.1.1
+Dist::AutomationPolicy             v0.1.2  pkg:cpan/Dist-AutomationPolicy@v0.1.2
 Dist::Banshee                      0.002  pkg:cpan/Dist-Banshee@0.002
 Dist::Banshee::Core                0.002  pkg:cpan/Dist-Banshee@0.002
 Dist::Banshee::Git                 0.002  pkg:cpan/Dist-Banshee@0.002
@@ -75255,11 +75254,11 @@ Finance::Tax::Aruba::Income::2023  0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::Tax::Aruba::Income::2025  0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::Tax::Aruba::Role::Income::TaxYear 0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::TickerSymbols              3.11  pkg:cpan/Finance-TickerSymbols@3.11?ext=zip
-Finance::Tiller2QIF                 1.05  pkg:cpan/Finance-Tiller2QIF@1.05
-Finance::Tiller2QIF::Map            1.05  pkg:cpan/Finance-Tiller2QIF@1.05
-Finance::Tiller2QIF::ReadCSV        1.05  pkg:cpan/Finance-Tiller2QIF@1.05
-Finance::Tiller2QIF::Util           1.05  pkg:cpan/Finance-Tiller2QIF@1.05
-Finance::Tiller2QIF::WriteQIF       1.05  pkg:cpan/Finance-Tiller2QIF@1.05
+Finance::Tiller2QIF                 1.06  pkg:cpan/Finance-Tiller2QIF@1.06
+Finance::Tiller2QIF::Map            1.06  pkg:cpan/Finance-Tiller2QIF@1.06
+Finance::Tiller2QIF::ReadCSV        1.06  pkg:cpan/Finance-Tiller2QIF@1.06
+Finance::Tiller2QIF::Util           1.06  pkg:cpan/Finance-Tiller2QIF@1.06
+Finance::Tiller2QIF::WriteQIF       1.06  pkg:cpan/Finance-Tiller2QIF@1.06
 Finance::USDX                       0.03  pkg:cpan/Finance-USDX@0.03
 Finance::Wesabe                     0.02  pkg:cpan/Finance-Wesabe@0.02
 Finance::Wesabe::Account           undef  pkg:cpan/Finance-Wesabe@0.02
@@ -119109,9 +119108,9 @@ LWP::AuthenAgent                   0.001  pkg:cpan/sitemapper@1.019
 LWP::ConnCache                      6.83  pkg:cpan/libwww-perl@6.83
 LWP::ConnCache::MaxKeepAliveRequests  0.33  pkg:cpan/LWP-ConnCache-MaxKeepAliveRequests@0.33
 LWP::ConnCache::Resolving           0.02  pkg:cpan/LWP-ConnCache-Resolving@0.02
-LWP::ConsoleLogger                 1.000001  pkg:cpan/LWP-ConsoleLogger@1.000001
-LWP::ConsoleLogger::Easy           1.000001  pkg:cpan/LWP-ConsoleLogger@1.000001
-LWP::ConsoleLogger::Everywhere     1.000001  pkg:cpan/LWP-ConsoleLogger@1.000001
+LWP::ConsoleLogger                 1.000002  pkg:cpan/LWP-ConsoleLogger@1.000002
+LWP::ConsoleLogger::Easy           1.000002  pkg:cpan/LWP-ConsoleLogger@1.000002
+LWP::ConsoleLogger::Everywhere     1.000002  pkg:cpan/LWP-ConsoleLogger@1.000002
 LWP::Curl                           0.14  pkg:cpan/LWP-Curl@0.14
 LWP::CurlLog                        0.04  pkg:cpan/LWP-CurlLog@0.04
 LWP::Debug                          6.83  pkg:cpan/libwww-perl@6.83
@@ -233809,11 +233808,13 @@ Time::StasisField                   0.01  pkg:cpan/Time-StasisField@0.01
 Time::Stats                          1.0  pkg:cpan/Time-Stats@1.0?ext=tgz
 Time::StopWatchWithMessage          0.06  pkg:cpan/Time-StopWatchWithMessage@0.06
 Time::Stopwatch                     1.00  pkg:cpan/Time-Stopwatch@1.00
-Time::Str                           0.09  pkg:cpan/Time-Str@0.09
-Time::Str::Calendar                 0.09  pkg:cpan/Time-Str@0.09
-Time::Str::PP                       0.09  pkg:cpan/Time-Str@0.09
-Time::Str::Regexp                   0.09  pkg:cpan/Time-Str@0.09
-Time::Str::Token                    0.09  pkg:cpan/Time-Str@0.09
+Time::Str                           0.10  pkg:cpan/Time-Str@0.10
+Time::Str::Calendar                 0.10  pkg:cpan/Time-Str@0.10
+Time::Str::PP                       0.10  pkg:cpan/Time-Str@0.10
+Time::Str::PP::Calendar             0.10  pkg:cpan/Time-Str@0.10
+Time::Str::PP::Token                0.10  pkg:cpan/Time-Str@0.10
+Time::Str::Regexp                   0.10  pkg:cpan/Time-Str@0.10
+Time::Str::Token                    0.10  pkg:cpan/Time-Str@0.10
 Time::Strptime                      1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::Format              1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::TimeZone           undef  pkg:cpan/Time-Strptime@1.04
@@ -244092,8 +244093,8 @@ WWW::Billomat::Invoice::Item        0.01  pkg:cpan/WWW-Billomat@0.01
 WWW::Bing::Search                  0.011  pkg:cpan/WWW-Bing-Search@0.011
 WWW::Bing::Serach                  0.010  pkg:cpan/WWW-Bing-Search@0.010
 WWW::BitTorrent                     0.01  pkg:cpan/WWW-BitTorrent@0.01
-WWW::Bizowie::API                   0.02  pkg:cpan/WWW-Bizowie-API@0.02
-WWW::Bizowie::API::Response        undef  pkg:cpan/WWW-Bizowie-API@0.02
+WWW::Bizowie::API                   0.05  pkg:cpan/WWW-Bizowie-API@0.05
+WWW::Bizowie::API::Response        undef  pkg:cpan/WWW-Bizowie-API@0.05
 WWW::Bleep                          0.92  pkg:cpan/WWW-Bleep@0.92?ext=tgz
 WWW::Blog::Identify                 0.06  pkg:cpan/WWW-Blog-Identify@0.06
 WWW::Blog::Metadata                 0.03  pkg:cpan/WWW-Blog-Metadata@0.03
