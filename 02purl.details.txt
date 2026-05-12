@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 12 May 2026 19:40:50 GMT
+Last-Updated: Tue, 12 May 2026 21:12:15 GMT
 Line-Count: 264216
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -59512,7 +59512,7 @@ Data::Printer::Filter::DB          undef  pkg:cpan/Data-Printer@1.002001
 Data::Printer::Filter::DBIx::Class 0.000005  pkg:cpan/Data-Printer-Filter-DBIx-Class@0.000005
 Data::Printer::Filter::DateTime    undef  pkg:cpan/Data-Printer@1.002001
 Data::Printer::Filter::Digest      undef  pkg:cpan/Data-Printer@1.002001
-Data::Printer::Filter::EscapeNonPrintable 1.000000  pkg:cpan/Data-Printer-Filter-EscapeNonPrintable@v1.0.0
+Data::Printer::Filter::EscapeNonPrintable 1.000001  pkg:cpan/Data-Printer-Filter-EscapeNonPrintable@v1.0.1
 Data::Printer::Filter::FORMAT      undef  pkg:cpan/Data-Printer@1.002001
 Data::Printer::Filter::GLOB        undef  pkg:cpan/Data-Printer@1.002001
 Data::Printer::Filter::GenericClass undef  pkg:cpan/Data-Printer@1.002001
@@ -220083,7 +220083,7 @@ Software::License::LGPL_2_1::or_later v0.10.2  pkg:cpan/Software-License-OrLater
 Software::License::LGPL_3_0        0.104007  pkg:cpan/Software-License@0.104007
 Software::License::LGPL_3_0::or_later v0.10.2  pkg:cpan/Software-License-OrLaterPack@v0.10.2
 Software::License::MIT             0.104007  pkg:cpan/Software-License@0.104007
-Software::License::MIT_0           1.000000  pkg:cpan/Software-License-MIT_0@v1.0.0
+Software::License::MIT_0           1.000001  pkg:cpan/Software-License-MIT_0@v1.0.1
 Software::License::Mozilla_1_0     0.104007  pkg:cpan/Software-License@0.104007
 Software::License::Mozilla_1_1     0.104007  pkg:cpan/Software-License@0.104007
 Software::License::Mozilla_2_0     0.104007  pkg:cpan/Software-License@0.104007
@@ -233808,13 +233808,13 @@ Time::StasisField                   0.01  pkg:cpan/Time-StasisField@0.01
 Time::Stats                          1.0  pkg:cpan/Time-Stats@1.0?ext=tgz
 Time::StopWatchWithMessage          0.06  pkg:cpan/Time-StopWatchWithMessage@0.06
 Time::Stopwatch                     1.00  pkg:cpan/Time-Stopwatch@1.00
-Time::Str                           0.10  pkg:cpan/Time-Str@0.10
-Time::Str::Calendar                 0.10  pkg:cpan/Time-Str@0.10
-Time::Str::PP                       0.10  pkg:cpan/Time-Str@0.10
-Time::Str::PP::Calendar             0.10  pkg:cpan/Time-Str@0.10
-Time::Str::PP::Token                0.10  pkg:cpan/Time-Str@0.10
-Time::Str::Regexp                   0.10  pkg:cpan/Time-Str@0.10
-Time::Str::Token                    0.10  pkg:cpan/Time-Str@0.10
+Time::Str                           0.50  pkg:cpan/Time-Str@0.50
+Time::Str::Calendar                 0.50  pkg:cpan/Time-Str@0.50
+Time::Str::PP                       0.50  pkg:cpan/Time-Str@0.50
+Time::Str::PP::Calendar             0.50  pkg:cpan/Time-Str@0.50
+Time::Str::PP::Token                0.50  pkg:cpan/Time-Str@0.50
+Time::Str::Regexp                   0.50  pkg:cpan/Time-Str@0.50
+Time::Str::Token                    0.50  pkg:cpan/Time-Str@0.50
 Time::Strptime                      1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::Format              1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::TimeZone           undef  pkg:cpan/Time-Strptime@1.04
