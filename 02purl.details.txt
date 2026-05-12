@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 12 May 2026 21:12:15 GMT
-Line-Count: 264216
+Last-Updated: Tue, 12 May 2026 22:53:42 GMT
+Line-Count: 264222
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -15334,6 +15334,11 @@ App::contenttype                    0.01  pkg:cpan/App-contenttype@0.01
 App::corruptor                     0.003  pkg:cpan/App-corruptor@0.003
 App::count                         0.001001  pkg:cpan/App-count@v0.1.1
 App::cpackage                       1.01  pkg:cpan/App-cpackage@1.01
+App::cpan2arch                     1.000000  pkg:cpan/App-cpan2arch@v1.0.0
+App::cpan2arch::CheckPackages      1.000000  pkg:cpan/App-cpan2arch@v1.0.0
+App::cpan2arch::GetMetadata        1.000000  pkg:cpan/App-cpan2arch@v1.0.0
+App::cpan2arch::MergePrereqs       1.000000  pkg:cpan/App-cpan2arch@v1.0.0
+App::cpan2arch::WritePkgbuild      1.000000  pkg:cpan/App-cpan2arch@v1.0.0
 App::cpanbaker                      0.05  pkg:cpan/App-cpanbaker@0.05
 App::cpanchanges                   20170606.0  pkg:cpan/App-cpanchanges@20170606.0
 App::cpanel                        0.006  pkg:cpan/App-cpanel@0.006
@@ -46417,6 +46422,7 @@ Claude::Agent::Permission::Result::Deny undef  pkg:cpan/Claude-Agent@0.13
 Claude::Agent::Query               undef  pkg:cpan/Claude-Agent@0.13
 Claude::Agent::Subagent            undef  pkg:cpan/Claude-Agent@0.13
 Clean::Backspace                    1.03  pkg:cpan/Clean-Backspace@1.03
+Clean::Eval                        0.000002  pkg:cpan/Clean-Eval@0.000002
 ClearCase::Argv                     1.54  pkg:cpan/ClearCase-Argv@1.54
 ClearCase::Attache                  0.01  pkg:cpan/ClearCase-Attache@0.01
 ClearCase::CRDB                     0.15  pkg:cpan/ClearCase-CRDB@0.15
@@ -203811,7 +203817,7 @@ Random::Day::InThePast              0.17  pkg:cpan/Random-Day@0.17
 Random::PoissonDisc                 0.04  pkg:cpan/Random-PoissonDisc@0.04
 Random::RDTSC                        0.1  pkg:cpan/Random-RDTSC@0.1
 Random::Set                         0.09  pkg:cpan/Random-Set@0.09
-Random::Simple                      0.26  pkg:cpan/Random-Simple@0.26
+Random::Simple                      0.28  pkg:cpan/Random-Simple@0.28
 Random::Skew                        0.09  pkg:cpan/Random-Skew@0.09
 Random::Skew::Test                  0.02  pkg:cpan/Random-Skew-Test@0.02
 RandomFileCheckOption              undef  pkg:cpan/File-Random@0.19
