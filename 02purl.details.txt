@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 12 May 2026 06:32:48 GMT
+Last-Updated: Tue, 12 May 2026 10:26:03 GMT
 Line-Count: 264215
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -82941,7 +82941,7 @@ Git::SVN::Prompt                   undef  pkg:cpan/Git@0.42
 Git::SVN::Ra                       undef  pkg:cpan/Git@0.42
 Git::SVN::Utils                    undef  pkg:cpan/Git@0.42
 Git::SVNReplay                     1.0214  pkg:cpan/Git-SVNReplay@1.0214
-Git::Server                        0.043  pkg:cpan/Git-Server@0.043
+Git::Server                        0.045  pkg:cpan/Git-Server@0.045
 Git::Status::Tackle                 0.01  pkg:cpan/Git-Status-Tackle@0.01
 Git::Status::Tackle::CompletedFeatureBranches undef  pkg:cpan/Git-Status-Tackle@0.01
 Git::Status::Tackle::IndexChanges  undef  pkg:cpan/Git-Status-Tackle@0.01
@@ -138067,18 +138067,18 @@ Mojo::PDF::Primitive::Table        1.005003  pkg:cpan/Mojo-PDF@1.005003
 Mojo::Parameters                   undef  pkg:cpan/Mojolicious@9.45
 Mojo::Path                         undef  pkg:cpan/Mojolicious@9.45
 Mojo::Path::Role::Relative          0.01  pkg:cpan/Mojo-Path-Role-Relative@0.01
-Mojo::Pg                            4.29  pkg:cpan/Mojo-Pg@4.29
+Mojo::Pg                             5.0  pkg:cpan/Mojo-Pg@5.0
 Mojo::Pg::Che                      0.857  pkg:cpan/Mojo-Pg-Che@0.857
 Mojo::Pg::Che::Database            undef  pkg:cpan/Mojo-Pg-Che@0.857
 Mojo::Pg::Che::Results             undef  pkg:cpan/Mojo-Pg-Che@0.857
-Mojo::Pg::Database                 undef  pkg:cpan/Mojo-Pg@4.29
+Mojo::Pg::Database                 undef  pkg:cpan/Mojo-Pg@5.0
 Mojo::Pg::Database::Role::PgPromiseClass 0.002  pkg:cpan/Mojo-Pg-Role-PromiseClass@0.002
-Mojo::Pg::Migrations               undef  pkg:cpan/Mojo-Pg@4.29
-Mojo::Pg::PubSub                   undef  pkg:cpan/Mojo-Pg@4.29
-Mojo::Pg::Results                  undef  pkg:cpan/Mojo-Pg@4.29
+Mojo::Pg::Migrations               undef  pkg:cpan/Mojo-Pg@5.0
+Mojo::Pg::PubSub                   undef  pkg:cpan/Mojo-Pg@5.0
+Mojo::Pg::Results                  undef  pkg:cpan/Mojo-Pg@5.0
 Mojo::Pg::Results::Role::MoreMethods  0.04  pkg:cpan/Mojo-DB-Results-Role-MoreMethods@0.04
 Mojo::Pg::Role::PromiseClass       0.002  pkg:cpan/Mojo-Pg-Role-PromiseClass@0.002
-Mojo::Pg::Transaction              undef  pkg:cpan/Mojo-Pg@4.29
+Mojo::Pg::Transaction              undef  pkg:cpan/Mojo-Pg@5.0
 Mojo::PgX::Cursor                  0.502001  pkg:cpan/Mojo-PgX-Cursor@0.502001
 Mojo::PgX::Cursor::Cursor          undef  pkg:cpan/Mojo-PgX-Cursor@0.502001
 Mojo::PgX::Cursor::Database        undef  pkg:cpan/Mojo-PgX-Cursor@0.502001
