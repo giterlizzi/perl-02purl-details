@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 11 May 2026 22:47:53 GMT
-Line-Count: 264213
+Last-Updated: Tue, 12 May 2026 02:26:57 GMT
+Line-Count: 264215
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -162248,7 +162248,7 @@ Params::Validate::Dependencies::all_or_none_of  1.02  pkg:cpan/Params-Validate-D
 Params::Validate::Dummy             0.03  pkg:cpan/Module-Optional@0.03
 Params::Validate::Micro            0.032  pkg:cpan/Params-Validate-Micro@0.032
 Params::Validate::PP                1.31  pkg:cpan/Params-Validate@1.31
-Params::Validate::Strict            0.31  pkg:cpan/Params-Validate-Strict@0.31
+Params::Validate::Strict            0.32  pkg:cpan/Params-Validate-Strict@0.32
 Params::Validate::XS                1.31  pkg:cpan/Params-Validate@1.31
 Params::ValidationCompiler          0.31  pkg:cpan/Params-ValidationCompiler@0.31
 Params::ValidationCompiler::Compiler  0.31  pkg:cpan/Params-ValidationCompiler@0.31
@@ -232219,7 +232219,7 @@ Text::Template::Lexer              undef  pkg:cpan/Text-Template@0.1b
 Text::Template::Library             0.04  pkg:cpan/Text-Template-Library@0.04
 Text::Template::LocalVars           0.04  pkg:cpan/Text-Template-LocalVars@0.04
 Text::Template::LocalVars::Package undef  pkg:cpan/Text-Template-LocalVars@0.04
-Text::Template::Permute            0.003  pkg:cpan/Text-Template-Permute@0.003
+Text::Template::Permute            0.004  pkg:cpan/Text-Template-Permute@0.004
 Text::Template::Preprocess          1.61  pkg:cpan/Text-Template@1.61
 Text::Template::Simple              0.91  pkg:cpan/Text-Template-Simple@0.91
 Text::Template::Simple::Base::Compiler  0.91  pkg:cpan/Text-Template-Simple@0.91
@@ -233809,9 +233809,11 @@ Time::StasisField                   0.01  pkg:cpan/Time-StasisField@0.01
 Time::Stats                          1.0  pkg:cpan/Time-Stats@1.0?ext=tgz
 Time::StopWatchWithMessage          0.06  pkg:cpan/Time-StopWatchWithMessage@0.06
 Time::Stopwatch                     1.00  pkg:cpan/Time-Stopwatch@1.00
-Time::Str                           0.08  pkg:cpan/Time-Str@0.08
-Time::Str::PP                       0.08  pkg:cpan/Time-Str@0.08
-Time::Str::Regexp                   0.08  pkg:cpan/Time-Str@0.08
+Time::Str                           0.09  pkg:cpan/Time-Str@0.09
+Time::Str::Calendar                 0.09  pkg:cpan/Time-Str@0.09
+Time::Str::PP                       0.09  pkg:cpan/Time-Str@0.09
+Time::Str::Regexp                   0.09  pkg:cpan/Time-Str@0.09
+Time::Str::Token                    0.09  pkg:cpan/Time-Str@0.09
 Time::Strptime                      1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::Format              1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::TimeZone           undef  pkg:cpan/Time-Strptime@1.04
