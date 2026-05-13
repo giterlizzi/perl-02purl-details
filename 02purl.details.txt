@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 13 May 2026 14:13:39 GMT
-Line-Count: 264224
+Last-Updated: Wed, 13 May 2026 17:55:51 GMT
+Line-Count: 264225
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -50250,7 +50250,7 @@ Cucumber::TagExpressions::LiteralNode v9.1.0  pkg:cpan/Cucumber-TagExpressions@9
 Cucumber::TagExpressions::Node     v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
 Cucumber::TagExpressions::NotNode  v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
 Cucumber::TagExpressions::OrNode   v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.93
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.95
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
@@ -155544,6 +155544,7 @@ Object::Pad::MetaFunctions         0.825  pkg:cpan/Object-Pad@0.825
 Object::Pad::Operator::Of           0.01  pkg:cpan/Object-Pad-Operator-Of@0.01
 Object::Pad::SlotAttr::Final        0.04  pkg:cpan/Object-Pad-SlotAttr-Final@0.04
 Object::Pad::SlotAttr::Trigger      0.05  pkg:cpan/Object-Pad-SlotAttr-Trigger@0.05
+Object::PadX::Enum                  0.01  pkg:cpan/Object-PadX-Enum@0.01
 Object::PadX::Log::Log4perl        0.002  pkg:cpan/Object-PadX-Log-Log4perl@0.002
 Object::PadX::Role::AutoJSON         1.2  pkg:cpan/Object-PadX-Role-AutoJSON@1.2
 Object::PadX::Role::AutoMarshal      1.1  pkg:cpan/Object-PadX-Role-AutoMarshal@1.1
