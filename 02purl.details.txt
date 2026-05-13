@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 13 May 2026 19:47:10 GMT
-Line-Count: 264231
+Last-Updated: Wed, 13 May 2026 21:20:09 GMT
+Line-Count: 264232
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -200760,8 +200760,9 @@ Qless::Worker                      undef  pkg:cpan/Qless@0.06
 Qless::Workers                     undef  pkg:cpan/Qless@0.06
 Qmail::Control                      0.01  pkg:cpan/Qmail-Control@0.01
 Qmail::Control::Lock                0.01  pkg:cpan/Qmail-Control@0.01
-Qmail::Deliverable                  1.10  pkg:cpan/Qmail-Deliverable@1.10
-Qmail::Deliverable::Client         undef  pkg:cpan/Qmail-Deliverable@1.10
+Qmail::Deliverable                  1.11  pkg:cpan/Qmail-Deliverable@1.11
+Qmail::Deliverable::Client         undef  pkg:cpan/Qmail-Deliverable@1.11
+Qmail::Deliverable::Status          1.11  pkg:cpan/Qmail-Deliverable@1.11
 Qmail::Envelope                     0.53  pkg:cpan/Qmail-Envelope@0.53
 Qmail::Mysql                        0.02  pkg:cpan/Qmail-Mysql@0.02
 Qpsmtpd::Plugin::EmailAddressLoose  0.02  pkg:cpan/Qpsmtpd-Plugin-EmailAddressLoose@0.02
