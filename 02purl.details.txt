@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 13 May 2026 10:16:27 GMT
+Last-Updated: Wed, 13 May 2026 14:13:39 GMT
 Line-Count: 264224
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -16987,27 +16987,27 @@ Archive::Har::Page                  0.21  pkg:cpan/Archive-Har@0.21
 Archive::Har::Page::PageTimings     0.21  pkg:cpan/Archive-Har@0.21
 Archive::Heritrix                   0.02  pkg:cpan/Archive-Heritrix@0.02
 Archive::Ipkg                       0.04  pkg:cpan/Archive-Ipkg@0.04
-Archive::Lha                        0.19  pkg:cpan/Archive-Lha@0.19
-Archive::Lha::CRC                  undef  pkg:cpan/Archive-Lha@0.19
-Archive::Lha::Constants            undef  pkg:cpan/Archive-Lha@0.19
-Archive::Lha::Debug                undef  pkg:cpan/Archive-Lha@0.19
-Archive::Lha::Decode               undef  pkg:cpan/Archive-Lha@0.19
-Archive::Lha::Decode::Base         undef  pkg:cpan/Archive-Lha@0.19
-Archive::Lha::Decode::LH0          undef  pkg:cpan/Archive-Lha@0.19
-Archive::Lha::Decode::LH5          undef  pkg:cpan/Archive-Lha@0.19
-Archive::Lha::Decode::LH6          undef  pkg:cpan/Archive-Lha@0.19
-Archive::Lha::Decode::LH7          undef  pkg:cpan/Archive-Lha@0.19
-Archive::Lha::Header               undef  pkg:cpan/Archive-Lha@0.19
-Archive::Lha::Header::Base         undef  pkg:cpan/Archive-Lha@0.19
-Archive::Lha::Header::Level0       undef  pkg:cpan/Archive-Lha@0.19
-Archive::Lha::Header::Level1       undef  pkg:cpan/Archive-Lha@0.19
-Archive::Lha::Header::Level2       undef  pkg:cpan/Archive-Lha@0.19
-Archive::Lha::Header::Utils        undef  pkg:cpan/Archive-Lha@0.19
-Archive::Lha::Stream               undef  pkg:cpan/Archive-Lha@0.19
-Archive::Lha::Stream::Base         undef  pkg:cpan/Archive-Lha@0.19
-Archive::Lha::Stream::File         undef  pkg:cpan/Archive-Lha@0.19
-Archive::Lha::Stream::Hex          undef  pkg:cpan/Archive-Lha@0.19
-Archive::Lha::Stream::String       undef  pkg:cpan/Archive-Lha@0.19
+Archive::Lha                        0.20  pkg:cpan/Archive-Lha@0.20
+Archive::Lha::CRC                  undef  pkg:cpan/Archive-Lha@0.20
+Archive::Lha::Constants            undef  pkg:cpan/Archive-Lha@0.20
+Archive::Lha::Debug                undef  pkg:cpan/Archive-Lha@0.20
+Archive::Lha::Decode               undef  pkg:cpan/Archive-Lha@0.20
+Archive::Lha::Decode::Base         undef  pkg:cpan/Archive-Lha@0.20
+Archive::Lha::Decode::LH0          undef  pkg:cpan/Archive-Lha@0.20
+Archive::Lha::Decode::LH5          undef  pkg:cpan/Archive-Lha@0.20
+Archive::Lha::Decode::LH6          undef  pkg:cpan/Archive-Lha@0.20
+Archive::Lha::Decode::LH7          undef  pkg:cpan/Archive-Lha@0.20
+Archive::Lha::Header               undef  pkg:cpan/Archive-Lha@0.20
+Archive::Lha::Header::Base         undef  pkg:cpan/Archive-Lha@0.20
+Archive::Lha::Header::Level0       undef  pkg:cpan/Archive-Lha@0.20
+Archive::Lha::Header::Level1       undef  pkg:cpan/Archive-Lha@0.20
+Archive::Lha::Header::Level2       undef  pkg:cpan/Archive-Lha@0.20
+Archive::Lha::Header::Utils        undef  pkg:cpan/Archive-Lha@0.20
+Archive::Lha::Stream               undef  pkg:cpan/Archive-Lha@0.20
+Archive::Lha::Stream::Base         undef  pkg:cpan/Archive-Lha@0.20
+Archive::Lha::Stream::File         undef  pkg:cpan/Archive-Lha@0.20
+Archive::Lha::Stream::Hex          undef  pkg:cpan/Archive-Lha@0.20
+Archive::Lha::Stream::String       undef  pkg:cpan/Archive-Lha@0.20
 Archive::Libarchive                 0.09  pkg:cpan/Archive-Libarchive@0.09
 Archive::Libarchive::API            0.09  pkg:cpan/Archive-Libarchive@0.09
 Archive::Libarchive::Any           0.0901  pkg:cpan/Archive-Libarchive-Any@0.0901
@@ -48886,7 +48886,7 @@ Crypt::AllOrNothing                 0.10  pkg:cpan/Crypt-AllOrNothing@0.10
 Crypt::AllOrNothing::Util           0.09  pkg:cpan/Crypt-AllOrNothing-Util@0.09
 Crypt::Anubis                        1.0  pkg:cpan/Crypt-Anubis@1.0.4
 Crypt::AppleTwoFish                0.051  pkg:cpan/Crypt-AppleTwoFish@0.051
-Crypt::Argon2                      0.030  pkg:cpan/Crypt-Argon2@0.030
+Crypt::Argon2                      0.031  pkg:cpan/Crypt-Argon2@0.031
 Crypt::AuthEnc                     0.089  pkg:cpan/CryptX@0.089
 Crypt::AuthEnc::CCM                0.089  pkg:cpan/CryptX@0.089
 Crypt::AuthEnc::ChaCha20Poly1305   0.089  pkg:cpan/CryptX@0.089
@@ -112158,7 +112158,7 @@ IO::Socket::HappyEyeballs          0.002  pkg:cpan/IO-Socket-HappyEyeballs@0.002
 IO::Socket::INET                    1.55  pkg:cpan/IO@1.55
 IO::Socket::INET6                   2.73  pkg:cpan/IO-Socket-INET6@2.73
 IO::Socket::INET::Daemon            0.04  pkg:cpan/IO-Socket-INET-Daemon@0.04
-IO::Socket::IP                      0.43  pkg:cpan/IO-Socket-IP@0.43
+IO::Socket::IP                      0.44  pkg:cpan/IO-Socket-IP@0.44
 IO::Socket::Multicast               1.12  pkg:cpan/IO-Socket-Multicast@1.12
 IO::Socket::Multicast6              0.03  pkg:cpan/IO-Socket-Multicast6@0.03
 IO::Socket::Netlink                 0.05  pkg:cpan/Socket-Netlink@0.05
@@ -122330,7 +122330,7 @@ Lingua::Poetry::Haiku::Finder::SentencePart 0.002  pkg:cpan/Lingua-Poetry-Haiku-
 Lingua::Poetry::Haiku::Finder::Word 0.002  pkg:cpan/Lingua-Poetry-Haiku-Finder@0.002
 Lingua::Postcodes                  0.005  pkg:cpan/Lingua-Postcodes@0.005
 Lingua::Preferred                  0.002004  pkg:cpan/Lingua-Preferred@0.2.4
-Lingua::RO::Numbers                 0.22  pkg:cpan/Lingua-RO-Numbers@0.22
+Lingua::RO::Numbers                 0.23  pkg:cpan/Lingua-RO-Numbers@0.23
 Lingua::RON::Num2Word              0.2603300  pkg:cpan/Lingua-RON-Num2Word@0.2603300
 Lingua::RON::Word2Num              0.2603300  pkg:cpan/Lingua-RON-Word2Num@0.2603300
 Lingua::RU::Antimat                 1.00  pkg:cpan/Lingua-RU-Antimat@1.00
@@ -123363,9 +123363,9 @@ List::Util                          1.70  pkg:cpan/Scalar-List-Utils@1.70
 List::Util::ArrayRef::PP           0.001  pkg:cpan/List-Util-ArrayRef-PP@0.001
 List::Util::ContainsNull           0.004  pkg:cpan/List-AllUtils-Null@0.004
 List::Util::Find                   v0.5.1  pkg:cpan/List-Util-Find@0.005.1
-List::Util::MaybeXS                1.500014  pkg:cpan/List-Util-MaybeXS@1.500014
+List::Util::MaybeXS                1.500015  pkg:cpan/List-Util-MaybeXS@1.500015
 List::Util::Null                   0.004  pkg:cpan/List-AllUtils-Null@0.004
-List::Util::PP                     1.500014  pkg:cpan/List-Util-MaybeXS@1.500014
+List::Util::PP                     1.500015  pkg:cpan/List-Util-MaybeXS@1.500015
 List::Util::Superpositions           1.2  pkg:cpan/List-Util-Superpositions@1.2
 List::Util::Uniq                   0.008  pkg:cpan/List-Util-Uniq@0.008
 List::Util::WeightedChoice          0.06  pkg:cpan/List-Util-WeightedChoice@0.06
@@ -126539,7 +126539,7 @@ Log::Log4perl::Config::BaseConfigurator undef  pkg:cpan/Log-Log4perl@1.57
 Log::Log4perl::Config::DOMConfigurator  0.03  pkg:cpan/Log-Log4perl@1.57
 Log::Log4perl::Config::PropertyConfigurator undef  pkg:cpan/Log-Log4perl@1.57
 Log::Log4perl::Config::Watch       undef  pkg:cpan/Log-Log4perl@1.57
-Log::Log4perl::Config::YamlConfigurator v1.1.1  pkg:cpan/Log-Log4perl-Config-YamlConfigurator@v1.1.1
+Log::Log4perl::Config::YamlConfigurator v1.2.0  pkg:cpan/Log-Log4perl-Config-YamlConfigurator@v1.2.0
 Log::Log4perl::ConfigByInifile      0.04  pkg:cpan/Log-Log4perl-ConfigByInifile@0.04
 Log::Log4perl::DataDumper           0.01  pkg:cpan/Log-Log4perl-DataDumper@0.01
 Log::Log4perl::DateFormat          undef  pkg:cpan/Log-Log4perl@1.57
