@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 14 May 2026 19:38:32 GMT
+Last-Updated: Thu, 14 May 2026 21:04:38 GMT
 Line-Count: 264237
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -14352,7 +14352,7 @@ App::SocialSKK::Plugin::Wikipedia  undef  pkg:cpan/App-SocialSKK@0.02
 App::SocialSKK::Protocol           undef  pkg:cpan/App-SocialSKK@0.02
 App::Software::License              0.11  pkg:cpan/App-Software-License@0.11
 App::SortByLines                   0.002  pkg:cpan/App-SortByLines@0.002
-App::SortCopies                     0.01  pkg:cpan/App-SortCopies@0.01
+App::SortCopies                     0.02  pkg:cpan/App-SortCopies@0.02
 App::SortExampleUtils              0.001  pkg:cpan/App-SortExampleUtils@0.001
 App::SortKeyUtils                  0.001  pkg:cpan/App-SortKeyUtils@0.001
 App::SortSpecUtils                 0.001  pkg:cpan/App-SortSpecUtils@0.001
