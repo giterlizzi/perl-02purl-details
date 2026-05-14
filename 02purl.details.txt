@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 14 May 2026 16:06:44 GMT
-Line-Count: 264234
+Last-Updated: Thu, 14 May 2026 19:38:32 GMT
+Line-Count: 264237
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -14352,6 +14352,7 @@ App::SocialSKK::Plugin::Wikipedia  undef  pkg:cpan/App-SocialSKK@0.02
 App::SocialSKK::Protocol           undef  pkg:cpan/App-SocialSKK@0.02
 App::Software::License              0.11  pkg:cpan/App-Software-License@0.11
 App::SortByLines                   0.002  pkg:cpan/App-SortByLines@0.002
+App::SortCopies                     0.01  pkg:cpan/App-SortCopies@0.01
 App::SortExampleUtils              0.001  pkg:cpan/App-SortExampleUtils@0.001
 App::SortKeyUtils                  0.001  pkg:cpan/App-SortKeyUtils@0.001
 App::SortSpecUtils                 0.001  pkg:cpan/App-SortSpecUtils@0.001
@@ -63927,6 +63928,7 @@ Devel::Autoflush                    0.06  pkg:cpan/Devel-Autoflush@0.06
 Devel::Backtrace                    0.12  pkg:cpan/Devel-Backtrace@0.12
 Devel::Backtrace::Point             0.11  pkg:cpan/Devel-Backtrace@0.12
 Devel::BeginLift                   0.001003  pkg:cpan/Devel-BeginLift@0.001003
+Devel::Bug                          0.01  pkg:cpan/Devel-Bug@0.01
 Devel::CCompat::C99::ScopedVariables 0.002  pkg:cpan/Devel-CCompat-C99-ScopedVariables@0.002
 Devel::CCompat::C99::VariableLengthArrays 0.002  pkg:cpan/Devel-CCompat-C99-VariableLengthArrays@0.002
 Devel::CCov                         0.20  pkg:cpan/Devel-CCov@0.20
@@ -81039,6 +81041,7 @@ Genealogy::ObituaryDailyTimes       0.16  pkg:cpan/Genealogy-ObituaryDailyTimes@
 Genealogy::ObituaryDailyTimes::obituaries  0.15  pkg:cpan/Genealogy-ObituaryDailyTimes@0.16
 Genealogy::Occupation               0.02  pkg:cpan/Genealogy-Occupation@0.02
 Genealogy::Relationship              2.0  pkg:cpan/Genealogy-Relationship@2.0.0
+Genealogy::Relationship::Name       0.01  pkg:cpan/Genealogy-Relationship-Name@0.01
 Genealogy::Wills                    0.10  pkg:cpan/Genealogy-Wills@0.10
 Genealogy::Wills::wills             0.10  pkg:cpan/Genealogy-Wills@0.10
 Geneos::API                         1.00  pkg:cpan/Geneos-API@1.00
@@ -245180,7 +245183,7 @@ WWW::Mechanize::AutoPager           0.02  pkg:cpan/WWW-Mechanize-AutoPager@0.02
 WWW::Mechanize::Boilerplate         0.03  pkg:cpan/WWW-Mechanize-Boilerplate@0.03
 WWW::Mechanize::Boilerplate::BBC   undef  pkg:cpan/WWW-Mechanize-Boilerplate@0.03
 WWW::Mechanize::CGI                  0.3  pkg:cpan/WWW-Mechanize-CGI@0.3
-WWW::Mechanize::Cached              1.56  pkg:cpan/WWW-Mechanize-Cached@1.56
+WWW::Mechanize::Cached              2.00  pkg:cpan/WWW-Mechanize-Cached@2.00
 WWW::Mechanize::Cached::GZip        0.12  pkg:cpan/WWW-Mechanize-Cached-GZip@0.12
 WWW::Mechanize::Chrome              0.76  pkg:cpan/WWW-Mechanize-Chrome@0.76
 WWW::Mechanize::Chrome::Cookbook    0.76  pkg:cpan/WWW-Mechanize-Chrome@0.76
