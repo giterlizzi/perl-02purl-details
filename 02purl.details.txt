@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 13 May 2026 22:59:44 GMT
+Last-Updated: Thu, 14 May 2026 02:34:23 GMT
 Line-Count: 264232
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -15339,11 +15339,11 @@ App::contenttype                    0.01  pkg:cpan/App-contenttype@0.01
 App::corruptor                     0.003  pkg:cpan/App-corruptor@0.003
 App::count                         0.001001  pkg:cpan/App-count@v0.1.1
 App::cpackage                       1.01  pkg:cpan/App-cpackage@1.01
-App::cpan2arch                     1.000000  pkg:cpan/App-cpan2arch@v1.0.0
-App::cpan2arch::CheckPackages      1.000000  pkg:cpan/App-cpan2arch@v1.0.0
-App::cpan2arch::GetMetadata        1.000000  pkg:cpan/App-cpan2arch@v1.0.0
-App::cpan2arch::MergePrereqs       1.000000  pkg:cpan/App-cpan2arch@v1.0.0
-App::cpan2arch::WritePkgbuild      1.000000  pkg:cpan/App-cpan2arch@v1.0.0
+App::cpan2arch                     1.000001  pkg:cpan/App-cpan2arch@v1.0.1
+App::cpan2arch::CheckPackages      1.000001  pkg:cpan/App-cpan2arch@v1.0.1
+App::cpan2arch::GetMetadata        1.000001  pkg:cpan/App-cpan2arch@v1.0.1
+App::cpan2arch::MergePrereqs       1.000001  pkg:cpan/App-cpan2arch@v1.0.1
+App::cpan2arch::WritePkgbuild      1.000001  pkg:cpan/App-cpan2arch@v1.0.1
 App::cpanbaker                      0.05  pkg:cpan/App-cpanbaker@0.05
 App::cpanchanges                   20170606.0  pkg:cpan/App-cpanchanges@20170606.0
 App::cpanel                        0.006  pkg:cpan/App-cpanel@0.006
@@ -69646,7 +69646,7 @@ Email::Abstract::MailInternet      3.010  pkg:cpan/Email-Abstract@3.010
 Email::Abstract::MailMessage       3.010  pkg:cpan/Email-Abstract@3.010
 Email::Abstract::Plugin            3.010  pkg:cpan/Email-Abstract@3.010
 Email::Abstract::QpsmtpdTransaction  0.02  pkg:cpan/Email-Abstract-QpsmtpdTransaction@0.02
-Email::Abuse::Investigator          0.07  pkg:cpan/Email-Abuse-Investigator@0.07
+Email::Abuse::Investigator          0.08  pkg:cpan/Email-Abuse-Investigator@0.08
 Email::Address                     1.913  pkg:cpan/Email-Address@1.913
 Email::Address::Classify            0.02  pkg:cpan/Email-Address-Classify@0.02
 Email::Address::JP::Mobile          0.08  pkg:cpan/Email-Address-JP-Mobile@0.08
