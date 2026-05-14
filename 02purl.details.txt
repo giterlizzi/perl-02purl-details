@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 14 May 2026 02:34:23 GMT
+Last-Updated: Thu, 14 May 2026 06:42:03 GMT
 Line-Count: 264232
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -7668,34 +7668,34 @@ Apache::SdnFw::object::home        undef  pkg:cpan/Apache-SdnFw@0.92
 Apache::SearchEngineLog             0.51  pkg:cpan/Apache-SearchEngineLog@0.51
 Apache::Server                      1.01  pkg:cpan/mod_perl@1.31
 Apache::Session                     1.94  pkg:cpan/Apache-Session@1.94
-Apache::Session::Browseable        v1.3.18  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::Cassandra v1.3.13  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::DBI   v1.3.9  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::File  v1.3.5  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::Informix v1.2.2  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::LDAP  v1.3.6  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::MySQL v1.2.5  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::MySQLJSON v1.3.9  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::Oracle v1.2.2  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::Patroni v1.3.17  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::PgHstore v1.3.9  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::PgJSON v1.3.9  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::Postgres v1.3.1  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::Redis v1.3.18  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::SQLite v1.2.2  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::Store::Cassandra v1.3.13  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::Store::DBI v1.3.11  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::Store::File v1.2.2  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::Store::Informix v1.2.2  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::Store::LDAP v1.3.8  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::Store::MySQL v1.2.2  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::Store::Oracle v1.2.2  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::Store::Patroni v1.3.17  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::Store::Postgres v1.2.2  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::Store::Redis v1.3.18  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::Store::SQLite v1.2.7  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::Store::Sybase v1.2.2  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Browseable::Sybase v1.2.2  pkg:cpan/Apache-Session-Browseable@1.3.18
+Apache::Session::Browseable        v1.3.19  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::Cassandra v1.3.13  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::DBI   v1.3.9  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::File  v1.3.5  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::Informix v1.2.2  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::LDAP  v1.3.6  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::MySQL v1.2.5  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::MySQLJSON v1.3.9  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::Oracle v1.2.2  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::Patroni v1.3.19  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::PgHstore v1.3.9  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::PgJSON v1.3.9  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::Postgres v1.3.1  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::Redis v1.3.18  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::SQLite v1.2.2  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::Store::Cassandra v1.3.13  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::Store::DBI v1.3.11  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::Store::File v1.2.2  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::Store::Informix v1.2.2  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::Store::LDAP v1.3.8  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::Store::MySQL v1.2.2  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::Store::Oracle v1.2.2  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::Store::Patroni v1.3.19  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::Store::Postgres v1.2.2  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::Store::Redis v1.3.18  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::Store::SQLite v1.2.7  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::Store::Sybase v1.2.2  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Browseable::Sybase v1.2.2  pkg:cpan/Apache-Session-Browseable@1.3.19
 Apache::Session::CacheAny           0.03  pkg:cpan/Apache-Session-CacheAny@0.03
 Apache::Session::Cassandra          0.01  pkg:cpan/Apache-Session-NoSQL@0.3
 Apache::Session::Counted           1.119  pkg:cpan/Apache-Session-Counted@1.119
@@ -7717,7 +7717,7 @@ Apache::Session::Generate::MD5      2.12  pkg:cpan/Apache-Session@1.94
 Apache::Session::Generate::ModUniqueId  0.02  pkg:cpan/Apache-Session@1.94
 Apache::Session::Generate::ModUsertrack  0.02  pkg:cpan/Apache-Session@1.94
 Apache::Session::Generate::Random  0.002002  pkg:cpan/Apache-Session-Generate-Random@0.002002
-Apache::Session::Generate::SHA256  v1.2.2  pkg:cpan/Apache-Session-Browseable@1.3.18
+Apache::Session::Generate::SHA256  v1.3.19  pkg:cpan/Apache-Session-Browseable@1.3.19
 Apache::Session::Generate::UUID      0.2  pkg:cpan/Apache-Session-Generate-UUID@0.2
 Apache::Session::IPC                0.01  pkg:cpan/Apache-Session@0.17.1
 Apache::Session::Informix           1.01  pkg:cpan/Apache-Session@1.94
@@ -7753,8 +7753,8 @@ Apache::Session::Serialize::Base64  1.01  pkg:cpan/Apache-Session@1.94
 Apache::Session::Serialize::DBMS::Storable   0.1  pkg:cpan/Apache-Session-DBMS@0.32
 Apache::Session::Serialize::DBMS::YAML   0.1  pkg:cpan/Apache-Session-DBMS@0.32
 Apache::Session::Serialize::Dumper  0.90  pkg:cpan/Apache-Session-Serialize-Dumper@0.90
-Apache::Session::Serialize::Hstore v1.2.5  pkg:cpan/Apache-Session-Browseable@1.3.18
-Apache::Session::Serialize::JSON   v1.2.6  pkg:cpan/Apache-Session-Browseable@1.3.18
+Apache::Session::Serialize::Hstore v1.2.5  pkg:cpan/Apache-Session-Browseable@1.3.19
+Apache::Session::Serialize::JSON   v1.2.6  pkg:cpan/Apache-Session-Browseable@1.3.19
 Apache::Session::Serialize::MongoDB  0.16  pkg:cpan/Apache-Session-MongoDB@0.23
 Apache::Session::Serialize::PHP     0.03  pkg:cpan/Apache-Session-PHP@0.05
 Apache::Session::Serialize::SOAPEnvelope  0.01  pkg:cpan/Apache-Session-Serialize-SOAPEnvelope@0.01
@@ -200760,9 +200760,9 @@ Qless::Worker                      undef  pkg:cpan/Qless@0.06
 Qless::Workers                     undef  pkg:cpan/Qless@0.06
 Qmail::Control                      0.01  pkg:cpan/Qmail-Control@0.01
 Qmail::Control::Lock                0.01  pkg:cpan/Qmail-Control@0.01
-Qmail::Deliverable                  1.11  pkg:cpan/Qmail-Deliverable@1.11
-Qmail::Deliverable::Client         undef  pkg:cpan/Qmail-Deliverable@1.11
-Qmail::Deliverable::Status          1.11  pkg:cpan/Qmail-Deliverable@1.11
+Qmail::Deliverable                  1.12  pkg:cpan/Qmail-Deliverable@1.12
+Qmail::Deliverable::Client         undef  pkg:cpan/Qmail-Deliverable@1.12
+Qmail::Deliverable::Status          1.12  pkg:cpan/Qmail-Deliverable@1.12
 Qmail::Envelope                     0.53  pkg:cpan/Qmail-Envelope@0.53
 Qmail::Mysql                        0.02  pkg:cpan/Qmail-Mysql@0.02
 Qpsmtpd::Plugin::EmailAddressLoose  0.02  pkg:cpan/Qpsmtpd-Plugin-EmailAddressLoose@0.02
