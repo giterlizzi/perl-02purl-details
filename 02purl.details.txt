@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 14 May 2026 21:04:38 GMT
+Last-Updated: Thu, 14 May 2026 22:51:33 GMT
 Line-Count: 264237
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -63928,7 +63928,7 @@ Devel::Autoflush                    0.06  pkg:cpan/Devel-Autoflush@0.06
 Devel::Backtrace                    0.12  pkg:cpan/Devel-Backtrace@0.12
 Devel::Backtrace::Point             0.11  pkg:cpan/Devel-Backtrace@0.12
 Devel::BeginLift                   0.001003  pkg:cpan/Devel-BeginLift@0.001003
-Devel::Bug                          0.01  pkg:cpan/Devel-Bug@0.01
+Devel::Bug                          0.02  pkg:cpan/Devel-Bug@0.02
 Devel::CCompat::C99::ScopedVariables 0.002  pkg:cpan/Devel-CCompat-C99-ScopedVariables@0.002
 Devel::CCompat::C99::VariableLengthArrays 0.002  pkg:cpan/Devel-CCompat-C99-VariableLengthArrays@0.002
 Devel::CCov                         0.20  pkg:cpan/Devel-CCov@0.20
@@ -81477,21 +81477,21 @@ Geo::GDAL::Constc                  undef  pkg:cpan/Geo-GDAL@2.010301
 Geo::GDAL::Dataset                 2.010301  pkg:cpan/Geo-GDAL@2.010301
 Geo::GDAL::Driver                  2.010301  pkg:cpan/Geo-GDAL@2.010301
 Geo::GDAL::Extent                  2.010301  pkg:cpan/Geo-GDAL@2.010301
-Geo::GDAL::FFI                      0.15  pkg:cpan/Geo-GDAL-FFI@0.15
-Geo::GDAL::FFI::Band                0.15  pkg:cpan/Geo-GDAL-FFI@0.15
-Geo::GDAL::FFI::Dataset             0.15  pkg:cpan/Geo-GDAL-FFI@0.15
-Geo::GDAL::FFI::Driver              0.15  pkg:cpan/Geo-GDAL-FFI@0.15
-Geo::GDAL::FFI::Feature             0.15  pkg:cpan/Geo-GDAL-FFI@0.15
-Geo::GDAL::FFI::FeatureDefn         0.15  pkg:cpan/Geo-GDAL-FFI@0.15
-Geo::GDAL::FFI::FieldDefn           0.15  pkg:cpan/Geo-GDAL-FFI@0.15
-Geo::GDAL::FFI::GeomFieldDefn       0.15  pkg:cpan/Geo-GDAL-FFI@0.15
-Geo::GDAL::FFI::Geometry            0.15  pkg:cpan/Geo-GDAL-FFI@0.15
-Geo::GDAL::FFI::Layer               0.15  pkg:cpan/Geo-GDAL-FFI@0.15
-Geo::GDAL::FFI::Layer::ResultSet    0.15  pkg:cpan/Geo-GDAL-FFI@0.15
-Geo::GDAL::FFI::Object              0.15  pkg:cpan/Geo-GDAL-FFI@0.15
-Geo::GDAL::FFI::SpatialReference    0.15  pkg:cpan/Geo-GDAL-FFI@0.15
-Geo::GDAL::FFI::VSI                 0.15  pkg:cpan/Geo-GDAL-FFI@0.15
-Geo::GDAL::FFI::VSI::File           0.15  pkg:cpan/Geo-GDAL-FFI@0.15
+Geo::GDAL::FFI                      0.16  pkg:cpan/Geo-GDAL-FFI@0.16
+Geo::GDAL::FFI::Band                0.16  pkg:cpan/Geo-GDAL-FFI@0.16
+Geo::GDAL::FFI::Dataset             0.16  pkg:cpan/Geo-GDAL-FFI@0.16
+Geo::GDAL::FFI::Driver              0.16  pkg:cpan/Geo-GDAL-FFI@0.16
+Geo::GDAL::FFI::Feature             0.16  pkg:cpan/Geo-GDAL-FFI@0.16
+Geo::GDAL::FFI::FeatureDefn         0.16  pkg:cpan/Geo-GDAL-FFI@0.16
+Geo::GDAL::FFI::FieldDefn           0.16  pkg:cpan/Geo-GDAL-FFI@0.16
+Geo::GDAL::FFI::GeomFieldDefn       0.16  pkg:cpan/Geo-GDAL-FFI@0.16
+Geo::GDAL::FFI::Geometry            0.16  pkg:cpan/Geo-GDAL-FFI@0.16
+Geo::GDAL::FFI::Layer               0.16  pkg:cpan/Geo-GDAL-FFI@0.16
+Geo::GDAL::FFI::Layer::ResultSet    0.16  pkg:cpan/Geo-GDAL-FFI@0.16
+Geo::GDAL::FFI::Object              0.16  pkg:cpan/Geo-GDAL-FFI@0.16
+Geo::GDAL::FFI::SpatialReference    0.16  pkg:cpan/Geo-GDAL-FFI@0.16
+Geo::GDAL::FFI::VSI                 0.16  pkg:cpan/Geo-GDAL-FFI@0.16
+Geo::GDAL::FFI::VSI::File           0.16  pkg:cpan/Geo-GDAL-FFI@0.16
 Geo::GDAL::GCP                     2.010301  pkg:cpan/Geo-GDAL@2.010301
 Geo::GDAL::GDALBuildVRTOptions     2.010301  pkg:cpan/Geo-GDAL@2.010301
 Geo::GDAL::GDALDEMProcessingOptions 2.010301  pkg:cpan/Geo-GDAL@2.010301
@@ -203446,7 +203446,7 @@ RT::Group                          undef  pkg:cpan/RTx-Shredder@0.07
 RT::GroupMember                    undef  pkg:cpan/RTx-Shredder@0.07
 RT::Groups                          1.15  pkg:cpan/RT-Extension-MergeUsers@1.15
 RT::IODEF                           0.08  pkg:cpan/RT-IODEF@0.08
-RT::IR::ExternalFeeds              undef  pkg:cpan/RTIR-Extension-MISP@0.03
+RT::IR::ExternalFeeds              undef  pkg:cpan/RTIR-Extension-MISP@1.00
 RT::Integration::SVN                0.04  pkg:cpan/RT-Integration-SVN@0.04
 RT::Interface::Email                 0.1  pkg:cpan/RT-Extension-BrandedQueues@0.1
 RT::Interface::Email::Action::CommandByMail undef  pkg:cpan/RT-Extension-CommandByMail@3.02
@@ -203513,7 +203513,7 @@ RTF::Writer                         1.11  pkg:cpan/RTF-Writer@1.11
 RTF::Writer::TableRowDecl          undef  pkg:cpan/RTF-Writer@1.11
 RTFM::Extension::ArticleTemplates   0.05  pkg:cpan/RTFM-Extension-ArticleTemplates@0.05
 RTG::Report                         1.17  pkg:cpan/RTG-Report@1.17
-RTIR::Extension::MISP               0.03  pkg:cpan/RTIR-Extension-MISP@0.03
+RTIR::Extension::MISP               1.00  pkg:cpan/RTIR-Extension-MISP@1.00
 RTMP::Client                        0.04  pkg:cpan/RTMP-Client@0.04
 RTNode                              3.43  pkg:cpan/Algorithm-DecisionTree@3.43
 RTPG                                0.92  pkg:cpan/RTPG@0.92
