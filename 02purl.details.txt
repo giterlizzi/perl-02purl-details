@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 14 May 2026 13:53:06 GMT
-Line-Count: 264232
+Last-Updated: Thu, 14 May 2026 16:06:44 GMT
+Line-Count: 264234
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5157,9 +5157,9 @@ Amazon::S3::BucketV2               v2.0.2  pkg:cpan/Amazon-S3@2.0.2
 Amazon::S3::Constants              v2.0.2  pkg:cpan/Amazon-S3@2.0.2
 Amazon::S3::FastUploader            0.08  pkg:cpan/Amazon-S3-FastUploader@0.08
 Amazon::S3::FastUploader::File      0.05  pkg:cpan/Amazon-S3-FastUploader@0.08
-Amazon::S3::Lite                   v1.1.0  pkg:cpan/Amazon-S3-Lite@1.1.0
-Amazon::S3::Lite::Credentials      v1.1.0  pkg:cpan/Amazon-S3-Lite@1.1.0
-Amazon::S3::Lite::Logger           v1.1.0  pkg:cpan/Amazon-S3-Lite@1.1.0
+Amazon::S3::Lite                   v1.1.1  pkg:cpan/Amazon-S3-Lite@1.1.1
+Amazon::S3::Lite::Credentials      v1.1.1  pkg:cpan/Amazon-S3-Lite@1.1.1
+Amazon::S3::Lite::Logger           v1.1.1  pkg:cpan/Amazon-S3-Lite@1.1.1
 Amazon::S3::Logger                 v2.0.2  pkg:cpan/Amazon-S3@2.0.2
 Amazon::S3::Signature::V4              0  pkg:cpan/Amazon-S3@2.0.2
 Amazon::S3::SignedURLGenerator      0.02  pkg:cpan/Amazon-S3-SignedURLGenerator@0.02
@@ -77765,22 +77765,23 @@ GDA::Log                           undef  pkg:cpan/GDA@0.2
 GDA::Provider                      undef  pkg:cpan/GDA@0.2
 GDB::bt                            undef  pkg:cpan/GDB-bt@0.01
 GDBM_File                           1.24  pkg:cpan/perl@5.42.2
-GDPR::IAB::TCFv2                   0.401  pkg:cpan/GDPR-IAB-TCFv2@0.401
-GDPR::IAB::TCFv2::BitField         0.401  pkg:cpan/GDPR-IAB-TCFv2@0.401
-GDPR::IAB::TCFv2::BitUtils         0.401  pkg:cpan/GDPR-IAB-TCFv2@0.401
-GDPR::IAB::TCFv2::CMPValidator     0.401  pkg:cpan/GDPR-IAB-TCFv2@0.401
-GDPR::IAB::TCFv2::Constants::Purpose 0.401  pkg:cpan/GDPR-IAB-TCFv2@0.401
-GDPR::IAB::TCFv2::Constants::RestrictionType 0.401  pkg:cpan/GDPR-IAB-TCFv2@0.401
-GDPR::IAB::TCFv2::Constants::SpecialFeature 0.401  pkg:cpan/GDPR-IAB-TCFv2@0.401
-GDPR::IAB::TCFv2::Publisher        0.401  pkg:cpan/GDPR-IAB-TCFv2@0.401
-GDPR::IAB::TCFv2::PublisherRestrictions 0.401  pkg:cpan/GDPR-IAB-TCFv2@0.401
-GDPR::IAB::TCFv2::PublisherTC      0.401  pkg:cpan/GDPR-IAB-TCFv2@0.401
+GDPR::IAB::TCFv2                   0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
+GDPR::IAB::TCFv2::BitField         0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
+GDPR::IAB::TCFv2::BitUtils         0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
+GDPR::IAB::TCFv2::CMPValidator     0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
+GDPR::IAB::TCFv2::Constants::Purpose 0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
+GDPR::IAB::TCFv2::Constants::RestrictionType 0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
+GDPR::IAB::TCFv2::Constants::SpecialFeature 0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
+GDPR::IAB::TCFv2::Parser           0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
+GDPR::IAB::TCFv2::Publisher        0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
+GDPR::IAB::TCFv2::PublisherRestrictions 0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
+GDPR::IAB::TCFv2::PublisherTC      0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
 GDPR::IAB::TCFv2::RangeConsent     undef  pkg:cpan/GDPR-IAB-TCFv2@0.082
-GDPR::IAB::TCFv2::RangeSection     0.401  pkg:cpan/GDPR-IAB-TCFv2@0.401
-GDPR::IAB::TCFv2::Validator        0.401  pkg:cpan/GDPR-IAB-TCFv2@0.401
-GDPR::IAB::TCFv2::Validator::Failure 0.401  pkg:cpan/GDPR-IAB-TCFv2@0.401
-GDPR::IAB::TCFv2::Validator::Reason 0.401  pkg:cpan/GDPR-IAB-TCFv2@0.401
-GDPR::IAB::TCFv2::Validator::Result 0.401  pkg:cpan/GDPR-IAB-TCFv2@0.401
+GDPR::IAB::TCFv2::RangeSection     0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
+GDPR::IAB::TCFv2::Validator        0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
+GDPR::IAB::TCFv2::Validator::Failure 0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
+GDPR::IAB::TCFv2::Validator::Reason 0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
+GDPR::IAB::TCFv2::Validator::Result 0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
 GDS2                                3.35  pkg:cpan/GDS2@3.35
 GENJobAd                           undef  pkg:cpan/Gantry@3.42
 GFF::Filehandle                    undef  pkg:cpan/AcePerl@1.92
@@ -233824,13 +233825,13 @@ Time::StasisField                   0.01  pkg:cpan/Time-StasisField@0.01
 Time::Stats                          1.0  pkg:cpan/Time-Stats@1.0?ext=tgz
 Time::StopWatchWithMessage          0.06  pkg:cpan/Time-StopWatchWithMessage@0.06
 Time::Stopwatch                     1.00  pkg:cpan/Time-Stopwatch@1.00
-Time::Str                           0.50  pkg:cpan/Time-Str@0.50
-Time::Str::Calendar                 0.50  pkg:cpan/Time-Str@0.50
-Time::Str::PP                       0.50  pkg:cpan/Time-Str@0.50
-Time::Str::PP::Calendar             0.50  pkg:cpan/Time-Str@0.50
-Time::Str::PP::Token                0.50  pkg:cpan/Time-Str@0.50
-Time::Str::Regexp                   0.50  pkg:cpan/Time-Str@0.50
-Time::Str::Token                    0.50  pkg:cpan/Time-Str@0.50
+Time::Str                           0.60  pkg:cpan/Time-Str@0.60
+Time::Str::Calendar                 0.60  pkg:cpan/Time-Str@0.60
+Time::Str::PP                       0.60  pkg:cpan/Time-Str@0.60
+Time::Str::PP::Calendar             0.60  pkg:cpan/Time-Str@0.60
+Time::Str::PP::Token                0.60  pkg:cpan/Time-Str@0.60
+Time::Str::Regexp                   0.60  pkg:cpan/Time-Str@0.60
+Time::Str::Token                    0.60  pkg:cpan/Time-Str@0.60
 Time::Strptime                      1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::Format              1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::TimeZone           undef  pkg:cpan/Time-Strptime@1.04
@@ -237302,7 +237303,7 @@ UTF_8::Controllers                 undef  pkg:cpan/Squatting@0.83
 UTF_8::Views                       undef  pkg:cpan/Squatting@0.83
 UTM5::URFAClient                    0.54  pkg:cpan/UTM5-URFAClient@0.54
 UTM5::URFAClient::Daemon            0.20  pkg:cpan/UTM5-URFAClient-Daemon@0.20
-UUID                                0.37  pkg:cpan/UUID@0.37
+UUID                                0.38  pkg:cpan/UUID@0.38
 UUID4::Tiny                        0.003  pkg:cpan/UUID4-Tiny@0.003
 UUID::FFI                           0.11  pkg:cpan/UUID-FFI@0.11
 UUID::Generator::PurePerl           0.80  pkg:cpan/UUID-Generator-PurePerl@0.80
@@ -262601,6 +262602,7 @@ iRedAdmin::Admin                   undef  pkg:cpan/iRedAdmin@0.04
 iRedAdmin::Domain                  undef  pkg:cpan/iRedAdmin@0.04
 iRedAdmin::User                    undef  pkg:cpan/iRedAdmin@0.04
 iTransact::Lite                    undef  pkg:cpan/iTransact-Lite@0.0101
+iabtcfv2                           0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
 icro                                0.20  pkg:cpan/AI-MicroStructure@0.20
 icrosoft::Word                     0.002  pkg:cpan/Acme-RunDoc@0.002
 idi                                0.0505  pkg:cpan/idi@0.0505
