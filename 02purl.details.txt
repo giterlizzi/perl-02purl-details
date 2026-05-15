@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 15 May 2026 13:50:37 GMT
-Line-Count: 264245
+Last-Updated: Fri, 15 May 2026 15:59:24 GMT
+Line-Count: 264246
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -50257,7 +50257,7 @@ Cucumber::TagExpressions::LiteralNode v9.1.0  pkg:cpan/Cucumber-TagExpressions@9
 Cucumber::TagExpressions::Node     v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
 Cucumber::TagExpressions::NotNode  v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
 Cucumber::TagExpressions::OrNode   v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.97
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.98
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
@@ -140157,9 +140157,10 @@ MooX::Role::Logger                 0.005  pkg:cpan/MooX-Role-Logger@0.005
 MooX::Role::OpenGraph                1.0  pkg:cpan/MooX-Role-SEOTags@1.0.0
 MooX::Role::POE::Emitter           1.001002  pkg:cpan/MooX-Role-POE-Emitter@1.001002
 MooX::Role::POE::Emitter::RegisteredSession 1.001001  pkg:cpan/MooX-Role-POE-Emitter@1.001001
-MooX::Role::Parameterized          0.501  pkg:cpan/MooX-Role-Parameterized@0.501
+MooX::Role::Parameterized          0.502  pkg:cpan/MooX-Role-Parameterized@0.502
+MooX::Role::Parameterized::Mop     0.502  pkg:cpan/MooX-Role-Parameterized@0.502
 MooX::Role::Parameterized::Proxy   0.101  pkg:cpan/MooX-Role-Parameterized@0.101
-MooX::Role::Parameterized::With    0.501  pkg:cpan/MooX-Role-Parameterized@0.501
+MooX::Role::Parameterized::With    0.502  pkg:cpan/MooX-Role-Parameterized@0.502
 MooX::Role::Parameterized::With::Keyword undef  pkg:cpan/MooX-Role-Parameterized-With-Keyword@0.001
 MooX::Role::Pluggable              1.002002  pkg:cpan/MooX-Role-Pluggable@1.002002
 MooX::Role::Pluggable::Constants   1.002002  pkg:cpan/MooX-Role-Pluggable@1.002002
@@ -235624,7 +235625,7 @@ Tripletail::Validator::Filter::Wide undef  pkg:cpan/Tripletail@0.69
 Tripletail::Validator::Filter::ZipCode undef  pkg:cpan/Tripletail@0.69
 Tripletail::Validator::FilterFactory undef  pkg:cpan/Tripletail@0.69
 Tripletail::Value                  undef  pkg:cpan/Tripletail@0.69
-Trog::TOTP                         1.005  pkg:cpan/Trog-TOTP@1.005
+Trog::TOTP                         1.006  pkg:cpan/Trog-TOTP@1.006
 Tropo                               0.16  pkg:cpan/Tropo@0.16
 Tropo::RestAPI::Base                0.03  pkg:cpan/Tropo@0.16
 Tropo::RestAPI::Session             0.05  pkg:cpan/Tropo@0.16
