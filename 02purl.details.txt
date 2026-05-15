@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 15 May 2026 20:54:31 GMT
-Line-Count: 264246
+Last-Updated: Fri, 15 May 2026 22:49:06 GMT
+Line-Count: 264247
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -29212,6 +29212,7 @@ Buffer::Transactional::Buffer::Array  0.02  pkg:cpan/Buffer-Transactional@0.02
 Buffer::Transactional::Buffer::File  0.02  pkg:cpan/Buffer-Transactional@0.02
 Buffer::Transactional::Buffer::Lazy  0.02  pkg:cpan/Buffer-Transactional@0.02
 Buffer::Transactional::Buffer::String  0.02  pkg:cpan/Buffer-Transactional@0.02
+BufferWithInt                       1.20  pkg:cpan/Crypt-DSA@1.20
 BugCli                               0.2  pkg:cpan/BugCli@0.2
 BugCli::Completions                undef  pkg:cpan/BugCli@0.2
 BugCli::Config                     undef  pkg:cpan/BugCli@0.2
@@ -49015,7 +49016,7 @@ Crypt::DH::GMP::Compat             undef  pkg:cpan/Crypt-DH-GMP@0.00012
 Crypt::DRBG                        0.001000  pkg:cpan/Crypt-DRBG@0.001000
 Crypt::DRBG::HMAC                  0.001000  pkg:cpan/Crypt-DRBG@0.001000
 Crypt::DRBG::Hash                  0.001000  pkg:cpan/Crypt-DRBG@0.001000
-Crypt::DSA                          1.19  pkg:cpan/Crypt-DSA@1.19
+Crypt::DSA                          1.20  pkg:cpan/Crypt-DSA@1.20
 Crypt::DSA::GMP                     0.02  pkg:cpan/Crypt-DSA-GMP@0.02
 Crypt::DSA::GMP::Key                0.01  pkg:cpan/Crypt-DSA-GMP@0.02
 Crypt::DSA::GMP::Key::PEM           0.01  pkg:cpan/Crypt-DSA-GMP@0.02
@@ -49023,12 +49024,12 @@ Crypt::DSA::GMP::Key::SSH2          0.01  pkg:cpan/Crypt-DSA-GMP@0.02
 Crypt::DSA::GMP::KeyChain           0.01  pkg:cpan/Crypt-DSA-GMP@0.02
 Crypt::DSA::GMP::Signature          0.01  pkg:cpan/Crypt-DSA-GMP@0.02
 Crypt::DSA::GMP::Util               0.01  pkg:cpan/Crypt-DSA-GMP@0.02
-Crypt::DSA::Key                     1.19  pkg:cpan/Crypt-DSA@1.19
-Crypt::DSA::Key::PEM                1.19  pkg:cpan/Crypt-DSA@1.19
-Crypt::DSA::Key::SSH2               1.19  pkg:cpan/Crypt-DSA@1.19
-Crypt::DSA::KeyChain                1.19  pkg:cpan/Crypt-DSA@1.19
-Crypt::DSA::Signature               1.19  pkg:cpan/Crypt-DSA@1.19
-Crypt::DSA::Util                    1.19  pkg:cpan/Crypt-DSA@1.19
+Crypt::DSA::Key                     1.20  pkg:cpan/Crypt-DSA@1.20
+Crypt::DSA::Key::PEM                1.20  pkg:cpan/Crypt-DSA@1.20
+Crypt::DSA::Key::SSH2               1.20  pkg:cpan/Crypt-DSA@1.20
+Crypt::DSA::KeyChain                1.20  pkg:cpan/Crypt-DSA@1.20
+Crypt::DSA::Signature               1.20  pkg:cpan/Crypt-DSA@1.20
+Crypt::DSA::Util                    1.20  pkg:cpan/Crypt-DSA@1.20
 Crypt::Diceware                    0.005  pkg:cpan/Crypt-Diceware@0.005
 Crypt::Diceware::Wordlist::Beale   0.005  pkg:cpan/Crypt-Diceware@0.005
 Crypt::Diceware::Wordlist::Common  0.005  pkg:cpan/Crypt-Diceware@0.005
