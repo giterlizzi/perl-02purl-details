@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 15 May 2026 19:21:59 GMT
+Last-Updated: Fri, 15 May 2026 20:54:31 GMT
 Line-Count: 264246
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -49754,7 +49754,7 @@ Crypt::PWSafe3::PasswordPolicy      1.01  pkg:cpan/Crypt-PWSafe3@1.22
 Crypt::PWSafe3::Record              1.10  pkg:cpan/Crypt-PWSafe3@1.22
 Crypt::PWSafe3::SHA256              1.03  pkg:cpan/Crypt-PWSafe3@1.22
 Crypt::PassGen                      0.06  pkg:cpan/Crypt-PassGen@0.06
-Crypt::Passphrase                  0.022  pkg:cpan/Crypt-Passphrase@0.022
+Crypt::Passphrase                  0.023  pkg:cpan/Crypt-Passphrase@0.023
 Crypt::Passphrase::Argon2          0.010  pkg:cpan/Crypt-Passphrase-Argon2@0.010
 Crypt::Passphrase::Argon2::AES     0.008  pkg:cpan/Crypt-Passphrase-Argon2-AES@0.008
 Crypt::Passphrase::Argon2::Encrypted 0.010  pkg:cpan/Crypt-Passphrase-Argon2@0.010
@@ -49763,23 +49763,23 @@ Crypt::Passphrase::Bcrypt          0.009  pkg:cpan/Crypt-Passphrase-Bcrypt@0.009
 Crypt::Passphrase::Bcrypt::AES     0.002  pkg:cpan/Crypt-Passphrase-Bcrypt-AES@0.002
 Crypt::Passphrase::Bcrypt::Compat  0.004  pkg:cpan/Crypt-Passphrase-Bcrypt-Compat@0.004
 Crypt::Passphrase::Bcrypt::Encrypted 0.009  pkg:cpan/Crypt-Passphrase-Bcrypt@0.009
-Crypt::Passphrase::Encoder         0.022  pkg:cpan/Crypt-Passphrase@0.022
-Crypt::Passphrase::Fallback        0.022  pkg:cpan/Crypt-Passphrase@0.022
+Crypt::Passphrase::Encoder         0.023  pkg:cpan/Crypt-Passphrase@0.023
+Crypt::Passphrase::Fallback        0.023  pkg:cpan/Crypt-Passphrase@0.023
 Crypt::Passphrase::HSM             0.007  pkg:cpan/Crypt-Passphrase-HSM@0.007
 Crypt::Passphrase::Linux           0.003  pkg:cpan/Crypt-Passphrase-Linux@0.003
-Crypt::Passphrase::MD5::Base64     0.022  pkg:cpan/Crypt-Passphrase@0.022
-Crypt::Passphrase::MD5::Hex        0.022  pkg:cpan/Crypt-Passphrase@0.022
+Crypt::Passphrase::MD5::Base64     0.023  pkg:cpan/Crypt-Passphrase@0.023
+Crypt::Passphrase::MD5::Hex        0.023  pkg:cpan/Crypt-Passphrase@0.023
 Crypt::Passphrase::PBKDF2          0.004  pkg:cpan/Crypt-Passphrase-PBKDF2@0.004
-Crypt::Passphrase::PassphraseHash  0.022  pkg:cpan/Crypt-Passphrase@0.022
-Crypt::Passphrase::Pepper::Base    0.022  pkg:cpan/Crypt-Passphrase@0.022
+Crypt::Passphrase::PassphraseHash  0.023  pkg:cpan/Crypt-Passphrase@0.023
+Crypt::Passphrase::Pepper::Base    0.023  pkg:cpan/Crypt-Passphrase@0.023
 Crypt::Passphrase::Pepper::HSM     0.007  pkg:cpan/Crypt-Passphrase-HSM@0.007
-Crypt::Passphrase::Pepper::Simple  0.022  pkg:cpan/Crypt-Passphrase@0.022
-Crypt::Passphrase::SHA1::Base64    0.022  pkg:cpan/Crypt-Passphrase@0.022
-Crypt::Passphrase::SHA1::Hex       0.022  pkg:cpan/Crypt-Passphrase@0.022
+Crypt::Passphrase::Pepper::Simple  0.023  pkg:cpan/Crypt-Passphrase@0.023
+Crypt::Passphrase::SHA1::Base64    0.023  pkg:cpan/Crypt-Passphrase@0.023
+Crypt::Passphrase::SHA1::Hex       0.023  pkg:cpan/Crypt-Passphrase@0.023
 Crypt::Passphrase::Scrypt          0.005  pkg:cpan/Crypt-Passphrase-Scrypt@0.005
-Crypt::Passphrase::System          0.022  pkg:cpan/Crypt-Passphrase@0.022
-Crypt::Passphrase::Util::Crypt64   0.022  pkg:cpan/Crypt-Passphrase@0.022
-Crypt::Passphrase::Validator       0.022  pkg:cpan/Crypt-Passphrase@0.022
+Crypt::Passphrase::System          0.023  pkg:cpan/Crypt-Passphrase@0.023
+Crypt::Passphrase::Util::Crypt64   0.023  pkg:cpan/Crypt-Passphrase@0.023
+Crypt::Passphrase::Validator       0.023  pkg:cpan/Crypt-Passphrase@0.023
 Crypt::Passphrase::Yescrypt        0.002  pkg:cpan/Crypt-Passphrase-Yescrypt@0.002
 Crypt::Passwd                       0.03  pkg:cpan/Crypt-Passwd@0.03
 Crypt::Passwd::XS                  0.601  pkg:cpan/Crypt-Passwd-XS@0.601
