@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 15 May 2026 10:14:22 GMT
-Line-Count: 264244
+Last-Updated: Fri, 15 May 2026 13:50:37 GMT
+Line-Count: 264245
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -16994,27 +16994,27 @@ Archive::Har::Page                  0.21  pkg:cpan/Archive-Har@0.21
 Archive::Har::Page::PageTimings     0.21  pkg:cpan/Archive-Har@0.21
 Archive::Heritrix                   0.02  pkg:cpan/Archive-Heritrix@0.02
 Archive::Ipkg                       0.04  pkg:cpan/Archive-Ipkg@0.04
-Archive::Lha                        0.20  pkg:cpan/Archive-Lha@0.21
-Archive::Lha::CRC                  undef  pkg:cpan/Archive-Lha@0.21
-Archive::Lha::Constants            undef  pkg:cpan/Archive-Lha@0.21
+Archive::Lha                        0.22  pkg:cpan/Archive-Lha@0.22
+Archive::Lha::CRC                  undef  pkg:cpan/Archive-Lha@0.22
+Archive::Lha::Constants            undef  pkg:cpan/Archive-Lha@0.22
 Archive::Lha::Debug                undef  pkg:cpan/Archive-Lha@0.20
-Archive::Lha::Decode               undef  pkg:cpan/Archive-Lha@0.21
-Archive::Lha::Decode::Base         undef  pkg:cpan/Archive-Lha@0.21
-Archive::Lha::Decode::LH0          undef  pkg:cpan/Archive-Lha@0.21
-Archive::Lha::Decode::LH5          undef  pkg:cpan/Archive-Lha@0.21
-Archive::Lha::Decode::LH6          undef  pkg:cpan/Archive-Lha@0.21
-Archive::Lha::Decode::LH7          undef  pkg:cpan/Archive-Lha@0.21
-Archive::Lha::Header               undef  pkg:cpan/Archive-Lha@0.21
-Archive::Lha::Header::Base         undef  pkg:cpan/Archive-Lha@0.21
-Archive::Lha::Header::Level0       undef  pkg:cpan/Archive-Lha@0.21
-Archive::Lha::Header::Level1       undef  pkg:cpan/Archive-Lha@0.21
-Archive::Lha::Header::Level2       undef  pkg:cpan/Archive-Lha@0.21
-Archive::Lha::Header::Utils        undef  pkg:cpan/Archive-Lha@0.21
-Archive::Lha::Stream               undef  pkg:cpan/Archive-Lha@0.21
-Archive::Lha::Stream::Base         undef  pkg:cpan/Archive-Lha@0.21
-Archive::Lha::Stream::File         undef  pkg:cpan/Archive-Lha@0.21
-Archive::Lha::Stream::Hex          undef  pkg:cpan/Archive-Lha@0.21
-Archive::Lha::Stream::String       undef  pkg:cpan/Archive-Lha@0.21
+Archive::Lha::Decode               undef  pkg:cpan/Archive-Lha@0.22
+Archive::Lha::Decode::Base         undef  pkg:cpan/Archive-Lha@0.22
+Archive::Lha::Decode::LH0          undef  pkg:cpan/Archive-Lha@0.22
+Archive::Lha::Decode::LH5          undef  pkg:cpan/Archive-Lha@0.22
+Archive::Lha::Decode::LH6          undef  pkg:cpan/Archive-Lha@0.22
+Archive::Lha::Decode::LH7          undef  pkg:cpan/Archive-Lha@0.22
+Archive::Lha::Header               undef  pkg:cpan/Archive-Lha@0.22
+Archive::Lha::Header::Base         undef  pkg:cpan/Archive-Lha@0.22
+Archive::Lha::Header::Level0       undef  pkg:cpan/Archive-Lha@0.22
+Archive::Lha::Header::Level1       undef  pkg:cpan/Archive-Lha@0.22
+Archive::Lha::Header::Level2       undef  pkg:cpan/Archive-Lha@0.22
+Archive::Lha::Header::Utils        undef  pkg:cpan/Archive-Lha@0.22
+Archive::Lha::Stream               undef  pkg:cpan/Archive-Lha@0.22
+Archive::Lha::Stream::Base         undef  pkg:cpan/Archive-Lha@0.22
+Archive::Lha::Stream::File         undef  pkg:cpan/Archive-Lha@0.22
+Archive::Lha::Stream::Hex          undef  pkg:cpan/Archive-Lha@0.22
+Archive::Lha::Stream::String       undef  pkg:cpan/Archive-Lha@0.22
 Archive::Libarchive                 0.09  pkg:cpan/Archive-Libarchive@0.09
 Archive::Libarchive::API            0.09  pkg:cpan/Archive-Libarchive@0.09
 Archive::Libarchive::Any           0.0901  pkg:cpan/Archive-Libarchive-Any@0.0901
@@ -50257,7 +50257,7 @@ Cucumber::TagExpressions::LiteralNode v9.1.0  pkg:cpan/Cucumber-TagExpressions@9
 Cucumber::TagExpressions::Node     v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
 Cucumber::TagExpressions::NotNode  v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
 Cucumber::TagExpressions::OrNode   v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.96
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.97
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
@@ -50349,6 +50349,7 @@ Curses::Widgets::TextMemo          1.104  pkg:cpan/CursesWidgets@1.997
 Curses::Window                      1.46  pkg:cpan/Curses@1.46
 CursorBase                         undef  pkg:cpan/STD@20101111
 CursorBase::dfa                    undef  pkg:cpan/STD@20101111
+CustomCallbacks                    undef  pkg:cpan/OcToolkit@1.10
 Customer                           0.002  pkg:cpan/Class-Maker@0.06
 Cv                                  0.29  pkg:cpan/Cv@0.29
 Cv::Arr                             0.04  pkg:cpan/Cv@0.04
@@ -69648,7 +69649,7 @@ Email::Abstract::MailInternet      3.010  pkg:cpan/Email-Abstract@3.010
 Email::Abstract::MailMessage       3.010  pkg:cpan/Email-Abstract@3.010
 Email::Abstract::Plugin            3.010  pkg:cpan/Email-Abstract@3.010
 Email::Abstract::QpsmtpdTransaction  0.02  pkg:cpan/Email-Abstract-QpsmtpdTransaction@0.02
-Email::Abuse::Investigator          0.08  pkg:cpan/Email-Abuse-Investigator@0.08
+Email::Abuse::Investigator          0.09  pkg:cpan/Email-Abuse-Investigator@0.09
 Email::Address                     1.913  pkg:cpan/Email-Address@1.913
 Email::Address::Classify            0.02  pkg:cpan/Email-Address-Classify@0.02
 Email::Address::JP::Mobile          0.08  pkg:cpan/Email-Address-JP-Mobile@0.08
@@ -77767,23 +77768,23 @@ GDA::Log                           undef  pkg:cpan/GDA@0.2
 GDA::Provider                      undef  pkg:cpan/GDA@0.2
 GDB::bt                            undef  pkg:cpan/GDB-bt@0.01
 GDBM_File                           1.24  pkg:cpan/perl@5.42.2
-GDPR::IAB::TCFv2                   0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
-GDPR::IAB::TCFv2::BitField         0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
-GDPR::IAB::TCFv2::BitUtils         0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
-GDPR::IAB::TCFv2::CMPValidator     0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
-GDPR::IAB::TCFv2::Constants::Purpose 0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
-GDPR::IAB::TCFv2::Constants::RestrictionType 0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
-GDPR::IAB::TCFv2::Constants::SpecialFeature 0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
-GDPR::IAB::TCFv2::Parser           0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
-GDPR::IAB::TCFv2::Publisher        0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
-GDPR::IAB::TCFv2::PublisherRestrictions 0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
-GDPR::IAB::TCFv2::PublisherTC      0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
+GDPR::IAB::TCFv2                   0.511  pkg:cpan/GDPR-IAB-TCFv2@0.511
+GDPR::IAB::TCFv2::BitField         0.511  pkg:cpan/GDPR-IAB-TCFv2@0.511
+GDPR::IAB::TCFv2::BitUtils         0.511  pkg:cpan/GDPR-IAB-TCFv2@0.511
+GDPR::IAB::TCFv2::CMPValidator     0.511  pkg:cpan/GDPR-IAB-TCFv2@0.511
+GDPR::IAB::TCFv2::Constants::Purpose 0.511  pkg:cpan/GDPR-IAB-TCFv2@0.511
+GDPR::IAB::TCFv2::Constants::RestrictionType 0.511  pkg:cpan/GDPR-IAB-TCFv2@0.511
+GDPR::IAB::TCFv2::Constants::SpecialFeature 0.511  pkg:cpan/GDPR-IAB-TCFv2@0.511
+GDPR::IAB::TCFv2::Parser           0.511  pkg:cpan/GDPR-IAB-TCFv2@0.511
+GDPR::IAB::TCFv2::Publisher        0.511  pkg:cpan/GDPR-IAB-TCFv2@0.511
+GDPR::IAB::TCFv2::PublisherRestrictions 0.511  pkg:cpan/GDPR-IAB-TCFv2@0.511
+GDPR::IAB::TCFv2::PublisherTC      0.511  pkg:cpan/GDPR-IAB-TCFv2@0.511
 GDPR::IAB::TCFv2::RangeConsent     undef  pkg:cpan/GDPR-IAB-TCFv2@0.082
-GDPR::IAB::TCFv2::RangeSection     0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
-GDPR::IAB::TCFv2::Validator        0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
-GDPR::IAB::TCFv2::Validator::Failure 0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
-GDPR::IAB::TCFv2::Validator::Reason 0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
-GDPR::IAB::TCFv2::Validator::Result 0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
+GDPR::IAB::TCFv2::RangeSection     0.511  pkg:cpan/GDPR-IAB-TCFv2@0.511
+GDPR::IAB::TCFv2::Validator        0.511  pkg:cpan/GDPR-IAB-TCFv2@0.511
+GDPR::IAB::TCFv2::Validator::Failure 0.511  pkg:cpan/GDPR-IAB-TCFv2@0.511
+GDPR::IAB::TCFv2::Validator::Reason 0.511  pkg:cpan/GDPR-IAB-TCFv2@0.511
+GDPR::IAB::TCFv2::Validator::Result 0.511  pkg:cpan/GDPR-IAB-TCFv2@0.511
 GDS2                                3.35  pkg:cpan/GDS2@3.35
 GENJobAd                           undef  pkg:cpan/Gantry@3.42
 GFF::Filehandle                    undef  pkg:cpan/AcePerl@1.92
@@ -126186,7 +126187,7 @@ Loctools::Net::OAuth2::Session     undef  pkg:cpan/Loctools-Net@1.0
 Loctools::Net::OAuth2::Session::Google undef  pkg:cpan/Loctools-Net@1.0
 LocusLinkAccessor                      1  pkg:cpan/Boulder@1.30
 Log4Perl::ImportHandle             0.033  pkg:cpan/Log4Perl-ImportHandle@0.033
-Log::Abstraction                    0.27  pkg:cpan/Log-Abstraction@0.27
+Log::Abstraction                    0.28  pkg:cpan/Log-Abstraction@0.28
 Log::Accounting                      0.3  pkg:cpan/Log-Accounting@0.3
 Log::Accounting::Sendmail            0.2  pkg:cpan/Log-Accounting-Sendmail@0.2
 Log::Agent                         1.005  pkg:cpan/Log-Agent@1.005
@@ -155701,7 +155702,7 @@ Objects::Collection::Memcached      0.01  pkg:cpan/Objects-Collection@0.37
 Objects::Collection::Mirror         0.01  pkg:cpan/Objects-Collection@0.37
 Obsessor                            0.02  pkg:cpan/Class-Maker@0.05.18
 Obsessor::Event                     0.02  pkg:cpan/Class-Maker@0.05.18
-OcToolkit                           1.08  pkg:cpan/OcToolkit@1.08
+OcToolkit                           1.10  pkg:cpan/OcToolkit@1.10
 Ocs::Nagios                         0.02  pkg:cpan/Ocs-Nagios@0.0.2.1
 Octets::To::Unicode                 0.06  pkg:cpan/Octets-To-Unicode@0.06
 Od                                  0.14  pkg:cpan/B-Debugger@0.14
@@ -221947,7 +221948,7 @@ Stats::Fermi::FermiDiracStats      undef  pkg:cpan/Stats-Fermi@0.1.7
 Stats::Hawking                     0.001003  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HTRandom           undef  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HawkingTemperature undef  pkg:cpan/Stats-Hawking@0.1.3
-Stats::LikeR                        0.02  pkg:cpan/Stats-LikeR@0.02
+Stats::LikeR                        0.03  pkg:cpan/Stats-LikeR@0.03
 StatsView::Graph                    1.15  pkg:cpan/StatsView@1.4
 StatsView::Graph::Iost             undef  pkg:cpan/StatsView@1.4
 StatsView::Graph::Iostat           undef  pkg:cpan/StatsView@1.4
@@ -262612,7 +262613,7 @@ iRedAdmin::Admin                   undef  pkg:cpan/iRedAdmin@0.04
 iRedAdmin::Domain                  undef  pkg:cpan/iRedAdmin@0.04
 iRedAdmin::User                    undef  pkg:cpan/iRedAdmin@0.04
 iTransact::Lite                    undef  pkg:cpan/iTransact-Lite@0.0101
-iabtcfv2                           0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
+iabtcfv2                           0.511  pkg:cpan/GDPR-IAB-TCFv2@0.511
 icro                                0.20  pkg:cpan/AI-MicroStructure@0.20
 icrosoft::Word                     0.002  pkg:cpan/Acme-RunDoc@0.002
 idi                                0.0505  pkg:cpan/idi@0.0505
