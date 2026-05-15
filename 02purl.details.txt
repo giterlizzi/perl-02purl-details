@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 15 May 2026 06:51:09 GMT
+Last-Updated: Fri, 15 May 2026 10:14:22 GMT
 Line-Count: 264244
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -9539,7 +9539,7 @@ App::CryptoCurrencyUtils           0.012  pkg:cpan/App-CryptoCurrencyUtils@0.012
 App::CveClient                     1.001001  pkg:cpan/App-CveClient@v1.1.1
 App::D                             1.003002  pkg:cpan/App-D@1.3.2
 App::DAVThis                       0.001  pkg:cpan/App-DAVThis@0.001
-App::DBBrowser                     2.440  pkg:cpan/App-DBBrowser@2.440
+App::DBBrowser                     2.441  pkg:cpan/App-DBBrowser@2.441
 App::DBCritic                      0.023  pkg:cpan/App-DBCritic@0.023
 App::DBCritic::Loader              0.023  pkg:cpan/App-DBCritic@0.023
 App::DBCritic::Policy              0.023  pkg:cpan/App-DBCritic@0.023
@@ -77767,23 +77767,23 @@ GDA::Log                           undef  pkg:cpan/GDA@0.2
 GDA::Provider                      undef  pkg:cpan/GDA@0.2
 GDB::bt                            undef  pkg:cpan/GDB-bt@0.01
 GDBM_File                           1.24  pkg:cpan/perl@5.42.2
-GDPR::IAB::TCFv2                   0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
-GDPR::IAB::TCFv2::BitField         0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
-GDPR::IAB::TCFv2::BitUtils         0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
-GDPR::IAB::TCFv2::CMPValidator     0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
-GDPR::IAB::TCFv2::Constants::Purpose 0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
-GDPR::IAB::TCFv2::Constants::RestrictionType 0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
-GDPR::IAB::TCFv2::Constants::SpecialFeature 0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
-GDPR::IAB::TCFv2::Parser           0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
-GDPR::IAB::TCFv2::Publisher        0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
-GDPR::IAB::TCFv2::PublisherRestrictions 0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
-GDPR::IAB::TCFv2::PublisherTC      0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
+GDPR::IAB::TCFv2                   0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
+GDPR::IAB::TCFv2::BitField         0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
+GDPR::IAB::TCFv2::BitUtils         0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
+GDPR::IAB::TCFv2::CMPValidator     0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
+GDPR::IAB::TCFv2::Constants::Purpose 0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
+GDPR::IAB::TCFv2::Constants::RestrictionType 0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
+GDPR::IAB::TCFv2::Constants::SpecialFeature 0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
+GDPR::IAB::TCFv2::Parser           0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
+GDPR::IAB::TCFv2::Publisher        0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
+GDPR::IAB::TCFv2::PublisherRestrictions 0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
+GDPR::IAB::TCFv2::PublisherTC      0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
 GDPR::IAB::TCFv2::RangeConsent     undef  pkg:cpan/GDPR-IAB-TCFv2@0.082
-GDPR::IAB::TCFv2::RangeSection     0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
-GDPR::IAB::TCFv2::Validator        0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
-GDPR::IAB::TCFv2::Validator::Failure 0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
-GDPR::IAB::TCFv2::Validator::Reason 0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
-GDPR::IAB::TCFv2::Validator::Result 0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
+GDPR::IAB::TCFv2::RangeSection     0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
+GDPR::IAB::TCFv2::Validator        0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
+GDPR::IAB::TCFv2::Validator::Failure 0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
+GDPR::IAB::TCFv2::Validator::Reason 0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
+GDPR::IAB::TCFv2::Validator::Result 0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
 GDS2                                3.35  pkg:cpan/GDS2@3.35
 GENJobAd                           undef  pkg:cpan/Gantry@3.42
 GFF::Filehandle                    undef  pkg:cpan/AcePerl@1.92
@@ -227665,8 +227665,8 @@ Term::Table::HashBase              0.028  pkg:cpan/Term-Table@0.028
 Term::Table::LineBreak             0.028  pkg:cpan/Term-Table@0.028
 Term::Table::Spacer                0.028  pkg:cpan/Term-Table@0.028
 Term::Table::Util                  0.028  pkg:cpan/Term-Table@0.028
-Term::TablePrint                   0.180  pkg:cpan/Term-TablePrint@0.180
-Term::TablePrint::ProgressBar      0.180  pkg:cpan/Term-TablePrint@0.180
+Term::TablePrint                   0.181  pkg:cpan/Term-TablePrint@0.181
+Term::TablePrint::ProgressBar      0.181  pkg:cpan/Term-TablePrint@0.181
 Term::TermKey                       0.19  pkg:cpan/Term-TermKey@0.19
 Term::TermKey::Async                0.08  pkg:cpan/Term-TermKey-Async@0.08
 Term::Terminfo                      0.09  pkg:cpan/Term-Terminfo@0.09
@@ -262612,7 +262612,7 @@ iRedAdmin::Admin                   undef  pkg:cpan/iRedAdmin@0.04
 iRedAdmin::Domain                  undef  pkg:cpan/iRedAdmin@0.04
 iRedAdmin::User                    undef  pkg:cpan/iRedAdmin@0.04
 iTransact::Lite                    undef  pkg:cpan/iTransact-Lite@0.0101
-iabtcfv2                           0.500  pkg:cpan/GDPR-IAB-TCFv2@0.500
+iabtcfv2                           0.510  pkg:cpan/GDPR-IAB-TCFv2@0.510
 icro                                0.20  pkg:cpan/AI-MicroStructure@0.20
 icrosoft::Word                     0.002  pkg:cpan/Acme-RunDoc@0.002
 idi                                0.0505  pkg:cpan/idi@0.0505
