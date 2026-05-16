@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 16 May 2026 09:24:24 GMT
-Line-Count: 264247
+Last-Updated: Sat, 16 May 2026 10:57:03 GMT
+Line-Count: 264248
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -49193,7 +49193,7 @@ Crypt::Image::Axis                  0.15  pkg:cpan/Crypt-Image@0.15
 Crypt::Image::Params                0.15  pkg:cpan/Crypt-Image@0.15
 Crypt::Image::Util                  0.15  pkg:cpan/Crypt-Image@0.15
 Crypt::Imail                        0.01  pkg:cpan/Crypt-Imail@0.01
-Crypt::JWT                         0.037  pkg:cpan/Crypt-JWT@0.037
+Crypt::JWT                         0.038  pkg:cpan/Crypt-JWT@0.038
 Crypt::Juniper                      0.02  pkg:cpan/Crypt-Juniper@0.02
 Crypt::KDF::BaseKDFGenerator       0.001  pkg:cpan/Crypt-KDF@0.02
 Crypt::KDF::KDF1Generator          0.001  pkg:cpan/Crypt-KDF@0.02
@@ -49201,7 +49201,7 @@ Crypt::KDF::KDF2Generator          0.001  pkg:cpan/Crypt-KDF@0.02
 Crypt::KDF::OpenSSLPBEGenerator    0.001  pkg:cpan/Crypt-KDF@0.02
 Crypt::KDF::_base                   0.02  pkg:cpan/Crypt-KDF@0.02
 Crypt::KeyDerivation               0.089  pkg:cpan/CryptX@0.089
-Crypt::KeyWrap                     0.037  pkg:cpan/Crypt-JWT@0.037
+Crypt::KeyWrap                     0.038  pkg:cpan/Crypt-JWT@0.038
 Crypt::Keyczar                      0.09  pkg:cpan/Crypt-Keyczar@0.09
 Crypt::Keyczar::AesEngine          undef  pkg:cpan/Crypt-Keyczar@0.09
 Crypt::Keyczar::AesKey             undef  pkg:cpan/Crypt-Keyczar@0.09
@@ -140158,10 +140158,11 @@ MooX::Role::Logger                 0.005  pkg:cpan/MooX-Role-Logger@0.005
 MooX::Role::OpenGraph                1.0  pkg:cpan/MooX-Role-SEOTags@1.0.0
 MooX::Role::POE::Emitter           1.001002  pkg:cpan/MooX-Role-POE-Emitter@1.001002
 MooX::Role::POE::Emitter::RegisteredSession 1.001001  pkg:cpan/MooX-Role-POE-Emitter@1.001001
-MooX::Role::Parameterized          0.600  pkg:cpan/MooX-Role-Parameterized@0.600
-MooX::Role::Parameterized::Mop     0.600  pkg:cpan/MooX-Role-Parameterized@0.600
+MooX::Role::Parameterized          0.601  pkg:cpan/MooX-Role-Parameterized@0.601
+MooX::Role::Parameterized::Cookbook 0.601  pkg:cpan/MooX-Role-Parameterized@0.601
+MooX::Role::Parameterized::Mop     0.601  pkg:cpan/MooX-Role-Parameterized@0.601
 MooX::Role::Parameterized::Proxy   0.101  pkg:cpan/MooX-Role-Parameterized@0.101
-MooX::Role::Parameterized::With    0.600  pkg:cpan/MooX-Role-Parameterized@0.600
+MooX::Role::Parameterized::With    0.601  pkg:cpan/MooX-Role-Parameterized@0.601
 MooX::Role::Parameterized::With::Keyword undef  pkg:cpan/MooX-Role-Parameterized-With-Keyword@0.001
 MooX::Role::Pluggable              1.002002  pkg:cpan/MooX-Role-Pluggable@1.002002
 MooX::Role::Pluggable::Constants   1.002002  pkg:cpan/MooX-Role-Pluggable@1.002002
@@ -151762,7 +151763,7 @@ Net::Statsd                         0.12  pkg:cpan/Net-Statsd@0.12
 Net::Statsd::Client                 0.34  pkg:cpan/Net-Statsd-Client@0.34
 Net::Statsd::Client::Telegraf        0.2  pkg:cpan/Net-Statsd-Client-Telegraf@0.2
 Net::Statsd::Client::Timer          0.34  pkg:cpan/Net-Statsd-Client@0.34
-Net::Statsd::Lite                  v0.9.0  pkg:cpan/Net-Statsd-Lite@v0.9.0
+Net::Statsd::Lite                  v0.10.0  pkg:cpan/Net-Statsd-Lite@v0.10.0
 Net::Statsd::Server                 0.17  pkg:cpan/Net-Statsd-Server@0.20
 Net::Statsd::Server::Backend        0.20  pkg:cpan/Net-Statsd-Server@0.20
 Net::Statsd::Server::Backend::Console  0.20  pkg:cpan/Net-Statsd-Server@0.20
