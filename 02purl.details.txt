@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 16 May 2026 02:24:39 GMT
+Last-Updated: Sat, 16 May 2026 06:17:22 GMT
 Line-Count: 264247
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -47521,9 +47521,9 @@ Conductrics::Agent                 0.004  pkg:cpan/Conductrics-Agent@0.004
 Conductrics::Client                0.003  pkg:cpan/Conductrics-Client@0.003
 Conduit                             0.03  pkg:cpan/Conduit@0.03
 Conduit::Metrics                    0.03  pkg:cpan/Conduit@0.03
-Conf::Libconfig                    1.001000  pkg:cpan/Conf-Libconfig@1.1.0
-Conf::Libconfig::ParseSource       undef  pkg:cpan/Conf-Libconfig@1.1.0
-Conf::Libconfig::WrapXS            undef  pkg:cpan/Conf-Libconfig@1.1.0
+Conf::Libconfig                    1.001001  pkg:cpan/Conf-Libconfig@1.1.1
+Conf::Libconfig::ParseSource       undef  pkg:cpan/Conf-Libconfig@1.1.1
+Conf::Libconfig::WrapXS            undef  pkg:cpan/Conf-Libconfig@1.1.1
 ConfInt                              1.0  pkg:cpan/ConfInt@1.0.1
 Config::AST                         1.07  pkg:cpan/Config-AST@1.07
 Config::AWS                         0.12  pkg:cpan/Config-AWS@0.12
@@ -63930,7 +63930,7 @@ Devel::Autoflush                    0.06  pkg:cpan/Devel-Autoflush@0.06
 Devel::Backtrace                    0.12  pkg:cpan/Devel-Backtrace@0.12
 Devel::Backtrace::Point             0.11  pkg:cpan/Devel-Backtrace@0.12
 Devel::BeginLift                   0.001003  pkg:cpan/Devel-BeginLift@0.001003
-Devel::Bug                          0.03  pkg:cpan/Devel-Bug@0.03
+Devel::Bug                          0.04  pkg:cpan/Devel-Bug@0.04
 Devel::CCompat::C99::ScopedVariables 0.002  pkg:cpan/Devel-CCompat-C99-ScopedVariables@0.002
 Devel::CCompat::C99::VariableLengthArrays 0.002  pkg:cpan/Devel-CCompat-C99-VariableLengthArrays@0.002
 Devel::CCov                         0.20  pkg:cpan/Devel-CCov@0.20
@@ -146458,14 +146458,14 @@ Net::DDDS                           0.01  pkg:cpan/Net-DDDS@0.01
 Net::DDDS::DNS                      0.01  pkg:cpan/Net-DDDS@0.01
 Net::DDDS::ENUM                     0.01  pkg:cpan/Net-DDDS@0.01
 Net::DDDS::SAMLMetadata             0.01  pkg:cpan/Net-DDDS@0.01
-Net::DHCP                            0.7  pkg:cpan/Net-DHCP@0.7
+Net::DHCP                            0.8  pkg:cpan/Net-DHCP@0.8
 Net::DHCP::Config::Utilities       0.002000  pkg:cpan/Net-DHCP-Config-Utilities@0.2.0
 Net::DHCP::Config::Utilities::Generator::ISC_DHCPD 0.001000  pkg:cpan/Net-DHCP-Config-Utilities@0.2.0
 Net::DHCP::Config::Utilities::INI_check 0.000001  pkg:cpan/Net-DHCP-Config-Utilities@0.2.0
 Net::DHCP::Config::Utilities::INI_loader 0.000001  pkg:cpan/Net-DHCP-Config-Utilities@0.2.0
 Net::DHCP::Config::Utilities::Options 0.000001  pkg:cpan/Net-DHCP-Config-Utilities@0.2.0
 Net::DHCP::Config::Utilities::Subnet 0.000001  pkg:cpan/Net-DHCP-Config-Utilities@0.2.0
-Net::DHCP::Constants                 0.7  pkg:cpan/Net-DHCP@0.7
+Net::DHCP::Constants                 0.8  pkg:cpan/Net-DHCP@0.8
 Net::DHCP::Control                  0.09  pkg:cpan/Net-DHCP-Control@0.09
 Net::DHCP::Control::Failover       undef  pkg:cpan/Net-DHCP-Control@0.09
 Net::DHCP::Control::Failover::Link undef  pkg:cpan/Net-DHCP-Control@0.09
@@ -146485,10 +146485,10 @@ Net::DHCP::DDNS::Update            undef  pkg:cpan/Net-DHCP-DDNS@0.1
 Net::DHCP::Info                     0.12  pkg:cpan/Net-DHCP-Info@0.12
 Net::DHCP::Info::Obj                0.01  pkg:cpan/Net-DHCP-Info@0.12
 Net::DHCP::Options                   0.1  pkg:cpan/Net-DHCP@0.11
-Net::DHCP::Packet                    0.7  pkg:cpan/Net-DHCP@0.7
-Net::DHCP::Packet::Attributes        0.7  pkg:cpan/Net-DHCP@0.7
-Net::DHCP::Packet::IPv4Utils         0.7  pkg:cpan/Net-DHCP@0.7
-Net::DHCP::Packet::OrderOptions      0.7  pkg:cpan/Net-DHCP@0.7
+Net::DHCP::Packet                    0.8  pkg:cpan/Net-DHCP@0.8
+Net::DHCP::Packet::Attributes        0.8  pkg:cpan/Net-DHCP@0.8
+Net::DHCP::Packet::IPv4Utils         0.8  pkg:cpan/Net-DHCP@0.8
+Net::DHCP::Packet::OrderOptions      0.8  pkg:cpan/Net-DHCP@0.8
 Net::DHCP::Session                   0.1  pkg:cpan/Net-DHCP@0.11
 Net::DHCP::Watch                    2.03  pkg:cpan/Net-DHCP-Watch@2.03
 Net::DHCP::Windows::Netsh::Parse   0.001000  pkg:cpan/Net-DHCP-Windows-Netsh-Parse@0.1.0
