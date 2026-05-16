@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 16 May 2026 06:17:22 GMT
+Last-Updated: Sat, 16 May 2026 09:24:24 GMT
 Line-Count: 264247
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -50004,7 +50004,7 @@ Crypt::Salsa20                      0.03  pkg:cpan/Crypt-Salsa20@0.03
 Crypt::Salt                         0.01  pkg:cpan/Crypt-Salt@0.01
 Crypt::SaltedHash                   0.09  pkg:cpan/Crypt-SaltedHash@0.09
 Crypt::Scrypt                       0.05  pkg:cpan/Crypt-Scrypt@0.05
-Crypt::ScryptKDF                   0.010  pkg:cpan/Crypt-ScryptKDF@0.010
+Crypt::ScryptKDF                   0.011  pkg:cpan/Crypt-ScryptKDF@0.011
 Crypt::SecretBuffer                0.024  pkg:cpan/Crypt-SecretBuffer@0.024
 Crypt::SecretBuffer::AsyncResult   0.024  pkg:cpan/Crypt-SecretBuffer@0.024
 Crypt::SecretBuffer::ConsoleState  0.024  pkg:cpan/Crypt-SecretBuffer@0.024
@@ -140158,10 +140158,10 @@ MooX::Role::Logger                 0.005  pkg:cpan/MooX-Role-Logger@0.005
 MooX::Role::OpenGraph                1.0  pkg:cpan/MooX-Role-SEOTags@1.0.0
 MooX::Role::POE::Emitter           1.001002  pkg:cpan/MooX-Role-POE-Emitter@1.001002
 MooX::Role::POE::Emitter::RegisteredSession 1.001001  pkg:cpan/MooX-Role-POE-Emitter@1.001001
-MooX::Role::Parameterized          0.502  pkg:cpan/MooX-Role-Parameterized@0.502
-MooX::Role::Parameterized::Mop     0.502  pkg:cpan/MooX-Role-Parameterized@0.502
+MooX::Role::Parameterized          0.600  pkg:cpan/MooX-Role-Parameterized@0.600
+MooX::Role::Parameterized::Mop     0.600  pkg:cpan/MooX-Role-Parameterized@0.600
 MooX::Role::Parameterized::Proxy   0.101  pkg:cpan/MooX-Role-Parameterized@0.101
-MooX::Role::Parameterized::With    0.502  pkg:cpan/MooX-Role-Parameterized@0.502
+MooX::Role::Parameterized::With    0.600  pkg:cpan/MooX-Role-Parameterized@0.600
 MooX::Role::Parameterized::With::Keyword undef  pkg:cpan/MooX-Role-Parameterized-With-Keyword@0.001
 MooX::Role::Pluggable              1.002002  pkg:cpan/MooX-Role-Pluggable@1.002002
 MooX::Role::Pluggable::Constants   1.002002  pkg:cpan/MooX-Role-Pluggable@1.002002
