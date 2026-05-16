@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 16 May 2026 13:07:01 GMT
+Last-Updated: Sat, 16 May 2026 14:50:11 GMT
 Line-Count: 264248
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -48191,16 +48191,16 @@ Container                            0.1  pkg:cpan/Net-Rackspace-Cloudfiles@0.1
 Container::Buildah                 0.003001  pkg:cpan/Container-Buildah@0.3.1
 Container::Buildah::Stage          0.003001  pkg:cpan/Container-Buildah@0.3.1
 Container::Buildah::Subcommand     0.003001  pkg:cpan/Container-Buildah@0.3.1
-Container::Builder                  0.10  pkg:cpan/Container-Builder@0.10
-Container::Builder::Config         undef  pkg:cpan/Container-Builder@0.10
-Container::Builder::Index          undef  pkg:cpan/Container-Builder@0.10
-Container::Builder::Layer          undef  pkg:cpan/Container-Builder@0.10
-Container::Builder::Layer::DebianPackageFile undef  pkg:cpan/Container-Builder@0.10
-Container::Builder::Layer::Directory undef  pkg:cpan/Container-Builder@0.10
-Container::Builder::Layer::SingleFile undef  pkg:cpan/Container-Builder@0.10
-Container::Builder::Layer::Tar     undef  pkg:cpan/Container-Builder@0.10
-Container::Builder::Manifest       undef  pkg:cpan/Container-Builder@0.10
-Container::Builder::Tar            undef  pkg:cpan/Container-Builder@0.10
+Container::Builder                  0.11  pkg:cpan/Container-Builder@0.11
+Container::Builder::Config         undef  pkg:cpan/Container-Builder@0.11
+Container::Builder::Index          undef  pkg:cpan/Container-Builder@0.11
+Container::Builder::Layer          undef  pkg:cpan/Container-Builder@0.11
+Container::Builder::Layer::DebianPackageFile undef  pkg:cpan/Container-Builder@0.11
+Container::Builder::Layer::Directory undef  pkg:cpan/Container-Builder@0.11
+Container::Builder::Layer::SingleFile undef  pkg:cpan/Container-Builder@0.11
+Container::Builder::Layer::Tar     undef  pkg:cpan/Container-Builder@0.11
+Container::Builder::Manifest       undef  pkg:cpan/Container-Builder@0.11
+Container::Builder::Tar            undef  pkg:cpan/Container-Builder@0.11
 ContentManager::DBI                undef  pkg:cpan/Class-DBI-Relationship-HasManyOrdered@0.03
 ContentManager::Image              undef  pkg:cpan/Class-DBI-Relationship-HasManyOrdered@0.03
 ContentManager::Page               undef  pkg:cpan/Class-DBI-Relationship-HasManyOrdered@0.03
