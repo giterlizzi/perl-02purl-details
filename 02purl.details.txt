@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 16 May 2026 20:39:50 GMT
+Last-Updated: Sat, 16 May 2026 22:38:57 GMT
 Line-Count: 264252
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -47464,7 +47464,7 @@ Compress::Stream::Zstd::Compressor undef  pkg:cpan/Compress-Stream-Zstd@0.207
 Compress::Stream::Zstd::DecompressionContext undef  pkg:cpan/Compress-Stream-Zstd@0.207
 Compress::Stream::Zstd::DecompressionDictionary undef  pkg:cpan/Compress-Stream-Zstd@0.207
 Compress::Stream::Zstd::Decompressor undef  pkg:cpan/Compress-Stream-Zstd@0.207
-Compress::Zlib                     2.219  pkg:cpan/IO-Compress@2.219
+Compress::Zlib                     2.220  pkg:cpan/IO-Compress@2.220
 Compress::Zlib::Perl                0.02  pkg:cpan/Compress-Zlib-Perl@0.02
 Compress::Zopfli                   0.000001  pkg:cpan/Compress-Zopfli@0.0.1
 Compress::Zopfli::Deflate          0.000001  pkg:cpan/Compress-Zopfli@0.0.1
@@ -50262,7 +50262,7 @@ Cucumber::TagExpressions::LiteralNode v9.1.0  pkg:cpan/Cucumber-TagExpressions@9
 Cucumber::TagExpressions::Node     v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
 Cucumber::TagExpressions::NotNode  v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
 Cucumber::TagExpressions::OrNode   v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.99
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.100
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
@@ -63934,7 +63934,7 @@ Devel::Autoflush                    0.06  pkg:cpan/Devel-Autoflush@0.06
 Devel::Backtrace                    0.12  pkg:cpan/Devel-Backtrace@0.12
 Devel::Backtrace::Point             0.11  pkg:cpan/Devel-Backtrace@0.12
 Devel::BeginLift                   0.001003  pkg:cpan/Devel-BeginLift@0.001003
-Devel::Bug                          0.04  pkg:cpan/Devel-Bug@0.04
+Devel::Bug                          0.05  pkg:cpan/Devel-Bug@0.05
 Devel::CCompat::C99::ScopedVariables 0.002  pkg:cpan/Devel-CCompat-C99-ScopedVariables@0.002
 Devel::CCompat::C99::VariableLengthArrays 0.002  pkg:cpan/Devel-CCompat-C99-VariableLengthArrays@0.002
 Devel::CCov                         0.20  pkg:cpan/Devel-CCov@0.20
@@ -73812,7 +73812,7 @@ File::Gettext::Storage::PO         v0.33.1  pkg:cpan/File-Gettext@0.33.1
 File::Glob                          1.42  pkg:cpan/perl@5.42.2
 File::Glob::Slurp                   0.02  pkg:cpan/File-Glob-Slurp@0.02
 File::Glob::Windows                0.1.5  pkg:cpan/File-Glob-Windows@0.1.5
-File::GlobMapper                   1.001  pkg:cpan/IO-Compress@2.219
+File::GlobMapper                   1.001  pkg:cpan/IO-Compress@2.220
 File::Globstar                     1.001000  pkg:cpan/File-Globstar@v1.1.0
 File::Globstar::ListMatch          1.001000  pkg:cpan/File-Globstar@v1.1.0
 File::Grep                          0.02  pkg:cpan/File-Grep@0.02
@@ -110922,34 +110922,34 @@ IO::CaptureOutput                  1.1105  pkg:cpan/IO-CaptureOutput@1.1105
 IO::CaptureOutput::_proxy           1.03  pkg:cpan/IO-CaptureOutput@1.03
 IO::Cat                             1.01  pkg:cpan/IO-Cat@1.01
 IO::Clever                          1.01  pkg:cpan/IO-stringy@2.111
-IO::Compress                       2.219  pkg:cpan/IO-Compress@2.219
-IO::Compress::Adapter::Bzip2       2.219  pkg:cpan/IO-Compress@2.219
-IO::Compress::Adapter::Deflate     2.219  pkg:cpan/IO-Compress@2.219
-IO::Compress::Adapter::Identity    2.219  pkg:cpan/IO-Compress@2.219
+IO::Compress                       2.220  pkg:cpan/IO-Compress@2.220
+IO::Compress::Adapter::Bzip2       2.220  pkg:cpan/IO-Compress@2.220
+IO::Compress::Adapter::Deflate     2.220  pkg:cpan/IO-Compress@2.220
+IO::Compress::Adapter::Identity    2.220  pkg:cpan/IO-Compress@2.220
 IO::Compress::Adapter::LZO         2.217  pkg:cpan/IO-Compress-Lzop@2.217
 IO::Compress::Adapter::Lzf         2.217  pkg:cpan/IO-Compress-Lzf@2.217
 IO::Compress::Adapter::Lzip        2.217  pkg:cpan/IO-Compress-Lzma@2.217
 IO::Compress::Adapter::Lzma        2.217  pkg:cpan/IO-Compress-Lzma@2.217
 IO::Compress::Adapter::Xz          2.217  pkg:cpan/IO-Compress-Lzma@2.217
 IO::Compress::Adapter::Zstd        2.217  pkg:cpan/IO-Compress-Zstd@2.217
-IO::Compress::Base                 2.219  pkg:cpan/IO-Compress@2.219
-IO::Compress::Base::Common         2.219  pkg:cpan/IO-Compress@2.219
+IO::Compress::Base                 2.220  pkg:cpan/IO-Compress@2.220
+IO::Compress::Base::Common         2.220  pkg:cpan/IO-Compress@2.220
 IO::Compress::Brotli               0.019  pkg:cpan/IO-Compress-Brotli@0.019
-IO::Compress::Bzip2                2.219  pkg:cpan/IO-Compress@2.219
-IO::Compress::Deflate              2.219  pkg:cpan/IO-Compress@2.219
-IO::Compress::Gzip                 2.219  pkg:cpan/IO-Compress@2.219
-IO::Compress::Gzip::Constants      2.219  pkg:cpan/IO-Compress@2.219
+IO::Compress::Bzip2                2.220  pkg:cpan/IO-Compress@2.220
+IO::Compress::Deflate              2.220  pkg:cpan/IO-Compress@2.220
+IO::Compress::Gzip                 2.220  pkg:cpan/IO-Compress@2.220
+IO::Compress::Gzip::Constants      2.220  pkg:cpan/IO-Compress@2.220
 IO::Compress::Lzf                  2.217  pkg:cpan/IO-Compress-Lzf@2.217
 IO::Compress::Lzip                 2.217  pkg:cpan/IO-Compress-Lzma@2.217
 IO::Compress::Lzma                 2.217  pkg:cpan/IO-Compress-Lzma@2.217
 IO::Compress::Lzop                 2.217  pkg:cpan/IO-Compress-Lzop@2.217
 IO::Compress::Lzop::Constants      2.217  pkg:cpan/IO-Compress-Lzop@2.217
-IO::Compress::RawDeflate           2.219  pkg:cpan/IO-Compress@2.219
+IO::Compress::RawDeflate           2.220  pkg:cpan/IO-Compress@2.220
 IO::Compress::Xz                   2.217  pkg:cpan/IO-Compress-Lzma@2.217
-IO::Compress::Zip                  2.219  pkg:cpan/IO-Compress@2.219
-IO::Compress::Zip::Constants       2.219  pkg:cpan/IO-Compress@2.219
-IO::Compress::Zlib::Constants      2.219  pkg:cpan/IO-Compress@2.219
-IO::Compress::Zlib::Extra          2.219  pkg:cpan/IO-Compress@2.219
+IO::Compress::Zip                  2.220  pkg:cpan/IO-Compress@2.220
+IO::Compress::Zip::Constants       2.220  pkg:cpan/IO-Compress@2.220
+IO::Compress::Zlib::Constants      2.220  pkg:cpan/IO-Compress@2.220
+IO::Compress::Zlib::Extra          2.220  pkg:cpan/IO-Compress@2.220
 IO::Compress::Zstd                 2.217  pkg:cpan/IO-Compress-Zstd@2.217
 IO::DB                               0.1  pkg:cpan/SDP@0.1
 IO::Default                         1.03  pkg:cpan/IO-Default@1.03
@@ -112262,23 +112262,23 @@ IO::Trace                          0.025  pkg:cpan/IO-Trace@0.025
 IO::Tty                             1.29  pkg:cpan/IO-Tty@1.29
 IO::Tty::Constant                   0.04  pkg:cpan/IO-Tty@0.04
 IO::Tty::Util                       0.03  pkg:cpan/IO-Tty-Util@0.03
-IO::Uncompress::Adapter::Bunzip2   2.219  pkg:cpan/IO-Compress@2.219
-IO::Uncompress::Adapter::Identity  2.219  pkg:cpan/IO-Compress@2.219
-IO::Uncompress::Adapter::Inflate   2.219  pkg:cpan/IO-Compress@2.219
+IO::Uncompress::Adapter::Bunzip2   2.220  pkg:cpan/IO-Compress@2.220
+IO::Uncompress::Adapter::Identity  2.220  pkg:cpan/IO-Compress@2.220
+IO::Uncompress::Adapter::Inflate   2.220  pkg:cpan/IO-Compress@2.220
 IO::Uncompress::Adapter::LZO       2.217  pkg:cpan/IO-Compress-Lzop@2.217
 IO::Uncompress::Adapter::Lzf       2.217  pkg:cpan/IO-Compress-Lzf@2.217
 IO::Uncompress::Adapter::UnLzip    2.217  pkg:cpan/IO-Compress-Lzma@2.217
 IO::Uncompress::Adapter::UnLzma    2.217  pkg:cpan/IO-Compress-Lzma@2.217
 IO::Uncompress::Adapter::UnXz      2.217  pkg:cpan/IO-Compress-Lzma@2.217
 IO::Uncompress::Adapter::UnZstd    2.217  pkg:cpan/IO-Compress-Zstd@2.217
-IO::Uncompress::AnyInflate         2.219  pkg:cpan/IO-Compress@2.219
-IO::Uncompress::AnyUncompress      2.219  pkg:cpan/IO-Compress@2.219
-IO::Uncompress::Base               2.219  pkg:cpan/IO-Compress@2.219
+IO::Uncompress::AnyInflate         2.220  pkg:cpan/IO-Compress@2.220
+IO::Uncompress::AnyUncompress      2.220  pkg:cpan/IO-Compress@2.220
+IO::Uncompress::Base               2.220  pkg:cpan/IO-Compress@2.220
 IO::Uncompress::Brotli             0.019  pkg:cpan/IO-Compress-Brotli@0.019
-IO::Uncompress::Bunzip2            2.219  pkg:cpan/IO-Compress@2.219
-IO::Uncompress::Gunzip             2.219  pkg:cpan/IO-Compress@2.219
-IO::Uncompress::Inflate            2.219  pkg:cpan/IO-Compress@2.219
-IO::Uncompress::RawInflate         2.219  pkg:cpan/IO-Compress@2.219
+IO::Uncompress::Bunzip2            2.220  pkg:cpan/IO-Compress@2.220
+IO::Uncompress::Gunzip             2.220  pkg:cpan/IO-Compress@2.220
+IO::Uncompress::Inflate            2.220  pkg:cpan/IO-Compress@2.220
+IO::Uncompress::RawInflate         2.220  pkg:cpan/IO-Compress@2.220
 IO::Uncompress::UnLzf              2.217  pkg:cpan/IO-Compress-Lzf@2.217
 IO::Uncompress::UnLzip             2.217  pkg:cpan/IO-Compress-Lzma@2.217
 IO::Uncompress::UnLzma             2.217  pkg:cpan/IO-Compress-Lzma@2.217
@@ -112286,7 +112286,7 @@ IO::Uncompress::UnLzop             2.217  pkg:cpan/IO-Compress-Lzop@2.217
 IO::Uncompress::UnXz               2.217  pkg:cpan/IO-Compress-Lzma@2.217
 IO::Uncompress::UnZstd             2.217  pkg:cpan/IO-Compress-Zstd@2.217
 IO::Uncompress::Untar               1.02  pkg:cpan/IO-Uncompress-Untar@1.02
-IO::Uncompress::Unzip              2.219  pkg:cpan/IO-Compress@2.219
+IO::Uncompress::Unzip              2.220  pkg:cpan/IO-Compress@2.220
 IO::Unread                          1.04  pkg:cpan/IO-Unread@1.04
 IO::Uring                          0.014  pkg:cpan/IO-Uring@0.014
 IO::Uring::BufferGroup             0.014  pkg:cpan/IO-Uring@0.014
@@ -146119,8 +146119,8 @@ Net::CUPS::Destination              0.61  pkg:cpan/Net-CUPS@0.64
 Net::CUPS::IPP                      0.61  pkg:cpan/Net-CUPS@0.64
 Net::CUPS::PPD                      0.61  pkg:cpan/Net-CUPS@0.64
 Net::CVE                           0.010  pkg:cpan/Net-CVE@0.010?ext=tgz
-Net::CalDAVTalk                     0.16  pkg:cpan/Net-CalDAVTalk@0.16
-Net::CalDAVTalk::TimeZones         undef  pkg:cpan/Net-CalDAVTalk@0.16
+Net::CalDAVTalk                     0.17  pkg:cpan/Net-CalDAVTalk@0.17
+Net::CalDAVTalk::TimeZones         undef  pkg:cpan/Net-CalDAVTalk@0.17
 Net::Calais                         1.02  pkg:cpan/Net-Calais@1.02
 Net::Camera::Edimax::IC1500        1.008  pkg:cpan/Net-Camera-Edimax-IC1500@1.008
 Net::Camera::Sercomm::ICamera2      0.02  pkg:cpan/Net-Camera-Sercomm-ICamera2@0.02
@@ -235928,7 +235928,7 @@ Typist::Template::Filters           0.11  pkg:cpan/Typist@0.02
 Typist::Template::Tags              0.34  pkg:cpan/Typist@0.02
 Typist::Util::String               undef  pkg:cpan/Typist@0.02
 U                                  0.001  pkg:cpan/UNIVERSAL-new@0.001
-U64                                2.219  pkg:cpan/IO-Compress@2.219
+U64                                2.220  pkg:cpan/IO-Compress@2.220
 UAV::Pilot                           1.3  pkg:cpan/UAV-Pilot@1.3
 UAV::Pilot::ARDrone                  1.1  pkg:cpan/UAV-Pilot-ARDrone@1.1
 UAV::Pilot::ARDrone::Control         1.1  pkg:cpan/UAV-Pilot-ARDrone@1.1
@@ -260140,8 +260140,8 @@ ZipTie::Client                       1.3  pkg:cpan/ZipTie-Client@1.3
 ZipTie::Client::Port                 1.3  pkg:cpan/ZipTie-Client@1.3
 Zipper                              1.33  pkg:cpan/Developer-Dashboard@1.33
 Zleep                               0.05  pkg:cpan/Zleep@0.05
-Zlib::OldDeflate                   2.219  pkg:cpan/IO-Compress@2.219
-Zlib::OldInflate                   2.219  pkg:cpan/IO-Compress@2.219
+Zlib::OldDeflate                   2.220  pkg:cpan/IO-Compress@2.220
+Zlib::OldInflate                   2.220  pkg:cpan/IO-Compress@2.220
 Zodiac::Angle                       0.07  pkg:cpan/Zodiac-Angle@0.07
 Zodiac::Chinese                        1  pkg:cpan/Zodiac-Chinese@1
 Zodiac::Chinese::Table             0.021  pkg:cpan/Zodiac-Chinese-Table@0.021
