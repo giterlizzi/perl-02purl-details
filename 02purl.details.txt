@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 16 May 2026 16:51:15 GMT
-Line-Count: 264248
+Last-Updated: Sat, 16 May 2026 18:54:38 GMT
+Line-Count: 264252
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -15728,37 +15728,41 @@ App::jsonsel                       0.008  pkg:cpan/App-jsonsel@0.008
 App::jsonvalidate                  0.002000  pkg:cpan/App-jsonvalidate@v0.2.0
 App::jt                             0.43  pkg:cpan/App-jt@0.43
 App::jupiter                        1.09  pkg:cpan/App-jupiter@1.09
-App::karr                          0.102  pkg:cpan/App-karr@0.102
-App::karr::BoardStore              0.102  pkg:cpan/App-karr@0.102
-App::karr::Cmd::AgentName          0.102  pkg:cpan/App-karr@0.102
-App::karr::Cmd::Archive            0.102  pkg:cpan/App-karr@0.102
-App::karr::Cmd::Backup             0.102  pkg:cpan/App-karr@0.102
-App::karr::Cmd::Board              0.102  pkg:cpan/App-karr@0.102
-App::karr::Cmd::Config             0.102  pkg:cpan/App-karr@0.102
-App::karr::Cmd::Context            0.102  pkg:cpan/App-karr@0.102
-App::karr::Cmd::Create             0.102  pkg:cpan/App-karr@0.102
-App::karr::Cmd::Delete             0.102  pkg:cpan/App-karr@0.102
-App::karr::Cmd::Destroy            0.102  pkg:cpan/App-karr@0.102
-App::karr::Cmd::Edit               0.102  pkg:cpan/App-karr@0.102
-App::karr::Cmd::GetRefs            0.102  pkg:cpan/App-karr@0.102
-App::karr::Cmd::Handoff            0.102  pkg:cpan/App-karr@0.102
-App::karr::Cmd::Init               0.102  pkg:cpan/App-karr@0.102
-App::karr::Cmd::List               0.102  pkg:cpan/App-karr@0.102
-App::karr::Cmd::Log                0.102  pkg:cpan/App-karr@0.102
-App::karr::Cmd::Move               0.102  pkg:cpan/App-karr@0.102
-App::karr::Cmd::Pick               0.102  pkg:cpan/App-karr@0.102
-App::karr::Cmd::Restore            0.102  pkg:cpan/App-karr@0.102
-App::karr::Cmd::SetRefs            0.102  pkg:cpan/App-karr@0.102
-App::karr::Cmd::Show               0.102  pkg:cpan/App-karr@0.102
-App::karr::Cmd::Skill              0.102  pkg:cpan/App-karr@0.102
-App::karr::Cmd::Sync               0.102  pkg:cpan/App-karr@0.102
-App::karr::Config                  0.102  pkg:cpan/App-karr@0.102
-App::karr::Git                     0.102  pkg:cpan/App-karr@0.102
-App::karr::Lock                    0.102  pkg:cpan/App-karr@0.102
-App::karr::Role::BoardAccess       0.102  pkg:cpan/App-karr@0.102
-App::karr::Role::ClaimTimeout      0.102  pkg:cpan/App-karr@0.102
-App::karr::Role::Output            0.102  pkg:cpan/App-karr@0.102
-App::karr::Task                    0.102  pkg:cpan/App-karr@0.102
+App::karr                          0.200  pkg:cpan/App-karr@0.200
+App::karr::ActivityLog             0.200  pkg:cpan/App-karr@0.200
+App::karr::BoardStore              0.200  pkg:cpan/App-karr@0.200
+App::karr::Cmd::AgentName          0.200  pkg:cpan/App-karr@0.200
+App::karr::Cmd::Archive            0.200  pkg:cpan/App-karr@0.200
+App::karr::Cmd::Backup             0.200  pkg:cpan/App-karr@0.200
+App::karr::Cmd::Board              0.200  pkg:cpan/App-karr@0.200
+App::karr::Cmd::Config             0.200  pkg:cpan/App-karr@0.200
+App::karr::Cmd::Context            0.200  pkg:cpan/App-karr@0.200
+App::karr::Cmd::Create             0.200  pkg:cpan/App-karr@0.200
+App::karr::Cmd::Delete             0.200  pkg:cpan/App-karr@0.200
+App::karr::Cmd::Destroy            0.200  pkg:cpan/App-karr@0.200
+App::karr::Cmd::Edit               0.200  pkg:cpan/App-karr@0.200
+App::karr::Cmd::GetRefs            0.200  pkg:cpan/App-karr@0.200
+App::karr::Cmd::Handoff            0.200  pkg:cpan/App-karr@0.200
+App::karr::Cmd::Init               0.200  pkg:cpan/App-karr@0.200
+App::karr::Cmd::List               0.200  pkg:cpan/App-karr@0.200
+App::karr::Cmd::Log                0.200  pkg:cpan/App-karr@0.200
+App::karr::Cmd::Move               0.200  pkg:cpan/App-karr@0.200
+App::karr::Cmd::Pick               0.200  pkg:cpan/App-karr@0.200
+App::karr::Cmd::Restore            0.200  pkg:cpan/App-karr@0.200
+App::karr::Cmd::SetRefs            0.200  pkg:cpan/App-karr@0.200
+App::karr::Cmd::Show               0.200  pkg:cpan/App-karr@0.200
+App::karr::Cmd::Skill              0.200  pkg:cpan/App-karr@0.200
+App::karr::Cmd::Sync               0.200  pkg:cpan/App-karr@0.200
+App::karr::Config                  0.200  pkg:cpan/App-karr@0.200
+App::karr::Git                     0.200  pkg:cpan/App-karr@0.200
+App::karr::Lock                    0.200  pkg:cpan/App-karr@0.200
+App::karr::Role::BoardAccess       0.200  pkg:cpan/App-karr@0.200
+App::karr::Role::BoardDiscovery    0.200  pkg:cpan/App-karr@0.200
+App::karr::Role::ClaimTimeout      0.200  pkg:cpan/App-karr@0.200
+App::karr::Role::Output            0.200  pkg:cpan/App-karr@0.200
+App::karr::Role::SyncLifecycle     0.200  pkg:cpan/App-karr@0.200
+App::karr::SyncGuard               0.200  pkg:cpan/App-karr@0.200
+App::karr::Task                    0.200  pkg:cpan/App-karr@0.200
 App::keycommon                     0.0012  pkg:cpan/App-keycommon@0.0012
 App::lapidary                       1.05  pkg:cpan/App-lapidary@1.05
 App::lasttouch                     0.041  pkg:cpan/App-lasttouch@0.041
