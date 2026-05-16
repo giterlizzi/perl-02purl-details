@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 16 May 2026 14:50:11 GMT
+Last-Updated: Sat, 16 May 2026 16:51:15 GMT
 Line-Count: 264248
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -46447,24 +46447,24 @@ ClearCase::Vob_Cfg_Parser           1.01  pkg:cpan/ClearCase-Region@1.01
 ClearCase::Wrapper                  1.19  pkg:cpan/ClearCase-Wrapper@1.19
 ClearCase::Wrapper::DSB             1.14  pkg:cpan/ClearCase-Wrapper-DSB@1.14
 ClearCase::Wrapper::MGi             1.00  pkg:cpan/ClearCase-Wrapper-MGi@1.00
-ClearPress                         v2025.6.7  pkg:cpan/ClearPress@v2025.6.7
-ClearPress::Localize               v2025.6.7  pkg:cpan/ClearPress@v2025.6.7
-ClearPress::authdecor              v2025.6.7  pkg:cpan/ClearPress@v2025.6.7
-ClearPress::authenticator          v2025.6.7  pkg:cpan/ClearPress@v2025.6.7
-ClearPress::authenticator::db      v2025.6.7  pkg:cpan/ClearPress@v2025.6.7
-ClearPress::authenticator::ldap    v2025.6.7  pkg:cpan/ClearPress@v2025.6.7
-ClearPress::authenticator::passwd  v2025.6.7  pkg:cpan/ClearPress@v2025.6.7
-ClearPress::authenticator::session v2025.6.7  pkg:cpan/ClearPress@v2025.6.7
-ClearPress::controller             v2025.6.7  pkg:cpan/ClearPress@v2025.6.7
-ClearPress::decorator              v2025.6.7  pkg:cpan/ClearPress@v2025.6.7
-ClearPress::driver                 v2025.6.7  pkg:cpan/ClearPress@v2025.6.7
-ClearPress::driver::Pg             v2025.6.7  pkg:cpan/ClearPress@v2025.6.7
-ClearPress::driver::SQLite         v2025.6.7  pkg:cpan/ClearPress@v2025.6.7
-ClearPress::driver::mysql          v2025.6.7  pkg:cpan/ClearPress@v2025.6.7
-ClearPress::model                  v2025.6.7  pkg:cpan/ClearPress@v2025.6.7
-ClearPress::util                   v2025.6.7  pkg:cpan/ClearPress@v2025.6.7
-ClearPress::view                   v2025.6.7  pkg:cpan/ClearPress@v2025.6.7
-ClearPress::view::error            v2025.6.7  pkg:cpan/ClearPress@v2025.6.7
+ClearPress                         v2026.5.16  pkg:cpan/ClearPress@v2026.5.16
+ClearPress::Localize               v2026.5.16  pkg:cpan/ClearPress@v2026.5.16
+ClearPress::authdecor              v2026.5.16  pkg:cpan/ClearPress@v2026.5.16
+ClearPress::authenticator          v2026.5.16  pkg:cpan/ClearPress@v2026.5.16
+ClearPress::authenticator::db      v2026.5.16  pkg:cpan/ClearPress@v2026.5.16
+ClearPress::authenticator::ldap    v2026.5.16  pkg:cpan/ClearPress@v2026.5.16
+ClearPress::authenticator::passwd  v2026.5.16  pkg:cpan/ClearPress@v2026.5.16
+ClearPress::authenticator::session v2026.5.16  pkg:cpan/ClearPress@v2026.5.16
+ClearPress::controller             v2026.5.16  pkg:cpan/ClearPress@v2026.5.16
+ClearPress::decorator              v2026.5.16  pkg:cpan/ClearPress@v2026.5.16
+ClearPress::driver                 v2026.5.16  pkg:cpan/ClearPress@v2026.5.16
+ClearPress::driver::Pg             v2026.5.16  pkg:cpan/ClearPress@v2026.5.16
+ClearPress::driver::SQLite         v2026.5.16  pkg:cpan/ClearPress@v2026.5.16
+ClearPress::driver::mysql          v2026.5.16  pkg:cpan/ClearPress@v2026.5.16
+ClearPress::model                  v2026.5.16  pkg:cpan/ClearPress@v2026.5.16
+ClearPress::util                   v2026.5.16  pkg:cpan/ClearPress@v2026.5.16
+ClearPress::view                   v2026.5.16  pkg:cpan/ClearPress@v2026.5.16
+ClearPress::view::error            v2026.5.16  pkg:cpan/ClearPress@v2026.5.16
 Clearbuilt::ExcelErator            2.0001  pkg:cpan/Clearbuilt-Excelerator@2.0001
 Clearcase                           1.02  pkg:cpan/Clearcase@1.02
 Clearcase::Element                 undef  pkg:cpan/Clearcase@1.02
@@ -227394,7 +227394,7 @@ Term::ANSIColor::Simple             0.10  pkg:cpan/Term-ANSIColor-Simple@0.10
 Term::ANSIColor::WithWin32         0.002  pkg:cpan/Term-ANSIColor-WithWin32@0.002
 Term::ANSIColorx::AutoFilterFH     2.7193  pkg:cpan/Term-ANSIColorx-ColorNicknames@2.7193
 Term::ANSIColorx::ColorNicknames   2.7193  pkg:cpan/Term-ANSIColorx-ColorNicknames@2.7193
-Term::ANSIEncode                    1.99  pkg:cpan/Term-ANSIEncode@1.99
+Term::ANSIEncode                    2.01  pkg:cpan/Term-ANSIEncode@2.01
 Term::ANSIMenu                      0.02  pkg:cpan/Term-ANSIMenu@0.02
 Term::ANSIScreen                    1.50  pkg:cpan/Term-ANSIScreen@1.50
 Term::ANSITable                    0.010100  pkg:cpan/Term-ANSITable@0.010100
