@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 17 May 2026 16:50:05 GMT
-Line-Count: 264259
+Last-Updated: Sun, 17 May 2026 18:58:52 GMT
+Line-Count: 264268
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -42909,23 +42909,26 @@ ChainMake::Parallel                    0  pkg:cpan/ChainMake@0.9.0
 ChainMake::Tester                      0  pkg:cpan/ChainMake@0.9.0
 Champ                              0.001  pkg:cpan/App-PythonToPerl@0.001
 Champlain                           0.14  pkg:cpan/Champlain@0.14
-Chandra                             0.24  pkg:cpan/Chandra@0.24
-Chandra::App                        0.24  pkg:cpan/Chandra@0.24
-Chandra::Assets                     0.24  pkg:cpan/Chandra@0.24
-Chandra::Bind                       0.24  pkg:cpan/Chandra@0.24
-Chandra::Bridge                     0.24  pkg:cpan/Chandra@0.24
-Chandra::Bridge::Extension          0.24  pkg:cpan/Chandra@0.24
-Chandra::Canvas                     0.24  pkg:cpan/Chandra@0.24
-Chandra::Clipboard                  0.24  pkg:cpan/Chandra@0.24
-Chandra::ContextMenu                0.24  pkg:cpan/Chandra@0.24
-Chandra::DevTools                   0.24  pkg:cpan/Chandra@0.24
-Chandra::Dialog                     0.24  pkg:cpan/Chandra@0.24
-Chandra::DragDrop                   0.24  pkg:cpan/Chandra@0.24
+Chandra                             0.25  pkg:cpan/Chandra@0.25
+Chandra::App                        0.25  pkg:cpan/Chandra@0.25
+Chandra::Assets                     0.25  pkg:cpan/Chandra@0.25
+Chandra::Bind                       0.25  pkg:cpan/Chandra@0.25
+Chandra::Breadcrumb                 0.25  pkg:cpan/Chandra@0.25
+Chandra::Bridge                     0.25  pkg:cpan/Chandra@0.25
+Chandra::Bridge::Extension          0.25  pkg:cpan/Chandra@0.25
+Chandra::Canvas                     0.25  pkg:cpan/Chandra@0.25
+Chandra::Clipboard                  0.25  pkg:cpan/Chandra@0.25
+Chandra::Component                  0.25  pkg:cpan/Chandra@0.25
+Chandra::ContextMenu                0.25  pkg:cpan/Chandra@0.25
+Chandra::DevTools                   0.25  pkg:cpan/Chandra@0.25
+Chandra::Dialog                     0.25  pkg:cpan/Chandra@0.25
+Chandra::DragDrop                   0.25  pkg:cpan/Chandra@0.25
 Chandra::EPUB                       0.02  pkg:cpan/Chandra-EPUB@0.02
-Chandra::Element                    0.24  pkg:cpan/Chandra@0.24
-Chandra::Error                      0.24  pkg:cpan/Chandra@0.24
-Chandra::Event                      0.24  pkg:cpan/Chandra@0.24
-Chandra::Form                       0.24  pkg:cpan/Chandra@0.24
+Chandra::Element                    0.25  pkg:cpan/Chandra@0.25
+Chandra::Error                      0.25  pkg:cpan/Chandra@0.25
+Chandra::Event                      0.25  pkg:cpan/Chandra@0.25
+Chandra::Form                       0.25  pkg:cpan/Chandra@0.25
+Chandra::Form::Validator            0.25  pkg:cpan/Chandra@0.25
 Chandra::Game::Tetris               0.03  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Blocks      undef  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Blocks::IBlock undef  pkg:cpan/Chandra-Game-Tetris@0.03
@@ -42938,20 +42941,26 @@ Chandra::Game::Tetris::Blocks::TBlock undef  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Blocks::ZBlock undef  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Engine      undef  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Grid        undef  pkg:cpan/Chandra-Game-Tetris@0.03
-Chandra::HotReload                  0.24  pkg:cpan/Chandra@0.24
-Chandra::Log                        0.24  pkg:cpan/Chandra@0.24
-Chandra::Notify                     0.24  pkg:cpan/Chandra@0.24
-Chandra::Pack                       0.24  pkg:cpan/Chandra@0.24
-Chandra::Protocol                   0.24  pkg:cpan/Chandra@0.24
-Chandra::Shortcut                   0.24  pkg:cpan/Chandra@0.24
-Chandra::Socket::Client             0.24  pkg:cpan/Chandra@0.24
-Chandra::Socket::Connection         0.24  pkg:cpan/Chandra@0.24
-Chandra::Socket::Hub                0.24  pkg:cpan/Chandra@0.24
-Chandra::Socket::Token              0.24  pkg:cpan/Chandra@0.24
-Chandra::Splash                     0.24  pkg:cpan/Chandra@0.24
-Chandra::Store                      0.24  pkg:cpan/Chandra@0.24
-Chandra::Tray                       0.24  pkg:cpan/Chandra@0.24
-Chandra::Window                     0.24  pkg:cpan/Chandra@0.24
+Chandra::HotReload                  0.25  pkg:cpan/Chandra@0.25
+Chandra::Log                        0.25  pkg:cpan/Chandra@0.25
+Chandra::Modal                      0.25  pkg:cpan/Chandra@0.25
+Chandra::Nav                        0.25  pkg:cpan/Chandra@0.25
+Chandra::Notify                     0.25  pkg:cpan/Chandra@0.25
+Chandra::Pack                       0.25  pkg:cpan/Chandra@0.25
+Chandra::Protocol                   0.25  pkg:cpan/Chandra@0.25
+Chandra::Shortcut                   0.25  pkg:cpan/Chandra@0.25
+Chandra::Socket::Client             0.25  pkg:cpan/Chandra@0.25
+Chandra::Socket::Connection         0.25  pkg:cpan/Chandra@0.25
+Chandra::Socket::Hub                0.25  pkg:cpan/Chandra@0.25
+Chandra::Socket::Token              0.25  pkg:cpan/Chandra@0.25
+Chandra::Splash                     0.25  pkg:cpan/Chandra@0.25
+Chandra::Store                      0.25  pkg:cpan/Chandra@0.25
+Chandra::Table                      0.25  pkg:cpan/Chandra@0.25
+Chandra::Tabs                       0.25  pkg:cpan/Chandra@0.25
+Chandra::Theme                      0.25  pkg:cpan/Chandra@0.25
+Chandra::Toast                      0.25  pkg:cpan/Chandra@0.25
+Chandra::Tray                       0.25  pkg:cpan/Chandra@0.25
+Chandra::Window                     0.25  pkg:cpan/Chandra@0.25
 Changes                            0.004002  pkg:cpan/Changes@v0.4.2
 Changes::Change                    0.001002  pkg:cpan/Changes@v0.4.2
 Changes::Group                     0.002001  pkg:cpan/Changes@v0.4.2
@@ -49489,7 +49498,7 @@ Crypt::OpenSSL::FASTPBKDF2          0.01  pkg:cpan/Crypt-OpenSSL-FASTPBKDF2@0.01
 Crypt::OpenSSL::Guess               0.15  pkg:cpan/Crypt-OpenSSL-Guess@0.15
 Crypt::OpenSSL::PBKDF2              0.11  pkg:cpan/Crypt-OpenSSL-PBKDF2@0.11
 Crypt::OpenSSL::PKCS10              0.37  pkg:cpan/Crypt-OpenSSL-PKCS10@0.37
-Crypt::OpenSSL::PKCS12              1.94  pkg:cpan/Crypt-OpenSSL-PKCS12@1.94
+Crypt::OpenSSL::PKCS12              1.95  pkg:cpan/Crypt-OpenSSL-PKCS12@1.95
 Crypt::OpenSSL::RC4                 0.04  pkg:cpan/Crypt-OpenSSL-RC4@0.04
 Crypt::OpenSSL::RSA                 0.41  pkg:cpan/Crypt-OpenSSL-RSA@0.41
 Crypt::OpenSSL::Random              0.17  pkg:cpan/Crypt-OpenSSL-Random@0.17
@@ -76862,7 +76871,7 @@ Full::Pragmata                     1.004  pkg:cpan/Full@1.004
 Full::Role                         1.004  pkg:cpan/Full@1.004
 Full::Script                       1.004  pkg:cpan/Full@1.004
 Fun                                 0.05  pkg:cpan/Fun@0.05
-Func::Util                          0.03  pkg:cpan/Func-Util@0.03
+Func::Util                          0.04  pkg:cpan/Func-Util@0.04
 Function::Composition              0.000002  pkg:cpan/Function-Composition@0.0.2
 Function::Fallback::CoreOrPP       0.090  pkg:cpan/Function-Fallback-CoreOrPP@0.090
 Function::ID                        0.02  pkg:cpan/Function_ID@0.02
@@ -110230,7 +110239,7 @@ Horris::Connection::Plugin::Retry  undef  pkg:cpan/Horris@v0.1.2
 Horris::Connection::Plugin::Twitter undef  pkg:cpan/Horris@v0.1.2
 Horris::Message                    undef  pkg:cpan/Horris@v0.1.2
 Horris::Message::Address           undef  pkg:cpan/Horris@v0.1.2
-Horus                               0.08  pkg:cpan/Horus@0.08
+Horus                               0.09  pkg:cpan/Horus@0.09
 Hostfile::Manager                   0.09  pkg:cpan/Hostfile-Manager@0.09
 Howdy                               0.01  pkg:cpan/ptkFAQ@0_03
 HtDig::Config                       1.02  pkg:cpan/HtDig-Config@1.02
@@ -151774,7 +151783,7 @@ Net::Statsd                         0.12  pkg:cpan/Net-Statsd@0.12
 Net::Statsd::Client                 0.34  pkg:cpan/Net-Statsd-Client@0.34
 Net::Statsd::Client::Telegraf        0.2  pkg:cpan/Net-Statsd-Client-Telegraf@0.2
 Net::Statsd::Client::Timer          0.34  pkg:cpan/Net-Statsd-Client@0.34
-Net::Statsd::Lite                  v0.10.0  pkg:cpan/Net-Statsd-Lite@v0.10.0
+Net::Statsd::Lite                  v0.10.1  pkg:cpan/Net-Statsd-Lite@v0.10.1
 Net::Statsd::Server                 0.17  pkg:cpan/Net-Statsd-Server@0.20
 Net::Statsd::Server::Backend        0.20  pkg:cpan/Net-Statsd-Server@0.20
 Net::Statsd::Server::Backend::Console  0.20  pkg:cpan/Net-Statsd-Server@0.20
@@ -151784,7 +151793,7 @@ Net::Statsd::Server::Backend::Graphite  0.20  pkg:cpan/Net-Statsd-Server@0.20
 Net::Statsd::Server::Backend::Rrdtool  0.01  pkg:cpan/Net-Statsd-Server@0.20
 Net::Statsd::Server::Backend::Test  0.20  pkg:cpan/Net-Statsd-Server@0.20
 Net::Statsd::Server::Metrics        0.20  pkg:cpan/Net-Statsd-Server@0.20
-Net::Statsd::Tiny                  v0.3.7  pkg:cpan/Net-Statsd-Tiny@v0.3.7
+Net::Statsd::Tiny                  v0.3.8  pkg:cpan/Net-Statsd-Tiny@v0.3.8
 Net::Statsite::Client              v1.1.0  pkg:cpan/Net-Statsite-Client@1.1.0
 Net::Stomp                          0.62  pkg:cpan/Net-Stomp@0.62
 Net::Stomp::Frame                   0.61  pkg:cpan/Net-Stomp@0.62
