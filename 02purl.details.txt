@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 17 May 2026 18:58:52 GMT
+Last-Updated: Sun, 17 May 2026 20:41:03 GMT
 Line-Count: 264268
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -205451,10 +205451,10 @@ Resource::Pack::JSON::URL           0.01  pkg:cpan/Resource-Pack-JSON@0.01
 Resource::Pack::Resource            0.03  pkg:cpan/Resource-Pack@0.03
 Resource::Pack::URL                 0.03  pkg:cpan/Resource-Pack@0.03
 Resource::Pack::jQuery              0.01  pkg:cpan/Resource-Pack-jQuery@0.01
-Resource::Silo                      0.17  pkg:cpan/Resource-Silo@0.17
-Resource::Silo::Container           0.17  pkg:cpan/Resource-Silo@0.17
-Resource::Silo::Metadata            0.17  pkg:cpan/Resource-Silo@0.17
-Resource::Silo::Metadata::DAG       0.17  pkg:cpan/Resource-Silo@0.17
+Resource::Silo                     0.1701  pkg:cpan/Resource-Silo@0.1701
+Resource::Silo::Container          0.1701  pkg:cpan/Resource-Silo@0.1701
+Resource::Silo::Metadata           0.1701  pkg:cpan/Resource-Silo@0.1701
+Resource::Silo::Metadata::DAG      0.1701  pkg:cpan/Resource-Silo@0.1701
 ResourcePool                       1.0107  pkg:cpan/ResourcePool@1.0107
 ResourcePool::Command              1.0107  pkg:cpan/ResourcePool@1.0107
 ResourcePool::Command::DBI::Common 1.0101  pkg:cpan/ResourcePool-Resource-DBI@1.0101
