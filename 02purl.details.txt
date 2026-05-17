@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 17 May 2026 20:41:03 GMT
+Last-Updated: Sun, 17 May 2026 22:46:02 GMT
 Line-Count: 264268
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -205451,10 +205451,10 @@ Resource::Pack::JSON::URL           0.01  pkg:cpan/Resource-Pack-JSON@0.01
 Resource::Pack::Resource            0.03  pkg:cpan/Resource-Pack@0.03
 Resource::Pack::URL                 0.03  pkg:cpan/Resource-Pack@0.03
 Resource::Pack::jQuery              0.01  pkg:cpan/Resource-Pack-jQuery@0.01
-Resource::Silo                     0.1701  pkg:cpan/Resource-Silo@0.1701
-Resource::Silo::Container          0.1701  pkg:cpan/Resource-Silo@0.1701
-Resource::Silo::Metadata           0.1701  pkg:cpan/Resource-Silo@0.1701
-Resource::Silo::Metadata::DAG      0.1701  pkg:cpan/Resource-Silo@0.1701
+Resource::Silo                     0.1702  pkg:cpan/Resource-Silo@0.1702
+Resource::Silo::Container          0.1702  pkg:cpan/Resource-Silo@0.1702
+Resource::Silo::Metadata           0.1702  pkg:cpan/Resource-Silo@0.1702
+Resource::Silo::Metadata::DAG      0.1702  pkg:cpan/Resource-Silo@0.1702
 ResourcePool                       1.0107  pkg:cpan/ResourcePool@1.0107
 ResourcePool::Command              1.0107  pkg:cpan/ResourcePool@1.0107
 ResourcePool::Command::DBI::Common 1.0101  pkg:cpan/ResourcePool-Resource-DBI@1.0101
@@ -206483,9 +206483,9 @@ Role::RunAlone                     0.001000  pkg:cpan/Role-RunAlone@v0.1.0
 Role::Singleton                      0.2  pkg:cpan/Role-Multiton@0.2
 Role::Singleton::New                 0.2  pkg:cpan/Role-Multiton@0.2
 Role::Subsystem                    0.101342  pkg:cpan/Role-Subsystem@0.101342
-Role::Tiny                         2.002004  pkg:cpan/Role-Tiny@2.002004
+Role::Tiny                         2.002005  pkg:cpan/Role-Tiny@2.002005
 Role::Tiny::MonkeyPatch            undef  pkg:cpan/Role-Tiny-MonkeyPatch@0.002
-Role::Tiny::With                   2.002004  pkg:cpan/Role-Tiny@2.002004
+Role::Tiny::With                   2.002005  pkg:cpan/Role-Tiny@2.002005
 Role::TinyCommons                   0.01  pkg:cpan/Role-TinyCommons@0.01
 Role::TinyCommons::BinarySearch::LinesInHandle 0.001  pkg:cpan/Role-TinyCommons-BinarySearch-LinesInHandle@0.001
 Role::TinyCommons::CSel             0.02  pkg:cpan/Role-TinyCommons-CSel@0.02
@@ -221971,7 +221971,7 @@ Stats::Fermi::FermiDiracStats      undef  pkg:cpan/Stats-Fermi@0.1.7
 Stats::Hawking                     0.001003  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HTRandom           undef  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HawkingTemperature undef  pkg:cpan/Stats-Hawking@0.1.3
-Stats::LikeR                        0.03  pkg:cpan/Stats-LikeR@0.03
+Stats::LikeR                        0.04  pkg:cpan/Stats-LikeR@0.04
 StatsView::Graph                    1.15  pkg:cpan/StatsView@1.4
 StatsView::Graph::Iost             undef  pkg:cpan/StatsView@1.4
 StatsView::Graph::Iostat           undef  pkg:cpan/StatsView@1.4
