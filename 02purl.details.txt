@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 17 May 2026 13:04:53 GMT
+Last-Updated: Sun, 17 May 2026 14:51:07 GMT
 Line-Count: 264259
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -48201,16 +48201,16 @@ Container                            0.1  pkg:cpan/Net-Rackspace-Cloudfiles@0.1
 Container::Buildah                 0.003001  pkg:cpan/Container-Buildah@0.3.1
 Container::Buildah::Stage          0.003001  pkg:cpan/Container-Buildah@0.3.1
 Container::Buildah::Subcommand     0.003001  pkg:cpan/Container-Buildah@0.3.1
-Container::Builder                  0.11  pkg:cpan/Container-Builder@0.11
-Container::Builder::Config         undef  pkg:cpan/Container-Builder@0.11
-Container::Builder::Index          undef  pkg:cpan/Container-Builder@0.11
-Container::Builder::Layer          undef  pkg:cpan/Container-Builder@0.11
-Container::Builder::Layer::DebianPackageFile undef  pkg:cpan/Container-Builder@0.11
-Container::Builder::Layer::Directory undef  pkg:cpan/Container-Builder@0.11
-Container::Builder::Layer::SingleFile undef  pkg:cpan/Container-Builder@0.11
-Container::Builder::Layer::Tar     undef  pkg:cpan/Container-Builder@0.11
-Container::Builder::Manifest       undef  pkg:cpan/Container-Builder@0.11
-Container::Builder::Tar            undef  pkg:cpan/Container-Builder@0.11
+Container::Builder                  0.12  pkg:cpan/Container-Builder@0.12
+Container::Builder::Config         undef  pkg:cpan/Container-Builder@0.12
+Container::Builder::Index          undef  pkg:cpan/Container-Builder@0.12
+Container::Builder::Layer          undef  pkg:cpan/Container-Builder@0.12
+Container::Builder::Layer::DebianPackageFile undef  pkg:cpan/Container-Builder@0.12
+Container::Builder::Layer::Directory undef  pkg:cpan/Container-Builder@0.12
+Container::Builder::Layer::SingleFile undef  pkg:cpan/Container-Builder@0.12
+Container::Builder::Layer::Tar     undef  pkg:cpan/Container-Builder@0.12
+Container::Builder::Manifest       undef  pkg:cpan/Container-Builder@0.12
+Container::Builder::Tar            undef  pkg:cpan/Container-Builder@0.12
 ContentManager::DBI                undef  pkg:cpan/Class-DBI-Relationship-HasManyOrdered@0.03
 ContentManager::Image              undef  pkg:cpan/Class-DBI-Relationship-HasManyOrdered@0.03
 ContentManager::Page               undef  pkg:cpan/Class-DBI-Relationship-HasManyOrdered@0.03
@@ -74128,8 +74128,8 @@ File::Raw                           0.12  pkg:cpan/File-Raw@0.12
 File::Raw::Base64                   0.03  pkg:cpan/File-Raw-Base64@0.03
 File::Raw::Gzip                     0.02  pkg:cpan/File-Raw-Gzip@0.02
 File::Raw::Hash                     0.02  pkg:cpan/File-Raw-Hash@0.02
-File::Raw::JSON                     0.03  pkg:cpan/File-Raw-JSON@0.03
-File::Raw::JSON::Boolean            0.01  pkg:cpan/File-Raw-JSON@0.03
+File::Raw::JSON                     0.04  pkg:cpan/File-Raw-JSON@0.04
+File::Raw::JSON::Boolean            0.01  pkg:cpan/File-Raw-JSON@0.04
 File::Raw::Separated                0.03  pkg:cpan/File-Raw-Separated@0.03
 File::Rdiff                          1.0  pkg:cpan/File-Rdiff@1.0
 File::RdistByRsync                   0.3  pkg:cpan/File-RdistByRsync@0.3
