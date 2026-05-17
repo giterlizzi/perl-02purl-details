@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 17 May 2026 10:58:58 GMT
+Last-Updated: Sun, 17 May 2026 13:04:53 GMT
 Line-Count: 264259
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -136911,7 +136911,7 @@ Modem::VBox                        0.051  pkg:cpan/Modem-VBox@0.051
 Modem::VBox::Event                 0.051  pkg:cpan/Modem-VBox@0.051
 Modem::VBox::context               0.051  pkg:cpan/Modem-VBox@0.051
 Modem::Vgetty                       0.03  pkg:cpan/Modem-Vgetty@0.03
-Modern::Open                        0.14  pkg:cpan/Modern-Open@0.14
+Modern::Open                        0.15  pkg:cpan/Modern-Open@0.15
 Modern::OpenAPI::Generator         0.002  pkg:cpan/Modern-OpenAPI-Generator@0.002
 Modern::OpenAPI::Generator::CLI    undef  pkg:cpan/Modern-OpenAPI-Generator@0.002
 Modern::OpenAPI::Generator::CodeGen::Auth undef  pkg:cpan/Modern-OpenAPI-Generator@0.002
@@ -193840,7 +193840,7 @@ Perl6ish::Syntax::DotMethod        undef  pkg:cpan/Perl6ish@0.02
 Perl6ish::Syntax::constant         undef  pkg:cpan/Perl6ish@0.02
 Perl6ish::Syntax::state            undef  pkg:cpan/Perl6ish@0.02
 Perl6ish::Syntax::temp             undef  pkg:cpan/Perl6ish@0.02
-Perl7::Handy                        0.11  pkg:cpan/Perl7-Handy@0.11
+Perl7::Handy                        0.12  pkg:cpan/Perl7-Handy@0.12
 Perl::APIReference                  0.24  pkg:cpan/Perl-APIReference@0.24
 Perl::APIReference::Generator       0.01  pkg:cpan/Perl-APIReference@0.24
 Perl::APIReference::V5_006_000     undef  pkg:cpan/Perl-APIReference@0.24
