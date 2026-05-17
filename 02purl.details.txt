@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 16 May 2026 22:38:57 GMT
-Line-Count: 264252
+Last-Updated: Sun, 17 May 2026 02:31:46 GMT
+Line-Count: 264253
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -14698,6 +14698,7 @@ App::TextDiffUUtils                0.001  pkg:cpan/App-TextDiffUUtils@0.001
 App::TextFragmentUtils             0.002  pkg:cpan/App-TextFragmentUtils@0.002
 App::TextSimilarityUtils           0.001  pkg:cpan/App-TextSimilarityUtils@0.001
 App::TextTableUtils                0.010  pkg:cpan/App-TextTableUtils@0.010
+App::TextTemplatePermuteUtils      0.001  pkg:cpan/App-TextTemplatePermuteUtils@0.001
 App::TextWrapUtils                 0.007  pkg:cpan/App-TextWrapUtils@0.007
 App::Textcast                       0.06  pkg:cpan/App-Textcast@0.06.15
 App::Textile2x                     0.101  pkg:cpan/Text-Textile-Plaintext@0.101
