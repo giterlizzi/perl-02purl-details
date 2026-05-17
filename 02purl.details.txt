@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 17 May 2026 06:40:41 GMT
-Line-Count: 264256
+Last-Updated: Sun, 17 May 2026 09:29:16 GMT
+Line-Count: 264259
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -908,18 +908,18 @@ API::DirectAdmin::Domain            0.05  pkg:cpan/API-DirectAdmin@0.09
 API::DirectAdmin::Ip                0.05  pkg:cpan/API-DirectAdmin@0.09
 API::DirectAdmin::Mysql             0.05  pkg:cpan/API-DirectAdmin@0.09
 API::DirectAdmin::User              0.06  pkg:cpan/API-DirectAdmin@0.09
-API::Docker                        0.001  pkg:cpan/API-Docker@0.001
-API::Docker::API::Containers       0.001  pkg:cpan/API-Docker@0.001
-API::Docker::API::Exec             0.001  pkg:cpan/API-Docker@0.001
-API::Docker::API::Images           0.001  pkg:cpan/API-Docker@0.001
-API::Docker::API::Networks         0.001  pkg:cpan/API-Docker@0.001
-API::Docker::API::System           0.001  pkg:cpan/API-Docker@0.001
-API::Docker::API::Volumes          0.001  pkg:cpan/API-Docker@0.001
-API::Docker::Container             0.001  pkg:cpan/API-Docker@0.001
-API::Docker::Image                 0.001  pkg:cpan/API-Docker@0.001
-API::Docker::Network               0.001  pkg:cpan/API-Docker@0.001
-API::Docker::Role::HTTP            0.001  pkg:cpan/API-Docker@0.001
-API::Docker::Volume                0.001  pkg:cpan/API-Docker@0.001
+API::Docker                        0.002  pkg:cpan/API-Docker@0.002
+API::Docker::API::Containers       0.002  pkg:cpan/API-Docker@0.002
+API::Docker::API::Exec             0.002  pkg:cpan/API-Docker@0.002
+API::Docker::API::Images           0.002  pkg:cpan/API-Docker@0.002
+API::Docker::API::Networks         0.002  pkg:cpan/API-Docker@0.002
+API::Docker::API::System           0.002  pkg:cpan/API-Docker@0.002
+API::Docker::API::Volumes          0.002  pkg:cpan/API-Docker@0.002
+API::Docker::Container             0.002  pkg:cpan/API-Docker@0.002
+API::Docker::Image                 0.002  pkg:cpan/API-Docker@0.002
+API::Docker::Network               0.002  pkg:cpan/API-Docker@0.002
+API::Docker::Role::HTTP            0.002  pkg:cpan/API-Docker@0.002
+API::Docker::Volume                0.002  pkg:cpan/API-Docker@0.002
 API::Drip::Request                  0.05  pkg:cpan/API-Drip-Request@0.05
 API::Eulerian                        2.3  pkg:cpan/API-Eulerian@2.3
 API::Eulerian::EDW                 undef  pkg:cpan/API-Eulerian@2.3
@@ -11028,6 +11028,9 @@ App::LogChannel                     3666  pkg:cpan/App-Context@0.962
 App::LogGerUtils                   0.002  pkg:cpan/App-LogGerUtils@0.002
 App::LogStats                      0.091  pkg:cpan/App-LogStats@0.091
 App::Logs                              0  pkg:cpan/App-FargateStack@1.0.50
+App::Lorem::Tickit                  0.01  pkg:cpan/App-Lorem-Tickit@0.01
+App::Lorem::Tickit::TextWidget      0.01  pkg:cpan/App-Lorem-Tickit@0.01
+App::Lorem::Tickit::Widget          0.01  pkg:cpan/App-Lorem-Tickit@0.01
 App::MARC::Count                    0.04  pkg:cpan/App-MARC-Count@0.04
 App::MARC::Field008                 0.01  pkg:cpan/App-MARC-Field008@0.01
 App::MARC::Filter                    0.1  pkg:cpan/App-MARC-Filter@0.10
@@ -15729,41 +15732,41 @@ App::jsonsel                       0.008  pkg:cpan/App-jsonsel@0.008
 App::jsonvalidate                  0.002000  pkg:cpan/App-jsonvalidate@v0.2.0
 App::jt                             0.43  pkg:cpan/App-jt@0.43
 App::jupiter                        1.09  pkg:cpan/App-jupiter@1.09
-App::karr                          0.201  pkg:cpan/App-karr@0.201
-App::karr::ActivityLog             0.201  pkg:cpan/App-karr@0.201
-App::karr::BoardStore              0.201  pkg:cpan/App-karr@0.201
-App::karr::Cmd::AgentName          0.201  pkg:cpan/App-karr@0.201
-App::karr::Cmd::Archive            0.201  pkg:cpan/App-karr@0.201
-App::karr::Cmd::Backup             0.201  pkg:cpan/App-karr@0.201
-App::karr::Cmd::Board              0.201  pkg:cpan/App-karr@0.201
-App::karr::Cmd::Config             0.201  pkg:cpan/App-karr@0.201
-App::karr::Cmd::Context            0.201  pkg:cpan/App-karr@0.201
-App::karr::Cmd::Create             0.201  pkg:cpan/App-karr@0.201
-App::karr::Cmd::Delete             0.201  pkg:cpan/App-karr@0.201
-App::karr::Cmd::Destroy            0.201  pkg:cpan/App-karr@0.201
-App::karr::Cmd::Edit               0.201  pkg:cpan/App-karr@0.201
-App::karr::Cmd::GetRefs            0.201  pkg:cpan/App-karr@0.201
-App::karr::Cmd::Handoff            0.201  pkg:cpan/App-karr@0.201
-App::karr::Cmd::Init               0.201  pkg:cpan/App-karr@0.201
-App::karr::Cmd::List               0.201  pkg:cpan/App-karr@0.201
-App::karr::Cmd::Log                0.201  pkg:cpan/App-karr@0.201
-App::karr::Cmd::Move               0.201  pkg:cpan/App-karr@0.201
-App::karr::Cmd::Pick               0.201  pkg:cpan/App-karr@0.201
-App::karr::Cmd::Restore            0.201  pkg:cpan/App-karr@0.201
-App::karr::Cmd::SetRefs            0.201  pkg:cpan/App-karr@0.201
-App::karr::Cmd::Show               0.201  pkg:cpan/App-karr@0.201
-App::karr::Cmd::Skill              0.201  pkg:cpan/App-karr@0.201
-App::karr::Cmd::Sync               0.201  pkg:cpan/App-karr@0.201
-App::karr::Config                  0.201  pkg:cpan/App-karr@0.201
-App::karr::Git                     0.201  pkg:cpan/App-karr@0.201
-App::karr::Lock                    0.201  pkg:cpan/App-karr@0.201
-App::karr::Role::BoardAccess       0.201  pkg:cpan/App-karr@0.201
-App::karr::Role::BoardDiscovery    0.201  pkg:cpan/App-karr@0.201
-App::karr::Role::ClaimTimeout      0.201  pkg:cpan/App-karr@0.201
-App::karr::Role::Output            0.201  pkg:cpan/App-karr@0.201
-App::karr::Role::SyncLifecycle     0.201  pkg:cpan/App-karr@0.201
-App::karr::SyncGuard               0.201  pkg:cpan/App-karr@0.201
-App::karr::Task                    0.201  pkg:cpan/App-karr@0.201
+App::karr                          0.202  pkg:cpan/App-karr@0.202
+App::karr::ActivityLog             0.202  pkg:cpan/App-karr@0.202
+App::karr::BoardStore              0.202  pkg:cpan/App-karr@0.202
+App::karr::Cmd::AgentName          0.202  pkg:cpan/App-karr@0.202
+App::karr::Cmd::Archive            0.202  pkg:cpan/App-karr@0.202
+App::karr::Cmd::Backup             0.202  pkg:cpan/App-karr@0.202
+App::karr::Cmd::Board              0.202  pkg:cpan/App-karr@0.202
+App::karr::Cmd::Config             0.202  pkg:cpan/App-karr@0.202
+App::karr::Cmd::Context            0.202  pkg:cpan/App-karr@0.202
+App::karr::Cmd::Create             0.202  pkg:cpan/App-karr@0.202
+App::karr::Cmd::Delete             0.202  pkg:cpan/App-karr@0.202
+App::karr::Cmd::Destroy            0.202  pkg:cpan/App-karr@0.202
+App::karr::Cmd::Edit               0.202  pkg:cpan/App-karr@0.202
+App::karr::Cmd::GetRefs            0.202  pkg:cpan/App-karr@0.202
+App::karr::Cmd::Handoff            0.202  pkg:cpan/App-karr@0.202
+App::karr::Cmd::Init               0.202  pkg:cpan/App-karr@0.202
+App::karr::Cmd::List               0.202  pkg:cpan/App-karr@0.202
+App::karr::Cmd::Log                0.202  pkg:cpan/App-karr@0.202
+App::karr::Cmd::Move               0.202  pkg:cpan/App-karr@0.202
+App::karr::Cmd::Pick               0.202  pkg:cpan/App-karr@0.202
+App::karr::Cmd::Restore            0.202  pkg:cpan/App-karr@0.202
+App::karr::Cmd::SetRefs            0.202  pkg:cpan/App-karr@0.202
+App::karr::Cmd::Show               0.202  pkg:cpan/App-karr@0.202
+App::karr::Cmd::Skill              0.202  pkg:cpan/App-karr@0.202
+App::karr::Cmd::Sync               0.202  pkg:cpan/App-karr@0.202
+App::karr::Config                  0.202  pkg:cpan/App-karr@0.202
+App::karr::Git                     0.202  pkg:cpan/App-karr@0.202
+App::karr::Lock                    0.202  pkg:cpan/App-karr@0.202
+App::karr::Role::BoardAccess       0.202  pkg:cpan/App-karr@0.202
+App::karr::Role::BoardDiscovery    0.202  pkg:cpan/App-karr@0.202
+App::karr::Role::ClaimTimeout      0.202  pkg:cpan/App-karr@0.202
+App::karr::Role::Output            0.202  pkg:cpan/App-karr@0.202
+App::karr::Role::SyncLifecycle     0.202  pkg:cpan/App-karr@0.202
+App::karr::SyncGuard               0.202  pkg:cpan/App-karr@0.202
+App::karr::Task                    0.202  pkg:cpan/App-karr@0.202
 App::keycommon                     0.0012  pkg:cpan/App-keycommon@0.0012
 App::lapidary                       1.05  pkg:cpan/App-lapidary@1.05
 App::lasttouch                     0.041  pkg:cpan/App-lasttouch@0.041
@@ -33091,7 +33094,7 @@ CPAN::02Packages::Search           0.100  pkg:cpan/CPAN-02Packages-Search@0.100
 CPAN::API::BuildPL                 0.002  pkg:cpan/CPAN-API-BuildPL@0.002
 CPAN::Admin                        5.501  pkg:cpan/CPAN@2.38
 CPAN::Audit                        20260308.002  pkg:cpan/CPAN-Audit@20260308.002
-CPAN::Audit::DB                    20260503.001  pkg:cpan/CPANSA-DB@20260503.001
+CPAN::Audit::DB                    20260517.001  pkg:cpan/CPANSA-DB@20260517.001
 CPAN::Audit::Discover              1.001  pkg:cpan/CPAN-Audit@20260308.002
 CPAN::Audit::Discover::Cpanfile    1.001  pkg:cpan/CPAN-Audit@20260308.002
 CPAN::Audit::Discover::CpanfileSnapshot 1.001  pkg:cpan/CPAN-Audit@20260308.002
@@ -33861,7 +33864,7 @@ CPANPLUS::YACSmoke::ReAssemble      1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::SortVers        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::locallib        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::inc                      undef  pkg:cpan/CPANPLUS@0.84
-CPANSA::DB                         20260503.001  pkg:cpan/CPANSA-DB@20260503.001
+CPANSA::DB                         20260517.001  pkg:cpan/CPANSA-DB@20260517.001
 CPANSEC::Admin                     0.001  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command            undef  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command::Amend     undef  pkg:cpan/CPANSec-Admin@0.001
@@ -63937,7 +63940,7 @@ Devel::Autoflush                    0.06  pkg:cpan/Devel-Autoflush@0.06
 Devel::Backtrace                    0.12  pkg:cpan/Devel-Backtrace@0.12
 Devel::Backtrace::Point             0.11  pkg:cpan/Devel-Backtrace@0.12
 Devel::BeginLift                   0.001003  pkg:cpan/Devel-BeginLift@0.001003
-Devel::Bug                          0.05  pkg:cpan/Devel-Bug@0.05
+Devel::Bug                          0.06  pkg:cpan/Devel-Bug@0.06
 Devel::CCompat::C99::ScopedVariables 0.002  pkg:cpan/Devel-CCompat-C99-ScopedVariables@0.002
 Devel::CCompat::C99::VariableLengthArrays 0.002  pkg:cpan/Devel-CCompat-C99-VariableLengthArrays@0.002
 Devel::CCov                         0.20  pkg:cpan/Devel-CCov@0.20
@@ -66596,12 +66599,12 @@ Dist::Zilla::Plugin::DistINI       6.037  pkg:cpan/Dist-Zilla@6.037
 Dist::Zilla::Plugin::DistIller::MetaGeneratedBy 0.1411  pkg:cpan/Dist-Iller@0.1411
 Dist::Zilla::Plugin::DistManifestTests 2.000006  pkg:cpan/Dist-Zilla-Plugin-Test-DistManifest@2.000006
 Dist::Zilla::Plugin::Docker         0.01  pkg:cpan/Dist-Zilla-Plugin-Docker@0.01
-Dist::Zilla::Plugin::Docker::API   0.100  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.100
-Dist::Zilla::Plugin::Docker::API::Client 0.100  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.100
+Dist::Zilla::Plugin::Docker::API   0.101  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.101
+Dist::Zilla::Plugin::Docker::API::Client 0.101  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.101
 Dist::Zilla::Plugin::Docker::API::Config 0.100  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.100
 Dist::Zilla::Plugin::Docker::API::Context 0.100  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.100
-Dist::Zilla::Plugin::Docker::API::Result 0.100  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.100
-Dist::Zilla::Plugin::Docker::API::TagTemplate 0.100  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.100
+Dist::Zilla::Plugin::Docker::API::Result 0.101  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.101
+Dist::Zilla::Plugin::Docker::API::TagTemplate 0.101  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.101
 Dist::Zilla::Plugin::Docker::DockerClient  0.01  pkg:cpan/Dist-Zilla-Plugin-Docker@0.01
 Dist::Zilla::Plugin::Documentation::SQL  0.03  pkg:cpan/Dist-Zilla-Plugin-Documentation-SQL@0.03
 Dist::Zilla::Plugin::Doppelgaenger 0.008  pkg:cpan/Dist-Zilla-Plugin-Doppelgaenger@0.008
@@ -103930,7 +103933,7 @@ Graphics::ColorNamesLite::WWW      1.014000  pkg:cpan/Graphics-ColorNamesLite-WW
 Graphics::ColorObject              0.005000  pkg:cpan/Graphics-ColorObject@0.5.0
 Graphics::ColorPicker               0.17  pkg:cpan/Graphics-ColorPicker@0.17
 Graphics::ColorUtils                0.17  pkg:cpan/Graphics-ColorUtils@0.17
-Graphics::Colourset                0.0601  pkg:cpan/Graphics-Colourset@0.0601
+Graphics::Colourset                 0.07  pkg:cpan/Graphics-Colourset@0.07
 Graphics::DZI                       0.05  pkg:cpan/Graphics-DZI@0.05
 Graphics::DZI::A4                   0.02  pkg:cpan/Graphics-DZI@0.05
 Graphics::DZI::Document             0.01  pkg:cpan/Graphics-DZI@0.05
@@ -109050,7 +109053,7 @@ HTTP::Throwable::Unauthorized      undef  pkg:cpan/HTTP-Throwable@0.004
 HTTP::Throwable::UnsupportedMediaType undef  pkg:cpan/HTTP-Throwable@0.004
 HTTP::Throwable::UseProxy          undef  pkg:cpan/HTTP-Throwable@0.004
 HTTP::Throwable::Variant           0.028  pkg:cpan/HTTP-Throwable@0.028
-HTTP::Tiny                         0.092  pkg:cpan/HTTP-Tiny@0.092
+HTTP::Tiny                         0.094  pkg:cpan/HTTP-Tiny@0.094
 HTTP::Tiny::Bandwidth               0.01  pkg:cpan/HTTP-Tiny-Bandwidth@0.01
 HTTP::Tiny::Cache                  0.002  pkg:cpan/HTTP-Tiny-Cache@0.002
 HTTP::Tiny::Cache_CustomRetry      0.003  pkg:cpan/HTTP-Tiny-Cache_CustomRetry@0.003
