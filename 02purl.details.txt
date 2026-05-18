@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 17 May 2026 22:46:02 GMT
+Last-Updated: Mon, 18 May 2026 02:41:51 GMT
 Line-Count: 264268
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -14701,7 +14701,7 @@ App::TextDiffUUtils                0.001  pkg:cpan/App-TextDiffUUtils@0.001
 App::TextFragmentUtils             0.002  pkg:cpan/App-TextFragmentUtils@0.002
 App::TextSimilarityUtils           0.001  pkg:cpan/App-TextSimilarityUtils@0.001
 App::TextTableUtils                0.010  pkg:cpan/App-TextTableUtils@0.010
-App::TextTemplatePermuteUtils      0.001  pkg:cpan/App-TextTemplatePermuteUtils@0.001
+App::TextTemplatePermuteUtils      0.002  pkg:cpan/App-TextTemplatePermuteUtils@0.002
 App::TextWrapUtils                 0.007  pkg:cpan/App-TextWrapUtils@0.007
 App::Textcast                       0.06  pkg:cpan/App-Textcast@0.06.15
 App::Textile2x                     0.101  pkg:cpan/Text-Textile-Plaintext@0.101
@@ -15732,41 +15732,41 @@ App::jsonsel                       0.008  pkg:cpan/App-jsonsel@0.008
 App::jsonvalidate                  0.002000  pkg:cpan/App-jsonvalidate@v0.2.0
 App::jt                             0.43  pkg:cpan/App-jt@0.43
 App::jupiter                        1.09  pkg:cpan/App-jupiter@1.09
-App::karr                          0.202  pkg:cpan/App-karr@0.202
-App::karr::ActivityLog             0.202  pkg:cpan/App-karr@0.202
-App::karr::BoardStore              0.202  pkg:cpan/App-karr@0.202
-App::karr::Cmd::AgentName          0.202  pkg:cpan/App-karr@0.202
-App::karr::Cmd::Archive            0.202  pkg:cpan/App-karr@0.202
-App::karr::Cmd::Backup             0.202  pkg:cpan/App-karr@0.202
-App::karr::Cmd::Board              0.202  pkg:cpan/App-karr@0.202
-App::karr::Cmd::Config             0.202  pkg:cpan/App-karr@0.202
-App::karr::Cmd::Context            0.202  pkg:cpan/App-karr@0.202
-App::karr::Cmd::Create             0.202  pkg:cpan/App-karr@0.202
-App::karr::Cmd::Delete             0.202  pkg:cpan/App-karr@0.202
-App::karr::Cmd::Destroy            0.202  pkg:cpan/App-karr@0.202
-App::karr::Cmd::Edit               0.202  pkg:cpan/App-karr@0.202
-App::karr::Cmd::GetRefs            0.202  pkg:cpan/App-karr@0.202
-App::karr::Cmd::Handoff            0.202  pkg:cpan/App-karr@0.202
-App::karr::Cmd::Init               0.202  pkg:cpan/App-karr@0.202
-App::karr::Cmd::List               0.202  pkg:cpan/App-karr@0.202
-App::karr::Cmd::Log                0.202  pkg:cpan/App-karr@0.202
-App::karr::Cmd::Move               0.202  pkg:cpan/App-karr@0.202
-App::karr::Cmd::Pick               0.202  pkg:cpan/App-karr@0.202
-App::karr::Cmd::Restore            0.202  pkg:cpan/App-karr@0.202
-App::karr::Cmd::SetRefs            0.202  pkg:cpan/App-karr@0.202
-App::karr::Cmd::Show               0.202  pkg:cpan/App-karr@0.202
-App::karr::Cmd::Skill              0.202  pkg:cpan/App-karr@0.202
-App::karr::Cmd::Sync               0.202  pkg:cpan/App-karr@0.202
-App::karr::Config                  0.202  pkg:cpan/App-karr@0.202
-App::karr::Git                     0.202  pkg:cpan/App-karr@0.202
-App::karr::Lock                    0.202  pkg:cpan/App-karr@0.202
-App::karr::Role::BoardAccess       0.202  pkg:cpan/App-karr@0.202
-App::karr::Role::BoardDiscovery    0.202  pkg:cpan/App-karr@0.202
-App::karr::Role::ClaimTimeout      0.202  pkg:cpan/App-karr@0.202
-App::karr::Role::Output            0.202  pkg:cpan/App-karr@0.202
-App::karr::Role::SyncLifecycle     0.202  pkg:cpan/App-karr@0.202
-App::karr::SyncGuard               0.202  pkg:cpan/App-karr@0.202
-App::karr::Task                    0.202  pkg:cpan/App-karr@0.202
+App::karr                          0.205  pkg:cpan/App-karr@0.205
+App::karr::ActivityLog             0.205  pkg:cpan/App-karr@0.205
+App::karr::BoardStore              0.205  pkg:cpan/App-karr@0.205
+App::karr::Cmd::AgentName          0.205  pkg:cpan/App-karr@0.205
+App::karr::Cmd::Archive            0.205  pkg:cpan/App-karr@0.205
+App::karr::Cmd::Backup             0.205  pkg:cpan/App-karr@0.205
+App::karr::Cmd::Board              0.205  pkg:cpan/App-karr@0.205
+App::karr::Cmd::Config             0.205  pkg:cpan/App-karr@0.205
+App::karr::Cmd::Context            0.205  pkg:cpan/App-karr@0.205
+App::karr::Cmd::Create             0.205  pkg:cpan/App-karr@0.205
+App::karr::Cmd::Delete             0.205  pkg:cpan/App-karr@0.205
+App::karr::Cmd::Destroy            0.205  pkg:cpan/App-karr@0.205
+App::karr::Cmd::Edit               0.205  pkg:cpan/App-karr@0.205
+App::karr::Cmd::GetRefs            0.205  pkg:cpan/App-karr@0.205
+App::karr::Cmd::Handoff            0.205  pkg:cpan/App-karr@0.205
+App::karr::Cmd::Init               0.205  pkg:cpan/App-karr@0.205
+App::karr::Cmd::List               0.205  pkg:cpan/App-karr@0.205
+App::karr::Cmd::Log                0.205  pkg:cpan/App-karr@0.205
+App::karr::Cmd::Move               0.205  pkg:cpan/App-karr@0.205
+App::karr::Cmd::Pick               0.205  pkg:cpan/App-karr@0.205
+App::karr::Cmd::Restore            0.205  pkg:cpan/App-karr@0.205
+App::karr::Cmd::SetRefs            0.205  pkg:cpan/App-karr@0.205
+App::karr::Cmd::Show               0.205  pkg:cpan/App-karr@0.205
+App::karr::Cmd::Skill              0.205  pkg:cpan/App-karr@0.205
+App::karr::Cmd::Sync               0.205  pkg:cpan/App-karr@0.205
+App::karr::Config                  0.205  pkg:cpan/App-karr@0.205
+App::karr::Git                     0.205  pkg:cpan/App-karr@0.205
+App::karr::Lock                    0.205  pkg:cpan/App-karr@0.205
+App::karr::Role::BoardAccess       0.205  pkg:cpan/App-karr@0.205
+App::karr::Role::BoardDiscovery    0.205  pkg:cpan/App-karr@0.205
+App::karr::Role::ClaimTimeout      0.205  pkg:cpan/App-karr@0.205
+App::karr::Role::Output            0.205  pkg:cpan/App-karr@0.205
+App::karr::Role::SyncLifecycle     0.205  pkg:cpan/App-karr@0.205
+App::karr::SyncGuard               0.205  pkg:cpan/App-karr@0.205
+App::karr::Task                    0.205  pkg:cpan/App-karr@0.205
 App::keycommon                     0.0012  pkg:cpan/App-keycommon@0.0012
 App::lapidary                       1.05  pkg:cpan/App-lapidary@1.05
 App::lasttouch                     0.041  pkg:cpan/App-lasttouch@0.041
@@ -34673,7 +34673,7 @@ Cache::Entry                        2.11  pkg:cpan/Cache@2.11
 Cache::Escalate                     0.02  pkg:cpan/Cache-Escalate@0.02
 Cache::FastMemoryBackend           undef  pkg:cpan/Cache-FastMemoryCache@0.01
 Cache::FastMemoryCache              0.01  pkg:cpan/Cache-FastMemoryCache@0.01
-Cache::FastMmap                     1.61  pkg:cpan/Cache-FastMmap@1.61
+Cache::FastMmap                     1.62  pkg:cpan/Cache-FastMmap@1.62
 Cache::FastMmap::OnLeave            1.60  pkg:cpan/Cache-FastMmap@1.60
 Cache::FastMmap::Tie                0.03  pkg:cpan/Cache-FastMmap-Tie@0.03
 Cache::File                         2.11  pkg:cpan/Cache@2.11
@@ -66151,7 +66151,7 @@ Dispatch::Profile::Forwarder       0.001  pkg:cpan/Dispatch-Profile-Forwarder@0.
 Dispatcher::Small                   0.02  pkg:cpan/Dispatcher-Small@0.02
 Display::Resolution                0.005  pkg:cpan/Display-Resolution@0.005
 Disque                              0.04  pkg:cpan/Disque@0.04
-Dist::AutomationPolicy             v0.2.0  pkg:cpan/Dist-AutomationPolicy@v0.2.0
+Dist::AutomationPolicy             v0.2.1  pkg:cpan/Dist-AutomationPolicy@v0.2.1
 Dist::Banshee                      0.002  pkg:cpan/Dist-Banshee@0.002
 Dist::Banshee::Core                0.002  pkg:cpan/Dist-Banshee@0.002
 Dist::Banshee::Git                 0.002  pkg:cpan/Dist-Banshee@0.002
@@ -151793,7 +151793,7 @@ Net::Statsd::Server::Backend::Graphite  0.20  pkg:cpan/Net-Statsd-Server@0.20
 Net::Statsd::Server::Backend::Rrdtool  0.01  pkg:cpan/Net-Statsd-Server@0.20
 Net::Statsd::Server::Backend::Test  0.20  pkg:cpan/Net-Statsd-Server@0.20
 Net::Statsd::Server::Metrics        0.20  pkg:cpan/Net-Statsd-Server@0.20
-Net::Statsd::Tiny                  v0.3.8  pkg:cpan/Net-Statsd-Tiny@v0.3.8
+Net::Statsd::Tiny                  v0.3.9  pkg:cpan/Net-Statsd-Tiny@v0.3.9
 Net::Statsite::Client              v1.1.0  pkg:cpan/Net-Statsite-Client@1.1.0
 Net::Stomp                          0.62  pkg:cpan/Net-Stomp@0.62
 Net::Stomp::Frame                   0.61  pkg:cpan/Net-Stomp@0.62
