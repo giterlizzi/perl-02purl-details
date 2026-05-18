@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 18 May 2026 21:04:26 GMT
+Last-Updated: Mon, 18 May 2026 22:53:24 GMT
 Line-Count: 264281
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -9510,13 +9510,13 @@ App::CreateAcmeCPANModulesImportModules 0.001  pkg:cpan/App-CreateAcmeCPANModule
 App::CreateRandomFile              0.021  pkg:cpan/App-CreateRandomFile@0.021
 App::CreateSelfSignedSSLCert       0.152  pkg:cpan/App-CreateSelfSignedSSLCert@0.152
 App::CreateSparseFile              0.080  pkg:cpan/App-CreateSparseFile@0.080
-App::CriticDB                      0.000002  pkg:cpan/App-CriticDB@0.0.2
-App::CriticDB::Collector           0.000002  pkg:cpan/App-CriticDB@0.0.2
-App::CriticDB::DB                  0.000002  pkg:cpan/App-CriticDB@0.0.2
-App::CriticDB::DB::Index           0.000002  pkg:cpan/App-CriticDB@0.0.2
-App::CriticDB::DB::Index::Id       0.000002  pkg:cpan/App-CriticDB@0.0.2
-App::CriticDB::DB::Index::Set      0.000002  pkg:cpan/App-CriticDB@0.0.2
-App::CriticDB::DB::Stor            0.000002  pkg:cpan/App-CriticDB@0.0.2
+App::CriticDB                      0.000003  pkg:cpan/App-CriticDB@0.0.3
+App::CriticDB::Collector           0.000003  pkg:cpan/App-CriticDB@0.0.3
+App::CriticDB::DB                  0.000003  pkg:cpan/App-CriticDB@0.0.3
+App::CriticDB::DB::Index           0.000003  pkg:cpan/App-CriticDB@0.0.3
+App::CriticDB::DB::Index::Id       0.000003  pkg:cpan/App-CriticDB@0.0.3
+App::CriticDB::DB::Index::Set      0.000003  pkg:cpan/App-CriticDB@0.0.3
+App::CriticDB::DB::Stor            0.000003  pkg:cpan/App-CriticDB@0.0.3
 App::Critique                       0.05  pkg:cpan/App-Critique@0.05
 App::Critique::Command              0.05  pkg:cpan/App-Critique@0.05
 App::Critique::Command::clean       0.05  pkg:cpan/App-Critique@0.05
@@ -57750,17 +57750,17 @@ Data::HashMap::SI                   0.08  pkg:cpan/Data-HashMap@0.08
 Data::HashMap::SI16                 0.08  pkg:cpan/Data-HashMap@0.08
 Data::HashMap::SI32                 0.08  pkg:cpan/Data-HashMap@0.08
 Data::HashMap::SS                   0.08  pkg:cpan/Data-HashMap@0.08
-Data::HashMap::Shared               0.07  pkg:cpan/Data-HashMap-Shared@0.07
-Data::HashMap::Shared::I16          0.07  pkg:cpan/Data-HashMap-Shared@0.07
-Data::HashMap::Shared::I16S         0.07  pkg:cpan/Data-HashMap-Shared@0.07
-Data::HashMap::Shared::I32          0.07  pkg:cpan/Data-HashMap-Shared@0.07
-Data::HashMap::Shared::I32S         0.07  pkg:cpan/Data-HashMap-Shared@0.07
-Data::HashMap::Shared::II           0.07  pkg:cpan/Data-HashMap-Shared@0.07
-Data::HashMap::Shared::IS           0.07  pkg:cpan/Data-HashMap-Shared@0.07
-Data::HashMap::Shared::SI           0.07  pkg:cpan/Data-HashMap-Shared@0.07
-Data::HashMap::Shared::SI16         0.07  pkg:cpan/Data-HashMap-Shared@0.07
-Data::HashMap::Shared::SI32         0.07  pkg:cpan/Data-HashMap-Shared@0.07
-Data::HashMap::Shared::SS           0.07  pkg:cpan/Data-HashMap-Shared@0.07
+Data::HashMap::Shared               0.08  pkg:cpan/Data-HashMap-Shared@0.08
+Data::HashMap::Shared::I16          0.08  pkg:cpan/Data-HashMap-Shared@0.08
+Data::HashMap::Shared::I16S         0.08  pkg:cpan/Data-HashMap-Shared@0.08
+Data::HashMap::Shared::I32          0.08  pkg:cpan/Data-HashMap-Shared@0.08
+Data::HashMap::Shared::I32S         0.08  pkg:cpan/Data-HashMap-Shared@0.08
+Data::HashMap::Shared::II           0.08  pkg:cpan/Data-HashMap-Shared@0.08
+Data::HashMap::Shared::IS           0.08  pkg:cpan/Data-HashMap-Shared@0.08
+Data::HashMap::Shared::SI           0.08  pkg:cpan/Data-HashMap-Shared@0.08
+Data::HashMap::Shared::SI16         0.08  pkg:cpan/Data-HashMap-Shared@0.08
+Data::HashMap::Shared::SI32         0.08  pkg:cpan/Data-HashMap-Shared@0.08
+Data::HashMap::Shared::SS           0.08  pkg:cpan/Data-HashMap-Shared@0.08
 Data::HashType                      0.07  pkg:cpan/Data-HashType@0.07
 Data::Header::Fields                0.05  pkg:cpan/Data-Header-Fields@0.05
 Data::Heap::Shared                  0.03  pkg:cpan/Data-Heap-Shared@0.03
@@ -63106,8 +63106,8 @@ DateTime::Locale                    1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Base              1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Catalog           1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Data              1.45  pkg:cpan/DateTime-Locale@1.45
-DateTime::Locale::FromCLDR         0.008002  pkg:cpan/DateTime-Locale-FromCLDR@v0.8.2
-DateTime::Locale::FromCLDR::Exception 0.008002  pkg:cpan/DateTime-Locale-FromCLDR@v0.8.2
+DateTime::Locale::FromCLDR         0.008004  pkg:cpan/DateTime-Locale-FromCLDR@v0.8.4
+DateTime::Locale::FromCLDR::Exception 0.008004  pkg:cpan/DateTime-Locale-FromCLDR@v0.8.4
 DateTime::Locale::FromData          1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Util              1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Moonpig                   1.03  pkg:cpan/DateTime-Moonpig@1.03
@@ -67203,8 +67203,8 @@ Dist::Zilla::PluginBundle::Author::DOMM 0.912  pkg:cpan/Dist-Zilla-PluginBundle-
 Dist::Zilla::PluginBundle::Author::ETHER 0.172  pkg:cpan/Dist-Zilla-PluginBundle-Author-ETHER@0.172
 Dist::Zilla::PluginBundle::Author::FERREIRA v0.4.0  pkg:cpan/Dist-Zilla-PluginBundle-Author-FERREIRA@0.4.0
 Dist::Zilla::PluginBundle::Author::GABRIEL  0.01  pkg:cpan/Dist-Zilla-PluginBundle-Author-GABRIEL@0.01
-Dist::Zilla::PluginBundle::Author::GETTY 0.311  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.311
-Dist::Zilla::PluginBundle::Author::GETTY::Docker 0.311  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.311
+Dist::Zilla::PluginBundle::Author::GETTY 0.312  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.312
+Dist::Zilla::PluginBundle::Author::GETTY::Docker 0.312  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.312
 Dist::Zilla::PluginBundle::Author::GSG v0.6.2  pkg:cpan/Dist-Zilla-PluginBundle-Author-GSG@v0.6.2
 Dist::Zilla::PluginBundle::Author::GTERMARS  0.06  pkg:cpan/Dist-Zilla-PluginBundle-Author-GTERMARS@0.06
 Dist::Zilla::PluginBundle::Author::HAYOBAAN 0.016  pkg:cpan/Dist-Zilla-PluginBundle-Author-HAYOBAAN@0.016
@@ -125721,12 +125721,12 @@ Locale::Tie                         0.03  pkg:cpan/Locale-Tie@0.03
 Locale::Tie::SCALAR                 0.03  pkg:cpan/Locale-Tie@0.03
 Locale::US                          3.04  pkg:cpan/Locale-US@3.04
 Locale::US::CensusDivisions        1.001000  pkg:cpan/Locale-US-CensusDivisions@1.1.0
-Locale::Unicode                    0.004000  pkg:cpan/Locale-Unicode@v0.4.0
-Locale::Unicode::Boolean           0.004000  pkg:cpan/Locale-Unicode@v0.4.0
+Locale::Unicode                    0.004003  pkg:cpan/Locale-Unicode@v0.4.3
+Locale::Unicode::Boolean           0.004003  pkg:cpan/Locale-Unicode@v0.4.3
 Locale::Unicode::Data              1.008003  pkg:cpan/Locale-Unicode-Data@v1.8.3
 Locale::Unicode::Data::Boolean     1.008003  pkg:cpan/Locale-Unicode-Data@v1.8.3
 Locale::Unicode::Data::Exception   1.008003  pkg:cpan/Locale-Unicode-Data@v1.8.3
-Locale::Unicode::Exception         0.004000  pkg:cpan/Locale-Unicode@v0.4.0
+Locale::Unicode::Exception         0.004003  pkg:cpan/Locale-Unicode@v0.4.3
 Locale::Util                       undef  pkg:cpan/libintl-perl@1.37
 Locale::Utils::Autotranslator      1.016  pkg:cpan/Locale-Utils-Autotranslator@1.016
 Locale::Utils::Autotranslator::ApiMymemoryTranslatedNet 1.010  pkg:cpan/Locale-Utils-Autotranslator@1.016
@@ -197741,7 +197741,7 @@ Pod::Elemental::Paragraph          0.103006  pkg:cpan/Pod-Elemental@0.103006
 Pod::Elemental::PerlMunger         0.200007  pkg:cpan/Pod-Elemental-PerlMunger@0.200007
 Pod::Elemental::Selectors          0.103006  pkg:cpan/Pod-Elemental@0.103006
 Pod::Elemental::Transformer        0.103006  pkg:cpan/Pod-Elemental@0.103006
-Pod::Elemental::Transformer::Author::GETTY 0.311  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.311
+Pod::Elemental::Transformer::Author::GETTY 0.312  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.312
 Pod::Elemental::Transformer::Codebox 0.101001  pkg:cpan/Pod-Elemental-Transformer-SynHi@0.101001
 Pod::Elemental::Transformer::Cowl_GenDoc undef  pkg:cpan/RDF-Cowl@1.0.0
 Pod::Elemental::Transformer::Ditaa 0.001006  pkg:cpan/Pod-Weaver-Plugin-Ditaa@0.001006
@@ -198254,7 +198254,7 @@ Pod::Weaver::PluginBundle::Author::CCM 0.012  pkg:cpan/Dist-Zilla-PluginBundle-A
 Pod::Weaver::PluginBundle::Author::CSSON 0.1101  pkg:cpan/Pod-Weaver-PluginBundle-Author-CSSON@0.1101
 Pod::Weaver::PluginBundle::Author::DOHERTY 0.010  pkg:cpan/Pod-Weaver-PluginBundle-Author-DOHERTY@0.010
 Pod::Weaver::PluginBundle::Author::ETHER 0.172  pkg:cpan/Dist-Zilla-PluginBundle-Author-ETHER@0.172
-Pod::Weaver::PluginBundle::Author::GETTY 0.311  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.311
+Pod::Weaver::PluginBundle::Author::GETTY 0.312  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.312
 Pod::Weaver::PluginBundle::Author::HAYOBAAN 0.016  pkg:cpan/Dist-Zilla-PluginBundle-Author-HAYOBAAN@0.016
 Pod::Weaver::PluginBundle::Author::IOANR 1.230480  pkg:cpan/Dist-Zilla-PluginBundle-Author-IOANR@1.230480
 Pod::Weaver::PluginBundle::Author::KENTNL 0.001003  pkg:cpan/Pod-Weaver-PluginBundle-Author-KENTNL@0.001003
@@ -205464,10 +205464,10 @@ Resource::Pack::JSON::URL           0.01  pkg:cpan/Resource-Pack-JSON@0.01
 Resource::Pack::Resource            0.03  pkg:cpan/Resource-Pack@0.03
 Resource::Pack::URL                 0.03  pkg:cpan/Resource-Pack@0.03
 Resource::Pack::jQuery              0.01  pkg:cpan/Resource-Pack-jQuery@0.01
-Resource::Silo                     0.1702  pkg:cpan/Resource-Silo@0.1702
-Resource::Silo::Container          0.1702  pkg:cpan/Resource-Silo@0.1702
-Resource::Silo::Metadata           0.1702  pkg:cpan/Resource-Silo@0.1702
-Resource::Silo::Metadata::DAG      0.1702  pkg:cpan/Resource-Silo@0.1702
+Resource::Silo                     0.1703  pkg:cpan/Resource-Silo@0.1703
+Resource::Silo::Container          0.1703  pkg:cpan/Resource-Silo@0.1703
+Resource::Silo::Metadata           0.1703  pkg:cpan/Resource-Silo@0.1703
+Resource::Silo::Metadata::DAG      0.1703  pkg:cpan/Resource-Silo@0.1703
 ResourcePool                       1.0107  pkg:cpan/ResourcePool@1.0107
 ResourcePool::Command              1.0107  pkg:cpan/ResourcePool@1.0107
 ResourcePool::Command::DBI::Common 1.0101  pkg:cpan/ResourcePool-Resource-DBI@1.0101
@@ -233872,13 +233872,13 @@ Time::StasisField                   0.01  pkg:cpan/Time-StasisField@0.01
 Time::Stats                          1.0  pkg:cpan/Time-Stats@1.0?ext=tgz
 Time::StopWatchWithMessage          0.06  pkg:cpan/Time-StopWatchWithMessage@0.06
 Time::Stopwatch                     1.00  pkg:cpan/Time-Stopwatch@1.00
-Time::Str                           0.60  pkg:cpan/Time-Str@0.60
-Time::Str::Calendar                 0.60  pkg:cpan/Time-Str@0.60
-Time::Str::PP                       0.60  pkg:cpan/Time-Str@0.60
-Time::Str::PP::Calendar             0.60  pkg:cpan/Time-Str@0.60
-Time::Str::PP::Token                0.60  pkg:cpan/Time-Str@0.60
-Time::Str::Regexp                   0.60  pkg:cpan/Time-Str@0.60
-Time::Str::Token                    0.60  pkg:cpan/Time-Str@0.60
+Time::Str                           0.70  pkg:cpan/Time-Str@0.70
+Time::Str::Calendar                 0.70  pkg:cpan/Time-Str@0.70
+Time::Str::PP                       0.70  pkg:cpan/Time-Str@0.70
+Time::Str::PP::Calendar             0.70  pkg:cpan/Time-Str@0.70
+Time::Str::PP::Token                0.70  pkg:cpan/Time-Str@0.70
+Time::Str::Regexp                   0.70  pkg:cpan/Time-Str@0.70
+Time::Str::Token                    0.70  pkg:cpan/Time-Str@0.70
 Time::Strptime                      1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::Format              1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::TimeZone           undef  pkg:cpan/Time-Strptime@1.04
