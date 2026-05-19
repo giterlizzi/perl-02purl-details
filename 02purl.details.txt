@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 19 May 2026 14:44:46 GMT
+Last-Updated: Tue, 19 May 2026 17:58:58 GMT
 Line-Count: 264281
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -30369,7 +30369,7 @@ Business::IS::PIN                   0.06  pkg:cpan/Business-IS-PIN@0.06
 Business::ISBN                     3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN10                   3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN13                   3.014  pkg:cpan/Business-ISBN@3.014
-Business::ISBN::Data               20260508.001  pkg:cpan/Business-ISBN-Data@20260508.001
+Business::ISBN::Data               20260519.001  pkg:cpan/Business-ISBN-Data@20260519.001
 Business::ISIN                      0.20  pkg:cpan/Business-ISIN@0.20?ext=tgz
 Business::ISMN                     1.205  pkg:cpan/Business-ISMN@1.205
 Business::ISMN::Data               1.205  pkg:cpan/Business-ISMN@1.205
@@ -63956,7 +63956,7 @@ Devel::Autoflush                    0.06  pkg:cpan/Devel-Autoflush@0.06
 Devel::Backtrace                    0.12  pkg:cpan/Devel-Backtrace@0.12
 Devel::Backtrace::Point             0.11  pkg:cpan/Devel-Backtrace@0.12
 Devel::BeginLift                   0.001003  pkg:cpan/Devel-BeginLift@0.001003
-Devel::Bug                          0.07  pkg:cpan/Devel-Bug@0.07
+Devel::Bug                          0.08  pkg:cpan/Devel-Bug@0.08
 Devel::CCompat::C99::ScopedVariables 0.002  pkg:cpan/Devel-CCompat-C99-ScopedVariables@0.002
 Devel::CCompat::C99::VariableLengthArrays 0.002  pkg:cpan/Devel-CCompat-C99-VariableLengthArrays@0.002
 Devel::CCov                         0.20  pkg:cpan/Devel-CCov@0.20
@@ -150155,8 +150155,8 @@ Net::OpenSSH::Compat::SSH2::File    0.09  pkg:cpan/Net-OpenSSH-Compat@0.09
 Net::OpenSSH::Compat::SSH2::SFTP    0.09  pkg:cpan/Net-OpenSSH-Compat@0.09
 Net::OpenSSH::ConnectionCache      undef  pkg:cpan/Net-OpenSSH@0.84
 Net::OpenSSH::ModuleLoader         undef  pkg:cpan/Net-OpenSSH@0.84
-Net::OpenSSH::More                  1.00  pkg:cpan/Net-OpenSSH-More@1.00
-Net::OpenSSH::More::Linux           1.00  pkg:cpan/Net-OpenSSH-More@1.00
+Net::OpenSSH::More                  1.01  pkg:cpan/Net-OpenSSH-More@1.01
+Net::OpenSSH::More::Linux           1.01  pkg:cpan/Net-OpenSSH-More@1.01
 Net::OpenSSH::ObjectRemote         undef  pkg:cpan/Net-OpenSSH@0.84
 Net::OpenSSH::Parallel              0.14  pkg:cpan/Net-OpenSSH-Parallel@0.14
 Net::OpenSSH::Parallel::Constants   0.12  pkg:cpan/Net-OpenSSH-Parallel@0.14
@@ -155500,7 +155500,7 @@ Object::Boolean::YesNo              0.02  pkg:cpan/Object-Boolean@0.02
 Object::Botox                       1.15  pkg:cpan/Object-Botox@1.15
 Object::Capsule                    0.012  pkg:cpan/Object-Capsule@0.012
 Object::Composer                   0.000002  pkg:cpan/Object-Composer@0.0.2
-Object::Configure                   0.19  pkg:cpan/Object-Configure@0.19
+Object::Configure                    0.2  pkg:cpan/Object-Configure@0.2
 Object::Container                   0.16  pkg:cpan/Object-Container@0.16
 Object::Container::Exporter         0.03  pkg:cpan/Object-Container-Exporter@0.03
 Object::Deadly                      0.09  pkg:cpan/Object-Deadly@0.09
@@ -163235,8 +163235,8 @@ Pask::Container                    undef  pkg:cpan/Pask@0.02a
 Pask::Parameter                    undef  pkg:cpan/Pask@0.02a
 Pask::Storage                      undef  pkg:cpan/Pask@0.02a
 Pask::Task                         undef  pkg:cpan/Pask@0.02a
-Pass::OTP                          1.801  pkg:cpan/Pass-OTP@1.801
-Pass::OTP::URI                     1.801  pkg:cpan/Pass-OTP@1.801
+Pass::OTP                          1.900  pkg:cpan/Pass-OTP@1.900
+Pass::OTP::URI                     1.900  pkg:cpan/Pass-OTP@1.900
 Passwd::DB                          1.05  pkg:cpan/Passwd-DB@1.05
 Passwd::Keyring::Auto              1.0000  pkg:cpan/Passwd-Keyring-Auto@1.0000
 Passwd::Keyring::Auto::App         undef  pkg:cpan/Passwd-Keyring-Auto@1.0000
@@ -222127,7 +222127,7 @@ Storable::AMF0::Var                 0.60  pkg:cpan/Storable-AMF@0.60
 Storable::AMF3                      1.23  pkg:cpan/Storable-AMF@1.23
 Storable::AMF::Mapper              undef  pkg:cpan/Storable-AMF@1.23
 Storable::CouchDB                   0.05  pkg:cpan/Storable-CouchDB@0.05
-Storable::Improved                 0.001003  pkg:cpan/Storable-Improved@v0.1.3
+Storable::Improved                 0.001004  pkg:cpan/Storable-Improved@v0.1.4
 Storable::Ref                        1.1  pkg:cpan/Storable-Ref@1.1?ext=tgz
 Storage::Abstract                  0.008  pkg:cpan/Storage-Abstract@0.008
 Storage::Abstract::Driver          0.008  pkg:cpan/Storage-Abstract@0.008
@@ -227427,7 +227427,7 @@ Term::ANSIColor::Simple             0.10  pkg:cpan/Term-ANSIColor-Simple@0.10
 Term::ANSIColor::WithWin32         0.002  pkg:cpan/Term-ANSIColor-WithWin32@0.002
 Term::ANSIColorx::AutoFilterFH     2.7193  pkg:cpan/Term-ANSIColorx-ColorNicknames@2.7193
 Term::ANSIColorx::ColorNicknames   2.7193  pkg:cpan/Term-ANSIColorx-ColorNicknames@2.7193
-Term::ANSIEncode                    2.01  pkg:cpan/Term-ANSIEncode@2.01
+Term::ANSIEncode                    2.02  pkg:cpan/Term-ANSIEncode@2.02
 Term::ANSIMenu                      0.02  pkg:cpan/Term-ANSIMenu@0.02
 Term::ANSIScreen                    1.50  pkg:cpan/Term-ANSIScreen@1.50
 Term::ANSITable                    0.010100  pkg:cpan/Term-ANSITable@0.010100
@@ -233872,13 +233872,13 @@ Time::StasisField                   0.01  pkg:cpan/Time-StasisField@0.01
 Time::Stats                          1.0  pkg:cpan/Time-Stats@1.0?ext=tgz
 Time::StopWatchWithMessage          0.06  pkg:cpan/Time-StopWatchWithMessage@0.06
 Time::Stopwatch                     1.00  pkg:cpan/Time-Stopwatch@1.00
-Time::Str                           0.70  pkg:cpan/Time-Str@0.70
-Time::Str::Calendar                 0.70  pkg:cpan/Time-Str@0.70
-Time::Str::PP                       0.70  pkg:cpan/Time-Str@0.70
-Time::Str::PP::Calendar             0.70  pkg:cpan/Time-Str@0.70
-Time::Str::PP::Token                0.70  pkg:cpan/Time-Str@0.70
-Time::Str::Regexp                   0.70  pkg:cpan/Time-Str@0.70
-Time::Str::Token                    0.70  pkg:cpan/Time-Str@0.70
+Time::Str                           0.71  pkg:cpan/Time-Str@0.71
+Time::Str::Calendar                 0.71  pkg:cpan/Time-Str@0.71
+Time::Str::PP                       0.71  pkg:cpan/Time-Str@0.71
+Time::Str::PP::Calendar             0.71  pkg:cpan/Time-Str@0.71
+Time::Str::PP::Token                0.71  pkg:cpan/Time-Str@0.71
+Time::Str::Regexp                   0.71  pkg:cpan/Time-Str@0.71
+Time::Str::Token                    0.71  pkg:cpan/Time-Str@0.71
 Time::Strptime                      1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::Format              1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::TimeZone           undef  pkg:cpan/Time-Strptime@1.04
