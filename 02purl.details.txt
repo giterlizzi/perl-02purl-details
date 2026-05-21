@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 21 May 2026 21:22:30 GMT
-Line-Count: 264289
+Last-Updated: Thu, 21 May 2026 22:58:17 GMT
+Line-Count: 264294
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5075,32 +5075,32 @@ Alzabo::SQLMaker::PostgreSQL           2  pkg:cpan/Alzabo@0.92
 Alzabo::Schema                         2  pkg:cpan/Alzabo@0.92
 Alzabo::Table                          2  pkg:cpan/Alzabo@0.92
 Alzabo::Utils                      undef  pkg:cpan/Alzabo@0.92
-Amazon::API                        v2.2.1  pkg:cpan/Amazon-API@2.2.1
-Amazon::API::Botocore              v2.2.1  pkg:cpan/Amazon-API@2.2.1
-Amazon::API::Botocore::Pod         v2.2.1  pkg:cpan/Amazon-API@2.2.1
-Amazon::API::Botocore::Shape       v2.2.1  pkg:cpan/Amazon-API@2.2.1
-Amazon::API::Botocore::Shape::Serializer v2.2.1  pkg:cpan/Amazon-API@2.2.1
-Amazon::API::Botocore::Shape::Utils v2.2.1  pkg:cpan/Amazon-API@2.2.1
+Amazon::API                        v2.2.2  pkg:cpan/Amazon-API@2.2.2
+Amazon::API::Botocore              v2.2.2  pkg:cpan/Amazon-API@2.2.2
+Amazon::API::Botocore::Pod         v2.2.2  pkg:cpan/Amazon-API@2.2.2
+Amazon::API::Botocore::Shape       v2.2.2  pkg:cpan/Amazon-API@2.2.2
+Amazon::API::Botocore::Shape::Serializer v2.2.2  pkg:cpan/Amazon-API@2.2.2
+Amazon::API::Botocore::Shape::Utils v2.2.2  pkg:cpan/Amazon-API@2.2.2
 Amazon::API::CHIME                 v1.2.7  pkg:cpan/Amazon-API@1.3.3
 Amazon::API::CloudSearch           v1.2.7  pkg:cpan/Amazon-API@1.3.3
 Amazon::API::CloudSearchDomain     v1.2.7  pkg:cpan/Amazon-API@1.3.3
 Amazon::API::CloudWatchLogs        v1.3.5  pkg:cpan/Amazon-API@1.3.5
-Amazon::API::Constants             v2.2.1  pkg:cpan/Amazon-API@2.2.1
+Amazon::API::Constants             v2.2.2  pkg:cpan/Amazon-API@2.2.2
 Amazon::API::EC2                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::ECR                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::ECS                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
-Amazon::API::Error                 v2.2.1  pkg:cpan/Amazon-API@2.2.1
-Amazon::API::HTTP::Response            0  pkg:cpan/Amazon-API@2.2.1
-Amazon::API::HTTP::UserAgent           0  pkg:cpan/Amazon-API@2.2.1
-Amazon::API::NullLogger                0  pkg:cpan/Amazon-API@2.2.1
-Amazon::API::Pod::Parser            0.01  pkg:cpan/Amazon-API@2.2.1
-Amazon::API::Pod::Simple::Text      0.01  pkg:cpan/Amazon-API@2.2.1
+Amazon::API::Error                 v2.2.2  pkg:cpan/Amazon-API@2.2.2
+Amazon::API::HTTP::Response            0  pkg:cpan/Amazon-API@2.2.2
+Amazon::API::HTTP::UserAgent           0  pkg:cpan/Amazon-API@2.2.2
+Amazon::API::NullLogger                0  pkg:cpan/Amazon-API@2.2.2
+Amazon::API::Pod::Parser            0.01  pkg:cpan/Amazon-API@2.2.2
+Amazon::API::Pod::Simple::Text      0.01  pkg:cpan/Amazon-API@2.2.2
 Amazon::API::SQS                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::SSM                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::STS                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::SecretsManager        v1.3.5  pkg:cpan/Amazon-API@1.3.5
-Amazon::API::Signature4            v2.2.1  pkg:cpan/Amazon-API@2.2.1
-Amazon::API::Template                  0  pkg:cpan/Amazon-API@2.2.1
+Amazon::API::Signature4            v2.2.2  pkg:cpan/Amazon-API@2.2.2
+Amazon::API::Template                  0  pkg:cpan/Amazon-API@2.2.2
 Amazon::CloudFront::SignedURL       0.03  pkg:cpan/Amazon-CloudFront-SignedURL@0.03
 Amazon::CloudFront::Thin            0.05  pkg:cpan/Amazon-CloudFront-Thin@0.05
 Amazon::CreatorsAPI                 0.01  pkg:cpan/Amazon-CreatorsAPI@0.01
@@ -69012,7 +69012,12 @@ EV::ADNS                             3.0  pkg:cpan/EV-ADNS@3.0
 EV::Async                          undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Check                          undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Child                          undef  pkg:cpan/App-SimpleBackuper@0.2.22
-EV::ClickHouse                      0.02  pkg:cpan/EV-ClickHouse@0.02
+EV::ClickHouse                      0.03  pkg:cpan/EV-ClickHouse@0.03
+EV::ClickHouse::Error               0.03  pkg:cpan/EV-ClickHouse@0.03
+EV::ClickHouse::Iterator            0.03  pkg:cpan/EV-ClickHouse@0.03
+EV::ClickHouse::Pool                0.03  pkg:cpan/EV-ClickHouse@0.03
+EV::ClickHouse::Streamer            0.03  pkg:cpan/EV-ClickHouse@0.03
+EV::ClickHouse::_DurGuard           0.03  pkg:cpan/EV-ClickHouse@0.03
 EV::Cron                           0.123600  pkg:cpan/EV-Cron@0.123600
 EV::Embed                          undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Etcd                            0.07  pkg:cpan/EV-Etcd@0.07
@@ -139347,9 +139352,9 @@ Mojolicious::Plugin::StaticLog      0.07  pkg:cpan/Mojolicious-Plugin-StaticLog@
 Mojolicious::Plugin::StaticShare   0.075  pkg:cpan/Mojolicious-Plugin-StaticShare@0.075
 Mojolicious::Plugin::StaticShare::Controller undef  pkg:cpan/Mojolicious-Plugin-StaticShare@0.075
 Mojolicious::Plugin::StaticShare::Templates undef  pkg:cpan/Mojolicious-Plugin-StaticShare@0.075
-Mojolicious::Plugin::Statsd         0.04  pkg:cpan/Mojolicious-Plugin-Statsd@0.04
-Mojolicious::Plugin::Statsd::Adapter::Memory  0.04  pkg:cpan/Mojolicious-Plugin-Statsd@0.04
-Mojolicious::Plugin::Statsd::Adapter::Statsd  0.04  pkg:cpan/Mojolicious-Plugin-Statsd@0.04
+Mojolicious::Plugin::Statsd         0.06  pkg:cpan/Mojolicious-Plugin-Statsd@0.06
+Mojolicious::Plugin::Statsd::Adapter::Memory  0.06  pkg:cpan/Mojolicious-Plugin-Statsd@0.06
+Mojolicious::Plugin::Statsd::Adapter::Statsd  0.06  pkg:cpan/Mojolicious-Plugin-Statsd@0.06
 Mojolicious::Plugin::Status         1.17  pkg:cpan/Mojolicious-Plugin-Status@1.17
 Mojolicious::Plugin::Status::_Guard  1.02  pkg:cpan/Mojolicious-Plugin-Status@1.02
 Mojolicious::Plugin::Sticker       v0.0.2  pkg:cpan/Mojolicious-Plugin-Sticker@v0.0.2
