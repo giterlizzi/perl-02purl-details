@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 21 May 2026 11:15:12 GMT
+Last-Updated: Thu, 21 May 2026 14:49:30 GMT
 Line-Count: 264284
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -11038,9 +11038,9 @@ App::MARC::Filter                    0.1  pkg:cpan/App-MARC-Filter@0.10
 App::MARC::Leader                   0.11  pkg:cpan/App-MARC-Leader@0.11
 App::MARC::List                     0.09  pkg:cpan/App-MARC-List@0.09
 App::MARC::Record::Stats            0.02  pkg:cpan/App-MARC-Record-Stats@0.02
-App::MARC::Validator                0.08  pkg:cpan/App-MARC-Validator@0.08
+App::MARC::Validator                0.09  pkg:cpan/App-MARC-Validator@0.09
 App::MARC::Validator::Report        0.04  pkg:cpan/App-MARC-Validator-Report@0.04
-App::MARC::Validator::Utils         0.08  pkg:cpan/App-MARC-Validator@0.08
+App::MARC::Validator::Utils         0.09  pkg:cpan/App-MARC-Validator@0.09
 App::MBUtiny                        1.13  pkg:cpan/App-MBUtiny@1.13
 App::MBUtiny::Collector             1.03  pkg:cpan/App-MBUtiny@1.13
 App::MBUtiny::Collector::Client     1.00  pkg:cpan/App-MBUtiny@1.13
@@ -15352,11 +15352,11 @@ App::contenttype                    0.01  pkg:cpan/App-contenttype@0.01
 App::corruptor                     0.003  pkg:cpan/App-corruptor@0.003
 App::count                         0.001001  pkg:cpan/App-count@v0.1.1
 App::cpackage                       1.01  pkg:cpan/App-cpackage@1.01
-App::cpan2arch                     1.000002  pkg:cpan/App-cpan2arch@v1.0.2
-App::cpan2arch::CheckPackages      1.000002  pkg:cpan/App-cpan2arch@v1.0.2
-App::cpan2arch::GetMetadata        1.000002  pkg:cpan/App-cpan2arch@v1.0.2
-App::cpan2arch::MergePrereqs       1.000002  pkg:cpan/App-cpan2arch@v1.0.2
-App::cpan2arch::WritePkgbuild      1.000002  pkg:cpan/App-cpan2arch@v1.0.2
+App::cpan2arch                     1.001000  pkg:cpan/App-cpan2arch@v1.1.0
+App::cpan2arch::CheckPackages      1.001000  pkg:cpan/App-cpan2arch@v1.1.0
+App::cpan2arch::GetMetadata        1.001000  pkg:cpan/App-cpan2arch@v1.1.0
+App::cpan2arch::MergePrereqs       1.001000  pkg:cpan/App-cpan2arch@v1.1.0
+App::cpan2arch::WritePkgbuild      1.001000  pkg:cpan/App-cpan2arch@v1.1.0
 App::cpanbaker                      0.05  pkg:cpan/App-cpanbaker@0.05
 App::cpanchanges                   20170606.0  pkg:cpan/App-cpanchanges@20170606.0
 App::cpanel                        0.006  pkg:cpan/App-cpanel@0.006
@@ -48048,7 +48048,7 @@ Config::WebTest::PlayGround        0.100  pkg:cpan/WWW-Mechanize-Script@0.101
 Config::Wild                        2.02  pkg:cpan/Config-Wild@2.02
 Config::Win32                       1.02  pkg:cpan/Config-Win32@1.02?ext=zip
 Config::Wrest                      1.036  pkg:cpan/Config-Wrest@1.036
-Config::Writer                     0.000004  pkg:cpan/Config-Writer@0.0.4
+Config::Writer                     0.000005  pkg:cpan/Config-Writer@0.0.5
 Config::Writer::BIRD               undef  pkg:cpan/Config-Writer@0.0.4
 Config::XMLPerl                     0.01  pkg:cpan/Config-XMLPerl@0.01
 Config::XPath                       0.16  pkg:cpan/Config-XPath@0.16
@@ -74288,11 +74288,11 @@ File::Stat::OO                      0.03  pkg:cpan/File-Stat-OO@0.03
 File::Stat::Trigger                 0.05  pkg:cpan/File-Stat-Trigger@0.05
 File::StatCache                     0.06  pkg:cpan/File-StatCache@0.06
 File::StatX                        0.005  pkg:cpan/File-StatX@0.005
-File::Sticker                      4.602  pkg:cpan/File-Sticker@4.602
-File::Sticker::Database            4.602  pkg:cpan/File-Sticker@4.602
-File::Sticker::Derive              4.602  pkg:cpan/File-Sticker@4.602
-File::Sticker::Derive::Common      4.602  pkg:cpan/File-Sticker@4.602
-File::Sticker::Derive::Title       4.602  pkg:cpan/File-Sticker@4.602
+File::Sticker                      4.603  pkg:cpan/File-Sticker@4.603
+File::Sticker::Database            4.603  pkg:cpan/File-Sticker@4.603
+File::Sticker::Derive              4.603  pkg:cpan/File-Sticker@4.603
+File::Sticker::Derive::Common      4.603  pkg:cpan/File-Sticker@4.603
+File::Sticker::Derive::Title       4.603  pkg:cpan/File-Sticker@4.603
 File::Sticker::Reader               3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Reader::Exif         3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Reader::Gif          3.03  pkg:cpan/File-Sticker@3.03
@@ -74300,14 +74300,14 @@ File::Sticker::Reader::Mp3          3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Reader::Xattr        3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Reader::Yaml         3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Reader::YamlPrefix   3.03  pkg:cpan/File-Sticker@3.03
-File::Sticker::Scribe              4.602  pkg:cpan/File-Sticker@4.602
-File::Sticker::Scribe::Epub        4.602  pkg:cpan/File-Sticker@4.602
-File::Sticker::Scribe::Exif        4.602  pkg:cpan/File-Sticker@4.602
-File::Sticker::Scribe::Gif         4.602  pkg:cpan/File-Sticker@4.602
-File::Sticker::Scribe::Mp3         4.602  pkg:cpan/File-Sticker@4.602
-File::Sticker::Scribe::Xattr       4.602  pkg:cpan/File-Sticker@4.602
-File::Sticker::Scribe::Yaml        4.602  pkg:cpan/File-Sticker@4.602
-File::Sticker::Scribe::YamlPrefix  4.602  pkg:cpan/File-Sticker@4.602
+File::Sticker::Scribe              4.603  pkg:cpan/File-Sticker@4.603
+File::Sticker::Scribe::Epub        4.603  pkg:cpan/File-Sticker@4.603
+File::Sticker::Scribe::Exif        4.603  pkg:cpan/File-Sticker@4.603
+File::Sticker::Scribe::Gif         4.603  pkg:cpan/File-Sticker@4.603
+File::Sticker::Scribe::Mp3         4.603  pkg:cpan/File-Sticker@4.603
+File::Sticker::Scribe::Xattr       4.603  pkg:cpan/File-Sticker@4.603
+File::Sticker::Scribe::Yaml        4.603  pkg:cpan/File-Sticker@4.603
+File::Sticker::Scribe::YamlPrefix  4.603  pkg:cpan/File-Sticker@4.603
 File::Sticker::Writer               3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Writer::Exif         3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Writer::Gif          3.03  pkg:cpan/File-Sticker@3.03
@@ -137651,7 +137651,7 @@ Module::Starter::AddModule         1.011  pkg:cpan/Module-Starter-AddModule@1.01
 Module::Starter::App                1.82  pkg:cpan/Module-Starter@1.82
 Module::Starter::BuilderSet         1.82  pkg:cpan/Module-Starter@1.82
 Module::Starter::Handel            undef  pkg:cpan/Handel@1.00014
-Module::Starter::PBP               0.002  pkg:cpan/Module-Starter-PBP@0.002
+Module::Starter::PBP               0.003  pkg:cpan/Module-Starter-PBP@0.003
 Module::Starter::Plugin::App::Cmd   0.02  pkg:cpan/App-Cmd-Starter@0.02
 Module::Starter::Plugin::CGIApp     0.44  pkg:cpan/Module-Starter-Plugin-CGIApp@0.44
 Module::Starter::Plugin::DebPackage 0.000005  pkg:cpan/Module-Starter-Plugin-DebPackage@0.0.5
