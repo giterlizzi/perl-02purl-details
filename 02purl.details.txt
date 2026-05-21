@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 21 May 2026 19:45:24 GMT
-Line-Count: 264286
+Last-Updated: Thu, 21 May 2026 21:22:30 GMT
+Line-Count: 264289
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -35370,14 +35370,14 @@ Catalyst::Authentication::Credential::HTTP::Proxy  0.06  pkg:cpan/Catalyst-Authe
 Catalyst::Authentication::Credential::HTTP::Proxy::User undef  pkg:cpan/Catalyst-Authentication-Credential-HTTP-Proxy@0.06
 Catalyst::Authentication::Credential::Kerberos  0.01  pkg:cpan/Catalyst-Authentication-Credential-Kerberos@0.01
 Catalyst::Authentication::Credential::MultiFactor   1.2  pkg:cpan/Catalyst-Authentication-Credential-MultiFactor@1.2
-Catalyst::Authentication::Credential::NoPassword undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10024
+Catalyst::Authentication::Credential::NoPassword undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10026
 Catalyst::Authentication::Credential::OAuth  0.04  pkg:cpan/Catalyst-Authentication-Credential-OAuth@0.04
 Catalyst::Authentication::Credential::OAuth2 undef  pkg:cpan/CatalystX-OAuth2@0.001009
 Catalyst::Authentication::Credential::OpenID  0.19  pkg:cpan/Catalyst-Authentication-Credential-OpenID@0.19
-Catalyst::Authentication::Credential::Password undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10024
+Catalyst::Authentication::Credential::Password undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10026
 Catalyst::Authentication::Credential::RPX 0.10060100  pkg:cpan/Catalyst-Authentication-Credential-RPX@0.10060100
 Catalyst::Authentication::Credential::RedmineCookie undef  pkg:cpan/Catalyst-Authentication-RedmineCookie@0.02
-Catalyst::Authentication::Credential::Remote undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10024
+Catalyst::Authentication::Credential::Remote undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10026
 Catalyst::Authentication::Credential::RemoteHTTP  0.05  pkg:cpan/Catalyst-Authentication-Credential-RemoteHTTP@0.05
 Catalyst::Authentication::Credential::RemoteHTTP::UserAgent  0.05  pkg:cpan/Catalyst-Authentication-Credential-RemoteHTTP@0.05
 Catalyst::Authentication::Credential::Testing  0.01  pkg:cpan/Catalyst-Authentication-Credential-Testing@0.01
@@ -35386,11 +35386,11 @@ Catalyst::Authentication::Credential::TypeKey 0.005  pkg:cpan/Catalyst-Authentic
 Catalyst::Authentication::Credential::Upstream::Headers  0.02  pkg:cpan/Catalyst-Authentication-Credential-Upstream-Headers@0.02
 Catalyst::Authentication::Credential::YubiKey  0.07  pkg:cpan/Catalyst-Authentication-Credential-YubiKey@0.07
 Catalyst::Authentication::FromSub::User::Object  0.01  pkg:cpan/Catalyst-Authentication-Store-FromSub@0.01
-Catalyst::Authentication::Realm    undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10024
+Catalyst::Authentication::Realm    undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10026
 Catalyst::Authentication::Realm::Adaptor  0.02  pkg:cpan/Catalyst-Authentication-Realm-Adaptor@0.02
 Catalyst::Authentication::Realm::AuthTkt  0.17  pkg:cpan/Catalyst-Authentication-AuthTkt@0.17
-Catalyst::Authentication::Realm::Compatibility undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10024
-Catalyst::Authentication::Realm::Progressive undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10024
+Catalyst::Authentication::Realm::Compatibility undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10026
+Catalyst::Authentication::Realm::Progressive undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10026
 Catalyst::Authentication::Realm::SimpleDB undef  pkg:cpan/Catalyst-Authentication-Store-DBIx-Class@0.1506
 Catalyst::Authentication::RedmineCookie undef  pkg:cpan/Catalyst-Authentication-RedmineCookie@0.02
 Catalyst::Authentication::RedmineCookie::Schema undef  pkg:cpan/Catalyst-Authentication-RedmineCookie@0.02
@@ -35427,11 +35427,11 @@ Catalyst::Authentication::Store::LDAP::AD::Class::User undef  pkg:cpan/Catalyst-
 Catalyst::Authentication::Store::LDAP::AD::Simple undef  pkg:cpan/Catalyst-Authentication-Store-LDAP-AD-Class@0.06
 Catalyst::Authentication::Store::LDAP::Backend 1.017  pkg:cpan/Catalyst-Authentication-Store-LDAP@1.017
 Catalyst::Authentication::Store::LDAP::User 1.017  pkg:cpan/Catalyst-Authentication-Store-LDAP@1.017
-Catalyst::Authentication::Store::Minimal undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10024
+Catalyst::Authentication::Store::Minimal undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10026
 Catalyst::Authentication::Store::Model::KiokuDB undef  pkg:cpan/Catalyst-Model-KiokuDB@0.12
 Catalyst::Authentication::Store::Model::KiokuDB::UserWrapper undef  pkg:cpan/Catalyst-Model-KiokuDB@0.12
 Catalyst::Authentication::Store::MongoDB  0.02  pkg:cpan/Catalyst-Authentication-Store-MongoDB@0.02
-Catalyst::Authentication::Store::Null undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10024
+Catalyst::Authentication::Store::Null undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10026
 Catalyst::Authentication::Store::Proxy v0.0.1  pkg:cpan/Catalyst-Authentication-Store-Proxy@0.0.1
 Catalyst::Authentication::Store::RDBO 0.1000  pkg:cpan/Catalyst-Authentication-Store-RDBO@0.1000
 Catalyst::Authentication::Store::RDBO::User undef  pkg:cpan/Catalyst-Authentication-Store-RDBO@0.1000
@@ -35440,9 +35440,9 @@ Catalyst::Authentication::Store::Tangram::User undef  pkg:cpan/Catalyst-Authenti
 Catalyst::Authentication::Store::UserXML  0.04  pkg:cpan/Catalyst-Authentication-Store-UserXML@0.04
 Catalyst::Authentication::Store::UserXML::Folder  0.03  pkg:cpan/Catalyst-Authentication-Store-UserXML@0.04
 Catalyst::Authentication::Store::UserXML::User  0.03  pkg:cpan/Catalyst-Authentication-Store-UserXML@0.04
-Catalyst::Authentication::User     undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10024
+Catalyst::Authentication::User     undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10026
 Catalyst::Authentication::User::AuthTkt  0.17  pkg:cpan/Catalyst-Authentication-AuthTkt@0.17
-Catalyst::Authentication::User::Hash undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10024
+Catalyst::Authentication::User::Hash undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10026
 Catalyst::Authentication::User::KiokuDB undef  pkg:cpan/Catalyst-Authentication-Store-KiokuDB@0.03
 Catalyst::Base                     undef  pkg:cpan/Catalyst-Runtime@5.90132
 Catalyst::Blinker                    1.0  pkg:cpan/Catalyst-Blinker@1.0
@@ -35913,7 +35913,7 @@ Catalyst::Plugin::Assets           0.036  pkg:cpan/Catalyst-Plugin-Assets@0.036
 Catalyst::Plugin::AtomPP            0.04  pkg:cpan/Catalyst-Plugin-AtomPP@0.04
 Catalyst::Plugin::AtomServer        0.04  pkg:cpan/Catalyst-Plugin-AtomServer@0.04
 Catalyst::Plugin::AuthenCookie      0.07  pkg:cpan/Catalyst-Plugin-AuthenCookie@0.07
-Catalyst::Plugin::Authentication   0.10024  pkg:cpan/Catalyst-Plugin-Authentication@0.10024
+Catalyst::Plugin::Authentication   0.10026  pkg:cpan/Catalyst-Plugin-Authentication@0.10026
 Catalyst::Plugin::Authentication::Basic::Remote  0.03  pkg:cpan/Catalyst-Plugin-Authentication-Basic-Remote@0.03
 Catalyst::Plugin::Authentication::CDBI  0.10  pkg:cpan/Catalyst-Plugin-Authentication-CDBI@0.10
 Catalyst::Plugin::Authentication::CDBI::Basic  0.02  pkg:cpan/Catalyst-Plugin-Authentication-CDBI-Basic@0.02
@@ -35932,7 +35932,7 @@ Catalyst::Plugin::Authentication::Credential::JugemKey  0.04  pkg:cpan/Catalyst-
 Catalyst::Plugin::Authentication::Credential::Livedoor  0.03  pkg:cpan/Catalyst-Plugin-Authentication-Credential-Livedoor@0.03
 Catalyst::Plugin::Authentication::Credential::OpenID  0.03  pkg:cpan/Catalyst-Plugin-Authentication-Credential-OpenID@0.03
 Catalyst::Plugin::Authentication::Credential::PAM  0.01  pkg:cpan/Catalyst-Plugin-Authentication-Credential-PAM@0.01
-Catalyst::Plugin::Authentication::Credential::Password undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10024
+Catalyst::Plugin::Authentication::Credential::Password undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10026
 Catalyst::Plugin::Authentication::Credential::TypeKey   0.4  pkg:cpan/Catalyst-Plugin-Authentication-Credential-TypeKey@0.4
 Catalyst::Plugin::Authentication::LDAP  0.02  pkg:cpan/Catalyst-Plugin-Authentication-LDAP@0.02
 Catalyst::Plugin::Authentication::Simple  1.00  pkg:cpan/Catalyst-Plugin-Authentication-Simple@1.00
@@ -35944,13 +35944,13 @@ Catalyst::Plugin::Authentication::Store::HTTP  0.05  pkg:cpan/Catalyst-Plugin-Au
 Catalyst::Plugin::Authentication::Store::HTTP::Backend undef  pkg:cpan/Catalyst-Plugin-Authentication-Store-HTTP@0.05
 Catalyst::Plugin::Authentication::Store::HTTP::User undef  pkg:cpan/Catalyst-Plugin-Authentication-Store-HTTP@0.05
 Catalyst::Plugin::Authentication::Store::HTTP::UserAgent undef  pkg:cpan/Catalyst-Plugin-Authentication-Store-HTTP@0.05
-Catalyst::Plugin::Authentication::Store::Minimal undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10024
+Catalyst::Plugin::Authentication::Store::Minimal undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10026
 Catalyst::Plugin::Authentication::Store::Minimal::Backend undef  pkg:cpan/Catalyst-Plugin-Authentication@0.09
 Catalyst::Plugin::Authentication::Store::RDBO 0.002  pkg:cpan/Catalyst-Plugin-Authentication-Store-RDBO@0.002
 Catalyst::Plugin::Authentication::Store::RDBO::Backend 0.001  pkg:cpan/Catalyst-Plugin-Authentication-Store-RDBO@0.002
 Catalyst::Plugin::Authentication::Store::RDBO::User 0.002  pkg:cpan/Catalyst-Plugin-Authentication-Store-RDBO@0.002
-Catalyst::Plugin::Authentication::User undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10024
-Catalyst::Plugin::Authentication::User::Hash undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10024
+Catalyst::Plugin::Authentication::User undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10026
+Catalyst::Plugin::Authentication::User::Hash undef  pkg:cpan/Catalyst-Plugin-Authentication@0.10026
 Catalyst::Plugin::Authorization::ACL  0.16  pkg:cpan/Catalyst-Plugin-Authorization-ACL@0.16
 Catalyst::Plugin::Authorization::ACL::Engine  0.16  pkg:cpan/Catalyst-Plugin-Authorization-ACL@0.16
 Catalyst::Plugin::Authorization::Abilities 0.031000  pkg:cpan/Catalyst-Plugin-Authorization-Abilities@v0.31.0
@@ -74289,11 +74289,11 @@ File::Stat::OO                      0.03  pkg:cpan/File-Stat-OO@0.03
 File::Stat::Trigger                 0.05  pkg:cpan/File-Stat-Trigger@0.05
 File::StatCache                     0.06  pkg:cpan/File-StatCache@0.06
 File::StatX                        0.005  pkg:cpan/File-StatX@0.005
-File::Sticker                      4.603  pkg:cpan/File-Sticker@4.603
-File::Sticker::Database            4.603  pkg:cpan/File-Sticker@4.603
-File::Sticker::Derive              4.603  pkg:cpan/File-Sticker@4.603
-File::Sticker::Derive::Common      4.603  pkg:cpan/File-Sticker@4.603
-File::Sticker::Derive::Title       4.603  pkg:cpan/File-Sticker@4.603
+File::Sticker                      4.605  pkg:cpan/File-Sticker@4.605
+File::Sticker::Database            4.605  pkg:cpan/File-Sticker@4.605
+File::Sticker::Derive              4.605  pkg:cpan/File-Sticker@4.605
+File::Sticker::Derive::Common      4.605  pkg:cpan/File-Sticker@4.605
+File::Sticker::Derive::Title       4.605  pkg:cpan/File-Sticker@4.605
 File::Sticker::Reader               3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Reader::Exif         3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Reader::Gif          3.03  pkg:cpan/File-Sticker@3.03
@@ -74301,14 +74301,14 @@ File::Sticker::Reader::Mp3          3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Reader::Xattr        3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Reader::Yaml         3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Reader::YamlPrefix   3.03  pkg:cpan/File-Sticker@3.03
-File::Sticker::Scribe              4.603  pkg:cpan/File-Sticker@4.603
-File::Sticker::Scribe::Epub        4.603  pkg:cpan/File-Sticker@4.603
-File::Sticker::Scribe::Exif        4.603  pkg:cpan/File-Sticker@4.603
-File::Sticker::Scribe::Gif         4.603  pkg:cpan/File-Sticker@4.603
-File::Sticker::Scribe::Mp3         4.603  pkg:cpan/File-Sticker@4.603
-File::Sticker::Scribe::Xattr       4.603  pkg:cpan/File-Sticker@4.603
-File::Sticker::Scribe::Yaml        4.603  pkg:cpan/File-Sticker@4.603
-File::Sticker::Scribe::YamlPrefix  4.603  pkg:cpan/File-Sticker@4.603
+File::Sticker::Scribe              4.605  pkg:cpan/File-Sticker@4.605
+File::Sticker::Scribe::Epub        4.605  pkg:cpan/File-Sticker@4.605
+File::Sticker::Scribe::Exif        4.605  pkg:cpan/File-Sticker@4.605
+File::Sticker::Scribe::Gif         4.605  pkg:cpan/File-Sticker@4.605
+File::Sticker::Scribe::Mp3         4.605  pkg:cpan/File-Sticker@4.605
+File::Sticker::Scribe::Xattr       4.605  pkg:cpan/File-Sticker@4.605
+File::Sticker::Scribe::Yaml        4.605  pkg:cpan/File-Sticker@4.605
+File::Sticker::Scribe::YamlPrefix  4.605  pkg:cpan/File-Sticker@4.605
 File::Sticker::Writer               3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Writer::Exif         3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Writer::Gif          3.03  pkg:cpan/File-Sticker@3.03
@@ -106779,7 +106779,7 @@ HTML::GenerateUtil::Escape          1.21  pkg:cpan/HTML-GenerateUtil@1.21
 HTML::GoogleMaps                      10  pkg:cpan/HTML-GoogleMaps@10
 HTML::GoogleMaps::V3                0.16  pkg:cpan/HTML-GoogleMaps-V3@0.16
 HTML::Grabber                        0.7  pkg:cpan/HTML-Grabber@0.7
-HTML::Gumbo                         0.18  pkg:cpan/HTML-Gumbo@0.18
+HTML::Gumbo                         0.19  pkg:cpan/HTML-Gumbo@0.19
 HTML::HTML5::Builder               0.004  pkg:cpan/HTML-HTML5-Builder@0.004
 HTML::HTML5::Builder::Document     0.004  pkg:cpan/HTML-HTML5-Builder@0.004
 HTML::HTML5::DOM                   0.002  pkg:cpan/HTML-HTML5-DOM@0.002
@@ -151805,7 +151805,7 @@ Net::Statsd::Server::Backend::Graphite  0.20  pkg:cpan/Net-Statsd-Server@0.20
 Net::Statsd::Server::Backend::Rrdtool  0.01  pkg:cpan/Net-Statsd-Server@0.20
 Net::Statsd::Server::Backend::Test  0.20  pkg:cpan/Net-Statsd-Server@0.20
 Net::Statsd::Server::Metrics        0.20  pkg:cpan/Net-Statsd-Server@0.20
-Net::Statsd::Tiny                  v0.3.9  pkg:cpan/Net-Statsd-Tiny@v0.3.9
+Net::Statsd::Tiny                  v0.4.0  pkg:cpan/Net-Statsd-Tiny@v0.4.0
 Net::Statsite::Client              v1.1.0  pkg:cpan/Net-Statsite-Client@1.1.0
 Net::Stomp                          0.62  pkg:cpan/Net-Stomp@0.62
 Net::Stomp::Frame                   0.61  pkg:cpan/Net-Stomp@0.62
@@ -222706,6 +222706,9 @@ String::Numeric::PP                  0.9  pkg:cpan/String-Numeric@0.9
 String::Numeric::Whatever           0.03  pkg:cpan/String-Numeric-Whatever@0.03
 String::Numeric::XS                  0.9  pkg:cpan/String-Numeric-XS@0.9
 String::Nysiis                      1.00  pkg:cpan/String-Nysiis@1.00
+String::Obfuscate                   0.01  pkg:cpan/String-Obfuscate@0.01
+String::Obfuscate::Base64          undef  pkg:cpan/String-Obfuscate@0.01
+String::Obfuscate::Base64::URL     undef  pkg:cpan/String-Obfuscate@0.01
 String::Pad                        0.021  pkg:cpan/String-Pad@0.021
 String::Palindrome                 2.000001  pkg:cpan/String-Palindrome@2.000001
 String::Parity                      1.34  pkg:cpan/String-Parity@1.34
