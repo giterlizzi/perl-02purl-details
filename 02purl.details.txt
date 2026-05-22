@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 21 May 2026 22:58:17 GMT
+Last-Updated: Fri, 22 May 2026 07:37:43 GMT
 Line-Count: 264294
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -30370,7 +30370,7 @@ Business::IS::PIN                   0.06  pkg:cpan/Business-IS-PIN@0.06
 Business::ISBN                     3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN10                   3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN13                   3.014  pkg:cpan/Business-ISBN@3.014
-Business::ISBN::Data               20260519.001  pkg:cpan/Business-ISBN-Data@20260519.001
+Business::ISBN::Data               20260521.001  pkg:cpan/Business-ISBN-Data@20260521.001
 Business::ISIN                      0.20  pkg:cpan/Business-ISIN@0.20?ext=tgz
 Business::ISMN                     1.205  pkg:cpan/Business-ISMN@1.205
 Business::ISMN::Data               1.205  pkg:cpan/Business-ISMN@1.205
@@ -151800,7 +151800,7 @@ Net::Statsd                         0.12  pkg:cpan/Net-Statsd@0.12
 Net::Statsd::Client                 0.34  pkg:cpan/Net-Statsd-Client@0.34
 Net::Statsd::Client::Telegraf        0.2  pkg:cpan/Net-Statsd-Client-Telegraf@0.2
 Net::Statsd::Client::Timer          0.34  pkg:cpan/Net-Statsd-Client@0.34
-Net::Statsd::Lite                  v0.10.2  pkg:cpan/Net-Statsd-Lite@v0.10.2
+Net::Statsd::Lite                  v0.11.0  pkg:cpan/Net-Statsd-Lite@v0.11.0
 Net::Statsd::Server                 0.17  pkg:cpan/Net-Statsd-Server@0.20
 Net::Statsd::Server::Backend        0.20  pkg:cpan/Net-Statsd-Server@0.20
 Net::Statsd::Server::Backend::Console  0.20  pkg:cpan/Net-Statsd-Server@0.20
