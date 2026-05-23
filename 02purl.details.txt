@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 23 May 2026 09:45:11 GMT
-Line-Count: 264299
+Last-Updated: Sat, 23 May 2026 11:04:25 GMT
+Line-Count: 264301
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -49805,6 +49805,7 @@ Crypt::Passphrase::Pepper::HSM     0.007  pkg:cpan/Crypt-Passphrase-HSM@0.007
 Crypt::Passphrase::Pepper::Simple  0.023  pkg:cpan/Crypt-Passphrase@0.023
 Crypt::Passphrase::SHA1::Base64    0.023  pkg:cpan/Crypt-Passphrase@0.023
 Crypt::Passphrase::SHA1::Hex       0.023  pkg:cpan/Crypt-Passphrase@0.023
+Crypt::Passphrase::SaltedHash       0.01  pkg:cpan/Crypt-Passphrase-SaltedHash@0.01
 Crypt::Passphrase::Scrypt          0.005  pkg:cpan/Crypt-Passphrase-Scrypt@0.005
 Crypt::Passphrase::System          0.023  pkg:cpan/Crypt-Passphrase@0.023
 Crypt::Passphrase::Util::Crypt64   0.023  pkg:cpan/Crypt-Passphrase@0.023
@@ -50030,7 +50031,7 @@ Crypt::SSSS                          0.3  pkg:cpan/Crypt-SSSS@0.3
 Crypt::SSSS::Message               undef  pkg:cpan/Crypt-SSSS@0.3
 Crypt::Salsa20                      0.03  pkg:cpan/Crypt-Salsa20@0.03
 Crypt::Salt                         0.01  pkg:cpan/Crypt-Salt@0.01
-Crypt::SaltedHash                   0.11  pkg:cpan/Crypt-SaltedHash@0.11
+Crypt::SaltedHash                   0.12  pkg:cpan/Crypt-SaltedHash@0.12
 Crypt::Scrypt                       0.05  pkg:cpan/Crypt-Scrypt@0.05
 Crypt::ScryptKDF                   0.011  pkg:cpan/Crypt-ScryptKDF@0.011
 Crypt::SecretBuffer                0.024  pkg:cpan/Crypt-SecretBuffer@0.024
@@ -151801,7 +151802,7 @@ Net::Statsd                         0.12  pkg:cpan/Net-Statsd@0.12
 Net::Statsd::Client                 0.34  pkg:cpan/Net-Statsd-Client@0.34
 Net::Statsd::Client::Telegraf        0.2  pkg:cpan/Net-Statsd-Client-Telegraf@0.2
 Net::Statsd::Client::Timer          0.34  pkg:cpan/Net-Statsd-Client@0.34
-Net::Statsd::Lite                  v0.11.0  pkg:cpan/Net-Statsd-Lite@v0.11.0
+Net::Statsd::Lite                  v0.11.1  pkg:cpan/Net-Statsd-Lite@v0.11.1
 Net::Statsd::Server                 0.17  pkg:cpan/Net-Statsd-Server@0.20
 Net::Statsd::Server::Backend        0.20  pkg:cpan/Net-Statsd-Server@0.20
 Net::Statsd::Server::Backend::Console  0.20  pkg:cpan/Net-Statsd-Server@0.20
@@ -151811,7 +151812,7 @@ Net::Statsd::Server::Backend::Graphite  0.20  pkg:cpan/Net-Statsd-Server@0.20
 Net::Statsd::Server::Backend::Rrdtool  0.01  pkg:cpan/Net-Statsd-Server@0.20
 Net::Statsd::Server::Backend::Test  0.20  pkg:cpan/Net-Statsd-Server@0.20
 Net::Statsd::Server::Metrics        0.20  pkg:cpan/Net-Statsd-Server@0.20
-Net::Statsd::Tiny                  v0.4.0  pkg:cpan/Net-Statsd-Tiny@v0.4.0
+Net::Statsd::Tiny                  v0.4.1  pkg:cpan/Net-Statsd-Tiny@v0.4.1
 Net::Statsite::Client              v1.1.0  pkg:cpan/Net-Statsite-Client@1.1.0
 Net::Stomp                          0.62  pkg:cpan/Net-Stomp@0.62
 Net::Stomp::Frame                   0.61  pkg:cpan/Net-Stomp@0.62
@@ -232511,6 +232512,7 @@ Text::UnicodeBox::Utility              0  pkg:cpan/Text-UnicodeBox@0.03
 Text::UnicodeTable::Simple          0.10  pkg:cpan/Text-UnicodeTable-Simple@0.10
 Text::Unidecode                     1.30  pkg:cpan/Text-Unidecode@1.30
 Text::Unmunch                        0.2  pkg:cpan/Text-Unmunch@0.2
+Text::Unpack::Auto                 undef  pkg:cpan/Text-Unpack-Auto@0.002
 Text::UpsideDown                    1.22  pkg:cpan/Text-UpsideDown@1.22
 Text::Upskirt                      0.100  pkg:cpan/Text-Upskirt@0.100
 Text::Util                          0.03  pkg:cpan/Text-Util@0.03
