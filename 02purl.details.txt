@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 23 May 2026 02:28:58 GMT
+Last-Updated: Sat, 23 May 2026 06:29:44 GMT
 Line-Count: 264299
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -49812,7 +49812,7 @@ Crypt::Passphrase::Validator       0.023  pkg:cpan/Crypt-Passphrase@0.023
 Crypt::Passphrase::Yescrypt        0.002  pkg:cpan/Crypt-Passphrase-Yescrypt@0.002
 Crypt::Passwd                       0.03  pkg:cpan/Crypt-Passwd@0.03
 Crypt::Passwd::XS                  0.601  pkg:cpan/Crypt-Passwd-XS@0.601
-Crypt::PasswdMD5                    1.42  pkg:cpan/Crypt-PasswdMD5@1.42?ext=tgz
+Crypt::PasswdMD5                    1.43  pkg:cpan/Crypt-PasswdMD5@1.43?ext=tgz
 Crypt::Password                     0.28  pkg:cpan/Crypt-Password@0.28?ext=tgz
 Crypt::Password::StretchedHash      0.05  pkg:cpan/Crypt-Password-StretchedHash@0.05
 Crypt::Password::StretchedHash::HashInfo undef  pkg:cpan/Crypt-Password-StretchedHash@0.05
@@ -74031,7 +74031,7 @@ File::Map                           0.71  pkg:cpan/File-Map@0.71
 File::Marker                        0.14  pkg:cpan/File-Marker@0.14
 File::Media::Sort                  0.068  pkg:cpan/File-Media-Sort@0.068
 File::MergeSort                     1.23  pkg:cpan/File-MergeSort@1.23
-File::Meta::Cache                  0.004001  pkg:cpan/File-Meta-Cache@v0.4.1
+File::Meta::Cache                  0.004002  pkg:cpan/File-Meta-Cache@v0.4.2
 File::MimeInfo                      0.37  pkg:cpan/File-MimeInfo@0.37
 File::MimeInfo::Applications        0.37  pkg:cpan/File-MimeInfo@0.37
 File::MimeInfo::Magic               0.37  pkg:cpan/File-MimeInfo@0.37
@@ -158537,13 +158537,13 @@ PDL::Core                          2.096  pkg:cpan/PDL@2.104
 PDL::Core::Dev                     undef  pkg:cpan/PDL@2.104
 PDL::DSP::Fir                      0.006  pkg:cpan/PDL-DSP-Fir@0.006
 PDL::DSP::Fir::Simple              0.005  pkg:cpan/PDL-DSP-Fir@0.006
-PDL::DSP::Windows                  0.102  pkg:cpan/PDL-DSP-Windows@0.102
+PDL::DSP::Windows                  0.103  pkg:cpan/PDL-DSP-Windows@0.103
 PDL::DateTime                      0.004  pkg:cpan/PDL-DateTime@0.004
 PDL::Dbg                           undef  pkg:cpan/PDL@2.104
 PDL::Demos                         undef  pkg:cpan/PDL@2.104
 PDL::Demos::BAD_demo               undef  pkg:cpan/PDL@2.104
 PDL::Demos::Cartography_demo       undef  pkg:cpan/PDL@2.104
-PDL::Demos::DSPWindows             0.102  pkg:cpan/PDL-DSP-Windows@0.102
+PDL::Demos::DSPWindows             0.103  pkg:cpan/PDL-DSP-Windows@0.103
 PDL::Demos::Ellipsometry           undef  pkg:cpan/Physics-Ellipsometry-VASE@1.03
 PDL::Demos::Func_demo              undef  pkg:cpan/PDL@2.104
 PDL::Demos::GSL_CDF                undef  pkg:cpan/PDL-GSL@2.103
@@ -229986,7 +229986,7 @@ Test::RestAPI::Endpoint            undef  pkg:cpan/Test-RestAPI@0.1.6
 Test::RestAPI::MojoGenerator       undef  pkg:cpan/Test-RestAPI@0.1.6
 Test::Resub                         2.03  pkg:cpan/Test-Resub@2.03
 Test::Retry                         0.01  pkg:cpan/Test-Retry@0.01
-Test::Returns                       0.02  pkg:cpan/Test-Returns@0.02
+Test::Returns                       0.03  pkg:cpan/Test-Returns@0.03
 Test::Reuse                        0.001  pkg:cpan/Test-Reuse@0.001
 Test::Rinci                        0.156  pkg:cpan/Test-Rinci@0.156
 Test::Rinci::CmdLine               0.001  pkg:cpan/Test-Rinci-CmdLine@0.001
@@ -245844,18 +245844,18 @@ WWW::Restaurant::Menu::Item::Starter  0.11  pkg:cpan/WWW-Restaurant-Menu@0.11
 WWW::RiotGames::LeagueOfLegends    0.0001  pkg:cpan/WWW-RiotGames-LeagueOfLegends@0.0001
 WWW::RoboCop                       0.000103  pkg:cpan/WWW-RoboCop@0.000103
 WWW::Robot                         0.026  pkg:cpan/WWW-Robot@0.026
-WWW::RobotRules                     6.02  pkg:cpan/WWW-RobotRules@6.02
-WWW::RobotRules::AnyDBM_File        6.02  pkg:cpan/WWW-RobotRules@6.02
+WWW::RobotRules                     6.03  pkg:cpan/WWW-RobotRules@6.03
+WWW::RobotRules::AnyDBM_File        6.03  pkg:cpan/WWW-RobotRules@6.03
 WWW::RobotRules::DBIC               0.01  pkg:cpan/WWW-RobotRules-DBIC@0.01
 WWW::RobotRules::DBIC::Schema      undef  pkg:cpan/WWW-RobotRules-DBIC@0.01
 WWW::RobotRules::DBIC::Schema::DateTime undef  pkg:cpan/WWW-RobotRules-DBIC@0.01
 WWW::RobotRules::DBIC::Schema::Netloc undef  pkg:cpan/WWW-RobotRules-DBIC@0.01
 WWW::RobotRules::DBIC::Schema::Rule undef  pkg:cpan/WWW-RobotRules-DBIC@0.01
 WWW::RobotRules::DBIC::Schema::UserAgent undef  pkg:cpan/WWW-RobotRules-DBIC@0.01
-WWW::RobotRules::DB_File            6.02  pkg:cpan/WWW-RobotRules@6.02
+WWW::RobotRules::DB_File            6.03  pkg:cpan/WWW-RobotRules@6.03
 WWW::RobotRules::Extended           0.02  pkg:cpan/WWW-RobotRules-Extended@0.02
 WWW::RobotRules::Extended::InCore   0.02  pkg:cpan/WWW-RobotRules-Extended@0.02
-WWW::RobotRules::InCore             6.02  pkg:cpan/WWW-RobotRules@6.02
+WWW::RobotRules::InCore             6.03  pkg:cpan/WWW-RobotRules@6.03
 WWW::RobotRules::Memcache            0.1  pkg:cpan/WWW-RobotRules-Memcache@0.1
 WWW::RobotRules::Parser            0.04001  pkg:cpan/WWW-RobotRules-Parser@0.04001
 WWW::RobotRules::Parser::MultiValue  0.02  pkg:cpan/WWW-RobotRules-Parser-MultiValue@0.02
