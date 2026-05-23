@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 23 May 2026 14:55:13 GMT
-Line-Count: 264301
+Last-Updated: Sat, 23 May 2026 16:53:28 GMT
+Line-Count: 264302
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -12275,7 +12275,7 @@ App::PS1::Plugin::Perl              0.08  pkg:cpan/App-PS1@0.08
 App::PS1::Plugin::Processes         0.08  pkg:cpan/App-PS1@0.08
 App::PS1::Plugin::Ruby              0.08  pkg:cpan/App-PS1@0.08
 App::PS1::Plugin::Uptime            0.08  pkg:cpan/App-PS1@0.08
-App::PTP                            1.17  pkg:cpan/App-PTP@1.17
+App::PTP                            1.18  pkg:cpan/App-PTP@1.18
 App::PTP::Args                      0.01  pkg:cpan/App-PTP@1.13
 App::PTP::Commands                  0.01  pkg:cpan/App-PTP@1.13
 App::PTP::Files                     0.01  pkg:cpan/App-PTP@1.13
@@ -12981,12 +12981,12 @@ App::RegexpPatternUtils            0.008  pkg:cpan/App-RegexpPatternUtils@0.008
 App::Relate                         0.10  pkg:cpan/App-Relate@0.10
 App::Relate::Complex                0.04  pkg:cpan/App-Relate-Complex@0.04
 App::ReleaseUtils                  0.002  pkg:cpan/App-ReleaseUtils@0.002
-App::RemoteCommand                 0.994  pkg:cpan/App-RemoteCommand@0.994
-App::RemoteCommand::LineBuffer     undef  pkg:cpan/App-RemoteCommand@0.994
-App::RemoteCommand::Pool           undef  pkg:cpan/App-RemoteCommand@0.994
-App::RemoteCommand::SSH            undef  pkg:cpan/App-RemoteCommand@0.994
-App::RemoteCommand::Select         undef  pkg:cpan/App-RemoteCommand@0.994
-App::RemoteCommand::Util           undef  pkg:cpan/App-RemoteCommand@0.994
+App::RemoteCommand                 v1.0.0  pkg:cpan/App-RemoteCommand@v1.0.0
+App::RemoteCommand::LineBuffer     undef  pkg:cpan/App-RemoteCommand@v1.0.0
+App::RemoteCommand::Pool           undef  pkg:cpan/App-RemoteCommand@v1.0.0
+App::RemoteCommand::SSH            undef  pkg:cpan/App-RemoteCommand@v1.0.0
+App::RemoteCommand::Select         undef  pkg:cpan/App-RemoteCommand@v1.0.0
+App::RemoteCommand::Util           undef  pkg:cpan/App-RemoteCommand@v1.0.0
 App::RemoteGnokii                  0.001  pkg:cpan/App-RemoteGnokii@0.001
 App::Reorder::TSV                  v0.1.1  pkg:cpan/App-Reorder-TSV@0.1.1
 App::ReorderGoProFiles              0.02  pkg:cpan/App-ReorderGoProFiles@0.02
@@ -15352,11 +15352,11 @@ App::contenttype                    0.01  pkg:cpan/App-contenttype@0.01
 App::corruptor                     0.003  pkg:cpan/App-corruptor@0.003
 App::count                         0.001001  pkg:cpan/App-count@v0.1.1
 App::cpackage                       1.01  pkg:cpan/App-cpackage@1.01
-App::cpan2arch                     1.001000  pkg:cpan/App-cpan2arch@v1.1.0
-App::cpan2arch::CheckPackages      1.001000  pkg:cpan/App-cpan2arch@v1.1.0
-App::cpan2arch::GetMetadata        1.001000  pkg:cpan/App-cpan2arch@v1.1.0
-App::cpan2arch::MergePrereqs       1.001000  pkg:cpan/App-cpan2arch@v1.1.0
-App::cpan2arch::WritePkgbuild      1.001000  pkg:cpan/App-cpan2arch@v1.1.0
+App::cpan2arch                     1.001001  pkg:cpan/App-cpan2arch@v1.1.1
+App::cpan2arch::CheckPackages      1.001001  pkg:cpan/App-cpan2arch@v1.1.1
+App::cpan2arch::GetMetadata        1.001001  pkg:cpan/App-cpan2arch@v1.1.1
+App::cpan2arch::MergePrereqs       1.001001  pkg:cpan/App-cpan2arch@v1.1.1
+App::cpan2arch::WritePkgbuild      1.001001  pkg:cpan/App-cpan2arch@v1.1.1
 App::cpanbaker                      0.05  pkg:cpan/App-cpanbaker@0.05
 App::cpanchanges                   20170606.0  pkg:cpan/App-cpanchanges@20170606.0
 App::cpanel                        0.006  pkg:cpan/App-cpanel@0.006
@@ -30370,7 +30370,7 @@ Business::IS::PIN                   0.06  pkg:cpan/Business-IS-PIN@0.06
 Business::ISBN                     3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN10                   3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN13                   3.014  pkg:cpan/Business-ISBN@3.014
-Business::ISBN::Data               20260522.001  pkg:cpan/Business-ISBN-Data@20260522.001
+Business::ISBN::Data               20260523.001  pkg:cpan/Business-ISBN-Data@20260523.001
 Business::ISIN                      0.20  pkg:cpan/Business-ISIN@0.20?ext=tgz
 Business::ISMN                     1.205  pkg:cpan/Business-ISMN@1.205
 Business::ISMN::Data               1.205  pkg:cpan/Business-ISMN@1.205
@@ -33099,7 +33099,7 @@ CP932X::R2                          0.07  pkg:cpan/CP932X-R2@0.07
 CPAN                                2.38  pkg:cpan/CPAN@2.38
 CPAN2RT                             0.03  pkg:cpan/CPAN2RT@0.03
 CPAN2RT::UsersSAXParser             0.03  pkg:cpan/CPAN2RT@0.03
-CPAN::02Packages::Search           0.100  pkg:cpan/CPAN-02Packages-Search@0.100
+CPAN::02Packages::Search           v1.0.0  pkg:cpan/CPAN-02Packages-Search@v1.0.0
 CPAN::API::BuildPL                 0.002  pkg:cpan/CPAN-API-BuildPL@0.002
 CPAN::Admin                        5.501  pkg:cpan/CPAN@2.38
 CPAN::Audit                        20260308.002  pkg:cpan/CPAN-Audit@20260308.002
@@ -33373,11 +33373,11 @@ CPAN::Mini::Webserver::Templates::CSS  0.58  pkg:cpan/CPAN-Mini-Webserver@0.58
 CPAN::Mini::Webserver::Templates::Images  0.58  pkg:cpan/CPAN-Mini-Webserver@0.58
 CPAN::Mirror::Finder                0.01  pkg:cpan/CPAN-Mirror-Finder@0.01
 CPAN::Mirror::Server::HTTP          0.04  pkg:cpan/CPAN-Mirror-Server-HTTP@0.04
-CPAN::Mirror::Tiny                  0.33  pkg:cpan/CPAN-Mirror-Tiny@0.33
-CPAN::Mirror::Tiny::Archive        undef  pkg:cpan/CPAN-Mirror-Tiny@0.33
-CPAN::Mirror::Tiny::CLI            undef  pkg:cpan/CPAN-Mirror-Tiny@0.33
-CPAN::Mirror::Tiny::Server         undef  pkg:cpan/CPAN-Mirror-Tiny@0.33
-CPAN::Mirror::Tiny::Tempdir        undef  pkg:cpan/CPAN-Mirror-Tiny@0.33
+CPAN::Mirror::Tiny                 v1.0.0  pkg:cpan/CPAN-Mirror-Tiny@v1.0.0
+CPAN::Mirror::Tiny::Archive        undef  pkg:cpan/CPAN-Mirror-Tiny@v1.0.0
+CPAN::Mirror::Tiny::CLI            undef  pkg:cpan/CPAN-Mirror-Tiny@v1.0.0
+CPAN::Mirror::Tiny::Server         undef  pkg:cpan/CPAN-Mirror-Tiny@v1.0.0
+CPAN::Mirror::Tiny::Tempdir        undef  pkg:cpan/CPAN-Mirror-Tiny@v1.0.0
 CPAN::Mirror::Tiny::Util           undef  pkg:cpan/CPAN-Mirror-Tiny@0.20
 CPAN::Mirrored::By                  2.27  pkg:cpan/CPAN@2.38
 CPAN::Mirrors                       2.27  pkg:cpan/CPAN@2.38
@@ -33436,7 +33436,7 @@ CPAN::Patches::Plugin::Debian       0.03  pkg:cpan/CPAN-Patches-Plugin-Debian@0.
 CPAN::Patches::Plugin::Debian::SPc  0.03  pkg:cpan/CPAN-Patches-Plugin-Debian@0.03
 CPAN::Patches::SPc                  0.04  pkg:cpan/CPAN-Patches@0.05
 CPAN::Perl::Releases               5.20260420  pkg:cpan/CPAN-Perl-Releases@5.20260420
-CPAN::Perl::Releases::MetaCPAN     0.010  pkg:cpan/CPAN-Perl-Releases-MetaCPAN@0.010
+CPAN::Perl::Releases::MetaCPAN     v1.0.0  pkg:cpan/CPAN-Perl-Releases-MetaCPAN@v1.0.0
 CPAN::Plugin                        0.97  pkg:cpan/CPAN@2.38
 CPAN::Plugin::Specfile              0.02  pkg:cpan/CPAN@2.38
 CPAN::Plugin::Sysdeps               0.83  pkg:cpan/CPAN-Plugin-Sysdeps@0.83
@@ -47255,11 +47255,11 @@ Command::Interactive                 1.4  pkg:cpan/Command-Interactive@1.4
 Command::Interactive::Interaction   1.21  pkg:cpan/Command-Interactive@1.21
 Command::Run                        1.00  pkg:cpan/Command-Run@1.00
 Command::Run::Tmpfile              undef  pkg:cpan/Command-Run@1.00
-Command::Runner                    0.201  pkg:cpan/Command-Runner@0.201
+Command::Runner                    v1.0.0  pkg:cpan/Command-Runner@v1.0.0
 Command::Runner::Format            undef  pkg:cpan/Command-Runner@0.200
-Command::Runner::LineBuffer        undef  pkg:cpan/Command-Runner@0.201
-Command::Runner::Quote             undef  pkg:cpan/Command-Runner@0.201
-Command::Runner::Timeout           undef  pkg:cpan/Command-Runner@0.201
+Command::Runner::LineBuffer        undef  pkg:cpan/Command-Runner@v1.0.0
+Command::Runner::Quote             undef  pkg:cpan/Command-Runner@v1.0.0
+Command::Runner::Timeout           undef  pkg:cpan/Command-Runner@v1.0.0
 Command::Shell                     undef  pkg:cpan/UR@0.47
 Command::SubCommandFactory         undef  pkg:cpan/UR@0.47
 Command::Template                  0.001  pkg:cpan/Command-Template@0.001
@@ -49805,7 +49805,7 @@ Crypt::Passphrase::Pepper::HSM     0.007  pkg:cpan/Crypt-Passphrase-HSM@0.007
 Crypt::Passphrase::Pepper::Simple  0.023  pkg:cpan/Crypt-Passphrase@0.023
 Crypt::Passphrase::SHA1::Base64    0.023  pkg:cpan/Crypt-Passphrase@0.023
 Crypt::Passphrase::SHA1::Hex       0.023  pkg:cpan/Crypt-Passphrase@0.023
-Crypt::Passphrase::SaltedHash       0.01  pkg:cpan/Crypt-Passphrase-SaltedHash@0.01
+Crypt::Passphrase::SaltedHash       0.02  pkg:cpan/Crypt-Passphrase-SaltedHash@0.02
 Crypt::Passphrase::Scrypt          0.005  pkg:cpan/Crypt-Passphrase-Scrypt@0.005
 Crypt::Passphrase::System          0.023  pkg:cpan/Crypt-Passphrase@0.023
 Crypt::Passphrase::Util::Crypt64   0.023  pkg:cpan/Crypt-Passphrase@0.023
@@ -56519,7 +56519,7 @@ DarkPAN::Compare                    0.03  pkg:cpan/DarkPAN-Compare@0.03
 DarkPAN::Utils                     v1.1.0  pkg:cpan/DarkPAN-Utils@1.1.0
 DarkPAN::Utils::Docs               v1.1.0  pkg:cpan/DarkPAN-Utils@1.1.0
 DarkSky::API                       1.001005  pkg:cpan/DarkSky-API@1.1.5
-Darwin::InitObjC                   0.001  pkg:cpan/Darwin-InitObjC@0.001
+Darwin::InitObjC                   v1.0.0  pkg:cpan/Darwin-InitObjC@v1.0.0
 Das                                undef  pkg:cpan/Das
 Dash                                0.11  pkg:cpan/Dash@0.11
 Dash::Backend::Mojolicious::App    undef  pkg:cpan/Dash@0.11
@@ -67555,8 +67555,8 @@ Distributed::Process::Server       undef  pkg:cpan/Distributed-Process@0.20
 Distributed::Process::Worker       undef  pkg:cpan/Distributed-Process@0.20
 Distribution::Cooker               2.004  pkg:cpan/Distribution-Cooker@2.004
 Distribution::Guess::BuildSystem   1.007  pkg:cpan/Distribution-Guess-BuildSystem@1.007
-Distribution::Metadata              0.10  pkg:cpan/Distribution-Metadata@0.10
-Distribution::Metadata::Factory    undef  pkg:cpan/Distribution-Metadata@0.10
+Distribution::Metadata             v1.0.0  pkg:cpan/Distribution-Metadata@v1.0.0
+Distribution::Metadata::Factory    undef  pkg:cpan/Distribution-Metadata@v1.0.0
 Dita::Extend                       20181215  pkg:cpan/Dita-Extend@20190201
 Dita::GB::Standard                 20201030  pkg:cpan/Dita-GB-Standard@20201030
 Dita::PCD                          20201103  pkg:cpan/Dita-PCD@20201103
@@ -137697,9 +137697,9 @@ Module::Which::List                 0.05  pkg:cpan/Module-Which@0.05
 Module::Which::P5Path               0.05  pkg:cpan/Module-Which@0.05
 Module::XSOrPP                     0.120  pkg:cpan/Module-XSOrPP@0.120
 Module::Znuny::CoreList             1.03  pkg:cpan/Module-Znuny-CoreList@1.03
-Module::cpmfile                    0.006  pkg:cpan/Module-cpmfile@0.006
-Module::cpmfile::Prereqs           undef  pkg:cpan/Module-cpmfile@0.006
-Module::cpmfile::Util              undef  pkg:cpan/Module-cpmfile@0.006
+Module::cpmfile                    v1.0.0  pkg:cpan/Module-cpmfile@v1.0.0
+Module::cpmfile::Prereqs           undef  pkg:cpan/Module-cpmfile@v1.0.0
+Module::cpmfile::Util              undef  pkg:cpan/Module-cpmfile@v1.0.0
 ModuleFieldsHandler                undef  pkg:cpan/ZZZ-SDK@0.0.2
 ModuleFindTest                     undef  pkg:cpan/Module-Find@0.13
 ModuleFindTest::SubMod             undef  pkg:cpan/Module-Find@0.13
@@ -156004,7 +156004,8 @@ OpenAI::API::Response::Moderation  undef  pkg:cpan/OpenAI-API@0.37
 OpenAIGPT4                          0.18  pkg:cpan/OpenAIGPT4@0.18
 OpenAPI                            0.001  pkg:cpan/OpenAPI@0.001
 OpenAPI::Client                     1.07  pkg:cpan/OpenAPI-Client@1.07
-OpenAPI::Client::OpenAI             0.25  pkg:cpan/OpenAPI-Client-OpenAI@0.25
+OpenAPI::Client::OpenAI             0.28  pkg:cpan/OpenAPI-Client-OpenAI@0.28
+OpenAPI::Client::OpenAI::Naming    undef  pkg:cpan/OpenAPI-Client-OpenAI@0.28
 OpenAPI::Client::Pinecone           0.03  pkg:cpan/OpenAPI-Client-Pinecone@0.03
 OpenAPI::Generator                  0.06  pkg:cpan/OpenAPI-Generator@0.06
 OpenAPI::Generator::From::Definitions undef  pkg:cpan/OpenAPI-Generator@0.06
@@ -157606,7 +157607,7 @@ PAUSE::Packages::ReleaseIterator    0.18  pkg:cpan/PAUSE-Packages@0.18
 PAUSE::Permissions                  0.17  pkg:cpan/PAUSE-Permissions@0.17
 PAUSE::Permissions::Entry           0.17  pkg:cpan/PAUSE-Permissions@0.17
 PAUSE::Permissions::EntryIterator   0.17  pkg:cpan/PAUSE-Permissions@0.17
-PAUSE::Permissions::MetaCPAN       0.100  pkg:cpan/PAUSE-Permissions-MetaCPAN@0.100
+PAUSE::Permissions::MetaCPAN       v1.0.0  pkg:cpan/PAUSE-Permissions-MetaCPAN@v1.0.0
 PAUSE::Permissions::Module          0.17  pkg:cpan/PAUSE-Permissions@0.17
 PAUSE::Permissions::ModuleIterator  0.17  pkg:cpan/PAUSE-Permissions@0.17
 PAUSE::Users                        0.11  pkg:cpan/PAUSE-Users@0.11
@@ -162220,8 +162221,8 @@ Parallel::MapReduce::Worker::SSHRemote  0.01  pkg:cpan/Parallel-MapReduce@0.09
 Parallel::Mpich::MPD               0.009003  pkg:cpan/Parallel-Mpich-MPD@0.9.3
 Parallel::Mpich::MPD::Common       undef  pkg:cpan/Parallel-Mpich-MPD@0.9.3
 Parallel::Mpich::MPD::Job          undef  pkg:cpan/Parallel-Mpich-MPD@0.9.3
-Parallel::Pipes                    0.201  pkg:cpan/Parallel-Pipes@0.201
-Parallel::Pipes::App               0.201  pkg:cpan/Parallel-Pipes@0.201
+Parallel::Pipes                    v1.0.0  pkg:cpan/Parallel-Pipes@v1.0.0
+Parallel::Pipes::App               v1.0.0  pkg:cpan/Parallel-Pipes@v1.0.0
 Parallel::PreForkManager           1.20180106  pkg:cpan/Parallel-PreForkManager@1.20180106
 Parallel::Prefork                   0.18  pkg:cpan/Parallel-Prefork@0.18
 Parallel::Prefork::SpareWorkers    undef  pkg:cpan/Parallel-Prefork@0.18
@@ -199391,7 +199392,7 @@ Proc::Find                         0.051  pkg:cpan/Proc-Find@0.051
 Proc::Find::Parents                0.631  pkg:cpan/Proc-Find-Parents@0.631
 Proc::Fork                         0.808  pkg:cpan/Proc-Fork@0.808
 Proc::Fork::Control                  1.6  pkg:cpan/Proc-Fork-Control@1.6
-Proc::ForkSafe                     0.001  pkg:cpan/Proc-ForkSafe@0.001
+Proc::ForkSafe                     v1.0.0  pkg:cpan/Proc-ForkSafe@v1.0.0
 Proc::Forkfunc                     96.041701  pkg:cpan/Proc-Forkfunc@96.042201
 Proc::Forking                       1.50  pkg:cpan/Proc-Forking@1.50
 Proc::Forkmap                      0.2305  pkg:cpan/Proc-Forkmap@0.2305
