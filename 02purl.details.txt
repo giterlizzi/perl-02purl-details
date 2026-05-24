@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 24 May 2026 06:54:55 GMT
-Line-Count: 264306
+Last-Updated: Sun, 24 May 2026 09:49:21 GMT
+Line-Count: 264310
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -33104,7 +33104,7 @@ CPAN::02Packages::Search           v1.0.0  pkg:cpan/CPAN-02Packages-Search@v1.0.
 CPAN::API::BuildPL                 0.002  pkg:cpan/CPAN-API-BuildPL@0.002
 CPAN::Admin                        5.501  pkg:cpan/CPAN@2.38
 CPAN::Audit                        20260308.002  pkg:cpan/CPAN-Audit@20260308.002
-CPAN::Audit::DB                    20260517.001  pkg:cpan/CPANSA-DB@20260517.001
+CPAN::Audit::DB                    20260524.001  pkg:cpan/CPANSA-DB@20260524.001
 CPAN::Audit::Discover              1.001  pkg:cpan/CPAN-Audit@20260308.002
 CPAN::Audit::Discover::Cpanfile    1.001  pkg:cpan/CPAN-Audit@20260308.002
 CPAN::Audit::Discover::CpanfileSnapshot 1.001  pkg:cpan/CPAN-Audit@20260308.002
@@ -33874,7 +33874,7 @@ CPANPLUS::YACSmoke::ReAssemble      1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::SortVers        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::locallib        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::inc                      undef  pkg:cpan/CPANPLUS@0.84
-CPANSA::DB                         20260517.001  pkg:cpan/CPANSA-DB@20260517.001
+CPANSA::DB                         20260524.001  pkg:cpan/CPANSA-DB@20260524.001
 CPANSEC::Admin                     0.001  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command            undef  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command::Amend     undef  pkg:cpan/CPANSec-Admin@0.001
@@ -73791,6 +73791,7 @@ File::Find::utf8                   0.016  pkg:cpan/File-Find-utf8@0.016
 File::FindByRegex                    1.2  pkg:cpan/File-FindByRegex@1.2
 File::FindByRegex::Base              1.2  pkg:cpan/File-FindByRegex@1.2
 File::FindLib                      0.001004  pkg:cpan/File-FindLib@0.001004
+File::FindRoot                     0.003  pkg:cpan/File-FindRoot@0.003
 File::FindSimilars                  2.07  pkg:cpan/File-FindSimilars@2.07
 File::FindStrings                  1.000  pkg:cpan/Perl-Critic-Policy-BadStrings@1.000
 File::FindStrings::Boilerplate     1.000  pkg:cpan/Perl-Critic-Policy-BadStrings@1.000
@@ -105720,6 +105721,8 @@ HP200LX::DBgui                      0.09  pkg:cpan/hp200lx-db@0.09
 HP200LX::DBgui::card                0.09  pkg:cpan/hp200lx-db@0.09
 HP200LX::DBgui::list                0.09  pkg:cpan/hp200lx-db@0.09
 HP200LX::DBgui::vpt                 0.09  pkg:cpan/hp200lx-db@0.09
+HP::Handy                           0.01  pkg:cpan/HP-Handy@0.01
+HP::Handy::SafeString               0.01  pkg:cpan/HP-Handy@0.01
 HPC::Runner                         2.48  pkg:cpan/HPC-Runner@2.48
 HPC::Runner::Command               3.002014  pkg:cpan/HPC-Runner-Command@3.2.14
 HPC::Runner::Command::Logger::JSON undef  pkg:cpan/HPC-Runner-Command@3.2.14
@@ -193616,6 +193619,7 @@ Perinci::Web                        0.01  pkg:cpan/Perinci-Web@0.01
 Perinci::WebScript::JSON           0.002  pkg:cpan/Perinci-WebScript-JSON@0.002
 Periscope                          undef  pkg:cpan/Periscope@0.0.3
 Perl4::CoreLibs                    0.005  pkg:cpan/Perl4-CoreLibs@0.005
+Perl500503Syntax::OrDie             0.01  pkg:cpan/Perl500503Syntax-OrDie@0.01
 Perl5::Build::Warnings              0.05  pkg:cpan/Perl5-Build-Warnings@0.05
 Perl5::CoreSmokeDB::Schema          1.12  pkg:cpan/Perl5-CoreSmokeDB-Schema@1.12
 Perl5::CoreSmokeDB::Schema::Result::Config undef  pkg:cpan/Perl5-CoreSmokeDB-Schema@1.12
