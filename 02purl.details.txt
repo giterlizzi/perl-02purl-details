@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 24 May 2026 16:54:09 GMT
-Line-Count: 264310
+Last-Updated: Sun, 24 May 2026 19:06:42 GMT
+Line-Count: 264313
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -82804,6 +82804,9 @@ Git::I18N                          undef  pkg:cpan/Git@0.42
 Git::IndexInfo                     undef  pkg:cpan/Git@0.42
 Git::IssueManager                  undef  pkg:cpan/Git-IssueManager@0.1
 Git::IssueManager::Issue           undef  pkg:cpan/Git-IssueManager@0.1
+Git::Libgit2                       0.001  pkg:cpan/Git-Libgit2@0.001
+Git::Libgit2::Error                undef  pkg:cpan/Git-Libgit2@0.001
+Git::Libgit2::FFI                  undef  pkg:cpan/Git-Libgit2@0.001
 Git::Lint                          1.000  pkg:cpan/Git-Lint@1.000
 Git::Lint::Check                   1.000  pkg:cpan/Git-Lint@1.000
 Git::Lint::Check::Commit           1.000  pkg:cpan/Git-Lint@1.000
