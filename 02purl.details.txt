@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 23 May 2026 22:44:44 GMT
-Line-Count: 264305
+Last-Updated: Sun, 24 May 2026 02:39:06 GMT
+Line-Count: 264306
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -8433,6 +8433,7 @@ App::ArduinoBuilder::FilePath      undef  pkg:cpan/App-ArduinoBuilder@0.04
 App::ArduinoBuilder::Logger        undef  pkg:cpan/App-ArduinoBuilder@0.04
 App::ArduinoBuilder::System        undef  pkg:cpan/App-ArduinoBuilder@0.04
 App::ArgUtils                      0.001  pkg:cpan/App-ArgUtils@0.001
+App::ArithmeticsUtils              0.001  pkg:cpan/App-ArithmeticsUtils@0.001
 App::ArticleWrap                    1.03  pkg:cpan/App-ArticleWrap@1.03
 App::AsciiChart                     0.04  pkg:cpan/App-AsciiChart@0.04
 App::Asciio                        v1.9.2  pkg:cpan/App-Asciio@1.9.02
