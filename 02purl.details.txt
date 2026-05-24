@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 24 May 2026 02:39:06 GMT
+Last-Updated: Sun, 24 May 2026 06:54:55 GMT
 Line-Count: 264306
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -10528,7 +10528,7 @@ App::Greple::Regions::Holder       undef  pkg:cpan/App-Greple@10.04
 App::Greple::Text                  undef  pkg:cpan/App-Greple@10.04
 App::Greple::Util                  undef  pkg:cpan/App-Greple@10.04
 App::Greple::annotate              0.9909  pkg:cpan/App-Greple-charcode@0.9909
-App::Greple::aozora                 0.01  pkg:cpan/App-Greple-aozora@0.01
+App::Greple::aozora                 0.02  pkg:cpan/App-Greple-aozora@0.02
 App::Greple::cc                    undef  pkg:cpan/App-Greple-charcode@0.9909
 App::Greple::charcode              0.9909  pkg:cpan/App-Greple-charcode@0.9909
 App::Greple::colors                undef  pkg:cpan/App-Greple@10.04
@@ -15394,44 +15394,44 @@ App::cpanreports                   0.004  pkg:cpan/App-cpanreports@0.004
 App::cpantested                    0.003  pkg:cpan/App-cpantested@0.003
 App::cpanthanks                     0.03  pkg:cpan/App-cpanthanks@0.03
 App::cpantimes                     1.502101  pkg:cpan/App-cpantimes@1.502101
-App::cpm                           v1.1.0  pkg:cpan/App-cpm@v1.1.0
-App::cpm::Builder::Base            undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::Builder::EUMM            undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::Builder::MB              undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::Builder::Prebuilt        undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::Builder::Static          undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::CLI                      undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::CircularDependency       undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::Context                  undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::DistNotation             undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::Distribution             undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::HTTP                     undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::Installer::Unpacker      undef  pkg:cpan/App-cpm@v1.1.0
+App::cpm                           v1.1.1  pkg:cpan/App-cpm@v1.1.1
+App::cpm::Builder::Base            undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::Builder::EUMM            undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::Builder::MB              undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::Builder::Prebuilt        undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::Builder::Static          undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::CLI                      undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::CircularDependency       undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::Context                  undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::DistNotation             undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::Distribution             undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::HTTP                     undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::Installer::Unpacker      undef  pkg:cpan/App-cpm@v1.1.1
 App::cpm::Job                      undef  pkg:cpan/App-cpm@0.997003
-App::cpm::Logger                   undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::Logger::File             undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::Logger::Terminal         undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::Master                   undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::Requirement              undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::Resolver                 undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::Resolver::02Packages     undef  pkg:cpan/App-cpm@v1.1.0
+App::cpm::Logger                   undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::Logger::File             undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::Logger::Terminal         undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::Master                   undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::Requirement              undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::Resolver                 undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::Resolver::02Packages     undef  pkg:cpan/App-cpm@v1.1.1
 App::cpm::Resolver::CPANfile       undef  pkg:cpan/App-cpm@0.997005
-App::cpm::Resolver::Cascade        undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::Resolver::Custom         undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::Resolver::Fixed          undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::Resolver::MetaCPAN       undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::Resolver::MetaDB         undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::Resolver::Snapshot       undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::Task                     undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::Tutorial                 undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::Util                     undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::Worker                   undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::Worker::Installer        undef  pkg:cpan/App-cpm@v1.1.0
+App::cpm::Resolver::Cascade        undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::Resolver::Custom         undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::Resolver::Fixed          undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::Resolver::MetaCPAN       undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::Resolver::MetaDB         undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::Resolver::Snapshot       undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::Task                     undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::Tutorial                 undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::Util                     undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::Worker                   undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::Worker::Installer        undef  pkg:cpan/App-cpm@v1.1.1
 App::cpm::Worker::Installer::Menlo undef  pkg:cpan/App-cpm@0.997024
-App::cpm::Worker::Installer::Prebuilt undef  pkg:cpan/App-cpm@v1.1.0
-App::cpm::Worker::Resolver         undef  pkg:cpan/App-cpm@v1.1.0
+App::cpm::Worker::Installer::Prebuilt undef  pkg:cpan/App-cpm@v1.1.1
+App::cpm::Worker::Resolver         undef  pkg:cpan/App-cpm@v1.1.1
 App::cpm::file                     undef  pkg:cpan/App-cpm@0.997004
-App::cpm::version                  undef  pkg:cpan/App-cpm@v1.1.0
+App::cpm::version                  undef  pkg:cpan/App-cpm@v1.1.1
 App::cpx                            0.04  pkg:cpan/App-cpx@0.04
 App::crosstable                    0.110  pkg:cpan/App-crosstable@0.110
 App::cryp::Cmd::Exchange::accounts 0.012  pkg:cpan/App-cryp-exchange@0.012
