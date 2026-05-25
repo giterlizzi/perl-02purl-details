@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 25 May 2026 08:13:15 GMT
-Line-Count: 264319
+Last-Updated: Mon, 25 May 2026 12:56:43 GMT
+Line-Count: 264320
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -138221,13 +138221,13 @@ Mojo::SOAP::Client                 0.001008  pkg:cpan/Mojo-SOAP-Client@0.1.8
 Mojo::SOAP::Exception              0.001000  pkg:cpan/Mojo-SOAP-Client@0.1.0
 Mojo::SQL                           0.02  pkg:cpan/Mojo-SQL@0.02
 Mojo::SQL::Statement               undef  pkg:cpan/Mojo-SQL@0.02
-Mojo::SQLite                       3.009  pkg:cpan/Mojo-SQLite@3.009
-Mojo::SQLite::Database             3.009  pkg:cpan/Mojo-SQLite@3.009
+Mojo::SQLite                       v4.0.0  pkg:cpan/Mojo-SQLite@v4.0.0
+Mojo::SQLite::Database             v4.0.0  pkg:cpan/Mojo-SQLite@v4.0.0
 Mojo::SQLite::Database::Role::InsertHelpers undef  pkg:cpan/Mojo-SQLite-Database-Role-InsertHelpers@0.001
-Mojo::SQLite::Migrations           3.009  pkg:cpan/Mojo-SQLite@3.009
-Mojo::SQLite::PubSub               3.009  pkg:cpan/Mojo-SQLite@3.009
-Mojo::SQLite::Results              3.009  pkg:cpan/Mojo-SQLite@3.009
-Mojo::SQLite::Transaction          3.009  pkg:cpan/Mojo-SQLite@3.009
+Mojo::SQLite::Migrations           v4.0.0  pkg:cpan/Mojo-SQLite@v4.0.0
+Mojo::SQLite::PubSub               v4.0.0  pkg:cpan/Mojo-SQLite@v4.0.0
+Mojo::SQLite::Results              v4.0.0  pkg:cpan/Mojo-SQLite@v4.0.0
+Mojo::SQLite::Transaction          v4.0.0  pkg:cpan/Mojo-SQLite@v4.0.0
 Mojo::SSE                          undef  pkg:cpan/Mojolicious@9.45
 Mojo::Sendgrid                      0.05  pkg:cpan/Mojo-Sendgrid@0.05
 Mojo::Sendgrid::Mail               undef  pkg:cpan/Mojo-Sendgrid@0.05
@@ -145891,6 +145891,7 @@ Net::BART::LPM                      0.01  pkg:cpan/Net-BART@0.01
 Net::BART::Node                     0.01  pkg:cpan/Net-BART@0.01
 Net::BART::SparseArray256           0.01  pkg:cpan/Net-BART@0.01
 Net::BART::XS                       0.01  pkg:cpan/Net-BART@0.01
+Net::BCCN                            1.1  pkg:cpan/Net-BCCN@1.1
 Net::BEEP::Lite                     0.06  pkg:cpan/Net-BEEP-Lite@0.06
 Net::BEEP::Lite::BaseProfile       undef  pkg:cpan/Net-BEEP-Lite@0.06
 Net::BEEP::Lite::Channel           undef  pkg:cpan/Net-BEEP-Lite@0.06
