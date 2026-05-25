@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 25 May 2026 02:47:59 GMT
-Line-Count: 264314
+Last-Updated: Mon, 25 May 2026 08:13:15 GMT
+Line-Count: 264319
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -112171,7 +112171,7 @@ IO::Prompt::Simple                  0.07  pkg:cpan/IO-Prompt-Simple@0.07
 IO::Prompt::Timeout                 0.04  pkg:cpan/IO-Prompt-Timeout@0.04
 IO::Prompt::Tiny                   0.003  pkg:cpan/IO-Prompt-Tiny@0.003
 IO::Prompter                       0.005004  pkg:cpan/IO-Prompter@0.005004
-IO::Pty                             1.29  pkg:cpan/IO-Tty@1.29
+IO::Pty                             1.31  pkg:cpan/IO-Tty@1.31
 IO::Pty::Easy                       0.10  pkg:cpan/IO-Pty-Easy@0.10
 IO::Pty::HalfDuplex                 0.02  pkg:cpan/IO-Pty-HalfDuplex@0.02
 IO::Pty::HalfDuplex::JobControl    undef  pkg:cpan/IO-Pty-HalfDuplex@0.02
@@ -112300,7 +112300,7 @@ IO::Tokenized                       0.04  pkg:cpan/IO-Tokenized@0.04
 IO::Tokenized::File                 0.05  pkg:cpan/IO-Tokenized@0.04
 IO::Tokenized::Scalar               0.05  pkg:cpan/FrameMaker-MifTree@0.075
 IO::Trace                          0.025  pkg:cpan/IO-Trace@0.025
-IO::Tty                             1.29  pkg:cpan/IO-Tty@1.29
+IO::Tty                             1.31  pkg:cpan/IO-Tty@1.31
 IO::Tty::Constant                   0.04  pkg:cpan/IO-Tty@0.04
 IO::Tty::Util                       0.03  pkg:cpan/IO-Tty-Util@0.03
 IO::Uncompress::Adapter::Bunzip2   2.220  pkg:cpan/IO-Compress@2.220
@@ -115129,7 +115129,7 @@ JSON::String::HASH                 0.002000  pkg:cpan/JSON-String@0.2.0
 JSON::Structure                     0.01  pkg:cpan/JSON-Structure@0.6.1
 JSON::Structure::InstanceValidator  0.01  pkg:cpan/JSON-Structure@0.6.1
 JSON::Structure::SchemaValidator    0.01  pkg:cpan/JSON-Structure@0.6.1
-JSON::Syck                          1.45  pkg:cpan/YAML-Syck@1.45
+JSON::Syck                          1.46  pkg:cpan/YAML-Syck@1.46
 JSON::T                            0.104  pkg:cpan/JSON-T@0.104
 JSON::T::JE                        0.104  pkg:cpan/JSON-T@0.104
 JSON::T::SpiderMonkey              0.104  pkg:cpan/JSON-T@0.104
@@ -200127,6 +200127,11 @@ Protocol::TLS::RecordLayer         undef  pkg:cpan/Protocol-TLS@0.04
 Protocol::TLS::Server              undef  pkg:cpan/Protocol-TLS@0.04
 Protocol::TLS::Trace               undef  pkg:cpan/Protocol-TLS@0.04
 Protocol::TLS::Utils               undef  pkg:cpan/Protocol-TLS@0.04
+Protocol::Tus                      0.001  pkg:cpan/Protocol-Tus@0.001
+Protocol::Tus::AbstractModel       0.001  pkg:cpan/Protocol-Tus@0.001
+Protocol::Tus::LocalDir            0.001  pkg:cpan/Protocol-Tus@0.001
+Protocol::Tus::Response            0.001  pkg:cpan/Protocol-Tus@0.001
+Protocol::Tus::Util                0.001  pkg:cpan/Protocol-Tus@0.001
 Protocol::UWSGI                    1.000  pkg:cpan/Protocol-UWSGI@1.000
 Protocol::WebSocket                 0.26  pkg:cpan/Protocol-WebSocket@0.26
 Protocol::WebSocket::Client        undef  pkg:cpan/Protocol-WebSocket@0.26
@@ -258407,7 +258412,7 @@ YAML::Diff::Command                undef  pkg:cpan/YAML-Diff@0.0.2
 YAML::Dump                          1.84  pkg:cpan/YAML-Dump@1.84
 YAML::Dumper                       undef  pkg:cpan/YAML@1.31
 YAML::Dumper::Base                 undef  pkg:cpan/YAML@1.31
-YAML::Dumper::Syck                 undef  pkg:cpan/YAML-Syck@1.45
+YAML::Dumper::Syck                 undef  pkg:cpan/YAML-Syck@1.46
 YAML::Error                        undef  pkg:cpan/YAML@1.31
 YAML::Full                         0.000001  pkg:cpan/YAML-Full@0.0.1
 YAML::Full::Base                   0.000001  pkg:cpan/YAML-Full@0.0.1
@@ -258430,7 +258435,7 @@ YAML::LoadFileCached                0.21  pkg:cpan/YAML-LoadFileCached@0.21
 YAML::LoadURI                       0.01  pkg:cpan/YAML-LoadURI@0.01
 YAML::Loader                       undef  pkg:cpan/YAML@1.31
 YAML::Loader::Base                 undef  pkg:cpan/YAML@1.31
-YAML::Loader::Syck                 undef  pkg:cpan/YAML-Syck@1.45
+YAML::Loader::Syck                 undef  pkg:cpan/YAML-Syck@1.46
 YAML::Logic                         0.07  pkg:cpan/YAML-Logic@0.07
 YAML::MLDBM                         0.10  pkg:cpan/YAML-MLDBM@0.10
 YAML::Manual                        0.10  pkg:cpan/YAML-Manual@0.10
@@ -258570,7 +258575,7 @@ YAML::Perl::Tokens                 undef  pkg:cpan/YAML-Perl@0.02
 YAML::Perl::Writer                 undef  pkg:cpan/YAML-Perl@0.02
 YAML::Safe                          0.83  pkg:cpan/YAML-Safe@0.83
 YAML::Shell                         0.71  pkg:cpan/YAML-Shell@0.71
-YAML::Syck                          1.45  pkg:cpan/YAML-Syck@1.45
+YAML::Syck                          1.46  pkg:cpan/YAML-Syck@1.46
 YAML::SyckWrapper                  0.001  pkg:cpan/YAML-SyckWrapper@0.001
 YAML::Tag                          undef  pkg:cpan/YAML@1.31
 YAML::Tests                         0.06  pkg:cpan/YAML-Tests@0.06
