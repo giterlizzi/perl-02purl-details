@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 24 May 2026 22:51:24 GMT
-Line-Count: 264313
+Last-Updated: Mon, 25 May 2026 02:47:59 GMT
+Line-Count: 264314
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -47514,16 +47514,17 @@ Conan::Configure::Xen                  0  pkg:cpan/Conan@0.0.7
 Conan::Deploy                          0  pkg:cpan/Conan@0.0.7
 Conan::Promote                         0  pkg:cpan/Conan@0.0.7
 Conan::Promote::Xen                    0  pkg:cpan/Conan@0.0.7
-Concierge                          v0.6.1  pkg:cpan/Concierge@v0.6.1
+Concierge                          v0.7.0  pkg:cpan/Concierge@v0.7.0
 Concierge::Auth                    v0.4.3  pkg:cpan/Concierge-Auth@v0.4.3
 Concierge::Auth::Generators        v0.4.3  pkg:cpan/Concierge-Auth@v0.4.3
+Concierge::Base                    v0.7.0  pkg:cpan/Concierge@v0.7.0
 Concierge::Sessions                v0.11.0  pkg:cpan/Concierge-Sessions@v0.11.0
 Concierge::Sessions::Base          v0.11.0  pkg:cpan/Concierge-Sessions@v0.11.0
 Concierge::Sessions::File          v0.11.0  pkg:cpan/Concierge-Sessions@v0.11.0
 Concierge::Sessions::SQLite        v0.11.0  pkg:cpan/Concierge-Sessions@v0.11.0
 Concierge::Sessions::Session       v0.11.0  pkg:cpan/Concierge-Sessions@v0.11.0
-Concierge::Setup                   v0.6.1  pkg:cpan/Concierge@v0.6.1
-Concierge::User                    v0.6.1  pkg:cpan/Concierge@v0.6.1
+Concierge::Setup                   v0.7.0  pkg:cpan/Concierge@v0.7.0
+Concierge::User                    v0.7.0  pkg:cpan/Concierge@v0.7.0
 Concierge::Users                   v0.8.0  pkg:cpan/Concierge-Users@v0.8.0
 Concierge::Users::Database         v0.8.0  pkg:cpan/Concierge-Users@v0.8.0
 Concierge::Users::File             v0.8.0  pkg:cpan/Concierge-Users@v0.8.0
