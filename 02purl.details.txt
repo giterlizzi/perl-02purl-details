@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 25 May 2026 16:16:46 GMT
+Last-Updated: Mon, 25 May 2026 19:19:18 GMT
 Line-Count: 264321
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -17112,12 +17112,12 @@ Archive::SimpleExtractor::Zip       0.03  pkg:cpan/Archive-SimpleExtractor@0.11
 Archive::StringToZip                1.03  pkg:cpan/Archive-StringToZip@1.03
 Archive::TAP::Convert              0.007  pkg:cpan/Archive-TAP-Convert@0.007
 Archive::TAP::Peek                 0.002  pkg:cpan/Archive-TAP-Peek@0.002
-Archive::Tar                        3.08  pkg:cpan/Archive-Tar@3.08
+Archive::Tar                        3.10  pkg:cpan/Archive-Tar@3.10
 Archive::Tar::Builder              2.5006  pkg:cpan/Archive-Tar-Builder@2.5006
 Archive::Tar::Builder::HardlinkCache undef  pkg:cpan/Archive-Tar-Builder@2.5006
 Archive::Tar::Builder::UserCache   undef  pkg:cpan/Archive-Tar-Builder@2.5006
-Archive::Tar::Constant              3.08  pkg:cpan/Archive-Tar@3.08
-Archive::Tar::File                  3.08  pkg:cpan/Archive-Tar@3.08
+Archive::Tar::Constant              3.10  pkg:cpan/Archive-Tar@3.10
+Archive::Tar::File                  3.10  pkg:cpan/Archive-Tar@3.10
 Archive::Tar::LogError              0.04  pkg:cpan/Verby-Action-Untar@0.04
 Archive::Tar::Merge                 0.01  pkg:cpan/Archive-Tar-Merge@0.01
 Archive::Tar::Std                  undef  pkg:cpan/Archive-Tar@0.23?ext=tgz
@@ -47514,22 +47514,22 @@ Conan::Configure::Xen                  0  pkg:cpan/Conan@0.0.7
 Conan::Deploy                          0  pkg:cpan/Conan@0.0.7
 Conan::Promote                         0  pkg:cpan/Conan@0.0.7
 Conan::Promote::Xen                    0  pkg:cpan/Conan@0.0.7
-Concierge                          v0.7.0  pkg:cpan/Concierge@v0.7.0
-Concierge::Auth                    v0.4.3  pkg:cpan/Concierge-Auth@v0.4.3
-Concierge::Auth::Generators        v0.4.3  pkg:cpan/Concierge-Auth@v0.4.3
-Concierge::Base                    v0.7.0  pkg:cpan/Concierge@v0.7.0
-Concierge::Sessions                v0.11.0  pkg:cpan/Concierge-Sessions@v0.11.0
-Concierge::Sessions::Base          v0.11.0  pkg:cpan/Concierge-Sessions@v0.11.0
-Concierge::Sessions::File          v0.11.0  pkg:cpan/Concierge-Sessions@v0.11.0
-Concierge::Sessions::SQLite        v0.11.0  pkg:cpan/Concierge-Sessions@v0.11.0
-Concierge::Sessions::Session       v0.11.0  pkg:cpan/Concierge-Sessions@v0.11.0
-Concierge::Setup                   v0.7.0  pkg:cpan/Concierge@v0.7.0
-Concierge::User                    v0.7.0  pkg:cpan/Concierge@v0.7.0
-Concierge::Users                   v0.8.0  pkg:cpan/Concierge-Users@v0.8.0
-Concierge::Users::Database         v0.8.0  pkg:cpan/Concierge-Users@v0.8.0
-Concierge::Users::File             v0.8.0  pkg:cpan/Concierge-Users@v0.8.0
-Concierge::Users::Meta             v0.8.0  pkg:cpan/Concierge-Users@v0.8.0
-Concierge::Users::YAML             v0.8.0  pkg:cpan/Concierge-Users@v0.8.0
+Concierge                          v0.7.1  pkg:cpan/Concierge@v0.7.1
+Concierge::Auth                    v0.4.4  pkg:cpan/Concierge-Auth@v0.4.4
+Concierge::Auth::Generators        v0.4.4  pkg:cpan/Concierge-Auth@v0.4.4
+Concierge::Base                    v0.7.1  pkg:cpan/Concierge@v0.7.1
+Concierge::Sessions                v0.11.1  pkg:cpan/Concierge-Sessions@v0.11.1
+Concierge::Sessions::Base          v0.11.1  pkg:cpan/Concierge-Sessions@v0.11.1
+Concierge::Sessions::File          v0.11.1  pkg:cpan/Concierge-Sessions@v0.11.1
+Concierge::Sessions::SQLite        v0.11.1  pkg:cpan/Concierge-Sessions@v0.11.1
+Concierge::Sessions::Session       v0.11.1  pkg:cpan/Concierge-Sessions@v0.11.1
+Concierge::Setup                   v0.7.1  pkg:cpan/Concierge@v0.7.1
+Concierge::User                    v0.7.1  pkg:cpan/Concierge@v0.7.1
+Concierge::Users                   v0.8.1  pkg:cpan/Concierge-Users@v0.8.1
+Concierge::Users::Database         v0.8.1  pkg:cpan/Concierge-Users@v0.8.1
+Concierge::Users::File             v0.8.1  pkg:cpan/Concierge-Users@v0.8.1
+Concierge::Users::Meta             v0.8.1  pkg:cpan/Concierge-Users@v0.8.1
+Concierge::Users::YAML             v0.8.1  pkg:cpan/Concierge-Users@v0.8.1
 Conclave::OTK                      undef  pkg:cpan/Conclave-OTK@0.01
 Conclave::OTK::Backend             undef  pkg:cpan/Conclave-OTK@0.01
 Conclave::OTK::Backend::4store     undef  pkg:cpan/Conclave-OTK@0.01
@@ -80960,7 +80960,7 @@ Gears::Context                     0.102  pkg:cpan/Gears@0.102
 Gears::Controller                  0.102  pkg:cpan/Gears@0.102
 Gears::Generator                   0.102  pkg:cpan/Gears@0.102
 Gears::Logger                      0.102  pkg:cpan/Gears@0.102
-Gears::Logger::Handler             0.104  pkg:cpan/Thunderhorse@0.104
+Gears::Logger::Handler             0.105  pkg:cpan/Thunderhorse@0.105
 Gears::Router                      0.102  pkg:cpan/Gears@0.102
 Gears::Router::Location            0.102  pkg:cpan/Gears@0.102
 Gears::Router::Location::Match     0.102  pkg:cpan/Gears@0.102
@@ -80971,14 +80971,14 @@ Gears::Router::Pattern::Match      0.102  pkg:cpan/Gears@0.102
 Gears::Router::Pattern::SigilMatch 0.102  pkg:cpan/Gears@0.102
 Gears::Router::Proto               0.102  pkg:cpan/Gears@0.102
 Gears::Template                    0.102  pkg:cpan/Gears@0.102
-Gears::Template::TT                0.104  pkg:cpan/Thunderhorse@0.104
+Gears::Template::TT                0.105  pkg:cpan/Thunderhorse@0.105
 Gears::X                           0.102  pkg:cpan/Gears@0.102
 Gears::X::Config                   0.102  pkg:cpan/Gears@0.102
 Gears::X::Generator                0.102  pkg:cpan/Gears@0.102
 Gears::X::HTTP                     0.102  pkg:cpan/Gears@0.102
 Gears::X::Logger                   0.102  pkg:cpan/Gears@0.102
 Gears::X::Template                 0.102  pkg:cpan/Gears@0.102
-Gears::X::Thunderhorse             0.104  pkg:cpan/Thunderhorse@0.104
+Gears::X::Thunderhorse             0.105  pkg:cpan/Thunderhorse@0.105
 GedNav                              0.03  pkg:cpan/GedNav@0.03
 GedNav::Event                      undef  pkg:cpan/GedNav@0.03
 GedNav::Family                     undef  pkg:cpan/GedNav@0.03
@@ -228120,7 +228120,7 @@ Test2::Roo::Class                  1.005  pkg:cpan/Test2-Roo@1.005
 Test2::Roo::Cookbook               1.005  pkg:cpan/Test2-Roo@1.005
 Test2::Roo::Role                   1.005  pkg:cpan/Test2-Roo@1.005
 Test2::Suite                       1.302219  pkg:cpan/Test-Simple@1.302219
-Test2::Thunderhorse                0.104  pkg:cpan/Thunderhorse@0.104
+Test2::Thunderhorse                0.105  pkg:cpan/Thunderhorse@0.105
 Test2::Todo                        1.302219  pkg:cpan/Test-Simple@1.302219
 Test2::Tools                       1.302219  pkg:cpan/Test-Simple@1.302219
 Test2::Tools::AfterSubtest         undef  pkg:cpan/Test2-Tools-AfterSubtest@0.001
@@ -233109,26 +233109,26 @@ Throwable::X                       0.008  pkg:cpan/Throwable-X@0.008
 Throwable::X::Types                0.008  pkg:cpan/Throwable-X@0.008
 Thrust                             0.200  pkg:cpan/Thrust@0.200
 Thrust::Window                     undef  pkg:cpan/Thrust@0.200
-Thunderhorse                       0.104  pkg:cpan/Thunderhorse@0.104
-Thunderhorse::App                  0.104  pkg:cpan/Thunderhorse@0.104
-Thunderhorse::AppController        0.104  pkg:cpan/Thunderhorse@0.104
-Thunderhorse::Autoloadable         0.104  pkg:cpan/Thunderhorse@0.104
-Thunderhorse::Config               0.104  pkg:cpan/Thunderhorse@0.104
-Thunderhorse::Context              0.104  pkg:cpan/Thunderhorse@0.104
-Thunderhorse::Context::Facade      0.104  pkg:cpan/Thunderhorse@0.104
-Thunderhorse::Controller           0.104  pkg:cpan/Thunderhorse@0.104
-Thunderhorse::Message              0.104  pkg:cpan/Thunderhorse@0.104
-Thunderhorse::Module               0.104  pkg:cpan/Thunderhorse@0.104
-Thunderhorse::Module::Logger       0.104  pkg:cpan/Thunderhorse@0.104
-Thunderhorse::Module::Middleware   0.104  pkg:cpan/Thunderhorse@0.104
-Thunderhorse::Module::Template     0.104  pkg:cpan/Thunderhorse@0.104
-Thunderhorse::Request              0.104  pkg:cpan/Thunderhorse@0.104
-Thunderhorse::Response             0.104  pkg:cpan/Thunderhorse@0.104
-Thunderhorse::Router               0.104  pkg:cpan/Thunderhorse@0.104
-Thunderhorse::Router::Location     0.104  pkg:cpan/Thunderhorse@0.104
-Thunderhorse::Router::SpecializedCache 0.104  pkg:cpan/Thunderhorse@0.104
-Thunderhorse::SSE                  0.104  pkg:cpan/Thunderhorse@0.104
-Thunderhorse::WebSocket            0.104  pkg:cpan/Thunderhorse@0.104
+Thunderhorse                       0.105  pkg:cpan/Thunderhorse@0.105
+Thunderhorse::App                  0.105  pkg:cpan/Thunderhorse@0.105
+Thunderhorse::AppController        0.105  pkg:cpan/Thunderhorse@0.105
+Thunderhorse::Autoloadable         0.105  pkg:cpan/Thunderhorse@0.105
+Thunderhorse::Config               0.105  pkg:cpan/Thunderhorse@0.105
+Thunderhorse::Context              0.105  pkg:cpan/Thunderhorse@0.105
+Thunderhorse::Context::Facade      0.105  pkg:cpan/Thunderhorse@0.105
+Thunderhorse::Controller           0.105  pkg:cpan/Thunderhorse@0.105
+Thunderhorse::Message              0.105  pkg:cpan/Thunderhorse@0.105
+Thunderhorse::Module               0.105  pkg:cpan/Thunderhorse@0.105
+Thunderhorse::Module::Logger       0.105  pkg:cpan/Thunderhorse@0.105
+Thunderhorse::Module::Middleware   0.105  pkg:cpan/Thunderhorse@0.105
+Thunderhorse::Module::Template     0.105  pkg:cpan/Thunderhorse@0.105
+Thunderhorse::Request              0.105  pkg:cpan/Thunderhorse@0.105
+Thunderhorse::Response             0.105  pkg:cpan/Thunderhorse@0.105
+Thunderhorse::Router               0.105  pkg:cpan/Thunderhorse@0.105
+Thunderhorse::Router::Location     0.105  pkg:cpan/Thunderhorse@0.105
+Thunderhorse::Router::SpecializedCache 0.105  pkg:cpan/Thunderhorse@0.105
+Thunderhorse::SSE                  0.105  pkg:cpan/Thunderhorse@0.105
+Thunderhorse::WebSocket            0.105  pkg:cpan/Thunderhorse@0.105
 TiVo::Calypso                      1.003005  pkg:cpan/TiVo-Calypso@1.3.5
 TiVo::Calypso::Container           1.003005  pkg:cpan/TiVo-Calypso@1.3.5
 TiVo::Calypso::Container::Music    1.003005  pkg:cpan/TiVo-Calypso@1.3.5
