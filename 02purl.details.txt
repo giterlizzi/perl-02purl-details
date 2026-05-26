@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 26 May 2026 18:19:43 GMT
-Line-Count: 264419
+Last-Updated: Tue, 26 May 2026 21:38:09 GMT
+Line-Count: 264428
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -15099,6 +15099,8 @@ App::Yath::Plugin::Notify          1.000172  pkg:cpan/Test2-Harness@1.000172
 App::Yath::Plugin::SelfTest        undef  pkg:cpan/Test2-Harness@1.000172
 App::Yath::Plugin::ShareDirDist     0.07  pkg:cpan/File-ShareDir-Dist@0.07
 App::Yath::Plugin::SysInfo         1.000172  pkg:cpan/Test2-Harness@1.000172
+App::Yath::Plugin::Utilization     0.000001  pkg:cpan/App-Yath-Plugin-Utilization@0.000001
+App::Yath::Plugin::Utilization::Units 0.000001  pkg:cpan/App-Yath-Plugin-Utilization@0.000001
 App::Yath::Plugin::YathUI          1.000172  pkg:cpan/Test2-Harness@1.000172
 App::Yath::Plugin::YathUIDB        0.000145  pkg:cpan/Test2-Harness-UI@0.000145
 App::Yath::Plugin::pgTAP           0.001105  pkg:cpan/Test2-Plugin-pgTAP@0.001105
@@ -20819,7 +20821,7 @@ Authen::NZRealMe::ServiceProvider::CertFactory  1.23  pkg:cpan/Authen-NZRealMe@1
 Authen::NZRealMe::TokenGenerator    1.23  pkg:cpan/Authen-NZRealMe@1.23
 Authen::NZRealMe::XMLEnc            1.23  pkg:cpan/Authen-NZRealMe@1.23
 Authen::NZRealMe::XMLSig            1.23  pkg:cpan/Authen-NZRealMe@1.23
-Authen::OATH                       3.000000  pkg:cpan/Authen-OATH@3.000000
+Authen::OATH                       3.000001  pkg:cpan/Authen-OATH@3.000001
 Authen::OATH::KeyURI                0.02  pkg:cpan/Authen-OATH-KeyURI@0.02
 Authen::OATH::OCRA                  1.01  pkg:cpan/Authen-OATH-OCRA@1.01
 Authen::OPIE                        1.00  pkg:cpan/Authen-OPIE@1.00
@@ -57776,17 +57778,17 @@ Data::HashMap::SI                   0.08  pkg:cpan/Data-HashMap@0.08
 Data::HashMap::SI16                 0.08  pkg:cpan/Data-HashMap@0.08
 Data::HashMap::SI32                 0.08  pkg:cpan/Data-HashMap@0.08
 Data::HashMap::SS                   0.08  pkg:cpan/Data-HashMap@0.08
-Data::HashMap::Shared               0.08  pkg:cpan/Data-HashMap-Shared@0.08
-Data::HashMap::Shared::I16          0.08  pkg:cpan/Data-HashMap-Shared@0.08
-Data::HashMap::Shared::I16S         0.08  pkg:cpan/Data-HashMap-Shared@0.08
-Data::HashMap::Shared::I32          0.08  pkg:cpan/Data-HashMap-Shared@0.08
-Data::HashMap::Shared::I32S         0.08  pkg:cpan/Data-HashMap-Shared@0.08
-Data::HashMap::Shared::II           0.08  pkg:cpan/Data-HashMap-Shared@0.08
-Data::HashMap::Shared::IS           0.08  pkg:cpan/Data-HashMap-Shared@0.08
-Data::HashMap::Shared::SI           0.08  pkg:cpan/Data-HashMap-Shared@0.08
-Data::HashMap::Shared::SI16         0.08  pkg:cpan/Data-HashMap-Shared@0.08
-Data::HashMap::Shared::SI32         0.08  pkg:cpan/Data-HashMap-Shared@0.08
-Data::HashMap::Shared::SS           0.08  pkg:cpan/Data-HashMap-Shared@0.08
+Data::HashMap::Shared               0.09  pkg:cpan/Data-HashMap-Shared@0.09
+Data::HashMap::Shared::I16          0.09  pkg:cpan/Data-HashMap-Shared@0.09
+Data::HashMap::Shared::I16S         0.09  pkg:cpan/Data-HashMap-Shared@0.09
+Data::HashMap::Shared::I32          0.09  pkg:cpan/Data-HashMap-Shared@0.09
+Data::HashMap::Shared::I32S         0.09  pkg:cpan/Data-HashMap-Shared@0.09
+Data::HashMap::Shared::II           0.09  pkg:cpan/Data-HashMap-Shared@0.09
+Data::HashMap::Shared::IS           0.09  pkg:cpan/Data-HashMap-Shared@0.09
+Data::HashMap::Shared::SI           0.09  pkg:cpan/Data-HashMap-Shared@0.09
+Data::HashMap::Shared::SI16         0.09  pkg:cpan/Data-HashMap-Shared@0.09
+Data::HashMap::Shared::SI32         0.09  pkg:cpan/Data-HashMap-Shared@0.09
+Data::HashMap::Shared::SS           0.09  pkg:cpan/Data-HashMap-Shared@0.09
 Data::HashType                      0.07  pkg:cpan/Data-HashType@0.07
 Data::Header::Fields                0.05  pkg:cpan/Data-Header-Fields@0.05
 Data::Heap::Shared                  0.03  pkg:cpan/Data-Heap-Shared@0.03
@@ -131111,7 +131113,7 @@ Markdown::Pod                      0.008  pkg:cpan/Markdown-Pod@0.008
 Markdown::Pod::Handler             0.008  pkg:cpan/Markdown-Pod@0.008
 Markdown::Pod::script              0.008  pkg:cpan/Markdown-Pod@0.008
 Markdown::Render                   v2.0.4  pkg:cpan/Markdown-Render@2.0.4
-Markdown::Simple                    0.11  pkg:cpan/Markdown-Simple@0.11
+Markdown::Simple                    0.12  pkg:cpan/Markdown-Simple@0.12
 Markdown::TOC                       0.01  pkg:cpan/Markdown-TOC@0.01
 Markdown::Table                     0.04  pkg:cpan/Markdown-Table@0.04
 Markdown::To::POD                   0.06  pkg:cpan/Markdown-To-POD@0.06
@@ -146813,7 +146815,7 @@ Net::DNS::Resolver::Mock           1.20230216  pkg:cpan/Net-DNS-Resolver-Mock@1.
 Net::DNS::Resolver::Programmable   0.009  pkg:cpan/Net-DNS-Resolver-Programmable@0.009
 Net::DNS::Resolver::Recurse         2002  pkg:cpan/Net-DNS@1.54
 Net::DNS::Resolver::UNIX            2007  pkg:cpan/Net-DNS@1.54
-Net::DNS::Resolver::Unbound         1.36  pkg:cpan/Net-DNS-Resolver-Unbound@1.36
+Net::DNS::Resolver::Unbound         1.37  pkg:cpan/Net-DNS-Resolver-Unbound@1.37
 Net::DNS::Resolver::android         2007  pkg:cpan/Net-DNS@1.54
 Net::DNS::Resolver::cygwin          2002  pkg:cpan/Net-DNS@1.54
 Net::DNS::Resolver::os2             2007  pkg:cpan/Net-DNS@1.54
@@ -202879,9 +202881,9 @@ RPM::Packager                      0.003005  pkg:cpan/RPM-Packager@v0.3.5
 RPM::Packager::Utils               undef  pkg:cpan/RPM-Packager@v0.3.5
 RPM::Payload                        0.11  pkg:cpan/RPM-Payload@0.11
 RPM::Payload::entry                 0.11  pkg:cpan/RPM-Payload@0.11
-RPM::Query                          0.03  pkg:cpan/RPM-Query@0.03
-RPM::Query::Capability              0.03  pkg:cpan/RPM-Query@0.03
-RPM::Query::Package                 0.03  pkg:cpan/RPM-Query@0.03
+RPM::Query                          0.05  pkg:cpan/RPM-Query@0.05
+RPM::Query::Capability              0.05  pkg:cpan/RPM-Query@0.05
+RPM::Query::Package                 0.05  pkg:cpan/RPM-Query@0.05
 RPM::Search                         0.01  pkg:cpan/RPM-Search@0.01?ext=zip
 RPM::Spec                           0.05  pkg:cpan/RPM-Spec@0.05
 RPM::Specfile                       1.51  pkg:cpan/RPM-Specfile@1.51
@@ -228021,6 +228023,13 @@ Test2::Harness::Renderer::Formatter 1.000172  pkg:cpan/Test2-Harness@1.000172
 Test2::Harness::Renderer::JUnit    1.000005  pkg:cpan/Test2-Harness-Renderer-JUnit@1.000005
 Test2::Harness::Renderer::UI       0.000145  pkg:cpan/Test2-Harness-UI@0.000145
 Test2::Harness::Renderer::UIDB     0.000145  pkg:cpan/Test2-Harness-UI@0.000145
+Test2::Harness::Resource::Utilization::CPU 0.000001  pkg:cpan/App-Yath-Plugin-Utilization@0.000001
+Test2::Harness::Resource::Utilization::Disk 0.000001  pkg:cpan/App-Yath-Plugin-Utilization@0.000001
+Test2::Harness::Resource::Utilization::Memory 0.000001  pkg:cpan/App-Yath-Plugin-Utilization@0.000001
+Test2::Harness::Resource::Utilization::PipeLimits 0.000001  pkg:cpan/App-Yath-Plugin-Utilization@0.000001
+Test2::Harness::Resource::Utilization::Throttle 0.000001  pkg:cpan/App-Yath-Plugin-Utilization@0.000001
+Test2::Harness::Resource::Utilization::UnixLimits 0.000001  pkg:cpan/App-Yath-Plugin-Utilization@0.000001
+Test2::Harness::Resource::Utilization::Util 0.000001  pkg:cpan/App-Yath-Plugin-Utilization@0.000001
 Test2::Harness::Run                1.000172  pkg:cpan/Test2-Harness@1.000172
 Test2::Harness::Runner             1.000172  pkg:cpan/Test2-Harness@1.000172
 Test2::Harness::Runner::Constants  1.000172  pkg:cpan/Test2-Harness@1.000172
