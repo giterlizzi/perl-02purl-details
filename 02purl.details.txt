@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 26 May 2026 21:38:09 GMT
+Last-Updated: Tue, 26 May 2026 23:03:49 GMT
 Line-Count: 264428
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -197017,8 +197017,8 @@ Plack::Middleware::Scrutiny::Child undef  pkg:cpan/Plack-Middleware-Scrutiny@0.0
 Plack::Middleware::Scrutiny::IOWrap undef  pkg:cpan/Plack-Middleware-Scrutiny@0.02
 Plack::Middleware::Scrutiny::Util  undef  pkg:cpan/Plack-Middleware-Scrutiny@0.02
 Plack::Middleware::SecureHeaders    0.01  pkg:cpan/Plack-Middleware-SecureHeaders@0.01
-Plack::Middleware::Security::Common v0.13.0  pkg:cpan/Plack-Middleware-Security-Simple@v0.13.0
-Plack::Middleware::Security::Simple v0.13.0  pkg:cpan/Plack-Middleware-Security-Simple@v0.13.0
+Plack::Middleware::Security::Common v0.13.1  pkg:cpan/Plack-Middleware-Security-Simple@v0.13.1
+Plack::Middleware::Security::Simple v0.13.1  pkg:cpan/Plack-Middleware-Security-Simple@v0.13.1
 Plack::Middleware::ServerName       0.02  pkg:cpan/Plack-Middleware-ServerName@0.02
 Plack::Middleware::ServerStatus::Availability  0.02  pkg:cpan/Plack-Middleware-ServerStatus-Availability@0.02
 Plack::Middleware::ServerStatus::Availability::Status undef  pkg:cpan/Plack-Middleware-ServerStatus-Availability@0.02
