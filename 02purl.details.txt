@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 25 May 2026 22:53:06 GMT
-Line-Count: 264321
+Last-Updated: Tue, 26 May 2026 02:36:32 GMT
+Line-Count: 264328
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -20819,7 +20819,7 @@ Authen::NZRealMe::ServiceProvider::CertFactory  1.23  pkg:cpan/Authen-NZRealMe@1
 Authen::NZRealMe::TokenGenerator    1.23  pkg:cpan/Authen-NZRealMe@1.23
 Authen::NZRealMe::XMLEnc            1.23  pkg:cpan/Authen-NZRealMe@1.23
 Authen::NZRealMe::XMLSig            1.23  pkg:cpan/Authen-NZRealMe@1.23
-Authen::OATH                       2.000001  pkg:cpan/Authen-OATH@2.0.1
+Authen::OATH                       3.000000  pkg:cpan/Authen-OATH@3.000000
 Authen::OATH::KeyURI                0.02  pkg:cpan/Authen-OATH-KeyURI@0.02
 Authen::OATH::OCRA                  1.01  pkg:cpan/Authen-OATH-OCRA@1.01
 Authen::OPIE                        1.00  pkg:cpan/Authen-OPIE@1.00
@@ -47514,22 +47514,25 @@ Conan::Configure::Xen                  0  pkg:cpan/Conan@0.0.7
 Conan::Deploy                          0  pkg:cpan/Conan@0.0.7
 Conan::Promote                         0  pkg:cpan/Conan@0.0.7
 Conan::Promote::Xen                    0  pkg:cpan/Conan@0.0.7
-Concierge                          v0.7.1  pkg:cpan/Concierge@v0.7.1
-Concierge::Auth                    v0.4.4  pkg:cpan/Concierge-Auth@v0.4.4
-Concierge::Auth::Generators        v0.4.4  pkg:cpan/Concierge-Auth@v0.4.4
-Concierge::Base                    v0.7.1  pkg:cpan/Concierge@v0.7.1
+Concierge                          v0.8.0  pkg:cpan/Concierge@v0.8.0
+Concierge::Auth                    v0.4.5  pkg:cpan/Concierge-Auth@v0.4.5
+Concierge::Auth::Generators        v0.4.5  pkg:cpan/Concierge-Auth@v0.4.5
+Concierge::Base                    v0.7.2  pkg:cpan/Concierge@v0.7.2
+Concierge::Desk::Base              v0.8.0  pkg:cpan/Concierge@v0.8.0
+Concierge::Desk::Setup             v0.8.0  pkg:cpan/Concierge@v0.8.0
+Concierge::Desk::User              v0.8.0  pkg:cpan/Concierge@v0.8.0
 Concierge::Sessions                v0.11.1  pkg:cpan/Concierge-Sessions@v0.11.1
 Concierge::Sessions::Base          v0.11.1  pkg:cpan/Concierge-Sessions@v0.11.1
 Concierge::Sessions::File          v0.11.1  pkg:cpan/Concierge-Sessions@v0.11.1
 Concierge::Sessions::SQLite        v0.11.1  pkg:cpan/Concierge-Sessions@v0.11.1
 Concierge::Sessions::Session       v0.11.1  pkg:cpan/Concierge-Sessions@v0.11.1
-Concierge::Setup                   v0.7.1  pkg:cpan/Concierge@v0.7.1
-Concierge::User                    v0.7.1  pkg:cpan/Concierge@v0.7.1
-Concierge::Users                   v0.8.1  pkg:cpan/Concierge-Users@v0.8.1
-Concierge::Users::Database         v0.8.1  pkg:cpan/Concierge-Users@v0.8.1
-Concierge::Users::File             v0.8.1  pkg:cpan/Concierge-Users@v0.8.1
-Concierge::Users::Meta             v0.8.1  pkg:cpan/Concierge-Users@v0.8.1
-Concierge::Users::YAML             v0.8.1  pkg:cpan/Concierge-Users@v0.8.1
+Concierge::Setup                   v0.7.2  pkg:cpan/Concierge@v0.7.2
+Concierge::User                    v0.7.2  pkg:cpan/Concierge@v0.7.2
+Concierge::Users                   v0.8.2  pkg:cpan/Concierge-Users@v0.8.2
+Concierge::Users::Database         v0.8.2  pkg:cpan/Concierge-Users@v0.8.2
+Concierge::Users::File             v0.8.2  pkg:cpan/Concierge-Users@v0.8.2
+Concierge::Users::Meta             v0.8.2  pkg:cpan/Concierge-Users@v0.8.2
+Concierge::Users::YAML             v0.8.2  pkg:cpan/Concierge-Users@v0.8.2
 Conclave::OTK                      undef  pkg:cpan/Conclave-OTK@0.01
 Conclave::OTK::Backend             undef  pkg:cpan/Conclave-OTK@0.01
 Conclave::OTK::Backend::4store     undef  pkg:cpan/Conclave-OTK@0.01
@@ -53027,19 +53030,20 @@ DBIx::QueryLog                      0.42  pkg:cpan/DBIx-QueryLog@0.42
 DBIx::Quick                          0.9  pkg:cpan/DBIx-Quick@0.9
 DBIx::Quick::Converter             undef  pkg:cpan/DBIx-Quick@0.9
 DBIx::Quick::Role                  undef  pkg:cpan/DBIx-Quick@0.9
-DBIx::QuickDB                      0.000041  pkg:cpan/DBIx-QuickDB@0.000041
-DBIx::QuickDB::Driver              0.000041  pkg:cpan/DBIx-QuickDB@0.000041
-DBIx::QuickDB::Driver::MariaDB     0.000041  pkg:cpan/DBIx-QuickDB@0.000041
-DBIx::QuickDB::Driver::MySQL       0.000041  pkg:cpan/DBIx-QuickDB@0.000041
+DBIx::QuickDB                      0.000042  pkg:cpan/DBIx-QuickDB@0.000042
+DBIx::QuickDB::Driver              0.000042  pkg:cpan/DBIx-QuickDB@0.000042
+DBIx::QuickDB::Driver::DuckDB      0.000042  pkg:cpan/DBIx-QuickDB@0.000042
+DBIx::QuickDB::Driver::MariaDB     0.000042  pkg:cpan/DBIx-QuickDB@0.000042
+DBIx::QuickDB::Driver::MySQL       0.000042  pkg:cpan/DBIx-QuickDB@0.000042
 DBIx::QuickDB::Driver::MySQL::Base 0.000035  pkg:cpan/DBIx-QuickDB@0.000035
-DBIx::QuickDB::Driver::MySQLCom    0.000041  pkg:cpan/DBIx-QuickDB@0.000041
-DBIx::QuickDB::Driver::Percona     0.000041  pkg:cpan/DBIx-QuickDB@0.000041
-DBIx::QuickDB::Driver::PostgreSQL  0.000041  pkg:cpan/DBIx-QuickDB@0.000041
-DBIx::QuickDB::Driver::SQLite      0.000041  pkg:cpan/DBIx-QuickDB@0.000041
-DBIx::QuickDB::Pool                0.000041  pkg:cpan/DBIx-QuickDB@0.000041
-DBIx::QuickDB::Util                0.000041  pkg:cpan/DBIx-QuickDB@0.000041
-DBIx::QuickDB::Util::HashBase      0.000041  pkg:cpan/DBIx-QuickDB@0.000041
-DBIx::QuickDB::Watcher             0.000041  pkg:cpan/DBIx-QuickDB@0.000041
+DBIx::QuickDB::Driver::MySQLCom    0.000042  pkg:cpan/DBIx-QuickDB@0.000042
+DBIx::QuickDB::Driver::Percona     0.000042  pkg:cpan/DBIx-QuickDB@0.000042
+DBIx::QuickDB::Driver::PostgreSQL  0.000042  pkg:cpan/DBIx-QuickDB@0.000042
+DBIx::QuickDB::Driver::SQLite      0.000042  pkg:cpan/DBIx-QuickDB@0.000042
+DBIx::QuickDB::Pool                0.000042  pkg:cpan/DBIx-QuickDB@0.000042
+DBIx::QuickDB::Util                0.000042  pkg:cpan/DBIx-QuickDB@0.000042
+DBIx::QuickDB::Util::HashBase      0.000042  pkg:cpan/DBIx-QuickDB@0.000042
+DBIx::QuickDB::Watcher             0.000042  pkg:cpan/DBIx-QuickDB@0.000042
 DBIx::QuickORM                     0.000019  pkg:cpan/DBIx-QuickORM@0.000019
 DBIx::QuickORM::Affinity           0.000019  pkg:cpan/DBIx-QuickORM@0.000019
 DBIx::QuickORM::BuilderState       0.000004  pkg:cpan/DBIx-QuickORM@0.000004
@@ -81076,6 +81080,7 @@ Genealogy::Gedcom::Date             2.10  pkg:cpan/Genealogy-Gedcom-Date@2.10?ex
 Genealogy::Gedcom::Date::Actions    2.10  pkg:cpan/Genealogy-Gedcom-Date@2.10?ext=tgz
 Genealogy::Gedcom::Reader           0.88  pkg:cpan/Genealogy-Gedcom@0.88?ext=tgz
 Genealogy::Gedcom::Reader::Lexer    0.88  pkg:cpan/Genealogy-Gedcom@0.88?ext=tgz
+Genealogy::Military::Branch         0.01  pkg:cpan/Genealogy-Military-Branch@0.01
 Genealogy::Obituary::Lookup         0.20  pkg:cpan/Genealogy-Obituary-Lookup@0.20
 Genealogy::Obituary::Lookup::obituaries  0.20  pkg:cpan/Genealogy-Obituary-Lookup@0.20
 Genealogy::Obituary::Parser         0.04  pkg:cpan/Genealogy-Obituary-Parser@0.04
@@ -228186,7 +228191,7 @@ Test2::Tools::Process::Exit         0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::Proc         0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::System       0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::SystemProc   0.07  pkg:cpan/Test2-Tools-Process@0.07
-Test2::Tools::QuickDB              0.000041  pkg:cpan/DBIx-QuickDB@0.000041
+Test2::Tools::QuickDB              0.000042  pkg:cpan/DBIx-QuickDB@0.000042
 Test2::Tools::Ref                  1.302219  pkg:cpan/Test-Simple@1.302219
 Test2::Tools::Refcount             1.302219  pkg:cpan/Test-Simple@1.302219
 Test2::Tools::Rustfmt               0.05  pkg:cpan/Test2-Tools-Rustfmt@0.05
@@ -233907,15 +233912,15 @@ Time::StasisField                   0.01  pkg:cpan/Time-StasisField@0.01
 Time::Stats                          1.0  pkg:cpan/Time-Stats@1.0?ext=tgz
 Time::StopWatchWithMessage          0.06  pkg:cpan/Time-StopWatchWithMessage@0.06
 Time::Stopwatch                     1.00  pkg:cpan/Time-Stopwatch@1.00
-Time::Str                           0.86  pkg:cpan/Time-Str@0.86
-Time::Str::Calendar                 0.86  pkg:cpan/Time-Str@0.86
-Time::Str::PP                       0.86  pkg:cpan/Time-Str@0.86
+Time::Str                           0.87  pkg:cpan/Time-Str@0.87
+Time::Str::Calendar                 0.87  pkg:cpan/Time-Str@0.87
+Time::Str::PP                       0.87  pkg:cpan/Time-Str@0.87
 Time::Str::PP::Calendar             0.71  pkg:cpan/Time-Str@0.71
 Time::Str::PP::Token                0.71  pkg:cpan/Time-Str@0.71
-Time::Str::Regexp                   0.86  pkg:cpan/Time-Str@0.86
-Time::Str::Time                     0.86  pkg:cpan/Time-Str@0.86
-Time::Str::Token                    0.86  pkg:cpan/Time-Str@0.86
-Time::Str::Util                     0.86  pkg:cpan/Time-Str@0.86
+Time::Str::Regexp                   0.87  pkg:cpan/Time-Str@0.87
+Time::Str::Time                     0.87  pkg:cpan/Time-Str@0.87
+Time::Str::Token                    0.87  pkg:cpan/Time-Str@0.87
+Time::Str::Util                     0.87  pkg:cpan/Time-Str@0.87
 Time::Strptime                      1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::Format              1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::TimeZone           undef  pkg:cpan/Time-Strptime@1.04
@@ -233933,7 +233938,8 @@ Time::TT::OffsetKnot               0.005  pkg:cpan/Time-TT@0.005
 Time::TT::Realisation              0.005  pkg:cpan/Time-TT@0.005
 Time::TZ                              11  pkg:cpan/Tie-TZ@11
 Time::TZOffset                      0.04  pkg:cpan/Time-TZOffset@0.04
-Time::TZif                          0.86  pkg:cpan/Time-Str@0.86
+Time::TZif                          0.87  pkg:cpan/Time-Str@0.87
+Time::TZif::POSIX                   0.87  pkg:cpan/Time-Str@0.87
 Time::TimeTick                      0.06  pkg:cpan/Time-TimeTick@0.06
 Time::Timecode                      0.32  pkg:cpan/Time-Timecode@0.32
 Time::Timezone                     2026.033  pkg:cpan/Time-ParseDate@2026.033
@@ -245217,30 +245223,31 @@ WWW::MLite::Util                    1.01  pkg:cpan/WWW-MLite@1.05
 WWW::MSA::Hadith                    1.01  pkg:cpan/WWW-MSA-Hadith@1.01
 WWW::Mail15                         0.01  pkg:cpan/WWW-Mail15@0.01
 WWW::Mail15::Message                0.01  pkg:cpan/WWW-Mail15@0.01
-WWW::MailboxOrg                    0.001  pkg:cpan/WWW-MailboxOrg@0.001
-WWW::MailboxOrg::API::Account      0.001  pkg:cpan/WWW-MailboxOrg@0.001
-WWW::MailboxOrg::API::Backup       0.001  pkg:cpan/WWW-MailboxOrg@0.001
-WWW::MailboxOrg::API::Base         0.001  pkg:cpan/WWW-MailboxOrg@0.001
-WWW::MailboxOrg::API::Blacklist    0.001  pkg:cpan/WWW-MailboxOrg@0.001
-WWW::MailboxOrg::API::Domain       0.001  pkg:cpan/WWW-MailboxOrg@0.001
-WWW::MailboxOrg::API::Invoice      0.001  pkg:cpan/WWW-MailboxOrg@0.001
-WWW::MailboxOrg::API::Mail         0.001  pkg:cpan/WWW-MailboxOrg@0.001
-WWW::MailboxOrg::API::Mailinglist  0.001  pkg:cpan/WWW-MailboxOrg@0.001
-WWW::MailboxOrg::API::Passwordreset 0.001  pkg:cpan/WWW-MailboxOrg@0.001
-WWW::MailboxOrg::API::Spamprotect  0.001  pkg:cpan/WWW-MailboxOrg@0.001
-WWW::MailboxOrg::API::System       0.001  pkg:cpan/WWW-MailboxOrg@0.001
-WWW::MailboxOrg::API::Utils        0.001  pkg:cpan/WWW-MailboxOrg@0.001
-WWW::MailboxOrg::API::Validate     0.001  pkg:cpan/WWW-MailboxOrg@0.001
-WWW::MailboxOrg::API::Videochat    0.001  pkg:cpan/WWW-MailboxOrg@0.001
-WWW::MailboxOrg::Entity::Account   0.001  pkg:cpan/WWW-MailboxOrg@0.001
-WWW::MailboxOrg::Entity::Domain    0.001  pkg:cpan/WWW-MailboxOrg@0.001
-WWW::MailboxOrg::JSONRPCRequest    0.001  pkg:cpan/WWW-MailboxOrg@0.001
-WWW::MailboxOrg::JSONRPCResponse   0.001  pkg:cpan/WWW-MailboxOrg@0.001
-WWW::MailboxOrg::LWPIO             0.001  pkg:cpan/WWW-MailboxOrg@0.001
-WWW::MailboxOrg::Role::HTTP        0.001  pkg:cpan/WWW-MailboxOrg@0.001
-WWW::MailboxOrg::Role::IO          0.001  pkg:cpan/WWW-MailboxOrg@0.001
-WWW::MailboxOrg::Role::RPC         0.001  pkg:cpan/WWW-MailboxOrg@0.001
-WWW::MailboxOrg::Types             0.001  pkg:cpan/WWW-MailboxOrg@0.001
+WWW::MailboxOrg                    0.100  pkg:cpan/WWW-MailboxOrg@0.100
+WWW::MailboxOrg::API::Account      0.100  pkg:cpan/WWW-MailboxOrg@0.100
+WWW::MailboxOrg::API::Backup       0.100  pkg:cpan/WWW-MailboxOrg@0.100
+WWW::MailboxOrg::API::Base         0.100  pkg:cpan/WWW-MailboxOrg@0.100
+WWW::MailboxOrg::API::Blacklist    0.100  pkg:cpan/WWW-MailboxOrg@0.100
+WWW::MailboxOrg::API::Domain       0.100  pkg:cpan/WWW-MailboxOrg@0.100
+WWW::MailboxOrg::API::Invoice      0.100  pkg:cpan/WWW-MailboxOrg@0.100
+WWW::MailboxOrg::API::Mail         0.100  pkg:cpan/WWW-MailboxOrg@0.100
+WWW::MailboxOrg::API::Mailinglist  0.100  pkg:cpan/WWW-MailboxOrg@0.100
+WWW::MailboxOrg::API::Passwordreset 0.100  pkg:cpan/WWW-MailboxOrg@0.100
+WWW::MailboxOrg::API::Spamprotect  0.100  pkg:cpan/WWW-MailboxOrg@0.100
+WWW::MailboxOrg::API::System       0.100  pkg:cpan/WWW-MailboxOrg@0.100
+WWW::MailboxOrg::API::Utils        0.100  pkg:cpan/WWW-MailboxOrg@0.100
+WWW::MailboxOrg::API::Validate     0.100  pkg:cpan/WWW-MailboxOrg@0.100
+WWW::MailboxOrg::API::Videochat    0.100  pkg:cpan/WWW-MailboxOrg@0.100
+WWW::MailboxOrg::Entity::Account   0.100  pkg:cpan/WWW-MailboxOrg@0.100
+WWW::MailboxOrg::Entity::Domain    0.100  pkg:cpan/WWW-MailboxOrg@0.100
+WWW::MailboxOrg::JSONRPCRequest    0.100  pkg:cpan/WWW-MailboxOrg@0.100
+WWW::MailboxOrg::JSONRPCResponse   0.100  pkg:cpan/WWW-MailboxOrg@0.100
+WWW::MailboxOrg::LWPIO             0.100  pkg:cpan/WWW-MailboxOrg@0.100
+WWW::MailboxOrg::Role::API         0.100  pkg:cpan/WWW-MailboxOrg@0.100
+WWW::MailboxOrg::Role::HTTP        0.100  pkg:cpan/WWW-MailboxOrg@0.100
+WWW::MailboxOrg::Role::IO          0.100  pkg:cpan/WWW-MailboxOrg@0.100
+WWW::MailboxOrg::Role::RPC         0.100  pkg:cpan/WWW-MailboxOrg@0.100
+WWW::MailboxOrg::Types             0.100  pkg:cpan/WWW-MailboxOrg@0.100
 WWW::Mailchimp                     0.010  pkg:cpan/WWW-Mailchimp@0.010
 WWW::Mailgun                        0.54  pkg:cpan/WWW-Mailgun@0.54
 WWW::Mailman                       1.061  pkg:cpan/WWW-Mailman@1.061
