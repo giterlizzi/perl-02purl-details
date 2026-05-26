@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 26 May 2026 14:52:41 GMT
-Line-Count: 264416
+Last-Updated: Tue, 26 May 2026 18:19:43 GMT
+Line-Count: 264419
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -46514,6 +46514,9 @@ Clearcase::Vobs                    undef  pkg:cpan/Clearcase@1.02
 Clearquest                          1.02  pkg:cpan/Clearquest@1.02
 Clearquest::Utils                  undef  pkg:cpan/Clearquest@1.02
 ClickHouse                          0.05  pkg:cpan/ClickHouse@0.05
+ClickHouse::Encoder                 0.01  pkg:cpan/ClickHouse-Encoder@0.01
+ClickHouse::Encoder::BulkInserter   0.01  pkg:cpan/ClickHouse-Encoder@0.01
+ClickHouse::Encoder::TCP            0.01  pkg:cpan/ClickHouse-Encoder@0.01
 Client                             undef  pkg:cpan/Crypt-HCE_SHA@0.75
 Clio                                0.02  pkg:cpan/Clio@0.02
 Clio::Client                        0.02  pkg:cpan/Clio@0.02
@@ -49810,7 +49813,7 @@ Crypt::Passphrase::Pepper::HSM     0.007  pkg:cpan/Crypt-Passphrase-HSM@0.007
 Crypt::Passphrase::Pepper::Simple  0.023  pkg:cpan/Crypt-Passphrase@0.023
 Crypt::Passphrase::SHA1::Base64    0.023  pkg:cpan/Crypt-Passphrase@0.023
 Crypt::Passphrase::SHA1::Hex       0.023  pkg:cpan/Crypt-Passphrase@0.023
-Crypt::Passphrase::SaltedHash       0.02  pkg:cpan/Crypt-Passphrase-SaltedHash@0.02
+Crypt::Passphrase::SaltedHash       0.03  pkg:cpan/Crypt-Passphrase-SaltedHash@0.03
 Crypt::Passphrase::Scrypt          0.005  pkg:cpan/Crypt-Passphrase-Scrypt@0.005
 Crypt::Passphrase::System          0.023  pkg:cpan/Crypt-Passphrase@0.023
 Crypt::Passphrase::Util::Crypt64   0.023  pkg:cpan/Crypt-Passphrase@0.023
@@ -53229,7 +53232,7 @@ DBIx::Romani::Query::XML::TTT      undef  pkg:cpan/DBIx-Romani@0.0.16
 DBIx::Romani::Query::XML::Util     undef  pkg:cpan/DBIx-Romani@0.0.16
 DBIx::Romani::Query::XML::Where    undef  pkg:cpan/DBIx-Romani@0.0.16
 DBIx::Romani::ResultSet            undef  pkg:cpan/DBIx-Romani@0.0.16
-DBIx::RunSQL                        0.26  pkg:cpan/DBIx-RunSQL@0.26
+DBIx::RunSQL                        0.27  pkg:cpan/DBIx-RunSQL@0.27
 DBIx::SQL::Abstract                 0.07  pkg:cpan/DBIx-SQL-Abstract@0.07
 DBIx::SQLCrosstab                   1.17  pkg:cpan/DBIx-SQLCrosstab@1.17
 DBIx::SQLCrosstab::Format            0.7  pkg:cpan/DBIx-SQLCrosstab@1.17
@@ -67227,8 +67230,8 @@ Dist::Zilla::PluginBundle::Author::DOMM 0.912  pkg:cpan/Dist-Zilla-PluginBundle-
 Dist::Zilla::PluginBundle::Author::ETHER 0.172  pkg:cpan/Dist-Zilla-PluginBundle-Author-ETHER@0.172
 Dist::Zilla::PluginBundle::Author::FERREIRA v0.4.0  pkg:cpan/Dist-Zilla-PluginBundle-Author-FERREIRA@0.4.0
 Dist::Zilla::PluginBundle::Author::GABRIEL  0.01  pkg:cpan/Dist-Zilla-PluginBundle-Author-GABRIEL@0.01
-Dist::Zilla::PluginBundle::Author::GETTY 0.313  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.313
-Dist::Zilla::PluginBundle::Author::GETTY::Docker 0.313  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.313
+Dist::Zilla::PluginBundle::Author::GETTY 0.314  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.314
+Dist::Zilla::PluginBundle::Author::GETTY::Docker 0.314  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.314
 Dist::Zilla::PluginBundle::Author::GSG v0.6.2  pkg:cpan/Dist-Zilla-PluginBundle-Author-GSG@v0.6.2
 Dist::Zilla::PluginBundle::Author::GTERMARS  0.06  pkg:cpan/Dist-Zilla-PluginBundle-Author-GTERMARS@0.06
 Dist::Zilla::PluginBundle::Author::HAYOBAAN 0.016  pkg:cpan/Dist-Zilla-PluginBundle-Author-HAYOBAAN@0.016
@@ -80968,34 +80971,34 @@ Gearman::XS::Worker                 0.15  pkg:cpan/Gearman-XS@0.15
 GearmanX::Client                    0.01  pkg:cpan/GearmanX-Worker@0.02
 GearmanX::Starter                   0.05  pkg:cpan/GearmanX-Starter@0.05
 GearmanX::Worker                    0.02  pkg:cpan/GearmanX-Worker@0.02
-Gears                              0.103  pkg:cpan/Gears@0.103
-Gears::App                         0.103  pkg:cpan/Gears@0.103
-Gears::Component                   0.103  pkg:cpan/Gears@0.103
-Gears::Config                      0.103  pkg:cpan/Gears@0.103
-Gears::Config::Reader              0.103  pkg:cpan/Gears@0.103
-Gears::Config::Reader::PerlScript  0.103  pkg:cpan/Gears@0.103
-Gears::Context                     0.103  pkg:cpan/Gears@0.103
-Gears::Controller                  0.103  pkg:cpan/Gears@0.103
-Gears::Generator                   0.103  pkg:cpan/Gears@0.103
-Gears::Logger                      0.103  pkg:cpan/Gears@0.103
+Gears                              0.104  pkg:cpan/Gears@0.104
+Gears::App                         0.104  pkg:cpan/Gears@0.104
+Gears::Component                   0.104  pkg:cpan/Gears@0.104
+Gears::Config                      0.104  pkg:cpan/Gears@0.104
+Gears::Config::Reader              0.104  pkg:cpan/Gears@0.104
+Gears::Config::Reader::PerlScript  0.104  pkg:cpan/Gears@0.104
+Gears::Context                     0.104  pkg:cpan/Gears@0.104
+Gears::Controller                  0.104  pkg:cpan/Gears@0.104
+Gears::Generator                   0.104  pkg:cpan/Gears@0.104
+Gears::Logger                      0.104  pkg:cpan/Gears@0.104
 Gears::Logger::Handler             0.105  pkg:cpan/Thunderhorse@0.105
-Gears::Router                      0.103  pkg:cpan/Gears@0.103
-Gears::Router::Location            0.103  pkg:cpan/Gears@0.103
-Gears::Router::Location::Match     0.103  pkg:cpan/Gears@0.103
-Gears::Router::Location::SigilMatch 0.103  pkg:cpan/Gears@0.103
-Gears::Router::Match               0.103  pkg:cpan/Gears@0.103
-Gears::Router::Pattern             0.103  pkg:cpan/Gears@0.103
-Gears::Router::Pattern::Match      0.103  pkg:cpan/Gears@0.103
-Gears::Router::Pattern::SigilMatch 0.103  pkg:cpan/Gears@0.103
-Gears::Router::Proto               0.103  pkg:cpan/Gears@0.103
-Gears::Template                    0.103  pkg:cpan/Gears@0.103
+Gears::Router                      0.104  pkg:cpan/Gears@0.104
+Gears::Router::Location            0.104  pkg:cpan/Gears@0.104
+Gears::Router::Location::Match     0.104  pkg:cpan/Gears@0.104
+Gears::Router::Location::SigilMatch 0.104  pkg:cpan/Gears@0.104
+Gears::Router::Match               0.104  pkg:cpan/Gears@0.104
+Gears::Router::Pattern             0.104  pkg:cpan/Gears@0.104
+Gears::Router::Pattern::Match      0.104  pkg:cpan/Gears@0.104
+Gears::Router::Pattern::SigilMatch 0.104  pkg:cpan/Gears@0.104
+Gears::Router::Proto               0.104  pkg:cpan/Gears@0.104
+Gears::Template                    0.104  pkg:cpan/Gears@0.104
 Gears::Template::TT                0.105  pkg:cpan/Thunderhorse@0.105
-Gears::X                           0.103  pkg:cpan/Gears@0.103
-Gears::X::Config                   0.103  pkg:cpan/Gears@0.103
-Gears::X::Generator                0.103  pkg:cpan/Gears@0.103
-Gears::X::HTTP                     0.103  pkg:cpan/Gears@0.103
-Gears::X::Logger                   0.103  pkg:cpan/Gears@0.103
-Gears::X::Template                 0.103  pkg:cpan/Gears@0.103
+Gears::X                           0.104  pkg:cpan/Gears@0.104
+Gears::X::Config                   0.104  pkg:cpan/Gears@0.104
+Gears::X::Generator                0.104  pkg:cpan/Gears@0.104
+Gears::X::HTTP                     0.104  pkg:cpan/Gears@0.104
+Gears::X::Logger                   0.104  pkg:cpan/Gears@0.104
+Gears::X::Template                 0.104  pkg:cpan/Gears@0.104
 Gears::X::Thunderhorse             0.105  pkg:cpan/Thunderhorse@0.105
 GedNav                              0.03  pkg:cpan/GedNav@0.03
 GedNav::Event                      undef  pkg:cpan/GedNav@0.03
@@ -112658,9 +112661,9 @@ IPC::Semaphore::stat                2.09  pkg:cpan/IPC-SysV@2.09
 IPC::Serial                        1.007  pkg:cpan/IPC-Serial@1.007
 IPC::Session                        0.05  pkg:cpan/IPC-Session@0.05
 IPC::ShareLite                      0.17  pkg:cpan/IPC-ShareLite@0.17
-IPC::Shareable                      1.14  pkg:cpan/IPC-Shareable@1.14
-IPC::Shareable::SharedMem           1.14  pkg:cpan/IPC-Shareable@1.14
-IPC::Shareable::SharedMem::stat     1.14  pkg:cpan/IPC-Shareable@1.14
+IPC::Shareable                      1.15  pkg:cpan/IPC-Shareable@1.15
+IPC::Shareable::SharedMem           1.15  pkg:cpan/IPC-Shareable@1.15
+IPC::Shareable::SharedMem::stat     1.15  pkg:cpan/IPC-Shareable@1.15
 IPC::SharedCache                     1.3  pkg:cpan/IPC-SharedCache@1.3
 IPC::SharedMem                      2.09  pkg:cpan/IPC-SysV@2.09
 IPC::SharedMem::stat                2.09  pkg:cpan/IPC-SysV@2.09
@@ -133285,7 +133288,7 @@ MathWorks::platformList            undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::product                 undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepItem          undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepList          undef  pkg:cpan/XML-Pastor@0.6.0
-Matplotlib::Simple                  0.26  pkg:cpan/Matplotlib-Simple@0.26
+Matplotlib::Simple                  0.27  pkg:cpan/Matplotlib-Simple@0.27
 Matrix::Simple                      1.04  pkg:cpan/Matrix-Simple@1.04
 Matts::Message                     undef  pkg:cpan/Matts-Message-Parser@1.0
 Matts::Message::Parser               1.0  pkg:cpan/Matts-Message-Parser@1.0
@@ -197856,7 +197859,7 @@ Pod::Elemental::Paragraph          0.103006  pkg:cpan/Pod-Elemental@0.103006
 Pod::Elemental::PerlMunger         0.200007  pkg:cpan/Pod-Elemental-PerlMunger@0.200007
 Pod::Elemental::Selectors          0.103006  pkg:cpan/Pod-Elemental@0.103006
 Pod::Elemental::Transformer        0.103006  pkg:cpan/Pod-Elemental@0.103006
-Pod::Elemental::Transformer::Author::GETTY 0.313  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.313
+Pod::Elemental::Transformer::Author::GETTY 0.314  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.314
 Pod::Elemental::Transformer::Codebox 0.101001  pkg:cpan/Pod-Elemental-Transformer-SynHi@0.101001
 Pod::Elemental::Transformer::Cowl_GenDoc undef  pkg:cpan/RDF-Cowl@1.0.0
 Pod::Elemental::Transformer::Ditaa 0.001006  pkg:cpan/Pod-Weaver-Plugin-Ditaa@0.001006
@@ -198369,7 +198372,7 @@ Pod::Weaver::PluginBundle::Author::CCM 0.012  pkg:cpan/Dist-Zilla-PluginBundle-A
 Pod::Weaver::PluginBundle::Author::CSSON 0.1101  pkg:cpan/Pod-Weaver-PluginBundle-Author-CSSON@0.1101
 Pod::Weaver::PluginBundle::Author::DOHERTY 0.010  pkg:cpan/Pod-Weaver-PluginBundle-Author-DOHERTY@0.010
 Pod::Weaver::PluginBundle::Author::ETHER 0.172  pkg:cpan/Dist-Zilla-PluginBundle-Author-ETHER@0.172
-Pod::Weaver::PluginBundle::Author::GETTY 0.313  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.313
+Pod::Weaver::PluginBundle::Author::GETTY 0.314  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.314
 Pod::Weaver::PluginBundle::Author::HAYOBAAN 0.016  pkg:cpan/Dist-Zilla-PluginBundle-Author-HAYOBAAN@0.016
 Pod::Weaver::PluginBundle::Author::IOANR 1.230480  pkg:cpan/Dist-Zilla-PluginBundle-Author-IOANR@1.230480
 Pod::Weaver::PluginBundle::Author::KENTNL 0.001003  pkg:cpan/Pod-Weaver-PluginBundle-Author-KENTNL@0.001003
