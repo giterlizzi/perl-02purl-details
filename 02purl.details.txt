@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 27 May 2026 07:56:55 GMT
+Last-Updated: Wed, 27 May 2026 11:36:22 GMT
 Line-Count: 264430
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -57792,7 +57792,7 @@ Data::HashMap::Shared::SI32         0.09  pkg:cpan/Data-HashMap-Shared@0.09
 Data::HashMap::Shared::SS           0.09  pkg:cpan/Data-HashMap-Shared@0.09
 Data::HashType                      0.07  pkg:cpan/Data-HashType@0.07
 Data::Header::Fields                0.05  pkg:cpan/Data-Header-Fields@0.05
-Data::Heap::Shared                  0.03  pkg:cpan/Data-Heap-Shared@0.03
+Data::Heap::Shared                  0.04  pkg:cpan/Data-Heap-Shared@0.04
 Data::HexConverter                  0.65  pkg:cpan/Data-HexConverter@0.65
 Data::HexDump                       0.04  pkg:cpan/Data-HexDump@0.04
 Data::HexDump::Range                0.13  pkg:cpan/Data-HexDump-Range@0.13.72
@@ -59623,11 +59623,11 @@ Data::Properties                    1.07  pkg:cpan/Data-Properties@1.07
 Data::Properties::JSON             0.004  pkg:cpan/Data-Properties-JSON@0.004
 Data::Properties::YAML              0.04  pkg:cpan/Data-Properties-YAML@0.04
 Data::PropertyList                 1998.1217  pkg:cpan/Data-PropertyList@1998.1217
-Data::PubSub::Shared                0.04  pkg:cpan/Data-PubSub-Shared@0.04
-Data::PubSub::Shared::Int          undef  pkg:cpan/Data-PubSub-Shared@0.04
-Data::PubSub::Shared::Int16        undef  pkg:cpan/Data-PubSub-Shared@0.04
-Data::PubSub::Shared::Int32        undef  pkg:cpan/Data-PubSub-Shared@0.04
-Data::PubSub::Shared::Str          undef  pkg:cpan/Data-PubSub-Shared@0.04
+Data::PubSub::Shared                0.05  pkg:cpan/Data-PubSub-Shared@0.05
+Data::PubSub::Shared::Int          undef  pkg:cpan/Data-PubSub-Shared@0.05
+Data::PubSub::Shared::Int16        undef  pkg:cpan/Data-PubSub-Shared@0.05
+Data::PubSub::Shared::Int32        undef  pkg:cpan/Data-PubSub-Shared@0.05
+Data::PubSub::Shared::Str          undef  pkg:cpan/Data-PubSub-Shared@0.05
 Data::Pulp                          0.01  pkg:cpan/Data-Pulp@0.01
 Data::Pulp::Carp                   undef  pkg:cpan/Data-Pulp@0.01
 Data::Pulp::Pulper                 undef  pkg:cpan/Data-Pulp@0.01
@@ -59661,11 +59661,11 @@ Data::Query                        undef  pkg:cpan/Data-CapabilityBased@0.001000
 Data::Queue                        1.0002  pkg:cpan/Data-Queue@1.0002
 Data::Queue::Batch                  0.04  pkg:cpan/Data-Queue-Batch@0.04
 Data::Queue::Persistent             0.13  pkg:cpan/Data-Queue-Persistent@0.13
-Data::Queue::Shared                 0.03  pkg:cpan/Data-Queue-Shared@0.03
-Data::Queue::Shared::Int           undef  pkg:cpan/Data-Queue-Shared@0.03
-Data::Queue::Shared::Int16         undef  pkg:cpan/Data-Queue-Shared@0.03
-Data::Queue::Shared::Int32         undef  pkg:cpan/Data-Queue-Shared@0.03
-Data::Queue::Shared::Str           undef  pkg:cpan/Data-Queue-Shared@0.03
+Data::Queue::Shared                 0.04  pkg:cpan/Data-Queue-Shared@0.04
+Data::Queue::Shared::Int           undef  pkg:cpan/Data-Queue-Shared@0.04
+Data::Queue::Shared::Int16         undef  pkg:cpan/Data-Queue-Shared@0.04
+Data::Queue::Shared::Int32         undef  pkg:cpan/Data-Queue-Shared@0.04
+Data::Queue::Shared::Str           undef  pkg:cpan/Data-Queue-Shared@0.04
 Data::QuickMemoPlus::Reader         0.12  pkg:cpan/Data-QuickMemoPlus-Reader@0.12
 Data::Radius                       1.002009  pkg:cpan/Data-Radius@1.2.9
 Data::Radius::Constants            undef  pkg:cpan/Data-Radius@1.2.9
@@ -59832,10 +59832,10 @@ Data::Reporter::Orasource          undef  pkg:cpan/Data-Reporter@1.4
 Data::Reporter::RepFormat           0.01  pkg:cpan/Data-Reporter@1.4
 Data::Reporter::Sybsource          undef  pkg:cpan/Data-Reporter@1.4
 Data::Reporter::VisSection         undef  pkg:cpan/Data-Reporter@1.4
-Data::ReqRep::Shared                0.03  pkg:cpan/Data-ReqRep-Shared@0.03
-Data::ReqRep::Shared::Client       undef  pkg:cpan/Data-ReqRep-Shared@0.03
-Data::ReqRep::Shared::Int          undef  pkg:cpan/Data-ReqRep-Shared@0.03
-Data::ReqRep::Shared::Int::Client  undef  pkg:cpan/Data-ReqRep-Shared@0.03
+Data::ReqRep::Shared                0.04  pkg:cpan/Data-ReqRep-Shared@0.04
+Data::ReqRep::Shared::Client       undef  pkg:cpan/Data-ReqRep-Shared@0.04
+Data::ReqRep::Shared::Int          undef  pkg:cpan/Data-ReqRep-Shared@0.04
+Data::ReqRep::Shared::Int::Client  undef  pkg:cpan/Data-ReqRep-Shared@0.04
 Data::Resolver                     0.006  pkg:cpan/Data-Resolver@0.006
 Data::Resolver::Alternatives       0.006  pkg:cpan/Data-Resolver@0.006
 Data::Resolver::Asset              0.006  pkg:cpan/Data-Resolver@0.006
