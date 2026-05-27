@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 27 May 2026 21:46:57 GMT
+Last-Updated: Wed, 27 May 2026 23:11:21 GMT
 Line-Count: 264614
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -112689,9 +112689,9 @@ IPC::Semaphore::stat                2.09  pkg:cpan/IPC-SysV@2.09
 IPC::Serial                        1.007  pkg:cpan/IPC-Serial@1.007
 IPC::Session                        0.05  pkg:cpan/IPC-Session@0.05
 IPC::ShareLite                      0.17  pkg:cpan/IPC-ShareLite@0.17
-IPC::Shareable                      1.15  pkg:cpan/IPC-Shareable@1.15
-IPC::Shareable::SharedMem           1.15  pkg:cpan/IPC-Shareable@1.15
-IPC::Shareable::SharedMem::stat     1.15  pkg:cpan/IPC-Shareable@1.15
+IPC::Shareable                      1.16  pkg:cpan/IPC-Shareable@1.16
+IPC::Shareable::SharedMem           1.16  pkg:cpan/IPC-Shareable@1.16
+IPC::Shareable::SharedMem::stat     1.16  pkg:cpan/IPC-Shareable@1.16
 IPC::SharedCache                     1.3  pkg:cpan/IPC-SharedCache@1.3
 IPC::SharedMem                      2.09  pkg:cpan/IPC-SysV@2.09
 IPC::SharedMem::stat                2.09  pkg:cpan/IPC-SysV@2.09
