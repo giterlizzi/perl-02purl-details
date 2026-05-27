@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 27 May 2026 18:21:01 GMT
-Line-Count: 264611
+Last-Updated: Wed, 27 May 2026 21:46:57 GMT
+Line-Count: 264614
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -9513,13 +9513,14 @@ App::CreateAcmeCPANModulesImportModules 0.001  pkg:cpan/App-CreateAcmeCPANModule
 App::CreateRandomFile              0.021  pkg:cpan/App-CreateRandomFile@0.021
 App::CreateSelfSignedSSLCert       0.152  pkg:cpan/App-CreateSelfSignedSSLCert@0.152
 App::CreateSparseFile              0.080  pkg:cpan/App-CreateSparseFile@0.080
-App::CriticDB                      0.000003  pkg:cpan/App-CriticDB@0.0.3
-App::CriticDB::Collector           0.000003  pkg:cpan/App-CriticDB@0.0.3
-App::CriticDB::DB                  0.000003  pkg:cpan/App-CriticDB@0.0.3
-App::CriticDB::DB::Index           0.000003  pkg:cpan/App-CriticDB@0.0.3
-App::CriticDB::DB::Index::Id       0.000003  pkg:cpan/App-CriticDB@0.0.3
-App::CriticDB::DB::Index::Set      0.000003  pkg:cpan/App-CriticDB@0.0.3
-App::CriticDB::DB::Stor            0.000003  pkg:cpan/App-CriticDB@0.0.3
+App::CriticDB                      0.000004  pkg:cpan/App-CriticDB@0.0.4
+App::CriticDB::Collector           0.000004  pkg:cpan/App-CriticDB@0.0.4
+App::CriticDB::DB                  0.000004  pkg:cpan/App-CriticDB@0.0.4
+App::CriticDB::DB::Index           0.000004  pkg:cpan/App-CriticDB@0.0.4
+App::CriticDB::DB::Index::Id       0.000004  pkg:cpan/App-CriticDB@0.0.4
+App::CriticDB::DB::Index::Set      0.000004  pkg:cpan/App-CriticDB@0.0.4
+App::CriticDB::DB::Stor            0.000004  pkg:cpan/App-CriticDB@0.0.4
+App::CriticDB::Report              0.000004  pkg:cpan/App-CriticDB@0.0.4
 App::Critique                       0.05  pkg:cpan/App-Critique@0.05
 App::Critique::Command              0.05  pkg:cpan/App-Critique@0.05
 App::Critique::Command::clean       0.05  pkg:cpan/App-Critique@0.05
@@ -15744,41 +15745,42 @@ App::jsonsel                       0.008  pkg:cpan/App-jsonsel@0.008
 App::jsonvalidate                  0.002000  pkg:cpan/App-jsonvalidate@v0.2.0
 App::jt                             0.43  pkg:cpan/App-jt@0.43
 App::jupiter                        1.09  pkg:cpan/App-jupiter@1.09
-App::karr                          0.205  pkg:cpan/App-karr@0.205
-App::karr::ActivityLog             0.205  pkg:cpan/App-karr@0.205
-App::karr::BoardStore              0.205  pkg:cpan/App-karr@0.205
-App::karr::Cmd::AgentName          0.205  pkg:cpan/App-karr@0.205
-App::karr::Cmd::Archive            0.205  pkg:cpan/App-karr@0.205
-App::karr::Cmd::Backup             0.205  pkg:cpan/App-karr@0.205
-App::karr::Cmd::Board              0.205  pkg:cpan/App-karr@0.205
-App::karr::Cmd::Config             0.205  pkg:cpan/App-karr@0.205
-App::karr::Cmd::Context            0.205  pkg:cpan/App-karr@0.205
-App::karr::Cmd::Create             0.205  pkg:cpan/App-karr@0.205
-App::karr::Cmd::Delete             0.205  pkg:cpan/App-karr@0.205
-App::karr::Cmd::Destroy            0.205  pkg:cpan/App-karr@0.205
-App::karr::Cmd::Edit               0.205  pkg:cpan/App-karr@0.205
-App::karr::Cmd::GetRefs            0.205  pkg:cpan/App-karr@0.205
-App::karr::Cmd::Handoff            0.205  pkg:cpan/App-karr@0.205
-App::karr::Cmd::Init               0.205  pkg:cpan/App-karr@0.205
-App::karr::Cmd::List               0.205  pkg:cpan/App-karr@0.205
-App::karr::Cmd::Log                0.205  pkg:cpan/App-karr@0.205
-App::karr::Cmd::Move               0.205  pkg:cpan/App-karr@0.205
-App::karr::Cmd::Pick               0.205  pkg:cpan/App-karr@0.205
-App::karr::Cmd::Restore            0.205  pkg:cpan/App-karr@0.205
-App::karr::Cmd::SetRefs            0.205  pkg:cpan/App-karr@0.205
-App::karr::Cmd::Show               0.205  pkg:cpan/App-karr@0.205
-App::karr::Cmd::Skill              0.205  pkg:cpan/App-karr@0.205
-App::karr::Cmd::Sync               0.205  pkg:cpan/App-karr@0.205
-App::karr::Config                  0.205  pkg:cpan/App-karr@0.205
-App::karr::Git                     0.205  pkg:cpan/App-karr@0.205
-App::karr::Lock                    0.205  pkg:cpan/App-karr@0.205
-App::karr::Role::BoardAccess       0.205  pkg:cpan/App-karr@0.205
-App::karr::Role::BoardDiscovery    0.205  pkg:cpan/App-karr@0.205
-App::karr::Role::ClaimTimeout      0.205  pkg:cpan/App-karr@0.205
-App::karr::Role::Output            0.205  pkg:cpan/App-karr@0.205
-App::karr::Role::SyncLifecycle     0.205  pkg:cpan/App-karr@0.205
-App::karr::SyncGuard               0.205  pkg:cpan/App-karr@0.205
-App::karr::Task                    0.205  pkg:cpan/App-karr@0.205
+App::karr                          0.300  pkg:cpan/App-karr@0.300
+App::karr::ActivityLog             0.300  pkg:cpan/App-karr@0.300
+App::karr::BoardStore              0.300  pkg:cpan/App-karr@0.300
+App::karr::Cmd::AgentName          0.300  pkg:cpan/App-karr@0.300
+App::karr::Cmd::Archive            0.300  pkg:cpan/App-karr@0.300
+App::karr::Cmd::Backup             0.300  pkg:cpan/App-karr@0.300
+App::karr::Cmd::Board              0.300  pkg:cpan/App-karr@0.300
+App::karr::Cmd::Config             0.300  pkg:cpan/App-karr@0.300
+App::karr::Cmd::Context            0.300  pkg:cpan/App-karr@0.300
+App::karr::Cmd::Create             0.300  pkg:cpan/App-karr@0.300
+App::karr::Cmd::Delete             0.300  pkg:cpan/App-karr@0.300
+App::karr::Cmd::Destroy            0.300  pkg:cpan/App-karr@0.300
+App::karr::Cmd::Edit               0.300  pkg:cpan/App-karr@0.300
+App::karr::Cmd::GetRefs            0.300  pkg:cpan/App-karr@0.300
+App::karr::Cmd::Handoff            0.300  pkg:cpan/App-karr@0.300
+App::karr::Cmd::Init               0.300  pkg:cpan/App-karr@0.300
+App::karr::Cmd::List               0.300  pkg:cpan/App-karr@0.300
+App::karr::Cmd::Log                0.300  pkg:cpan/App-karr@0.300
+App::karr::Cmd::Move               0.300  pkg:cpan/App-karr@0.300
+App::karr::Cmd::Pick               0.300  pkg:cpan/App-karr@0.300
+App::karr::Cmd::Restore            0.300  pkg:cpan/App-karr@0.300
+App::karr::Cmd::SetRefs            0.300  pkg:cpan/App-karr@0.300
+App::karr::Cmd::Show               0.300  pkg:cpan/App-karr@0.300
+App::karr::Cmd::Skill              0.300  pkg:cpan/App-karr@0.300
+App::karr::Cmd::Sync               0.300  pkg:cpan/App-karr@0.300
+App::karr::Config                  0.300  pkg:cpan/App-karr@0.300
+App::karr::Foundation              0.300  pkg:cpan/App-karr@0.300
+App::karr::Git                     0.300  pkg:cpan/App-karr@0.300
+App::karr::Lock                    0.300  pkg:cpan/App-karr@0.300
+App::karr::Role::BoardAccess       0.300  pkg:cpan/App-karr@0.300
+App::karr::Role::BoardDiscovery    0.300  pkg:cpan/App-karr@0.300
+App::karr::Role::ClaimTimeout      0.300  pkg:cpan/App-karr@0.300
+App::karr::Role::Output            0.300  pkg:cpan/App-karr@0.300
+App::karr::Role::SyncLifecycle     0.300  pkg:cpan/App-karr@0.300
+App::karr::SyncGuard               0.300  pkg:cpan/App-karr@0.300
+App::karr::Task                    0.300  pkg:cpan/App-karr@0.300
 App::keycommon                     0.0012  pkg:cpan/App-keycommon@0.0012
 App::lapidary                       1.05  pkg:cpan/App-lapidary@1.05
 App::lasttouch                     0.041  pkg:cpan/App-lasttouch@0.041
@@ -34480,7 +34482,7 @@ CXC::DB::DDL::Table                 0.21  pkg:cpan/CXC-DB-DDL@0.21
 CXC::DB::DDL::Types                 0.21  pkg:cpan/CXC-DB-DDL@0.21
 CXC::DB::DDL::Util                  0.21  pkg:cpan/CXC-DB-DDL@0.21
 CXC::Data::Visitor                  0.12  pkg:cpan/CXC-Data-Visitor@0.12
-CXC::Exporter::Util                 0.08  pkg:cpan/CXC-Exporter-Util@0.08
+CXC::Exporter::Util                 0.11  pkg:cpan/CXC-Exporter-Util@0.11
 CXC::Form::Tiny::Plugin::OptArgs2   0.12  pkg:cpan/CXC-Form-Tiny-Plugin-OptArgs2@0.12
 CXC::Form::Tiny::Plugin::OptArgs2::Class  0.12  pkg:cpan/CXC-Form-Tiny-Plugin-OptArgs2@0.12
 CXC::Form::Tiny::Plugin::OptArgs2::Meta  0.12  pkg:cpan/CXC-Form-Tiny-Plugin-OptArgs2@0.12
@@ -82872,21 +82874,22 @@ Git::MoreHooks::CheckIndent        0.018  pkg:cpan/Git-MoreHooks@0.018
 Git::MoreHooks::CheckPerl          0.018  pkg:cpan/Git-MoreHooks@0.018
 Git::MoreHooks::GitRepoAdmin       0.018  pkg:cpan/Git-MoreHooks@0.018
 Git::MoreHooks::TriggerJenkins     0.018  pkg:cpan/Git-MoreHooks@0.018
-Git::Native                        0.002  pkg:cpan/Git-Native@0.002
-Git::Native::Blob                  0.002  pkg:cpan/Git-Native@0.002
-Git::Native::Branch                0.002  pkg:cpan/Git-Native@0.002
-Git::Native::Commit                0.002  pkg:cpan/Git-Native@0.002
-Git::Native::Credential            0.002  pkg:cpan/Git-Native@0.002
-Git::Native::Error                 0.002  pkg:cpan/Git-Native@0.002
-Git::Native::Oid                   0.002  pkg:cpan/Git-Native@0.002
-Git::Native::Reference             0.002  pkg:cpan/Git-Native@0.002
-Git::Native::Remote                0.002  pkg:cpan/Git-Native@0.002
-Git::Native::Repository            0.002  pkg:cpan/Git-Native@0.002
-Git::Native::Revwalker             0.002  pkg:cpan/Git-Native@0.002
-Git::Native::Signature             0.002  pkg:cpan/Git-Native@0.002
-Git::Native::Tag                   0.002  pkg:cpan/Git-Native@0.002
-Git::Native::Tree                  0.002  pkg:cpan/Git-Native@0.002
-Git::Native::TreeBuilder           0.002  pkg:cpan/Git-Native@0.002
+Git::Native                        0.003  pkg:cpan/Git-Native@0.003
+Git::Native::Blob                  0.003  pkg:cpan/Git-Native@0.003
+Git::Native::Branch                0.003  pkg:cpan/Git-Native@0.003
+Git::Native::Commit                0.003  pkg:cpan/Git-Native@0.003
+Git::Native::Config                0.003  pkg:cpan/Git-Native@0.003
+Git::Native::Credential            0.003  pkg:cpan/Git-Native@0.003
+Git::Native::Error                 0.003  pkg:cpan/Git-Native@0.003
+Git::Native::Oid                   0.003  pkg:cpan/Git-Native@0.003
+Git::Native::Reference             0.003  pkg:cpan/Git-Native@0.003
+Git::Native::Remote                0.003  pkg:cpan/Git-Native@0.003
+Git::Native::Repository            0.003  pkg:cpan/Git-Native@0.003
+Git::Native::Revwalker             0.003  pkg:cpan/Git-Native@0.003
+Git::Native::Signature             0.003  pkg:cpan/Git-Native@0.003
+Git::Native::Tag                   0.003  pkg:cpan/Git-Native@0.003
+Git::Native::Tree                  0.003  pkg:cpan/Git-Native@0.003
+Git::Native::TreeBuilder           0.003  pkg:cpan/Git-Native@0.003
 Git::Nuggit                         1.01  pkg:cpan/Git-Nuggit@1.01
 Git::Nuggit::Log                    0.01  pkg:cpan/Git-Nuggit@1.01
 Git::Nuggit::Status                 0.04  pkg:cpan/Git-Nuggit@1.01
@@ -194005,7 +194008,7 @@ Perl6ish::Syntax::DotMethod        undef  pkg:cpan/Perl6ish@0.02
 Perl6ish::Syntax::constant         undef  pkg:cpan/Perl6ish@0.02
 Perl6ish::Syntax::state            undef  pkg:cpan/Perl6ish@0.02
 Perl6ish::Syntax::temp             undef  pkg:cpan/Perl6ish@0.02
-Perl7::Handy                        0.13  pkg:cpan/Perl7-Handy@0.13
+Perl7::Handy                        0.14  pkg:cpan/Perl7-Handy@0.14
 Perl::APIReference                  0.24  pkg:cpan/Perl-APIReference@0.24
 Perl::APIReference::Generator       0.01  pkg:cpan/Perl-APIReference@0.24
 Perl::APIReference::V5_006_000     undef  pkg:cpan/Perl-APIReference@0.24
