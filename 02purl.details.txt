@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 28 May 2026 11:31:04 GMT
+Last-Updated: Thu, 28 May 2026 15:35:07 GMT
 Line-Count: 264616
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -77844,23 +77844,23 @@ GDA::Log                           undef  pkg:cpan/GDA@0.2
 GDA::Provider                      undef  pkg:cpan/GDA@0.2
 GDB::bt                            undef  pkg:cpan/GDB-bt@0.01
 GDBM_File                           1.24  pkg:cpan/perl@5.42.2
-GDPR::IAB::TCFv2                   0.520  pkg:cpan/GDPR-IAB-TCFv2@0.520
-GDPR::IAB::TCFv2::BitField         0.520  pkg:cpan/GDPR-IAB-TCFv2@0.520
-GDPR::IAB::TCFv2::BitUtils         0.520  pkg:cpan/GDPR-IAB-TCFv2@0.520
-GDPR::IAB::TCFv2::CMPValidator     0.520  pkg:cpan/GDPR-IAB-TCFv2@0.520
-GDPR::IAB::TCFv2::Constants::Purpose 0.520  pkg:cpan/GDPR-IAB-TCFv2@0.520
-GDPR::IAB::TCFv2::Constants::RestrictionType 0.520  pkg:cpan/GDPR-IAB-TCFv2@0.520
-GDPR::IAB::TCFv2::Constants::SpecialFeature 0.520  pkg:cpan/GDPR-IAB-TCFv2@0.520
-GDPR::IAB::TCFv2::Parser           0.520  pkg:cpan/GDPR-IAB-TCFv2@0.520
-GDPR::IAB::TCFv2::Publisher        0.520  pkg:cpan/GDPR-IAB-TCFv2@0.520
-GDPR::IAB::TCFv2::PublisherRestrictions 0.520  pkg:cpan/GDPR-IAB-TCFv2@0.520
-GDPR::IAB::TCFv2::PublisherTC      0.520  pkg:cpan/GDPR-IAB-TCFv2@0.520
+GDPR::IAB::TCFv2                   0.530  pkg:cpan/GDPR-IAB-TCFv2@0.530
+GDPR::IAB::TCFv2::BitField         0.530  pkg:cpan/GDPR-IAB-TCFv2@0.530
+GDPR::IAB::TCFv2::BitUtils         0.530  pkg:cpan/GDPR-IAB-TCFv2@0.530
+GDPR::IAB::TCFv2::CMPValidator     0.530  pkg:cpan/GDPR-IAB-TCFv2@0.530
+GDPR::IAB::TCFv2::Constants::Purpose 0.530  pkg:cpan/GDPR-IAB-TCFv2@0.530
+GDPR::IAB::TCFv2::Constants::RestrictionType 0.530  pkg:cpan/GDPR-IAB-TCFv2@0.530
+GDPR::IAB::TCFv2::Constants::SpecialFeature 0.530  pkg:cpan/GDPR-IAB-TCFv2@0.530
+GDPR::IAB::TCFv2::Parser           0.530  pkg:cpan/GDPR-IAB-TCFv2@0.530
+GDPR::IAB::TCFv2::Publisher        0.530  pkg:cpan/GDPR-IAB-TCFv2@0.530
+GDPR::IAB::TCFv2::PublisherRestrictions 0.530  pkg:cpan/GDPR-IAB-TCFv2@0.530
+GDPR::IAB::TCFv2::PublisherTC      0.530  pkg:cpan/GDPR-IAB-TCFv2@0.530
 GDPR::IAB::TCFv2::RangeConsent     undef  pkg:cpan/GDPR-IAB-TCFv2@0.082
-GDPR::IAB::TCFv2::RangeSection     0.520  pkg:cpan/GDPR-IAB-TCFv2@0.520
-GDPR::IAB::TCFv2::Validator        0.520  pkg:cpan/GDPR-IAB-TCFv2@0.520
-GDPR::IAB::TCFv2::Validator::Failure 0.520  pkg:cpan/GDPR-IAB-TCFv2@0.520
-GDPR::IAB::TCFv2::Validator::Reason 0.520  pkg:cpan/GDPR-IAB-TCFv2@0.520
-GDPR::IAB::TCFv2::Validator::Result 0.520  pkg:cpan/GDPR-IAB-TCFv2@0.520
+GDPR::IAB::TCFv2::RangeSection     0.530  pkg:cpan/GDPR-IAB-TCFv2@0.530
+GDPR::IAB::TCFv2::Validator        0.530  pkg:cpan/GDPR-IAB-TCFv2@0.530
+GDPR::IAB::TCFv2::Validator::Failure 0.530  pkg:cpan/GDPR-IAB-TCFv2@0.530
+GDPR::IAB::TCFv2::Validator::Reason 0.530  pkg:cpan/GDPR-IAB-TCFv2@0.530
+GDPR::IAB::TCFv2::Validator::Result 0.530  pkg:cpan/GDPR-IAB-TCFv2@0.530
 GDS2                                3.35  pkg:cpan/GDS2@3.35
 GENJobAd                           undef  pkg:cpan/Gantry@3.42
 GFF::Filehandle                    undef  pkg:cpan/AcePerl@1.92
@@ -262985,7 +262985,7 @@ iRedAdmin::Admin                   undef  pkg:cpan/iRedAdmin@0.04
 iRedAdmin::Domain                  undef  pkg:cpan/iRedAdmin@0.04
 iRedAdmin::User                    undef  pkg:cpan/iRedAdmin@0.04
 iTransact::Lite                    undef  pkg:cpan/iTransact-Lite@0.0101
-iabtcfv2                           0.520  pkg:cpan/GDPR-IAB-TCFv2@0.520
+iabtcfv2                           0.530  pkg:cpan/GDPR-IAB-TCFv2@0.530
 icro                                0.20  pkg:cpan/AI-MicroStructure@0.20
 icrosoft::Word                     0.002  pkg:cpan/Acme-RunDoc@0.002
 idi                                0.0505  pkg:cpan/idi@0.0505
