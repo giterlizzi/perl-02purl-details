@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 28 May 2026 21:50:48 GMT
-Line-Count: 264620
+Last-Updated: Thu, 28 May 2026 23:08:37 GMT
+Line-Count: 264616
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -34482,7 +34482,7 @@ CXC::DB::DDL::Table                 0.21  pkg:cpan/CXC-DB-DDL@0.21
 CXC::DB::DDL::Types                 0.21  pkg:cpan/CXC-DB-DDL@0.21
 CXC::DB::DDL::Util                  0.21  pkg:cpan/CXC-DB-DDL@0.21
 CXC::Data::Visitor                  0.12  pkg:cpan/CXC-Data-Visitor@0.12
-CXC::Exporter::Util                 0.11  pkg:cpan/CXC-Exporter-Util@0.11
+CXC::Exporter::Util                 0.12  pkg:cpan/CXC-Exporter-Util@0.12
 CXC::Form::Tiny::Plugin::OptArgs2   0.12  pkg:cpan/CXC-Form-Tiny-Plugin-OptArgs2@0.12
 CXC::Form::Tiny::Plugin::OptArgs2::Class  0.12  pkg:cpan/CXC-Form-Tiny-Plugin-OptArgs2@0.12
 CXC::Form::Tiny::Plugin::OptArgs2::Meta  0.12  pkg:cpan/CXC-Form-Tiny-Plugin-OptArgs2@0.12
@@ -66661,8 +66661,6 @@ Dist::Zilla::Plugin::DistManifestTests 2.000006  pkg:cpan/Dist-Zilla-Plugin-Test
 Dist::Zilla::Plugin::Docker         0.01  pkg:cpan/Dist-Zilla-Plugin-Docker@0.01
 Dist::Zilla::Plugin::Docker::API   0.103  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.103
 Dist::Zilla::Plugin::Docker::API::Client 0.103  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.103
-Dist::Zilla::Plugin::Docker::API::Config 0.100  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.100
-Dist::Zilla::Plugin::Docker::API::Context 0.100  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.100
 Dist::Zilla::Plugin::Docker::API::Result 0.103  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.103
 Dist::Zilla::Plugin::Docker::API::TagTemplate 0.103  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.103
 Dist::Zilla::Plugin::Docker::DockerClient  0.01  pkg:cpan/Dist-Zilla-Plugin-Docker@0.01
@@ -66748,7 +66746,7 @@ Dist::Zilla::Plugin::Git::Tag::ForRelease undef  pkg:cpan/Dist-Zilla-Plugin-Git-
 Dist::Zilla::Plugin::GitFmtChanges 0.006  pkg:cpan/Dist-Zilla-Plugin-GitFmtChanges@0.006
 Dist::Zilla::Plugin::GitHub         0.49  pkg:cpan/Dist-Zilla-Plugin-GitHub@0.49
 Dist::Zilla::Plugin::GitHub::Create  0.49  pkg:cpan/Dist-Zilla-Plugin-GitHub@0.49
-Dist::Zilla::Plugin::GitHub::CreateRelease 0.0008  pkg:cpan/Dist-Zilla-Plugin-GitHub-CreateRelease@0.0008
+Dist::Zilla::Plugin::GitHub::CreateRelease 0.0009  pkg:cpan/Dist-Zilla-Plugin-GitHub-CreateRelease@0.0009
 Dist::Zilla::Plugin::GitHub::Meta   0.49  pkg:cpan/Dist-Zilla-Plugin-GitHub@0.49
 Dist::Zilla::Plugin::GitHub::RequireGreenBuild  0.04  pkg:cpan/Dist-Zilla-Plugin-GitHub-RequireGreenBuild@0.04
 Dist::Zilla::Plugin::GitHub::Update  0.49  pkg:cpan/Dist-Zilla-Plugin-GitHub@0.49
@@ -67329,7 +67327,6 @@ Dist::Zilla::PluginBundle::FakeClassic 6.037  pkg:cpan/Dist-Zilla@6.037
 Dist::Zilla::PluginBundle::Filter  6.037  pkg:cpan/Dist-Zilla@6.037
 Dist::Zilla::PluginBundle::GEEKRUTH 2.0002  pkg:cpan/Dist-Zilla-PluginBundle-GEEKRUTH@2.0002
 Dist::Zilla::PluginBundle::GENEHACK   0.9  pkg:cpan/Dist-Zilla-PluginBundle-GENEHACK@0.9
-Dist::Zilla::PluginBundle::GETTY   0.008  pkg:cpan/Dist-Zilla-PluginBundle-GETTY@0.008
 Dist::Zilla::PluginBundle::GPHAT    0.06  pkg:cpan/Dist-Zilla-PluginBundle-GPHAT@0.06
 Dist::Zilla::PluginBundle::GRS      0.08  pkg:cpan/Dist-Zilla-PluginBundle-GRS@0.08
 Dist::Zilla::PluginBundle::Git     2.052  pkg:cpan/Dist-Zilla-Plugin-Git@2.052
@@ -130755,7 +130752,7 @@ Map::Metro::Plugin::Map::Gothenburg 0.1004  pkg:cpan/Map-Metro-Plugin-Map-Gothen
 Map::Metro::Plugin::Map::Helsinki  0.1987  pkg:cpan/Map-Metro-Plugin-Map-Helsinki@0.1987
 Map::Metro::Plugin::Map::Lille     0.1003  pkg:cpan/Map-Metro-Plugin-Map-Lille@0.1003
 Map::Metro::Plugin::Map::London    0.001  pkg:cpan/Map-Metro-Plugin-Map-London@0.001
-Map::Metro::Plugin::Map::Lyon      1.000  pkg:cpan/Map-Metro-Plugin-Map-Lyon@1.000
+Map::Metro::Plugin::Map::Lyon      1.001  pkg:cpan/Map-Metro-Plugin-Map-Lyon@1.001
 Map::Metro::Plugin::Map::Madrid    0.1002  pkg:cpan/Map-Metro-Plugin-Map-Madrid@0.1002
 Map::Metro::Plugin::Map::Oslo      0.1104  pkg:cpan/Map-Metro-Plugin-Map-Oslo@0.1104
 Map::Metro::Plugin::Map::Stockholm 0.1973  pkg:cpan/Map-Metro-Plugin-Map-Stockholm@0.1973
@@ -198439,7 +198436,6 @@ Pod::Weaver::PluginBundle::DBIO::Heritage 0.900001  pkg:cpan/Dist-Zilla-PluginBu
 Pod::Weaver::PluginBundle::DROLSKY  1.24  pkg:cpan/Dist-Zilla-PluginBundle-DROLSKY@1.24
 Pod::Weaver::PluginBundle::Default 4.020  pkg:cpan/Pod-Weaver@4.020
 Pod::Weaver::PluginBundle::FLORA    0.04  pkg:cpan/Pod-Weaver-PluginBundle-FLORA@0.04
-Pod::Weaver::PluginBundle::GETTY   0.008  pkg:cpan/Dist-Zilla-PluginBundle-GETTY@0.008
 Pod::Weaver::PluginBundle::GRS      0.08  pkg:cpan/Dist-Zilla-PluginBundle-GRS@0.08
 Pod::Weaver::PluginBundle::HARTZELL 0.011  pkg:cpan/Dist-Zilla-PluginBundle-HARTZELL@0.011
 Pod::Weaver::PluginBundle::INGY    0.000002  pkg:cpan/Dist-Zilla-PluginBundle-INGY@0.0.2
