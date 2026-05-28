@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 27 May 2026 23:11:21 GMT
+Last-Updated: Thu, 28 May 2026 02:33:49 GMT
 Line-Count: 264614
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -74564,7 +74564,7 @@ Filename::Image                    0.005  pkg:cpan/Filename-Image@0.005
 Filename::Media                    0.003  pkg:cpan/Filename-Media@0.003
 Filename::Media::Info              0.002  pkg:cpan/Filename-Media-Info@0.002
 Filename::Perl::Release            0.002  pkg:cpan/Filename-Perl-Release@0.002
-Filename::Timestamp                0.003  pkg:cpan/Filename-Timestamp@0.003
+Filename::Timestamp                0.004  pkg:cpan/Filename-Timestamp@0.004
 Filename::Type::Archive            0.033  pkg:cpan/Filename-Type-Archive@0.033
 Filename::Type::Audio              0.005  pkg:cpan/Filename-Type-Audio@0.005
 Filename::Type::Backup             0.040  pkg:cpan/Filename-Type-Backup@0.040
