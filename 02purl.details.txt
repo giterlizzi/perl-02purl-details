@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 29 May 2026 21:48:18 GMT
-Line-Count: 264758
+Last-Updated: Fri, 29 May 2026 23:07:01 GMT
+Line-Count: 264759
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -70279,6 +70279,7 @@ Encode::Base58                      0.01  pkg:cpan/Encode-Base58@0.01
 Encode::Base58::BigInt              0.03  pkg:cpan/Encode-Base58-BigInt@0.03
 Encode::Base58::GMP                 1.00  pkg:cpan/Encode-Base58-GMP@1.00
 Encode::BetaCode                    0.11  pkg:cpan/Encode-BetaCode@0.11
+Encode::Bijou64                     0.01  pkg:cpan/Encode-Bijou64@0.01
 Encode::Bootstring                  0.03  pkg:cpan/Encode-Bootstring@0.03
 Encode::Buckwalter                   1.1  pkg:cpan/Encode-Buckwalter@1.1
 Encode::Byte                        2.04  pkg:cpan/Encode@3.24
