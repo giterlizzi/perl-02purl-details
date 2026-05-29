@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 29 May 2026 07:48:59 GMT
+Last-Updated: Fri, 29 May 2026 11:21:42 GMT
 Line-Count: 264746
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -224329,7 +224329,7 @@ Sys::GNU::ldconfig                  0.03  pkg:cpan/Sys-GNU-ldconfig@0.03
 Sys::Gamin                           0.1  pkg:cpan/Sys-Gamin@0.1
 Sys::GetRandom                      0.02  pkg:cpan/Sys-GetRandom@0.02
 Sys::GetRandom::FFI                v0.1.1  pkg:cpan/Sys-GetRandom-FFI@v0.1.1
-Sys::GetRandom::PP                  0.07  pkg:cpan/Sys-GetRandom-PP@0.07
+Sys::GetRandom::PP                  0.08  pkg:cpan/Sys-GetRandom-PP@0.08
 Sys::GetRandom::PP::_Bits          undef  pkg:cpan/Sys-GetRandom-PP@0.05
 Sys::Group::GIDhelper              0.001000  pkg:cpan/Sys-Group-GIDhelper@0.1.0
 Sys::Headers                        0.01  pkg:cpan/Sys-Headers@0.01
