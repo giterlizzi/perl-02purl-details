@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 30 May 2026 15:00:45 GMT
-Line-Count: 264778
+Last-Updated: Sat, 30 May 2026 16:54:33 GMT
+Line-Count: 264807
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -36141,13 +36141,13 @@ Catalyst::Plugin::MortalForward     0.01  pkg:cpan/Catalyst-Plugin-MortalForward
 Catalyst::Plugin::Navigation       1.002  pkg:cpan/Catalyst-Plugin-Navigation@1.002
 Catalyst::Plugin::OIDC              1.03  pkg:cpan/Catalyst-Plugin-OIDC@1.03
 Catalyst::Plugin::Observe           0.02  pkg:cpan/Catalyst-Plugin-Observe@0.02
-Catalyst::Plugin::OpenIDConnect     0.09  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.09
-Catalyst::Plugin::OpenIDConnect::Context undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.09
-Catalyst::Plugin::OpenIDConnect::Controller::Root undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.09
-Catalyst::Plugin::OpenIDConnect::Role::Store undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.09
-Catalyst::Plugin::OpenIDConnect::Utils::JWT undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.09
-Catalyst::Plugin::OpenIDConnect::Utils::Store undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.09
-Catalyst::Plugin::OpenIDConnect::Utils::Store::Redis undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.09
+Catalyst::Plugin::OpenIDConnect     0.11  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.11
+Catalyst::Plugin::OpenIDConnect::Context undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.11
+Catalyst::Plugin::OpenIDConnect::Controller::Root undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.11
+Catalyst::Plugin::OpenIDConnect::Role::Store undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.11
+Catalyst::Plugin::OpenIDConnect::Utils::JWT undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.11
+Catalyst::Plugin::OpenIDConnect::Utils::Store undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.11
+Catalyst::Plugin::OpenIDConnect::Utils::Store::Redis undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.11
 Catalyst::Plugin::OrderedParams     0.06  pkg:cpan/Catalyst-Plugin-OrderedParams@0.06
 Catalyst::Plugin::PageCache         0.32  pkg:cpan/Catalyst-Plugin-PageCache@0.32
 Catalyst::Plugin::Params::Demoronize  1.14  pkg:cpan/Catalyst-Plugin-Params-Demoronize@1.14
@@ -252846,6 +252846,35 @@ Webservice::Shipment::Carrier::UPS undef  pkg:cpan/Webservice-Shipment@0.06
 Webservice::Shipment::Carrier::USPS undef  pkg:cpan/Webservice-Shipment@0.06
 Webservice::Shipment::MockUserAgent undef  pkg:cpan/Webservice-Shipment@0.06
 Website                            1.014001  pkg:cpan/Website@1.14.01
+Weenect                             1.00  pkg:cpan/Weenect-API@1.00
+Weenect::API                       undef  pkg:cpan/Weenect-API@1.00
+Weenect::Animal                    undef  pkg:cpan/Weenect-API@1.00
+Weenect::Animals                   undef  pkg:cpan/Weenect-API@1.00
+Weenect::Auth                      undef  pkg:cpan/Weenect-API@1.00
+Weenect::Connect                   undef  pkg:cpan/Weenect-API@1.00
+Weenect::Login                     undef  pkg:cpan/Weenect-API@1.00
+Weenect::Point                     undef  pkg:cpan/Weenect-API@1.00
+Weenect::Position                  undef  pkg:cpan/Weenect-API@1.00
+Weenect::Preferences               undef  pkg:cpan/Weenect-API@1.00
+Weenect::Preferences_account_option_offers undef  pkg:cpan/Weenect-API@1.00
+Weenect::Preferences_account_option_offers_price_offer undef  pkg:cpan/Weenect-API@1.00
+Weenect::Preferences_account_option_offers_price_offer_de undef  pkg:cpan/Weenect-API@1.00
+Weenect::Preferences_account_option_offers_price_offer_en undef  pkg:cpan/Weenect-API@1.00
+Weenect::Preferences_account_option_offers_price_offer_es undef  pkg:cpan/Weenect-API@1.00
+Weenect::Preferences_account_option_offers_price_offer_fr undef  pkg:cpan/Weenect-API@1.00
+Weenect::Preferences_account_option_offers_price_offer_it undef  pkg:cpan/Weenect-API@1.00
+Weenect::Preferences_account_option_offers_price_offer_nl undef  pkg:cpan/Weenect-API@1.00
+Weenect::Preferences_account_options undef  pkg:cpan/Weenect-API@1.00
+Weenect::Preferences_default_payment_mean undef  pkg:cpan/Weenect-API@1.00
+Weenect::Preferences_mail_pref     undef  pkg:cpan/Weenect-API@1.00
+Weenect::Preferences_user_notation undef  pkg:cpan/Weenect-API@1.00
+Weenect::Preferences_white_label   undef  pkg:cpan/Weenect-API@1.00
+Weenect::Tracker                   undef  pkg:cpan/Weenect-API@1.00
+Weenect::Trackers                  undef  pkg:cpan/Weenect-API@1.00
+Weenect::WiFiZone                  undef  pkg:cpan/Weenect-API@1.00
+Weenect::WiFiZones                 undef  pkg:cpan/Weenect-API@1.00
+Weenect::Zone                      undef  pkg:cpan/Weenect-API@1.00
+Weenect::Zones                     undef  pkg:cpan/Weenect-API@1.00
 Weewar                              0.01  pkg:cpan/Weewar@0.01
 Weewar::Base                       undef  pkg:cpan/Weewar@0.01
 Weewar::Game                       undef  pkg:cpan/Weewar@0.01
@@ -262943,7 +262972,7 @@ ex::lib::zip                        0.04  pkg:cpan/ex-lib-zip@0.04
 ex::monkeypatched                   0.03  pkg:cpan/ex-monkeypatched@0.03
 ex::newest                          0.02  pkg:cpan/ex-newest@0.02
 ex::override                         1.1  pkg:cpan/ex-override@1.1
-exact                               1.29  pkg:cpan/exact@1.29
+exact                               1.31  pkg:cpan/exact@1.31
 exact::class                        1.20  pkg:cpan/exact-class@1.20
 exact::cli                          1.08  pkg:cpan/exact-cli@1.08
 exact::conf                         1.10  pkg:cpan/exact-conf@1.10
