@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 30 May 2026 19:03:20 GMT
+Last-Updated: Sat, 30 May 2026 20:48:23 GMT
 Line-Count: 264807
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -247722,7 +247722,7 @@ WWW::YNAB::ScheduledTransaction     0.02  pkg:cpan/WWW-YNAB@0.02
 WWW::YNAB::SubTransaction           0.02  pkg:cpan/WWW-YNAB@0.02
 WWW::YNAB::Transaction              0.02  pkg:cpan/WWW-YNAB@0.02
 WWW::YNAB::User                     0.02  pkg:cpan/WWW-YNAB@0.02
-WWW::YaCyBlacklist                   0.9  pkg:cpan/WWW-YaCyBlacklist@0.9
+WWW::YaCyBlacklist                  1.00  pkg:cpan/WWW-YaCyBlacklist@1.00
 WWW::Yahoo::Groups                  1.91  pkg:cpan/WWW-Yahoo-Groups@1.91
 WWW::Yahoo::Groups::Errors          1.91  pkg:cpan/WWW-Yahoo-Groups@1.91
 WWW::Yahoo::Groups::Mechanize       1.91  pkg:cpan/WWW-Yahoo-Groups@1.91
