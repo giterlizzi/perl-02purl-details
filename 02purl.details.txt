@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 30 May 2026 13:12:26 GMT
-Line-Count: 264777
+Last-Updated: Sat, 30 May 2026 15:00:45 GMT
+Line-Count: 264778
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -12170,13 +12170,13 @@ App::PAUSE::TimeMachine             0.05  pkg:cpan/App-PAUSE-TimeMachine@0.05
 App::PAUSE::cleanup                0.0014  pkg:cpan/App-PAUSE-cleanup@0.0014
 App::PDF::Link                      0.25  pkg:cpan/App-PDF-Link@0.25
 App::PDF::Overlay                  0.002  pkg:cpan/App-PDF-Overlay@0.002
-App::PDFLibrarian                  6.000003  pkg:cpan/App-PDFLibrarian@6.0.3
-App::PDFLibrarian::BibTeX          6.000003  pkg:cpan/App-PDFLibrarian@6.0.3
-App::PDFLibrarian::Library         6.000003  pkg:cpan/App-PDFLibrarian@6.0.3
-App::PDFLibrarian::QueryDialog     6.000003  pkg:cpan/App-PDFLibrarian@6.0.3
-App::PDFLibrarian::QueryDialog::impl 6.000003  pkg:cpan/App-PDFLibrarian@6.0.3
-App::PDFLibrarian::TitleAbbr       6.000003  pkg:cpan/App-PDFLibrarian@6.0.3
-App::PDFLibrarian::Util            6.000003  pkg:cpan/App-PDFLibrarian@6.0.3
+App::PDFLibrarian                  6.001000  pkg:cpan/App-PDFLibrarian@6.1.0
+App::PDFLibrarian::BibTeX          6.001000  pkg:cpan/App-PDFLibrarian@6.1.0
+App::PDFLibrarian::Library         6.001000  pkg:cpan/App-PDFLibrarian@6.1.0
+App::PDFLibrarian::QueryDialog     6.001000  pkg:cpan/App-PDFLibrarian@6.1.0
+App::PDFLibrarian::QueryDialog::impl 6.001000  pkg:cpan/App-PDFLibrarian@6.1.0
+App::PDFLibrarian::TitleAbbr       6.001000  pkg:cpan/App-PDFLibrarian@6.1.0
+App::PDFLibrarian::Util            6.001000  pkg:cpan/App-PDFLibrarian@6.1.0
 App::PDFUtils                      0.017  pkg:cpan/App-PDFUtils@0.017
 App::PDRUtils                      0.122  pkg:cpan/App-PDRUtils@0.122
 App::PDRUtils::Cmd                 0.122  pkg:cpan/App-PDRUtils@0.122
@@ -200269,11 +200269,12 @@ Protocol::TLS::RecordLayer         undef  pkg:cpan/Protocol-TLS@0.04
 Protocol::TLS::Server              undef  pkg:cpan/Protocol-TLS@0.04
 Protocol::TLS::Trace               undef  pkg:cpan/Protocol-TLS@0.04
 Protocol::TLS::Utils               undef  pkg:cpan/Protocol-TLS@0.04
-Protocol::Tus                      0.001  pkg:cpan/Protocol-Tus@0.001
-Protocol::Tus::AbstractModel       0.001  pkg:cpan/Protocol-Tus@0.001
-Protocol::Tus::LocalDir            0.001  pkg:cpan/Protocol-Tus@0.001
-Protocol::Tus::Response            0.001  pkg:cpan/Protocol-Tus@0.001
-Protocol::Tus::Util                0.001  pkg:cpan/Protocol-Tus@0.001
+Protocol::Tus                      0.003  pkg:cpan/Protocol-Tus@0.003
+Protocol::Tus::AbstractModel       0.003  pkg:cpan/Protocol-Tus@0.003
+Protocol::Tus::LocalDir            0.003  pkg:cpan/Protocol-Tus@0.003
+Protocol::Tus::Response            0.003  pkg:cpan/Protocol-Tus@0.003
+Protocol::Tus::Upload              0.003  pkg:cpan/Protocol-Tus@0.003
+Protocol::Tus::Util                0.003  pkg:cpan/Protocol-Tus@0.003
 Protocol::UWSGI                    1.000  pkg:cpan/Protocol-UWSGI@1.000
 Protocol::WebSocket                 0.26  pkg:cpan/Protocol-WebSocket@0.26
 Protocol::WebSocket::Client        undef  pkg:cpan/Protocol-WebSocket@0.26
