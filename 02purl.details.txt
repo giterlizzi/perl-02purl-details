@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 31 May 2026 15:14:27 GMT
+Last-Updated: Sun, 31 May 2026 16:59:46 GMT
 Line-Count: 264816
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -21869,7 +21869,7 @@ Bad::Words                          0.09  pkg:cpan/Bad-Words@0.09
 BadPackage                         undef  pkg:cpan/RPC-Lite@0.20
 BadWrapperBlock                    undef  pkg:cpan/Test-Subunits@0.000003
 BadWrapperPara                     undef  pkg:cpan/Test-Subunits@0.000003
-Bad_Handle                         undef  pkg:cpan/Net-FullAuto@1.0000832
+Bad_Handle                         undef  pkg:cpan/Net-FullAuto@1.0000833
 Badge::Depot                       0.0104  pkg:cpan/Badge-Depot@0.0104
 Badge::Depot::Plugin::Coverage     0.0102  pkg:cpan/Badge-Depot-Plugin-Coverage@0.0102
 Badge::Depot::Plugin::Cpantesters  0.0102  pkg:cpan/Badge-Depot-Plugin-Cpantesters@0.0102
@@ -74559,7 +74559,7 @@ FileSlurp_12                       9999.13  pkg:cpan/File-Slurp@9999.19
 FileStore                          undef  pkg:cpan/ZZZ-SDK@0.0.2
 FileSystem::LL::FAT                 0.05  pkg:cpan/FileSystem-LL-FAT@0.05
 FileUpload::Filename                0.02  pkg:cpan/FileUpload-Filename@0.02
-File_Transfer                      undef  pkg:cpan/Net-FullAuto@1.0000832
+File_Transfer                      undef  pkg:cpan/Net-FullAuto@1.0000833
 Filename::Archive                  0.033  pkg:cpan/Filename-Archive@0.033
 Filename::Audio                    0.004  pkg:cpan/Filename-Audio@0.004
 Filename::Backup                    0.04  pkg:cpan/Filename-Backup@0.04
@@ -148416,11 +148416,11 @@ Net::Fritz::PhonebookEntry          0.07  pkg:cpan/Net-Fritz-Phonebook@0.07
 Net::Fritz::PhonebookEntry::Mail    0.07  pkg:cpan/Net-Fritz-Phonebook@0.07
 Net::Fritz::PhonebookEntry::Number  0.07  pkg:cpan/Net-Fritz-Phonebook@0.07
 Net::Fritz::Service                v0.0.9  pkg:cpan/Net-Fritz@v0.0.9
-Net::FullAuto                      1.0000832  pkg:cpan/Net-FullAuto@1.0000832
-Net::FullAuto::FA_Core             undef  pkg:cpan/Net-FullAuto@1.0000832
-Net::FullAuto::FA_DB               undef  pkg:cpan/Net-FullAuto@1.0000832
-Net::FullAuto::Getline             undef  pkg:cpan/Net-FullAuto@1.0000832
-Net::FullAuto::MemoryHandle        undef  pkg:cpan/Net-FullAuto@1.0000832
+Net::FullAuto                      1.0000833  pkg:cpan/Net-FullAuto@1.0000833
+Net::FullAuto::FA_Core             undef  pkg:cpan/Net-FullAuto@1.0000833
+Net::FullAuto::FA_DB               undef  pkg:cpan/Net-FullAuto@1.0000833
+Net::FullAuto::Getline             undef  pkg:cpan/Net-FullAuto@1.0000833
+Net::FullAuto::MemoryHandle        undef  pkg:cpan/Net-FullAuto@1.0000833
 Net::GNUDB::Cd                     undef  pkg:cpan/Net-GNUDBSearch@1.01
 Net::GNUDBSearch                    1.01  pkg:cpan/Net-GNUDBSearch@1.01
 Net::GNUDBSearch::Cd               undef  pkg:cpan/Net-GNUDBSearch@1.01
@@ -200273,12 +200273,12 @@ Protocol::TLS::RecordLayer         undef  pkg:cpan/Protocol-TLS@0.04
 Protocol::TLS::Server              undef  pkg:cpan/Protocol-TLS@0.04
 Protocol::TLS::Trace               undef  pkg:cpan/Protocol-TLS@0.04
 Protocol::TLS::Utils               undef  pkg:cpan/Protocol-TLS@0.04
-Protocol::Tus                      0.003  pkg:cpan/Protocol-Tus@0.003
-Protocol::Tus::AbstractModel       0.003  pkg:cpan/Protocol-Tus@0.003
-Protocol::Tus::LocalDir            0.003  pkg:cpan/Protocol-Tus@0.003
-Protocol::Tus::Response            0.003  pkg:cpan/Protocol-Tus@0.003
-Protocol::Tus::Upload              0.003  pkg:cpan/Protocol-Tus@0.003
-Protocol::Tus::Util                0.003  pkg:cpan/Protocol-Tus@0.003
+Protocol::Tus                      0.004  pkg:cpan/Protocol-Tus@0.004
+Protocol::Tus::AbstractModel       0.004  pkg:cpan/Protocol-Tus@0.004
+Protocol::Tus::LocalDir            0.004  pkg:cpan/Protocol-Tus@0.004
+Protocol::Tus::Response            0.004  pkg:cpan/Protocol-Tus@0.004
+Protocol::Tus::Upload              0.004  pkg:cpan/Protocol-Tus@0.004
+Protocol::Tus::Util                0.004  pkg:cpan/Protocol-Tus@0.004
 Protocol::UWSGI                    1.000  pkg:cpan/Protocol-UWSGI@1.000
 Protocol::WebSocket                 0.26  pkg:cpan/Protocol-WebSocket@0.26
 Protocol::WebSocket::Client        undef  pkg:cpan/Protocol-WebSocket@0.26
@@ -205356,7 +205356,7 @@ Religion::Islam::PrayTime           1.06  pkg:cpan/Religion-Islam-PrayTime@1.06
 Religion::Islam::PrayerTimes        1.02  pkg:cpan/Religion-Islam-PrayerTimes@1.02
 Religion::Islam::Qibla               4.0  pkg:cpan/Religion-Islam-Qibla@4.0
 Religion::Islam::Quran              2.01  pkg:cpan/Religion-Islam-Quran@2.01
-Rem_Command                        undef  pkg:cpan/Net-FullAuto@1.0000832
+Rem_Command                        undef  pkg:cpan/Net-FullAuto@1.0000833
 Remedy::ARSTools                    1.25  pkg:cpan/Remedy-ARSTools@1.25
 Remember::Anything::AsPath          0.06  pkg:cpan/Remember-Anything-AsPath@0.06
 Remind::Client                      0.03  pkg:cpan/Remind-Client@0.03
@@ -233488,7 +233488,7 @@ Tic::Events                        undef  pkg:cpan/tic
 Ticketmaster                        1.02  pkg:cpan/Ticketmaster@1.02
 Ticketmaster::API                   0.02  pkg:cpan/Ticketmaster-API@0.02
 Ticketmaster::API::Discovery        0.01  pkg:cpan/Ticketmaster-API@0.02
-Tickit                              0.75  pkg:cpan/Tickit@0.75
+Tickit                              0.76  pkg:cpan/Tickit@0.76
 Tickit::App::Plugin::EscapePrefix   0.02  pkg:cpan/Tickit-App-Plugin-EscapePrefix@0.02
 Tickit::Async                       0.25  pkg:cpan/Tickit-Async@0.25
 Tickit::Builder                    0.001  pkg:cpan/Tickit-Builder@0.001
@@ -233496,23 +233496,23 @@ Tickit::Console                     0.12  pkg:cpan/Tickit-Console@0.12
 Tickit::Console::Tab                0.12  pkg:cpan/Tickit-Console@0.12
 Tickit::ContainerWidget             0.59  pkg:cpan/Tickit-Widgets@0.42
 Tickit::DSL                        0.034  pkg:cpan/Tickit-DSL@0.034
-Tickit::Debug                       0.75  pkg:cpan/Tickit@0.75
-Tickit::Event                       0.75  pkg:cpan/Tickit@0.75
+Tickit::Debug                       0.76  pkg:cpan/Tickit@0.76
+Tickit::Event                       0.76  pkg:cpan/Tickit@0.76
 Tickit::Layout::Relative           0.005  pkg:cpan/Tickit-Widget-Layout-Relative@0.005
-Tickit::Pen                         0.75  pkg:cpan/Tickit@0.75
-Tickit::Pen::Immutable              0.75  pkg:cpan/Tickit@0.75
-Tickit::Pen::Mutable                0.75  pkg:cpan/Tickit@0.75
-Tickit::Rect                        0.75  pkg:cpan/Tickit@0.75
-Tickit::RectSet                     0.75  pkg:cpan/Tickit@0.75
-Tickit::RenderBuffer                0.75  pkg:cpan/Tickit@0.75
+Tickit::Pen                         0.76  pkg:cpan/Tickit@0.76
+Tickit::Pen::Immutable              0.76  pkg:cpan/Tickit@0.76
+Tickit::Pen::Mutable                0.76  pkg:cpan/Tickit@0.76
+Tickit::Rect                        0.76  pkg:cpan/Tickit@0.76
+Tickit::RectSet                     0.76  pkg:cpan/Tickit@0.76
+Tickit::RenderBuffer                0.76  pkg:cpan/Tickit@0.76
 Tickit::SingleChildWidget           0.59  pkg:cpan/Tickit-Widgets@0.42
-Tickit::StringPos                   0.75  pkg:cpan/Tickit@0.75
+Tickit::StringPos                   0.76  pkg:cpan/Tickit@0.76
 Tickit::Style                       0.60  pkg:cpan/Tickit-Widgets@0.42
 Tickit::Style::Parser               0.56  pkg:cpan/Tickit-Widgets@0.42
-Tickit::Term                        0.75  pkg:cpan/Tickit@0.75
-Tickit::Test                        0.75  pkg:cpan/Tickit@0.75
-Tickit::Test::MockTerm              0.75  pkg:cpan/Tickit@0.75
-Tickit::Utils                       0.75  pkg:cpan/Tickit@0.75
+Tickit::Term                        0.76  pkg:cpan/Tickit@0.76
+Tickit::Test                        0.76  pkg:cpan/Tickit@0.76
+Tickit::Test::MockTerm              0.76  pkg:cpan/Tickit@0.76
+Tickit::Utils                       0.76  pkg:cpan/Tickit@0.76
 Tickit::Widget                      0.58  pkg:cpan/Tickit-Widgets@0.42
 Tickit::Widget::Border              0.42  pkg:cpan/Tickit-Widgets@0.42
 Tickit::Widget::Box                 0.60  pkg:cpan/Tickit-Widgets@0.42
@@ -233588,7 +233588,7 @@ Tickit::WidgetRole::Alignable       0.52  pkg:cpan/Tickit-Widgets@0.42
 Tickit::WidgetRole::Movable        0.004  pkg:cpan/Tickit-WidgetRole-Movable@0.004
 Tickit::WidgetRole::SingleChildContainer  0.42  pkg:cpan/Tickit-Widgets@0.42
 Tickit::Widgets                     0.42  pkg:cpan/Tickit-Widgets@0.42
-Tickit::Window                      0.75  pkg:cpan/Tickit@0.75
+Tickit::Window                      0.76  pkg:cpan/Tickit@0.76
 TiddlyWeb::EditPage                 0.04  pkg:cpan/TiddlyWeb-Wikrad@0.9
 TiddlyWeb::Resting                   0.1  pkg:cpan/TiddlyWeb-Wikrad@0.9
 TiddlyWeb::Resting::DefaultRester   0.02  pkg:cpan/TiddlyWeb-Wikrad@0.9
@@ -263004,10 +263004,10 @@ exception_data                     undef  pkg:cpan/Search-Xapian@1.2.25.6
 experimental                       0.036  pkg:cpan/experimental@0.036
 experimentals                      0.021  pkg:cpan/experimentals@0.021
 exported::constants                  1.0  pkg:cpan/exported-constants@1.0
-fa_code                            undef  pkg:cpan/Net-FullAuto@1.0000832
-fa_conf                            undef  pkg:cpan/Net-FullAuto@1.0000832
-fa_host                            undef  pkg:cpan/Net-FullAuto@1.0000832
-fa_menu                            undef  pkg:cpan/Net-FullAuto@1.0000832
+fa_code                            undef  pkg:cpan/Net-FullAuto@1.0000833
+fa_conf                            undef  pkg:cpan/Net-FullAuto@1.0000833
+fa_host                            undef  pkg:cpan/Net-FullAuto@1.0000833
+fa_menu                            undef  pkg:cpan/Net-FullAuto@1.0000833
 fail_example                       undef  pkg:cpan/Test-Unit@0.25
 fail_example_testsuite_setup       undef  pkg:cpan/Test-Unit@0.25
 failure                            0.004  pkg:cpan/failures@0.004
