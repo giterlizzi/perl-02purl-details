@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 31 May 2026 07:39:02 GMT
-Line-Count: 264815
+Last-Updated: Sun, 31 May 2026 10:08:43 GMT
+Line-Count: 264816
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -66538,6 +66538,7 @@ Dist::Zilla::Plugin::AutoPrereqs::Perl::Critic 0.006  pkg:cpan/Dist-Zilla-Plugin
 Dist::Zilla::Plugin::AutoPrereqsFast 0.003  pkg:cpan/Dist-Zilla-Plugin-AutoPrereqsFast@0.003
 Dist::Zilla::Plugin::AutoVersion   6.037  pkg:cpan/Dist-Zilla@6.037
 Dist::Zilla::Plugin::AutoVersion::Relative 1.001001  pkg:cpan/Dist-Zilla-Plugin-AutoVersion-Relative@1.001001
+Dist::Zilla::Plugin::AutomationPolicy v0.1.0  pkg:cpan/Dist-Zilla-Plugin-AutomationPolicy@v0.1.0
 Dist::Zilla::Plugin::Babble        0.004  pkg:cpan/Dist-Zilla-Plugin-Babble@0.004
 Dist::Zilla::Plugin::BeJROCKWAY    1.102911  pkg:cpan/Dist-Zilla-PluginBundle-JROCKWAY@1.102911
 Dist::Zilla::Plugin::Beam::Connector 0.001003  pkg:cpan/Dist-Zilla-Plugin-Beam-Connector@0.001003
