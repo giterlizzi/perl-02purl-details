@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 31 May 2026 02:48:51 GMT
-Line-Count: 264814
+Last-Updated: Sun, 31 May 2026 07:39:02 GMT
+Line-Count: 264815
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -12170,13 +12170,13 @@ App::PAUSE::TimeMachine             0.05  pkg:cpan/App-PAUSE-TimeMachine@0.05
 App::PAUSE::cleanup                0.0014  pkg:cpan/App-PAUSE-cleanup@0.0014
 App::PDF::Link                      0.25  pkg:cpan/App-PDF-Link@0.25
 App::PDF::Overlay                  0.002  pkg:cpan/App-PDF-Overlay@0.002
-App::PDFLibrarian                  6.001000  pkg:cpan/App-PDFLibrarian@6.1.0
-App::PDFLibrarian::BibTeX          6.001000  pkg:cpan/App-PDFLibrarian@6.1.0
-App::PDFLibrarian::Library         6.001000  pkg:cpan/App-PDFLibrarian@6.1.0
-App::PDFLibrarian::QueryDialog     6.001000  pkg:cpan/App-PDFLibrarian@6.1.0
-App::PDFLibrarian::QueryDialog::impl 6.001000  pkg:cpan/App-PDFLibrarian@6.1.0
-App::PDFLibrarian::TitleAbbr       6.001000  pkg:cpan/App-PDFLibrarian@6.1.0
-App::PDFLibrarian::Util            6.001000  pkg:cpan/App-PDFLibrarian@6.1.0
+App::PDFLibrarian                  6.002000  pkg:cpan/App-PDFLibrarian@6.2.0
+App::PDFLibrarian::BibTeX          6.002000  pkg:cpan/App-PDFLibrarian@6.2.0
+App::PDFLibrarian::Library         6.002000  pkg:cpan/App-PDFLibrarian@6.2.0
+App::PDFLibrarian::QueryDialog     6.002000  pkg:cpan/App-PDFLibrarian@6.2.0
+App::PDFLibrarian::QueryDialog::impl 6.002000  pkg:cpan/App-PDFLibrarian@6.2.0
+App::PDFLibrarian::TitleAbbr       6.002000  pkg:cpan/App-PDFLibrarian@6.2.0
+App::PDFLibrarian::Util            6.002000  pkg:cpan/App-PDFLibrarian@6.2.0
 App::PDFUtils                      0.017  pkg:cpan/App-PDFUtils@0.017
 App::PDRUtils                      0.122  pkg:cpan/App-PDRUtils@0.122
 App::PDRUtils::Cmd                 0.122  pkg:cpan/App-PDRUtils@0.122
@@ -33323,13 +33323,14 @@ CPAN::Meta::Validator              2.150013  pkg:cpan/CPAN-Meta@2.150013
 CPAN::Meta::X                      0.010  pkg:cpan/CPAN-Meta-X@0.010
 CPAN::Meta::X::Old                 0.010  pkg:cpan/CPAN-Meta-X@0.010
 CPAN::Meta::YAML                   0.020  pkg:cpan/CPAN-Meta-YAML@0.020
-CPAN::MetaCurator                   1.17  pkg:cpan/CPAN-MetaCurator@1.17?ext=tgz
-CPAN::MetaCurator::Config           1.17  pkg:cpan/CPAN-MetaCurator@1.17?ext=tgz
-CPAN::MetaCurator::Create           1.17  pkg:cpan/CPAN-MetaCurator@1.17?ext=tgz
-CPAN::MetaCurator::Database         1.17  pkg:cpan/CPAN-MetaCurator@1.17?ext=tgz
-CPAN::MetaCurator::Export           1.17  pkg:cpan/CPAN-MetaCurator@1.17?ext=tgz
-CPAN::MetaCurator::HTML             1.17  pkg:cpan/CPAN-MetaCurator@1.17?ext=tgz
-CPAN::MetaCurator::Import           1.17  pkg:cpan/CPAN-MetaCurator@1.17?ext=tgz
+CPAN::MetaCurator                   1.21  pkg:cpan/CPAN-MetaCurator@1.21?ext=tgz
+CPAN::MetaCurator::Config           1.21  pkg:cpan/CPAN-MetaCurator@1.21?ext=tgz
+CPAN::MetaCurator::Create           1.21  pkg:cpan/CPAN-MetaCurator@1.21?ext=tgz
+CPAN::MetaCurator::Database         1.21  pkg:cpan/CPAN-MetaCurator@1.21?ext=tgz
+CPAN::MetaCurator::Export           1.21  pkg:cpan/CPAN-MetaCurator@1.21?ext=tgz
+CPAN::MetaCurator::HTML             1.21  pkg:cpan/CPAN-MetaCurator@1.21?ext=tgz
+CPAN::MetaCurator::Import           1.21  pkg:cpan/CPAN-MetaCurator@1.21?ext=tgz
+CPAN::MetaCurator::Search           1.21  pkg:cpan/CPAN-MetaCurator@1.21?ext=tgz
 CPAN::MetaPackager                  1.01  pkg:cpan/CPAN-MetaPackager@1.01?ext=tgz
 CPAN::MetaPackager::Config          1.01  pkg:cpan/CPAN-MetaPackager@1.01?ext=tgz
 CPAN::MetaPackager::Create          1.01  pkg:cpan/CPAN-MetaPackager@1.01?ext=tgz
