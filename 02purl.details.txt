@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 31 May 2026 16:59:46 GMT
+Last-Updated: Sun, 31 May 2026 19:06:07 GMT
 Line-Count: 264816
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -47531,13 +47531,13 @@ Conan::Configure::Xen                  0  pkg:cpan/Conan@0.0.7
 Conan::Deploy                          0  pkg:cpan/Conan@0.0.7
 Conan::Promote                         0  pkg:cpan/Conan@0.0.7
 Conan::Promote::Xen                    0  pkg:cpan/Conan@0.0.7
-Concierge                          v0.8.0  pkg:cpan/Concierge@v0.8.1
+Concierge                          v0.8.2  pkg:cpan/Concierge@v0.8.2
 Concierge::Auth                    v0.4.5  pkg:cpan/Concierge-Auth@v0.4.5
 Concierge::Auth::Generators        v0.4.5  pkg:cpan/Concierge-Auth@v0.4.5
 Concierge::Base                    v0.7.2  pkg:cpan/Concierge@v0.7.2
-Concierge::Desk::Base              v0.8.0  pkg:cpan/Concierge@v0.8.1
-Concierge::Desk::Setup             v0.8.0  pkg:cpan/Concierge@v0.8.1
-Concierge::Desk::User              v0.8.0  pkg:cpan/Concierge@v0.8.1
+Concierge::Desk::Base              v0.8.2  pkg:cpan/Concierge@v0.8.2
+Concierge::Desk::Setup             v0.8.2  pkg:cpan/Concierge@v0.8.2
+Concierge::Desk::User              v0.8.2  pkg:cpan/Concierge@v0.8.2
 Concierge::Sessions                v0.11.1  pkg:cpan/Concierge-Sessions@v0.11.1
 Concierge::Sessions::Base          v0.11.1  pkg:cpan/Concierge-Sessions@v0.11.1
 Concierge::Sessions::File          v0.11.1  pkg:cpan/Concierge-Sessions@v0.11.1
@@ -47545,11 +47545,11 @@ Concierge::Sessions::SQLite        v0.11.1  pkg:cpan/Concierge-Sessions@v0.11.1
 Concierge::Sessions::Session       v0.11.1  pkg:cpan/Concierge-Sessions@v0.11.1
 Concierge::Setup                   v0.7.2  pkg:cpan/Concierge@v0.7.2
 Concierge::User                    v0.7.2  pkg:cpan/Concierge@v0.7.2
-Concierge::Users                   v0.8.2  pkg:cpan/Concierge-Users@v0.8.3
-Concierge::Users::Database         v0.8.2  pkg:cpan/Concierge-Users@v0.8.3
-Concierge::Users::File             v0.8.2  pkg:cpan/Concierge-Users@v0.8.3
-Concierge::Users::Meta             v0.8.2  pkg:cpan/Concierge-Users@v0.8.3
-Concierge::Users::YAML             v0.8.2  pkg:cpan/Concierge-Users@v0.8.3
+Concierge::Users                   v0.8.4  pkg:cpan/Concierge-Users@v0.8.4
+Concierge::Users::Database         v0.8.4  pkg:cpan/Concierge-Users@v0.8.4
+Concierge::Users::File             v0.8.4  pkg:cpan/Concierge-Users@v0.8.4
+Concierge::Users::Meta             v0.8.4  pkg:cpan/Concierge-Users@v0.8.4
+Concierge::Users::YAML             v0.8.4  pkg:cpan/Concierge-Users@v0.8.4
 Conclave::OTK                      undef  pkg:cpan/Conclave-OTK@0.01
 Conclave::OTK::Backend             undef  pkg:cpan/Conclave-OTK@0.01
 Conclave::OTK::Backend::4store     undef  pkg:cpan/Conclave-OTK@0.01
@@ -62998,7 +62998,7 @@ DateTime::Format::DateManip         0.04  pkg:cpan/DateTime-Format-DateManip@0.0
 DateTime::Format::DateParse         0.05  pkg:cpan/DateTime-Format-DateParse@0.05
 DateTime::Format::Diotek           0.000001  pkg:cpan/DateTime-Format-Diotek@0.0.1
 DateTime::Format::Docker           0.010001  pkg:cpan/DateTime-Format-Docker@0.010001
-DateTime::Format::Duration          1.04  pkg:cpan/DateTime-Format-Duration@1.04
+DateTime::Format::Duration          1.05  pkg:cpan/DateTime-Format-Duration@1.05
 DateTime::Format::Duration::ConciseHMS 0.001  pkg:cpan/DateTime-Format-Duration-ConciseHMS@0.001
 DateTime::Format::Duration::DurationString  0.04  pkg:cpan/DateTime-Format-Duration-DurationString@0.04
 DateTime::Format::Duration::ISO8601 0.008  pkg:cpan/DateTime-Format-Duration-ISO8601@0.008
