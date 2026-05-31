@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 30 May 2026 22:52:20 GMT
-Line-Count: 264807
+Last-Updated: Sun, 31 May 2026 02:48:51 GMT
+Line-Count: 264814
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -193716,6 +193716,8 @@ Perinci::Sub::XCompletion::filename 0.106  pkg:cpan/Perinci-Sub-XCompletion@0.10
 Perinci::Sub::XCompletion::filename_curdir 0.106  pkg:cpan/Perinci-Sub-XCompletion@0.106
 Perinci::Sub::XCompletion::firefox_profile_name 0.008  pkg:cpan/Sah-Schemas-Firefox@0.008
 Perinci::Sub::XCompletion::idx_listed_stock_code 0.001  pkg:cpan/Perinci-Sub-XCompletionBundle-Finance-SE-IDX@0.001
+Perinci::Sub::XCompletion::kdeactivity_guid 0.002  pkg:cpan/Sah-SchemaBundle-KDEActivity@0.002
+Perinci::Sub::XCompletion::kdeactivity_name 0.002  pkg:cpan/Sah-SchemaBundle-KDEActivity@0.002
 Perinci::Sub::XCompletion::lcpan_authorid 0.003  pkg:cpan/Perinci-Sub-XCompletionBundle-lcpan@0.003
 Perinci::Sub::XCompletion::lcpan_distname 0.003  pkg:cpan/Perinci-Sub-XCompletionBundle-lcpan@0.003
 Perinci::Sub::XCompletion::lcpan_modname 0.003  pkg:cpan/Perinci-Sub-XCompletionBundle-lcpan@0.003
@@ -211466,6 +211468,8 @@ Sah::Schema::json_or_str           0.007  pkg:cpan/Sah-Schemas-JSON@0.007
 Sah::Schema::json_str              0.007  pkg:cpan/Sah-Schemas-JSON@0.007
 Sah::Schema::json_str::array       0.007  pkg:cpan/Sah-Schemas-JSON@0.007
 Sah::Schema::json_str::hash        0.007  pkg:cpan/Sah-Schemas-JSON@0.007
+Sah::Schema::kdeactivity::guid     0.002  pkg:cpan/Sah-SchemaBundle-KDEActivity@0.002
+Sah::Schema::kdeactivity::name     0.002  pkg:cpan/Sah-SchemaBundle-KDEActivity@0.002
 Sah::Schema::language::code        0.005  pkg:cpan/Sah-Schemas-Language@0.005
 Sah::Schema::language::code::alpha2 0.005  pkg:cpan/Sah-Schemas-Language@0.005
 Sah::Schema::language::code::alpha3 0.005  pkg:cpan/Sah-Schemas-Language@0.005
@@ -211690,6 +211694,7 @@ Sah::SchemaBundle::DNS             0.003  pkg:cpan/Sah-SchemaBundle-DNS@0.003
 Sah::SchemaBundle::Data::Sah       0.004  pkg:cpan/Sah-SchemaBundle-Data-Sah@0.004
 Sah::SchemaBundle::DataSizeSpeed   0.010  pkg:cpan/Sah-SchemaBundle-DataSizeSpeed@0.010
 Sah::SchemaBundle::Identifier      0.002  pkg:cpan/Sah-SchemaBundle-Identifier@0.002
+Sah::SchemaBundle::KDEActivity     0.002  pkg:cpan/Sah-SchemaBundle-KDEActivity@0.002
 Sah::SchemaBundle::Nutrient        0.003  pkg:cpan/Sah-SchemaBundle-Nutrient@0.003
 Sah::SchemaBundle::Path            0.031  pkg:cpan/Sah-SchemaBundle-Path@0.031
 Sah::SchemaBundle::Perl            0.050  pkg:cpan/Sah-SchemaBundle-Perl@0.050
@@ -211906,6 +211911,8 @@ Sah::SchemaR::json_or_str          0.007  pkg:cpan/Sah-Schemas-JSON@0.007
 Sah::SchemaR::json_str             0.007  pkg:cpan/Sah-Schemas-JSON@0.007
 Sah::SchemaR::json_str::array      0.007  pkg:cpan/Sah-Schemas-JSON@0.007
 Sah::SchemaR::json_str::hash       0.007  pkg:cpan/Sah-Schemas-JSON@0.007
+Sah::SchemaR::kdeactivity::guid    0.002  pkg:cpan/Sah-SchemaBundle-KDEActivity@0.002
+Sah::SchemaR::kdeactivity::name    0.002  pkg:cpan/Sah-SchemaBundle-KDEActivity@0.002
 Sah::SchemaR::language::code       0.005  pkg:cpan/Sah-Schemas-Language@0.005
 Sah::SchemaR::language::code::alpha2 0.005  pkg:cpan/Sah-Schemas-Language@0.005
 Sah::SchemaR::language::code::alpha3 0.005  pkg:cpan/Sah-Schemas-Language@0.005
@@ -244694,23 +244701,23 @@ WWW::Correios::SRO::Item            0.10  pkg:cpan/WWW-Correios-SRO@0.10
 WWW::Coursera                       0.12  pkg:cpan/WWW-Coursera@0.12
 WWW::Crab::Client                   0.07  pkg:cpan/WWW-Crab-Client@0.07
 WWW::Crawl                           0.5  pkg:cpan/WWW-Crawl@0.5
-WWW::Crawl4AI                      0.001  pkg:cpan/WWW-Crawl4AI@0.001
-WWW::Crawl4AI::Attempt             0.001  pkg:cpan/WWW-Crawl4AI@0.001
-WWW::Crawl4AI::Client              0.001  pkg:cpan/WWW-Crawl4AI@0.001
-WWW::Crawl4AI::DeepCrawlIterator   0.001  pkg:cpan/WWW-Crawl4AI@0.001
-WWW::Crawl4AI::Detect              0.001  pkg:cpan/WWW-Crawl4AI@0.001
-WWW::Crawl4AI::Error               0.001  pkg:cpan/WWW-Crawl4AI@0.001
-WWW::Crawl4AI::Markdown            0.001  pkg:cpan/WWW-Crawl4AI@0.001
-WWW::Crawl4AI::Request             0.001  pkg:cpan/WWW-Crawl4AI@0.001
-WWW::Crawl4AI::Result              0.001  pkg:cpan/WWW-Crawl4AI@0.001
-WWW::Crawl4AI::Strategy            0.001  pkg:cpan/WWW-Crawl4AI@0.001
-WWW::Crawl4AI::Strategy::Browser   0.001  pkg:cpan/WWW-Crawl4AI@0.001
-WWW::Crawl4AI::Strategy::Callback  0.001  pkg:cpan/WWW-Crawl4AI@0.001
-WWW::Crawl4AI::Strategy::CloakBrowser 0.001  pkg:cpan/WWW-Crawl4AI@0.001
-WWW::Crawl4AI::Strategy::Plain     0.001  pkg:cpan/WWW-Crawl4AI@0.001
-WWW::Crawl4AI::Strategy::Proxy     0.001  pkg:cpan/WWW-Crawl4AI@0.001
-WWW::Crawl4AI::Strategy::Stealth   0.001  pkg:cpan/WWW-Crawl4AI@0.001
-WWW::Crawl4AI::StrategyChain       0.001  pkg:cpan/WWW-Crawl4AI@0.001
+WWW::Crawl4AI                      0.002  pkg:cpan/WWW-Crawl4AI@0.002
+WWW::Crawl4AI::Attempt             0.002  pkg:cpan/WWW-Crawl4AI@0.002
+WWW::Crawl4AI::Client              0.002  pkg:cpan/WWW-Crawl4AI@0.002
+WWW::Crawl4AI::DeepCrawlIterator   0.002  pkg:cpan/WWW-Crawl4AI@0.002
+WWW::Crawl4AI::Detect              0.002  pkg:cpan/WWW-Crawl4AI@0.002
+WWW::Crawl4AI::Error               0.002  pkg:cpan/WWW-Crawl4AI@0.002
+WWW::Crawl4AI::Markdown            0.002  pkg:cpan/WWW-Crawl4AI@0.002
+WWW::Crawl4AI::Request             0.002  pkg:cpan/WWW-Crawl4AI@0.002
+WWW::Crawl4AI::Result              0.002  pkg:cpan/WWW-Crawl4AI@0.002
+WWW::Crawl4AI::Strategy            0.002  pkg:cpan/WWW-Crawl4AI@0.002
+WWW::Crawl4AI::Strategy::Browser   0.002  pkg:cpan/WWW-Crawl4AI@0.002
+WWW::Crawl4AI::Strategy::Callback  0.002  pkg:cpan/WWW-Crawl4AI@0.002
+WWW::Crawl4AI::Strategy::CloakBrowser 0.002  pkg:cpan/WWW-Crawl4AI@0.002
+WWW::Crawl4AI::Strategy::Plain     0.002  pkg:cpan/WWW-Crawl4AI@0.002
+WWW::Crawl4AI::Strategy::Proxy     0.002  pkg:cpan/WWW-Crawl4AI@0.002
+WWW::Crawl4AI::Strategy::Stealth   0.002  pkg:cpan/WWW-Crawl4AI@0.002
+WWW::Crawl4AI::StrategyChain       0.002  pkg:cpan/WWW-Crawl4AI@0.002
 WWW::Crawl::Auto                     0.5  pkg:cpan/WWW-Crawl@0.5
 WWW::Crawl::Chromium                 0.5  pkg:cpan/WWW-Crawl@0.5
 WWW::Crawler::Lite                 0.005  pkg:cpan/WWW-Crawler-Lite@0.005
