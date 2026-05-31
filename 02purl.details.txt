@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 31 May 2026 10:08:43 GMT
+Last-Updated: Sun, 31 May 2026 13:22:49 GMT
 Line-Count: 264816
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -36142,13 +36142,13 @@ Catalyst::Plugin::MortalForward     0.01  pkg:cpan/Catalyst-Plugin-MortalForward
 Catalyst::Plugin::Navigation       1.002  pkg:cpan/Catalyst-Plugin-Navigation@1.002
 Catalyst::Plugin::OIDC              1.03  pkg:cpan/Catalyst-Plugin-OIDC@1.03
 Catalyst::Plugin::Observe           0.02  pkg:cpan/Catalyst-Plugin-Observe@0.02
-Catalyst::Plugin::OpenIDConnect     0.11  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.11
-Catalyst::Plugin::OpenIDConnect::Context undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.11
-Catalyst::Plugin::OpenIDConnect::Controller::Root undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.11
-Catalyst::Plugin::OpenIDConnect::Role::Store undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.11
-Catalyst::Plugin::OpenIDConnect::Utils::JWT undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.11
-Catalyst::Plugin::OpenIDConnect::Utils::Store undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.11
-Catalyst::Plugin::OpenIDConnect::Utils::Store::Redis undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.11
+Catalyst::Plugin::OpenIDConnect     0.12  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.12
+Catalyst::Plugin::OpenIDConnect::Context undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.12
+Catalyst::Plugin::OpenIDConnect::Controller::Root undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.12
+Catalyst::Plugin::OpenIDConnect::Role::Store undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.12
+Catalyst::Plugin::OpenIDConnect::Utils::JWT undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.12
+Catalyst::Plugin::OpenIDConnect::Utils::Store undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.12
+Catalyst::Plugin::OpenIDConnect::Utils::Store::Redis undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.12
 Catalyst::Plugin::OrderedParams     0.06  pkg:cpan/Catalyst-Plugin-OrderedParams@0.06
 Catalyst::Plugin::PageCache         0.32  pkg:cpan/Catalyst-Plugin-PageCache@0.32
 Catalyst::Plugin::Params::Demoronize  1.14  pkg:cpan/Catalyst-Plugin-Params-Demoronize@1.14
@@ -66538,7 +66538,7 @@ Dist::Zilla::Plugin::AutoPrereqs::Perl::Critic 0.006  pkg:cpan/Dist-Zilla-Plugin
 Dist::Zilla::Plugin::AutoPrereqsFast 0.003  pkg:cpan/Dist-Zilla-Plugin-AutoPrereqsFast@0.003
 Dist::Zilla::Plugin::AutoVersion   6.037  pkg:cpan/Dist-Zilla@6.037
 Dist::Zilla::Plugin::AutoVersion::Relative 1.001001  pkg:cpan/Dist-Zilla-Plugin-AutoVersion-Relative@1.001001
-Dist::Zilla::Plugin::AutomationPolicy v0.1.0  pkg:cpan/Dist-Zilla-Plugin-AutomationPolicy@v0.1.0
+Dist::Zilla::Plugin::AutomationPolicy v0.1.1  pkg:cpan/Dist-Zilla-Plugin-AutomationPolicy@v0.1.1
 Dist::Zilla::Plugin::Babble        0.004  pkg:cpan/Dist-Zilla-Plugin-Babble@0.004
 Dist::Zilla::Plugin::BeJROCKWAY    1.102911  pkg:cpan/Dist-Zilla-PluginBundle-JROCKWAY@1.102911
 Dist::Zilla::Plugin::Beam::Connector 0.001003  pkg:cpan/Dist-Zilla-Plugin-Beam-Connector@0.001003
@@ -67185,7 +67185,7 @@ Dist::Zilla::Plugin::UploadToSFTP  0.003  pkg:cpan/Dist-Zilla-Plugin-UploadToSFT
 Dist::Zilla::Plugin::UploadToStratopan 0.015  pkg:cpan/Dist-Zilla-Plugin-UploadToStratopan@0.015
 Dist::Zilla::Plugin::UseBuildPL      0.3  pkg:cpan/Dist-Zilla-Plugin-UseBuildPL@0.3
 Dist::Zilla::Plugin::UseUnsafeInc  0.002  pkg:cpan/Dist-Zilla-Plugin-UseUnsafeInc@0.002
-Dist::Zilla::Plugin::UsefulReadme  v0.5.2  pkg:cpan/Dist-Zilla-Plugin-UsefulReadme@v0.5.2
+Dist::Zilla::Plugin::UsefulReadme  v0.5.3  pkg:cpan/Dist-Zilla-Plugin-UsefulReadme@v0.5.3
 Dist::Zilla::Plugin::VerifyPhases  0.016  pkg:cpan/Dist-Zilla-Plugin-VerifyPhases@0.016
 Dist::Zilla::Plugin::Version::FromSubversion 1.000019  pkg:cpan/Dist-Zilla-Plugin-Version-FromSubversion@1.000019
 Dist::Zilla::Plugin::Version::Git::Flowish  0.09  pkg:cpan/Dist-Zilla-Plugin-Version-Git-Flowish@0.09
@@ -136862,7 +136862,7 @@ Mo::utils::Currency                 0.01  pkg:cpan/Mo-utils-Currency@0.01
 Mo::utils::Date                     0.04  pkg:cpan/Mo-utils-Date@0.04
 Mo::utils::EAN                      0.01  pkg:cpan/Mo-utils-EAN@0.01
 Mo::utils::Email                    0.02  pkg:cpan/Mo-utils-Email@0.02
-Mo::utils::Hash                     0.02  pkg:cpan/Mo-utils-Hash@0.02
+Mo::utils::Hash                     0.03  pkg:cpan/Mo-utils-Hash@0.03
 Mo::utils::IRI                      0.03  pkg:cpan/Mo-utils-IRI@0.03
 Mo::utils::Language                 0.09  pkg:cpan/Mo-utils-Language@0.09
 Mo::utils::Number                    0.1  pkg:cpan/Mo-utils-Number@0.10
@@ -193770,7 +193770,7 @@ Perinci::Web                        0.01  pkg:cpan/Perinci-Web@0.01
 Perinci::WebScript::JSON           0.002  pkg:cpan/Perinci-WebScript-JSON@0.002
 Periscope                          undef  pkg:cpan/Periscope@0.0.3
 Perl4::CoreLibs                    0.005  pkg:cpan/Perl4-CoreLibs@0.005
-Perl500503Syntax::OrDie             0.02  pkg:cpan/Perl500503Syntax-OrDie@0.02
+Perl500503Syntax::OrDie             0.03  pkg:cpan/Perl500503Syntax-OrDie@0.03
 Perl5::Build::Warnings              0.05  pkg:cpan/Perl5-Build-Warnings@0.05
 Perl5::CoreSmokeDB::Schema          1.12  pkg:cpan/Perl5-CoreSmokeDB-Schema@1.12
 Perl5::CoreSmokeDB::Schema::Result::Config undef  pkg:cpan/Perl5-CoreSmokeDB-Schema@1.12
@@ -198529,7 +198529,7 @@ Pod::Weaver::Section::GenerateSection 4.020  pkg:cpan/Pod-Weaver@4.020
 Pod::Weaver::Section::Generic      4.020  pkg:cpan/Pod-Weaver@4.020
 Pod::Weaver::Section::Homepage::DefaultCPAN  0.05  pkg:cpan/Pod-Weaver-Section-Homepage-DefaultCPAN@0.05
 Pod::Weaver::Section::Installation 1.101421  pkg:cpan/Pod-Weaver-Section-Installation@1.101421
-Pod::Weaver::Section::InstallationInstructions v0.5.2  pkg:cpan/Dist-Zilla-Plugin-UsefulReadme@v0.5.2
+Pod::Weaver::Section::InstallationInstructions v0.5.3  pkg:cpan/Dist-Zilla-Plugin-UsefulReadme@v0.5.3
 Pod::Weaver::Section::Leftovers    4.020  pkg:cpan/Pod-Weaver@4.020
 Pod::Weaver::Section::Legal        4.020  pkg:cpan/Pod-Weaver@4.020
 Pod::Weaver::Section::Legal::Complicated  1.23  pkg:cpan/Pod-Weaver-Section-Legal-Complicated@1.23
@@ -198544,14 +198544,14 @@ Pod::Weaver::Section::RSRCHBOY::GeneratedAttributes 0.077  pkg:cpan/Dist-Zilla-P
 Pod::Weaver::Section::RSRCHBOY::LazyAttributes 0.077  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.077
 Pod::Weaver::Section::RSRCHBOY::RequiredAttributes 0.077  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.077
 Pod::Weaver::Section::RSRCHBOY::RoleParameters 0.077  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.077
-Pod::Weaver::Section::RecentChanges v0.5.2  pkg:cpan/Dist-Zilla-Plugin-UsefulReadme@v0.5.2
+Pod::Weaver::Section::RecentChanges v0.5.3  pkg:cpan/Dist-Zilla-Plugin-UsefulReadme@v0.5.3
 Pod::Weaver::Section::Region       4.020  pkg:cpan/Pod-Weaver@4.020
 Pod::Weaver::Section::ReplaceAuthors  1.00  pkg:cpan/Pod-Weaver-PluginBundle-ReplaceBoilerplate@1.00
 Pod::Weaver::Section::ReplaceLegal  1.00  pkg:cpan/Pod-Weaver-PluginBundle-ReplaceBoilerplate@1.00
 Pod::Weaver::Section::ReplaceName   1.00  pkg:cpan/Pod-Weaver-PluginBundle-ReplaceBoilerplate@1.00
 Pod::Weaver::Section::ReplaceSource::DefaultGitHub  0.01  pkg:cpan/Pod-Weaver-Section-ReplaceSource-DefaultGitHub@0.01
 Pod::Weaver::Section::ReplaceVersion  1.00  pkg:cpan/Pod-Weaver-PluginBundle-ReplaceBoilerplate@1.00
-Pod::Weaver::Section::Requirements v0.5.2  pkg:cpan/Dist-Zilla-Plugin-UsefulReadme@v0.5.2
+Pod::Weaver::Section::Requirements v0.5.3  pkg:cpan/Dist-Zilla-Plugin-UsefulReadme@v0.5.3
 Pod::Weaver::Section::Requires      0.03  pkg:cpan/Pod-Weaver-Section-Requires@0.03
 Pod::Weaver::Section::SQL           0.03  pkg:cpan/Pod-Weaver-Section-SQL@0.03
 Pod::Weaver::Section::SeeAlso      1.003  pkg:cpan/Pod-Weaver-Section-SeeAlso@1.003
