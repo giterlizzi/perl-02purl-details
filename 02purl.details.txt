@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 01 Jun 2026 02:57:10 GMT
-Line-Count: 264816
+Last-Updated: Mon, 01 Jun 2026 09:15:51 GMT
+Line-Count: 264817
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -21841,6 +21841,7 @@ Backblaze::B2::v1::File             0.02  pkg:cpan/Backblaze-B2@0.02
 Backblaze::B2::v1::File::Synchronized  0.02  pkg:cpan/Backblaze-B2@0.02
 Backblaze::B2::v1::Synchronous      0.02  pkg:cpan/Backblaze-B2@0.02
 Backblaze::B2V2Client                1.6  pkg:cpan/Backblaze-B2V2Client@1.6
+Backblaze::B2V4                     0.01  pkg:cpan/Backblaze-B2V4@0.01
 Backbone::Events                   0.000003  pkg:cpan/Backbone-Events@0.0.3
 Backed_Objects                      1.16  pkg:cpan/Backed_Objects@1.16
 Backtick::AutoChomp                 0.02  pkg:cpan/Backtick-AutoChomp@0.02
@@ -45698,7 +45699,7 @@ Class::IntrospectionMethods::ParentInfo 1.003  pkg:cpan/Class-IntrospectionMetho
 Class::IntrospectionMethods::ParentNameTie 1.003  pkg:cpan/Class-IntrospectionMethods@1.003
 Class::Iter                        undef  pkg:cpan/Class-Visitor@0.02
 Class::Iterator                      0.3  pkg:cpan/Class-Iterator@0.3
-Class::JSON_Object                  0.02  pkg:cpan/Class-JSON_Object@0.02
+Class::JSON_Object                  0.04  pkg:cpan/Class-JSON_Object@0.04
 Class::LOP                         0.003  pkg:cpan/Sub-Mage@0.032
 Class::LazyFactory                  0.02  pkg:cpan/Class-LazyFactory@0.02
 Class::LazyLoad                     0.04  pkg:cpan/Class-LazyLoad@0.04
@@ -103439,7 +103440,7 @@ Google::Fusion                      0.10  pkg:cpan/Google-Fusion@0.10
 Google::Fusion::Result              0.03  pkg:cpan/Google-Fusion@0.10
 Google::GPRC                       undef  pkg:cpan/Google-OAuth@0.05
 Google::GeoCoder::Smart            v2.6.8  pkg:cpan/Google-GeoCoder-Smart@v2.6.8
-Google::ISBNNumbers                 1.00  pkg:cpan/Google-ISBNNumbers@1.00
+Google::ISBNNumbers                 1.01  pkg:cpan/Google-ISBNNumbers@1.01
 Google::OAuth                       0.05  pkg:cpan/Google-OAuth@0.05
 Google::OAuth2::Client::Simple     0.004  pkg:cpan/Google-OAuth2-Client-Simple@0.004
 Google::OAuth::CGI                  0.05  pkg:cpan/Google-OAuth@0.05
@@ -112695,9 +112696,9 @@ IPC::Semaphore::stat                2.09  pkg:cpan/IPC-SysV@2.09
 IPC::Serial                        1.007  pkg:cpan/IPC-Serial@1.007
 IPC::Session                        0.05  pkg:cpan/IPC-Session@0.05
 IPC::ShareLite                      0.17  pkg:cpan/IPC-ShareLite@0.17
-IPC::Shareable                      1.16  pkg:cpan/IPC-Shareable@1.16
-IPC::Shareable::SharedMem           1.16  pkg:cpan/IPC-Shareable@1.16
-IPC::Shareable::SharedMem::stat     1.16  pkg:cpan/IPC-Shareable@1.16
+IPC::Shareable                      1.17  pkg:cpan/IPC-Shareable@1.17
+IPC::Shareable::SharedMem           1.17  pkg:cpan/IPC-Shareable@1.17
+IPC::Shareable::SharedMem::stat     1.17  pkg:cpan/IPC-Shareable@1.17
 IPC::SharedCache                     1.3  pkg:cpan/IPC-SharedCache@1.3
 IPC::SharedMem                      2.09  pkg:cpan/IPC-SysV@2.09
 IPC::SharedMem::stat                2.09  pkg:cpan/IPC-SysV@2.09
@@ -123031,9 +123032,9 @@ Linux::Epoll                       0.019  pkg:cpan/Linux-Epoll@0.019
 Linux::Ethtool                      0.11  pkg:cpan/Linux-Ethtool@0.11
 Linux::Ethtool::Settings            0.11  pkg:cpan/Linux-Ethtool@0.11
 Linux::Ethtool::WOL                 0.11  pkg:cpan/Linux-Ethtool@0.11
-Linux::Event                       0.010  pkg:cpan/Linux-Event@0.010
-Linux::Event::Backend              0.009  pkg:cpan/Linux-Event@0.009
-Linux::Event::Backend::Epoll       0.009  pkg:cpan/Linux-Event@0.009
+Linux::Event                       0.011  pkg:cpan/Linux-Event@0.011
+Linux::Event::Backend              0.011  pkg:cpan/Linux-Event@0.011
+Linux::Event::Backend::Epoll       0.011  pkg:cpan/Linux-Event@0.011
 Linux::Event::Clock                0.011  pkg:cpan/Linux-Event-Clock@0.011
 Linux::Event::Connect              0.001  pkg:cpan/Linux-Event-Connect@0.001
 Linux::Event::Error                0.010  pkg:cpan/Linux-Event@0.010
@@ -123042,10 +123043,10 @@ Linux::Event::Fork::Child          0.007  pkg:cpan/Linux-Event-Fork@0.007
 Linux::Event::Fork::Exit           0.007  pkg:cpan/Linux-Event-Fork@0.007
 Linux::Event::Fork::Request        0.007  pkg:cpan/Linux-Event-Fork@0.007
 Linux::Event::Listen               0.016  pkg:cpan/Linux-Event-Listen@0.016
-Linux::Event::Loop                 0.010  pkg:cpan/Linux-Event@0.010
+Linux::Event::Loop                 0.011  pkg:cpan/Linux-Event@0.011
 Linux::Event::Operation            0.010  pkg:cpan/Linux-Event@0.010
-Linux::Event::Pid                  0.010  pkg:cpan/Linux-Event@0.010
-Linux::Event::Pid::Subscription    0.010  pkg:cpan/Linux-Event@0.010
+Linux::Event::Pid                  0.011  pkg:cpan/Linux-Event@0.011
+Linux::Event::Pid::Subscription    0.011  pkg:cpan/Linux-Event@0.011
 Linux::Event::Proactor             0.010  pkg:cpan/Linux-Event@0.010
 Linux::Event::Proactor::Backend    0.010  pkg:cpan/Linux-Event@0.010
 Linux::Event::Proactor::Backend::Fake 0.010  pkg:cpan/Linux-Event@0.010
@@ -123053,17 +123054,17 @@ Linux::Event::Proactor::Backend::Uring 0.010  pkg:cpan/Linux-Event@0.010
 Linux::Event::Reactor              0.010  pkg:cpan/Linux-Event@0.010
 Linux::Event::Reactor::Backend     0.010  pkg:cpan/Linux-Event@0.010
 Linux::Event::Reactor::Backend::Epoll 0.010  pkg:cpan/Linux-Event@0.010
-Linux::Event::Scheduler            0.010  pkg:cpan/Linux-Event@0.010
-Linux::Event::Signal               0.010  pkg:cpan/Linux-Event@0.010
-Linux::Event::Signal::Subscription 0.010  pkg:cpan/Linux-Event@0.010
+Linux::Event::Scheduler            0.011  pkg:cpan/Linux-Event@0.011
+Linux::Event::Signal               0.011  pkg:cpan/Linux-Event@0.011
+Linux::Event::Signal::Subscription 0.011  pkg:cpan/Linux-Event@0.011
 Linux::Event::Stream               0.002  pkg:cpan/Linux-Event-Stream@0.002
 Linux::Event::Stream::Codec        0.002  pkg:cpan/Linux-Event-Stream@0.002
 Linux::Event::Stream::Codec::Line  0.002  pkg:cpan/Linux-Event-Stream@0.002
 Linux::Event::Stream::Codec::Netstring 0.002  pkg:cpan/Linux-Event-Stream@0.002
 Linux::Event::Stream::Codec::U32BE 0.002  pkg:cpan/Linux-Event-Stream@0.002
 Linux::Event::Timer                0.010  pkg:cpan/Linux-Event-Timer@0.010
-Linux::Event::Wakeup               0.010  pkg:cpan/Linux-Event@0.010
-Linux::Event::Watcher              0.010  pkg:cpan/Linux-Event@0.010
+Linux::Event::Wakeup               0.011  pkg:cpan/Linux-Event@0.011
+Linux::Event::Watcher              0.011  pkg:cpan/Linux-Event@0.011
 Linux::Ext2::Attributes             0.20  pkg:cpan/Linux-Ext2-Attributes@0.20
 Linux::Ext2::FileAttributes         0.01  pkg:cpan/Linux-Ext2-FileAttributes@0.01
 Linux::FD                          0.017  pkg:cpan/Linux-FD@0.017
