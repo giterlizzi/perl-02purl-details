@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 01 Jun 2026 15:50:22 GMT
+Last-Updated: Mon, 01 Jun 2026 20:12:11 GMT
 Line-Count: 264819
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -69054,12 +69054,12 @@ EV::ADNS                             3.0  pkg:cpan/EV-ADNS@3.0
 EV::Async                          undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Check                          undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Child                          undef  pkg:cpan/App-SimpleBackuper@0.2.22
-EV::ClickHouse                      0.03  pkg:cpan/EV-ClickHouse@0.03
-EV::ClickHouse::Error               0.03  pkg:cpan/EV-ClickHouse@0.03
-EV::ClickHouse::Iterator            0.03  pkg:cpan/EV-ClickHouse@0.03
-EV::ClickHouse::Pool                0.03  pkg:cpan/EV-ClickHouse@0.03
-EV::ClickHouse::Streamer            0.03  pkg:cpan/EV-ClickHouse@0.03
-EV::ClickHouse::_DurGuard           0.03  pkg:cpan/EV-ClickHouse@0.03
+EV::ClickHouse                      0.04  pkg:cpan/EV-ClickHouse@0.04
+EV::ClickHouse::Error               0.04  pkg:cpan/EV-ClickHouse@0.04
+EV::ClickHouse::Iterator            0.04  pkg:cpan/EV-ClickHouse@0.04
+EV::ClickHouse::Pool                0.04  pkg:cpan/EV-ClickHouse@0.04
+EV::ClickHouse::Streamer            0.04  pkg:cpan/EV-ClickHouse@0.04
+EV::ClickHouse::_DurGuard           0.04  pkg:cpan/EV-ClickHouse@0.04
 EV::Cron                           0.123600  pkg:cpan/EV-Cron@0.123600
 EV::Embed                          undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Etcd                            0.07  pkg:cpan/EV-Etcd@0.07
@@ -69069,18 +69069,18 @@ EV::Glib                            2.01  pkg:cpan/EV-Glib@2.01
 EV::Hiredis                         0.07  pkg:cpan/EV-Hiredis@0.07
 EV::IO                             undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Idle                           undef  pkg:cpan/App-SimpleBackuper@0.2.22
-EV::Kafka                           0.02  pkg:cpan/EV-Kafka@0.02
-EV::Kafka::Client                   0.02  pkg:cpan/EV-Kafka@0.02
-EV::Kafka::Conn                     0.02  pkg:cpan/EV-Kafka@0.02
+EV::Kafka                           0.03  pkg:cpan/EV-Kafka@0.03
+EV::Kafka::Client                   0.03  pkg:cpan/EV-Kafka@0.03
+EV::Kafka::Conn                     0.03  pkg:cpan/EV-Kafka@0.03
 EV::Loop                           undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Loop::Async                     1.01  pkg:cpan/EV-Loop-Async@1.01
 EV::MakeMaker                      undef  pkg:cpan/EV@4.37
 EV::MariaDB                         0.06  pkg:cpan/EV-MariaDB@0.06
-EV::Memcached                       0.02  pkg:cpan/EV-Memcached@0.02
-EV::Nats                            0.02  pkg:cpan/EV-Nats@0.02
-EV::Nats::JetStream                undef  pkg:cpan/EV-Nats@0.02
-EV::Nats::KV                       undef  pkg:cpan/EV-Nats@0.02
-EV::Nats::ObjectStore              undef  pkg:cpan/EV-Nats@0.02
+EV::Memcached                       0.03  pkg:cpan/EV-Memcached@0.03
+EV::Nats                            0.03  pkg:cpan/EV-Nats@0.03
+EV::Nats::JetStream                undef  pkg:cpan/EV-Nats@0.03
+EV::Nats::KV                       undef  pkg:cpan/EV-Nats@0.03
+EV::Nats::ObjectStore              undef  pkg:cpan/EV-Nats@0.03
 EV::Periodic                       undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Pg                              0.06  pkg:cpan/EV-Pg@0.06
 EV::Prepare                        undef  pkg:cpan/App-SimpleBackuper@0.2.22
@@ -200246,17 +200246,17 @@ Protocol::SocketIO::Message        undef  pkg:cpan/Protocol-SocketIO@0.07
 Protocol::SocketIO::Path           undef  pkg:cpan/Protocol-SocketIO@0.07
 Protocol::Star::Linemode             1.0  pkg:cpan/Protocol-Star-Linemode@1.0.0
 Protocol::Star::Linemode::Generated undef  pkg:cpan/Protocol-Star-Linemode@1.0.0
-Protocol::Sys::Virt                12.003000  pkg:cpan/Protocol-Sys-Virt@v12.3.0
+Protocol::Sys::Virt                12.004000  pkg:cpan/Protocol-Sys-Virt@v12.4.0
 Protocol::Sys::Virt::Devel         1.000001  pkg:cpan/Protocol-Sys-Virt-Devel@v1.0.1
-Protocol::Sys::Virt::KeepAlive     12.003000  pkg:cpan/Protocol-Sys-Virt@v12.3.0
-Protocol::Sys::Virt::KeepAlive::XDR 12.003000  pkg:cpan/Protocol-Sys-Virt@v12.3.0
-Protocol::Sys::Virt::Remote        12.003000  pkg:cpan/Protocol-Sys-Virt@v12.3.0
-Protocol::Sys::Virt::Remote::XDR   12.003000  pkg:cpan/Protocol-Sys-Virt@v12.3.0
-Protocol::Sys::Virt::Transport     12.003000  pkg:cpan/Protocol-Sys-Virt@v12.3.0
-Protocol::Sys::Virt::Transport::XDR 12.003000  pkg:cpan/Protocol-Sys-Virt@v12.3.0
-Protocol::Sys::Virt::TypedParams   12.003000  pkg:cpan/Protocol-Sys-Virt@v12.3.0
-Protocol::Sys::Virt::UNIXSocket    12.003000  pkg:cpan/Protocol-Sys-Virt@v12.3.0
-Protocol::Sys::Virt::URI           12.003000  pkg:cpan/Protocol-Sys-Virt@v12.3.0
+Protocol::Sys::Virt::KeepAlive     12.004000  pkg:cpan/Protocol-Sys-Virt@v12.4.0
+Protocol::Sys::Virt::KeepAlive::XDR 12.004000  pkg:cpan/Protocol-Sys-Virt@v12.4.0
+Protocol::Sys::Virt::Remote        12.004000  pkg:cpan/Protocol-Sys-Virt@v12.4.0
+Protocol::Sys::Virt::Remote::XDR   12.004000  pkg:cpan/Protocol-Sys-Virt@v12.4.0
+Protocol::Sys::Virt::Transport     12.004000  pkg:cpan/Protocol-Sys-Virt@v12.4.0
+Protocol::Sys::Virt::Transport::XDR 12.004000  pkg:cpan/Protocol-Sys-Virt@v12.4.0
+Protocol::Sys::Virt::TypedParams   12.004000  pkg:cpan/Protocol-Sys-Virt@v12.4.0
+Protocol::Sys::Virt::UNIXSocket    12.004000  pkg:cpan/Protocol-Sys-Virt@v12.4.0
+Protocol::Sys::Virt::URI           12.004000  pkg:cpan/Protocol-Sys-Virt@v12.4.0
 Protocol::TLS                       0.04  pkg:cpan/Protocol-TLS@0.04
 Protocol::TLS::Alert               undef  pkg:cpan/Protocol-TLS@0.04
 Protocol::TLS::Application         undef  pkg:cpan/Protocol-TLS@0.04
@@ -224248,28 +224248,28 @@ Synth::Config                      0.0063  pkg:cpan/Synth-Config@0.0063
 Syringe                             0.01  pkg:cpan/Syringe
 Sys::AlarmCall                       1.2  pkg:cpan/Sys-AlarmCall@1.2
 Sys::Apm                            0.05  pkg:cpan/Sys-Apm@0.05
-Sys::Async::Virt                   0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
-Sys::Async::Virt::Callback         0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
-Sys::Async::Virt::Connection       0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
-Sys::Async::Virt::Connection::Factory 0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
-Sys::Async::Virt::Connection::Local 0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
-Sys::Async::Virt::Connection::Process 0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
-Sys::Async::Virt::Connection::SSH  0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
-Sys::Async::Virt::Connection::TCP  0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
+Sys::Async::Virt                   0.006004  pkg:cpan/Sys-Async-Virt@v0.6.4
+Sys::Async::Virt::Callback         0.006004  pkg:cpan/Sys-Async-Virt@v0.6.4
+Sys::Async::Virt::Connection       0.006004  pkg:cpan/Sys-Async-Virt@v0.6.4
+Sys::Async::Virt::Connection::Factory 0.006004  pkg:cpan/Sys-Async-Virt@v0.6.4
+Sys::Async::Virt::Connection::Local 0.006004  pkg:cpan/Sys-Async-Virt@v0.6.4
+Sys::Async::Virt::Connection::Process 0.006004  pkg:cpan/Sys-Async-Virt@v0.6.4
+Sys::Async::Virt::Connection::SSH  0.006004  pkg:cpan/Sys-Async-Virt@v0.6.4
+Sys::Async::Virt::Connection::TCP  0.006004  pkg:cpan/Sys-Async-Virt@v0.6.4
 Sys::Async::Virt::Connection::TLS  v0.0.4  pkg:cpan/Sys-Async-Virt-Connection-TLS@0.0.4
-Sys::Async::Virt::Domain           0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
-Sys::Async::Virt::DomainCheckpoint 0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
-Sys::Async::Virt::DomainSnapshot   0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
-Sys::Async::Virt::Interface        0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
-Sys::Async::Virt::Network          0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
-Sys::Async::Virt::NetworkPort      0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
-Sys::Async::Virt::NodeDevice       0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
-Sys::Async::Virt::NwFilter         0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
-Sys::Async::Virt::NwFilterBinding  0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
-Sys::Async::Virt::Secret           0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
-Sys::Async::Virt::StoragePool      0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
-Sys::Async::Virt::StorageVol       0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
-Sys::Async::Virt::Stream           0.006003  pkg:cpan/Sys-Async-Virt@v0.6.3
+Sys::Async::Virt::Domain           0.006004  pkg:cpan/Sys-Async-Virt@v0.6.4
+Sys::Async::Virt::DomainCheckpoint 0.006004  pkg:cpan/Sys-Async-Virt@v0.6.4
+Sys::Async::Virt::DomainSnapshot   0.006004  pkg:cpan/Sys-Async-Virt@v0.6.4
+Sys::Async::Virt::Interface        0.006004  pkg:cpan/Sys-Async-Virt@v0.6.4
+Sys::Async::Virt::Network          0.006004  pkg:cpan/Sys-Async-Virt@v0.6.4
+Sys::Async::Virt::NetworkPort      0.006004  pkg:cpan/Sys-Async-Virt@v0.6.4
+Sys::Async::Virt::NodeDevice       0.006004  pkg:cpan/Sys-Async-Virt@v0.6.4
+Sys::Async::Virt::NwFilter         0.006004  pkg:cpan/Sys-Async-Virt@v0.6.4
+Sys::Async::Virt::NwFilterBinding  0.006004  pkg:cpan/Sys-Async-Virt@v0.6.4
+Sys::Async::Virt::Secret           0.006004  pkg:cpan/Sys-Async-Virt@v0.6.4
+Sys::Async::Virt::StoragePool      0.006004  pkg:cpan/Sys-Async-Virt@v0.6.4
+Sys::Async::Virt::StorageVol       0.006004  pkg:cpan/Sys-Async-Virt@v0.6.4
+Sys::Async::Virt::Stream           0.006004  pkg:cpan/Sys-Async-Virt@v0.6.4
 Sys::Binmode                        0.05  pkg:cpan/Sys-Binmode@0.05
 Sys::Bprsync                        0.25  pkg:cpan/Sys-Bprsync@0.25
 Sys::Bprsync::Cmd                   0.25  pkg:cpan/Sys-Bprsync@0.25
