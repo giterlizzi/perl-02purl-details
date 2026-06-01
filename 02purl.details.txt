@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 01 Jun 2026 20:12:11 GMT
+Last-Updated: Mon, 01 Jun 2026 23:22:10 GMT
 Line-Count: 264819
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -16711,7 +16711,7 @@ App::ygeo                           0.02  pkg:cpan/App-ygeo@0.02
 App::ygeo::yaml                     0.02  pkg:cpan/App-ygeo@0.02
 App::zen                            0.11  pkg:cpan/App-zen@0.11
 App::zerogap                       0.014  pkg:cpan/App-coldigits@0.014
-App::zipdetails                    4.006  pkg:cpan/App-zipdetails@4.006
+App::zipdetails                    4.007  pkg:cpan/App-zipdetails@4.007
 App::zoo                            0.02  pkg:cpan/App-zoo@0.02
 AppBase::Grep                      0.014  pkg:cpan/AppBase-Grep@0.014
 AppBase::Grep::ColorScheme::AspirinC 0.001  pkg:cpan/AppBase-Grep-ColorSchemes-Kuler@0.001
@@ -33444,7 +33444,7 @@ CPAN::Patches                       0.05  pkg:cpan/CPAN-Patches@0.05
 CPAN::Patches::Plugin::Debian       0.03  pkg:cpan/CPAN-Patches-Plugin-Debian@0.03
 CPAN::Patches::Plugin::Debian::SPc  0.03  pkg:cpan/CPAN-Patches-Plugin-Debian@0.03
 CPAN::Patches::SPc                  0.04  pkg:cpan/CPAN-Patches@0.05
-CPAN::Perl::Releases               5.20260420  pkg:cpan/CPAN-Perl-Releases@5.20260420
+CPAN::Perl::Releases               5.20260601  pkg:cpan/CPAN-Perl-Releases@5.20260601
 CPAN::Perl::Releases::MetaCPAN     v1.0.0  pkg:cpan/CPAN-Perl-Releases-MetaCPAN@v1.0.0
 CPAN::Plugin                        0.97  pkg:cpan/CPAN@2.38
 CPAN::Plugin::Specfile              0.02  pkg:cpan/CPAN@2.38
@@ -53048,20 +53048,20 @@ DBIx::QueryLog                      0.42  pkg:cpan/DBIx-QueryLog@0.42
 DBIx::Quick                          0.9  pkg:cpan/DBIx-Quick@0.9
 DBIx::Quick::Converter             undef  pkg:cpan/DBIx-Quick@0.9
 DBIx::Quick::Role                  undef  pkg:cpan/DBIx-Quick@0.9
-DBIx::QuickDB                      0.000043  pkg:cpan/DBIx-QuickDB@0.000043
-DBIx::QuickDB::Driver              0.000043  pkg:cpan/DBIx-QuickDB@0.000043
-DBIx::QuickDB::Driver::DuckDB      0.000043  pkg:cpan/DBIx-QuickDB@0.000043
-DBIx::QuickDB::Driver::MariaDB     0.000043  pkg:cpan/DBIx-QuickDB@0.000043
-DBIx::QuickDB::Driver::MySQL       0.000043  pkg:cpan/DBIx-QuickDB@0.000043
+DBIx::QuickDB                      0.000044  pkg:cpan/DBIx-QuickDB@0.000044
+DBIx::QuickDB::Driver              0.000044  pkg:cpan/DBIx-QuickDB@0.000044
+DBIx::QuickDB::Driver::DuckDB      0.000044  pkg:cpan/DBIx-QuickDB@0.000044
+DBIx::QuickDB::Driver::MariaDB     0.000044  pkg:cpan/DBIx-QuickDB@0.000044
+DBIx::QuickDB::Driver::MySQL       0.000044  pkg:cpan/DBIx-QuickDB@0.000044
 DBIx::QuickDB::Driver::MySQL::Base 0.000035  pkg:cpan/DBIx-QuickDB@0.000035
-DBIx::QuickDB::Driver::MySQLCom    0.000043  pkg:cpan/DBIx-QuickDB@0.000043
-DBIx::QuickDB::Driver::Percona     0.000043  pkg:cpan/DBIx-QuickDB@0.000043
-DBIx::QuickDB::Driver::PostgreSQL  0.000043  pkg:cpan/DBIx-QuickDB@0.000043
-DBIx::QuickDB::Driver::SQLite      0.000043  pkg:cpan/DBIx-QuickDB@0.000043
-DBIx::QuickDB::Pool                0.000043  pkg:cpan/DBIx-QuickDB@0.000043
-DBIx::QuickDB::Util                0.000043  pkg:cpan/DBIx-QuickDB@0.000043
-DBIx::QuickDB::Util::HashBase      0.000043  pkg:cpan/DBIx-QuickDB@0.000043
-DBIx::QuickDB::Watcher             0.000043  pkg:cpan/DBIx-QuickDB@0.000043
+DBIx::QuickDB::Driver::MySQLCom    0.000044  pkg:cpan/DBIx-QuickDB@0.000044
+DBIx::QuickDB::Driver::Percona     0.000044  pkg:cpan/DBIx-QuickDB@0.000044
+DBIx::QuickDB::Driver::PostgreSQL  0.000044  pkg:cpan/DBIx-QuickDB@0.000044
+DBIx::QuickDB::Driver::SQLite      0.000044  pkg:cpan/DBIx-QuickDB@0.000044
+DBIx::QuickDB::Pool                0.000044  pkg:cpan/DBIx-QuickDB@0.000044
+DBIx::QuickDB::Util                0.000044  pkg:cpan/DBIx-QuickDB@0.000044
+DBIx::QuickDB::Util::HashBase      0.000044  pkg:cpan/DBIx-QuickDB@0.000044
+DBIx::QuickDB::Watcher             0.000044  pkg:cpan/DBIx-QuickDB@0.000044
 DBIx::QuickORM                     0.000022  pkg:cpan/DBIx-QuickORM@0.000022
 DBIx::QuickORM::Affinity           0.000022  pkg:cpan/DBIx-QuickORM@0.000022
 DBIx::QuickORM::BuilderState       0.000004  pkg:cpan/DBIx-QuickORM@0.000004
@@ -137239,12 +137239,12 @@ Module::Compile::Opt               undef  pkg:cpan/Module-Compile@0.38
 Module::Compile::Simple             0.24  pkg:cpan/Module-Compile-Simple@0.24
 Module::Compile::TT                undef  pkg:cpan/Module-Compile-TT@0.02
 Module::ConfigureRequires           0.03  pkg:cpan/Module-ConfigureRequires@0.03
-Module::CoreList                   5.20260420  pkg:cpan/Module-CoreList@5.20260420
+Module::CoreList                   5.20260601  pkg:cpan/Module-CoreList@5.20260601
 Module::CoreList::DBSchema          0.08  pkg:cpan/Module-CoreList-DBSchema@0.08
 Module::CoreList::List             0.001  pkg:cpan/Module-CoreList-List@0.001
 Module::CoreList::More              0.08  pkg:cpan/Module-CoreList-More@0.08
 Module::CoreList::TieHashDelta     5.20180120  pkg:cpan/Module-CoreList@5.20180120
-Module::CoreList::Utils            5.20260420  pkg:cpan/Module-CoreList@5.20260420
+Module::CoreList::Utils            5.20260601  pkg:cpan/Module-CoreList@5.20260601
 Module::Crypt                       0.06  pkg:cpan/Module-Crypt@0.06
 Module::CryptSource                 0.02  pkg:cpan/Module-CryptSource@0.02
 Module::Data                       0.013  pkg:cpan/Module-Data@0.013
@@ -228507,7 +228507,7 @@ Test2::Tools::Process::Exit         0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::Proc         0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::System       0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::SystemProc   0.07  pkg:cpan/Test2-Tools-Process@0.07
-Test2::Tools::QuickDB              0.000043  pkg:cpan/DBIx-QuickDB@0.000043
+Test2::Tools::QuickDB              0.000044  pkg:cpan/DBIx-QuickDB@0.000044
 Test2::Tools::Ref                  1.302219  pkg:cpan/Test-Simple@1.302219
 Test2::Tools::Refcount             1.302219  pkg:cpan/Test-Simple@1.302219
 Test2::Tools::Rustfmt               0.05  pkg:cpan/Test2-Tools-Rustfmt@0.05
