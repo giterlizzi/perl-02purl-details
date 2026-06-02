@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 02 Jun 2026 18:00:56 GMT
-Line-Count: 264824
+Last-Updated: Tue, 02 Jun 2026 22:18:21 GMT
+Line-Count: 264840
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -9513,14 +9513,14 @@ App::CreateAcmeCPANModulesImportModules 0.001  pkg:cpan/App-CreateAcmeCPANModule
 App::CreateRandomFile              0.021  pkg:cpan/App-CreateRandomFile@0.021
 App::CreateSelfSignedSSLCert       0.152  pkg:cpan/App-CreateSelfSignedSSLCert@0.152
 App::CreateSparseFile              0.080  pkg:cpan/App-CreateSparseFile@0.080
-App::CriticDB                      0.000005  pkg:cpan/App-CriticDB@0.0.5
-App::CriticDB::Collector           0.000005  pkg:cpan/App-CriticDB@0.0.5
-App::CriticDB::DB                  0.000005  pkg:cpan/App-CriticDB@0.0.5
-App::CriticDB::DB::Index           0.000005  pkg:cpan/App-CriticDB@0.0.5
-App::CriticDB::DB::Index::Id       0.000005  pkg:cpan/App-CriticDB@0.0.5
-App::CriticDB::DB::Index::Set      0.000005  pkg:cpan/App-CriticDB@0.0.5
-App::CriticDB::DB::Stor            0.000005  pkg:cpan/App-CriticDB@0.0.5
-App::CriticDB::Report              0.000005  pkg:cpan/App-CriticDB@0.0.5
+App::CriticDB                      0.000006  pkg:cpan/App-CriticDB@0.0.6
+App::CriticDB::Collector           0.000006  pkg:cpan/App-CriticDB@0.0.6
+App::CriticDB::DB                  0.000006  pkg:cpan/App-CriticDB@0.0.6
+App::CriticDB::DB::Index           0.000006  pkg:cpan/App-CriticDB@0.0.6
+App::CriticDB::DB::Index::Id       0.000006  pkg:cpan/App-CriticDB@0.0.6
+App::CriticDB::DB::Index::Set      0.000006  pkg:cpan/App-CriticDB@0.0.6
+App::CriticDB::DB::Stor            0.000006  pkg:cpan/App-CriticDB@0.0.6
+App::CriticDB::Report              0.000006  pkg:cpan/App-CriticDB@0.0.6
 App::Critique                       0.05  pkg:cpan/App-Critique@0.05
 App::Critique::Command              0.05  pkg:cpan/App-Critique@0.05
 App::Critique::Command::clean       0.05  pkg:cpan/App-Critique@0.05
@@ -17118,12 +17118,12 @@ Archive::SimpleExtractor::Zip       0.03  pkg:cpan/Archive-SimpleExtractor@0.11
 Archive::StringToZip                1.03  pkg:cpan/Archive-StringToZip@1.03
 Archive::TAP::Convert              0.007  pkg:cpan/Archive-TAP-Convert@0.007
 Archive::TAP::Peek                 0.002  pkg:cpan/Archive-TAP-Peek@0.002
-Archive::Tar                        3.10  pkg:cpan/Archive-Tar@3.10
+Archive::Tar                        3.12  pkg:cpan/Archive-Tar@3.12
 Archive::Tar::Builder              2.5006  pkg:cpan/Archive-Tar-Builder@2.5006
 Archive::Tar::Builder::HardlinkCache undef  pkg:cpan/Archive-Tar-Builder@2.5006
 Archive::Tar::Builder::UserCache   undef  pkg:cpan/Archive-Tar-Builder@2.5006
-Archive::Tar::Constant              3.10  pkg:cpan/Archive-Tar@3.10
-Archive::Tar::File                  3.10  pkg:cpan/Archive-Tar@3.10
+Archive::Tar::Constant              3.12  pkg:cpan/Archive-Tar@3.12
+Archive::Tar::File                  3.12  pkg:cpan/Archive-Tar@3.12
 Archive::Tar::LogError              0.04  pkg:cpan/Verby-Action-Untar@0.04
 Archive::Tar::Merge                 0.01  pkg:cpan/Archive-Tar-Merge@0.01
 Archive::Tar::Std                  undef  pkg:cpan/Archive-Tar@0.23?ext=tgz
@@ -50313,7 +50313,7 @@ Cucumber::TagExpressions::LiteralNode v9.1.0  pkg:cpan/Cucumber-TagExpressions@9
 Cucumber::TagExpressions::Node     v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
 Cucumber::TagExpressions::NotNode  v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
 Cucumber::TagExpressions::OrNode   v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.105
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.108
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
@@ -53051,20 +53051,20 @@ DBIx::QueryLog                      0.42  pkg:cpan/DBIx-QueryLog@0.42
 DBIx::Quick                          0.9  pkg:cpan/DBIx-Quick@0.9
 DBIx::Quick::Converter             undef  pkg:cpan/DBIx-Quick@0.9
 DBIx::Quick::Role                  undef  pkg:cpan/DBIx-Quick@0.9
-DBIx::QuickDB                      0.000044  pkg:cpan/DBIx-QuickDB@0.000044
-DBIx::QuickDB::Driver              0.000044  pkg:cpan/DBIx-QuickDB@0.000044
-DBIx::QuickDB::Driver::DuckDB      0.000044  pkg:cpan/DBIx-QuickDB@0.000044
-DBIx::QuickDB::Driver::MariaDB     0.000044  pkg:cpan/DBIx-QuickDB@0.000044
-DBIx::QuickDB::Driver::MySQL       0.000044  pkg:cpan/DBIx-QuickDB@0.000044
+DBIx::QuickDB                      0.000045  pkg:cpan/DBIx-QuickDB@0.000045
+DBIx::QuickDB::Driver              0.000045  pkg:cpan/DBIx-QuickDB@0.000045
+DBIx::QuickDB::Driver::DuckDB      0.000045  pkg:cpan/DBIx-QuickDB@0.000045
+DBIx::QuickDB::Driver::MariaDB     0.000045  pkg:cpan/DBIx-QuickDB@0.000045
+DBIx::QuickDB::Driver::MySQL       0.000045  pkg:cpan/DBIx-QuickDB@0.000045
 DBIx::QuickDB::Driver::MySQL::Base 0.000035  pkg:cpan/DBIx-QuickDB@0.000035
-DBIx::QuickDB::Driver::MySQLCom    0.000044  pkg:cpan/DBIx-QuickDB@0.000044
-DBIx::QuickDB::Driver::Percona     0.000044  pkg:cpan/DBIx-QuickDB@0.000044
-DBIx::QuickDB::Driver::PostgreSQL  0.000044  pkg:cpan/DBIx-QuickDB@0.000044
-DBIx::QuickDB::Driver::SQLite      0.000044  pkg:cpan/DBIx-QuickDB@0.000044
-DBIx::QuickDB::Pool                0.000044  pkg:cpan/DBIx-QuickDB@0.000044
-DBIx::QuickDB::Util                0.000044  pkg:cpan/DBIx-QuickDB@0.000044
-DBIx::QuickDB::Util::HashBase      0.000044  pkg:cpan/DBIx-QuickDB@0.000044
-DBIx::QuickDB::Watcher             0.000044  pkg:cpan/DBIx-QuickDB@0.000044
+DBIx::QuickDB::Driver::MySQLCom    0.000045  pkg:cpan/DBIx-QuickDB@0.000045
+DBIx::QuickDB::Driver::Percona     0.000045  pkg:cpan/DBIx-QuickDB@0.000045
+DBIx::QuickDB::Driver::PostgreSQL  0.000045  pkg:cpan/DBIx-QuickDB@0.000045
+DBIx::QuickDB::Driver::SQLite      0.000045  pkg:cpan/DBIx-QuickDB@0.000045
+DBIx::QuickDB::Pool                0.000045  pkg:cpan/DBIx-QuickDB@0.000045
+DBIx::QuickDB::Util                0.000045  pkg:cpan/DBIx-QuickDB@0.000045
+DBIx::QuickDB::Util::HashBase      0.000045  pkg:cpan/DBIx-QuickDB@0.000045
+DBIx::QuickDB::Watcher             0.000045  pkg:cpan/DBIx-QuickDB@0.000045
 DBIx::QuickORM                     0.000022  pkg:cpan/DBIx-QuickORM@0.000022
 DBIx::QuickORM::Affinity           0.000022  pkg:cpan/DBIx-QuickORM@0.000022
 DBIx::QuickORM::BuilderState       0.000004  pkg:cpan/DBIx-QuickORM@0.000004
@@ -63002,7 +63002,7 @@ DateTime::Format::DateManip         0.04  pkg:cpan/DateTime-Format-DateManip@0.0
 DateTime::Format::DateParse         0.05  pkg:cpan/DateTime-Format-DateParse@0.05
 DateTime::Format::Diotek           0.000001  pkg:cpan/DateTime-Format-Diotek@0.0.1
 DateTime::Format::Docker           0.010001  pkg:cpan/DateTime-Format-Docker@0.010001
-DateTime::Format::Duration          1.05  pkg:cpan/DateTime-Format-Duration@1.05
+DateTime::Format::Duration          1.06  pkg:cpan/DateTime-Format-Duration@1.06
 DateTime::Format::Duration::ConciseHMS 0.001  pkg:cpan/DateTime-Format-Duration-ConciseHMS@0.001
 DateTime::Format::Duration::DurationString  0.04  pkg:cpan/DateTime-Format-Duration-DurationString@0.04
 DateTime::Format::Duration::ISO8601 0.008  pkg:cpan/DateTime-Format-Duration-ISO8601@0.008
@@ -63873,14 +63873,14 @@ DestructAssign                     0.002007  pkg:cpan/DestructAssign@0.002007
 Detect::Module                       1.2  pkg:cpan/Detect-Module@1.2
 Detect::Module::Internal             1.2  pkg:cpan/Detect-Module@1.2
 Dev::Bollocks                       0.06  pkg:cpan/Dev-Bollocks@0.06
-Dev::Util                          2.019035  pkg:cpan/Dev-Util@v2.19.35
-Dev::Util::Backup                  2.019035  pkg:cpan/Dev-Util@v2.19.35
-Dev::Util::Const                   2.019035  pkg:cpan/Dev-Util@v2.19.35
-Dev::Util::File                    2.019035  pkg:cpan/Dev-Util@v2.19.35
-Dev::Util::OS                      2.019035  pkg:cpan/Dev-Util@v2.19.35
-Dev::Util::Query                   2.019035  pkg:cpan/Dev-Util@v2.19.35
-Dev::Util::Sem                     2.019035  pkg:cpan/Dev-Util@v2.19.35
-Dev::Util::Syntax                  2.019035  pkg:cpan/Dev-Util@v2.19.35
+Dev::Util                          2.019042  pkg:cpan/Dev-Util@v2.19.42
+Dev::Util::Backup                  2.019042  pkg:cpan/Dev-Util@v2.19.42
+Dev::Util::Const                   2.019042  pkg:cpan/Dev-Util@v2.19.42
+Dev::Util::File                    2.019042  pkg:cpan/Dev-Util@v2.19.42
+Dev::Util::OS                      2.019042  pkg:cpan/Dev-Util@v2.19.42
+Dev::Util::Query                   2.019042  pkg:cpan/Dev-Util@v2.19.42
+Dev::Util::Sem                     2.019042  pkg:cpan/Dev-Util@v2.19.42
+Dev::Util::Syntax                  2.019042  pkg:cpan/Dev-Util@v2.19.42
 Devel::Agent                       0.007  pkg:cpan/Devel-Agent@0.007
 Devel::Agent::AwareRole            0.001  pkg:cpan/Devel-Agent@0.006
 Devel::Agent::EveryThing           undef  pkg:cpan/Devel-Agent@0.007
@@ -69081,7 +69081,7 @@ EV::Loop                           undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Loop::Async                     1.01  pkg:cpan/EV-Loop-Async@1.01
 EV::MakeMaker                      undef  pkg:cpan/EV@4.37
 EV::MariaDB                         0.06  pkg:cpan/EV-MariaDB@0.06
-EV::Memcached                       0.03  pkg:cpan/EV-Memcached@0.03
+EV::Memcached                       0.04  pkg:cpan/EV-Memcached@0.04
 EV::Nats                            0.03  pkg:cpan/EV-Nats@0.03
 EV::Nats::JetStream                undef  pkg:cpan/EV-Nats@0.03
 EV::Nats::KV                       undef  pkg:cpan/EV-Nats@0.03
@@ -69089,7 +69089,7 @@ EV::Nats::ObjectStore              undef  pkg:cpan/EV-Nats@0.03
 EV::Periodic                       undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Pg                              0.07  pkg:cpan/EV-Pg@0.07
 EV::Prepare                        undef  pkg:cpan/App-SimpleBackuper@0.2.22
-EV::Redis                           0.11  pkg:cpan/EV-Redis@0.11
+EV::Redis                           0.12  pkg:cpan/EV-Redis@0.12
 EV::Signal                         undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Stat                           undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Timer                          undef  pkg:cpan/App-SimpleBackuper@0.2.22
@@ -224328,16 +224328,31 @@ Sys::Ebpf::Loader                  undef  pkg:cpan/Sys-Ebpf@0.03
 Sys::Ebpf::Map                     undef  pkg:cpan/Sys-Ebpf@0.03
 Sys::Ebpf::Reader                  undef  pkg:cpan/Sys-Ebpf@0.03
 Sys::Ebpf::Syscall                 undef  pkg:cpan/Sys-Ebpf@0.03
-Sys::Export                        0.003  pkg:cpan/Sys-Export@0.003
-Sys::Export::CPIO                  0.003  pkg:cpan/Sys-Export@0.003
-Sys::Export::ELF                   0.003  pkg:cpan/Sys-Export@0.003
-Sys::Export::Exporter              0.003  pkg:cpan/Sys-Export@0.003
-Sys::Export::Linux                 0.003  pkg:cpan/Sys-Export@0.003
-Sys::Export::Unix                  0.003  pkg:cpan/Sys-Export@0.003
-Sys::Export::Unix::UserDB          0.003  pkg:cpan/Sys-Export@0.003
-Sys::Export::Unix::UserDB::Group   0.003  pkg:cpan/Sys-Export@0.003
-Sys::Export::Unix::UserDB::User    0.003  pkg:cpan/Sys-Export@0.003
-Sys::Export::Unix::WriteFS         0.003  pkg:cpan/Sys-Export@0.003
+Sys::Export                        0.004  pkg:cpan/Sys-Export@0.004
+Sys::Export::CPIO                  0.004  pkg:cpan/Sys-Export@0.004
+Sys::Export::ELF                   0.004  pkg:cpan/Sys-Export@0.004
+Sys::Export::Exporter              0.004  pkg:cpan/Sys-Export@0.004
+Sys::Export::Extent                0.004  pkg:cpan/Sys-Export@0.004
+Sys::Export::GPT                   0.004  pkg:cpan/Sys-Export@0.004
+Sys::Export::GPT::Partition        0.004  pkg:cpan/Sys-Export@0.004
+Sys::Export::ISO9660               0.004  pkg:cpan/Sys-Export@0.004
+Sys::Export::ISO9660::Directory    0.004  pkg:cpan/Sys-Export@0.004
+Sys::Export::ISO9660::File         0.004  pkg:cpan/Sys-Export@0.004
+Sys::Export::ISO9660Hybrid         0.004  pkg:cpan/Sys-Export@0.004
+Sys::Export::LazyFileData          0.004  pkg:cpan/Sys-Export@0.004
+Sys::Export::Linux                 0.004  pkg:cpan/Sys-Export@0.004
+Sys::Export::LogAny                0.004  pkg:cpan/Sys-Export@0.004
+Sys::Export::LogAny::_Logger       0.004  pkg:cpan/Sys-Export@0.004
+Sys::Export::Unix                  0.004  pkg:cpan/Sys-Export@0.004
+Sys::Export::Unix::UserDB          0.004  pkg:cpan/Sys-Export@0.004
+Sys::Export::Unix::UserDB::Group   0.004  pkg:cpan/Sys-Export@0.004
+Sys::Export::Unix::UserDB::User    0.004  pkg:cpan/Sys-Export@0.004
+Sys::Export::Unix::WriteFS         0.004  pkg:cpan/Sys-Export@0.004
+Sys::Export::VFAT                  0.004  pkg:cpan/Sys-Export@0.004
+Sys::Export::VFAT::AllocationTable 0.004  pkg:cpan/Sys-Export@0.004
+Sys::Export::VFAT::Directory       0.004  pkg:cpan/Sys-Export@0.004
+Sys::Export::VFAT::File            0.004  pkg:cpan/Sys-Export@0.004
+Sys::Export::VFAT::Geometry        0.004  pkg:cpan/Sys-Export@0.004
 Sys::FS                             0.11  pkg:cpan/Sys-FS@0.11
 Sys::Facter                         1.01  pkg:cpan/Sys-Facter@1.01
 Sys::Filesystem                    1.408  pkg:cpan/Sys-Filesystem@1.408
@@ -228512,7 +228527,7 @@ Test2::Tools::Process::Exit         0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::Proc         0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::System       0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::SystemProc   0.07  pkg:cpan/Test2-Tools-Process@0.07
-Test2::Tools::QuickDB              0.000044  pkg:cpan/DBIx-QuickDB@0.000044
+Test2::Tools::QuickDB              0.000045  pkg:cpan/DBIx-QuickDB@0.000045
 Test2::Tools::Ref                  1.302219  pkg:cpan/Test-Simple@1.302219
 Test2::Tools::Refcount             1.302219  pkg:cpan/Test-Simple@1.302219
 Test2::Tools::Rustfmt               0.05  pkg:cpan/Test2-Tools-Rustfmt@0.05
@@ -234160,6 +234175,7 @@ Time::Human                         1.03  pkg:cpan/Time-Human@1.03
 Time::Implementation               undef  pkg:cpan/Froody@42.034
 Time::Interval                     1.234  pkg:cpan/Time-Interval@1.234
 Time::JulianDay                    2026.033  pkg:cpan/Time-ParseDate@2026.033
+Time::LeapSecond                    0.89  pkg:cpan/Time-Str@0.89
 Time::Left                         1.000  pkg:cpan/Time-Left@1.000
 Time::Limit                        0.003  pkg:cpan/Time-Limit@0.003
 Time::List                          0.13  pkg:cpan/Time-List@0.13
@@ -234233,15 +234249,15 @@ Time::StasisField                   0.01  pkg:cpan/Time-StasisField@0.01
 Time::Stats                          1.0  pkg:cpan/Time-Stats@1.0?ext=tgz
 Time::StopWatchWithMessage          0.06  pkg:cpan/Time-StopWatchWithMessage@0.06
 Time::Stopwatch                     1.00  pkg:cpan/Time-Stopwatch@1.00
-Time::Str                           0.88  pkg:cpan/Time-Str@0.88
-Time::Str::Calendar                 0.88  pkg:cpan/Time-Str@0.88
-Time::Str::PP                       0.88  pkg:cpan/Time-Str@0.88
+Time::Str                           0.89  pkg:cpan/Time-Str@0.89
+Time::Str::Calendar                 0.89  pkg:cpan/Time-Str@0.89
+Time::Str::PP                       0.89  pkg:cpan/Time-Str@0.89
 Time::Str::PP::Calendar             0.71  pkg:cpan/Time-Str@0.71
 Time::Str::PP::Token                0.71  pkg:cpan/Time-Str@0.71
-Time::Str::Regexp                   0.88  pkg:cpan/Time-Str@0.88
-Time::Str::Time                     0.88  pkg:cpan/Time-Str@0.88
-Time::Str::Token                    0.88  pkg:cpan/Time-Str@0.88
-Time::Str::Util                     0.88  pkg:cpan/Time-Str@0.88
+Time::Str::Regexp                   0.89  pkg:cpan/Time-Str@0.89
+Time::Str::Time                     0.89  pkg:cpan/Time-Str@0.89
+Time::Str::Token                    0.89  pkg:cpan/Time-Str@0.89
+Time::Str::Util                     0.89  pkg:cpan/Time-Str@0.89
 Time::Strptime                      1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::Format              1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::TimeZone           undef  pkg:cpan/Time-Strptime@1.04
@@ -234259,8 +234275,8 @@ Time::TT::OffsetKnot               0.005  pkg:cpan/Time-TT@0.005
 Time::TT::Realisation              0.005  pkg:cpan/Time-TT@0.005
 Time::TZ                              11  pkg:cpan/Tie-TZ@11
 Time::TZOffset                      0.04  pkg:cpan/Time-TZOffset@0.04
-Time::TZif                          0.88  pkg:cpan/Time-Str@0.88
-Time::TZif::POSIX                   0.88  pkg:cpan/Time-Str@0.88
+Time::TZif                          0.89  pkg:cpan/Time-Str@0.89
+Time::TZif::POSIX                   0.89  pkg:cpan/Time-Str@0.89
 Time::TimeTick                      0.06  pkg:cpan/Time-TimeTick@0.06
 Time::Timecode                      0.32  pkg:cpan/Time-Timecode@0.32
 Time::Timezone                     2026.033  pkg:cpan/Time-ParseDate@2026.033
