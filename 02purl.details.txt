@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 02 Jun 2026 22:18:21 GMT
+Last-Updated: Wed, 03 Jun 2026 03:29:32 GMT
 Line-Count: 264840
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -16553,7 +16553,7 @@ App::sourcepan                      0.05  pkg:cpan/App-sourcepan@0.05
 App::spaceless                      0.08  pkg:cpan/App-spaceless@0.08
 App::sponge                        0.003  pkg:cpan/App-sponge@0.003
 App::squidauth                     0.002  pkg:cpan/App-squidauth@0.002
-App::sshca                         0.000006  pkg:cpan/App-sshca@0.0.6
+App::sshca                         0.000007  pkg:cpan/App-sshca@0.0.7
 App::sshwrap::hostcolor            0.009  pkg:cpan/App-sshwrap-hostcolor@0.009
 App::sslmaker                       0.21  pkg:cpan/App-sslmaker@0.21
 App::starbucksloginator            0.0012  pkg:cpan/App-starbucksloginator@0.0012
@@ -50313,7 +50313,7 @@ Cucumber::TagExpressions::LiteralNode v9.1.0  pkg:cpan/Cucumber-TagExpressions@9
 Cucumber::TagExpressions::Node     v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
 Cucumber::TagExpressions::NotNode  v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
 Cucumber::TagExpressions::OrNode   v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.108
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.109
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
@@ -63142,16 +63142,16 @@ DateTime::LazyInit::Constructor_new 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ex
 DateTime::LazyInit::Constructor_now 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ext=tgz
 DateTime::LazyInit::Constructor_today 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ext=tgz
 DateTime::LeapSecond                1.66  pkg:cpan/DateTime@1.66
-DateTime::Lite                     0.007002  pkg:cpan/DateTime-Lite@v0.7.2
-DateTime::Lite::Duration           0.001002  pkg:cpan/DateTime-Lite@v0.7.2
-DateTime::Lite::Exception          0.001000  pkg:cpan/DateTime-Lite@v0.7.2
-DateTime::Lite::Infinite           0.001000  pkg:cpan/DateTime-Lite@v0.7.2
-DateTime::Lite::Infinite::Future   0.001000  pkg:cpan/DateTime-Lite@v0.7.2
-DateTime::Lite::Infinite::Past     0.001000  pkg:cpan/DateTime-Lite@v0.7.2
-DateTime::Lite::PP                 0.001001  pkg:cpan/DateTime-Lite@v0.7.2
-DateTime::Lite::TimeZone           0.005009  pkg:cpan/DateTime-Lite@v0.7.2
-DateTime::Lite::_FakeLocale        0.001000  pkg:cpan/DateTime-Lite@v0.7.2
-DateTime::Lite::_Thawed            0.007002  pkg:cpan/DateTime-Lite@v0.7.2
+DateTime::Lite                     0.007003  pkg:cpan/DateTime-Lite@v0.7.3
+DateTime::Lite::Duration           0.001002  pkg:cpan/DateTime-Lite@v0.7.3
+DateTime::Lite::Exception          0.001000  pkg:cpan/DateTime-Lite@v0.7.3
+DateTime::Lite::Infinite           0.001000  pkg:cpan/DateTime-Lite@v0.7.3
+DateTime::Lite::Infinite::Future   0.001000  pkg:cpan/DateTime-Lite@v0.7.3
+DateTime::Lite::Infinite::Past     0.001000  pkg:cpan/DateTime-Lite@v0.7.3
+DateTime::Lite::PP                 0.001001  pkg:cpan/DateTime-Lite@v0.7.3
+DateTime::Lite::TimeZone           0.005009  pkg:cpan/DateTime-Lite@v0.7.3
+DateTime::Lite::_FakeLocale        0.001000  pkg:cpan/DateTime-Lite@v0.7.3
+DateTime::Lite::_Thawed            0.007003  pkg:cpan/DateTime-Lite@v0.7.3
 DateTime::Locale                    1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Base              1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Catalog           1.45  pkg:cpan/DateTime-Locale@1.45
@@ -69074,18 +69074,18 @@ EV::Glib                            2.01  pkg:cpan/EV-Glib@2.01
 EV::Hiredis                         0.07  pkg:cpan/EV-Hiredis@0.07
 EV::IO                             undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Idle                           undef  pkg:cpan/App-SimpleBackuper@0.2.22
-EV::Kafka                           0.03  pkg:cpan/EV-Kafka@0.03
-EV::Kafka::Client                   0.03  pkg:cpan/EV-Kafka@0.03
-EV::Kafka::Conn                     0.03  pkg:cpan/EV-Kafka@0.03
+EV::Kafka                           0.04  pkg:cpan/EV-Kafka@0.04
+EV::Kafka::Client                   0.04  pkg:cpan/EV-Kafka@0.04
+EV::Kafka::Conn                     0.04  pkg:cpan/EV-Kafka@0.04
 EV::Loop                           undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Loop::Async                     1.01  pkg:cpan/EV-Loop-Async@1.01
 EV::MakeMaker                      undef  pkg:cpan/EV@4.37
-EV::MariaDB                         0.06  pkg:cpan/EV-MariaDB@0.06
+EV::MariaDB                         0.07  pkg:cpan/EV-MariaDB@0.07
 EV::Memcached                       0.04  pkg:cpan/EV-Memcached@0.04
-EV::Nats                            0.03  pkg:cpan/EV-Nats@0.03
-EV::Nats::JetStream                undef  pkg:cpan/EV-Nats@0.03
-EV::Nats::KV                       undef  pkg:cpan/EV-Nats@0.03
-EV::Nats::ObjectStore              undef  pkg:cpan/EV-Nats@0.03
+EV::Nats                            0.04  pkg:cpan/EV-Nats@0.04
+EV::Nats::JetStream                undef  pkg:cpan/EV-Nats@0.04
+EV::Nats::KV                       undef  pkg:cpan/EV-Nats@0.04
+EV::Nats::ObjectStore              undef  pkg:cpan/EV-Nats@0.04
 EV::Periodic                       undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Pg                              0.07  pkg:cpan/EV-Pg@0.07
 EV::Prepare                        undef  pkg:cpan/App-SimpleBackuper@0.2.22
@@ -214618,7 +214618,7 @@ Schema::RackTables::0_20_9::Result::VSEnabledIPs undef  pkg:cpan/Schema-RackTabl
 Schema::RackTables::0_20_9::Result::VSEnabledPorts undef  pkg:cpan/Schema-RackTables@1.01
 Schema::RackTables::0_20_9::Result::VSIPs undef  pkg:cpan/Schema-RackTables@1.01
 Schema::RackTables::0_20_9::Result::VSPorts undef  pkg:cpan/Schema-RackTables@1.01
-Schema::Validator                   0.02  pkg:cpan/Schema-Validator@0.02
+Schema::Validator                   0.03  pkg:cpan/Schema-Validator@0.03
 SchemaEvolution                     0.03  pkg:cpan/SchemaEvolution@0.03
 SchemaEvolution::Types              0.03  pkg:cpan/SchemaEvolution@0.03
 SchemaTest                         undef  pkg:cpan/Parley@1.2.1
