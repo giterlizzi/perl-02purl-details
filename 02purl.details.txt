@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 03 Jun 2026 14:22:42 GMT
+Last-Updated: Wed, 03 Jun 2026 19:43:08 GMT
 Line-Count: 264847
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -33449,7 +33449,7 @@ CPAN::Patches::Plugin::Debian       0.03  pkg:cpan/CPAN-Patches-Plugin-Debian@0.
 CPAN::Patches::Plugin::Debian::SPc  0.03  pkg:cpan/CPAN-Patches-Plugin-Debian@0.03
 CPAN::Patches::SPc                  0.04  pkg:cpan/CPAN-Patches@0.05
 CPAN::Perl::Releases               5.20260601  pkg:cpan/CPAN-Perl-Releases@5.20260601
-CPAN::Perl::Releases::MetaCPAN     v1.0.0  pkg:cpan/CPAN-Perl-Releases-MetaCPAN@v1.0.0
+CPAN::Perl::Releases::MetaCPAN     v1.0.1  pkg:cpan/CPAN-Perl-Releases-MetaCPAN@v1.0.1
 CPAN::Plugin                        0.97  pkg:cpan/CPAN@2.38
 CPAN::Plugin::Specfile              0.02  pkg:cpan/CPAN@2.38
 CPAN::Plugin::Sysdeps               0.83  pkg:cpan/CPAN-Plugin-Sysdeps@0.83
@@ -36147,13 +36147,13 @@ Catalyst::Plugin::MortalForward     0.01  pkg:cpan/Catalyst-Plugin-MortalForward
 Catalyst::Plugin::Navigation       1.002  pkg:cpan/Catalyst-Plugin-Navigation@1.002
 Catalyst::Plugin::OIDC              1.03  pkg:cpan/Catalyst-Plugin-OIDC@1.03
 Catalyst::Plugin::Observe           0.02  pkg:cpan/Catalyst-Plugin-Observe@0.02
-Catalyst::Plugin::OpenIDConnect     0.13  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.13
-Catalyst::Plugin::OpenIDConnect::Context undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.13
-Catalyst::Plugin::OpenIDConnect::Controller::Root undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.13
-Catalyst::Plugin::OpenIDConnect::Role::Store undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.13
-Catalyst::Plugin::OpenIDConnect::Utils::JWT undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.13
-Catalyst::Plugin::OpenIDConnect::Utils::Store undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.13
-Catalyst::Plugin::OpenIDConnect::Utils::Store::Redis undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.13
+Catalyst::Plugin::OpenIDConnect     0.14  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.14
+Catalyst::Plugin::OpenIDConnect::Context undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.14
+Catalyst::Plugin::OpenIDConnect::Controller::Root undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.14
+Catalyst::Plugin::OpenIDConnect::Role::Store undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.14
+Catalyst::Plugin::OpenIDConnect::Utils::JWT undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.14
+Catalyst::Plugin::OpenIDConnect::Utils::Store undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.14
+Catalyst::Plugin::OpenIDConnect::Utils::Store::Redis undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.14
 Catalyst::Plugin::OrderedParams     0.06  pkg:cpan/Catalyst-Plugin-OrderedParams@0.06
 Catalyst::Plugin::PageCache         0.32  pkg:cpan/Catalyst-Plugin-PageCache@0.32
 Catalyst::Plugin::Params::Demoronize  1.14  pkg:cpan/Catalyst-Plugin-Params-Demoronize@1.14
@@ -49542,7 +49542,7 @@ Crypt::OpenSSL::SMIME               0.05  pkg:cpan/Crypt-OpenSSL-SMIME@0.05
 Crypt::OpenSSL::SignCSR             0.14  pkg:cpan/Crypt-OpenSSL-SignCSR@0.14
 Crypt::OpenSSL::Verify              0.38  pkg:cpan/Crypt-OpenSSL-Verify@0.38
 Crypt::OpenSSL::VerifyX509          0.21  pkg:cpan/Crypt-OpenSSL-VerifyX509@0.21
-Crypt::OpenSSL::X509               2.000001  pkg:cpan/Crypt-OpenSSL-X509@2.0.1
+Crypt::OpenSSL::X509               2.001001  pkg:cpan/Crypt-OpenSSL-X509@2.1.1
 Crypt::OpenToken                    0.11  pkg:cpan/Crypt-OpenToken@0.11
 Crypt::OpenToken::Cipher           undef  pkg:cpan/Crypt-OpenToken@0.11
 Crypt::OpenToken::Cipher::AES128   undef  pkg:cpan/Crypt-OpenToken@0.11
@@ -50406,7 +50406,7 @@ Curses::Widgets::TextMemo          1.104  pkg:cpan/CursesWidgets@1.997
 Curses::Window                      1.46  pkg:cpan/Curses@1.46
 CursorBase                         undef  pkg:cpan/STD@20101111
 CursorBase::dfa                    undef  pkg:cpan/STD@20101111
-CustomCallbacks                    undef  pkg:cpan/OcToolkit@1.14
+CustomCallbacks                    undef  pkg:cpan/OcToolkit@1.18
 Customer                           0.002  pkg:cpan/Class-Maker@0.06
 Cv                                  0.29  pkg:cpan/Cv@0.29
 Cv::Arr                             0.04  pkg:cpan/Cv@0.04
@@ -138159,7 +138159,7 @@ Mojo::JSON::Pointer                undef  pkg:cpan/Mojolicious@9.45
 Mojo::JSON::XS                     undef  pkg:cpan/Mojo-JSON-Any@0.990105
 Mojo::JSON::XS::_Bool              undef  pkg:cpan/Mojo-JSON-Any@0.990103
 Mojo::JSON_XS                      1.022  pkg:cpan/Mojo-JSON_XS@1.022
-Mojo::JWT                           1.01  pkg:cpan/Mojo-JWT@1.01
+Mojo::JWT                           1.02  pkg:cpan/Mojo-JWT@1.02
 Mojo::JWT::Google                   0.15  pkg:cpan/Mojo-JWT-Google@0.15
 Mojo::Leds                          1.18  pkg:cpan/Mojo-Leds@1.18
 Mojo::Leds::Page                    1.18  pkg:cpan/Mojo-Leds@1.18
@@ -151960,7 +151960,7 @@ Net::StackExchange::Role::Response 0.102740  pkg:cpan/Net-StackExchange@0.102740
 Net::StackExchange::Route          0.102740  pkg:cpan/Net-StackExchange@0.102740
 Net::StackExchange::Types          0.102740  pkg:cpan/Net-StackExchange@0.102740
 Net::Starnet::DataAccounting         1.2  pkg:cpan/Net-Starnet-DataAccounting@1.2
-Net::Statsd                         0.12  pkg:cpan/Net-Statsd@0.12
+Net::Statsd                         0.13  pkg:cpan/Net-Statsd@0.13
 Net::Statsd::Client                 0.34  pkg:cpan/Net-Statsd-Client@0.34
 Net::Statsd::Client::Telegraf        0.2  pkg:cpan/Net-Statsd-Client-Telegraf@0.2
 Net::Statsd::Client::Timer          0.34  pkg:cpan/Net-Statsd-Client@0.34
@@ -155443,14 +155443,14 @@ OSGi::Osgish::Shell                    0  pkg:cpan/osgish@v0.3.1
 OSLV::Monitor                      1.000004  pkg:cpan/OSLV-Monitor@1.0.4
 OSLV::Monitor::Backends::FreeBSD   0.000005  pkg:cpan/OSLV-Monitor@1.0.4
 OSLV::Monitor::Backends::cgroups   1.000003  pkg:cpan/OSLV-Monitor@1.0.4
-OSPF::LSDB                          1.18  pkg:cpan/OSPF-LSDB@1.18
-OSPF::LSDB::Cisco                  undef  pkg:cpan/OSPF-LSDB@1.18
-OSPF::LSDB::View                   undef  pkg:cpan/OSPF-LSDB@1.18
-OSPF::LSDB::View6                  undef  pkg:cpan/OSPF-LSDB@1.18
-OSPF::LSDB::YAML                   undef  pkg:cpan/OSPF-LSDB@1.18
-OSPF::LSDB::gated                  undef  pkg:cpan/OSPF-LSDB@1.18
-OSPF::LSDB::ospf6d                 undef  pkg:cpan/OSPF-LSDB@1.18
-OSPF::LSDB::ospfd                  undef  pkg:cpan/OSPF-LSDB@1.18
+OSPF::LSDB                          1.19  pkg:cpan/OSPF-LSDB@1.19
+OSPF::LSDB::Cisco                  undef  pkg:cpan/OSPF-LSDB@1.19
+OSPF::LSDB::View                   undef  pkg:cpan/OSPF-LSDB@1.19
+OSPF::LSDB::View6                  undef  pkg:cpan/OSPF-LSDB@1.19
+OSPF::LSDB::YAML                   undef  pkg:cpan/OSPF-LSDB@1.19
+OSPF::LSDB::gated                  undef  pkg:cpan/OSPF-LSDB@1.19
+OSPF::LSDB::ospf6d                 undef  pkg:cpan/OSPF-LSDB@1.19
+OSPF::LSDB::ospfd                  undef  pkg:cpan/OSPF-LSDB@1.19
 OSS                                 0.11  pkg:cpan/OSS
 OSS::Bucket                        undef  pkg:cpan/OSS
 OSS::Fileops                       undef  pkg:cpan/OSS-LDAPops@1.033
@@ -155911,7 +155911,7 @@ Objects::Collection::Memcached      0.01  pkg:cpan/Objects-Collection@0.37
 Objects::Collection::Mirror         0.01  pkg:cpan/Objects-Collection@0.37
 Obsessor                            0.02  pkg:cpan/Class-Maker@0.05.18
 Obsessor::Event                     0.02  pkg:cpan/Class-Maker@0.05.18
-OcToolkit                           1.14  pkg:cpan/OcToolkit@1.14
+OcToolkit                           1.18  pkg:cpan/OcToolkit@1.18
 Ocs::Nagios                         0.02  pkg:cpan/Ocs-Nagios@0.0.2.1
 Octets::To::Unicode                 0.06  pkg:cpan/Octets-To-Unicode@0.06
 Od                                  0.14  pkg:cpan/B-Debugger@0.14
@@ -225131,12 +225131,12 @@ TOML::Parser                        0.91  pkg:cpan/TOML-Parser@0.91
 TOML::Parser::Tokenizer            undef  pkg:cpan/TOML-Parser@0.91
 TOML::Parser::Tokenizer::Strict    undef  pkg:cpan/TOML-Parser@0.91
 TOML::Parser::Util                 undef  pkg:cpan/TOML-Parser@0.91
-TOML::Tiny                          0.21  pkg:cpan/TOML-Tiny@0.21
-TOML::Tiny::Grammar                 0.21  pkg:cpan/TOML-Tiny@0.21
-TOML::Tiny::Parser                  0.21  pkg:cpan/TOML-Tiny@0.21
-TOML::Tiny::Tokenizer               0.21  pkg:cpan/TOML-Tiny@0.21
-TOML::Tiny::Util                    0.21  pkg:cpan/TOML-Tiny@0.21
-TOML::Tiny::Writer                  0.21  pkg:cpan/TOML-Tiny@0.21
+TOML::Tiny                          0.22  pkg:cpan/TOML-Tiny@0.22
+TOML::Tiny::Grammar                 0.22  pkg:cpan/TOML-Tiny@0.22
+TOML::Tiny::Parser                  0.22  pkg:cpan/TOML-Tiny@0.22
+TOML::Tiny::Tokenizer               0.22  pkg:cpan/TOML-Tiny@0.22
+TOML::Tiny::Util                    0.22  pkg:cpan/TOML-Tiny@0.22
+TOML::Tiny::Writer                  0.22  pkg:cpan/TOML-Tiny@0.22
 TOML::XS                            0.05  pkg:cpan/TOML-XS@0.05
 TOML::XS::Document                 undef  pkg:cpan/TOML-XS@0.05
 TOML::XS::Timestamp                undef  pkg:cpan/TOML-XS@0.05
@@ -229986,7 +229986,7 @@ Test::Mojo::Role::HTTPstatus         1.0  pkg:cpan/Test-Mojo-Role-HTTPstatus@1.0
 Test::Mojo::Role::Log              0.002003  pkg:cpan/Test-Mojo-Role-Log@0.2.3
 Test::Mojo::Role::Moai             0.013  pkg:cpan/Mojolicious-Plugin-Moai@0.013
 Test::Mojo::Role::Null             undef  pkg:cpan/Test-Mojo-WithRoles@0.02
-Test::Mojo::Role::OpenAPI::Modern  0.011  pkg:cpan/Test-Mojo-Role-OpenAPI-Modern@0.011
+Test::Mojo::Role::OpenAPI::Modern  0.012  pkg:cpan/Test-Mojo-Role-OpenAPI-Modern@0.012
 Test::Mojo::Role::PSGI              0.07  pkg:cpan/Test-Mojo-Role-PSGI@0.07
 Test::Mojo::Role::Phantom          undef  pkg:cpan/Mojo-Phantom@0.12
 Test::Mojo::Role::Routes            0.03  pkg:cpan/Test-Mojo-Role-Routes@0.03
