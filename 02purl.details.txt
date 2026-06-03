@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 03 Jun 2026 08:49:07 GMT
-Line-Count: 264846
+Last-Updated: Wed, 03 Jun 2026 14:22:42 GMT
+Line-Count: 264847
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -4809,6 +4809,7 @@ Alien::Xmake                        0.08  pkg:cpan/Alien-Xmake@0.08
 Alien::Xrepo                        0.08  pkg:cpan/Alien-Xmake@0.08
 Alien::Xrepo::PackageInfo          undef  pkg:cpan/Alien-Xmake@0.08
 Alien::YAMLScript                  0.002008  pkg:cpan/Alien-YAMLScript@0.2.8
+Alien::YARA                        v0.0.1  pkg:cpan/Alien-YARA@v0.0.2
 Alien::Z3                          0.002  pkg:cpan/Alien-Z3@0.002
 Alien::ZMQ                          0.06  pkg:cpan/Alien-ZMQ@0.06
 Alien::ZMQ::latest                 0.010  pkg:cpan/Alien-ZMQ-latest@0.010
@@ -16122,37 +16123,37 @@ App::olson::UtcDateTime                0  pkg:cpan/App-olson@0.000
 App::oo_modulino_zsh_completion_helper  0.07  pkg:cpan/App-oo_modulino_zsh_completion_helper@0.07
 App::opan                          0.003005  pkg:cpan/App-opan@0.003005
 App::optargs                       0.001021  pkg:cpan/OptArgs@0.1.21
-App::optex                         1.0601  pkg:cpan/App-optex@1.0601
-App::optex::Config                 undef  pkg:cpan/App-optex@1.0601
-App::optex::Tmpfile                undef  pkg:cpan/App-optex@1.0601
-App::optex::debug                  undef  pkg:cpan/App-optex@1.0601
+App::optex                          1.07  pkg:cpan/App-optex@1.07
+App::optex::Config                 undef  pkg:cpan/App-optex@1.07
+App::optex::Tmpfile                undef  pkg:cpan/App-optex@1.07
+App::optex::debug                  undef  pkg:cpan/App-optex@1.07
 App::optex::glob                    1.01  pkg:cpan/App-optex-glob@1.01
-App::optex::help                   undef  pkg:cpan/App-optex@1.0601
+App::optex::help                   undef  pkg:cpan/App-optex@1.07
 App::optex::mask                    0.01  pkg:cpan/App-optex-mask@0.01
 App::optex::msdoc                   0.05  pkg:cpan/App-optex-msdoc@0.05
 App::optex::pingu                   1.03  pkg:cpan/App-optex-pingu@1.03
 App::optex::pingu::Picture         undef  pkg:cpan/App-optex-pingu@1.03
 App::optex::rpn                     1.04  pkg:cpan/App-optex-rpn@1.04
 App::optex::scroll                 0.9902  pkg:cpan/App-optex-scroll@0.9902
-App::optex::tc                     undef  pkg:cpan/App-optex-textconv@1.07
-App::optex::textconv                1.07  pkg:cpan/App-optex-textconv@1.07
-App::optex::textconv::Converter    undef  pkg:cpan/App-optex-textconv@1.07
+App::optex::tc                     undef  pkg:cpan/App-optex-textconv@1.08
+App::optex::textconv                1.08  pkg:cpan/App-optex-textconv@1.08
+App::optex::textconv::Converter    undef  pkg:cpan/App-optex-textconv@1.08
 App::optex::textconv::Zip          undef  pkg:cpan/App-optex-textconv@0.09
-App::optex::textconv::default      undef  pkg:cpan/App-optex-textconv@1.07
-App::optex::textconv::doc           1.07  pkg:cpan/App-optex-textconv@1.07
-App::optex::textconv::git           1.07  pkg:cpan/App-optex-textconv@1.07
-App::optex::textconv::msdoc         1.07  pkg:cpan/App-optex-textconv@1.07
-App::optex::textconv::ooxml         1.07  pkg:cpan/App-optex-textconv@1.07
-App::optex::textconv::ooxml::regex  1.07  pkg:cpan/App-optex-textconv@1.07
-App::optex::textconv::ooxml::xslt   1.07  pkg:cpan/App-optex-textconv@1.07
-App::optex::textconv::pandoc        1.07  pkg:cpan/App-optex-textconv@1.07
-App::optex::textconv::pdf           1.07  pkg:cpan/App-optex-textconv@1.07
-App::optex::textconv::tika          1.07  pkg:cpan/App-optex-textconv@1.07
-App::optex::textconv::xls           1.07  pkg:cpan/App-optex-textconv@1.07
+App::optex::textconv::default      undef  pkg:cpan/App-optex-textconv@1.08
+App::optex::textconv::doc           1.08  pkg:cpan/App-optex-textconv@1.08
+App::optex::textconv::git           1.08  pkg:cpan/App-optex-textconv@1.08
+App::optex::textconv::msdoc         1.08  pkg:cpan/App-optex-textconv@1.08
+App::optex::textconv::ooxml         1.08  pkg:cpan/App-optex-textconv@1.08
+App::optex::textconv::ooxml::regex  1.08  pkg:cpan/App-optex-textconv@1.08
+App::optex::textconv::ooxml::xslt   1.08  pkg:cpan/App-optex-textconv@1.08
+App::optex::textconv::pandoc        1.08  pkg:cpan/App-optex-textconv@1.08
+App::optex::textconv::pdf           1.08  pkg:cpan/App-optex-textconv@1.08
+App::optex::textconv::tika          1.08  pkg:cpan/App-optex-textconv@1.08
+App::optex::textconv::xls           1.08  pkg:cpan/App-optex-textconv@1.08
 App::optex::up                      1.07  pkg:cpan/App-nup@1.07
-App::optex::util                   undef  pkg:cpan/App-optex@1.0601
-App::optex::util::argv             undef  pkg:cpan/App-optex@1.0601
-App::optex::util::filter           undef  pkg:cpan/App-optex@1.0601
+App::optex::util                   undef  pkg:cpan/App-optex@1.07
+App::optex::util::argv             undef  pkg:cpan/App-optex@1.07
+App::optex::util::filter           undef  pkg:cpan/App-optex@1.07
 App::optex::xform                   1.05  pkg:cpan/App-optex-xform@1.05
 App::org2wp                        0.013  pkg:cpan/App-org2wp@0.013
 App::orgadb                        0.020  pkg:cpan/App-orgadb@0.020
@@ -19910,7 +19911,7 @@ Astro::Sunrise                      0.99  pkg:cpan/Astro-Sunrise@0.99
 Astro::Telescope                    0.71  pkg:cpan/Astro-Telescope@0.71
 Astro::Time                         1.22  pkg:cpan/Astro@0.78
 Astro::Time::HJD                    0.02  pkg:cpan/Astro-Time-HJD@0.02
-Astro::UTDF                        0.012  pkg:cpan/Astro-UTDF@0.012
+Astro::UTDF                        0.013  pkg:cpan/Astro-UTDF@0.013
 Astro::Units                        1.10  pkg:cpan/Astro-Units@1.10
 Astro::Utils                        0.06  pkg:cpan/Astro-Utils@0.06
 Astro::VEX                         0.001  pkg:cpan/Astro-VEX@0.001
@@ -63156,8 +63157,8 @@ DateTime::Locale                    1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Base              1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Catalog           1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Data              1.45  pkg:cpan/DateTime-Locale@1.45
-DateTime::Locale::FromCLDR         0.008005  pkg:cpan/DateTime-Locale-FromCLDR@v0.8.5
-DateTime::Locale::FromCLDR::Exception 0.008005  pkg:cpan/DateTime-Locale-FromCLDR@v0.8.5
+DateTime::Locale::FromCLDR         0.008006  pkg:cpan/DateTime-Locale-FromCLDR@v0.8.6
+DateTime::Locale::FromCLDR::Exception 0.008006  pkg:cpan/DateTime-Locale-FromCLDR@v0.8.6
 DateTime::Locale::FromData          1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Util              1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Moonpig                   1.03  pkg:cpan/DateTime-Moonpig@1.03
@@ -222333,7 +222334,7 @@ Stats::Fermi::FermiDiracStats      undef  pkg:cpan/Stats-Fermi@0.1.7
 Stats::Hawking                     0.001003  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HTRandom           undef  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HawkingTemperature undef  pkg:cpan/Stats-Hawking@0.1.3
-Stats::LikeR                         0.1  pkg:cpan/Stats-LikeR@0.1
+Stats::LikeR                        0.11  pkg:cpan/Stats-LikeR@0.11
 StatsView::Graph                    1.15  pkg:cpan/StatsView@1.4
 StatsView::Graph::Iost             undef  pkg:cpan/StatsView@1.4
 StatsView::Graph::Iostat           undef  pkg:cpan/StatsView@1.4
