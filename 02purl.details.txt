@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 04 Jun 2026 21:28:07 GMT
-Line-Count: 264858
+Last-Updated: Thu, 04 Jun 2026 23:03:44 GMT
+Line-Count: 264860
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -65165,59 +65165,61 @@ Devel::throttle                     0.01  pkg:cpan/Devel-throttle@0.01
 Devel::tkdb                          2.4  pkg:cpan/Devel-tkdb@2.4
 Devel::tvdb                        undef  pkg:cpan/TVision@0.29
 Devel::vscode                       0.02  pkg:cpan/Devel-vscode@0.02
-Developer::Dashboard                3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::ActionRunner  3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::Auth          3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::CLI::Complete  3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::CLI::Files    3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::CLI::OpenFile  3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::CLI::Paths    3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::CLI::Progress  3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::CLI::Query    3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::CLI::RuntimeControl  3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::CLI::SeededPages  3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::CLI::Skills   3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::CLI::Suggest  3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::CLI::Ticket   3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::CLI::Which    3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::Codec         3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::Collector     3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::CollectorRunner  3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::Config        3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::DataHelper    3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::DockerCompose  3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::Doctor        3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::EnvAudit      3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::EnvLoader     3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::File          3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::FileRegistry  3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::Folder        3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::Housekeeper   3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::IndicatorStore  3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::InternalCLI   3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::JSON          3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::PageDocument  3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::PageResolver  3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::PageRuntime   3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::PageRuntime::StreamHandle  3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::PageStore     3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::PathRegistry  3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::Platform      3.90  pkg:cpan/Developer-Dashboard@3.90
+Developer::Dashboard                4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::ActionRunner  4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::Auth          4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::CLI::API      4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::CLI::Complete  4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::CLI::Files    4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::CLI::OpenFile  4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::CLI::Paths    4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::CLI::Progress  4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::CLI::Query    4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::CLI::RuntimeControl  4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::CLI::SeededPages  4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::CLI::Skills   4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::CLI::Suggest  4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::CLI::Ticket   4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::CLI::Which    4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::Codec         4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::Collector     4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::CollectorRunner  4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::Config        4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::DataHelper    4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::DockerCompose  4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::Doctor        4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::EnvAudit      4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::EnvLoader     4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::File          4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::FileRegistry  4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::Folder        4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::Housekeeper   4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::IndicatorStore  4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::InternalCLI   4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::JSON          4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::PageDocument  4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::PageResolver  4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::PageRuntime   4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::PageRuntime::StreamHandle  4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::PageStore     4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::PathRegistry  4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::PerlEnv       4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::Platform      4.02  pkg:cpan/Developer-Dashboard@4.02
 Developer::Dashboard::PluginManager  0.89  pkg:cpan/Developer-Dashboard@0.89
-Developer::Dashboard::Prompt        3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::Runtime::Result  3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::RuntimeManager  3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::SKILLS        3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::SeedSync      3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::SessionStore  3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::SkillDispatcher  3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::SkillManager  3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::UpdateManager  3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::Web::App      3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::Web::DancerApp  3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::Web::Server   3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::Web::Server::Daemon  3.90  pkg:cpan/Developer-Dashboard@3.90
-Developer::Dashboard::Zipper        3.90  pkg:cpan/Developer-Dashboard@3.90
+Developer::Dashboard::Prompt        4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::Runtime::Result  4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::RuntimeManager  4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::SKILLS        4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::SeedSync      4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::SessionStore  4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::SkillDispatcher  4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::SkillManager  4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::UpdateManager  4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::Web::App      4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::Web::DancerApp  4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::Web::Server   4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::Web::Server::Daemon  4.02  pkg:cpan/Developer-Dashboard@4.02
+Developer::Dashboard::Zipper        4.02  pkg:cpan/Developer-Dashboard@4.02
 Device::AVR::Info                   0.03  pkg:cpan/Device-AVR-Info@0.03
 Device::AVR::Info::Module           0.03  pkg:cpan/Device-AVR-Info@0.03
 Device::AVR::UPDI                   0.19  pkg:cpan/Device-AVR-UPDI@0.19
@@ -115266,8 +115268,8 @@ JSON::XS::VersionOneAndTwo          0.31  pkg:cpan/JSON-XS-VersionOneAndTwo@0.31
 JSON::YAJL                          0.10  pkg:cpan/JSON-YAJL@0.10
 JSON::YAJL::Generator               0.10  pkg:cpan/JSON-YAJL@0.10
 JSON::YAJL::Parser                  0.10  pkg:cpan/JSON-YAJL@0.10
-JSON::YY                            0.05  pkg:cpan/JSON-YY@0.05
-JSON::YY::Doc                       0.05  pkg:cpan/JSON-YY@0.05
+JSON::YY                            0.06  pkg:cpan/JSON-YY@0.06
+JSON::YY::Doc                       0.06  pkg:cpan/JSON-YY@0.06
 JSON::backportPP::Boolean          2.27203  pkg:cpan/JSON@2.61
 JSON::ize                          0.202  pkg:cpan/JSON-ize@0.202
 JSONAPI::Document                    2.4  pkg:cpan/JSONAPI-Document@2.4
@@ -236091,7 +236093,7 @@ Try::Tiny::Warnings                v0.1.0  pkg:cpan/Try-Tiny-Warnings@0.1.0
 TryCatch                           1.003002  pkg:cpan/TryCatch@1.003002
 TryCatch::Error                     0.01  pkg:cpan/TryCatch-Error@0.01
 TryPackage                         undef  pkg:cpan/Dumbbench@0.10
-Tstregex                            1.06  pkg:cpan/Tstregex@1.06
+Tstregex                            1.07  pkg:cpan/Tstregex@1.07
 Tui                                undef  pkg:cpan/Tui@0.4
 Tui::Box                           undef  pkg:cpan/Tui@0.4
 Tui::Button                        undef  pkg:cpan/Tui@0.4
