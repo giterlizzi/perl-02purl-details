@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 04 Jun 2026 02:58:20 GMT
-Line-Count: 264847
+Last-Updated: Thu, 04 Jun 2026 08:13:34 GMT
+Line-Count: 264853
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -73222,6 +73222,12 @@ Faker::Role::Random                 0.12  pkg:cpan/Faker@0.12
 Faker::Role::Utility               undef  pkg:cpan/Faker@0.09
 Faker::Signature                    0.12  pkg:cpan/Faker@0.12
 Faker::Type                         0.12  pkg:cpan/Faker@0.12
+FalkorDB                            0.01  pkg:cpan/FalkorDB@0.01
+FalkorDB::Edge                     undef  pkg:cpan/FalkorDB@0.01
+FalkorDB::Graph                    undef  pkg:cpan/FalkorDB@0.01
+FalkorDB::Node                     undef  pkg:cpan/FalkorDB@0.01
+FalkorDB::Path                     undef  pkg:cpan/FalkorDB@0.01
+FalkorDB::QueryResult              undef  pkg:cpan/FalkorDB@0.01
 Fame::DB                           undef  pkg:cpan/fameperl@2.1.3
 Fame::HLI                          undef  pkg:cpan/fameperl@2.1.3
 Fame::HLI::var_status              undef  pkg:cpan/fameperl@2.1.3
