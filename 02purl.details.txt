@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 04 Jun 2026 19:56:36 GMT
+Last-Updated: Thu, 04 Jun 2026 21:28:07 GMT
 Line-Count: 264858
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -236091,7 +236091,7 @@ Try::Tiny::Warnings                v0.1.0  pkg:cpan/Try-Tiny-Warnings@0.1.0
 TryCatch                           1.003002  pkg:cpan/TryCatch@1.003002
 TryCatch::Error                     0.01  pkg:cpan/TryCatch-Error@0.01
 TryPackage                         undef  pkg:cpan/Dumbbench@0.10
-Tstregex                            1.05  pkg:cpan/Tstregex@1.05
+Tstregex                            1.06  pkg:cpan/Tstregex@1.06
 Tui                                undef  pkg:cpan/Tui@0.4
 Tui::Box                           undef  pkg:cpan/Tui@0.4
 Tui::Button                        undef  pkg:cpan/Tui@0.4
