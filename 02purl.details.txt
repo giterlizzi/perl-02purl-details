@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 04 Jun 2026 23:03:44 GMT
+Last-Updated: Fri, 05 Jun 2026 02:46:37 GMT
 Line-Count: 264860
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -9831,7 +9831,7 @@ App::DumpFirefoxHistory            0.008  pkg:cpan/App-DumpFirefoxHistory@0.008
 App::DumpOperaHistory              0.001  pkg:cpan/App-DumpOperaHistory@0.001
 App::DumpPERLANCARSampleTree       0.003  pkg:cpan/App-DumpPERLANCARSampleTree@0.003
 App::DumpVivaldiHistory            0.002  pkg:cpan/App-DumpVivaldiHistory@0.002
-App::DuplicateFilesUtils           0.005  pkg:cpan/App-DuplicateFilesUtils@0.005
+App::DuplicateFilesUtils           0.006  pkg:cpan/App-DuplicateFilesUtils@0.006
 App::Duppy                         undef  pkg:cpan/App-Duppy@0.05
 App::Dusage                         2.02  pkg:cpan/App-Dusage@2.02
 App::DzilUtils                     0.120  pkg:cpan/App-DzilUtils@0.120
@@ -15747,42 +15747,42 @@ App::jsonsel                       0.008  pkg:cpan/App-jsonsel@0.008
 App::jsonvalidate                  0.002000  pkg:cpan/App-jsonvalidate@v0.2.0
 App::jt                             0.43  pkg:cpan/App-jt@0.43
 App::jupiter                        1.09  pkg:cpan/App-jupiter@1.09
-App::karr                          0.300  pkg:cpan/App-karr@0.300
-App::karr::ActivityLog             0.300  pkg:cpan/App-karr@0.300
-App::karr::BoardStore              0.300  pkg:cpan/App-karr@0.300
-App::karr::Cmd::AgentName          0.300  pkg:cpan/App-karr@0.300
-App::karr::Cmd::Archive            0.300  pkg:cpan/App-karr@0.300
-App::karr::Cmd::Backup             0.300  pkg:cpan/App-karr@0.300
-App::karr::Cmd::Board              0.300  pkg:cpan/App-karr@0.300
-App::karr::Cmd::Config             0.300  pkg:cpan/App-karr@0.300
-App::karr::Cmd::Context            0.300  pkg:cpan/App-karr@0.300
-App::karr::Cmd::Create             0.300  pkg:cpan/App-karr@0.300
-App::karr::Cmd::Delete             0.300  pkg:cpan/App-karr@0.300
-App::karr::Cmd::Destroy            0.300  pkg:cpan/App-karr@0.300
-App::karr::Cmd::Edit               0.300  pkg:cpan/App-karr@0.300
-App::karr::Cmd::GetRefs            0.300  pkg:cpan/App-karr@0.300
-App::karr::Cmd::Handoff            0.300  pkg:cpan/App-karr@0.300
-App::karr::Cmd::Init               0.300  pkg:cpan/App-karr@0.300
-App::karr::Cmd::List               0.300  pkg:cpan/App-karr@0.300
-App::karr::Cmd::Log                0.300  pkg:cpan/App-karr@0.300
-App::karr::Cmd::Move               0.300  pkg:cpan/App-karr@0.300
-App::karr::Cmd::Pick               0.300  pkg:cpan/App-karr@0.300
-App::karr::Cmd::Restore            0.300  pkg:cpan/App-karr@0.300
-App::karr::Cmd::SetRefs            0.300  pkg:cpan/App-karr@0.300
-App::karr::Cmd::Show               0.300  pkg:cpan/App-karr@0.300
-App::karr::Cmd::Skill              0.300  pkg:cpan/App-karr@0.300
-App::karr::Cmd::Sync               0.300  pkg:cpan/App-karr@0.300
-App::karr::Config                  0.300  pkg:cpan/App-karr@0.300
-App::karr::Foundation              0.300  pkg:cpan/App-karr@0.300
-App::karr::Git                     0.300  pkg:cpan/App-karr@0.300
-App::karr::Lock                    0.300  pkg:cpan/App-karr@0.300
-App::karr::Role::BoardAccess       0.300  pkg:cpan/App-karr@0.300
-App::karr::Role::BoardDiscovery    0.300  pkg:cpan/App-karr@0.300
-App::karr::Role::ClaimTimeout      0.300  pkg:cpan/App-karr@0.300
-App::karr::Role::Output            0.300  pkg:cpan/App-karr@0.300
-App::karr::Role::SyncLifecycle     0.300  pkg:cpan/App-karr@0.300
-App::karr::SyncGuard               0.300  pkg:cpan/App-karr@0.300
-App::karr::Task                    0.300  pkg:cpan/App-karr@0.300
+App::karr                          0.301  pkg:cpan/App-karr@0.301
+App::karr::ActivityLog             0.301  pkg:cpan/App-karr@0.301
+App::karr::BoardStore              0.301  pkg:cpan/App-karr@0.301
+App::karr::Cmd::AgentName          0.301  pkg:cpan/App-karr@0.301
+App::karr::Cmd::Archive            0.301  pkg:cpan/App-karr@0.301
+App::karr::Cmd::Backup             0.301  pkg:cpan/App-karr@0.301
+App::karr::Cmd::Board              0.301  pkg:cpan/App-karr@0.301
+App::karr::Cmd::Config             0.301  pkg:cpan/App-karr@0.301
+App::karr::Cmd::Context            0.301  pkg:cpan/App-karr@0.301
+App::karr::Cmd::Create             0.301  pkg:cpan/App-karr@0.301
+App::karr::Cmd::Delete             0.301  pkg:cpan/App-karr@0.301
+App::karr::Cmd::Destroy            0.301  pkg:cpan/App-karr@0.301
+App::karr::Cmd::Edit               0.301  pkg:cpan/App-karr@0.301
+App::karr::Cmd::GetRefs            0.301  pkg:cpan/App-karr@0.301
+App::karr::Cmd::Handoff            0.301  pkg:cpan/App-karr@0.301
+App::karr::Cmd::Init               0.301  pkg:cpan/App-karr@0.301
+App::karr::Cmd::List               0.301  pkg:cpan/App-karr@0.301
+App::karr::Cmd::Log                0.301  pkg:cpan/App-karr@0.301
+App::karr::Cmd::Move               0.301  pkg:cpan/App-karr@0.301
+App::karr::Cmd::Pick               0.301  pkg:cpan/App-karr@0.301
+App::karr::Cmd::Restore            0.301  pkg:cpan/App-karr@0.301
+App::karr::Cmd::SetRefs            0.301  pkg:cpan/App-karr@0.301
+App::karr::Cmd::Show               0.301  pkg:cpan/App-karr@0.301
+App::karr::Cmd::Skill              0.301  pkg:cpan/App-karr@0.301
+App::karr::Cmd::Sync               0.301  pkg:cpan/App-karr@0.301
+App::karr::Config                  0.301  pkg:cpan/App-karr@0.301
+App::karr::Foundation              0.301  pkg:cpan/App-karr@0.301
+App::karr::Git                     0.301  pkg:cpan/App-karr@0.301
+App::karr::Lock                    0.301  pkg:cpan/App-karr@0.301
+App::karr::Role::BoardAccess       0.301  pkg:cpan/App-karr@0.301
+App::karr::Role::BoardDiscovery    0.301  pkg:cpan/App-karr@0.301
+App::karr::Role::ClaimTimeout      0.301  pkg:cpan/App-karr@0.301
+App::karr::Role::Output            0.301  pkg:cpan/App-karr@0.301
+App::karr::Role::SyncLifecycle     0.301  pkg:cpan/App-karr@0.301
+App::karr::SyncGuard               0.301  pkg:cpan/App-karr@0.301
+App::karr::Task                    0.301  pkg:cpan/App-karr@0.301
 App::keycommon                     0.0012  pkg:cpan/App-keycommon@0.0012
 App::lapidary                       1.05  pkg:cpan/App-lapidary@1.05
 App::lasttouch                     0.041  pkg:cpan/App-lasttouch@0.041
@@ -50319,7 +50319,7 @@ Cucumber::TagExpressions::LiteralNode v9.1.0  pkg:cpan/Cucumber-TagExpressions@9
 Cucumber::TagExpressions::Node     v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
 Cucumber::TagExpressions::NotNode  v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
 Cucumber::TagExpressions::OrNode   v9.1.0  pkg:cpan/Cucumber-TagExpressions@9.1.0
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.110
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.111
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
@@ -81430,7 +81430,7 @@ Geo::Coder::GooglePlaces::V3        0.06  pkg:cpan/Geo-Coder-GooglePlaces@0.06
 Geo::Coder::Googlev3                0.17  pkg:cpan/Geo-Coder-Googlev3@0.17
 Geo::Coder::HostIP                  0.07  pkg:cpan/Geo-Coder-HostIP@0.08
 Geo::Coder::Ja                      0.03  pkg:cpan/Geo-Coder-Ja@0.03
-Geo::Coder::List                    0.36  pkg:cpan/Geo-Coder-List@0.36
+Geo::Coder::List                    0.37  pkg:cpan/Geo-Coder-List@0.37
 Geo::Coder::Many                    0.46  pkg:cpan/Geo-Coder-Many@0.46-5
 Geo::Coder::Many::Bing              0.02  pkg:cpan/Geo-Coder-Many@0.46-5
 Geo::Coder::Many::Generic           0.01  pkg:cpan/Geo-Coder-Many@0.46-5
@@ -236093,7 +236093,7 @@ Try::Tiny::Warnings                v0.1.0  pkg:cpan/Try-Tiny-Warnings@0.1.0
 TryCatch                           1.003002  pkg:cpan/TryCatch@1.003002
 TryCatch::Error                     0.01  pkg:cpan/TryCatch-Error@0.01
 TryPackage                         undef  pkg:cpan/Dumbbench@0.10
-Tstregex                            1.07  pkg:cpan/Tstregex@1.07
+Tstregex                            1.08  pkg:cpan/Tstregex@1.08
 Tui                                undef  pkg:cpan/Tui@0.4
 Tui::Box                           undef  pkg:cpan/Tui@0.4
 Tui::Button                        undef  pkg:cpan/Tui@0.4
