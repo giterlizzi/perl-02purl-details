@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 05 Jun 2026 21:19:14 GMT
+Last-Updated: Fri, 05 Jun 2026 23:00:23 GMT
 Line-Count: 264864
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -201653,7 +201653,7 @@ Quizzer::Question                  undef  pkg:cpan/Quizzer@0.08
 Quizzer::Template                  undef  pkg:cpan/Quizzer@0.08
 Quota                              1.008002  pkg:cpan/Quota@1.8.2
 Quota::OO                          0.000001  pkg:cpan/Quota-OO@v0.0.1
-Quote::Code                        1.0104  pkg:cpan/Quote-Code@1.0104
+Quote::Code                        1.0105  pkg:cpan/Quote-Code@1.0105
 Quote::LineProtocol                v0.1.4  pkg:cpan/Quote-LineProtocol@0.1.4
 Quote::Ref                          0.04  pkg:cpan/Quote-Ref@0.04
 Quote::Reference                   v1.0.4  pkg:cpan/Quote-Reference@v1.0.4
@@ -236097,7 +236097,7 @@ Try::Tiny::Warnings                v0.1.0  pkg:cpan/Try-Tiny-Warnings@0.1.0
 TryCatch                           1.003002  pkg:cpan/TryCatch@1.003002
 TryCatch::Error                     0.01  pkg:cpan/TryCatch-Error@0.01
 TryPackage                         undef  pkg:cpan/Dumbbench@0.10
-Tstregex                            1.09  pkg:cpan/Tstregex@1.09
+Tstregex                            1.10  pkg:cpan/Tstregex@1.10
 Tui                                undef  pkg:cpan/Tui@0.4
 Tui::Box                           undef  pkg:cpan/Tui@0.4
 Tui::Button                        undef  pkg:cpan/Tui@0.4
