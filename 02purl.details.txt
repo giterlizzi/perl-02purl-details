@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 06 Jun 2026 09:57:34 GMT
+Last-Updated: Sat, 06 Jun 2026 11:25:50 GMT
 Line-Count: 264864
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -222487,7 +222487,7 @@ Stone                               1.30  pkg:cpan/Boulder@1.30
 Stone::Cursor                      undef  pkg:cpan/Boulder@1.30
 Stone::GB_Sequence                 undef  pkg:cpan/Boulder@1.30
 Stor                               v1.5.2  pkg:cpan/Stor@1.5.2
-Storable                            3.25  pkg:cpan/Storable@3.25
+Storable                            3.41  pkg:cpan/Storable@3.41
 Storable::AMF                       1.23  pkg:cpan/Storable-AMF@1.23
 Storable::AMF0                      1.23  pkg:cpan/Storable-AMF@1.23
 Storable::AMF0::Var                 0.60  pkg:cpan/Storable-AMF@0.60
@@ -228620,12 +228620,12 @@ Test::Able::Runner                 1.002  pkg:cpan/Test-Able-Runner@1.002
 Test::Able::Runner::Role::Meta::Class 1.002  pkg:cpan/Test-Able-Runner@1.002
 Test::Abortable                    0.003  pkg:cpan/Test-Abortable@0.003
 Test::AbstractMethod                0.01  pkg:cpan/Test-AbstractMethod@0.01
-Test::Against::Build                0.14  pkg:cpan/Test-Against-Dev@0.14
+Test::Against::Build                0.15  pkg:cpan/Test-Against-Dev@0.15
 Test::Against::Commit               0.17  pkg:cpan/Test-Against-Commit@0.17
-Test::Against::Dev                  0.14  pkg:cpan/Test-Against-Dev@0.14
-Test::Against::Dev::ProcessPSV      0.14  pkg:cpan/Test-Against-Dev@0.14
-Test::Against::Dev::Salvage         0.14  pkg:cpan/Test-Against-Dev@0.14
-Test::Against::Dev::Sort            0.14  pkg:cpan/Test-Against-Dev@0.14
+Test::Against::Dev                  0.15  pkg:cpan/Test-Against-Dev@0.15
+Test::Against::Dev::ProcessPSV      0.15  pkg:cpan/Test-Against-Dev@0.15
+Test::Against::Dev::Salvage         0.15  pkg:cpan/Test-Against-Dev@0.15
+Test::Against::Dev::Sort            0.15  pkg:cpan/Test-Against-Dev@0.15
 Test::AgainstSchema                0.100  pkg:cpan/Test-AgainstSchema@0.100
 Test::AgainstSchema::XML           0.100  pkg:cpan/Test-AgainstSchema@0.100
 Test::Aggregate                    0.375  pkg:cpan/Test-Aggregate@0.375
