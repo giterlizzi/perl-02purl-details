@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 06 Jun 2026 11:25:50 GMT
+Last-Updated: Sat, 06 Jun 2026 13:16:40 GMT
 Line-Count: 264864
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -139282,12 +139282,12 @@ Mojolicious::Plugin::ORM::DBIx      0.02  pkg:cpan/Mojolicious-Plugin-ORM-DBIx@0
 Mojolicious::Plugin::ORM::DBIx::Command::schema_load  0.02  pkg:cpan/Mojolicious-Plugin-ORM-DBIx@0.02
 Mojolicious::Plugin::Obrazi         0.15  pkg:cpan/Mojolicious-Plugin-Obrazi@0.15
 Mojolicious::Plugin::OnFork        0.006  pkg:cpan/Mojolicious-Plugin-OnFork@0.006
-Mojolicious::Plugin::OpenAPI        5.11  pkg:cpan/Mojolicious-Plugin-OpenAPI@5.11
-Mojolicious::Plugin::OpenAPI::Cors undef  pkg:cpan/Mojolicious-Plugin-OpenAPI@5.11
+Mojolicious::Plugin::OpenAPI        5.12  pkg:cpan/Mojolicious-Plugin-OpenAPI@5.12
+Mojolicious::Plugin::OpenAPI::Cors undef  pkg:cpan/Mojolicious-Plugin-OpenAPI@5.12
 Mojolicious::Plugin::OpenAPI::Modern 0.021  pkg:cpan/Mojolicious-Plugin-OpenAPI-Modern@0.021
-Mojolicious::Plugin::OpenAPI::Parameters undef  pkg:cpan/Mojolicious-Plugin-OpenAPI@5.11
-Mojolicious::Plugin::OpenAPI::Security undef  pkg:cpan/Mojolicious-Plugin-OpenAPI@5.11
-Mojolicious::Plugin::OpenAPI::SpecRenderer undef  pkg:cpan/Mojolicious-Plugin-OpenAPI@5.11
+Mojolicious::Plugin::OpenAPI::Parameters undef  pkg:cpan/Mojolicious-Plugin-OpenAPI@5.12
+Mojolicious::Plugin::OpenAPI::Security undef  pkg:cpan/Mojolicious-Plugin-OpenAPI@5.12
+Mojolicious::Plugin::OpenAPI::SpecRenderer undef  pkg:cpan/Mojolicious-Plugin-OpenAPI@5.12
 Mojolicious::Plugin::OpenTelemetry 0.006  pkg:cpan/Mojolicious-Plugin-OpenTelemetry@0.006
 Mojolicious::Plugin::PDFRenderer    0.09  pkg:cpan/Mojolicious-Plugin-PDFRenderer@0.09
 Mojolicious::Plugin::PNGCast        0.22  pkg:cpan/Mojolicious-Plugin-PNGCast@0.22
