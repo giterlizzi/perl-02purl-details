@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 06 Jun 2026 13:16:40 GMT
+Last-Updated: Sat, 06 Jun 2026 15:07:52 GMT
 Line-Count: 264864
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -21499,10 +21499,10 @@ BACnet::ServiceRequestSequences::SubscribeCOV undef  pkg:cpan/BACnet@0.08
 BACnet::ServiceRequestSequences::Utils undef  pkg:cpan/BACnet@0.08
 BACnet::Socket                     undef  pkg:cpan/BACnet@0.08
 BACnet::Subscription               undef  pkg:cpan/BACnet@0.08
-BATsh                               0.02  pkg:cpan/BATsh@0.02
-BATsh::CMD                          0.02  pkg:cpan/BATsh@0.02
-BATsh::Env                          0.02  pkg:cpan/BATsh@0.02
-BATsh::SH                           0.02  pkg:cpan/BATsh@0.02
+BATsh                               0.03  pkg:cpan/BATsh@0.03
+BATsh::CMD                          0.03  pkg:cpan/BATsh@0.03
+BATsh::Env                          0.03  pkg:cpan/BATsh@0.03
+BATsh::SH                           0.03  pkg:cpan/BATsh@0.03
 BBBB                               undef  pkg:cpan/Data-Table-Text@20210818
 BBCode::Body                        0.34  pkg:cpan/BBCode-Parser@0.34
 BBCode::Parser                      0.34  pkg:cpan/BBCode-Parser@0.34
@@ -108689,8 +108689,8 @@ HTTP::File                           4.0  pkg:cpan/HTTP-File@4.0
 HTTP::GHTTP                         1.07  pkg:cpan/HTTP-GHTTP@1.07
 HTTP::GetImages                    0.343  pkg:cpan/HTTP-GetImages@0.343
 HTTP::Handle                       undef  pkg:cpan/HTTP-Handle@0.2
-HTTP::Handy                         1.06  pkg:cpan/HTTP-Handy@1.06
-HTTP::Handy::Input                  1.06  pkg:cpan/HTTP-Handy@1.06
+HTTP::Handy                         1.07  pkg:cpan/HTTP-Handy@1.07
+HTTP::Handy::Input                  1.07  pkg:cpan/HTTP-Handy@1.07
 HTTP::HeaderParser::XS              0.20  pkg:cpan/HTTP-HeaderParser-XS@0.20
 HTTP::Headers                       7.02  pkg:cpan/HTTP-Message@7.02
 HTTP::Headers::ActionPack           0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
@@ -134878,13 +134878,13 @@ Method::WeakCallback                0.04  pkg:cpan/Method-WeakCallback@0.04
 Methods::CheckNames                 0.06  pkg:cpan/Methods-CheckNames@0.06
 Metrics::Any                        0.10  pkg:cpan/Metrics-Any@0.10
 Metrics::Any::Adapter               0.10  pkg:cpan/Metrics-Any@0.10
-Metrics::Any::Adapter::DogStatsd    0.03  pkg:cpan/Metrics-Any-Adapter-Statsd@0.03
+Metrics::Any::Adapter::DogStatsd    0.04  pkg:cpan/Metrics-Any-Adapter-Statsd@0.04
 Metrics::Any::Adapter::File         0.10  pkg:cpan/Metrics-Any@0.10
 Metrics::Any::Adapter::Null         0.10  pkg:cpan/Metrics-Any@0.10
 Metrics::Any::Adapter::Prometheus   0.07  pkg:cpan/Metrics-Any-Adapter-Prometheus@0.07
 Metrics::Any::Adapter::Routable     0.02  pkg:cpan/Metrics-Any-Adapter-Routable@0.02
-Metrics::Any::Adapter::SignalFx     0.03  pkg:cpan/Metrics-Any-Adapter-Statsd@0.03
-Metrics::Any::Adapter::Statsd       0.03  pkg:cpan/Metrics-Any-Adapter-Statsd@0.03
+Metrics::Any::Adapter::SignalFx     0.04  pkg:cpan/Metrics-Any-Adapter-Statsd@0.04
+Metrics::Any::Adapter::Statsd       0.04  pkg:cpan/Metrics-Any-Adapter-Statsd@0.04
 Metrics::Any::Adapter::Stderr       0.10  pkg:cpan/Metrics-Any@0.10
 Metrics::Any::Adapter::Tee          0.10  pkg:cpan/Metrics-Any@0.10
 Metrics::Any::Adapter::Test         0.10  pkg:cpan/Metrics-Any@0.10
