@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 06 Jun 2026 20:57:00 GMT
+Last-Updated: Sat, 06 Jun 2026 22:57:31 GMT
 Line-Count: 264864
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -81456,7 +81456,7 @@ Geo::Coder::Mapquest                0.06  pkg:cpan/Geo-Coder-Mapquest@0.06
 Geo::Coder::Multimap                0.01  pkg:cpan/Geo-Coder-Multimap@0.01
 Geo::Coder::Navteq                  0.03  pkg:cpan/Geo-Coder-Navteq@0.03
 Geo::Coder::OSM                     0.03  pkg:cpan/Geo-Coder-OSM@0.03
-Geo::Coder::OpenCage                0.42  pkg:cpan/Geo-Coder-OpenCage@0.42
+Geo::Coder::OpenCage                0.43  pkg:cpan/Geo-Coder-OpenCage@0.43
 Geo::Coder::Ovi                     0.03  pkg:cpan/Geo-Coder-Ovi@0.03
 Geo::Coder::Postcodes               0.08  pkg:cpan/Geo-Coder-Postcodes@0.08
 Geo::Coder::RandMcnally             0.01  pkg:cpan/Geo-Coder-RandMcnally@0.01
