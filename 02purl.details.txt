@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 06 Jun 2026 19:09:59 GMT
+Last-Updated: Sat, 06 Jun 2026 20:57:00 GMT
 Line-Count: 264864
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -224346,31 +224346,31 @@ Sys::Ebpf::Loader                  undef  pkg:cpan/Sys-Ebpf@0.03
 Sys::Ebpf::Map                     undef  pkg:cpan/Sys-Ebpf@0.03
 Sys::Ebpf::Reader                  undef  pkg:cpan/Sys-Ebpf@0.03
 Sys::Ebpf::Syscall                 undef  pkg:cpan/Sys-Ebpf@0.03
-Sys::Export                        0.004  pkg:cpan/Sys-Export@0.004
-Sys::Export::CPIO                  0.004  pkg:cpan/Sys-Export@0.004
-Sys::Export::ELF                   0.004  pkg:cpan/Sys-Export@0.004
-Sys::Export::Exporter              0.004  pkg:cpan/Sys-Export@0.004
-Sys::Export::Extent                0.004  pkg:cpan/Sys-Export@0.004
-Sys::Export::GPT                   0.004  pkg:cpan/Sys-Export@0.004
-Sys::Export::GPT::Partition        0.004  pkg:cpan/Sys-Export@0.004
-Sys::Export::ISO9660               0.004  pkg:cpan/Sys-Export@0.004
-Sys::Export::ISO9660::Directory    0.004  pkg:cpan/Sys-Export@0.004
-Sys::Export::ISO9660::File         0.004  pkg:cpan/Sys-Export@0.004
-Sys::Export::ISO9660Hybrid         0.004  pkg:cpan/Sys-Export@0.004
-Sys::Export::LazyFileData          0.004  pkg:cpan/Sys-Export@0.004
-Sys::Export::Linux                 0.004  pkg:cpan/Sys-Export@0.004
-Sys::Export::LogAny                0.004  pkg:cpan/Sys-Export@0.004
-Sys::Export::LogAny::_Logger       0.004  pkg:cpan/Sys-Export@0.004
-Sys::Export::Unix                  0.004  pkg:cpan/Sys-Export@0.004
-Sys::Export::Unix::UserDB          0.004  pkg:cpan/Sys-Export@0.004
-Sys::Export::Unix::UserDB::Group   0.004  pkg:cpan/Sys-Export@0.004
-Sys::Export::Unix::UserDB::User    0.004  pkg:cpan/Sys-Export@0.004
-Sys::Export::Unix::WriteFS         0.004  pkg:cpan/Sys-Export@0.004
-Sys::Export::VFAT                  0.004  pkg:cpan/Sys-Export@0.004
-Sys::Export::VFAT::AllocationTable 0.004  pkg:cpan/Sys-Export@0.004
-Sys::Export::VFAT::Directory       0.004  pkg:cpan/Sys-Export@0.004
-Sys::Export::VFAT::File            0.004  pkg:cpan/Sys-Export@0.004
-Sys::Export::VFAT::Geometry        0.004  pkg:cpan/Sys-Export@0.004
+Sys::Export                        0.005  pkg:cpan/Sys-Export@0.005
+Sys::Export::CPIO                  0.005  pkg:cpan/Sys-Export@0.005
+Sys::Export::ELF                   0.005  pkg:cpan/Sys-Export@0.005
+Sys::Export::Exporter              0.005  pkg:cpan/Sys-Export@0.005
+Sys::Export::Extent                0.005  pkg:cpan/Sys-Export@0.005
+Sys::Export::GPT                   0.005  pkg:cpan/Sys-Export@0.005
+Sys::Export::GPT::Partition        0.005  pkg:cpan/Sys-Export@0.005
+Sys::Export::ISO9660               0.005  pkg:cpan/Sys-Export@0.005
+Sys::Export::ISO9660::Directory    0.005  pkg:cpan/Sys-Export@0.005
+Sys::Export::ISO9660::File         0.005  pkg:cpan/Sys-Export@0.005
+Sys::Export::ISO9660Hybrid         0.005  pkg:cpan/Sys-Export@0.005
+Sys::Export::LazyFileData          0.005  pkg:cpan/Sys-Export@0.005
+Sys::Export::Linux                 0.005  pkg:cpan/Sys-Export@0.005
+Sys::Export::LogAny                0.005  pkg:cpan/Sys-Export@0.005
+Sys::Export::LogAny::_Logger       0.005  pkg:cpan/Sys-Export@0.005
+Sys::Export::Unix                  0.005  pkg:cpan/Sys-Export@0.005
+Sys::Export::Unix::UserDB          0.005  pkg:cpan/Sys-Export@0.005
+Sys::Export::Unix::UserDB::Group   0.005  pkg:cpan/Sys-Export@0.005
+Sys::Export::Unix::UserDB::User    0.005  pkg:cpan/Sys-Export@0.005
+Sys::Export::Unix::WriteFS         0.005  pkg:cpan/Sys-Export@0.005
+Sys::Export::VFAT                  0.005  pkg:cpan/Sys-Export@0.005
+Sys::Export::VFAT::AllocationTable 0.005  pkg:cpan/Sys-Export@0.005
+Sys::Export::VFAT::Directory       0.005  pkg:cpan/Sys-Export@0.005
+Sys::Export::VFAT::File            0.005  pkg:cpan/Sys-Export@0.005
+Sys::Export::VFAT::Geometry        0.005  pkg:cpan/Sys-Export@0.005
 Sys::FS                             0.11  pkg:cpan/Sys-FS@0.11
 Sys::Facter                         1.01  pkg:cpan/Sys-Facter@1.01
 Sys::Filesystem                    1.408  pkg:cpan/Sys-Filesystem@1.408
