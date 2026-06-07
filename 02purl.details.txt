@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 07 Jun 2026 02:52:39 GMT
+Last-Updated: Sun, 07 Jun 2026 07:49:15 GMT
 Line-Count: 264865
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -21500,10 +21500,10 @@ BACnet::ServiceRequestSequences::SubscribeCOV undef  pkg:cpan/BACnet@0.08
 BACnet::ServiceRequestSequences::Utils undef  pkg:cpan/BACnet@0.08
 BACnet::Socket                     undef  pkg:cpan/BACnet@0.08
 BACnet::Subscription               undef  pkg:cpan/BACnet@0.08
-BATsh                               0.03  pkg:cpan/BATsh@0.03
-BATsh::CMD                          0.03  pkg:cpan/BATsh@0.03
-BATsh::Env                          0.03  pkg:cpan/BATsh@0.03
-BATsh::SH                           0.03  pkg:cpan/BATsh@0.03
+BATsh                               0.04  pkg:cpan/BATsh@0.04
+BATsh::CMD                          0.04  pkg:cpan/BATsh@0.04
+BATsh::Env                          0.04  pkg:cpan/BATsh@0.04
+BATsh::SH                           0.04  pkg:cpan/BATsh@0.04
 BBBB                               undef  pkg:cpan/Data-Table-Text@20210818
 BBCode::Body                        0.34  pkg:cpan/BBCode-Parser@0.34
 BBCode::Parser                      0.34  pkg:cpan/BBCode-Parser@0.34
@@ -63113,8 +63113,8 @@ DateTime::Format::Pg               0.16014  pkg:cpan/DateTime-Format-Pg@0.16014
 DateTime::Format::RFC3339          1.010000  pkg:cpan/DateTime-Format-RFC3339@v1.10.0
 DateTime::Format::RFC3501           0.03  pkg:cpan/DateTime-Format-RFC3501@0.03
 DateTime::Format::RSS              0.03000  pkg:cpan/DateTime-Format-RSS@0.03000
-DateTime::Format::RelativeTime     0.002003  pkg:cpan/DateTime-Format-RelativeTime@v0.2.3
-DateTime::Format::RelativeTime::Exception 0.002003  pkg:cpan/DateTime-Format-RelativeTime@v0.2.3
+DateTime::Format::RelativeTime     0.002004  pkg:cpan/DateTime-Format-RelativeTime@v0.2.4
+DateTime::Format::RelativeTime::Exception 0.002004  pkg:cpan/DateTime-Format-RelativeTime@v0.2.4
 DateTime::Format::Roman             0.04  pkg:cpan/DateTime-Format-Roman@0.04
 DateTime::Format::SQLite            0.11  pkg:cpan/DateTime-Format-SQLite@0.11
 DateTime::Format::Simple           undef  pkg:cpan/DateTime-Format-Builder@0.81
