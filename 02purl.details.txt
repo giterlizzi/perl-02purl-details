@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 07 Jun 2026 10:23:31 GMT
-Line-Count: 264865
+Last-Updated: Sun, 07 Jun 2026 13:27:19 GMT
+Line-Count: 264870
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -160971,6 +160971,11 @@ PRANG::XMLSchema::Whatever          0.21  pkg:cpan/PRANG@0.21
 PRIMERVIEW                           3.0  pkg:cpan/PrimerView@1.3.0.1?ext=zip
 PRSG                               undef  pkg:cpan/Math-PRSG@1.0
 PSGI                               1.102  pkg:cpan/PSGI@1.102
+PSGI::Handy                         0.01  pkg:cpan/PSGI-Handy@0.01
+PSGI::Handy::Context                0.01  pkg:cpan/PSGI-Handy@0.01
+PSGI::Handy::Request                0.01  pkg:cpan/PSGI-Handy@0.01
+PSGI::Handy::Response               0.01  pkg:cpan/PSGI-Handy@0.01
+PSGI::Handy::Router                 0.01  pkg:cpan/PSGI-Handy@0.01
 PSGI::Hector                         2.0  pkg:cpan/PSGI-Hector@2.0
 PSGI::Hector::Base                 undef  pkg:cpan/PSGI-Hector@2.0
 PSGI::Hector::Log                  undef  pkg:cpan/PSGI-Hector@2.0
