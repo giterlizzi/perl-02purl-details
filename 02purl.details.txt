@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 07 Jun 2026 15:19:03 GMT
-Line-Count: 264873
+Last-Updated: Sun, 07 Jun 2026 17:08:06 GMT
+Line-Count: 264871
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -33118,7 +33118,7 @@ CPAN::02Packages::Search           v1.0.0  pkg:cpan/CPAN-02Packages-Search@v1.0.
 CPAN::API::BuildPL                 0.002  pkg:cpan/CPAN-API-BuildPL@0.002
 CPAN::Admin                        5.501  pkg:cpan/CPAN@2.38
 CPAN::Audit                        20260308.002  pkg:cpan/CPAN-Audit@20260308.002
-CPAN::Audit::DB                    20260531.001  pkg:cpan/CPANSA-DB@20260531.001
+CPAN::Audit::DB                    20260607.001  pkg:cpan/CPANSA-DB@20260607.001
 CPAN::Audit::Discover              1.001  pkg:cpan/CPAN-Audit@20260308.002
 CPAN::Audit::Discover::Cpanfile    1.001  pkg:cpan/CPAN-Audit@20260308.002
 CPAN::Audit::Discover::CpanfileSnapshot 1.001  pkg:cpan/CPAN-Audit@20260308.002
@@ -33889,7 +33889,7 @@ CPANPLUS::YACSmoke::ReAssemble      1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::SortVers        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::locallib        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::inc                      undef  pkg:cpan/CPANPLUS@0.84
-CPANSA::DB                         20260531.001  pkg:cpan/CPANSA-DB@20260531.001
+CPANSA::DB                         20260607.001  pkg:cpan/CPANSA-DB@20260607.001
 CPANSEC::Admin                     0.001  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command            undef  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command::Amend     undef  pkg:cpan/CPANSec-Admin@0.001
@@ -238506,9 +238506,7 @@ Util::XML_YAML_Perl                  1.0  pkg:cpan/Util-XML_YAML_Perl@1.0.0
 Utility                            undef  pkg:cpan/ZZZ-SDK@0.0.2
 Utils                                0.1  pkg:cpan/Spread-Message@0.21
 V                                   0.23  pkg:cpan/V@0.23?ext=tgz
-V::Module::Info                     0.20  pkg:cpan/V@0.20
 V::Module::Info::_version           0.16  pkg:cpan/V@0.16
-V::Module::Info::_version_var       0.20  pkg:cpan/V@0.20
 VANAMBURG::BCS                     undef  pkg:cpan/VANAMBURG-Magic@0.04
 VANAMBURG::CHaSeDOrder             undef  pkg:cpan/VANAMBURG-Magic@0.03
 VANAMBURG::Card                    undef  pkg:cpan/VANAMBURG-Magic@0.04
