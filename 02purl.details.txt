@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 07 Jun 2026 07:49:15 GMT
+Last-Updated: Sun, 07 Jun 2026 10:23:31 GMT
 Line-Count: 264865
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -48789,8 +48789,8 @@ Courriel::Types                     0.49  pkg:cpan/Courriel@0.49
 Courriel::Types::Internal           0.49  pkg:cpan/Courriel@0.49
 Cow                                undef  pkg:cpan/Outthentic@0.4.7
 Coy                                 0.06  pkg:cpan/Coy@0.06
-Cpanel::JSON::XS                    4.41  pkg:cpan/Cpanel-JSON-XS@4.41
-Cpanel::JSON::XS::Type             undef  pkg:cpan/Cpanel-JSON-XS@4.41
+Cpanel::JSON::XS                    4.42  pkg:cpan/Cpanel-JSON-XS@4.42
+Cpanel::JSON::XS::Type             undef  pkg:cpan/Cpanel-JSON-XS@4.42
 CracTools                          1.251  pkg:cpan/CracTools@1.251
 CracTools::Annotator               1.251  pkg:cpan/CracTools@1.251
 CracTools::App                     1.251  pkg:cpan/CracTools@1.251
@@ -200151,32 +200151,32 @@ Protocol::Gearman                   0.05  pkg:cpan/Protocol-Gearman@0.05
 Protocol::Gearman::Client           0.05  pkg:cpan/Protocol-Gearman@0.05
 Protocol::Gearman::Worker           0.05  pkg:cpan/Protocol-Gearman@0.05
 Protocol::HTTP                     1.001006  pkg:cpan/Protocol-HTTP@1.1.6
-Protocol::HTTP2                     1.12  pkg:cpan/Protocol-HTTP2@1.12
-Protocol::HTTP2::Client            undef  pkg:cpan/Protocol-HTTP2@1.12
-Protocol::HTTP2::Connection        undef  pkg:cpan/Protocol-HTTP2@1.12
-Protocol::HTTP2::Constants         undef  pkg:cpan/Protocol-HTTP2@1.12
-Protocol::HTTP2::Frame             undef  pkg:cpan/Protocol-HTTP2@1.12
+Protocol::HTTP2                     1.13  pkg:cpan/Protocol-HTTP2@1.13
+Protocol::HTTP2::Client            undef  pkg:cpan/Protocol-HTTP2@1.13
+Protocol::HTTP2::Connection        undef  pkg:cpan/Protocol-HTTP2@1.13
+Protocol::HTTP2::Constants         undef  pkg:cpan/Protocol-HTTP2@1.13
+Protocol::HTTP2::Frame             undef  pkg:cpan/Protocol-HTTP2@1.13
 Protocol::HTTP2::Frame::Altsvc     undef  pkg:cpan/Protocol-HTTP2@0.08
 Protocol::HTTP2::Frame::Blocked    undef  pkg:cpan/Protocol-HTTP2@0.08
-Protocol::HTTP2::Frame::Continuation undef  pkg:cpan/Protocol-HTTP2@1.12
-Protocol::HTTP2::Frame::Data       undef  pkg:cpan/Protocol-HTTP2@1.12
-Protocol::HTTP2::Frame::Goaway     undef  pkg:cpan/Protocol-HTTP2@1.12
-Protocol::HTTP2::Frame::Headers    undef  pkg:cpan/Protocol-HTTP2@1.12
-Protocol::HTTP2::Frame::Ping       undef  pkg:cpan/Protocol-HTTP2@1.12
-Protocol::HTTP2::Frame::Priority   undef  pkg:cpan/Protocol-HTTP2@1.12
-Protocol::HTTP2::Frame::Push_promise undef  pkg:cpan/Protocol-HTTP2@1.12
-Protocol::HTTP2::Frame::Rst_stream undef  pkg:cpan/Protocol-HTTP2@1.12
-Protocol::HTTP2::Frame::Settings   undef  pkg:cpan/Protocol-HTTP2@1.12
-Protocol::HTTP2::Frame::Window_update undef  pkg:cpan/Protocol-HTTP2@1.12
-Protocol::HTTP2::HeaderCompression undef  pkg:cpan/Protocol-HTTP2@1.12
-Protocol::HTTP2::Huffman           undef  pkg:cpan/Protocol-HTTP2@1.12
-Protocol::HTTP2::HuffmanCodes      undef  pkg:cpan/Protocol-HTTP2@1.12
-Protocol::HTTP2::Server            undef  pkg:cpan/Protocol-HTTP2@1.12
-Protocol::HTTP2::Server::Stream    undef  pkg:cpan/Protocol-HTTP2@1.12
-Protocol::HTTP2::StaticTable       undef  pkg:cpan/Protocol-HTTP2@1.12
-Protocol::HTTP2::Stream            undef  pkg:cpan/Protocol-HTTP2@1.12
-Protocol::HTTP2::Trace             undef  pkg:cpan/Protocol-HTTP2@1.12
-Protocol::HTTP2::Upgrade           undef  pkg:cpan/Protocol-HTTP2@1.12
+Protocol::HTTP2::Frame::Continuation undef  pkg:cpan/Protocol-HTTP2@1.13
+Protocol::HTTP2::Frame::Data       undef  pkg:cpan/Protocol-HTTP2@1.13
+Protocol::HTTP2::Frame::Goaway     undef  pkg:cpan/Protocol-HTTP2@1.13
+Protocol::HTTP2::Frame::Headers    undef  pkg:cpan/Protocol-HTTP2@1.13
+Protocol::HTTP2::Frame::Ping       undef  pkg:cpan/Protocol-HTTP2@1.13
+Protocol::HTTP2::Frame::Priority   undef  pkg:cpan/Protocol-HTTP2@1.13
+Protocol::HTTP2::Frame::Push_promise undef  pkg:cpan/Protocol-HTTP2@1.13
+Protocol::HTTP2::Frame::Rst_stream undef  pkg:cpan/Protocol-HTTP2@1.13
+Protocol::HTTP2::Frame::Settings   undef  pkg:cpan/Protocol-HTTP2@1.13
+Protocol::HTTP2::Frame::Window_update undef  pkg:cpan/Protocol-HTTP2@1.13
+Protocol::HTTP2::HeaderCompression undef  pkg:cpan/Protocol-HTTP2@1.13
+Protocol::HTTP2::Huffman           undef  pkg:cpan/Protocol-HTTP2@1.13
+Protocol::HTTP2::HuffmanCodes      undef  pkg:cpan/Protocol-HTTP2@1.13
+Protocol::HTTP2::Server            undef  pkg:cpan/Protocol-HTTP2@1.13
+Protocol::HTTP2::Server::Stream    undef  pkg:cpan/Protocol-HTTP2@1.13
+Protocol::HTTP2::StaticTable       undef  pkg:cpan/Protocol-HTTP2@1.13
+Protocol::HTTP2::Stream            undef  pkg:cpan/Protocol-HTTP2@1.13
+Protocol::HTTP2::Trace             undef  pkg:cpan/Protocol-HTTP2@1.13
+Protocol::HTTP2::Upgrade           undef  pkg:cpan/Protocol-HTTP2@1.13
 Protocol::HTTP::Compression        undef  pkg:cpan/Protocol-HTTP@1.1.6
 Protocol::HTTP::Compression::Brotli 1.000004  pkg:cpan/Protocol-HTTP-Compression-Brotli@1.0.4
 Protocol::HTTP::CookieJar          undef  pkg:cpan/Protocol-HTTP@1.1.6
