@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 06 Jun 2026 22:57:31 GMT
-Line-Count: 264864
+Last-Updated: Sun, 07 Jun 2026 02:52:39 GMT
+Line-Count: 264865
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -15043,6 +15043,7 @@ App::XTermUtils                    0.007  pkg:cpan/App-XTermUtils@0.007
 App::XUL                            0.07  pkg:cpan/App-XUL@0.07
 App::XUL::Object                   undef  pkg:cpan/App-XUL@0.07
 App::XUL::XML                      undef  pkg:cpan/App-XUL@0.07
+App::XWindowManagerUtils           0.001  pkg:cpan/App-XWindowManagerUtils@0.001
 App::Xml_grep2                     undef  pkg:cpan/App-xml_grep2@0.14
 App::Xssh                          v1.1.0  pkg:cpan/App-Xssh@v1.1.0
 App::Xssh::Config                  v1.1.0  pkg:cpan/App-Xssh@v1.1.0
@@ -31551,7 +31552,7 @@ CFDI::Regex::XML                    0.31  pkg:cpan/CFDI@0.2
 CFDI::Report::Default               0.31  pkg:cpan/CFDI@0.2
 CFG                                0.000001  pkg:cpan/App-SeismicUnixGui@0.87.5
 CGI                                 4.72  pkg:cpan/CGI@4.72
-CGI::ACL                            0.07  pkg:cpan/CGI-ACL@0.07
+CGI::ACL                            0.08  pkg:cpan/CGI-ACL@0.08
 CGI::AIS::Session                   0.02  pkg:cpan/CGI-AIS-Session@0.02
 CGI::Ajax                          0.707  pkg:cpan/CGI-Ajax@0.707
 CGI::Alert                          2.09  pkg:cpan/CGI-Alert@2.09
@@ -63070,8 +63071,8 @@ DateTime::Format::ISO8601           0.19  pkg:cpan/DateTime-Format-ISO8601@0.19
 DateTime::Format::ISO8601::Format  0.005  pkg:cpan/DateTime-Format-ISO8601-Format@0.005
 DateTime::Format::ISO8601::Types    0.19  pkg:cpan/DateTime-Format-ISO8601@0.19
 DateTime::Format::Indonesian        0.04  pkg:cpan/DateTime-Format-Indonesian@0.04
-DateTime::Format::Intl             0.001008  pkg:cpan/DateTime-Format-Intl@v0.1.8
-DateTime::Format::Intl::Exception  0.001008  pkg:cpan/DateTime-Format-Intl@v0.1.8
+DateTime::Format::Intl             0.001009  pkg:cpan/DateTime-Format-Intl@v0.1.9
+DateTime::Format::Intl::Exception  0.001009  pkg:cpan/DateTime-Format-Intl@v0.1.9
 DateTime::Format::JP               0.001007  pkg:cpan/DateTime-Format-JP@v0.1.7
 DateTime::Format::JSON::MicrosoftDateFormat  0.05  pkg:cpan/DateTime-Format-JSON-MicrosoftDateFormat@0.05
 DateTime::Format::Japanese         0.04000  pkg:cpan/DateTime-Format-Japanese@0.04000
@@ -63163,8 +63164,8 @@ DateTime::Locale                    1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Base              1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Catalog           1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Data              1.45  pkg:cpan/DateTime-Locale@1.45
-DateTime::Locale::FromCLDR         0.008006  pkg:cpan/DateTime-Locale-FromCLDR@v0.8.6
-DateTime::Locale::FromCLDR::Exception 0.008006  pkg:cpan/DateTime-Locale-FromCLDR@v0.8.6
+DateTime::Locale::FromCLDR         0.008007  pkg:cpan/DateTime-Locale-FromCLDR@v0.8.7
+DateTime::Locale::FromCLDR::Exception 0.008007  pkg:cpan/DateTime-Locale-FromCLDR@v0.8.7
 DateTime::Locale::FromData          1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Util              1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Moonpig                   1.03  pkg:cpan/DateTime-Moonpig@1.03
@@ -125831,9 +125832,9 @@ Locale::US                          3.04  pkg:cpan/Locale-US@3.04
 Locale::US::CensusDivisions        1.001000  pkg:cpan/Locale-US-CensusDivisions@1.1.0
 Locale::Unicode                    0.004003  pkg:cpan/Locale-Unicode@v0.4.3
 Locale::Unicode::Boolean           0.004003  pkg:cpan/Locale-Unicode@v0.4.3
-Locale::Unicode::Data              1.008003  pkg:cpan/Locale-Unicode-Data@v1.8.3
-Locale::Unicode::Data::Boolean     1.008003  pkg:cpan/Locale-Unicode-Data@v1.8.3
-Locale::Unicode::Data::Exception   1.008003  pkg:cpan/Locale-Unicode-Data@v1.8.3
+Locale::Unicode::Data              1.008004  pkg:cpan/Locale-Unicode-Data@v1.8.4
+Locale::Unicode::Data::Boolean     1.008004  pkg:cpan/Locale-Unicode-Data@v1.8.4
+Locale::Unicode::Data::Exception   1.008004  pkg:cpan/Locale-Unicode-Data@v1.8.4
 Locale::Unicode::Exception         0.004003  pkg:cpan/Locale-Unicode@v0.4.3
 Locale::Util                       undef  pkg:cpan/libintl-perl@1.37
 Locale::Utils::Autotranslator      1.016  pkg:cpan/Locale-Utils-Autotranslator@1.016
@@ -236097,7 +236098,7 @@ Try::Tiny::Warnings                v0.1.0  pkg:cpan/Try-Tiny-Warnings@0.1.0
 TryCatch                           1.003002  pkg:cpan/TryCatch@1.003002
 TryCatch::Error                     0.01  pkg:cpan/TryCatch-Error@0.01
 TryPackage                         undef  pkg:cpan/Dumbbench@0.10
-Tstregex                            1.10  pkg:cpan/Tstregex@1.10
+Tstregex                            1.12  pkg:cpan/Tstregex@1.12
 Tui                                undef  pkg:cpan/Tui@0.4
 Tui::Box                           undef  pkg:cpan/Tui@0.4
 Tui::Button                        undef  pkg:cpan/Tui@0.4
