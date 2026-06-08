@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 08 Jun 2026 21:45:42 GMT
+Last-Updated: Mon, 08 Jun 2026 23:08:50 GMT
 Line-Count: 264876
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -20023,7 +20023,7 @@ AtomBus                            1.0405  pkg:cpan/AtomBus@1.0405
 AtomBus::Schema                    undef  pkg:cpan/AtomBus@1.0405
 AtomBus::Schema::Result::AtomBusEntry undef  pkg:cpan/AtomBus@1.0405
 AtomBus::Schema::Result::AtomBusFeed undef  pkg:cpan/AtomBus@1.0405
-Atomic::Pipe                       0.029  pkg:cpan/Atomic-Pipe@0.029
+Atomic::Pipe                       0.030  pkg:cpan/Atomic-Pipe@0.030
 AtomicParsley::Command             1.153400  pkg:cpan/AtomicParsley-Command@1.153400
 AtomicParsley::Command::Tags       1.153400  pkg:cpan/AtomicParsley-Command@1.153400
 Atompub                            0.003007  pkg:cpan/Atompub@0.3.7
@@ -81353,7 +81353,7 @@ Gentoo::Probe                      1.000006  pkg:cpan/Gentoo-Probe@1.0.6
 Gentoo::Util::VirtualDepend        0.003023  pkg:cpan/Gentoo-Util-VirtualDepend@0.003023
 Gentoo::VDB                        0.001002  pkg:cpan/Gentoo-VDB@0.001002
 Gentoo::VDB::Portage               0.001002  pkg:cpan/Gentoo-VDB@0.001002
-Geo::Address::Formatter            1.9992  pkg:cpan/Geo-Address-Formatter@1.9992
+Geo::Address::Formatter            1.9993  pkg:cpan/Geo-Address-Formatter@1.9993
 Geo::Address::Mail                  0.04  pkg:cpan/Geo-Address-Mail@0.04
 Geo::Address::Mail::Standardizer    0.02  pkg:cpan/Geo-Address-Mail-Standardizer@0.02
 Geo::Address::Mail::Standardizer::Results undef  pkg:cpan/Geo-Address-Mail-Standardizer@0.02
@@ -231869,9 +231869,9 @@ Text::HikiDoc::Plugin::vimcolor    1.007  pkg:cpan/Text-HikiDoc@1.019
 Text::Histogram                     0.01  pkg:cpan/Text-Histogram@0.01
 Text::HistogramChart               0.005  pkg:cpan/Text-HistogramChart@0.005
 Text::Hoborg                       0.000006  pkg:cpan/Text-Hoborg@0.0.6
-Text::Hogan                         2.03  pkg:cpan/Text-Hogan@2.03
-Text::Hogan::Compiler               2.03  pkg:cpan/Text-Hogan@2.03
-Text::Hogan::Template               2.03  pkg:cpan/Text-Hogan@2.03
+Text::Hogan                         2.04  pkg:cpan/Text-Hogan@2.04
+Text::Hogan::Compiler               2.04  pkg:cpan/Text-Hogan@2.04
+Text::Hogan::Template               2.04  pkg:cpan/Text-Hogan@2.04
 Text::Hspell                       v0.4.1  pkg:cpan/Text-Hspell@0.4.1
 Text::HumanComputerWords            0.04  pkg:cpan/Text-HumanComputerWords@0.04
 Text::Hunspell                      2.16  pkg:cpan/Text-Hunspell@2.16
