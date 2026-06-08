@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 07 Jun 2026 22:57:51 GMT
-Line-Count: 264871
+Last-Updated: Mon, 08 Jun 2026 02:55:05 GMT
+Line-Count: 264875
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -15043,7 +15043,7 @@ App::XTermUtils                    0.007  pkg:cpan/App-XTermUtils@0.007
 App::XUL                            0.07  pkg:cpan/App-XUL@0.07
 App::XUL::Object                   undef  pkg:cpan/App-XUL@0.07
 App::XUL::XML                      undef  pkg:cpan/App-XUL@0.07
-App::XWindowManagerUtils           0.001  pkg:cpan/App-XWindowManagerUtils@0.001
+App::XWindowManagerUtils           0.002  pkg:cpan/App-XWindowManagerUtils@0.002
 App::Xml_grep2                     undef  pkg:cpan/App-xml_grep2@0.14
 App::Xssh                          v1.1.0  pkg:cpan/App-Xssh@v1.1.0
 App::Xssh::Config                  v1.1.0  pkg:cpan/App-Xssh@v1.1.0
@@ -22104,8 +22104,10 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         0.009005  pkg:cpan/BarefootJS@0.9.5
-BarefootJS::DevReload              0.009005  pkg:cpan/BarefootJS@0.9.5
+BarefootJS                         0.010001  pkg:cpan/BarefootJS@0.10.1
+BarefootJS::Backend::Mojo          0.010001  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.10.1
+BarefootJS::Backend::Xslate        0.010001  pkg:cpan/BarefootJS-Backend-Xslate@0.10.1
+BarefootJS::DevReload              0.010001  pkg:cpan/BarefootJS@0.10.1
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
 Baseball::Sabermetrics              0.03  pkg:cpan/Baseball-Sabermetrics@0.03
@@ -115241,22 +115243,22 @@ JSON::Typist::Number               0.008  pkg:cpan/JSON-Typist@0.008
 JSON::Typist::String               0.008  pkg:cpan/JSON-Typist@0.008
 JSON::UnblessObject                 0.02  pkg:cpan/JSON-UnblessObject@0.02
 JSON::Util                          0.06  pkg:cpan/JSON-Util@0.06
-JSON::Validator                     5.17  pkg:cpan/JSON-Validator@5.17
-JSON::Validator::Error             undef  pkg:cpan/JSON-Validator@5.17
+JSON::Validator                     5.18  pkg:cpan/JSON-Validator@5.18
+JSON::Validator::Error             undef  pkg:cpan/JSON-Validator@5.18
 JSON::Validator::Exception         undef  pkg:cpan/JSON-Validator@5.14
-JSON::Validator::Formats           undef  pkg:cpan/JSON-Validator@5.17
-JSON::Validator::Joi               undef  pkg:cpan/JSON-Validator@5.17
+JSON::Validator::Formats           undef  pkg:cpan/JSON-Validator@5.18
+JSON::Validator::Joi               undef  pkg:cpan/JSON-Validator@5.18
 JSON::Validator::Ref               undef  pkg:cpan/JSON-Validator@4.25
-JSON::Validator::Schema            undef  pkg:cpan/JSON-Validator@5.17
-JSON::Validator::Schema::Draft201909 undef  pkg:cpan/JSON-Validator@5.17
-JSON::Validator::Schema::Draft4    undef  pkg:cpan/JSON-Validator@5.17
-JSON::Validator::Schema::Draft6    undef  pkg:cpan/JSON-Validator@5.17
-JSON::Validator::Schema::Draft7    undef  pkg:cpan/JSON-Validator@5.17
-JSON::Validator::Schema::OpenAPIv2 undef  pkg:cpan/JSON-Validator@5.17
-JSON::Validator::Schema::OpenAPIv3 undef  pkg:cpan/JSON-Validator@5.17
-JSON::Validator::Store             undef  pkg:cpan/JSON-Validator@5.17
-JSON::Validator::URI               undef  pkg:cpan/JSON-Validator@5.17
-JSON::Validator::Util              undef  pkg:cpan/JSON-Validator@5.17
+JSON::Validator::Schema            undef  pkg:cpan/JSON-Validator@5.18
+JSON::Validator::Schema::Draft201909 undef  pkg:cpan/JSON-Validator@5.18
+JSON::Validator::Schema::Draft4    undef  pkg:cpan/JSON-Validator@5.18
+JSON::Validator::Schema::Draft6    undef  pkg:cpan/JSON-Validator@5.18
+JSON::Validator::Schema::Draft7    undef  pkg:cpan/JSON-Validator@5.18
+JSON::Validator::Schema::OpenAPIv2 undef  pkg:cpan/JSON-Validator@5.18
+JSON::Validator::Schema::OpenAPIv3 undef  pkg:cpan/JSON-Validator@5.18
+JSON::Validator::Store             undef  pkg:cpan/JSON-Validator@5.18
+JSON::Validator::URI               undef  pkg:cpan/JSON-Validator@5.18
+JSON::Validator::Util              undef  pkg:cpan/JSON-Validator@5.18
 JSON::WebEncryption                 0.05  pkg:cpan/JSON-WebEncryption@0.05
 JSON::WebToken                      0.10  pkg:cpan/JSON-WebToken@0.10
 JSON::WebToken::Constants          undef  pkg:cpan/JSON-WebToken@0.10
@@ -138943,6 +138945,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
+Mojolicious::Plugin::BarefootJS    0.010001  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.10.1
+Mojolicious::Plugin::BarefootJS::DevReload 0.010001  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.10.1
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
