@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 08 Jun 2026 08:47:22 GMT
+Last-Updated: Mon, 08 Jun 2026 14:00:52 GMT
 Line-Count: 264875
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -4808,7 +4808,7 @@ Alien::XPA                         v2.1.20.7  pkg:cpan/Alien-XPA@v2.1.20.7
 Alien::Xmake                        0.08  pkg:cpan/Alien-Xmake@0.08
 Alien::Xrepo                        0.08  pkg:cpan/Alien-Xmake@0.08
 Alien::Xrepo::PackageInfo          undef  pkg:cpan/Alien-Xmake@0.08
-Alien::YAMLScript                  0.002013  pkg:cpan/Alien-YAMLScript@0.2.13
+Alien::YAMLScript                  0.002014  pkg:cpan/Alien-YAMLScript@0.2.14
 Alien::YARA                        v0.0.1  pkg:cpan/Alien-YARA@v0.0.6
 Alien::Z3                          0.002  pkg:cpan/Alien-Z3@0.002
 Alien::ZMQ                          0.06  pkg:cpan/Alien-ZMQ@0.06
@@ -52086,7 +52086,7 @@ DBIx::Class::Schema::Diff::Schema  undef  pkg:cpan/DBIx-Class-Schema-Diff@1.13
 DBIx::Class::Schema::Diff::SchemaData undef  pkg:cpan/DBIx-Class-Schema-Diff@1.13
 DBIx::Class::Schema::Diff::Source  undef  pkg:cpan/DBIx-Class-Schema-Diff@1.13
 DBIx::Class::Schema::Diff::State   undef  pkg:cpan/DBIx-Class-Schema-Diff@1.13
-DBIx::Class::Schema::GraphQL       v0.0.1  pkg:cpan/DBIx-Class-Schema-GraphQL@v0.0.1
+DBIx::Class::Schema::GraphQL       v0.0.2  pkg:cpan/DBIx-Class-Schema-GraphQL@v0.0.2
 DBIx::Class::Schema::Journal        0.01  pkg:cpan/DBIx-Class-Journal@0.900201
 DBIx::Class::Schema::Journal::DB   undef  pkg:cpan/DBIx-Class-Journal@0.900201
 DBIx::Class::Schema::Journal::DB::AuditHistory undef  pkg:cpan/DBIx-Class-Journal@0.900201
@@ -61656,7 +61656,7 @@ DataWarehouse::Aggregate            0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::Dimension            0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::ETL                  0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::Fact                 0.04  pkg:cpan/DataWarehouse@0.04
-Database::Abstraction               0.34  pkg:cpan/Database-Abstraction@0.34
+Database::Abstraction               0.35  pkg:cpan/Database-Abstraction@0.35
 Database::Async                    0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Backoff           0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Backoff::Exponential 0.019  pkg:cpan/Database-Async@0.019
@@ -109170,7 +109170,7 @@ HTTP::Throwable::Unauthorized      undef  pkg:cpan/HTTP-Throwable@0.004
 HTTP::Throwable::UnsupportedMediaType undef  pkg:cpan/HTTP-Throwable@0.004
 HTTP::Throwable::UseProxy          undef  pkg:cpan/HTTP-Throwable@0.004
 HTTP::Throwable::Variant           0.028  pkg:cpan/HTTP-Throwable@0.028
-HTTP::Tiny                         0.094  pkg:cpan/HTTP-Tiny@0.094
+HTTP::Tiny                         0.096  pkg:cpan/HTTP-Tiny@0.096
 HTTP::Tiny::Bandwidth               0.01  pkg:cpan/HTTP-Tiny-Bandwidth@0.01
 HTTP::Tiny::Cache                  0.002  pkg:cpan/HTTP-Tiny-Cache@0.002
 HTTP::Tiny::Cache_CustomRetry      0.003  pkg:cpan/HTTP-Tiny-Cache_CustomRetry@0.003
@@ -259031,8 +259031,8 @@ YAML::XS                           v0.907.0  pkg:cpan/YAML-LibYAML@v0.907.0
 YAML::XS::LibYAML                  undef  pkg:cpan/YAML-LibYAML@0.89
 YAML::YAML2ADoc                    0.001000  pkg:cpan/YAML-YAML2ADoc@0.1.0
 YAML::yq::Helper                   0.002000  pkg:cpan/YAML-yq-Helper@0.2.0
-YAMLScript                         0.002013  pkg:cpan/YAMLScript@0.2.13
-YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.2.13
+YAMLScript                         0.002014  pkg:cpan/YAMLScript@0.2.14
+YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.2.14
 YAMLScript::Base                   undef  pkg:cpan/YAMLScript@0.0.7
 YAMLScript::CLI                    undef  pkg:cpan/YAMLScript@0.1.3
 YAMLScript::Call                   undef  pkg:cpan/YAMLScript@0.0.16
