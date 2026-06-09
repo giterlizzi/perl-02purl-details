@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 09 Jun 2026 07:40:43 GMT
+Last-Updated: Tue, 09 Jun 2026 10:54:46 GMT
 Line-Count: 264877
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -112484,8 +112484,8 @@ IOas::SJIS2004                      0.10  pkg:cpan/IOas-SJIS2004@0.10
 IP::Anonymous                       0.04  pkg:cpan/IP-Anonymous@0.04
 IP::Authority                      1305.001  pkg:cpan/IP-Country@2.28
 IP::Country                         2.28  pkg:cpan/IP-Country@2.28
-IP::Country::DB_File                3.03  pkg:cpan/IP-Country-DB_File@3.03
-IP::Country::DB_File::Builder       3.03  pkg:cpan/IP-Country-DB_File@3.03
+IP::Country::DB_File                4.00  pkg:cpan/IP-Country-DB_File@4.00
+IP::Country::DB_File::Builder       4.00  pkg:cpan/IP-Country-DB_File@4.00
 IP::Country::DNSBL                  1.02  pkg:cpan/IP-Country-DNSBL@1.02
 IP::Country::Fast                  604.001  pkg:cpan/IP-Country@2.28
 IP::Country::MaxMind                   1  pkg:cpan/IP-Country@2.28
