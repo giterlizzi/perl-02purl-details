@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 09 Jun 2026 10:54:46 GMT
-Line-Count: 264877
+Last-Updated: Tue, 09 Jun 2026 14:33:59 GMT
+Line-Count: 264878
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -125837,9 +125837,9 @@ Locale::US                          3.04  pkg:cpan/Locale-US@3.04
 Locale::US::CensusDivisions        1.001000  pkg:cpan/Locale-US-CensusDivisions@1.1.0
 Locale::Unicode                    0.004003  pkg:cpan/Locale-Unicode@v0.4.3
 Locale::Unicode::Boolean           0.004003  pkg:cpan/Locale-Unicode@v0.4.3
-Locale::Unicode::Data              1.008005  pkg:cpan/Locale-Unicode-Data@v1.8.5
-Locale::Unicode::Data::Boolean     1.008005  pkg:cpan/Locale-Unicode-Data@v1.8.5
-Locale::Unicode::Data::Exception   1.008005  pkg:cpan/Locale-Unicode-Data@v1.8.5
+Locale::Unicode::Data              1.008006  pkg:cpan/Locale-Unicode-Data@v1.8.6
+Locale::Unicode::Data::Boolean     1.008006  pkg:cpan/Locale-Unicode-Data@v1.8.6
+Locale::Unicode::Data::Exception   1.008006  pkg:cpan/Locale-Unicode-Data@v1.8.6
 Locale::Unicode::Exception         0.004003  pkg:cpan/Locale-Unicode@v0.4.3
 Locale::Util                       undef  pkg:cpan/libintl-perl@1.37
 Locale::Utils::Autotranslator      1.016  pkg:cpan/Locale-Utils-Autotranslator@1.016
@@ -143073,6 +143073,7 @@ My::DBI                             0.04  pkg:cpan/Class-DBI-Factory@0.994
 My::Doodad                          3.01  pkg:cpan/SPOPS@0.87
 My::Examples                       undef  pkg:cpan/SOAP-Lite@1.20
 My::Filter                         undef  pkg:cpan/HTML-TagFilter@1.03
+My::GenoPheno::Utils                0.01  pkg:cpan/My-GenoPheno-Utils@0.01
 My::Genre                          undef  pkg:cpan/Class-DBI-Factory@0.994
 My::Group                           3.01  pkg:cpan/SPOPS@0.87
 My::HTTPConfig                     undef  pkg:cpan/Apache2-Mogile-Dispatch@0.3
@@ -152960,7 +152961,7 @@ NetAddr::IP::Util                   1.53  pkg:cpan/NetAddr-IP@4.079
 NetAddr::IP::UtilPP                 1.09  pkg:cpan/NetAddr-IP@4.079
 NetAddr::IP::UtilPolluted           1.53  pkg:cpan/NetAddr-IP@4.079
 NetAddr::IP::Util_IS                   1  pkg:cpan/NetAddr-IP@4.079
-NetAddr::MAC                        1.00  pkg:cpan/NetAddr-MAC@1.00
+NetAddr::MAC                        1.01  pkg:cpan/NetAddr-MAC@1.01
 NetApp                             500.002  pkg:cpan/NetApp@500.002
 NetApp::Aggregate                  500.002  pkg:cpan/NetApp@500.002
 NetApp::Aggregate::Plex            500.002  pkg:cpan/NetApp@500.002
@@ -153655,18 +153656,18 @@ Nour::Database                      0.10  pkg:cpan/Nour@0.10
 Nour::Logger                        0.10  pkg:cpan/Nour@0.10
 Nour::Printer                       0.01  pkg:cpan/Nour@0.01
 Nour::Script                        0.10  pkg:cpan/Nour@0.10
-Novel::Robot                        0.45  pkg:cpan/Novel-Robot@0.45
-Novel::Robot::Browser               0.22  pkg:cpan/Novel-Robot@0.45
-Novel::Robot::Packer                0.21  pkg:cpan/Novel-Robot@0.45
-Novel::Robot::Parser                0.32  pkg:cpan/Novel-Robot@0.45
+Novel::Robot                        0.47  pkg:cpan/Novel-Robot@0.47
+Novel::Robot::Browser               0.23  pkg:cpan/Novel-Robot@0.47
+Novel::Robot::Packer                0.21  pkg:cpan/Novel-Robot@0.47
+Novel::Robot::Parser                0.33  pkg:cpan/Novel-Robot@0.47
 Novel::Robot::Parser::ddshu        undef  pkg:cpan/Novel-Robot@0.45
-Novel::Robot::Parser::default      undef  pkg:cpan/Novel-Robot@0.45
-Novel::Robot::Parser::hjj          undef  pkg:cpan/Novel-Robot@0.45
-Novel::Robot::Parser::jjwxc        undef  pkg:cpan/Novel-Robot@0.45
+Novel::Robot::Parser::default      undef  pkg:cpan/Novel-Robot@0.47
+Novel::Robot::Parser::hjj          undef  pkg:cpan/Novel-Robot@0.47
+Novel::Robot::Parser::jjwxc        undef  pkg:cpan/Novel-Robot@0.47
 Novel::Robot::Parser::kanunu8      undef  pkg:cpan/Novel-Robot@0.45
-Novel::Robot::Parser::lofter       undef  pkg:cpan/Novel-Robot@0.45
-Novel::Robot::Parser::tieba        undef  pkg:cpan/Novel-Robot@0.45
-Novel::Robot::Parser::txt          undef  pkg:cpan/Novel-Robot@0.45
+Novel::Robot::Parser::lofter       undef  pkg:cpan/Novel-Robot@0.47
+Novel::Robot::Parser::tieba        undef  pkg:cpan/Novel-Robot@0.47
+Novel::Robot::Parser::txt          undef  pkg:cpan/Novel-Robot@0.47
 NpsSDK::Configuration               1.91  pkg:cpan/NpsSDK-Nps@1.91
 NpsSDK::ConnectionException         1.91  pkg:cpan/NpsSDK-Nps@1.91
 NpsSDK::Constants                   1.91  pkg:cpan/NpsSDK-Nps@1.91
@@ -223392,7 +223393,7 @@ Sub::Pipe                           0.03  pkg:cpan/Sub-Pipe@0.03
 Sub::Pipeline                      0.011  pkg:cpan/Sub-Pipeline@0.011
 Sub::Prepend                        0.01  pkg:cpan/Sub-Prepend@0.01
 Sub::Private                        0.04  pkg:cpan/Sub-Private@0.04
-Sub::Protected                      0.01  pkg:cpan/Sub-Protected@0.01
+Sub::Protected                      0.02  pkg:cpan/Sub-Protected@0.02
 Sub::Prototype                      0.03  pkg:cpan/Sub-Prototype@0.03
 Sub::Prototype::Util                0.11  pkg:cpan/Sub-Prototype-Util@0.11
 Sub::Quote                         2.006009  pkg:cpan/Sub-Quote@2.006009
