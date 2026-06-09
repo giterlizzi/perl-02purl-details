@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 08 Jun 2026 23:08:50 GMT
-Line-Count: 264876
+Last-Updated: Tue, 09 Jun 2026 02:32:45 GMT
+Line-Count: 264877
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -15043,7 +15043,7 @@ App::XTermUtils                    0.007  pkg:cpan/App-XTermUtils@0.007
 App::XUL                            0.07  pkg:cpan/App-XUL@0.07
 App::XUL::Object                   undef  pkg:cpan/App-XUL@0.07
 App::XUL::XML                      undef  pkg:cpan/App-XUL@0.07
-App::XWindowManagerUtils           0.002  pkg:cpan/App-XWindowManagerUtils@0.002
+App::XWindowManagerUtils           0.003  pkg:cpan/App-XWindowManagerUtils@0.003
 App::Xml_grep2                     undef  pkg:cpan/App-xml_grep2@0.14
 App::Xssh                          v1.1.0  pkg:cpan/App-Xssh@v1.1.0
 App::Xssh::Config                  v1.1.0  pkg:cpan/App-Xssh@v1.1.0
@@ -123496,7 +123496,7 @@ List::Rotation::Cycle              1.009  pkg:cpan/List-Rotation-Cycle@1.009
 List::Rotation::Toggle             1.010  pkg:cpan/List-Rotation@1.010
 List::Rubyish                       0.03  pkg:cpan/List-Rubyish@0.03
 List::Rubyish::Circular             0.04  pkg:cpan/List-Rubyish-Circular@0.04
-List::Search                         0.3  pkg:cpan/List-Search@0.3
+List::Search                         0.4  pkg:cpan/List-Search@0.4
 List::SkipList                      0.74  pkg:cpan/Algorithm-SkipList@1.02
 List::SkipList::Header              0.74  pkg:cpan/Algorithm-SkipList@1.02
 List::SkipList::Node                0.74  pkg:cpan/Algorithm-SkipList@1.02
@@ -126329,7 +126329,7 @@ Loctools::Net::OAuth2::Session     undef  pkg:cpan/Loctools-Net@1.0
 Loctools::Net::OAuth2::Session::Google undef  pkg:cpan/Loctools-Net@1.0
 LocusLinkAccessor                      1  pkg:cpan/Boulder@1.30
 Log4Perl::ImportHandle             0.033  pkg:cpan/Log4Perl-ImportHandle@0.033
-Log::Abstraction                     0.3  pkg:cpan/Log-Abstraction@0.3
+Log::Abstraction                    0.31  pkg:cpan/Log-Abstraction@0.31
 Log::Accounting                      0.3  pkg:cpan/Log-Accounting@0.3
 Log::Accounting::Sendmail            0.2  pkg:cpan/Log-Accounting-Sendmail@0.2
 Log::Agent                         1.005  pkg:cpan/Log-Agent@1.005
@@ -222798,8 +222798,9 @@ Stow                               v2.4.1  pkg:cpan/Stow@v2.4.1
 Stow::Util                         v2.4.1  pkg:cpan/Stow@v2.4.1
 Str::Filter                         0.01  pkg:cpan/Str-Filter@0.01
 Str::Iter                          0.001  pkg:cpan/Str-Iter@0.001
-Strada                              0.01  pkg:cpan/Strada@0.01
-Strada::Library                     0.01  pkg:cpan/Strada@0.01
+Strada                               1.0  pkg:cpan/Strada@1.0
+Strada::Library                      1.0  pkg:cpan/Strada@1.0
+Strada::Object                       1.0  pkg:cpan/Strada@1.0
 Strategic::Wiki                     0.01  pkg:cpan/Strategic-Wiki@0.01
 Strategic::Wiki::App               undef  pkg:cpan/Strategic-Wiki@0.01
 Strategic::Wiki::Command           undef  pkg:cpan/Strategic-Wiki@0.01
@@ -223391,6 +223392,7 @@ Sub::Pipe                           0.03  pkg:cpan/Sub-Pipe@0.03
 Sub::Pipeline                      0.011  pkg:cpan/Sub-Pipeline@0.011
 Sub::Prepend                        0.01  pkg:cpan/Sub-Prepend@0.01
 Sub::Private                        0.04  pkg:cpan/Sub-Private@0.04
+Sub::Protected                      0.01  pkg:cpan/Sub-Protected@0.01
 Sub::Prototype                      0.03  pkg:cpan/Sub-Prototype@0.03
 Sub::Prototype::Util                0.11  pkg:cpan/Sub-Prototype-Util@0.11
 Sub::Quote                         2.006009  pkg:cpan/Sub-Quote@2.006009
@@ -224408,7 +224410,6 @@ Sys::Gamin                           0.1  pkg:cpan/Sys-Gamin@0.1
 Sys::GetRandom                      0.02  pkg:cpan/Sys-GetRandom@0.02
 Sys::GetRandom::FFI                v0.1.1  pkg:cpan/Sys-GetRandom-FFI@v0.1.1
 Sys::GetRandom::PP                  0.08  pkg:cpan/Sys-GetRandom-PP@0.08
-Sys::GetRandom::PP::_Bits          undef  pkg:cpan/Sys-GetRandom-PP@0.05
 Sys::Group::GIDhelper              0.001000  pkg:cpan/Sys-Group-GIDhelper@0.1.0
 Sys::Headers                        0.01  pkg:cpan/Sys-Headers@0.01
 Sys::HostAddr                      0.993  pkg:cpan/Sys-HostAddr@0.993?ext=tgz
