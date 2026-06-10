@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 10 Jun 2026 16:54:31 GMT
-Line-Count: 264887
+Last-Updated: Wed, 10 Jun 2026 20:19:37 GMT
+Line-Count: 264892
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -15630,7 +15630,7 @@ App::gh::Git                        0.01  pkg:cpan/App-gh@0.66
 App::gh::Git::Error::Command        0.01  pkg:cpan/App-gh@0.66
 App::gh::Git::activestate_pipe      0.01  pkg:cpan/App-gh@0.66
 App::gh::Utils                     undef  pkg:cpan/App-gh@0.66
-App::gherkin                       v39.1.0  pkg:cpan/Gherkin@39.1.0
+App::gherkin                       v40.0.0  pkg:cpan/Gherkin@40.0.0
 App::ghmulti                        0.07  pkg:cpan/App-ghmulti@0.07
 App::gimpgitbuild                  v0.32.1  pkg:cpan/App-gimpgitbuild@0.32.1
 App::gimpgitbuild::API::GitBuild   v0.32.1  pkg:cpan/App-gimpgitbuild@0.32.1
@@ -50788,6 +50788,11 @@ DBD::Crate                         0.000003  pkg:cpan/DBD-Crate@0.0.3
 DBD::Crate::db                     0.000003  pkg:cpan/DBD-Crate@0.0.3
 DBD::Crate::dr                     0.000003  pkg:cpan/DBD-Crate@0.0.3
 DBD::Crate::st                     0.000003  pkg:cpan/DBD-Crate@0.0.3
+DBD::D1                             0.02  pkg:cpan/DBD-D1@0.02
+DBD::D1::_http                      0.02  pkg:cpan/DBD-D1@0.02
+DBD::D1::db                         0.02  pkg:cpan/DBD-D1@0.02
+DBD::D1::dr                         0.02  pkg:cpan/DBD-D1@0.02
+DBD::D1::st                         0.02  pkg:cpan/DBD-D1@0.02
 DBD::DB2                            1.92  pkg:cpan/DBD-DB2@1.92
 DBD::DB2::Constants                 1.92  pkg:cpan/DBD-DB2@1.92
 DBD::DB2::db                        1.92  pkg:cpan/DBD-DB2@1.92
@@ -82596,30 +82601,30 @@ Gfsm::XL                            0.11  pkg:cpan/Gfsm-XL@0.11
 Gfsm::XL::Cascade                  undef  pkg:cpan/Gfsm-XL@0.11
 Gfsm::XL::Cascade::Lookup          undef  pkg:cpan/Gfsm-XL@0.11
 Gftracks                             0.9  pkg:cpan/Gftracks@0.9
-Gherkin                            v39.1.0  pkg:cpan/Gherkin@39.1.0
-Gherkin::AstBuilder                v39.1.0  pkg:cpan/Gherkin@39.1.0
-Gherkin::AstNode                   v39.1.0  pkg:cpan/Gherkin@39.1.0
-Gherkin::Dialect                   v39.1.0  pkg:cpan/Gherkin@39.1.0
-Gherkin::Exceptions                v39.1.0  pkg:cpan/Gherkin@39.1.0
-Gherkin::Exceptions::AstBuilder    v39.1.0  pkg:cpan/Gherkin@39.1.0
-Gherkin::Exceptions::CompositeParser v39.1.0  pkg:cpan/Gherkin@39.1.0
-Gherkin::Exceptions::NoSuchLanguage v39.1.0  pkg:cpan/Gherkin@39.1.0
-Gherkin::Exceptions::Parser        v39.1.0  pkg:cpan/Gherkin@39.1.0
-Gherkin::Exceptions::SingleParser  v39.1.0  pkg:cpan/Gherkin@39.1.0
-Gherkin::Exceptions::UnexpectedEOF v39.1.0  pkg:cpan/Gherkin@39.1.0
-Gherkin::Exceptions::UnexpectedToken v39.1.0  pkg:cpan/Gherkin@39.1.0
-Gherkin::Generated::Languages      v39.1.0  pkg:cpan/Gherkin@39.1.0
-Gherkin::Generated::Parser         v39.1.0  pkg:cpan/Gherkin@39.1.0
-Gherkin::Line                      v39.1.0  pkg:cpan/Gherkin@39.1.0
-Gherkin::MarkdownTokenMatcher      v39.1.0  pkg:cpan/Gherkin@39.1.0
-Gherkin::Parser                    v39.1.0  pkg:cpan/Gherkin@39.1.0
-Gherkin::ParserBase                v39.1.0  pkg:cpan/Gherkin@39.1.0
-Gherkin::ParserContext             v39.1.0  pkg:cpan/Gherkin@39.1.0
-Gherkin::Pickles::Compiler         v39.1.0  pkg:cpan/Gherkin@39.1.0
-Gherkin::Token                     v39.1.0  pkg:cpan/Gherkin@39.1.0
-Gherkin::TokenFormatterBuilder     v39.1.0  pkg:cpan/Gherkin@39.1.0
-Gherkin::TokenMatcher              v39.1.0  pkg:cpan/Gherkin@39.1.0
-Gherkin::TokenScanner              v39.1.0  pkg:cpan/Gherkin@39.1.0
+Gherkin                            v40.0.0  pkg:cpan/Gherkin@40.0.0
+Gherkin::AstBuilder                v40.0.0  pkg:cpan/Gherkin@40.0.0
+Gherkin::AstNode                   v40.0.0  pkg:cpan/Gherkin@40.0.0
+Gherkin::Dialect                   v40.0.0  pkg:cpan/Gherkin@40.0.0
+Gherkin::Exceptions                v40.0.0  pkg:cpan/Gherkin@40.0.0
+Gherkin::Exceptions::AstBuilder    v40.0.0  pkg:cpan/Gherkin@40.0.0
+Gherkin::Exceptions::CompositeParser v40.0.0  pkg:cpan/Gherkin@40.0.0
+Gherkin::Exceptions::NoSuchLanguage v40.0.0  pkg:cpan/Gherkin@40.0.0
+Gherkin::Exceptions::Parser        v40.0.0  pkg:cpan/Gherkin@40.0.0
+Gherkin::Exceptions::SingleParser  v40.0.0  pkg:cpan/Gherkin@40.0.0
+Gherkin::Exceptions::UnexpectedEOF v40.0.0  pkg:cpan/Gherkin@40.0.0
+Gherkin::Exceptions::UnexpectedToken v40.0.0  pkg:cpan/Gherkin@40.0.0
+Gherkin::Generated::Languages      v40.0.0  pkg:cpan/Gherkin@40.0.0
+Gherkin::Generated::Parser         v40.0.0  pkg:cpan/Gherkin@40.0.0
+Gherkin::Line                      v40.0.0  pkg:cpan/Gherkin@40.0.0
+Gherkin::MarkdownTokenMatcher      v40.0.0  pkg:cpan/Gherkin@40.0.0
+Gherkin::Parser                    v40.0.0  pkg:cpan/Gherkin@40.0.0
+Gherkin::ParserBase                v40.0.0  pkg:cpan/Gherkin@40.0.0
+Gherkin::ParserContext             v40.0.0  pkg:cpan/Gherkin@40.0.0
+Gherkin::Pickles::Compiler         v40.0.0  pkg:cpan/Gherkin@40.0.0
+Gherkin::Token                     v40.0.0  pkg:cpan/Gherkin@40.0.0
+Gherkin::TokenFormatterBuilder     v40.0.0  pkg:cpan/Gherkin@40.0.0
+Gherkin::TokenMatcher              v40.0.0  pkg:cpan/Gherkin@40.0.0
+Gherkin::TokenScanner              v40.0.0  pkg:cpan/Gherkin@40.0.0
 Gibbs                              1.001000  pkg:cpan/Gibbs@v1.1
 Giblog                              3.00  pkg:cpan/Giblog@3.00
 Giblog::API                        undef  pkg:cpan/Giblog@3.00
@@ -224366,31 +224371,31 @@ Sys::Ebpf::Loader                  undef  pkg:cpan/Sys-Ebpf@0.03
 Sys::Ebpf::Map                     undef  pkg:cpan/Sys-Ebpf@0.03
 Sys::Ebpf::Reader                  undef  pkg:cpan/Sys-Ebpf@0.03
 Sys::Ebpf::Syscall                 undef  pkg:cpan/Sys-Ebpf@0.03
-Sys::Export                        0.005  pkg:cpan/Sys-Export@0.005
-Sys::Export::CPIO                  0.005  pkg:cpan/Sys-Export@0.005
-Sys::Export::ELF                   0.005  pkg:cpan/Sys-Export@0.005
-Sys::Export::Exporter              0.005  pkg:cpan/Sys-Export@0.005
-Sys::Export::Extent                0.005  pkg:cpan/Sys-Export@0.005
-Sys::Export::GPT                   0.005  pkg:cpan/Sys-Export@0.005
-Sys::Export::GPT::Partition        0.005  pkg:cpan/Sys-Export@0.005
-Sys::Export::ISO9660               0.005  pkg:cpan/Sys-Export@0.005
-Sys::Export::ISO9660::Directory    0.005  pkg:cpan/Sys-Export@0.005
-Sys::Export::ISO9660::File         0.005  pkg:cpan/Sys-Export@0.005
-Sys::Export::ISO9660Hybrid         0.005  pkg:cpan/Sys-Export@0.005
-Sys::Export::LazyFileData          0.005  pkg:cpan/Sys-Export@0.005
-Sys::Export::Linux                 0.005  pkg:cpan/Sys-Export@0.005
-Sys::Export::LogAny                0.005  pkg:cpan/Sys-Export@0.005
-Sys::Export::LogAny::_Logger       0.005  pkg:cpan/Sys-Export@0.005
-Sys::Export::Unix                  0.005  pkg:cpan/Sys-Export@0.005
-Sys::Export::Unix::UserDB          0.005  pkg:cpan/Sys-Export@0.005
-Sys::Export::Unix::UserDB::Group   0.005  pkg:cpan/Sys-Export@0.005
-Sys::Export::Unix::UserDB::User    0.005  pkg:cpan/Sys-Export@0.005
-Sys::Export::Unix::WriteFS         0.005  pkg:cpan/Sys-Export@0.005
-Sys::Export::VFAT                  0.005  pkg:cpan/Sys-Export@0.005
-Sys::Export::VFAT::AllocationTable 0.005  pkg:cpan/Sys-Export@0.005
-Sys::Export::VFAT::Directory       0.005  pkg:cpan/Sys-Export@0.005
-Sys::Export::VFAT::File            0.005  pkg:cpan/Sys-Export@0.005
-Sys::Export::VFAT::Geometry        0.005  pkg:cpan/Sys-Export@0.005
+Sys::Export                        0.006  pkg:cpan/Sys-Export@0.006
+Sys::Export::CPIO                  0.006  pkg:cpan/Sys-Export@0.006
+Sys::Export::ELF                   0.006  pkg:cpan/Sys-Export@0.006
+Sys::Export::Exporter              0.006  pkg:cpan/Sys-Export@0.006
+Sys::Export::Extent                0.006  pkg:cpan/Sys-Export@0.006
+Sys::Export::GPT                   0.006  pkg:cpan/Sys-Export@0.006
+Sys::Export::GPT::Partition        0.006  pkg:cpan/Sys-Export@0.006
+Sys::Export::ISO9660               0.006  pkg:cpan/Sys-Export@0.006
+Sys::Export::ISO9660::Directory    0.006  pkg:cpan/Sys-Export@0.006
+Sys::Export::ISO9660::File         0.006  pkg:cpan/Sys-Export@0.006
+Sys::Export::ISO9660Hybrid         0.006  pkg:cpan/Sys-Export@0.006
+Sys::Export::LazyFileData          0.006  pkg:cpan/Sys-Export@0.006
+Sys::Export::Linux                 0.006  pkg:cpan/Sys-Export@0.006
+Sys::Export::LogAny                0.006  pkg:cpan/Sys-Export@0.006
+Sys::Export::LogAny::_Logger       0.006  pkg:cpan/Sys-Export@0.006
+Sys::Export::Unix                  0.006  pkg:cpan/Sys-Export@0.006
+Sys::Export::Unix::UserDB          0.006  pkg:cpan/Sys-Export@0.006
+Sys::Export::Unix::UserDB::Group   0.006  pkg:cpan/Sys-Export@0.006
+Sys::Export::Unix::UserDB::User    0.006  pkg:cpan/Sys-Export@0.006
+Sys::Export::Unix::WriteFS         0.006  pkg:cpan/Sys-Export@0.006
+Sys::Export::VFAT                  0.006  pkg:cpan/Sys-Export@0.006
+Sys::Export::VFAT::AllocationTable 0.006  pkg:cpan/Sys-Export@0.006
+Sys::Export::VFAT::Directory       0.006  pkg:cpan/Sys-Export@0.006
+Sys::Export::VFAT::File            0.006  pkg:cpan/Sys-Export@0.006
+Sys::Export::VFAT::Geometry        0.006  pkg:cpan/Sys-Export@0.006
 Sys::FS                             0.11  pkg:cpan/Sys-FS@0.11
 Sys::Facter                         1.01  pkg:cpan/Sys-Facter@1.01
 Sys::Filesystem                    1.408  pkg:cpan/Sys-Filesystem@1.408
@@ -236168,7 +236173,7 @@ TuxedoBuffer                        0.01  pkg:cpan/TUXEDO@1_00?ext=zip
 TuxedoClient                        0.01  pkg:cpan/TUXEDO@1_00?ext=zip
 TuxedoMessenger                     0.01  pkg:cpan/TUXEDO@1_00?ext=zip
 TuxedoServer                        0.01  pkg:cpan/TUXEDO@1_00?ext=zip
-Tvh::Htsp::Client                   0.03  pkg:cpan/Tvh-Htsp-Client@0.03
+Tvh::Htsp::Client                   0.05  pkg:cpan/Tvh-Htsp-Client@0.05
 Tweet::ToDelicious                  0.08  pkg:cpan/Tweet-ToDelicious@0.08
 Tweet::ToDelicious::Entity         undef  pkg:cpan/Tweet-ToDelicious@0.08
 Tweet::ToDelicious::Entity::Interface undef  pkg:cpan/Tweet-ToDelicious@0.08
