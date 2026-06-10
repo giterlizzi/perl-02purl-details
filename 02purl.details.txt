@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 10 Jun 2026 08:01:38 GMT
+Last-Updated: Wed, 10 Jun 2026 12:49:42 GMT
 Line-Count: 264882
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -19611,37 +19611,37 @@ Astro::ADS::Role::ResultMapper      1.92  pkg:cpan/Astro-ADS@1.92
 Astro::ADS::Search                  1.92  pkg:cpan/Astro-ADS@1.92
 Astro::Aladin                        1.3  pkg:cpan/Astro-Aladin@2.0.2
 Astro::Aladin::LowLevel              1.2  pkg:cpan/Astro-Aladin@2.0.2
-Astro::App::Satpass2               0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::Copier       0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::Format       0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::Format::Dump 0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::Format::Template 0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::Format::Template::Provider 0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::FormatTime   0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::FormatTime::Cldr 0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::FormatTime::DateTime 0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::FormatTime::DateTime::Cldr 0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::FormatTime::DateTime::Strftime 0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::FormatTime::POSIX::Strftime 0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::FormatTime::Strftime 0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::FormatValue  0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::FormatValue::Formatter 0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::Geocode      0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::Geocode::OSM 0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::Locale       0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::Locale::C    0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::Macro        0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::Macro::Code  0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::Macro::Command 0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::ParseTime    0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::ParseTime::Code 0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::ParseTime::Date::Manip 0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::ParseTime::Date::Manip::v5 0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::ParseTime::Date::Manip::v6 0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::ParseTime::ISO8601 0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::Utils        0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::Warner       0.057  pkg:cpan/Astro-App-Satpass2@0.057
-Astro::App::Satpass2::Wrap::Array  0.057  pkg:cpan/Astro-App-Satpass2@0.057
+Astro::App::Satpass2               0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::Copier       0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::Format       0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::Format::Dump 0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::Format::Template 0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::Format::Template::Provider 0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::FormatTime   0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::FormatTime::Cldr 0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::FormatTime::DateTime 0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::FormatTime::DateTime::Cldr 0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::FormatTime::DateTime::Strftime 0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::FormatTime::POSIX::Strftime 0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::FormatTime::Strftime 0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::FormatValue  0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::FormatValue::Formatter 0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::Geocode      0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::Geocode::OSM 0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::Locale       0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::Locale::C    0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::Macro        0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::Macro::Code  0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::Macro::Command 0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::ParseTime    0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::ParseTime::Code 0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::ParseTime::Date::Manip 0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::ParseTime::Date::Manip::v5 0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::ParseTime::Date::Manip::v6 0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::ParseTime::ISO8601 0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::Utils        0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::Warner       0.058  pkg:cpan/Astro-App-Satpass2@0.058
+Astro::App::Satpass2::Wrap::Array  0.058  pkg:cpan/Astro-App-Satpass2@0.058
 Astro::Bibcode                     0.003  pkg:cpan/Astro-Bibcode@0.003
 Astro::Catalog                      4.38  pkg:cpan/Astro-Catalog@4.38
 Astro::Catalog::GSC::Query           1.2  pkg:cpan/Astro-Catalog@2.1.3
@@ -19906,7 +19906,7 @@ Astro::SkyX::sky6Web                0.11  pkg:cpan/Astro-SkyX@0.11
 Astro::SolarParallax                0.04  pkg:cpan/Astro-SolarParallax@0.04
 Astro::SolarParallax::Observer      0.01  pkg:cpan/Astro-SolarParallax@0.04
 Astro::SpaceElevator                0.05  pkg:cpan/Astro-SpaceElevator@0.05
-Astro::SpaceTrack                  0.181  pkg:cpan/Astro-SpaceTrack@0.181
+Astro::SpaceTrack                  0.182  pkg:cpan/Astro-SpaceTrack@0.182
 Astro::SunTime                      0.06  pkg:cpan/Astro-SunTime@0.06
 Astro::Sunrise                      0.99  pkg:cpan/Astro-Sunrise@0.99
 Astro::Telescope                    0.71  pkg:cpan/Astro-Telescope@0.71
@@ -223395,7 +223395,7 @@ Sub::PatternMatching                1.04  pkg:cpan/Sub-PatternMatching@1.04
 Sub::Pipe                           0.03  pkg:cpan/Sub-Pipe@0.03
 Sub::Pipeline                      0.011  pkg:cpan/Sub-Pipeline@0.011
 Sub::Prepend                        0.01  pkg:cpan/Sub-Prepend@0.01
-Sub::Private                        0.04  pkg:cpan/Sub-Private@0.04
+Sub::Private                        0.05  pkg:cpan/Sub-Private@0.05
 Sub::Protected                      0.02  pkg:cpan/Sub-Protected@0.02
 Sub::Prototype                      0.03  pkg:cpan/Sub-Prototype@0.03
 Sub::Prototype::Util                0.11  pkg:cpan/Sub-Prototype-Util@0.11
@@ -230268,7 +230268,7 @@ Test::Power                         0.14  pkg:cpan/Test-Power@0.14
 Test::Power::FromLine              undef  pkg:cpan/Test-Power@0.14
 Test::Prereq                       2.005  pkg:cpan/Test-Prereq@2.005
 Test::Prereq::Build                2.005  pkg:cpan/Test-Prereq@2.005
-Test::Prereq::Meta                 0.004  pkg:cpan/Test-Prereq-Meta@0.004
+Test::Prereq::Meta                 0.005  pkg:cpan/Test-Prereq-Meta@0.005
 Test::Presenter                      0.5  pkg:cpan/Test-Presenter@0.5
 Test::Presenter::Dbt2                0.5  pkg:cpan/Test-Presenter@0.5
 Test::Presenter::Dbt5                0.5  pkg:cpan/Test-Presenter@0.5
@@ -264321,7 +264321,7 @@ qbit::StringUtils                    2.8  pkg:cpan/qbit@2.8
 qbit_xgettext                      0.006  pkg:cpan/qbit_xgettext@0.006
 qmp                                 0.03  pkg:cpan/JRPC@0.61
 qq                                  0.06  pkg:cpan/qq@0.06
-qq_eval_namespace                  undef  pkg:cpan/Astro-App-Satpass2@0.057
+qq_eval_namespace                  undef  pkg:cpan/Astro-App-Satpass2@0.058
 quantarray_file                     2.20  pkg:cpan/Microarray@0.45c?ext=zip
 quantarray_image                    2.20  pkg:cpan/Microarray@0.45c?ext=zip
 quotes                              0.09  pkg:cpan/Finance-Quant@0.09
