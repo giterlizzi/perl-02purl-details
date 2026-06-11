@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 11 Jun 2026 20:11:47 GMT
+Last-Updated: Thu, 11 Jun 2026 23:16:45 GMT
 Line-Count: 264894
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -136894,7 +136894,7 @@ Mo::utils::CEFACT                   0.03  pkg:cpan/Mo-utils-CEFACT@0.03
 Mo::utils::CSS                      0.13  pkg:cpan/Mo-utils-CSS@0.13
 Mo::utils::Country                  0.02  pkg:cpan/Mo-utils-Country@0.02
 Mo::utils::Currency                 0.01  pkg:cpan/Mo-utils-Currency@0.01
-Mo::utils::Date                     0.04  pkg:cpan/Mo-utils-Date@0.04
+Mo::utils::Date                     0.05  pkg:cpan/Mo-utils-Date@0.05
 Mo::utils::EAN                      0.01  pkg:cpan/Mo-utils-EAN@0.01
 Mo::utils::Email                    0.02  pkg:cpan/Mo-utils-Email@0.02
 Mo::utils::Hash                     0.03  pkg:cpan/Mo-utils-Hash@0.03
@@ -200242,9 +200242,9 @@ Protocol::OTR::Account              0.05  pkg:cpan/Protocol-OTR@0.05
 Protocol::OTR::Channel              0.05  pkg:cpan/Protocol-OTR@0.05
 Protocol::OTR::Contact              0.05  pkg:cpan/Protocol-OTR@0.05
 Protocol::OTR::Fingerprint          0.05  pkg:cpan/Protocol-OTR@0.05
-Protocol::OVSDB                    0.099000  pkg:cpan/Protocol-OVSDB@v0.99.0
-Protocol::OVSDB::Lock              0.099000  pkg:cpan/Protocol-OVSDB@v0.99.0
-Protocol::OVSDB::Monitor           0.099000  pkg:cpan/Protocol-OVSDB@v0.99.0
+Protocol::OVSDB                    0.099001  pkg:cpan/Protocol-OVSDB@v0.99.1
+Protocol::OVSDB::Lock              0.099001  pkg:cpan/Protocol-OVSDB@v0.99.1
+Protocol::OVSDB::Monitor           0.099001  pkg:cpan/Protocol-OVSDB@v0.99.1
 Protocol::PerlDebugCLI             0.002  pkg:cpan/Protocol-PerlDebugCLI@0.002
 Protocol::PostgreSQL               0.008  pkg:cpan/Protocol-PostgreSQL@0.008
 Protocol::PostgreSQL::Client       0.008  pkg:cpan/Protocol-PostgreSQL@0.008
@@ -222373,9 +222373,9 @@ Stats::Fermi::FermiDiracStats      undef  pkg:cpan/Stats-Fermi@0.1.7
 Stats::Hawking                     0.001003  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HTRandom           undef  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HawkingTemperature undef  pkg:cpan/Stats-Hawking@0.1.3
-Stats::LikeR                        0.14  pkg:cpan/Stats-LikeR@0.14
-Stats::LikeR::Col                   0.14  pkg:cpan/Stats-LikeR@0.14
-Stats::LikeR::Pred                  0.14  pkg:cpan/Stats-LikeR@0.14
+Stats::LikeR                        0.15  pkg:cpan/Stats-LikeR@0.15
+Stats::LikeR::Col                   0.15  pkg:cpan/Stats-LikeR@0.15
+Stats::LikeR::Pred                  0.15  pkg:cpan/Stats-LikeR@0.15
 StatsView::Graph                    1.15  pkg:cpan/StatsView@1.4
 StatsView::Graph::Iost             undef  pkg:cpan/StatsView@1.4
 StatsView::Graph::Iostat           undef  pkg:cpan/StatsView@1.4
