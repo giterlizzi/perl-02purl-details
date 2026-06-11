@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 11 Jun 2026 08:29:22 GMT
-Line-Count: 264892
+Last-Updated: Thu, 11 Jun 2026 13:53:32 GMT
+Line-Count: 264894
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -45170,6 +45170,7 @@ Clarity::XOG::Command::commands    undef  pkg:cpan/Clarity-XOG-Merge@1.001
 Clarity::XOG::Command::merge       undef  pkg:cpan/Clarity-XOG-Merge@1.001
 Clarity::XOG::Command::selftest    undef  pkg:cpan/Clarity-XOG-Merge@1.001
 Clarity::XOG::Merge                1.001  pkg:cpan/Clarity-XOG-Merge@1.001
+Class::Abstract                     0.01  pkg:cpan/Class-Abstract@0.01
 Class::Accessor                     0.51  pkg:cpan/Class-Accessor@0.51
 Class::Accessor::Array             0.032  pkg:cpan/Class-Accessor-Array@0.032
 Class::Accessor::Array::Glob        0.01  pkg:cpan/Class-Accessor-Array-Glob@0.01
@@ -57473,7 +57474,7 @@ Data::Dumper::EasyOO               0.0503  pkg:cpan/Data-Dumper-EasyOO@0.0503
 Data::Dumper::GUI                  0.006  pkg:cpan/Data-Dumper-GUI@0.006
 Data::Dumper::HTML                 0.000002  pkg:cpan/Data-Dumper-HTML@v0.0.2
 Data::Dumper::Hash                   1.0  pkg:cpan/Data-Dumper-Hash@0.001
-Data::Dumper::Interp               8.000  pkg:cpan/Data-Dumper-Interp@8.000
+Data::Dumper::Interp               8.001  pkg:cpan/Data-Dumper-Interp@8.001
 Data::Dumper::Lazy                  0.01  pkg:cpan/Data-Dumper-Lazy?ext=zip
 Data::Dumper::Limited               0.03  pkg:cpan/Data-Dumper-Limited@0.03
 Data::Dumper::LispLike             0.004  pkg:cpan/Data-Dumper-LispLike@0.004
@@ -110810,6 +110811,7 @@ IEPM::PingER::Statistics::Loss::CLP undef  pkg:cpan/perfSONAR_PS-Services-PingER
 IEPM::PingER::Statistics::Other    undef  pkg:cpan/perfSONAR_PS-Services-PingER@0.09
 IEPM::PingER::Statistics::RTT      undef  pkg:cpan/perfSONAR_PS-Services-PingER@0.09
 IETF::ACE                           0.04  pkg:cpan/IETF-ACE@0.04
+IFNGENO::GenoPheno::Utils           0.01  pkg:cpan/IFNGENO-GenoPheno-Utils@0.01
 IIIF                                0.07  pkg:cpan/IIIF@0.07
 IIIF::ImageAPI                      0.07  pkg:cpan/IIIF@0.07
 IIIF::Magick                        0.07  pkg:cpan/IIIF@0.07
@@ -127561,7 +127563,7 @@ MARC::Detrans::Rules               undef  pkg:cpan/MARC-Detrans@1.41
 MARC::Errorchecks                   1.18  pkg:cpan/MARC-Errorchecks@1.18
 MARC::Fast                          0.12  pkg:cpan/MARC-Fast@0.12
 MARC::Field                        undef  pkg:cpan/MARC-Record@2.0.7
-MARC::Field008                      0.05  pkg:cpan/MARC-Field008@0.05
+MARC::Field008                      0.06  pkg:cpan/MARC-Field008@0.06
 MARC::Field008::L10N                0.01  pkg:cpan/MARC-Field008-L10N@0.01
 MARC::Field008::L10N::cs            0.01  pkg:cpan/MARC-Field008-L10N@0.01
 MARC::Field008::L10N::en            0.01  pkg:cpan/MARC-Field008-L10N@0.01
@@ -194600,7 +194602,7 @@ Perl::Critic::Policy::Variables::ProhibitPunctuationVars 1.156  pkg:cpan/Perl-Cr
 Perl::Critic::Policy::Variables::ProhibitReusedNames 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Variables::ProhibitTopicIterator 0.000007  pkg:cpan/Perl-Critic-Grape@0.0.7
 Perl::Critic::Policy::Variables::ProhibitUnusedVariables 1.156  pkg:cpan/Perl-Critic@1.156
-Perl::Critic::Policy::Variables::ProhibitUnusedVarsStricter 0.115  pkg:cpan/Perl-Critic-Policy-Variables-ProhibitUnusedVarsStricter@0.115
+Perl::Critic::Policy::Variables::ProhibitUnusedVarsStricter 0.116  pkg:cpan/Perl-Critic-Policy-Variables-ProhibitUnusedVarsStricter@0.116
 Perl::Critic::Policy::Variables::ProhibitUselessInitialization  0.02  pkg:cpan/Perl-Critic-PetPeeves-JTRAMMELL@0.04
 Perl::Critic::Policy::Variables::ProtectPrivateVars 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Variables::RequireHungarianNotation 0.000007  pkg:cpan/Perl-Critic-Policy-Variables-RequireHungarianNotation@0.0.7
@@ -228548,7 +228550,7 @@ Test2::Tools::HTTP::UA::Mojo::Proxy  0.05  pkg:cpan/Test2-Tools-HTTP-UA-Mojo@0.0
 Test2::Tools::HarnessTester        1.000172  pkg:cpan/Test2-Harness@1.000172
 Test2::Tools::JSON                  0.06  pkg:cpan/Test2-Tools-JSON@0.06
 Test2::Tools::JSON::Pointer         0.02  pkg:cpan/Test2-Tools-JSON-Pointer@0.02
-Test2::Tools::LoadModule           0.009  pkg:cpan/Test2-Tools-LoadModule@0.009
+Test2::Tools::LoadModule           0.010  pkg:cpan/Test2-Tools-LoadModule@0.010
 Test2::Tools::MIDI                  0.02  pkg:cpan/Test2-Tools-MIDI@0.02
 Test2::Tools::MemoryCycle           0.01  pkg:cpan/Test2-Tools-MemoryCycle@0.01
 Test2::Tools::Mock                 1.302220  pkg:cpan/Test-Simple@1.302220
@@ -230258,7 +230260,7 @@ Test::Pod::Coverage::Permissive     0.05  pkg:cpan/Test-Pod-Coverage-Permissive@
 Test::Pod::Coverage::TrustMe       0.002001  pkg:cpan/Pod-Coverage-TrustMe@0.002001
 Test::Pod::CoverageChange          0.005  pkg:cpan/Test-Pod-CoverageChange@0.005
 Test::Pod::LinkCheck               0.008  pkg:cpan/Test-Pod-LinkCheck@0.008
-Test::Pod::LinkCheck::Lite         0.013  pkg:cpan/Test-Pod-LinkCheck-Lite@0.013
+Test::Pod::LinkCheck::Lite         0.014  pkg:cpan/Test-Pod-LinkCheck-Lite@0.014
 Test::Pod::Links                   0.003  pkg:cpan/Test-Pod-Links@0.003
 Test::Pod::No404s                   0.02  pkg:cpan/Test-Pod-No404s@0.02
 Test::Pod::Snippets                 0.07  pkg:cpan/Test-Pod-Snippets@0.07
