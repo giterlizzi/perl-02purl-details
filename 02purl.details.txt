@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 11 Jun 2026 17:32:54 GMT
+Last-Updated: Thu, 11 Jun 2026 20:11:47 GMT
 Line-Count: 264894
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -5077,32 +5077,32 @@ Alzabo::SQLMaker::PostgreSQL           2  pkg:cpan/Alzabo@0.92
 Alzabo::Schema                         2  pkg:cpan/Alzabo@0.92
 Alzabo::Table                          2  pkg:cpan/Alzabo@0.92
 Alzabo::Utils                      undef  pkg:cpan/Alzabo@0.92
-Amazon::API                        v2.2.2  pkg:cpan/Amazon-API@2.2.2
-Amazon::API::Botocore              v2.2.2  pkg:cpan/Amazon-API@2.2.2
-Amazon::API::Botocore::Pod         v2.2.2  pkg:cpan/Amazon-API@2.2.2
-Amazon::API::Botocore::Shape       v2.2.2  pkg:cpan/Amazon-API@2.2.2
-Amazon::API::Botocore::Shape::Serializer v2.2.2  pkg:cpan/Amazon-API@2.2.2
-Amazon::API::Botocore::Shape::Utils v2.2.2  pkg:cpan/Amazon-API@2.2.2
+Amazon::API                        v2.2.3  pkg:cpan/Amazon-API@2.2.3
+Amazon::API::Botocore              v2.2.3  pkg:cpan/Amazon-API@2.2.3
+Amazon::API::Botocore::Pod         v2.2.3  pkg:cpan/Amazon-API@2.2.3
+Amazon::API::Botocore::Shape       v2.2.3  pkg:cpan/Amazon-API@2.2.3
+Amazon::API::Botocore::Shape::Serializer v2.2.3  pkg:cpan/Amazon-API@2.2.3
+Amazon::API::Botocore::Shape::Utils v2.2.3  pkg:cpan/Amazon-API@2.2.3
 Amazon::API::CHIME                 v1.2.7  pkg:cpan/Amazon-API@1.3.3
 Amazon::API::CloudSearch           v1.2.7  pkg:cpan/Amazon-API@1.3.3
 Amazon::API::CloudSearchDomain     v1.2.7  pkg:cpan/Amazon-API@1.3.3
 Amazon::API::CloudWatchLogs        v1.3.5  pkg:cpan/Amazon-API@1.3.5
-Amazon::API::Constants             v2.2.2  pkg:cpan/Amazon-API@2.2.2
+Amazon::API::Constants             v2.2.3  pkg:cpan/Amazon-API@2.2.3
 Amazon::API::EC2                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::ECR                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::ECS                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
-Amazon::API::Error                 v2.2.2  pkg:cpan/Amazon-API@2.2.2
-Amazon::API::HTTP::Response            0  pkg:cpan/Amazon-API@2.2.2
-Amazon::API::HTTP::UserAgent           0  pkg:cpan/Amazon-API@2.2.2
-Amazon::API::NullLogger                0  pkg:cpan/Amazon-API@2.2.2
-Amazon::API::Pod::Parser            0.01  pkg:cpan/Amazon-API@2.2.2
-Amazon::API::Pod::Simple::Text      0.01  pkg:cpan/Amazon-API@2.2.2
+Amazon::API::Error                 v2.2.3  pkg:cpan/Amazon-API@2.2.3
+Amazon::API::HTTP::Response            0  pkg:cpan/Amazon-API@2.2.3
+Amazon::API::HTTP::UserAgent           0  pkg:cpan/Amazon-API@2.2.3
+Amazon::API::NullLogger                0  pkg:cpan/Amazon-API@2.2.3
+Amazon::API::Pod::Parser            0.01  pkg:cpan/Amazon-API@2.2.3
+Amazon::API::Pod::Simple::Text      0.01  pkg:cpan/Amazon-API@2.2.3
 Amazon::API::SQS                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::SSM                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::STS                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::SecretsManager        v1.3.5  pkg:cpan/Amazon-API@1.3.5
-Amazon::API::Signature4            v2.2.2  pkg:cpan/Amazon-API@2.2.2
-Amazon::API::Template                  0  pkg:cpan/Amazon-API@2.2.2
+Amazon::API::Signature4            v2.2.3  pkg:cpan/Amazon-API@2.2.3
+Amazon::API::Template                  0  pkg:cpan/Amazon-API@2.2.3
 Amazon::CloudFront::SignedURL       0.03  pkg:cpan/Amazon-CloudFront-SignedURL@0.03
 Amazon::CloudFront::Thin            0.05  pkg:cpan/Amazon-CloudFront-Thin@0.05
 Amazon::CreatorsAPI                 0.01  pkg:cpan/Amazon-CreatorsAPI@0.01
@@ -203199,7 +203199,7 @@ RPerl::Test                        0.004  pkg:cpan/RPerl@7.000000
 RPi::ADC::ADS                       1.02  pkg:cpan/RPi-ADC-ADS@1.02
 RPi::ADC::MCP3008                  2.3605  pkg:cpan/RPi-ADC-MCP3008@2.3605
 RPi::BMP180                        2.3604  pkg:cpan/RPi-BMP180@2.3604
-RPi::Const                          1.04  pkg:cpan/RPi-Const@1.04
+RPi::Const                          1.05  pkg:cpan/RPi-Const@1.05
 RPi::DAC::MCP4922                  2.3605  pkg:cpan/RPi-DAC-MCP4922@2.3605
 RPi::DHT11                          1.04  pkg:cpan/RPi-DHT11@1.04
 RPi::DigiPot::MCP4XXXX             2.3604  pkg:cpan/RPi-DigiPot-MCP4XXXX@2.3604
