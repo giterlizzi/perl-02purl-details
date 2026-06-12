@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 12 Jun 2026 08:18:02 GMT
+Last-Updated: Fri, 12 Jun 2026 12:50:25 GMT
 Line-Count: 264894
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -130950,7 +130950,7 @@ Map::Tube::Paris                   v0.2.0  pkg:cpan/Map-Tube-Paris@v0.2.0
 Map::Tube::Pluggable                4.10  pkg:cpan/Map-Tube@4.10
 Map::Tube::Plugin::Formatter        0.17  pkg:cpan/Map-Tube-Plugin-Formatter@0.17
 Map::Tube::Plugin::Formatter::Utils  0.17  pkg:cpan/Map-Tube-Plugin-Formatter@0.17
-Map::Tube::Plugin::FuzzyFind       v0.81.2  pkg:cpan/Map-Tube-Plugin-FuzzyFind@v0.81.2
+Map::Tube::Plugin::FuzzyFind       v0.81.3  pkg:cpan/Map-Tube-Plugin-FuzzyFind@v0.81.3
 Map::Tube::Plugin::Graph            0.49  pkg:cpan/Map-Tube-Plugin-Graph@0.49
 Map::Tube::Plugin::Graph::Utils     0.49  pkg:cpan/Map-Tube-Plugin-Graph@0.49
 Map::Tube::Prague                   0.16  pkg:cpan/Map-Tube-Prague@0.16
@@ -194487,7 +194487,7 @@ Perl::Critic::Policy::References::ProhibitRefChecks 0.000007  pkg:cpan/Perl-Crit
 Perl::Critic::Policy::References::RequireSigils 0.000007  pkg:cpan/Perl-Critic-Grape@0.0.7
 Perl::Critic::Policy::RegularExpressions::ProhibitCaptureWithoutTest 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::RegularExpressions::ProhibitComplexRegexes 1.156  pkg:cpan/Perl-Critic@1.156
-Perl::Critic::Policy::RegularExpressions::ProhibitEmptyAlternatives 0.005  pkg:cpan/Perl-Critic-Policy-RegularExpressions-ProhibitEmptyAlternatives@0.005
+Perl::Critic::Policy::RegularExpressions::ProhibitEmptyAlternatives 0.006  pkg:cpan/Perl-Critic-Policy-RegularExpressions-ProhibitEmptyAlternatives@0.006
 Perl::Critic::Policy::RegularExpressions::ProhibitEnumeratedClasses 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::RegularExpressions::ProhibitEscapedMetacharacters 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::RegularExpressions::ProhibitFixedStringMatches 1.156  pkg:cpan/Perl-Critic@1.156
@@ -194562,7 +194562,7 @@ Perl::Critic::Policy::ValuesAndExpressions::ProhibitEmptyPostfixLoop 0.001  pkg:
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitEmptyQuotes 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitEscapedCharacters 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitFiletest_f   100  pkg:cpan/Perl-Critic-Pulp@100
-Perl::Critic::Policy::ValuesAndExpressions::ProhibitFiletest_rwxRWX 0.002  pkg:cpan/Perl-Critic-Policy-ValuesAndExpressions-ProhibitFiletest_rwxRWX@0.002
+Perl::Critic::Policy::ValuesAndExpressions::ProhibitFiletest_rwxRWX 0.003  pkg:cpan/Perl-Critic-Policy-ValuesAndExpressions-ProhibitFiletest_rwxRWX@0.003
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitImplicitNewlines 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitInterpolationOfLiterals 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitLeadingZeros 1.156  pkg:cpan/Perl-Critic@1.156
@@ -194595,7 +194595,7 @@ Perl::Critic::Policy::Variables::ProhibitEvilVariables 1.156  pkg:cpan/Perl-Crit
 Perl::Critic::Policy::Variables::ProhibitLocalVars 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Variables::ProhibitLoopOnHash 0.009  pkg:cpan/Perl-Critic-Policy-Variables-ProhibitLoopOnHash@0.009
 Perl::Critic::Policy::Variables::ProhibitMatchVars 1.156  pkg:cpan/Perl-Critic@1.156
-Perl::Critic::Policy::Variables::ProhibitNumericNamesWithLeadingZero 0.002  pkg:cpan/Perl-Critic-Policy-Variables-ProhibitNumericNamesWithLeadingZero@0.002
+Perl::Critic::Policy::Variables::ProhibitNumericNamesWithLeadingZero 0.003  pkg:cpan/Perl-Critic-Policy-Variables-ProhibitNumericNamesWithLeadingZero@0.003
 Perl::Critic::Policy::Variables::ProhibitPackageVars 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Variables::ProhibitPerl4PackageNames 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Variables::ProhibitPunctuationVars 1.156  pkg:cpan/Perl-Critic@1.156
