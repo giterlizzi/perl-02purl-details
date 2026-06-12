@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 11 Jun 2026 23:16:45 GMT
+Last-Updated: Fri, 12 Jun 2026 02:52:56 GMT
 Line-Count: 264894
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -49574,12 +49574,12 @@ Crypt::PBE::PBES1                  0.103  pkg:cpan/Crypt-PBE@0.103
 Crypt::PBE::PBES2                  0.103  pkg:cpan/Crypt-PBE@0.103
 Crypt::PBE::PBKDF1                 0.103  pkg:cpan/Crypt-PBE@0.103
 Crypt::PBE::PBKDF2                 0.103  pkg:cpan/Crypt-PBE@0.103
-Crypt::PBKDF2                      0.161520  pkg:cpan/Crypt-PBKDF2@0.161520
-Crypt::PBKDF2::Hash                0.161520  pkg:cpan/Crypt-PBKDF2@0.161520
-Crypt::PBKDF2::Hash::DigestHMAC    0.161520  pkg:cpan/Crypt-PBKDF2@0.161520
-Crypt::PBKDF2::Hash::HMACSHA1      0.161520  pkg:cpan/Crypt-PBKDF2@0.161520
-Crypt::PBKDF2::Hash::HMACSHA2      0.161520  pkg:cpan/Crypt-PBKDF2@0.161520
-Crypt::PBKDF2::Hash::HMACSHA3      0.161520  pkg:cpan/Crypt-PBKDF2@0.161520
+Crypt::PBKDF2                      0.261630  pkg:cpan/Crypt-PBKDF2@0.261630
+Crypt::PBKDF2::Hash                0.261630  pkg:cpan/Crypt-PBKDF2@0.261630
+Crypt::PBKDF2::Hash::DigestHMAC    0.261630  pkg:cpan/Crypt-PBKDF2@0.261630
+Crypt::PBKDF2::Hash::HMACSHA1      0.261630  pkg:cpan/Crypt-PBKDF2@0.261630
+Crypt::PBKDF2::Hash::HMACSHA2      0.261630  pkg:cpan/Crypt-PBKDF2@0.261630
+Crypt::PBKDF2::Hash::HMACSHA3      0.261630  pkg:cpan/Crypt-PBKDF2@0.261630
 Crypt::PGP2                         0.03  pkg:cpan/Crypt-PGP2@0.03
 Crypt::PGP5                         1.38  pkg:cpan/Crypt-PGP5@1.38
 Crypt::PGPSimple                    0.13  pkg:cpan/Crypt-PGPSimple@0.13
@@ -69753,7 +69753,7 @@ Email::Abstract::MailInternet      3.010  pkg:cpan/Email-Abstract@3.010
 Email::Abstract::MailMessage       3.010  pkg:cpan/Email-Abstract@3.010
 Email::Abstract::Plugin            3.010  pkg:cpan/Email-Abstract@3.010
 Email::Abstract::QpsmtpdTransaction  0.02  pkg:cpan/Email-Abstract-QpsmtpdTransaction@0.02
-Email::Abuse::Investigator          0.09  pkg:cpan/Email-Abuse-Investigator@0.09
+Email::Abuse::Investigator          0.10  pkg:cpan/Email-Abuse-Investigator@0.10
 Email::Address                     1.913  pkg:cpan/Email-Address@1.913
 Email::Address::Classify            0.02  pkg:cpan/Email-Address-Classify@0.02
 Email::Address::JP::Mobile          0.08  pkg:cpan/Email-Address-JP-Mobile@0.08
@@ -142935,7 +142935,7 @@ Music::RhythmSet::Voice             0.06  pkg:cpan/Music-RhythmSet@0.06
 Music::Scala                        1.08  pkg:cpan/Music-Scala@1.08
 Music::ScaleNote                   0.0905  pkg:cpan/Music-ScaleNote@0.0905
 Music::Scales                       0.07  pkg:cpan/Music-Scales@0.07
-Music::SimpleDrumMachine           0.0509  pkg:cpan/Music-SimpleDrumMachine@0.0509
+Music::SimpleDrumMachine           0.0510  pkg:cpan/Music-SimpleDrumMachine@0.0510
 Music::Song                        undef  pkg:cpan/Gtk2-Ex-FormFactory@0.67
 Music::Tag                         0.4103  pkg:cpan/Music-Tag@0.4103
 Music::Tag::Amazon                 0.4101  pkg:cpan/Music-Tag-Amazon@0.4101
