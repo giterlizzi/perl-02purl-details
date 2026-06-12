@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 12 Jun 2026 16:39:29 GMT
-Line-Count: 264896
+Last-Updated: Fri, 12 Jun 2026 19:59:27 GMT
+Line-Count: 264897
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -4808,7 +4808,7 @@ Alien::XPA                         v2.1.20.7  pkg:cpan/Alien-XPA@v2.1.20.7
 Alien::Xmake                        0.08  pkg:cpan/Alien-Xmake@0.08
 Alien::Xrepo                        0.08  pkg:cpan/Alien-Xmake@0.08
 Alien::Xrepo::PackageInfo          undef  pkg:cpan/Alien-Xmake@0.08
-Alien::YAMLScript                  0.002014  pkg:cpan/Alien-YAMLScript@0.2.14
+Alien::YAMLScript                  0.002015  pkg:cpan/Alien-YAMLScript@0.2.15
 Alien::YARA                        v0.0.1  pkg:cpan/Alien-YARA@v0.0.6
 Alien::Z3                          0.002  pkg:cpan/Alien-Z3@0.002
 Alien::ZMQ                          0.06  pkg:cpan/Alien-ZMQ@0.06
@@ -5160,9 +5160,9 @@ Amazon::S3::BucketV2               v2.0.2  pkg:cpan/Amazon-S3@2.0.2
 Amazon::S3::Constants              v2.0.2  pkg:cpan/Amazon-S3@2.0.2
 Amazon::S3::FastUploader            0.08  pkg:cpan/Amazon-S3-FastUploader@0.08
 Amazon::S3::FastUploader::File      0.05  pkg:cpan/Amazon-S3-FastUploader@0.08
-Amazon::S3::Lite                   v1.1.4  pkg:cpan/Amazon-S3-Lite@1.1.4
-Amazon::S3::Lite::Credentials      v1.1.4  pkg:cpan/Amazon-S3-Lite@1.1.4
-Amazon::S3::Lite::Logger           v1.1.4  pkg:cpan/Amazon-S3-Lite@1.1.4
+Amazon::S3::Lite                   v1.1.5  pkg:cpan/Amazon-S3-Lite@1.1.5
+Amazon::S3::Lite::Credentials      v1.1.5  pkg:cpan/Amazon-S3-Lite@1.1.5
+Amazon::S3::Lite::Logger           v1.1.5  pkg:cpan/Amazon-S3-Lite@1.1.5
 Amazon::S3::Logger                 v2.0.2  pkg:cpan/Amazon-S3@2.0.2
 Amazon::S3::Signature::V4              0  pkg:cpan/Amazon-S3@2.0.2
 Amazon::S3::SignedURLGenerator      0.02  pkg:cpan/Amazon-S3-SignedURLGenerator@0.02
@@ -32783,14 +32783,14 @@ CLI::Popt                           0.01  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X                       undef  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X::BadOption            undef  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X::Base                 undef  pkg:cpan/CLI-Popt@0.01
-CLI::Simple                        v2.0.2  pkg:cpan/CLI-Simple@2.0.2
-CLI::Simple::Constants             v2.0.2  pkg:cpan/CLI-Simple@2.0.2
-CLI::Simple::DumpSpec                  0  pkg:cpan/CLI-Simple@2.0.2
-CLI::Simple::Helpers                   0  pkg:cpan/CLI-Simple@2.0.2
-CLI::Simple::Migrate                   0  pkg:cpan/CLI-Simple@2.0.2
-CLI::Simple::Scaffold                  0  pkg:cpan/CLI-Simple@2.0.2
-CLI::Simple::Shell                     0  pkg:cpan/CLI-Simple@2.0.2
-CLI::Simple::Utils                 v2.0.2  pkg:cpan/CLI-Simple@2.0.2
+CLI::Simple                        v2.0.3  pkg:cpan/CLI-Simple@2.0.3
+CLI::Simple::Constants             v2.0.3  pkg:cpan/CLI-Simple@2.0.3
+CLI::Simple::DumpSpec                  0  pkg:cpan/CLI-Simple@2.0.3
+CLI::Simple::Helpers                   0  pkg:cpan/CLI-Simple@2.0.3
+CLI::Simple::Migrate                   0  pkg:cpan/CLI-Simple@2.0.3
+CLI::Simple::Scaffold                  0  pkg:cpan/CLI-Simple@2.0.3
+CLI::Simple::Shell                     0  pkg:cpan/CLI-Simple@2.0.3
+CLI::Simple::Utils                 v2.0.3  pkg:cpan/CLI-Simple@2.0.3
 CLI::Startup                        0.29  pkg:cpan/CLI-Startup@0.29
 CLI::Table::Key::Finder             0.31  pkg:cpan/CLI-Table-Key-Finder@0.31
 CLI::Table::Util                    0.06  pkg:cpan/CLI-Table-Util@0.06
@@ -52938,10 +52938,10 @@ DBIx::ObjectMapper::Session::Search undef  pkg:cpan/DBIx-ObjectMapper@0.3013
 DBIx::ObjectMapper::Session::UnitOfWork undef  pkg:cpan/DBIx-ObjectMapper@0.3013
 DBIx::ObjectMapper::Utils          undef  pkg:cpan/DBIx-ObjectMapper@0.3013
 DBIx::Objects                       0.04  pkg:cpan/DBIx-Objects@0.04
-DBIx::OnlineDDL                    v1.1.1  pkg:cpan/DBIx-OnlineDDL@v1.1.1
-DBIx::OnlineDDL::Helper::Base      v1.1.1  pkg:cpan/DBIx-OnlineDDL@v1.1.1
-DBIx::OnlineDDL::Helper::MySQL     v1.1.1  pkg:cpan/DBIx-OnlineDDL@v1.1.1
-DBIx::OnlineDDL::Helper::SQLite    v1.1.1  pkg:cpan/DBIx-OnlineDDL@v1.1.1
+DBIx::OnlineDDL                    v1.1.2  pkg:cpan/DBIx-OnlineDDL@v1.1.2
+DBIx::OnlineDDL::Helper::Base      v1.1.2  pkg:cpan/DBIx-OnlineDDL@v1.1.2
+DBIx::OnlineDDL::Helper::MySQL     v1.1.2  pkg:cpan/DBIx-OnlineDDL@v1.1.2
+DBIx::OnlineDDL::Helper::SQLite    v1.1.2  pkg:cpan/DBIx-OnlineDDL@v1.1.2
 DBIx::OpenTracing                  0.002000  pkg:cpan/DBIx-OpenTracing@v0.2.0
 DBIx::OpenTracing::Constants       undef  pkg:cpan/DBIx-OpenTracing@v0.2.0
 DBIx::OptimalQuery                 undef  pkg:cpan/CGI-OptimalQuery@0.30
@@ -157229,10 +157229,11 @@ OrePAN2::Logger                    undef  pkg:cpan/OrePAN2@0.53
 OrePAN2::Repository                undef  pkg:cpan/OrePAN2@0.53
 OrePAN2::Repository::Cache         undef  pkg:cpan/OrePAN2@0.53
 OrePAN2::Role::HasLogger           undef  pkg:cpan/OrePAN2@0.53
-OrePAN2::S3                        v1.2.1  pkg:cpan/OrePAN2-S3@1.2.1
-OrePAN2::S3::Role::Delete              0  pkg:cpan/OrePAN2-S3@1.2.1
-OrePAN2::S3::Role::Inject              0  pkg:cpan/OrePAN2-S3@1.2.1
-OrePAN2::S3::Role::UploadArtifacts     0  pkg:cpan/OrePAN2-S3@1.2.1
+OrePAN2::S3                        v1.2.3  pkg:cpan/OrePAN2-S3@1.2.3
+OrePAN2::S3::Indexer                   0  pkg:cpan/OrePAN2-S3@1.2.3
+OrePAN2::S3::Role::Delete              0  pkg:cpan/OrePAN2-S3@1.2.3
+OrePAN2::S3::Role::Inject              0  pkg:cpan/OrePAN2-S3@1.2.3
+OrePAN2::S3::Role::UploadArtifacts     0  pkg:cpan/OrePAN2-S3@1.2.3
 OrePAN2::Server                     0.04  pkg:cpan/OrePAN2-Server@0.04
 OrePAN2::Server::CLI               undef  pkg:cpan/OrePAN2-Server@0.04
 OrePAN::Archive                    undef  pkg:cpan/OrePAN@0.08
@@ -203197,19 +203198,19 @@ RPerl::Support                     0.001  pkg:cpan/RPerl@7.000000
 RPerl::Support::MongoDB            0.001  pkg:cpan/RPerl@7.000000
 RPerl::Test                        0.004  pkg:cpan/RPerl@7.000000
 RPi::ADC::ADS                       1.02  pkg:cpan/RPi-ADC-ADS@1.02
-RPi::ADC::MCP3008                  2.3605  pkg:cpan/RPi-ADC-MCP3008@2.3605
-RPi::BMP180                        2.3604  pkg:cpan/RPi-BMP180@2.3604
+RPi::ADC::MCP3008                  3.1801  pkg:cpan/RPi-ADC-MCP3008@3.1801
+RPi::BMP180                        3.1801  pkg:cpan/RPi-BMP180@3.1801
 RPi::Const                          1.05  pkg:cpan/RPi-Const@1.05
-RPi::DAC::MCP4922                  2.3605  pkg:cpan/RPi-DAC-MCP4922@2.3605
-RPi::DHT11                          1.04  pkg:cpan/RPi-DHT11@1.04
-RPi::DigiPot::MCP4XXXX             2.3604  pkg:cpan/RPi-DigiPot-MCP4XXXX@2.3604
+RPi::DAC::MCP4922                  3.1801  pkg:cpan/RPi-DAC-MCP4922@3.1801
+RPi::DHT11                          1.05  pkg:cpan/RPi-DHT11@1.05
+RPi::DigiPot::MCP4XXXX             3.1801  pkg:cpan/RPi-DigiPot-MCP4XXXX@3.1801
 RPi::EEPROM::AT24C32                0.01  pkg:cpan/RPi-EEPROM-AT24C32@0.01
-RPi::GPIOExpander::MCP23017         1.02  pkg:cpan/RPi-GPIOExpander-MCP23017@1.02
-RPi::HCSR04                        2.3604  pkg:cpan/RPi-HCSR04@2.3604
-RPi::I2C                           2.3608  pkg:cpan/RPi-I2C@2.3608
-RPi::LCD                           2.3604  pkg:cpan/RPi-LCD@2.3604
+RPi::GPIOExpander::MCP23017         1.03  pkg:cpan/RPi-GPIOExpander-MCP23017@1.03
+RPi::HCSR04                        3.1801  pkg:cpan/RPi-HCSR04@3.1801
+RPi::I2C                           3.1801  pkg:cpan/RPi-I2C@3.1801
+RPi::LCD                           3.1801  pkg:cpan/RPi-LCD@3.1801
 RPi::MultiPCA9685                   0.08  pkg:cpan/RPi-MultiPCA9685@0.08
-RPi::OLED::SSD1306::128_64         2.3603  pkg:cpan/RPi-OLED-SSD1306-128_64@2.3603
+RPi::OLED::SSD1306::128_64         3.1801  pkg:cpan/RPi-OLED-SSD1306-128_64@3.1801
 RPi::PIGPIO                        0.017  pkg:cpan/RPi-PIGPIO@0.017
 RPi::PIGPIO::Assistant             undef  pkg:cpan/RPi-PIGPIO@0.017
 RPi::PIGPIO::Device::ADC::MCP300x  undef  pkg:cpan/RPi-PIGPIO@0.017
@@ -203219,12 +203220,12 @@ RPi::PIGPIO::Device::DSM501A       undef  pkg:cpan/RPi-PIGPIO@0.017
 RPi::PIGPIO::Device::LED           undef  pkg:cpan/RPi-PIGPIO@0.017
 RPi::PIGPIO::Device::MH_Z14        undef  pkg:cpan/RPi-PIGPIO@0.017
 RPi::PIGPIO::Device::Switch        undef  pkg:cpan/RPi-PIGPIO@0.017
-RPi::Pin                           2.3608  pkg:cpan/RPi-Pin@2.3608
+RPi::Pin                           3.1801  pkg:cpan/RPi-Pin@3.1801
 RPi::RTC::DS3231                    0.01  pkg:cpan/RPi-RTC-DS3231@0.01
-RPi::SPI                           2.3609  pkg:cpan/RPi-SPI@2.3609
-RPi::Serial                         3.00  pkg:cpan/RPi-Serial@3.00
-RPi::StepperMotor                  2.3605  pkg:cpan/RPi-StepperMotor@2.3605
-RPi::SysInfo                        1.00  pkg:cpan/RPi-SysInfo@1.00
+RPi::SPI                           3.1801  pkg:cpan/RPi-SPI@3.1801
+RPi::Serial                         3.02  pkg:cpan/RPi-Serial@3.02
+RPi::StepperMotor                  3.1801  pkg:cpan/RPi-StepperMotor@3.1801
+RPi::SysInfo                        1.02  pkg:cpan/RPi-SysInfo@1.02
 RPi::UnicornHatHD                   0.07  pkg:cpan/RPi-UnicornHatHD@0.07
 RPi::WiringPi                      2.3633  pkg:cpan/RPi-WiringPi@2.3633
 RPi::WiringPi::Constant             1.02  pkg:cpan/RPi-WiringPi-Constant@1.02
@@ -248346,10 +248347,10 @@ Web::MarketReceipt::Verifier::Mock::AppStore undef  pkg:cpan/Web-MarketReceipt@0
 Web::Mention                       0.721  pkg:cpan/Web-Mention@0.721
 Web::Mention::Author               undef  pkg:cpan/Web-Mention@0.721
 Web::MicroID                        0.02  pkg:cpan/Web-MicroID@0.02
-Web::Microformats2                 0.511  pkg:cpan/Web-Microformats2@0.511
-Web::Microformats2::Document       undef  pkg:cpan/Web-Microformats2@0.511
-Web::Microformats2::Item           undef  pkg:cpan/Web-Microformats2@0.511
-Web::Microformats2::Parser         undef  pkg:cpan/Web-Microformats2@0.511
+Web::Microformats2                 0.512  pkg:cpan/Web-Microformats2@0.512
+Web::Microformats2::Document       undef  pkg:cpan/Web-Microformats2@0.512
+Web::Microformats2::Item           undef  pkg:cpan/Web-Microformats2@0.512
+Web::Microformats2::Parser         undef  pkg:cpan/Web-Microformats2@0.512
 Web::NewsAPI                       0.002  pkg:cpan/Web-NewsAPI@0.002
 Web::NewsAPI::Article              undef  pkg:cpan/Web-NewsAPI@0.002
 Web::NewsAPI::Result               undef  pkg:cpan/Web-NewsAPI@0.002
@@ -253652,9 +253653,9 @@ Win32::MSAgent                      0.07  pkg:cpan/Win32-MSAgent@0.07
 Win32::MSI::DB                      1.06  pkg:cpan/Win32-MSI-DB@1.06
 Win32::MSI::HighLevel              1.0008  pkg:cpan/Win32-MSI-HighLevel@1.0008
 Win32::MailboxGUID                  0.02  pkg:cpan/Win32-MailboxGUID@0.02
-Win32::Mechanize::NotepadPlusPlus  0.011  pkg:cpan/Win32-Mechanize-NotepadPlusPlus@0.011
-Win32::Mechanize::NotepadPlusPlus::Editor 0.011  pkg:cpan/Win32-Mechanize-NotepadPlusPlus@0.011
-Win32::Mechanize::NotepadPlusPlus::Notepad 0.011  pkg:cpan/Win32-Mechanize-NotepadPlusPlus@0.011
+Win32::Mechanize::NotepadPlusPlus  0.012  pkg:cpan/Win32-Mechanize-NotepadPlusPlus@0.012
+Win32::Mechanize::NotepadPlusPlus::Editor 0.012  pkg:cpan/Win32-Mechanize-NotepadPlusPlus@0.012
+Win32::Mechanize::NotepadPlusPlus::Notepad 0.012  pkg:cpan/Win32-Mechanize-NotepadPlusPlus@0.012
 Win32::MediaPlayer                   0.3  pkg:cpan/Win32-MediaPlayer@0.3?ext=zip
 Win32::MessageLoop                  0.03  pkg:cpan/Win32-MessageLoop@0.03
 Win32::MinXML                       0.04  pkg:cpan/Win32-MinXSLT@0.04
@@ -254036,11 +254037,11 @@ Wireguard::WGmeta::Wrapper::Bridge undef  pkg:cpan/Wireguard-WGmeta@0.3.4
 Wireguard::WGmeta::Wrapper::Config 0.003004  pkg:cpan/Wireguard-WGmeta@0.3.4
 Wireguard::WGmeta::Wrapper::ConfigT 0.003004  pkg:cpan/Wireguard-WGmeta@0.3.4
 Wireguard::WGmeta::Wrapper::Show   0.003004  pkg:cpan/Wireguard-WGmeta@0.3.4
-WiringPi::API                      3.1802  pkg:cpan/WiringPi-API@3.1802
-WiringPi::API::BackgroundInterrupt undef  pkg:cpan/WiringPi-API@3.1802
-WiringPi::API::BackgroundInterrupts undef  pkg:cpan/WiringPi-API@3.1802
-WiringPi::API::Worker              undef  pkg:cpan/WiringPi-API@3.1802
-WiringPi::API::WorkerThread        undef  pkg:cpan/WiringPi-API@3.1802
+WiringPi::API                      3.1803  pkg:cpan/WiringPi-API@3.1803
+WiringPi::API::BackgroundInterrupt undef  pkg:cpan/WiringPi-API@3.1803
+WiringPi::API::BackgroundInterrupts undef  pkg:cpan/WiringPi-API@3.1803
+WiringPi::API::Worker              undef  pkg:cpan/WiringPi-API@3.1803
+WiringPi::API::WorkerThread        undef  pkg:cpan/WiringPi-API@3.1803
 Wishlist                            0.02  pkg:cpan/Wishlist@0.02
 Wishlist::Controller::Access       undef  pkg:cpan/Wishlist@0.02
 Wishlist::Controller::List         undef  pkg:cpan/Wishlist@0.02
@@ -259050,8 +259051,8 @@ YAML::XS                           v0.907.0  pkg:cpan/YAML-LibYAML@v0.907.0
 YAML::XS::LibYAML                  undef  pkg:cpan/YAML-LibYAML@0.89
 YAML::YAML2ADoc                    0.001000  pkg:cpan/YAML-YAML2ADoc@0.1.0
 YAML::yq::Helper                   0.002000  pkg:cpan/YAML-yq-Helper@0.2.0
-YAMLScript                         0.002014  pkg:cpan/YAMLScript@0.2.14
-YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.2.14
+YAMLScript                         0.002015  pkg:cpan/YAMLScript@0.2.15
+YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.2.15
 YAMLScript::Base                   undef  pkg:cpan/YAMLScript@0.0.7
 YAMLScript::CLI                    undef  pkg:cpan/YAMLScript@0.1.3
 YAMLScript::Call                   undef  pkg:cpan/YAMLScript@0.0.16
