@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 13 Jun 2026 21:06:34 GMT
-Line-Count: 264919
+Last-Updated: Sat, 13 Jun 2026 22:57:39 GMT
+Line-Count: 264920
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -263333,6 +263333,7 @@ intensity_heatmap                    1.5  pkg:cpan/Microarray@0.45c?ext=zip
 intensity_scatter                    1.5  pkg:cpan/Microarray@0.45c?ext=zip
 invoker                             0.36  pkg:cpan/invoker@0.36
 iodbc                               0.01  pkg:cpan/iodbc_ext@0_1
+ioqwerty                           0.000001  pkg:cpan/ioqwerty@0.0.1
 ios_get_interfaces                   1.7  pkg:cpan/ios_get_interfaces@1.7
 irai                               0.003  pkg:cpan/App-mirai@0.003
 is_collector                        2.06  pkg:cpan/StorageDisplay@2.06
