@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 13 Jun 2026 07:40:35 GMT
+Last-Updated: Sat, 13 Jun 2026 10:22:49 GMT
 Line-Count: 264901
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -30387,7 +30387,7 @@ Business::IS::PIN                   0.06  pkg:cpan/Business-IS-PIN@0.06
 Business::ISBN                     3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN10                   3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN13                   3.014  pkg:cpan/Business-ISBN@3.014
-Business::ISBN::Data               20260611.001  pkg:cpan/Business-ISBN-Data@20260611.001
+Business::ISBN::Data               20260613.001  pkg:cpan/Business-ISBN-Data@20260613.001
 Business::ISIN                      0.20  pkg:cpan/Business-ISIN@0.20?ext=tgz
 Business::ISMN                     1.205  pkg:cpan/Business-ISMN@1.205
 Business::ISMN::Data               1.205  pkg:cpan/Business-ISMN@1.205
@@ -75381,11 +75381,11 @@ Finance::Tax::Aruba::Income::2023  0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::Tax::Aruba::Income::2025  0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::Tax::Aruba::Role::Income::TaxYear 0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::TickerSymbols              3.11  pkg:cpan/Finance-TickerSymbols@3.11?ext=zip
-Finance::Tiller2QIF                 1.07  pkg:cpan/Finance-Tiller2QIF@1.07
-Finance::Tiller2QIF::Map            1.07  pkg:cpan/Finance-Tiller2QIF@1.07
-Finance::Tiller2QIF::ReadCSV        1.07  pkg:cpan/Finance-Tiller2QIF@1.07
-Finance::Tiller2QIF::Util           1.07  pkg:cpan/Finance-Tiller2QIF@1.07
-Finance::Tiller2QIF::WriteQIF       1.07  pkg:cpan/Finance-Tiller2QIF@1.07
+Finance::Tiller2QIF                 1.08  pkg:cpan/Finance-Tiller2QIF@1.08
+Finance::Tiller2QIF::Map            1.08  pkg:cpan/Finance-Tiller2QIF@1.08
+Finance::Tiller2QIF::ReadCSV        1.08  pkg:cpan/Finance-Tiller2QIF@1.08
+Finance::Tiller2QIF::Util           1.08  pkg:cpan/Finance-Tiller2QIF@1.08
+Finance::Tiller2QIF::WriteQIF       1.08  pkg:cpan/Finance-Tiller2QIF@1.08
 Finance::USDX                       0.03  pkg:cpan/Finance-USDX@0.03
 Finance::Wesabe                     0.02  pkg:cpan/Finance-Wesabe@0.02
 Finance::Wesabe::Account           undef  pkg:cpan/Finance-Wesabe@0.02
@@ -139353,8 +139353,8 @@ Mojolicious::Plugin::PubSub::WebSocket  0.06  pkg:cpan/Mojo-WebSocket-PubSub@0.0
 Mojolicious::Plugin::PubSubHubbub   0.22  pkg:cpan/Mojolicious-Plugin-PubSubHubbub@0.22
 Mojolicious::Plugin::Pubsub        0.006  pkg:cpan/Mojolicious-Plugin-Pubsub@0.006
 Mojolicious::Plugin::Qaptcha        0.11  pkg:cpan/Mojolicious-Plugin-Qaptcha@0.11
-Mojolicious::Plugin::Qooxdoo       1.000014  pkg:cpan/Mojolicious-Plugin-Qooxdoo@1.0.14
-Mojolicious::Plugin::Qooxdoo::JsonRpcController 1.000014  pkg:cpan/Mojolicious-Plugin-Qooxdoo@1.0.14
+Mojolicious::Plugin::Qooxdoo       1.001000  pkg:cpan/Mojolicious-Plugin-Qooxdoo@1.1.0
+Mojolicious::Plugin::Qooxdoo::JsonRpcController 1.001000  pkg:cpan/Mojolicious-Plugin-Qooxdoo@1.1.0
 Mojolicious::Plugin::QooxdooJsonrpc  0.96  pkg:cpan/MojoX-Dispatcher-Qooxdoo-Jsonrpc@0.96
 Mojolicious::Plugin::QuickMy         1.0  pkg:cpan/Mojolicious-Plugin-QuickMy@1.0
 Mojolicious::Plugin::QuickPg         1.6  pkg:cpan/Mojolicious-Plugin-QuickPg@1.6
@@ -245677,7 +245677,7 @@ WWW::MeGa::Item::Image              0.11  pkg:cpan/WWW-MeGa@0.11
 WWW::MeGa::Item::Other              0.11  pkg:cpan/WWW-MeGa@0.11
 WWW::MeGa::Item::Text               0.11  pkg:cpan/WWW-MeGa@0.11
 WWW::MeGa::Item::Video              0.11  pkg:cpan/WWW-MeGa@0.11
-WWW::Mechanize                      2.20  pkg:cpan/WWW-Mechanize@2.20
+WWW::Mechanize                      2.21  pkg:cpan/WWW-Mechanize@2.21
 WWW::Mechanize::AutoPager           0.02  pkg:cpan/WWW-Mechanize-AutoPager@0.02
 WWW::Mechanize::Boilerplate         0.03  pkg:cpan/WWW-Mechanize-Boilerplate@0.03
 WWW::Mechanize::Boilerplate::BBC   undef  pkg:cpan/WWW-Mechanize-Boilerplate@0.03
@@ -245711,8 +245711,8 @@ WWW::Mechanize::FormFiller::Value::Random::Date  0.13  pkg:cpan/WWW-Mechanize-Fo
 WWW::Mechanize::FormFiller::Value::Random::Word  0.13  pkg:cpan/WWW-Mechanize-FormFiller@0.13
 WWW::Mechanize::Frames              0.03  pkg:cpan/WWW-Mechanize-Frames@0.03
 WWW::Mechanize::GZip                0.14  pkg:cpan/WWW-Mechanize-GZip@0.14
-WWW::Mechanize::Image               2.20  pkg:cpan/WWW-Mechanize@2.20
-WWW::Mechanize::Link                2.20  pkg:cpan/WWW-Mechanize@2.20
+WWW::Mechanize::Image               2.21  pkg:cpan/WWW-Mechanize@2.21
+WWW::Mechanize::Link                2.21  pkg:cpan/WWW-Mechanize@2.21
 WWW::Mechanize::Meta                0.07  pkg:cpan/WWW-Mechanize-Meta@0.07
 WWW::Mechanize::PhantomJS           0.25  pkg:cpan/WWW-Mechanize-PhantomJS@0.25
 WWW::Mechanize::PhantomJS::Catalyst  0.02  pkg:cpan/WWW-Mechanize-PhantomJS-Catalyst@0.02
