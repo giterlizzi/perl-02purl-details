@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 13 Jun 2026 19:14:31 GMT
+Last-Updated: Sat, 13 Jun 2026 21:06:34 GMT
 Line-Count: 264919
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -12280,7 +12280,7 @@ App::PS1::Plugin::Perl              0.08  pkg:cpan/App-PS1@0.08
 App::PS1::Plugin::Processes         0.08  pkg:cpan/App-PS1@0.08
 App::PS1::Plugin::Ruby              0.08  pkg:cpan/App-PS1@0.08
 App::PS1::Plugin::Uptime            0.08  pkg:cpan/App-PS1@0.08
-App::PTP                            1.18  pkg:cpan/App-PTP@1.18
+App::PTP                            1.19  pkg:cpan/App-PTP@1.19
 App::PTP::Args                      0.01  pkg:cpan/App-PTP@1.13
 App::PTP::Commands                  0.01  pkg:cpan/App-PTP@1.13
 App::PTP::Files                     0.01  pkg:cpan/App-PTP@1.13
@@ -66341,7 +66341,7 @@ Dist::Mgr::Git                      1.14  pkg:cpan/Dist-Mgr@1.14
 Dist::Milla                        1.000022  pkg:cpan/Dist-Milla@v1.0.22
 Dist::Milla::App                   1.000022  pkg:cpan/Dist-Milla@v1.0.22
 Dist::PolicyFiles                   0.09  pkg:cpan/Dist-PolicyFiles@0.09
-Dist::Setup                         0.16  pkg:cpan/Dist-Setup@0.16
+Dist::Setup                         0.17  pkg:cpan/Dist-Setup@0.17
 Dist::Surveyor                     0.022  pkg:cpan/Dist-Surveyor@0.022
 Dist::Surveyor::DB_File            0.022  pkg:cpan/Dist-Surveyor@0.022
 Dist::Surveyor::Inquiry            0.022  pkg:cpan/Dist-Surveyor@0.022
@@ -162531,7 +162531,7 @@ Params::Validate::Dependencies::all_or_none_of  1.02  pkg:cpan/Params-Validate-D
 Params::Validate::Dummy             0.03  pkg:cpan/Module-Optional@0.03
 Params::Validate::Micro            0.032  pkg:cpan/Params-Validate-Micro@0.032
 Params::Validate::PP                1.31  pkg:cpan/Params-Validate@1.31
-Params::Validate::Strict            0.33  pkg:cpan/Params-Validate-Strict@0.33
+Params::Validate::Strict            0.34  pkg:cpan/Params-Validate-Strict@0.34
 Params::Validate::XS                1.31  pkg:cpan/Params-Validate@1.31
 Params::ValidationCompiler          0.31  pkg:cpan/Params-ValidationCompiler@0.31
 Params::ValidationCompiler::Compiler  0.31  pkg:cpan/Params-ValidationCompiler@0.31
