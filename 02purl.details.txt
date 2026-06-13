@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 12 Jun 2026 23:10:29 GMT
-Line-Count: 264899
+Last-Updated: Sat, 13 Jun 2026 02:45:28 GMT
+Line-Count: 264901
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -4808,7 +4808,7 @@ Alien::XPA                         v2.1.20.7  pkg:cpan/Alien-XPA@v2.1.20.7
 Alien::Xmake                        0.08  pkg:cpan/Alien-Xmake@0.08
 Alien::Xrepo                        0.08  pkg:cpan/Alien-Xmake@0.08
 Alien::Xrepo::PackageInfo          undef  pkg:cpan/Alien-Xmake@0.08
-Alien::YAMLScript                  0.002017  pkg:cpan/Alien-YAMLScript@0.2.17
+Alien::YAMLScript                  0.002018  pkg:cpan/Alien-YAMLScript@0.2.18
 Alien::YARA                        v0.0.1  pkg:cpan/Alien-YARA@v0.0.6
 Alien::Z3                          0.002  pkg:cpan/Alien-Z3@0.002
 Alien::ZMQ                          0.06  pkg:cpan/Alien-ZMQ@0.06
@@ -66344,9 +66344,9 @@ Dist::Metadata::Dist               0.927  pkg:cpan/Dist-Metadata@0.927
 Dist::Metadata::Struct             0.927  pkg:cpan/Dist-Metadata@0.927
 Dist::Metadata::Tar                0.927  pkg:cpan/Dist-Metadata@0.927
 Dist::Metadata::Zip                0.927  pkg:cpan/Dist-Metadata@0.927
-Dist::Mgr                           1.13  pkg:cpan/Dist-Mgr@1.13
-Dist::Mgr::FileData                 1.13  pkg:cpan/Dist-Mgr@1.13
-Dist::Mgr::Git                      1.13  pkg:cpan/Dist-Mgr@1.13
+Dist::Mgr                           1.14  pkg:cpan/Dist-Mgr@1.14
+Dist::Mgr::FileData                 1.14  pkg:cpan/Dist-Mgr@1.14
+Dist::Mgr::Git                      1.14  pkg:cpan/Dist-Mgr@1.14
 Dist::Milla                        1.000022  pkg:cpan/Dist-Milla@v1.0.22
 Dist::Milla::App                   1.000022  pkg:cpan/Dist-Milla@v1.0.22
 Dist::PolicyFiles                   0.09  pkg:cpan/Dist-PolicyFiles@0.09
@@ -138252,6 +138252,8 @@ Mojo::PgX::Cursor::Database        undef  pkg:cpan/Mojo-PgX-Cursor@0.502001
 Mojo::PgX::Cursor::Results         undef  pkg:cpan/Mojo-PgX-Cursor@0.502001
 Mojo::Phantom                       0.12  pkg:cpan/Mojo-Phantom@0.12
 Mojo::Phantom::Process             undef  pkg:cpan/Mojo-Phantom@0.12
+Mojo::PrettyTidy                    0.02  pkg:cpan/Mojo-PrettyTidy@0.02
+Mojo::PrettyTidy::Diff             undef  pkg:cpan/Mojo-PrettyTidy@0.02
 Mojo::Promise                      undef  pkg:cpan/Mojolicious@9.46
 Mojo::Promise::Limiter             0.100  pkg:cpan/Mojo-Promise-Limiter@0.100
 Mojo::Promise::Role::Any           1.007  pkg:cpan/Mojo-Promise-Role-HigherOrder@1.007
@@ -259053,8 +259055,8 @@ YAML::XS                           v0.907.0  pkg:cpan/YAML-LibYAML@v0.907.0
 YAML::XS::LibYAML                  undef  pkg:cpan/YAML-LibYAML@0.89
 YAML::YAML2ADoc                    0.001000  pkg:cpan/YAML-YAML2ADoc@0.1.0
 YAML::yq::Helper                   0.002000  pkg:cpan/YAML-yq-Helper@0.2.0
-YAMLScript                         0.002017  pkg:cpan/YAMLScript@0.2.17
-YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.2.17
+YAMLScript                         0.002018  pkg:cpan/YAMLScript@0.2.18
+YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.2.18
 YAMLScript::Base                   undef  pkg:cpan/YAMLScript@0.0.7
 YAMLScript::CLI                    undef  pkg:cpan/YAMLScript@0.1.3
 YAMLScript::Call                   undef  pkg:cpan/YAMLScript@0.0.16
