@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 13 Jun 2026 15:27:42 GMT
+Last-Updated: Sat, 13 Jun 2026 17:15:36 GMT
 Line-Count: 264903
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -67093,7 +67093,7 @@ Dist::Zilla::Plugin::ShareDir::Clean  0.05  pkg:cpan/Dist-Zilla-Plugin-ShareDir-
 Dist::Zilla::Plugin::ShareDir::ProjectDistDir 3.002000  pkg:cpan/Dist-Zilla-PluginBundle-Author-MAXHQ@3.2.0
 Dist::Zilla::Plugin::ShareDir::Tarball v0.6.0  pkg:cpan/Dist-Zilla-Plugin-ShareDir-Tarball@0.6.0
 Dist::Zilla::Plugin::ShareEmbed    0.004  pkg:cpan/Dist-Zilla-Plugin-ShareEmbed@0.004
-Dist::Zilla::Plugin::SigStore::SignRelease  0.05  pkg:cpan/Dist-Zilla-Plugin-SigStore-SignRelease@0.05
+Dist::Zilla::Plugin::SigStore::SignRelease  0.06  pkg:cpan/Dist-Zilla-Plugin-SigStore-SignRelease@0.06
 Dist::Zilla::Plugin::SigStore::UploadToCPAN  0.01  pkg:cpan/Dist-Zilla-Plugin-SigStore-SignRelease@0.01
 Dist::Zilla::Plugin::SignReleaseNotes 0.0008  pkg:cpan/Dist-Zilla-Plugin-SignReleaseNotes@0.0008
 Dist::Zilla::Plugin::Signature     1.252860  pkg:cpan/Dist-Zilla-Plugin-Signature@1.252860
