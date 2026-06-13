@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 13 Jun 2026 02:45:28 GMT
+Last-Updated: Sat, 13 Jun 2026 07:40:35 GMT
 Line-Count: 264901
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -75381,11 +75381,11 @@ Finance::Tax::Aruba::Income::2023  0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::Tax::Aruba::Income::2025  0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::Tax::Aruba::Role::Income::TaxYear 0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::TickerSymbols              3.11  pkg:cpan/Finance-TickerSymbols@3.11?ext=zip
-Finance::Tiller2QIF                 1.06  pkg:cpan/Finance-Tiller2QIF@1.06
-Finance::Tiller2QIF::Map            1.06  pkg:cpan/Finance-Tiller2QIF@1.06
-Finance::Tiller2QIF::ReadCSV        1.06  pkg:cpan/Finance-Tiller2QIF@1.06
-Finance::Tiller2QIF::Util           1.06  pkg:cpan/Finance-Tiller2QIF@1.06
-Finance::Tiller2QIF::WriteQIF       1.06  pkg:cpan/Finance-Tiller2QIF@1.06
+Finance::Tiller2QIF                 1.07  pkg:cpan/Finance-Tiller2QIF@1.07
+Finance::Tiller2QIF::Map            1.07  pkg:cpan/Finance-Tiller2QIF@1.07
+Finance::Tiller2QIF::ReadCSV        1.07  pkg:cpan/Finance-Tiller2QIF@1.07
+Finance::Tiller2QIF::Util           1.07  pkg:cpan/Finance-Tiller2QIF@1.07
+Finance::Tiller2QIF::WriteQIF       1.07  pkg:cpan/Finance-Tiller2QIF@1.07
 Finance::USDX                       0.03  pkg:cpan/Finance-USDX@0.03
 Finance::Wesabe                     0.02  pkg:cpan/Finance-Wesabe@0.02
 Finance::Wesabe::Account           undef  pkg:cpan/Finance-Wesabe@0.02
@@ -140089,7 +140089,7 @@ Monitoring::Reporter::Web::Plugin::Demo  0.01  pkg:cpan/Monitoring-Reporter@0.01
 Monitoring::Reporter::Web::Plugin::History  0.01  pkg:cpan/Monitoring-Reporter@0.01
 Monitoring::Reporter::Web::Plugin::List  0.01  pkg:cpan/Monitoring-Reporter@0.01
 Monitoring::Reporter::Web::Plugin::Selftest  0.01  pkg:cpan/Monitoring-Reporter@0.01
-Monitoring::Sneck                  1.003000  pkg:cpan/Monitoring-Sneck@1.3.0
+Monitoring::Sneck                  1.004000  pkg:cpan/Monitoring-Sneck@1.4.0
 Monitoring::Sneck::Boop_Snoot      0.002000  pkg:cpan/Monitoring-Sneck-Boop_Snoot@0.2.0
 Monitoring::Spooler                 0.05  pkg:cpan/Monitoring-Spooler@0.05
 Monitoring::Spooler::Cmd            0.05  pkg:cpan/Monitoring-Spooler@0.05
@@ -235341,10 +235341,10 @@ Transmission::Utils                undef  pkg:cpan/Transmission-Client@0.0806
 Trash::Park                         0.03  pkg:cpan/Trash-Park@0.03
 Trash::Park::Element                0.03  pkg:cpan/Trash-Park@0.03
 Trav::Dir                           0.02  pkg:cpan/Trav-Dir@0.02
-Travel::Routing::DE::DBRIS          0.12  pkg:cpan/Travel-Routing-DE-DBRIS@0.12
-Travel::Routing::DE::DBRIS::Connection  0.12  pkg:cpan/Travel-Routing-DE-DBRIS@0.12
-Travel::Routing::DE::DBRIS::Connection::Segment  0.12  pkg:cpan/Travel-Routing-DE-DBRIS@0.12
-Travel::Routing::DE::DBRIS::Offer   0.12  pkg:cpan/Travel-Routing-DE-DBRIS@0.12
+Travel::Routing::DE::DBRIS          0.13  pkg:cpan/Travel-Routing-DE-DBRIS@0.13
+Travel::Routing::DE::DBRIS::Connection  0.13  pkg:cpan/Travel-Routing-DE-DBRIS@0.13
+Travel::Routing::DE::DBRIS::Connection::Segment  0.13  pkg:cpan/Travel-Routing-DE-DBRIS@0.13
+Travel::Routing::DE::DBRIS::Offer   0.13  pkg:cpan/Travel-Routing-DE-DBRIS@0.13
 Travel::Routing::DE::EFA            2.24  pkg:cpan/Travel-Routing-DE-VRR@2.24
 Travel::Routing::DE::EFA::Route     2.24  pkg:cpan/Travel-Routing-DE-VRR@2.24
 Travel::Routing::DE::EFA::Route::Message  2.24  pkg:cpan/Travel-Routing-DE-VRR@2.24
@@ -235356,15 +235356,15 @@ Travel::Routing::DE::HAFAS::Location  0.01  pkg:cpan/Travel-Routing-DE-HAFAS@0.0
 Travel::Routing::DE::HAFAS::Utils   0.11  pkg:cpan/Travel-Routing-DE-HAFAS@0.11
 Travel::Routing::DE::VRR            2.24  pkg:cpan/Travel-Routing-DE-VRR@2.24
 Travel::Status::DE::ASEAG           2.01  pkg:cpan/Travel-Status-DE-URA@2.01
-Travel::Status::DE::DBRIS           0.29  pkg:cpan/Travel-Status-DE-DBRIS@0.29
-Travel::Status::DE::DBRIS::Formation  0.29  pkg:cpan/Travel-Status-DE-DBRIS@0.29
-Travel::Status::DE::DBRIS::Formation::Carriage  0.29  pkg:cpan/Travel-Status-DE-DBRIS@0.29
-Travel::Status::DE::DBRIS::Formation::Group  0.29  pkg:cpan/Travel-Status-DE-DBRIS@0.29
-Travel::Status::DE::DBRIS::Formation::Sector  0.29  pkg:cpan/Travel-Status-DE-DBRIS@0.29
-Travel::Status::DE::DBRIS::Journey  0.29  pkg:cpan/Travel-Status-DE-DBRIS@0.29
-Travel::Status::DE::DBRIS::JourneyAtStop  0.29  pkg:cpan/Travel-Status-DE-DBRIS@0.29
-Travel::Status::DE::DBRIS::Location  0.29  pkg:cpan/Travel-Status-DE-DBRIS@0.29
-Travel::Status::DE::DBRIS::Operators  0.29  pkg:cpan/Travel-Status-DE-DBRIS@0.29
+Travel::Status::DE::DBRIS           0.30  pkg:cpan/Travel-Status-DE-DBRIS@0.30
+Travel::Status::DE::DBRIS::Formation  0.30  pkg:cpan/Travel-Status-DE-DBRIS@0.30
+Travel::Status::DE::DBRIS::Formation::Carriage  0.30  pkg:cpan/Travel-Status-DE-DBRIS@0.30
+Travel::Status::DE::DBRIS::Formation::Group  0.30  pkg:cpan/Travel-Status-DE-DBRIS@0.30
+Travel::Status::DE::DBRIS::Formation::Sector  0.30  pkg:cpan/Travel-Status-DE-DBRIS@0.30
+Travel::Status::DE::DBRIS::Journey  0.30  pkg:cpan/Travel-Status-DE-DBRIS@0.30
+Travel::Status::DE::DBRIS::JourneyAtStop  0.30  pkg:cpan/Travel-Status-DE-DBRIS@0.30
+Travel::Status::DE::DBRIS::Location  0.30  pkg:cpan/Travel-Status-DE-DBRIS@0.30
+Travel::Status::DE::DBRIS::Operators  0.30  pkg:cpan/Travel-Status-DE-DBRIS@0.30
 Travel::Status::DE::DBWagenreihung  0.18  pkg:cpan/Travel-Status-DE-DBWagenreihung@0.18
 Travel::Status::DE::DBWagenreihung::Carriage  0.18  pkg:cpan/Travel-Status-DE-DBWagenreihung@0.18
 Travel::Status::DE::DBWagenreihung::Group  0.18  pkg:cpan/Travel-Status-DE-DBWagenreihung@0.18
