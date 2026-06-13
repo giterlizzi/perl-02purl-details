@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 13 Jun 2026 13:44:26 GMT
+Last-Updated: Sat, 13 Jun 2026 15:27:42 GMT
 Line-Count: 264903
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -67210,7 +67210,7 @@ Dist::Zilla::Plugin::UploadToSFTP  0.003  pkg:cpan/Dist-Zilla-Plugin-UploadToSFT
 Dist::Zilla::Plugin::UploadToStratopan 0.015  pkg:cpan/Dist-Zilla-Plugin-UploadToStratopan@0.015
 Dist::Zilla::Plugin::UseBuildPL      0.3  pkg:cpan/Dist-Zilla-Plugin-UseBuildPL@0.3
 Dist::Zilla::Plugin::UseUnsafeInc  0.002  pkg:cpan/Dist-Zilla-Plugin-UseUnsafeInc@0.002
-Dist::Zilla::Plugin::UsefulReadme  v0.5.3  pkg:cpan/Dist-Zilla-Plugin-UsefulReadme@v0.5.3
+Dist::Zilla::Plugin::UsefulReadme  v0.6.0  pkg:cpan/Dist-Zilla-Plugin-UsefulReadme@v0.6.0
 Dist::Zilla::Plugin::VerifyPhases  0.016  pkg:cpan/Dist-Zilla-Plugin-VerifyPhases@0.016
 Dist::Zilla::Plugin::Version::FromSubversion 1.000019  pkg:cpan/Dist-Zilla-Plugin-Version-FromSubversion@1.000019
 Dist::Zilla::Plugin::Version::Git::Flowish  0.09  pkg:cpan/Dist-Zilla-Plugin-Version-Git-Flowish@0.09
@@ -146236,9 +146236,9 @@ Net::CIDR::Lite::Span               0.24  pkg:cpan/Net-CIDR-Lite@0.24
 Net::CIDR::MobileJP                 0.24  pkg:cpan/Net-CIDR-MobileJP@0.24
 Net::CIDR::ORTC                     0.02  pkg:cpan/Net-CIDR-ORTC@0.02
 Net::CIDR::Overlap                 0.002000  pkg:cpan/Net-CIDR-Overlap@0.2.0
-Net::CIDR::Set                      0.21  pkg:cpan/Net-CIDR-Set@0.21
-Net::CIDR::Set::IPv4                0.21  pkg:cpan/Net-CIDR-Set@0.21
-Net::CIDR::Set::IPv6                0.21  pkg:cpan/Net-CIDR-Set@0.21
+Net::CIDR::Set                      0.22  pkg:cpan/Net-CIDR-Set@0.22
+Net::CIDR::Set::IPv4                0.22  pkg:cpan/Net-CIDR-Set@0.22
+Net::CIDR::Set::IPv6                0.22  pkg:cpan/Net-CIDR-Set@0.22
 Net::CLI::Interact                 2.400002  pkg:cpan/Net-CLI-Interact@2.400002
 Net::CLI::Interact::Action         2.400002  pkg:cpan/Net-CLI-Interact@2.400002
 Net::CLI::Interact::ActionSet      2.400002  pkg:cpan/Net-CLI-Interact@2.400002
@@ -151997,7 +151997,7 @@ Net::Statsd                         0.13  pkg:cpan/Net-Statsd@0.13
 Net::Statsd::Client                 0.34  pkg:cpan/Net-Statsd-Client@0.34
 Net::Statsd::Client::Telegraf        0.2  pkg:cpan/Net-Statsd-Client-Telegraf@0.2
 Net::Statsd::Client::Timer          0.34  pkg:cpan/Net-Statsd-Client@0.34
-Net::Statsd::Lite                  v0.11.1  pkg:cpan/Net-Statsd-Lite@v0.11.1
+Net::Statsd::Lite                  v0.11.2  pkg:cpan/Net-Statsd-Lite@v0.11.2
 Net::Statsd::Server                 0.17  pkg:cpan/Net-Statsd-Server@0.20
 Net::Statsd::Server::Backend        0.20  pkg:cpan/Net-Statsd-Server@0.20
 Net::Statsd::Server::Backend::Console  0.20  pkg:cpan/Net-Statsd-Server@0.20
@@ -194252,7 +194252,7 @@ Perl::Critic::Policy::Bangs::ProhibitVagueNames  1.14  pkg:cpan/Perl-Critic-Bang
 Perl::Critic::Policy::BuiltinFunctions::ProhibitBooleanGrep 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::BuiltinFunctions::ProhibitComplexMappings 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::BuiltinFunctions::ProhibitDeleteOnArrays  0.02  pkg:cpan/Perl-Critic-Policy-BuiltinFunctions-ProhibitDeleteOnArrays@0.02
-Perl::Critic::Policy::BuiltinFunctions::ProhibitForeach  0.01  pkg:cpan/Perl-Critic-Policy-BuiltinFunctions-ProhibitForeach@0.01
+Perl::Critic::Policy::BuiltinFunctions::ProhibitForeach  0.02  pkg:cpan/Perl-Critic-Policy-BuiltinFunctions-ProhibitForeach@0.02
 Perl::Critic::Policy::BuiltinFunctions::ProhibitLvalueSubstr 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::BuiltinFunctions::ProhibitReturnOr  0.01  pkg:cpan/Perl-Critic-Policy-BuiltinFunctions-ProhibitReturnOr@0.01
 Perl::Critic::Policy::BuiltinFunctions::ProhibitReverseSortBlock 1.156  pkg:cpan/Perl-Critic@1.156
@@ -198578,7 +198578,7 @@ Pod::Weaver::Section::GenerateSection 4.020  pkg:cpan/Pod-Weaver@4.020
 Pod::Weaver::Section::Generic      4.020  pkg:cpan/Pod-Weaver@4.020
 Pod::Weaver::Section::Homepage::DefaultCPAN  0.05  pkg:cpan/Pod-Weaver-Section-Homepage-DefaultCPAN@0.05
 Pod::Weaver::Section::Installation 1.101421  pkg:cpan/Pod-Weaver-Section-Installation@1.101421
-Pod::Weaver::Section::InstallationInstructions v0.5.3  pkg:cpan/Dist-Zilla-Plugin-UsefulReadme@v0.5.3
+Pod::Weaver::Section::InstallationInstructions v0.6.0  pkg:cpan/Dist-Zilla-Plugin-UsefulReadme@v0.6.0
 Pod::Weaver::Section::Leftovers    4.020  pkg:cpan/Pod-Weaver@4.020
 Pod::Weaver::Section::Legal        4.020  pkg:cpan/Pod-Weaver@4.020
 Pod::Weaver::Section::Legal::Complicated  1.23  pkg:cpan/Pod-Weaver-Section-Legal-Complicated@1.23
@@ -198593,14 +198593,14 @@ Pod::Weaver::Section::RSRCHBOY::GeneratedAttributes 0.077  pkg:cpan/Dist-Zilla-P
 Pod::Weaver::Section::RSRCHBOY::LazyAttributes 0.077  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.077
 Pod::Weaver::Section::RSRCHBOY::RequiredAttributes 0.077  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.077
 Pod::Weaver::Section::RSRCHBOY::RoleParameters 0.077  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.077
-Pod::Weaver::Section::RecentChanges v0.5.3  pkg:cpan/Dist-Zilla-Plugin-UsefulReadme@v0.5.3
+Pod::Weaver::Section::RecentChanges v0.6.0  pkg:cpan/Dist-Zilla-Plugin-UsefulReadme@v0.6.0
 Pod::Weaver::Section::Region       4.020  pkg:cpan/Pod-Weaver@4.020
 Pod::Weaver::Section::ReplaceAuthors  1.00  pkg:cpan/Pod-Weaver-PluginBundle-ReplaceBoilerplate@1.00
 Pod::Weaver::Section::ReplaceLegal  1.00  pkg:cpan/Pod-Weaver-PluginBundle-ReplaceBoilerplate@1.00
 Pod::Weaver::Section::ReplaceName   1.00  pkg:cpan/Pod-Weaver-PluginBundle-ReplaceBoilerplate@1.00
 Pod::Weaver::Section::ReplaceSource::DefaultGitHub  0.01  pkg:cpan/Pod-Weaver-Section-ReplaceSource-DefaultGitHub@0.01
 Pod::Weaver::Section::ReplaceVersion  1.00  pkg:cpan/Pod-Weaver-PluginBundle-ReplaceBoilerplate@1.00
-Pod::Weaver::Section::Requirements v0.5.3  pkg:cpan/Dist-Zilla-Plugin-UsefulReadme@v0.5.3
+Pod::Weaver::Section::Requirements v0.6.0  pkg:cpan/Dist-Zilla-Plugin-UsefulReadme@v0.6.0
 Pod::Weaver::Section::Requires      0.03  pkg:cpan/Pod-Weaver-Section-Requires@0.03
 Pod::Weaver::Section::SQL           0.03  pkg:cpan/Pod-Weaver-Section-SQL@0.03
 Pod::Weaver::Section::SeeAlso      1.003  pkg:cpan/Pod-Weaver-Section-SeeAlso@1.003
