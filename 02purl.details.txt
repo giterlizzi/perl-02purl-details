@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 13 Jun 2026 17:15:36 GMT
-Line-Count: 264903
+Last-Updated: Sat, 13 Jun 2026 19:14:31 GMT
+Line-Count: 264919
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -31545,15 +31545,6 @@ CDS::Unsaved::State                 0.31  pkg:cpan/CDS@0.31
 CDent                               0.01  pkg:cpan/CDent@0.01
 CEDict::Pinyin                     0.02004  pkg:cpan/CEDict-Pinyin@0.02004
 CEFACT::Unit                        0.02  pkg:cpan/CEFACT-Unit@0.02
-CFDI                                 0.2  pkg:cpan/CFDI@0.2
-CFDI::Constants::Class               0.3  pkg:cpan/CFDI@0.2
-CFDI::Location::XPath                0.4  pkg:cpan/CFDI@0.2
-CFDI::Macros::Excel                 0.21  pkg:cpan/CFDI@0.2
-CFDI::Output::CSV                    0.2  pkg:cpan/CFDI@0.2
-CFDI::Parser::Path                   0.3  pkg:cpan/CFDI@0.2
-CFDI::Parser::XML                   0.85  pkg:cpan/CFDI@0.2
-CFDI::Regex::XML                    0.31  pkg:cpan/CFDI@0.2
-CFDI::Report::Default               0.31  pkg:cpan/CFDI@0.2
 CFG                                0.000001  pkg:cpan/App-SeismicUnixGui@0.87.5
 CGI                                 4.72  pkg:cpan/CGI@4.72
 CGI::ACL                            0.08  pkg:cpan/CGI-ACL@0.08
@@ -66372,6 +66363,7 @@ Dist::Zilla::App::Command::build   6.037  pkg:cpan/Dist-Zilla@6.037
 Dist::Zilla::App::Command::bundle  0.000010  pkg:cpan/Dist-Zilla-Plugin-Web@0.0.10
 Dist::Zilla::App::Command::chainsmoke  1.15  pkg:cpan/Dist-Zilla-TravisCI@1.15
 Dist::Zilla::App::Command::clean   6.037  pkg:cpan/Dist-Zilla@6.037
+Dist::Zilla::App::Command::codeberg 2.0000  pkg:cpan/Dist-Zilla-PluginBundle-Codeberg@2.0000
 Dist::Zilla::App::Command::configure_CSJEWELL 0.900  pkg:cpan/Dist-Zilla-BeLike-CSJEWELL@0.901
 Dist::Zilla::App::Command::cover   1.101001  pkg:cpan/Dist-Zilla-App-Command-cover@1.101001
 Dist::Zilla::App::Command::coverh  0.0101  pkg:cpan/Dist-Zilla-App-Command-coverh@0.0101
@@ -66647,6 +66639,10 @@ Dist::Zilla::Plugin::Code::Releaser 0.008  pkg:cpan/Dist-Zilla-Plugin-Code@0.008
 Dist::Zilla::Plugin::Code::TestRunner 0.008  pkg:cpan/Dist-Zilla-Plugin-Code@0.008
 Dist::Zilla::Plugin::Code::VersionProvider 0.008  pkg:cpan/Dist-Zilla-Plugin-Code@0.008
 Dist::Zilla::Plugin::CodeOfConduct v0.1.1  pkg:cpan/Dist-Zilla-Plugin-CodeOfConduct@v0.1.1
+Dist::Zilla::Plugin::Codeberg      2.0000  pkg:cpan/Dist-Zilla-PluginBundle-Codeberg@2.0000
+Dist::Zilla::Plugin::Codeberg::Create 2.0000  pkg:cpan/Dist-Zilla-PluginBundle-Codeberg@2.0000
+Dist::Zilla::Plugin::Codeberg::Meta 2.0000  pkg:cpan/Dist-Zilla-PluginBundle-Codeberg@2.0000
+Dist::Zilla::Plugin::Codeberg::Update 2.0000  pkg:cpan/Dist-Zilla-PluginBundle-Codeberg@2.0000
 Dist::Zilla::Plugin::CoderwallEndorse v0.2.1  pkg:cpan/Dist-Zilla-Plugin-CoderwallEndorse@0.2.1
 Dist::Zilla::Plugin::ColorTheme    0.002  pkg:cpan/Dist-Zilla-Plugin-ColorTheme@0.002
 Dist::Zilla::Plugin::Comment        0.02  pkg:cpan/Dist-Zilla-Plugin-Comment@0.02
@@ -67340,6 +67336,7 @@ Dist::Zilla::PluginBundle::CJM      4.11  pkg:cpan/Dist-Zilla-PluginBundle-Autho
 Dist::Zilla::PluginBundle::CSJEWELL 0.900  pkg:cpan/Dist-Zilla-BeLike-CSJEWELL@0.901
 Dist::Zilla::PluginBundle::Classic 6.037  pkg:cpan/Dist-Zilla@6.037
 Dist::Zilla::PluginBundle::Code    0.008  pkg:cpan/Dist-Zilla-Plugin-Code@0.008
+Dist::Zilla::PluginBundle::Codeberg 2.0000  pkg:cpan/Dist-Zilla-PluginBundle-Codeberg@2.0000
 Dist::Zilla::PluginBundle::ConfigSlicer 0.202  pkg:cpan/Dist-Zilla-Config-Slicer@0.202
 Dist::Zilla::PluginBundle::DAGOLDEN 0.079  pkg:cpan/Dist-Zilla-PluginBundle-DAGOLDEN@0.079
 Dist::Zilla::PluginBundle::DANIELP  1.04  pkg:cpan/Dist-Zilla-PluginBundle-DANIELP@1.04
@@ -139099,6 +139096,21 @@ Mojolicious::Plugin::Facets         0.07  pkg:cpan/Mojolicious-Plugin-Facets@0.0
 Mojolicious::Plugin::FeedReader     0.21  pkg:cpan/Mojo-Feed@0.21
 Mojolicious::Plugin::FillInFormLite  0.02  pkg:cpan/Mojolicious-Plugin-FillInFormLite@0.02
 Mojolicious::Plugin::Foil          0.006  pkg:cpan/Mojolicious-Plugin-Foil@0.006
+Mojolicious::Plugin::Fondation      0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
+Mojolicious::Plugin::Fondation::API  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
+Mojolicious::Plugin::Fondation::Action::Base  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
+Mojolicious::Plugin::Fondation::Action::Controllers  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
+Mojolicious::Plugin::Fondation::Action::Static  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
+Mojolicious::Plugin::Fondation::Action::Templates  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
+Mojolicious::Plugin::Fondation::Command::fondation  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
+Mojolicious::Plugin::Fondation::Controller::Base  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
+Mojolicious::Plugin::Fondation::Controller::Debug  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
+Mojolicious::Plugin::Fondation::Controller::Welcome  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
+Mojolicious::Plugin::Fondation::Helpers  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
+Mojolicious::Plugin::Fondation::Manager  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
+Mojolicious::Plugin::Fondation::Resolver  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
+Mojolicious::Plugin::Fondation::TestHelper  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
+Mojolicious::Plugin::Fondation::Utils  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
 Mojolicious::Plugin::FontAwesomeHelpers 0.001000  pkg:cpan/Mojolicious-Plugin-FontAwesomeHelpers@v0.1.0
 Mojolicious::Plugin::ForkCall      undef  pkg:cpan/Mojo-IOLoop-ForkCall@0.21
 Mojolicious::Plugin::ForkCart       0.03  pkg:cpan/Mojolicious-Plugin-ForkCart@0.03
@@ -222165,7 +222177,7 @@ Statistics::Gtest                   0.07  pkg:cpan/Statistics-Gtest@0.07
 Statistics::Hartigan                0.01  pkg:cpan/Statistics-Hartigan@0.01
 Statistics::Histogram                0.1  pkg:cpan/Statistics-Histogram@0.2
 Statistics::KernelEstimation        0.05  pkg:cpan/Statistics-KernelEstimation@0.05
-Statistics::Krippendorff            0.04  pkg:cpan/Statistics-Krippendorff@0.04
+Statistics::Krippendorff            0.05  pkg:cpan/Statistics-Krippendorff@0.05
 Statistics::KruskalWallis           0.01  pkg:cpan/Statistics-KruskalWallis@0.01
 Statistics::LSNoHistory             0.01  pkg:cpan/Statistics-LSNoHistory@0.01?ext=tgz
 Statistics::LTU                    undef  pkg:cpan/Statistics-LTU@2.8
@@ -223632,7 +223644,7 @@ SwissprotAccessor                      1  pkg:cpan/Boulder@1.30
 Switch                              2.17  pkg:cpan/Switch@2.17
 Switch::Again                       1.02  pkg:cpan/Switch-Again@1.02
 Switch::Back                       0.000005  pkg:cpan/Switch-Back@0.000005
-Switch::Declare                     0.01  pkg:cpan/Switch-Declare@0.01
+Switch::Declare                     0.02  pkg:cpan/Switch-Declare@0.02
 Switch::Perlish                    1.000005  pkg:cpan/Switch-Perlish@1.0.5
 Switch::Perlish::Control::_fallthrough 1.000005  pkg:cpan/Switch-Perlish@1.0.5
 Switch::Perlish::Control::_stop    1.000005  pkg:cpan/Switch-Perlish@1.0.5
@@ -236240,10 +236252,14 @@ Type::Coercion::Union              2.010001  pkg:cpan/Type-Tiny@2.010001
 Type::Coercion::Wrapped            0.002  pkg:cpan/Types-ReadOnly@0.002
 Type::EmailAddress                 0.001  pkg:cpan/Type-EmailAddress@0.001
 Type::FromSah                      0.005  pkg:cpan/Type-FromSah@0.005
-Type::Guess                        undef  pkg:cpan/Type-Guess@0.005
+Type::Guess                        undef  pkg:cpan/Type-Guess@0.006
 Type::Guess::Role::Date            undef  pkg:cpan/Type-Guess@0.005
-Type::Guess::Role::Tiny            undef  pkg:cpan/Type-Guess@0.005
-Type::Guess::Role::Unicode         undef  pkg:cpan/Type-Guess@0.005
+Type::Guess::Role::DateTime        undef  pkg:cpan/Type-Guess@0.006
+Type::Guess::Role::DateTime::Naive undef  pkg:cpan/Type-Guess@0.006
+Type::Guess::Role::SQL::Pg         undef  pkg:cpan/Type-Guess@0.006
+Type::Guess::Role::SQL::SQLite     undef  pkg:cpan/Type-Guess@0.006
+Type::Guess::Role::Tiny            undef  pkg:cpan/Type-Guess@0.006
+Type::Guess::Role::Unicode         undef  pkg:cpan/Type-Guess@0.006
 Type::Libraries                    0.002  pkg:cpan/Type-Libraries@0.002
 Type::Library                      2.010001  pkg:cpan/Type-Tiny@2.010001
 Type::Library::Compiler            0.008  pkg:cpan/Type-Library-Compiler@0.008
