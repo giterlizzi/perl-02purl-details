@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 14 Jun 2026 15:44:44 GMT
+Last-Updated: Sun, 14 Jun 2026 17:13:05 GMT
 Line-Count: 264925
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -8172,24 +8172,24 @@ ApacheMagicApp                     undef  pkg:cpan/CGI-Builder@1.36
 ApacheMagicApp::Lookups            undef  pkg:cpan/CGI-Builder@1.36
 Apachish                           0.009000  pkg:cpan/Apachish@0.9.0
 Apachish::Examples                  0.01  pkg:cpan/Apachish-Examples@0.01
-Apertur::SDK                        0.02  pkg:cpan/Apertur-SDK@0.02
-Apertur::SDK::Crypto               undef  pkg:cpan/Apertur-SDK@0.02
-Apertur::SDK::Error                undef  pkg:cpan/Apertur-SDK@0.02
-Apertur::SDK::Error::Authentication undef  pkg:cpan/Apertur-SDK@0.02
-Apertur::SDK::Error::NotFound      undef  pkg:cpan/Apertur-SDK@0.02
-Apertur::SDK::Error::RateLimit     undef  pkg:cpan/Apertur-SDK@0.02
-Apertur::SDK::Error::Validation    undef  pkg:cpan/Apertur-SDK@0.02
-Apertur::SDK::HTTPClient           undef  pkg:cpan/Apertur-SDK@0.02
-Apertur::SDK::Resource::Destinations undef  pkg:cpan/Apertur-SDK@0.02
-Apertur::SDK::Resource::Encryption undef  pkg:cpan/Apertur-SDK@0.02
-Apertur::SDK::Resource::Keys       undef  pkg:cpan/Apertur-SDK@0.02
-Apertur::SDK::Resource::Polling    undef  pkg:cpan/Apertur-SDK@0.02
-Apertur::SDK::Resource::Sessions   undef  pkg:cpan/Apertur-SDK@0.02
-Apertur::SDK::Resource::Stats      undef  pkg:cpan/Apertur-SDK@0.02
-Apertur::SDK::Resource::Upload     undef  pkg:cpan/Apertur-SDK@0.02
-Apertur::SDK::Resource::Uploads    undef  pkg:cpan/Apertur-SDK@0.02
-Apertur::SDK::Resource::Webhooks   undef  pkg:cpan/Apertur-SDK@0.02
-Apertur::SDK::Signature            undef  pkg:cpan/Apertur-SDK@0.02
+Apertur::SDK                        0.16  pkg:cpan/Apertur-SDK@0.16
+Apertur::SDK::Crypto               undef  pkg:cpan/Apertur-SDK@0.16
+Apertur::SDK::Error                undef  pkg:cpan/Apertur-SDK@0.16
+Apertur::SDK::Error::Authentication undef  pkg:cpan/Apertur-SDK@0.16
+Apertur::SDK::Error::NotFound      undef  pkg:cpan/Apertur-SDK@0.16
+Apertur::SDK::Error::RateLimit     undef  pkg:cpan/Apertur-SDK@0.16
+Apertur::SDK::Error::Validation    undef  pkg:cpan/Apertur-SDK@0.16
+Apertur::SDK::HTTPClient           undef  pkg:cpan/Apertur-SDK@0.16
+Apertur::SDK::Resource::Destinations undef  pkg:cpan/Apertur-SDK@0.16
+Apertur::SDK::Resource::Encryption undef  pkg:cpan/Apertur-SDK@0.16
+Apertur::SDK::Resource::Keys       undef  pkg:cpan/Apertur-SDK@0.16
+Apertur::SDK::Resource::Polling    undef  pkg:cpan/Apertur-SDK@0.16
+Apertur::SDK::Resource::Sessions   undef  pkg:cpan/Apertur-SDK@0.16
+Apertur::SDK::Resource::Stats      undef  pkg:cpan/Apertur-SDK@0.16
+Apertur::SDK::Resource::Upload     undef  pkg:cpan/Apertur-SDK@0.16
+Apertur::SDK::Resource::Uploads    undef  pkg:cpan/Apertur-SDK@0.16
+Apertur::SDK::Resource::Webhooks   undef  pkg:cpan/Apertur-SDK@0.16
+Apertur::SDK::Signature            undef  pkg:cpan/Apertur-SDK@0.16
 Api::Account                        0.03  pkg:cpan/ElasticEmail@0.03
 Api::Attachment                     0.03  pkg:cpan/ElasticEmail@0.03
 Api::Campaign                       0.03  pkg:cpan/ElasticEmail@0.03
@@ -115477,7 +115477,7 @@ Jabber::RPC::Server                undef  pkg:cpan/Jabber-RPC@0.01
 Jabber::Reload                      0.01  pkg:cpan/Jabber-mod_perl@0.15
 Jabber::SimpleSend                  0.03  pkg:cpan/Jabber-SimpleSend@0.03
 Jabber::mod_perl                    0.15  pkg:cpan/Jabber-mod_perl@0.15
-Jacode                             2.013004033  pkg:cpan/Jacode@2.13.4.33
+Jacode                             2.13.4.34  pkg:cpan/Jacode@2.13.4.34
 Jacode4e                           2.13.6.22  pkg:cpan/Jacode4e@2.13.6.22
 Jacode4e::RoundTrip                2.13.81.15  pkg:cpan/Jacode4e-RoundTrip@2.13.81.15
 Jail                                 0.8  pkg:cpan/Jail@0.8
