@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 14 Jun 2026 13:47:18 GMT
+Last-Updated: Sun, 14 Jun 2026 15:44:44 GMT
 Line-Count: 264925
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -47740,7 +47740,7 @@ Config::Identity::Bitbucket        0.001  pkg:cpan/Dist-Zilla-Plugin-Bitbucket@0
 Config::Identity::GitHub           0.0019  pkg:cpan/Config-Identity@0.0019
 Config::Identity::PAUSE            0.0019  pkg:cpan/Config-Identity@0.0019
 Config::Inetd                       0.33  pkg:cpan/Config-Inetd@0.33
-Config::IniFiles                   3.001000  pkg:cpan/Config-IniFiles@3.001000
+Config::IniFiles                   3.002000  pkg:cpan/Config-IniFiles@3.002000
 Config::IniFiles::Check::Health     0.09  pkg:cpan/Config-IniFiles-Check-Health@0.09
 Config::IniFiles::_section          1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 Config::IniHashReadDeep             0.04  pkg:cpan/Config-IniHashReadDeep@0.05
@@ -58297,15 +58297,15 @@ Data::ISO8583                       2.44  pkg:cpan/Data-ISO8583@2.44
 Data::ISO8583::VISA                 2.44  pkg:cpan/Data-ISO8583@2.44
 Data::Icon                          0.02  pkg:cpan/Data-Icon@0.02
 Data::IconText                     v0.5.0  pkg:cpan/Data-IconText@v0.05
-Data::Identifier                   v0.29.0  pkg:cpan/Data-Identifier@v0.29
-Data::Identifier::Cloudlet         v0.29.0  pkg:cpan/Data-Identifier@v0.29
-Data::Identifier::Generate         v0.29.0  pkg:cpan/Data-Identifier@v0.29
-Data::Identifier::Interface::Known v0.29.0  pkg:cpan/Data-Identifier@v0.29
-Data::Identifier::Interface::Simple v0.29.0  pkg:cpan/Data-Identifier@v0.29
-Data::Identifier::Interface::Subobjects v0.29.0  pkg:cpan/Data-Identifier@v0.29
-Data::Identifier::Interface::Userdata v0.29.0  pkg:cpan/Data-Identifier@v0.29
-Data::Identifier::Util             v0.29.0  pkg:cpan/Data-Identifier@v0.29
-Data::Identifier::Wellknown        v0.29.0  pkg:cpan/Data-Identifier@v0.29
+Data::Identifier                   v0.30.0  pkg:cpan/Data-Identifier@v0.30
+Data::Identifier::Cloudlet         v0.30.0  pkg:cpan/Data-Identifier@v0.30
+Data::Identifier::Generate         v0.30.0  pkg:cpan/Data-Identifier@v0.30
+Data::Identifier::Interface::Known v0.30.0  pkg:cpan/Data-Identifier@v0.30
+Data::Identifier::Interface::Simple v0.30.0  pkg:cpan/Data-Identifier@v0.30
+Data::Identifier::Interface::Subobjects v0.30.0  pkg:cpan/Data-Identifier@v0.30
+Data::Identifier::Interface::Userdata v0.30.0  pkg:cpan/Data-Identifier@v0.30
+Data::Identifier::Util             v0.30.0  pkg:cpan/Data-Identifier@v0.30
+Data::Identifier::Wellknown        v0.30.0  pkg:cpan/Data-Identifier@v0.30
 Data::Image                         0.05  pkg:cpan/Data-Image@0.05
 Data::Importer                     0.006  pkg:cpan/Data-Importer@0.006
 Data::Importer::Iterator           0.006  pkg:cpan/Data-Importer@0.006
@@ -223649,7 +223649,7 @@ SwissprotAccessor                      1  pkg:cpan/Boulder@1.30
 Switch                              2.17  pkg:cpan/Switch@2.17
 Switch::Again                       1.02  pkg:cpan/Switch-Again@1.02
 Switch::Back                       0.000005  pkg:cpan/Switch-Back@0.000005
-Switch::Declare                     0.03  pkg:cpan/Switch-Declare@0.03
+Switch::Declare                     0.04  pkg:cpan/Switch-Declare@0.04
 Switch::Perlish                    1.000005  pkg:cpan/Switch-Perlish@1.0.5
 Switch::Perlish::Control::_fallthrough 1.000005  pkg:cpan/Switch-Perlish@1.0.5
 Switch::Perlish::Control::_stop    1.000005  pkg:cpan/Switch-Perlish@1.0.5
