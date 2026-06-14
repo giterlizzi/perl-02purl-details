@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 13 Jun 2026 22:57:39 GMT
-Line-Count: 264920
+Last-Updated: Sun, 14 Jun 2026 02:56:53 GMT
+Line-Count: 264925
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -63879,6 +63879,9 @@ Desktop::Detect                     0.06  pkg:cpan/Desktop-Detect@0.06
 Desktop::Notify                     0.05  pkg:cpan/Desktop-Notify@0.05
 Desktop::Notify::Notification       0.03  pkg:cpan/Desktop-Notify@0.05
 Desktop::Open                      0.004  pkg:cpan/Desktop-Open@0.004
+DesktopWorkspace                   v1.0.0  pkg:cpan/DesktopWorkspace@1.0.0
+DesktopWorkspace::Test::Spec::Basic v1.0.0  pkg:cpan/DesktopWorkspace@1.0.0
+DesktopWorkspaceRole::Spec::Basic  v1.0.0  pkg:cpan/DesktopWorkspace@1.0.0
 DestructAssign                     0.002007  pkg:cpan/DestructAssign@0.002007
 Detect::Module                       1.2  pkg:cpan/Detect-Module@1.2
 Detect::Module::Internal             1.2  pkg:cpan/Detect-Module@1.2
@@ -123062,9 +123065,10 @@ Linux::Epoll                       0.019  pkg:cpan/Linux-Epoll@0.019
 Linux::Ethtool                      0.11  pkg:cpan/Linux-Ethtool@0.11
 Linux::Ethtool::Settings            0.11  pkg:cpan/Linux-Ethtool@0.11
 Linux::Ethtool::WOL                 0.11  pkg:cpan/Linux-Ethtool@0.11
-Linux::Event                       0.011  pkg:cpan/Linux-Event@0.011
-Linux::Event::Backend              0.011  pkg:cpan/Linux-Event@0.011
-Linux::Event::Backend::Epoll       0.011  pkg:cpan/Linux-Event@0.011
+Linux::Event                       0.012  pkg:cpan/Linux-Event@0.012
+Linux::Event::Backend              0.012  pkg:cpan/Linux-Event@0.012
+Linux::Event::Backend::Epoll       0.012  pkg:cpan/Linux-Event@0.012
+Linux::Event::Bench                0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Clock                0.011  pkg:cpan/Linux-Event-Clock@0.011
 Linux::Event::Connect              0.001  pkg:cpan/Linux-Event-Connect@0.001
 Linux::Event::Error                0.010  pkg:cpan/Linux-Event@0.010
@@ -123073,10 +123077,10 @@ Linux::Event::Fork::Child          0.007  pkg:cpan/Linux-Event-Fork@0.007
 Linux::Event::Fork::Exit           0.007  pkg:cpan/Linux-Event-Fork@0.007
 Linux::Event::Fork::Request        0.007  pkg:cpan/Linux-Event-Fork@0.007
 Linux::Event::Listen               0.016  pkg:cpan/Linux-Event-Listen@0.016
-Linux::Event::Loop                 0.011  pkg:cpan/Linux-Event@0.011
+Linux::Event::Loop                 0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Operation            0.010  pkg:cpan/Linux-Event@0.010
-Linux::Event::Pid                  0.011  pkg:cpan/Linux-Event@0.011
-Linux::Event::Pid::Subscription    0.011  pkg:cpan/Linux-Event@0.011
+Linux::Event::Pid                  0.012  pkg:cpan/Linux-Event@0.012
+Linux::Event::Pid::Subscription    0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Proactor             0.010  pkg:cpan/Linux-Event@0.010
 Linux::Event::Proactor::Backend    0.010  pkg:cpan/Linux-Event@0.010
 Linux::Event::Proactor::Backend::Fake 0.010  pkg:cpan/Linux-Event@0.010
@@ -123084,17 +123088,18 @@ Linux::Event::Proactor::Backend::Uring 0.010  pkg:cpan/Linux-Event@0.010
 Linux::Event::Reactor              0.010  pkg:cpan/Linux-Event@0.010
 Linux::Event::Reactor::Backend     0.010  pkg:cpan/Linux-Event@0.010
 Linux::Event::Reactor::Backend::Epoll 0.010  pkg:cpan/Linux-Event@0.010
-Linux::Event::Scheduler            0.011  pkg:cpan/Linux-Event@0.011
-Linux::Event::Signal               0.011  pkg:cpan/Linux-Event@0.011
-Linux::Event::Signal::Subscription 0.011  pkg:cpan/Linux-Event@0.011
+Linux::Event::Scheduler            0.012  pkg:cpan/Linux-Event@0.012
+Linux::Event::Signal               0.012  pkg:cpan/Linux-Event@0.012
+Linux::Event::Signal::Subscription 0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Stream               0.002  pkg:cpan/Linux-Event-Stream@0.002
 Linux::Event::Stream::Codec        0.002  pkg:cpan/Linux-Event-Stream@0.002
 Linux::Event::Stream::Codec::Line  0.002  pkg:cpan/Linux-Event-Stream@0.002
 Linux::Event::Stream::Codec::Netstring 0.002  pkg:cpan/Linux-Event-Stream@0.002
 Linux::Event::Stream::Codec::U32BE 0.002  pkg:cpan/Linux-Event-Stream@0.002
 Linux::Event::Timer                0.010  pkg:cpan/Linux-Event-Timer@0.010
-Linux::Event::Wakeup               0.011  pkg:cpan/Linux-Event@0.011
-Linux::Event::Watcher              0.011  pkg:cpan/Linux-Event@0.011
+Linux::Event::Wakeup               0.012  pkg:cpan/Linux-Event@0.012
+Linux::Event::Watcher              0.012  pkg:cpan/Linux-Event@0.012
+Linux::Event::XS                   0.012  pkg:cpan/Linux-Event@0.012
 Linux::Ext2::Attributes             0.20  pkg:cpan/Linux-Ext2-Attributes@0.20
 Linux::Ext2::FileAttributes         0.01  pkg:cpan/Linux-Ext2-FileAttributes@0.01
 Linux::FD                          0.017  pkg:cpan/Linux-FD@0.017
