@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 14 Jun 2026 08:09:39 GMT
+Last-Updated: Sun, 14 Jun 2026 11:50:36 GMT
 Line-Count: 264925
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -21500,10 +21500,10 @@ BACnet::ServiceRequestSequences::SubscribeCOV undef  pkg:cpan/BACnet@0.08
 BACnet::ServiceRequestSequences::Utils undef  pkg:cpan/BACnet@0.08
 BACnet::Socket                     undef  pkg:cpan/BACnet@0.08
 BACnet::Subscription               undef  pkg:cpan/BACnet@0.08
-BATsh                               0.04  pkg:cpan/BATsh@0.04
-BATsh::CMD                          0.04  pkg:cpan/BATsh@0.04
-BATsh::Env                          0.04  pkg:cpan/BATsh@0.04
-BATsh::SH                           0.04  pkg:cpan/BATsh@0.04
+BATsh                               0.05  pkg:cpan/BATsh@0.05
+BATsh::CMD                          0.05  pkg:cpan/BATsh@0.05
+BATsh::Env                          0.05  pkg:cpan/BATsh@0.05
+BATsh::SH                           0.05  pkg:cpan/BATsh@0.05
 BBBB                               undef  pkg:cpan/Data-Table-Text@20210818
 BBCode::Body                        0.34  pkg:cpan/BBCode-Parser@0.34
 BBCode::Parser                      0.34  pkg:cpan/BBCode-Parser@0.34
@@ -78421,7 +78421,7 @@ Game::HexDescribe::Utils           undef  pkg:cpan/Game-HexDescribe@1.04
 Game::Kezboard                      0.04  pkg:cpan/Game-Kezboard@0.04
 Game::LevelMap                      0.02  pkg:cpan/Game-LevelMap@0.02
 Game::Life                          0.06  pkg:cpan/Game-Life@0.06
-Game::Life::Faster                 0.007  pkg:cpan/Game-Life-Faster@0.007
+Game::Life::Faster                 0.008  pkg:cpan/Game-Life-Faster@0.008
 Game::Life::Infinite::Board         0.08  pkg:cpan/Game-Life-Infinite-Board@0.08
 Game::Life::NDim                   v0.0.4  pkg:cpan/Game-Life-NDim@v0.0.4
 Game::Life::NDim::Board            v0.0.4  pkg:cpan/Game-Life-NDim@v0.0.4
@@ -80435,7 +80435,7 @@ Games::Sudoku::Component::TkPlayer::Selector undef  pkg:cpan/Games-Sudoku-Compon
 Games::Sudoku::Component::TkPlayer::Splashscreen undef  pkg:cpan/Games-Sudoku-Component-TkPlayer@0.02
 Games::Sudoku::Component::TkPlayer::View undef  pkg:cpan/Games-Sudoku-Component-TkPlayer@0.02
 Games::Sudoku::DLX                  0.02  pkg:cpan/Games-Sudoku-DLX@0.02
-Games::Sudoku::General             0.027  pkg:cpan/Games-Sudoku-General@0.027
+Games::Sudoku::General             0.028  pkg:cpan/Games-Sudoku-General@0.028
 Games::Sudoku::Html                 0.07  pkg:cpan/Games-Sudoku-Html@0.07
 Games::Sudoku::Kubedoku                1  pkg:cpan/Games-Sudoku-Kubedoku
 Games::Sudoku::Lite                 0.41  pkg:cpan/Games-Sudoku-Lite@0.41
@@ -107696,7 +107696,7 @@ HTML::TableContent::Table::Row      1.01  pkg:cpan/HTML-TableContent@1.01
 HTML::TableContent::Table::Row::Cell  1.01  pkg:cpan/HTML-TableContent@1.01
 HTML::TableContent::Template        1.01  pkg:cpan/HTML-TableContent@1.01
 HTML::TableContent::Template::Base  1.01  pkg:cpan/HTML-TableContent@1.01
-HTML::TableContentParser           0.305  pkg:cpan/HTML-TableContentParser@0.305
+HTML::TableContentParser           0.306  pkg:cpan/HTML-TableContentParser@0.306
 HTML::TableExtract                  2.15  pkg:cpan/HTML-TableExtract@2.15
 HTML::TableExtract::Rasterize       2.15  pkg:cpan/HTML-TableExtract@2.15
 HTML::TableExtract::StripHTML       2.15  pkg:cpan/HTML-TableExtract@2.15
@@ -129164,7 +129164,7 @@ Mac::OSA::Simple                    1.09  pkg:cpan/Mac-OSA-Simple@1.09
 Mac::OSA::Simple::Components        1.09  pkg:cpan/Mac-OSA-Simple@1.09
 Mac::OSVersion                     1.018  pkg:cpan/Mac-OSVersion@1.018
 Mac::OSVersion::Lite                0.10  pkg:cpan/Mac-OSVersion-Lite@0.10
-Mac::Pasteboard                    0.105  pkg:cpan/Mac-Pasteboard@0.105
+Mac::Pasteboard                    0.106  pkg:cpan/Mac-Pasteboard@0.106
 Mac::PopClip::Quick                1.000002  pkg:cpan/Mac-PopClip-Quick@1.000002
 Mac::PopClip::Quick::Generator     1.000002  pkg:cpan/Mac-PopClip-Quick@1.000002
 Mac::PopClip::Quick::Role::Apps    1.000002  pkg:cpan/Mac-PopClip-Quick@1.000002
@@ -197131,8 +197131,8 @@ Plack::Middleware::Scrutiny::Child undef  pkg:cpan/Plack-Middleware-Scrutiny@0.0
 Plack::Middleware::Scrutiny::IOWrap undef  pkg:cpan/Plack-Middleware-Scrutiny@0.02
 Plack::Middleware::Scrutiny::Util  undef  pkg:cpan/Plack-Middleware-Scrutiny@0.02
 Plack::Middleware::SecureHeaders    0.01  pkg:cpan/Plack-Middleware-SecureHeaders@0.01
-Plack::Middleware::Security::Common v0.13.1  pkg:cpan/Plack-Middleware-Security-Simple@v0.13.1
-Plack::Middleware::Security::Simple v0.13.1  pkg:cpan/Plack-Middleware-Security-Simple@v0.13.1
+Plack::Middleware::Security::Common v0.13.2  pkg:cpan/Plack-Middleware-Security-Simple@v0.13.2
+Plack::Middleware::Security::Simple v0.13.2  pkg:cpan/Plack-Middleware-Security-Simple@v0.13.2
 Plack::Middleware::ServerName       0.02  pkg:cpan/Plack-Middleware-ServerName@0.02
 Plack::Middleware::ServerStatus::Availability  0.02  pkg:cpan/Plack-Middleware-ServerStatus-Availability@0.02
 Plack::Middleware::ServerStatus::Availability::Status undef  pkg:cpan/Plack-Middleware-ServerStatus-Availability@0.02
@@ -223649,7 +223649,7 @@ SwissprotAccessor                      1  pkg:cpan/Boulder@1.30
 Switch                              2.17  pkg:cpan/Switch@2.17
 Switch::Again                       1.02  pkg:cpan/Switch-Again@1.02
 Switch::Back                       0.000005  pkg:cpan/Switch-Back@0.000005
-Switch::Declare                     0.02  pkg:cpan/Switch-Declare@0.02
+Switch::Declare                     0.03  pkg:cpan/Switch-Declare@0.03
 Switch::Perlish                    1.000005  pkg:cpan/Switch-Perlish@1.0.5
 Switch::Perlish::Control::_fallthrough 1.000005  pkg:cpan/Switch-Perlish@1.0.5
 Switch::Perlish::Control::_stop    1.000005  pkg:cpan/Switch-Perlish@1.0.5
