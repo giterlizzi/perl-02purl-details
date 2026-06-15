@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 15 Jun 2026 09:53:53 GMT
-Line-Count: 264927
+Last-Updated: Mon, 15 Jun 2026 15:39:23 GMT
+Line-Count: 264925
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -30347,26 +30347,26 @@ Business::Giropay::Role::Request   undef  pkg:cpan/Business-Giropay@0.103
 Business::Giropay::Role::Response  undef  pkg:cpan/Business-Giropay@0.103
 Business::Giropay::Role::Urls      undef  pkg:cpan/Business-Giropay@0.103
 Business::Giropay::Types           undef  pkg:cpan/Business-Giropay@0.103
-Business::GoCardless                0.44  pkg:cpan/Business-GoCardless@0.44
-Business::GoCardless::Bill         undef  pkg:cpan/Business-GoCardless@0.44
-Business::GoCardless::Client       undef  pkg:cpan/Business-GoCardless@0.44
-Business::GoCardless::Customer     undef  pkg:cpan/Business-GoCardless@0.44
-Business::GoCardless::Exception    undef  pkg:cpan/Business-GoCardless@0.44
-Business::GoCardless::Mandate      undef  pkg:cpan/Business-GoCardless@0.44
-Business::GoCardless::Merchant     undef  pkg:cpan/Business-GoCardless@0.44
-Business::GoCardless::Paginator    undef  pkg:cpan/Business-GoCardless@0.44
-Business::GoCardless::Payment      undef  pkg:cpan/Business-GoCardless@0.44
-Business::GoCardless::Payout       undef  pkg:cpan/Business-GoCardless@0.44
-Business::GoCardless::PreAuthorization undef  pkg:cpan/Business-GoCardless@0.44
-Business::GoCardless::Pro          undef  pkg:cpan/Business-GoCardless@0.44
-Business::GoCardless::RedirectFlow undef  pkg:cpan/Business-GoCardless@0.44
-Business::GoCardless::Resource     undef  pkg:cpan/Business-GoCardless@0.44
-Business::GoCardless::Subscription undef  pkg:cpan/Business-GoCardless@0.44
-Business::GoCardless::User         undef  pkg:cpan/Business-GoCardless@0.44
-Business::GoCardless::Utils        undef  pkg:cpan/Business-GoCardless@0.44
-Business::GoCardless::Webhook      undef  pkg:cpan/Business-GoCardless@0.44
-Business::GoCardless::Webhook::Event undef  pkg:cpan/Business-GoCardless@0.44
-Business::GoCardless::Webhook::V2  undef  pkg:cpan/Business-GoCardless@0.44
+Business::GoCardless                0.45  pkg:cpan/Business-GoCardless@0.45
+Business::GoCardless::Bill         undef  pkg:cpan/Business-GoCardless@0.45
+Business::GoCardless::Client       undef  pkg:cpan/Business-GoCardless@0.45
+Business::GoCardless::Customer     undef  pkg:cpan/Business-GoCardless@0.45
+Business::GoCardless::Exception    undef  pkg:cpan/Business-GoCardless@0.45
+Business::GoCardless::Mandate      undef  pkg:cpan/Business-GoCardless@0.45
+Business::GoCardless::Merchant     undef  pkg:cpan/Business-GoCardless@0.45
+Business::GoCardless::Paginator    undef  pkg:cpan/Business-GoCardless@0.45
+Business::GoCardless::Payment      undef  pkg:cpan/Business-GoCardless@0.45
+Business::GoCardless::Payout       undef  pkg:cpan/Business-GoCardless@0.45
+Business::GoCardless::PreAuthorization undef  pkg:cpan/Business-GoCardless@0.45
+Business::GoCardless::Pro          undef  pkg:cpan/Business-GoCardless@0.45
+Business::GoCardless::RedirectFlow undef  pkg:cpan/Business-GoCardless@0.45
+Business::GoCardless::Resource     undef  pkg:cpan/Business-GoCardless@0.45
+Business::GoCardless::Subscription undef  pkg:cpan/Business-GoCardless@0.45
+Business::GoCardless::User         undef  pkg:cpan/Business-GoCardless@0.45
+Business::GoCardless::Utils        undef  pkg:cpan/Business-GoCardless@0.45
+Business::GoCardless::Webhook      undef  pkg:cpan/Business-GoCardless@0.45
+Business::GoCardless::Webhook::Event undef  pkg:cpan/Business-GoCardless@0.45
+Business::GoCardless::Webhook::V2  undef  pkg:cpan/Business-GoCardless@0.45
 Business::HK::IdentityCard         1.000  pkg:cpan/Business-HK-IdentityCard@1.000
 Business::HashCash                 1.004  pkg:cpan/Business-HashCash@1.004
 Business::Hours                     0.13  pkg:cpan/Business-Hours@0.13
@@ -62849,10 +62849,10 @@ Date::Manip::TZ::z00                6.99  pkg:cpan/Date-Manip@6.99
 Date::Manip::TZ_Base                6.99  pkg:cpan/Date-Manip@6.99
 Date::Manip::TZdata                 6.99  pkg:cpan/Date-Manip@6.99
 Date::Manip::Zones                  6.99  pkg:cpan/Date-Manip@6.99
-Date::ManipX::Almanac              0.003  pkg:cpan/Date-ManipX-Almanac@0.003
-Date::ManipX::Almanac::Date        0.003  pkg:cpan/Date-ManipX-Almanac@0.003
-Date::ManipX::Almanac::Lang        0.003  pkg:cpan/Date-ManipX-Almanac@0.003
-Date::ManipX::Almanac::Lang::english 0.003  pkg:cpan/Date-ManipX-Almanac@0.003
+Date::ManipX::Almanac              0.004  pkg:cpan/Date-ManipX-Almanac@0.004
+Date::ManipX::Almanac::Date        0.004  pkg:cpan/Date-ManipX-Almanac@0.004
+Date::ManipX::Almanac::Lang        0.004  pkg:cpan/Date-ManipX-Almanac@0.004
+Date::ManipX::Almanac::Lang::english 0.004  pkg:cpan/Date-ManipX-Almanac@0.004
 Date::Maya                         2010011301  pkg:cpan/Date-Maya@2010011301
 Date::MonthSet                       0.2  pkg:cpan/Date-MonthSet@0.2
 Date::Namedays::Simple              0.01  pkg:cpan/Date-Namedays-Simple@0.01
@@ -70557,7 +70557,7 @@ Encode::PDFDoc                      0.03  pkg:cpan/Encode-PDFDoc@0.03
 Encode::Positive::Digits           20170811  pkg:cpan/Encode-Positive-Digits@20170811
 Encode::Positive::Pairs            20170812  pkg:cpan/Encode-Positive-Pairs@20170812
 Encode::Punycode                   1.002  pkg:cpan/Encode-Punycode@1.002
-Encode::RAD50                      0.018  pkg:cpan/Encode-RAD50@0.018
+Encode::RAD50                      0.019  pkg:cpan/Encode-RAD50@0.019
 Encode::Registry                    0.05  pkg:cpan/Encode-Registry@0.13
 Encode::Registry::TECkit_Scalar     0.05  pkg:cpan/Encode-Registry@0.13
 Encode::Repair                     0.0.2  pkg:cpan/Encode-Repair@0.0.2
@@ -74410,7 +74410,7 @@ File::Stubb::Render                 0.04  pkg:cpan/File-Stubb@0.04
 File::Stubb::SubstTie               0.03  pkg:cpan/File-Stubb@0.03
 File::SubPM                         1.12  pkg:cpan/File-SubPM@0.05
 File::Symlink::Atomic              0.002  pkg:cpan/File-Symlink-Atomic@0.002
-File::Symlink::Relative            0.005  pkg:cpan/File-Symlink-Relative@0.005
+File::Symlink::Relative            0.006  pkg:cpan/File-Symlink-Relative@0.006
 File::Symlink::Util                0.005  pkg:cpan/File-Symlink-Util@0.005
 File::Sync                          0.11  pkg:cpan/File-Sync@0.11
 File::Syslogger                    0.000003  pkg:cpan/File-Syslogger@0.0.3
@@ -110813,7 +110813,6 @@ IEPM::PingER::Statistics::Loss::CLP undef  pkg:cpan/perfSONAR_PS-Services-PingER
 IEPM::PingER::Statistics::Other    undef  pkg:cpan/perfSONAR_PS-Services-PingER@0.09
 IEPM::PingER::Statistics::RTT      undef  pkg:cpan/perfSONAR_PS-Services-PingER@0.09
 IETF::ACE                           0.04  pkg:cpan/IETF-ACE@0.04
-IFNGENO::GenoPheno::Utils           0.01  pkg:cpan/IFNGENO-GenoPheno-Utils@0.01
 IIIF                                0.07  pkg:cpan/IIIF@0.07
 IIIF::ImageAPI                      0.07  pkg:cpan/IIIF@0.07
 IIIF::Magick                        0.07  pkg:cpan/IIIF@0.07
@@ -122887,12 +122886,12 @@ Lingua::Zompist::Cadhinor           0.92  pkg:cpan/Lingua-Zompist-Cadhinor@0.92
 Lingua::Zompist::Cuezi              0.01  pkg:cpan/Lingua-Zompist-Cuezi@0.01
 Lingua::Zompist::Kebreni            0.90  pkg:cpan/Lingua-Zompist-Kebreni@0.90
 Lingua::Zompist::Verdurian          0.91  pkg:cpan/Lingua-Zompist-Verdurian@0.91
-Lingua::famibeib                   v0.2.0  pkg:cpan/Lingua-famibeib@v0.02
-Lingua::famibeib::Fragment         v0.2.0  pkg:cpan/Lingua-famibeib@v0.02
-Lingua::famibeib::Modifier         v0.2.0  pkg:cpan/Lingua-famibeib@v0.02
-Lingua::famibeib::Sentence         v0.2.0  pkg:cpan/Lingua-famibeib@v0.02
-Lingua::famibeib::Text             v0.2.0  pkg:cpan/Lingua-famibeib@v0.02
-Lingua::famibeib::Word             v0.2.0  pkg:cpan/Lingua-famibeib@v0.02
+Lingua::famibeib                   v0.3.0  pkg:cpan/Lingua-famibeib@v0.03
+Lingua::famibeib::Fragment         v0.3.0  pkg:cpan/Lingua-famibeib@v0.03
+Lingua::famibeib::Modifier         v0.3.0  pkg:cpan/Lingua-famibeib@v0.03
+Lingua::famibeib::Sentence         v0.3.0  pkg:cpan/Lingua-famibeib@v0.03
+Lingua::famibeib::Text             v0.3.0  pkg:cpan/Lingua-famibeib@v0.03
+Lingua::famibeib::Word             v0.3.0  pkg:cpan/Lingua-famibeib@v0.03
 Lingua::pt_BR::Nums2Words           0.02  pkg:cpan/Lingua-pt_BR-Nums2Words@0.02
 Lingua::tlhInganHol::yIghun        20090601  pkg:cpan/Lingua-tlhInganHol-yIghun@20090601
 Lingy                              0.001019  pkg:cpan/Lingy@0.1.19
@@ -143102,7 +143101,6 @@ My::DBI                             0.04  pkg:cpan/Class-DBI-Factory@0.994
 My::Doodad                          3.01  pkg:cpan/SPOPS@0.87
 My::Examples                       undef  pkg:cpan/SOAP-Lite@1.20
 My::Filter                         undef  pkg:cpan/HTML-TagFilter@1.03
-My::GenoPheno::Utils                0.01  pkg:cpan/My-GenoPheno-Utils@0.01
 My::Genre                          undef  pkg:cpan/Class-DBI-Factory@0.994
 My::Group                           3.01  pkg:cpan/SPOPS@0.87
 My::HTTPConfig                     undef  pkg:cpan/Apache2-Mogile-Dispatch@0.3
@@ -194350,7 +194348,7 @@ Perl::Critic::Policy::Compatibility::PodMinimumVersion   100  pkg:cpan/Perl-Crit
 Perl::Critic::Policy::Compatibility::ProhibitThreeArgumentOpen 1.001  pkg:cpan/Perl-Critic-Compatibility@1.001
 Perl::Critic::Policy::Compatibility::ProhibitUnixDevNull   100  pkg:cpan/Perl-Critic-Pulp@100
 Perl::Critic::Policy::CompileTime   0.03  pkg:cpan/Perl-Critic-Policy-CompileTime@0.03
-Perl::Critic::Policy::ControlStructures::ProhibitBareBlockLoopControls  0.03  pkg:cpan/Perl-Critic-Policy-ControlStructures-ProhibitBareBlockLoopControls@0.03
+Perl::Critic::Policy::ControlStructures::ProhibitBareBlockLoopControls  0.05  pkg:cpan/Perl-Critic-Policy-ControlStructures-ProhibitBareBlockLoopControls@0.05
 Perl::Critic::Policy::ControlStructures::ProhibitCStyleForLoops 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ControlStructures::ProhibitCascadingIfElse 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ControlStructures::ProhibitDeepNests 1.156  pkg:cpan/Perl-Critic@1.156
