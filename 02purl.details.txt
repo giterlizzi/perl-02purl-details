@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 15 Jun 2026 22:12:11 GMT
-Line-Count: 264925
+Last-Updated: Tue, 16 Jun 2026 03:27:19 GMT
+Line-Count: 264926
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -33325,19 +33325,20 @@ CPAN::Meta::Validator              2.150013  pkg:cpan/CPAN-Meta@2.150013
 CPAN::Meta::X                      0.010  pkg:cpan/CPAN-Meta-X@0.010
 CPAN::Meta::X::Old                 0.010  pkg:cpan/CPAN-Meta-X@0.010
 CPAN::Meta::YAML                   0.020  pkg:cpan/CPAN-Meta-YAML@0.020
-CPAN::MetaCurator                   1.21  pkg:cpan/CPAN-MetaCurator@1.21?ext=tgz
-CPAN::MetaCurator::Config           1.21  pkg:cpan/CPAN-MetaCurator@1.21?ext=tgz
-CPAN::MetaCurator::Create           1.21  pkg:cpan/CPAN-MetaCurator@1.21?ext=tgz
-CPAN::MetaCurator::Database         1.21  pkg:cpan/CPAN-MetaCurator@1.21?ext=tgz
-CPAN::MetaCurator::Export           1.21  pkg:cpan/CPAN-MetaCurator@1.21?ext=tgz
-CPAN::MetaCurator::HTML             1.21  pkg:cpan/CPAN-MetaCurator@1.21?ext=tgz
-CPAN::MetaCurator::Import           1.21  pkg:cpan/CPAN-MetaCurator@1.21?ext=tgz
-CPAN::MetaCurator::Search           1.21  pkg:cpan/CPAN-MetaCurator@1.21?ext=tgz
-CPAN::MetaPackager                  1.01  pkg:cpan/CPAN-MetaPackager@1.01?ext=tgz
-CPAN::MetaPackager::Config          1.01  pkg:cpan/CPAN-MetaPackager@1.01?ext=tgz
-CPAN::MetaPackager::Create          1.01  pkg:cpan/CPAN-MetaPackager@1.01?ext=tgz
-CPAN::MetaPackager::Database        1.01  pkg:cpan/CPAN-MetaPackager@1.01?ext=tgz
-CPAN::MetaPackager::Import          1.01  pkg:cpan/CPAN-MetaPackager@1.01?ext=tgz
+CPAN::MetaCurator                   1.23  pkg:cpan/CPAN-MetaCurator@1.23?ext=tgz
+CPAN::MetaCurator::Config           1.23  pkg:cpan/CPAN-MetaCurator@1.23?ext=tgz
+CPAN::MetaCurator::Create           1.23  pkg:cpan/CPAN-MetaCurator@1.23?ext=tgz
+CPAN::MetaCurator::Database         1.23  pkg:cpan/CPAN-MetaCurator@1.23?ext=tgz
+CPAN::MetaCurator::Export           1.23  pkg:cpan/CPAN-MetaCurator@1.23?ext=tgz
+CPAN::MetaCurator::HTML             1.23  pkg:cpan/CPAN-MetaCurator@1.23?ext=tgz
+CPAN::MetaCurator::Import           1.23  pkg:cpan/CPAN-MetaCurator@1.23?ext=tgz
+CPAN::MetaCurator::Search           1.23  pkg:cpan/CPAN-MetaCurator@1.23?ext=tgz
+CPAN::MetaCurator::Validate         1.23  pkg:cpan/CPAN-MetaCurator@1.23?ext=tgz
+CPAN::MetaPackager                  1.03  pkg:cpan/CPAN-MetaPackager@1.03?ext=tgz
+CPAN::MetaPackager::Config          1.03  pkg:cpan/CPAN-MetaPackager@1.03?ext=tgz
+CPAN::MetaPackager::Create          1.03  pkg:cpan/CPAN-MetaPackager@1.03?ext=tgz
+CPAN::MetaPackager::Database        1.03  pkg:cpan/CPAN-MetaPackager@1.03?ext=tgz
+CPAN::MetaPackager::Import          1.03  pkg:cpan/CPAN-MetaPackager@1.03?ext=tgz
 CPAN::Metadata::RDF                 1.11  pkg:cpan/CPAN-Metadata-RDF@1.11
 CPAN::Metrics                       0.08  pkg:cpan/CPAN-Metrics@0.08
 CPAN::Mini                         1.111017  pkg:cpan/CPAN-Mini@1.111017
@@ -66454,7 +66455,7 @@ Dist::Zilla::MintingProfile::Author::BBYRD  1.06  pkg:cpan/Dist-Zilla-PluginBund
 Dist::Zilla::MintingProfile::Author::CHIM 0.052002  pkg:cpan/Dist-Zilla-PluginBundle-Author-CHIM@0.052002
 Dist::Zilla::MintingProfile::Author::CSSON 0.1103  pkg:cpan/Dist-Zilla-PluginBundle-Author-CSSON@0.1103
 Dist::Zilla::MintingProfile::Author::Caelum  0.08  pkg:cpan/Dist-Zilla-MintingProfile-Author-Caelum@0.08
-Dist::Zilla::MintingProfile::Author::DBOOK v1.0.9  pkg:cpan/Dist-Zilla-PluginBundle-Author-DBOOK@v1.0.9
+Dist::Zilla::MintingProfile::Author::DBOOK v1.0.10  pkg:cpan/Dist-Zilla-PluginBundle-Author-DBOOK@v1.0.10
 Dist::Zilla::MintingProfile::Author::ETHER 0.172  pkg:cpan/Dist-Zilla-PluginBundle-Author-ETHER@0.172
 Dist::Zilla::MintingProfile::Author::JACQUESG  0.02  pkg:cpan/Dist-Zilla-PluginBundle-Author-JACQUESG@0.02
 Dist::Zilla::MintingProfile::Author::KENTNL 2.025021  pkg:cpan/Dist-Zilla-PluginBundle-Author-KENTNL@2.025021
@@ -67266,7 +67267,7 @@ Dist::Zilla::PluginBundle::Author::CJM 6.000  pkg:cpan/Dist-Zilla-PluginBundle-A
 Dist::Zilla::PluginBundle::Author::CPANTesters 0.003  pkg:cpan/Dist-Zilla-PluginBundle-Author-CPANTesters@0.003
 Dist::Zilla::PluginBundle::Author::CSSON 0.1103  pkg:cpan/Dist-Zilla-PluginBundle-Author-CSSON@0.1103
 Dist::Zilla::PluginBundle::Author::Celogeek   1.1  pkg:cpan/Dist-Zilla-PluginBundle-Author-Celogeek@1.1
-Dist::Zilla::PluginBundle::Author::DBOOK v1.0.9  pkg:cpan/Dist-Zilla-PluginBundle-Author-DBOOK@v1.0.9
+Dist::Zilla::PluginBundle::Author::DBOOK v1.0.10  pkg:cpan/Dist-Zilla-PluginBundle-Author-DBOOK@v1.0.10
 Dist::Zilla::PluginBundle::Author::DBR v1.2.5  pkg:cpan/Dist-Zilla-PluginBundle-Author-DBR@1.2.5
 Dist::Zilla::PluginBundle::Author::DERIV 0.005  pkg:cpan/Dist-Zilla-PluginBundle-Author-DERIV@0.005
 Dist::Zilla::PluginBundle::Author::DOHERTY  0.42  pkg:cpan/Dist-Zilla-PluginBundle-Author-DOHERTY@0.42
@@ -83091,7 +83092,7 @@ Git::SVN::Prompt                   undef  pkg:cpan/Git@0.42
 Git::SVN::Ra                       undef  pkg:cpan/Git@0.42
 Git::SVN::Utils                    undef  pkg:cpan/Git@0.42
 Git::SVNReplay                     1.0214  pkg:cpan/Git-SVNReplay@1.0214
-Git::Server                        0.045  pkg:cpan/Git-Server@0.045
+Git::Server                        0.046  pkg:cpan/Git-Server@0.046
 Git::Status::Tackle                 0.01  pkg:cpan/Git-Status-Tackle@0.01
 Git::Status::Tackle::CompletedFeatureBranches undef  pkg:cpan/Git-Status-Tackle@0.01
 Git::Status::Tackle::IndexChanges  undef  pkg:cpan/Git-Status-Tackle@0.01
@@ -229995,7 +229996,7 @@ Test::MockFile::FileHandle         0.039  pkg:cpan/Test-MockFile@0.039
 Test::MockFile::Plugin             0.039  pkg:cpan/Test-MockFile@0.039
 Test::MockFile::Plugin::FileTemp   0.039  pkg:cpan/Test-MockFile@0.039
 Test::MockFile::Plugins            0.039  pkg:cpan/Test-MockFile@0.039
-Test::MockModule                   v0.185.2  pkg:cpan/Test-MockModule@v0.185.2
+Test::MockModule                   v0.185.3  pkg:cpan/Test-MockModule@v0.185.3
 Test::MockObject                   1.20200122  pkg:cpan/Test-MockObject@1.20200122
 Test::MockObject::Chain             1.00  pkg:cpan/Test-MockObject-Chain@1.00?ext=zip
 Test::MockObject::Extends          1.20200122  pkg:cpan/Test-MockObject@1.20200122
