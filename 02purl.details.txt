@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 16 Jun 2026 09:19:36 GMT
-Line-Count: 264927
+Last-Updated: Tue, 16 Jun 2026 14:54:02 GMT
+Line-Count: 264930
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5077,32 +5077,32 @@ Alzabo::SQLMaker::PostgreSQL           2  pkg:cpan/Alzabo@0.92
 Alzabo::Schema                         2  pkg:cpan/Alzabo@0.92
 Alzabo::Table                          2  pkg:cpan/Alzabo@0.92
 Alzabo::Utils                      undef  pkg:cpan/Alzabo@0.92
-Amazon::API                        v2.2.3  pkg:cpan/Amazon-API@2.2.3
-Amazon::API::Botocore              v2.2.3  pkg:cpan/Amazon-API@2.2.3
-Amazon::API::Botocore::Pod         v2.2.3  pkg:cpan/Amazon-API@2.2.3
-Amazon::API::Botocore::Shape       v2.2.3  pkg:cpan/Amazon-API@2.2.3
-Amazon::API::Botocore::Shape::Serializer v2.2.3  pkg:cpan/Amazon-API@2.2.3
-Amazon::API::Botocore::Shape::Utils v2.2.3  pkg:cpan/Amazon-API@2.2.3
+Amazon::API                        v2.2.4  pkg:cpan/Amazon-API@2.2.4
+Amazon::API::Botocore              v2.2.4  pkg:cpan/Amazon-API@2.2.4
+Amazon::API::Botocore::Pod         v2.2.4  pkg:cpan/Amazon-API@2.2.4
+Amazon::API::Botocore::Shape       v2.2.4  pkg:cpan/Amazon-API@2.2.4
+Amazon::API::Botocore::Shape::Serializer v2.2.4  pkg:cpan/Amazon-API@2.2.4
+Amazon::API::Botocore::Shape::Utils v2.2.4  pkg:cpan/Amazon-API@2.2.4
 Amazon::API::CHIME                 v1.2.7  pkg:cpan/Amazon-API@1.3.3
 Amazon::API::CloudSearch           v1.2.7  pkg:cpan/Amazon-API@1.3.3
 Amazon::API::CloudSearchDomain     v1.2.7  pkg:cpan/Amazon-API@1.3.3
 Amazon::API::CloudWatchLogs        v1.3.5  pkg:cpan/Amazon-API@1.3.5
-Amazon::API::Constants             v2.2.3  pkg:cpan/Amazon-API@2.2.3
+Amazon::API::Constants             v2.2.4  pkg:cpan/Amazon-API@2.2.4
 Amazon::API::EC2                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::ECR                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::ECS                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
-Amazon::API::Error                 v2.2.3  pkg:cpan/Amazon-API@2.2.3
-Amazon::API::HTTP::Response            0  pkg:cpan/Amazon-API@2.2.3
-Amazon::API::HTTP::UserAgent           0  pkg:cpan/Amazon-API@2.2.3
-Amazon::API::NullLogger                0  pkg:cpan/Amazon-API@2.2.3
-Amazon::API::Pod::Parser            0.01  pkg:cpan/Amazon-API@2.2.3
-Amazon::API::Pod::Simple::Text      0.01  pkg:cpan/Amazon-API@2.2.3
+Amazon::API::Error                 v2.2.4  pkg:cpan/Amazon-API@2.2.4
+Amazon::API::HTTP::Response            0  pkg:cpan/Amazon-API@2.2.4
+Amazon::API::HTTP::UserAgent           0  pkg:cpan/Amazon-API@2.2.4
+Amazon::API::NullLogger                0  pkg:cpan/Amazon-API@2.2.4
+Amazon::API::Pod::Parser            0.01  pkg:cpan/Amazon-API@2.2.4
+Amazon::API::Pod::Simple::Text      0.01  pkg:cpan/Amazon-API@2.2.4
 Amazon::API::SQS                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::SSM                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::STS                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::SecretsManager        v1.3.5  pkg:cpan/Amazon-API@1.3.5
-Amazon::API::Signature4            v2.2.3  pkg:cpan/Amazon-API@2.2.3
-Amazon::API::Template                  0  pkg:cpan/Amazon-API@2.2.3
+Amazon::API::Signature4            v2.2.4  pkg:cpan/Amazon-API@2.2.4
+Amazon::API::Template                  0  pkg:cpan/Amazon-API@2.2.4
 Amazon::CloudFront::SignedURL       0.03  pkg:cpan/Amazon-CloudFront-SignedURL@0.03
 Amazon::CloudFront::Thin            0.05  pkg:cpan/Amazon-CloudFront-Thin@0.05
 Amazon::CreatorsAPI                 0.01  pkg:cpan/Amazon-CreatorsAPI@0.01
@@ -16713,7 +16713,7 @@ App::ygeo                           0.02  pkg:cpan/App-ygeo@0.02
 App::ygeo::yaml                     0.02  pkg:cpan/App-ygeo@0.02
 App::zen                            0.11  pkg:cpan/App-zen@0.11
 App::zerogap                       0.014  pkg:cpan/App-coldigits@0.014
-App::zipdetails                    4.007  pkg:cpan/App-zipdetails@4.007
+App::zipdetails                    4.008  pkg:cpan/App-zipdetails@4.008
 App::zoo                            0.02  pkg:cpan/App-zoo@0.02
 AppBase::Grep                      0.014  pkg:cpan/AppBase-Grep@0.014
 AppBase::Grep::ColorScheme::AspirinC 0.001  pkg:cpan/AppBase-Grep-ColorSchemes-Kuler@0.001
@@ -62905,8 +62905,8 @@ Date::Time::UnixTime                0.01  pkg:cpan/OO-DateTime@0.01
 Date::TimeOfDay                    0.006  pkg:cpan/Date-TimeOfDay@0.006
 Date::Timezone                     undef  pkg:cpan/Date@5.2.14
 Date::Tiny                          1.07  pkg:cpan/Date-Tiny@1.07
-Date::Tolkien::Shire               1.906  pkg:cpan/Date-Tolkien-Shire@1.906
-Date::Tolkien::Shire::Data         0.010  pkg:cpan/Date-Tolkien-Shire-Data@0.010
+Date::Tolkien::Shire               1.907  pkg:cpan/Date-Tolkien-Shire@1.907
+Date::Tolkien::Shire::Data         0.011  pkg:cpan/Date-Tolkien-Shire-Data@0.011
 Date::Transform                     0.11  pkg:cpan/Date-Transform@0.11
 Date::Transform::Closures           0.11  pkg:cpan/Date-Transform@0.11
 Date::Transform::Constants          0.09  pkg:cpan/Date-Transform@0.11
@@ -62988,9 +62988,9 @@ DateTime::Event::SolarTerm         undef  pkg:cpan/DateTime-Astro@1.04
 DateTime::Event::Sunrise           0.0506  pkg:cpan/DateTime-Event-Sunrise@0.0506
 DateTime::Event::WarwickUniversity  0.05  pkg:cpan/DateTime-Event-WarwickUniversity@0.05
 DateTime::Event::Zodiac             1.03  pkg:cpan/DateTime-Event-Zodiac@1.03
-DateTime::Fiction::JRRTolkien::Shire 0.908  pkg:cpan/DateTime-Fiction-JRRTolkien-Shire@0.908
-DateTime::Fiction::JRRTolkien::Shire::Duration 0.908  pkg:cpan/DateTime-Fiction-JRRTolkien-Shire@0.908
-DateTime::Fiction::JRRTolkien::Shire::Types 0.908  pkg:cpan/DateTime-Fiction-JRRTolkien-Shire@0.908
+DateTime::Fiction::JRRTolkien::Shire 0.909  pkg:cpan/DateTime-Fiction-JRRTolkien-Shire@0.909
+DateTime::Fiction::JRRTolkien::Shire::Duration 0.909  pkg:cpan/DateTime-Fiction-JRRTolkien-Shire@0.909
+DateTime::Fiction::JRRTolkien::Shire::Types 0.909  pkg:cpan/DateTime-Fiction-JRRTolkien-Shire@0.909
 DateTime::Fiscal::Retail454         0.03  pkg:cpan/DateTime-Fiscal-Retail454@0.03
 DateTime::Fiscal::Year              0.02  pkg:cpan/DateTime-Fiscal-Year@0.02
 DateTime::Format::Alami             0.16  pkg:cpan/DateTime-Format-Alami@0.16
@@ -139103,21 +139103,23 @@ Mojolicious::Plugin::Facets         0.07  pkg:cpan/Mojolicious-Plugin-Facets@0.0
 Mojolicious::Plugin::FeedReader     0.21  pkg:cpan/Mojo-Feed@0.21
 Mojolicious::Plugin::FillInFormLite  0.02  pkg:cpan/Mojolicious-Plugin-FillInFormLite@0.02
 Mojolicious::Plugin::Foil          0.006  pkg:cpan/Mojolicious-Plugin-Foil@0.006
-Mojolicious::Plugin::Fondation      0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
-Mojolicious::Plugin::Fondation::API  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
-Mojolicious::Plugin::Fondation::Action::Base  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
-Mojolicious::Plugin::Fondation::Action::Controllers  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
-Mojolicious::Plugin::Fondation::Action::Static  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
-Mojolicious::Plugin::Fondation::Action::Templates  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
-Mojolicious::Plugin::Fondation::Command::fondation  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
-Mojolicious::Plugin::Fondation::Controller::Base  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
+Mojolicious::Plugin::Fondation      0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
+Mojolicious::Plugin::Fondation::API  0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
+Mojolicious::Plugin::Fondation::Action::Base  0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
+Mojolicious::Plugin::Fondation::Action::Controllers  0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
+Mojolicious::Plugin::Fondation::Action::Static  0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
+Mojolicious::Plugin::Fondation::Action::Templates  0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
+Mojolicious::Plugin::Fondation::Command::fondation  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
+Mojolicious::Plugin::Fondation::Controller::Base  0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
 Mojolicious::Plugin::Fondation::Controller::Debug  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
-Mojolicious::Plugin::Fondation::Controller::Welcome  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
-Mojolicious::Plugin::Fondation::Helpers  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
-Mojolicious::Plugin::Fondation::Manager  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
-Mojolicious::Plugin::Fondation::Resolver  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
-Mojolicious::Plugin::Fondation::TestHelper  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
-Mojolicious::Plugin::Fondation::Utils  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
+Mojolicious::Plugin::Fondation::Controller::Welcome  0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
+Mojolicious::Plugin::Fondation::Helpers  0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
+Mojolicious::Plugin::Fondation::Manager  0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
+Mojolicious::Plugin::Fondation::Model::DBIx::Async  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Model-DBIx-Async@0.01
+Mojolicious::Plugin::Fondation::Model::DBIx::Async::Action::DBIx  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Model-DBIx-Async@0.01
+Mojolicious::Plugin::Fondation::Resolver  0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
+Mojolicious::Plugin::Fondation::TestHelper  0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
+Mojolicious::Plugin::Fondation::Utils  0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
 Mojolicious::Plugin::FontAwesomeHelpers 0.001000  pkg:cpan/Mojolicious-Plugin-FontAwesomeHelpers@v0.1.0
 Mojolicious::Plugin::ForkCall      undef  pkg:cpan/Mojo-IOLoop-ForkCall@0.21
 Mojolicious::Plugin::ForkCart       0.03  pkg:cpan/Mojolicious-Plugin-ForkCart@0.03
@@ -194454,6 +194456,7 @@ Perl::Critic::Policy::Mardem::ProhibitLargeFile  0.06  pkg:cpan/Perl-Critic-Mard
 Perl::Critic::Policy::Mardem::ProhibitLargeSub  0.06  pkg:cpan/Perl-Critic-Mardem@0.06
 Perl::Critic::Policy::Mardem::ProhibitManyConditionsInSub  0.06  pkg:cpan/Perl-Critic-Mardem@0.06
 Perl::Critic::Policy::Mardem::ProhibitReturnBooleanAsInt  0.06  pkg:cpan/Perl-Critic-Mardem@0.06
+Perl::Critic::Policy::Misc::ProhibitMethodsInStringConcat  0.01  pkg:cpan/Perl-Critic-Policy-Misc-ProhibitMethodsInStringConcat@0.01
 Perl::Critic::Policy::Miscellanea::ProhibitFormats 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Miscellanea::ProhibitTies 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Miscellanea::ProhibitUnrestrictedNoCritic 1.156  pkg:cpan/Perl-Critic@1.156
@@ -197940,8 +197943,8 @@ Pod::Coverage::Extractor            0.23  pkg:cpan/Pod-Coverage@0.23
 Pod::Coverage::MethodSignatures     0.02  pkg:cpan/Pod-Coverage-MethodSignatures@0.02
 Pod::Coverage::Moose                0.08  pkg:cpan/Pod-Coverage-Moose@0.08
 Pod::Coverage::Overloader          undef  pkg:cpan/Pod-Coverage@0.23
-Pod::Coverage::TrustMe             0.002001  pkg:cpan/Pod-Coverage-TrustMe@0.002001
-Pod::Coverage::TrustMe::Parser     0.002001  pkg:cpan/Pod-Coverage-TrustMe@0.002001
+Pod::Coverage::TrustMe             0.002002  pkg:cpan/Pod-Coverage-TrustMe@0.002002
+Pod::Coverage::TrustMe::Parser     0.002002  pkg:cpan/Pod-Coverage-TrustMe@0.002002
 Pod::Coverage::TrustPod            0.100006  pkg:cpan/Pod-Coverage-TrustPod@0.100006
 Pod::Coverage::mop                 0.002  pkg:cpan/Pod-Coverage-mop@0.002
 Pod::Cpandoc                        0.16  pkg:cpan/Pod-Cpandoc@0.16
@@ -230283,7 +230286,7 @@ Test::Pod                           1.52  pkg:cpan/Test-Pod@1.52
 Test::Pod::Content                 v0.0.6  pkg:cpan/Test-Pod-Content@v0.0.6
 Test::Pod::Coverage                 1.10  pkg:cpan/Test-Pod-Coverage@1.10
 Test::Pod::Coverage::Permissive     0.05  pkg:cpan/Test-Pod-Coverage-Permissive@0.05
-Test::Pod::Coverage::TrustMe       0.002001  pkg:cpan/Pod-Coverage-TrustMe@0.002001
+Test::Pod::Coverage::TrustMe       0.002002  pkg:cpan/Pod-Coverage-TrustMe@0.002002
 Test::Pod::CoverageChange          0.005  pkg:cpan/Test-Pod-CoverageChange@0.005
 Test::Pod::LinkCheck               0.008  pkg:cpan/Test-Pod-LinkCheck@0.008
 Test::Pod::LinkCheck::Lite         0.014  pkg:cpan/Test-Pod-LinkCheck-Lite@0.014
