@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 17 Jun 2026 16:51:09 GMT
+Last-Updated: Wed, 17 Jun 2026 20:04:26 GMT
 Line-Count: 264935
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -3862,7 +3862,7 @@ Aion::Carp                           1.6  pkg:cpan/Aion-Carp@1.6
 Aion::Emitter                      v0.1.0  pkg:cpan/Aion-Emitter@0.1.0
 Aion::Emitter::ListenersRun        undef  pkg:cpan/Aion-Emitter@0.1.0
 Aion::Enum                         v0.0.3  pkg:cpan/Aion-Enum@0.0.3
-Aion::Env                          undef  pkg:cpan/Aion@2.1
+Aion::Env                            0.1  pkg:cpan/Aion-Env@0.1
 Aion::Format                       v0.1.2  pkg:cpan/Aion-Format@0.1.2
 Aion::Format::Html                 undef  pkg:cpan/Aion-Format@0.1.2
 Aion::Format::Json                 undef  pkg:cpan/Aion-Format@0.1.2
@@ -5162,9 +5162,9 @@ Amazon::S3::BucketV2               v2.0.2  pkg:cpan/Amazon-S3@2.0.2
 Amazon::S3::Constants              v2.0.2  pkg:cpan/Amazon-S3@2.0.2
 Amazon::S3::FastUploader            0.08  pkg:cpan/Amazon-S3-FastUploader@0.08
 Amazon::S3::FastUploader::File      0.05  pkg:cpan/Amazon-S3-FastUploader@0.08
-Amazon::S3::Lite                   v1.1.5  pkg:cpan/Amazon-S3-Lite@1.1.5
-Amazon::S3::Lite::Credentials      v1.1.5  pkg:cpan/Amazon-S3-Lite@1.1.5
-Amazon::S3::Lite::Logger           v1.1.5  pkg:cpan/Amazon-S3-Lite@1.1.5
+Amazon::S3::Lite                   v1.2.0  pkg:cpan/Amazon-S3-Lite@1.2.0
+Amazon::S3::Lite::Credentials      v1.1.6  pkg:cpan/Amazon-S3-Lite@1.2.0
+Amazon::S3::Lite::Logger           v1.1.6  pkg:cpan/Amazon-S3-Lite@1.2.0
 Amazon::S3::Logger                 v2.0.2  pkg:cpan/Amazon-S3@2.0.2
 Amazon::S3::Signature::V4              0  pkg:cpan/Amazon-S3@2.0.2
 Amazon::S3::SignedURLGenerator      0.02  pkg:cpan/Amazon-S3-SignedURLGenerator@0.02
@@ -160654,14 +160654,14 @@ POSIX::1003::User                   1.02  pkg:cpan/POSIX-1003@1.02
 POSIX::2008                         0.26  pkg:cpan/POSIX-2008@0.26
 POSIX::AtFork                       0.04  pkg:cpan/POSIX-AtFork@0.04
 POSIX::Open3                        0.01  pkg:cpan/POSIX-Open3@0.01
-POSIX::RT::Clock                   0.021  pkg:cpan/POSIX-RT-Timer@0.021
+POSIX::RT::Clock                   0.022  pkg:cpan/POSIX-RT-Timer@0.022
 POSIX::RT::MQ                       0.05  pkg:cpan/POSIX-RT-MQ@0.05
 POSIX::RT::Scheduler               0.003  pkg:cpan/POSIX-RT-Scheduler@0.003
 POSIX::RT::Semaphore                0.05  pkg:cpan/POSIX-RT-Semaphore@0.05
 POSIX::RT::SharedMem                0.11  pkg:cpan/POSIX-RT-SharedMem@0.11
 POSIX::RT::Signal                  0.019  pkg:cpan/POSIX-RT-Signal@0.019
 POSIX::RT::Spawn                    0.13  pkg:cpan/POSIX-RT-Spawn@0.13
-POSIX::RT::Timer                   0.021  pkg:cpan/POSIX-RT-Timer@0.021
+POSIX::RT::Timer                   0.022  pkg:cpan/POSIX-RT-Timer@0.022
 POSIX::Regex                       1.0003  pkg:cpan/POSIX-Regex@1.0003
 POSIX::Run::Capture                 1.05  pkg:cpan/POSIX-Run-Capture@1.05
 POSIX::SchedYield                  0.000002  pkg:cpan/POSIX-SchedYield@0.0.2
@@ -222405,9 +222405,9 @@ Stats::Fermi::FermiDiracStats      undef  pkg:cpan/Stats-Fermi@0.1.7
 Stats::Hawking                     0.001003  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HTRandom           undef  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HawkingTemperature undef  pkg:cpan/Stats-Hawking@0.1.3
-Stats::LikeR                        0.15  pkg:cpan/Stats-LikeR@0.15
-Stats::LikeR::Col                   0.15  pkg:cpan/Stats-LikeR@0.15
-Stats::LikeR::Pred                  0.15  pkg:cpan/Stats-LikeR@0.15
+Stats::LikeR                        0.16  pkg:cpan/Stats-LikeR@0.16
+Stats::LikeR::Col                   0.16  pkg:cpan/Stats-LikeR@0.16
+Stats::LikeR::Pred                  0.16  pkg:cpan/Stats-LikeR@0.16
 StatsView::Graph                    1.15  pkg:cpan/StatsView@1.4
 StatsView::Graph::Iost             undef  pkg:cpan/StatsView@1.4
 StatsView::Graph::Iostat           undef  pkg:cpan/StatsView@1.4
@@ -234327,7 +234327,7 @@ Time::Simple::Range                  1.2  pkg:cpan/Time-Simple-Range@1.2
 Time::Skew                           0.1  pkg:cpan/Time-Skew@0.1
 Time::Slideshow                     0.04  pkg:cpan/Time-Slideshow@0.04
 Time::SoFar                         1.00  pkg:cpan/Time-SoFar@1.00?ext=tgz
-Time::Spec                         0.007  pkg:cpan/Time-Spec@0.007
+Time::Spec                         0.008  pkg:cpan/Time-Spec@0.008
 Time::Spent                         0.02  pkg:cpan/Time-Spent@0.02
 Time::Stamp                        1.300  pkg:cpan/Time-Stamp@1.300
 Time::StasisField                   0.01  pkg:cpan/Time-StasisField@0.01
