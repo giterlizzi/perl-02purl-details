@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 17 Jun 2026 13:36:56 GMT
-Line-Count: 264933
+Last-Updated: Wed, 17 Jun 2026 16:51:09 GMT
+Line-Count: 264935
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -3856,12 +3856,13 @@ Agent::Transport                   undef  pkg:cpan/Agent@3.20
 Agent::Transport::TCP              undef  pkg:cpan/Agent@3.20
 Agni                               undef  pkg:cpan/PApp@2.4
 Agni::Callback                     undef  pkg:cpan/PApp@2.4
-Aion                                 2.0  pkg:cpan/Aion@2.0
+Aion                                 2.1  pkg:cpan/Aion@2.1
 Aion::Annotation                   v0.0.3  pkg:cpan/Aion-Annotation@0.0.3
 Aion::Carp                           1.6  pkg:cpan/Aion-Carp@1.6
 Aion::Emitter                      v0.1.0  pkg:cpan/Aion-Emitter@0.1.0
 Aion::Emitter::ListenersRun        undef  pkg:cpan/Aion-Emitter@0.1.0
 Aion::Enum                         v0.0.3  pkg:cpan/Aion-Enum@0.0.3
+Aion::Env                          undef  pkg:cpan/Aion@2.1
 Aion::Format                       v0.1.2  pkg:cpan/Aion-Format@0.1.2
 Aion::Format::Html                 undef  pkg:cpan/Aion-Format@0.1.2
 Aion::Format::Json                 undef  pkg:cpan/Aion-Format@0.1.2
@@ -3871,13 +3872,13 @@ Aion::Fs                           v0.2.3  pkg:cpan/Aion-Fs@0.2.3
 Aion::Fs::Cat                      undef  pkg:cpan/Aion-Fs@0.2.3
 Aion::Fs::Find                     undef  pkg:cpan/Aion-Fs@0.2.3
 Aion::Fs::Lay                      undef  pkg:cpan/Aion-Fs@0.2.3
-Aion::Meta::Feature                undef  pkg:cpan/Aion@2.0
-Aion::Meta::FeatureConstruct       undef  pkg:cpan/Aion@2.0
-Aion::Meta::RequiresAnyFunction    undef  pkg:cpan/Aion@2.0
-Aion::Meta::RequiresFeature        undef  pkg:cpan/Aion@2.0
-Aion::Meta::Subroutine             undef  pkg:cpan/Aion@2.0
-Aion::Meta::Util                   undef  pkg:cpan/Aion@2.0
-Aion::Pleroma                      undef  pkg:cpan/Aion@2.0
+Aion::Meta::Feature                undef  pkg:cpan/Aion@2.1
+Aion::Meta::FeatureConstruct       undef  pkg:cpan/Aion@2.1
+Aion::Meta::RequiresAnyFunction    undef  pkg:cpan/Aion@2.1
+Aion::Meta::RequiresFeature        undef  pkg:cpan/Aion@2.1
+Aion::Meta::Subroutine             undef  pkg:cpan/Aion@2.1
+Aion::Meta::Util                   undef  pkg:cpan/Aion@2.1
+Aion::Pleroma                      undef  pkg:cpan/Aion@2.1
 Aion::Query                        v0.0.6  pkg:cpan/Aion-Query@0.0.6
 Aion::Query::Transaction           undef  pkg:cpan/Aion-Query@0.0.6
 Aion::Refmark                      undef  pkg:cpan/Aion-Telemetry@0.0.1
@@ -3888,9 +3889,9 @@ Aion::Run::RunsRun                 undef  pkg:cpan/Aion-Run@0.0.3
 Aion::Spirit                       v0.0.1  pkg:cpan/Aion-Spirit@0.0.1
 Aion::Surf                         v0.0.3  pkg:cpan/Aion-Surf@0.0.3
 Aion::Telemetry                    v0.0.1  pkg:cpan/Aion-Telemetry@0.0.1
-Aion::Type                         undef  pkg:cpan/Aion@2.0
-Aion::Type::Lim                    undef  pkg:cpan/Aion@2.0
-Aion::Types                        undef  pkg:cpan/Aion@2.0
+Aion::Type                         undef  pkg:cpan/Aion@2.1
+Aion::Type::Lim                    undef  pkg:cpan/Aion@2.1
+Aion::Types                        undef  pkg:cpan/Aion@2.1
 Akado::Account                     1.002000  pkg:cpan/Akado-Account@1.2.0
 Akamai::Edgegrid                   1.000005  pkg:cpan/Akamai-Edgegrid@1.0.5
 Akamai::Open::Client                0.03  pkg:cpan/Akamai-Open-Client@0.03
@@ -4809,7 +4810,7 @@ Alien::XPA                         v2.1.20.7  pkg:cpan/Alien-XPA@v2.1.20.7
 Alien::Xmake                        0.08  pkg:cpan/Alien-Xmake@0.08
 Alien::Xrepo                        0.08  pkg:cpan/Alien-Xmake@0.08
 Alien::Xrepo::PackageInfo          undef  pkg:cpan/Alien-Xmake@0.08
-Alien::YAMLScript                  0.002020  pkg:cpan/Alien-YAMLScript@0.2.20
+Alien::YAMLScript                  0.002021  pkg:cpan/Alien-YAMLScript@0.2.21
 Alien::YARA                        v0.0.1  pkg:cpan/Alien-YARA@v0.0.6
 Alien::Z3                          0.002  pkg:cpan/Alien-Z3@0.002
 Alien::ZMQ                          0.06  pkg:cpan/Alien-ZMQ@0.06
@@ -6605,18 +6606,18 @@ Apache2::AMFTrace                   4.33  pkg:cpan/Apache2-ApacheMobileFilter@4.
 Apache2::AMFWURFLFilter             4.33  pkg:cpan/Apache2-ApacheMobileFilter@4.33
 Apache2::AMFWURFLFilterMemcached    4.33  pkg:cpan/Apache2-ApacheMobileFilter@4.33
 Apache2::AMFWebService              4.33  pkg:cpan/Apache2-ApacheMobileFilter@4.33
-Apache2::API                       0.005003  pkg:cpan/Apache2-API@v0.5.3
-Apache2::API::DateTime             0.001002  pkg:cpan/Apache2-API@v0.5.3
-Apache2::API::Headers::Accept      0.001000  pkg:cpan/Apache2-API@v0.5.3
-Apache2::API::Headers::AcceptCommon 0.001000  pkg:cpan/Apache2-API@v0.5.3
-Apache2::API::Headers::AcceptLanguage 0.001000  pkg:cpan/Apache2-API@v0.5.3
-Apache2::API::Password             0.005003  pkg:cpan/Apache2-API@v0.5.3
-Apache2::API::Query                0.001000  pkg:cpan/Apache2-API@v0.5.3
-Apache2::API::Request              0.004001  pkg:cpan/Apache2-API@v0.5.3
-Apache2::API::Request::Params      0.001001  pkg:cpan/Apache2-API@v0.5.3
-Apache2::API::Request::Upload      0.001000  pkg:cpan/Apache2-API@v0.5.3
-Apache2::API::Response             0.002000  pkg:cpan/Apache2-API@v0.5.3
-Apache2::API::Status               0.002001  pkg:cpan/Apache2-API@v0.5.3
+Apache2::API                       0.005004  pkg:cpan/Apache2-API@v0.5.4
+Apache2::API::DateTime             0.001003  pkg:cpan/Apache2-API@v0.5.4
+Apache2::API::Headers::Accept      0.001000  pkg:cpan/Apache2-API@v0.5.4
+Apache2::API::Headers::AcceptCommon 0.001000  pkg:cpan/Apache2-API@v0.5.4
+Apache2::API::Headers::AcceptLanguage 0.001000  pkg:cpan/Apache2-API@v0.5.4
+Apache2::API::Password             0.005004  pkg:cpan/Apache2-API@v0.5.4
+Apache2::API::Query                0.001000  pkg:cpan/Apache2-API@v0.5.4
+Apache2::API::Request              0.004002  pkg:cpan/Apache2-API@v0.5.4
+Apache2::API::Request::Params      0.001001  pkg:cpan/Apache2-API@v0.5.4
+Apache2::API::Request::Upload      0.001000  pkg:cpan/Apache2-API@v0.5.4
+Apache2::API::Response             0.002000  pkg:cpan/Apache2-API@v0.5.4
+Apache2::API::Status               0.002001  pkg:cpan/Apache2-API@v0.5.4
 Apache2::ASP                        2.46  pkg:cpan/Apache2-ASP@2.46
 Apache2::ASP::API                  undef  pkg:cpan/Apache2-ASP@2.46
 Apache2::ASP::ASPDOM::Document     undef  pkg:cpan/Apache2-ASP@2.46
@@ -139105,25 +139106,25 @@ Mojolicious::Plugin::Facets         0.07  pkg:cpan/Mojolicious-Plugin-Facets@0.0
 Mojolicious::Plugin::FeedReader     0.21  pkg:cpan/Mojo-Feed@0.21
 Mojolicious::Plugin::FillInFormLite  0.02  pkg:cpan/Mojolicious-Plugin-FillInFormLite@0.02
 Mojolicious::Plugin::Foil          0.006  pkg:cpan/Mojolicious-Plugin-Foil@0.006
-Mojolicious::Plugin::Fondation      0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
-Mojolicious::Plugin::Fondation::API  0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
-Mojolicious::Plugin::Fondation::Action::Base  0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
-Mojolicious::Plugin::Fondation::Action::Controllers  0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
-Mojolicious::Plugin::Fondation::Action::Static  0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
-Mojolicious::Plugin::Fondation::Action::Templates  0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
-Mojolicious::Plugin::Fondation::Command::fondation  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
-Mojolicious::Plugin::Fondation::Controller::Base  0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
+Mojolicious::Plugin::Fondation      0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
+Mojolicious::Plugin::Fondation::API  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
+Mojolicious::Plugin::Fondation::Action::Base  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
+Mojolicious::Plugin::Fondation::Action::Controllers  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
+Mojolicious::Plugin::Fondation::Action::Static  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
+Mojolicious::Plugin::Fondation::Action::Templates  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
+Mojolicious::Plugin::Fondation::Command::fondation  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
+Mojolicious::Plugin::Fondation::Controller::Base  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
 Mojolicious::Plugin::Fondation::Controller::Debug  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
-Mojolicious::Plugin::Fondation::Controller::Welcome  0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
-Mojolicious::Plugin::Fondation::Helpers  0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
-Mojolicious::Plugin::Fondation::Manager  0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
+Mojolicious::Plugin::Fondation::Controller::Welcome  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
+Mojolicious::Plugin::Fondation::Helpers  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
+Mojolicious::Plugin::Fondation::Manager  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
 Mojolicious::Plugin::Fondation::MigrationDBIx  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-MigrationDBIx@0.02
 Mojolicious::Plugin::Fondation::MigrationDBIx::Command::db  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-MigrationDBIx@0.02
 Mojolicious::Plugin::Fondation::Model::DBIx::Async  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Model-DBIx-Async@0.01
 Mojolicious::Plugin::Fondation::Model::DBIx::Async::Action::DBIx  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Model-DBIx-Async@0.01
-Mojolicious::Plugin::Fondation::Resolver  0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
-Mojolicious::Plugin::Fondation::TestHelper  0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
-Mojolicious::Plugin::Fondation::Utils  0.02  pkg:cpan/Mojolicious-Plugin-Fondation@0.02
+Mojolicious::Plugin::Fondation::Resolver  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
+Mojolicious::Plugin::Fondation::TestHelper  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
+Mojolicious::Plugin::Fondation::Utils  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
 Mojolicious::Plugin::FontAwesomeHelpers 0.001000  pkg:cpan/Mojolicious-Plugin-FontAwesomeHelpers@v0.1.0
 Mojolicious::Plugin::ForkCall      undef  pkg:cpan/Mojo-IOLoop-ForkCall@0.21
 Mojolicious::Plugin::ForkCart       0.03  pkg:cpan/Mojolicious-Plugin-ForkCart@0.03
@@ -234278,6 +234279,7 @@ Time::Moment::Role::Strptime       0.001  pkg:cpan/Time-Moment-Role-Strptime@0.0
 Time::Moment::Role::TimeZone       1.000  pkg:cpan/Time-Moment-Role-TimeZone@1.000
 Time::Monotonic                    v0.9.8  pkg:cpan/Time-Monotonic@v0.9.8
 Time::NT                           0.007  pkg:cpan/Time-NT@0.007
+Time::Nanos                        0.001002  pkg:cpan/Time-Nanos@v0.1.2
 Time::Normalize                     0.09  pkg:cpan/Time-Normalize@0.09
 Time::Object                        1.00  pkg:cpan/Time-Object@1.00
 Time::OlsonTZ::Clustered           0.002  pkg:cpan/Time-OlsonTZ-Clustered@0.002
@@ -259087,8 +259089,8 @@ YAML::XS                           v0.907.0  pkg:cpan/YAML-LibYAML@v0.907.0
 YAML::XS::LibYAML                  undef  pkg:cpan/YAML-LibYAML@0.89
 YAML::YAML2ADoc                    0.001000  pkg:cpan/YAML-YAML2ADoc@0.1.0
 YAML::yq::Helper                   0.002000  pkg:cpan/YAML-yq-Helper@0.2.0
-YAMLScript                         0.002020  pkg:cpan/YAMLScript@0.2.20
-YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.2.20
+YAMLScript                         0.002021  pkg:cpan/YAMLScript@0.2.21
+YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.2.21
 YAMLScript::Base                   undef  pkg:cpan/YAMLScript@0.0.7
 YAMLScript::CLI                    undef  pkg:cpan/YAMLScript@0.1.3
 YAMLScript::Call                   undef  pkg:cpan/YAMLScript@0.0.16
