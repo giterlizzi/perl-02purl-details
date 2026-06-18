@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 18 Jun 2026 12:46:38 GMT
-Line-Count: 264948
+Last-Updated: Thu, 18 Jun 2026 16:52:04 GMT
+Line-Count: 264956
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -214702,6 +214702,14 @@ Schema::RackTables::0_20_9::Result::VSEnabledIPs undef  pkg:cpan/Schema-RackTabl
 Schema::RackTables::0_20_9::Result::VSEnabledPorts undef  pkg:cpan/Schema-RackTables@1.01
 Schema::RackTables::0_20_9::Result::VSIPs undef  pkg:cpan/Schema-RackTables@1.01
 Schema::RackTables::0_20_9::Result::VSPorts undef  pkg:cpan/Schema-RackTables@1.01
+Schema::Test                        0.02  pkg:cpan/Schema-Test@0.02
+Schema::Test::0_1_0                 0.02  pkg:cpan/Schema-Test@0.02
+Schema::Test::0_1_0::Result::Person  0.02  pkg:cpan/Schema-Test@0.02
+Schema::Test::0_2_0                 0.02  pkg:cpan/Schema-Test@0.02
+Schema::Test::0_2_0::Result::Person  0.02  pkg:cpan/Schema-Test@0.02
+Schema::Test::0_3_0                 0.02  pkg:cpan/Schema-Test@0.02
+Schema::Test::0_3_0::Result::Address  0.02  pkg:cpan/Schema-Test@0.02
+Schema::Test::0_3_0::Result::Person  0.02  pkg:cpan/Schema-Test@0.02
 Schema::Validator                   0.03  pkg:cpan/Schema-Validator@0.03
 SchemaEvolution                     0.03  pkg:cpan/SchemaEvolution@0.03
 SchemaEvolution::Types              0.03  pkg:cpan/SchemaEvolution@0.03
@@ -234817,23 +234825,23 @@ Tk::Labelframe                     4.003  pkg:cpan/Tk@804.036
 Tk::Labelled                         0.2  pkg:cpan/Tk-Gauge@0.3
 Tk::LineGraph                       0.01  pkg:cpan/Tk-LineGraph@0.01
 Tk::LineNumberText                   0.5  pkg:cpan/Tk-LineNumberText@0.5
-Tk::ListBrowser                     0.09  pkg:cpan/Tk-ListBrowser@0.09
-Tk::ListBrowser::Bar                0.04  pkg:cpan/Tk-ListBrowser@0.09
-Tk::ListBrowser::BaseItem           0.04  pkg:cpan/Tk-ListBrowser@0.09
-Tk::ListBrowser::Column             0.09  pkg:cpan/Tk-ListBrowser@0.09
+Tk::ListBrowser                     0.10  pkg:cpan/Tk-ListBrowser@0.10
+Tk::ListBrowser::Bar                0.04  pkg:cpan/Tk-ListBrowser@0.10
+Tk::ListBrowser::BaseItem            0.1  pkg:cpan/Tk-ListBrowser@0.10
+Tk::ListBrowser::Column              0.1  pkg:cpan/Tk-ListBrowser@0.10
 Tk::ListBrowser::Data               0.08  pkg:cpan/Tk-ListBrowser@0.08
-Tk::ListBrowser::Entry              0.08  pkg:cpan/Tk-ListBrowser@0.09
-Tk::ListBrowser::FilterEntry        0.09  pkg:cpan/Tk-ListBrowser@0.09
-Tk::ListBrowser::HList              0.09  pkg:cpan/Tk-ListBrowser@0.09
-Tk::ListBrowser::HashList           0.09  pkg:cpan/Tk-ListBrowser@0.09
-Tk::ListBrowser::Item               0.09  pkg:cpan/Tk-ListBrowser@0.09
-Tk::ListBrowser::LBCanvas           0.04  pkg:cpan/Tk-ListBrowser@0.09
-Tk::ListBrowser::LBHeader           0.09  pkg:cpan/Tk-ListBrowser@0.09
-Tk::ListBrowser::List               0.09  pkg:cpan/Tk-ListBrowser@0.09
-Tk::ListBrowser::Row                0.09  pkg:cpan/Tk-ListBrowser@0.09
-Tk::ListBrowser::SelectXPM          0.08  pkg:cpan/Tk-ListBrowser@0.09
-Tk::ListBrowser::SideColumn         0.09  pkg:cpan/Tk-ListBrowser@0.09
-Tk::ListBrowser::Tree               0.09  pkg:cpan/Tk-ListBrowser@0.09
+Tk::ListBrowser::Entry               0.1  pkg:cpan/Tk-ListBrowser@0.10
+Tk::ListBrowser::FilterEntry         0.1  pkg:cpan/Tk-ListBrowser@0.10
+Tk::ListBrowser::HList               0.1  pkg:cpan/Tk-ListBrowser@0.10
+Tk::ListBrowser::HashList            0.1  pkg:cpan/Tk-ListBrowser@0.10
+Tk::ListBrowser::Item                0.1  pkg:cpan/Tk-ListBrowser@0.10
+Tk::ListBrowser::LBCanvas           0.04  pkg:cpan/Tk-ListBrowser@0.10
+Tk::ListBrowser::LBHeader            0.1  pkg:cpan/Tk-ListBrowser@0.10
+Tk::ListBrowser::List                0.1  pkg:cpan/Tk-ListBrowser@0.10
+Tk::ListBrowser::Row                 0.1  pkg:cpan/Tk-ListBrowser@0.10
+Tk::ListBrowser::SelectXPM           0.1  pkg:cpan/Tk-ListBrowser@0.10
+Tk::ListBrowser::SideColumn          0.1  pkg:cpan/Tk-ListBrowser@0.10
+Tk::ListBrowser::Tree                0.1  pkg:cpan/Tk-ListBrowser@0.10
 Tk::ListEntry                       0.05  pkg:cpan/Tk-ListEntry@0.05
 Tk::ListMgr                         0.02  pkg:cpan/Tk-GBARR@2.08
 Tk::ListMgr::Item                   0.02  pkg:cpan/Tk-GBARR@2.08
@@ -235398,15 +235406,15 @@ Travel::Routing::DE::HAFAS::Location  0.01  pkg:cpan/Travel-Routing-DE-HAFAS@0.0
 Travel::Routing::DE::HAFAS::Utils   0.11  pkg:cpan/Travel-Routing-DE-HAFAS@0.11
 Travel::Routing::DE::VRR            2.24  pkg:cpan/Travel-Routing-DE-VRR@2.24
 Travel::Status::DE::ASEAG           2.01  pkg:cpan/Travel-Status-DE-URA@2.01
-Travel::Status::DE::DBRIS           0.30  pkg:cpan/Travel-Status-DE-DBRIS@0.30
-Travel::Status::DE::DBRIS::Formation  0.30  pkg:cpan/Travel-Status-DE-DBRIS@0.30
-Travel::Status::DE::DBRIS::Formation::Carriage  0.30  pkg:cpan/Travel-Status-DE-DBRIS@0.30
-Travel::Status::DE::DBRIS::Formation::Group  0.30  pkg:cpan/Travel-Status-DE-DBRIS@0.30
-Travel::Status::DE::DBRIS::Formation::Sector  0.30  pkg:cpan/Travel-Status-DE-DBRIS@0.30
-Travel::Status::DE::DBRIS::Journey  0.30  pkg:cpan/Travel-Status-DE-DBRIS@0.30
-Travel::Status::DE::DBRIS::JourneyAtStop  0.30  pkg:cpan/Travel-Status-DE-DBRIS@0.30
-Travel::Status::DE::DBRIS::Location  0.30  pkg:cpan/Travel-Status-DE-DBRIS@0.30
-Travel::Status::DE::DBRIS::Operators  0.30  pkg:cpan/Travel-Status-DE-DBRIS@0.30
+Travel::Status::DE::DBRIS           0.31  pkg:cpan/Travel-Status-DE-DBRIS@0.31
+Travel::Status::DE::DBRIS::Formation  0.31  pkg:cpan/Travel-Status-DE-DBRIS@0.31
+Travel::Status::DE::DBRIS::Formation::Carriage  0.31  pkg:cpan/Travel-Status-DE-DBRIS@0.31
+Travel::Status::DE::DBRIS::Formation::Group  0.31  pkg:cpan/Travel-Status-DE-DBRIS@0.31
+Travel::Status::DE::DBRIS::Formation::Sector  0.31  pkg:cpan/Travel-Status-DE-DBRIS@0.31
+Travel::Status::DE::DBRIS::Journey  0.31  pkg:cpan/Travel-Status-DE-DBRIS@0.31
+Travel::Status::DE::DBRIS::JourneyAtStop  0.31  pkg:cpan/Travel-Status-DE-DBRIS@0.31
+Travel::Status::DE::DBRIS::Location  0.31  pkg:cpan/Travel-Status-DE-DBRIS@0.31
+Travel::Status::DE::DBRIS::Operators  0.31  pkg:cpan/Travel-Status-DE-DBRIS@0.31
 Travel::Status::DE::DBWagenreihung  0.18  pkg:cpan/Travel-Status-DE-DBWagenreihung@0.18
 Travel::Status::DE::DBWagenreihung::Carriage  0.18  pkg:cpan/Travel-Status-DE-DBWagenreihung@0.18
 Travel::Status::DE::DBWagenreihung::Group  0.18  pkg:cpan/Travel-Status-DE-DBWagenreihung@0.18
