@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 18 Jun 2026 20:13:53 GMT
-Line-Count: 264956
+Last-Updated: Thu, 18 Jun 2026 23:29:17 GMT
+Line-Count: 264957
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5162,9 +5162,9 @@ Amazon::S3::BucketV2               v2.0.2  pkg:cpan/Amazon-S3@2.0.2
 Amazon::S3::Constants              v2.0.2  pkg:cpan/Amazon-S3@2.0.2
 Amazon::S3::FastUploader            0.08  pkg:cpan/Amazon-S3-FastUploader@0.08
 Amazon::S3::FastUploader::File      0.05  pkg:cpan/Amazon-S3-FastUploader@0.08
-Amazon::S3::Lite                   v1.2.1  pkg:cpan/Amazon-S3-Lite@1.2.1
-Amazon::S3::Lite::Credentials      v1.2.1  pkg:cpan/Amazon-S3-Lite@1.2.1
-Amazon::S3::Lite::Logger           v1.2.1  pkg:cpan/Amazon-S3-Lite@1.2.1
+Amazon::S3::Lite                   v1.2.2  pkg:cpan/Amazon-S3-Lite@1.2.2
+Amazon::S3::Lite::Credentials      v1.2.2  pkg:cpan/Amazon-S3-Lite@1.2.2
+Amazon::S3::Lite::Logger           v1.2.2  pkg:cpan/Amazon-S3-Lite@1.2.2
 Amazon::S3::Logger                 v2.0.2  pkg:cpan/Amazon-S3@2.0.2
 Amazon::S3::Signature::V4              0  pkg:cpan/Amazon-S3@2.0.2
 Amazon::S3::SignedURLGenerator      0.02  pkg:cpan/Amazon-S3-SignedURLGenerator@0.02
@@ -114753,10 +114753,10 @@ JMAP::Tester::Sugar                0.110  pkg:cpan/JMAP-Tester@0.110
 JMAP::Tester::UA::Async            0.110  pkg:cpan/JMAP-Tester@0.110
 JMAP::Tester::UA::LWP              0.110  pkg:cpan/JMAP-Tester@0.110
 JMAP::Tester::UA::Test             0.107  pkg:cpan/JMAP-Tester@0.107
-JMAP::Tester::WebSocket            0.005  pkg:cpan/JMAP-Tester-WebSocket@0.005
-JMAP::Tester::WebSocket::Response  0.005  pkg:cpan/JMAP-Tester-WebSocket@0.005
-JMAP::Tester::WebSocket::Result::Failure 0.005  pkg:cpan/JMAP-Tester-WebSocket@0.005
-JMAP::Tester::WebSocket::Role::WebSocketResult 0.005  pkg:cpan/JMAP-Tester-WebSocket@0.005
+JMAP::Tester::WebSocket            0.006  pkg:cpan/JMAP-Tester-WebSocket@0.006
+JMAP::Tester::WebSocket::Response  0.006  pkg:cpan/JMAP-Tester-WebSocket@0.006
+JMAP::Tester::WebSocket::Result::Failure 0.006  pkg:cpan/JMAP-Tester-WebSocket@0.006
+JMAP::Tester::WebSocket::Role::WebSocketResult 0.006  pkg:cpan/JMAP-Tester-WebSocket@0.006
 JMAP::Validation                   undef  pkg:cpan/JMAP-Validation@0.005
 JMAP::Validation::Checks::Address  undef  pkg:cpan/JMAP-Validation@0.005
 JMAP::Validation::Checks::Attachment undef  pkg:cpan/JMAP-Validation@0.005
@@ -133134,6 +133134,7 @@ Math::RNG::Microsoft::Base         v0.4.0  pkg:cpan/Math-RNG-Microsoft@0.4.0
 Math::RNG::Microsoft::FCPro        v0.4.0  pkg:cpan/Math-RNG-Microsoft@0.4.0
 Math::RPN                           1.11  pkg:cpan/Math-RPN@1.11
 Math::Rand48                        1.00  pkg:cpan/Math-Rand48@1.00
+Math::Rand48::Cursor               0.001  pkg:cpan/Math-Rand48-Cursor@0.001
 Math::Random                        0.75  pkg:cpan/Math-Random@0.75
 Math::Random::AcceptReject          0.02  pkg:cpan/Math-Random-AcceptReject@0.02
 Math::Random::BlumBlumShub          0.06  pkg:cpan/Math-Random-BlumBlumShub@0.06
@@ -152543,7 +152544,7 @@ Net::Whois::Gateway::Client         0.12  pkg:cpan/Net-Whois-Gateway-Client@0.12
 Net::Whois::Gateway::Server         0.09  pkg:cpan/Net-Whois-Gateway-Server@0.09
 Net::Whois::Generic                undef  pkg:cpan/Net-Whois-RIPE@2.008001
 Net::Whois::IANA                    0.50  pkg:cpan/Net-Whois-IANA@0.50
-Net::Whois::IP                      1.19  pkg:cpan/Net-Whois-IP@1.19
+Net::Whois::IP                      1.20  pkg:cpan/Net-Whois-IP@1.20
 Net::Whois::Norid                   0.04  pkg:cpan/Net-Whois-Norid@0.04
 Net::Whois::Object                 undef  pkg:cpan/Net-Whois-RIPE@2.008001
 Net::Whois::Object::AsBlock        undef  pkg:cpan/Net-Whois-RIPE@2.008001
@@ -245731,7 +245732,7 @@ WWW::MeGa::Item::Image              0.11  pkg:cpan/WWW-MeGa@0.11
 WWW::MeGa::Item::Other              0.11  pkg:cpan/WWW-MeGa@0.11
 WWW::MeGa::Item::Text               0.11  pkg:cpan/WWW-MeGa@0.11
 WWW::MeGa::Item::Video              0.11  pkg:cpan/WWW-MeGa@0.11
-WWW::Mechanize                      2.21  pkg:cpan/WWW-Mechanize@2.21
+WWW::Mechanize                      2.22  pkg:cpan/WWW-Mechanize@2.22
 WWW::Mechanize::AutoPager           0.02  pkg:cpan/WWW-Mechanize-AutoPager@0.02
 WWW::Mechanize::Boilerplate         0.03  pkg:cpan/WWW-Mechanize-Boilerplate@0.03
 WWW::Mechanize::Boilerplate::BBC   undef  pkg:cpan/WWW-Mechanize-Boilerplate@0.03
@@ -245765,8 +245766,8 @@ WWW::Mechanize::FormFiller::Value::Random::Date  0.13  pkg:cpan/WWW-Mechanize-Fo
 WWW::Mechanize::FormFiller::Value::Random::Word  0.13  pkg:cpan/WWW-Mechanize-FormFiller@0.13
 WWW::Mechanize::Frames              0.03  pkg:cpan/WWW-Mechanize-Frames@0.03
 WWW::Mechanize::GZip                0.14  pkg:cpan/WWW-Mechanize-GZip@0.14
-WWW::Mechanize::Image               2.21  pkg:cpan/WWW-Mechanize@2.21
-WWW::Mechanize::Link                2.21  pkg:cpan/WWW-Mechanize@2.21
+WWW::Mechanize::Image               2.22  pkg:cpan/WWW-Mechanize@2.22
+WWW::Mechanize::Link                2.22  pkg:cpan/WWW-Mechanize@2.22
 WWW::Mechanize::Meta                0.07  pkg:cpan/WWW-Mechanize-Meta@0.07
 WWW::Mechanize::PhantomJS           0.25  pkg:cpan/WWW-Mechanize-PhantomJS@0.25
 WWW::Mechanize::PhantomJS::Catalyst  0.02  pkg:cpan/WWW-Mechanize-PhantomJS-Catalyst@0.02
