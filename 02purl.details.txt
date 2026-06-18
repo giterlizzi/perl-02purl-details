@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 18 Jun 2026 02:53:18 GMT
+Last-Updated: Thu, 18 Jun 2026 08:38:46 GMT
 Line-Count: 264936
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -114963,7 +114963,7 @@ JSON::API::v1::Resource            0.002  pkg:cpan/JSON-API-v1@0.002
 JSON::API::v1::Roles::Links        0.002  pkg:cpan/JSON-API-v1@0.002
 JSON::API::v1::Roles::MetaObject   0.002  pkg:cpan/JSON-API-v1@0.002
 JSON::API::v1::Roles::TO_JSON      0.002  pkg:cpan/JSON-API-v1@0.002
-JSON::Any                           1.40  pkg:cpan/JSON-Any@1.40
+JSON::Any                           1.41  pkg:cpan/JSON-Any@1.41
 JSON::Assert                        0.08  pkg:cpan/JSON-Assert@0.08
 JSON::Backend::PP                   4.11  pkg:cpan/JSON@4.11
 JSON::Boolean                       2.90  pkg:cpan/JSON@2.90
