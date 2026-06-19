@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 19 Jun 2026 19:29:20 GMT
+Last-Updated: Fri, 19 Jun 2026 21:02:48 GMT
 Line-Count: 265008
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -115214,29 +115214,29 @@ JSON::Schema::Error                0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Fit                   0.07  pkg:cpan/JSON-Schema-Fit@0.07
 JSON::Schema::Generate              0.15  pkg:cpan/JSON-Schema-Generate@0.15
 JSON::Schema::Helper               0.016  pkg:cpan/JSON-Schema@0.016
-JSON::Schema::Modern               0.640  pkg:cpan/JSON-Schema-Modern@0.640
-JSON::Schema::Modern::Annotation   0.640  pkg:cpan/JSON-Schema-Modern@0.640
-JSON::Schema::Modern::Document     0.640  pkg:cpan/JSON-Schema-Modern@0.640
+JSON::Schema::Modern               0.641  pkg:cpan/JSON-Schema-Modern@0.641
+JSON::Schema::Modern::Annotation   0.641  pkg:cpan/JSON-Schema-Modern@0.641
+JSON::Schema::Modern::Document     0.641  pkg:cpan/JSON-Schema-Modern@0.641
 JSON::Schema::Modern::Document::OpenAPI 0.138  pkg:cpan/OpenAPI-Modern@0.138
-JSON::Schema::Modern::Error        0.640  pkg:cpan/JSON-Schema-Modern@0.640
-JSON::Schema::Modern::Result       0.640  pkg:cpan/JSON-Schema-Modern@0.640
-JSON::Schema::Modern::ResultNode   0.640  pkg:cpan/JSON-Schema-Modern@0.640
-JSON::Schema::Modern::Utilities    0.640  pkg:cpan/JSON-Schema-Modern@0.640
-JSON::Schema::Modern::Vocabulary   0.640  pkg:cpan/JSON-Schema-Modern@0.640
-JSON::Schema::Modern::Vocabulary::Applicator 0.640  pkg:cpan/JSON-Schema-Modern@0.640
-JSON::Schema::Modern::Vocabulary::Content 0.640  pkg:cpan/JSON-Schema-Modern@0.640
-JSON::Schema::Modern::Vocabulary::Core 0.640  pkg:cpan/JSON-Schema-Modern@0.640
-JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.640  pkg:cpan/JSON-Schema-Modern@0.640
-JSON::Schema::Modern::Vocabulary::FormatAssertion 0.640  pkg:cpan/JSON-Schema-Modern@0.640
-JSON::Schema::Modern::Vocabulary::MetaData 0.640  pkg:cpan/JSON-Schema-Modern@0.640
+JSON::Schema::Modern::Error        0.641  pkg:cpan/JSON-Schema-Modern@0.641
+JSON::Schema::Modern::Result       0.641  pkg:cpan/JSON-Schema-Modern@0.641
+JSON::Schema::Modern::ResultNode   0.641  pkg:cpan/JSON-Schema-Modern@0.641
+JSON::Schema::Modern::Utilities    0.641  pkg:cpan/JSON-Schema-Modern@0.641
+JSON::Schema::Modern::Vocabulary   0.641  pkg:cpan/JSON-Schema-Modern@0.641
+JSON::Schema::Modern::Vocabulary::Applicator 0.641  pkg:cpan/JSON-Schema-Modern@0.641
+JSON::Schema::Modern::Vocabulary::Content 0.641  pkg:cpan/JSON-Schema-Modern@0.641
+JSON::Schema::Modern::Vocabulary::Core 0.641  pkg:cpan/JSON-Schema-Modern@0.641
+JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.641  pkg:cpan/JSON-Schema-Modern@0.641
+JSON::Schema::Modern::Vocabulary::FormatAssertion 0.641  pkg:cpan/JSON-Schema-Modern@0.641
+JSON::Schema::Modern::Vocabulary::MetaData 0.641  pkg:cpan/JSON-Schema-Modern@0.641
 JSON::Schema::Modern::Vocabulary::OpenAPI 0.138  pkg:cpan/OpenAPI-Modern@0.138
 JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.138  pkg:cpan/OpenAPI-Modern@0.138
-JSON::Schema::Modern::Vocabulary::Unevaluated 0.640  pkg:cpan/JSON-Schema-Modern@0.640
-JSON::Schema::Modern::Vocabulary::Validation 0.640  pkg:cpan/JSON-Schema-Modern@0.640
+JSON::Schema::Modern::Vocabulary::Unevaluated 0.641  pkg:cpan/JSON-Schema-Modern@0.641
+JSON::Schema::Modern::Vocabulary::Validation 0.641  pkg:cpan/JSON-Schema-Modern@0.641
 JSON::Schema::Null                 0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Result               0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Shorthand            v0.0.2  pkg:cpan/JSON-Schema-Shorthand@0.0.2
-JSON::Schema::Tiny                 0.031  pkg:cpan/JSON-Schema-Tiny@0.031
+JSON::Schema::Tiny                 0.033  pkg:cpan/JSON-Schema-Tiny@0.033
 JSON::Schema::ToJSON                0.20  pkg:cpan/JSON-Schema-ToJSON@0.20
 JSON::Schema::Types                0.001  pkg:cpan/JSON-Schema-Types@0.001
 JSON::Schema::Validate             0.009000  pkg:cpan/JSON-Schema-Validate@v0.9.0
@@ -223702,7 +223702,7 @@ SwissprotAccessor                      1  pkg:cpan/Boulder@1.30
 Switch                              2.17  pkg:cpan/Switch@2.17
 Switch::Again                       1.02  pkg:cpan/Switch-Again@1.02
 Switch::Back                       0.000005  pkg:cpan/Switch-Back@0.000005
-Switch::Declare                     0.04  pkg:cpan/Switch-Declare@0.04
+Switch::Declare                     0.05  pkg:cpan/Switch-Declare@0.05
 Switch::Perlish                    1.000005  pkg:cpan/Switch-Perlish@1.0.5
 Switch::Perlish::Control::_fallthrough 1.000005  pkg:cpan/Switch-Perlish@1.0.5
 Switch::Perlish::Control::_stop    1.000005  pkg:cpan/Switch-Perlish@1.0.5
