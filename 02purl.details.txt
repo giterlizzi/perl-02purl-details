@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 18 Jun 2026 23:29:17 GMT
+Last-Updated: Fri, 19 Jun 2026 03:40:17 GMT
 Line-Count: 264957
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -203243,7 +203243,7 @@ RPerl::Test                        0.004  pkg:cpan/RPerl@7.000000
 RPi::ADC::ADS                       1.02  pkg:cpan/RPi-ADC-ADS@1.02
 RPi::ADC::MCP3008                  3.1801  pkg:cpan/RPi-ADC-MCP3008@3.1801
 RPi::BMP180                        3.1801  pkg:cpan/RPi-BMP180@3.1801
-RPi::Const                          1.05  pkg:cpan/RPi-Const@1.05
+RPi::Const                          1.06  pkg:cpan/RPi-Const@1.06
 RPi::DAC::MCP4922                  3.1801  pkg:cpan/RPi-DAC-MCP4922@3.1801
 RPi::DHT11                          1.05  pkg:cpan/RPi-DHT11@1.05
 RPi::DigiPot::MCP4XXXX             3.1801  pkg:cpan/RPi-DigiPot-MCP4XXXX@3.1801
