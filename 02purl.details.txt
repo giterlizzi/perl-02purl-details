@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 20 Jun 2026 10:27:44 GMT
-Line-Count: 265016
+Last-Updated: Sat, 20 Jun 2026 13:46:07 GMT
+Line-Count: 265017
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -63904,7 +63904,7 @@ DesktopWorkspace                   v1.0.0  pkg:cpan/DesktopWorkspace@1.0.0
 DesktopWorkspace::Test::Spec::Basic v1.0.0  pkg:cpan/DesktopWorkspace@1.0.0
 DesktopWorkspaceRole::Spec::Basic  v1.0.0  pkg:cpan/DesktopWorkspace@1.0.0
 DestructAssign                     0.002007  pkg:cpan/DestructAssign@0.002007
-Destructure::Declare                0.01  pkg:cpan/Destructure-Declare@0.01
+Destructure::Declare                0.02  pkg:cpan/Destructure-Declare@0.02
 Detect::Module                       1.2  pkg:cpan/Detect-Module@1.2
 Detect::Module::Internal             1.2  pkg:cpan/Detect-Module@1.2
 Dev::Bollocks                       0.06  pkg:cpan/Dev-Bollocks@0.06
@@ -194400,6 +194400,7 @@ Perl::Critic::Policy::Compatibility::PodMinimumVersion   100  pkg:cpan/Perl-Crit
 Perl::Critic::Policy::Compatibility::ProhibitThreeArgumentOpen 1.001  pkg:cpan/Perl-Critic-Compatibility@1.001
 Perl::Critic::Policy::Compatibility::ProhibitUnixDevNull   100  pkg:cpan/Perl-Critic-Pulp@100
 Perl::Critic::Policy::CompileTime   0.03  pkg:cpan/Perl-Critic-Policy-CompileTime@0.03
+Perl::Critic::Policy::ControlStructures::LoopsRequireLabels  0.01  pkg:cpan/Perl-Critic-Policy-ControlStructures-LoopsRequireLabels@0.01
 Perl::Critic::Policy::ControlStructures::ProhibitBareBlockLoopControls  0.06  pkg:cpan/Perl-Critic-Policy-ControlStructures-ProhibitBareBlockLoopControls@0.06
 Perl::Critic::Policy::ControlStructures::ProhibitCStyleForLoops 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ControlStructures::ProhibitCascadingIfElse 1.156  pkg:cpan/Perl-Critic@1.156
