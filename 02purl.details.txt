@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 20 Jun 2026 21:08:30 GMT
+Last-Updated: Sat, 20 Jun 2026 23:00:17 GMT
 Line-Count: 265026
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -258994,7 +258994,7 @@ YAML::Full::Parser                 0.000001  pkg:cpan/YAML-Full@0.0.1
 YAML::Full::Representer            0.000001  pkg:cpan/YAML-Full@0.0.1
 YAML::Full::Serializer             0.000001  pkg:cpan/YAML-Full@0.0.1
 YAML::Hobo                         v0.2.0  pkg:cpan/YAML-Hobo@0.2.0
-YAML::LibYAML                      v0.907.0  pkg:cpan/YAML-LibYAML@v0.907.0
+YAML::LibYAML                      v0.908.0  pkg:cpan/YAML-LibYAML@v0.908.0
 YAML::LibYAML::API                 v0.14.0  pkg:cpan/YAML-LibYAML-API@v0.14.0
 YAML::LibYAML::API::XS             v0.14.0  pkg:cpan/YAML-LibYAML-API@v0.14.0
 YAML::LoadBundle                   v0.4.3  pkg:cpan/YAML-LoadBundle@v0.4.3
@@ -259168,7 +259168,7 @@ YAML::Type::regexp                 undef  pkg:cpan/YAML@1.31
 YAML::Type::undef                  undef  pkg:cpan/YAML@1.31
 YAML::Types                        undef  pkg:cpan/YAML@1.31
 YAML::Warning                      undef  pkg:cpan/YAML@1.31
-YAML::XS                           v0.907.0  pkg:cpan/YAML-LibYAML@v0.907.0
+YAML::XS                           v0.908.0  pkg:cpan/YAML-LibYAML@v0.908.0
 YAML::XS::LibYAML                  undef  pkg:cpan/YAML-LibYAML@0.89
 YAML::YAML2ADoc                    0.001000  pkg:cpan/YAML-YAML2ADoc@0.1.0
 YAML::yq::Helper                   0.002000  pkg:cpan/YAML-yq-Helper@0.2.0
