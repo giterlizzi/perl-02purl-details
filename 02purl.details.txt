@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 19 Jun 2026 22:48:24 GMT
+Last-Updated: Sat, 20 Jun 2026 02:44:08 GMT
 Line-Count: 265015
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -9468,7 +9468,7 @@ App::Commando::Presenter           0.012  pkg:cpan/App-Commando@0.012
 App::Commando::Program             0.012  pkg:cpan/App-Commando@0.012
 App::CommentToPod                  0.002  pkg:cpan/App-CommentToPod@0.002
 App::CommonMarkUtils                0.02  pkg:cpan/App-CommonMarkUtils@0.02
-App::CommonPrefixUtils             0.001  pkg:cpan/App-CommonPrefixUtils@0.001
+App::CommonPrefixUtils             0.002  pkg:cpan/App-CommonPrefixUtils@0.002
 App::CommonSuffixUtils             0.001  pkg:cpan/App-CommonSuffixUtils@0.001
 App::ComparerUtils                 0.001  pkg:cpan/App-ComparerUtils@0.001
 App::CompleteCLIs                  0.153  pkg:cpan/App-CompleteCLIs@0.153
