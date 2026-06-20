@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 20 Jun 2026 02:44:08 GMT
+Last-Updated: Sat, 20 Jun 2026 07:44:15 GMT
 Line-Count: 265015
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -4329,9 +4329,9 @@ Algorithm::Paxos::Role::Proposer   0.001  pkg:cpan/Algorithm-Paxos@0.001
 Algorithm::Permute                  0.17  pkg:cpan/Algorithm-Permute@0.17
 Algorithm::Points::MinimumDistance  0.01  pkg:cpan/Algorithm-Points-MinimumDistance@0.01
 Algorithm::Prefixspan               0.04  pkg:cpan/Algorithm-Prefixspan@0.04
-Algorithm::QuadTree                  0.5  pkg:cpan/Algorithm-QuadTree@0.5
-Algorithm::QuadTree::PP              0.5  pkg:cpan/Algorithm-QuadTree@0.5
-Algorithm::QuadTree::XS             0.05  pkg:cpan/Algorithm-QuadTree-XS@0.05
+Algorithm::QuadTree                  0.6  pkg:cpan/Algorithm-QuadTree@0.6
+Algorithm::QuadTree::PP              0.6  pkg:cpan/Algorithm-QuadTree@0.6
+Algorithm::QuadTree::XS             0.06  pkg:cpan/Algorithm-QuadTree-XS@0.06
 Algorithm::QuineMcCluskey           1.01  pkg:cpan/Algorithm-QuineMcCluskey@1.01
 Algorithm::QuineMcCluskey::Format   1.01  pkg:cpan/Algorithm-QuineMcCluskey@1.01
 Algorithm::QuineMcCluskey::Util     1.01  pkg:cpan/Algorithm-QuineMcCluskey@1.01
