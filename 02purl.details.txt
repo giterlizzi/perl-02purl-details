@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 20 Jun 2026 19:14:22 GMT
-Line-Count: 265022
+Last-Updated: Sat, 20 Jun 2026 21:08:30 GMT
+Line-Count: 265026
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -113994,6 +113994,7 @@ Inferno::RegMgr::Service           v1.0.0  pkg:cpan/Inferno-RegMgr@v1.0.0
 Inferno::RegMgr::TCP               v1.0.0  pkg:cpan/Inferno-RegMgr@v1.0.0
 Inferno::RegMgr::Utils             v1.0.0  pkg:cpan/Inferno-RegMgr@v1.0.0
 InfiniteList                        0.05  pkg:cpan/Language-Functional@0.05
+Infix::Custom                       0.01  pkg:cpan/Infix-Custom@0.01
 InfluxDB                           1.005  pkg:cpan/InfluxDB@1.005
 InfluxDB::Client::Simple            1.00  pkg:cpan/InfluxDB-Client-Simple@1.00
 InfluxDB::HTTP                      0.04  pkg:cpan/InfluxDB-HTTP@0.04
@@ -224336,6 +224337,8 @@ Syntax::Highlight::Shell            0.04  pkg:cpan/Syntax-Highlight-Shell@0.04
 Syntax::Highlight::Universal         0.4  pkg:cpan/Syntax-Highlight-Universal@0.4
 Syntax::Highlight::WithEmacs         0.2  pkg:cpan/Syntax-Highlight-WithEmacs@0.2
 Syntax::Highlight::XML             0.003  pkg:cpan/Syntax-Highlight-RDF@0.003
+Syntax::Infix::ConditionalSplice    0.01  pkg:cpan/Syntax-Infix-ConditionalSplice@0.01
+Syntax::Infix::OptionalChain        0.01  pkg:cpan/Syntax-Infix-OptionalChain@0.01
 Syntax::Infix::Smartmatch          0.011  pkg:cpan/Syntax-Infix-Smartmatch@0.011
 Syntax::Kamelon                     0.25  pkg:cpan/Syntax-Kamelon@0.25
 Syntax::Kamelon::Builder            0.25  pkg:cpan/Syntax-Kamelon@0.25
@@ -248101,6 +248104,7 @@ WeakRef::Auto                       0.02  pkg:cpan/WeakRef-Auto@0.02
 Weasel                              0.32  pkg:cpan/Weasel@0.32
 Weasel::Driver::Mock                0.02  pkg:cpan/Weasel-Driver-Mock@0.02
 Weasel::Driver::Selenium2           0.15  pkg:cpan/Weasel-Driver-Selenium2@0.15
+Weasel::Driver::Selenium4           0.01  pkg:cpan/Weasel-Driver-Selenium4@0.01
 Weasel::DriverRole                  0.04  pkg:cpan/Weasel-DriverRole@0.04
 Weasel::Element                     0.32  pkg:cpan/Weasel@0.32
 Weasel::Element::Document           0.32  pkg:cpan/Weasel@0.32
@@ -259195,7 +259199,7 @@ YAMLScript::Runtime                undef  pkg:cpan/YAMLScript@0.0.5
 YAMLScript::Str                    undef  pkg:cpan/YAMLScript@0.0.16
 YAMLScript::Test                   undef  pkg:cpan/YAMLScript-Lingy@0.2.1
 YAMLScript::Util                   undef  pkg:cpan/YAMLScript@0.0.16
-YAMLStar                           0.001006  pkg:cpan/YAMLStar@0.1.6
+YAMLStar                           0.001007  pkg:cpan/YAMLStar@0.1.7
 YAMLTest                           0.001000  pkg:cpan/YAMLTest@0.1.0
 YANG                                0.02  pkg:cpan/YANG@0.02
 YAOO                                0.10  pkg:cpan/YAOO@0.10
