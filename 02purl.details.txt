@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 21 Jun 2026 21:07:19 GMT
+Last-Updated: Sun, 21 Jun 2026 23:04:46 GMT
 Line-Count: 265035
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -50342,7 +50342,7 @@ Cucumber::TagExpressions::LiteralNode v10.0.0  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
 Cucumber::TagExpressions::NotNode  v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
 Cucumber::TagExpressions::OrNode   v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.113
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.114
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
@@ -197723,12 +197723,12 @@ Playwright::WebSocket              1.551  pkg:cpan/Playwright@1.551
 Playwright::WebSocketFrame         1.551  pkg:cpan/Playwright@1.551
 Playwright::WebSocketRoute         1.551  pkg:cpan/Playwright@1.551
 Playwright::Worker                 1.551  pkg:cpan/Playwright@1.551
-Plerd                              1.900  pkg:cpan/Plerd@1.900
-Plerd::Init                        undef  pkg:cpan/Plerd@1.900
-Plerd::Post                        undef  pkg:cpan/Plerd@1.900
-Plerd::SmartyPants                 undef  pkg:cpan/Plerd@1.900
-Plerd::Tag                         undef  pkg:cpan/Plerd@1.900
-Plerd::Util                        undef  pkg:cpan/Plerd@1.900
+Plerd                              1.901  pkg:cpan/Plerd@1.901
+Plerd::Init                        undef  pkg:cpan/Plerd@1.901
+Plerd::Post                        undef  pkg:cpan/Plerd@1.901
+Plerd::SmartyPants                 undef  pkg:cpan/Plerd@1.901
+Plerd::Tag                         undef  pkg:cpan/Plerd@1.901
+Plerd::Util                        undef  pkg:cpan/Plerd@1.901
 Plerd::WebmentionQueue             undef  pkg:cpan/Plerd@1.820
 Plibwrap                            0.05  pkg:cpan/DBD-Plibdata@0.06
 Plibwrap::Row                       0.05  pkg:cpan/DBD-Plibdata@0.06
@@ -248113,7 +248113,7 @@ WeakRef::Auto                       0.02  pkg:cpan/WeakRef-Auto@0.02
 Weasel                              0.32  pkg:cpan/Weasel@0.32
 Weasel::Driver::Mock                0.02  pkg:cpan/Weasel-Driver-Mock@0.02
 Weasel::Driver::Selenium2           0.15  pkg:cpan/Weasel-Driver-Selenium2@0.15
-Weasel::Driver::Selenium4           0.01  pkg:cpan/Weasel-Driver-Selenium4@0.01
+Weasel::Driver::Selenium4           0.02  pkg:cpan/Weasel-Driver-Selenium4@0.02
 Weasel::DriverRole                  0.04  pkg:cpan/Weasel-DriverRole@0.04
 Weasel::Element                     0.32  pkg:cpan/Weasel@0.32
 Weasel::Element::Document           0.32  pkg:cpan/Weasel@0.32
