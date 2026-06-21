@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 21 Jun 2026 08:22:22 GMT
-Line-Count: 265029
+Last-Updated: Sun, 21 Jun 2026 12:07:34 GMT
+Line-Count: 265031
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5080,32 +5080,32 @@ Alzabo::SQLMaker::PostgreSQL           2  pkg:cpan/Alzabo@0.92
 Alzabo::Schema                         2  pkg:cpan/Alzabo@0.92
 Alzabo::Table                          2  pkg:cpan/Alzabo@0.92
 Alzabo::Utils                      undef  pkg:cpan/Alzabo@0.92
-Amazon::API                        v2.2.5  pkg:cpan/Amazon-API@2.2.5
-Amazon::API::Botocore              v2.2.5  pkg:cpan/Amazon-API@2.2.5
-Amazon::API::Botocore::Pod         v2.2.5  pkg:cpan/Amazon-API@2.2.5
-Amazon::API::Botocore::Shape       v2.2.5  pkg:cpan/Amazon-API@2.2.5
-Amazon::API::Botocore::Shape::Serializer v2.2.5  pkg:cpan/Amazon-API@2.2.5
-Amazon::API::Botocore::Shape::Utils v2.2.5  pkg:cpan/Amazon-API@2.2.5
+Amazon::API                        v2.2.6  pkg:cpan/Amazon-API@2.2.6
+Amazon::API::Botocore              v2.2.6  pkg:cpan/Amazon-API@2.2.6
+Amazon::API::Botocore::Pod         v2.2.6  pkg:cpan/Amazon-API@2.2.6
+Amazon::API::Botocore::Shape       v2.2.6  pkg:cpan/Amazon-API@2.2.6
+Amazon::API::Botocore::Shape::Serializer v2.2.6  pkg:cpan/Amazon-API@2.2.6
+Amazon::API::Botocore::Shape::Utils v2.2.6  pkg:cpan/Amazon-API@2.2.6
 Amazon::API::CHIME                 v1.2.7  pkg:cpan/Amazon-API@1.3.3
 Amazon::API::CloudSearch           v1.2.7  pkg:cpan/Amazon-API@1.3.3
 Amazon::API::CloudSearchDomain     v1.2.7  pkg:cpan/Amazon-API@1.3.3
 Amazon::API::CloudWatchLogs        v1.3.5  pkg:cpan/Amazon-API@1.3.5
-Amazon::API::Constants             v2.2.5  pkg:cpan/Amazon-API@2.2.5
+Amazon::API::Constants             v2.2.6  pkg:cpan/Amazon-API@2.2.6
 Amazon::API::EC2                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::ECR                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::ECS                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
-Amazon::API::Error                 v2.2.5  pkg:cpan/Amazon-API@2.2.5
-Amazon::API::HTTP::Response            0  pkg:cpan/Amazon-API@2.2.5
-Amazon::API::HTTP::UserAgent           0  pkg:cpan/Amazon-API@2.2.5
-Amazon::API::NullLogger                0  pkg:cpan/Amazon-API@2.2.5
-Amazon::API::Pod::Parser            0.01  pkg:cpan/Amazon-API@2.2.5
-Amazon::API::Pod::Simple::Text      0.01  pkg:cpan/Amazon-API@2.2.5
+Amazon::API::Error                 v2.2.6  pkg:cpan/Amazon-API@2.2.6
+Amazon::API::HTTP::Response            0  pkg:cpan/Amazon-API@2.2.6
+Amazon::API::HTTP::UserAgent           0  pkg:cpan/Amazon-API@2.2.6
+Amazon::API::NullLogger                0  pkg:cpan/Amazon-API@2.2.6
+Amazon::API::Pod::Parser            0.01  pkg:cpan/Amazon-API@2.2.6
+Amazon::API::Pod::Simple::Text      0.01  pkg:cpan/Amazon-API@2.2.6
 Amazon::API::SQS                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::SSM                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::STS                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::SecretsManager        v1.3.5  pkg:cpan/Amazon-API@1.3.5
-Amazon::API::Signature4            v2.2.5  pkg:cpan/Amazon-API@2.2.5
-Amazon::API::Template                  0  pkg:cpan/Amazon-API@2.2.5
+Amazon::API::Signature4            v2.2.6  pkg:cpan/Amazon-API@2.2.6
+Amazon::API::Template                  0  pkg:cpan/Amazon-API@2.2.6
 Amazon::CloudFront::SignedURL       0.03  pkg:cpan/Amazon-CloudFront-SignedURL@0.03
 Amazon::CloudFront::Thin            0.05  pkg:cpan/Amazon-CloudFront-Thin@0.05
 Amazon::CreatorsAPI                 0.01  pkg:cpan/Amazon-CreatorsAPI@0.01
@@ -22107,11 +22107,11 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         0.015001  pkg:cpan/BarefootJS@0.15.1
-BarefootJS::Backend::Mojo          0.015001  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.15.1
-BarefootJS::Backend::Xslate        0.015001  pkg:cpan/BarefootJS-Backend-Xslate@0.15.1
-BarefootJS::DevReload              0.015001  pkg:cpan/BarefootJS@0.15.1
-BarefootJS::SearchParams           0.014000  pkg:cpan/BarefootJS@0.15.1
+BarefootJS                         0.015002  pkg:cpan/BarefootJS@0.15.2
+BarefootJS::Backend::Mojo          0.015002  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.15.2
+BarefootJS::Backend::Xslate        0.015002  pkg:cpan/BarefootJS-Backend-Xslate@0.15.2
+BarefootJS::DevReload              0.015002  pkg:cpan/BarefootJS@0.15.2
+BarefootJS::SearchParams           0.014000  pkg:cpan/BarefootJS@0.15.2
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
 Baseball::Sabermetrics              0.03  pkg:cpan/Baseball-Sabermetrics@0.03
@@ -51970,7 +51970,7 @@ DBIx::Class::Migration::TargetDirSandboxBuilder undef  pkg:cpan/DBIx-Class-Migra
 DBIx::Class::Migration::TempDirBuilder undef  pkg:cpan/DBIx-Class-Migration@0.075
 DBIx::Class::Migration::TempDirSandboxBuilder undef  pkg:cpan/DBIx-Class-Migration@0.075
 DBIx::Class::Migration::Types      undef  pkg:cpan/DBIx-Class-Migration@0.075
-DBIx::Class::MockData               0.05  pkg:cpan/DBIx-Class-MockData@0.05
+DBIx::Class::MockData              v1.0.0  pkg:cpan/DBIx-Class-MockData@v1.0.0
 DBIx::Class::Moo::ResultClass      0.001001  pkg:cpan/DBIx-Class-Moo-ResultClass@0.001001
 DBIx::Class::MooseColumns           0.22  pkg:cpan/DBIx-Class-MooseColumns@0.22
 DBIx::Class::MooseColumns::Meta::Attribute undef  pkg:cpan/DBIx-Class-MooseColumns@0.11
@@ -139014,8 +139014,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    0.015001  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.15.1
-Mojolicious::Plugin::BarefootJS::DevReload 0.015001  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.15.1
+Mojolicious::Plugin::BarefootJS    0.015002  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.15.2
+Mojolicious::Plugin::BarefootJS::DevReload 0.015002  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.15.2
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -160174,6 +160174,8 @@ POE::Component::Server::Inet        0.06  pkg:cpan/POE-Component-Server-Inet@0.0
 POE::Component::Server::JSONRPC     0.06  pkg:cpan/POE-Component-Server-JSONRPC@0.06
 POE::Component::Server::JSONRPC::Http  0.06  pkg:cpan/POE-Component-Server-JSONRPC@0.06
 POE::Component::Server::JSONRPC::Tcp  0.06  pkg:cpan/POE-Component-Server-JSONRPC@0.06
+POE::Component::Server::JSONUnix   0.000001  pkg:cpan/POE-Component-Server-JSONUnix@0.0.1
+POE::Component::Server::JSONUnix::Context 0.000001  pkg:cpan/POE-Component-Server-JSONUnix@0.0.1
 POE::Component::Server::MySQL       0.02  pkg:cpan/POE-Component-Server-MySQL@0.02
 POE::Component::Server::NNTP        1.06  pkg:cpan/POE-Component-Server-NNTP@1.06
 POE::Component::Server::NNTP::Constants  1.06  pkg:cpan/POE-Component-Server-NNTP@1.06
@@ -232328,7 +232330,7 @@ Text::NSP::Measures::4D::MI::ll     0.97  pkg:cpan/Text-NSP@1.31
 Text::NSR                           0.20  pkg:cpan/Text-NSR@0.20
 Text::NWrap                         0.11  pkg:cpan/Text-Format@0.52%2BNWrap0.11
 Text::Names                         0.46  pkg:cpan/Text-Names@0.46
-Text::Names::Abbreviate             0.02  pkg:cpan/Text-Names-Abbreviate@0.02
+Text::Names::Abbreviate             0.03  pkg:cpan/Text-Names-Abbreviate@0.03
 Text::Names::Canonicalize           0.01  pkg:cpan/Text-Names-Canonicalize@0.01
 Text::Names::Canonicalize::Rules   undef  pkg:cpan/Text-Names-Canonicalize@0.01
 Text::Names::GB                     0.04  pkg:cpan/Text-Names-GB@0.04
@@ -263802,39 +263804,39 @@ oCLI::Plugin::Validate             undef  pkg:cpan/oCLI@0.001
 oCLI::Request                      undef  pkg:cpan/oCLI@0.001
 oCLI::View::JSON                   undef  pkg:cpan/oCLI@0.001
 oCLI::View::Text                   undef  pkg:cpan/oCLI@0.001
-oEdtk                              1.8123  pkg:cpan/oEdtk@1.8123
-oEdtk::AddrField                    0.01  pkg:cpan/oEdtk@1.8123
-oEdtk::C7Doc                        0.04  pkg:cpan/oEdtk@1.8123
-oEdtk::C7Tag                        0.05  pkg:cpan/oEdtk@1.8123
-oEdtk::Config                      1.8101  pkg:cpan/oEdtk@1.8123
-oEdtk::DBAdmin                     1.8123  pkg:cpan/oEdtk@1.8123
-oEdtk::DateField                    0.14  pkg:cpan/oEdtk@1.8123
-oEdtk::Dict                        0.7012  pkg:cpan/oEdtk@1.8123
-oEdtk::Doc                          0.05  pkg:cpan/oEdtk@1.8123
-oEdtk::EDMS                        0.8035  pkg:cpan/oEdtk@1.8123
-oEdtk::FPField                      0.01  pkg:cpan/oEdtk@1.8123
-oEdtk::Field                        0.01  pkg:cpan/oEdtk@1.8123
-oEdtk::Main                        1.8122  pkg:cpan/oEdtk@1.8123
-oEdtk::Messenger                   0.001  pkg:cpan/oEdtk@1.8123
-oEdtk::OmgrIdxDoc                  0.8021  pkg:cpan/oEdtk@1.8123
-oEdtk::Outmngr                     1.5051  pkg:cpan/oEdtk@1.8123
-oEdtk::Record                      0.7005  pkg:cpan/oEdtk@1.8123
-oEdtk::RecordParser                0.7006  pkg:cpan/oEdtk@1.8123
-oEdtk::Run                         1.5041  pkg:cpan/oEdtk@1.8123
-oEdtk::SignedField                  0.01  pkg:cpan/oEdtk@1.8123
-oEdtk::Spool                       0.019  pkg:cpan/oEdtk@1.8123
-oEdtk::TexDoc                      0.7004  pkg:cpan/oEdtk@1.8123
-oEdtk::TexTag                       0.08  pkg:cpan/oEdtk@1.8123
-oEdtk::Tracking                    1.6031  pkg:cpan/oEdtk@1.8123
-oEdtk::Util                         0.01  pkg:cpan/oEdtk@1.8123
-oEdtk::XPath                        0.01  pkg:cpan/oEdtk@1.8123
-oEdtk::libC7                       0.0056  pkg:cpan/oEdtk@1.8123
-oEdtk::libDev                      0.316  pkg:cpan/oEdtk@1.8123
-oEdtk::libXls                      0.463  pkg:cpan/oEdtk@1.8123
-oEdtk::logger                      1.6051  pkg:cpan/oEdtk@1.8123
+oEdtk                              2.1064  pkg:cpan/oEdtk@2.1064
+oEdtk::AddrField                    0.01  pkg:cpan/oEdtk@2.1064
+oEdtk::C7Doc                        0.04  pkg:cpan/oEdtk@2.1064
+oEdtk::C7Tag                        0.05  pkg:cpan/oEdtk@2.1064
+oEdtk::Config                      1.9061  pkg:cpan/oEdtk@2.1064
+oEdtk::DBAdmin                     2.1063  pkg:cpan/oEdtk@2.1064
+oEdtk::DateField                    0.14  pkg:cpan/oEdtk@2.1064
+oEdtk::Dict                        0.7012  pkg:cpan/oEdtk@2.1064
+oEdtk::Doc                          0.05  pkg:cpan/oEdtk@2.1064
+oEdtk::EDMS                        0.8035  pkg:cpan/oEdtk@2.1064
+oEdtk::FPField                      0.01  pkg:cpan/oEdtk@2.1064
+oEdtk::Field                        0.01  pkg:cpan/oEdtk@2.1064
+oEdtk::Main                        1.8122  pkg:cpan/oEdtk@2.1064
+oEdtk::Messenger                   0.001  pkg:cpan/oEdtk@2.1064
+oEdtk::OmgrIdxDoc                  0.8021  pkg:cpan/oEdtk@2.1064
+oEdtk::Outmngr                     1.5051  pkg:cpan/oEdtk@2.1064
+oEdtk::Record                      0.7005  pkg:cpan/oEdtk@2.1064
+oEdtk::RecordParser                0.7006  pkg:cpan/oEdtk@2.1064
+oEdtk::Run                         1.5041  pkg:cpan/oEdtk@2.1064
+oEdtk::SignedField                  0.01  pkg:cpan/oEdtk@2.1064
+oEdtk::Spool                       0.019  pkg:cpan/oEdtk@2.1064
+oEdtk::TexDoc                      0.7004  pkg:cpan/oEdtk@2.1064
+oEdtk::TexTag                       0.08  pkg:cpan/oEdtk@2.1064
+oEdtk::Tracking                    2.1061  pkg:cpan/oEdtk@2.1064
+oEdtk::Util                         0.01  pkg:cpan/oEdtk@2.1064
+oEdtk::XPath                        0.01  pkg:cpan/oEdtk@2.1064
+oEdtk::libC7                       0.0056  pkg:cpan/oEdtk@2.1064
+oEdtk::libDev                      0.316  pkg:cpan/oEdtk@2.1064
+oEdtk::libXls                      0.463  pkg:cpan/oEdtk@2.1064
+oEdtk::logger                      1.6051  pkg:cpan/oEdtk@2.1064
 oEdtk::logger2                     1.8083  pkg:cpan/oEdtk@1.8123
-oEdtk::trackEdtk                   0.8051  pkg:cpan/oEdtk@1.8123
-oEdtk::tuiEdtk                     0.0032  pkg:cpan/oEdtk@1.8123
+oEdtk::trackEdtk                   0.8051  pkg:cpan/oEdtk@2.1064
+oEdtk::tuiEdtk                     0.0032  pkg:cpan/oEdtk@2.1064
 obogaf::parser                     1.373  pkg:cpan/obogaf-parser@1.373
 odern::Perl                        1.20250607  pkg:cpan/Modern-Perl@1.20250607
 of                                 undef  pkg:cpan/perl@5.6.1
