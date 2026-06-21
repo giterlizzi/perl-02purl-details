@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 21 Jun 2026 15:47:10 GMT
+Last-Updated: Sun, 21 Jun 2026 17:21:59 GMT
 Line-Count: 265031
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -129659,36 +129659,36 @@ Mail::DKIM::Signer                 1.20240923  pkg:cpan/Mail-DKIM@1.20240923
 Mail::DKIM::SignerPolicy           1.20240923  pkg:cpan/Mail-DKIM@1.20240923
 Mail::DKIM::TextWrap               1.20240923  pkg:cpan/Mail-DKIM@1.20240923
 Mail::DKIM::Verifier               1.20240923  pkg:cpan/Mail-DKIM@1.20240923
-Mail::DMARC                        1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::Base                  1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::HTTP                  1.20260612  pkg:cpan/Mail-DMARC@1.20260612
+Mail::DMARC                        1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::Base                  1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::HTTP                  1.20260621  pkg:cpan/Mail-DMARC@1.20260621
 Mail::DMARC::Iterator              0.014  pkg:cpan/Mail-DMARC-Iterator@0.014
-Mail::DMARC::Policy                1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::PurePerl              1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::Report                1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::Report::Aggregate     1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::Report::Aggregate::Metadata 1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::Report::Aggregate::Record 1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::Report::Aggregate::Record::Auth_Results 1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::Report::Aggregate::Record::Auth_Results::DKIM 1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::Report::Aggregate::Record::Auth_Results::SPF 1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::Report::Aggregate::Record::Identifiers 1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::Report::Aggregate::Record::Row 1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::Report::Aggregate::Record::Row::Policy_Evaluated 1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::Report::Receive       1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::Report::Send          1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::Report::Send::HTTP    1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::Report::Send::SMTP    1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::Report::Sender        undef  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::Report::Store         1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::Report::Store::SQL    1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::Report::Store::SQL::Grammars::MySQL 1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::Report::Store::SQL::Grammars::PostgreSQL 1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::Report::Store::SQL::Grammars::SQLite 1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::Report::URI           1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::Result                1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::Result::Reason        1.20260612  pkg:cpan/Mail-DMARC@1.20260612
-Mail::DMARC::Test::Transport       undef  pkg:cpan/Mail-DMARC@1.20260612
+Mail::DMARC::Policy                1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::PurePerl              1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::Report                1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::Report::Aggregate     1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::Report::Aggregate::Metadata 1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::Report::Aggregate::Record 1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::Report::Aggregate::Record::Auth_Results 1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::Report::Aggregate::Record::Auth_Results::DKIM 1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::Report::Aggregate::Record::Auth_Results::SPF 1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::Report::Aggregate::Record::Identifiers 1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::Report::Aggregate::Record::Row 1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::Report::Aggregate::Record::Row::Policy_Evaluated 1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::Report::Receive       1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::Report::Send          1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::Report::Send::HTTP    1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::Report::Send::SMTP    1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::Report::Sender        undef  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::Report::Store         1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::Report::Store::SQL    1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::Report::Store::SQL::Grammars::MySQL 1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::Report::Store::SQL::Grammars::PostgreSQL 1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::Report::Store::SQL::Grammars::SQLite 1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::Report::URI           1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::Result                1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::Result::Reason        1.20260621  pkg:cpan/Mail-DMARC@1.20260621
+Mail::DMARC::Test::Transport       undef  pkg:cpan/Mail-DMARC@1.20260621
 Mail::DMARC::opendmarc              0.11  pkg:cpan/Mail-DMARC-opendmarc@0.11
 Mail::DMARC::opendmarc::Constants::C::Symbols  0.11  pkg:cpan/Mail-DMARC-opendmarc@0.11
 Mail::DSPAM::Learning                0.1  pkg:cpan/Mail-DSPAM-Learning@0.1
@@ -234325,7 +234325,7 @@ Time::Human                         1.03  pkg:cpan/Time-Human@1.03
 Time::Implementation               undef  pkg:cpan/Froody@42.034
 Time::Interval                     1.234  pkg:cpan/Time-Interval@1.234
 Time::JulianDay                    2026.033  pkg:cpan/Time-ParseDate@2026.033
-Time::LeapSecond                    0.91  pkg:cpan/Time-Str@0.91
+Time::LeapSecond                    0.92  pkg:cpan/Time-Str@0.92
 Time::Left                         1.000  pkg:cpan/Time-Left@1.000
 Time::Limit                        0.003  pkg:cpan/Time-Limit@0.003
 Time::List                          0.13  pkg:cpan/Time-List@0.13
@@ -234400,16 +234400,16 @@ Time::StasisField                   0.01  pkg:cpan/Time-StasisField@0.01
 Time::Stats                          1.0  pkg:cpan/Time-Stats@1.0?ext=tgz
 Time::StopWatchWithMessage          0.06  pkg:cpan/Time-StopWatchWithMessage@0.06
 Time::Stopwatch                     1.00  pkg:cpan/Time-Stopwatch@1.00
-Time::Str                           0.91  pkg:cpan/Time-Str@0.91
-Time::Str::Calendar                 0.91  pkg:cpan/Time-Str@0.91
-Time::Str::PP                       0.91  pkg:cpan/Time-Str@0.91
+Time::Str                           0.92  pkg:cpan/Time-Str@0.92
+Time::Str::Calendar                 0.92  pkg:cpan/Time-Str@0.92
+Time::Str::PP                       0.92  pkg:cpan/Time-Str@0.92
 Time::Str::PP::Calendar             0.71  pkg:cpan/Time-Str@0.71
 Time::Str::PP::Token                0.71  pkg:cpan/Time-Str@0.71
-Time::Str::Regexp                   0.91  pkg:cpan/Time-Str@0.91
-Time::Str::Time                     0.91  pkg:cpan/Time-Str@0.91
-Time::Str::TimeZone                 0.91  pkg:cpan/Time-Str@0.91
-Time::Str::Token                    0.91  pkg:cpan/Time-Str@0.91
-Time::Str::Util                     0.91  pkg:cpan/Time-Str@0.91
+Time::Str::Regexp                   0.92  pkg:cpan/Time-Str@0.92
+Time::Str::Time                     0.92  pkg:cpan/Time-Str@0.92
+Time::Str::TimeZone                 0.92  pkg:cpan/Time-Str@0.92
+Time::Str::Token                    0.92  pkg:cpan/Time-Str@0.92
+Time::Str::Util                     0.92  pkg:cpan/Time-Str@0.92
 Time::Strptime                      1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::Format              1.04  pkg:cpan/Time-Strptime@1.04
 Time::Strptime::TimeZone           undef  pkg:cpan/Time-Strptime@1.04
@@ -234427,8 +234427,8 @@ Time::TT::OffsetKnot               0.005  pkg:cpan/Time-TT@0.005
 Time::TT::Realisation              0.005  pkg:cpan/Time-TT@0.005
 Time::TZ                              11  pkg:cpan/Tie-TZ@11
 Time::TZOffset                      0.04  pkg:cpan/Time-TZOffset@0.04
-Time::TZif                          0.91  pkg:cpan/Time-Str@0.91
-Time::TZif::POSIX                   0.91  pkg:cpan/Time-Str@0.91
+Time::TZif                          0.92  pkg:cpan/Time-Str@0.92
+Time::TZif::POSIX                   0.92  pkg:cpan/Time-Str@0.92
 Time::TimeTick                      0.06  pkg:cpan/Time-TimeTick@0.06
 Time::Timecode                      0.32  pkg:cpan/Time-Timecode@0.32
 Time::Timezone                     2026.033  pkg:cpan/Time-ParseDate@2026.033
