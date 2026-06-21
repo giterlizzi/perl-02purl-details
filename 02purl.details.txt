@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 21 Jun 2026 03:25:57 GMT
+Last-Updated: Sun, 21 Jun 2026 08:22:22 GMT
 Line-Count: 265029
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -109022,16 +109022,16 @@ HTTP::Request::AsCGI                 1.2  pkg:cpan/HTTP-Request-AsCGI@1.2
 HTTP::Request::AsCurl               0.03  pkg:cpan/HTTP-Request-AsCurl@0.03
 HTTP::Request::Chunked             undef  pkg:cpan/POE-Filter-HTTPD-Chunked@0.9
 HTTP::Request::Common               7.02  pkg:cpan/HTTP-Message@7.02
-HTTP::Request::CurlParameters       0.56  pkg:cpan/HTTP-Request-FromCurl@0.56
+HTTP::Request::CurlParameters       0.57  pkg:cpan/HTTP-Request-FromCurl@0.57
 HTTP::Request::Diff                 0.07  pkg:cpan/HTTP-Request-Diff@0.07
 HTTP::Request::Form                0.952  pkg:cpan/HTTP-Request-Form@0.952
-HTTP::Request::FromCurl             0.56  pkg:cpan/HTTP-Request-FromCurl@0.56
-HTTP::Request::FromFetch            0.56  pkg:cpan/HTTP-Request-FromCurl@0.56
+HTTP::Request::FromCurl             0.57  pkg:cpan/HTTP-Request-FromCurl@0.57
+HTTP::Request::FromFetch            0.57  pkg:cpan/HTTP-Request-FromCurl@0.57
 HTTP::Request::FromLog             0.00002  pkg:cpan/HTTP-Request-FromLog@0.00002
 HTTP::Request::FromLog::Engine::Base undef  pkg:cpan/HTTP-Request-FromLog@0.00002
 HTTP::Request::FromLog::Engine::Default undef  pkg:cpan/HTTP-Request-FromLog@0.00002
 HTTP::Request::FromTemplate         0.05  pkg:cpan/HTTP-Request-FromTemplate@0.05
-HTTP::Request::FromWget             0.56  pkg:cpan/HTTP-Request-FromCurl@0.56
+HTTP::Request::FromWget             0.57  pkg:cpan/HTTP-Request-FromCurl@0.57
 HTTP::Request::Generator            0.11  pkg:cpan/HTTP-Request-Generator@0.11
 HTTP::Request::JSON                undef  pkg:cpan/LWP-JSON-Tiny@0.014
 HTTP::Request::Params               1.02  pkg:cpan/HTTP-Request-Params@1.02
