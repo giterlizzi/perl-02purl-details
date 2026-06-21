@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 21 Jun 2026 12:07:34 GMT
+Last-Updated: Sun, 21 Jun 2026 15:47:10 GMT
 Line-Count: 265031
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -16367,7 +16367,7 @@ App::plasm::dump                    0.03  pkg:cpan/App-plasm@0.03
 App::plasm::run                     0.03  pkg:cpan/App-plasm@0.03
 App::plasm::wat                     0.03  pkg:cpan/App-plasm@0.03
 App::plmetrics                      0.06  pkg:cpan/App-plmetrics@0.06
-App::plockf                         0.04  pkg:cpan/App-plockf@0.04
+App::plockf                         0.05  pkg:cpan/App-plockf@0.05
 App::plstrace                       0.06  pkg:cpan/App-plstrace@0.06
 App::plx                           0.902003  pkg:cpan/App-plx@0.902003
 App::pmarkdown                      1.10  pkg:cpan/Markdown-Perl@1.10
@@ -33215,9 +33215,9 @@ CPAN::FTP                          5.5016  pkg:cpan/CPAN@2.38
 CPAN::FTP::netrc                    1.01  pkg:cpan/CPAN@2.38
 CPAN::Faker                        0.012  pkg:cpan/CPAN-Faker@0.012
 CPAN::Faker::HTTPD                 0.002  pkg:cpan/CPAN-Faker-HTTPD@0.002
-CPAN::FindDependencies              3.13  pkg:cpan/CPAN-FindDependencies@3.13
-CPAN::FindDependencies::Dependency  3.04  pkg:cpan/CPAN-FindDependencies@3.13
-CPAN::FindDependencies::MakeMaker    1.0  pkg:cpan/CPAN-FindDependencies@3.13
+CPAN::FindDependencies              3.14  pkg:cpan/CPAN-FindDependencies@3.14
+CPAN::FindDependencies::Dependency  3.04  pkg:cpan/CPAN-FindDependencies@3.14
+CPAN::FindDependencies::MakeMaker    1.0  pkg:cpan/CPAN-FindDependencies@3.14
 CPAN::FirstTime                    5.5317  pkg:cpan/CPAN@2.38
 CPAN::Flatten                       0.01  pkg:cpan/CPAN-Flatten@0.01
 CPAN::Flatten::CLI                 undef  pkg:cpan/CPAN-Flatten@0.01
@@ -36149,13 +36149,13 @@ Catalyst::Plugin::MortalForward     0.01  pkg:cpan/Catalyst-Plugin-MortalForward
 Catalyst::Plugin::Navigation       1.002  pkg:cpan/Catalyst-Plugin-Navigation@1.002
 Catalyst::Plugin::OIDC              1.03  pkg:cpan/Catalyst-Plugin-OIDC@1.03
 Catalyst::Plugin::Observe           0.02  pkg:cpan/Catalyst-Plugin-Observe@0.02
-Catalyst::Plugin::OpenIDConnect     0.14  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.14
-Catalyst::Plugin::OpenIDConnect::Context undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.14
-Catalyst::Plugin::OpenIDConnect::Controller::Root undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.14
-Catalyst::Plugin::OpenIDConnect::Role::Store undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.14
-Catalyst::Plugin::OpenIDConnect::Utils::JWT undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.14
-Catalyst::Plugin::OpenIDConnect::Utils::Store undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.14
-Catalyst::Plugin::OpenIDConnect::Utils::Store::Redis undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.14
+Catalyst::Plugin::OpenIDConnect     0.15  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.15
+Catalyst::Plugin::OpenIDConnect::Context undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.15
+Catalyst::Plugin::OpenIDConnect::Controller::Root undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.15
+Catalyst::Plugin::OpenIDConnect::Role::Store undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.15
+Catalyst::Plugin::OpenIDConnect::Utils::JWT undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.15
+Catalyst::Plugin::OpenIDConnect::Utils::Store undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.15
+Catalyst::Plugin::OpenIDConnect::Utils::Store::Redis undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.15
 Catalyst::Plugin::OrderedParams     0.06  pkg:cpan/Catalyst-Plugin-OrderedParams@0.06
 Catalyst::Plugin::PageCache         0.32  pkg:cpan/Catalyst-Plugin-PageCache@0.32
 Catalyst::Plugin::Params::Demoronize  1.14  pkg:cpan/Catalyst-Plugin-Params-Demoronize@1.14
