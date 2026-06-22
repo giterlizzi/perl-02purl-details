@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 22 Jun 2026 21:57:08 GMT
+Last-Updated: Mon, 22 Jun 2026 23:17:44 GMT
 Line-Count: 265045
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -47955,6 +47955,7 @@ Config::MyConfig2                    2.2  pkg:cpan/Config-MyConfig2@2.20
 Config::MySQL                       0.02  pkg:cpan/Config-MySQL@0.02
 Config::MySQL::Reader               0.02  pkg:cpan/Config-MySQL@0.02
 Config::MySQL::Writer               0.02  pkg:cpan/Config-MySQL@0.02
+Config::NINI                        0.11  pkg:cpan/Config-NINI@0.11
 Config::NameValue                      1  pkg:cpan/Config-NameValue@1.03
 Config::Natural                     1.01  pkg:cpan/Config-Natural@1.01
 Config::Neat                       1.401  pkg:cpan/Config-Neat@1.401
@@ -104323,7 +104324,6 @@ Graphics::Toolkit::Color::Space::Instance::Rec709  2.22  pkg:cpan/Graphics-Toolk
 Graphics::Toolkit::Color::Space::Instance::WideGamutRGB  2.22  pkg:cpan/Graphics-Toolkit-Color@2.22
 Graphics::Toolkit::Color::Space::Instance::YIQ  2.22  pkg:cpan/Graphics-Toolkit-Color@2.22
 Graphics::Toolkit::Color::Space::Instance::YPbPr  2.22  pkg:cpan/Graphics-Toolkit-Color@2.22
-Graphics::Toolkit::Color::Space::Instance::YUV  2.11  pkg:cpan/Graphics-Toolkit-Color@2.11
 Graphics::Toolkit::Color::Space::Shape  2.22  pkg:cpan/Graphics-Toolkit-Color@2.22
 Graphics::Toolkit::Color::Space::Util  2.22  pkg:cpan/Graphics-Toolkit-Color@2.22
 Graphics::Toolkit::Color::Values    2.22  pkg:cpan/Graphics-Toolkit-Color@2.22
@@ -143047,7 +143047,7 @@ Music::Tension::Counterpoint        1.03  pkg:cpan/Music-Tension@1.03
 Music::Tension::PlompLevelt         1.03  pkg:cpan/Music-Tension@1.03
 Music::ToRoman                     0.2002  pkg:cpan/Music-ToRoman@0.2002
 Music::VoiceGen                     0.02  pkg:cpan/Music-VoiceGen@0.02
-Music::VoicePhrase                 0.0105  pkg:cpan/Music-VoicePhrase@0.0105
+Music::VoicePhrase                 0.0106  pkg:cpan/Music-VoicePhrase@0.0106
 Music::Voss                         0.16  pkg:cpan/Music-Voss@0.16
 MusicBase                          0.001  pkg:cpan/DBIx-Class-Migration@0.044
 MusicBase::Schema                      3  pkg:cpan/DBIx-Class-Migration@0.044
