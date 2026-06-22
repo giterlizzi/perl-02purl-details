@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 22 Jun 2026 15:15:21 GMT
-Line-Count: 265042
+Last-Updated: Mon, 22 Jun 2026 19:19:35 GMT
+Line-Count: 265044
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5258,7 +5258,7 @@ Amazon::SQS::Simple::Message       undef  pkg:cpan/Amazon-SQS-Simple@2.07
 Amazon::SQS::Simple::Queue         undef  pkg:cpan/Amazon-SQS-Simple@2.07
 Amazon::SQS::Simple::SendResponse  undef  pkg:cpan/Amazon-SQS-Simple@2.07
 Amazon::SendToKindle                 0.2  pkg:cpan/Amazon-SendToKindle@0.2
-Amazon::Signature4::Lite           v1.0.0  pkg:cpan/Amazon-Signature4-Lite@1.0.0
+Amazon::Signature4::Lite           v1.0.1  pkg:cpan/Amazon-Signature4-Lite@1.0.1
 Amazon::SimpleDB                    0.03  pkg:cpan/Amazon-SimpleDB@0.03
 Amazon::SimpleDB::Client            0.04  pkg:cpan/Coro-Amazon-SimpleDB@0.04
 Amazon::SimpleDB::Domain           undef  pkg:cpan/Amazon-SimpleDB@0.03
@@ -113050,7 +113050,7 @@ Icon::FamFamFam::Silk              0.002001003  pkg:cpan/Icon-FamFamFam-Silk@0.0
 Icon::Theme::Helper                  0.0  pkg:cpan/Icon-Theme-Helper@0.0.0
 Icon::Theme::Index::Parse          0.000001  pkg:cpan/Icon-Theme-Index-Parse@0.0.1
 Icon::Theme::List                    0.0  pkg:cpan/Icon-Theme-List@0.0.0
-Identifier::PL::PESEL                0.3  pkg:cpan/Identifier-PL-PESEL@0.3
+Identifier::PL::PESEL                0.4  pkg:cpan/Identifier-PL-PESEL@0.4
 IfLoop                              0.03  pkg:cpan/IfLoop@0.03
 Iff                                 0.01  pkg:cpan/RenderMan@0.04
 IkiWiki::Plugin::disqus             0.01  pkg:cpan/IkiWiki-Plugin-disqus@0.01
@@ -131259,7 +131259,7 @@ Markdown::Pod                      0.008  pkg:cpan/Markdown-Pod@0.008
 Markdown::Pod::Handler             0.008  pkg:cpan/Markdown-Pod@0.008
 Markdown::Pod::script              0.008  pkg:cpan/Markdown-Pod@0.008
 Markdown::Render                   v2.0.4  pkg:cpan/Markdown-Render@2.0.4
-Markdown::Simple                    0.14  pkg:cpan/Markdown-Simple@0.14
+Markdown::Simple                    0.15  pkg:cpan/Markdown-Simple@0.15
 Markdown::TOC                       0.01  pkg:cpan/Markdown-TOC@0.01
 Markdown::Table                     0.04  pkg:cpan/Markdown-Table@0.04
 Markdown::To::POD                   0.06  pkg:cpan/Markdown-To-POD@0.06
@@ -150677,6 +150677,7 @@ Net::Patricia::AF_INET              1.24  pkg:cpan/Net-Patricia@1.24
 Net::Patricia::AF_INET6             1.24  pkg:cpan/Net-Patricia@1.24
 Net::Pavatar                        1.01  pkg:cpan/Net-Pavatar@1.01
 Net::PayPal                         0.02  pkg:cpan/Net-PayPal@0.02
+Net::PayPal::Lite                   0.02  pkg:cpan/Net-PayPal-Lite@0.02
 Net::Payjp                         0.004000  pkg:cpan/Net-Payjp@0.4.0
 Net::Payjp::Account                undef  pkg:cpan/Net-Payjp@0.4.0
 Net::Payjp::Balance                undef  pkg:cpan/Net-Payjp@0.4.0
@@ -155900,8 +155901,8 @@ Object::Pluggable::Pipeline         1.29  pkg:cpan/Object-Pluggable@1.29
 Object::Previous                   1.1012  pkg:cpan/Object-Previous@1.1012
 Object::Properties                 1.003  pkg:cpan/Object-Properties@1.003
 Object::Properties::Base           1.003  pkg:cpan/Object-Properties@1.003
-Object::Proto                       0.16  pkg:cpan/Object-Proto@0.16
-Object::Proto::Install::Files      undef  pkg:cpan/Object-Proto@0.16
+Object::Proto                       0.17  pkg:cpan/Object-Proto@0.17
+Object::Proto::Install::Files      undef  pkg:cpan/Object-Proto@0.17
 Object::Proto::Sugar                0.05  pkg:cpan/Object-Proto-Sugar@0.05
 Object::Prototype                   0.02  pkg:cpan/Object-Prototype@0.02
 Object::Quick                      undef  pkg:cpan/Mock-Quick@1.111
@@ -210589,10 +210590,10 @@ SVG::TT::Graph::Pie                undef  pkg:cpan/SVG-TT-Graph@1.04
 SVG::TT::Graph::TimeSeries          0.11  pkg:cpan/SVG-TT-Graph@0.12
 SVG::TT::Graph::XY                 undef  pkg:cpan/SVG-TT-Graph@1.04
 SVG::Template::Graph                 1.0  pkg:cpan/SVG-Template-Graph@1.0
-SVG::Timeline                      0.002000  pkg:cpan/SVG-Timeline@0.2.0
+SVG::Timeline                      0.002001  pkg:cpan/SVG-Timeline@0.2.1
 SVG::Timeline::Compact             undef  pkg:cpan/SVG-Timeline-Compact@0.003
 SVG::Timeline::Compact::Event      undef  pkg:cpan/SVG-Timeline-Compact@0.003
-SVG::Timeline::Event               undef  pkg:cpan/SVG-Timeline@0.2.0
+SVG::Timeline::Event               undef  pkg:cpan/SVG-Timeline@0.2.1
 SVG::Timeline::Genealogy           0.000005  pkg:cpan/SVG-Timeline-Genealogy@0.0.5
 SVG::Timeline::Genealogy::Person   undef  pkg:cpan/SVG-Timeline-Genealogy@0.0.5
 SVG::TrafficLight                  0.001004  pkg:cpan/SVG-TrafficLight@0.1.4
@@ -224353,7 +224354,7 @@ Syntax::Highlight::Universal         0.4  pkg:cpan/Syntax-Highlight-Universal@0.
 Syntax::Highlight::WithEmacs         0.2  pkg:cpan/Syntax-Highlight-WithEmacs@0.2
 Syntax::Highlight::XML             0.003  pkg:cpan/Syntax-Highlight-RDF@0.003
 Syntax::Infix::ConditionalSplice    0.01  pkg:cpan/Syntax-Infix-ConditionalSplice@0.01
-Syntax::Infix::EqualityInsensitive  0.02  pkg:cpan/Syntax-Infix-EqualityInsensitive@0.02
+Syntax::Infix::EqualityInsensitive  0.03  pkg:cpan/Syntax-Infix-EqualityInsensitive@0.03
 Syntax::Infix::OptionalChain        0.01  pkg:cpan/Syntax-Infix-OptionalChain@0.01
 Syntax::Infix::Smartmatch          0.011  pkg:cpan/Syntax-Infix-Smartmatch@0.011
 Syntax::Kamelon                     0.25  pkg:cpan/Syntax-Kamelon@0.25
@@ -245246,27 +245247,28 @@ WWW::GetPageTitle                  0.0104  pkg:cpan/WWW-GetPageTitle@0.0104
 WWW::Getsy                         undef  pkg:cpan/WWW-Getsy@0.999007
 WWW::Getsy::Client                 undef  pkg:cpan/WWW-Getsy@0.999007
 WWW::GitHub::PostReceiveHook       0.004  pkg:cpan/WWW-GitHub-PostReceiveHook@0.004
-WWW::Gitea                         0.002  pkg:cpan/WWW-Gitea@0.002
-WWW::Gitea::API::Issues            0.002  pkg:cpan/WWW-Gitea@0.002
-WWW::Gitea::API::Labels            0.002  pkg:cpan/WWW-Gitea@0.002
-WWW::Gitea::API::Milestones        0.002  pkg:cpan/WWW-Gitea@0.002
-WWW::Gitea::API::Misc              0.002  pkg:cpan/WWW-Gitea@0.002
-WWW::Gitea::API::Orgs              0.002  pkg:cpan/WWW-Gitea@0.002
-WWW::Gitea::API::PullRequests      0.002  pkg:cpan/WWW-Gitea@0.002
-WWW::Gitea::API::Releases          0.002  pkg:cpan/WWW-Gitea@0.002
-WWW::Gitea::API::Repos             0.002  pkg:cpan/WWW-Gitea@0.002
-WWW::Gitea::API::Users             0.002  pkg:cpan/WWW-Gitea@0.002
-WWW::Gitea::Comment                0.002  pkg:cpan/WWW-Gitea@0.002
-WWW::Gitea::Issue                  0.002  pkg:cpan/WWW-Gitea@0.002
-WWW::Gitea::Label                  0.002  pkg:cpan/WWW-Gitea@0.002
-WWW::Gitea::Milestone              0.002  pkg:cpan/WWW-Gitea@0.002
-WWW::Gitea::Org                    0.002  pkg:cpan/WWW-Gitea@0.002
-WWW::Gitea::PullRequest            0.002  pkg:cpan/WWW-Gitea@0.002
-WWW::Gitea::Release                0.002  pkg:cpan/WWW-Gitea@0.002
-WWW::Gitea::Repo                   0.002  pkg:cpan/WWW-Gitea@0.002
-WWW::Gitea::Role::HTTP             0.002  pkg:cpan/WWW-Gitea@0.002
-WWW::Gitea::Role::OpenAPI          0.002  pkg:cpan/WWW-Gitea@0.002
-WWW::Gitea::User                   0.002  pkg:cpan/WWW-Gitea@0.002
+WWW::Gitea                         0.003  pkg:cpan/WWW-Gitea@0.003
+WWW::Gitea::API::Issues            0.003  pkg:cpan/WWW-Gitea@0.003
+WWW::Gitea::API::Labels            0.003  pkg:cpan/WWW-Gitea@0.003
+WWW::Gitea::API::Milestones        0.003  pkg:cpan/WWW-Gitea@0.003
+WWW::Gitea::API::Misc              0.003  pkg:cpan/WWW-Gitea@0.003
+WWW::Gitea::API::Orgs              0.003  pkg:cpan/WWW-Gitea@0.003
+WWW::Gitea::API::PullRequests      0.003  pkg:cpan/WWW-Gitea@0.003
+WWW::Gitea::API::Releases          0.003  pkg:cpan/WWW-Gitea@0.003
+WWW::Gitea::API::Repos             0.003  pkg:cpan/WWW-Gitea@0.003
+WWW::Gitea::API::Users             0.003  pkg:cpan/WWW-Gitea@0.003
+WWW::Gitea::Attachment             0.003  pkg:cpan/WWW-Gitea@0.003
+WWW::Gitea::Comment                0.003  pkg:cpan/WWW-Gitea@0.003
+WWW::Gitea::Issue                  0.003  pkg:cpan/WWW-Gitea@0.003
+WWW::Gitea::Label                  0.003  pkg:cpan/WWW-Gitea@0.003
+WWW::Gitea::Milestone              0.003  pkg:cpan/WWW-Gitea@0.003
+WWW::Gitea::Org                    0.003  pkg:cpan/WWW-Gitea@0.003
+WWW::Gitea::PullRequest            0.003  pkg:cpan/WWW-Gitea@0.003
+WWW::Gitea::Release                0.003  pkg:cpan/WWW-Gitea@0.003
+WWW::Gitea::Repo                   0.003  pkg:cpan/WWW-Gitea@0.003
+WWW::Gitea::Role::HTTP             0.003  pkg:cpan/WWW-Gitea@0.003
+WWW::Gitea::Role::OpenAPI          0.003  pkg:cpan/WWW-Gitea@0.003
+WWW::Gitea::User                   0.003  pkg:cpan/WWW-Gitea@0.003
 WWW::Github::Files                  0.13  pkg:cpan/WWW-Github-Files@0.13
 WWW::Github::Files::Dir             0.13  pkg:cpan/WWW-Github-Files@0.13
 WWW::Github::Files::File            0.13  pkg:cpan/WWW-Github-Files@0.13
