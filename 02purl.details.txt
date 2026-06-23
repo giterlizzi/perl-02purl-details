@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 23 Jun 2026 14:34:11 GMT
+Last-Updated: Tue, 23 Jun 2026 17:46:04 GMT
 Line-Count: 265452
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -9554,7 +9554,7 @@ App::CryptoCurrencyUtils           0.012  pkg:cpan/App-CryptoCurrencyUtils@0.012
 App::CveClient                     1.001001  pkg:cpan/App-CveClient@v1.1.1
 App::D                             1.003002  pkg:cpan/App-D@1.3.2
 App::DAVThis                       0.001  pkg:cpan/App-DAVThis@0.001
-App::DBBrowser                     2.442  pkg:cpan/App-DBBrowser@2.442
+App::DBBrowser                     2.443  pkg:cpan/App-DBBrowser@2.443
 App::DBCritic                      0.023  pkg:cpan/App-DBCritic@0.023
 App::DBCritic::Loader              0.023  pkg:cpan/App-DBCritic@0.023
 App::DBCritic::Policy              0.023  pkg:cpan/App-DBCritic@0.023
@@ -48856,20 +48856,20 @@ Cron::Sequencer                     0.05  pkg:cpan/Cron-Sequencer@0.05
 Cron::Sequencer::CLI                0.05  pkg:cpan/Cron-Sequencer@0.05
 Cron::Sequencer::Output             0.04  pkg:cpan/Cron-Sequencer@0.05
 Cron::Sequencer::Parser             0.02  pkg:cpan/Cron-Sequencer@0.05
-Cron::Toolkit                       1.01  pkg:cpan/Cron-Toolkit@1.01
-Cron::Toolkit::Pattern             undef  pkg:cpan/Cron-Toolkit@1.01
-Cron::Toolkit::Pattern::Last       undef  pkg:cpan/Cron-Toolkit@1.01
-Cron::Toolkit::Pattern::LastW      undef  pkg:cpan/Cron-Toolkit@1.01
-Cron::Toolkit::Pattern::List       undef  pkg:cpan/Cron-Toolkit@1.01
-Cron::Toolkit::Pattern::NearestWeekday undef  pkg:cpan/Cron-Toolkit@1.01
-Cron::Toolkit::Pattern::Nth        undef  pkg:cpan/Cron-Toolkit@1.01
-Cron::Toolkit::Pattern::Range      undef  pkg:cpan/Cron-Toolkit@1.01
-Cron::Toolkit::Pattern::Single     undef  pkg:cpan/Cron-Toolkit@1.01
-Cron::Toolkit::Pattern::Step       undef  pkg:cpan/Cron-Toolkit@1.01
-Cron::Toolkit::Pattern::StepValue  undef  pkg:cpan/Cron-Toolkit@1.01
-Cron::Toolkit::Pattern::Unspecified undef  pkg:cpan/Cron-Toolkit@1.01
-Cron::Toolkit::Pattern::Wildcard   undef  pkg:cpan/Cron-Toolkit@1.01
-Cron::Toolkit::Utils               undef  pkg:cpan/Cron-Toolkit@1.01
+Cron::Toolkit                       1.02  pkg:cpan/Cron-Toolkit@1.02
+Cron::Toolkit::Pattern             undef  pkg:cpan/Cron-Toolkit@1.02
+Cron::Toolkit::Pattern::Last       undef  pkg:cpan/Cron-Toolkit@1.02
+Cron::Toolkit::Pattern::LastW      undef  pkg:cpan/Cron-Toolkit@1.02
+Cron::Toolkit::Pattern::List       undef  pkg:cpan/Cron-Toolkit@1.02
+Cron::Toolkit::Pattern::NearestWeekday undef  pkg:cpan/Cron-Toolkit@1.02
+Cron::Toolkit::Pattern::Nth        undef  pkg:cpan/Cron-Toolkit@1.02
+Cron::Toolkit::Pattern::Range      undef  pkg:cpan/Cron-Toolkit@1.02
+Cron::Toolkit::Pattern::Single     undef  pkg:cpan/Cron-Toolkit@1.02
+Cron::Toolkit::Pattern::Step       undef  pkg:cpan/Cron-Toolkit@1.02
+Cron::Toolkit::Pattern::StepValue  undef  pkg:cpan/Cron-Toolkit@1.02
+Cron::Toolkit::Pattern::Unspecified undef  pkg:cpan/Cron-Toolkit@1.02
+Cron::Toolkit::Pattern::Wildcard   undef  pkg:cpan/Cron-Toolkit@1.02
+Cron::Toolkit::Utils               undef  pkg:cpan/Cron-Toolkit@1.02
 Cronos                             undef  pkg:cpan/pantheon@0.58
 Cronos::Calendar                   undef  pkg:cpan/pantheon@0.58
 Cronos::Calendar::Month            undef  pkg:cpan/pantheon@0.58
@@ -52517,7 +52517,7 @@ DBIx::Class::Schema::Diff::Schema  undef  pkg:cpan/DBIx-Class-Schema-Diff@1.13
 DBIx::Class::Schema::Diff::SchemaData undef  pkg:cpan/DBIx-Class-Schema-Diff@1.13
 DBIx::Class::Schema::Diff::Source  undef  pkg:cpan/DBIx-Class-Schema-Diff@1.13
 DBIx::Class::Schema::Diff::State   undef  pkg:cpan/DBIx-Class-Schema-Diff@1.13
-DBIx::Class::Schema::GraphQL       v0.0.2  pkg:cpan/DBIx-Class-Schema-GraphQL@v0.0.2
+DBIx::Class::Schema::GraphQL       v0.0.3  pkg:cpan/DBIx-Class-Schema-GraphQL@v0.0.3
 DBIx::Class::Schema::Journal        0.01  pkg:cpan/DBIx-Class-Journal@0.900201
 DBIx::Class::Schema::Journal::DB   undef  pkg:cpan/DBIx-Class-Journal@0.900201
 DBIx::Class::Schema::Journal::DB::AuditHistory undef  pkg:cpan/DBIx-Class-Journal@0.900201
