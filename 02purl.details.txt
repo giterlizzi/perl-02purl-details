@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 23 Jun 2026 21:26:29 GMT
+Last-Updated: Tue, 23 Jun 2026 23:02:26 GMT
 Line-Count: 265452
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -198137,12 +198137,12 @@ Playwright::WebSocket              1.551  pkg:cpan/Playwright@1.551
 Playwright::WebSocketFrame         1.551  pkg:cpan/Playwright@1.551
 Playwright::WebSocketRoute         1.551  pkg:cpan/Playwright@1.551
 Playwright::Worker                 1.551  pkg:cpan/Playwright@1.551
-Plerd                              1.901  pkg:cpan/Plerd@1.901
-Plerd::Init                        undef  pkg:cpan/Plerd@1.901
-Plerd::Post                        undef  pkg:cpan/Plerd@1.901
-Plerd::SmartyPants                 undef  pkg:cpan/Plerd@1.901
-Plerd::Tag                         undef  pkg:cpan/Plerd@1.901
-Plerd::Util                        undef  pkg:cpan/Plerd@1.901
+Plerd                              1.902  pkg:cpan/Plerd@1.902
+Plerd::Init                        undef  pkg:cpan/Plerd@1.902
+Plerd::Post                        undef  pkg:cpan/Plerd@1.902
+Plerd::SmartyPants                 undef  pkg:cpan/Plerd@1.902
+Plerd::Tag                         undef  pkg:cpan/Plerd@1.902
+Plerd::Util                        undef  pkg:cpan/Plerd@1.902
 Plerd::WebmentionQueue             undef  pkg:cpan/Plerd@1.820
 Plibwrap                            0.05  pkg:cpan/DBD-Plibdata@0.06
 Plibwrap::Row                       0.05  pkg:cpan/DBD-Plibdata@0.06
