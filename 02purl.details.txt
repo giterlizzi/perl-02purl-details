@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 23 Jun 2026 17:46:04 GMT
+Last-Updated: Tue, 23 Jun 2026 19:52:21 GMT
 Line-Count: 265452
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -33298,7 +33298,7 @@ CPAN::Local::Role::Inject          0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Local::Role::MetaCPAN::API   0.001  pkg:cpan/CPAN-Local-Role-MetaCPAN-API@0.001
 CPAN::Local::Role::Prune           0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Local::Role::Remove          0.010  pkg:cpan/CPAN-Local@0.010
-CPAN::Maker                        v1.9.1  pkg:cpan/CPAN-Maker@1.9.1
+CPAN::Maker                        v1.9.2  pkg:cpan/CPAN-Maker@1.9.2
 CPAN::Maker::Bootstrapper          v2.0.2  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.2
 CPAN::Maker::Bootstrapper::ConfigReader     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.2
 CPAN::Maker::Bootstrapper::Constants     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.2
@@ -33311,10 +33311,10 @@ CPAN::Maker::Bootstrapper::Role::LLM::ReleaseNotes     0  pkg:cpan/CPAN-Maker-Bo
 CPAN::Maker::Bootstrapper::Role::LLM::Reviewer     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.2
 CPAN::Maker::Bootstrapper::Role::LLM::Utils     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.2
 CPAN::Maker::Bootstrapper::Role::ScaffoldImporter     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.2
-CPAN::Maker::Constants             v1.9.1  pkg:cpan/CPAN-Maker@1.9.1
-CPAN::Maker::Role::FileUtils       v1.9.1  pkg:cpan/CPAN-Maker@1.9.1
-CPAN::Maker::Role::ModuleUtils     v1.9.1  pkg:cpan/CPAN-Maker@1.9.1
-CPAN::Maker::Utils                 v1.9.1  pkg:cpan/CPAN-Maker@1.9.1
+CPAN::Maker::Constants             v1.9.2  pkg:cpan/CPAN-Maker@1.9.2
+CPAN::Maker::Role::FileUtils       v1.9.2  pkg:cpan/CPAN-Maker@1.9.2
+CPAN::Maker::Role::ModuleUtils     v1.9.2  pkg:cpan/CPAN-Maker@1.9.2
+CPAN::Maker::Utils                 v1.9.2  pkg:cpan/CPAN-Maker@1.9.2
 CPAN::Meta                         2.150013  pkg:cpan/CPAN-Meta@2.150013
 CPAN::Meta::Check                  0.018  pkg:cpan/CPAN-Meta-Check@0.018
 CPAN::Meta::Converter              2.150013  pkg:cpan/CPAN-Meta@2.150013
@@ -143453,7 +143453,7 @@ Music::Tension::Counterpoint        1.03  pkg:cpan/Music-Tension@1.03
 Music::Tension::PlompLevelt         1.03  pkg:cpan/Music-Tension@1.03
 Music::ToRoman                     0.2002  pkg:cpan/Music-ToRoman@0.2002
 Music::VoiceGen                     0.02  pkg:cpan/Music-VoiceGen@0.02
-Music::VoicePhrase                 0.0106  pkg:cpan/Music-VoicePhrase@0.0106
+Music::VoicePhrase                 0.0107  pkg:cpan/Music-VoicePhrase@0.0107
 Music::Voss                         0.16  pkg:cpan/Music-Voss@0.16
 MusicBase                          0.001  pkg:cpan/DBIx-Class-Migration@0.044
 MusicBase::Schema                      3  pkg:cpan/DBIx-Class-Migration@0.044
@@ -230303,7 +230303,7 @@ Test::Litmus                        0.03  pkg:cpan/Test-Litmus@0.03
 Test::Litmus::Log                   0.01  pkg:cpan/Test-Litmus@0.03
 Test::Litmus::Result                0.01  pkg:cpan/Test-Litmus@0.03
 Test::Lives                        1.003  pkg:cpan/Test-Lives@1.003
-Test::Load::Helper                 v1.0.0  pkg:cpan/Test-Load-Helper@1.0.0
+Test::Load::Helper                 v1.0.1  pkg:cpan/Test-Load-Helper@1.0.1
 Test::LoadAllModules               0.022  pkg:cpan/Test-LoadAllModules@0.022
 Test::LocalFunctions                0.23  pkg:cpan/Test-LocalFunctions@0.23
 Test::LocalFunctions::Fast         undef  pkg:cpan/Test-LocalFunctions@0.23
