@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 23 Jun 2026 10:56:42 GMT
-Line-Count: 265448
+Last-Updated: Tue, 23 Jun 2026 14:34:11 GMT
+Line-Count: 265452
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -3862,7 +3862,8 @@ Aion::Carp                           1.6  pkg:cpan/Aion-Carp@1.6
 Aion::Emitter                      v0.1.0  pkg:cpan/Aion-Emitter@0.1.0
 Aion::Emitter::ListenersRun        undef  pkg:cpan/Aion-Emitter@0.1.0
 Aion::Enum                         v0.0.3  pkg:cpan/Aion-Enum@0.0.3
-Aion::Env                            0.1  pkg:cpan/Aion-Env@0.1
+Aion::Env                            0.2  pkg:cpan/Aion-Env@0.2
+Aion::Env::Etc                     undef  pkg:cpan/Aion-Env@0.2
 Aion::Format                       v0.1.2  pkg:cpan/Aion-Format@0.1.2
 Aion::Format::Html                 undef  pkg:cpan/Aion-Format@0.1.2
 Aion::Format::Json                 undef  pkg:cpan/Aion-Format@0.1.2
@@ -23503,9 +23504,9 @@ BettingStrategy::MonteCarlo        v0.1.0  pkg:cpan/BettingStrategy-MonteCarlo@v
 Bhagavatgita                        2.05  pkg:cpan/Bhagavatgita@2.05
 Bib::CrossRef                       0.12  pkg:cpan/Bib-CrossRef@0.12
 Bib::Tools                          0.17  pkg:cpan/Bib-Tools@0.17
-BibTeX::Parser                      1.94  pkg:cpan/BibTeX-Parser@1.94
-BibTeX::Parser::Author              1.94  pkg:cpan/BibTeX-Parser@1.94
-BibTeX::Parser::Entry               1.94  pkg:cpan/BibTeX-Parser@1.94
+BibTeX::Parser                      1.95  pkg:cpan/BibTeX-Parser@1.95
+BibTeX::Parser::Author              1.95  pkg:cpan/BibTeX-Parser@1.95
+BibTeX::Parser::Entry               1.95  pkg:cpan/BibTeX-Parser@1.95
 Bible::OBML                         2.10  pkg:cpan/Bible-OBML@2.10
 Bible::OBML::Gateway                2.11  pkg:cpan/Bible-OBML-Gateway@2.11
 Bible::OBML::HTML                   1.18  pkg:cpan/Bible-OBML@1.18
@@ -58739,7 +58740,7 @@ Data::Identifier::Interface::Subobjects v0.30.0  pkg:cpan/Data-Identifier@v0.30
 Data::Identifier::Interface::Userdata v0.30.0  pkg:cpan/Data-Identifier@v0.30
 Data::Identifier::Util             v0.30.0  pkg:cpan/Data-Identifier@v0.30
 Data::Identifier::Wellknown        v0.30.0  pkg:cpan/Data-Identifier@v0.30
-Data::Image                         0.05  pkg:cpan/Data-Image@0.05
+Data::Image                         0.06  pkg:cpan/Data-Image@0.06
 Data::Importer                     0.006  pkg:cpan/Data-Importer@0.006
 Data::Importer::Iterator           0.006  pkg:cpan/Data-Importer@0.006
 Data::Importer::Iterator::Csv      0.006  pkg:cpan/Data-Importer@0.006
@@ -58924,6 +58925,8 @@ Data::MessagePack                   1.02  pkg:cpan/Data-MessagePack@1.02
 Data::MessagePack::Boolean         undef  pkg:cpan/Data-MessagePack@1.02
 Data::MessagePack::PP              undef  pkg:cpan/Data-MessagePack@1.02
 Data::MessagePack::Stream           1.06  pkg:cpan/Data-MessagePack-Stream@1.06
+Data::Metadata                      0.01  pkg:cpan/Data-Metadata@0.01
+Data::Metadata::KeyValue            0.01  pkg:cpan/Data-Metadata@0.01
 Data::MethodProxy                   0.05  pkg:cpan/Data-MethodProxy@0.05
 Data::Microformat                   0.04  pkg:cpan/Data-Microformat@0.04
 Data::Microformat::adr              0.04  pkg:cpan/Data-Microformat@0.04
@@ -119978,8 +119981,8 @@ LaTeX::TikZ::Set::Rectangle         0.03  pkg:cpan/LaTeX-TikZ@0.03
 LaTeX::TikZ::Set::Sequence          0.03  pkg:cpan/LaTeX-TikZ@0.03
 LaTeX::TikZ::Set::Union             0.03  pkg:cpan/LaTeX-TikZ@0.03
 LaTeX::TikZ::Tools                  0.03  pkg:cpan/LaTeX-TikZ@0.03
-LaTeX::ToUnicode                    1.94  pkg:cpan/LaTeX-ToUnicode@1.94
-LaTeX::ToUnicode::Tables            1.94  pkg:cpan/LaTeX-ToUnicode@1.94
+LaTeX::ToUnicode                    1.95  pkg:cpan/LaTeX-ToUnicode@1.95
+LaTeX::ToUnicode::Tables            1.95  pkg:cpan/LaTeX-ToUnicode@1.95
 LaTeX::Writer::Simple               0.02  pkg:cpan/LaTeX-Writer-Simple@0.02
 LaTeXML                            0.008008  pkg:cpan/LaTeXML@0.8.8
 LaTeXML::Common::Color             undef  pkg:cpan/LaTeXML@0.8.8
@@ -138677,6 +138680,7 @@ Mojo::Log::Role::AttachLogger      v2.0.0  pkg:cpan/Mojolicious-Plugin-Log-Any@v
 Mojo::Log::Role::Clearable         1.001  pkg:cpan/Mojo-Log-Clearable@1.001
 Mojo::Log::Role::Color              0.04  pkg:cpan/Mojo-Log-Role-Color@0.04
 Mojo::Log::Role::Format             0.02  pkg:cpan/Mojo-Log-Role-Format@0.02
+Mojo::Log::Role::Formattable       v1.0.0  pkg:cpan/Mojo-Log-Role-Formattable@v1.0.0
 Mojo::Log::Syslog                   1.03  pkg:cpan/Mojo-Log-Syslog@1.03
 Mojo::MemoryMap                    undef  pkg:cpan/Mojolicious-Plugin-Status@1.17
 Mojo::MemoryMap::Writer            undef  pkg:cpan/Mojolicious-Plugin-Status@1.17
@@ -248440,7 +248444,7 @@ Wais::Result                       2.311  pkg:cpan/Wais@2.311
 Wallflower                         1.015  pkg:cpan/App-Wallflower@1.015
 Wallflower::Util                   1.015  pkg:cpan/App-Wallflower@1.015
 Want                                0.29  pkg:cpan/Want@0.29
-Wanted                             0.001001  pkg:cpan/Wanted@v0.1.1
+Wanted                             0.001002  pkg:cpan/Wanted@v0.1.2
 Warn::Colorful                      0.01  pkg:cpan/Warn-Colorful@0.01
 Warnings::Version                  0.003002  pkg:cpan/Warnings-Version@0.003002
 WasRun                             undef  pkg:cpan/Test-Unit@0.13
@@ -259621,7 +259625,7 @@ YAMLScript::Runtime                undef  pkg:cpan/YAMLScript@0.0.5
 YAMLScript::Str                    undef  pkg:cpan/YAMLScript@0.0.16
 YAMLScript::Test                   undef  pkg:cpan/YAMLScript-Lingy@0.2.1
 YAMLScript::Util                   undef  pkg:cpan/YAMLScript@0.0.16
-YAMLStar                           0.001009  pkg:cpan/YAMLStar@0.1.9
+YAMLStar                           0.001011  pkg:cpan/YAMLStar@0.1.11
 YAMLTest                           0.001000  pkg:cpan/YAMLTest@0.1.0
 YANG                                0.02  pkg:cpan/YANG@0.02
 YAOO                                0.10  pkg:cpan/YAOO@0.10
