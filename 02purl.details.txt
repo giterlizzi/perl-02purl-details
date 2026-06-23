@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 23 Jun 2026 07:41:39 GMT
+Last-Updated: Tue, 23 Jun 2026 10:56:42 GMT
 Line-Count: 265448
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -4026,12 +4026,12 @@ Algorithm::CheckDigits::MXX_004    v1.3.6  pkg:cpan/Algorithm-CheckDigits@v1.3.6
 Algorithm::CheckDigits::MXX_005    v1.3.6  pkg:cpan/Algorithm-CheckDigits@v1.3.6
 Algorithm::CheckDigits::MXX_006    v1.3.6  pkg:cpan/Algorithm-CheckDigits@v1.3.6
 Algorithm::ChooseSubsets            0.02  pkg:cpan/Algorithm-ChooseSubsets@0.02
-Algorithm::Classifier::IsolationForest 0.000001  pkg:cpan/Algorithm-Classifier-IsolationForest@0.0.1
-Algorithm::Classifier::IsolationForest::App undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.0.1
-Algorithm::Classifier::IsolationForest::App::Command undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.0.1
-Algorithm::Classifier::IsolationForest::App::Command::fit undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.0.1
-Algorithm::Classifier::IsolationForest::App::Command::gblob undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.0.1
-Algorithm::Classifier::IsolationForest::App::Command::predict undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.0.1
+Algorithm::Classifier::IsolationForest 0.001000  pkg:cpan/Algorithm-Classifier-IsolationForest@0.1.0
+Algorithm::Classifier::IsolationForest::App undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.1.0
+Algorithm::Classifier::IsolationForest::App::Command undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.1.0
+Algorithm::Classifier::IsolationForest::App::Command::fit undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.1.0
+Algorithm::Classifier::IsolationForest::App::Command::gblob undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.1.0
+Algorithm::Classifier::IsolationForest::App::Command::predict undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.1.0
 Algorithm::Closest::NetworkAddress   0.1  pkg:cpan/Algorithm-Closest-NetworkAddress@0.1
 Algorithm::Cluster                  1.59  pkg:cpan/Algorithm-Cluster@1.59
 Algorithm::Cluster::Record         undef  pkg:cpan/Algorithm-Cluster@1.59
@@ -22114,11 +22114,11 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         0.015002  pkg:cpan/BarefootJS@0.15.2
-BarefootJS::Backend::Mojo          0.015002  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.15.2
-BarefootJS::Backend::Xslate        0.015002  pkg:cpan/BarefootJS-Backend-Xslate@0.15.2
-BarefootJS::DevReload              0.015002  pkg:cpan/BarefootJS@0.15.2
-BarefootJS::SearchParams           0.014000  pkg:cpan/BarefootJS@0.15.2
+BarefootJS                         0.016000  pkg:cpan/BarefootJS@0.16.0
+BarefootJS::Backend::Mojo          0.016000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.16.0
+BarefootJS::Backend::Xslate        0.016000  pkg:cpan/BarefootJS-Backend-Xslate@0.16.0
+BarefootJS::DevReload              0.016000  pkg:cpan/BarefootJS@0.16.0
+BarefootJS::SearchParams           0.014000  pkg:cpan/BarefootJS@0.16.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
 Baseball::Sabermetrics              0.03  pkg:cpan/Baseball-Sabermetrics@0.03
@@ -33457,7 +33457,7 @@ CPAN::Patches                       0.05  pkg:cpan/CPAN-Patches@0.05
 CPAN::Patches::Plugin::Debian       0.03  pkg:cpan/CPAN-Patches-Plugin-Debian@0.03
 CPAN::Patches::Plugin::Debian::SPc  0.03  pkg:cpan/CPAN-Patches-Plugin-Debian@0.03
 CPAN::Patches::SPc                  0.04  pkg:cpan/CPAN-Patches@0.05
-CPAN::Perl::Releases               5.20260601  pkg:cpan/CPAN-Perl-Releases@5.20260601
+CPAN::Perl::Releases               5.20260623  pkg:cpan/CPAN-Perl-Releases@5.20260623
 CPAN::Perl::Releases::MetaCPAN     v1.0.1  pkg:cpan/CPAN-Perl-Releases-MetaCPAN@v1.0.1
 CPAN::Plugin                        0.97  pkg:cpan/CPAN@2.38
 CPAN::Plugin::Specfile              0.02  pkg:cpan/CPAN@2.38
@@ -139425,8 +139425,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    0.015002  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.15.2
-Mojolicious::Plugin::BarefootJS::DevReload 0.015002  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.15.2
+Mojolicious::Plugin::BarefootJS    0.016000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.16.0
+Mojolicious::Plugin::BarefootJS::DevReload 0.016000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.16.0
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
