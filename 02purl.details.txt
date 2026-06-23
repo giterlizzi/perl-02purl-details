@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 23 Jun 2026 19:52:21 GMT
+Last-Updated: Tue, 23 Jun 2026 21:26:29 GMT
 Line-Count: 265452
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -32787,14 +32787,14 @@ CLI::Popt                           0.01  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X                       undef  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X::BadOption            undef  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X::Base                 undef  pkg:cpan/CLI-Popt@0.01
-CLI::Simple                        v2.0.3  pkg:cpan/CLI-Simple@2.0.3
-CLI::Simple::Constants             v2.0.3  pkg:cpan/CLI-Simple@2.0.3
-CLI::Simple::DumpSpec                  0  pkg:cpan/CLI-Simple@2.0.3
-CLI::Simple::Helpers                   0  pkg:cpan/CLI-Simple@2.0.3
-CLI::Simple::Migrate                   0  pkg:cpan/CLI-Simple@2.0.3
-CLI::Simple::Scaffold                  0  pkg:cpan/CLI-Simple@2.0.3
-CLI::Simple::Shell                     0  pkg:cpan/CLI-Simple@2.0.3
-CLI::Simple::Utils                 v2.0.3  pkg:cpan/CLI-Simple@2.0.3
+CLI::Simple                        v2.0.4  pkg:cpan/CLI-Simple@2.0.4
+CLI::Simple::Constants             v2.0.4  pkg:cpan/CLI-Simple@2.0.4
+CLI::Simple::DumpSpec                  0  pkg:cpan/CLI-Simple@2.0.4
+CLI::Simple::Helpers                   0  pkg:cpan/CLI-Simple@2.0.4
+CLI::Simple::Migrate                   0  pkg:cpan/CLI-Simple@2.0.4
+CLI::Simple::Scaffold                  0  pkg:cpan/CLI-Simple@2.0.4
+CLI::Simple::Shell                     0  pkg:cpan/CLI-Simple@2.0.4
+CLI::Simple::Utils                 v2.0.4  pkg:cpan/CLI-Simple@2.0.4
 CLI::Startup                        0.29  pkg:cpan/CLI-Startup@0.29
 CLI::Table::Key::Finder             0.31  pkg:cpan/CLI-Table-Key-Finder@0.31
 CLI::Table::Util                    0.06  pkg:cpan/CLI-Table-Util@0.06
@@ -47957,7 +47957,7 @@ Config::MyConfig2                    2.2  pkg:cpan/Config-MyConfig2@2.20
 Config::MySQL                       0.02  pkg:cpan/Config-MySQL@0.02
 Config::MySQL::Reader               0.02  pkg:cpan/Config-MySQL@0.02
 Config::MySQL::Writer               0.02  pkg:cpan/Config-MySQL@0.02
-Config::NINI                        0.11  pkg:cpan/Config-NINI@0.11
+Config::NINI                        0.12  pkg:cpan/Config-NINI@0.12
 Config::NameValue                      1  pkg:cpan/Config-NameValue@1.03
 Config::Natural                     1.01  pkg:cpan/Config-Natural@1.01
 Config::Neat                       1.401  pkg:cpan/Config-Neat@1.401
