@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 22 Jun 2026 23:17:44 GMT
+Last-Updated: Tue, 23 Jun 2026 02:38:04 GMT
 Line-Count: 265045
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -23502,9 +23502,9 @@ BettingStrategy::MonteCarlo        v0.1.0  pkg:cpan/BettingStrategy-MonteCarlo@v
 Bhagavatgita                        2.05  pkg:cpan/Bhagavatgita@2.05
 Bib::CrossRef                       0.12  pkg:cpan/Bib-CrossRef@0.12
 Bib::Tools                          0.17  pkg:cpan/Bib-Tools@0.17
-BibTeX::Parser                      1.93  pkg:cpan/BibTeX-Parser@1.93
-BibTeX::Parser::Author              1.93  pkg:cpan/BibTeX-Parser@1.93
-BibTeX::Parser::Entry               1.93  pkg:cpan/BibTeX-Parser@1.93
+BibTeX::Parser                      1.94  pkg:cpan/BibTeX-Parser@1.94
+BibTeX::Parser::Author              1.94  pkg:cpan/BibTeX-Parser@1.94
+BibTeX::Parser::Entry               1.94  pkg:cpan/BibTeX-Parser@1.94
 Bible::OBML                         2.10  pkg:cpan/Bible-OBML@2.10
 Bible::OBML::Gateway                2.11  pkg:cpan/Bible-OBML-Gateway@2.11
 Bible::OBML::HTML                   1.18  pkg:cpan/Bible-OBML@1.18
@@ -119576,8 +119576,8 @@ LaTeX::TikZ::Set::Rectangle         0.03  pkg:cpan/LaTeX-TikZ@0.03
 LaTeX::TikZ::Set::Sequence          0.03  pkg:cpan/LaTeX-TikZ@0.03
 LaTeX::TikZ::Set::Union             0.03  pkg:cpan/LaTeX-TikZ@0.03
 LaTeX::TikZ::Tools                  0.03  pkg:cpan/LaTeX-TikZ@0.03
-LaTeX::ToUnicode                    1.93  pkg:cpan/LaTeX-ToUnicode@1.93
-LaTeX::ToUnicode::Tables            1.93  pkg:cpan/LaTeX-ToUnicode@1.93
+LaTeX::ToUnicode                    1.94  pkg:cpan/LaTeX-ToUnicode@1.94
+LaTeX::ToUnicode::Tables            1.94  pkg:cpan/LaTeX-ToUnicode@1.94
 LaTeX::Writer::Simple               0.02  pkg:cpan/LaTeX-Writer-Simple@0.02
 LaTeXML                            0.008008  pkg:cpan/LaTeXML@0.8.8
 LaTeXML::Common::Color             undef  pkg:cpan/LaTeXML@0.8.8
@@ -203318,7 +203318,7 @@ RPi::PIGPIO::Device::LED           undef  pkg:cpan/RPi-PIGPIO@0.017
 RPi::PIGPIO::Device::MH_Z14        undef  pkg:cpan/RPi-PIGPIO@0.017
 RPi::PIGPIO::Device::Switch        undef  pkg:cpan/RPi-PIGPIO@0.017
 RPi::Pin                           3.1801  pkg:cpan/RPi-Pin@3.1801
-RPi::RTC::DS3231                    0.01  pkg:cpan/RPi-RTC-DS3231@0.01
+RPi::RTC::DS3231                    0.03  pkg:cpan/RPi-RTC-DS3231@0.03
 RPi::SPI                           3.1801  pkg:cpan/RPi-SPI@3.1801
 RPi::Serial                         3.02  pkg:cpan/RPi-Serial@3.02
 RPi::StepperMotor                  3.1801  pkg:cpan/RPi-StepperMotor@3.1801
