@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 24 Jun 2026 07:34:12 GMT
+Last-Updated: Wed, 24 Jun 2026 10:42:34 GMT
 Line-Count: 265453
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -3869,10 +3869,10 @@ Aion::Format::Html                 undef  pkg:cpan/Aion-Format@0.1.2
 Aion::Format::Json                 undef  pkg:cpan/Aion-Format@0.1.2
 Aion::Format::Url                  undef  pkg:cpan/Aion-Format@0.1.2
 Aion::Format::Yaml                 undef  pkg:cpan/Aion-Format@0.1.2
-Aion::Fs                           v0.2.3  pkg:cpan/Aion-Fs@0.2.3
-Aion::Fs::Cat                      undef  pkg:cpan/Aion-Fs@0.2.3
-Aion::Fs::Find                     undef  pkg:cpan/Aion-Fs@0.2.3
-Aion::Fs::Lay                      undef  pkg:cpan/Aion-Fs@0.2.3
+Aion::Fs                           v0.2.4  pkg:cpan/Aion-Fs@0.2.4
+Aion::Fs::Cat                      undef  pkg:cpan/Aion-Fs@0.2.4
+Aion::Fs::Find                     undef  pkg:cpan/Aion-Fs@0.2.4
+Aion::Fs::Lay                      undef  pkg:cpan/Aion-Fs@0.2.4
 Aion::Meta::Feature                undef  pkg:cpan/Aion@2.2
 Aion::Meta::FeatureConstruct       undef  pkg:cpan/Aion@2.2
 Aion::Meta::RequiresAnyFunction    undef  pkg:cpan/Aion@2.2
@@ -51212,10 +51212,10 @@ DBD::Sqlflex::db                    0.51  pkg:cpan/DBD_SQLFLEX@8.2
 DBD::Sqlflex::dr                    0.51  pkg:cpan/DBD_SQLFLEX@8.2
 DBD::Sqlflex::st                    0.51  pkg:cpan/DBD_SQLFLEX@8.2
 DBD::SqlflexTest                   undef  pkg:cpan/DBD_SQLFLEX@8.2
-DBD::Sybase                         1.26  pkg:cpan/DBD-Sybase@1.26
-DBD::Sybase::db                     1.26  pkg:cpan/DBD-Sybase@1.26
-DBD::Sybase::dr                     1.26  pkg:cpan/DBD-Sybase@1.26
-DBD::Sybase::st                     1.26  pkg:cpan/DBD-Sybase@1.26
+DBD::Sybase                         1.27  pkg:cpan/DBD-Sybase@1.27
+DBD::Sybase::db                     1.27  pkg:cpan/DBD-Sybase@1.27
+DBD::Sybase::dr                     1.27  pkg:cpan/DBD-Sybase@1.27
+DBD::Sybase::st                     1.27  pkg:cpan/DBD-Sybase@1.27
 DBD::Sys                           0.102  pkg:cpan/DBD-Sys@0.102
 DBD::Sys::CompositeTable           0.102  pkg:cpan/DBD-Sys@0.102
 DBD::Sys::Plugin                   0.102  pkg:cpan/DBD-Sys@0.102
