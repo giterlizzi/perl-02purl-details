@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 24 Jun 2026 02:38:44 GMT
+Last-Updated: Wed, 24 Jun 2026 07:34:12 GMT
 Line-Count: 265453
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -4336,9 +4336,9 @@ Algorithm::Paxos::Role::Proposer   0.001  pkg:cpan/Algorithm-Paxos@0.001
 Algorithm::Permute                  0.17  pkg:cpan/Algorithm-Permute@0.17
 Algorithm::Points::MinimumDistance  0.01  pkg:cpan/Algorithm-Points-MinimumDistance@0.01
 Algorithm::Prefixspan               0.04  pkg:cpan/Algorithm-Prefixspan@0.04
-Algorithm::QuadTree                  0.9  pkg:cpan/Algorithm-QuadTree@0.9
-Algorithm::QuadTree::PP              0.9  pkg:cpan/Algorithm-QuadTree@0.9
-Algorithm::QuadTree::XS             0.11  pkg:cpan/Algorithm-QuadTree-XS@0.11
+Algorithm::QuadTree                  1.0  pkg:cpan/Algorithm-QuadTree@1.0
+Algorithm::QuadTree::PP              1.0  pkg:cpan/Algorithm-QuadTree@1.0
+Algorithm::QuadTree::XS             0.12  pkg:cpan/Algorithm-QuadTree-XS@0.12
 Algorithm::QuadTree::XS::NoBackRefs  0.09  pkg:cpan/Algorithm-QuadTree-XS@0.09
 Algorithm::QuineMcCluskey           1.01  pkg:cpan/Algorithm-QuineMcCluskey@1.01
 Algorithm::QuineMcCluskey::Format   1.01  pkg:cpan/Algorithm-QuineMcCluskey@1.01
@@ -139175,7 +139175,7 @@ MojoX::LineStream                   0.01  pkg:cpan/MojoX-LineStream@0.01
 MojoX::Log::Any                    0.005  pkg:cpan/MojoX-Log-Any@0.005
 MojoX::Log::Declare                 0.03  pkg:cpan/MojoX-Log-Declare@0.03
 MojoX::Log::Dispatch                 0.1  pkg:cpan/MojoX-Log-Dispatch@0.1
-MojoX::Log::Dispatch::Simple        1.15  pkg:cpan/MojoX-Log-Dispatch-Simple@1.15
+MojoX::Log::Dispatch::Simple        1.16  pkg:cpan/MojoX-Log-Dispatch-Simple@1.16
 MojoX::Log::Fast                   v1.2.0  pkg:cpan/MojoX-Log-Fast@v1.2.0
 MojoX::Log::Log4perl                0.12  pkg:cpan/MojoX-Log-Log4perl@0.12
 MojoX::Log::Log4perl::Tiny          0.01  pkg:cpan/MojoX-Log-Log4perl-Tiny@0.01
@@ -139456,8 +139456,8 @@ Mojolicious::Plugin::CHI::Route     0.06  pkg:cpan/Mojolicious-Plugin-CHI-Route@
 Mojolicious::Plugin::CHI::chi      undef  pkg:cpan/Mojolicious-Plugin-CHI@0.20
 Mojolicious::Plugin::CORS           0.02  pkg:cpan/Mojolicious-Plugin-CORS@0.02
 Mojolicious::Plugin::CSPHeader      0.06  pkg:cpan/Mojolicious-Plugin-CSPHeader@0.06
-Mojolicious::Plugin::CSRF           1.05  pkg:cpan/Mojolicious-Plugin-CSRF@1.05
-Mojolicious::Plugin::CSRF::Base     1.05  pkg:cpan/Mojolicious-Plugin-CSRF@1.05
+Mojolicious::Plugin::CSRF           1.06  pkg:cpan/Mojolicious-Plugin-CSRF@1.06
+Mojolicious::Plugin::CSRF::Base     1.06  pkg:cpan/Mojolicious-Plugin-CSRF@1.06
 Mojolicious::Plugin::CSRFDefender  0.000008  pkg:cpan/Mojolicious-Plugin-CSRFDefender@0.0.8
 Mojolicious::Plugin::CSRFProtect    0.16  pkg:cpan/Mojolicious-Plugin-CSRFProtect@0.16
 Mojolicious::Plugin::CSSCompressor  0.01  pkg:cpan/Mojolicious-Plugin-CSSCompressor@0.01
@@ -139470,7 +139470,7 @@ Mojolicious::Plugin::CachePurge     0.01  pkg:cpan/Mojolicious-Plugin-CachePurge
 Mojolicious::Plugin::CanonicalURL   0.06  pkg:cpan/Mojolicious-Plugin-CanonicalURL@0.06
 Mojolicious::Plugin::Captcha        0.02  pkg:cpan/Mojolicious-Plugin-Captcha@0.02
 Mojolicious::Plugin::Captcha::reCAPTCHA  0.05  pkg:cpan/Mojolicious-Plugin-Captcha-reCAPTCHA@0.05
-Mojolicious::Plugin::CaptchaPNG     1.08  pkg:cpan/Mojolicious-Plugin-CaptchaPNG@1.08
+Mojolicious::Plugin::CaptchaPNG     1.09  pkg:cpan/Mojolicious-Plugin-CaptchaPNG@1.09
 Mojolicious::Plugin::CaptchaRenderer  0.02  pkg:cpan/Mojolicious-Plugin-CaptchaRenderer@0.02
 Mojolicious::Plugin::CascadingConfig  0.03  pkg:cpan/Mojolicious-Plugin-CascadingConfig@0.03
 Mojolicious::Plugin::Check          0.03  pkg:cpan/Mojolicious-Plugin-Check@0.03
@@ -139996,7 +139996,7 @@ Mojolicious::Plugin::Text::Minify  v0.2.4  pkg:cpan/Mojolicious-Plugin-Text-Mini
 Mojolicious::Plugin::TextExceptions  0.02  pkg:cpan/Mojolicious-Plugin-TextExceptions@0.02
 Mojolicious::Plugin::Thumbnail      0.01  pkg:cpan/Mojolicious-Plugin-Thumbnail@0.01
 Mojolicious::Plugin::TimeAgo        0.06  pkg:cpan/Mojolicious-Plugin-TimeAgo@0.06
-Mojolicious::Plugin::ToolkitRenderer  1.14  pkg:cpan/Mojolicious-Plugin-ToolkitRenderer@1.14
+Mojolicious::Plugin::ToolkitRenderer  1.15  pkg:cpan/Mojolicious-Plugin-ToolkitRenderer@1.15
 Mojolicious::Plugin::Toto           0.25  pkg:cpan/Mojolicious-Plugin-Toto@0.25
 Mojolicious::Plugin::Toto::Model       0  pkg:cpan/Mojolicious-Plugin-Toto@0.25
 Mojolicious::Plugin::TrustedProxy   0.04  pkg:cpan/Mojolicious-Plugin-TrustedProxy@0.04
@@ -209865,16 +209865,16 @@ SPVM::Thread::ThisThread           undef  pkg:cpan/SPVM-Thread@0.008
 SPVM::Time::HiRes                  0.005  pkg:cpan/SPVM-Time-HiRes@0.005
 SPVM::Time::HiRes::ItimervalFloat  undef  pkg:cpan/SPVM-Time-HiRes@0.005
 SPVM::Time::HiRes::Util            undef  pkg:cpan/SPVM-Time-HiRes@0.003
-SPVM::Time::Local                  0.116  pkg:cpan/SPVM-Time-Local@0.116
-SPVM::Time::Piece                  0.010  pkg:cpan/SPVM-Time-Piece@0.010
-SPVM::Time::Seconds                undef  pkg:cpan/SPVM-Time-Piece@0.010
-SPVM::Unicode                      0.056  pkg:cpan/SPVM-Unicode@0.056
-SPVM::Unicode::Normalize           0.009  pkg:cpan/SPVM-Unicode-Normalize@0.009
+SPVM::Time::Local                  0.117  pkg:cpan/SPVM-Time-Local@0.117
+SPVM::Time::Piece                  0.011  pkg:cpan/SPVM-Time-Piece@0.011
+SPVM::Time::Seconds                undef  pkg:cpan/SPVM-Time-Piece@0.011
+SPVM::Unicode                      0.057  pkg:cpan/SPVM-Unicode@0.057
+SPVM::Unicode::Normalize           0.010  pkg:cpan/SPVM-Unicode-Normalize@0.010
 SQ                                 v0.0.6  pkg:cpan/SQ@0.0.6
 SQL::Abstract                      2.000001  pkg:cpan/SQL-Abstract@2.000001
 SQL::Abstract::Builder             0.001001  pkg:cpan/SQL-Abstract-Builder@v0.1.1
 SQL::Abstract::Classic              1.91  pkg:cpan/SQL-Abstract-Classic@1.91
-SQL::Abstract::Complete             1.11  pkg:cpan/SQL-Abstract-Complete@1.11
+SQL::Abstract::Complete             1.12  pkg:cpan/SQL-Abstract-Complete@1.12
 SQL::Abstract::Formatter           undef  pkg:cpan/SQL-Abstract@2.000001
 SQL::Abstract::FromQuery            0.11  pkg:cpan/SQL-Abstract-FromQuery@0.11
 SQL::Abstract::FromQuery::Contains undef  pkg:cpan/SQL-Abstract-FromQuery@0.11
@@ -223967,7 +223967,7 @@ Sub::Trigger::Lock                 0.002  pkg:cpan/Sub-Trigger-Lock@0.002
 Sub::Uplevel                       0.2800  pkg:cpan/Sub-Uplevel@0.2800
 Sub::Usage                          0.03  pkg:cpan/Sub-Usage@0.03
 Sub::Util                           1.70  pkg:cpan/Scalar-List-Utils@1.70
-Sub::Versions                       1.06  pkg:cpan/Sub-Versions@1.06
+Sub::Versions                       1.07  pkg:cpan/Sub-Versions@1.07
 Sub::Versive                       undef  pkg:cpan/Sub-Versive@0.01
 Sub::Way                            0.02  pkg:cpan/Sub-Way@0.02
 Sub::WhenBodied                    undef  pkg:cpan/Sub-WhenBodied@0.000
@@ -234679,7 +234679,7 @@ Time::DayOfWeek                      1.8  pkg:cpan/Time-DayOfWeek@1.8?ext=tgz
 Time::DaysInMonth                  2026.033  pkg:cpan/Time-ParseDate@2026.033
 Time::Decimal                       0.07  pkg:cpan/Time-Decimal@0.07
 Time::DeltaString                  1.4300  pkg:cpan/Date-Lima@1.4300
-Time::DoAfter                       1.09  pkg:cpan/Time-DoAfter@1.09
+Time::DoAfter                       1.10  pkg:cpan/Time-DoAfter@1.10
 Time::Duration                      1.21  pkg:cpan/Time-Duration@1.21
 Time::Duration::Abbreviated         0.01  pkg:cpan/Time-Duration-Abbreviated@0.01
 Time::Duration::Concise             2.62  pkg:cpan/Time-Duration-Concise-Localize@2.62
@@ -238757,7 +238757,7 @@ UniqIndex                          undef  pkg:cpan/App-Greple@8.58
 Unique                              1.02  pkg:cpan/Unique@1.02
 Unisyn::Parse                      20211013  pkg:cpan/Unisyn-Parse@20211013
 Unit                               undef  pkg:cpan/Cosmoloj-UnitSimple@0.1.2
-Unit::Duration                      1.05  pkg:cpan/Unit-Duration@1.05
+Unit::Duration                      1.06  pkg:cpan/Unit-Duration@1.06
 UnitConverter                      undef  pkg:cpan/Cosmoloj-UnitSimple@0.1.2
 Universe::Galaxy                    0.03  pkg:cpan/Universe-Galaxy@0.03
 Universe::ObservableUniverse::Filament::SuperCluster::Cluster::Group::Galaxy::Arm::Bubble::InterstellarCloud::SolarSystem::Earth  0.03  pkg:cpan/Universe-Galaxy@0.03
@@ -238974,7 +238974,7 @@ Usergrid::Request                  undef  pkg:cpan/Usergrid-Client@0.22
 Users                              undef  pkg:cpan/WWW-SnipeIT@0.05
 Util::Any                           0.25  pkg:cpan/Util-Any@0.25
 Util::BLOB                           0.1  pkg:cpan/RDFStore@0.51
-Util::CommandLine                   1.09  pkg:cpan/Util-CommandLine@1.09
+Util::CommandLine                   1.10  pkg:cpan/Util-CommandLine@1.10
 Util::EvalSnippet                   0.02  pkg:cpan/Util-EvalSnippet@0.02
 Util::H2O                           0.24  pkg:cpan/Util-H2O@0.24
 Util::H2O::More                    0.004003  pkg:cpan/Util-H2O-More@0.4.3
@@ -263610,14 +263610,14 @@ ex::lib::zip                        0.04  pkg:cpan/ex-lib-zip@0.04
 ex::monkeypatched                   0.03  pkg:cpan/ex-monkeypatched@0.03
 ex::newest                          0.02  pkg:cpan/ex-newest@0.02
 ex::override                         1.1  pkg:cpan/ex-override@1.1
-exact                               1.31  pkg:cpan/exact@1.31
-exact::class                        1.20  pkg:cpan/exact-class@1.20
-exact::cli                          1.08  pkg:cpan/exact-cli@1.08
-exact::conf                         1.10  pkg:cpan/exact-conf@1.10
-exact::fun                          1.02  pkg:cpan/exact-fun@1.02
-exact::lib                          1.05  pkg:cpan/exact-lib@1.05
-exact::me                           1.06  pkg:cpan/exact-me@1.06
-exact::role                         1.20  pkg:cpan/exact-class@1.20
+exact                               1.32  pkg:cpan/exact@1.32
+exact::class                        1.21  pkg:cpan/exact-class@1.21
+exact::cli                          1.09  pkg:cpan/exact-cli@1.09
+exact::conf                         1.11  pkg:cpan/exact-conf@1.11
+exact::fun                          1.03  pkg:cpan/exact-fun@1.03
+exact::lib                          1.06  pkg:cpan/exact-lib@1.06
+exact::me                           1.07  pkg:cpan/exact-me@1.07
+exact::role                         1.21  pkg:cpan/exact-class@1.21
 example2                           undef  pkg:cpan/CGI-XMLApplication@1.1.5
 example3                           undef  pkg:cpan/CGI-XMLApplication@1.1.5
 example4                           undef  pkg:cpan/CGI-XMLApplication@1.1.5
