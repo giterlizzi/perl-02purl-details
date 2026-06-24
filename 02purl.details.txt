@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 24 Jun 2026 17:48:28 GMT
+Last-Updated: Wed, 24 Jun 2026 19:28:10 GMT
 Line-Count: 265519
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -30401,7 +30401,7 @@ Business::IS::PIN                   0.06  pkg:cpan/Business-IS-PIN@0.06
 Business::ISBN                     3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN10                   3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN13                   3.014  pkg:cpan/Business-ISBN@3.014
-Business::ISBN::Data               20260617.001  pkg:cpan/Business-ISBN-Data@20260617.001
+Business::ISBN::Data               20260624.001  pkg:cpan/Business-ISBN-Data@20260624.001
 Business::ISIN                      0.20  pkg:cpan/Business-ISIN@0.20?ext=tgz
 Business::ISMN                     1.205  pkg:cpan/Business-ISMN@1.205
 Business::ISMN::Data               1.205  pkg:cpan/Business-ISMN@1.205
@@ -236697,7 +236697,7 @@ TuxedoBuffer                        0.01  pkg:cpan/TUXEDO@1_00?ext=zip
 TuxedoClient                        0.01  pkg:cpan/TUXEDO@1_00?ext=zip
 TuxedoMessenger                     0.01  pkg:cpan/TUXEDO@1_00?ext=zip
 TuxedoServer                        0.01  pkg:cpan/TUXEDO@1_00?ext=zip
-Tvh::Htsp::Client                   0.05  pkg:cpan/Tvh-Htsp-Client@0.05
+Tvh::Htsp::Client                   0.06  pkg:cpan/Tvh-Htsp-Client@0.06
 Tweet::ToDelicious                  0.08  pkg:cpan/Tweet-ToDelicious@0.08
 Tweet::ToDelicious::Entity         undef  pkg:cpan/Tweet-ToDelicious@0.08
 Tweet::ToDelicious::Entity::Interface undef  pkg:cpan/Tweet-ToDelicious@0.08
