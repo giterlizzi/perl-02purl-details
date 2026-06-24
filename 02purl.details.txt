@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 23 Jun 2026 23:02:26 GMT
-Line-Count: 265452
+Last-Updated: Wed, 24 Jun 2026 02:38:44 GMT
+Line-Count: 265453
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -4336,9 +4336,9 @@ Algorithm::Paxos::Role::Proposer   0.001  pkg:cpan/Algorithm-Paxos@0.001
 Algorithm::Permute                  0.17  pkg:cpan/Algorithm-Permute@0.17
 Algorithm::Points::MinimumDistance  0.01  pkg:cpan/Algorithm-Points-MinimumDistance@0.01
 Algorithm::Prefixspan               0.04  pkg:cpan/Algorithm-Prefixspan@0.04
-Algorithm::QuadTree                  0.8  pkg:cpan/Algorithm-QuadTree@0.8
-Algorithm::QuadTree::PP              0.8  pkg:cpan/Algorithm-QuadTree@0.8
-Algorithm::QuadTree::XS             0.10  pkg:cpan/Algorithm-QuadTree-XS@0.10
+Algorithm::QuadTree                  0.9  pkg:cpan/Algorithm-QuadTree@0.9
+Algorithm::QuadTree::PP              0.9  pkg:cpan/Algorithm-QuadTree@0.9
+Algorithm::QuadTree::XS             0.11  pkg:cpan/Algorithm-QuadTree-XS@0.11
 Algorithm::QuadTree::XS::NoBackRefs  0.09  pkg:cpan/Algorithm-QuadTree-XS@0.09
 Algorithm::QuineMcCluskey           1.01  pkg:cpan/Algorithm-QuineMcCluskey@1.01
 Algorithm::QuineMcCluskey::Format   1.01  pkg:cpan/Algorithm-QuineMcCluskey@1.01
@@ -9618,7 +9618,7 @@ App::Deps::Verify::App::VerifyDeps::Command::py3list v0.12.2  pkg:cpan/App-Deps-
 App::Deps::Verify::App::VerifyDeps::Command::verify v0.12.2  pkg:cpan/App-Deps-Verify@0.12.2
 App::DesktopNotifyUtils            0.001  pkg:cpan/App-DesktopNotifyUtils@0.001
 App::DesktopOpenUtils              0.002  pkg:cpan/App-DesktopOpenUtils@0.002
-App::Dest                           1.36  pkg:cpan/App-Dest@1.36
+App::Dest                           1.37  pkg:cpan/App-Dest@1.37
 App::Devbot                        0.001004  pkg:cpan/App-Devbot@0.001004
 App::Devel::MAT::Explorer::GTK      0.06  pkg:cpan/App-Devel-MAT-Explorer-GTK@0.06
 App::Devel::MAT::Explorer::GTK::Resources  0.06  pkg:cpan/App-Devel-MAT-Explorer-GTK@0.06
@@ -20749,7 +20749,7 @@ Aut::UI::Wx                         0.02  pkg:cpan/Aut-UI-Wx@0.02
 Auth::ActiveDirectory               0.02  pkg:cpan/Auth-ActiveDirectory@0.02
 Auth::ActiveDirectory::Group        0.02  pkg:cpan/Auth-ActiveDirectory@0.02
 Auth::ActiveDirectory::User         0.02  pkg:cpan/Auth-ActiveDirectory@0.02
-Auth::GoogleAuth                    1.09  pkg:cpan/Auth-GoogleAuth@1.09
+Auth::GoogleAuth                    1.10  pkg:cpan/Auth-GoogleAuth@1.10
 Auth::GoogleAuthenticator           0.05  pkg:cpan/Auth-GoogleAuthenticator@0.05
 Auth::Krb5Afs                        1.0  pkg:cpan/Auth-Krb5Afs@1.0
 Auth::NTLMdes                       1.00  pkg:cpan/NTLM@1.01
@@ -23507,10 +23507,10 @@ Bib::Tools                          0.17  pkg:cpan/Bib-Tools@0.17
 BibTeX::Parser                      1.95  pkg:cpan/BibTeX-Parser@1.95
 BibTeX::Parser::Author              1.95  pkg:cpan/BibTeX-Parser@1.95
 BibTeX::Parser::Entry               1.95  pkg:cpan/BibTeX-Parser@1.95
-Bible::OBML                         2.10  pkg:cpan/Bible-OBML@2.10
-Bible::OBML::Gateway                2.11  pkg:cpan/Bible-OBML-Gateway@2.11
+Bible::OBML                         2.11  pkg:cpan/Bible-OBML@2.11
+Bible::OBML::Gateway                2.12  pkg:cpan/Bible-OBML-Gateway@2.12
 Bible::OBML::HTML                   1.18  pkg:cpan/Bible-OBML@1.18
-Bible::Reference                    1.19  pkg:cpan/Bible-Reference@1.19
+Bible::Reference                    1.20  pkg:cpan/Bible-Reference@1.20
 BibliConverter                     undef  pkg:cpan/Koha-Contrib-Sudoc@2.49
 Biblio::BP                          1.25  pkg:cpan/Bundle-PBib@2.08.01
 Biblio::BP::Util                    1.18  pkg:cpan/Bundle-PBib@2.08
@@ -28785,29 +28785,29 @@ Bot::Cobalt::Timer                 0.021003  pkg:cpan/Bot-Cobalt@0.021003
 Bot::Cobalt::Utils                 0.021003  pkg:cpan/Bot-Cobalt@0.021003
 Bot::ICB                            0.12  pkg:cpan/Bot-ICB@0.12
 Bot::IKCBot::Pluggable              0.02  pkg:cpan/Bot-IKCBot-Pluggable@0.02
-Bot::IRC                            1.48  pkg:cpan/Bot-IRC@1.48
-Bot::IRC::Convert                   1.48  pkg:cpan/Bot-IRC@1.48
-Bot::IRC::Functions                 1.48  pkg:cpan/Bot-IRC@1.48
-Bot::IRC::Greeting                  1.48  pkg:cpan/Bot-IRC@1.48
-Bot::IRC::History                   1.48  pkg:cpan/Bot-IRC@1.48
-Bot::IRC::Infobot                   1.48  pkg:cpan/Bot-IRC@1.48
-Bot::IRC::Join                      1.48  pkg:cpan/Bot-IRC@1.48
-Bot::IRC::Karma                     1.48  pkg:cpan/Bot-IRC@1.48
-Bot::IRC::Math                      1.48  pkg:cpan/Bot-IRC@1.48
-Bot::IRC::Ping                      1.48  pkg:cpan/Bot-IRC@1.48
-Bot::IRC::Seen                      1.48  pkg:cpan/Bot-IRC@1.48
-Bot::IRC::Store                     1.48  pkg:cpan/Bot-IRC@1.48
-Bot::IRC::Store::SQLite             1.48  pkg:cpan/Bot-IRC@1.48
-Bot::IRC::X::Dice                   1.08  pkg:cpan/Bot-IRC-X-Dice@1.08
-Bot::IRC::X::Feeds                  1.09  pkg:cpan/Bot-IRC-X-Feeds@1.09
-Bot::IRC::X::ManagementSpeak        1.06  pkg:cpan/Bot-IRC-X-ManagementSpeak@1.06
-Bot::IRC::X::Message                1.08  pkg:cpan/Bot-IRC-X-Message@1.08
-Bot::IRC::X::MetarTaf               1.06  pkg:cpan/Bot-IRC-X-MetarTaf@1.06
-Bot::IRC::X::Reminder               1.09  pkg:cpan/Bot-IRC-X-Reminder@1.09
-Bot::IRC::X::Retort                 1.07  pkg:cpan/Bot-IRC-X-Retort@1.07
-Bot::IRC::X::Time                   1.06  pkg:cpan/Bot-IRC-X-Time@1.06
-Bot::IRC::X::UriTitle               1.07  pkg:cpan/Bot-IRC-X-UriTitle@1.07
-Bot::IRC::X::WwwShorten             1.06  pkg:cpan/Bot-IRC-X-WwwShorten@1.06
+Bot::IRC                            1.49  pkg:cpan/Bot-IRC@1.49
+Bot::IRC::Convert                   1.49  pkg:cpan/Bot-IRC@1.49
+Bot::IRC::Functions                 1.49  pkg:cpan/Bot-IRC@1.49
+Bot::IRC::Greeting                  1.49  pkg:cpan/Bot-IRC@1.49
+Bot::IRC::History                   1.49  pkg:cpan/Bot-IRC@1.49
+Bot::IRC::Infobot                   1.49  pkg:cpan/Bot-IRC@1.49
+Bot::IRC::Join                      1.49  pkg:cpan/Bot-IRC@1.49
+Bot::IRC::Karma                     1.49  pkg:cpan/Bot-IRC@1.49
+Bot::IRC::Math                      1.49  pkg:cpan/Bot-IRC@1.49
+Bot::IRC::Ping                      1.49  pkg:cpan/Bot-IRC@1.49
+Bot::IRC::Seen                      1.49  pkg:cpan/Bot-IRC@1.49
+Bot::IRC::Store                     1.49  pkg:cpan/Bot-IRC@1.49
+Bot::IRC::Store::SQLite             1.49  pkg:cpan/Bot-IRC@1.49
+Bot::IRC::X::Dice                   1.09  pkg:cpan/Bot-IRC-X-Dice@1.09
+Bot::IRC::X::Feeds                  1.10  pkg:cpan/Bot-IRC-X-Feeds@1.10
+Bot::IRC::X::ManagementSpeak        1.07  pkg:cpan/Bot-IRC-X-ManagementSpeak@1.07
+Bot::IRC::X::Message                1.09  pkg:cpan/Bot-IRC-X-Message@1.09
+Bot::IRC::X::MetarTaf               1.07  pkg:cpan/Bot-IRC-X-MetarTaf@1.07
+Bot::IRC::X::Reminder               1.10  pkg:cpan/Bot-IRC-X-Reminder@1.10
+Bot::IRC::X::Retort                 1.08  pkg:cpan/Bot-IRC-X-Retort@1.08
+Bot::IRC::X::Time                   1.07  pkg:cpan/Bot-IRC-X-Time@1.07
+Bot::IRC::X::UriTitle               1.08  pkg:cpan/Bot-IRC-X-UriTitle@1.08
+Bot::IRC::X::WwwShorten             1.07  pkg:cpan/Bot-IRC-X-WwwShorten@1.07
 Bot::Infobot::Config               undef  pkg:cpan/Bot-Infobot@1.0
 Bot::Infobot::Importer::DBI        undef  pkg:cpan/Bot-Infobot@1.0
 Bot::Infobot::Importer::DBM        undef  pkg:cpan/Bot-Infobot@1.0
@@ -29641,6 +29641,7 @@ Business::BR::CPF                  0.0022  pkg:cpan/Business-BR-Ids@0.0022
 Business::BR::IE                   0.0022  pkg:cpan/Business-BR-Ids@0.0022
 Business::BR::Ids                  0.0022  pkg:cpan/Business-BR-Ids@0.0022
 Business::BR::Ids::Common          0.0022  pkg:cpan/Business-BR-Ids@0.0022
+Business::BR::NFSe                  0.01  pkg:cpan/Business-BR-NFSe@0.01
 Business::BR::PIS                  0.0022  pkg:cpan/Business-BR-Ids@0.0022
 Business::BalancedPayments         1.0600  pkg:cpan/Business-BalancedPayments@1.0600
 Business::BalancedPayments::Base   1.0600  pkg:cpan/Business-BalancedPayments@1.0600
@@ -47618,7 +47619,7 @@ Config::ApacheExtended::Grammar    undef  pkg:cpan/Config-ApacheExtended@1.16
 Config::ApacheFormat                 1.2  pkg:cpan/Config-ApacheFormat@1.2
 Config::Apachish::Base              0.03  pkg:cpan/Config-Apachish-Reader@0.03
 Config::Apachish::Reader            0.03  pkg:cpan/Config-Apachish-Reader@0.03
-Config::App                         1.20  pkg:cpan/Config-App@1.20
+Config::App                         1.21  pkg:cpan/Config-App@1.21
 Config::Apt::SourceEntry            0.10  pkg:cpan/Config-Apt-Sources@0.10
 Config::Apt::Sources                0.10  pkg:cpan/Config-Apt-Sources@0.10
 Config::Augeas                     1.000  pkg:cpan/Config-Augeas@1.000
@@ -53474,13 +53475,13 @@ DBIx::Profile                        1.0  pkg:cpan/DBIx-Profile@1.0
 DBIx::Profile::db                    1.0  pkg:cpan/DBIx-Profile@1.0
 DBIx::Profile::st                    1.0  pkg:cpan/DBIx-Profile@1.0
 DBIx::ProfileManager                0.03  pkg:cpan/DBIx-ProfileManager@0.03
-DBIx::Query                         1.17  pkg:cpan/DBIx-Query@1.17
-DBIx::Query::_Common                1.17  pkg:cpan/DBIx-Query@1.17
-DBIx::Query::_Dq::Cell              1.17  pkg:cpan/DBIx-Query@1.17
-DBIx::Query::_Dq::Row               1.17  pkg:cpan/DBIx-Query@1.17
-DBIx::Query::_Dq::RowSet            1.17  pkg:cpan/DBIx-Query@1.17
-DBIx::Query::db                     1.17  pkg:cpan/DBIx-Query@1.17
-DBIx::Query::st                     1.17  pkg:cpan/DBIx-Query@1.17
+DBIx::Query                         1.18  pkg:cpan/DBIx-Query@1.18
+DBIx::Query::_Common                1.18  pkg:cpan/DBIx-Query@1.18
+DBIx::Query::_Dq::Cell              1.18  pkg:cpan/DBIx-Query@1.18
+DBIx::Query::_Dq::Row               1.18  pkg:cpan/DBIx-Query@1.18
+DBIx::Query::_Dq::RowSet            1.18  pkg:cpan/DBIx-Query@1.18
+DBIx::Query::db                     1.18  pkg:cpan/DBIx-Query@1.18
+DBIx::Query::st                     1.18  pkg:cpan/DBIx-Query@1.18
 DBIx::QueryByName                   0.18  pkg:cpan/DBIx-QueryByName@0.18
 DBIx::QueryByName::DbhPool         undef  pkg:cpan/DBIx-QueryByName@0.18
 DBIx::QueryByName::FromXML         undef  pkg:cpan/DBIx-QueryByName@0.18
@@ -55489,7 +55490,7 @@ Daemon::Control                    0.001010  pkg:cpan/Daemon-Control@0.001010
 Daemon::Control::Plugin::HotStandby 0.0002  pkg:cpan/Daemon-Control-Plugin-HotStandby@0.0002
 Daemon::Daemonize                  0.0052  pkg:cpan/Daemon-Daemonize@0.0052
 Daemon::DaemonizeLight             undef  pkg:cpan/Daemon-DaemonizeLight@0.04
-Daemon::Device                      1.11  pkg:cpan/Daemon-Device@1.11
+Daemon::Device                      1.12  pkg:cpan/Daemon-Device@1.12
 Daemon::Easy                        0.02  pkg:cpan/Daemon-Easy@0.02
 Daemon::Generic                     0.85  pkg:cpan/Daemon-Generic@0.85
 Daemon::Generic::AnyEvent           0.84  pkg:cpan/Daemon-Generic@0.85
@@ -57899,7 +57900,7 @@ Data::Dumper::EasyOO               0.0503  pkg:cpan/Data-Dumper-EasyOO@0.0503
 Data::Dumper::GUI                  0.006  pkg:cpan/Data-Dumper-GUI@0.006
 Data::Dumper::HTML                 0.000002  pkg:cpan/Data-Dumper-HTML@v0.0.2
 Data::Dumper::Hash                   1.0  pkg:cpan/Data-Dumper-Hash@0.001
-Data::Dumper::Interp               8.001  pkg:cpan/Data-Dumper-Interp@8.001
+Data::Dumper::Interp               8.002  pkg:cpan/Data-Dumper-Interp@8.002
 Data::Dumper::Lazy                  0.01  pkg:cpan/Data-Dumper-Lazy?ext=zip
 Data::Dumper::Limited               0.03  pkg:cpan/Data-Dumper-Limited@0.03
 Data::Dumper::LispLike             0.004  pkg:cpan/Data-Dumper-LispLike@0.004
@@ -70396,7 +70397,7 @@ Email::MIME::XMTP                   0.42  pkg:cpan/Email-MIME-XMTP@0.42
 Email::MIME::XPath                 0.005  pkg:cpan/Email-MIME-XPath@0.005
 Email::MIME::XPath::Attribute      0.005  pkg:cpan/Email-MIME-XPath@0.005
 Email::MIME::XPath::Root           0.005  pkg:cpan/Email-MIME-XPath@0.005
-Email::Mailer                       1.23  pkg:cpan/Email-Mailer@1.23
+Email::Mailer                       1.24  pkg:cpan/Email-Mailer@1.24
 Email::MessageID                   1.408  pkg:cpan/Email-MessageID@1.408
 Email::Outlook::Message            0.921  pkg:cpan/Email-Outlook-Message@0.921
 Email::Outlook::Message::AddressInfo 0.921  pkg:cpan/Email-Outlook-Message@0.921
@@ -71068,8 +71069,8 @@ English                             1.11  pkg:cpan/perl@5.42.2
 English::Control                   0.002  pkg:cpan/English-Control@0.002
 English::Name                      0.003  pkg:cpan/English-Name@0.003
 English::Reference                  0.01  pkg:cpan/English-Reference@0.03?ext=tgz
-English::Script                     1.07  pkg:cpan/English-Script@1.07
-English::Script::JavaScript         1.07  pkg:cpan/English-Script@1.07
+English::Script                     1.08  pkg:cpan/English-Script@1.08
+English::Script::JavaScript         1.08  pkg:cpan/English-Script@1.08
 EnglishTextGenerator               2.003041  pkg:cpan/FamilyTreeInfo@2.3.41
 EnsEMBL::Web::Record                1.01  pkg:cpan/EnsEMBL-Web-Record@1.01
 Enterprise::Licence                 0.03  pkg:cpan/Enterprise-Licence@0.03
@@ -71844,7 +71845,7 @@ Excel::Writer::XLSX::Simple::Tabs   0.03  pkg:cpan/Excel-Writer-XLSX-Simple-Tabs
 Excel::Writer::XLSX::Utility        1.15  pkg:cpan/Excel-Writer-XLSX@1.15
 Excel::Writer::XLSX::Workbook       1.15  pkg:cpan/Excel-Writer-XLSX@1.15
 Excel::Writer::XLSX::Worksheet      1.15  pkg:cpan/Excel-Writer-XLSX@1.15
-Excel::XLSX                         1.03  pkg:cpan/Excel-XLSX@1.03
+Excel::XLSX                         1.04  pkg:cpan/Excel-XLSX@1.04
 Exception                          0.103  pkg:cpan/Exceptions@0.103
 Exception::AUTH_REQUIRED             0.3  pkg:cpan/Class-DBI-Factory@0.994
 Exception::Argument                 0.05  pkg:cpan/Fatal-Exception@0.05
@@ -75564,7 +75565,7 @@ Finance::GDAX::API::URL             0.02  pkg:cpan/Finance-GDAX-API@0.09
 Finance::GDAX::API::UserAccount     0.02  pkg:cpan/Finance-GDAX-API@0.09
 Finance::GDAX::API::Withdrawl       0.02  pkg:cpan/Finance-GDAX-API@0.09
 Finance::GDAX::Lite                0.003  pkg:cpan/Finance-GDAX-Lite@0.003
-Finance::Google::Portfolio          1.08  pkg:cpan/Finance-Google-Portfolio@1.08
+Finance::Google::Portfolio          1.09  pkg:cpan/Finance-Google-Portfolio@1.09
 Finance::Google::Sector::Mean       0.08  pkg:cpan/Finance-Google-Sector-Mean@0.08
 Finance::HSHrates                   0.01  pkg:cpan/Finance-HSHrates@0.01
 Finance::Huntington::Statement     undef  pkg:cpan/Finance-Huntington@0.01
@@ -82168,7 +82169,7 @@ Geo::Google::StaticMaps::V2         0.12  pkg:cpan/Geo-Google-StaticMaps-V2@0.12
 Geo::Google::StaticMaps::V2::Markers  0.12  pkg:cpan/Geo-Google-StaticMaps-V2@0.12
 Geo::Google::StaticMaps::V2::Path   0.12  pkg:cpan/Geo-Google-StaticMaps-V2@0.12
 Geo::Google::StaticMaps::V2::Visible  0.12  pkg:cpan/Geo-Google-StaticMaps-V2@0.12
-Geo::GoogleEarth::AutoTour          1.10  pkg:cpan/Geo-GoogleEarth-AutoTour@1.10
+Geo::GoogleEarth::AutoTour          1.11  pkg:cpan/Geo-GoogleEarth-AutoTour@1.11
 Geo::GoogleEarth::Document::ColorStyle  0.01  pkg:cpan/Geo-GoogleEarth-Document@modules2
 Geo::GoogleEarth::Document::Feature  0.01  pkg:cpan/Geo-GoogleEarth-Document@modules2
 Geo::GoogleEarth::Document::LineString  0.02  pkg:cpan/Geo-GoogleEarth-Document@modules2
@@ -122804,7 +122805,7 @@ Lingua::MON::Num2Word              0.2603300  pkg:cpan/Lingua-MON-Num2Word@0.260
 Lingua::MON::Word2Num              0.2603300  pkg:cpan/Lingua-MON-Word2Num@0.2603300
 Lingua::MSWordSpell                1.011  pkg:cpan/Lingua-MSWordSpell@1.011
 Lingua::MY::Zawgyi2Unicode         0.001  pkg:cpan/Lingua-MY-Zawgyi2Unicode@0.001
-Lingua::ManagementSpeak             1.06  pkg:cpan/Lingua-ManagementSpeak@1.06
+Lingua::ManagementSpeak             1.07  pkg:cpan/Lingua-ManagementSpeak@1.07
 Lingua::Metadata                   0.005  pkg:cpan/Lingua-Metadata@0.005
 Lingua::Multinational::Translit::ICAO  1.05  pkg:cpan/Lingua-Multinational-Translit-ICAO@1.05
 Lingua::NATools                    v0.7.12  pkg:cpan/Lingua-NATools@v0.7.12
@@ -126977,7 +126978,7 @@ Log::Dispatch::Email::MIMELite      2.71  pkg:cpan/Log-Dispatch@2.71
 Log::Dispatch::Email::MailSend      2.71  pkg:cpan/Log-Dispatch@2.71
 Log::Dispatch::Email::MailSender    2.71  pkg:cpan/Log-Dispatch@2.71
 Log::Dispatch::Email::MailSendmail  2.71  pkg:cpan/Log-Dispatch@2.71
-Log::Dispatch::Email::Mailer        1.15  pkg:cpan/Log-Dispatch-Email-Mailer@1.15
+Log::Dispatch::Email::Mailer        1.16  pkg:cpan/Log-Dispatch-Email-Mailer@1.16
 Log::Dispatch::Email::Sendmail      0.04  pkg:cpan/Log-Dispatch-Email-Sendmail@0.04
 Log::Dispatch::Email::Siffra        0.04  pkg:cpan/Log-Dispatch-Email-Siffra@0.04
 Log::Dispatch::File                 2.71  pkg:cpan/Log-Dispatch@2.71
@@ -139143,7 +139144,7 @@ MojoX::AlmostJSON::_Bool           1.151250  pkg:cpan/MojoX-AlmostJSON@1.151250
 MojoX::Auth::Simple                0.004002  pkg:cpan/MojoX-Auth-Simple@0.04.03
 MojoX::CPAN::Uploader              0.034  pkg:cpan/MojoX-CPAN-Uploader@0.034
 MojoX::CloudFlare::Simple           0.04  pkg:cpan/MojoX-CloudFlare-Simple@0.04
-MojoX::ConfigAppStart               1.05  pkg:cpan/MojoX-ConfigAppStart@1.05
+MojoX::ConfigAppStart               1.06  pkg:cpan/MojoX-ConfigAppStart@1.06
 MojoX::CustomTemplateFileParser    0.1002  pkg:cpan/MojoX-CustomTemplateFileParser@0.1002
 MojoX::CustomTemplateFileParser::Plugin::To::Html 0.1002  pkg:cpan/MojoX-CustomTemplateFileParser@0.1002
 MojoX::CustomTemplateFileParser::Plugin::To::Pod 0.1002  pkg:cpan/MojoX-CustomTemplateFileParser@0.1002
@@ -139169,7 +139170,7 @@ MojoX::JSON::RPC::Service          undef  pkg:cpan/MojoX-JSON-RPC@0.13
 MojoX::JSON::RPC::Service::AutoRegister 0.001  pkg:cpan/MojoX-JSON-RPC-Service-AutoRegister@0.001
 MojoX::JSON::XS                     0.01  pkg:cpan/MojoX-JSON-XS@0.01
 MojoX::JSONRPC2::HTTP              v2.0.3  pkg:cpan/MojoX-JSONRPC2-HTTP@v2.0.3
-MojoX::Linda                        1.04  pkg:cpan/MojoX-Linda@1.04
+MojoX::Linda                        1.05  pkg:cpan/MojoX-Linda@1.05
 MojoX::LineStream                   0.01  pkg:cpan/MojoX-LineStream@0.01
 MojoX::Log::Any                    0.005  pkg:cpan/MojoX-Log-Any@0.005
 MojoX::Log::Declare                 0.03  pkg:cpan/MojoX-Log-Declare@0.03
