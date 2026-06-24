@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 24 Jun 2026 19:28:10 GMT
-Line-Count: 265519
+Last-Updated: Wed, 24 Jun 2026 21:17:42 GMT
+Line-Count: 265518
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -4818,7 +4818,7 @@ Alien::XPA                         v2.1.20.7  pkg:cpan/Alien-XPA@v2.1.20.7
 Alien::Xmake                        0.08  pkg:cpan/Alien-Xmake@0.08
 Alien::Xrepo                        0.08  pkg:cpan/Alien-Xmake@0.08
 Alien::Xrepo::PackageInfo          undef  pkg:cpan/Alien-Xmake@0.08
-Alien::YAMLScript                  0.002022  pkg:cpan/Alien-YAMLScript@0.2.22
+Alien::YAMLScript                  0.002023  pkg:cpan/Alien-YAMLScript@0.2.23
 Alien::YARA                        v0.0.1  pkg:cpan/Alien-YARA@v0.0.6
 Alien::Z3                          0.002  pkg:cpan/Alien-Z3@0.002
 Alien::ZMQ                          0.06  pkg:cpan/Alien-ZMQ@0.06
@@ -131298,7 +131298,7 @@ Map::Tube::Barcelona::Line::L6      0.80  pkg:cpan/Map-Tube-Barcelona@0.80
 Map::Tube::Barcelona::Line::L7      0.80  pkg:cpan/Map-Tube-Barcelona@0.80
 Map::Tube::Barcelona::Line::L8      0.80  pkg:cpan/Map-Tube-Barcelona@0.80
 Map::Tube::Barcelona::Line::L9      0.80  pkg:cpan/Map-Tube-Barcelona@0.80
-Map::Tube::Beijing                 v0.12.6  pkg:cpan/Map-Tube-Beijing@v0.12.6
+Map::Tube::Beijing                 v0.12.7  pkg:cpan/Map-Tube-Beijing@v0.12.7
 Map::Tube::Berlin                  2026.0615  pkg:cpan/Map-Tube-Berlin@2026.0615
 Map::Tube::Bielefeld               2020.0330  pkg:cpan/Map-Tube-Bielefeld@2020.0330
 Map::Tube::Brussels                v0.2.1  pkg:cpan/Map-Tube-Brussels@v0.2.1
@@ -131306,7 +131306,7 @@ Map::Tube::Bucharest                0.12  pkg:cpan/Map-Tube-Bucharest@0.12
 Map::Tube::Budapest                 0.07  pkg:cpan/Map-Tube-Budapest@0.07
 Map::Tube::CLI                     v0.850.0  pkg:cpan/Map-Tube-CLI@v0.850.0
 Map::Tube::CLI::Option             v0.850.0  pkg:cpan/Map-Tube-CLI@v0.850.0
-Map::Tube::Chicago                 v0.2.1  pkg:cpan/Map-Tube-Chicago@v0.2.1
+Map::Tube::Chicago                 v0.2.2  pkg:cpan/Map-Tube-Chicago@v0.2.2
 Map::Tube::Cookbook                v5.0.1  pkg:cpan/Map-Tube@v5.0.1
 Map::Tube::Copenhagen               0.04  pkg:cpan/Map-Tube-Copenhagen@0.04
 Map::Tube::Delhi                    0.99  pkg:cpan/Map-Tube-Delhi@0.99
@@ -131364,7 +131364,7 @@ Map::Tube::Hongkong                 0.03  pkg:cpan/Map-Tube-Hongkong@0.03
 Map::Tube::Kazan                    0.07  pkg:cpan/Map-Tube-Kazan@0.07
 Map::Tube::Kharkiv                  0.08  pkg:cpan/Map-Tube-Kharkiv@0.08
 Map::Tube::Kiev                     0.07  pkg:cpan/Map-Tube-Kiev@0.07
-Map::Tube::KoelnBonn               v0.92.4  pkg:cpan/Map-Tube-KoelnBonn@v0.92.4
+Map::Tube::KoelnBonn               v0.92.5  pkg:cpan/Map-Tube-KoelnBonn@v0.92.5
 Map::Tube::Kolkatta                 0.34  pkg:cpan/Map-Tube-Kolkatta@0.34
 Map::Tube::Kolkatta::Line::L1       0.34  pkg:cpan/Map-Tube-Kolkatta@0.34
 Map::Tube::Kolkatta::Line::L2       0.34  pkg:cpan/Map-Tube-Kolkatta@0.34
@@ -131403,7 +131403,7 @@ Map::Tube::Malaga                   0.18  pkg:cpan/Map-Tube-Malaga@0.18
 Map::Tube::Milan                   0.008  pkg:cpan/Map-Tube-Milan@0.008
 Map::Tube::Minsk                    0.08  pkg:cpan/Map-Tube-Minsk@0.08
 Map::Tube::Moscow                    0.1  pkg:cpan/Map-Tube-Moscow@0.10
-Map::Tube::Muenchen                v0.1.2  pkg:cpan/Map-Tube-Muenchen@v0.1.2
+Map::Tube::Muenchen                v0.1.3  pkg:cpan/Map-Tube-Muenchen@v0.1.3
 Map::Tube::NYC                      0.71  pkg:cpan/Map-Tube-NYC@0.71
 Map::Tube::NYC::Line::BMTCanarsie   0.71  pkg:cpan/Map-Tube-NYC@0.71
 Map::Tube::NYC::Line::BMTNassauStreet  0.71  pkg:cpan/Map-Tube-NYC@0.71
@@ -259662,11 +259662,10 @@ YAML::Type::undef                  undef  pkg:cpan/YAML@1.31
 YAML::Types                        undef  pkg:cpan/YAML@1.31
 YAML::Warning                      undef  pkg:cpan/YAML@1.31
 YAML::XS                           v0.908.0  pkg:cpan/YAML-LibYAML@v0.908.0
-YAML::XS::LibYAML                  undef  pkg:cpan/YAML-LibYAML@0.89
 YAML::YAML2ADoc                    0.001000  pkg:cpan/YAML-YAML2ADoc@0.1.0
 YAML::yq::Helper                   0.002000  pkg:cpan/YAML-yq-Helper@0.2.0
-YAMLScript                         0.002022  pkg:cpan/YAMLScript@0.2.22
-YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.2.22
+YAMLScript                         0.002023  pkg:cpan/YAMLScript@0.2.23
+YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.2.23
 YAMLScript::Base                   undef  pkg:cpan/YAMLScript@0.0.7
 YAMLScript::CLI                    undef  pkg:cpan/YAMLScript@0.1.3
 YAMLScript::Call                   undef  pkg:cpan/YAMLScript@0.0.16
