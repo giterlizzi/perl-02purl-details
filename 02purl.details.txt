@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 25 Jun 2026 10:36:36 GMT
-Line-Count: 265520
+Last-Updated: Thu, 25 Jun 2026 14:10:25 GMT
+Line-Count: 265521
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -32788,14 +32788,15 @@ CLI::Popt                           0.01  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X                       undef  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X::BadOption            undef  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X::Base                 undef  pkg:cpan/CLI-Popt@0.01
-CLI::Simple                        v2.0.5  pkg:cpan/CLI-Simple@2.0.5
-CLI::Simple::Constants             v2.0.5  pkg:cpan/CLI-Simple@2.0.5
-CLI::Simple::DumpSpec                  0  pkg:cpan/CLI-Simple@2.0.5
-CLI::Simple::Helpers                   0  pkg:cpan/CLI-Simple@2.0.5
-CLI::Simple::Migrate                   0  pkg:cpan/CLI-Simple@2.0.5
-CLI::Simple::Scaffold                  0  pkg:cpan/CLI-Simple@2.0.5
-CLI::Simple::Shell                     0  pkg:cpan/CLI-Simple@2.0.5
-CLI::Simple::Utils                 v2.0.5  pkg:cpan/CLI-Simple@2.0.5
+CLI::Simple                        v2.0.6  pkg:cpan/CLI-Simple@2.0.6
+CLI::Simple::Constants             v2.0.6  pkg:cpan/CLI-Simple@2.0.6
+CLI::Simple::DumpSpec                  0  pkg:cpan/CLI-Simple@2.0.6
+CLI::Simple::Helpers                   0  pkg:cpan/CLI-Simple@2.0.6
+CLI::Simple::Migrate                   0  pkg:cpan/CLI-Simple@2.0.6
+CLI::Simple::Modulino                  0  pkg:cpan/CLI-Simple@2.0.6
+CLI::Simple::Scaffold                  0  pkg:cpan/CLI-Simple@2.0.6
+CLI::Simple::Shell                     0  pkg:cpan/CLI-Simple@2.0.6
+CLI::Simple::Utils                 v2.0.6  pkg:cpan/CLI-Simple@2.0.6
 CLI::Startup                        0.29  pkg:cpan/CLI-Startup@0.29
 CLI::Table::Key::Finder             0.31  pkg:cpan/CLI-Table-Key-Finder@0.31
 CLI::Table::Util                    0.06  pkg:cpan/CLI-Table-Util@0.06
@@ -224940,9 +224941,9 @@ Sys::ForkQueue                      0.14  pkg:cpan/Sys-ForkQueue@0.14
 Sys::FreezeThaw                     0.02  pkg:cpan/Sys-FreezeThaw@0.02
 Sys::GNU::ldconfig                  0.03  pkg:cpan/Sys-GNU-ldconfig@0.03
 Sys::Gamin                           0.1  pkg:cpan/Sys-Gamin@0.1
-Sys::GetRandom                      0.02  pkg:cpan/Sys-GetRandom@0.02
+Sys::GetRandom                      0.03  pkg:cpan/Sys-GetRandom@0.03
 Sys::GetRandom::FFI                v0.1.1  pkg:cpan/Sys-GetRandom-FFI@v0.1.1
-Sys::GetRandom::PP                  0.08  pkg:cpan/Sys-GetRandom-PP@0.08
+Sys::GetRandom::PP                  0.09  pkg:cpan/Sys-GetRandom-PP@0.09
 Sys::Group::GIDhelper              0.001000  pkg:cpan/Sys-Group-GIDhelper@0.1.0
 Sys::Headers                        0.01  pkg:cpan/Sys-Headers@0.01
 Sys::HostAddr                      0.993  pkg:cpan/Sys-HostAddr@0.993?ext=tgz
