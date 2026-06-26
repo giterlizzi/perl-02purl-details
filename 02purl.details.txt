@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 26 Jun 2026 07:43:28 GMT
+Last-Updated: Fri, 26 Jun 2026 10:45:07 GMT
 Line-Count: 265528
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -112785,17 +112785,17 @@ IO::Socket::Packet                  0.12  pkg:cpan/Socket-Packet@0.12
 IO::Socket::PortState               0.03  pkg:cpan/IO-Socket-PortState@0.03
 IO::Socket::PortState::cPanel       0.02  pkg:cpan/IO-Socket-PortState-cPanel@0.02
 IO::Socket::RedisPubSub             0.02  pkg:cpan/IO-Socket-RedisPubSub@0.02
-IO::Socket::SSL                    2.098  pkg:cpan/IO-Socket-SSL@2.098
-IO::Socket::SSL::Intercept         2.056  pkg:cpan/IO-Socket-SSL@2.098
-IO::Socket::SSL::OCSP_Cache        2.098  pkg:cpan/IO-Socket-SSL@2.098
-IO::Socket::SSL::OCSP_Resolver     2.098  pkg:cpan/IO-Socket-SSL@2.098
-IO::Socket::SSL::PublicSuffix      undef  pkg:cpan/IO-Socket-SSL@2.098
-IO::Socket::SSL::SSL_Context       2.098  pkg:cpan/IO-Socket-SSL@2.098
-IO::Socket::SSL::SSL_HANDLE        2.098  pkg:cpan/IO-Socket-SSL@2.098
+IO::Socket::SSL                    2.099  pkg:cpan/IO-Socket-SSL@2.099
+IO::Socket::SSL::Intercept         2.056  pkg:cpan/IO-Socket-SSL@2.099
+IO::Socket::SSL::OCSP_Cache        2.099  pkg:cpan/IO-Socket-SSL@2.099
+IO::Socket::SSL::OCSP_Resolver     2.099  pkg:cpan/IO-Socket-SSL@2.099
+IO::Socket::SSL::PublicSuffix      undef  pkg:cpan/IO-Socket-SSL@2.099
+IO::Socket::SSL::SSL_Context       2.099  pkg:cpan/IO-Socket-SSL@2.099
+IO::Socket::SSL::SSL_HANDLE        2.099  pkg:cpan/IO-Socket-SSL@2.099
 IO::Socket::SSL::SafeAccept          1.0  pkg:cpan/Net-Daemon-SSL@1.0
-IO::Socket::SSL::Session_Cache     2.098  pkg:cpan/IO-Socket-SSL@2.098
-IO::Socket::SSL::Trace             2.098  pkg:cpan/IO-Socket-SSL@2.098
-IO::Socket::SSL::Utils             2.015  pkg:cpan/IO-Socket-SSL@2.098
+IO::Socket::SSL::Session_Cache     2.099  pkg:cpan/IO-Socket-SSL@2.099
+IO::Socket::SSL::Trace             2.099  pkg:cpan/IO-Socket-SSL@2.099
+IO::Socket::SSL::Utils             2.015  pkg:cpan/IO-Socket-SSL@2.099
 IO::Socket::SecureSocks              0.2  pkg:cpan/IO-Socket-SecureSocks@0.2
 IO::Socket::Socks                   0.74  pkg:cpan/IO-Socket-Socks@0.74
 IO::Socket::Socks::Debug            0.74  pkg:cpan/IO-Socket-Socks@0.74
@@ -115462,14 +115462,14 @@ JSON::Hyper                        0.011  pkg:cpan/JSON-Hyper@0.011
 JSON::Hyper::Link                  0.011  pkg:cpan/JSON-Hyper@0.011
 JSON::Immutable::XS                0.001003  pkg:cpan/JSON-Immutable-XS@0.1.3
 JSON::JQ                            0.09  pkg:cpan/JSON-JQ@0.09
-JSON::JSONFold                     0.001007  pkg:cpan/JSON-JSONFold@0.1.7
-JSON::JSONFold::CLI                0.001007  pkg:cpan/JSON-JSONFold@0.1.7
-JSON::JSONFold::Config             0.001007  pkg:cpan/JSON-JSONFold@0.1.7
-JSON::JSONFold::Frame              0.001007  pkg:cpan/JSON-JSONFold@0.1.7
-JSON::JSONFold::Kind               0.001007  pkg:cpan/JSON-JSONFold@0.1.7
-JSON::JSONFold::Line               0.001007  pkg:cpan/JSON-JSONFold@0.1.7
-JSON::JSONFold::Stats              undef  pkg:cpan/JSON-JSONFold@0.1.7
-JSON::JSONFold::Writer             undef  pkg:cpan/JSON-JSONFold@0.1.7
+JSON::JSONFold                     0.002000  pkg:cpan/JSON-JSONFold@0.2.0
+JSON::JSONFold::CLI                0.002000  pkg:cpan/JSON-JSONFold@0.2.0
+JSON::JSONFold::Config             0.002000  pkg:cpan/JSON-JSONFold@0.2.0
+JSON::JSONFold::Frame              0.002000  pkg:cpan/JSON-JSONFold@0.2.0
+JSON::JSONFold::Kind               0.002000  pkg:cpan/JSON-JSONFold@0.2.0
+JSON::JSONFold::Line               0.002000  pkg:cpan/JSON-JSONFold@0.2.0
+JSON::JSONFold::Stats              undef  pkg:cpan/JSON-JSONFold@0.2.0
+JSON::JSONFold::Writer             undef  pkg:cpan/JSON-JSONFold@0.2.0
 JSON::JSend                         0.02  pkg:cpan/JSON-JSend@0.02
 JSON::JsonModel                    1.999003  pkg:cpan/JSON-JsonModel@1.999003
 JSON::Karabiner                    0.018  pkg:cpan/JSON-Karabiner@0.018
@@ -131305,15 +131305,15 @@ Map::Tube::Barcelona::Line::L6      0.80  pkg:cpan/Map-Tube-Barcelona@0.80
 Map::Tube::Barcelona::Line::L7      0.80  pkg:cpan/Map-Tube-Barcelona@0.80
 Map::Tube::Barcelona::Line::L8      0.80  pkg:cpan/Map-Tube-Barcelona@0.80
 Map::Tube::Barcelona::Line::L9      0.80  pkg:cpan/Map-Tube-Barcelona@0.80
-Map::Tube::Beijing                 v0.12.7  pkg:cpan/Map-Tube-Beijing@v0.12.7
+Map::Tube::Beijing                 v0.12.8  pkg:cpan/Map-Tube-Beijing@v0.12.8
 Map::Tube::Berlin                  2026.0615  pkg:cpan/Map-Tube-Berlin@2026.0615
 Map::Tube::Bielefeld               2020.0330  pkg:cpan/Map-Tube-Bielefeld@2020.0330
-Map::Tube::Brussels                v0.2.1  pkg:cpan/Map-Tube-Brussels@v0.2.1
+Map::Tube::Brussels                v0.2.2  pkg:cpan/Map-Tube-Brussels@v0.2.2
 Map::Tube::Bucharest                0.12  pkg:cpan/Map-Tube-Bucharest@0.12
 Map::Tube::Budapest                 0.07  pkg:cpan/Map-Tube-Budapest@0.07
 Map::Tube::CLI                     v0.850.0  pkg:cpan/Map-Tube-CLI@v0.850.0
 Map::Tube::CLI::Option             v0.850.0  pkg:cpan/Map-Tube-CLI@v0.850.0
-Map::Tube::Chicago                 v0.2.2  pkg:cpan/Map-Tube-Chicago@v0.2.2
+Map::Tube::Chicago                 v0.2.3  pkg:cpan/Map-Tube-Chicago@v0.2.3
 Map::Tube::Cookbook                v5.0.1  pkg:cpan/Map-Tube@v5.0.1
 Map::Tube::Copenhagen               0.04  pkg:cpan/Map-Tube-Copenhagen@0.04
 Map::Tube::Delhi                    0.99  pkg:cpan/Map-Tube-Delhi@0.99
@@ -131434,7 +131434,7 @@ Map::Tube::Plugin::FuzzyFind       v0.81.3  pkg:cpan/Map-Tube-Plugin-FuzzyFind@v
 Map::Tube::Plugin::Graph            0.49  pkg:cpan/Map-Tube-Plugin-Graph@0.49
 Map::Tube::Plugin::Graph::Utils     0.49  pkg:cpan/Map-Tube-Plugin-Graph@0.49
 Map::Tube::Prague                   0.16  pkg:cpan/Map-Tube-Prague@0.16
-Map::Tube::RheinRuhr               v0.2.4  pkg:cpan/Map-Tube-RheinRuhr@v0.2.4
+Map::Tube::RheinRuhr               v0.2.5  pkg:cpan/Map-Tube-RheinRuhr@v0.2.5
 Map::Tube::Rome                     1.03  pkg:cpan/Map-Tube-Rome@1.03
 Map::Tube::Rome::Line::MA           1.03  pkg:cpan/Map-Tube-Rome@1.03
 Map::Tube::Rome::Line::MB           1.03  pkg:cpan/Map-Tube-Rome@1.03
