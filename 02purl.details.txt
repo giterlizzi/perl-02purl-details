@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 25 Jun 2026 23:10:52 GMT
-Line-Count: 265521
+Last-Updated: Fri, 26 Jun 2026 02:43:13 GMT
+Line-Count: 265523
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -14682,31 +14682,33 @@ App::TermAttrUtils                 0.007  pkg:cpan/App-TermAttrUtils@0.007
 App::Termcast                       0.13  pkg:cpan/App-Termcast@0.13
 App::Test::DWG::LibreDWG::DwgRead   0.06  pkg:cpan/App-Test-DWG-LibreDWG-DwgRead@0.06
 App::Test::DWG::LibreDWG::JSON      0.05  pkg:cpan/App-Test-DWG-LibreDWG-JSON@0.05
-App::Test::Generator                0.39  pkg:cpan/App-Test-Generator@0.39
-App::Test::Generator::Analyzer::Complexity  0.39  pkg:cpan/App-Test-Generator@0.39
-App::Test::Generator::Analyzer::Return  0.39  pkg:cpan/App-Test-Generator@0.39
-App::Test::Generator::Analyzer::ReturnMeta  0.39  pkg:cpan/App-Test-Generator@0.39
-App::Test::Generator::Analyzer::SideEffect  0.39  pkg:cpan/App-Test-Generator@0.39
-App::Test::Generator::CoverageGuidedFuzzer  0.39  pkg:cpan/App-Test-Generator@0.39
-App::Test::Generator::Emitter::Perl  0.39  pkg:cpan/App-Test-Generator@0.39
-App::Test::Generator::LCSAJ         0.39  pkg:cpan/App-Test-Generator@0.39
-App::Test::Generator::LCSAJ::Coverage  0.39  pkg:cpan/App-Test-Generator@0.39
-App::Test::Generator::Model::Method  0.39  pkg:cpan/App-Test-Generator@0.39
-App::Test::Generator::Mutant        0.39  pkg:cpan/App-Test-Generator@0.39
-App::Test::Generator::Mutation::Base  0.39  pkg:cpan/App-Test-Generator@0.39
-App::Test::Generator::Mutation::BooleanNegation  0.39  pkg:cpan/App-Test-Generator@0.39
-App::Test::Generator::Mutation::ConditionalInversion  0.39  pkg:cpan/App-Test-Generator@0.39
-App::Test::Generator::Mutation::NumericBoundary  0.39  pkg:cpan/App-Test-Generator@0.39
-App::Test::Generator::Mutation::ReturnUndef  0.39  pkg:cpan/App-Test-Generator@0.39
-App::Test::Generator::Mutator       0.39  pkg:cpan/App-Test-Generator@0.39
-App::Test::Generator::Planner       0.39  pkg:cpan/App-Test-Generator@0.39
-App::Test::Generator::Planner::Fixture  0.39  pkg:cpan/App-Test-Generator@0.39
-App::Test::Generator::Planner::Grouping  0.39  pkg:cpan/App-Test-Generator@0.39
-App::Test::Generator::Planner::Isolation  0.39  pkg:cpan/App-Test-Generator@0.39
-App::Test::Generator::Planner::Mock  0.39  pkg:cpan/App-Test-Generator@0.39
-App::Test::Generator::SchemaExtractor  0.39  pkg:cpan/App-Test-Generator@0.39
-App::Test::Generator::Template      0.39  pkg:cpan/App-Test-Generator@0.39
-App::Test::Generator::TestStrategy  0.39  pkg:cpan/App-Test-Generator@0.39
+App::Test::Generator                0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::Analyzer::Complexity  0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::Analyzer::Return  0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::Analyzer::ReturnMeta  0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::Analyzer::SideEffect  0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::CoverageGuidedFuzzer  0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::Emitter::Perl  0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::Exporter::YAML  0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::LCSAJ         0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::LCSAJ::Coverage  0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::Model::Method  0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::Mutant        0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::Mutation::Base  0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::Mutation::BooleanNegation  0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::Mutation::ConditionalInversion  0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::Mutation::NumericBoundary  0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::Mutation::ReturnUndef  0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::Mutator       0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::Planner       0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::Planner::Fixture  0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::Planner::Grouping  0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::Planner::Isolation  0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::Planner::Mock  0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::Sample::Module  0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::SchemaExtractor  0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::Template      0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator::TestStrategy  0.40  pkg:cpan/App-Test-Generator@0.40
 App::Test::Tapat                    0.04  pkg:cpan/App-Test-Tapat@0.04
 App::TestOnTap                     1.001  pkg:cpan/App-TestOnTap@1.001
 App::TestOnTap::Args               1.001  pkg:cpan/App-TestOnTap@1.001
@@ -64342,7 +64344,7 @@ Devel::Agent::AwareRole            0.001  pkg:cpan/Devel-Agent@0.006
 Devel::Agent::EveryThing           undef  pkg:cpan/Devel-Agent@0.007
 Devel::Agent::Proxy                0.0002  pkg:cpan/Devel-Agent@0.006
 Devel::Agent::Util                 undef  pkg:cpan/Devel-Agent@0.007
-Devel::App::Test::Generator::LCSAJ::Runtime  0.39  pkg:cpan/App-Test-Generator@0.39
+Devel::App::Test::Generator::LCSAJ::Runtime  0.40  pkg:cpan/App-Test-Generator@0.40
 Devel::Arena                        0.23  pkg:cpan/Devel-Arena@0.23
 Devel::ArgNames                     0.03  pkg:cpan/Devel-ArgNames@0.03
 Devel::Assert                       1.06  pkg:cpan/Devel-Assert@1.06
@@ -131430,7 +131432,7 @@ Map::Tube::Plugin::FuzzyFind       v0.81.3  pkg:cpan/Map-Tube-Plugin-FuzzyFind@v
 Map::Tube::Plugin::Graph            0.49  pkg:cpan/Map-Tube-Plugin-Graph@0.49
 Map::Tube::Plugin::Graph::Utils     0.49  pkg:cpan/Map-Tube-Plugin-Graph@0.49
 Map::Tube::Prague                   0.16  pkg:cpan/Map-Tube-Prague@0.16
-Map::Tube::RheinRuhr               v0.2.3  pkg:cpan/Map-Tube-RheinRuhr@v0.2.3
+Map::Tube::RheinRuhr               v0.2.4  pkg:cpan/Map-Tube-RheinRuhr@v0.2.4
 Map::Tube::Rome                     1.03  pkg:cpan/Map-Tube-Rome@1.03
 Map::Tube::Rome::Line::MA           1.03  pkg:cpan/Map-Tube-Rome@1.03
 Map::Tube::Rome::Line::MB           1.03  pkg:cpan/Map-Tube-Rome@1.03
@@ -198141,12 +198143,12 @@ Playwright::WebSocket              1.551  pkg:cpan/Playwright@1.551
 Playwright::WebSocketFrame         1.551  pkg:cpan/Playwright@1.551
 Playwright::WebSocketRoute         1.551  pkg:cpan/Playwright@1.551
 Playwright::Worker                 1.551  pkg:cpan/Playwright@1.551
-Plerd                              1.902  pkg:cpan/Plerd@1.902
-Plerd::Init                        undef  pkg:cpan/Plerd@1.902
-Plerd::Post                        undef  pkg:cpan/Plerd@1.902
-Plerd::SmartyPants                 undef  pkg:cpan/Plerd@1.902
-Plerd::Tag                         undef  pkg:cpan/Plerd@1.902
-Plerd::Util                        undef  pkg:cpan/Plerd@1.902
+Plerd                              1.903  pkg:cpan/Plerd@1.903
+Plerd::Init                        undef  pkg:cpan/Plerd@1.903
+Plerd::Post                        undef  pkg:cpan/Plerd@1.903
+Plerd::SmartyPants                 undef  pkg:cpan/Plerd@1.903
+Plerd::Tag                         undef  pkg:cpan/Plerd@1.903
+Plerd::Util                        undef  pkg:cpan/Plerd@1.903
 Plerd::WebmentionQueue             undef  pkg:cpan/Plerd@1.820
 Plibwrap                            0.05  pkg:cpan/DBD-Plibdata@0.06
 Plibwrap::Row                       0.05  pkg:cpan/DBD-Plibdata@0.06
@@ -209473,27 +209475,27 @@ SPVM::Format                       undef  pkg:cpan/SPVM@0.990191
 SPVM::Getopt::Long                 0.004  pkg:cpan/SPVM-Getopt-Long@0.004
 SPVM::Getopt::Long::Spec           undef  pkg:cpan/SPVM-Getopt-Long@0.004
 SPVM::Global                       undef  pkg:cpan/SPVM@0.990191
-SPVM::Go                           0.029  pkg:cpan/SPVM-Go@0.029
-SPVM::Go::Channel                  undef  pkg:cpan/SPVM-Go@0.029
-SPVM::Go::Channel::Wait            undef  pkg:cpan/SPVM-Go@0.029
-SPVM::Go::Context                  undef  pkg:cpan/SPVM-Go@0.029
-SPVM::Go::Context::CanncelCallback undef  pkg:cpan/SPVM-Go@0.029
-SPVM::Go::Context::Derived         undef  pkg:cpan/SPVM-Go@0.029
-SPVM::Go::Context::Error::Canceled undef  pkg:cpan/SPVM-Go@0.029
-SPVM::Go::Context::Error::DeadlineExceeded undef  pkg:cpan/SPVM-Go@0.029
-SPVM::Go::Context::Value           undef  pkg:cpan/SPVM-Go@0.029
-SPVM::Go::Coroutine                undef  pkg:cpan/SPVM-Go@0.029
-SPVM::Go::Duration_1l              undef  pkg:cpan/SPVM-Go@0.029
-SPVM::Go::Error::IOTimeout         undef  pkg:cpan/SPVM-Go@0.029
-SPVM::Go::OS::Signal               undef  pkg:cpan/SPVM-Go@0.029
-SPVM::Go::Poll                     undef  pkg:cpan/SPVM-Go@0.029
-SPVM::Go::Schedule                 undef  pkg:cpan/SPVM-Go@0.029
-SPVM::Go::Schedule::Task           undef  pkg:cpan/SPVM-Go@0.029
-SPVM::Go::Select                   undef  pkg:cpan/SPVM-Go@0.029
-SPVM::Go::Select::Case             undef  pkg:cpan/SPVM-Go@0.029
-SPVM::Go::Select::Result           undef  pkg:cpan/SPVM-Go@0.029
-SPVM::Go::Sync::WaitGroup          undef  pkg:cpan/SPVM-Go@0.029
-SPVM::Go::Time                     undef  pkg:cpan/SPVM-Go@0.029
+SPVM::Go                           0.030  pkg:cpan/SPVM-Go@0.030
+SPVM::Go::Channel                  undef  pkg:cpan/SPVM-Go@0.030
+SPVM::Go::Channel::Wait            undef  pkg:cpan/SPVM-Go@0.030
+SPVM::Go::Context                  undef  pkg:cpan/SPVM-Go@0.030
+SPVM::Go::Context::CanncelCallback undef  pkg:cpan/SPVM-Go@0.030
+SPVM::Go::Context::Derived         undef  pkg:cpan/SPVM-Go@0.030
+SPVM::Go::Context::Error::Canceled undef  pkg:cpan/SPVM-Go@0.030
+SPVM::Go::Context::Error::DeadlineExceeded undef  pkg:cpan/SPVM-Go@0.030
+SPVM::Go::Context::Value           undef  pkg:cpan/SPVM-Go@0.030
+SPVM::Go::Coroutine                undef  pkg:cpan/SPVM-Go@0.030
+SPVM::Go::Duration_1l              undef  pkg:cpan/SPVM-Go@0.030
+SPVM::Go::Error::IOTimeout         undef  pkg:cpan/SPVM-Go@0.030
+SPVM::Go::OS::Signal               undef  pkg:cpan/SPVM-Go@0.030
+SPVM::Go::Poll                     undef  pkg:cpan/SPVM-Go@0.030
+SPVM::Go::Schedule                 undef  pkg:cpan/SPVM-Go@0.030
+SPVM::Go::Schedule::Task           undef  pkg:cpan/SPVM-Go@0.030
+SPVM::Go::Select                   undef  pkg:cpan/SPVM-Go@0.030
+SPVM::Go::Select::Case             undef  pkg:cpan/SPVM-Go@0.030
+SPVM::Go::Select::Result           undef  pkg:cpan/SPVM-Go@0.030
+SPVM::Go::Sync::WaitGroup          undef  pkg:cpan/SPVM-Go@0.030
+SPVM::Go::Time                     undef  pkg:cpan/SPVM-Go@0.030
 SPVM::HTTP::Tiny                   0.017  pkg:cpan/SPVM-HTTP-Tiny@0.017
 SPVM::HTTP::Tiny::Asset            undef  pkg:cpan/SPVM-HTTP-Tiny@0.012
 SPVM::HTTP::Tiny::Asset::File      undef  pkg:cpan/SPVM-HTTP-Tiny@0.012
@@ -209780,13 +209782,13 @@ SPVM::R::OP::String                undef  pkg:cpan/SPVM-R@0.108
 SPVM::R::OP::StringBuffer          undef  pkg:cpan/SPVM-R@0.108
 SPVM::R::OP::Time::Piece           undef  pkg:cpan/SPVM-R@0.108
 SPVM::R::Util                      undef  pkg:cpan/SPVM-R@0.108
-SPVM::Re                           undef  pkg:cpan/SPVM-Regex@0.260
-SPVM::Regex                        0.260  pkg:cpan/SPVM-Regex@0.260
-SPVM::Regex::Match                 undef  pkg:cpan/SPVM-Regex@0.260
+SPVM::Re                           undef  pkg:cpan/SPVM-Regex@0.261
+SPVM::Regex                        0.261  pkg:cpan/SPVM-Regex@0.261
+SPVM::Regex::Match                 undef  pkg:cpan/SPVM-Regex@0.261
 SPVM::Regex::Opcode                undef  pkg:cpan/SPVM-Regex@0.05
 SPVM::Regex::Pattern               undef  pkg:cpan/SPVM-Regex@0.08
-SPVM::Regex::ReplaceInfo           undef  pkg:cpan/SPVM-Regex@0.260
-SPVM::Regex::Replacer              undef  pkg:cpan/SPVM-Regex@0.260
+SPVM::Regex::ReplaceInfo           undef  pkg:cpan/SPVM-Regex@0.261
+SPVM::Regex::Replacer              undef  pkg:cpan/SPVM-Regex@0.261
 SPVM::Resource::Eigen              0.005  pkg:cpan/SPVM-Resource-Eigen@0.005
 SPVM::Resource::Libpng             0.014  pkg:cpan/SPVM-Resource-Libpng@0.014
 SPVM::Resource::RE2                0.047  pkg:cpan/SPVM-Resource-RE2@0.047
