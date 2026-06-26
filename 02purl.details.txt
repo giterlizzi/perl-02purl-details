@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 26 Jun 2026 02:43:13 GMT
-Line-Count: 265523
+Last-Updated: Fri, 26 Jun 2026 07:43:28 GMT
+Line-Count: 265528
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -10850,7 +10850,7 @@ App::JobLog::TimeGrammar           1.042  pkg:cpan/App-JobLog@1.042
 App::JobLog::Vacation              1.042  pkg:cpan/App-JobLog@1.042
 App::JobLog::Vacation::Period      1.042  pkg:cpan/App-JobLog@1.042
 App::JsonLogUtils                   0.03  pkg:cpan/App-JsonLogUtils@0.03
-App::KBLIUtils                     0.002  pkg:cpan/App-KBLIUtils@0.002
+App::KBLIUtils                     0.003  pkg:cpan/App-KBLIUtils@0.003
 App::KDEActivityUtils              0.004  pkg:cpan/App-KDEActivityUtils@0.004
 App::KGB                            1.62  pkg:cpan/App-KGB@1.62
 App::KGB::API                          4  pkg:cpan/App-KGB@1.62
@@ -33341,20 +33341,20 @@ CPAN::Meta::Validator              2.150013  pkg:cpan/CPAN-Meta@2.150013
 CPAN::Meta::X                      0.010  pkg:cpan/CPAN-Meta-X@0.010
 CPAN::Meta::X::Old                 0.010  pkg:cpan/CPAN-Meta-X@0.010
 CPAN::Meta::YAML                   0.020  pkg:cpan/CPAN-Meta-YAML@0.020
-CPAN::MetaCurator                   1.23  pkg:cpan/CPAN-MetaCurator@1.23?ext=tgz
-CPAN::MetaCurator::Config           1.23  pkg:cpan/CPAN-MetaCurator@1.23?ext=tgz
-CPAN::MetaCurator::Create           1.23  pkg:cpan/CPAN-MetaCurator@1.23?ext=tgz
-CPAN::MetaCurator::Database         1.23  pkg:cpan/CPAN-MetaCurator@1.23?ext=tgz
-CPAN::MetaCurator::Export           1.23  pkg:cpan/CPAN-MetaCurator@1.23?ext=tgz
-CPAN::MetaCurator::HTML             1.23  pkg:cpan/CPAN-MetaCurator@1.23?ext=tgz
-CPAN::MetaCurator::Import           1.23  pkg:cpan/CPAN-MetaCurator@1.23?ext=tgz
-CPAN::MetaCurator::Search           1.23  pkg:cpan/CPAN-MetaCurator@1.23?ext=tgz
-CPAN::MetaCurator::Validate         1.23  pkg:cpan/CPAN-MetaCurator@1.23?ext=tgz
-CPAN::MetaPackager                  1.03  pkg:cpan/CPAN-MetaPackager@1.03?ext=tgz
-CPAN::MetaPackager::Config          1.03  pkg:cpan/CPAN-MetaPackager@1.03?ext=tgz
-CPAN::MetaPackager::Create          1.03  pkg:cpan/CPAN-MetaPackager@1.03?ext=tgz
-CPAN::MetaPackager::Database        1.03  pkg:cpan/CPAN-MetaPackager@1.03?ext=tgz
-CPAN::MetaPackager::Import          1.03  pkg:cpan/CPAN-MetaPackager@1.03?ext=tgz
+CPAN::MetaCurator                   1.24  pkg:cpan/CPAN-MetaCurator@1.24?ext=tgz
+CPAN::MetaCurator::Config           1.24  pkg:cpan/CPAN-MetaCurator@1.24?ext=tgz
+CPAN::MetaCurator::Create           1.24  pkg:cpan/CPAN-MetaCurator@1.24?ext=tgz
+CPAN::MetaCurator::Database         1.24  pkg:cpan/CPAN-MetaCurator@1.24?ext=tgz
+CPAN::MetaCurator::Export           1.24  pkg:cpan/CPAN-MetaCurator@1.24?ext=tgz
+CPAN::MetaCurator::HTML             1.24  pkg:cpan/CPAN-MetaCurator@1.24?ext=tgz
+CPAN::MetaCurator::Import           1.24  pkg:cpan/CPAN-MetaCurator@1.24?ext=tgz
+CPAN::MetaCurator::Search           1.24  pkg:cpan/CPAN-MetaCurator@1.24?ext=tgz
+CPAN::MetaCurator::Validate         1.24  pkg:cpan/CPAN-MetaCurator@1.24?ext=tgz
+CPAN::MetaPackager                  1.04  pkg:cpan/CPAN-MetaPackager@1.04?ext=tgz
+CPAN::MetaPackager::Config          1.04  pkg:cpan/CPAN-MetaPackager@1.04?ext=tgz
+CPAN::MetaPackager::Create          1.04  pkg:cpan/CPAN-MetaPackager@1.04?ext=tgz
+CPAN::MetaPackager::Database        1.04  pkg:cpan/CPAN-MetaPackager@1.04?ext=tgz
+CPAN::MetaPackager::Import          1.04  pkg:cpan/CPAN-MetaPackager@1.04?ext=tgz
 CPAN::Metadata::RDF                 1.11  pkg:cpan/CPAN-Metadata-RDF@1.11
 CPAN::Metrics                       0.08  pkg:cpan/CPAN-Metrics@0.08
 CPAN::Mini                         1.111017  pkg:cpan/CPAN-Mini@1.111017
@@ -106573,6 +106573,8 @@ HTML::Chunks::Super                 1.01  pkg:cpan/HTML-Chunks@1.55.1
 HTML::ChunksLocal                   1.02  pkg:cpan/HTML-Chunks@1.54
 HTML::Clean                          1.4  pkg:cpan/HTML-Clean@1.4
 HTML::Clean::Human                  1.07  pkg:cpan/HTML-Clean-Human@1.07
+HTML::Composer                     undef  pkg:cpan/HTML-Composer@0.002
+HTML::Composer::Unsafe             undef  pkg:cpan/HTML-Composer@0.002
 HTML::Content::ContentExtractor     0.01  pkg:cpan/HTML-Content-Extractor@0.01
 HTML::Content::Extractor            0.17  pkg:cpan/HTML-Content-Extractor@0.17
 HTML::Content::HTMLTokenizer       undef  pkg:cpan/HTML-Content-Extractor@0.01
@@ -209279,14 +209281,14 @@ SPVM::Comparator::Float            undef  pkg:cpan/SPVM@0.990191
 SPVM::Comparator::Int              undef  pkg:cpan/SPVM@0.990191
 SPVM::Comparator::Long             undef  pkg:cpan/SPVM@0.990191
 SPVM::Comparator::String           undef  pkg:cpan/SPVM@0.990191
-SPVM::Compress::Raw::Zlib          0.008  pkg:cpan/SPVM-Compress-Raw-Zlib@0.008
-SPVM::Compress::Raw::Zlib::Base    undef  pkg:cpan/SPVM-Compress-Raw-Zlib@0.008
-SPVM::Compress::Raw::Zlib::Constant undef  pkg:cpan/SPVM-Compress-Raw-Zlib@0.008
-SPVM::Compress::Raw::Zlib::Deflate undef  pkg:cpan/SPVM-Compress-Raw-Zlib@0.008
-SPVM::Compress::Raw::Zlib::Inflate undef  pkg:cpan/SPVM-Compress-Raw-Zlib@0.008
-SPVM::Compress::Raw::Zlib::Z_stream undef  pkg:cpan/SPVM-Compress-Raw-Zlib@0.008
+SPVM::Compress::Raw::Zlib          0.009  pkg:cpan/SPVM-Compress-Raw-Zlib@0.009
+SPVM::Compress::Raw::Zlib::Base    undef  pkg:cpan/SPVM-Compress-Raw-Zlib@0.009
+SPVM::Compress::Raw::Zlib::Constant undef  pkg:cpan/SPVM-Compress-Raw-Zlib@0.009
+SPVM::Compress::Raw::Zlib::Deflate undef  pkg:cpan/SPVM-Compress-Raw-Zlib@0.009
+SPVM::Compress::Raw::Zlib::Inflate undef  pkg:cpan/SPVM-Compress-Raw-Zlib@0.009
+SPVM::Compress::Raw::Zlib::Z_stream undef  pkg:cpan/SPVM-Compress-Raw-Zlib@0.009
 SPVM::Countable                    undef  pkg:cpan/SPVM@0.990191
-SPVM::Cwd                          undef  pkg:cpan/SPVM-File-Spec@0.091
+SPVM::Cwd                          undef  pkg:cpan/SPVM-File-Spec@0.092
 SPVM::DBI                          0.008  pkg:cpan/SPVM-DBI@0.008
 SPVM::DBI::BindData::Blob          undef  pkg:cpan/SPVM-DBI@0.008
 SPVM::DBI::Constant                undef  pkg:cpan/SPVM-DBI@0.008
@@ -209458,10 +209460,10 @@ SPVM::File::Find::Handler          undef  pkg:cpan/SPVM-File-Find@0.025
 SPVM::File::Find::Info             undef  pkg:cpan/SPVM-File-Find@0.033
 SPVM::File::Glob                   0.024  pkg:cpan/SPVM-File-Glob@0.024
 SPVM::File::Path                   0.015  pkg:cpan/SPVM-File-Path@0.015
-SPVM::File::Spec                   0.091  pkg:cpan/SPVM-File-Spec@0.091
-SPVM::File::Spec::Instance         undef  pkg:cpan/SPVM-File-Spec@0.091
-SPVM::File::Spec::Instance::Unix   undef  pkg:cpan/SPVM-File-Spec@0.091
-SPVM::File::Spec::Instance::Win32  undef  pkg:cpan/SPVM-File-Spec@0.091
+SPVM::File::Spec                   0.092  pkg:cpan/SPVM-File-Spec@0.092
+SPVM::File::Spec::Instance         undef  pkg:cpan/SPVM-File-Spec@0.092
+SPVM::File::Spec::Instance::Unix   undef  pkg:cpan/SPVM-File-Spec@0.092
+SPVM::File::Spec::Instance::Win32  undef  pkg:cpan/SPVM-File-Spec@0.092
 SPVM::File::Spec::Interface        undef  pkg:cpan/SPVM-File-Spec@0.02
 SPVM::File::Spec::Unix             undef  pkg:cpan/SPVM-File-Spec@0.02
 SPVM::File::Spec::Win32            undef  pkg:cpan/SPVM-File-Spec@0.02
@@ -226064,7 +226066,9 @@ TableData::Business::ID::DGIP::Class::7 v20230207.0.0  pkg:cpan/TableDataBundle-
 TableData::Business::ID::DGIP::Class::8 v20230207.0.0  pkg:cpan/TableDataBundle-Business-ID-DGIP@20230207.0.0
 TableData::Business::ID::DGIP::Class::9 v20230207.0.0  pkg:cpan/TableDataBundle-Business-ID-DGIP@20230207.0.0
 TableData::Business::ID::KAN::Client::Lab::Testing 20230922.0  pkg:cpan/TableData-Business-ID-KAN-Client-Lab-Testing@20230922.0
-TableData::Business::ID::KBLI::2020::Code v20230214.0.0  pkg:cpan/TableDataBundle-Business-ID-KBLI@20230214.0.0
+TableData::Business::ID::KBLI::2020::Category v20260626.0.0  pkg:cpan/TableDataBundle-Business-ID-KBLI@20260626.0.0
+TableData::Business::ID::KBLI::2020::Code v20260626.0.0  pkg:cpan/TableDataBundle-Business-ID-KBLI@20260626.0.0
+TableData::Business::ID::KBLI::2025::Code v20260626.0.0  pkg:cpan/TableDataBundle-Business-ID-KBLI@20260626.0.0
 TableData::Calendar::Date::Holiday::ID 0.001  pkg:cpan/TableData-Calendar-Date-Holiday-ID@0.001
 TableData::DBI                     0.026  pkg:cpan/TableDataRole-Source-DBI@0.026
 TableData::Health::Nutrient        0.006  pkg:cpan/TableData-Health-Nutrient@0.006
@@ -226138,6 +226142,7 @@ TableData::WordList                0.001  pkg:cpan/TableData-WordList@0.001
 TableDataBundle::Business::ID::BBIA 20230220.0  pkg:cpan/TableDataBundle-Business-ID-BBIA@20230220.0
 TableDataBundle::Business::ID::BPOM v20230207.0.1  pkg:cpan/TableDataBundle-Business-ID-BPOM@20230207.0.1
 TableDataBundle::Business::ID::DGIP v20230207.0.0  pkg:cpan/TableDataBundle-Business-ID-DGIP@20230207.0.0
+TableDataBundle::Business::ID::KBLI v20260626.0.0  pkg:cpan/TableDataBundle-Business-ID-KBLI@20260626.0.0
 TableDataBundle::Lingua::Word::EN::Adjective 0.003  pkg:cpan/TableDataBundle-Lingua-Word-EN-Adjective@0.003
 TableDataBundle::Lingua::Word::EN::Adverb 0.003  pkg:cpan/TableDataBundle-Lingua-Word-EN-Adverb@0.003
 TableDataBundle::Lingua::Word::EN::ByClass::Adjective 0.004  pkg:cpan/TableDataBundle-Lingua-Word-EN-ByClass-Adjective@0.004
