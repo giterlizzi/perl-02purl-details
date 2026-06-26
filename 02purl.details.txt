@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 26 Jun 2026 21:13:56 GMT
-Line-Count: 265528
+Last-Updated: Fri, 26 Jun 2026 22:59:50 GMT
+Line-Count: 265531
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -223239,6 +223239,9 @@ Store::Digest::HTTP                 0.01  pkg:cpan/Store-Digest@0.06
 Store::Digest::Object               0.01  pkg:cpan/Store-Digest@0.06
 Store::Digest::Stats                0.01  pkg:cpan/Store-Digest@0.06
 Store::Digest::Types                0.01  pkg:cpan/Store-Digest@0.06
+Store::Indexed                       0.1  pkg:cpan/Store-Indexed@0.1
+Store::Indexed::PP                   0.1  pkg:cpan/Store-Indexed@0.1
+Store::Indexed::XS                   0.1  pkg:cpan/Store-Indexed@0.1
 Store::Opaque                       0.03  pkg:cpan/Store-Opaque@0.03
 StoredHash                         0.031  pkg:cpan/StoredHash@0.031
 StoredHash::ARS                     0.30  pkg:cpan/StoredHash@0.031
