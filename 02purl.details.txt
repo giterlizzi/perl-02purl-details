@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 26 Jun 2026 10:45:07 GMT
+Last-Updated: Fri, 26 Jun 2026 14:09:26 GMT
 Line-Count: 265528
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -83894,25 +83894,25 @@ GnuCash::Schema::Result::Version   undef  pkg:cpan/App-GnuCash-MembershipUtils@0
 GnuCash::Schema::ResultSet::Customer undef  pkg:cpan/App-GnuCash-MembershipUtils@0.01
 GnuCash::Schema::ResultSet::Invoice undef  pkg:cpan/App-GnuCash-MembershipUtils@0.01
 GnuPG                               0.19  pkg:cpan/GnuPG@0.19
-GnuPG::Fingerprint                 undef  pkg:cpan/GnuPG-Interface@1.06
-GnuPG::Handles                     undef  pkg:cpan/GnuPG-Interface@1.06
-GnuPG::HashInit                    undef  pkg:cpan/GnuPG-Interface@1.06
-GnuPG::Interface                    1.06  pkg:cpan/GnuPG-Interface@1.06
-GnuPG::Key                         undef  pkg:cpan/GnuPG-Interface@1.06
-GnuPG::Options                     undef  pkg:cpan/GnuPG-Interface@1.06
-GnuPG::PrimaryKey                  undef  pkg:cpan/GnuPG-Interface@1.06
-GnuPG::PublicKey                   undef  pkg:cpan/GnuPG-Interface@1.06
-GnuPG::Revoker                     undef  pkg:cpan/GnuPG-Interface@1.06
-GnuPG::SecretKey                   undef  pkg:cpan/GnuPG-Interface@1.06
-GnuPG::Signature                   undef  pkg:cpan/GnuPG-Interface@1.06
-GnuPG::SubKey                      undef  pkg:cpan/GnuPG-Interface@1.06
+GnuPG::Fingerprint                 undef  pkg:cpan/GnuPG-Interface@1.07
+GnuPG::Handles                     undef  pkg:cpan/GnuPG-Interface@1.07
+GnuPG::HashInit                    undef  pkg:cpan/GnuPG-Interface@1.07
+GnuPG::Interface                    1.07  pkg:cpan/GnuPG-Interface@1.07
+GnuPG::Key                         undef  pkg:cpan/GnuPG-Interface@1.07
+GnuPG::Options                     undef  pkg:cpan/GnuPG-Interface@1.07
+GnuPG::PrimaryKey                  undef  pkg:cpan/GnuPG-Interface@1.07
+GnuPG::PublicKey                   undef  pkg:cpan/GnuPG-Interface@1.07
+GnuPG::Revoker                     undef  pkg:cpan/GnuPG-Interface@1.07
+GnuPG::SecretKey                   undef  pkg:cpan/GnuPG-Interface@1.07
+GnuPG::Signature                   undef  pkg:cpan/GnuPG-Interface@1.07
+GnuPG::SubKey                      undef  pkg:cpan/GnuPG-Interface@1.07
 GnuPG::Tie                         undef  pkg:cpan/GnuPG@0.19
 GnuPG::Tie::ClearSign              undef  pkg:cpan/GnuPG@0.19
 GnuPG::Tie::Decrypt                undef  pkg:cpan/GnuPG@0.19
 GnuPG::Tie::Encrypt                undef  pkg:cpan/GnuPG@0.19
 GnuPG::Tie::Sign                   undef  pkg:cpan/GnuPG@0.19
-GnuPG::UserAttribute               undef  pkg:cpan/GnuPG-Interface@1.06
-GnuPG::UserId                      undef  pkg:cpan/GnuPG-Interface@1.06
+GnuPG::UserAttribute               undef  pkg:cpan/GnuPG-Interface@1.07
+GnuPG::UserId                      undef  pkg:cpan/GnuPG-Interface@1.07
 Gnuplot::Builder                    0.33  pkg:cpan/Gnuplot-Builder@0.33
 Gnuplot::Builder::Dataset          undef  pkg:cpan/Gnuplot-Builder@0.33
 Gnuplot::Builder::JoinDict         undef  pkg:cpan/Gnuplot-Builder@0.33
@@ -131362,16 +131362,16 @@ Map::Tube::Exception::MissingSupportedMap  3.24  pkg:cpan/Map-Tube-Exception@3.2
 Map::Tube::Exception::MissingSupportedObject  3.24  pkg:cpan/Map-Tube-Exception@3.25
 Map::Tube::Exception::RouteNotFound  3.24  pkg:cpan/Map-Tube-Exception@3.25
 Map::Tube::Frankfurt                0.04  pkg:cpan/Map-Tube-Frankfurt@0.04
-Map::Tube::Glasgow                 v0.72.3  pkg:cpan/Map-Tube-Glasgow@v0.72.3
+Map::Tube::Glasgow                 v0.72.4  pkg:cpan/Map-Tube-Glasgow@v0.72.4
 Map::Tube::Graph                    0.06  pkg:cpan/Map-Tube-Graph@0.06
 Map::Tube::GraphViz                 0.07  pkg:cpan/Map-Tube-GraphViz@0.07
 Map::Tube::GraphViz::Utils          0.07  pkg:cpan/Map-Tube-GraphViz@0.07
-Map::Tube::Hamburg                 v0.1.3  pkg:cpan/Map-Tube-Hamburg@v0.1.3
+Map::Tube::Hamburg                 v0.1.4  pkg:cpan/Map-Tube-Hamburg@v0.1.4
 Map::Tube::Hongkong                 0.03  pkg:cpan/Map-Tube-Hongkong@0.03
 Map::Tube::Kazan                    0.07  pkg:cpan/Map-Tube-Kazan@0.07
 Map::Tube::Kharkiv                  0.08  pkg:cpan/Map-Tube-Kharkiv@0.08
 Map::Tube::Kiev                     0.07  pkg:cpan/Map-Tube-Kiev@0.07
-Map::Tube::KoelnBonn               v0.92.5  pkg:cpan/Map-Tube-KoelnBonn@v0.92.5
+Map::Tube::KoelnBonn               v0.92.6  pkg:cpan/Map-Tube-KoelnBonn@v0.92.6
 Map::Tube::Kolkatta                 0.34  pkg:cpan/Map-Tube-Kolkatta@0.34
 Map::Tube::Kolkatta::Line::L1       0.34  pkg:cpan/Map-Tube-Kolkatta@0.34
 Map::Tube::Kolkatta::Line::L2       0.34  pkg:cpan/Map-Tube-Kolkatta@0.34
@@ -131398,7 +131398,7 @@ Map::Tube::London::Line::Overground v2.0.1  pkg:cpan/Map-Tube-London@v2.0.1
 Map::Tube::London::Line::Piccadilly v2.0.1  pkg:cpan/Map-Tube-London@v2.0.1
 Map::Tube::London::Line::Victoria  v2.0.1  pkg:cpan/Map-Tube-London@v2.0.1
 Map::Tube::London::Line::WaterlooCity v2.0.1  pkg:cpan/Map-Tube-London@v2.0.1
-Map::Tube::Lyon                    v0.62.4  pkg:cpan/Map-Tube-Lyon@v0.62.4
+Map::Tube::Lyon                    v0.62.5  pkg:cpan/Map-Tube-Lyon@v0.62.5
 Map::Tube::Madrid                   0.42  pkg:cpan/Map-Tube-Madrid@0.42
 Map::Tube::Madrid::Line::L1         0.42  pkg:cpan/Map-Tube-Madrid@0.42
 Map::Tube::Madrid::Line::L11        0.42  pkg:cpan/Map-Tube-Madrid@0.42
@@ -131410,7 +131410,7 @@ Map::Tube::Malaga                   0.18  pkg:cpan/Map-Tube-Malaga@0.18
 Map::Tube::Milan                   0.008  pkg:cpan/Map-Tube-Milan@0.008
 Map::Tube::Minsk                    0.08  pkg:cpan/Map-Tube-Minsk@0.08
 Map::Tube::Moscow                    0.1  pkg:cpan/Map-Tube-Moscow@0.10
-Map::Tube::Muenchen                v0.1.3  pkg:cpan/Map-Tube-Muenchen@v0.1.3
+Map::Tube::Muenchen                v0.1.4  pkg:cpan/Map-Tube-Muenchen@v0.1.4
 Map::Tube::NYC                      0.71  pkg:cpan/Map-Tube-NYC@0.71
 Map::Tube::NYC::Line::BMTCanarsie   0.71  pkg:cpan/Map-Tube-NYC@0.71
 Map::Tube::NYC::Line::BMTNassauStreet  0.71  pkg:cpan/Map-Tube-NYC@0.71
@@ -131420,13 +131420,13 @@ Map::Tube::NYC::Line::INDSixthAvenue  0.71  pkg:cpan/Map-Tube-NYC@0.71
 Map::Tube::NYC::Line::IRTFlushing   0.71  pkg:cpan/Map-Tube-NYC@0.71
 Map::Tube::NYC::Line::IRTLexingtonAvenue  0.71  pkg:cpan/Map-Tube-NYC@0.71
 Map::Tube::Nanjing                  0.05  pkg:cpan/Map-Tube-Nanjing@0.05
-Map::Tube::Napoli                  v0.1.1  pkg:cpan/Map-Tube-Napoli@v0.1.1
+Map::Tube::Napoli                  v0.1.2  pkg:cpan/Map-Tube-Napoli@v0.1.2
 Map::Tube::NizhnyNovgorod           0.04  pkg:cpan/Map-Tube-NizhnyNovgorod@0.04
 Map::Tube::Node                    v5.0.1  pkg:cpan/Map-Tube@v5.0.1
 Map::Tube::Novosibirsk              0.05  pkg:cpan/Map-Tube-Novosibirsk@0.05
 Map::Tube::Nuremberg                0.08  pkg:cpan/Map-Tube-Nuremberg@0.08
-Map::Tube::Oslo                    v0.1.3  pkg:cpan/Map-Tube-Oslo@v0.1.3
-Map::Tube::Paris                   v0.2.1  pkg:cpan/Map-Tube-Paris@v0.2.1
+Map::Tube::Oslo                    v0.1.4  pkg:cpan/Map-Tube-Oslo@v0.1.4
+Map::Tube::Paris                   v0.2.2  pkg:cpan/Map-Tube-Paris@v0.2.2
 Map::Tube::Pluggable               v5.0.1  pkg:cpan/Map-Tube@v5.0.1
 Map::Tube::Plugin::Formatter        0.17  pkg:cpan/Map-Tube-Plugin-Formatter@0.17
 Map::Tube::Plugin::Formatter::Utils  0.17  pkg:cpan/Map-Tube-Plugin-Formatter@0.17
@@ -131442,11 +131442,11 @@ Map::Tube::Rome::Line::MC           1.03  pkg:cpan/Map-Tube-Rome@1.03
 Map::Tube::Route                   v5.0.1  pkg:cpan/Map-Tube@v5.0.1
 Map::Tube::SaintPetersburg          0.08  pkg:cpan/Map-Tube-SaintPetersburg@0.08
 Map::Tube::Samara                   0.08  pkg:cpan/Map-Tube-Samara@0.08
-Map::Tube::SanFrancisco            v0.1.2  pkg:cpan/Map-Tube-SanFrancisco@v0.1.2
+Map::Tube::SanFrancisco            v0.1.3  pkg:cpan/Map-Tube-SanFrancisco@v0.1.3
 Map::Tube::Server                   0.06  pkg:cpan/Map-Tube-Server@0.06
 Map::Tube::Singapore                0.05  pkg:cpan/Map-Tube-Singapore@0.05
 Map::Tube::Sofia                     0.1  pkg:cpan/Map-Tube-Sofia@0.10
-Map::Tube::Stockholm               v0.1.3  pkg:cpan/Map-Tube-Stockholm@v0.1.3
+Map::Tube::Stockholm               v0.1.4  pkg:cpan/Map-Tube-Stockholm@v0.1.4
 Map::Tube::Stuttgart               v0.1.2  pkg:cpan/Map-Tube-Stuttgart@v0.1.2
 Map::Tube::Sydney                   1.01  pkg:cpan/Map-Tube-Sydney@1.0.1
 Map::Tube::Sydney::Line::L1         1.01  pkg:cpan/Map-Tube-Sydney@1.0.1
