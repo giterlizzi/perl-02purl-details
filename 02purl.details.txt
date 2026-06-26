@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 26 Jun 2026 17:41:34 GMT
+Last-Updated: Fri, 26 Jun 2026 19:38:51 GMT
 Line-Count: 265528
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -143461,7 +143461,7 @@ Music::Tension::Counterpoint        1.03  pkg:cpan/Music-Tension@1.03
 Music::Tension::PlompLevelt         1.03  pkg:cpan/Music-Tension@1.03
 Music::ToRoman                     0.2002  pkg:cpan/Music-ToRoman@0.2002
 Music::VoiceGen                     0.02  pkg:cpan/Music-VoiceGen@0.02
-Music::VoicePhrase                 0.0107  pkg:cpan/Music-VoicePhrase@0.0107
+Music::VoicePhrase                 0.0108  pkg:cpan/Music-VoicePhrase@0.0108
 Music::Voss                         0.16  pkg:cpan/Music-Voss@0.16
 MusicBase                          0.001  pkg:cpan/DBIx-Class-Migration@0.044
 MusicBase::Schema                      3  pkg:cpan/DBIx-Class-Migration@0.044
