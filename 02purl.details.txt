@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 26 Jun 2026 14:09:26 GMT
+Last-Updated: Fri, 26 Jun 2026 17:41:34 GMT
 Line-Count: 265528
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -12348,7 +12348,7 @@ App::PerlFuzzyTokenFinder           0.02  pkg:cpan/App-PerlFuzzyTokenFinder@0.02
 App::PerlFuzzyTokenFinder::CLI     undef  pkg:cpan/App-PerlFuzzyTokenFinder@0.02
 App::PerlFuzzyTokenFinder::MatchedPosition undef  pkg:cpan/App-PerlFuzzyTokenFinder@0.02
 App::PerlGlue                       0.04  pkg:cpan/App-PerlGlue@0.04
-App::PerlGzipScript                v0.0.2  pkg:cpan/App-PerlGzipScript@v0.0.2
+App::PerlGzipScript                v0.0.3  pkg:cpan/App-PerlGzipScript@v0.0.3
 App::PerlLocalEnv                  undef  pkg:cpan/perl-local-env@0.03
 App::PerlNitpick                    0.01  pkg:cpan/App-PerlNitpick@0.01
 App::PerlNitpick::Nitpicker        undef  pkg:cpan/App-PerlNitpick@v0.4.0
@@ -47906,7 +47906,7 @@ Config::Model::Iterator            2.163  pkg:cpan/Config-Model@2.163
 Config::Model::Itself              2.031  pkg:cpan/Config-Model-Itself@2.031
 Config::Model::Itself::BackendDetector 2.031  pkg:cpan/Config-Model-Itself@2.031
 Config::Model::Itself::TkEditUI    2.031  pkg:cpan/Config-Model-Itself@2.031
-Config::Model::LcdProc             2.055  pkg:cpan/Config-Model-LcdProc@2.055
+Config::Model::LcdProc             2.056  pkg:cpan/Config-Model-LcdProc@2.056
 Config::Model::ListId              2.163  pkg:cpan/Config-Model@2.163
 Config::Model::Lister              2.163  pkg:cpan/Config-Model@2.163
 Config::Model::Loader              2.163  pkg:cpan/Config-Model@2.163
@@ -131430,7 +131430,7 @@ Map::Tube::Paris                   v0.2.2  pkg:cpan/Map-Tube-Paris@v0.2.2
 Map::Tube::Pluggable               v5.0.1  pkg:cpan/Map-Tube@v5.0.1
 Map::Tube::Plugin::Formatter        0.17  pkg:cpan/Map-Tube-Plugin-Formatter@0.17
 Map::Tube::Plugin::Formatter::Utils  0.17  pkg:cpan/Map-Tube-Plugin-Formatter@0.17
-Map::Tube::Plugin::FuzzyFind       v0.81.3  pkg:cpan/Map-Tube-Plugin-FuzzyFind@v0.81.3
+Map::Tube::Plugin::FuzzyFind       v0.81.4  pkg:cpan/Map-Tube-Plugin-FuzzyFind@v0.81.4
 Map::Tube::Plugin::Graph            0.49  pkg:cpan/Map-Tube-Plugin-Graph@0.49
 Map::Tube::Plugin::Graph::Utils     0.49  pkg:cpan/Map-Tube-Plugin-Graph@0.49
 Map::Tube::Prague                   0.16  pkg:cpan/Map-Tube-Prague@0.16
@@ -131447,7 +131447,7 @@ Map::Tube::Server                   0.06  pkg:cpan/Map-Tube-Server@0.06
 Map::Tube::Singapore                0.05  pkg:cpan/Map-Tube-Singapore@0.05
 Map::Tube::Sofia                     0.1  pkg:cpan/Map-Tube-Sofia@0.10
 Map::Tube::Stockholm               v0.1.4  pkg:cpan/Map-Tube-Stockholm@v0.1.4
-Map::Tube::Stuttgart               v0.1.2  pkg:cpan/Map-Tube-Stuttgart@v0.1.2
+Map::Tube::Stuttgart               v0.1.3  pkg:cpan/Map-Tube-Stuttgart@v0.1.3
 Map::Tube::Sydney                   1.01  pkg:cpan/Map-Tube-Sydney@1.0.1
 Map::Tube::Sydney::Line::L1         1.01  pkg:cpan/Map-Tube-Sydney@1.0.1
 Map::Tube::Sydney::Line::L2         1.01  pkg:cpan/Map-Tube-Sydney@1.0.1
@@ -131471,7 +131471,7 @@ Map::Tube::Text::Table::Utils       0.05  pkg:cpan/Map-Tube-Text-Table@0.05
 Map::Tube::Tokyo                    0.63  pkg:cpan/Map-Tube-Tokyo@0.63
 Map::Tube::Tokyo::Line::Asakusa     0.63  pkg:cpan/Map-Tube-Tokyo@0.63
 Map::Tube::Tokyo::Line::Chiyoda     0.63  pkg:cpan/Map-Tube-Tokyo@0.63
-Map::Tube::Toulouse                v0.1.2  pkg:cpan/Map-Tube-Toulouse@v0.1.2
+Map::Tube::Toulouse                v0.1.3  pkg:cpan/Map-Tube-Toulouse@v0.1.3
 Map::Tube::Types                   v5.0.1  pkg:cpan/Map-Tube@v5.0.1
 Map::Tube::Utils                   v5.0.1  pkg:cpan/Map-Tube@v5.0.1
 Map::Tube::Utils::Graph             0.16  pkg:cpan/Map-Tube-Plugin-Graph@0.16
