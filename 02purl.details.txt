@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 27 Jun 2026 02:35:07 GMT
+Last-Updated: Sat, 27 Jun 2026 06:47:54 GMT
 Line-Count: 265538
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -21513,10 +21513,10 @@ BACnet::ServiceRequestSequences::SubscribeCOV undef  pkg:cpan/BACnet@0.08
 BACnet::ServiceRequestSequences::Utils undef  pkg:cpan/BACnet@0.08
 BACnet::Socket                     undef  pkg:cpan/BACnet@0.08
 BACnet::Subscription               undef  pkg:cpan/BACnet@0.08
-BATsh                               0.05  pkg:cpan/BATsh@0.05
-BATsh::CMD                          0.05  pkg:cpan/BATsh@0.05
-BATsh::Env                          0.05  pkg:cpan/BATsh@0.05
-BATsh::SH                           0.05  pkg:cpan/BATsh@0.05
+BATsh                               0.06  pkg:cpan/BATsh@0.06
+BATsh::CMD                          0.06  pkg:cpan/BATsh@0.06
+BATsh::Env                          0.06  pkg:cpan/BATsh@0.06
+BATsh::SH                           0.06  pkg:cpan/BATsh@0.06
 BBBB                               undef  pkg:cpan/Data-Table-Text@20210818
 BBCode::Body                        0.34  pkg:cpan/BBCode-Parser@0.34
 BBCode::Parser                      0.34  pkg:cpan/BBCode-Parser@0.34
@@ -202237,7 +202237,7 @@ RAS::AS5200                         1.04  pkg:cpan/RAS-AS5200@1.04
 RAS::HiPerARC                       1.03  pkg:cpan/RAS-HiPerARC@1.03
 RAS::PortMaster                     1.16  pkg:cpan/RAS-PortMaster@1.16
 RBAC::Tiny                         0.003  pkg:cpan/RBAC-Tiny@0.003
-RBGen                                0.1  pkg:cpan/Tree-RB-XS@0.20
+RBGen                                0.1  pkg:cpan/Tree-RB-XS@0.21
 RCGI                                1.20  pkg:cpan/RCGI@1.20
 RCGI::Config                       undef  pkg:cpan/RCGI@1.20
 RCU                                0.021  pkg:cpan/RCU@0.021
@@ -236069,7 +236069,7 @@ Tree::PseudoIncLib                  0.05  pkg:cpan/Tree-PseudoIncLib@0.05
 Tree::R                            0.072  pkg:cpan/Tree-R@0.072
 Tree::RB                           0.500006  pkg:cpan/Tree-RB@0.500006
 Tree::RB::Node                     0.500006  pkg:cpan/Tree-RB@0.500006
-Tree::RB::XS                        0.20  pkg:cpan/Tree-RB-XS@0.20
+Tree::RB::XS                        0.21  pkg:cpan/Tree-RB-XS@0.21
 Tree::Range                         0.22  pkg:cpan/Tree-Range@0.22
 Tree::Range::RB                     0.22  pkg:cpan/Tree-Range@0.22
 Tree::Range::RB::Conflict           0.22  pkg:cpan/Tree-Range@0.22
