@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 27 Jun 2026 17:01:55 GMT
+Last-Updated: Sat, 27 Jun 2026 19:09:18 GMT
 Line-Count: 265539
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -70213,7 +70213,7 @@ Email::Abstract::MailInternet      3.010  pkg:cpan/Email-Abstract@3.010
 Email::Abstract::MailMessage       3.010  pkg:cpan/Email-Abstract@3.010
 Email::Abstract::Plugin            3.010  pkg:cpan/Email-Abstract@3.010
 Email::Abstract::QpsmtpdTransaction  0.02  pkg:cpan/Email-Abstract-QpsmtpdTransaction@0.02
-Email::Abuse::Investigator          0.11  pkg:cpan/Email-Abuse-Investigator@0.11
+Email::Abuse::Investigator          0.12  pkg:cpan/Email-Abuse-Investigator@0.12
 Email::Address                     1.913  pkg:cpan/Email-Address@1.913
 Email::Address::Classify            0.02  pkg:cpan/Email-Address-Classify@0.02
 Email::Address::JP::Mobile          0.08  pkg:cpan/Email-Address-JP-Mobile@0.08
@@ -128571,7 +128571,7 @@ MIDI::Track                         0.84  pkg:cpan/MIDI-Perl@0.84
 MIDI::Trans                         0.15  pkg:cpan/MIDI-Trans@0.15?ext=zip
 MIDI::Tweaks                        1.01  pkg:cpan/MIDI-Tweaks@1.01
 MIDI::Tweaks::Opus                  1.01  pkg:cpan/MIDI-Tweaks@1.01
-MIDI::Util                         0.1305  pkg:cpan/MIDI-Util@0.1305
+MIDI::Util                         0.1307  pkg:cpan/MIDI-Util@0.1307
 MIDI::XML                           0.03  pkg:cpan/MIDI-XML@0.03
 MIDI::XML::Absolute                 0.03  pkg:cpan/MIDI-XML@0.03
 MIDI::XML::ActiveSensing            0.03  pkg:cpan/MIDI-XML@0.03
