@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 27 Jun 2026 20:53:37 GMT
+Last-Updated: Sat, 27 Jun 2026 22:57:11 GMT
 Line-Count: 265539
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -109532,7 +109532,7 @@ HTTP::Server::Singlethreaded        0.12  pkg:cpan/HTTP-Server-Singlethreaded@0.
 HTTP::Server::VirtualHost           0.11  pkg:cpan/HTTP-Server-Multiplex@0.11
 HTTP::Server::VirtualHost::LocalHost  0.11  pkg:cpan/HTTP-Server-Multiplex@0.11
 HTTP::ServerEvent                   0.02  pkg:cpan/HTTP-ServerEvent@0.02
-HTTP::Session                       0.53  pkg:cpan/http-session@0.53
+HTTP::Session                       0.54  pkg:cpan/http-session@0.54
 HTTP::Session2                      1.12  pkg:cpan/HTTP-Session2@1.12
 HTTP::Session2::Base               undef  pkg:cpan/HTTP-Session2@1.12
 HTTP::Session2::ClientStore        undef  pkg:cpan/HTTP-Session2@1.11
@@ -109540,25 +109540,25 @@ HTTP::Session2::ClientStore2       undef  pkg:cpan/HTTP-Session2@1.12
 HTTP::Session2::Expired            undef  pkg:cpan/HTTP-Session2@1.12
 HTTP::Session2::Random             undef  pkg:cpan/HTTP-Session2@1.12
 HTTP::Session2::ServerStore         1.12  pkg:cpan/HTTP-Session2@1.12
-HTTP::Session::Expired             undef  pkg:cpan/http-session@0.53
-HTTP::Session::Finalized           undef  pkg:cpan/http-session@0.53
-HTTP::Session::ID::MD5             undef  pkg:cpan/http-session@0.53
-HTTP::Session::ID::SHA1            undef  pkg:cpan/http-session@0.53
-HTTP::Session::ID::Urandom         undef  pkg:cpan/http-session@0.53
-HTTP::Session::State::Base         undef  pkg:cpan/http-session@0.53
-HTTP::Session::State::Cookie       undef  pkg:cpan/http-session@0.53
-HTTP::Session::State::Mixin::ResponseFilter undef  pkg:cpan/http-session@0.53
-HTTP::Session::State::Null         undef  pkg:cpan/http-session@0.53
-HTTP::Session::State::Test         undef  pkg:cpan/http-session@0.53
-HTTP::Session::State::URI          undef  pkg:cpan/http-session@0.53
-HTTP::Session::Store::CHI          undef  pkg:cpan/http-session@0.53
+HTTP::Session::Expired             undef  pkg:cpan/http-session@0.54
+HTTP::Session::Finalized           undef  pkg:cpan/http-session@0.54
+HTTP::Session::ID::MD5             undef  pkg:cpan/http-session@0.54
+HTTP::Session::ID::SHA1            undef  pkg:cpan/http-session@0.54
+HTTP::Session::ID::Urandom         undef  pkg:cpan/http-session@0.54
+HTTP::Session::State::Base         undef  pkg:cpan/http-session@0.54
+HTTP::Session::State::Cookie       undef  pkg:cpan/http-session@0.54
+HTTP::Session::State::Mixin::ResponseFilter undef  pkg:cpan/http-session@0.54
+HTTP::Session::State::Null         undef  pkg:cpan/http-session@0.54
+HTTP::Session::State::Test         undef  pkg:cpan/http-session@0.54
+HTTP::Session::State::URI          undef  pkg:cpan/http-session@0.54
+HTTP::Session::Store::CHI          undef  pkg:cpan/http-session@0.54
 HTTP::Session::Store::DBI           0.02  pkg:cpan/HTTP-Session-Store-DBI@0.02
-HTTP::Session::Store::DBM          undef  pkg:cpan/http-session@0.53
-HTTP::Session::Store::File         undef  pkg:cpan/http-session@0.53
-HTTP::Session::Store::Memcached    undef  pkg:cpan/http-session@0.53
-HTTP::Session::Store::Null         undef  pkg:cpan/http-session@0.53
-HTTP::Session::Store::OnMemory     undef  pkg:cpan/http-session@0.53
-HTTP::Session::Store::Test         undef  pkg:cpan/http-session@0.53
+HTTP::Session::Store::DBM          undef  pkg:cpan/http-session@0.54
+HTTP::Session::Store::File         undef  pkg:cpan/http-session@0.54
+HTTP::Session::Store::Memcached    undef  pkg:cpan/http-session@0.54
+HTTP::Session::Store::Null         undef  pkg:cpan/http-session@0.54
+HTTP::Session::Store::OnMemory     undef  pkg:cpan/http-session@0.54
+HTTP::Session::Store::Test         undef  pkg:cpan/http-session@0.54
 HTTP::Sessioniser                   0.05  pkg:cpan/HTTP-Sessioniser@0.05
 HTTP::Simple                       0.004  pkg:cpan/HTTP-Simple@0.004
 HTTP::Soup                          0.01  pkg:cpan/HTTP-Soup@0.01
