@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 27 Jun 2026 15:10:28 GMT
+Last-Updated: Sat, 27 Jun 2026 17:01:55 GMT
 Line-Count: 265539
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -9413,23 +9413,23 @@ App::Cmdline::Options::Basic       0.001002  pkg:cpan/App-Cmdline@0.1.2
 App::Cmdline::Options::DB          0.001002  pkg:cpan/App-Cmdline@0.1.2
 App::Cmdline::Options::ExtBasic    0.001002  pkg:cpan/App-Cmdline@0.1.2
 App::Cmdline::Options::ExtDB       0.001002  pkg:cpan/App-Cmdline@0.1.2
-App::Cme                           1.048  pkg:cpan/App-Cme@1.048
-App::Cme::Command::check           1.048  pkg:cpan/App-Cme@1.048
-App::Cme::Command::dump            1.048  pkg:cpan/App-Cme@1.048
-App::Cme::Command::edit            1.048  pkg:cpan/App-Cme@1.048
-App::Cme::Command::fix             1.048  pkg:cpan/App-Cme@1.048
-App::Cme::Command::fusefs          1.048  pkg:cpan/App-Cme@1.048
-App::Cme::Command::gen_class_pod   1.048  pkg:cpan/App-Cme@1.048
-App::Cme::Command::list            1.048  pkg:cpan/App-Cme@1.048
+App::Cme                           1.049  pkg:cpan/App-Cme@1.049
+App::Cme::Command::check           1.049  pkg:cpan/App-Cme@1.049
+App::Cme::Command::dump            1.049  pkg:cpan/App-Cme@1.049
+App::Cme::Command::edit            1.049  pkg:cpan/App-Cme@1.049
+App::Cme::Command::fix             1.049  pkg:cpan/App-Cme@1.049
+App::Cme::Command::fusefs          1.049  pkg:cpan/App-Cme@1.049
+App::Cme::Command::gen_class_pod   1.049  pkg:cpan/App-Cme@1.049
+App::Cme::Command::list            1.049  pkg:cpan/App-Cme@1.049
 App::Cme::Command::meta            2.031  pkg:cpan/Config-Model-Itself@2.031
-App::Cme::Command::migrate         1.048  pkg:cpan/App-Cme@1.048
-App::Cme::Command::modify          1.048  pkg:cpan/App-Cme@1.048
-App::Cme::Command::run             1.048  pkg:cpan/App-Cme@1.048
-App::Cme::Command::search          1.048  pkg:cpan/App-Cme@1.048
-App::Cme::Command::shell           1.048  pkg:cpan/App-Cme@1.048
-App::Cme::Command::update          1.048  pkg:cpan/App-Cme@1.048
-App::Cme::Common                   1.048  pkg:cpan/App-Cme@1.048
-App::Cme::Run::Var                 1.048  pkg:cpan/App-Cme@1.048
+App::Cme::Command::migrate         1.049  pkg:cpan/App-Cme@1.049
+App::Cme::Command::modify          1.049  pkg:cpan/App-Cme@1.049
+App::Cme::Command::run             1.049  pkg:cpan/App-Cme@1.049
+App::Cme::Command::search          1.049  pkg:cpan/App-Cme@1.049
+App::Cme::Command::shell           1.049  pkg:cpan/App-Cme@1.049
+App::Cme::Command::update          1.049  pkg:cpan/App-Cme@1.049
+App::Cme::Common                   1.049  pkg:cpan/App-Cme@1.049
+App::Cme::Run::Var                 1.049  pkg:cpan/App-Cme@1.049
 App::Codeowners                     0.51  pkg:cpan/App-Codeowners@0.51
 App::Codeowners::Formatter          0.51  pkg:cpan/App-Codeowners@0.51
 App::Codeowners::Formatter::CSV     0.51  pkg:cpan/App-Codeowners@0.51
@@ -10252,10 +10252,10 @@ App::GHPT::Wrapper::OurMooseX::Role::Parameterized 2.000001  pkg:cpan/App-GHPT@2
 App::GHPT::Wrapper::OurMooseX::Role::Parameterized::Meta::Trait::Parameterizable::Strict 2.000001  pkg:cpan/App-GHPT@2.000001
 App::GHPT::Wrapper::Ourperl        2.000001  pkg:cpan/App-GHPT@2.000001
 App::GSD                           undef  pkg:cpan/App-GSD@0.4
-App::GUI::Cellgraph                 0.82  pkg:cpan/App-GUI-Cellgraph@0.82
+App::GUI::Cellgraph                 0.83  pkg:cpan/App-GUI-Cellgraph@0.83
 App::GUI::GoLP                       1.2  pkg:cpan/App-GUI-GoLP@1.2
-App::GUI::Harmonograph               1.1  pkg:cpan/App-GUI-Harmonograph@1.1
-App::GUI::Juliagraph                0.72  pkg:cpan/App-GUI-Juliagraph@0.72
+App::GUI::Harmonograph               1.2  pkg:cpan/App-GUI-Harmonograph@1.2
+App::GUI::Juliagraph                0.73  pkg:cpan/App-GUI-Juliagraph@0.73
 App::GUI::Notepad                   0.03  pkg:cpan/App-GUI-Notepad@0.03
 App::GUI::Notepad::Frame            0.01  pkg:cpan/App-GUI-Notepad@0.03
 App::GUI::Notepad::MenuBar          0.01  pkg:cpan/App-GUI-Notepad@0.03
@@ -33466,8 +33466,8 @@ CPAN::Perl::Releases               5.20260623  pkg:cpan/CPAN-Perl-Releases@5.202
 CPAN::Perl::Releases::MetaCPAN     v1.0.1  pkg:cpan/CPAN-Perl-Releases-MetaCPAN@v1.0.1
 CPAN::Plugin                        0.97  pkg:cpan/CPAN@2.38
 CPAN::Plugin::Specfile              0.02  pkg:cpan/CPAN@2.38
-CPAN::Plugin::Sysdeps               0.83  pkg:cpan/CPAN-Plugin-Sysdeps@0.83
-CPAN::Plugin::Sysdeps::Mapping      0.83  pkg:cpan/CPAN-Plugin-Sysdeps@0.83
+CPAN::Plugin::Sysdeps               0.84  pkg:cpan/CPAN-Plugin-Sysdeps@0.84
+CPAN::Plugin::Sysdeps::Mapping      0.84  pkg:cpan/CPAN-Plugin-Sysdeps@0.84
 CPAN::Porters                       0.04  pkg:cpan/CPAN-Porters@0.04
 CPAN::Prompt                         5.5  pkg:cpan/CPAN@2.38
 CPAN::Queue                        5.5003  pkg:cpan/CPAN@2.38
@@ -158233,16 +158233,16 @@ PAGI::Response                     0.002000  pkg:cpan/PAGI-Tools@0.002000
 PAGI::Response::Writer             0.002000  pkg:cpan/PAGI-Tools@0.002000
 PAGI::Runner                       undef  pkg:cpan/PAGI@0.001023
 PAGI::SSE                          0.002000  pkg:cpan/PAGI-Tools@0.002000
-PAGI::Server                       0.002001  pkg:cpan/PAGI-Server@0.002001
-PAGI::Server::AsyncFile            0.002001  pkg:cpan/PAGI-Server@0.002001
-PAGI::Server::Connection           0.002001  pkg:cpan/PAGI-Server@0.002001
-PAGI::Server::ConnectionState      0.002001  pkg:cpan/PAGI-Server@0.002001
-PAGI::Server::EventValidator       0.002001  pkg:cpan/PAGI-Server@0.002001
-PAGI::Server::Protocol::HTTP1      0.002001  pkg:cpan/PAGI-Server@0.002001
-PAGI::Server::Protocol::HTTP2      0.002001  pkg:cpan/PAGI-Server@0.002001
-PAGI::Server::Protocol::HTTP2::Session 0.002001  pkg:cpan/PAGI-Server@0.002001
-PAGI::Server::Runner               0.002001  pkg:cpan/PAGI-Server@0.002001
-PAGI::Server::TransportState       0.002001  pkg:cpan/PAGI-Server@0.002001
+PAGI::Server                       0.002002  pkg:cpan/PAGI-Server@0.002002
+PAGI::Server::AsyncFile            0.002002  pkg:cpan/PAGI-Server@0.002002
+PAGI::Server::Connection           0.002002  pkg:cpan/PAGI-Server@0.002002
+PAGI::Server::ConnectionState      0.002002  pkg:cpan/PAGI-Server@0.002002
+PAGI::Server::EventValidator       0.002002  pkg:cpan/PAGI-Server@0.002002
+PAGI::Server::Protocol::HTTP1      0.002002  pkg:cpan/PAGI-Server@0.002002
+PAGI::Server::Protocol::HTTP2      0.002002  pkg:cpan/PAGI-Server@0.002002
+PAGI::Server::Protocol::HTTP2::Session 0.002002  pkg:cpan/PAGI-Server@0.002002
+PAGI::Server::Runner               0.002002  pkg:cpan/PAGI-Server@0.002002
+PAGI::Server::TransportState       0.002002  pkg:cpan/PAGI-Server@0.002002
 PAGI::Session                      0.002000  pkg:cpan/PAGI-Tools@0.002000
 PAGI::Stash                        0.002000  pkg:cpan/PAGI-Tools@0.002000
 PAGI::Test::Client                 0.002000  pkg:cpan/PAGI-Tools@0.002000
