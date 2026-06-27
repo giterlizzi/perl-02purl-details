@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 27 Jun 2026 13:18:25 GMT
+Last-Updated: Sat, 27 Jun 2026 15:10:28 GMT
 Line-Count: 265539
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -11276,10 +11276,10 @@ App::MatrixTool::Command::server_key  0.08  pkg:cpan/App-MatrixTool@0.08
 App::MatrixTool::HTTPClient         0.08  pkg:cpan/App-MatrixTool@0.08
 App::MatrixTool::ServerIdStore      0.08  pkg:cpan/App-MatrixTool@0.08
 App::MatrixTool::SubCommands       undef  pkg:cpan/App-MatrixTool@0.08
-App::MechaCPAN                      0.30  pkg:cpan/App-MechaCPAN@0.30
-App::MechaCPAN::Deploy             undef  pkg:cpan/App-MechaCPAN@0.30
-App::MechaCPAN::Install            undef  pkg:cpan/App-MechaCPAN@0.30
-App::MechaCPAN::Perl               undef  pkg:cpan/App-MechaCPAN@0.30
+App::MechaCPAN                      0.31  pkg:cpan/App-MechaCPAN@0.31
+App::MechaCPAN::Deploy             undef  pkg:cpan/App-MechaCPAN@0.31
+App::MechaCPAN::Install            undef  pkg:cpan/App-MechaCPAN@0.31
+App::MechaCPAN::Perl               undef  pkg:cpan/App-MechaCPAN@0.31
 App::MediaInfo                     0.126  pkg:cpan/App-MediaInfo@0.126
 App::MediaInfoUtils                0.129  pkg:cpan/App-MediaInfoUtils@0.129
 App::MediaPi                        0.01  pkg:cpan/App-MediaPi@0.01
@@ -134004,7 +134004,7 @@ Measure::Everything::Adapter::InfluxDB::TCP 1.004  pkg:cpan/Measure-Everything-A
 Measure::Everything::Adapter::InfluxDB::UDP  0.01  pkg:cpan/Measure-Everything-Adapter-InfluxDB-UDP@0.01
 Measure::Everything::Adapter::Null 1.003  pkg:cpan/Measure-Everything@1.003
 Measure::Everything::Adapter::Test 1.003  pkg:cpan/Measure-Everything@1.003
-MechaCPAN::DestGuard                0.30  pkg:cpan/App-MechaCPAN@0.30
+MechaCPAN::DestGuard                0.31  pkg:cpan/App-MechaCPAN@0.31
 Mecom                               1.15  pkg:cpan/Mecom@1.15
 Mecom::Align::Subset               undef  pkg:cpan/Mecom@1.15
 Mecom::Config                      undef  pkg:cpan/Mecom@1.15
