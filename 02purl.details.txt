@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 27 Jun 2026 22:57:11 GMT
-Line-Count: 265539
+Last-Updated: Sun, 28 Jun 2026 02:48:40 GMT
+Line-Count: 265540
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -64317,6 +64317,7 @@ DesignPattern::Factory::Creator     0.01  pkg:cpan/DesignPattern-Factory@0.01
 DesignPattern::Factory::Product     0.01  pkg:cpan/DesignPattern-Factory@0.01
 DesignerMimeSourceFactory_richedit undef  pkg:cpan/PerlQt@3.008
 Desktop::Detect                     0.06  pkg:cpan/Desktop-Detect@0.06
+Desktop::KDEActivity::Util         0.002  pkg:cpan/Desktop-KDEActivity-Util@0.002
 Desktop::Notify                     0.05  pkg:cpan/Desktop-Notify@0.05
 Desktop::Notify::Notification       0.03  pkg:cpan/Desktop-Notify@0.05
 Desktop::Open                      0.004  pkg:cpan/Desktop-Open@0.004
@@ -115655,7 +115656,7 @@ JSON::Schema::Helper               0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Modern               0.641  pkg:cpan/JSON-Schema-Modern@0.641
 JSON::Schema::Modern::Annotation   0.641  pkg:cpan/JSON-Schema-Modern@0.641
 JSON::Schema::Modern::Document     0.641  pkg:cpan/JSON-Schema-Modern@0.641
-JSON::Schema::Modern::Document::OpenAPI 0.138  pkg:cpan/OpenAPI-Modern@0.138
+JSON::Schema::Modern::Document::OpenAPI 0.139  pkg:cpan/OpenAPI-Modern@0.139
 JSON::Schema::Modern::Error        0.641  pkg:cpan/JSON-Schema-Modern@0.641
 JSON::Schema::Modern::Result       0.641  pkg:cpan/JSON-Schema-Modern@0.641
 JSON::Schema::Modern::ResultNode   0.641  pkg:cpan/JSON-Schema-Modern@0.641
@@ -115667,8 +115668,8 @@ JSON::Schema::Modern::Vocabulary::Core 0.641  pkg:cpan/JSON-Schema-Modern@0.641
 JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.641  pkg:cpan/JSON-Schema-Modern@0.641
 JSON::Schema::Modern::Vocabulary::FormatAssertion 0.641  pkg:cpan/JSON-Schema-Modern@0.641
 JSON::Schema::Modern::Vocabulary::MetaData 0.641  pkg:cpan/JSON-Schema-Modern@0.641
-JSON::Schema::Modern::Vocabulary::OpenAPI 0.138  pkg:cpan/OpenAPI-Modern@0.138
-JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.138  pkg:cpan/OpenAPI-Modern@0.138
+JSON::Schema::Modern::Vocabulary::OpenAPI 0.139  pkg:cpan/OpenAPI-Modern@0.139
+JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.139  pkg:cpan/OpenAPI-Modern@0.139
 JSON::Schema::Modern::Vocabulary::Unevaluated 0.641  pkg:cpan/JSON-Schema-Modern@0.641
 JSON::Schema::Modern::Vocabulary::Validation 0.641  pkg:cpan/JSON-Schema-Modern@0.641
 JSON::Schema::Null                 0.016  pkg:cpan/JSON-Schema@0.016
@@ -156711,8 +156712,8 @@ OpenAPI::Generator::From::Pod      undef  pkg:cpan/OpenAPI-Generator@0.06
 OpenAPI::Generator::Util           undef  pkg:cpan/OpenAPI-Generator@0.06
 OpenAPI::Linter                     0.19  pkg:cpan/OpenAPI-Linter@0.19
 OpenAPI::Linter::Location           0.19  pkg:cpan/OpenAPI-Linter@0.19
-OpenAPI::Modern                    0.138  pkg:cpan/OpenAPI-Modern@0.138
-OpenAPI::Modern::Utilities         0.138  pkg:cpan/OpenAPI-Modern@0.138
+OpenAPI::Modern                    0.139  pkg:cpan/OpenAPI-Modern@0.139
+OpenAPI::Modern::Utilities         0.139  pkg:cpan/OpenAPI-Modern@0.139
 OpenAPI::PerlGenerator              0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
 OpenAPI::PerlGenerator::Template    0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
 OpenAPI::PerlGenerator::Template::Mojo  0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
@@ -163031,7 +163032,7 @@ Params::Validate::Dependencies::all_or_none_of  1.02  pkg:cpan/Params-Validate-D
 Params::Validate::Dummy             0.03  pkg:cpan/Module-Optional@0.03
 Params::Validate::Micro            0.032  pkg:cpan/Params-Validate-Micro@0.032
 Params::Validate::PP                1.31  pkg:cpan/Params-Validate@1.31
-Params::Validate::Strict            0.34  pkg:cpan/Params-Validate-Strict@0.34
+Params::Validate::Strict            0.35  pkg:cpan/Params-Validate-Strict@0.35
 Params::Validate::XS                1.31  pkg:cpan/Params-Validate@1.31
 Params::ValidationCompiler          0.31  pkg:cpan/Params-ValidationCompiler@0.31
 Params::ValidationCompiler::Compiler  0.31  pkg:cpan/Params-ValidationCompiler@0.31
@@ -228379,7 +228380,7 @@ Term::ANSIColor::Simple             0.10  pkg:cpan/Term-ANSIColor-Simple@0.10
 Term::ANSIColor::WithWin32         0.002  pkg:cpan/Term-ANSIColor-WithWin32@0.002
 Term::ANSIColorx::AutoFilterFH     2.7193  pkg:cpan/Term-ANSIColorx-ColorNicknames@2.7193
 Term::ANSIColorx::ColorNicknames   2.7193  pkg:cpan/Term-ANSIColorx-ColorNicknames@2.7193
-Term::ANSIEncode                    2.04  pkg:cpan/Term-ANSIEncode@2.04
+Term::ANSIEncode                    2.05  pkg:cpan/Term-ANSIEncode@2.05
 Term::ANSIMenu                      0.02  pkg:cpan/Term-ANSIMenu@0.02
 Term::ANSIScreen                    1.50  pkg:cpan/Term-ANSIScreen@1.50
 Term::ANSITable                    0.010100  pkg:cpan/Term-ANSITable@0.010100
@@ -235983,7 +235984,7 @@ Tree::Create::Callback              0.03  pkg:cpan/Tree-Create-Callback@0.03
 Tree::Create::Callback::ChildrenPerLevel  0.03  pkg:cpan/Tree-Create-Callback@0.03
 Tree::Create::DepthFirst            0.02  pkg:cpan/Tree-Create-DepthFirst@0.02
 Tree::Create::Size                  0.02  pkg:cpan/Tree-Create-Size@0.02
-Tree::DAG_Node                      1.35  pkg:cpan/Tree-DAG_Node@1.35?ext=tgz
+Tree::DAG_Node                      1.36  pkg:cpan/Tree-DAG_Node@1.36?ext=tgz
 Tree::DAG_Node::Persist             1.13  pkg:cpan/Tree-DAG_Node-Persist@1.13?ext=tgz
 Tree::DAG_Node::Persist::Create     1.13  pkg:cpan/Tree-DAG_Node-Persist@1.13?ext=tgz
 Tree::DAG_Node::XPath               0.11  pkg:cpan/Tree-DAG_Node-XPath@0.11
