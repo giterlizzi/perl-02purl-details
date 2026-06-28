@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 28 Jun 2026 07:44:50 GMT
-Line-Count: 265540
+Last-Updated: Sun, 28 Jun 2026 10:22:15 GMT
+Line-Count: 265617
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -159066,6 +159066,83 @@ PDF::Labels::Layout                undef  pkg:cpan/PDF-Labels@0.01
 PDF::Labels::Layout::Simple        undef  pkg:cpan/PDF-Labels@0.01
 PDF::Labels::Producer              undef  pkg:cpan/PDF-Labels@0.01
 PDF::Labels::base                  undef  pkg:cpan/PDF-Labels@0.01
+PDF::Make                           0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Action                   0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Arena                    0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Attachment               0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder                  0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Font           undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Form::Field    undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Form::Field::Button undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Form::Field::Checkbox undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Form::Field::Combo undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Form::Field::Listbox undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Form::Field::Radio undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Form::Field::Text undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Image          undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Layout         undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Layout::Cell   undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Layout::Row    undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Page           undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Page::Footer   undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Page::Header   undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Page::HeaderFooterContext undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Shape::Box     undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Shape::Circle  undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Shape::Ellipse undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Shape::Line    undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Shape::Pie     undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::SignatureAppearance undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::TOC            undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::TOC::Outline   undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Text           undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Text::H1       undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Text::H2       undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Text::H3       undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Text::H4       undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Text::H5       undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Builder::Text::H6       undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Canvas                   0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Certificate              0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Color                    0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Crypt                   undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Document                 0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Extract                  0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Extract::Block          undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Extract::Line           undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Extract::Result         undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Extract::Word           undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Field                   undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::FieldPtr                 0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Filter                   0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Font                     0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Font::Std14              0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Form                    undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::FormPtr                  0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Image                    0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Import                   0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Install::Files          undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Layer                    0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Linearization            0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Obj                      0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Page                     0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Parser                   0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Reader                   0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Redaction                0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Render                   0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::RenderPage               0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Signature                0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::SignatureResult          0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::SigningIdentity          0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::StreamReader             0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Structure                0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Text                     0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Text::Block             undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Text::Line              undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Text::Result            undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Text::Word              undef  pkg:cpan/PDF-Make@0.02
+PDF::Make::Watermark                0.02  pkg:cpan/PDF-Make@0.02
+PDF::Make::Writer                   0.02  pkg:cpan/PDF-Make@0.02
 PDF::OCR                            1.11  pkg:cpan/PDF-OCR@1.11
 PDF::OCR2                           1.21  pkg:cpan/PDF-OCR2@1.21
 PDF::OCR2::Base                     1.02  pkg:cpan/PDF-OCR2@1.21
