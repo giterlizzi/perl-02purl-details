@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 28 Jun 2026 10:22:15 GMT
+Last-Updated: Sun, 28 Jun 2026 13:22:39 GMT
 Line-Count: 265617
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -14682,33 +14682,33 @@ App::TermAttrUtils                 0.007  pkg:cpan/App-TermAttrUtils@0.007
 App::Termcast                       0.13  pkg:cpan/App-Termcast@0.13
 App::Test::DWG::LibreDWG::DwgRead   0.06  pkg:cpan/App-Test-DWG-LibreDWG-DwgRead@0.06
 App::Test::DWG::LibreDWG::JSON      0.05  pkg:cpan/App-Test-DWG-LibreDWG-JSON@0.05
-App::Test::Generator                0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::Analyzer::Complexity  0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::Analyzer::Return  0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::Analyzer::ReturnMeta  0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::Analyzer::SideEffect  0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::CoverageGuidedFuzzer  0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::Emitter::Perl  0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::Exporter::YAML  0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::LCSAJ         0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::LCSAJ::Coverage  0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::Model::Method  0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::Mutant        0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::Mutation::Base  0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::Mutation::BooleanNegation  0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::Mutation::ConditionalInversion  0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::Mutation::NumericBoundary  0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::Mutation::ReturnUndef  0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::Mutator       0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::Planner       0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::Planner::Fixture  0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::Planner::Grouping  0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::Planner::Isolation  0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::Planner::Mock  0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::Sample::Module  0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::SchemaExtractor  0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::Template      0.40  pkg:cpan/App-Test-Generator@0.40
-App::Test::Generator::TestStrategy  0.40  pkg:cpan/App-Test-Generator@0.40
+App::Test::Generator                0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::Analyzer::Complexity  0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::Analyzer::Return  0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::Analyzer::ReturnMeta  0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::Analyzer::SideEffect  0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::CoverageGuidedFuzzer  0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::Emitter::Perl  0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::Exporter::YAML  0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::LCSAJ         0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::LCSAJ::Coverage  0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::Model::Method  0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::Mutant        0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::Mutation::Base  0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::Mutation::BooleanNegation  0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::Mutation::ConditionalInversion  0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::Mutation::NumericBoundary  0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::Mutation::ReturnUndef  0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::Mutator       0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::Planner       0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::Planner::Fixture  0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::Planner::Grouping  0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::Planner::Isolation  0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::Planner::Mock  0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::Sample::Module  0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::SchemaExtractor  0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::Template      0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator::TestStrategy  0.41  pkg:cpan/App-Test-Generator@0.41
 App::Test::Tapat                    0.04  pkg:cpan/App-Test-Tapat@0.04
 App::TestOnTap                     1.001  pkg:cpan/App-TestOnTap@1.001
 App::TestOnTap::Args               1.001  pkg:cpan/App-TestOnTap@1.001
@@ -64345,7 +64345,7 @@ Devel::Agent::AwareRole            0.001  pkg:cpan/Devel-Agent@0.006
 Devel::Agent::EveryThing           undef  pkg:cpan/Devel-Agent@0.007
 Devel::Agent::Proxy                0.0002  pkg:cpan/Devel-Agent@0.006
 Devel::Agent::Util                 undef  pkg:cpan/Devel-Agent@0.007
-Devel::App::Test::Generator::LCSAJ::Runtime  0.40  pkg:cpan/App-Test-Generator@0.40
+Devel::App::Test::Generator::LCSAJ::Runtime  0.41  pkg:cpan/App-Test-Generator@0.41
 Devel::Arena                        0.23  pkg:cpan/Devel-Arena@0.23
 Devel::ArgNames                     0.03  pkg:cpan/Devel-ArgNames@0.03
 Devel::Assert                       1.06  pkg:cpan/Devel-Assert@1.06
