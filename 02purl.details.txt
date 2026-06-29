@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 29 Jun 2026 13:59:13 GMT
-Line-Count: 265627
+Last-Updated: Mon, 29 Jun 2026 16:54:12 GMT
+Line-Count: 265632
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -76356,12 +76356,12 @@ Font::BDF::Reader                   0.01  pkg:cpan/Font-BDF-Reader@0.01
 Font::FNT                           0.02  pkg:cpan/Font-FNT@0.02
 Font::Fontconfig                    0.01  pkg:cpan/Font-Fontconfig@0.01
 Font::Fontconfig::Pattern          undef  pkg:cpan/Font-Fontconfig@0.01
-Font::FreeType                      0.16  pkg:cpan/Font-FreeType@0.16
-Font::FreeType::BoundingBox        undef  pkg:cpan/Font-FreeType@0.16
-Font::FreeType::CharMap            undef  pkg:cpan/Font-FreeType@0.16
-Font::FreeType::Face               undef  pkg:cpan/Font-FreeType@0.16
-Font::FreeType::Glyph              undef  pkg:cpan/Font-FreeType@0.16
-Font::FreeType::NamedInfo          undef  pkg:cpan/Font-FreeType@0.16
+Font::FreeType                      0.17  pkg:cpan/Font-FreeType@0.17
+Font::FreeType::BoundingBox        undef  pkg:cpan/Font-FreeType@0.17
+Font::FreeType::CharMap            undef  pkg:cpan/Font-FreeType@0.17
+Font::FreeType::Face               undef  pkg:cpan/Font-FreeType@0.17
+Font::FreeType::Glyph              undef  pkg:cpan/Font-FreeType@0.17
+Font::FreeType::NamedInfo          undef  pkg:cpan/Font-FreeType@0.17
 Font::Fret                         1.202  pkg:cpan/Font-TTF-Scripts@1.06
 Font::Fret::Default                1.202  pkg:cpan/Font-TTF-Scripts@1.06
 Font::GlyphNames                   1.00000  pkg:cpan/Font-GlyphNames@1.00000
@@ -244634,6 +244634,11 @@ Vote::Template::Plugin::Mail       undef  pkg:cpan/Vote@1.00
 Vote::View::TT                     undef  pkg:cpan/Vote@1.00
 Voting::Condorcet::RankedPairs      1.01  pkg:cpan/Voting-Condorcet-RankedPairs@1.01
 Voting::VoteFairRanking             5.01  pkg:cpan/Voting-VoteFairRanking@5.01
+Voxgig::Struct                     0.001000  pkg:cpan/Voxgig-Struct@0.1.0
+Voxgig::Struct::Bool               0.001000  pkg:cpan/Voxgig-Struct@0.1.0
+Voxgig::Struct::JsonParser         0.001000  pkg:cpan/Voxgig-Struct@0.1.0
+Voxgig::Struct::Null               0.001000  pkg:cpan/Voxgig-Struct@0.1.0
+Voxgig::Struct::OrderedHash        0.001000  pkg:cpan/Voxgig-Struct@0.1.0
 Vroom                               0.42  pkg:cpan/Vroom@0.42
 Vroom::Mo                          undef  pkg:cpan/Vroom@0.42
 Vroom::Vroom::Link                  0.06  pkg:cpan/Vroom-Vroom-Link@0.06
