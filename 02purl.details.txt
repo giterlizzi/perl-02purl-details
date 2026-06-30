@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 30 Jun 2026 02:43:07 GMT
-Line-Count: 265633
+Last-Updated: Tue, 30 Jun 2026 07:44:21 GMT
+Line-Count: 265628
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -15429,7 +15429,6 @@ App::cpm::DistNotation             undef  pkg:cpan/App-cpm@v1.1.4
 App::cpm::Distribution             undef  pkg:cpan/App-cpm@v1.1.4
 App::cpm::HTTP                     undef  pkg:cpan/App-cpm@v1.1.4
 App::cpm::Installer::Unpacker      undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Job                      undef  pkg:cpan/App-cpm@0.997003
 App::cpm::Logger                   undef  pkg:cpan/App-cpm@v1.1.4
 App::cpm::Logger::File             undef  pkg:cpan/App-cpm@v1.1.4
 App::cpm::Logger::Terminal         undef  pkg:cpan/App-cpm@v1.1.4
@@ -15437,7 +15436,6 @@ App::cpm::Master                   undef  pkg:cpan/App-cpm@v1.1.4
 App::cpm::Requirement              undef  pkg:cpan/App-cpm@v1.1.4
 App::cpm::Resolver                 undef  pkg:cpan/App-cpm@v1.1.4
 App::cpm::Resolver::02Packages     undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Resolver::CPANfile       undef  pkg:cpan/App-cpm@0.997005
 App::cpm::Resolver::Cascade        undef  pkg:cpan/App-cpm@v1.1.4
 App::cpm::Resolver::Custom         undef  pkg:cpan/App-cpm@v1.1.4
 App::cpm::Resolver::Fixed          undef  pkg:cpan/App-cpm@v1.1.4
@@ -15450,10 +15448,8 @@ App::cpm::Util                     undef  pkg:cpan/App-cpm@v1.1.4
 App::cpm::Worker                   undef  pkg:cpan/App-cpm@v1.1.4
 App::cpm::Worker::Installer        undef  pkg:cpan/App-cpm@v1.1.4
 App::cpm::Worker::Installer::Custom undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Worker::Installer::Menlo undef  pkg:cpan/App-cpm@0.997024
 App::cpm::Worker::Installer::Prebuilt undef  pkg:cpan/App-cpm@v1.1.3
 App::cpm::Worker::Resolver         undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::file                     undef  pkg:cpan/App-cpm@0.997004
 App::cpm::version                  undef  pkg:cpan/App-cpm@v1.1.4
 App::cpx                            0.04  pkg:cpan/App-cpx@0.04
 App::crosstable                    0.110  pkg:cpan/App-crosstable@0.110
@@ -33408,7 +33404,6 @@ CPAN::Mirror::Tiny::Archive        undef  pkg:cpan/CPAN-Mirror-Tiny@v1.0.0
 CPAN::Mirror::Tiny::CLI            undef  pkg:cpan/CPAN-Mirror-Tiny@v1.0.0
 CPAN::Mirror::Tiny::Server         undef  pkg:cpan/CPAN-Mirror-Tiny@v1.0.0
 CPAN::Mirror::Tiny::Tempdir        undef  pkg:cpan/CPAN-Mirror-Tiny@v1.0.0
-CPAN::Mirror::Tiny::Util           undef  pkg:cpan/CPAN-Mirror-Tiny@0.20
 CPAN::Mirrored::By                  2.27  pkg:cpan/CPAN@2.38
 CPAN::Mirrors                       2.27  pkg:cpan/CPAN@2.38
 CPAN::Module                       5.5003  pkg:cpan/CPAN@2.38
@@ -47298,7 +47293,6 @@ Command::Interactive::Interaction   1.21  pkg:cpan/Command-Interactive@1.21
 Command::Run                        1.01  pkg:cpan/Command-Run@1.01
 Command::Run::Tmpfile              undef  pkg:cpan/Command-Run@1.01
 Command::Runner                    v1.0.0  pkg:cpan/Command-Runner@v1.0.0
-Command::Runner::Format            undef  pkg:cpan/Command-Runner@0.200
 Command::Runner::LineBuffer        undef  pkg:cpan/Command-Runner@v1.0.0
 Command::Runner::Quote             undef  pkg:cpan/Command-Runner@v1.0.0
 Command::Runner::Timeout           undef  pkg:cpan/Command-Runner@v1.0.0
@@ -209570,27 +209564,28 @@ SPVM::Format                       undef  pkg:cpan/SPVM@0.990191
 SPVM::Getopt::Long                 0.004  pkg:cpan/SPVM-Getopt-Long@0.004
 SPVM::Getopt::Long::Spec           undef  pkg:cpan/SPVM-Getopt-Long@0.004
 SPVM::Global                       undef  pkg:cpan/SPVM@0.990191
-SPVM::Go                           0.030  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Channel                  undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Channel::Wait            undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Context                  undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Context::CanncelCallback undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Context::Derived         undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Context::Error::Canceled undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Context::Error::DeadlineExceeded undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Context::Value           undef  pkg:cpan/SPVM-Go@0.030
+SPVM::Go                           0.031  pkg:cpan/SPVM-Go@0.031
+SPVM::Go::Channel                  undef  pkg:cpan/SPVM-Go@0.031
+SPVM::Go::Channel::Wait            undef  pkg:cpan/SPVM-Go@0.031
+SPVM::Go::Context                  undef  pkg:cpan/SPVM-Go@0.031
+SPVM::Go::Context::CanncelCallback undef  pkg:cpan/SPVM-Go@0.031
+SPVM::Go::Context::Derived         undef  pkg:cpan/SPVM-Go@0.031
+SPVM::Go::Context::Error::Canceled undef  pkg:cpan/SPVM-Go@0.031
+SPVM::Go::Context::Error::DeadlineExceeded undef  pkg:cpan/SPVM-Go@0.031
+SPVM::Go::Context::Value           undef  pkg:cpan/SPVM-Go@0.031
 SPVM::Go::Coroutine                undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Duration_1l              undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Error::IOTimeout         undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::OS::Signal               undef  pkg:cpan/SPVM-Go@0.030
+SPVM::Go::Duration_1l              undef  pkg:cpan/SPVM-Go@0.031
+SPVM::Go::Error::IOTimeout         undef  pkg:cpan/SPVM-Go@0.031
+SPVM::Go::Goroutine                undef  pkg:cpan/SPVM-Go@0.031
+SPVM::Go::OS::Signal               undef  pkg:cpan/SPVM-Go@0.031
 SPVM::Go::Poll                     undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Schedule                 undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Schedule::Task           undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Select                   undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Select::Case             undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Select::Result           undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Sync::WaitGroup          undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Time                     undef  pkg:cpan/SPVM-Go@0.030
+SPVM::Go::Schedule                 undef  pkg:cpan/SPVM-Go@0.031
+SPVM::Go::Schedule::Task           undef  pkg:cpan/SPVM-Go@0.031
+SPVM::Go::Select                   undef  pkg:cpan/SPVM-Go@0.031
+SPVM::Go::Select::Case             undef  pkg:cpan/SPVM-Go@0.031
+SPVM::Go::Select::Result           undef  pkg:cpan/SPVM-Go@0.031
+SPVM::Go::Sync::WaitGroup          undef  pkg:cpan/SPVM-Go@0.031
+SPVM::Go::Time                     undef  pkg:cpan/SPVM-Go@0.031
 SPVM::HTTP::Tiny                   0.017  pkg:cpan/SPVM-HTTP-Tiny@0.017
 SPVM::HTTP::Tiny::Asset            undef  pkg:cpan/SPVM-HTTP-Tiny@0.012
 SPVM::HTTP::Tiny::Asset::File      undef  pkg:cpan/SPVM-HTTP-Tiny@0.012
