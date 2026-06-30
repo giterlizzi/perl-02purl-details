@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 30 Jun 2026 14:04:14 GMT
-Line-Count: 265628
+Last-Updated: Tue, 30 Jun 2026 21:23:02 GMT
+Line-Count: 265636
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -2474,11 +2474,11 @@ Acme::CramCode                      0.01  pkg:cpan/Acme-CramCode@0.01
 Acme::Crap                         0.001003  pkg:cpan/Acme-Crap@0.001003
 Acme::Crap::Negated                0.001003  pkg:cpan/Acme-Crap@0.001003
 Acme::CreatingCPANModules           0.01  pkg:cpan/Acme-CreatingCPANModules@0.01
-Acme::Crux                          0.04  pkg:cpan/Acrux@0.07
-Acme::Crux::Plugin                  0.01  pkg:cpan/Acrux@0.07
-Acme::Crux::Plugin::Config          0.02  pkg:cpan/Acrux@0.07
-Acme::Crux::Plugin::Log             0.01  pkg:cpan/Acrux@0.07
-Acme::Crux::Sandbox                 0.04  pkg:cpan/Acrux@0.07
+Acme::Crux                         undef  pkg:cpan/Acrux@0.10
+Acme::Crux::Plugin                 undef  pkg:cpan/Acrux@0.10
+Acme::Crux::Plugin::Config         undef  pkg:cpan/Acrux@0.10
+Acme::Crux::Plugin::Log            undef  pkg:cpan/Acrux@0.10
+Acme::Crux::Sandbox                undef  pkg:cpan/Acrux@0.10
 Acme::Currency                      3.01  pkg:cpan/Acme-Currency@3.01
 Acme::Current::Forever              1.00  pkg:cpan/Acme-Current-Forever@1.00
 Acme::Curse                        undef  pkg:cpan/Acme-Curse@0.0.1
@@ -3706,23 +3706,23 @@ Acpi::Class::Devices               0.003  pkg:cpan/Acpi-Class@0.003
 Acpi::Fan                            0.1  pkg:cpan/Acpi@0.1
 Acpi::Field                          0.1  pkg:cpan/Acpi@0.1
 Acpi::Temperature                    0.1  pkg:cpan/Acpi@0.1
-Acrux                               0.08  pkg:cpan/Acrux@0.08
-Acrux::Config                       0.02  pkg:cpan/Acrux@0.07
-Acrux::Const                        0.01  pkg:cpan/Acrux@0.07
+Acrux                               0.10  pkg:cpan/Acrux@0.10
+Acrux::Config                      undef  pkg:cpan/Acrux@0.10
+Acrux::Const                       undef  pkg:cpan/Acrux@0.10
 Acrux::DBI                          0.04  pkg:cpan/Acrux-DBI@0.04
 Acrux::DBI::Dump                    0.01  pkg:cpan/Acrux-DBI@0.03
 Acrux::DBI::Res                     0.02  pkg:cpan/Acrux-DBI@0.03
 Acrux::DBI::Tx                      0.01  pkg:cpan/Acrux-DBI@0.03
-Acrux::Digest                       0.01  pkg:cpan/Acrux@0.07
-Acrux::Digest::Damm                undef  pkg:cpan/Acrux@0.08
-Acrux::Digest::FNV32a               0.01  pkg:cpan/Acrux@0.07
-Acrux::Digest::M11R                 0.01  pkg:cpan/Acrux@0.07
-Acrux::FileLock                    undef  pkg:cpan/Acrux@0.08
-Acrux::FilePid                      0.01  pkg:cpan/Acrux@0.07
-Acrux::Log                          0.01  pkg:cpan/Acrux@0.07
-Acrux::Pointer                      0.01  pkg:cpan/Acrux@0.07
-Acrux::RefUtil                      0.01  pkg:cpan/Acrux@0.07
-Acrux::Util                        undef  pkg:cpan/Acrux@0.08
+Acrux::Digest                      undef  pkg:cpan/Acrux@0.10
+Acrux::Digest::Damm                undef  pkg:cpan/Acrux@0.10
+Acrux::Digest::FNV32a              undef  pkg:cpan/Acrux@0.10
+Acrux::Digest::M11R                undef  pkg:cpan/Acrux@0.10
+Acrux::FileLock                    undef  pkg:cpan/Acrux@0.10
+Acrux::FilePid                     undef  pkg:cpan/Acrux@0.10
+Acrux::Log                         undef  pkg:cpan/Acrux@0.10
+Acrux::Pointer                     undef  pkg:cpan/Acrux@0.10
+Acrux::RefUtil                     undef  pkg:cpan/Acrux@0.10
+Acrux::Util                        undef  pkg:cpan/Acrux@0.10
 Action::CircuitBreaker               0.1  pkg:cpan/Action-CircuitBreaker@0.1
 Action::Retry                       0.24  pkg:cpan/Action-Retry@0.24
 Action::Retry::Strategy             0.24  pkg:cpan/Action-Retry@0.24
@@ -3860,16 +3860,16 @@ Agni::Callback                     undef  pkg:cpan/PApp@2.4
 Aion                                 2.2  pkg:cpan/Aion@2.2
 Aion::Annotation                   v0.0.3  pkg:cpan/Aion-Annotation@0.0.3
 Aion::Carp                           1.6  pkg:cpan/Aion-Carp@1.6
-Aion::Emitter                      v0.1.0  pkg:cpan/Aion-Emitter@0.1.0
-Aion::Emitter::ListenersRun        undef  pkg:cpan/Aion-Emitter@0.1.0
+Aion::Emitter                      v0.1.1  pkg:cpan/Aion-Emitter@0.1.1
+Aion::Emitter::ListenersRun        undef  pkg:cpan/Aion-Emitter@0.1.1
 Aion::Enum                         v0.0.3  pkg:cpan/Aion-Enum@0.0.3
 Aion::Env                            0.2  pkg:cpan/Aion-Env@0.2
 Aion::Env::Etc                     undef  pkg:cpan/Aion-Env@0.2
-Aion::Format                       v0.1.2  pkg:cpan/Aion-Format@0.1.2
-Aion::Format::Html                 undef  pkg:cpan/Aion-Format@0.1.2
-Aion::Format::Json                 undef  pkg:cpan/Aion-Format@0.1.2
-Aion::Format::Url                  undef  pkg:cpan/Aion-Format@0.1.2
-Aion::Format::Yaml                 undef  pkg:cpan/Aion-Format@0.1.2
+Aion::Format                       v0.1.3  pkg:cpan/Aion-Format@0.1.3
+Aion::Format::Html                 undef  pkg:cpan/Aion-Format@0.1.3
+Aion::Format::Json                 undef  pkg:cpan/Aion-Format@0.1.3
+Aion::Format::Url                  undef  pkg:cpan/Aion-Format@0.1.3
+Aion::Format::Yaml                 undef  pkg:cpan/Aion-Format@0.1.3
 Aion::Fs                           v0.2.4  pkg:cpan/Aion-Fs@0.2.4
 Aion::Fs::Cat                      undef  pkg:cpan/Aion-Fs@0.2.4
 Aion::Fs::Find                     undef  pkg:cpan/Aion-Fs@0.2.4
@@ -4028,12 +4028,18 @@ Algorithm::CheckDigits::MXX_004    v1.3.6  pkg:cpan/Algorithm-CheckDigits@v1.3.6
 Algorithm::CheckDigits::MXX_005    v1.3.6  pkg:cpan/Algorithm-CheckDigits@v1.3.6
 Algorithm::CheckDigits::MXX_006    v1.3.6  pkg:cpan/Algorithm-CheckDigits@v1.3.6
 Algorithm::ChooseSubsets            0.02  pkg:cpan/Algorithm-ChooseSubsets@0.02
-Algorithm::Classifier::IsolationForest 0.001000  pkg:cpan/Algorithm-Classifier-IsolationForest@0.1.0
-Algorithm::Classifier::IsolationForest::App undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.1.0
-Algorithm::Classifier::IsolationForest::App::Command undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.1.0
-Algorithm::Classifier::IsolationForest::App::Command::fit undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.1.0
-Algorithm::Classifier::IsolationForest::App::Command::gblob undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.1.0
-Algorithm::Classifier::IsolationForest::App::Command::predict undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.1.0
+Algorithm::Classifier::IsolationForest 0.002001  pkg:cpan/Algorithm-Classifier-IsolationForest@0.2.1
+Algorithm::Classifier::IsolationForest::App undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.2.1
+Algorithm::Classifier::IsolationForest::App::Command undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.2.1
+Algorithm::Classifier::IsolationForest::App::Command::accel undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.2.1
+Algorithm::Classifier::IsolationForest::App::Command::bench undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.2.1
+Algorithm::Classifier::IsolationForest::App::Command::csv2plot undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.2.1
+Algorithm::Classifier::IsolationForest::App::Command::fit undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.2.1
+Algorithm::Classifier::IsolationForest::App::Command::gblob undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.2.1
+Algorithm::Classifier::IsolationForest::App::Command::info undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.2.1
+Algorithm::Classifier::IsolationForest::App::Command::pack undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.2.1
+Algorithm::Classifier::IsolationForest::App::Command::predict undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.2.1
+Algorithm::Classifier::IsolationForest::PackedData 0.002001  pkg:cpan/Algorithm-Classifier-IsolationForest@0.2.1
 Algorithm::Closest::NetworkAddress   0.1  pkg:cpan/Algorithm-Closest-NetworkAddress@0.1
 Algorithm::Cluster                  1.59  pkg:cpan/Algorithm-Cluster@1.59
 Algorithm::Cluster::Record         undef  pkg:cpan/Algorithm-Cluster@1.59
@@ -4220,7 +4226,7 @@ Algorithm::Gutter::Cell            undef  pkg:cpan/Algorithm-Gutter@0.02
 Algorithm::HITS                     0.04  pkg:cpan/Algorithm-HITS@0.04
 Algorithm::HITS::Lite               0.04  pkg:cpan/Algorithm-HITS-Lite@0.04
 Algorithm::Hamming::Perl            0.05  pkg:cpan/Algorithm-Hamming-Perl@0.05
-Algorithm::Heapify::XS              0.06  pkg:cpan/Algorithm-Heapify-XS@0.06
+Algorithm::Heapify::XS              0.08  pkg:cpan/Algorithm-Heapify-XS@0.08
 Algorithm::History::Levels         0.001  pkg:cpan/Algorithm-History-Levels@0.001
 Algorithm::HowSimilar               0.01  pkg:cpan/Algorithm-HowSimilar@0.01
 Algorithm::Huffman                  0.09  pkg:cpan/Algorithm-Huffman@0.09
@@ -4653,7 +4659,7 @@ Alien::Leptonica::Install::Files   0.006  pkg:cpan/Alien-Leptonica@0.006
 Alien::LibANN                      0.01000  pkg:cpan/Alien-LibANN@0.01000
 Alien::LibBigWig                   v0.4.3  pkg:cpan/Alien-LibBigWig@v0.4.3
 Alien::LibCIAORegion                0.01  pkg:cpan/Alien-LibCIAORegion@0.01
-Alien::LibGumbo                     0.05  pkg:cpan/Alien-LibGumbo@0.05
+Alien::LibGumbo                     0.06  pkg:cpan/Alien-LibGumbo@0.06
 Alien::LibJIT                       0.03  pkg:cpan/Alien-LibJIT@0.03
 Alien::LibJQ                        0.06  pkg:cpan/Alien-LibJQ@0.06
 Alien::LibMagic                    0.003  pkg:cpan/Alien-LibMagic@0.003
@@ -4755,7 +4761,7 @@ Alien::SDL3_ttf                     0.05  pkg:cpan/Alien-SDL3_ttf@0.05
 Alien::SFML                        0.0101  pkg:cpan/Alien-SFML@0.02
 Alien::SIMDe                        0.01  pkg:cpan/Alien-SIMDe@0.01
 Alien::SLOCCount                    0.07  pkg:cpan/Alien-SLOCCount@0.07
-Alien::SNMP                        3.0509040004  pkg:cpan/Alien-SNMP@3.0509040004
+Alien::SNMP                        3.0509050200  pkg:cpan/Alien-SNMP@3.0509050200
 Alien::SNMP::MIBDEV                2.020000  pkg:cpan/Alien-SNMP-MIBDEV@2.020000
 Alien::SVN                         v1.8.11.0  pkg:cpan/Alien-SVN@v1.8.11.0
 Alien::SWIG4                        0.05  pkg:cpan/Alien-SWIG4@0.05
@@ -22408,6 +22414,7 @@ BellmanFord                         0.03  pkg:cpan/Algorithm-BellmanFord@0.03
 Bench::CompactTree                 undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
 Bench::ExpatHandler                undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
 Bench::SAXHandler                  undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
+BenchAccel                         undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.2.1
 Bencher                            v1.62.4  pkg:cpan/Bencher@1.062.4
 Bencher::BPM                       0.002  pkg:cpan/Bencher-BPM@0.002
 Bencher::Backend                   1.063  pkg:cpan/Bencher-Backend@1.063
@@ -34216,7 +34223,7 @@ CSS::LESS                          v0.0.3  pkg:cpan/CSS-LESS@v0.0.3
 CSS::LESS::Filter                   0.04  pkg:cpan/CSS-LESS-Filter@0.04
 CSS::LESSp                          0.86  pkg:cpan/CSS-LESSp@0.86
 CSS::Minifier                       0.01  pkg:cpan/CSS-Minifier@0.01
-CSS::Minifier::XS                   0.14  pkg:cpan/CSS-Minifier-XS@0.14
+CSS::Minifier::XS                   0.15  pkg:cpan/CSS-Minifier-XS@0.15
 CSS::Moonfall                       0.04  pkg:cpan/CSS-Moonfall@0.04
 CSS::Object                        0.002000  pkg:cpan/CSS-Object@v0.2.0
 CSS::Object::Builder               0.002000  pkg:cpan/CSS-Object@v0.2.0
@@ -47734,7 +47741,7 @@ Config::INI::Reader                0.029  pkg:cpan/Config-INI@0.029
 Config::INI::Reader::LibIni        0.002  pkg:cpan/lib-ini@0.002
 Config::INI::Reader::Multiline     1.002  pkg:cpan/Config-INI-Reader-Multiline@1.002
 Config::INI::Reader::Ordered       0.022  pkg:cpan/Config-INI-Reader-Ordered@0.022
-Config::INI::RefVars                1.00  pkg:cpan/Config-INI-RefVars@1.00
+Config::INI::RefVars                1.01  pkg:cpan/Config-INI-RefVars@1.01
 Config::INI::Serializer            0.002  pkg:cpan/Config-INI-Serializer@0.002
 Config::INI::Tiny                  0.106  pkg:cpan/Config-INI-Tiny@0.106
 Config::INI::Writer                0.029  pkg:cpan/Config-INI@0.029
@@ -58760,6 +58767,7 @@ Data::InputMonster::Util::Catalyst 0.006  pkg:cpan/Data-InputMonster-Util-Cataly
 Data::Inspect                       0.05  pkg:cpan/Data-Inspect@0.05
 Data::Integer                      0.007  pkg:cpan/Data-Integer@0.007
 Data::Interactive::Inspect          0.07  pkg:cpan/Data-Interactive-Inspect@0.07
+Data::Intern::Shared                0.01  pkg:cpan/Data-Intern-Shared@0.01
 Data::Iter                           0.2  pkg:cpan/Data-Iter@0.2
 Data::Iterator                     0.021  pkg:cpan/Data-Iterator@0.021?ext=zip
 Data::Iterator::EasyObj             0.01  pkg:cpan/Data-Iterator-EasyObj@0.01
@@ -60018,8 +60026,8 @@ Data::Pokemon::Go::Skill           undef  pkg:cpan/Data-Pokemon-Go@0.14
 Data::Polipo                        0.02  pkg:cpan/Data-Polipo@0.02
 Data::Polymorph                     0.01  pkg:cpan/Data-Polymorph@0.01
 Data::Pond                         0.006  pkg:cpan/Data-Pond@0.006
-Data::Pool::Shared                  0.05  pkg:cpan/Data-Pool-Shared@0.05
-Data::Pool::Shared::Guard           0.05  pkg:cpan/Data-Pool-Shared@0.05
+Data::Pool::Shared                  0.06  pkg:cpan/Data-Pool-Shared@0.06
+Data::Pool::Shared::Guard           0.06  pkg:cpan/Data-Pool-Shared@0.06
 Data::Power::FaultDetectorBase      0.01  pkg:cpan/Data-Power-FaultDetectorBase@0.01?ext=tgz
 Data::Power::Inspection             0.07  pkg:cpan/Data-Power-Inspection@0.07?ext=tgz
 Data::PowerSet                      0.05  pkg:cpan/Data-PowerSet@0.05
@@ -107354,7 +107362,7 @@ HTML::GenerateUtil::Escape          1.21  pkg:cpan/HTML-GenerateUtil@1.21
 HTML::GoogleMaps                      10  pkg:cpan/HTML-GoogleMaps@10
 HTML::GoogleMaps::V3                0.16  pkg:cpan/HTML-GoogleMaps-V3@0.16
 HTML::Grabber                        0.7  pkg:cpan/HTML-Grabber@0.7
-HTML::Gumbo                         0.19  pkg:cpan/HTML-Gumbo@0.19
+HTML::Gumbo                         0.20  pkg:cpan/HTML-Gumbo@0.20
 HTML::HTML5::Builder               0.004  pkg:cpan/HTML-HTML5-Builder@0.004
 HTML::HTML5::Builder::Document     0.004  pkg:cpan/HTML-HTML5-Builder@0.004
 HTML::HTML5::DOM                   0.002  pkg:cpan/HTML-HTML5-DOM@0.002
@@ -163076,7 +163084,7 @@ Params::Dry::Types::Object         1.2003  pkg:cpan/Params-Dry@1.2003
 Params::Dry::Types::Ref            1.2003  pkg:cpan/Params-Dry@1.2003
 Params::Dry::Types::String         1.2003  pkg:cpan/Params-Dry@1.2003
 Params::Filter                     0.018  pkg:cpan/Params-Filter@0.018
-Params::Get                         0.14  pkg:cpan/Params-Get@0.14
+Params::Get                         0.15  pkg:cpan/Params-Get@0.15
 Params::Lazy                       0.005  pkg:cpan/Params-Lazy@0.005
 Params::Named                        1.0  pkg:cpan/Params-Named@1.0.2
 Params::PatternMatch                0.01  pkg:cpan/Params-PatternMatch@0.01
