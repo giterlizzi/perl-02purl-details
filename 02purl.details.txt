@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 01 Jul 2026 02:49:01 GMT
+Last-Updated: Wed, 01 Jul 2026 08:05:02 GMT
 Line-Count: 265637
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -17627,40 +17627,40 @@ Articulate::TestEnv                undef  pkg:cpan/Articulate@0.005
 Articulate::Validation             undef  pkg:cpan/Articulate@0.005
 Articulate::Validation::NoScript   undef  pkg:cpan/Articulate@0.005
 Artifactory::Client                1.008000  pkg:cpan/Artifactory-Client@v1.8.0
-Ascii::Text                         0.22  pkg:cpan/Ascii-Text@0.22
+Ascii::Text                         0.23  pkg:cpan/Ascii-Text@0.23
 Ascii::Text::Chandra                0.01  pkg:cpan/Ascii-Text-Chandra@0.01
-Ascii::Text::Cmd                   undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font                  undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::3d              undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::3x5             undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Amongus         undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Banner          undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Block           undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Boomer          undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Carlos          undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Chunky          undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Coinstak        undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Colossal        undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Cricket         undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Doh             undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Doom            undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Dotmatrix        0.01  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Drpepper        undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Lean             0.21  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Letters          0.21  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Poison           0.21  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Rev             undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Slsscript       undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Small           undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Smkeyboard      undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Speed           undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Standard        undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Stellar         undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Straight        undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Tanja           undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Thick           undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Thin            undef  pkg:cpan/Ascii-Text@0.22
-Ascii::Text::Font::Tinkertoy       undef  pkg:cpan/Ascii-Text@0.22
+Ascii::Text::Cmd                   undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font                  undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::3d              undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::3x5             undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Amongus         undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Banner          undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Block           undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Boomer          undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Carlos          undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Chunky          undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Coinstak        undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Colossal        undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Cricket         undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Doh             undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Doom            undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Dotmatrix        0.01  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Drpepper        undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Lean             0.21  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Letters          0.21  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Poison           0.21  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Rev             undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Slsscript       undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Small           undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Smkeyboard      undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Speed           undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Standard        undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Stellar         undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Straight        undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Tanja           undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Thick           undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Thin            undef  pkg:cpan/Ascii-Text@0.23
+Ascii::Text::Font::Tinkertoy       undef  pkg:cpan/Ascii-Text@0.23
 Ascii::Text::Image                  0.05  pkg:cpan/Ascii-Text-Image@0.05
 AsciiDB::TagFile                    1.06  pkg:cpan/AsciiDB-TagFile@1.06
 AsciiDB::TagRecord                  1.06  pkg:cpan/AsciiDB-TagFile@1.06
@@ -21864,7 +21864,7 @@ Backblaze::B2::v1::File             0.02  pkg:cpan/Backblaze-B2@0.02
 Backblaze::B2::v1::File::Synchronized  0.02  pkg:cpan/Backblaze-B2@0.02
 Backblaze::B2::v1::Synchronous      0.02  pkg:cpan/Backblaze-B2@0.02
 Backblaze::B2V2Client                1.7  pkg:cpan/Backblaze-B2V2Client@1.7
-Backblaze::B2V4                     0.02  pkg:cpan/Backblaze-B2V4@0.02
+Backblaze::B2V4                     0.03  pkg:cpan/Backblaze-B2V4@0.03
 Backbone::Events                   0.000003  pkg:cpan/Backbone-Events@0.0.3
 Backed_Objects                      1.16  pkg:cpan/Backed_Objects@1.16
 Backtick::AutoChomp                 0.02  pkg:cpan/Backtick-AutoChomp@0.02
@@ -160205,7 +160205,7 @@ POD2::PT_BR                         0.06  pkg:cpan/POD2-PT_BR@0.06
 POD2::RU                           5.018000001084  pkg:cpan/POD2-RU@5.18.0.1.84
 POD2::RU::PSGI                     0.003  pkg:cpan/POD2-RU-PSGI@0.003
 POD::Credentials                    0.04  pkg:cpan/POD-Credentials@0.04?ext=tgz
-POD::Generate                       0.02  pkg:cpan/POD-Generate@0.02
+POD::Generate                       0.03  pkg:cpan/POD-Generate@0.03
 POD::Tested                         0.06  pkg:cpan/POD-Tested@0.06.4
 POD::Walker                          0.0  pkg:cpan/POD-Walker@0.0.0
 PODServer                          undef  pkg:cpan/Squatting@0.83
@@ -239186,7 +239186,7 @@ VANAMBURG::Suit                    undef  pkg:cpan/VANAMBURG-Magic@0.04
 VANAMBURG::SuitSingleton           undef  pkg:cpan/VANAMBURG-Magic@0.04
 VANAMBURG::SuitSingletonCHaSeD     undef  pkg:cpan/VANAMBURG-Magic@0.04
 VANAMBURG::SuitSingletonSHoCkeD    undef  pkg:cpan/VANAMBURG-Magic@0.04
-VAPID                               1.05  pkg:cpan/VAPID@1.05
+VAPID                               1.06  pkg:cpan/VAPID@1.06
 VARCHAR                             1.93  pkg:cpan/Class-PObject@2.17
 VAST                                0.05  pkg:cpan/Mildew@0.05
 VAST::arglist                       0.05  pkg:cpan/Mildew@0.05
