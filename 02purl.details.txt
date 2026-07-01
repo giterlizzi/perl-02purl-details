@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 01 Jul 2026 19:43:28 GMT
-Line-Count: 265655
+Last-Updated: Wed, 01 Jul 2026 21:21:10 GMT
+Line-Count: 265667
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -57429,6 +57429,7 @@ Data::BitStream::Vec                0.08  pkg:cpan/Data-BitStream@0.08
 Data::BitStream::WordVec            0.08  pkg:cpan/Data-BitStream@0.08
 Data::BitStream::XS                 0.08  pkg:cpan/Data-BitStream-XS@0.08
 Data::Bitfield                      0.04  pkg:cpan/Data-Bitfield@0.04
+Data::BloomFilter::Shared           0.01  pkg:cpan/Data-BloomFilter-Shared@0.01
 Data::Bool                         2.98014  pkg:cpan/Data-Bool@2.98014
 Data::Bool::Impl                   2.98014  pkg:cpan/Data-Bool@2.98014
 Data::Bucketeer                    0.006  pkg:cpan/Data-Bucketeer@0.006
@@ -57743,6 +57744,7 @@ Data::CouchDB::Connection           0.14  pkg:cpan/Data-CouchDB@0.14
 Data::CouchDB::Exceptions           0.14  pkg:cpan/Data-CouchDB@0.14
 Data::CouchDB::Handler              0.14  pkg:cpan/Data-CouchDB@0.14
 Data::CouchDB::Role::VersionedData  0.14  pkg:cpan/Data-CouchDB@0.14
+Data::CountMinSketch::Shared        0.01  pkg:cpan/Data-CountMinSketch-Shared@0.01
 Data::Couplet                      0.02004314  pkg:cpan/Data-Couplet@0.02004314
 Data::Couplet::Extension           0.02004314  pkg:cpan/Data-Couplet@0.02004314
 Data::Couplet::Plugin::BasicReorder 0.02004314  pkg:cpan/Data-Couplet@0.02004314
@@ -57757,6 +57759,7 @@ Data::Crumbr::Default::JSON        0.001002  pkg:cpan/Data-Crumbr@0.1.2
 Data::Crumbr::Default::URI         0.001002  pkg:cpan/Data-Crumbr@0.1.2
 Data::Crumbr::Util                 0.001002  pkg:cpan/Data-Crumbr@0.1.2
 Data::Cube                          0.02  pkg:cpan/Data-Cube@0.02
+Data::CuckooFilter::Shared          0.01  pkg:cpan/Data-CuckooFilter-Shared@0.01
 Data::Cuid                          0.07  pkg:cpan/Data-Cuid@0.07
 Data::Currency                     0.06000  pkg:cpan/Data-Currency@0.06000
 Data::DEC                           0.03  pkg:cpan/Data-DEC@0.03
@@ -57822,6 +57825,7 @@ Data::Dimensions                    0.05  pkg:cpan/Data-Dimensions@0.05
 Data::Dimensions::Map              undef  pkg:cpan/Data-Dimensions@0.05
 Data::Dimensions::SickTie          undef  pkg:cpan/Data-Dimensions@0.05
 Data::Direct                        0.05  pkg:cpan/Data-Direct@0.05
+Data::DisjointSet::Shared           0.01  pkg:cpan/Data-DisjointSet-Shared@0.01
 Data::Display                       0.02  pkg:cpan/Data-Display@0.02
 Data::Displaycolour                v0.5.0  pkg:cpan/Data-Displaycolour@v0.05
 Data::Displaycolour::Data          v0.5.0  pkg:cpan/Data-Displaycolour@v0.05
@@ -58292,6 +58296,7 @@ Data::Hexify                        1.00  pkg:cpan/Data-Hexify@1.00
 Data::Hierarchy                     0.34  pkg:cpan/Data-Hierarchy@0.34
 Data::Hierarchy::Relative           0.34  pkg:cpan/Data-Hierarchy@0.34
 Data::Hierarchy::Traverser          0.01  pkg:cpan/Data-Hierarchy-Traverser@0.01
+Data::Histogram::Shared             0.01  pkg:cpan/Data-Histogram-Shared@0.01
 Data::Hive                         1.015  pkg:cpan/Data-Hive@1.015
 Data::Hive::PathPacker             1.015  pkg:cpan/Data-Hive@1.015
 Data::Hive::PathPacker::Flexible   1.015  pkg:cpan/Data-Hive@1.015
@@ -58327,6 +58332,7 @@ Data::Hopen::Util::Filename        0.000021  pkg:cpan/Data-Hopen@0.000021
 Data::Hopen::Util::MergeWithoutCloneBlessed 0.000020  pkg:cpan/Data-Hopen@0.000021
 Data::Hopen::Util::NameSet         0.000021  pkg:cpan/Data-Hopen@0.000021
 Data::Hopen::Visitor               0.000021  pkg:cpan/Data-Hopen@0.000021
+Data::HyperLogLog::Shared           0.01  pkg:cpan/Data-HyperLogLog-Shared@0.01
 Data::ICal                          0.24  pkg:cpan/Data-ICal@0.24
 Data::ICal::DAVAdapter              0.03  pkg:cpan/Meetup-API@0.03
 Data::ICal::DateTime                0.82  pkg:cpan/Data-ICal-DateTime@0.82
@@ -59087,6 +59093,7 @@ Data::MuFormX::Registry            0.001  pkg:cpan/Data-MuFormX-Registry@0.001
 Data::MultiValuedHash              1.081  pkg:cpan/Data-MultiValuedHash@1.081
 Data::Multihash                     0.03  pkg:cpan/Data-Multihash@0.03-fix
 Data::Munge                        0.111  pkg:cpan/Data-Munge@0.111
+Data::NDArray::Shared               0.01  pkg:cpan/Data-NDArray-Shared@0.01
 Data::NFA                          20201031  pkg:cpan/Data-NFA@20201031
 Data::Navigation::Item              0.02  pkg:cpan/Data-Navigation-Item@0.02
 Data::Nest                          0.06  pkg:cpan/Data-Nest@0.06
@@ -60168,6 +60175,7 @@ Data::Radius::DictionaryParser     undef  pkg:cpan/Data-Radius@1.2.9
 Data::Radius::Encode               undef  pkg:cpan/Data-Radius@1.2.9
 Data::Radius::Packet               undef  pkg:cpan/Data-Radius@1.2.9
 Data::Radius::Util                 undef  pkg:cpan/Data-Radius@1.2.9
+Data::RadixTree::Shared             0.01  pkg:cpan/Data-RadixTree-Shared@0.01
 Data::Rand                         0.000004  pkg:cpan/Data-Rand@0.0.4
 Data::Rand::Obscure                0.021  pkg:cpan/Data-Rand-Obscure@0.021
 Data::Rand::Obscure::Generator     undef  pkg:cpan/Data-Rand-Obscure@0.021
@@ -60443,6 +60451,7 @@ Data::RingBuffer::Shared            0.03  pkg:cpan/Data-RingBuffer-Shared@0.03
 Data::RingBuffer::Time              0.02  pkg:cpan/Data-RingBuffer-Time@0.02
 Data::Rlist                         1.44  pkg:cpan/Data-Rlist@1.44
 Data::Rmap                          0.65  pkg:cpan/Data-Rmap@0.65
+Data::RoaringBitmap::Shared         0.01  pkg:cpan/Data-RoaringBitmap-Shared@0.01
 Data::RoundRobin                    0.03  pkg:cpan/Data-RoundRobin@0.03
 Data::RoundRobinShared              0.11  pkg:cpan/Data-RoundRobinShared@0.11
 Data::Roundtrip                     0.31  pkg:cpan/Data-Roundtrip@0.31
@@ -61130,7 +61139,10 @@ Data::Sofu::Reference                0.3  pkg:cpan/Sofu@0.3
 Data::Sofu::SofuML                   0.3  pkg:cpan/Sofu@0.3
 Data::Sofu::Undefined                0.3  pkg:cpan/Sofu@0.3
 Data::Sofu::Value                    0.3  pkg:cpan/Sofu@0.3
+Data::SortedSet::Shared             0.02  pkg:cpan/Data-SortedSet-Shared@0.02
+Data::SortedSet::Shared::Strings    0.02  pkg:cpan/Data-SortedSet-Shared@0.02
 Data::Sorting                        0.9  pkg:cpan/Data-Sorting@0.9
+Data::SpatialHash::Shared           0.01  pkg:cpan/Data-SpatialHash-Shared@0.01
 Data::SplitSerializer               0.91  pkg:cpan/Data-SplitSerializer@0.91
 Data::SpreadPagination             0.001002  pkg:cpan/Data-SpreadPagination@0.1.2
 Data::Stack                         0.01  pkg:cpan/Data-Stack@0.01
@@ -77904,8 +77916,8 @@ Future::HTTP::NetAsync              0.17  pkg:cpan/Future-HTTP@0.17
 Future::HTTP::Tiny                  0.17  pkg:cpan/Future-HTTP@0.17
 Future::HTTP::Tiny::Paranoid        0.17  pkg:cpan/Future-HTTP@0.17
 Future::IO                          0.23  pkg:cpan/Future-IO@0.23
-Future::IO::Impl::AnyEvent          0.02  pkg:cpan/Future-IO-Impl-AnyEvent@0.02
-Future::IO::Impl::AnyEvent::Future  0.02  pkg:cpan/Future-IO-Impl-AnyEvent@0.02
+Future::IO::Impl::AnyEvent          0.03  pkg:cpan/Future-IO-Impl-AnyEvent@0.03
+Future::IO::Impl::AnyEvent::Future  0.03  pkg:cpan/Future-IO-Impl-AnyEvent@0.03
 Future::IO::Impl::Glib              0.05  pkg:cpan/Future-IO-Impl-Glib@0.05
 Future::IO::Impl::IOAsync          0.805  pkg:cpan/IO-Async@0.805
 Future::IO::Impl::KQueue            0.03  pkg:cpan/Future-IO-Impl-KQueue@0.03
