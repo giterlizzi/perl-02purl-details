@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 02 Jul 2026 07:24:25 GMT
+Last-Updated: Thu, 02 Jul 2026 10:30:59 GMT
 Line-Count: 265669
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -17129,17 +17129,17 @@ Archive::Rgss3a                     0.11  pkg:cpan/Archive-Rgssad@0.11
 Archive::Rgssad                     0.11  pkg:cpan/Archive-Rgssad@0.11
 Archive::Rgssad::Entry               0.1  pkg:cpan/Archive-Rgssad@0.11
 Archive::Rgssad::Keygen              0.1  pkg:cpan/Archive-Rgssad@0.11
-Archive::SCS                        1.09  pkg:cpan/Archive-SCS@1.09
-Archive::SCS::CityHash              1.09  pkg:cpan/Archive-SCS@1.09
-Archive::SCS::DirIndex              1.09  pkg:cpan/Archive-SCS@1.09
-Archive::SCS::Directory             1.09  pkg:cpan/Archive-SCS@1.09
-Archive::SCS::GameDir               1.09  pkg:cpan/Archive-SCS@1.09
-Archive::SCS::HashFS                1.09  pkg:cpan/Archive-SCS@1.09
-Archive::SCS::HashFS2               1.09  pkg:cpan/Archive-SCS@1.09
-Archive::SCS::InMemory              1.09  pkg:cpan/Archive-SCS@1.09
-Archive::SCS::Mountable             1.09  pkg:cpan/Archive-SCS@1.09
-Archive::SCS::TObj                  1.09  pkg:cpan/Archive-SCS@1.09
-Archive::SCS::Zip                   1.09  pkg:cpan/Archive-SCS@1.09
+Archive::SCS                        1.10  pkg:cpan/Archive-SCS@1.10
+Archive::SCS::CityHash              1.10  pkg:cpan/Archive-SCS@1.10
+Archive::SCS::DirIndex              1.10  pkg:cpan/Archive-SCS@1.10
+Archive::SCS::Directory             1.10  pkg:cpan/Archive-SCS@1.10
+Archive::SCS::GameDir               1.10  pkg:cpan/Archive-SCS@1.10
+Archive::SCS::HashFS                1.10  pkg:cpan/Archive-SCS@1.10
+Archive::SCS::HashFS2               1.10  pkg:cpan/Archive-SCS@1.10
+Archive::SCS::InMemory              1.10  pkg:cpan/Archive-SCS@1.10
+Archive::SCS::Mountable             1.10  pkg:cpan/Archive-SCS@1.10
+Archive::SCS::TObj                  1.10  pkg:cpan/Archive-SCS@1.10
+Archive::SCS::Zip                   1.10  pkg:cpan/Archive-SCS@1.10
 Archive::SelfExtract                 1.3  pkg:cpan/Archive-SelfExtract@1.3
 Archive::SevenZip                   0.20  pkg:cpan/Archive-SevenZip@0.20
 Archive::SevenZip::API::ArchiveTar  0.20  pkg:cpan/Archive-SevenZip@0.20
@@ -155537,28 +155537,28 @@ OEIS::A000045                      2021041201  pkg:cpan/OEIS@2021041201
 OGDL::Graph                        undef  pkg:cpan/ogdl-perl@0.2
 OGDL::Parser                        0.02  pkg:cpan/ogdl-perl@0.2
 OGDL::Path                          0.01  pkg:cpan/ogdl-perl@0.2
-OIDC::Client                        1.06  pkg:cpan/OIDC-Client@1.06
-OIDC::Client::AccessToken          undef  pkg:cpan/OIDC-Client@1.06
-OIDC::Client::AccessTokenBuilder   undef  pkg:cpan/OIDC-Client@1.06
-OIDC::Client::ApiUserAgentBuilder  undef  pkg:cpan/OIDC-Client@1.06
-OIDC::Client::Error                undef  pkg:cpan/OIDC-Client@1.06
-OIDC::Client::Error::Authentication undef  pkg:cpan/OIDC-Client@1.06
-OIDC::Client::Error::InvalidResponse undef  pkg:cpan/OIDC-Client@1.06
-OIDC::Client::Error::Provider      undef  pkg:cpan/OIDC-Client@1.06
-OIDC::Client::Error::TokenValidation undef  pkg:cpan/OIDC-Client@1.06
-OIDC::Client::Identity             undef  pkg:cpan/OIDC-Client@1.06
-OIDC::Client::Plugin               undef  pkg:cpan/OIDC-Client@1.06
-OIDC::Client::ResponseParser       undef  pkg:cpan/OIDC-Client@1.06
-OIDC::Client::Role::AttributesManager undef  pkg:cpan/OIDC-Client@1.06
-OIDC::Client::Role::ClaimsValidator undef  pkg:cpan/OIDC-Client@1.06
-OIDC::Client::Role::ClientAuthenticationHelper undef  pkg:cpan/OIDC-Client@1.06
-OIDC::Client::Role::ConfigurationChecker undef  pkg:cpan/OIDC-Client@1.06
-OIDC::Client::Role::LoggerWrapper  undef  pkg:cpan/OIDC-Client@1.06
-OIDC::Client::TokenResponse        undef  pkg:cpan/OIDC-Client@1.06
-OIDC::Client::TokenResponseParser  undef  pkg:cpan/OIDC-Client@1.06
-OIDC::Client::Trait::HashStore     undef  pkg:cpan/OIDC-Client@1.06
-OIDC::Client::User                 undef  pkg:cpan/OIDC-Client@1.06
-OIDC::Client::Utils                undef  pkg:cpan/OIDC-Client@1.06
+OIDC::Client                        1.07  pkg:cpan/OIDC-Client@1.07
+OIDC::Client::AccessToken          undef  pkg:cpan/OIDC-Client@1.07
+OIDC::Client::AccessTokenBuilder   undef  pkg:cpan/OIDC-Client@1.07
+OIDC::Client::ApiUserAgentBuilder  undef  pkg:cpan/OIDC-Client@1.07
+OIDC::Client::Error                undef  pkg:cpan/OIDC-Client@1.07
+OIDC::Client::Error::Authentication undef  pkg:cpan/OIDC-Client@1.07
+OIDC::Client::Error::InvalidResponse undef  pkg:cpan/OIDC-Client@1.07
+OIDC::Client::Error::Provider      undef  pkg:cpan/OIDC-Client@1.07
+OIDC::Client::Error::TokenValidation undef  pkg:cpan/OIDC-Client@1.07
+OIDC::Client::Identity             undef  pkg:cpan/OIDC-Client@1.07
+OIDC::Client::Plugin               undef  pkg:cpan/OIDC-Client@1.07
+OIDC::Client::ResponseParser       undef  pkg:cpan/OIDC-Client@1.07
+OIDC::Client::Role::AttributesManager undef  pkg:cpan/OIDC-Client@1.07
+OIDC::Client::Role::ClaimsValidator undef  pkg:cpan/OIDC-Client@1.07
+OIDC::Client::Role::ClientAuthenticationHelper undef  pkg:cpan/OIDC-Client@1.07
+OIDC::Client::Role::ConfigurationChecker undef  pkg:cpan/OIDC-Client@1.07
+OIDC::Client::Role::LoggerWrapper  undef  pkg:cpan/OIDC-Client@1.07
+OIDC::Client::TokenResponse        undef  pkg:cpan/OIDC-Client@1.07
+OIDC::Client::TokenResponseParser  undef  pkg:cpan/OIDC-Client@1.07
+OIDC::Client::Trait::HashStore     undef  pkg:cpan/OIDC-Client@1.07
+OIDC::Client::User                 undef  pkg:cpan/OIDC-Client@1.07
+OIDC::Client::Utils                undef  pkg:cpan/OIDC-Client@1.07
 OIDC::Lite                          0.10  pkg:cpan/OIDC-Lite@0.10
 OIDC::Lite::Client::Credential     undef  pkg:cpan/OIDC-Lite@0.02
 OIDC::Lite::Client::Registration   undef  pkg:cpan/OIDC-Lite@0.02
