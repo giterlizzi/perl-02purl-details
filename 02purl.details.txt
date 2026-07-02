@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 02 Jul 2026 13:43:40 GMT
-Line-Count: 265670
+Last-Updated: Thu, 02 Jul 2026 16:00:50 GMT
+Line-Count: 265671
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -50378,7 +50378,7 @@ Cucumber::TagExpressions::LiteralNode v10.0.0  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
 Cucumber::TagExpressions::NotNode  v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
 Cucumber::TagExpressions::OrNode   v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.115
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.116
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
@@ -234909,7 +234909,7 @@ Time::Moment::Role::Strptime       0.001  pkg:cpan/Time-Moment-Role-Strptime@0.0
 Time::Moment::Role::TimeZone       1.000  pkg:cpan/Time-Moment-Role-TimeZone@1.000
 Time::Monotonic                    v0.9.8  pkg:cpan/Time-Monotonic@v0.9.8
 Time::NT                           0.007  pkg:cpan/Time-NT@0.007
-Time::Nanos                        0.001002  pkg:cpan/Time-Nanos@v0.1.2
+Time::Nanos                        0.001004  pkg:cpan/Time-Nanos@v0.1.4
 Time::Normalize                     0.09  pkg:cpan/Time-Normalize@0.09
 Time::Object                        1.00  pkg:cpan/Time-Object@1.00
 Time::OlsonTZ::Clustered           0.002  pkg:cpan/Time-OlsonTZ-Clustered@0.002
@@ -259636,7 +259636,7 @@ YAML::Full::Parser                 0.000001  pkg:cpan/YAML-Full@0.0.1
 YAML::Full::Representer            0.000001  pkg:cpan/YAML-Full@0.0.1
 YAML::Full::Serializer             0.000001  pkg:cpan/YAML-Full@0.0.1
 YAML::Hobo                         v0.2.0  pkg:cpan/YAML-Hobo@0.2.0
-YAML::LibYAML                      v0.908.0  pkg:cpan/YAML-LibYAML@v0.908.0
+YAML::LibYAML                      v0.909.0  pkg:cpan/YAML-LibYAML@v0.909.0
 YAML::LibYAML::API                 v0.14.0  pkg:cpan/YAML-LibYAML-API@v0.14.0
 YAML::LibYAML::API::XS             v0.14.0  pkg:cpan/YAML-LibYAML-API@v0.14.0
 YAML::LoadBundle                   v0.4.3  pkg:cpan/YAML-LoadBundle@v0.4.3
@@ -259810,7 +259810,8 @@ YAML::Type::regexp                 undef  pkg:cpan/YAML@1.31
 YAML::Type::undef                  undef  pkg:cpan/YAML@1.31
 YAML::Types                        undef  pkg:cpan/YAML@1.31
 YAML::Warning                      undef  pkg:cpan/YAML@1.31
-YAML::XS                           v0.908.0  pkg:cpan/YAML-LibYAML@v0.908.0
+YAML::XS                           v0.909.0  pkg:cpan/YAML-LibYAML@v0.909.0
+YAML::XS::LibYAML                  v0.909.0  pkg:cpan/YAML-LibYAML@v0.909.0
 YAML::YAML2ADoc                    0.001000  pkg:cpan/YAML-YAML2ADoc@0.1.0
 YAML::yq::Helper                   0.002000  pkg:cpan/YAML-yq-Helper@0.2.0
 YAMLScript                         0.002023  pkg:cpan/YAMLScript@0.2.23
