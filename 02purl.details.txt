@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 02 Jul 2026 20:57:35 GMT
+Last-Updated: Thu, 02 Jul 2026 22:58:20 GMT
 Line-Count: 265678
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -10560,7 +10560,7 @@ App::Greple::find                  undef  pkg:cpan/App-Greple@10.05
 App::Greple::frame                  1.03  pkg:cpan/App-Greple-frame@1.03
 App::Greple::frame::RPN            undef  pkg:cpan/App-Greple-frame@0.06
 App::Greple::git                    1.00  pkg:cpan/App-Greple-git@1.00
-App::Greple::ical                   0.02  pkg:cpan/App-Greple-ical@0.02
+App::Greple::ical                   1.00  pkg:cpan/App-Greple-ical@1.00
 App::Greple::jq                     0.06  pkg:cpan/App-Greple-jq@0.06
 App::Greple::line                  undef  pkg:cpan/App-Greple@9.23
 App::Greple::md                     1.08  pkg:cpan/App-mdee@1.08
@@ -56536,7 +56536,7 @@ Dancer2::Plugin::Negotiate         0.002  pkg:cpan/Dancer2-Plugin-Negotiate@0.00
 Dancer2::Plugin::OAuth2::Server     0.11  pkg:cpan/Dancer2-Plugin-OAuth2-Server@0.11
 Dancer2::Plugin::OAuth2::Server::Role undef  pkg:cpan/Dancer2-Plugin-OAuth2-Server@0.11
 Dancer2::Plugin::OAuth2::Server::Simple undef  pkg:cpan/Dancer2-Plugin-OAuth2-Server@0.11
-Dancer2::Plugin::OIDC              undef  pkg:cpan/Dancer2-Plugin-OIDC@1.00
+Dancer2::Plugin::OIDC               1.01  pkg:cpan/Dancer2-Plugin-OIDC@1.01
 Dancer2::Plugin::OpenAPI           v1.0.2  pkg:cpan/Dancer2-Plugin-OpenAPI@1.0.2
 Dancer2::Plugin::OpenAPI::Path     v1.0.2  pkg:cpan/Dancer2-Plugin-OpenAPI@1.0.2
 Dancer2::Plugin::OpenAPIRoutes      0.03  pkg:cpan/Dancer2-Plugin-OpenAPIRoutes@0.03
