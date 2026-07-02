@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 02 Jul 2026 19:14:10 GMT
+Last-Updated: Thu, 02 Jul 2026 20:57:35 GMT
 Line-Count: 265678
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -36188,7 +36188,7 @@ Catalyst::Plugin::Moostash         0.001002  pkg:cpan/Catalyst-Plugin-Moostash@v
 Catalyst::Plugin::Moostash::Base   undef  pkg:cpan/Catalyst-Plugin-Moostash@v0.1.2
 Catalyst::Plugin::MortalForward     0.01  pkg:cpan/Catalyst-Plugin-MortalForward@0.01
 Catalyst::Plugin::Navigation       1.002  pkg:cpan/Catalyst-Plugin-Navigation@1.002
-Catalyst::Plugin::OIDC              1.03  pkg:cpan/Catalyst-Plugin-OIDC@1.03
+Catalyst::Plugin::OIDC              1.04  pkg:cpan/Catalyst-Plugin-OIDC@1.04
 Catalyst::Plugin::Observe           0.02  pkg:cpan/Catalyst-Plugin-Observe@0.02
 Catalyst::Plugin::OpenIDConnect     0.15  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.15
 Catalyst::Plugin::OpenIDConnect::Context undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.15
@@ -50385,7 +50385,7 @@ Cucumber::TagExpressions::LiteralNode v10.0.0  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
 Cucumber::TagExpressions::NotNode  v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
 Cucumber::TagExpressions::OrNode   v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.116
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.117
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
@@ -72419,46 +72419,46 @@ ExtUtils::XSBuilder::TypeMap       undef  pkg:cpan/ExtUtils-XSBuilder@0.28
 ExtUtils::XSBuilder::WrapXS         0.03  pkg:cpan/ExtUtils-XSBuilder@0.28
 ExtUtils::XSOne                     0.03  pkg:cpan/ExtUtils-XSOne@0.03
 ExtUtils::XSSymSet                   1.4  pkg:cpan/perl@5.42.2
-ExtUtils::XSpp                      0.18  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Cmd                    0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Driver                 0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Exception              0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Exception::code        0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Exception::object      0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Exception::perlcode     0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Exception::simple      0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Exception::stdmessage     0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Exception::unknown     0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Grammar                0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Grammar::YappDriver  1.05  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Lexer                  0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Node                   0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Node::Access           0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Node::Argument         0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Node::Class            0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Node::Comment          0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Node::Constructor      0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Node::Destructor       0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Node::Enum             0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Node::EnumValue        0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Node::File             0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Node::Function         0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Node::Member           0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Node::Method           0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Node::Module           0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Node::Package          0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Node::PercAny          0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Node::Preprocessor     0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Node::Raw              0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Node::Type             0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Parser                 0  pkg:cpan/ExtUtils-XSpp@0.18
+ExtUtils::XSpp                      0.19  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Cmd                undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Driver             undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Exception          undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Exception::code    undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Exception::object  undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Exception::perlcode undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Exception::simple  undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Exception::stdmessage undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Exception::unknown undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Grammar            undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Grammar::YappDriver  1.21  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Lexer              undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Node               undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Node::Access       undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Node::Argument     undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Node::Class        undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Node::Comment      undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Node::Constructor  undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Node::Destructor   undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Node::Enum         undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Node::EnumValue    undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Node::File         undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Node::Function     undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Node::Member       undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Node::Method       undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Node::Module       undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Node::Package      undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Node::PercAny      undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Node::Preprocessor undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Node::Raw          undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Node::Type         undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Parser             undef  pkg:cpan/ExtUtils-XSpp@0.19
 ExtUtils::XSpp::Plugin::Cloning     0.02  pkg:cpan/ExtUtils-XSpp-Plugin-Cloning@0.02
-ExtUtils::XSpp::Plugin::feature::default_xs_typemap     0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Typemap                0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Typemap::parsed        0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Typemap::reference     0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Typemap::simple        0  pkg:cpan/ExtUtils-XSpp@0.18
-ExtUtils::XSpp::Typemap::wrapper       0  pkg:cpan/ExtUtils-XSpp@0.18
+ExtUtils::XSpp::Plugin::feature::default_xs_typemap undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Typemap            undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Typemap::parsed    undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Typemap::reference undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Typemap::simple    undef  pkg:cpan/ExtUtils-XSpp@0.19
+ExtUtils::XSpp::Typemap::wrapper   undef  pkg:cpan/ExtUtils-XSpp@0.19
 ExtUtils::configPL                   1.1  pkg:cpan/ExtUtils-configPL@1.1
 ExtUtils::nvcc                      0.03  pkg:cpan/ExtUtils-nvcc@0.03
 ExtUtils::nvcc::Backend            undef  pkg:cpan/ExtUtils-nvcc@0.03
@@ -139845,7 +139845,7 @@ Mojolicious::Plugin::OAuth2         2.02  pkg:cpan/Mojolicious-Plugin-OAuth2@2.0
 Mojolicious::Plugin::OAuth2::Che   1.539  pkg:cpan/Mojolicious-Plugin-OAuth2-Che@1.539
 Mojolicious::Plugin::OAuth2::Mock  undef  pkg:cpan/Mojolicious-Plugin-OAuth2@2.02
 Mojolicious::Plugin::OAuth2::Server  0.52  pkg:cpan/Mojolicious-Plugin-OAuth2-Server@0.52
-Mojolicious::Plugin::OIDC           1.03  pkg:cpan/Mojolicious-Plugin-OIDC@1.03
+Mojolicious::Plugin::OIDC           1.04  pkg:cpan/Mojolicious-Plugin-OIDC@1.04
 Mojolicious::Plugin::ORM::DBIx      0.02  pkg:cpan/Mojolicious-Plugin-ORM-DBIx@0.02
 Mojolicious::Plugin::ORM::DBIx::Command::schema_load  0.02  pkg:cpan/Mojolicious-Plugin-ORM-DBIx@0.02
 Mojolicious::Plugin::Obrazi         0.15  pkg:cpan/Mojolicious-Plugin-Obrazi@0.15
