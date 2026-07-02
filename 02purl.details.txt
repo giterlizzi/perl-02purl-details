@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 02 Jul 2026 02:38:53 GMT
+Last-Updated: Thu, 02 Jul 2026 07:24:25 GMT
 Line-Count: 265669
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -106614,8 +106614,8 @@ HTML::Chunks::Super                 1.01  pkg:cpan/HTML-Chunks@1.55.1
 HTML::ChunksLocal                   1.02  pkg:cpan/HTML-Chunks@1.54
 HTML::Clean                          1.4  pkg:cpan/HTML-Clean@1.4
 HTML::Clean::Human                  1.07  pkg:cpan/HTML-Clean-Human@1.07
-HTML::Composer                     undef  pkg:cpan/HTML-Composer@0.002
-HTML::Composer::Unsafe             undef  pkg:cpan/HTML-Composer@0.002
+HTML::Composer                     undef  pkg:cpan/HTML-Composer@0.004
+HTML::Composer::Unsafe             undef  pkg:cpan/HTML-Composer@0.004
 HTML::Content::ContentExtractor     0.01  pkg:cpan/HTML-Content-Extractor@0.01
 HTML::Content::Extractor            0.17  pkg:cpan/HTML-Content-Extractor@0.17
 HTML::Content::HTMLTokenizer       undef  pkg:cpan/HTML-Content-Extractor@0.01
