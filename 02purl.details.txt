@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 03 Jul 2026 06:55:43 GMT
-Line-Count: 265702
+Last-Updated: Fri, 03 Jul 2026 10:28:44 GMT
+Line-Count: 265707
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -10661,7 +10661,7 @@ App::HPGL2Cadsoft                   0.01  pkg:cpan/App-HPGL2Cadsoft@0.01
 App::HTMLUtils::Grep               0.002  pkg:cpan/App-HTMLUtils-Grep@0.002
 App::HTRender                       1.00  pkg:cpan/App-HTRender@1.00
 App::HTTPSThis                     0.001  pkg:cpan/App-HTTPSThis@0.001
-App::HTTPThis                        1.0  pkg:cpan/App-HTTPThis@1.0.0
+App::HTTPThis                      1.000001  pkg:cpan/App-HTTPThis@1.0.1
 App::HTTPTinyUtils                 0.010  pkg:cpan/App-HTTPTinyUtils@0.010
 App::HTTPUserAgentUtils            0.002  pkg:cpan/App-HTTPUserAgentUtils@0.002
 App::HTTP_Proxy_IMP                0.958  pkg:cpan/App-HTTP_Proxy_IMP@0.958
@@ -139754,6 +139754,11 @@ Mojolicious::Plugin::LinkedContent  0.07  pkg:cpan/Mojolicious-Plugin-LinkedCont
 Mojolicious::Plugin::LinkedContent::v9  0.10  pkg:cpan/Mojolicious-Plugin-LinkedContent-v9@0.10
 Mojolicious::Plugin::LocaleTextDomainOO  0.05  pkg:cpan/Mojolicious-Plugin-LocaleTextDomainOO@0.05
 Mojolicious::Plugin::LocaleTextDomainOO::I18N undef  pkg:cpan/Mojolicious-Plugin-LocaleTextDomainOO@0.05
+Mojolicious::Plugin::Localize       0.23  pkg:cpan/Mojolicious-Plugin-Localize@0.23
+Mojolicious::Plugin::Localize::Command::localize undef  pkg:cpan/Mojolicious-Plugin-Localize@0.23
+Mojolicious::Plugin::Localize::Locale undef  pkg:cpan/Mojolicious-Plugin-Localize@0.23
+Mojolicious::Plugin::Localize::Preference undef  pkg:cpan/Mojolicious-Plugin-Localize@0.23
+Mojolicious::Plugin::Localize::Quantify undef  pkg:cpan/Mojolicious-Plugin-Localize@0.23
 Mojolicious::Plugin::Loco          0.008  pkg:cpan/Mojolicious-Plugin-Loco@0.008
 Mojolicious::Plugin::Log::Access   0.041  pkg:cpan/Mojolicious-Plugin-Log-Access@0.041
 Mojolicious::Plugin::Log::Any      v2.0.0  pkg:cpan/Mojolicious-Plugin-Log-Any@v2.0.0
@@ -217036,8 +217041,8 @@ Sendmail::AccessDB                  1.04  pkg:cpan/Sendmail-AccessDB@1.04
 Sendmail::M4::Mail8                 0.33  pkg:cpan/Sendmail_M@4.0.29a
 Sendmail::M4::Utils                 0.27  pkg:cpan/Sendmail_M@4.0.29a
 Sendmail::Milter                    0.18  pkg:cpan/Sendmail-Milter@0.18
-Sendmail::PMilter                   1.27  pkg:cpan/Sendmail-PMilter@1.27
-Sendmail::PMilter::Context          1.27  pkg:cpan/Sendmail-PMilter@1.27
+Sendmail::PMilter                   1.28  pkg:cpan/Sendmail-PMilter@1.28
+Sendmail::PMilter::Context          1.28  pkg:cpan/Sendmail-PMilter@1.28
 Sendmail::Queue                    0.800  pkg:cpan/Sendmail-Queue@0.800
 Sendmail::Queue::Base              undef  pkg:cpan/Sendmail-Queue@0.800
 Sendmail::Queue::Df                undef  pkg:cpan/Sendmail-Queue@0.800
@@ -231852,7 +231857,7 @@ Test::XML::Deep                     0.07  pkg:cpan/Test-XML-Deep@0.07
 Test::XML::Easy                     0.01  pkg:cpan/Test-XML-Easy@0.01
 Test::XML::Easy::Ignore             0.01  pkg:cpan/Test-XML-Easy@0.01
 Test::XML::Element                  0.01  pkg:cpan/Test-XML-Element@0.01
-Test::XML::Loy                     undef  pkg:cpan/XML-Loy@0.52
+Test::XML::Loy                     undef  pkg:cpan/XML-Loy@0.53
 Test::XML::Order                    1.01  pkg:cpan/Test-XML-Order@1.01
 Test::XML::Ordered                 v0.2.2  pkg:cpan/Test-XML-Ordered@0.2.2
 Test::XML::RPC::Catalyst            0.01  pkg:cpan/Test-XML-RPC-Catalyst@0.01
@@ -257852,16 +257857,16 @@ XML::Liberal::Remedy::UndeclaredNS undef  pkg:cpan/XML-Liberal@0.32
 XML::Liberal::Remedy::UnquotedAttribute undef  pkg:cpan/XML-Liberal@0.32
 XML::Liberal::Remedy::XHTMLEmptyTag undef  pkg:cpan/XML-Liberal@0.32
 XML::Literal                        0.02  pkg:cpan/XML-Literal@0.02
-XML::Loy                            0.52  pkg:cpan/XML-Loy@0.52
-XML::Loy::ActivityStreams          undef  pkg:cpan/XML-Loy@0.52
-XML::Loy::Atom                     undef  pkg:cpan/XML-Loy@0.52
-XML::Loy::Atom::Threading          undef  pkg:cpan/XML-Loy@0.52
-XML::Loy::Date::RFC3339             0.03  pkg:cpan/XML-Loy@0.52
-XML::Loy::Date::RFC822             undef  pkg:cpan/XML-Loy@0.52
-XML::Loy::GeoRSS                   undef  pkg:cpan/XML-Loy@0.52
-XML::Loy::HostMeta                 undef  pkg:cpan/XML-Loy@0.52
-XML::Loy::OStatus                  undef  pkg:cpan/XML-Loy@0.52
-XML::Loy::XRD                      undef  pkg:cpan/XML-Loy@0.52
+XML::Loy                            0.53  pkg:cpan/XML-Loy@0.53
+XML::Loy::ActivityStreams          undef  pkg:cpan/XML-Loy@0.53
+XML::Loy::Atom                     undef  pkg:cpan/XML-Loy@0.53
+XML::Loy::Atom::Threading          undef  pkg:cpan/XML-Loy@0.53
+XML::Loy::Date::RFC3339             0.03  pkg:cpan/XML-Loy@0.53
+XML::Loy::Date::RFC822             undef  pkg:cpan/XML-Loy@0.53
+XML::Loy::GeoRSS                   undef  pkg:cpan/XML-Loy@0.53
+XML::Loy::HostMeta                 undef  pkg:cpan/XML-Loy@0.53
+XML::Loy::OStatus                  undef  pkg:cpan/XML-Loy@0.53
+XML::Loy::XRD                      undef  pkg:cpan/XML-Loy@0.53
 XML::Maker                           0.1  pkg:cpan/XML-Maker@0.01
 XML::Malware                        0.01  pkg:cpan/XML-Malware@0.01
 XML::Merge                           1.4  pkg:cpan/XML-Merge@1.4?ext=tgz
@@ -259667,7 +259672,7 @@ YAML::Full::Parser                 0.000001  pkg:cpan/YAML-Full@0.0.1
 YAML::Full::Representer            0.000001  pkg:cpan/YAML-Full@0.0.1
 YAML::Full::Serializer             0.000001  pkg:cpan/YAML-Full@0.0.1
 YAML::Hobo                         v0.2.0  pkg:cpan/YAML-Hobo@0.2.0
-YAML::LibYAML                      v0.909.0  pkg:cpan/YAML-LibYAML@v0.909.0
+YAML::LibYAML                      v0.910.0  pkg:cpan/YAML-LibYAML@v0.910.0
 YAML::LibYAML::API                 v0.14.0  pkg:cpan/YAML-LibYAML-API@v0.14.0
 YAML::LibYAML::API::XS             v0.14.0  pkg:cpan/YAML-LibYAML-API@v0.14.0
 YAML::LoadBundle                   v0.4.3  pkg:cpan/YAML-LoadBundle@v0.4.3
@@ -259841,8 +259846,8 @@ YAML::Type::regexp                 undef  pkg:cpan/YAML@1.31
 YAML::Type::undef                  undef  pkg:cpan/YAML@1.31
 YAML::Types                        undef  pkg:cpan/YAML@1.31
 YAML::Warning                      undef  pkg:cpan/YAML@1.31
-YAML::XS                           v0.909.0  pkg:cpan/YAML-LibYAML@v0.909.0
-YAML::XS::LibYAML                  v0.909.0  pkg:cpan/YAML-LibYAML@v0.909.0
+YAML::XS                           v0.910.0  pkg:cpan/YAML-LibYAML@v0.910.0
+YAML::XS::LibYAML                  v0.910.0  pkg:cpan/YAML-LibYAML@v0.910.0
 YAML::YAML2ADoc                    0.001000  pkg:cpan/YAML-YAML2ADoc@0.1.0
 YAML::yq::Helper                   0.002000  pkg:cpan/YAML-yq-Helper@0.2.0
 YAMLScript                         0.002023  pkg:cpan/YAMLScript@0.2.23
