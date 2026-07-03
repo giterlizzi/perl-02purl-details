@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 03 Jul 2026 17:17:14 GMT
+Last-Updated: Fri, 03 Jul 2026 19:08:04 GMT
 Line-Count: 265754
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -4837,7 +4837,7 @@ Alien::XPA                         v2.1.20.7  pkg:cpan/Alien-XPA@v2.1.20.7
 Alien::Xmake                        0.08  pkg:cpan/Alien-Xmake@0.08
 Alien::Xrepo                        0.08  pkg:cpan/Alien-Xmake@0.08
 Alien::Xrepo::PackageInfo          undef  pkg:cpan/Alien-Xmake@0.08
-Alien::YAMLScript                  0.002023  pkg:cpan/Alien-YAMLScript@0.2.23
+Alien::YAMLScript                  0.002024  pkg:cpan/Alien-YAMLScript@0.2.24
 Alien::YARA                        v0.0.1  pkg:cpan/Alien-YARA@v0.0.6
 Alien::Z3                          0.002  pkg:cpan/Alien-Z3@0.002
 Alien::ZMQ                          0.06  pkg:cpan/Alien-ZMQ@0.06
@@ -66304,15 +66304,15 @@ Dezi::Admin::API::Stats            0.006  pkg:cpan/Dezi-Admin@0.006
 Dezi::Admin::Config                0.006  pkg:cpan/Dezi-Admin@0.006
 Dezi::Admin::UI                    0.006  pkg:cpan/Dezi-Admin@0.006
 Dezi::Admin::Utils                 0.006  pkg:cpan/Dezi-Admin@0.006
-Dezi::Aggregator                   0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Aggregator::DBI              0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Aggregator::FS               0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Aggregator::Mail             0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Aggregator::MailFS           0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Aggregator::Spider           0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Aggregator::Spider::Response 0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Aggregator::Spider::UA       0.017  pkg:cpan/Dezi-App@0.017
-Dezi::App                          0.017  pkg:cpan/Dezi-App@0.017
+Dezi::Aggregator                   0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Aggregator::DBI              0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Aggregator::FS               0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Aggregator::Mail             0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Aggregator::MailFS           0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Aggregator::Spider           0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Aggregator::Spider::Response 0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Aggregator::Spider::UA       0.018  pkg:cpan/Dezi-App@0.018
+Dezi::App                          0.018  pkg:cpan/Dezi-App@0.018
 Dezi::Bot                          0.003  pkg:cpan/Dezi-Bot@0.003
 Dezi::Bot::Cache                   0.003  pkg:cpan/Dezi-Bot@0.003
 Dezi::Bot::Handler                 0.003  pkg:cpan/Dezi-Bot@0.003
@@ -66321,47 +66321,47 @@ Dezi::Bot::Queue                   0.003  pkg:cpan/Dezi-Bot@0.003
 Dezi::Bot::Queue::DBI              0.003  pkg:cpan/Dezi-Bot@0.003
 Dezi::Bot::Spider                  0.003  pkg:cpan/Dezi-Bot@0.003
 Dezi::Bot::Utils                   0.003  pkg:cpan/Dezi-Bot@0.003
-Dezi::CLI                          0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Cache                        0.017  pkg:cpan/Dezi-App@0.017
+Dezi::CLI                          0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Cache                        0.018  pkg:cpan/Dezi-App@0.018
 Dezi::Client                       0.003004  pkg:cpan/Dezi-Client@0.003004
 Dezi::Config                       0.004003  pkg:cpan/Dezi@0.004003
 Dezi::Doc                          0.003004  pkg:cpan/Dezi-Client@0.003004
-Dezi::Indexer                      0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Indexer::Config              0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Indexer::Doc                 0.017  pkg:cpan/Dezi-App@0.017
-Dezi::InvIndex                     0.017  pkg:cpan/Dezi-App@0.017
-Dezi::InvIndex::Header             0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Lucy                         0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Lucy::Indexer                0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Lucy::InvIndex               0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Lucy::Result                 0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Lucy::Results                0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Lucy::Searcher               0.017  pkg:cpan/Dezi-App@0.017
+Dezi::Indexer                      0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Indexer::Config              0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Indexer::Doc                 0.018  pkg:cpan/Dezi-App@0.018
+Dezi::InvIndex                     0.018  pkg:cpan/Dezi-App@0.018
+Dezi::InvIndex::Header             0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Lucy                         0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Lucy::Indexer                0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Lucy::InvIndex               0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Lucy::Result                 0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Lucy::Results                0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Lucy::Searcher               0.018  pkg:cpan/Dezi-App@0.018
 Dezi::MultiTenant                  0.003  pkg:cpan/Dezi-MultiTenant@0.003
 Dezi::MultiTenant::Config          0.003  pkg:cpan/Dezi-MultiTenant@0.003
-Dezi::Queue                        0.017  pkg:cpan/Dezi-App@0.017
-Dezi::ReplaceRules                 0.017  pkg:cpan/Dezi-App@0.017
+Dezi::Queue                        0.018  pkg:cpan/Dezi-App@0.018
+Dezi::ReplaceRules                 0.018  pkg:cpan/Dezi-App@0.018
 Dezi::Response                     0.003004  pkg:cpan/Dezi-Client@0.003004
-Dezi::Result                       0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Results                      0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Role                         0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Searcher                     0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Searcher::SearchOpts         0.017  pkg:cpan/Dezi-App@0.017
+Dezi::Result                       0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Results                      0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Role                         0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Searcher                     0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Searcher::SearchOpts         0.018  pkg:cpan/Dezi-App@0.018
 Dezi::Server                       0.004003  pkg:cpan/Dezi@0.004003
 Dezi::Server::About                0.004003  pkg:cpan/Dezi@0.004003
 Dezi::Stats                        0.001006  pkg:cpan/Dezi-Stats@0.001006
 Dezi::Stats::DBI                   0.001006  pkg:cpan/Dezi-Stats@0.001006
 Dezi::Stats::File                  0.001006  pkg:cpan/Dezi-Stats@0.001006
-Dezi::Test::Doc                    0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Test::Indexer                0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Test::InvIndex               0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Test::Result                 0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Test::Results                0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Test::ResultsPayload         0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Test::Searcher               0.017  pkg:cpan/Dezi-App@0.017
-Dezi::Types                        0.017  pkg:cpan/Dezi-App@0.017
+Dezi::Test::Doc                    0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Test::Indexer                0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Test::InvIndex               0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Test::Result                 0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Test::Results                0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Test::ResultsPayload         0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Test::Searcher               0.018  pkg:cpan/Dezi-App@0.018
+Dezi::Types                        0.018  pkg:cpan/Dezi-App@0.018
 Dezi::UI                           0.001005  pkg:cpan/Dezi-UI@0.001005
-Dezi::Utils                        0.017  pkg:cpan/Dezi-App@0.017
+Dezi::Utils                        0.018  pkg:cpan/Dezi-App@0.018
 DfClient                           undef  pkg:cpan/Db-DFC@0.4
 DfException                        undef  pkg:cpan/Db-DFC@0.4
 DfId                                 0.1  pkg:cpan/Db-DFC@0.1
@@ -115785,7 +115785,7 @@ JSON::Schema::Modern::Vocabulary::Validation 0.641  pkg:cpan/JSON-Schema-Modern@
 JSON::Schema::Null                 0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Result               0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Shorthand            v0.0.2  pkg:cpan/JSON-Schema-Shorthand@0.0.2
-JSON::Schema::Tiny                 0.033  pkg:cpan/JSON-Schema-Tiny@0.033
+JSON::Schema::Tiny                 0.034  pkg:cpan/JSON-Schema-Tiny@0.034
 JSON::Schema::ToJSON                0.20  pkg:cpan/JSON-Schema-ToJSON@0.20
 JSON::Schema::Types                0.001  pkg:cpan/JSON-Schema-Types@0.001
 JSON::Schema::Validate             0.009000  pkg:cpan/JSON-Schema-Validate@v0.9.0
@@ -259897,8 +259897,8 @@ YAML::XS                           v0.910.0  pkg:cpan/YAML-LibYAML@v0.910.0
 YAML::XS::LibYAML                  v0.910.0  pkg:cpan/YAML-LibYAML@v0.910.0
 YAML::YAML2ADoc                    0.001000  pkg:cpan/YAML-YAML2ADoc@0.1.0
 YAML::yq::Helper                   0.002000  pkg:cpan/YAML-yq-Helper@0.2.0
-YAMLScript                         0.002023  pkg:cpan/YAMLScript@0.2.23
-YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.2.23
+YAMLScript                         0.002024  pkg:cpan/YAMLScript@0.2.24
+YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.2.24
 YAMLScript::Base                   undef  pkg:cpan/YAMLScript@0.0.7
 YAMLScript::CLI                    undef  pkg:cpan/YAMLScript@0.1.3
 YAMLScript::Call                   undef  pkg:cpan/YAMLScript@0.0.16
