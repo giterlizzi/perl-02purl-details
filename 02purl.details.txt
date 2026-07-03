@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 02 Jul 2026 22:58:20 GMT
-Line-Count: 265678
+Last-Updated: Fri, 03 Jul 2026 02:14:20 GMT
+Line-Count: 265685
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -163139,6 +163139,8 @@ Params::Registry::Instance          0.03  pkg:cpan/Params-Registry@0.08
 Params::Registry::Template          0.04  pkg:cpan/Params-Registry@0.08
 Params::Registry::Types             0.02  pkg:cpan/Params-Registry@0.08
 Params::Sah                        0.073  pkg:cpan/Params-Sah@0.073
+Params::Signature                   0.05  pkg:cpan/Params-Signature@0.05
+Params::Signature::Multi            0.05  pkg:cpan/Params-Signature@0.05
 Params::Smart                       0.09  pkg:cpan/Params-Smart@0.09
 Params::SomeUtil                    1.09  pkg:cpan/Params-SomeUtil@1.09
 Params::Style                       0.06  pkg:cpan/Params-Style@0.06
@@ -232099,6 +232101,11 @@ Text::Annotated::Reader             0.04  pkg:cpan/Text-Annotated-Line@0.04
 Text::Annotated::Writer             0.04  pkg:cpan/Text-Annotated-Line@0.04
 Text::AsReadWithoutIntonation        0.9  pkg:cpan/Text-AsReadWithoutIntonation@0.9
 Text::AsciiTeX                      0.05  pkg:cpan/Text-AsciiTeX@0.05
+Text::AsciidocDown                 0.001000  pkg:cpan/Text-AsciidocDown@0.1.0
+Text::AsciidocDown::Include        0.001000  pkg:cpan/Text-AsciidocDown@0.1.0
+Text::AsciidocDown::Parser         0.001000  pkg:cpan/Text-AsciidocDown@0.1.0
+Text::AsciidocDown::Refs           0.001000  pkg:cpan/Text-AsciidocDown@0.1.0
+Text::AsciidocDown::Subs           0.001000  pkg:cpan/Text-AsciidocDown@0.1.0
 Text::Aspell                        0.09  pkg:cpan/Text-Aspell@0.09
 Text::Authinfo                      0.03  pkg:cpan/Text-Authinfo@0.03
 Text::AutoCSV                      1.002000  pkg:cpan/Text-AutoCSV@1.2.0
