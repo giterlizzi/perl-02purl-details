@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 03 Jul 2026 19:08:04 GMT
+Last-Updated: Fri, 03 Jul 2026 20:56:39 GMT
 Line-Count: 265754
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -29352,7 +29352,7 @@ Buffer::Transactional::Buffer::Array  0.02  pkg:cpan/Buffer-Transactional@0.02
 Buffer::Transactional::Buffer::File  0.02  pkg:cpan/Buffer-Transactional@0.02
 Buffer::Transactional::Buffer::Lazy  0.02  pkg:cpan/Buffer-Transactional@0.02
 Buffer::Transactional::Buffer::String  0.02  pkg:cpan/Buffer-Transactional@0.02
-BufferWithInt                       1.22  pkg:cpan/Crypt-DSA@1.22
+BufferWithInt                       1.23  pkg:cpan/Crypt-DSA@1.23
 BugCli                               0.2  pkg:cpan/BugCli@0.2
 BugCli::Completions                undef  pkg:cpan/BugCli@0.2
 BugCli::Config                     undef  pkg:cpan/BugCli@0.2
@@ -49181,7 +49181,7 @@ Crypt::DH::GMP::Compat             undef  pkg:cpan/Crypt-DH-GMP@0.00012
 Crypt::DRBG                        0.001000  pkg:cpan/Crypt-DRBG@0.001000
 Crypt::DRBG::HMAC                  0.001000  pkg:cpan/Crypt-DRBG@0.001000
 Crypt::DRBG::Hash                  0.001000  pkg:cpan/Crypt-DRBG@0.001000
-Crypt::DSA                          1.22  pkg:cpan/Crypt-DSA@1.22
+Crypt::DSA                          1.23  pkg:cpan/Crypt-DSA@1.23
 Crypt::DSA::GMP                     0.02  pkg:cpan/Crypt-DSA-GMP@0.02
 Crypt::DSA::GMP::Key                0.01  pkg:cpan/Crypt-DSA-GMP@0.02
 Crypt::DSA::GMP::Key::PEM           0.01  pkg:cpan/Crypt-DSA-GMP@0.02
@@ -49189,12 +49189,12 @@ Crypt::DSA::GMP::Key::SSH2          0.01  pkg:cpan/Crypt-DSA-GMP@0.02
 Crypt::DSA::GMP::KeyChain           0.01  pkg:cpan/Crypt-DSA-GMP@0.02
 Crypt::DSA::GMP::Signature          0.01  pkg:cpan/Crypt-DSA-GMP@0.02
 Crypt::DSA::GMP::Util               0.01  pkg:cpan/Crypt-DSA-GMP@0.02
-Crypt::DSA::Key                     1.22  pkg:cpan/Crypt-DSA@1.22
-Crypt::DSA::Key::PEM                1.22  pkg:cpan/Crypt-DSA@1.22
-Crypt::DSA::Key::SSH2               1.22  pkg:cpan/Crypt-DSA@1.22
-Crypt::DSA::KeyChain                1.22  pkg:cpan/Crypt-DSA@1.22
-Crypt::DSA::Signature               1.22  pkg:cpan/Crypt-DSA@1.22
-Crypt::DSA::Util                    1.22  pkg:cpan/Crypt-DSA@1.22
+Crypt::DSA::Key                     1.23  pkg:cpan/Crypt-DSA@1.23
+Crypt::DSA::Key::PEM                1.23  pkg:cpan/Crypt-DSA@1.23
+Crypt::DSA::Key::SSH2               1.23  pkg:cpan/Crypt-DSA@1.23
+Crypt::DSA::KeyChain                1.23  pkg:cpan/Crypt-DSA@1.23
+Crypt::DSA::Signature               1.23  pkg:cpan/Crypt-DSA@1.23
+Crypt::DSA::Util                    1.23  pkg:cpan/Crypt-DSA@1.23
 Crypt::Diceware                    0.005  pkg:cpan/Crypt-Diceware@0.005
 Crypt::Diceware::Wordlist::Beale   0.005  pkg:cpan/Crypt-Diceware@0.005
 Crypt::Diceware::Wordlist::Common  0.005  pkg:cpan/Crypt-Diceware@0.005
@@ -194528,7 +194528,7 @@ Perinci::WebScript::JSON           0.002  pkg:cpan/Perinci-WebScript-JSON@0.002
 Periscope                          undef  pkg:cpan/Periscope@0.0.3
 Perl4::CoreLibs                    0.005  pkg:cpan/Perl4-CoreLibs@0.005
 Perl500503Syntax::OrDie             0.03  pkg:cpan/Perl500503Syntax-OrDie@0.03
-Perl5::Build::Warnings              0.05  pkg:cpan/Perl5-Build-Warnings@0.05
+Perl5::Build::Warnings              0.07  pkg:cpan/Perl5-Build-Warnings@0.07
 Perl5::CoreSmokeDB::Schema          1.12  pkg:cpan/Perl5-CoreSmokeDB-Schema@1.12
 Perl5::CoreSmokeDB::Schema::Result::Config undef  pkg:cpan/Perl5-CoreSmokeDB-Schema@1.12
 Perl5::CoreSmokeDB::Schema::Result::Failure undef  pkg:cpan/Perl5-CoreSmokeDB-Schema@1.12
