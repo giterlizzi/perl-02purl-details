@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 04 Jul 2026 02:12:52 GMT
-Line-Count: 265825
+Last-Updated: Sat, 04 Jul 2026 06:41:14 GMT
+Line-Count: 265830
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -4028,18 +4028,18 @@ Algorithm::CheckDigits::MXX_004    v1.3.6  pkg:cpan/Algorithm-CheckDigits@v1.3.6
 Algorithm::CheckDigits::MXX_005    v1.3.6  pkg:cpan/Algorithm-CheckDigits@v1.3.6
 Algorithm::CheckDigits::MXX_006    v1.3.6  pkg:cpan/Algorithm-CheckDigits@v1.3.6
 Algorithm::ChooseSubsets            0.02  pkg:cpan/Algorithm-ChooseSubsets@0.02
-Algorithm::Classifier::IsolationForest 0.003000  pkg:cpan/Algorithm-Classifier-IsolationForest@0.3.0
-Algorithm::Classifier::IsolationForest::App undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.3.0
-Algorithm::Classifier::IsolationForest::App::Command undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.3.0
-Algorithm::Classifier::IsolationForest::App::Command::accel undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.3.0
-Algorithm::Classifier::IsolationForest::App::Command::bench undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.3.0
-Algorithm::Classifier::IsolationForest::App::Command::csv2plot undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.3.0
-Algorithm::Classifier::IsolationForest::App::Command::fit undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.3.0
-Algorithm::Classifier::IsolationForest::App::Command::gblob undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.3.0
-Algorithm::Classifier::IsolationForest::App::Command::info undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.3.0
-Algorithm::Classifier::IsolationForest::App::Command::pack undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.3.0
-Algorithm::Classifier::IsolationForest::App::Command::predict undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.3.0
-Algorithm::Classifier::IsolationForest::PackedData 0.003000  pkg:cpan/Algorithm-Classifier-IsolationForest@0.3.0
+Algorithm::Classifier::IsolationForest 0.004000  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
+Algorithm::Classifier::IsolationForest::App undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
+Algorithm::Classifier::IsolationForest::App::Command undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
+Algorithm::Classifier::IsolationForest::App::Command::accel undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
+Algorithm::Classifier::IsolationForest::App::Command::bench undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
+Algorithm::Classifier::IsolationForest::App::Command::csv2plot undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
+Algorithm::Classifier::IsolationForest::App::Command::fit undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
+Algorithm::Classifier::IsolationForest::App::Command::gblob undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
+Algorithm::Classifier::IsolationForest::App::Command::info undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
+Algorithm::Classifier::IsolationForest::App::Command::pack undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
+Algorithm::Classifier::IsolationForest::App::Command::predict undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
+Algorithm::Classifier::IsolationForest::PackedData 0.004000  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
 Algorithm::Classifier::NaiveBayes  0.000001  pkg:cpan/Algorithm-Classifier-NaiveBayes@0.0.1
 Algorithm::Classifier::NaiveBayes::App undef  pkg:cpan/Algorithm-Classifier-NaiveBayes@0.0.1
 Algorithm::Classifier::NaiveBayes::App::Command undef  pkg:cpan/Algorithm-Classifier-NaiveBayes@0.0.1
@@ -17195,17 +17195,17 @@ Archive::Rgss3a                     0.11  pkg:cpan/Archive-Rgssad@0.11
 Archive::Rgssad                     0.11  pkg:cpan/Archive-Rgssad@0.11
 Archive::Rgssad::Entry               0.1  pkg:cpan/Archive-Rgssad@0.11
 Archive::Rgssad::Keygen              0.1  pkg:cpan/Archive-Rgssad@0.11
-Archive::SCS                        1.10  pkg:cpan/Archive-SCS@1.10
-Archive::SCS::CityHash              1.10  pkg:cpan/Archive-SCS@1.10
-Archive::SCS::DirIndex              1.10  pkg:cpan/Archive-SCS@1.10
-Archive::SCS::Directory             1.10  pkg:cpan/Archive-SCS@1.10
-Archive::SCS::GameDir               1.10  pkg:cpan/Archive-SCS@1.10
-Archive::SCS::HashFS                1.10  pkg:cpan/Archive-SCS@1.10
-Archive::SCS::HashFS2               1.10  pkg:cpan/Archive-SCS@1.10
-Archive::SCS::InMemory              1.10  pkg:cpan/Archive-SCS@1.10
-Archive::SCS::Mountable             1.10  pkg:cpan/Archive-SCS@1.10
-Archive::SCS::TObj                  1.10  pkg:cpan/Archive-SCS@1.10
-Archive::SCS::Zip                   1.10  pkg:cpan/Archive-SCS@1.10
+Archive::SCS                        1.11  pkg:cpan/Archive-SCS@1.11
+Archive::SCS::CityHash              1.11  pkg:cpan/Archive-SCS@1.11
+Archive::SCS::DirIndex              1.11  pkg:cpan/Archive-SCS@1.11
+Archive::SCS::Directory             1.11  pkg:cpan/Archive-SCS@1.11
+Archive::SCS::GameDir               1.11  pkg:cpan/Archive-SCS@1.11
+Archive::SCS::HashFS                1.11  pkg:cpan/Archive-SCS@1.11
+Archive::SCS::HashFS2               1.11  pkg:cpan/Archive-SCS@1.11
+Archive::SCS::InMemory              1.11  pkg:cpan/Archive-SCS@1.11
+Archive::SCS::Mountable             1.11  pkg:cpan/Archive-SCS@1.11
+Archive::SCS::TObj                  1.11  pkg:cpan/Archive-SCS@1.11
+Archive::SCS::Zip                   1.11  pkg:cpan/Archive-SCS@1.11
 Archive::SelfExtract                 1.3  pkg:cpan/Archive-SelfExtract@1.3
 Archive::SevenZip                   0.20  pkg:cpan/Archive-SevenZip@0.20
 Archive::SevenZip::API::ArchiveTar  0.20  pkg:cpan/Archive-SevenZip@0.20
@@ -22501,7 +22501,7 @@ BellmanFord                         0.03  pkg:cpan/Algorithm-BellmanFord@0.03
 Bench::CompactTree                 undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
 Bench::ExpatHandler                undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
 Bench::SAXHandler                  undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
-BenchAccel                         undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.3.0
+BenchAccel                         undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
 Bencher                            v1.62.4  pkg:cpan/Bencher@1.062.4
 Bencher::BPM                       0.002  pkg:cpan/Bencher-BPM@0.002
 Bencher::Backend                   1.063  pkg:cpan/Bencher-Backend@1.063
@@ -74796,6 +74796,10 @@ File::RandomAccess                  1.13  pkg:cpan/Image-ExifTool@13.55
 File::RandomGenerator               0.06  pkg:cpan/File-RandomGenerator@0.06
 File::RandomLine                    0.20  pkg:cpan/File-RandomLine@0.20
 File::Raw                           0.13  pkg:cpan/File-Raw@0.13
+File::Raw::Archive                  0.01  pkg:cpan/File-Raw-Archive@0.01
+File::Raw::Archive::Entry           0.01  pkg:cpan/File-Raw-Archive@0.01
+File::Raw::Archive::Reader          0.01  pkg:cpan/File-Raw-Archive@0.01
+File::Raw::Archive::Writer          0.01  pkg:cpan/File-Raw-Archive@0.01
 File::Raw::Base64                   0.04  pkg:cpan/File-Raw-Base64@0.04
 File::Raw::Gzip                     0.03  pkg:cpan/File-Raw-Gzip@0.03
 File::Raw::Hash                     0.03  pkg:cpan/File-Raw-Hash@0.03
@@ -137930,36 +137934,37 @@ Module::Functions                  v2.1.3  pkg:cpan/Module-Functions@2.1.3
 Module::Generate                    1.03  pkg:cpan/Module-Generate@1.03
 Module::Generate::Hash              1.00  pkg:cpan/Module-Generate-Hash@1.00
 Module::Generate::YAML              1.00  pkg:cpan/Module-Generate-YAML@1.00
-Module::Generic                    1.005011  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::Array             2.003001  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::Boolean           1.002002  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::DateTime          0.006005  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::DateTime::Interval 0.006005  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::Dynamic           1.003002  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::Exception         1.004001  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::File              0.016002  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::File::Cache       0.003001  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::File::IO          0.002001  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::File::Magic       0.002000  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::File::Mmap        0.001005  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::Finfo             0.005007  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::Global            1.002002  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::Hash              1.005003  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::HeaderValue       0.004004  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::Infinity          2.004000  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::Iterator          1.002004  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::Iterator::Element 1.002004  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::JSON              0.002002  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::Nan               2.004000  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::Null              1.001005  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::Number            2.004000  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::NumberSpecial     2.004000  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::Scalar            1.004004  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::Scalar::IO        0.002001  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::SharedMem         0.005005  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::SharedMemXS       0.003004  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::Tie               1.002000  pkg:cpan/Module-Generic@v1.5.11
-Module::Generic::TieHash           1.002003  pkg:cpan/Module-Generic@v1.5.11
+Module::Generic                    1.006000  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::Array             2.003001  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::Boolean           1.002002  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::DateTime          0.006005  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::DateTime::Interval 0.006005  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::Dynamic           1.003002  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::Exception         1.004001  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::File              0.016002  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::File::Cache       0.003001  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::File::IO          0.002001  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::File::Magic       0.002000  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::File::Mmap        0.001005  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::Finfo             0.005007  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::Global            1.002002  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::Hash              1.005003  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::HeaderValue       0.004004  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::Infinity          2.005000  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::Iterator          1.002004  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::Iterator::Element 1.002004  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::JSON              0.002002  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::Nan               2.005000  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::Null              1.001005  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::Number            2.005000  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::Number::Format    0.001000  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::NumberSpecial     2.005000  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::Scalar            1.004004  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::Scalar::IO        0.002001  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::SharedMem         0.005005  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::SharedMemXS       0.003004  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::Tie               1.002000  pkg:cpan/Module-Generic@v1.6.0
+Module::Generic::TieHash           1.002003  pkg:cpan/Module-Generic@v1.6.0
 Module::Hash                       0.002  pkg:cpan/Module-Hash@0.002
 Module::HideRename                 0.003  pkg:cpan/Module-HideRename@0.003
 Module::Husbandry                  0.002  pkg:cpan/Module-Husbandry@0.002
@@ -236204,9 +236209,9 @@ Travel::Status::DE::HAFAS::Result   3.01  pkg:cpan/Travel-Status-DE-DeutscheBahn
 Travel::Status::DE::HAFAS::Services  6.25  pkg:cpan/Travel-Status-DE-HAFAS@6.25
 Travel::Status::DE::HAFAS::Stop     6.25  pkg:cpan/Travel-Status-DE-HAFAS@6.25
 Travel::Status::DE::HAFAS::StopFinder  6.25  pkg:cpan/Travel-Status-DE-HAFAS@6.25
-Travel::Status::DE::IRIS            2.04  pkg:cpan/Travel-Status-DE-IRIS@2.04
-Travel::Status::DE::IRIS::Result    2.04  pkg:cpan/Travel-Status-DE-IRIS@2.04
-Travel::Status::DE::IRIS::Stations  2.04  pkg:cpan/Travel-Status-DE-IRIS@2.04
+Travel::Status::DE::IRIS            2.05  pkg:cpan/Travel-Status-DE-IRIS@2.05
+Travel::Status::DE::IRIS::Result    2.05  pkg:cpan/Travel-Status-DE-IRIS@2.05
+Travel::Status::DE::IRIS::Stations  2.05  pkg:cpan/Travel-Status-DE-IRIS@2.05
 Travel::Status::DE::MvgMainz        2.01  pkg:cpan/Travel-Status-DE-URA@2.01
 Travel::Status::DE::URA             2.01  pkg:cpan/Travel-Status-DE-URA@2.01
 Travel::Status::DE::URA::Result     2.01  pkg:cpan/Travel-Status-DE-URA@2.01
