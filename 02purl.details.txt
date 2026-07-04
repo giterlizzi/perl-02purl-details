@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 04 Jul 2026 20:47:00 GMT
+Last-Updated: Sat, 04 Jul 2026 22:51:30 GMT
 Line-Count: 265879
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -4840,7 +4840,7 @@ Alien::XPA                         v2.1.20.7  pkg:cpan/Alien-XPA@v2.1.20.7
 Alien::Xmake                        0.08  pkg:cpan/Alien-Xmake@0.08
 Alien::Xrepo                        0.08  pkg:cpan/Alien-Xmake@0.08
 Alien::Xrepo::PackageInfo          undef  pkg:cpan/Alien-Xmake@0.08
-Alien::YAMLScript                  0.002024  pkg:cpan/Alien-YAMLScript@0.2.24
+Alien::YAMLScript                  0.002025  pkg:cpan/Alien-YAMLScript@0.2.25
 Alien::YARA                        v0.0.1  pkg:cpan/Alien-YARA@v0.0.6
 Alien::Z3                          0.002  pkg:cpan/Alien-Z3@0.002
 Alien::ZMQ                          0.06  pkg:cpan/Alien-ZMQ@0.06
@@ -74806,10 +74806,10 @@ File::RandomAccess                  1.13  pkg:cpan/Image-ExifTool@13.55
 File::RandomGenerator               0.06  pkg:cpan/File-RandomGenerator@0.06
 File::RandomLine                    0.20  pkg:cpan/File-RandomLine@0.20
 File::Raw                           0.13  pkg:cpan/File-Raw@0.13
-File::Raw::Archive                  0.01  pkg:cpan/File-Raw-Archive@0.01
-File::Raw::Archive::Entry           0.01  pkg:cpan/File-Raw-Archive@0.01
-File::Raw::Archive::Reader          0.01  pkg:cpan/File-Raw-Archive@0.01
-File::Raw::Archive::Writer          0.01  pkg:cpan/File-Raw-Archive@0.01
+File::Raw::Archive                  0.02  pkg:cpan/File-Raw-Archive@0.02
+File::Raw::Archive::Entry           0.02  pkg:cpan/File-Raw-Archive@0.02
+File::Raw::Archive::Reader          0.02  pkg:cpan/File-Raw-Archive@0.02
+File::Raw::Archive::Writer          0.02  pkg:cpan/File-Raw-Archive@0.02
 File::Raw::Base64                   0.04  pkg:cpan/File-Raw-Base64@0.04
 File::Raw::Gzip                     0.03  pkg:cpan/File-Raw-Gzip@0.03
 File::Raw::Hash                     0.03  pkg:cpan/File-Raw-Hash@0.03
@@ -156451,8 +156451,8 @@ Object::Pluggable::Pipeline         1.29  pkg:cpan/Object-Pluggable@1.29
 Object::Previous                   1.1012  pkg:cpan/Object-Previous@1.1012
 Object::Properties                 1.003  pkg:cpan/Object-Properties@1.003
 Object::Properties::Base           1.003  pkg:cpan/Object-Properties@1.003
-Object::Proto                       0.17  pkg:cpan/Object-Proto@0.17
-Object::Proto::Install::Files      undef  pkg:cpan/Object-Proto@0.17
+Object::Proto                       0.18  pkg:cpan/Object-Proto@0.18
+Object::Proto::Install::Files      undef  pkg:cpan/Object-Proto@0.18
 Object::Proto::Sugar                0.05  pkg:cpan/Object-Proto-Sugar@0.05
 Object::Prototype                   0.02  pkg:cpan/Object-Prototype@0.02
 Object::Quick                      undef  pkg:cpan/Mock-Quick@1.111
@@ -205872,7 +205872,7 @@ Regex::Object                       1.25  pkg:cpan/Regex-Object@1.25
 Regex::Object::Match               undef  pkg:cpan/Regex-Object@1.25
 Regex::Object::Matches             undef  pkg:cpan/Regex-Object@1.25
 Regex::PreSuf                       1.17  pkg:cpan/Regex-PreSuf@1.17
-Regex::Range::Number                0.07  pkg:cpan/Regex-Range-Number@0.07
+Regex::Range::Number                0.08  pkg:cpan/Regex-Range-Number@0.08
 Regexgene                           0.01  pkg:cpan/AI-Gene-Sequence@0.22
 Regexp::Assemble                    0.38  pkg:cpan/Regexp-Assemble@0.38?ext=tgz
 Regexp::Assemble::Compressed        0.02  pkg:cpan/Regexp-Assemble-Compressed@0.02
@@ -260022,8 +260022,8 @@ YAML::XS                           v0.910.0  pkg:cpan/YAML-LibYAML@v0.910.0
 YAML::XS::LibYAML                  v0.910.0  pkg:cpan/YAML-LibYAML@v0.910.0
 YAML::YAML2ADoc                    0.001000  pkg:cpan/YAML-YAML2ADoc@0.1.0
 YAML::yq::Helper                   0.002000  pkg:cpan/YAML-yq-Helper@0.2.0
-YAMLScript                         0.002024  pkg:cpan/YAMLScript@0.2.24
-YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.2.24
+YAMLScript                         0.002025  pkg:cpan/YAMLScript@0.2.25
+YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.2.25
 YAMLScript::Base                   undef  pkg:cpan/YAMLScript@0.0.7
 YAMLScript::CLI                    undef  pkg:cpan/YAMLScript@0.1.3
 YAMLScript::Call                   undef  pkg:cpan/YAMLScript@0.0.16
