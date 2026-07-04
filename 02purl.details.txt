@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 03 Jul 2026 22:56:05 GMT
-Line-Count: 265755
+Last-Updated: Sat, 04 Jul 2026 02:12:52 GMT
+Line-Count: 265825
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -150638,7 +150638,7 @@ Net::Nmsg::XS::output_pres          0.17  pkg:cpan/Net-Nmsg@0.17
 Net::Nmsg::XS::output_sock          0.17  pkg:cpan/Net-Nmsg@0.17
 Net::Nmsg::XS::pcap                 0.17  pkg:cpan/Net-Nmsg@0.17
 Net::NodeTransformator             0.105  pkg:cpan/Net-NodeTransformator@0.105
-Net::Nostr                         2.001000  pkg:cpan/Net-Nostr@2.001000
+Net::Nostr                         2.002000  pkg:cpan/Net-Nostr@2.002000
 Net::Nostr::AppData                undef  pkg:cpan/Net-Nostr-Core@1.001000
 Net::Nostr::AppHandler             undef  pkg:cpan/Net-Nostr-Core@1.001000
 Net::Nostr::Article                undef  pkg:cpan/Net-Nostr-Core@1.001000
@@ -157242,6 +157242,76 @@ OpenSSH::Fingerprint                0.02  pkg:cpan/OpenSSH-Fingerprint@0.02
 OpenSSL::Versions                  0.002  pkg:cpan/OpenSSL-Versions@0.002
 OpenSearch                          0.94  pkg:cpan/OpenSearch@0.94
 OpenSearch::Base                   undef  pkg:cpan/OpenSearch@0.94
+OpenSearch::Client                 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0      3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::AsyncSearch 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::Cat 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::Cluster 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::DanglingIndices 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::FlowFramework 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::GeoSpatial 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::ISM 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::Indices 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::Ingest 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::Ingestion 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::Insights 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::KNN 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::LTR 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::List 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::ML 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::Neural 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::Nodes 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::Notifications 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::Observability 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::PPL 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::Query 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::RemoteStore 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::Replication 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::Rollups 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::SQL 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::SearchPipeline 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::SearchRelevance 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::Security 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::SecurityAnalytics 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::Snapshot 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::SnapshotManagement 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::Tasks 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::Transforms 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::UBI 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Direct::WLM 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Helper::Bulk 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Helper::Scroll 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Role::API 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Role::Helper::Bulk 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Core::3_0::Role::Helper::Scroll 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Cxn::Factory   3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Cxn::HTTPTiny  3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Cxn::LWP       3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::CxnPool::Sniff 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::CxnPool::Static 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::CxnPool::Static::NoPing 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Error          3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Logger::LogAny 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Role::API      3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Role::Client   3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Role::Client::Direct 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Role::Cxn      3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Role::CxnPool  3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Role::CxnPool::Sniff 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Role::CxnPool::Static 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Role::CxnPool::Static::NoPing 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Role::Is_Sync  3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Role::Logger   3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Role::Serializer 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Role::Serializer::JSON 3.070  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Role::Transport 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Serializer::JSON 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Serializer::JSON::Cpanel 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Serializer::JSON::PP 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Serializer::JSON::XS 3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Transport      3.007002  pkg:cpan/OpenSearch-Client@3.007002
+OpenSearch::Client::Util           3.007002  pkg:cpan/OpenSearch-Client@3.007002
 OpenSearch::Cluster                undef  pkg:cpan/OpenSearch@0.94
 OpenSearch::Cluster::Allocation    undef  pkg:cpan/OpenSearch@0.90
 OpenSearch::Cluster::Allocation::Explain undef  pkg:cpan/OpenSearch@0.90
