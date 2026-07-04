@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 04 Jul 2026 14:59:53 GMT
-Line-Count: 265835
+Last-Updated: Sat, 04 Jul 2026 16:56:55 GMT
+Line-Count: 265838
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -44910,9 +44910,12 @@ Chloro::Types                       0.07  pkg:cpan/Chloro@0.07
 Chloro::Types::Internal             0.07  pkg:cpan/Chloro@0.07
 Choice                             undef  pkg:cpan/ZZZ-SDK@0.0.2
 Chooser                              2.0  pkg:cpan/Chooser@2.0.0
-Chorus::Engine                      1.03  pkg:cpan/Chorus-Expert@1.03
-Chorus::Expert                      1.03  pkg:cpan/Chorus-Expert@1.03
-Chorus::Frame                       1.03  pkg:cpan/Chorus-Expert@1.03
+Chorus                             v2.0.1  pkg:cpan/Chorus@2.0.1
+Chorus::Collection::Filter         v2.0.1  pkg:cpan/Chorus@2.0.1
+Chorus::Collection::List           v2.0.1  pkg:cpan/Chorus@2.0.1
+Chorus::Engine                     v2.0.1  pkg:cpan/Chorus@2.0.1
+Chorus::Expert                     v2.0.1  pkg:cpan/Chorus@2.0.1
+Chorus::Frame                      v2.0.1  pkg:cpan/Chorus@2.0.1
 Chorus::Sample::Cursors             1.03  pkg:cpan/Chorus-Expert@1.03
 Chouette                           0.102  pkg:cpan/Chouette@0.102
 Chouette::Context                  undef  pkg:cpan/Chouette@0.102
