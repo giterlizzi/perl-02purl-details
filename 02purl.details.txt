@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 04 Jul 2026 18:59:59 GMT
-Line-Count: 265841
+Last-Updated: Sat, 04 Jul 2026 20:47:00 GMT
+Line-Count: 265879
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -4028,18 +4028,19 @@ Algorithm::CheckDigits::MXX_004    v1.3.6  pkg:cpan/Algorithm-CheckDigits@v1.3.6
 Algorithm::CheckDigits::MXX_005    v1.3.6  pkg:cpan/Algorithm-CheckDigits@v1.3.6
 Algorithm::CheckDigits::MXX_006    v1.3.6  pkg:cpan/Algorithm-CheckDigits@v1.3.6
 Algorithm::ChooseSubsets            0.02  pkg:cpan/Algorithm-ChooseSubsets@0.02
-Algorithm::Classifier::IsolationForest 0.004000  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
-Algorithm::Classifier::IsolationForest::App undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
-Algorithm::Classifier::IsolationForest::App::Command undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
-Algorithm::Classifier::IsolationForest::App::Command::accel undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
-Algorithm::Classifier::IsolationForest::App::Command::bench undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
-Algorithm::Classifier::IsolationForest::App::Command::csv2plot undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
-Algorithm::Classifier::IsolationForest::App::Command::fit undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
-Algorithm::Classifier::IsolationForest::App::Command::gblob undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
-Algorithm::Classifier::IsolationForest::App::Command::info undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
-Algorithm::Classifier::IsolationForest::App::Command::pack undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
-Algorithm::Classifier::IsolationForest::App::Command::predict undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
-Algorithm::Classifier::IsolationForest::PackedData 0.004000  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
+Algorithm::Classifier::IsolationForest 0.005000  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
+Algorithm::Classifier::IsolationForest::App undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
+Algorithm::Classifier::IsolationForest::App::Command undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
+Algorithm::Classifier::IsolationForest::App::Command::accel undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
+Algorithm::Classifier::IsolationForest::App::Command::bench undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
+Algorithm::Classifier::IsolationForest::App::Command::csv2plot undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
+Algorithm::Classifier::IsolationForest::App::Command::fit undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
+Algorithm::Classifier::IsolationForest::App::Command::gblob undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
+Algorithm::Classifier::IsolationForest::App::Command::info undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
+Algorithm::Classifier::IsolationForest::App::Command::pack undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
+Algorithm::Classifier::IsolationForest::App::Command::predict undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
+Algorithm::Classifier::IsolationForest::App::Command::set_voting undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
+Algorithm::Classifier::IsolationForest::PackedData 0.005000  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
 Algorithm::Classifier::NaiveBayes  0.000001  pkg:cpan/Algorithm-Classifier-NaiveBayes@0.0.1
 Algorithm::Classifier::NaiveBayes::App undef  pkg:cpan/Algorithm-Classifier-NaiveBayes@0.0.1
 Algorithm::Classifier::NaiveBayes::App::Command undef  pkg:cpan/Algorithm-Classifier-NaiveBayes@0.0.1
@@ -22503,7 +22504,7 @@ BellmanFord                         0.03  pkg:cpan/Algorithm-BellmanFord@0.03
 Bench::CompactTree                 undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
 Bench::ExpatHandler                undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
 Bench::SAXHandler                  undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
-BenchAccel                         undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.4.0
+BenchAccel                         undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
 Bencher                            v1.62.4  pkg:cpan/Bencher@1.062.4
 Bencher::BPM                       0.002  pkg:cpan/Bencher-BPM@0.002
 Bencher::Backend                   1.063  pkg:cpan/Bencher-Backend@1.063
@@ -133976,7 +133977,7 @@ MathWorks::platformList            undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::product                 undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepItem          undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepList          undef  pkg:cpan/XML-Pastor@0.6.0
-Matplotlib::Simple                  0.29  pkg:cpan/Matplotlib-Simple@0.29
+Matplotlib::Simple                   0.3  pkg:cpan/Matplotlib-Simple@0.3
 Matrix::Simple                      1.04  pkg:cpan/Matrix-Simple@1.04
 Matts::Message                     undef  pkg:cpan/Matts-Message-Parser@1.0
 Matts::Message::Parser               1.0  pkg:cpan/Matts-Message-Parser@1.0
@@ -229897,6 +229898,43 @@ Test::CLI                          0.001  pkg:cpan/Test-CLI@0.001
 Test::CPAN::Changes                0.500005  pkg:cpan/CPAN-Changes@0.500005
 Test::CPAN::Changes::ReallyStrict  1.000004  pkg:cpan/Test-CPAN-Changes-ReallyStrict@1.000004
 Test::CPAN::Changes::ReallyStrict::Object 1.000004  pkg:cpan/Test-CPAN-Changes-ReallyStrict@1.000004
+Test::CPAN::Health                 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Cache          0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Check          0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Check::AbandonedDeps 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Check::Benchmarks 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Check::CIConfig 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Check::CPANTesters 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Check::Changelog 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Check::Complexity 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Check::DeclaredDeps 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Check::Deprecations 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Check::DocQuality 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Check::DuplicateCode 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Check::Examples 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Check::Kwalitee 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Check::License 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Check::MetaJSON 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Check::MinPerl 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Check::PODCoverage 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Check::Perlcritic 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Check::ReadmeSync 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Check::ReverseDeps 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Check::SecurityAdvisories 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Check::SemVer  0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Check::StaleDeps 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Check::TestCoverage 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Check::VersionSync 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Config         0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Distribution   0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Report         0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Reporter::HTML 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Reporter::JSON 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Reporter::Markdown 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Reporter::TAP  0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Reporter::Terminal 0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Result         0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
+Test::CPAN::Health::Runner         0.001000  pkg:cpan/Test-CPAN-Health@0.1.0
 Test::CPAN::Meta                    0.25  pkg:cpan/Test-CPAN-Meta@0.25
 Test::CPAN::Meta::JSON              0.16  pkg:cpan/Test-CPAN-Meta-JSON@0.16
 Test::CPAN::Meta::JSON::Version     0.16  pkg:cpan/Test-CPAN-Meta-JSON@0.16
@@ -235489,14 +235527,14 @@ Tk::ExecuteCommand                   1.6  pkg:cpan/Tk-ExecuteCommand@1.6
 Tk::FBox                           4.021  pkg:cpan/Tk@804.036
 Tk::FastSplash                      0.16  pkg:cpan/Tk-Splash@0.16
 Tk::FcyEntry                         1.8  pkg:cpan/Tk-FcyEntry@1.8
-Tk::FileBrowser                     0.11  pkg:cpan/Tk-FileBrowser@0.11
+Tk::FileBrowser                     0.12  pkg:cpan/Tk-FileBrowser@0.12
 Tk::FileBrowser::Header             0.03  pkg:cpan/Tk-FileBrowser@0.11
 Tk::FileBrowser::Images             0.05  pkg:cpan/Tk-FileBrowser@0.11
-Tk::FileBrowser::Item               0.03  pkg:cpan/Tk-FileBrowser@0.11
+Tk::FileBrowser::Item               0.12  pkg:cpan/Tk-FileBrowser@0.12
 Tk::FileDialog                       1.3  pkg:cpan/Tk-FileDialog@1.3
 Tk::FileEntry                        2.4  pkg:cpan/Tk-FileEntry@2.4
-Tk::FileManager                     0.09  pkg:cpan/Tk-FileBrowser@0.11
-Tk::FilePicker                      0.09  pkg:cpan/Tk-FileBrowser@0.11
+Tk::FileManager                     0.12  pkg:cpan/Tk-FileBrowser@0.12
+Tk::FilePicker                      0.09  pkg:cpan/Tk-FileBrowser@0.12
 Tk::FileSave                       undef  pkg:cpan/ptkFAQ@0_03
 Tk::FileSelect                     4.018  pkg:cpan/Tk@804.036
 Tk::FileTree                        1.01  pkg:cpan/Tk-FileTree@1.01
