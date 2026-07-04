@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 04 Jul 2026 16:56:55 GMT
-Line-Count: 265838
+Last-Updated: Sat, 04 Jul 2026 18:59:59 GMT
+Line-Count: 265841
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -4120,6 +4120,8 @@ Algorithm::Easing::Quartinion      undef  pkg:cpan/Algorithm-Easing@0.998
 Algorithm::Easing::Quintonion      undef  pkg:cpan/Algorithm-Easing@0.998
 Algorithm::Easing::Sinusoidal      undef  pkg:cpan/Algorithm-Easing@0.998
 Algorithm::EquivalenceSets         1.101420  pkg:cpan/Algorithm-EquivalenceSets@1.101420
+Algorithm::EventsPerSecond         0.000001  pkg:cpan/Algorithm-EventsPerSecond@0.0.1
+Algorithm::EventsPerSecond::XS     0.000001  pkg:cpan/Algorithm-EventsPerSecond@0.0.1
 Algorithm::Evolutionary             0.80  pkg:cpan/Algorithm-Evolutionary@0.80
 Algorithm::Evolutionary::Experiment   3.4  pkg:cpan/Algorithm-Evolutionary@0.82.1
 Algorithm::Evolutionary::Fitness   3.102000  pkg:cpan/Algorithm-Evolutionary-Fitness@v3.102
@@ -33396,18 +33398,18 @@ CPAN::Local::Role::MetaCPAN::API   0.001  pkg:cpan/CPAN-Local-Role-MetaCPAN-API@
 CPAN::Local::Role::Prune           0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Local::Role::Remove          0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Maker                        v1.9.3  pkg:cpan/CPAN-Maker@1.9.3
-CPAN::Maker::Bootstrapper          v2.0.2  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.2
-CPAN::Maker::Bootstrapper::ConfigReader     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.2
-CPAN::Maker::Bootstrapper::Constants     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.2
-CPAN::Maker::Bootstrapper::Role::CreateConfig     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.2
-CPAN::Maker::Bootstrapper::Role::Init     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.2
-CPAN::Maker::Bootstrapper::Role::Installer     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.2
-CPAN::Maker::Bootstrapper::Role::LLM::Annotator     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.2
-CPAN::Maker::Bootstrapper::Role::LLM::Models     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.2
-CPAN::Maker::Bootstrapper::Role::LLM::ReleaseNotes     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.2
-CPAN::Maker::Bootstrapper::Role::LLM::Reviewer     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.2
-CPAN::Maker::Bootstrapper::Role::LLM::Utils     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.2
-CPAN::Maker::Bootstrapper::Role::ScaffoldImporter     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.2
+CPAN::Maker::Bootstrapper          v2.0.4  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
+CPAN::Maker::Bootstrapper::ConfigReader     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
+CPAN::Maker::Bootstrapper::Constants     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
+CPAN::Maker::Bootstrapper::Role::CreateConfig     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
+CPAN::Maker::Bootstrapper::Role::Init     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
+CPAN::Maker::Bootstrapper::Role::Installer     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
+CPAN::Maker::Bootstrapper::Role::LLM::Annotator     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
+CPAN::Maker::Bootstrapper::Role::LLM::Models     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
+CPAN::Maker::Bootstrapper::Role::LLM::ReleaseNotes     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
+CPAN::Maker::Bootstrapper::Role::LLM::Reviewer     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
+CPAN::Maker::Bootstrapper::Role::LLM::Utils     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
+CPAN::Maker::Bootstrapper::Role::ScaffoldImporter     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
 CPAN::Maker::Constants             v1.9.3  pkg:cpan/CPAN-Maker@1.9.3
 CPAN::Maker::Role::FileUtils       v1.9.3  pkg:cpan/CPAN-Maker@1.9.3
 CPAN::Maker::Role::ModuleUtils     v1.9.3  pkg:cpan/CPAN-Maker@1.9.3
@@ -83624,6 +83626,7 @@ Git::Release::BranchManager        undef  pkg:cpan/Git-Release@0.05
 Git::Release::Config               undef  pkg:cpan/Git-Release@0.05
 Git::Release::Remote               undef  pkg:cpan/Git-Release@0.05
 Git::Release::RemoteManager        undef  pkg:cpan/Git-Release@0.05
+Git::ReleaseDiffs                      0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
 Git::ReleaseRepo                   0.006  pkg:cpan/Git-ReleaseRepo@0.006
 Git::ReleaseRepo::Command          0.006  pkg:cpan/Git-ReleaseRepo@0.006
 Git::ReleaseRepo::Command::add     0.006  pkg:cpan/Git-ReleaseRepo@0.006
