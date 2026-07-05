@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 04 Jul 2026 22:51:30 GMT
-Line-Count: 265879
+Last-Updated: Sun, 05 Jul 2026 02:28:25 GMT
+Line-Count: 265880
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -47390,8 +47390,8 @@ Command::Common                    undef  pkg:cpan/UR@0.47
 Command::DynamicSubCommands        undef  pkg:cpan/UR@0.47
 Command::Interactive                 1.4  pkg:cpan/Command-Interactive@1.4
 Command::Interactive::Interaction   1.21  pkg:cpan/Command-Interactive@1.21
-Command::Run                        1.01  pkg:cpan/Command-Run@1.01
-Command::Run::Tmpfile              undef  pkg:cpan/Command-Run@1.01
+Command::Run                        1.02  pkg:cpan/Command-Run@1.02
+Command::Run::Tmpfile              undef  pkg:cpan/Command-Run@1.02
 Command::Runner                    v1.0.0  pkg:cpan/Command-Runner@v1.0.0
 Command::Runner::LineBuffer        undef  pkg:cpan/Command-Runner@v1.0.0
 Command::Runner::Quote             undef  pkg:cpan/Command-Runner@v1.0.0
@@ -64438,6 +64438,7 @@ Desktop::KDEActivity::Util         0.003  pkg:cpan/Desktop-KDEActivity-Util@0.00
 Desktop::Notify                     0.05  pkg:cpan/Desktop-Notify@0.05
 Desktop::Notify::Notification       0.03  pkg:cpan/Desktop-Notify@0.05
 Desktop::Open                      0.004  pkg:cpan/Desktop-Open@0.004
+Desktop::Workspace::Util           0.001  pkg:cpan/Desktop-Workspace-Util@0.001
 DesktopWorkspace                   v1.0.0  pkg:cpan/DesktopWorkspace@1.0.0
 DesktopWorkspace::Sample::Source::DefHash 0.001  pkg:cpan/DesktopWorkspaceRoles-Standard@0.001
 DesktopWorkspace::Test::Spec::Basic v1.0.0  pkg:cpan/DesktopWorkspace@1.0.0
@@ -158439,16 +158440,16 @@ PAGI::Response                     0.002001  pkg:cpan/PAGI-Tools@0.002001
 PAGI::Response::Writer             0.002001  pkg:cpan/PAGI-Tools@0.002001
 PAGI::Runner                       undef  pkg:cpan/PAGI@0.001023
 PAGI::SSE                          0.002001  pkg:cpan/PAGI-Tools@0.002001
-PAGI::Server                       0.002005  pkg:cpan/PAGI-Server@0.002005
-PAGI::Server::AsyncFile            0.002005  pkg:cpan/PAGI-Server@0.002005
-PAGI::Server::Connection           0.002005  pkg:cpan/PAGI-Server@0.002005
-PAGI::Server::ConnectionState      0.002005  pkg:cpan/PAGI-Server@0.002005
-PAGI::Server::EventValidator       0.002005  pkg:cpan/PAGI-Server@0.002005
-PAGI::Server::Protocol::HTTP1      0.002005  pkg:cpan/PAGI-Server@0.002005
-PAGI::Server::Protocol::HTTP2      0.002005  pkg:cpan/PAGI-Server@0.002005
+PAGI::Server                       0.002006  pkg:cpan/PAGI-Server@0.002006
+PAGI::Server::AsyncFile            0.002006  pkg:cpan/PAGI-Server@0.002006
+PAGI::Server::Connection           0.002006  pkg:cpan/PAGI-Server@0.002006
+PAGI::Server::ConnectionState      0.002006  pkg:cpan/PAGI-Server@0.002006
+PAGI::Server::EventValidator       0.002006  pkg:cpan/PAGI-Server@0.002006
+PAGI::Server::Protocol::HTTP1      0.002006  pkg:cpan/PAGI-Server@0.002006
+PAGI::Server::Protocol::HTTP2      0.002006  pkg:cpan/PAGI-Server@0.002006
 PAGI::Server::Protocol::HTTP2::Session 0.002004  pkg:cpan/PAGI-Server@0.002004
-PAGI::Server::Runner               0.002005  pkg:cpan/PAGI-Server@0.002005
-PAGI::Server::TransportState       0.002005  pkg:cpan/PAGI-Server@0.002005
+PAGI::Server::Runner               0.002006  pkg:cpan/PAGI-Server@0.002006
+PAGI::Server::TransportState       0.002006  pkg:cpan/PAGI-Server@0.002006
 PAGI::Session                      0.002001  pkg:cpan/PAGI-Tools@0.002001
 PAGI::Stash                        0.002001  pkg:cpan/PAGI-Tools@0.002001
 PAGI::Test::Client                 0.002001  pkg:cpan/PAGI-Tools@0.002001
