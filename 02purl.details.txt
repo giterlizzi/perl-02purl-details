@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 05 Jul 2026 10:04:51 GMT
+Last-Updated: Sun, 05 Jul 2026 13:16:35 GMT
 Line-Count: 265882
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -32888,15 +32888,15 @@ CLI::Popt                           0.01  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X                       undef  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X::BadOption            undef  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X::Base                 undef  pkg:cpan/CLI-Popt@0.01
-CLI::Simple                        v2.0.9  pkg:cpan/CLI-Simple@2.0.9
-CLI::Simple::Constants             v2.0.9  pkg:cpan/CLI-Simple@2.0.9
-CLI::Simple::DumpSpec                  0  pkg:cpan/CLI-Simple@2.0.9
-CLI::Simple::Helpers                   0  pkg:cpan/CLI-Simple@2.0.9
-CLI::Simple::Migrate                   0  pkg:cpan/CLI-Simple@2.0.9
-CLI::Simple::Modulino                  0  pkg:cpan/CLI-Simple@2.0.9
-CLI::Simple::Scaffold                  0  pkg:cpan/CLI-Simple@2.0.9
-CLI::Simple::Shell                     0  pkg:cpan/CLI-Simple@2.0.9
-CLI::Simple::Utils                 v2.0.9  pkg:cpan/CLI-Simple@2.0.9
+CLI::Simple                        v2.0.10  pkg:cpan/CLI-Simple@2.0.10
+CLI::Simple::Constants             v2.0.10  pkg:cpan/CLI-Simple@2.0.10
+CLI::Simple::DumpSpec                  0  pkg:cpan/CLI-Simple@2.0.10
+CLI::Simple::Helpers                   0  pkg:cpan/CLI-Simple@2.0.10
+CLI::Simple::Migrate                   0  pkg:cpan/CLI-Simple@2.0.10
+CLI::Simple::Modulino                  0  pkg:cpan/CLI-Simple@2.0.10
+CLI::Simple::Scaffold                  0  pkg:cpan/CLI-Simple@2.0.10
+CLI::Simple::Shell                     0  pkg:cpan/CLI-Simple@2.0.10
+CLI::Simple::Utils                 v2.0.10  pkg:cpan/CLI-Simple@2.0.10
 CLI::Startup                        0.29  pkg:cpan/CLI-Startup@0.29
 CLI::Table::Key::Finder             0.31  pkg:cpan/CLI-Table-Key-Finder@0.31
 CLI::Table::Util                    0.06  pkg:cpan/CLI-Table-Util@0.06
@@ -204026,7 +204026,7 @@ RPi::PIGPIO::Device::DSM501A       undef  pkg:cpan/RPi-PIGPIO@0.017
 RPi::PIGPIO::Device::LED           undef  pkg:cpan/RPi-PIGPIO@0.017
 RPi::PIGPIO::Device::MH_Z14        undef  pkg:cpan/RPi-PIGPIO@0.017
 RPi::PIGPIO::Device::Switch        undef  pkg:cpan/RPi-PIGPIO@0.017
-RPi::Pin                           3.1801  pkg:cpan/RPi-Pin@3.1801
+RPi::Pin                           3.1802  pkg:cpan/RPi-Pin@3.1802
 RPi::RTC::DS3231                    0.03  pkg:cpan/RPi-RTC-DS3231@0.03
 RPi::SPI                           3.1801  pkg:cpan/RPi-SPI@3.1801
 RPi::Serial                         3.02  pkg:cpan/RPi-Serial@3.02
@@ -235530,14 +235530,14 @@ Tk::ExecuteCommand                   1.6  pkg:cpan/Tk-ExecuteCommand@1.6
 Tk::FBox                           4.021  pkg:cpan/Tk@804.036
 Tk::FastSplash                      0.16  pkg:cpan/Tk-Splash@0.16
 Tk::FcyEntry                         1.8  pkg:cpan/Tk-FcyEntry@1.8
-Tk::FileBrowser                     0.12  pkg:cpan/Tk-FileBrowser@0.12
+Tk::FileBrowser                     0.13  pkg:cpan/Tk-FileBrowser@0.13
 Tk::FileBrowser::Header             0.03  pkg:cpan/Tk-FileBrowser@0.11
 Tk::FileBrowser::Images             0.05  pkg:cpan/Tk-FileBrowser@0.11
-Tk::FileBrowser::Item               0.12  pkg:cpan/Tk-FileBrowser@0.12
+Tk::FileBrowser::Item               0.12  pkg:cpan/Tk-FileBrowser@0.13
 Tk::FileDialog                       1.3  pkg:cpan/Tk-FileDialog@1.3
 Tk::FileEntry                        2.4  pkg:cpan/Tk-FileEntry@2.4
-Tk::FileManager                     0.12  pkg:cpan/Tk-FileBrowser@0.12
-Tk::FilePicker                      0.09  pkg:cpan/Tk-FileBrowser@0.12
+Tk::FileManager                     0.12  pkg:cpan/Tk-FileBrowser@0.13
+Tk::FilePicker                      0.09  pkg:cpan/Tk-FileBrowser@0.13
 Tk::FileSave                       undef  pkg:cpan/ptkFAQ@0_03
 Tk::FileSelect                     4.018  pkg:cpan/Tk@804.036
 Tk::FileTree                        1.01  pkg:cpan/Tk-FileTree@1.01
