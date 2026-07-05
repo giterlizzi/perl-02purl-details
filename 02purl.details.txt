@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 05 Jul 2026 20:50:42 GMT
+Last-Updated: Sun, 05 Jul 2026 22:55:44 GMT
 Line-Count: 265883
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -17770,7 +17770,7 @@ Asm::Preproc::Lexer                 1.03  pkg:cpan/Asm-Preproc@1.03
 Asm::Preproc::Line                  1.03  pkg:cpan/Asm-Preproc@1.03
 Asm::Preproc::Stream                0.08  pkg:cpan/Asm-Preproc@0.08
 Asm::Preproc::Token                 1.03  pkg:cpan/Asm-Preproc@1.03
-Asm::X86                            0.72  pkg:cpan/Asm-X86@0.72
+Asm::X86                            0.73  pkg:cpan/Asm-X86@0.73
 Asm::Z80::Table                     0.03  pkg:cpan/Asm-Z80-Table@0.03
 Asmens::Kodas                       0.02  pkg:cpan/Asmens-Kodas@0.02
 Aspect                              1.04  pkg:cpan/Aspect@1.04
