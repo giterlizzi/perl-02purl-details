@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 05 Jul 2026 19:05:40 GMT
+Last-Updated: Sun, 05 Jul 2026 20:50:42 GMT
 Line-Count: 265883
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -143433,11 +143433,11 @@ MsgPack::RPC::Message              v2.0.3  pkg:cpan/MsgPack-RPC@2.0.3
 MsgPack::RPC::Message::Notification v2.0.3  pkg:cpan/MsgPack-RPC@2.0.3
 MsgPack::RPC::Message::Request     v2.0.3  pkg:cpan/MsgPack-RPC@2.0.3
 MsgPack::RPC::Message::Response    v2.0.3  pkg:cpan/MsgPack-RPC@2.0.3
-MsgPack::Raw                        0.05  pkg:cpan/MsgPack-Raw@0.05
-MsgPack::Raw::Bool                  0.05  pkg:cpan/MsgPack-Raw@0.05
-MsgPack::Raw::Ext                   0.05  pkg:cpan/MsgPack-Raw@0.05
-MsgPack::Raw::Packer                0.05  pkg:cpan/MsgPack-Raw@0.05
-MsgPack::Raw::Unpacker              0.05  pkg:cpan/MsgPack-Raw@0.05
+MsgPack::Raw                        0.06  pkg:cpan/MsgPack-Raw@0.06
+MsgPack::Raw::Bool                  0.06  pkg:cpan/MsgPack-Raw@0.06
+MsgPack::Raw::Ext                   0.06  pkg:cpan/MsgPack-Raw@0.06
+MsgPack::Raw::Packer                0.06  pkg:cpan/MsgPack-Raw@0.06
+MsgPack::Raw::Unpacker              0.06  pkg:cpan/MsgPack-Raw@0.06
 MsgPack::Type::Boolean             v2.0.3  pkg:cpan/MsgPack-RPC@2.0.3
 MsgPack::Type::Ext                 v2.0.3  pkg:cpan/MsgPack-RPC@2.0.3
 MsgQ::QueueMonitor                  1.01  pkg:cpan/MsgQ@1.01
@@ -225072,7 +225072,7 @@ Syntax::Highlight::Universal         0.4  pkg:cpan/Syntax-Highlight-Universal@0.
 Syntax::Highlight::WithEmacs         0.2  pkg:cpan/Syntax-Highlight-WithEmacs@0.2
 Syntax::Highlight::XML             0.003  pkg:cpan/Syntax-Highlight-RDF@0.003
 Syntax::Infix::ConditionalSplice    0.02  pkg:cpan/Syntax-Infix-ConditionalSplice@0.02
-Syntax::Infix::EqualityInsensitive  0.03  pkg:cpan/Syntax-Infix-EqualityInsensitive@0.03
+Syntax::Infix::EqualityInsensitive  0.04  pkg:cpan/Syntax-Infix-EqualityInsensitive@0.04
 Syntax::Infix::OptionalChain        0.02  pkg:cpan/Syntax-Infix-OptionalChain@0.02
 Syntax::Infix::Smartmatch          0.011  pkg:cpan/Syntax-Infix-Smartmatch@0.011
 Syntax::Kamelon                     0.25  pkg:cpan/Syntax-Kamelon@0.25
