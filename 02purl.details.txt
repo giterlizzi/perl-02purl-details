@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 06 Jul 2026 16:48:22 GMT
+Last-Updated: Mon, 06 Jul 2026 19:45:53 GMT
 Line-Count: 265906
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -10098,7 +10098,7 @@ App::FfmpegUtils                   0.015  pkg:cpan/App-FfmpegUtils@0.015
 App::File::Grepper                  1.02  pkg:cpan/App-File-Grepper@1.02
 App::File::IsSorted                v0.2.0  pkg:cpan/File-IsSorted@0.2.0
 App::File::IsSorted::Command::check v0.2.0  pkg:cpan/File-IsSorted@0.2.0
-App::FileCleanerByDiskUage         0.004001  pkg:cpan/App-FileCleanerByDiskUage@0.4.1
+App::FileCleanerByDiskUage         0.005000  pkg:cpan/App-FileCleanerByDiskUage@0.5.0
 App::FileCommonUtils               0.002  pkg:cpan/App-FileCommonUtils@0.002
 App::FileComposer                   1.00  pkg:cpan/App-FileComposer@1.00
 App::FileCreateLayoutUtils         0.001  pkg:cpan/App-FileCreateLayoutUtils@0.001
@@ -113328,9 +113328,9 @@ IPC::Semaphore::stat                2.09  pkg:cpan/IPC-SysV@2.09
 IPC::Serial                        1.007  pkg:cpan/IPC-Serial@1.007
 IPC::Session                        0.05  pkg:cpan/IPC-Session@0.05
 IPC::ShareLite                      0.17  pkg:cpan/IPC-ShareLite@0.17
-IPC::Shareable                      1.18  pkg:cpan/IPC-Shareable@1.18
-IPC::Shareable::SharedMem           1.18  pkg:cpan/IPC-Shareable@1.18
-IPC::Shareable::SharedMem::stat     1.18  pkg:cpan/IPC-Shareable@1.18
+IPC::Shareable                      1.19  pkg:cpan/IPC-Shareable@1.19
+IPC::Shareable::SharedMem           1.19  pkg:cpan/IPC-Shareable@1.19
+IPC::Shareable::SharedMem::stat     1.19  pkg:cpan/IPC-Shareable@1.19
 IPC::SharedCache                     1.3  pkg:cpan/IPC-SharedCache@1.3
 IPC::SharedMem                      2.09  pkg:cpan/IPC-SysV@2.09
 IPC::SharedMem::stat                2.09  pkg:cpan/IPC-SysV@2.09
