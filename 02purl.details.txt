@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 06 Jul 2026 21:23:07 GMT
+Last-Updated: Mon, 06 Jul 2026 23:00:14 GMT
 Line-Count: 265916
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -228558,7 +228558,7 @@ Template::Service                  3.106  pkg:cpan/Template-Toolkit@3.106
 Template::Service::Apache           1.04  pkg:cpan/Apache-Template@0.09
 Template::ShowStartStop            1.000001  pkg:cpan/Template-ShowStartStop@1.0.1
 Template::Simple                    0.06  pkg:cpan/Template-Simple@0.06
-Template::Sluz                     0.009004  pkg:cpan/Template-Sluz@v0.9.4
+Template::Sluz                     0.009006  pkg:cpan/Template-Sluz@v0.9.6
 Template::Stash                    3.106  pkg:cpan/Template-Toolkit@3.106
 Template::Stash::AutoEscape         0.03  pkg:cpan/Template-Stash-AutoEscape@0.03
 Template::Stash::AutoEscape::Escaped::Base undef  pkg:cpan/Template-Stash-AutoEscape@0.03
