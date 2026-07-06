@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 06 Jul 2026 19:45:53 GMT
-Line-Count: 265906
+Last-Updated: Mon, 06 Jul 2026 21:23:07 GMT
+Line-Count: 265916
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -4601,6 +4601,7 @@ Alien::Build::Wizard::Questions     0.07  pkg:cpan/Dist-Zilla-MintingProfile-Ali
 Alien::Build::rc                    2.84  pkg:cpan/Alien-Build@2.84
 Alien::CFITSIO                     v4.6.2.5  pkg:cpan/Alien-CFITSIO@v4.6.2.5
 Alien::CImg                         0.01  pkg:cpan/Alien-CImg@0.01
+Alien::CLIPS                       undef  pkg:cpan/Inline-CLIPS@0.001
 Alien::CMake                        0.12  pkg:cpan/Alien-CMake@0.12
 Alien::CPython3                     0.01  pkg:cpan/Alien-CPython3@0.01
 Alien::CSFML                       v0.0.7  pkg:cpan/Alien-CSFML@v0.0.7
@@ -10609,18 +10610,24 @@ App::Greple::wordle::hint          undef  pkg:cpan/App-Greple-wordle@0.07
 App::Greple::wordle::util          undef  pkg:cpan/App-Greple-wordle@0.13
 App::Greple::wordle::word_all      undef  pkg:cpan/App-Greple-wordle@0.13
 App::Greple::wordle::word_hidden   undef  pkg:cpan/App-Greple-wordle@0.13
-App::Greple::xlate                 1.0202  pkg:cpan/App-Greple-xlate@1.0202
-App::Greple::xlate::Cache          undef  pkg:cpan/App-Greple-xlate@1.0202
-App::Greple::xlate::Filter         undef  pkg:cpan/App-Greple-xlate@1.0202
-App::Greple::xlate::Lang           undef  pkg:cpan/App-Greple-xlate@1.0202
-App::Greple::xlate::Mask           undef  pkg:cpan/App-Greple-xlate@1.0202
-App::Greple::xlate::Text           undef  pkg:cpan/App-Greple-xlate@1.0202
-App::Greple::xlate::deepl          1.0202  pkg:cpan/App-Greple-xlate@1.0202
+App::Greple::xlate                  2.00  pkg:cpan/App-Greple-xlate@2.00
+App::Greple::xlate::Cache          undef  pkg:cpan/App-Greple-xlate@2.00
+App::Greple::xlate::Filter         undef  pkg:cpan/App-Greple-xlate@2.00
+App::Greple::xlate::Lang           undef  pkg:cpan/App-Greple-xlate@2.00
+App::Greple::xlate::Mask           undef  pkg:cpan/App-Greple-xlate@2.00
+App::Greple::xlate::Text           undef  pkg:cpan/App-Greple-xlate@2.00
+App::Greple::xlate::deepl           2.00  pkg:cpan/App-Greple-xlate@2.00
 App::Greple::xlate::gpt3           1.0202  pkg:cpan/App-Greple-xlate@1.0202
 App::Greple::xlate::gpt4           1.0202  pkg:cpan/App-Greple-xlate@1.0202
 App::Greple::xlate::gpt4o          1.0202  pkg:cpan/App-Greple-xlate@1.0202
 App::Greple::xlate::gpt5           1.0202  pkg:cpan/App-Greple-xlate@1.0202
-App::Greple::xlate::null           1.0202  pkg:cpan/App-Greple-xlate@1.0202
+App::Greple::xlate::gpty::gpt3      2.00  pkg:cpan/App-Greple-xlate@2.00
+App::Greple::xlate::gpty::gpt4      2.00  pkg:cpan/App-Greple-xlate@2.00
+App::Greple::xlate::gpty::gpt4o     2.00  pkg:cpan/App-Greple-xlate@2.00
+App::Greple::xlate::gpty::gpt5      2.00  pkg:cpan/App-Greple-xlate@2.00
+App::Greple::xlate::llm             2.00  pkg:cpan/App-Greple-xlate@2.00
+App::Greple::xlate::llm::gpt5       2.00  pkg:cpan/App-Greple-xlate@2.00
+App::Greple::xlate::null            2.00  pkg:cpan/App-Greple-xlate@2.00
 App::Greple::xp                     1.01  pkg:cpan/App-Greple-xp@1.01
 App::Grok                           0.26  pkg:cpan/grok@0.26
 App::Grok::Common                   0.26  pkg:cpan/grok@0.26
@@ -16800,7 +16807,7 @@ App::wsgetmail::MS365              undef  pkg:cpan/App-wsgetmail@0.11
 App::wsgetmail::MS365::Client      undef  pkg:cpan/App-wsgetmail@0.11
 App::wsgetmail::MS365::Message     undef  pkg:cpan/App-wsgetmail@0.11
 App::xkcdpass                        0.1  pkg:cpan/App-xkcdpass@0.1
-App::xlate                         1.0202  pkg:cpan/App-Greple-xlate@1.0202
+App::xlate                          2.00  pkg:cpan/App-Greple-xlate@2.00
 App::xspf2m3u                      v0.2.0  pkg:cpan/App-xspf2m3u@0.2.0
 App::xspf2m3u::Command::convert    v0.2.0  pkg:cpan/App-xspf2m3u@0.2.0
 App::xsum                          0.011  pkg:cpan/App-xsum@0.011
@@ -47651,13 +47658,15 @@ Conan::Configure::Xen                  0  pkg:cpan/Conan@0.0.7
 Conan::Deploy                          0  pkg:cpan/Conan@0.0.7
 Conan::Promote                         0  pkg:cpan/Conan@0.0.7
 Conan::Promote::Xen                    0  pkg:cpan/Conan@0.0.7
-Concierge                          v0.8.4  pkg:cpan/Concierge@v0.8.4
-Concierge::Auth                    v0.4.5  pkg:cpan/Concierge-Auth@v0.4.5
-Concierge::Auth::Generators        v0.4.5  pkg:cpan/Concierge-Auth@v0.4.5
+Concierge                          v0.9.0  pkg:cpan/Concierge@v0.9.0
+Concierge::Auth                    v0.5.0  pkg:cpan/Concierge-Auth@v0.5.0
+Concierge::Auth::Base              v0.5.0  pkg:cpan/Concierge-Auth@v0.5.0
+Concierge::Auth::Generators        v0.4.5  pkg:cpan/Concierge-Auth@v0.5.0
+Concierge::Auth::Pwd               v0.5.0  pkg:cpan/Concierge-Auth@v0.5.0
 Concierge::Base                    v0.7.2  pkg:cpan/Concierge@v0.7.2
-Concierge::Desk::Base              v0.8.4  pkg:cpan/Concierge@v0.8.4
-Concierge::Desk::Setup             v0.8.4  pkg:cpan/Concierge@v0.8.4
-Concierge::Desk::User              v0.8.4  pkg:cpan/Concierge@v0.8.4
+Concierge::Desk::Base              v0.9.0  pkg:cpan/Concierge@v0.9.0
+Concierge::Desk::Setup             v0.9.0  pkg:cpan/Concierge@v0.9.0
+Concierge::Desk::User              v0.9.0  pkg:cpan/Concierge@v0.9.0
 Concierge::Sessions                v0.11.1  pkg:cpan/Concierge-Sessions@v0.11.1
 Concierge::Sessions::Base          v0.11.1  pkg:cpan/Concierge-Sessions@v0.11.1
 Concierge::Sessions::File          v0.11.1  pkg:cpan/Concierge-Sessions@v0.11.1
@@ -114601,6 +114610,7 @@ Inline::Basic                       0.01  pkg:cpan/Inline-Basic@0.01
 Inline::Basic::Tester               0.01  pkg:cpan/Inline-Basic@0.01
 Inline::Befunge                    1.001001  pkg:cpan/Inline-Befunge@1.1.1
 Inline::C                           0.82  pkg:cpan/Inline-C@0.82
+Inline::CLIPS                      0.001  pkg:cpan/Inline-CLIPS@0.001
 Inline::CPP                         0.80  pkg:cpan/Inline-CPP@0.80
 Inline::CPP::Config                 0.80  pkg:cpan/Inline-CPP@0.80
 Inline::CPP::Parser::RecDescent     0.80  pkg:cpan/Inline-CPP@0.80
@@ -224028,7 +224038,7 @@ String::Unique                      1.10  pkg:cpan/String-Unique@1.10
 String::Unquotemeta                  0.1  pkg:cpan/String-Unquotemeta@0.1
 String::UpdateYears                 0.01  pkg:cpan/String-UpdateYears@0.01
 String::Urandom                     0.16  pkg:cpan/String-Urandom@0.16
-String::Util                        1.35  pkg:cpan/String-Util@1.35
+String::Util                        1.36  pkg:cpan/String-Util@1.36
 String::Util::Match                0.005  pkg:cpan/String-Util-Match@0.005
 String::Util::Range                0.002  pkg:cpan/String-Util-Range@0.002
 String::Validator                   2.04  pkg:cpan/String-Validator@2.04
