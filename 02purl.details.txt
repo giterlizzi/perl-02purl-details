@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 05 Jul 2026 22:55:44 GMT
-Line-Count: 265883
+Last-Updated: Mon, 06 Jul 2026 02:33:06 GMT
+Line-Count: 265896
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -4840,7 +4840,7 @@ Alien::XPA                         v2.1.20.7  pkg:cpan/Alien-XPA@v2.1.20.7
 Alien::Xmake                        0.08  pkg:cpan/Alien-Xmake@0.08
 Alien::Xrepo                        0.08  pkg:cpan/Alien-Xmake@0.08
 Alien::Xrepo::PackageInfo          undef  pkg:cpan/Alien-Xmake@0.08
-Alien::YAMLScript                  0.002025  pkg:cpan/Alien-YAMLScript@0.2.25
+Alien::YAMLScript                  0.002026  pkg:cpan/Alien-YAMLScript@0.2.26
 Alien::YARA                        v0.0.1  pkg:cpan/Alien-YARA@v0.0.6
 Alien::Z3                          0.002  pkg:cpan/Alien-Z3@0.002
 Alien::ZMQ                          0.06  pkg:cpan/Alien-ZMQ@0.06
@@ -29357,7 +29357,7 @@ Buffer::Transactional::Buffer::Array  0.02  pkg:cpan/Buffer-Transactional@0.02
 Buffer::Transactional::Buffer::File  0.02  pkg:cpan/Buffer-Transactional@0.02
 Buffer::Transactional::Buffer::Lazy  0.02  pkg:cpan/Buffer-Transactional@0.02
 Buffer::Transactional::Buffer::String  0.02  pkg:cpan/Buffer-Transactional@0.02
-BufferWithInt                       1.23  pkg:cpan/Crypt-DSA@1.23
+BufferWithInt                       1.24  pkg:cpan/Crypt-DSA@1.24
 BugCli                               0.2  pkg:cpan/BugCli@0.2
 BugCli::Completions                undef  pkg:cpan/BugCli@0.2
 BugCli::Config                     undef  pkg:cpan/BugCli@0.2
@@ -49190,7 +49190,7 @@ Crypt::DH::GMP::Compat             undef  pkg:cpan/Crypt-DH-GMP@0.00012
 Crypt::DRBG                        0.001000  pkg:cpan/Crypt-DRBG@0.001000
 Crypt::DRBG::HMAC                  0.001000  pkg:cpan/Crypt-DRBG@0.001000
 Crypt::DRBG::Hash                  0.001000  pkg:cpan/Crypt-DRBG@0.001000
-Crypt::DSA                          1.23  pkg:cpan/Crypt-DSA@1.23
+Crypt::DSA                          1.24  pkg:cpan/Crypt-DSA@1.24
 Crypt::DSA::GMP                     0.02  pkg:cpan/Crypt-DSA-GMP@0.02
 Crypt::DSA::GMP::Key                0.01  pkg:cpan/Crypt-DSA-GMP@0.02
 Crypt::DSA::GMP::Key::PEM           0.01  pkg:cpan/Crypt-DSA-GMP@0.02
@@ -49198,12 +49198,12 @@ Crypt::DSA::GMP::Key::SSH2          0.01  pkg:cpan/Crypt-DSA-GMP@0.02
 Crypt::DSA::GMP::KeyChain           0.01  pkg:cpan/Crypt-DSA-GMP@0.02
 Crypt::DSA::GMP::Signature          0.01  pkg:cpan/Crypt-DSA-GMP@0.02
 Crypt::DSA::GMP::Util               0.01  pkg:cpan/Crypt-DSA-GMP@0.02
-Crypt::DSA::Key                     1.23  pkg:cpan/Crypt-DSA@1.23
-Crypt::DSA::Key::PEM                1.23  pkg:cpan/Crypt-DSA@1.23
-Crypt::DSA::Key::SSH2               1.23  pkg:cpan/Crypt-DSA@1.23
-Crypt::DSA::KeyChain                1.23  pkg:cpan/Crypt-DSA@1.23
-Crypt::DSA::Signature               1.23  pkg:cpan/Crypt-DSA@1.23
-Crypt::DSA::Util                    1.23  pkg:cpan/Crypt-DSA@1.23
+Crypt::DSA::Key                     1.24  pkg:cpan/Crypt-DSA@1.24
+Crypt::DSA::Key::PEM                1.24  pkg:cpan/Crypt-DSA@1.24
+Crypt::DSA::Key::SSH2               1.24  pkg:cpan/Crypt-DSA@1.24
+Crypt::DSA::KeyChain                1.24  pkg:cpan/Crypt-DSA@1.24
+Crypt::DSA::Signature               1.24  pkg:cpan/Crypt-DSA@1.24
+Crypt::DSA::Util                    1.24  pkg:cpan/Crypt-DSA@1.24
 Crypt::Diceware                    0.005  pkg:cpan/Crypt-Diceware@0.005
 Crypt::Diceware::Wordlist::Beale   0.005  pkg:cpan/Crypt-Diceware@0.005
 Crypt::Diceware::Wordlist::Common  0.005  pkg:cpan/Crypt-Diceware@0.005
@@ -64441,7 +64441,7 @@ Desktop::KDEActivity::Util         0.003  pkg:cpan/Desktop-KDEActivity-Util@0.00
 Desktop::Notify                     0.05  pkg:cpan/Desktop-Notify@0.05
 Desktop::Notify::Notification       0.03  pkg:cpan/Desktop-Notify@0.05
 Desktop::Open                      0.004  pkg:cpan/Desktop-Open@0.004
-Desktop::Workspace::Util           0.001  pkg:cpan/Desktop-Workspace-Util@0.001
+Desktop::Workspace::Util           0.002  pkg:cpan/Desktop-Workspace-Util@0.002
 DesktopWorkspace                   v1.0.0  pkg:cpan/DesktopWorkspace@1.0.0
 DesktopWorkspace::Sample::Source::DefHash 0.001  pkg:cpan/DesktopWorkspaceRoles-Standard@0.001
 DesktopWorkspace::Test::Spec::Basic v1.0.0  pkg:cpan/DesktopWorkspace@1.0.0
@@ -219625,7 +219625,20 @@ Sietima::Role::WithPostAddress     1.001005  pkg:cpan/Sietima@1.1.5
 Sietima::Runner                    1.001005  pkg:cpan/Sietima@1.1.5
 Sietima::Subscriber                1.001005  pkg:cpan/Sietima@1.1.5
 Sietima::Types                     1.001005  pkg:cpan/Sietima@1.1.5
-Sieve::Generator                   0.002  pkg:cpan/Sieve-Generator@0.002
+Sieve::Generator                   0.003  pkg:cpan/Sieve-Generator@0.003
+Sieve::Generator::Element          0.003  pkg:cpan/Sieve-Generator@0.003
+Sieve::Generator::Element::Block   0.003  pkg:cpan/Sieve-Generator@0.003
+Sieve::Generator::Element::BracketComment 0.003  pkg:cpan/Sieve-Generator@0.003
+Sieve::Generator::Element::Command 0.003  pkg:cpan/Sieve-Generator@0.003
+Sieve::Generator::Element::Comment 0.003  pkg:cpan/Sieve-Generator@0.003
+Sieve::Generator::Element::Document 0.003  pkg:cpan/Sieve-Generator@0.003
+Sieve::Generator::Element::Heredoc 0.003  pkg:cpan/Sieve-Generator@0.003
+Sieve::Generator::Element::IfElse  0.003  pkg:cpan/Sieve-Generator@0.003
+Sieve::Generator::Element::Junction 0.003  pkg:cpan/Sieve-Generator@0.003
+Sieve::Generator::Element::Num     0.003  pkg:cpan/Sieve-Generator@0.003
+Sieve::Generator::Element::Qstr    0.003  pkg:cpan/Sieve-Generator@0.003
+Sieve::Generator::Element::QstrList 0.003  pkg:cpan/Sieve-Generator@0.003
+Sieve::Generator::Element::Terms   0.003  pkg:cpan/Sieve-Generator@0.003
 Sieve::Generator::Lines            0.002  pkg:cpan/Sieve-Generator@0.002
 Sieve::Generator::Lines::Block     0.002  pkg:cpan/Sieve-Generator@0.002
 Sieve::Generator::Lines::Command   0.002  pkg:cpan/Sieve-Generator@0.002
@@ -219635,7 +219648,7 @@ Sieve::Generator::Lines::Heredoc   0.002  pkg:cpan/Sieve-Generator@0.002
 Sieve::Generator::Lines::IfElse    0.002  pkg:cpan/Sieve-Generator@0.002
 Sieve::Generator::Lines::Junction  0.002  pkg:cpan/Sieve-Generator@0.002
 Sieve::Generator::Lines::PrettyCommand 0.001  pkg:cpan/Sieve-Generator@0.001
-Sieve::Generator::Sugar            0.002  pkg:cpan/Sieve-Generator@0.002
+Sieve::Generator::Sugar            0.003  pkg:cpan/Sieve-Generator@0.003
 Sieve::Generator::Text             0.002  pkg:cpan/Sieve-Generator@0.002
 Sieve::Generator::Text::Qstr       0.002  pkg:cpan/Sieve-Generator@0.002
 Sieve::Generator::Text::QstrList   0.002  pkg:cpan/Sieve-Generator@0.002
@@ -223195,9 +223208,9 @@ Stats::Fermi::FermiDiracStats      undef  pkg:cpan/Stats-Fermi@0.1.7
 Stats::Hawking                     0.001003  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HTRandom           undef  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HawkingTemperature undef  pkg:cpan/Stats-Hawking@0.1.3
-Stats::LikeR                        0.19  pkg:cpan/Stats-LikeR@0.19
+Stats::LikeR                         0.2  pkg:cpan/Stats-LikeR@0.2
 Stats::LikeR::Pred                  0.16  pkg:cpan/Stats-LikeR@0.16
-Stats::LikeR::col                   0.19  pkg:cpan/Stats-LikeR@0.19
+Stats::LikeR::col                    0.2  pkg:cpan/Stats-LikeR@0.2
 StatsView::Graph                    1.15  pkg:cpan/StatsView@1.4
 StatsView::Graph::Iost             undef  pkg:cpan/StatsView@1.4
 StatsView::Graph::Iostat           undef  pkg:cpan/StatsView@1.4
@@ -260026,8 +260039,8 @@ YAML::XS                           v0.910.0  pkg:cpan/YAML-LibYAML@v0.910.0
 YAML::XS::LibYAML                  v0.910.0  pkg:cpan/YAML-LibYAML@v0.910.0
 YAML::YAML2ADoc                    0.001000  pkg:cpan/YAML-YAML2ADoc@0.1.0
 YAML::yq::Helper                   0.002000  pkg:cpan/YAML-yq-Helper@0.2.0
-YAMLScript                         0.002025  pkg:cpan/YAMLScript@0.2.25
-YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.2.25
+YAMLScript                         0.002026  pkg:cpan/YAMLScript@0.2.26
+YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.2.26
 YAMLScript::Base                   undef  pkg:cpan/YAMLScript@0.0.7
 YAMLScript::CLI                    undef  pkg:cpan/YAMLScript@0.1.3
 YAMLScript::Call                   undef  pkg:cpan/YAMLScript@0.0.16
