@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 07 Jul 2026 10:49:01 GMT
-Line-Count: 265917
+Last-Updated: Tue, 07 Jul 2026 14:13:55 GMT
+Line-Count: 265919
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -14782,33 +14782,35 @@ App::TermAttrUtils                 0.007  pkg:cpan/App-TermAttrUtils@0.007
 App::Termcast                       0.13  pkg:cpan/App-Termcast@0.13
 App::Test::DWG::LibreDWG::DwgRead   0.06  pkg:cpan/App-Test-DWG-LibreDWG-DwgRead@0.06
 App::Test::DWG::LibreDWG::JSON      0.05  pkg:cpan/App-Test-DWG-LibreDWG-JSON@0.05
-App::Test::Generator                0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::Analyzer::Complexity  0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::Analyzer::Return  0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::Analyzer::ReturnMeta  0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::Analyzer::SideEffect  0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::CoverageGuidedFuzzer  0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::Emitter::Perl  0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::Exporter::YAML  0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::LCSAJ         0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::LCSAJ::Coverage  0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::Model::Method  0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::Mutant        0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::Mutation::Base  0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::Mutation::BooleanNegation  0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::Mutation::ConditionalInversion  0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::Mutation::NumericBoundary  0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::Mutation::ReturnUndef  0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::Mutator       0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::Planner       0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::Planner::Fixture  0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::Planner::Grouping  0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::Planner::Isolation  0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::Planner::Mock  0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::Sample::Module  0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::SchemaExtractor  0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::Template      0.41  pkg:cpan/App-Test-Generator@0.41
-App::Test::Generator::TestStrategy  0.41  pkg:cpan/App-Test-Generator@0.41
+App::Test::Generator                0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::Analyzer::Complexity  0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::Analyzer::Return  0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::Analyzer::ReturnMeta  0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::Analyzer::SideEffect  0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::BenchmarkGenerator  0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::CoverageGuidedFuzzer  0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::Emitter::Perl  0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::Exporter::YAML  0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::LCSAJ         0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::LCSAJ::Coverage  0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::Model::Method  0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::Mutant        0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::Mutation::Base  0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::Mutation::BooleanNegation  0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::Mutation::ConditionalInversion  0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::Mutation::NumericBoundary  0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::Mutation::ReturnUndef  0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::Mutator       0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::Planner       0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::Planner::Fixture  0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::Planner::Grouping  0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::Planner::Isolation  0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::Planner::Mock  0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::PodExampleExtractor  0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::Sample::Module  0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::SchemaExtractor  0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::Template      0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator::TestStrategy  0.42  pkg:cpan/App-Test-Generator@0.42
 App::Test::Tapat                    0.04  pkg:cpan/App-Test-Tapat@0.04
 App::TestOnTap                     1.001  pkg:cpan/App-TestOnTap@1.001
 App::TestOnTap::Args               1.001  pkg:cpan/App-TestOnTap@1.001
@@ -22220,12 +22222,12 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         0.017001  pkg:cpan/BarefootJS@0.17.1
-BarefootJS::Backend::Mojo          0.017001  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.17.1
-BarefootJS::Backend::Xslate        0.017001  pkg:cpan/BarefootJS-Backend-Xslate@0.17.1
-BarefootJS::DevReload              0.017001  pkg:cpan/BarefootJS@0.17.1
-BarefootJS::Evaluator              0.014000  pkg:cpan/BarefootJS@0.17.1
-BarefootJS::SearchParams           0.014000  pkg:cpan/BarefootJS@0.17.1
+BarefootJS                         0.018000  pkg:cpan/BarefootJS@0.18.0
+BarefootJS::Backend::Mojo          0.018000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.18.0
+BarefootJS::Backend::Xslate        0.018000  pkg:cpan/BarefootJS-Backend-Xslate@0.18.0
+BarefootJS::DevReload              0.018000  pkg:cpan/BarefootJS@0.18.0
+BarefootJS::Evaluator              0.014000  pkg:cpan/BarefootJS@0.18.0
+BarefootJS::SearchParams           0.014000  pkg:cpan/BarefootJS@0.18.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
 Baseball::Sabermetrics              0.03  pkg:cpan/Baseball-Sabermetrics@0.03
@@ -64475,7 +64477,7 @@ Devel::Agent::AwareRole            0.001  pkg:cpan/Devel-Agent@0.006
 Devel::Agent::EveryThing           undef  pkg:cpan/Devel-Agent@0.007
 Devel::Agent::Proxy                0.0002  pkg:cpan/Devel-Agent@0.006
 Devel::Agent::Util                 undef  pkg:cpan/Devel-Agent@0.007
-Devel::App::Test::Generator::LCSAJ::Runtime  0.41  pkg:cpan/App-Test-Generator@0.41
+Devel::App::Test::Generator::LCSAJ::Runtime  0.42  pkg:cpan/App-Test-Generator@0.42
 Devel::Arena                        0.23  pkg:cpan/Devel-Arena@0.23
 Devel::ArgNames                     0.03  pkg:cpan/Devel-ArgNames@0.03
 Devel::Assert                       1.06  pkg:cpan/Devel-Assert@1.06
@@ -139580,8 +139582,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    0.017001  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.17.1
-Mojolicious::Plugin::BarefootJS::DevReload 0.017001  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.17.1
+Mojolicious::Plugin::BarefootJS    0.018000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.18.0
+Mojolicious::Plugin::BarefootJS::DevReload 0.018000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.18.0
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
