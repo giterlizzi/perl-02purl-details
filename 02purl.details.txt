@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 07 Jul 2026 02:28:39 GMT
-Line-Count: 265916
+Last-Updated: Tue, 07 Jul 2026 07:32:04 GMT
+Line-Count: 265917
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -109837,8 +109837,8 @@ HTTP::UserAgentString::OS          undef  pkg:cpan/HTTP-UserAgentString-Parser@0
 HTTP::UserAgentString::Parser      0.006001  pkg:cpan/HTTP-UserAgentString-Parser@0.6.1
 HTTP::UserAgentString::Robot       undef  pkg:cpan/HTTP-UserAgentString-Parser@0.6.1
 HTTP::UserAgentString::Sys         undef  pkg:cpan/HTTP-UserAgentString-Parser@0.6.1
-HTTP::Validate                     0.982  pkg:cpan/HTTP-Validate@0.982
-HTTP::Validate::Result             undef  pkg:cpan/HTTP-Validate@0.982
+HTTP::Validate                       1.0  pkg:cpan/HTTP-Validate@1.0
+HTTP::Validate::Result             undef  pkg:cpan/HTTP-Validate@1.0
 HTTP::WebTest                       2.04  pkg:cpan/HTTP-WebTest@2.04
 HTTP::WebTest::Cookies              1.02  pkg:cpan/HTTP-WebTest@1.02
 HTTP::WebTest::Parser              undef  pkg:cpan/HTTP-WebTest@2.04
@@ -139334,6 +139334,7 @@ MojoX::Log::Syslog                  0.01  pkg:cpan/MojoX-Log-Syslog@0.01
 MojoX::Logite                       0.01  pkg:cpan/MojoX-Logite@0.01
 MojoX::MIME::Types                  2.30  pkg:cpan/MIME-Types@2.30
 MojoX::Model                       undef  pkg:cpan/Mojolicious-Plugin-Model@0.13
+MojoX::MojoDbWrap                  0.002  pkg:cpan/MojoX-MojoDbWrap@0.002
 MojoX::Moose::Controller            0.02  pkg:cpan/MojoX-Moose-Controller@0.02
 MojoX::Mysql                        0.22  pkg:cpan/MojoX-Mysql@0.22
 MojoX::Mysql::DB                   undef  pkg:cpan/MojoX-Mysql@0.22
