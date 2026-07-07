@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 07 Jul 2026 19:45:24 GMT
+Last-Updated: Tue, 07 Jul 2026 21:17:25 GMT
 Line-Count: 265928
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -43065,26 +43065,26 @@ ChainMake::Parallel                    0  pkg:cpan/ChainMake@0.9.0
 ChainMake::Tester                      0  pkg:cpan/ChainMake@0.9.0
 Champ                              0.001  pkg:cpan/App-PythonToPerl@0.001
 Champlain                           0.14  pkg:cpan/Champlain@0.14
-Chandra                             0.25  pkg:cpan/Chandra@0.25
-Chandra::App                        0.25  pkg:cpan/Chandra@0.25
-Chandra::Assets                     0.25  pkg:cpan/Chandra@0.25
-Chandra::Bind                       0.25  pkg:cpan/Chandra@0.25
-Chandra::Breadcrumb                 0.25  pkg:cpan/Chandra@0.25
-Chandra::Bridge                     0.25  pkg:cpan/Chandra@0.25
-Chandra::Bridge::Extension          0.25  pkg:cpan/Chandra@0.25
-Chandra::Canvas                     0.25  pkg:cpan/Chandra@0.25
-Chandra::Clipboard                  0.25  pkg:cpan/Chandra@0.25
-Chandra::Component                  0.25  pkg:cpan/Chandra@0.25
-Chandra::ContextMenu                0.25  pkg:cpan/Chandra@0.25
-Chandra::DevTools                   0.25  pkg:cpan/Chandra@0.25
-Chandra::Dialog                     0.25  pkg:cpan/Chandra@0.25
-Chandra::DragDrop                   0.25  pkg:cpan/Chandra@0.25
+Chandra                             0.26  pkg:cpan/Chandra@0.26
+Chandra::App                        0.26  pkg:cpan/Chandra@0.26
+Chandra::Assets                     0.26  pkg:cpan/Chandra@0.26
+Chandra::Bind                       0.26  pkg:cpan/Chandra@0.26
+Chandra::Breadcrumb                 0.26  pkg:cpan/Chandra@0.26
+Chandra::Bridge                     0.26  pkg:cpan/Chandra@0.26
+Chandra::Bridge::Extension          0.26  pkg:cpan/Chandra@0.26
+Chandra::Canvas                     0.26  pkg:cpan/Chandra@0.26
+Chandra::Clipboard                  0.26  pkg:cpan/Chandra@0.26
+Chandra::Component                  0.26  pkg:cpan/Chandra@0.26
+Chandra::ContextMenu                0.26  pkg:cpan/Chandra@0.26
+Chandra::DevTools                   0.26  pkg:cpan/Chandra@0.26
+Chandra::Dialog                     0.26  pkg:cpan/Chandra@0.26
+Chandra::DragDrop                   0.26  pkg:cpan/Chandra@0.26
 Chandra::EPUB                       0.02  pkg:cpan/Chandra-EPUB@0.02
-Chandra::Element                    0.25  pkg:cpan/Chandra@0.25
-Chandra::Error                      0.25  pkg:cpan/Chandra@0.25
-Chandra::Event                      0.25  pkg:cpan/Chandra@0.25
-Chandra::Form                       0.25  pkg:cpan/Chandra@0.25
-Chandra::Form::Validator            0.25  pkg:cpan/Chandra@0.25
+Chandra::Element                    0.26  pkg:cpan/Chandra@0.26
+Chandra::Error                      0.26  pkg:cpan/Chandra@0.26
+Chandra::Event                      0.26  pkg:cpan/Chandra@0.26
+Chandra::Form                       0.26  pkg:cpan/Chandra@0.26
+Chandra::Form::Validator            0.26  pkg:cpan/Chandra@0.26
 Chandra::Game::Tetris               0.03  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Blocks      undef  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Blocks::IBlock undef  pkg:cpan/Chandra-Game-Tetris@0.03
@@ -43097,26 +43097,26 @@ Chandra::Game::Tetris::Blocks::TBlock undef  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Blocks::ZBlock undef  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Engine      undef  pkg:cpan/Chandra-Game-Tetris@0.03
 Chandra::Game::Tetris::Grid        undef  pkg:cpan/Chandra-Game-Tetris@0.03
-Chandra::HotReload                  0.25  pkg:cpan/Chandra@0.25
-Chandra::Log                        0.25  pkg:cpan/Chandra@0.25
-Chandra::Modal                      0.25  pkg:cpan/Chandra@0.25
-Chandra::Nav                        0.25  pkg:cpan/Chandra@0.25
-Chandra::Notify                     0.25  pkg:cpan/Chandra@0.25
-Chandra::Pack                       0.25  pkg:cpan/Chandra@0.25
-Chandra::Protocol                   0.25  pkg:cpan/Chandra@0.25
-Chandra::Shortcut                   0.25  pkg:cpan/Chandra@0.25
-Chandra::Socket::Client             0.25  pkg:cpan/Chandra@0.25
-Chandra::Socket::Connection         0.25  pkg:cpan/Chandra@0.25
-Chandra::Socket::Hub                0.25  pkg:cpan/Chandra@0.25
-Chandra::Socket::Token              0.25  pkg:cpan/Chandra@0.25
-Chandra::Splash                     0.25  pkg:cpan/Chandra@0.25
-Chandra::Store                      0.25  pkg:cpan/Chandra@0.25
-Chandra::Table                      0.25  pkg:cpan/Chandra@0.25
-Chandra::Tabs                       0.25  pkg:cpan/Chandra@0.25
-Chandra::Theme                      0.25  pkg:cpan/Chandra@0.25
-Chandra::Toast                      0.25  pkg:cpan/Chandra@0.25
-Chandra::Tray                       0.25  pkg:cpan/Chandra@0.25
-Chandra::Window                     0.25  pkg:cpan/Chandra@0.25
+Chandra::HotReload                  0.26  pkg:cpan/Chandra@0.26
+Chandra::Log                        0.26  pkg:cpan/Chandra@0.26
+Chandra::Modal                      0.26  pkg:cpan/Chandra@0.26
+Chandra::Nav                        0.26  pkg:cpan/Chandra@0.26
+Chandra::Notify                     0.26  pkg:cpan/Chandra@0.26
+Chandra::Pack                       0.26  pkg:cpan/Chandra@0.26
+Chandra::Protocol                   0.26  pkg:cpan/Chandra@0.26
+Chandra::Shortcut                   0.26  pkg:cpan/Chandra@0.26
+Chandra::Socket::Client             0.26  pkg:cpan/Chandra@0.26
+Chandra::Socket::Connection         0.26  pkg:cpan/Chandra@0.26
+Chandra::Socket::Hub                0.26  pkg:cpan/Chandra@0.26
+Chandra::Socket::Token              0.26  pkg:cpan/Chandra@0.26
+Chandra::Splash                     0.26  pkg:cpan/Chandra@0.26
+Chandra::Store                      0.26  pkg:cpan/Chandra@0.26
+Chandra::Table                      0.26  pkg:cpan/Chandra@0.26
+Chandra::Tabs                       0.26  pkg:cpan/Chandra@0.26
+Chandra::Theme                      0.26  pkg:cpan/Chandra@0.26
+Chandra::Toast                      0.26  pkg:cpan/Chandra@0.26
+Chandra::Tray                       0.26  pkg:cpan/Chandra@0.26
+Chandra::Window                     0.26  pkg:cpan/Chandra@0.26
 Changes                            0.004002  pkg:cpan/Changes@v0.4.2
 Changes::Change                    0.001002  pkg:cpan/Changes@v0.4.2
 Changes::Group                     0.002001  pkg:cpan/Changes@v0.4.2
@@ -143619,7 +143619,7 @@ Music::Tension::Counterpoint        1.03  pkg:cpan/Music-Tension@1.03
 Music::Tension::PlompLevelt         1.03  pkg:cpan/Music-Tension@1.03
 Music::ToRoman                     0.2002  pkg:cpan/Music-ToRoman@0.2002
 Music::VoiceGen                     0.02  pkg:cpan/Music-VoiceGen@0.02
-Music::VoicePhrase                 0.0114  pkg:cpan/Music-VoicePhrase@0.0114
+Music::VoicePhrase                 0.0115  pkg:cpan/Music-VoicePhrase@0.0115
 Music::Voss                         0.16  pkg:cpan/Music-Voss@0.16
 MusicBase                          0.001  pkg:cpan/DBIx-Class-Migration@0.044
 MusicBase::Schema                      3  pkg:cpan/DBIx-Class-Migration@0.044
