@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 08 Jul 2026 19:13:26 GMT
+Last-Updated: Wed, 08 Jul 2026 20:59:12 GMT
 Line-Count: 265932
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -204250,7 +204250,7 @@ RT::CustomFieldValues::AnnounceGroups undef  pkg:cpan/RT-Extension-Announce@1.06
 RT::CustomFieldValues::FormToolsGroups undef  pkg:cpan/RT-Extension-Announce@1.06
 RT::CustomFieldValues::ServiceBusinessHours undef  pkg:cpan/RT-Extension-AutomaticAssignment@2.00
 RT::Dashboard::FakeRequest         undef  pkg:cpan/RT-Extension-ExcelFeed@0.04
-RT::Dashboard::Mailer              undef  pkg:cpan/RT-Extension-ExcelFeed@1.02
+RT::Dashboard::Mailer              undef  pkg:cpan/RT-Extension-ExcelFeed@1.03
 RT::DatabaseSetting                undef  pkg:cpan/RT-Extension-ConfigInDatabase@0.03
 RT::DatabaseSettings               undef  pkg:cpan/RT-Extension-ConfigInDatabase@0.03
 RT::Date                            0.01  pkg:cpan/RT-Extension-DateTAI64@0.01
@@ -204345,7 +204345,7 @@ RT::Extension::ElapsedBusinessTime  0.05  pkg:cpan/RT-Extension-ElapsedBusinessT
 RT::Extension::EmailReplyDelimiter  0.11  pkg:cpan/RT-Extension-EmailReplyDelimiter@0.11
 RT::Extension::EscalationDates       0.4  pkg:cpan/RT-Extension-EscalationDates@0.4
 RT::Extension::ExampleTheme         0.01  pkg:cpan/RT-Extension-ExampleTheme@0.01
-RT::Extension::ExcelFeed            1.02  pkg:cpan/RT-Extension-ExcelFeed@1.02
+RT::Extension::ExcelFeed            1.03  pkg:cpan/RT-Extension-ExcelFeed@1.03
 RT::Extension::ExternalStorage      0.61  pkg:cpan/RT-Extension-ExternalStorage@0.61
 RT::Extension::ExternalStorage::AmazonS3 undef  pkg:cpan/RT-Extension-ExternalStorage@0.61
 RT::Extension::ExternalStorage::Backend undef  pkg:cpan/RT-Extension-ExternalStorage@0.61
@@ -217253,19 +217253,19 @@ Sepia::Xref                         0.65  pkg:cpan/Sepia@0.992
 Seq::Iter                          0.001  pkg:cpan/Seq-Iter@0.001
 SeqDiff                            undef  pkg:cpan/SeqDiff@v0.1
 Ser::BinRPC                         0.01  pkg:cpan/Ser-BinRPC@0.01
-Sereal                             5.006  pkg:cpan/Sereal@5.006
+Sereal                             5.007  pkg:cpan/Sereal@5.007
 Sereal::Dclone                     0.003  pkg:cpan/Sereal-Dclone@0.003
-Sereal::Decoder                    5.006  pkg:cpan/Sereal-Decoder@5.006
-Sereal::Decoder::Constants         5.006  pkg:cpan/Sereal-Decoder@5.006
-Sereal::Encoder                    5.006  pkg:cpan/Sereal-Encoder@5.006
-Sereal::Encoder::Constants         5.006  pkg:cpan/Sereal-Encoder@5.006
+Sereal::Decoder                    5.007  pkg:cpan/Sereal-Decoder@5.007
+Sereal::Decoder::Constants         5.007  pkg:cpan/Sereal-Decoder@5.007
+Sereal::Encoder                    5.007  pkg:cpan/Sereal-Encoder@5.007
+Sereal::Encoder::Constants         5.007  pkg:cpan/Sereal-Encoder@5.007
 Sereal::Merger                     0.001  pkg:cpan/Sereal-Merger@0.001
 Sereal::Merger::Constants          0.001  pkg:cpan/Sereal-Merger@0.001
 Sereal::Path                       4.004  pkg:cpan/Sereal-Path@4.004
 Sereal::Path::Constants            4.004  pkg:cpan/Sereal-Path@4.004
 Sereal::Path::Iterator             4.004  pkg:cpan/Sereal-Path@4.004
 Sereal::Path::Tie                  4.004  pkg:cpan/Sereal-Path@4.004
-Sereal::Performance                undef  pkg:cpan/Sereal-Decoder@5.006
+Sereal::Performance                undef  pkg:cpan/Sereal-Decoder@5.007
 Sereal::Splitter                   0.840  pkg:cpan/Sereal-Splitter@0.840
 Sereal::Splitter::Constants        0.830  pkg:cpan/Sereal-Splitter@0.840
 SerealX::Store                     0.003  pkg:cpan/SerealX-Store@0.003
