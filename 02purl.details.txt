@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 08 Jul 2026 10:09:50 GMT
-Line-Count: 265926
+Last-Updated: Wed, 08 Jul 2026 13:47:27 GMT
+Line-Count: 265927
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -9465,27 +9465,27 @@ App::Codeowners::Formatter::YAML    0.51  pkg:cpan/App-Codeowners@0.51
 App::Codeowners::Options            0.51  pkg:cpan/App-Codeowners@0.51
 App::Codeowners::Util               0.51  pkg:cpan/App-Codeowners@0.51
 App::Codeowners::Util::Process      0.49  pkg:cpan/App-Codeowners@0.49
-App::Codit                          0.19  pkg:cpan/App-Codit@0.19
-App::Codit::BaseClasses::TextModPlugin  0.19  pkg:cpan/App-Codit@0.19
-App::Codit::CodeTextManager         0.19  pkg:cpan/App-Codit@0.19
-App::Codit::CoditTagsEditor         0.19  pkg:cpan/App-Codit@0.19
-App::Codit::Ext::CoditMDI           0.19  pkg:cpan/App-Codit@0.19
-App::Codit::Macro                   0.19  pkg:cpan/App-Codit@0.19
-App::Codit::Plugins::Backups        0.19  pkg:cpan/App-Codit@0.19
-App::Codit::Plugins::Bookmarks      0.19  pkg:cpan/App-Codit@0.19
-App::Codit::Plugins::Colors         0.19  pkg:cpan/App-Codit@0.19
-App::Codit::Plugins::Console        0.19  pkg:cpan/App-Codit@0.19
-App::Codit::Plugins::Exporter       0.19  pkg:cpan/App-Codit@0.19
-App::Codit::Plugins::FileBrowser    0.19  pkg:cpan/App-Codit@0.19
-App::Codit::Plugins::Git            0.19  pkg:cpan/App-Codit@0.19
-App::Codit::Plugins::Icons          0.19  pkg:cpan/App-Codit@0.19
-App::Codit::Plugins::PerlSubs       0.19  pkg:cpan/App-Codit@0.19
-App::Codit::Plugins::PodViewer      0.19  pkg:cpan/App-Codit@0.19
-App::Codit::Plugins::SearchReplace  0.19  pkg:cpan/App-Codit@0.19
-App::Codit::Plugins::Sessions       0.19  pkg:cpan/App-Codit@0.19
-App::Codit::Plugins::Snippets       0.19  pkg:cpan/App-Codit@0.19
-App::Codit::Plugins::SplitView      0.19  pkg:cpan/App-Codit@0.19
-App::Codit::SessionManager          0.19  pkg:cpan/App-Codit@0.19
+App::Codit                          0.20  pkg:cpan/App-Codit@0.20
+App::Codit::BaseClasses::TextModPlugin  0.19  pkg:cpan/App-Codit@0.20
+App::Codit::CodeTextManager         0.19  pkg:cpan/App-Codit@0.20
+App::Codit::CoditTagsEditor         0.19  pkg:cpan/App-Codit@0.20
+App::Codit::Ext::CoditMDI           0.19  pkg:cpan/App-Codit@0.20
+App::Codit::Macro                   0.19  pkg:cpan/App-Codit@0.20
+App::Codit::Plugins::Backups        0.19  pkg:cpan/App-Codit@0.20
+App::Codit::Plugins::Bookmarks      0.20  pkg:cpan/App-Codit@0.20
+App::Codit::Plugins::Colors         0.19  pkg:cpan/App-Codit@0.20
+App::Codit::Plugins::Console        0.19  pkg:cpan/App-Codit@0.20
+App::Codit::Plugins::Exporter       0.19  pkg:cpan/App-Codit@0.20
+App::Codit::Plugins::FileBrowser    0.19  pkg:cpan/App-Codit@0.20
+App::Codit::Plugins::Git            0.19  pkg:cpan/App-Codit@0.20
+App::Codit::Plugins::Icons          0.19  pkg:cpan/App-Codit@0.20
+App::Codit::Plugins::PerlSubs       0.20  pkg:cpan/App-Codit@0.20
+App::Codit::Plugins::PodViewer      0.19  pkg:cpan/App-Codit@0.20
+App::Codit::Plugins::SearchReplace  0.20  pkg:cpan/App-Codit@0.20
+App::Codit::Plugins::Sessions       0.19  pkg:cpan/App-Codit@0.20
+App::Codit::Plugins::Snippets       0.20  pkg:cpan/App-Codit@0.20
+App::Codit::Plugins::SplitView      0.19  pkg:cpan/App-Codit@0.20
+App::Codit::SessionManager          0.19  pkg:cpan/App-Codit@0.20
 App::ColorNamer                    0.0104  pkg:cpan/App-ColorNamer@0.0104
 App::ColorThemeUtils               0.011  pkg:cpan/App-ColorThemeUtils@0.011
 App::Colorist                      0.150460  pkg:cpan/App-Colorist@0.150460
@@ -10277,7 +10277,8 @@ App::GHPT::Wrapper::OurMooseX::Role::Parameterized::Meta::Trait::Parameterizable
 App::GHPT::Wrapper::Ourperl        2.000001  pkg:cpan/App-GHPT@2.000001
 App::GSD                           undef  pkg:cpan/App-GSD@0.4
 App::GUI::Cellgraph                 0.83  pkg:cpan/App-GUI-Cellgraph@0.83
-App::GUI::GoLP                       1.2  pkg:cpan/App-GUI-GoLP@1.2
+App::GUI::GoLP                       1.3  pkg:cpan/App-GUI-GoLP@1.3
+App::GUI::GoLP::Colors             undef  pkg:cpan/App-GUI-GoLP@1.3
 App::GUI::Harmonograph               1.2  pkg:cpan/App-GUI-Harmonograph@1.2
 App::GUI::Juliagraph                0.73  pkg:cpan/App-GUI-Juliagraph@0.73
 App::GUI::Notepad                   0.03  pkg:cpan/App-GUI-Notepad@0.03
@@ -49697,7 +49698,7 @@ Crypt::OpenSSL::RC4                 0.04  pkg:cpan/Crypt-OpenSSL-RC4@0.04
 Crypt::OpenSSL::RSA                 0.41  pkg:cpan/Crypt-OpenSSL-RSA@0.41
 Crypt::OpenSSL::Random              0.17  pkg:cpan/Crypt-OpenSSL-Random@0.17
 Crypt::OpenSSL::SMIME               0.05  pkg:cpan/Crypt-OpenSSL-SMIME@0.05
-Crypt::OpenSSL::SignCSR             0.14  pkg:cpan/Crypt-OpenSSL-SignCSR@0.14
+Crypt::OpenSSL::SignCSR             0.16  pkg:cpan/Crypt-OpenSSL-SignCSR@0.16
 Crypt::OpenSSL::Verify              0.38  pkg:cpan/Crypt-OpenSSL-Verify@0.38
 Crypt::OpenSSL::VerifyX509          0.21  pkg:cpan/Crypt-OpenSSL-VerifyX509@0.21
 Crypt::OpenSSL::X509               2.001002  pkg:cpan/Crypt-OpenSSL-X509@2.1.2
@@ -235531,7 +235532,7 @@ Tk::DockFrame::Base                 0.03  pkg:cpan/Tk-DKW@0.03
 Tk::DockFrame::Win32                0.03  pkg:cpan/Tk-DKW@0.03
 Tk::DockFrame::X11                  0.03  pkg:cpan/Tk-DKW@0.03
 Tk::DockPort                        0.03  pkg:cpan/Tk-DKW@0.03
-Tk::DocumentTree                    0.09  pkg:cpan/Tk-DocumentTree@0.09
+Tk::DocumentTree                    0.10  pkg:cpan/Tk-DocumentTree@0.10
 Tk::DoubleClick                     0.04  pkg:cpan/Tk-DoubleClick@0.04
 Tk::DragDrop                       4.015  pkg:cpan/Tk@804.036
 Tk::DragDrop::Common               4.005  pkg:cpan/Tk@804.036
@@ -235681,23 +235682,23 @@ Tk::Labelframe                     4.003  pkg:cpan/Tk@804.036
 Tk::Labelled                         0.2  pkg:cpan/Tk-Gauge@0.3
 Tk::LineGraph                       0.01  pkg:cpan/Tk-LineGraph@0.01
 Tk::LineNumberText                   0.5  pkg:cpan/Tk-LineNumberText@0.5
-Tk::ListBrowser                     0.12  pkg:cpan/Tk-ListBrowser@0.12
-Tk::ListBrowser::Bar                0.04  pkg:cpan/Tk-ListBrowser@0.12
-Tk::ListBrowser::BaseItem            0.1  pkg:cpan/Tk-ListBrowser@0.12
-Tk::ListBrowser::Column              0.1  pkg:cpan/Tk-ListBrowser@0.12
+Tk::ListBrowser                     0.13  pkg:cpan/Tk-ListBrowser@0.13
+Tk::ListBrowser::Bar                0.04  pkg:cpan/Tk-ListBrowser@0.13
+Tk::ListBrowser::BaseItem            0.1  pkg:cpan/Tk-ListBrowser@0.13
+Tk::ListBrowser::Column              0.1  pkg:cpan/Tk-ListBrowser@0.13
 Tk::ListBrowser::Data               0.08  pkg:cpan/Tk-ListBrowser@0.08
-Tk::ListBrowser::Entry              0.12  pkg:cpan/Tk-ListBrowser@0.12
-Tk::ListBrowser::FilterEntry        0.11  pkg:cpan/Tk-ListBrowser@0.12
-Tk::ListBrowser::HList               0.1  pkg:cpan/Tk-ListBrowser@0.12
-Tk::ListBrowser::HashList            0.1  pkg:cpan/Tk-ListBrowser@0.12
-Tk::ListBrowser::Item               0.12  pkg:cpan/Tk-ListBrowser@0.12
-Tk::ListBrowser::LBCanvas           0.04  pkg:cpan/Tk-ListBrowser@0.12
-Tk::ListBrowser::LBHeader           0.11  pkg:cpan/Tk-ListBrowser@0.12
-Tk::ListBrowser::List               0.12  pkg:cpan/Tk-ListBrowser@0.12
-Tk::ListBrowser::Row                0.12  pkg:cpan/Tk-ListBrowser@0.12
-Tk::ListBrowser::SelectXPM          0.11  pkg:cpan/Tk-ListBrowser@0.12
-Tk::ListBrowser::SideColumn         0.12  pkg:cpan/Tk-ListBrowser@0.12
-Tk::ListBrowser::Tree                0.1  pkg:cpan/Tk-ListBrowser@0.12
+Tk::ListBrowser::Entry              0.12  pkg:cpan/Tk-ListBrowser@0.13
+Tk::ListBrowser::FilterEntry        0.11  pkg:cpan/Tk-ListBrowser@0.13
+Tk::ListBrowser::HList               0.1  pkg:cpan/Tk-ListBrowser@0.13
+Tk::ListBrowser::HashList            0.1  pkg:cpan/Tk-ListBrowser@0.13
+Tk::ListBrowser::Item               0.12  pkg:cpan/Tk-ListBrowser@0.13
+Tk::ListBrowser::LBCanvas           0.04  pkg:cpan/Tk-ListBrowser@0.13
+Tk::ListBrowser::LBHeader           0.11  pkg:cpan/Tk-ListBrowser@0.13
+Tk::ListBrowser::List               0.12  pkg:cpan/Tk-ListBrowser@0.13
+Tk::ListBrowser::Row                0.12  pkg:cpan/Tk-ListBrowser@0.13
+Tk::ListBrowser::SelectXPM          0.11  pkg:cpan/Tk-ListBrowser@0.13
+Tk::ListBrowser::SideColumn         0.12  pkg:cpan/Tk-ListBrowser@0.13
+Tk::ListBrowser::Tree                0.1  pkg:cpan/Tk-ListBrowser@0.13
 Tk::ListEntry                       0.07  pkg:cpan/Tk-ListEntry@0.07
 Tk::ListMgr                         0.02  pkg:cpan/Tk-GBARR@2.08
 Tk::ListMgr::Item                   0.02  pkg:cpan/Tk-GBARR@2.08
