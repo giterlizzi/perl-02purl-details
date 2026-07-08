@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 08 Jul 2026 17:37:33 GMT
+Last-Updated: Wed, 08 Jul 2026 19:13:26 GMT
 Line-Count: 265932
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -235165,7 +235165,7 @@ Time::Nanos                        0.001004  pkg:cpan/Time-Nanos@v0.1.4
 Time::Normalize                     0.09  pkg:cpan/Time-Normalize@0.09
 Time::Object                        1.00  pkg:cpan/Time-Object@1.00
 Time::OlsonTZ::Clustered           0.002  pkg:cpan/Time-OlsonTZ-Clustered@0.002
-Time::OlsonTZ::Data                0.202602  pkg:cpan/Time-OlsonTZ-Data@0.202602
+Time::OlsonTZ::Data                0.202603  pkg:cpan/Time-OlsonTZ-Data@0.202603
 Time::OlsonTZ::Download            0.009  pkg:cpan/Time-OlsonTZ-Download@0.009
 Time::Out                          v1.0.0  pkg:cpan/Time-Out@1.0.0
 Time::Out::Exception               v1.0.0  pkg:cpan/Time-Out@1.0.0
