@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 08 Jul 2026 06:22:33 GMT
+Last-Updated: Wed, 08 Jul 2026 10:09:50 GMT
 Line-Count: 265926
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -30555,45 +30555,45 @@ Business::Monzo::Transaction       undef  pkg:cpan/Business-Monzo@0.13
 Business::Monzo::Utils             undef  pkg:cpan/Business-Monzo@0.13
 Business::Monzo::Version           undef  pkg:cpan/Business-Monzo@0.13
 Business::Monzo::Webhook           undef  pkg:cpan/Business-Monzo@0.13
-Business::NAB                       0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::AccountInformation::Account  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::AccountInformation::File  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::AccountInformation::Group  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::AccountInformation::Transaction  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::Acknowledgement      0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::Acknowledgement::Issue  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::Australian::DirectEntry::Payments  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::Australian::DirectEntry::Payments::DescriptiveRecord  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::Australian::DirectEntry::Payments::DetailRecord  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::Australian::DirectEntry::Payments::TotalRecord  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::Australian::DirectEntry::Report  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::Australian::DirectEntry::Report::DisclaimerRecord  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::Australian::DirectEntry::Report::FailedRecord  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::Australian::DirectEntry::Report::FailedSummary  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::Australian::DirectEntry::Report::HeaderRecord  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::Australian::DirectEntry::Report::PaymentRecord  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::Australian::DirectEntry::Report::TrailerRecord  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::Australian::DirectEntry::Report::ValueSummary  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::Australian::DirectEntry::Returns  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::Australian::DirectEntry::Returns::DescriptiveRecord  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::Australian::DirectEntry::Returns::DetailRecord  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::Australian::DirectEntry::Returns::TotalRecord  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::BPAY::Payments       0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::BPAY::Payments::DetailRecord  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::BPAY::Payments::HeaderRecord  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::BPAY::Payments::Results  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::BPAY::Payments::Results::DetailRecord  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::BPAY::Payments::Results::HeaderRecord  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::BPAY::Payments::Results::TrailerRecord  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::BPAY::Payments::TrailerRecord  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::BPAY::Remittance::File  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::BPAY::Remittance::File::DetailRecord  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::BPAY::Remittance::File::HeaderRecord  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::BPAY::Remittance::File::TrailerRecord  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::CSV                  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::FileContainer        0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::Role::AttributeContainer  0.04  pkg:cpan/Business-NAB@0.04
-Business::NAB::Types                0.04  pkg:cpan/Business-NAB@0.04
+Business::NAB                       0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::AccountInformation::Account  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::AccountInformation::File  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::AccountInformation::Group  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::AccountInformation::Transaction  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::Acknowledgement      0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::Acknowledgement::Issue  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::Australian::DirectEntry::Payments  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::Australian::DirectEntry::Payments::DescriptiveRecord  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::Australian::DirectEntry::Payments::DetailRecord  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::Australian::DirectEntry::Payments::TotalRecord  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::Australian::DirectEntry::Report  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::Australian::DirectEntry::Report::DisclaimerRecord  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::Australian::DirectEntry::Report::FailedRecord  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::Australian::DirectEntry::Report::FailedSummary  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::Australian::DirectEntry::Report::HeaderRecord  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::Australian::DirectEntry::Report::PaymentRecord  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::Australian::DirectEntry::Report::TrailerRecord  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::Australian::DirectEntry::Report::ValueSummary  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::Australian::DirectEntry::Returns  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::Australian::DirectEntry::Returns::DescriptiveRecord  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::Australian::DirectEntry::Returns::DetailRecord  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::Australian::DirectEntry::Returns::TotalRecord  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::BPAY::Payments       0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::BPAY::Payments::DetailRecord  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::BPAY::Payments::HeaderRecord  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::BPAY::Payments::Results  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::BPAY::Payments::Results::DetailRecord  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::BPAY::Payments::Results::HeaderRecord  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::BPAY::Payments::Results::TrailerRecord  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::BPAY::Payments::TrailerRecord  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::BPAY::Remittance::File  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::BPAY::Remittance::File::DetailRecord  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::BPAY::Remittance::File::HeaderRecord  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::BPAY::Remittance::File::TrailerRecord  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::CSV                  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::FileContainer        0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::Role::AttributeContainer  0.05  pkg:cpan/Business-NAB@0.05
+Business::NAB::Types                0.05  pkg:cpan/Business-NAB@0.05
 Business::NETeller::Direct          1.00  pkg:cpan/Business-NETeller-Direct@1.00
 Business::NoChex                    0.02  pkg:cpan/Business-NoChex@0.02
 Business::OnlinePayment             3.05  pkg:cpan/Business-OnlinePayment@3.05
