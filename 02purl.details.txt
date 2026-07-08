@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 08 Jul 2026 02:02:41 GMT
-Line-Count: 265927
+Last-Updated: Wed, 08 Jul 2026 06:22:33 GMT
+Line-Count: 265926
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -20749,7 +20749,6 @@ Audio::Nama::SlaveTrack                1  pkg:cpan/Audio-Nama@1.605
 Audio::Nama::Spacer                    1  pkg:cpan/Audio-Nama@1.605
 Audio::Nama::StatusSnapshot            1  pkg:cpan/Audio-Nama@1.605
 Audio::Nama::SubBus                    1  pkg:cpan/Audio-Nama@1.605
-Audio::Nama::Tempo                     1  pkg:cpan/Audio-Nama@1.603
 Audio::Nama::Tempo::Bar            undef  pkg:cpan/Audio-Nama@1.605
 Audio::Nama::Tempo::Beat           undef  pkg:cpan/Audio-Nama@1.605
 Audio::Nama::Tempo::Chunk              1  pkg:cpan/Audio-Nama@1.605
@@ -22229,12 +22228,12 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         0.018003  pkg:cpan/BarefootJS@0.18.3
-BarefootJS::Backend::Mojo          0.018003  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.18.3
-BarefootJS::Backend::Xslate        0.018003  pkg:cpan/BarefootJS-Backend-Xslate@0.18.3
-BarefootJS::DevReload              0.018003  pkg:cpan/BarefootJS@0.18.3
-BarefootJS::Evaluator              0.014000  pkg:cpan/BarefootJS@0.18.3
-BarefootJS::SearchParams           0.014000  pkg:cpan/BarefootJS@0.18.3
+BarefootJS                         0.018004  pkg:cpan/BarefootJS@0.18.4
+BarefootJS::Backend::Mojo          0.018004  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.18.4
+BarefootJS::Backend::Xslate        0.018004  pkg:cpan/BarefootJS-Backend-Xslate@0.18.4
+BarefootJS::DevReload              0.018004  pkg:cpan/BarefootJS@0.18.4
+BarefootJS::Evaluator              0.014000  pkg:cpan/BarefootJS@0.18.4
+BarefootJS::SearchParams           0.014000  pkg:cpan/BarefootJS@0.18.4
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
 Baseball::Sabermetrics              0.03  pkg:cpan/Baseball-Sabermetrics@0.03
@@ -139585,8 +139584,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    0.018003  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.18.3
-Mojolicious::Plugin::BarefootJS::DevReload 0.018003  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.18.3
+Mojolicious::Plugin::BarefootJS    0.018004  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.18.4
+Mojolicious::Plugin::BarefootJS::DevReload 0.018004  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.18.4
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -143614,7 +143613,7 @@ Music::Tension::Counterpoint        1.03  pkg:cpan/Music-Tension@1.03
 Music::Tension::PlompLevelt         1.03  pkg:cpan/Music-Tension@1.03
 Music::ToRoman                     0.2002  pkg:cpan/Music-ToRoman@0.2002
 Music::VoiceGen                     0.02  pkg:cpan/Music-VoiceGen@0.02
-Music::VoicePhrase                 0.0115  pkg:cpan/Music-VoicePhrase@0.0115
+Music::VoicePhrase                 0.0116  pkg:cpan/Music-VoicePhrase@0.0116
 Music::Voss                         0.16  pkg:cpan/Music-Voss@0.16
 MusicBase                          0.001  pkg:cpan/DBIx-Class-Migration@0.044
 MusicBase::Schema                      3  pkg:cpan/DBIx-Class-Migration@0.044
