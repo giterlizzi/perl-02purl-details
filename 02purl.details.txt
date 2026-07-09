@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 09 Jul 2026 19:27:02 GMT
+Last-Updated: Thu, 09 Jul 2026 21:16:08 GMT
 Line-Count: 265976
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -155083,7 +155083,7 @@ Number::ZipCode::JP::Table         0.20260630  pkg:cpan/Number-ZipCode-JP@0.2026
 Number::ZipCode::JP::Table::Area   0.20260630  pkg:cpan/Number-ZipCode-JP@0.20260630
 Number::ZipCode::JP::Table::Company 0.20260630  pkg:cpan/Number-ZipCode-JP@0.20260630
 Numeric::LL_Array                  0.1504  pkg:cpan/Numeric-LL_Array@0.1504
-Numeric::Matrix                     0.03  pkg:cpan/Numeric-Matrix@0.03
+Numeric::Matrix                     0.04  pkg:cpan/Numeric-Matrix@0.04
 Numeric::Vector                     0.03  pkg:cpan/Numeric-Vector@0.03
 NumericCodes                        0.04  pkg:cpan/Net-Bot-IRC-NumericCodes@0.04
 Nuspec::Reader                     v0.1.0  pkg:cpan/Nuspec-Reader@0.1.0
@@ -235434,33 +235434,33 @@ Tk::Adjuster                       4.008  pkg:cpan/Tk@804.036
 Tk::Adjuster::Item                 4.008  pkg:cpan/Tk@804.036
 Tk::After                          4.008  pkg:cpan/Tk@804.036
 Tk::Animation                      4.008  pkg:cpan/Tk@804.036
-Tk::AppWindow                       0.23  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::BaseClasses::Callback  0.21  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::BaseClasses::ContentManager  0.20  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::BaseClasses::Extension  0.08  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::BaseClasses::Plugin  0.07  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::BaseClasses::PluginJobs  0.07  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::Ext::Art             0.23  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::Ext::ConfigFolder    0.02  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::Ext::Daemons         0.08  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::Ext::Help            0.17  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::Ext::Keyboard        0.15  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::Ext::MDI             0.17  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::Ext::MenuBar         0.08  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::Ext::Panels          0.20  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::Ext::Plugins         0.20  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::Ext::SDI             0.17  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::Ext::Selector        0.16  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::Ext::Settings        0.21  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::Ext::SideBars        0.20  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::Ext::StatusBar       0.15  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::Ext::StatusBar::SBaseItem undef  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::Ext::StatusBar::SImageItem undef  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::Ext::StatusBar::SMessageItem undef  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::Ext::StatusBar::SProgressItem undef  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::Ext::StatusBar::STextItem undef  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::Ext::ToolBar         0.11  pkg:cpan/Tk-AppWindow@0.23
-Tk::AppWindow::PluginsForm          0.07  pkg:cpan/Tk-AppWindow@0.23
+Tk::AppWindow                       0.24  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::BaseClasses::Callback  0.21  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::BaseClasses::ContentManager  0.20  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::BaseClasses::Extension  0.08  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::BaseClasses::Plugin  0.07  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::BaseClasses::PluginJobs  0.07  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::Ext::Art             0.23  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::Ext::ConfigFolder    0.02  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::Ext::Daemons         0.08  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::Ext::Help            0.17  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::Ext::Keyboard        0.15  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::Ext::MDI             0.17  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::Ext::MenuBar         0.08  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::Ext::Panels          0.20  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::Ext::Plugins         0.20  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::Ext::SDI             0.17  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::Ext::Selector        0.24  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::Ext::Settings        0.21  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::Ext::SideBars        0.20  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::Ext::StatusBar       0.15  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::Ext::StatusBar::SBaseItem undef  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::Ext::StatusBar::SImageItem undef  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::Ext::StatusBar::SMessageItem undef  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::Ext::StatusBar::SProgressItem undef  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::Ext::StatusBar::STextItem undef  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::Ext::ToolBar         0.11  pkg:cpan/Tk-AppWindow@0.24
+Tk::AppWindow::PluginsForm          0.07  pkg:cpan/Tk-AppWindow@0.24
 Tk::Application                     0.04  pkg:cpan/vstadaf@0.01
 Tk::Application::Stadaf             0.01  pkg:cpan/vstadaf@0.01
 Tk::Application::dbfdump            0.03  pkg:cpan/xdbfdump@0.03
