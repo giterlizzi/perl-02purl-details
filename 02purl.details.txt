@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 09 Jul 2026 07:31:19 GMT
+Last-Updated: Thu, 09 Jul 2026 10:47:51 GMT
 Line-Count: 265932
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -247596,7 +247596,7 @@ WWW::Session::Serialization::Storable  0.12  pkg:cpan/WWW-Session@0.12
 WWW::Session::Storage::File         0.12  pkg:cpan/WWW-Session@0.12
 WWW::Session::Storage::Memcached    0.12  pkg:cpan/WWW-Session@0.12
 WWW::Session::Storage::MySQL        0.12  pkg:cpan/WWW-Session@0.12
-WWW::Session::Storage::Redis        0.03  pkg:cpan/WWW-Session-Storage-Redis@0.03
+WWW::Session::Storage::Redis        0.04  pkg:cpan/WWW-Session-Storage-Redis@0.04
 WWW::SherlockSearch                 0.20  pkg:cpan/WWW-SherlockSearch@0.20
 WWW::SherlockSearch::Results       undef  pkg:cpan/WWW-SherlockSearch@0.20
 WWW::ShipStation                    0.06  pkg:cpan/WWW-ShipStation@0.06
