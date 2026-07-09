@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 08 Jul 2026 22:57:27 GMT
+Last-Updated: Thu, 09 Jul 2026 02:21:34 GMT
 Line-Count: 265932
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -21971,7 +21971,7 @@ Backblaze::B2::v1::File             0.02  pkg:cpan/Backblaze-B2@0.02
 Backblaze::B2::v1::File::Synchronized  0.02  pkg:cpan/Backblaze-B2@0.02
 Backblaze::B2::v1::Synchronous      0.02  pkg:cpan/Backblaze-B2@0.02
 Backblaze::B2V2Client                1.7  pkg:cpan/Backblaze-B2V2Client@1.7
-Backblaze::B2V4                     0.03  pkg:cpan/Backblaze-B2V4@0.03
+Backblaze::B2V4                     0.04  pkg:cpan/Backblaze-B2V4@0.04
 Backbone::Events                   0.000003  pkg:cpan/Backbone-Events@0.0.3
 Backed_Objects                      1.16  pkg:cpan/Backed_Objects@1.16
 Backtick::AutoChomp                 0.02  pkg:cpan/Backtick-AutoChomp@0.02
@@ -50477,7 +50477,7 @@ Cucumber::TagExpressions::LiteralNode v10.0.0  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
 Cucumber::TagExpressions::NotNode  v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
 Cucumber::TagExpressions::OrNode   v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.118
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.119
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
@@ -63731,16 +63731,16 @@ DateTime::LazyInit::Constructor_new 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ex
 DateTime::LazyInit::Constructor_now 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ext=tgz
 DateTime::LazyInit::Constructor_today 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ext=tgz
 DateTime::LeapSecond                1.66  pkg:cpan/DateTime@1.66
-DateTime::Lite                     0.007003  pkg:cpan/DateTime-Lite@v0.7.3
-DateTime::Lite::Duration           0.001002  pkg:cpan/DateTime-Lite@v0.7.3
-DateTime::Lite::Exception          0.001000  pkg:cpan/DateTime-Lite@v0.7.3
-DateTime::Lite::Infinite           0.001000  pkg:cpan/DateTime-Lite@v0.7.3
-DateTime::Lite::Infinite::Future   0.001000  pkg:cpan/DateTime-Lite@v0.7.3
-DateTime::Lite::Infinite::Past     0.001000  pkg:cpan/DateTime-Lite@v0.7.3
-DateTime::Lite::PP                 0.001001  pkg:cpan/DateTime-Lite@v0.7.3
-DateTime::Lite::TimeZone           0.005009  pkg:cpan/DateTime-Lite@v0.7.3
-DateTime::Lite::_FakeLocale        0.001000  pkg:cpan/DateTime-Lite@v0.7.3
-DateTime::Lite::_Thawed            0.007003  pkg:cpan/DateTime-Lite@v0.7.3
+DateTime::Lite                     0.008000  pkg:cpan/DateTime-Lite@v0.8.0
+DateTime::Lite::Duration           0.001002  pkg:cpan/DateTime-Lite@v0.8.0
+DateTime::Lite::Exception          0.001000  pkg:cpan/DateTime-Lite@v0.8.0
+DateTime::Lite::Infinite           0.001000  pkg:cpan/DateTime-Lite@v0.8.0
+DateTime::Lite::Infinite::Future   0.001000  pkg:cpan/DateTime-Lite@v0.8.0
+DateTime::Lite::Infinite::Past     0.001000  pkg:cpan/DateTime-Lite@v0.8.0
+DateTime::Lite::PP                 0.001001  pkg:cpan/DateTime-Lite@v0.8.0
+DateTime::Lite::TimeZone           0.005009  pkg:cpan/DateTime-Lite@v0.8.0
+DateTime::Lite::_FakeLocale        0.001000  pkg:cpan/DateTime-Lite@v0.8.0
+DateTime::Lite::_Thawed            0.008000  pkg:cpan/DateTime-Lite@v0.8.0
 DateTime::Locale                    1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Base              1.45  pkg:cpan/DateTime-Locale@1.45
 DateTime::Locale::Catalog           1.45  pkg:cpan/DateTime-Locale@1.45
@@ -67054,7 +67054,7 @@ Dist::Zilla::MintingProfile::Default 6.037  pkg:cpan/Dist-Zilla@6.037
 Dist::Zilla::MintingProfile::DistIller::Basic 0.1411  pkg:cpan/Dist-Iller@0.1411
 Dist::Zilla::MintingProfile::FB11  0.018  pkg:cpan/Dist-Zilla-MintingProfile-FB11@0.018
 Dist::Zilla::MintingProfile::FFI    0.03  pkg:cpan/Dist-Zilla-MintingProfile-FFI@0.03
-Dist::Zilla::MintingProfile::GEEKRUTH 2.0002  pkg:cpan/Dist-Zilla-PluginBundle-GEEKRUTH@2.0002
+Dist::Zilla::MintingProfile::GEEKRUTH 4.0000  pkg:cpan/Dist-Zilla-PluginBundle-GEEKRUTH@4.0000
 Dist::Zilla::MintingProfile::IDOPEREL 1.001000  pkg:cpan/Dist-Zilla-PluginBundle-IDOPEREL@1.001000
 Dist::Zilla::MintingProfile::Iller::CSSON 0.0102  pkg:cpan/Dist-Zilla-MintingProfile-Iller-CSSON@0.0102
 Dist::Zilla::MintingProfile::JSAN   0.06  pkg:cpan/Dist-Zilla-Plugin-JSAN@0.06
@@ -67942,7 +67942,7 @@ Dist::Zilla::PluginBundle::FAYLAND  0.16  pkg:cpan/Dist-Zilla-PluginBundle-FAYLA
 Dist::Zilla::PluginBundle::FLORA    0.18  pkg:cpan/Dist-Zilla-PluginBundle-FLORA@0.18
 Dist::Zilla::PluginBundle::FakeClassic 6.037  pkg:cpan/Dist-Zilla@6.037
 Dist::Zilla::PluginBundle::Filter  6.037  pkg:cpan/Dist-Zilla@6.037
-Dist::Zilla::PluginBundle::GEEKRUTH 2.0002  pkg:cpan/Dist-Zilla-PluginBundle-GEEKRUTH@2.0002
+Dist::Zilla::PluginBundle::GEEKRUTH 4.0000  pkg:cpan/Dist-Zilla-PluginBundle-GEEKRUTH@4.0000
 Dist::Zilla::PluginBundle::GENEHACK   0.9  pkg:cpan/Dist-Zilla-PluginBundle-GENEHACK@0.9
 Dist::Zilla::PluginBundle::GPHAT    0.06  pkg:cpan/Dist-Zilla-PluginBundle-GPHAT@0.06
 Dist::Zilla::PluginBundle::GRS      0.08  pkg:cpan/Dist-Zilla-PluginBundle-GRS@0.08
@@ -109189,7 +109189,7 @@ HTTP::Daemon::Threaded::SessionCache  0.91  pkg:cpan/HTTP-Daemon-Threaded@0.91
 HTTP::Daemon::Threaded::Socket      0.91  pkg:cpan/HTTP-Daemon-Threaded@0.91
 HTTP::Daemon::Threaded::WebClient   0.91  pkg:cpan/HTTP-Daemon-Threaded@0.91
 HTTP::Daemon::UNIX                  0.06  pkg:cpan/HTTP-Daemon-UNIX@0.06
-HTTP::Date                          6.07  pkg:cpan/HTTP-Date@6.07
+HTTP::Date                          6.08  pkg:cpan/HTTP-Date@6.08
 HTTP::DetectUserAgent               0.05  pkg:cpan/HTTP-DetectUserAgent@0.07
 HTTP::DownloadLimit                0.001000  pkg:cpan/HTTP-DownloadLimit@0.1
 HTTP::Easy                          0.02  pkg:cpan/HTTP-Easy@0.02
