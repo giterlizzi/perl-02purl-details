@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 09 Jul 2026 10:47:51 GMT
-Line-Count: 265932
+Last-Updated: Thu, 09 Jul 2026 14:40:29 GMT
+Line-Count: 265940
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -4028,19 +4028,24 @@ Algorithm::CheckDigits::MXX_004    v1.3.6  pkg:cpan/Algorithm-CheckDigits@v1.3.6
 Algorithm::CheckDigits::MXX_005    v1.3.6  pkg:cpan/Algorithm-CheckDigits@v1.3.6
 Algorithm::CheckDigits::MXX_006    v1.3.6  pkg:cpan/Algorithm-CheckDigits@v1.3.6
 Algorithm::ChooseSubsets            0.02  pkg:cpan/Algorithm-ChooseSubsets@0.02
-Algorithm::Classifier::IsolationForest 0.005000  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
-Algorithm::Classifier::IsolationForest::App undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
-Algorithm::Classifier::IsolationForest::App::Command undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
-Algorithm::Classifier::IsolationForest::App::Command::accel undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
-Algorithm::Classifier::IsolationForest::App::Command::bench undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
-Algorithm::Classifier::IsolationForest::App::Command::csv2plot undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
-Algorithm::Classifier::IsolationForest::App::Command::fit undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
-Algorithm::Classifier::IsolationForest::App::Command::gblob undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
-Algorithm::Classifier::IsolationForest::App::Command::info undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
-Algorithm::Classifier::IsolationForest::App::Command::pack undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
-Algorithm::Classifier::IsolationForest::App::Command::predict undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
-Algorithm::Classifier::IsolationForest::App::Command::set_voting undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
-Algorithm::Classifier::IsolationForest::PackedData 0.005000  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
+Algorithm::Classifier::IsolationForest 0.006000  pkg:cpan/Algorithm-Classifier-IsolationForest@0.6.0
+Algorithm::Classifier::IsolationForest::App undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.6.0
+Algorithm::Classifier::IsolationForest::App::Command undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.6.0
+Algorithm::Classifier::IsolationForest::App::Command::accel undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.6.0
+Algorithm::Classifier::IsolationForest::App::Command::bench undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.6.0
+Algorithm::Classifier::IsolationForest::App::Command::csv2plot undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.6.0
+Algorithm::Classifier::IsolationForest::App::Command::fit undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.6.0
+Algorithm::Classifier::IsolationForest::App::Command::gblob undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.6.0
+Algorithm::Classifier::IsolationForest::App::Command::info undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.6.0
+Algorithm::Classifier::IsolationForest::App::Command::pack undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.6.0
+Algorithm::Classifier::IsolationForest::App::Command::predict undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.6.0
+Algorithm::Classifier::IsolationForest::App::Command::proto undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.6.0
+Algorithm::Classifier::IsolationForest::App::Command::set_voting undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.6.0
+Algorithm::Classifier::IsolationForest::App::Command::stream undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.6.0
+Algorithm::Classifier::IsolationForest::App::Command::streamc undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.6.0
+Algorithm::Classifier::IsolationForest::App::Command::streamd undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.6.0
+Algorithm::Classifier::IsolationForest::Online 0.006000  pkg:cpan/Algorithm-Classifier-IsolationForest@0.6.0
+Algorithm::Classifier::IsolationForest::PackedData 0.006000  pkg:cpan/Algorithm-Classifier-IsolationForest@0.6.0
 Algorithm::Classifier::NaiveBayes  0.000001  pkg:cpan/Algorithm-Classifier-NaiveBayes@0.0.1
 Algorithm::Classifier::NaiveBayes::App undef  pkg:cpan/Algorithm-Classifier-NaiveBayes@0.0.1
 Algorithm::Classifier::NaiveBayes::App::Command undef  pkg:cpan/Algorithm-Classifier-NaiveBayes@0.0.1
@@ -4121,8 +4126,9 @@ Algorithm::Easing::Quartinion      undef  pkg:cpan/Algorithm-Easing@0.998
 Algorithm::Easing::Quintonion      undef  pkg:cpan/Algorithm-Easing@0.998
 Algorithm::Easing::Sinusoidal      undef  pkg:cpan/Algorithm-Easing@0.998
 Algorithm::EquivalenceSets         1.101420  pkg:cpan/Algorithm-EquivalenceSets@1.101420
-Algorithm::EventsPerSecond         0.000001  pkg:cpan/Algorithm-EventsPerSecond@0.0.1
-Algorithm::EventsPerSecond::XS     0.000001  pkg:cpan/Algorithm-EventsPerSecond@0.0.1
+Algorithm::EventsPerSecond         0.001000  pkg:cpan/Algorithm-EventsPerSecond@0.1.0
+Algorithm::EventsPerSecond::Sukkal 0.001000  pkg:cpan/Algorithm-EventsPerSecond@0.1.0
+Algorithm::EventsPerSecond::XS     0.000001  pkg:cpan/Algorithm-EventsPerSecond@0.1.0
 Algorithm::Evolutionary             0.80  pkg:cpan/Algorithm-Evolutionary@0.80
 Algorithm::Evolutionary::Experiment   3.4  pkg:cpan/Algorithm-Evolutionary@0.82.1
 Algorithm::Evolutionary::Fitness   3.102000  pkg:cpan/Algorithm-Evolutionary-Fitness@v3.102
@@ -4433,6 +4439,8 @@ Algorithm::TSort::Guard             0.05  pkg:cpan/Algorithm-TSort@0.05
 Algorithm::TicketClusterer          1.01  pkg:cpan/Algorithm-TicketClusterer@1.01
 Algorithm::Time::ToNumber          0.001001  pkg:cpan/Algorithm-Time-ToNumber@0.1.1
 Algorithm::TimelinePacking          0.01  pkg:cpan/Algorithm-TimelinePacking@0.01
+Algorithm::ToNumberMunger          0.000001  pkg:cpan/Algorithm-ToNumberMunger@0.0.1
+Algorithm::ToNumberMunger::Plan    0.000001  pkg:cpan/Algorithm-ToNumberMunger@0.0.1
 Algorithm::TokenBucket              0.38  pkg:cpan/Algorithm-TokenBucket@0.38
 Algorithm::Toy::HashSC              0.02  pkg:cpan/Algorithm-Toy-HashSC@0.02
 Algorithm::TravelingSalesman::BitonicTour  0.05  pkg:cpan/Algorithm-TravelingSalesman-BitonicTour@0.05
@@ -22522,7 +22530,7 @@ BellmanFord                         0.03  pkg:cpan/Algorithm-BellmanFord@0.03
 Bench::CompactTree                 undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
 Bench::ExpatHandler                undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
 Bench::SAXHandler                  undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
-BenchAccel                         undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.5.0
+BenchAccel                         undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.6.0
 Bencher                            v1.62.4  pkg:cpan/Bencher@1.062.4
 Bencher::BPM                       0.002  pkg:cpan/Bencher-BPM@0.002
 Bencher::Backend                   1.063  pkg:cpan/Bencher-Backend@1.063
@@ -32904,15 +32912,15 @@ CLI::Popt                           0.01  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X                       undef  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X::BadOption            undef  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X::Base                 undef  pkg:cpan/CLI-Popt@0.01
-CLI::Simple                        v2.0.11  pkg:cpan/CLI-Simple@2.0.11
-CLI::Simple::Constants             v2.0.11  pkg:cpan/CLI-Simple@2.0.11
-CLI::Simple::DumpSpec                  0  pkg:cpan/CLI-Simple@2.0.11
-CLI::Simple::Helpers                   0  pkg:cpan/CLI-Simple@2.0.11
-CLI::Simple::Migrate                   0  pkg:cpan/CLI-Simple@2.0.11
-CLI::Simple::Modulino                  0  pkg:cpan/CLI-Simple@2.0.11
-CLI::Simple::Scaffold                  0  pkg:cpan/CLI-Simple@2.0.11
-CLI::Simple::Shell                     0  pkg:cpan/CLI-Simple@2.0.11
-CLI::Simple::Utils                 v2.0.11  pkg:cpan/CLI-Simple@2.0.11
+CLI::Simple                        v2.0.12  pkg:cpan/CLI-Simple@2.0.12
+CLI::Simple::Constants             v2.0.12  pkg:cpan/CLI-Simple@2.0.12
+CLI::Simple::DumpSpec                  0  pkg:cpan/CLI-Simple@2.0.12
+CLI::Simple::Helpers                   0  pkg:cpan/CLI-Simple@2.0.12
+CLI::Simple::Migrate                   0  pkg:cpan/CLI-Simple@2.0.12
+CLI::Simple::Modulino                  0  pkg:cpan/CLI-Simple@2.0.12
+CLI::Simple::Scaffold                  0  pkg:cpan/CLI-Simple@2.0.12
+CLI::Simple::Shell                     0  pkg:cpan/CLI-Simple@2.0.12
+CLI::Simple::Utils                 v2.0.12  pkg:cpan/CLI-Simple@2.0.12
 CLI::Startup                        0.29  pkg:cpan/CLI-Startup@0.29
 CLI::Table::Key::Finder             0.31  pkg:cpan/CLI-Table-Key-Finder@0.31
 CLI::Table::Util                    0.06  pkg:cpan/CLI-Table-Util@0.06
@@ -59201,8 +59209,8 @@ Data::Nest                          0.06  pkg:cpan/Data-Nest@0.06
 Data::Nested                        3.12  pkg:cpan/Data-Nested@3.12
 Data::Nested::Multiele              3.12  pkg:cpan/Data-Nested@3.12
 Data::Nested::Multifile             3.12  pkg:cpan/Data-Nested@3.12
-Data::NestedKey                    v1.2.0  pkg:cpan/Data-NestedKey@1.2.0
-Data::NestedKey::CLI                   0  pkg:cpan/Data-NestedKey@1.2.0
+Data::NestedKey                    v1.2.1  pkg:cpan/Data-NestedKey@1.2.1
+Data::NestedKey::CLI                   0  pkg:cpan/Data-NestedKey@1.2.1
 Data::NestedParams                  0.07  pkg:cpan/Data-NestedParams@0.07
 Data::NestedSet                     1.03  pkg:cpan/Data-NestedSet@1.03
 Data::Netflow                       0.02  pkg:cpan/Data-Netflow@0.02
