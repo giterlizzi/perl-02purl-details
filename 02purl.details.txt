@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 09 Jul 2026 21:16:08 GMT
+Last-Updated: Thu, 09 Jul 2026 23:04:54 GMT
 Line-Count: 265976
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -155699,28 +155699,28 @@ OEIS::A000045                      2021041201  pkg:cpan/OEIS@2021041201
 OGDL::Graph                        undef  pkg:cpan/ogdl-perl@0.2
 OGDL::Parser                        0.02  pkg:cpan/ogdl-perl@0.2
 OGDL::Path                          0.01  pkg:cpan/ogdl-perl@0.2
-OIDC::Client                        1.07  pkg:cpan/OIDC-Client@1.07
-OIDC::Client::AccessToken          undef  pkg:cpan/OIDC-Client@1.07
-OIDC::Client::AccessTokenBuilder   undef  pkg:cpan/OIDC-Client@1.07
-OIDC::Client::ApiUserAgentBuilder  undef  pkg:cpan/OIDC-Client@1.07
-OIDC::Client::Error                undef  pkg:cpan/OIDC-Client@1.07
-OIDC::Client::Error::Authentication undef  pkg:cpan/OIDC-Client@1.07
-OIDC::Client::Error::InvalidResponse undef  pkg:cpan/OIDC-Client@1.07
-OIDC::Client::Error::Provider      undef  pkg:cpan/OIDC-Client@1.07
-OIDC::Client::Error::TokenValidation undef  pkg:cpan/OIDC-Client@1.07
-OIDC::Client::Identity             undef  pkg:cpan/OIDC-Client@1.07
-OIDC::Client::Plugin               undef  pkg:cpan/OIDC-Client@1.07
-OIDC::Client::ResponseParser       undef  pkg:cpan/OIDC-Client@1.07
-OIDC::Client::Role::AttributesManager undef  pkg:cpan/OIDC-Client@1.07
-OIDC::Client::Role::ClaimsValidator undef  pkg:cpan/OIDC-Client@1.07
-OIDC::Client::Role::ClientAuthenticationHelper undef  pkg:cpan/OIDC-Client@1.07
-OIDC::Client::Role::ConfigurationChecker undef  pkg:cpan/OIDC-Client@1.07
-OIDC::Client::Role::LoggerWrapper  undef  pkg:cpan/OIDC-Client@1.07
-OIDC::Client::TokenResponse        undef  pkg:cpan/OIDC-Client@1.07
-OIDC::Client::TokenResponseParser  undef  pkg:cpan/OIDC-Client@1.07
-OIDC::Client::Trait::HashStore     undef  pkg:cpan/OIDC-Client@1.07
-OIDC::Client::User                 undef  pkg:cpan/OIDC-Client@1.07
-OIDC::Client::Utils                undef  pkg:cpan/OIDC-Client@1.07
+OIDC::Client                        1.08  pkg:cpan/OIDC-Client@1.08
+OIDC::Client::AccessToken           1.08  pkg:cpan/OIDC-Client@1.08
+OIDC::Client::AccessTokenBuilder    1.08  pkg:cpan/OIDC-Client@1.08
+OIDC::Client::ApiUserAgentBuilder   1.08  pkg:cpan/OIDC-Client@1.08
+OIDC::Client::Error                 1.08  pkg:cpan/OIDC-Client@1.08
+OIDC::Client::Error::Authentication  1.08  pkg:cpan/OIDC-Client@1.08
+OIDC::Client::Error::InvalidResponse  1.08  pkg:cpan/OIDC-Client@1.08
+OIDC::Client::Error::Provider       1.08  pkg:cpan/OIDC-Client@1.08
+OIDC::Client::Error::TokenValidation  1.08  pkg:cpan/OIDC-Client@1.08
+OIDC::Client::Identity              1.08  pkg:cpan/OIDC-Client@1.08
+OIDC::Client::Plugin                1.08  pkg:cpan/OIDC-Client@1.08
+OIDC::Client::ResponseParser        1.08  pkg:cpan/OIDC-Client@1.08
+OIDC::Client::Role::AttributesManager  1.08  pkg:cpan/OIDC-Client@1.08
+OIDC::Client::Role::ClaimsValidator  1.08  pkg:cpan/OIDC-Client@1.08
+OIDC::Client::Role::ClientAuthenticationHelper  1.08  pkg:cpan/OIDC-Client@1.08
+OIDC::Client::Role::ConfigurationChecker  1.08  pkg:cpan/OIDC-Client@1.08
+OIDC::Client::Role::LoggerWrapper   1.08  pkg:cpan/OIDC-Client@1.08
+OIDC::Client::TokenResponse         1.08  pkg:cpan/OIDC-Client@1.08
+OIDC::Client::TokenResponseParser   1.08  pkg:cpan/OIDC-Client@1.08
+OIDC::Client::Trait::HashStore      1.08  pkg:cpan/OIDC-Client@1.08
+OIDC::Client::User                  1.08  pkg:cpan/OIDC-Client@1.08
+OIDC::Client::Utils                 1.08  pkg:cpan/OIDC-Client@1.08
 OIDC::Lite                          0.10  pkg:cpan/OIDC-Lite@0.10
 OIDC::Lite::Client::Credential     undef  pkg:cpan/OIDC-Lite@0.02
 OIDC::Lite::Client::Registration   undef  pkg:cpan/OIDC-Lite@0.02
@@ -195545,7 +195545,7 @@ Perl::Critic::Violation            1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::logicLAB              0.11  pkg:cpan/Perl-Critic-logicLAB@0.11
 Perl::Destruct::Level               0.02  pkg:cpan/Perl-Destruct-Level@0.02
 Perl::Dist                          1.16  pkg:cpan/Perl-Dist@1.16
-Perl::Dist::APPerl                 0.006001  pkg:cpan/Perl-Dist-APPerl@v0.6.1
+Perl::Dist::APPerl                 0.007000  pkg:cpan/Perl-Dist-APPerl@v0.7.0
 Perl::Dist::Asset                   1.16  pkg:cpan/Perl-Dist@1.16
 Perl::Dist::Asset::Binary           1.16  pkg:cpan/Perl-Dist@1.16
 Perl::Dist::Asset::Distribution     1.16  pkg:cpan/Perl-Dist@1.16
@@ -216278,7 +216278,7 @@ Seis::Str                          undef  pkg:cpan/Seis@0.12
 Seis::Sub                          undef  pkg:cpan/Seis@0.12
 Seis::Undef                        undef  pkg:cpan/Seis@0.12
 Seis::Whatever                     undef  pkg:cpan/Seis@0.12
-Sekhmet                             0.01  pkg:cpan/Sekhmet@0.01
+Sekhmet                             0.02  pkg:cpan/Sekhmet@0.02
 SelFile                            undef  pkg:cpan/ptkFAQ@0_03
 SelectPdf                          v1.4.0  pkg:cpan/SelectPdf@1.4.0
 SelectPdf::ApiClient               v1.4.0  pkg:cpan/SelectPdf@1.4.0
@@ -265605,7 +265605,7 @@ skip_num                           undef  pkg:cpan/assign@0.0.16
 slot                                0.01  pkg:cpan/Tie-Hash-KeysMask@0.03
 slots                               0.03  pkg:cpan/slots@0.03
 smallnum                            1.02  pkg:cpan/smallnum@1.02
-smallnum::XS                        0.11  pkg:cpan/smallnum-XS@0.11
+smallnum::XS                        1.00  pkg:cpan/smallnum-XS@1.00
 smg                                 0.01  pkg:cpan/smg?ext=zip
 smokebrew                           1.06  pkg:cpan/smokebrew@1.06
 snaked                              0.14  pkg:cpan/snaked@0.14
