@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 09 Jul 2026 14:40:29 GMT
-Line-Count: 265940
+Last-Updated: Thu, 09 Jul 2026 17:49:50 GMT
+Line-Count: 265976
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -47980,9 +47980,9 @@ Config::Model::Backend::OpenSsh::Sshd 2.010002001  pkg:cpan/Config-Model-OpenSsh
 Config::Model::Backend::PerlFile   2.165  pkg:cpan/Config-Model@2.165
 Config::Model::Backend::PlainFile  2.165  pkg:cpan/Config-Model@2.165
 Config::Model::Backend::ShellVar   2.165  pkg:cpan/Config-Model@2.165
-Config::Model::Backend::Systemd    0.260001  pkg:cpan/Config-Model-Systemd@0.260.1
-Config::Model::Backend::Systemd::Layers 0.260001  pkg:cpan/Config-Model-Systemd@0.260.1
-Config::Model::Backend::Systemd::Unit 0.260001  pkg:cpan/Config-Model-Systemd@0.260.1
+Config::Model::Backend::Systemd    0.261001  pkg:cpan/Config-Model-Systemd@0.261.1
+Config::Model::Backend::Systemd::Layers 0.261001  pkg:cpan/Config-Model-Systemd@0.261.1
+Config::Model::Backend::Systemd::Unit 0.261001  pkg:cpan/Config-Model-Systemd@0.261.1
 Config::Model::Backend::Xorg       1.116  pkg:cpan/Config-Model-Xorg@1.116
 Config::Model::Backend::Xorg::Read 1.116  pkg:cpan/Config-Model-Xorg@1.116
 Config::Model::Backend::Xorg::Write 1.116  pkg:cpan/Config-Model-Xorg@1.116
@@ -48044,7 +48044,7 @@ Config::Model::Role::WarpMaster    2.165  pkg:cpan/Config-Model@2.165
 Config::Model::Role::WarpSubject   2.165  pkg:cpan/Config-Model@2.165
 Config::Model::SearchElement       2.165  pkg:cpan/Config-Model@2.165
 Config::Model::SimpleUI            2.165  pkg:cpan/Config-Model@2.165
-Config::Model::Systemd             0.260001  pkg:cpan/Config-Model-Systemd@0.260.1
+Config::Model::Systemd             0.261001  pkg:cpan/Config-Model-Systemd@0.261.1
 Config::Model::TermUI              2.165  pkg:cpan/Config-Model@2.165
 Config::Model::Tester              4.010  pkg:cpan/Config-Model-Tester@4.010
 Config::Model::Tester::Setup       4.010  pkg:cpan/Config-Model-Tester@4.010
@@ -57538,7 +57538,7 @@ Data::BitStream::Vec                0.08  pkg:cpan/Data-BitStream@0.08
 Data::BitStream::WordVec            0.08  pkg:cpan/Data-BitStream@0.08
 Data::BitStream::XS                 0.08  pkg:cpan/Data-BitStream-XS@0.08
 Data::Bitfield                      0.04  pkg:cpan/Data-Bitfield@0.04
-Data::BloomFilter::Shared           0.01  pkg:cpan/Data-BloomFilter-Shared@0.01
+Data::BloomFilter::Shared           0.02  pkg:cpan/Data-BloomFilter-Shared@0.02
 Data::Bool                         2.98014  pkg:cpan/Data-Bool@2.98014
 Data::Bool::Impl                   2.98014  pkg:cpan/Data-Bool@2.98014
 Data::Bucketeer                    0.006  pkg:cpan/Data-Bucketeer@0.006
@@ -57853,7 +57853,7 @@ Data::CouchDB::Connection           0.14  pkg:cpan/Data-CouchDB@0.14
 Data::CouchDB::Exceptions           0.14  pkg:cpan/Data-CouchDB@0.14
 Data::CouchDB::Handler              0.14  pkg:cpan/Data-CouchDB@0.14
 Data::CouchDB::Role::VersionedData  0.14  pkg:cpan/Data-CouchDB@0.14
-Data::CountMinSketch::Shared        0.01  pkg:cpan/Data-CountMinSketch-Shared@0.01
+Data::CountMinSketch::Shared        0.02  pkg:cpan/Data-CountMinSketch-Shared@0.02
 Data::Couplet                      0.02004314  pkg:cpan/Data-Couplet@0.02004314
 Data::Couplet::Extension           0.02004314  pkg:cpan/Data-Couplet@0.02004314
 Data::Couplet::Plugin::BasicReorder 0.02004314  pkg:cpan/Data-Couplet@0.02004314
@@ -57868,7 +57868,7 @@ Data::Crumbr::Default::JSON        0.001002  pkg:cpan/Data-Crumbr@0.1.2
 Data::Crumbr::Default::URI         0.001002  pkg:cpan/Data-Crumbr@0.1.2
 Data::Crumbr::Util                 0.001002  pkg:cpan/Data-Crumbr@0.1.2
 Data::Cube                          0.02  pkg:cpan/Data-Cube@0.02
-Data::CuckooFilter::Shared          0.01  pkg:cpan/Data-CuckooFilter-Shared@0.01
+Data::CuckooFilter::Shared          0.02  pkg:cpan/Data-CuckooFilter-Shared@0.02
 Data::Cuid                          0.07  pkg:cpan/Data-Cuid@0.07
 Data::Currency                     0.06000  pkg:cpan/Data-Currency@0.06000
 Data::DEC                           0.03  pkg:cpan/Data-DEC@0.03
@@ -57934,7 +57934,7 @@ Data::Dimensions                    0.05  pkg:cpan/Data-Dimensions@0.05
 Data::Dimensions::Map              undef  pkg:cpan/Data-Dimensions@0.05
 Data::Dimensions::SickTie          undef  pkg:cpan/Data-Dimensions@0.05
 Data::Direct                        0.05  pkg:cpan/Data-Direct@0.05
-Data::DisjointSet::Shared           0.01  pkg:cpan/Data-DisjointSet-Shared@0.01
+Data::DisjointSet::Shared           0.02  pkg:cpan/Data-DisjointSet-Shared@0.02
 Data::Display                       0.02  pkg:cpan/Data-Display@0.02
 Data::Displaycolour                v0.5.0  pkg:cpan/Data-Displaycolour@v0.05
 Data::Displaycolour::Data          v0.5.0  pkg:cpan/Data-Displaycolour@v0.05
@@ -58405,7 +58405,7 @@ Data::Hexify                        1.00  pkg:cpan/Data-Hexify@1.00
 Data::Hierarchy                     0.34  pkg:cpan/Data-Hierarchy@0.34
 Data::Hierarchy::Relative           0.34  pkg:cpan/Data-Hierarchy@0.34
 Data::Hierarchy::Traverser          0.01  pkg:cpan/Data-Hierarchy-Traverser@0.01
-Data::Histogram::Shared             0.01  pkg:cpan/Data-Histogram-Shared@0.01
+Data::Histogram::Shared             0.02  pkg:cpan/Data-Histogram-Shared@0.02
 Data::Hive                         1.015  pkg:cpan/Data-Hive@1.015
 Data::Hive::PathPacker             1.015  pkg:cpan/Data-Hive@1.015
 Data::Hive::PathPacker::Flexible   1.015  pkg:cpan/Data-Hive@1.015
@@ -58441,7 +58441,7 @@ Data::Hopen::Util::Filename        0.000021  pkg:cpan/Data-Hopen@0.000021
 Data::Hopen::Util::MergeWithoutCloneBlessed 0.000020  pkg:cpan/Data-Hopen@0.000021
 Data::Hopen::Util::NameSet         0.000021  pkg:cpan/Data-Hopen@0.000021
 Data::Hopen::Visitor               0.000021  pkg:cpan/Data-Hopen@0.000021
-Data::HyperLogLog::Shared           0.01  pkg:cpan/Data-HyperLogLog-Shared@0.01
+Data::HyperLogLog::Shared           0.02  pkg:cpan/Data-HyperLogLog-Shared@0.02
 Data::ICal                          0.24  pkg:cpan/Data-ICal@0.24
 Data::ICal::DAVAdapter              0.03  pkg:cpan/Meetup-API@0.03
 Data::ICal::DateTime                0.82  pkg:cpan/Data-ICal-DateTime@0.82
@@ -61249,8 +61249,8 @@ Data::Sofu::Reference                0.3  pkg:cpan/Sofu@0.3
 Data::Sofu::SofuML                   0.3  pkg:cpan/Sofu@0.3
 Data::Sofu::Undefined                0.3  pkg:cpan/Sofu@0.3
 Data::Sofu::Value                    0.3  pkg:cpan/Sofu@0.3
-Data::SortedSet::Shared             0.02  pkg:cpan/Data-SortedSet-Shared@0.02
-Data::SortedSet::Shared::Strings    0.02  pkg:cpan/Data-SortedSet-Shared@0.02
+Data::SortedSet::Shared             0.03  pkg:cpan/Data-SortedSet-Shared@0.03
+Data::SortedSet::Shared::Strings    0.03  pkg:cpan/Data-SortedSet-Shared@0.03
 Data::Sorting                        0.9  pkg:cpan/Data-Sorting@0.9
 Data::SpatialHash::Shared           0.01  pkg:cpan/Data-SpatialHash-Shared@0.01
 Data::SplitSerializer               0.91  pkg:cpan/Data-SplitSerializer@0.91
@@ -126493,8 +126493,20 @@ Locale::Utils::PlaceholderBabelFish 0.006  pkg:cpan/Locale-Utils-PlaceholderBabe
 Locale::Utils::PlaceholderMaketext 1.005  pkg:cpan/Locale-Utils-PlaceholderMaketext@1.005
 Locale::Utils::PlaceholderNamed    1.004  pkg:cpan/Locale-Utils-PlaceholderNamed@1.004
 Locale::Utils::PluralForms         0.003  pkg:cpan/Locale-Utils-PluralForms@0.003
-Locale::VersionedMessages           0.95  pkg:cpan/Locale-VersionedMessages@0.95
-Locale::VersionedMessages::Sets::lm_gui undef  pkg:cpan/Locale-VersionedMessages@0.95
+Locale::VersionedMessages           0.96  pkg:cpan/Locale-VersionedMessages@0.96
+Locale::VersionedMessages::Sets::Empty     0  pkg:cpan/Locale-VersionedMessages@0.96
+Locale::VersionedMessages::Sets::Empty::en_US     0  pkg:cpan/Locale-VersionedMessages@0.96
+Locale::VersionedMessages::Sets::Test1     0  pkg:cpan/Locale-VersionedMessages@0.96
+Locale::VersionedMessages::Sets::Test1::de_DE     0  pkg:cpan/Locale-VersionedMessages@0.96
+Locale::VersionedMessages::Sets::Test1::en_US     0  pkg:cpan/Locale-VersionedMessages@0.96
+Locale::VersionedMessages::Sets::Test1::fr_FR     0  pkg:cpan/Locale-VersionedMessages@0.96
+Locale::VersionedMessages::Sets::Test2     0  pkg:cpan/Locale-VersionedMessages@0.96
+Locale::VersionedMessages::Sets::Test2::en_US     0  pkg:cpan/Locale-VersionedMessages@0.96
+Locale::VersionedMessages::Sets::Test2::fr_FR     0  pkg:cpan/Locale-VersionedMessages@0.96
+Locale::VersionedMessages::Sets::lm_gui     0  pkg:cpan/Locale-VersionedMessages@0.96
+Locale::VersionedMessages::Sets::lm_gui::en_US     0  pkg:cpan/Locale-VersionedMessages@0.96
+Locale::VersionedMessages::Sets::lm_gui::fr_FR     0  pkg:cpan/Locale-VersionedMessages@0.96
+Locale::VersionedMessages::lm       0.96  pkg:cpan/Locale-VersionedMessages@0.96
 Locale::Wolowitz                   1.004001  pkg:cpan/Locale-Wolowitz@1.004001
 Locale::XGettext                     0.8  pkg:cpan/Locale-XGettext@0.8
 Locale::XGettext::TT2                1.0  pkg:cpan/Template-Plugin-Gettext@1.0
@@ -133825,7 +133837,7 @@ Math::Shape::Utils                  0.15  pkg:cpan/Math-Shape-Vector@0.15
 Math::Shape::Vector                 0.15  pkg:cpan/Math-Shape-Vector@0.15
 Math::Sidef                         0.05  pkg:cpan/Math-Sidef@0.05
 Math::SigDig                           1  pkg:cpan/Math-SigDig@1.0
-Math::SigFigs                       1.21  pkg:cpan/Math-SigFigs@1.21
+Math::SigFigs                       1.22  pkg:cpan/Math-SigFigs@1.22
 Math::Simple                       2.001002  pkg:cpan/Math-Simple@2.1.2
 Math::SimpleHisto::XS               1.30  pkg:cpan/Math-SimpleHisto-XS@1.30
 Math::SimpleHisto::XS::CLI          1.07  pkg:cpan/Math-SimpleHisto-XS-CLI@1.07
@@ -146758,6 +146770,30 @@ Net::Blogger::Engine::Slash         1.01  pkg:cpan/Net-Blogger@1.03
 Net::Blogger::Engine::Slash::slashcode  1.01  pkg:cpan/Net-Blogger@1.03
 Net::Blogger::Engine::Userland      1.01  pkg:cpan/Net-Blogger@1.03
 Net::Blogger::Engine::Userland::metaWeblog  1.01  pkg:cpan/Net-Blogger@1.03
+Net::Blossom                       0.001000  pkg:cpan/Net-Blossom@0.001000
+Net::Blossom::AuthToken            undef  pkg:cpan/Net-Blossom@0.001000
+Net::Blossom::BlobDescriptor       undef  pkg:cpan/Net-Blossom@0.001000
+Net::Blossom::Client               undef  pkg:cpan/Net-Blossom@0.001000
+Net::Blossom::Error                undef  pkg:cpan/Net-Blossom@0.001000
+Net::Blossom::PaymentRequired      undef  pkg:cpan/Net-Blossom@0.001000
+Net::Blossom::Response             undef  pkg:cpan/Net-Blossom@0.001000
+Net::Blossom::Server               0.001000  pkg:cpan/Net-Blossom-Server@0.001000
+Net::Blossom::Server::Authorization undef  pkg:cpan/Net-Blossom-Server@0.001000
+Net::Blossom::Server::AuthorizationResult undef  pkg:cpan/Net-Blossom-Server@0.001000
+Net::Blossom::Server::BlobResult   undef  pkg:cpan/Net-Blossom-Server@0.001000
+Net::Blossom::Server::Error        undef  pkg:cpan/Net-Blossom-Server@0.001000
+Net::Blossom::Server::MirrorFetcher::HTTP undef  pkg:cpan/Net-Blossom-Server@0.001000
+Net::Blossom::Server::PSGI         undef  pkg:cpan/Net-Blossom-Server@0.001000
+Net::Blossom::Server::Request      undef  pkg:cpan/Net-Blossom-Server@0.001000
+Net::Blossom::Server::Response     undef  pkg:cpan/Net-Blossom-Server@0.001000
+Net::Blossom::Server::Storage      undef  pkg:cpan/Net-Blossom-Server@0.001000
+Net::Blossom::Server::Storage::Test undef  pkg:cpan/Net-Blossom-Server@0.001000
+Net::Blossom::Server::UploadResult undef  pkg:cpan/Net-Blossom-Server@0.001000
+Net::Blossom::Server::_MirrorSink  0.001000  pkg:cpan/Net-Blossom-Server@0.001000
+Net::Blossom::ServerList           undef  pkg:cpan/Net-Blossom@0.001000
+Net::Blossom::URI                  undef  pkg:cpan/Net-Blossom@0.001000
+Net::Blossom::_ConstructorArgs     undef  pkg:cpan/Net-Blossom@0.001000
+Net::Blossom::_URL                 undef  pkg:cpan/Net-Blossom@0.001000
 Net::Bluetooth                      0.41  pkg:cpan/Net-Bluetooth@0.41
 Net::BobrDobr                       0.01  pkg:cpan/Net-BobrDobr@0.04
 Net::Bonjour                        0.96  pkg:cpan/Net-Bonjour@0.96
@@ -217711,7 +217747,7 @@ Shell::Cap                         0.002  pkg:cpan/Shell-Cap@0.002
 Shell::Carapace                     0.22  pkg:cpan/Shell-Carapace@0.22
 Shell::Carapace::SSH               undef  pkg:cpan/Shell-Carapace@0.22
 Shell::Carapace::Shell             undef  pkg:cpan/Shell-Carapace@0.22
-Shell::Cmd                          3.05  pkg:cpan/Shell-Cmd@3.05
+Shell::Cmd                          3.06  pkg:cpan/Shell-Cmd@3.06
 Shell::Command                      0.06  pkg:cpan/Shell-Command@0.06
 Shell::Completer                   0.002  pkg:cpan/Shell-Completer@0.002
 Shell::Config::Generate             0.34  pkg:cpan/Shell-Config-Generate@0.34
@@ -230613,7 +230649,7 @@ Test::Instance::Apache::Modules    undef  pkg:cpan/Test-Instance-Apache@0.001
 Test::Instance::DNS                0.001  pkg:cpan/Test-Instance-DNS@0.001
 Test::Instance::DNS::Server        undef  pkg:cpan/Test-Instance-DNS@0.001
 Test::Instruction                   0.07  pkg:cpan/Test-Instruction@0.07
-Test::Inter                         1.12  pkg:cpan/Test-Inter@1.12
+Test::Inter                         1.13  pkg:cpan/Test-Inter@1.13
 Test::Interface                     0.02  pkg:cpan/Test-Interface@0.02
 Test::Internet                      0.07  pkg:cpan/Test-Internet@0.07
 Test::Is                           20140823.1  pkg:cpan/Test-Is@20140823.1
