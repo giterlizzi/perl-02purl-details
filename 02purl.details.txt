@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 10 Jul 2026 02:22:12 GMT
+Last-Updated: Fri, 10 Jul 2026 07:28:50 GMT
 Line-Count: 265980
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -36280,7 +36280,7 @@ Catalyst::Plugin::Moostash         0.001002  pkg:cpan/Catalyst-Plugin-Moostash@v
 Catalyst::Plugin::Moostash::Base   undef  pkg:cpan/Catalyst-Plugin-Moostash@v0.1.2
 Catalyst::Plugin::MortalForward     0.01  pkg:cpan/Catalyst-Plugin-MortalForward@0.01
 Catalyst::Plugin::Navigation       1.002  pkg:cpan/Catalyst-Plugin-Navigation@1.002
-Catalyst::Plugin::OIDC              1.04  pkg:cpan/Catalyst-Plugin-OIDC@1.04
+Catalyst::Plugin::OIDC              1.05  pkg:cpan/Catalyst-Plugin-OIDC@1.05
 Catalyst::Plugin::Observe           0.02  pkg:cpan/Catalyst-Plugin-Observe@0.02
 Catalyst::Plugin::OpenIDConnect     0.15  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.15
 Catalyst::Plugin::OpenIDConnect::Context undef  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.15
@@ -139974,7 +139974,7 @@ Mojolicious::Plugin::OAuth2         2.02  pkg:cpan/Mojolicious-Plugin-OAuth2@2.0
 Mojolicious::Plugin::OAuth2::Che   1.539  pkg:cpan/Mojolicious-Plugin-OAuth2-Che@1.539
 Mojolicious::Plugin::OAuth2::Mock  undef  pkg:cpan/Mojolicious-Plugin-OAuth2@2.02
 Mojolicious::Plugin::OAuth2::Server  0.52  pkg:cpan/Mojolicious-Plugin-OAuth2-Server@0.52
-Mojolicious::Plugin::OIDC           1.04  pkg:cpan/Mojolicious-Plugin-OIDC@1.04
+Mojolicious::Plugin::OIDC           1.05  pkg:cpan/Mojolicious-Plugin-OIDC@1.05
 Mojolicious::Plugin::ORM::DBIx      0.02  pkg:cpan/Mojolicious-Plugin-ORM-DBIx@0.02
 Mojolicious::Plugin::ORM::DBIx::Command::schema_load  0.02  pkg:cpan/Mojolicious-Plugin-ORM-DBIx@0.02
 Mojolicious::Plugin::Obrazi         0.15  pkg:cpan/Mojolicious-Plugin-Obrazi@0.15
