@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 10 Jul 2026 21:00:55 GMT
+Last-Updated: Fri, 10 Jul 2026 22:54:20 GMT
 Line-Count: 265992
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -56647,7 +56647,7 @@ Dancer2::Plugin::Negotiate         0.002  pkg:cpan/Dancer2-Plugin-Negotiate@0.00
 Dancer2::Plugin::OAuth2::Server     0.11  pkg:cpan/Dancer2-Plugin-OAuth2-Server@0.11
 Dancer2::Plugin::OAuth2::Server::Role undef  pkg:cpan/Dancer2-Plugin-OAuth2-Server@0.11
 Dancer2::Plugin::OAuth2::Server::Simple undef  pkg:cpan/Dancer2-Plugin-OAuth2-Server@0.11
-Dancer2::Plugin::OIDC               1.01  pkg:cpan/Dancer2-Plugin-OIDC@1.01
+Dancer2::Plugin::OIDC               1.02  pkg:cpan/Dancer2-Plugin-OIDC@1.02
 Dancer2::Plugin::OpenAPI           v1.0.2  pkg:cpan/Dancer2-Plugin-OpenAPI@1.0.2
 Dancer2::Plugin::OpenAPI::Path     v1.0.2  pkg:cpan/Dancer2-Plugin-OpenAPI@1.0.2
 Dancer2::Plugin::OpenAPIRoutes      0.03  pkg:cpan/Dancer2-Plugin-OpenAPIRoutes@0.03
@@ -75028,9 +75028,9 @@ File::Store                         1.00  pkg:cpan/File-Store@1.00
 File::Stream                        2.30  pkg:cpan/File-Stream@2.30
 File::Strfile                       0.03  pkg:cpan/File-Strfile@0.03
 File::Strmode                       0.03  pkg:cpan/File-Strmode@0.03
-File::Stubb                         0.04  pkg:cpan/File-Stubb@0.04
-File::Stubb::Home                   0.04  pkg:cpan/File-Stubb@0.04
-File::Stubb::Render                 0.04  pkg:cpan/File-Stubb@0.04
+File::Stubb                         0.05  pkg:cpan/File-Stubb@0.05
+File::Stubb::Home                   0.05  pkg:cpan/File-Stubb@0.05
+File::Stubb::Render                 0.05  pkg:cpan/File-Stubb@0.05
 File::Stubb::SubstTie               0.03  pkg:cpan/File-Stubb@0.03
 File::SubPM                         1.12  pkg:cpan/File-SubPM@0.05
 File::Symlink::Atomic              0.002  pkg:cpan/File-Symlink-Atomic@0.002
@@ -116123,7 +116123,7 @@ Jabber::RPC::Server                undef  pkg:cpan/Jabber-RPC@0.01
 Jabber::Reload                      0.01  pkg:cpan/Jabber-mod_perl@0.15
 Jabber::SimpleSend                  0.03  pkg:cpan/Jabber-SimpleSend@0.03
 Jabber::mod_perl                    0.15  pkg:cpan/Jabber-mod_perl@0.15
-Jacode                             2.13.4.34  pkg:cpan/Jacode@2.13.4.34
+Jacode                             2.13.4.35  pkg:cpan/Jacode@2.13.4.35
 Jacode4e                           2.13.6.22  pkg:cpan/Jacode4e@2.13.6.22
 Jacode4e::RoundTrip                2.13.81.15  pkg:cpan/Jacode4e-RoundTrip@2.13.81.15
 Jail                                 0.8  pkg:cpan/Jail@0.8
@@ -143650,7 +143650,7 @@ Music::Tension::Counterpoint        1.03  pkg:cpan/Music-Tension@1.03
 Music::Tension::PlompLevelt         1.03  pkg:cpan/Music-Tension@1.03
 Music::ToRoman                     0.2002  pkg:cpan/Music-ToRoman@0.2002
 Music::VoiceGen                     0.02  pkg:cpan/Music-VoiceGen@0.02
-Music::VoicePhrase                 0.0116  pkg:cpan/Music-VoicePhrase@0.0116
+Music::VoicePhrase                 0.0117  pkg:cpan/Music-VoicePhrase@0.0117
 Music::Voss                         0.16  pkg:cpan/Music-Voss@0.16
 MusicBase                          0.001  pkg:cpan/DBIx-Class-Migration@0.044
 MusicBase::Schema                      3  pkg:cpan/DBIx-Class-Migration@0.044
@@ -260162,7 +260162,7 @@ YAMLScript::Runtime                undef  pkg:cpan/YAMLScript@0.0.5
 YAMLScript::Str                    undef  pkg:cpan/YAMLScript@0.0.16
 YAMLScript::Test                   undef  pkg:cpan/YAMLScript-Lingy@0.2.1
 YAMLScript::Util                   undef  pkg:cpan/YAMLScript@0.0.16
-YAMLStar                           0.001011  pkg:cpan/YAMLStar@0.1.11
+YAMLStar                           0.001012  pkg:cpan/YAMLStar@0.1.12
 YAMLTest                           0.001000  pkg:cpan/YAMLTest@0.1.0
 YANG                                0.02  pkg:cpan/YANG@0.02
 YAOO                                0.10  pkg:cpan/YAOO@0.10
