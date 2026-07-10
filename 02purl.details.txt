@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 10 Jul 2026 10:46:30 GMT
-Line-Count: 265990
+Last-Updated: Fri, 10 Jul 2026 14:06:26 GMT
+Line-Count: 265989
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -217311,19 +217311,19 @@ Sepia::Xref                         0.65  pkg:cpan/Sepia@0.992
 Seq::Iter                          0.001  pkg:cpan/Seq-Iter@0.001
 SeqDiff                            undef  pkg:cpan/SeqDiff@v0.1
 Ser::BinRPC                         0.01  pkg:cpan/Ser-BinRPC@0.01
-Sereal                             5.007  pkg:cpan/Sereal@5.007
+Sereal                             5.008  pkg:cpan/Sereal@5.008
 Sereal::Dclone                     0.003  pkg:cpan/Sereal-Dclone@0.003
-Sereal::Decoder                    5.007  pkg:cpan/Sereal-Decoder@5.007
-Sereal::Decoder::Constants         5.007  pkg:cpan/Sereal-Decoder@5.007
-Sereal::Encoder                    5.007  pkg:cpan/Sereal-Encoder@5.007
-Sereal::Encoder::Constants         5.007  pkg:cpan/Sereal-Encoder@5.007
+Sereal::Decoder                    5.008  pkg:cpan/Sereal-Decoder@5.008
+Sereal::Decoder::Constants         5.008  pkg:cpan/Sereal-Decoder@5.008
+Sereal::Encoder                    5.008  pkg:cpan/Sereal-Encoder@5.008
+Sereal::Encoder::Constants         5.008  pkg:cpan/Sereal-Encoder@5.008
 Sereal::Merger                     0.001  pkg:cpan/Sereal-Merger@0.001
 Sereal::Merger::Constants          0.001  pkg:cpan/Sereal-Merger@0.001
 Sereal::Path                       4.004  pkg:cpan/Sereal-Path@4.004
 Sereal::Path::Constants            4.004  pkg:cpan/Sereal-Path@4.004
 Sereal::Path::Iterator             4.004  pkg:cpan/Sereal-Path@4.004
 Sereal::Path::Tie                  4.004  pkg:cpan/Sereal-Path@4.004
-Sereal::Performance                undef  pkg:cpan/Sereal-Decoder@5.007
+Sereal::Performance                undef  pkg:cpan/Sereal-Decoder@5.008
 Sereal::Splitter                   0.840  pkg:cpan/Sereal-Splitter@0.840
 Sereal::Splitter::Constants        0.830  pkg:cpan/Sereal-Splitter@0.840
 SerealX::Store                     0.003  pkg:cpan/SerealX-Store@0.003
@@ -229645,7 +229645,6 @@ Test::Apocalypse::Synopsis         1.006  pkg:cpan/Test-Apocalypse@1.006
 Test::Apocalypse::UnusedVars       1.006  pkg:cpan/Test-Apocalypse@1.006
 Test::App                          undef  pkg:cpan/Nginx-Simple@0.07
 Test::App::CPANIDX::Database        0.06  pkg:cpan/Test-App-CPANIDX-Database@0.06
-Test::App::Generator::Sample::Module  0.39  pkg:cpan/App-Test-Generator@0.39
 Test::App::RunCron                 undef  pkg:cpan/App-RunCron@0.08
 Test::App::members                 undef  pkg:cpan/Nginx-Simple@0.07
 Test::Applify                       0.06  pkg:cpan/Test-Applify@0.06
