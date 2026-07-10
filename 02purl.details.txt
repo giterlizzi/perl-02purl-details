@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 10 Jul 2026 07:28:50 GMT
-Line-Count: 265980
+Last-Updated: Fri, 10 Jul 2026 10:46:30 GMT
+Line-Count: 265990
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -50365,6 +50365,16 @@ Crypt::xDBM_File                    1.02  pkg:cpan/Crypt-xDBM_File@1.02
 Crypt::xxHash                       0.09  pkg:cpan/Crypt-xxHash@0.09
 CryptX                             0.090  pkg:cpan/CryptX@0.090
 Crypto::NanoRPC                    0.009001  pkg:cpan/Crypto-NanoRPC@0.9.1
+Crypto::Utils                      0.003  pkg:cpan/Crypto-Utils@0.003
+Crypto::Utils::CPace               0.014  pkg:cpan/Crypto-Utils@0.003
+Crypto::Utils::Hash2Curve          undef  pkg:cpan/Crypto-Utils@0.003
+Crypto::Utils::Noise               0.012  pkg:cpan/Crypto-Utils@0.003
+Crypto::Utils::OPAQUE              0.012  pkg:cpan/Crypto-Utils@0.003
+Crypto::Utils::OPRF                0.012  pkg:cpan/Crypto-Utils@0.003
+Crypto::Utils::OpenSSL             0.039  pkg:cpan/Crypto-Utils@0.003
+Crypto::Utils::SIGMA               0.013  pkg:cpan/Crypto-Utils@0.003
+Crypto::Utils::SPAKE2Plus           0.03  pkg:cpan/Crypto-Utils@0.003
+Crypto::Utils::SPEKE               0.001  pkg:cpan/Crypto-Utils@0.003
 CryptoCurrency::Catalog            20181129.0  pkg:cpan/CryptoCurrency-Catalog@20181129.0.0
 CryptoExchange::Catalog            20181129.0  pkg:cpan/CryptoExchange-Catalog@20181129.0.0
 CryptoTron                          0.10  pkg:cpan/CryptoTron@0.10
