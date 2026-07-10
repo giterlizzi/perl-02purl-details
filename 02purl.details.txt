@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 10 Jul 2026 17:42:21 GMT
-Line-Count: 265990
+Last-Updated: Fri, 10 Jul 2026 19:18:33 GMT
+Line-Count: 265992
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -53639,20 +53639,20 @@ DBIx::QueryLog                      0.42  pkg:cpan/DBIx-QueryLog@0.42
 DBIx::Quick                          0.9  pkg:cpan/DBIx-Quick@0.9
 DBIx::Quick::Converter             undef  pkg:cpan/DBIx-Quick@0.9
 DBIx::Quick::Role                  undef  pkg:cpan/DBIx-Quick@0.9
-DBIx::QuickDB                      0.000052  pkg:cpan/DBIx-QuickDB@0.000052
-DBIx::QuickDB::Driver              0.000052  pkg:cpan/DBIx-QuickDB@0.000052
-DBIx::QuickDB::Driver::DuckDB      0.000052  pkg:cpan/DBIx-QuickDB@0.000052
-DBIx::QuickDB::Driver::MariaDB     0.000052  pkg:cpan/DBIx-QuickDB@0.000052
-DBIx::QuickDB::Driver::MySQL       0.000052  pkg:cpan/DBIx-QuickDB@0.000052
+DBIx::QuickDB                      0.000053  pkg:cpan/DBIx-QuickDB@0.000053
+DBIx::QuickDB::Driver              0.000053  pkg:cpan/DBIx-QuickDB@0.000053
+DBIx::QuickDB::Driver::DuckDB      0.000053  pkg:cpan/DBIx-QuickDB@0.000053
+DBIx::QuickDB::Driver::MariaDB     0.000053  pkg:cpan/DBIx-QuickDB@0.000053
+DBIx::QuickDB::Driver::MySQL       0.000053  pkg:cpan/DBIx-QuickDB@0.000053
 DBIx::QuickDB::Driver::MySQL::Base 0.000035  pkg:cpan/DBIx-QuickDB@0.000035
-DBIx::QuickDB::Driver::MySQLCom    0.000052  pkg:cpan/DBIx-QuickDB@0.000052
-DBIx::QuickDB::Driver::Percona     0.000052  pkg:cpan/DBIx-QuickDB@0.000052
-DBIx::QuickDB::Driver::PostgreSQL  0.000052  pkg:cpan/DBIx-QuickDB@0.000052
-DBIx::QuickDB::Driver::SQLite      0.000052  pkg:cpan/DBIx-QuickDB@0.000052
-DBIx::QuickDB::Pool                0.000052  pkg:cpan/DBIx-QuickDB@0.000052
-DBIx::QuickDB::Util                0.000052  pkg:cpan/DBIx-QuickDB@0.000052
-DBIx::QuickDB::Util::HashBase      0.000052  pkg:cpan/DBIx-QuickDB@0.000052
-DBIx::QuickDB::Watcher             0.000052  pkg:cpan/DBIx-QuickDB@0.000052
+DBIx::QuickDB::Driver::MySQLCom    0.000053  pkg:cpan/DBIx-QuickDB@0.000053
+DBIx::QuickDB::Driver::Percona     0.000053  pkg:cpan/DBIx-QuickDB@0.000053
+DBIx::QuickDB::Driver::PostgreSQL  0.000053  pkg:cpan/DBIx-QuickDB@0.000053
+DBIx::QuickDB::Driver::SQLite      0.000053  pkg:cpan/DBIx-QuickDB@0.000053
+DBIx::QuickDB::Pool                0.000053  pkg:cpan/DBIx-QuickDB@0.000053
+DBIx::QuickDB::Util                0.000053  pkg:cpan/DBIx-QuickDB@0.000053
+DBIx::QuickDB::Util::HashBase      0.000053  pkg:cpan/DBIx-QuickDB@0.000053
+DBIx::QuickDB::Watcher             0.000053  pkg:cpan/DBIx-QuickDB@0.000053
 DBIx::QuickORM                     0.000028  pkg:cpan/DBIx-QuickORM@0.000028
 DBIx::QuickORM::Affinity           0.000028  pkg:cpan/DBIx-QuickORM@0.000028
 DBIx::QuickORM::BuilderState       0.000004  pkg:cpan/DBIx-QuickORM@0.000004
@@ -146792,6 +146792,8 @@ Net::Blossom::Response             undef  pkg:cpan/Net-Blossom@0.001000
 Net::Blossom::Server               0.001000  pkg:cpan/Net-Blossom-Server@0.001000
 Net::Blossom::Server::Authorization undef  pkg:cpan/Net-Blossom-Server@0.001000
 Net::Blossom::Server::AuthorizationResult undef  pkg:cpan/Net-Blossom-Server@0.001000
+Net::Blossom::Server::Backend::Postgres 0.001000  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001000
+Net::Blossom::Server::Backend::Postgres::_Upload 0.001000  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001000
 Net::Blossom::Server::Backend::SQLite 0.001000  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001000
 Net::Blossom::Server::Backend::SQLite::_Upload 0.001000  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001000
 Net::Blossom::Server::BlobResult   undef  pkg:cpan/Net-Blossom-Server@0.001000
@@ -199981,7 +199983,7 @@ Predicate                          undef  pkg:cpan/SemMed-Interface@0.05
 PrefixCompiler                         0  pkg:cpan/SVN-TeamTools-Indexer@0.002
 PrefixMatcher                          0  pkg:cpan/SVN-TeamTools-Indexer@0.002
 Preloaded                          undef  pkg:cpan/Resource-Loader@0.03
-Preproc::Tiny                       0.03  pkg:cpan/Preproc-Tiny@0.03
+Preproc::Tiny                       0.04  pkg:cpan/Preproc-Tiny@0.04
 Preprocess::Ops                    20201117  pkg:cpan/Preprocess-Ops@20201117
 PressKeys                          undef  pkg:cpan/PerlActor@0.02
 Prima                               1.77  pkg:cpan/Prima@1.77
@@ -229498,7 +229500,7 @@ Test2::Tools::Process::Exit         0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::Proc         0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::System       0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::SystemProc   0.07  pkg:cpan/Test2-Tools-Process@0.07
-Test2::Tools::QuickDB              0.000052  pkg:cpan/DBIx-QuickDB@0.000052
+Test2::Tools::QuickDB              0.000053  pkg:cpan/DBIx-QuickDB@0.000053
 Test2::Tools::Ref                  1.302222  pkg:cpan/Test-Simple@1.302222
 Test2::Tools::Refcount             1.302222  pkg:cpan/Test-Simple@1.302222
 Test2::Tools::Rustfmt               0.05  pkg:cpan/Test2-Tools-Rustfmt@0.05
