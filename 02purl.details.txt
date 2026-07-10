@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 09 Jul 2026 23:04:54 GMT
-Line-Count: 265976
+Last-Updated: Fri, 10 Jul 2026 02:22:12 GMT
+Line-Count: 265980
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -62240,7 +62240,8 @@ DataWarehouse::Aggregate            0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::Dimension            0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::ETL                  0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::Fact                 0.04  pkg:cpan/DataWarehouse@0.04
-Database::Abstraction               0.35  pkg:cpan/Database-Abstraction@0.35
+Database::Abstraction               0.36  pkg:cpan/Database-Abstraction@0.36
+Database::Abstraction::Query        0.36  pkg:cpan/Database-Abstraction@0.36
 Database::Async                    0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Backoff           0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Backoff::Exponential 0.019  pkg:cpan/Database-Async@0.019
@@ -146780,6 +146781,8 @@ Net::Blossom::Response             undef  pkg:cpan/Net-Blossom@0.001000
 Net::Blossom::Server               0.001000  pkg:cpan/Net-Blossom-Server@0.001000
 Net::Blossom::Server::Authorization undef  pkg:cpan/Net-Blossom-Server@0.001000
 Net::Blossom::Server::AuthorizationResult undef  pkg:cpan/Net-Blossom-Server@0.001000
+Net::Blossom::Server::Backend::SQLite 0.001000  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001000
+Net::Blossom::Server::Backend::SQLite::_Upload 0.001000  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001000
 Net::Blossom::Server::BlobResult   undef  pkg:cpan/Net-Blossom-Server@0.001000
 Net::Blossom::Server::Error        undef  pkg:cpan/Net-Blossom-Server@0.001000
 Net::Blossom::Server::MirrorFetcher::HTTP undef  pkg:cpan/Net-Blossom-Server@0.001000
@@ -199967,7 +199970,7 @@ Predicate                          undef  pkg:cpan/SemMed-Interface@0.05
 PrefixCompiler                         0  pkg:cpan/SVN-TeamTools-Indexer@0.002
 PrefixMatcher                          0  pkg:cpan/SVN-TeamTools-Indexer@0.002
 Preloaded                          undef  pkg:cpan/Resource-Loader@0.03
-Preproc::Tiny                       0.02  pkg:cpan/Preproc-Tiny@0.02
+Preproc::Tiny                       0.03  pkg:cpan/Preproc-Tiny@0.03
 Preprocess::Ops                    20201117  pkg:cpan/Preprocess-Ops@20201117
 PressKeys                          undef  pkg:cpan/PerlActor@0.02
 Prima                               1.77  pkg:cpan/Prima@1.77
@@ -209840,28 +209843,29 @@ SPVM::Format                       undef  pkg:cpan/SPVM@0.990191
 SPVM::Getopt::Long                 0.004  pkg:cpan/SPVM-Getopt-Long@0.004
 SPVM::Getopt::Long::Spec           undef  pkg:cpan/SPVM-Getopt-Long@0.004
 SPVM::Global                       undef  pkg:cpan/SPVM@0.990191
-SPVM::Go                           0.031  pkg:cpan/SPVM-Go@0.031
-SPVM::Go::Channel                  undef  pkg:cpan/SPVM-Go@0.031
-SPVM::Go::Channel::Wait            undef  pkg:cpan/SPVM-Go@0.031
-SPVM::Go::Context                  undef  pkg:cpan/SPVM-Go@0.031
-SPVM::Go::Context::CanncelCallback undef  pkg:cpan/SPVM-Go@0.031
-SPVM::Go::Context::Derived         undef  pkg:cpan/SPVM-Go@0.031
-SPVM::Go::Context::Error::Canceled undef  pkg:cpan/SPVM-Go@0.031
-SPVM::Go::Context::Error::DeadlineExceeded undef  pkg:cpan/SPVM-Go@0.031
-SPVM::Go::Context::Value           undef  pkg:cpan/SPVM-Go@0.031
+SPVM::Go                           0.033  pkg:cpan/SPVM-Go@0.033
+SPVM::Go::Channel                  undef  pkg:cpan/SPVM-Go@0.033
+SPVM::Go::Channel::Wait            undef  pkg:cpan/SPVM-Go@0.033
+SPVM::Go::Context                  undef  pkg:cpan/SPVM-Go@0.033
+SPVM::Go::Context::CanncelCallback undef  pkg:cpan/SPVM-Go@0.033
+SPVM::Go::Context::Derived         undef  pkg:cpan/SPVM-Go@0.033
+SPVM::Go::Context::Error::Canceled undef  pkg:cpan/SPVM-Go@0.033
+SPVM::Go::Context::Error::DeadlineExceeded undef  pkg:cpan/SPVM-Go@0.033
+SPVM::Go::Context::Value           undef  pkg:cpan/SPVM-Go@0.033
 SPVM::Go::Coroutine                undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Duration_1l              undef  pkg:cpan/SPVM-Go@0.031
-SPVM::Go::Error::IOTimeout         undef  pkg:cpan/SPVM-Go@0.031
-SPVM::Go::Goroutine                undef  pkg:cpan/SPVM-Go@0.031
-SPVM::Go::OS::Signal               undef  pkg:cpan/SPVM-Go@0.031
+SPVM::Go::Duration_1l              undef  pkg:cpan/SPVM-Go@0.033
+SPVM::Go::Error::IOTimeout         undef  pkg:cpan/SPVM-Go@0.033
+SPVM::Go::Goroutine                undef  pkg:cpan/SPVM-Go@0.033
+SPVM::Go::OS::Signal               undef  pkg:cpan/SPVM-Go@0.033
 SPVM::Go::Poll                     undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Schedule                 undef  pkg:cpan/SPVM-Go@0.031
+SPVM::Go::Schedule                 undef  pkg:cpan/SPVM-Go@0.033
 SPVM::Go::Schedule::Task           undef  pkg:cpan/SPVM-Go@0.031
-SPVM::Go::Select                   undef  pkg:cpan/SPVM-Go@0.031
-SPVM::Go::Select::Case             undef  pkg:cpan/SPVM-Go@0.031
-SPVM::Go::Select::Result           undef  pkg:cpan/SPVM-Go@0.031
-SPVM::Go::Sync::WaitGroup          undef  pkg:cpan/SPVM-Go@0.031
-SPVM::Go::Time                     undef  pkg:cpan/SPVM-Go@0.031
+SPVM::Go::Select                   undef  pkg:cpan/SPVM-Go@0.033
+SPVM::Go::Select::Case             undef  pkg:cpan/SPVM-Go@0.033
+SPVM::Go::Select::Result           undef  pkg:cpan/SPVM-Go@0.033
+SPVM::Go::Sync::WaitGroup          undef  pkg:cpan/SPVM-Go@0.033
+SPVM::Go::Time                     undef  pkg:cpan/SPVM-Go@0.033
+SPVM::Go::UV                       undef  pkg:cpan/SPVM-Go@0.033
 SPVM::HTTP::Tiny                   0.017  pkg:cpan/SPVM-HTTP-Tiny@0.017
 SPVM::HTTP::Tiny::Asset            undef  pkg:cpan/SPVM-HTTP-Tiny@0.012
 SPVM::HTTP::Tiny::Asset::File      undef  pkg:cpan/SPVM-HTTP-Tiny@0.012
