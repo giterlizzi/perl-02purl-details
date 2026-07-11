@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 11 Jul 2026 16:47:25 GMT
+Last-Updated: Sat, 11 Jul 2026 18:51:00 GMT
 Line-Count: 265992
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -57517,7 +57517,7 @@ Data::Bind::Sig                     0.30  pkg:cpan/Data-Bind@0.30
 Data::Bind::SigCollection           0.30  pkg:cpan/Data-Bind@0.30
 Data::Binder                           1  pkg:cpan/Data-Binder@1
 Data::BitMask                       1.00  pkg:cpan/Data-BitMask@1.00
-Data::BitSet::Shared                0.03  pkg:cpan/Data-BitSet-Shared@0.03
+Data::BitSet::Shared                0.04  pkg:cpan/Data-BitSet-Shared@0.04
 Data::BitStream                     0.08  pkg:cpan/Data-BitStream@0.08
 Data::BitStream::BLVec              0.08  pkg:cpan/Data-BitStream@0.08
 Data::BitStream::Base               0.08  pkg:cpan/Data-BitStream@0.08
@@ -58405,7 +58405,7 @@ Data::HashMap::Shared::SI32         0.15  pkg:cpan/Data-HashMap-Shared@0.15
 Data::HashMap::Shared::SS           0.15  pkg:cpan/Data-HashMap-Shared@0.15
 Data::HashType                      0.07  pkg:cpan/Data-HashType@0.07
 Data::Header::Fields                0.05  pkg:cpan/Data-Header-Fields@0.05
-Data::Heap::Shared                  0.05  pkg:cpan/Data-Heap-Shared@0.05
+Data::Heap::Shared                  0.06  pkg:cpan/Data-Heap-Shared@0.06
 Data::HexConverter                  0.65  pkg:cpan/Data-HexConverter@0.65
 Data::HexDump                       0.04  pkg:cpan/Data-HexDump@0.04
 Data::HexDump::Range                0.13  pkg:cpan/Data-HexDump-Range@0.13.72
@@ -58987,7 +58987,7 @@ Data::Localize::Util               undef  pkg:cpan/Data-Localize@0.00028
 Data::Localize::YAML               0.002  pkg:cpan/Data-Localize-YAML@0.002
 Data::Locations                      5.5  pkg:cpan/Data-Locations@5.5
 Data::Lock                          1.03  pkg:cpan/Data-Lock@1.03
-Data::Log::Shared                   0.04  pkg:cpan/Data-Log-Shared@0.04
+Data::Log::Shared                   0.05  pkg:cpan/Data-Log-Shared@0.05
 Data::Login                         0.05  pkg:cpan/Data-Login@0.05
 Data::Login::Role                   0.05  pkg:cpan/Data-Login@0.05
 Data::Lotter                       0.00004  pkg:cpan/Data-Lotter@0.00004
@@ -60453,10 +60453,10 @@ Data::Reporter::Orasource          undef  pkg:cpan/Data-Reporter@1.4
 Data::Reporter::RepFormat           0.01  pkg:cpan/Data-Reporter@1.4
 Data::Reporter::Sybsource          undef  pkg:cpan/Data-Reporter@1.4
 Data::Reporter::VisSection         undef  pkg:cpan/Data-Reporter@1.4
-Data::ReqRep::Shared                0.04  pkg:cpan/Data-ReqRep-Shared@0.04
-Data::ReqRep::Shared::Client       undef  pkg:cpan/Data-ReqRep-Shared@0.04
-Data::ReqRep::Shared::Int          undef  pkg:cpan/Data-ReqRep-Shared@0.04
-Data::ReqRep::Shared::Int::Client  undef  pkg:cpan/Data-ReqRep-Shared@0.04
+Data::ReqRep::Shared                0.05  pkg:cpan/Data-ReqRep-Shared@0.05
+Data::ReqRep::Shared::Client       undef  pkg:cpan/Data-ReqRep-Shared@0.05
+Data::ReqRep::Shared::Int          undef  pkg:cpan/Data-ReqRep-Shared@0.05
+Data::ReqRep::Shared::Int::Client  undef  pkg:cpan/Data-ReqRep-Shared@0.05
 Data::Resolver                     0.006  pkg:cpan/Data-Resolver@0.006
 Data::Resolver::Alternatives       0.006  pkg:cpan/Data-Resolver@0.006
 Data::Resolver::Asset              0.006  pkg:cpan/Data-Resolver@0.006
@@ -61262,7 +61262,7 @@ Data::Sofu::Value                    0.3  pkg:cpan/Sofu@0.3
 Data::SortedSet::Shared             0.03  pkg:cpan/Data-SortedSet-Shared@0.03
 Data::SortedSet::Shared::Strings    0.03  pkg:cpan/Data-SortedSet-Shared@0.03
 Data::Sorting                        0.9  pkg:cpan/Data-Sorting@0.9
-Data::SpatialHash::Shared           0.01  pkg:cpan/Data-SpatialHash-Shared@0.01
+Data::SpatialHash::Shared           0.02  pkg:cpan/Data-SpatialHash-Shared@0.02
 Data::SplitSerializer               0.91  pkg:cpan/Data-SplitSerializer@0.91
 Data::SpreadPagination             0.001002  pkg:cpan/Data-SpreadPagination@0.1.2
 Data::Stack                         0.01  pkg:cpan/Data-Stack@0.01
@@ -61343,15 +61343,15 @@ Data::Structure::Util               0.16  pkg:cpan/Data-Structure-Util@0.16
 Data::Swap                          0.08  pkg:cpan/Data-Swap@0.08
 Data::Sync                          0.08  pkg:cpan/Data-Sync@0.08
 Data::Sync::Advanced               undef  pkg:cpan/Data-Sync@0.08
-Data::Sync::Shared                  0.05  pkg:cpan/Data-Sync-Shared@0.05
-Data::Sync::Shared::Barrier        undef  pkg:cpan/Data-Sync-Shared@0.05
-Data::Sync::Shared::Condvar        undef  pkg:cpan/Data-Sync-Shared@0.05
-Data::Sync::Shared::Condvar::Guard  0.05  pkg:cpan/Data-Sync-Shared@0.05
-Data::Sync::Shared::Once           undef  pkg:cpan/Data-Sync-Shared@0.05
-Data::Sync::Shared::RWLock         undef  pkg:cpan/Data-Sync-Shared@0.05
-Data::Sync::Shared::RWLock::Guard   0.05  pkg:cpan/Data-Sync-Shared@0.05
-Data::Sync::Shared::Semaphore      undef  pkg:cpan/Data-Sync-Shared@0.05
-Data::Sync::Shared::Semaphore::Guard  0.05  pkg:cpan/Data-Sync-Shared@0.05
+Data::Sync::Shared                  0.06  pkg:cpan/Data-Sync-Shared@0.06
+Data::Sync::Shared::Barrier        undef  pkg:cpan/Data-Sync-Shared@0.06
+Data::Sync::Shared::Condvar        undef  pkg:cpan/Data-Sync-Shared@0.06
+Data::Sync::Shared::Condvar::Guard  0.06  pkg:cpan/Data-Sync-Shared@0.06
+Data::Sync::Shared::Once           undef  pkg:cpan/Data-Sync-Shared@0.06
+Data::Sync::Shared::RWLock         undef  pkg:cpan/Data-Sync-Shared@0.06
+Data::Sync::Shared::RWLock::Guard   0.06  pkg:cpan/Data-Sync-Shared@0.06
+Data::Sync::Shared::Semaphore      undef  pkg:cpan/Data-Sync-Shared@0.06
+Data::Sync::Shared::Semaphore::Guard  0.06  pkg:cpan/Data-Sync-Shared@0.06
 Data::TDMA                         undef  pkg:cpan/Data-TDMA@0.2
 Data::TDMA::Constants              undef  pkg:cpan/Data-TDMA@0.2
 Data::TDMA::Day                    undef  pkg:cpan/Data-TDMA@0.2
