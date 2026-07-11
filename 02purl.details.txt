@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 11 Jul 2026 14:46:03 GMT
+Last-Updated: Sat, 11 Jul 2026 16:47:25 GMT
 Line-Count: 265992
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -131474,18 +131474,18 @@ Map::Tube::API                     v1.0.0  pkg:cpan/Map-Tube-API@v1.0.0
 Map::Tube::API::Exception          v1.0.0  pkg:cpan/Map-Tube-API@v1.0.0
 Map::Tube::API::UserAgent          v1.0.0  pkg:cpan/Map-Tube-API@v1.0.0
 Map::Tube::Athens                   0.01  pkg:cpan/Map-Tube-Athens@0.01
-Map::Tube::Barcelona                0.80  pkg:cpan/Map-Tube-Barcelona@0.80
-Map::Tube::Barcelona::Line::L1      0.80  pkg:cpan/Map-Tube-Barcelona@0.80
-Map::Tube::Barcelona::Line::L10     0.80  pkg:cpan/Map-Tube-Barcelona@0.80
-Map::Tube::Barcelona::Line::L11     0.80  pkg:cpan/Map-Tube-Barcelona@0.80
-Map::Tube::Barcelona::Line::L2      0.80  pkg:cpan/Map-Tube-Barcelona@0.80
-Map::Tube::Barcelona::Line::L3      0.80  pkg:cpan/Map-Tube-Barcelona@0.80
-Map::Tube::Barcelona::Line::L4      0.80  pkg:cpan/Map-Tube-Barcelona@0.80
-Map::Tube::Barcelona::Line::L5      0.80  pkg:cpan/Map-Tube-Barcelona@0.80
-Map::Tube::Barcelona::Line::L6      0.80  pkg:cpan/Map-Tube-Barcelona@0.80
-Map::Tube::Barcelona::Line::L7      0.80  pkg:cpan/Map-Tube-Barcelona@0.80
-Map::Tube::Barcelona::Line::L8      0.80  pkg:cpan/Map-Tube-Barcelona@0.80
-Map::Tube::Barcelona::Line::L9      0.80  pkg:cpan/Map-Tube-Barcelona@0.80
+Map::Tube::Barcelona               v1.0.0  pkg:cpan/Map-Tube-Barcelona@v1.0.0
+Map::Tube::Barcelona::Line::L1     v1.0.0  pkg:cpan/Map-Tube-Barcelona@v1.0.0
+Map::Tube::Barcelona::Line::L10    v1.0.0  pkg:cpan/Map-Tube-Barcelona@v1.0.0
+Map::Tube::Barcelona::Line::L11    v1.0.0  pkg:cpan/Map-Tube-Barcelona@v1.0.0
+Map::Tube::Barcelona::Line::L2     v1.0.0  pkg:cpan/Map-Tube-Barcelona@v1.0.0
+Map::Tube::Barcelona::Line::L3     v1.0.0  pkg:cpan/Map-Tube-Barcelona@v1.0.0
+Map::Tube::Barcelona::Line::L4     v1.0.0  pkg:cpan/Map-Tube-Barcelona@v1.0.0
+Map::Tube::Barcelona::Line::L5     v1.0.0  pkg:cpan/Map-Tube-Barcelona@v1.0.0
+Map::Tube::Barcelona::Line::L6     v1.0.0  pkg:cpan/Map-Tube-Barcelona@v1.0.0
+Map::Tube::Barcelona::Line::L7     v1.0.0  pkg:cpan/Map-Tube-Barcelona@v1.0.0
+Map::Tube::Barcelona::Line::L8     v1.0.0  pkg:cpan/Map-Tube-Barcelona@v1.0.0
+Map::Tube::Barcelona::Line::L9     v1.0.0  pkg:cpan/Map-Tube-Barcelona@v1.0.0
 Map::Tube::Beijing                 v0.12.8  pkg:cpan/Map-Tube-Beijing@v0.12.8
 Map::Tube::Berlin                  2026.0615  pkg:cpan/Map-Tube-Berlin@2026.0615
 Map::Tube::Bielefeld               2020.0330  pkg:cpan/Map-Tube-Bielefeld@2020.0330
