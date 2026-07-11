@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 11 Jul 2026 18:51:00 GMT
-Line-Count: 265992
+Last-Updated: Sat, 11 Jul 2026 20:40:25 GMT
+Line-Count: 265990
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -15413,7 +15413,7 @@ App::autotest                      0.006  pkg:cpan/App-autotest@0.006
 App::autotest::Test::Runner        0.006  pkg:cpan/App-autotest@0.006
 App::autotest::Test::Runner::Result 0.006  pkg:cpan/App-autotest@0.006
 App::autotest::Test::Runner::Result::History 0.006  pkg:cpan/App-autotest@0.006
-App::bcrypt                        1.003  pkg:cpan/App-bcrypt@1.003
+App::bcrypt                        1.004  pkg:cpan/App-bcrypt@1.004
 App::bk                             0.06  pkg:cpan/App-bk@0.06
 App::bmkpasswd                     2.012002  pkg:cpan/App-bmkpasswd@2.012002
 App::booklog2amazon                0.000001  pkg:cpan/App-booklog2amazon@v0.0.1
@@ -71569,7 +71569,7 @@ Error::WarnDie                     0.17030  pkg:cpan/Error@0.17030
 Error::subs                        0.17030  pkg:cpan/Error@0.17030
 Errors::Errors                      1.26  pkg:cpan/WebTools@1.27
 Escape::Houdini                    v0.3.3  pkg:cpan/Escape-Houdini@0.3.3
-Eshu                                0.06  pkg:cpan/Eshu@0.06
+Eshu                                0.07  pkg:cpan/Eshu@0.07
 Esjis                               1.22  pkg:cpan/Sjis@1.22
 Etcd                               0.004  pkg:cpan/Etcd@0.004
 Etcd::Error                        0.004  pkg:cpan/Etcd@0.004
@@ -115765,8 +115765,6 @@ JSON::RPC::Test                    undef  pkg:cpan/JSON-RPC@1.06
 JSON::Relaxed                      0.098  pkg:cpan/JSON-Relaxed@0.098
 JSON::Relaxed::ErrorCodes          0.098  pkg:cpan/JSON-Relaxed@0.098
 JSON::Relaxed::Parser              0.098  pkg:cpan/JSON-Relaxed@0.098
-JSON::Relaxed::Parser::String::Quoted 0.090  pkg:cpan/JSON-Relaxed@0.090
-JSON::Relaxed::Parser::String::Unquoted 0.090  pkg:cpan/JSON-Relaxed@0.090
 JSON::Relaxed::Parser::Structure::Array 0.052  pkg:cpan/JSON-Relaxed@0.052
 JSON::Relaxed::Parser::Structure::Hash 0.052  pkg:cpan/JSON-Relaxed@0.052
 JSON::Relaxed::Parser::Token::String 0.052  pkg:cpan/JSON-Relaxed@0.052
@@ -131625,7 +131623,7 @@ Map::Tube::Route                   v5.1.0  pkg:cpan/Map-Tube@v5.1.0
 Map::Tube::SaintPetersburg          0.08  pkg:cpan/Map-Tube-SaintPetersburg@0.08
 Map::Tube::Samara                   0.08  pkg:cpan/Map-Tube-Samara@0.08
 Map::Tube::SanFrancisco            v0.1.3  pkg:cpan/Map-Tube-SanFrancisco@v0.1.3
-Map::Tube::Server                   0.06  pkg:cpan/Map-Tube-Server@0.06
+Map::Tube::Server                  v1.0.0  pkg:cpan/Map-Tube-Server@v1.0.0
 Map::Tube::Singapore                0.05  pkg:cpan/Map-Tube-Singapore@0.05
 Map::Tube::Sofia                     0.1  pkg:cpan/Map-Tube-Sofia@0.10
 Map::Tube::Stockholm               v0.1.4  pkg:cpan/Map-Tube-Stockholm@v0.1.4
