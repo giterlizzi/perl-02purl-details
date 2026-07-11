@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 11 Jul 2026 13:02:35 GMT
+Last-Updated: Sat, 11 Jul 2026 14:46:03 GMT
 Line-Count: 265992
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -32912,15 +32912,15 @@ CLI::Popt                           0.01  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X                       undef  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X::BadOption            undef  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X::Base                 undef  pkg:cpan/CLI-Popt@0.01
-CLI::Simple                        v2.0.12  pkg:cpan/CLI-Simple@2.0.12
-CLI::Simple::Constants             v2.0.12  pkg:cpan/CLI-Simple@2.0.12
-CLI::Simple::DumpSpec                  0  pkg:cpan/CLI-Simple@2.0.12
-CLI::Simple::Helpers                   0  pkg:cpan/CLI-Simple@2.0.12
-CLI::Simple::Migrate                   0  pkg:cpan/CLI-Simple@2.0.12
-CLI::Simple::Modulino                  0  pkg:cpan/CLI-Simple@2.0.12
-CLI::Simple::Scaffold                  0  pkg:cpan/CLI-Simple@2.0.12
-CLI::Simple::Shell                     0  pkg:cpan/CLI-Simple@2.0.12
-CLI::Simple::Utils                 v2.0.12  pkg:cpan/CLI-Simple@2.0.12
+CLI::Simple                        v2.0.13  pkg:cpan/CLI-Simple@2.0.13
+CLI::Simple::Constants             v2.0.13  pkg:cpan/CLI-Simple@2.0.13
+CLI::Simple::DumpSpec                  0  pkg:cpan/CLI-Simple@2.0.13
+CLI::Simple::Helpers                   0  pkg:cpan/CLI-Simple@2.0.13
+CLI::Simple::Migrate                   0  pkg:cpan/CLI-Simple@2.0.13
+CLI::Simple::Modulino                  0  pkg:cpan/CLI-Simple@2.0.13
+CLI::Simple::Scaffold                  0  pkg:cpan/CLI-Simple@2.0.13
+CLI::Simple::Shell                     0  pkg:cpan/CLI-Simple@2.0.13
+CLI::Simple::Utils                 v2.0.13  pkg:cpan/CLI-Simple@2.0.13
 CLI::Startup                        0.29  pkg:cpan/CLI-Startup@0.29
 CLI::Table::Key::Finder             0.31  pkg:cpan/CLI-Table-Key-Finder@0.31
 CLI::Table::Util                    0.06  pkg:cpan/CLI-Table-Util@0.06
@@ -119766,7 +119766,7 @@ LPDS::Renderer                         0  pkg:cpan/LPDS@0.02
 LPDS::RendererAxis                     0  pkg:cpan/LPDS@0.02
 LPDS::RendererModel                    0  pkg:cpan/LPDS@0.02
 LPDS::Util                             0  pkg:cpan/LPDS@0.02
-LRU::Cache                          0.05  pkg:cpan/LRU-Cache@0.05
+LRU::Cache                          1.00  pkg:cpan/LRU-Cache@1.00
 LRUCache                               0  pkg:cpan/GBrowse@2.55
 LRpt                                0.16  pkg:cpan/LRpt@0.16
 LRpt::CSVDiff                      undef  pkg:cpan/LRpt@0.16
@@ -124192,7 +124192,7 @@ List::Vectorize                     1.05  pkg:cpan/List-Vectorize@1.05
 List::Zip                           0.04  pkg:cpan/List-Zip@0.04
 List::oo                           0.002001  pkg:cpan/List-oo@v0.2.1
 ListCon                            undef  pkg:cpan/Code-Perl@0.03
-Litavis                             0.02  pkg:cpan/Litavis@0.02
+Litavis                             0.03  pkg:cpan/Litavis@0.03
 Lithium::WebDriver                   1.0  pkg:cpan/Lithium-WebDriver@1.0.0
 Lithium::WebDriver::Phantom        undef  pkg:cpan/Lithium-WebDriver@1.0.0
 Lithium::WebDriver::Utils          undef  pkg:cpan/Lithium-WebDriver@1.0.0
@@ -131470,9 +131470,9 @@ Map::Metro::Plugin::Map::Stockholm 0.1973  pkg:cpan/Map-Metro-Plugin-Map-Stockho
 Map::Metro::Shim                   0.2405  pkg:cpan/Map-Metro@0.2405
 Map::Metro::Types                  0.2405  pkg:cpan/Map-Metro@0.2405
 Map::Tube                          v5.1.0  pkg:cpan/Map-Tube@v5.1.0
-Map::Tube::API                      0.09  pkg:cpan/Map-Tube-API@0.09
-Map::Tube::API::Exception           0.09  pkg:cpan/Map-Tube-API@0.09
-Map::Tube::API::UserAgent           0.09  pkg:cpan/Map-Tube-API@0.09
+Map::Tube::API                     v1.0.0  pkg:cpan/Map-Tube-API@v1.0.0
+Map::Tube::API::Exception          v1.0.0  pkg:cpan/Map-Tube-API@v1.0.0
+Map::Tube::API::UserAgent          v1.0.0  pkg:cpan/Map-Tube-API@v1.0.0
 Map::Tube::Athens                   0.01  pkg:cpan/Map-Tube-Athens@0.01
 Map::Tube::Barcelona                0.80  pkg:cpan/Map-Tube-Barcelona@0.80
 Map::Tube::Barcelona::Line::L1      0.80  pkg:cpan/Map-Tube-Barcelona@0.80
@@ -154449,7 +154449,7 @@ Number::Format::SouthAsian          0.10  pkg:cpan/Number-Format-SouthAsian@0.10
 Number::FormatEng                   0.03  pkg:cpan/Number-FormatEng@0.03
 Number::Fraction                   v3.1.0  pkg:cpan/Number-Fraction@v3.1.0
 Number::Interval                    0.07  pkg:cpan/Number-Interval@0.07
-Number::Iterator                    1.02  pkg:cpan/Number-Iterator@1.02
+Number::Iterator                    1.03  pkg:cpan/Number-Iterator@1.03
 Number::Iterator::XS                1.03  pkg:cpan/Number-Iterator-XS@1.03
 Number::Latin                       1.01  pkg:cpan/Number-Latin@1.01
 Number::Misc                         1.2  pkg:cpan/Number-Misc@1.2
@@ -235747,23 +235747,23 @@ Tk::Labelframe                     4.003  pkg:cpan/Tk@804.036
 Tk::Labelled                         0.2  pkg:cpan/Tk-Gauge@0.3
 Tk::LineGraph                       0.01  pkg:cpan/Tk-LineGraph@0.01
 Tk::LineNumberText                   0.5  pkg:cpan/Tk-LineNumberText@0.5
-Tk::ListBrowser                     0.13  pkg:cpan/Tk-ListBrowser@0.13
-Tk::ListBrowser::Bar                0.04  pkg:cpan/Tk-ListBrowser@0.13
-Tk::ListBrowser::BaseItem            0.1  pkg:cpan/Tk-ListBrowser@0.13
-Tk::ListBrowser::Column              0.1  pkg:cpan/Tk-ListBrowser@0.13
+Tk::ListBrowser                     0.14  pkg:cpan/Tk-ListBrowser@0.14
+Tk::ListBrowser::Bar                0.04  pkg:cpan/Tk-ListBrowser@0.14
+Tk::ListBrowser::BaseItem            0.1  pkg:cpan/Tk-ListBrowser@0.14
+Tk::ListBrowser::Column              0.1  pkg:cpan/Tk-ListBrowser@0.14
 Tk::ListBrowser::Data               0.08  pkg:cpan/Tk-ListBrowser@0.08
-Tk::ListBrowser::Entry              0.12  pkg:cpan/Tk-ListBrowser@0.13
-Tk::ListBrowser::FilterEntry        0.11  pkg:cpan/Tk-ListBrowser@0.13
-Tk::ListBrowser::HList               0.1  pkg:cpan/Tk-ListBrowser@0.13
-Tk::ListBrowser::HashList            0.1  pkg:cpan/Tk-ListBrowser@0.13
-Tk::ListBrowser::Item               0.12  pkg:cpan/Tk-ListBrowser@0.13
-Tk::ListBrowser::LBCanvas           0.04  pkg:cpan/Tk-ListBrowser@0.13
-Tk::ListBrowser::LBHeader           0.11  pkg:cpan/Tk-ListBrowser@0.13
-Tk::ListBrowser::List               0.12  pkg:cpan/Tk-ListBrowser@0.13
-Tk::ListBrowser::Row                0.12  pkg:cpan/Tk-ListBrowser@0.13
-Tk::ListBrowser::SelectXPM          0.11  pkg:cpan/Tk-ListBrowser@0.13
-Tk::ListBrowser::SideColumn         0.12  pkg:cpan/Tk-ListBrowser@0.13
-Tk::ListBrowser::Tree                0.1  pkg:cpan/Tk-ListBrowser@0.13
+Tk::ListBrowser::Entry              0.14  pkg:cpan/Tk-ListBrowser@0.14
+Tk::ListBrowser::FilterEntry        0.11  pkg:cpan/Tk-ListBrowser@0.14
+Tk::ListBrowser::HList              0.14  pkg:cpan/Tk-ListBrowser@0.14
+Tk::ListBrowser::HashList            0.1  pkg:cpan/Tk-ListBrowser@0.14
+Tk::ListBrowser::Item               0.14  pkg:cpan/Tk-ListBrowser@0.14
+Tk::ListBrowser::LBCanvas           0.04  pkg:cpan/Tk-ListBrowser@0.14
+Tk::ListBrowser::LBHeader           0.11  pkg:cpan/Tk-ListBrowser@0.14
+Tk::ListBrowser::List               0.14  pkg:cpan/Tk-ListBrowser@0.14
+Tk::ListBrowser::Row                0.14  pkg:cpan/Tk-ListBrowser@0.14
+Tk::ListBrowser::SelectXPM          0.11  pkg:cpan/Tk-ListBrowser@0.14
+Tk::ListBrowser::SideColumn         0.12  pkg:cpan/Tk-ListBrowser@0.14
+Tk::ListBrowser::Tree               0.14  pkg:cpan/Tk-ListBrowser@0.14
 Tk::ListEntry                       0.07  pkg:cpan/Tk-ListEntry@0.07
 Tk::ListMgr                         0.02  pkg:cpan/Tk-GBARR@2.08
 Tk::ListMgr::Item                   0.02  pkg:cpan/Tk-GBARR@2.08
@@ -236131,7 +236131,7 @@ Tkx::WinIco                         0.01  pkg:cpan/Tkx-WinIco@0.01
 Tkx::i                              1.10  pkg:cpan/Tkx@1.10
 Tkx::widget                         1.10  pkg:cpan/Tkx@1.10
 Tkx::widget::_destroy               1.10  pkg:cpan/Tkx@1.10
-Tlaloc                              0.05  pkg:cpan/Tlaloc@0.05
+Tlaloc                              1.00  pkg:cpan/Tlaloc@1.00
 Tmpfile                            undef  pkg:cpan/App-optex@v0.0.15
 To_Add_Fails                       undef  pkg:cpan/Test-Unit@0.13
 To_Add_Fails_Too                   undef  pkg:cpan/Test-Unit@0.13
