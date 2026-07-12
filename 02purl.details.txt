@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 12 Jul 2026 11:05:58 GMT
+Last-Updated: Sun, 12 Jul 2026 13:03:26 GMT
 Line-Count: 266026
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -49710,7 +49710,7 @@ Crypt::OpenSSL::SMIME               0.05  pkg:cpan/Crypt-OpenSSL-SMIME@0.05
 Crypt::OpenSSL::SignCSR             0.16  pkg:cpan/Crypt-OpenSSL-SignCSR@0.16
 Crypt::OpenSSL::Verify              0.38  pkg:cpan/Crypt-OpenSSL-Verify@0.38
 Crypt::OpenSSL::VerifyX509          0.21  pkg:cpan/Crypt-OpenSSL-VerifyX509@0.21
-Crypt::OpenSSL::X509               2.001002  pkg:cpan/Crypt-OpenSSL-X509@2.1.2
+Crypt::OpenSSL::X509               2.001003  pkg:cpan/Crypt-OpenSSL-X509@2.1.3
 Crypt::OpenToken                    0.11  pkg:cpan/Crypt-OpenToken@0.11
 Crypt::OpenToken::Cipher           undef  pkg:cpan/Crypt-OpenToken@0.11
 Crypt::OpenToken::Cipher::AES128   undef  pkg:cpan/Crypt-OpenToken@0.11
