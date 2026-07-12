@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 11 Jul 2026 22:39:59 GMT
-Line-Count: 265991
+Last-Updated: Sun, 12 Jul 2026 02:04:12 GMT
+Line-Count: 265993
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -9650,6 +9650,7 @@ App::Deps::Verify::App::VerifyDeps::Command::py3list v0.12.2  pkg:cpan/App-Deps-
 App::Deps::Verify::App::VerifyDeps::Command::verify v0.12.2  pkg:cpan/App-Deps-Verify@0.12.2
 App::DesktopNotifyUtils            0.001  pkg:cpan/App-DesktopNotifyUtils@0.001
 App::DesktopOpenUtils              0.002  pkg:cpan/App-DesktopOpenUtils@0.002
+App::DesktopWorkspaceUtils         0.001  pkg:cpan/App-DesktopWorkspaceUtils@0.001
 App::Dest                           1.37  pkg:cpan/App-Dest@1.37
 App::Devbot                        0.001004  pkg:cpan/App-Devbot@0.001004
 App::Devel::MAT::Explorer::GTK      0.06  pkg:cpan/App-Devel-MAT-Explorer-GTK@0.06
@@ -14791,35 +14792,35 @@ App::TermAttrUtils                 0.007  pkg:cpan/App-TermAttrUtils@0.007
 App::Termcast                       0.13  pkg:cpan/App-Termcast@0.13
 App::Test::DWG::LibreDWG::DwgRead   0.06  pkg:cpan/App-Test-DWG-LibreDWG-DwgRead@0.06
 App::Test::DWG::LibreDWG::JSON      0.05  pkg:cpan/App-Test-DWG-LibreDWG-JSON@0.05
-App::Test::Generator                0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::Analyzer::Complexity  0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::Analyzer::Return  0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::Analyzer::ReturnMeta  0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::Analyzer::SideEffect  0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::BenchmarkGenerator  0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::CoverageGuidedFuzzer  0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::Emitter::Perl  0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::Exporter::YAML  0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::LCSAJ         0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::LCSAJ::Coverage  0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::Model::Method  0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::Mutant        0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::Mutation::Base  0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::Mutation::BooleanNegation  0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::Mutation::ConditionalInversion  0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::Mutation::NumericBoundary  0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::Mutation::ReturnUndef  0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::Mutator       0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::Planner       0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::Planner::Fixture  0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::Planner::Grouping  0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::Planner::Isolation  0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::Planner::Mock  0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::PodExampleExtractor  0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::Sample::Module  0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::SchemaExtractor  0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::Template      0.42  pkg:cpan/App-Test-Generator@0.42
-App::Test::Generator::TestStrategy  0.42  pkg:cpan/App-Test-Generator@0.42
+App::Test::Generator                0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::Analyzer::Complexity  0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::Analyzer::Return  0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::Analyzer::ReturnMeta  0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::Analyzer::SideEffect  0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::BenchmarkGenerator  0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::CoverageGuidedFuzzer  0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::Emitter::Perl  0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::Exporter::YAML  0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::LCSAJ         0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::LCSAJ::Coverage  0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::Model::Method  0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::Mutant        0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::Mutation::Base  0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::Mutation::BooleanNegation  0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::Mutation::ConditionalInversion  0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::Mutation::NumericBoundary  0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::Mutation::ReturnUndef  0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::Mutator       0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::Planner       0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::Planner::Fixture  0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::Planner::Grouping  0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::Planner::Isolation  0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::Planner::Mock  0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::PodExampleExtractor  0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::Sample::Module  0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::SchemaExtractor  0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::Template      0.43  pkg:cpan/App-Test-Generator@0.43
+App::Test::Generator::TestStrategy  0.43  pkg:cpan/App-Test-Generator@0.43
 App::Test::Tapat                    0.04  pkg:cpan/App-Test-Tapat@0.04
 App::TestOnTap                     1.001  pkg:cpan/App-TestOnTap@1.001
 App::TestOnTap::Args               1.001  pkg:cpan/App-TestOnTap@1.001
@@ -64503,7 +64504,7 @@ Devel::Agent::AwareRole            0.001  pkg:cpan/Devel-Agent@0.006
 Devel::Agent::EveryThing           undef  pkg:cpan/Devel-Agent@0.007
 Devel::Agent::Proxy                0.0002  pkg:cpan/Devel-Agent@0.006
 Devel::Agent::Util                 undef  pkg:cpan/Devel-Agent@0.007
-Devel::App::Test::Generator::LCSAJ::Runtime  0.42  pkg:cpan/App-Test-Generator@0.42
+Devel::App::Test::Generator::LCSAJ::Runtime  0.43  pkg:cpan/App-Test-Generator@0.43
 Devel::Arena                        0.23  pkg:cpan/Devel-Arena@0.23
 Devel::ArgNames                     0.03  pkg:cpan/Devel-ArgNames@0.03
 Devel::Assert                       1.06  pkg:cpan/Devel-Assert@1.06
@@ -67276,10 +67277,11 @@ Dist::Zilla::Plugin::Covenant      v0.1.3  pkg:cpan/Dist-Zilla-Plugin-Covenant@0
 Dist::Zilla::Plugin::CriticTests   3.005  pkg:cpan/Dist-Zilla-Plugin-Test-Perl-Critic@3.005
 Dist::Zilla::Plugin::CustomLicense 1.000002  pkg:cpan/Dist-Zilla-Plugin-CustomLicense@1.0.2
 Dist::Zilla::Plugin::CycloneDX     0.001  pkg:cpan/Dist-Zilla-Plugin-CycloneDX@0.001
-Dist::Zilla::Plugin::DBIO::CodebergMeta 0.900002  pkg:cpan/Dist-Zilla-PluginBundle-DBIO@0.900002
-Dist::Zilla::Plugin::DBIO::GatherSkills 0.900002  pkg:cpan/Dist-Zilla-PluginBundle-DBIO@0.900002
+Dist::Zilla::Plugin::DBIO::CodebergMeta 0.900003  pkg:cpan/Dist-Zilla-PluginBundle-DBIO@0.900003
+Dist::Zilla::Plugin::DBIO::CoverageTest 0.900003  pkg:cpan/Dist-Zilla-PluginBundle-DBIO@0.900003
+Dist::Zilla::Plugin::DBIO::GatherSkills 0.900003  pkg:cpan/Dist-Zilla-PluginBundle-DBIO@0.900003
 Dist::Zilla::Plugin::DBIO::SetCopyrightHolder 0.900001  pkg:cpan/Dist-Zilla-PluginBundle-DBIO@0.900001
-Dist::Zilla::Plugin::DBIO::SetMeta 0.900002  pkg:cpan/Dist-Zilla-PluginBundle-DBIO@0.900002
+Dist::Zilla::Plugin::DBIO::SetMeta 0.900003  pkg:cpan/Dist-Zilla-PluginBundle-DBIO@0.900003
 Dist::Zilla::Plugin::DOAP          0.003  pkg:cpan/Dist-Zilla-Plugin-DOAP@0.003
 Dist::Zilla::Plugin::DROLSKY::DevTools  1.24  pkg:cpan/Dist-Zilla-PluginBundle-DROLSKY@1.24
 Dist::Zilla::Plugin::DROLSKY::Role::MaybeFileWriter  1.19  pkg:cpan/Dist-Zilla-PluginBundle-DROLSKY@1.19
@@ -67951,7 +67953,7 @@ Dist::Zilla::PluginBundle::Codeberg 2.0100  pkg:cpan/Dist-Zilla-PluginBundle-Cod
 Dist::Zilla::PluginBundle::ConfigSlicer 0.202  pkg:cpan/Dist-Zilla-Config-Slicer@0.202
 Dist::Zilla::PluginBundle::DAGOLDEN 0.079  pkg:cpan/Dist-Zilla-PluginBundle-DAGOLDEN@0.079
 Dist::Zilla::PluginBundle::DANIELP  1.04  pkg:cpan/Dist-Zilla-PluginBundle-DANIELP@1.04
-Dist::Zilla::PluginBundle::DBIO    0.900002  pkg:cpan/Dist-Zilla-PluginBundle-DBIO@0.900002
+Dist::Zilla::PluginBundle::DBIO    0.900003  pkg:cpan/Dist-Zilla-PluginBundle-DBIO@0.900003
 Dist::Zilla::PluginBundle::DBR     0.024  pkg:cpan/Dist-Zilla-PluginBundle-DBR@0.024
 Dist::Zilla::PluginBundle::DOY      0.15  pkg:cpan/Dist-Zilla-PluginBundle-DOY@0.15
 Dist::Zilla::PluginBundle::DPHYS       1  pkg:cpan/Dist-Zilla-PluginBundle-DPHYS@1
@@ -116123,7 +116125,7 @@ Jabber::SimpleSend                  0.03  pkg:cpan/Jabber-SimpleSend@0.03
 Jabber::mod_perl                    0.15  pkg:cpan/Jabber-mod_perl@0.15
 Jacode                             2.13.4.35  pkg:cpan/Jacode@2.13.4.35
 Jacode4e                           2.13.6.22  pkg:cpan/Jacode4e@2.13.6.22
-Jacode4e::RoundTrip                2.13.81.15  pkg:cpan/Jacode4e-RoundTrip@2.13.81.15
+Jacode4e::RoundTrip                2.13.81.16  pkg:cpan/Jacode4e-RoundTrip@2.13.81.16
 Jail                                 0.8  pkg:cpan/Jail@0.8
 Jaipo                               0.23  pkg:cpan/Jaipo@0.23
 Jaipo::Config                      undef  pkg:cpan/Jaipo@0.23
@@ -199382,8 +199384,8 @@ Pod::Weaver::PluginBundle::CHIM    0.052005  pkg:cpan/Dist-Zilla-PluginBundle-Au
 Pod::Weaver::PluginBundle::Celogeek   1.1  pkg:cpan/Dist-Zilla-PluginBundle-Author-Celogeek@1.1
 Pod::Weaver::PluginBundle::CorePrep 4.020  pkg:cpan/Pod-Weaver@4.020
 Pod::Weaver::PluginBundle::DAGOLDEN 0.079  pkg:cpan/Dist-Zilla-PluginBundle-DAGOLDEN@0.079
-Pod::Weaver::PluginBundle::DBIO    0.900002  pkg:cpan/Dist-Zilla-PluginBundle-DBIO@0.900002
-Pod::Weaver::PluginBundle::DBIO::Heritage 0.900002  pkg:cpan/Dist-Zilla-PluginBundle-DBIO@0.900002
+Pod::Weaver::PluginBundle::DBIO    0.900003  pkg:cpan/Dist-Zilla-PluginBundle-DBIO@0.900003
+Pod::Weaver::PluginBundle::DBIO::Heritage 0.900003  pkg:cpan/Dist-Zilla-PluginBundle-DBIO@0.900003
 Pod::Weaver::PluginBundle::DROLSKY  1.24  pkg:cpan/Dist-Zilla-PluginBundle-DROLSKY@1.24
 Pod::Weaver::PluginBundle::Default 4.020  pkg:cpan/Pod-Weaver@4.020
 Pod::Weaver::PluginBundle::FLORA    0.04  pkg:cpan/Pod-Weaver-PluginBundle-FLORA@0.04
