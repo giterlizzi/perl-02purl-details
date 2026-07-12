@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 12 Jul 2026 18:55:36 GMT
+Last-Updated: Sun, 12 Jul 2026 20:36:54 GMT
 Line-Count: 266043
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -33251,7 +33251,7 @@ CPAN::02Packages::Search           v1.0.0  pkg:cpan/CPAN-02Packages-Search@v1.0.
 CPAN::API::BuildPL                 0.002  pkg:cpan/CPAN-API-BuildPL@0.002
 CPAN::Admin                        5.501  pkg:cpan/CPAN@2.38
 CPAN::Audit                        20260622.001  pkg:cpan/CPAN-Audit@20260622.001
-CPAN::Audit::DB                    20260705.001  pkg:cpan/CPANSA-DB@20260705.001
+CPAN::Audit::DB                    20260712.001  pkg:cpan/CPANSA-DB@20260712.001
 CPAN::Audit::Discover              1.001  pkg:cpan/CPAN-Audit@20260622.001
 CPAN::Audit::Discover::Cpanfile    1.001  pkg:cpan/CPAN-Audit@20260622.001
 CPAN::Audit::Discover::CpanfileSnapshot 1.001  pkg:cpan/CPAN-Audit@20260622.001
@@ -33623,7 +33623,7 @@ CPAN::Repository::Mailrc           0.010  pkg:cpan/CPAN-Repository@0.010
 CPAN::Repository::Packages         0.010  pkg:cpan/CPAN-Repository@0.010
 CPAN::Repository::Perms            0.010  pkg:cpan/CPAN-Repository@0.010
 CPAN::Repository::Role::File       0.010  pkg:cpan/CPAN-Repository@0.010
-CPAN::Requirements::Dynamic        0.002  pkg:cpan/CPAN-Requirements-Dynamic@0.002
+CPAN::Requirements::Dynamic        0.003  pkg:cpan/CPAN-Requirements-Dynamic@0.003
 CPAN::ReverseDependencies           0.03  pkg:cpan/CPAN-ReverseDependencies@0.03
 CPAN::SQLite                       0.220  pkg:cpan/CPAN-SQLite@0.220
 CPAN::SQLite::DBI                  0.220  pkg:cpan/CPAN-SQLite@0.220
@@ -34022,7 +34022,7 @@ CPANPLUS::YACSmoke::ReAssemble      1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::SortVers        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::locallib        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::inc                      undef  pkg:cpan/CPANPLUS@0.84
-CPANSA::DB                         20260705.001  pkg:cpan/CPANSA-DB@20260705.001
+CPANSA::DB                         20260712.001  pkg:cpan/CPANSA-DB@20260712.001
 CPANSEC::Admin                     0.001  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command            undef  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command::Amend     undef  pkg:cpan/CPANSec-Admin@0.001
@@ -234209,9 +234209,9 @@ Thread::Apartment::Server           0.50  pkg:cpan/Thread-Apartment@0.51
 Thread::App::Shutdown               0.01  pkg:cpan/Thread-App-Shutdown@0.10
 Thread::Barrier                    0.300  pkg:cpan/Thread-Barrier@0.300
 Thread::Bless                       0.10  pkg:cpan/Thread-Bless@0.10
-Thread::CSP                        0.015  pkg:cpan/Thread-CSP@0.015
-Thread::CSP::Channel               0.015  pkg:cpan/Thread-CSP@0.015
-Thread::CSP::Promise               0.015  pkg:cpan/Thread-CSP@0.015
+Thread::CSP                        0.016  pkg:cpan/Thread-CSP@0.016
+Thread::CSP::Channel               0.016  pkg:cpan/Thread-CSP@0.016
+Thread::CSP::Promise               0.016  pkg:cpan/Thread-CSP@0.016
 Thread::Cancel                      1.13  pkg:cpan/Thread-Cancel@1.13
 Thread::Channel                    0.003  pkg:cpan/Thread-Channel@0.003
 Thread::Cleanup                     0.07  pkg:cpan/Thread-Cleanup@0.07
