@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 12 Jul 2026 14:49:15 GMT
-Line-Count: 266026
+Last-Updated: Sun, 12 Jul 2026 16:51:37 GMT
+Line-Count: 266034
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -131885,7 +131885,7 @@ Markdown::Pod                      0.008  pkg:cpan/Markdown-Pod@0.008
 Markdown::Pod::Handler             0.008  pkg:cpan/Markdown-Pod@0.008
 Markdown::Pod::script              0.008  pkg:cpan/Markdown-Pod@0.008
 Markdown::Render                   v2.0.4  pkg:cpan/Markdown-Render@2.0.4
-Markdown::Simple                    0.15  pkg:cpan/Markdown-Simple@0.15
+Markdown::Simple                    0.16  pkg:cpan/Markdown-Simple@0.16
 Markdown::TOC                       0.01  pkg:cpan/Markdown-TOC@0.01
 Markdown::Table                     0.04  pkg:cpan/Markdown-Table@0.04
 Markdown::To::POD                   0.06  pkg:cpan/Markdown-To-POD@0.06
@@ -139809,6 +139809,7 @@ Mojolicious::Plugin::Fondation::Controller::Base  0.03  pkg:cpan/Mojolicious-Plu
 Mojolicious::Plugin::Fondation::Controller::Debug  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
 Mojolicious::Plugin::Fondation::Controller::Welcome  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
 Mojolicious::Plugin::Fondation::Helpers  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
+Mojolicious::Plugin::Fondation::Layout::Bootstrap  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Layout-Bootstrap@0.01
 Mojolicious::Plugin::Fondation::Manager  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
 Mojolicious::Plugin::Fondation::MigrationDBIx  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-MigrationDBIx@0.02
 Mojolicious::Plugin::Fondation::MigrationDBIx::Command::db  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-MigrationDBIx@0.02
@@ -139818,6 +139819,11 @@ Mojolicious::Plugin::Fondation::Model::DBIx::Async::ResultSet  0.03  pkg:cpan/Mo
 Mojolicious::Plugin::Fondation::Resolver  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
 Mojolicious::Plugin::Fondation::TestHelper  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
 Mojolicious::Plugin::Fondation::Utils  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
+Mojolicious::Plugin::Fondation::Workflow  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Workflow@0.01
+Mojolicious::Plugin::Fondation::Workflow::Proxy  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Workflow@0.01
+Mojolicious::Plugin::Fondation::Workflow::Schema::Result::Workflow  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Workflow@0.01
+Mojolicious::Plugin::Fondation::Workflow::Schema::Result::WorkflowHistory  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Workflow@0.01
+Mojolicious::Plugin::Fondation::Workflow::UI::Bootstrap  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Workflow-UI-Bootstrap@0.01
 Mojolicious::Plugin::FontAwesomeHelpers 0.001000  pkg:cpan/Mojolicious-Plugin-FontAwesomeHelpers@v0.1.0
 Mojolicious::Plugin::ForkCall      undef  pkg:cpan/Mojo-IOLoop-ForkCall@0.21
 Mojolicious::Plugin::ForkCart       0.03  pkg:cpan/Mojolicious-Plugin-ForkCart@0.03
@@ -204122,7 +204128,8 @@ RPerl::Test                        0.004  pkg:cpan/RPerl@7.000000
 RPi::ADC::ADS                       1.03  pkg:cpan/RPi-ADC-ADS@1.03
 RPi::ADC::MCP3008                  3.1801  pkg:cpan/RPi-ADC-MCP3008@3.1801
 RPi::BMP180                        3.1801  pkg:cpan/RPi-BMP180@3.1801
-RPi::Const                          1.06  pkg:cpan/RPi-Const@1.06
+RPi::Const                          1.07  pkg:cpan/RPi-Const@1.07
+RPi::Const::BuildCheck              1.07  pkg:cpan/RPi-Const@1.07
 RPi::DAC::MCP4922                  3.1801  pkg:cpan/RPi-DAC-MCP4922@3.1801
 RPi::DHT11                          1.05  pkg:cpan/RPi-DHT11@1.05
 RPi::DigiPot::MCP4XXXX             3.1801  pkg:cpan/RPi-DigiPot-MCP4XXXX@3.1801
@@ -216186,6 +216193,7 @@ Search::Tools::Tokenizer           1.007  pkg:cpan/Search-Tools@1.007
 Search::Tools::Transliterate       1.007  pkg:cpan/Search-Tools@1.007
 Search::Tools::UTF8                1.007  pkg:cpan/Search-Tools@1.007
 Search::Tools::XML                 1.007  pkg:cpan/Search-Tools@1.007
+Search::Trigram                     0.01  pkg:cpan/Search-Trigram@0.01
 Search::Typesense                   0.08  pkg:cpan/Search-Typesense@0.08
 Search::Typesense::Collection       0.08  pkg:cpan/Search-Typesense@0.08
 Search::Typesense::Document         0.08  pkg:cpan/Search-Typesense@0.08
@@ -235585,8 +235593,8 @@ Tk::CodeText::Theme                 0.40  pkg:cpan/Tk-CodeText@0.68
 Tk::CollapsableFrame                 1.2  pkg:cpan/Tk-CollapsableFrame@1.2
 Tk::ColorDialog                    4.014  pkg:cpan/Tk@804.036
 Tk::ColorEditor                    4.014  pkg:cpan/Tk@804.036
-Tk::ColorEntry                      0.11  pkg:cpan/Tk-ColorEntry@0.11
-Tk::ColorPicker                     0.10  pkg:cpan/Tk-ColorEntry@0.11
+Tk::ColorEntry                      0.12  pkg:cpan/Tk-ColorEntry@0.12
+Tk::ColorPicker                     0.12  pkg:cpan/Tk-ColorEntry@0.12
 Tk::ColorSelect                    4.014  pkg:cpan/Tk@804.036
 Tk::ColoredButton                   1.05  pkg:cpan/Tk-ColoredButton@1.05
 Tk::ColourChooser                   1.52  pkg:cpan/Tk-ColourChooser@1.52
@@ -235900,7 +235908,7 @@ Tk::Pod::Util                       5.05  pkg:cpan/Tk-Pod@0.9943
 Tk::PodSingle                       1.01  pkg:cpan/Tk-PodSingle@1.01
 Tk::PodViewer                       0.08  pkg:cpan/Tk-PodViewer@0.08
 Tk::PodViewer::Full                 0.03  pkg:cpan/Tk-PodViewer@0.08
-Tk::PopColor                        0.06  pkg:cpan/Tk-ColorEntry@0.11
+Tk::PopColor                        0.12  pkg:cpan/Tk-ColorEntry@0.12
 Tk::PopEntry                        0.06  pkg:cpan/Tk-PopEntry@0.06
 Tk::PopList                         0.14  pkg:cpan/Tk-PopList@0.14
 Tk::PopUpSelectBox                  0.01  pkg:cpan/Tk-MK@0.23
