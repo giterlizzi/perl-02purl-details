@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 12 Jul 2026 13:03:26 GMT
+Last-Updated: Sun, 12 Jul 2026 14:49:15 GMT
 Line-Count: 266026
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -255700,11 +255700,11 @@ WorkerManager::Gearman             0.1000  pkg:cpan/WorkerManager-Gearman@0.1000
 WorkerManager::TheSchwartz         undef  pkg:cpan/WorkerManager@0.1002
 WorkerManager::Worker::Gearman     undef  pkg:cpan/WorkerManager-Gearman@0.1000
 WorkerManager::Worker::TheSchwartz undef  pkg:cpan/WorkerManager@0.1002
-Workflow                            2.09  pkg:cpan/Workflow@2.09
-Workflow::Action                    2.09  pkg:cpan/Workflow@2.09
+Workflow                            2.10  pkg:cpan/Workflow@2.10
+Workflow::Action                    2.10  pkg:cpan/Workflow@2.10
 Workflow::Action::InputField        1.62  pkg:cpan/Workflow@1.62
 Workflow::Action::Mailer            1.62  pkg:cpan/Workflow@1.62
-Workflow::Action::Null              2.09  pkg:cpan/Workflow@2.09
+Workflow::Action::Null              2.10  pkg:cpan/Workflow@2.10
 Workflow::Aline                     0.04  pkg:cpan/Workflow-Aline@0.03
 Workflow::Aline::ConveyorBelt::Factory undef  pkg:cpan/Workflow-Aline@0.03
 Workflow::Aline::ConveyorBelt::Preliminary undef  pkg:cpan/Workflow-Aline@0.03
@@ -255730,47 +255730,47 @@ Workflow::Aline::Robot::Mkdir      undef  pkg:cpan/Workflow-Aline@0.03
 Workflow::Aline::Robot::Podchecker undef  pkg:cpan/Workflow-Aline@0.03
 Workflow::Aline::Robot::Skip       undef  pkg:cpan/Workflow-Aline@0.03
 Workflow::Aline::Robot::Template   undef  pkg:cpan/Workflow-Aline@0.03
-Workflow::Base                      2.09  pkg:cpan/Workflow@2.09
-Workflow::Condition                 2.09  pkg:cpan/Workflow@2.09
+Workflow::Base                      2.10  pkg:cpan/Workflow@2.10
+Workflow::Condition                 2.10  pkg:cpan/Workflow@2.10
 Workflow::Condition::CheckReturn    1.62  pkg:cpan/Workflow@1.62
-Workflow::Condition::Evaluate       2.09  pkg:cpan/Workflow@2.09
+Workflow::Condition::Evaluate       2.10  pkg:cpan/Workflow@2.10
 Workflow::Condition::GreedyOR       1.62  pkg:cpan/Workflow@1.62
-Workflow::Condition::HasUser        2.09  pkg:cpan/Workflow@2.09
-Workflow::Condition::IsFalse       undef  pkg:cpan/Workflow@2.09
-Workflow::Condition::IsTrue        undef  pkg:cpan/Workflow@2.09
-Workflow::Condition::LazyAND        2.09  pkg:cpan/Workflow@2.09
-Workflow::Condition::LazyOR         2.09  pkg:cpan/Workflow@2.09
-Workflow::Condition::Negated        2.09  pkg:cpan/Workflow@2.09
+Workflow::Condition::HasUser        2.10  pkg:cpan/Workflow@2.10
+Workflow::Condition::IsFalse       undef  pkg:cpan/Workflow@2.10
+Workflow::Condition::IsTrue        undef  pkg:cpan/Workflow@2.10
+Workflow::Condition::LazyAND        2.10  pkg:cpan/Workflow@2.10
+Workflow::Condition::LazyOR         2.10  pkg:cpan/Workflow@2.10
+Workflow::Condition::Negated        2.10  pkg:cpan/Workflow@2.10
 Workflow::Condition::Nested         1.62  pkg:cpan/Workflow@1.62
-Workflow::Condition::Result        undef  pkg:cpan/Workflow@2.09
-Workflow::Config                    2.09  pkg:cpan/Workflow@2.09
-Workflow::Config::Perl              2.09  pkg:cpan/Workflow@2.09
-Workflow::Config::XML               2.09  pkg:cpan/Workflow@2.09
-Workflow::Config::YAML              2.09  pkg:cpan/Workflow@2.09
-Workflow::Context                   2.09  pkg:cpan/Workflow@2.09
-Workflow::Exception                 2.09  pkg:cpan/Workflow@2.09
-Workflow::Factory                   2.09  pkg:cpan/Workflow@2.09
-Workflow::History                   2.09  pkg:cpan/Workflow@2.09
+Workflow::Condition::Result        undef  pkg:cpan/Workflow@2.10
+Workflow::Config                    2.10  pkg:cpan/Workflow@2.10
+Workflow::Config::Perl              2.10  pkg:cpan/Workflow@2.10
+Workflow::Config::XML               2.10  pkg:cpan/Workflow@2.10
+Workflow::Config::YAML              2.10  pkg:cpan/Workflow@2.10
+Workflow::Context                   2.10  pkg:cpan/Workflow@2.10
+Workflow::Exception                 2.10  pkg:cpan/Workflow@2.10
+Workflow::Factory                   2.10  pkg:cpan/Workflow@2.10
+Workflow::History                   2.10  pkg:cpan/Workflow@2.10
 Workflow::Inotify                  v1.0.7  pkg:cpan/Workflow-Inotify@1.0.7
 Workflow::Inotify::Handler         v1.0.7  pkg:cpan/Workflow-Inotify@1.0.7
-Workflow::InputField               undef  pkg:cpan/Workflow@2.09
+Workflow::InputField                2.10  pkg:cpan/Workflow@2.10
 Workflow::Lite                      0.08  pkg:cpan/Workflow-Lite@0.08
 Workflow::Lite::Registry           undef  pkg:cpan/Workflow-Lite@0.08
 Workflow::Lite::Role::Workflow     undef  pkg:cpan/Workflow-Lite@0.08
-Workflow::Persister                 2.09  pkg:cpan/Workflow@2.09
-Workflow::Persister::DBI            2.09  pkg:cpan/Workflow@2.09
-Workflow::Persister::DBI::AutoGeneratedId  2.09  pkg:cpan/Workflow@2.09
-Workflow::Persister::DBI::ExtraData  2.09  pkg:cpan/Workflow@2.09
-Workflow::Persister::DBI::SequenceId  2.09  pkg:cpan/Workflow@2.09
-Workflow::Persister::File           2.09  pkg:cpan/Workflow@2.09
-Workflow::Persister::RandomId       2.09  pkg:cpan/Workflow@2.09
+Workflow::Persister                 2.10  pkg:cpan/Workflow@2.10
+Workflow::Persister::DBI            2.10  pkg:cpan/Workflow@2.10
+Workflow::Persister::DBI::AutoGeneratedId  2.10  pkg:cpan/Workflow@2.10
+Workflow::Persister::DBI::ExtraData  2.10  pkg:cpan/Workflow@2.10
+Workflow::Persister::DBI::SequenceId  2.10  pkg:cpan/Workflow@2.10
+Workflow::Persister::File           2.10  pkg:cpan/Workflow@2.10
+Workflow::Persister::RandomId       2.10  pkg:cpan/Workflow@2.10
 Workflow::Persister::SPOPS          1.62  pkg:cpan/Workflow@1.62
-Workflow::Persister::UUID           2.09  pkg:cpan/Workflow@2.09
-Workflow::State                     2.09  pkg:cpan/Workflow@2.09
-Workflow::Validator                 2.09  pkg:cpan/Workflow@2.09
-Workflow::Validator::HasRequiredField  2.09  pkg:cpan/Workflow@2.09
-Workflow::Validator::InEnumeratedType  2.09  pkg:cpan/Workflow@2.09
-Workflow::Validator::MatchesDateFormat  2.09  pkg:cpan/Workflow@2.09
+Workflow::Persister::UUID           2.10  pkg:cpan/Workflow@2.10
+Workflow::State                     2.10  pkg:cpan/Workflow@2.10
+Workflow::Validator                 2.10  pkg:cpan/Workflow@2.10
+Workflow::Validator::HasRequiredField  2.10  pkg:cpan/Workflow@2.10
+Workflow::Validator::InEnumeratedType  2.10  pkg:cpan/Workflow@2.10
+Workflow::Validator::MatchesDateFormat  2.10  pkg:cpan/Workflow@2.10
 Workflow::Wfmc                      0.01  pkg:cpan/Workflow-Wfmc@0.01e
 Workflow::Wfmc::Test::Order        0.003003  pkg:cpan/Workflow-Wfmc@0.01e
 Workflow::XPDL                      0.40  pkg:cpan/Workflow-XPDL@0.40
