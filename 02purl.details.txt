@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 12 Jul 2026 06:27:21 GMT
-Line-Count: 266024
+Last-Updated: Sun, 12 Jul 2026 09:44:55 GMT
+Line-Count: 266026
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -139802,6 +139802,8 @@ Mojolicious::Plugin::Fondation::Action::Base  0.03  pkg:cpan/Mojolicious-Plugin-
 Mojolicious::Plugin::Fondation::Action::Controllers  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
 Mojolicious::Plugin::Fondation::Action::Static  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
 Mojolicious::Plugin::Fondation::Action::Templates  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
+Mojolicious::Plugin::Fondation::Asset  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Asset@0.02
+Mojolicious::Plugin::Fondation::Asset::Command::asset  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Asset@0.02
 Mojolicious::Plugin::Fondation::Command::fondation  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
 Mojolicious::Plugin::Fondation::Controller::Base  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
 Mojolicious::Plugin::Fondation::Controller::Debug  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
@@ -235629,7 +235631,7 @@ Tk::DockFrame::Base                 0.03  pkg:cpan/Tk-DKW@0.03
 Tk::DockFrame::Win32                0.03  pkg:cpan/Tk-DKW@0.03
 Tk::DockFrame::X11                  0.03  pkg:cpan/Tk-DKW@0.03
 Tk::DockPort                        0.03  pkg:cpan/Tk-DKW@0.03
-Tk::DocumentTree                    0.10  pkg:cpan/Tk-DocumentTree@0.10
+Tk::DocumentTree                    0.11  pkg:cpan/Tk-DocumentTree@0.11
 Tk::DoubleClick                     0.04  pkg:cpan/Tk-DoubleClick@0.04
 Tk::DragDrop                       4.015  pkg:cpan/Tk@804.036
 Tk::DragDrop::Common               4.005  pkg:cpan/Tk@804.036
