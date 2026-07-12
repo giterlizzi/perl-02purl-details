@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 12 Jul 2026 20:36:54 GMT
-Line-Count: 266043
+Last-Updated: Sun, 12 Jul 2026 22:39:53 GMT
+Line-Count: 266053
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -66982,10 +66982,10 @@ Dist::Milla                        1.000022  pkg:cpan/Dist-Milla@v1.0.22
 Dist::Milla::App                   1.000022  pkg:cpan/Dist-Milla@v1.0.22
 Dist::PolicyFiles                   0.09  pkg:cpan/Dist-PolicyFiles@0.09
 Dist::Setup                         0.17  pkg:cpan/Dist-Setup@0.17
-Dist::Surveyor                     0.022  pkg:cpan/Dist-Surveyor@0.022
-Dist::Surveyor::DB_File            0.022  pkg:cpan/Dist-Surveyor@0.022
-Dist::Surveyor::Inquiry            0.022  pkg:cpan/Dist-Surveyor@0.022
-Dist::Surveyor::MakeCpan           0.022  pkg:cpan/Dist-Surveyor@0.022
+Dist::Surveyor                     0.023  pkg:cpan/Dist-Surveyor@0.023
+Dist::Surveyor::DB_File            0.023  pkg:cpan/Dist-Surveyor@0.023
+Dist::Surveyor::Inquiry            0.023  pkg:cpan/Dist-Surveyor@0.023
+Dist::Surveyor::MakeCpan           0.023  pkg:cpan/Dist-Surveyor@0.023
 Dist::Util                         0.071  pkg:cpan/Dist-Util@0.071
 Dist::Util::Current                0.003  pkg:cpan/Dist-Util-Current@0.003
 Dist::Util::Debian                 0.007  pkg:cpan/Dist-Util-Debian@0.007
@@ -139365,6 +139365,16 @@ MojoX::Aliyun                       0.02  pkg:cpan/App-Aliyun@0.02
 MojoX::AlmostJSON                  1.151250  pkg:cpan/MojoX-AlmostJSON@1.151250
 MojoX::AlmostJSON::_Bool           1.151250  pkg:cpan/MojoX-AlmostJSON@1.151250
 MojoX::Auth::Simple                0.004002  pkg:cpan/MojoX-Auth-Simple@0.04.03
+MojoX::Authentication              0.001  pkg:cpan/MojoX-Authentication@0.001
+MojoX::Authentication::Model       0.001  pkg:cpan/MojoX-Authentication@0.001
+MojoX::Authentication::Model::Db   0.001  pkg:cpan/MojoX-Authentication@0.001
+MojoX::Authentication::Model::Hash 0.001  pkg:cpan/MojoX-Authentication@0.001
+MojoX::Authentication::Model::Role::Creator 0.001  pkg:cpan/MojoX-Authentication@0.001
+MojoX::Authentication::Model::Role::Local 0.001  pkg:cpan/MojoX-Authentication@0.001
+MojoX::Authentication::Model::Role::Remap 0.001  pkg:cpan/MojoX-Authentication@0.001
+MojoX::Authentication::Model::SAML2 0.001  pkg:cpan/MojoX-Authentication@0.001
+MojoX::Authentication::Model::SAML2::Db 0.001  pkg:cpan/MojoX-Authentication@0.001
+MojoX::Authentication::Model::SAML2::Hash 0.001  pkg:cpan/MojoX-Authentication@0.001
 MojoX::CPAN::Uploader              0.034  pkg:cpan/MojoX-CPAN-Uploader@0.034
 MojoX::CloudFlare::Simple           0.04  pkg:cpan/MojoX-CloudFlare-Simple@0.04
 MojoX::ConfigAppStart               1.06  pkg:cpan/MojoX-ConfigAppStart@1.06
@@ -146287,12 +146297,12 @@ Net::Async::Kubernetes             0.007  pkg:cpan/Net-Async-Kubernetes@0.007
 Net::Async::Kubernetes::Controller 0.007  pkg:cpan/Net-Async-Kubernetes@0.007
 Net::Async::Kubernetes::PortForwardSession 0.007  pkg:cpan/Net-Async-Kubernetes@0.007
 Net::Async::Kubernetes::Watcher    0.007  pkg:cpan/Net-Async-Kubernetes@0.007
-Net::Async::MCP                    0.002  pkg:cpan/Net-Async-MCP@0.002
+Net::Async::MCP                    0.003  pkg:cpan/Net-Async-MCP@0.003
 Net::Async::MCP::Server            0.001  pkg:cpan/Net-Async-MCP-Server@0.001
 Net::Async::MCP::Server::Transport::Stdio 0.001  pkg:cpan/Net-Async-MCP-Server@0.001
-Net::Async::MCP::Transport::HTTP   0.002  pkg:cpan/Net-Async-MCP@0.002
-Net::Async::MCP::Transport::InProcess 0.002  pkg:cpan/Net-Async-MCP@0.002
-Net::Async::MCP::Transport::Stdio  0.002  pkg:cpan/Net-Async-MCP@0.002
+Net::Async::MCP::Transport::HTTP   0.003  pkg:cpan/Net-Async-MCP@0.003
+Net::Async::MCP::Transport::InProcess 0.003  pkg:cpan/Net-Async-MCP@0.003
+Net::Async::MCP::Transport::Stdio  0.003  pkg:cpan/Net-Async-MCP@0.003
 Net::Async::MPD                    0.005  pkg:cpan/Net-Async-MPD@0.005
 Net::Async::Matrix                  0.19  pkg:cpan/Net-Async-Matrix@0.19
 Net::Async::Matrix::Room            0.19  pkg:cpan/Net-Async-Matrix@0.19
