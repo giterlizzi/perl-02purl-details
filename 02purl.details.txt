@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 12 Jul 2026 09:44:55 GMT
+Last-Updated: Sun, 12 Jul 2026 11:05:58 GMT
 Line-Count: 266026
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -114449,7 +114449,7 @@ Imager::File::PNG                  1.002  pkg:cpan/Imager-File-PNG@1.002
 Imager::File::QOI                  1.000  pkg:cpan/Imager-File-QOI@1.000
 Imager::File::SGI                   0.06  pkg:cpan/Imager@1.033
 Imager::File::TIFF                 1.005  pkg:cpan/Imager-File-TIFF@1.005
-Imager::File::WEBP                 0.005  pkg:cpan/Imager-File-WEBP@0.005
+Imager::File::WEBP                 0.006  pkg:cpan/Imager-File-WEBP@0.006
 Imager::Fill                       1.013  pkg:cpan/Imager@1.033
 Imager::Filter::Autocrop            1.23  pkg:cpan/Imager-Filter-Autocrop@1.23
 Imager::Filter::Bakumatsu           0.05  pkg:cpan/Imager-Filter-Bakumatsu@0.05
