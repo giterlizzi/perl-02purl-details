@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 12 Jul 2026 16:51:37 GMT
-Line-Count: 266034
+Last-Updated: Sun, 12 Jul 2026 18:55:36 GMT
+Line-Count: 266043
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -43108,6 +43108,8 @@ Chandra::Game::Tetris::Engine      undef  pkg:cpan/Chandra-Game-Tetris@0.04
 Chandra::Game::Tetris::Grid        undef  pkg:cpan/Chandra-Game-Tetris@0.04
 Chandra::HotReload                  0.29  pkg:cpan/Chandra@0.29
 Chandra::Log                        0.29  pkg:cpan/Chandra@0.29
+Chandra::Markdown                   0.01  pkg:cpan/Chandra-Markdown@0.01
+Chandra::Markdown::App              0.01  pkg:cpan/Chandra-Markdown@0.01
 Chandra::Modal                      0.29  pkg:cpan/Chandra@0.29
 Chandra::Nav                        0.29  pkg:cpan/Chandra@0.29
 Chandra::Notify                     0.29  pkg:cpan/Chandra@0.29
@@ -67001,7 +67003,7 @@ Dist::Zilla::App::Command::build   6.037  pkg:cpan/Dist-Zilla@6.037
 Dist::Zilla::App::Command::bundle  0.000010  pkg:cpan/Dist-Zilla-Plugin-Web@0.0.10
 Dist::Zilla::App::Command::chainsmoke  1.15  pkg:cpan/Dist-Zilla-TravisCI@1.15
 Dist::Zilla::App::Command::clean   6.037  pkg:cpan/Dist-Zilla@6.037
-Dist::Zilla::App::Command::codeberg 2.0100  pkg:cpan/Dist-Zilla-PluginBundle-Codeberg@2.0100
+Dist::Zilla::App::Command::codeberg 2.0101  pkg:cpan/Dist-Zilla-PluginBundle-Codeberg@2.0101
 Dist::Zilla::App::Command::configure_CSJEWELL 0.900  pkg:cpan/Dist-Zilla-BeLike-CSJEWELL@0.901
 Dist::Zilla::App::Command::cover   1.101001  pkg:cpan/Dist-Zilla-App-Command-cover@1.101001
 Dist::Zilla::App::Command::coverh  0.0101  pkg:cpan/Dist-Zilla-App-Command-coverh@0.0101
@@ -67105,7 +67107,7 @@ Dist::Zilla::MintingProfile::Default 6.037  pkg:cpan/Dist-Zilla@6.037
 Dist::Zilla::MintingProfile::DistIller::Basic 0.1411  pkg:cpan/Dist-Iller@0.1411
 Dist::Zilla::MintingProfile::FB11  0.018  pkg:cpan/Dist-Zilla-MintingProfile-FB11@0.018
 Dist::Zilla::MintingProfile::FFI    0.03  pkg:cpan/Dist-Zilla-MintingProfile-FFI@0.03
-Dist::Zilla::MintingProfile::GEEKRUTH 4.0000  pkg:cpan/Dist-Zilla-PluginBundle-GEEKRUTH@4.0000
+Dist::Zilla::MintingProfile::GEEKRUTH 4.0001  pkg:cpan/Dist-Zilla-PluginBundle-GEEKRUTH@4.0001
 Dist::Zilla::MintingProfile::IDOPEREL 1.001000  pkg:cpan/Dist-Zilla-PluginBundle-IDOPEREL@1.001000
 Dist::Zilla::MintingProfile::Iller::CSSON 0.0102  pkg:cpan/Dist-Zilla-MintingProfile-Iller-CSSON@0.0102
 Dist::Zilla::MintingProfile::JSAN   0.06  pkg:cpan/Dist-Zilla-Plugin-JSAN@0.06
@@ -67278,10 +67280,10 @@ Dist::Zilla::Plugin::Code::Releaser 0.008  pkg:cpan/Dist-Zilla-Plugin-Code@0.008
 Dist::Zilla::Plugin::Code::TestRunner 0.008  pkg:cpan/Dist-Zilla-Plugin-Code@0.008
 Dist::Zilla::Plugin::Code::VersionProvider 0.008  pkg:cpan/Dist-Zilla-Plugin-Code@0.008
 Dist::Zilla::Plugin::CodeOfConduct v0.1.1  pkg:cpan/Dist-Zilla-Plugin-CodeOfConduct@v0.1.1
-Dist::Zilla::Plugin::Codeberg      2.0100  pkg:cpan/Dist-Zilla-PluginBundle-Codeberg@2.0100
-Dist::Zilla::Plugin::Codeberg::Create 2.0100  pkg:cpan/Dist-Zilla-PluginBundle-Codeberg@2.0100
-Dist::Zilla::Plugin::Codeberg::Meta 2.0100  pkg:cpan/Dist-Zilla-PluginBundle-Codeberg@2.0100
-Dist::Zilla::Plugin::Codeberg::Update 2.0100  pkg:cpan/Dist-Zilla-PluginBundle-Codeberg@2.0100
+Dist::Zilla::Plugin::Codeberg      2.0101  pkg:cpan/Dist-Zilla-PluginBundle-Codeberg@2.0101
+Dist::Zilla::Plugin::Codeberg::Create 2.0101  pkg:cpan/Dist-Zilla-PluginBundle-Codeberg@2.0101
+Dist::Zilla::Plugin::Codeberg::Meta 2.0101  pkg:cpan/Dist-Zilla-PluginBundle-Codeberg@2.0101
+Dist::Zilla::Plugin::Codeberg::Update 2.0101  pkg:cpan/Dist-Zilla-PluginBundle-Codeberg@2.0101
 Dist::Zilla::Plugin::CoderwallEndorse v0.2.1  pkg:cpan/Dist-Zilla-Plugin-CoderwallEndorse@0.2.1
 Dist::Zilla::Plugin::ColorTheme    0.002  pkg:cpan/Dist-Zilla-Plugin-ColorTheme@0.002
 Dist::Zilla::Plugin::Comment        0.02  pkg:cpan/Dist-Zilla-Plugin-Comment@0.02
@@ -67980,7 +67982,7 @@ Dist::Zilla::PluginBundle::CJM      4.11  pkg:cpan/Dist-Zilla-PluginBundle-Autho
 Dist::Zilla::PluginBundle::CSJEWELL 0.900  pkg:cpan/Dist-Zilla-BeLike-CSJEWELL@0.901
 Dist::Zilla::PluginBundle::Classic 6.037  pkg:cpan/Dist-Zilla@6.037
 Dist::Zilla::PluginBundle::Code    0.008  pkg:cpan/Dist-Zilla-Plugin-Code@0.008
-Dist::Zilla::PluginBundle::Codeberg 2.0100  pkg:cpan/Dist-Zilla-PluginBundle-Codeberg@2.0100
+Dist::Zilla::PluginBundle::Codeberg 2.0101  pkg:cpan/Dist-Zilla-PluginBundle-Codeberg@2.0101
 Dist::Zilla::PluginBundle::ConfigSlicer 0.202  pkg:cpan/Dist-Zilla-Config-Slicer@0.202
 Dist::Zilla::PluginBundle::DAGOLDEN 0.079  pkg:cpan/Dist-Zilla-PluginBundle-DAGOLDEN@0.079
 Dist::Zilla::PluginBundle::DANIELP  1.04  pkg:cpan/Dist-Zilla-PluginBundle-DANIELP@1.04
@@ -67994,7 +67996,7 @@ Dist::Zilla::PluginBundle::FAYLAND  0.16  pkg:cpan/Dist-Zilla-PluginBundle-FAYLA
 Dist::Zilla::PluginBundle::FLORA    0.18  pkg:cpan/Dist-Zilla-PluginBundle-FLORA@0.18
 Dist::Zilla::PluginBundle::FakeClassic 6.037  pkg:cpan/Dist-Zilla@6.037
 Dist::Zilla::PluginBundle::Filter  6.037  pkg:cpan/Dist-Zilla@6.037
-Dist::Zilla::PluginBundle::GEEKRUTH 4.0000  pkg:cpan/Dist-Zilla-PluginBundle-GEEKRUTH@4.0000
+Dist::Zilla::PluginBundle::GEEKRUTH 4.0001  pkg:cpan/Dist-Zilla-PluginBundle-GEEKRUTH@4.0001
 Dist::Zilla::PluginBundle::GENEHACK   0.9  pkg:cpan/Dist-Zilla-PluginBundle-GENEHACK@0.9
 Dist::Zilla::PluginBundle::GPHAT    0.06  pkg:cpan/Dist-Zilla-PluginBundle-GPHAT@0.06
 Dist::Zilla::PluginBundle::GRS      0.08  pkg:cpan/Dist-Zilla-PluginBundle-GRS@0.08
@@ -139796,29 +139798,36 @@ Mojolicious::Plugin::Facets         0.07  pkg:cpan/Mojolicious-Plugin-Facets@0.0
 Mojolicious::Plugin::FeedReader     0.21  pkg:cpan/Mojo-Feed@0.21
 Mojolicious::Plugin::FillInFormLite  0.02  pkg:cpan/Mojolicious-Plugin-FillInFormLite@0.02
 Mojolicious::Plugin::Foil          0.006  pkg:cpan/Mojolicious-Plugin-Foil@0.006
-Mojolicious::Plugin::Fondation      0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
-Mojolicious::Plugin::Fondation::API  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
-Mojolicious::Plugin::Fondation::Action::Base  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
-Mojolicious::Plugin::Fondation::Action::Controllers  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
-Mojolicious::Plugin::Fondation::Action::Static  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
-Mojolicious::Plugin::Fondation::Action::Templates  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
+Mojolicious::Plugin::Fondation      0.04  pkg:cpan/Mojolicious-Plugin-Fondation@0.04
+Mojolicious::Plugin::Fondation::API  0.04  pkg:cpan/Mojolicious-Plugin-Fondation@0.04
+Mojolicious::Plugin::Fondation::Action::Base  0.04  pkg:cpan/Mojolicious-Plugin-Fondation@0.04
+Mojolicious::Plugin::Fondation::Action::Controllers  0.04  pkg:cpan/Mojolicious-Plugin-Fondation@0.04
+Mojolicious::Plugin::Fondation::Action::Static  0.04  pkg:cpan/Mojolicious-Plugin-Fondation@0.04
+Mojolicious::Plugin::Fondation::Action::Templates  0.04  pkg:cpan/Mojolicious-Plugin-Fondation@0.04
 Mojolicious::Plugin::Fondation::Asset  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Asset@0.02
 Mojolicious::Plugin::Fondation::Asset::Command::asset  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Asset@0.02
-Mojolicious::Plugin::Fondation::Command::fondation  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
-Mojolicious::Plugin::Fondation::Controller::Base  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
+Mojolicious::Plugin::Fondation::Command::fondation  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.04
+Mojolicious::Plugin::Fondation::Controller::Base  0.04  pkg:cpan/Mojolicious-Plugin-Fondation@0.04
 Mojolicious::Plugin::Fondation::Controller::Debug  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
-Mojolicious::Plugin::Fondation::Controller::Welcome  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
-Mojolicious::Plugin::Fondation::Helpers  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
-Mojolicious::Plugin::Fondation::Layout::Bootstrap  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Layout-Bootstrap@0.01
-Mojolicious::Plugin::Fondation::Manager  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
+Mojolicious::Plugin::Fondation::Controller::Welcome  0.04  pkg:cpan/Mojolicious-Plugin-Fondation@0.04
+Mojolicious::Plugin::Fondation::Helpers  0.04  pkg:cpan/Mojolicious-Plugin-Fondation@0.04
+Mojolicious::Plugin::Fondation::Layout::Bootstrap  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Layout-Bootstrap@0.03
+Mojolicious::Plugin::Fondation::Manager  0.04  pkg:cpan/Mojolicious-Plugin-Fondation@0.04
 Mojolicious::Plugin::Fondation::MigrationDBIx  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-MigrationDBIx@0.02
 Mojolicious::Plugin::Fondation::MigrationDBIx::Command::db  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-MigrationDBIx@0.02
 Mojolicious::Plugin::Fondation::Model::DBIx::Async  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Model-DBIx-Async@0.03
 Mojolicious::Plugin::Fondation::Model::DBIx::Async::Action::DBIx  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Model-DBIx-Async@0.03
 Mojolicious::Plugin::Fondation::Model::DBIx::Async::ResultSet  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Model-DBIx-Async@0.03
-Mojolicious::Plugin::Fondation::Resolver  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
-Mojolicious::Plugin::Fondation::TestHelper  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
-Mojolicious::Plugin::Fondation::Utils  0.03  pkg:cpan/Mojolicious-Plugin-Fondation@0.03
+Mojolicious::Plugin::Fondation::Resolver  0.04  pkg:cpan/Mojolicious-Plugin-Fondation@0.04
+Mojolicious::Plugin::Fondation::Setup  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Setup@0.02
+Mojolicious::Plugin::Fondation::Setup::Controller::Setup  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Setup@0.02
+Mojolicious::Plugin::Fondation::Setup::MetaCPAN  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Setup@0.02
+Mojolicious::Plugin::Fondation::TestHelper  0.04  pkg:cpan/Mojolicious-Plugin-Fondation@0.04
+Mojolicious::Plugin::Fondation::User  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-User@0.01
+Mojolicious::Plugin::Fondation::User::Controller::User  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-User@0.01
+Mojolicious::Plugin::Fondation::User::Schema::Result::User  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-User@0.01
+Mojolicious::Plugin::Fondation::User::Schema::ResultSet::User  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-User@0.01
+Mojolicious::Plugin::Fondation::Utils  0.04  pkg:cpan/Mojolicious-Plugin-Fondation@0.04
 Mojolicious::Plugin::Fondation::Workflow  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Workflow@0.01
 Mojolicious::Plugin::Fondation::Workflow::Proxy  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Workflow@0.01
 Mojolicious::Plugin::Fondation::Workflow::Schema::Result::Workflow  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Workflow@0.01
@@ -143690,7 +143699,7 @@ Music::Tension::Counterpoint        1.03  pkg:cpan/Music-Tension@1.03
 Music::Tension::PlompLevelt         1.03  pkg:cpan/Music-Tension@1.03
 Music::ToRoman                     0.2002  pkg:cpan/Music-ToRoman@0.2002
 Music::VoiceGen                     0.02  pkg:cpan/Music-VoiceGen@0.02
-Music::VoicePhrase                 0.0118  pkg:cpan/Music-VoicePhrase@0.0118
+Music::VoicePhrase                 0.0119  pkg:cpan/Music-VoicePhrase@0.0119
 Music::Voss                         0.16  pkg:cpan/Music-Voss@0.16
 MusicBase                          0.001  pkg:cpan/DBIx-Class-Migration@0.044
 MusicBase::Schema                      3  pkg:cpan/DBIx-Class-Migration@0.044
@@ -238801,7 +238810,7 @@ USConSchema::UnIndexedField        undef  pkg:cpan/KSx-IndexManager@0.004
 USDataCenter                       undef  pkg:cpan/ZZZ-SDK@0.0.2
 USPS::RateRequest                  1.0004  pkg:cpan/USPS-RateRequest@1.0004
 UTF2                                1.22  pkg:cpan/UTF2@1.22
-UTF8::R2                            0.30  pkg:cpan/UTF8-R2@0.30
+UTF8::R2                            0.31  pkg:cpan/UTF8-R2@0.31
 UTF_8                              undef  pkg:cpan/Squatting@0.83
 UTF_8::Controllers                 undef  pkg:cpan/Squatting@0.83
 UTF_8::Views                       undef  pkg:cpan/Squatting@0.83
@@ -260204,7 +260213,7 @@ YAMLScript::Runtime                undef  pkg:cpan/YAMLScript@0.0.5
 YAMLScript::Str                    undef  pkg:cpan/YAMLScript@0.0.16
 YAMLScript::Test                   undef  pkg:cpan/YAMLScript-Lingy@0.2.1
 YAMLScript::Util                   undef  pkg:cpan/YAMLScript@0.0.16
-YAMLStar                           0.001012  pkg:cpan/YAMLStar@0.1.12
+YAMLStar                           0.001014  pkg:cpan/YAMLStar@0.1.14
 YAMLTest                           0.001000  pkg:cpan/YAMLTest@0.1.0
 YANG                                0.02  pkg:cpan/YANG@0.02
 YAOO                                0.10  pkg:cpan/YAOO@0.10
