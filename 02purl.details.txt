@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 13 Jul 2026 19:15:48 GMT
-Line-Count: 266072
+Last-Updated: Mon, 13 Jul 2026 20:51:59 GMT
+Line-Count: 266079
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -32915,15 +32915,15 @@ CLI::Popt                           0.01  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X                       undef  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X::BadOption            undef  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X::Base                 undef  pkg:cpan/CLI-Popt@0.01
-CLI::Simple                        v2.0.13  pkg:cpan/CLI-Simple@2.0.13
-CLI::Simple::Constants             v2.0.13  pkg:cpan/CLI-Simple@2.0.13
-CLI::Simple::DumpSpec                  0  pkg:cpan/CLI-Simple@2.0.13
-CLI::Simple::Helpers                   0  pkg:cpan/CLI-Simple@2.0.13
-CLI::Simple::Migrate                   0  pkg:cpan/CLI-Simple@2.0.13
-CLI::Simple::Modulino                  0  pkg:cpan/CLI-Simple@2.0.13
-CLI::Simple::Scaffold                  0  pkg:cpan/CLI-Simple@2.0.13
-CLI::Simple::Shell                     0  pkg:cpan/CLI-Simple@2.0.13
-CLI::Simple::Utils                 v2.0.13  pkg:cpan/CLI-Simple@2.0.13
+CLI::Simple                        v2.0.14  pkg:cpan/CLI-Simple@2.0.14
+CLI::Simple::Constants             v2.0.14  pkg:cpan/CLI-Simple@2.0.14
+CLI::Simple::DumpSpec                  0  pkg:cpan/CLI-Simple@2.0.14
+CLI::Simple::Helpers                   0  pkg:cpan/CLI-Simple@2.0.14
+CLI::Simple::Migrate                   0  pkg:cpan/CLI-Simple@2.0.14
+CLI::Simple::Modulino                  0  pkg:cpan/CLI-Simple@2.0.14
+CLI::Simple::Scaffold                  0  pkg:cpan/CLI-Simple@2.0.14
+CLI::Simple::Shell                     0  pkg:cpan/CLI-Simple@2.0.14
+CLI::Simple::Utils                 v2.0.14  pkg:cpan/CLI-Simple@2.0.14
 CLI::Startup                        0.29  pkg:cpan/CLI-Startup@0.29
 CLI::Table::Key::Finder             0.31  pkg:cpan/CLI-Table-Key-Finder@0.31
 CLI::Table::Util                    0.06  pkg:cpan/CLI-Table-Util@0.06
@@ -33428,18 +33428,18 @@ CPAN::Local::Role::MetaCPAN::API   0.001  pkg:cpan/CPAN-Local-Role-MetaCPAN-API@
 CPAN::Local::Role::Prune           0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Local::Role::Remove          0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Maker                        v2.0.1  pkg:cpan/CPAN-Maker@2.0.1
-CPAN::Maker::Bootstrapper          v2.0.4  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
-CPAN::Maker::Bootstrapper::ConfigReader     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
-CPAN::Maker::Bootstrapper::Constants     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
-CPAN::Maker::Bootstrapper::Role::CreateConfig     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
-CPAN::Maker::Bootstrapper::Role::Init     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
-CPAN::Maker::Bootstrapper::Role::Installer     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
-CPAN::Maker::Bootstrapper::Role::LLM::Annotator     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
-CPAN::Maker::Bootstrapper::Role::LLM::Models     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
-CPAN::Maker::Bootstrapper::Role::LLM::ReleaseNotes     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
-CPAN::Maker::Bootstrapper::Role::LLM::Reviewer     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
-CPAN::Maker::Bootstrapper::Role::LLM::Utils     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
-CPAN::Maker::Bootstrapper::Role::ScaffoldImporter     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
+CPAN::Maker::Bootstrapper          v2.0.6  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
+CPAN::Maker::Bootstrapper::ConfigReader     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
+CPAN::Maker::Bootstrapper::Constants     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
+CPAN::Maker::Bootstrapper::Role::CreateConfig     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
+CPAN::Maker::Bootstrapper::Role::Init     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
+CPAN::Maker::Bootstrapper::Role::Installer     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
+CPAN::Maker::Bootstrapper::Role::LLM::Annotator     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
+CPAN::Maker::Bootstrapper::Role::LLM::Models     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
+CPAN::Maker::Bootstrapper::Role::LLM::ReleaseNotes     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
+CPAN::Maker::Bootstrapper::Role::LLM::Reviewer     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
+CPAN::Maker::Bootstrapper::Role::LLM::Utils     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
+CPAN::Maker::Bootstrapper::Role::ScaffoldImporter     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
 CPAN::Maker::Constants             v2.0.1  pkg:cpan/CPAN-Maker@2.0.1
 CPAN::Maker::Role::FileUtils       v2.0.1  pkg:cpan/CPAN-Maker@2.0.1
 CPAN::Maker::Role::ModuleUtils     v2.0.1  pkg:cpan/CPAN-Maker@2.0.1
@@ -67776,7 +67776,7 @@ Dist::Zilla::Plugin::TaskWeaver    0.101629  pkg:cpan/Dist-Zilla-Plugin-TaskWeav
 Dist::Zilla::Plugin::TemplateCJM   5.001  pkg:cpan/Dist-Zilla-Plugin-TemplateCJM@5.001
 Dist::Zilla::Plugin::TemplateFiles  0.03  pkg:cpan/Dist-Zilla-Plugin-TemplateFiles@0.03
 Dist::Zilla::Plugin::TemplateModule 6.037  pkg:cpan/Dist-Zilla@6.037
-Dist::Zilla::Plugin::TemplateXS    0.005  pkg:cpan/Dist-Zilla-Plugin-TemplateXS@0.005
+Dist::Zilla::Plugin::TemplateXS    0.006  pkg:cpan/Dist-Zilla-Plugin-TemplateXS@0.006
 Dist::Zilla::Plugin::Templates     v0.6.5  pkg:cpan/Dist-Zilla-Plugin-Templates@v0.6.5
 Dist::Zilla::Plugin::Templates::File v0.6.5  pkg:cpan/Dist-Zilla-Plugin-Templates@v0.6.5
 Dist::Zilla::Plugin::Test::CPAN::Changes 0.013  pkg:cpan/Dist-Zilla-Plugin-Test-CPAN-Changes@0.013
@@ -83712,7 +83712,7 @@ Git::Release::BranchManager        undef  pkg:cpan/Git-Release@0.05
 Git::Release::Config               undef  pkg:cpan/Git-Release@0.05
 Git::Release::Remote               undef  pkg:cpan/Git-Release@0.05
 Git::Release::RemoteManager        undef  pkg:cpan/Git-Release@0.05
-Git::ReleaseDiffs                      0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.4
+Git::ReleaseDiffs                      0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
 Git::ReleaseRepo                   0.006  pkg:cpan/Git-ReleaseRepo@0.006
 Git::ReleaseRepo::Command          0.006  pkg:cpan/Git-ReleaseRepo@0.006
 Git::ReleaseRepo::Command::add     0.006  pkg:cpan/Git-ReleaseRepo@0.006
@@ -116167,7 +116167,7 @@ Jabber::SimpleSend                  0.03  pkg:cpan/Jabber-SimpleSend@0.03
 Jabber::mod_perl                    0.15  pkg:cpan/Jabber-mod_perl@0.15
 Jacode                             2.13.4.35  pkg:cpan/Jacode@2.13.4.35
 Jacode4e                           2.13.6.22  pkg:cpan/Jacode4e@2.13.6.22
-Jacode4e::RoundTrip                2.13.81.16  pkg:cpan/Jacode4e-RoundTrip@2.13.81.16
+Jacode4e::RoundTrip                2.13.81.17  pkg:cpan/Jacode4e-RoundTrip@2.13.81.17
 Jail                                 0.8  pkg:cpan/Jail@0.8
 Jaipo                               0.23  pkg:cpan/Jaipo@0.23
 Jaipo::Config                      undef  pkg:cpan/Jaipo@0.23
@@ -139374,16 +139374,16 @@ MojoX::Aliyun                       0.02  pkg:cpan/App-Aliyun@0.02
 MojoX::AlmostJSON                  1.151250  pkg:cpan/MojoX-AlmostJSON@1.151250
 MojoX::AlmostJSON::_Bool           1.151250  pkg:cpan/MojoX-AlmostJSON@1.151250
 MojoX::Auth::Simple                0.004002  pkg:cpan/MojoX-Auth-Simple@0.04.03
-MojoX::Authentication              0.001  pkg:cpan/MojoX-Authentication@0.001
-MojoX::Authentication::Model       0.001  pkg:cpan/MojoX-Authentication@0.001
-MojoX::Authentication::Model::Db   0.001  pkg:cpan/MojoX-Authentication@0.001
-MojoX::Authentication::Model::Hash 0.001  pkg:cpan/MojoX-Authentication@0.001
-MojoX::Authentication::Model::Role::Creator 0.001  pkg:cpan/MojoX-Authentication@0.001
-MojoX::Authentication::Model::Role::Local 0.001  pkg:cpan/MojoX-Authentication@0.001
-MojoX::Authentication::Model::Role::Remap 0.001  pkg:cpan/MojoX-Authentication@0.001
-MojoX::Authentication::Model::SAML2 0.001  pkg:cpan/MojoX-Authentication@0.001
-MojoX::Authentication::Model::SAML2::Db 0.001  pkg:cpan/MojoX-Authentication@0.001
-MojoX::Authentication::Model::SAML2::Hash 0.001  pkg:cpan/MojoX-Authentication@0.001
+MojoX::Authentication              0.002  pkg:cpan/MojoX-Authentication@0.002
+MojoX::Authentication::Model       0.002  pkg:cpan/MojoX-Authentication@0.002
+MojoX::Authentication::Model::Db   0.002  pkg:cpan/MojoX-Authentication@0.002
+MojoX::Authentication::Model::Hash 0.002  pkg:cpan/MojoX-Authentication@0.002
+MojoX::Authentication::Model::Role::Creator 0.002  pkg:cpan/MojoX-Authentication@0.002
+MojoX::Authentication::Model::Role::Local 0.002  pkg:cpan/MojoX-Authentication@0.002
+MojoX::Authentication::Model::Role::Remap 0.002  pkg:cpan/MojoX-Authentication@0.002
+MojoX::Authentication::Model::SAML2 0.002  pkg:cpan/MojoX-Authentication@0.002
+MojoX::Authentication::Model::SAML2::Db 0.002  pkg:cpan/MojoX-Authentication@0.002
+MojoX::Authentication::Model::SAML2::Hash 0.002  pkg:cpan/MojoX-Authentication@0.002
 MojoX::CPAN::Uploader              0.034  pkg:cpan/MojoX-CPAN-Uploader@0.034
 MojoX::CloudFlare::Simple           0.04  pkg:cpan/MojoX-CloudFlare-Simple@0.04
 MojoX::ConfigAppStart               1.06  pkg:cpan/MojoX-ConfigAppStart@1.06
@@ -139823,8 +139823,8 @@ Mojolicious::Plugin::Fondation::Action::Base  0.05  pkg:cpan/Mojolicious-Plugin-
 Mojolicious::Plugin::Fondation::Action::Controllers  0.05  pkg:cpan/Mojolicious-Plugin-Fondation@0.05
 Mojolicious::Plugin::Fondation::Action::Static  0.05  pkg:cpan/Mojolicious-Plugin-Fondation@0.05
 Mojolicious::Plugin::Fondation::Action::Templates  0.05  pkg:cpan/Mojolicious-Plugin-Fondation@0.05
-Mojolicious::Plugin::Fondation::Asset  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Asset@0.02
-Mojolicious::Plugin::Fondation::Asset::Command::asset  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Asset@0.02
+Mojolicious::Plugin::Fondation::Asset  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Asset@0.03
+Mojolicious::Plugin::Fondation::Asset::Command::asset  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Asset@0.03
 Mojolicious::Plugin::Fondation::Command::fondation  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.05
 Mojolicious::Plugin::Fondation::Controller::Base  0.05  pkg:cpan/Mojolicious-Plugin-Fondation@0.05
 Mojolicious::Plugin::Fondation::Controller::Debug  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
@@ -139832,8 +139832,8 @@ Mojolicious::Plugin::Fondation::Controller::Welcome  0.05  pkg:cpan/Mojolicious-
 Mojolicious::Plugin::Fondation::Helpers  0.05  pkg:cpan/Mojolicious-Plugin-Fondation@0.05
 Mojolicious::Plugin::Fondation::Layout::Bootstrap  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Layout-Bootstrap@0.03
 Mojolicious::Plugin::Fondation::Manager  0.05  pkg:cpan/Mojolicious-Plugin-Fondation@0.05
-Mojolicious::Plugin::Fondation::MigrationDBIx  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-MigrationDBIx@0.02
-Mojolicious::Plugin::Fondation::MigrationDBIx::Command::db  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-MigrationDBIx@0.02
+Mojolicious::Plugin::Fondation::MigrationDBIx  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-MigrationDBIx@0.03
+Mojolicious::Plugin::Fondation::MigrationDBIx::Command::db  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-MigrationDBIx@0.03
 Mojolicious::Plugin::Fondation::Model::DBIx::Async  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Model-DBIx-Async@0.03
 Mojolicious::Plugin::Fondation::Model::DBIx::Async::Action::DBIx  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Model-DBIx-Async@0.03
 Mojolicious::Plugin::Fondation::Model::DBIx::Async::ResultSet  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Model-DBIx-Async@0.03
@@ -146861,11 +146861,18 @@ Net::Blossom::Response             undef  pkg:cpan/Net-Blossom@0.001001
 Net::Blossom::Server               0.001002  pkg:cpan/Net-Blossom-Server@0.001002
 Net::Blossom::Server::Authorization undef  pkg:cpan/Net-Blossom-Server@0.001002
 Net::Blossom::Server::AuthorizationResult undef  pkg:cpan/Net-Blossom-Server@0.001002
-Net::Blossom::Server::Backend::Postgres 0.001001  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001001
+Net::Blossom::Server::Backend::Postgres 0.001002  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001002
+Net::Blossom::Server::Backend::Postgres::BlobStore undef  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001002
+Net::Blossom::Server::Backend::Postgres::BlobStore::_Stream undef  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001002
+Net::Blossom::Server::Backend::Postgres::BlobStore::_Upload undef  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001002
+Net::Blossom::Server::Backend::Postgres::MetadataStore undef  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001002
 Net::Blossom::Server::Backend::Postgres::_Stream 0.001001  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001001
-Net::Blossom::Server::Backend::Postgres::_Upload 0.001001  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001001
-Net::Blossom::Server::Backend::SQLite 0.001001  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001001
-Net::Blossom::Server::Backend::SQLite::_Upload 0.001001  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001001
+Net::Blossom::Server::Backend::Postgres::_Upload 0.001002  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001002
+Net::Blossom::Server::Backend::SQLite 0.001002  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001002
+Net::Blossom::Server::Backend::SQLite::BlobStore undef  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001002
+Net::Blossom::Server::Backend::SQLite::BlobStore::_Upload undef  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001002
+Net::Blossom::Server::Backend::SQLite::MetadataStore undef  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001002
+Net::Blossom::Server::Backend::SQLite::_Upload 0.001002  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001002
 Net::Blossom::Server::BlobResult   undef  pkg:cpan/Net-Blossom-Server@0.001002
 Net::Blossom::Server::BlobStore    undef  pkg:cpan/Net-Blossom-Server@0.001002
 Net::Blossom::Server::Error        undef  pkg:cpan/Net-Blossom-Server@0.001002
@@ -239262,7 +239269,7 @@ Unicode::Transliterate              0.03  pkg:cpan/Unicode-Transliterate@0.3?ext
 Unicode::Truncate                  0.303  pkg:cpan/Unicode-Truncate@0.303
 Unicode::Tussle                    1.122  pkg:cpan/Unicode-Tussle@1.122
 Unicode::UCD                        0.81  pkg:cpan/perl@5.42.2
-Unicode::UTF8                       0.72  pkg:cpan/Unicode-UTF8@0.72
+Unicode::UTF8                       0.74  pkg:cpan/Unicode-UTF8@0.74
 Unicode::UTF8simple                 1.06  pkg:cpan/Unicode-UTF8simple@1.06
 Unicode::Unihan                    0.046  pkg:cpan/Unicode-Unihan@0.046
 Unicode::Util                       0.10  pkg:cpan/Unicode-Util@0.10
