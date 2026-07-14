@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 13 Jul 2026 22:49:24 GMT
+Last-Updated: Tue, 14 Jul 2026 01:51:28 GMT
 Line-Count: 266079
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -22239,12 +22239,12 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         0.018007  pkg:cpan/BarefootJS@0.18.7
-BarefootJS::Backend::Mojo          0.018007  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.18.7
-BarefootJS::Backend::Xslate        0.018007  pkg:cpan/BarefootJS-Backend-Xslate@0.18.7
-BarefootJS::DevReload              0.018007  pkg:cpan/BarefootJS@0.18.7
-BarefootJS::Evaluator              0.014000  pkg:cpan/BarefootJS@0.18.7
-BarefootJS::SearchParams           0.014000  pkg:cpan/BarefootJS@0.18.7
+BarefootJS                         0.019000  pkg:cpan/BarefootJS@0.19.0
+BarefootJS::Backend::Mojo          0.019000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.19.0
+BarefootJS::Backend::Xslate        0.019000  pkg:cpan/BarefootJS-Backend-Xslate@0.19.0
+BarefootJS::DevReload              0.019000  pkg:cpan/BarefootJS@0.19.0
+BarefootJS::Evaluator              0.014000  pkg:cpan/BarefootJS@0.19.0
+BarefootJS::SearchParams           0.014000  pkg:cpan/BarefootJS@0.19.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
 Baseball::Sabermetrics              0.03  pkg:cpan/Baseball-Sabermetrics@0.03
@@ -66690,7 +66690,7 @@ Digest::combined                     0.1  pkg:cpan/Digest-combined@0.1
 Digest::file                        1.20  pkg:cpan/Digest@1.20
 Digest::prvhash64                  0.001002  pkg:cpan/Digest-prvhash64@0.1.2
 Digest::ssdeep                     0.009003  pkg:cpan/Digest-ssdeep@0.9.3
-Digest::xxHash                      2.04  pkg:cpan/Digest-xxHash@2.04
+Digest::xxHash                      3.00  pkg:cpan/Digest-xxHash@3.00
 Digital                            0.003  pkg:cpan/Digital@0.003
 Digital::Driver                    0.003  pkg:cpan/Digital@0.003
 Digital::Role                      0.003  pkg:cpan/Digital@0.003
@@ -70418,7 +70418,7 @@ Email::Abstract::MailInternet      3.010  pkg:cpan/Email-Abstract@3.010
 Email::Abstract::MailMessage       3.010  pkg:cpan/Email-Abstract@3.010
 Email::Abstract::Plugin            3.010  pkg:cpan/Email-Abstract@3.010
 Email::Abstract::QpsmtpdTransaction  0.02  pkg:cpan/Email-Abstract-QpsmtpdTransaction@0.02
-Email::Abuse::Investigator          0.12  pkg:cpan/Email-Abuse-Investigator@0.12
+Email::Abuse::Investigator          0.13  pkg:cpan/Email-Abuse-Investigator@0.13
 Email::Address                     1.913  pkg:cpan/Email-Address@1.913
 Email::Address::Classify            0.02  pkg:cpan/Email-Address-Classify@0.02
 Email::Address::JP::Mobile          0.08  pkg:cpan/Email-Address-JP-Mobile@0.08
@@ -139673,8 +139673,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    0.018007  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.18.7
-Mojolicious::Plugin::BarefootJS::DevReload 0.018007  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.18.7
+Mojolicious::Plugin::BarefootJS    0.019000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.19.0
+Mojolicious::Plugin::BarefootJS::DevReload 0.019000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.19.0
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
