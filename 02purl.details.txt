@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 14 Jul 2026 01:51:28 GMT
+Last-Updated: Tue, 14 Jul 2026 04:45:14 GMT
 Line-Count: 266079
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -31410,24 +31410,24 @@ CBI::Wrapper::Flow                 undef  pkg:cpan/CBI-Wrapper@0.02
 CBI::Wrapper::RIBA                 undef  pkg:cpan/CBI-Wrapper@0.02
 CBI::Wrapper::Record               undef  pkg:cpan/CBI-Wrapper@0.02
 CBI::Wrapper::RecordMapping        undef  pkg:cpan/CBI-Wrapper@0.02
-CBOR::Free                          0.33  pkg:cpan/CBOR-Free@0.33
-CBOR::Free::AddOne                 undef  pkg:cpan/CBOR-Free@0.33
-CBOR::Free::Decoder                undef  pkg:cpan/CBOR-Free@0.33
-CBOR::Free::Decoder::Base          undef  pkg:cpan/CBOR-Free@0.33
-CBOR::Free::SequenceDecoder        undef  pkg:cpan/CBOR-Free@0.33
-CBOR::Free::Tagged                 undef  pkg:cpan/CBOR-Free@0.33
-CBOR::Free::X                      undef  pkg:cpan/CBOR-Free@0.33
-CBOR::Free::X::Base                undef  pkg:cpan/CBOR-Free@0.33
-CBOR::Free::X::CannotDecode64Bit   undef  pkg:cpan/CBOR-Free@0.33
-CBOR::Free::X::DuplicateMapKey     undef  pkg:cpan/CBOR-Free@0.33
-CBOR::Free::X::Incomplete          undef  pkg:cpan/CBOR-Free@0.33
-CBOR::Free::X::InvalidControl      undef  pkg:cpan/CBOR-Free@0.33
-CBOR::Free::X::InvalidMapKey       undef  pkg:cpan/CBOR-Free@0.33
-CBOR::Free::X::InvalidUTF8         undef  pkg:cpan/CBOR-Free@0.33
-CBOR::Free::X::NegativeIntTooLow   undef  pkg:cpan/CBOR-Free@0.33
-CBOR::Free::X::Recursion           undef  pkg:cpan/CBOR-Free@0.33
-CBOR::Free::X::Unrecognized        undef  pkg:cpan/CBOR-Free@0.33
-CBOR::Free::X::WideCharacter       undef  pkg:cpan/CBOR-Free@0.33
+CBOR::Free                          0.34  pkg:cpan/CBOR-Free@0.34
+CBOR::Free::AddOne                 undef  pkg:cpan/CBOR-Free@0.34
+CBOR::Free::Decoder                undef  pkg:cpan/CBOR-Free@0.34
+CBOR::Free::Decoder::Base          undef  pkg:cpan/CBOR-Free@0.34
+CBOR::Free::SequenceDecoder        undef  pkg:cpan/CBOR-Free@0.34
+CBOR::Free::Tagged                 undef  pkg:cpan/CBOR-Free@0.34
+CBOR::Free::X                      undef  pkg:cpan/CBOR-Free@0.34
+CBOR::Free::X::Base                undef  pkg:cpan/CBOR-Free@0.34
+CBOR::Free::X::CannotDecode64Bit   undef  pkg:cpan/CBOR-Free@0.34
+CBOR::Free::X::DuplicateMapKey     undef  pkg:cpan/CBOR-Free@0.34
+CBOR::Free::X::Incomplete          undef  pkg:cpan/CBOR-Free@0.34
+CBOR::Free::X::InvalidControl      undef  pkg:cpan/CBOR-Free@0.34
+CBOR::Free::X::InvalidMapKey       undef  pkg:cpan/CBOR-Free@0.34
+CBOR::Free::X::InvalidUTF8         undef  pkg:cpan/CBOR-Free@0.34
+CBOR::Free::X::NegativeIntTooLow   undef  pkg:cpan/CBOR-Free@0.34
+CBOR::Free::X::Recursion           undef  pkg:cpan/CBOR-Free@0.34
+CBOR::Free::X::Unrecognized        undef  pkg:cpan/CBOR-Free@0.34
+CBOR::Free::X::WideCharacter       undef  pkg:cpan/CBOR-Free@0.34
 CBOR::PP                            0.05  pkg:cpan/CBOR-PP@0.05
 CBOR::PP::Decode                   undef  pkg:cpan/CBOR-PP@0.05
 CBOR::PP::Encode                   undef  pkg:cpan/CBOR-PP@0.05
@@ -247255,7 +247255,7 @@ WWW::PagerDuty                       0.2  pkg:cpan/WWW-PagerDuty@0.2
 WWW::Pastebin::Base::Retrieve      0.003  pkg:cpan/WWW-Pastebin-Base-Retrieve@0.003
 WWW::Pastebin::Bot::Pastebot::Create 0.002  pkg:cpan/WWW-Pastebin-Bot-Pastebot-Create@0.002
 WWW::Pastebin::Many::Retrieve      0.002  pkg:cpan/WWW-Pastebin-Many-Retrieve@0.002
-WWW::Pastebin::PastebinCa::Create  0.005  pkg:cpan/WWW-Pastebin-PastebinCa-Create@0.005
+WWW::Pastebin::PastebinCa::Create  1.001001  pkg:cpan/WWW-Pastebin-PastebinCa-Create@1.001001
 WWW::Pastebin::PastebinCa::Retrieve 1.001003  pkg:cpan/WWW-Pastebin-PastebinCa-Retrieve@1.001003
 WWW::Pastebin::PastebinCom::API    1.001006  pkg:cpan/WWW-Pastebin-PastebinCom-API@1.001006
 WWW::Pastebin::PastebinCom::Create 1.003  pkg:cpan/WWW-Pastebin-PastebinCom-Create@1.003
