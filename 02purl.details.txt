@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 15 Jul 2026 09:54:28 GMT
+Last-Updated: Wed, 15 Jul 2026 11:24:17 GMT
 Line-Count: 266459
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -59264,8 +59264,8 @@ Data::Nest                          0.06  pkg:cpan/Data-Nest@0.06
 Data::Nested                        3.12  pkg:cpan/Data-Nested@3.12
 Data::Nested::Multiele              3.12  pkg:cpan/Data-Nested@3.12
 Data::Nested::Multifile             3.12  pkg:cpan/Data-Nested@3.12
-Data::NestedKey                    v1.2.1  pkg:cpan/Data-NestedKey@1.2.1
-Data::NestedKey::CLI                   0  pkg:cpan/Data-NestedKey@1.2.1
+Data::NestedKey                    v1.2.2  pkg:cpan/Data-NestedKey@1.2.2
+Data::NestedKey::CLI                   0  pkg:cpan/Data-NestedKey@1.2.2
 Data::NestedParams                  0.07  pkg:cpan/Data-NestedParams@0.07
 Data::NestedSet                     1.03  pkg:cpan/Data-NestedSet@1.03
 Data::Netflow                       0.02  pkg:cpan/Data-Netflow@0.02
