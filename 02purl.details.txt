@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 15 Jul 2026 17:09:14 GMT
-Line-Count: 266477
+Last-Updated: Wed, 15 Jul 2026 18:59:43 GMT
+Line-Count: 266485
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -50494,7 +50494,7 @@ Cucumber::TagExpressions::LiteralNode v10.0.0  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
 Cucumber::TagExpressions::NotNode  v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
 Cucumber::TagExpressions::OrNode   v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.119
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.120
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
@@ -71616,7 +71616,7 @@ Error::WarnDie                     0.17030  pkg:cpan/Error@0.17030
 Error::subs                        0.17030  pkg:cpan/Error@0.17030
 Errors::Errors                      1.26  pkg:cpan/WebTools@1.27
 Escape::Houdini                    v0.3.3  pkg:cpan/Escape-Houdini@0.3.3
-Eshu                                0.08  pkg:cpan/Eshu@0.08
+Eshu                                0.09  pkg:cpan/Eshu@0.09
 Esjis                               1.22  pkg:cpan/Sjis@1.22
 Etcd                               0.004  pkg:cpan/Etcd@0.004
 Etcd::Error                        0.004  pkg:cpan/Etcd@0.004
@@ -140157,6 +140157,7 @@ Mojolicious::Plugin::Fondation::Group  0.01  pkg:cpan/Mojolicious-Plugin-Fondati
 Mojolicious::Plugin::Fondation::Group::Controller::Group  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Group@0.01
 Mojolicious::Plugin::Fondation::Group::Schema::Result::Group  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Group@0.01
 Mojolicious::Plugin::Fondation::Group::Schema::Result::UserGroup  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Group@0.01
+Mojolicious::Plugin::Fondation::Group::UI::Bootstrap  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Group-UI-Bootstrap@0.01
 Mojolicious::Plugin::Fondation::Helpers  0.05  pkg:cpan/Mojolicious-Plugin-Fondation@0.05
 Mojolicious::Plugin::Fondation::I18N  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-I18N@0.01
 Mojolicious::Plugin::Fondation::I18N::Action::I18N  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-I18N@0.01
@@ -140178,6 +140179,7 @@ Mojolicious::Plugin::Fondation::Perm  0.01  pkg:cpan/Mojolicious-Plugin-Fondatio
 Mojolicious::Plugin::Fondation::Perm::Controller::Perm  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Perm@0.01
 Mojolicious::Plugin::Fondation::Perm::Schema::Result::GroupPerm  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Perm@0.01
 Mojolicious::Plugin::Fondation::Perm::Schema::Result::Perm  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Perm@0.01
+Mojolicious::Plugin::Fondation::Perm::UI::Bootstrap  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Perm-UI-Bootstrap@0.01
 Mojolicious::Plugin::Fondation::Problem  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Problem@0.01
 Mojolicious::Plugin::Fondation::Resolver  0.05  pkg:cpan/Mojolicious-Plugin-Fondation@0.05
 Mojolicious::Plugin::Fondation::SessionStore  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-SessionStore@0.01
@@ -147214,6 +147216,12 @@ Net::Blossom::Server::Backend::Postgres::BlobStore::_Upload undef  pkg:cpan/Net-
 Net::Blossom::Server::Backend::Postgres::MetadataStore undef  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001002
 Net::Blossom::Server::Backend::Postgres::_Stream 0.001001  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001001
 Net::Blossom::Server::Backend::Postgres::_Upload 0.001002  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001002
+Net::Blossom::Server::Backend::S3  0.001000  pkg:cpan/Net-Blossom-Server-Backend-S3@0.001000
+Net::Blossom::Server::Backend::S3::BlobStore undef  pkg:cpan/Net-Blossom-Server-Backend-S3@0.001000
+Net::Blossom::Server::Backend::S3::BlobStore::_Stream undef  pkg:cpan/Net-Blossom-Server-Backend-S3@0.001000
+Net::Blossom::Server::Backend::S3::BlobStore::_Upload undef  pkg:cpan/Net-Blossom-Server-Backend-S3@0.001000
+Net::Blossom::Server::Backend::S3::_Client undef  pkg:cpan/Net-Blossom-Server-Backend-S3@0.001000
+Net::Blossom::Server::Backend::S3::_Upload 0.001000  pkg:cpan/Net-Blossom-Server-Backend-S3@0.001000
 Net::Blossom::Server::Backend::SQLite 0.001002  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001002
 Net::Blossom::Server::Backend::SQLite::BlobStore undef  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001002
 Net::Blossom::Server::Backend::SQLite::BlobStore::_Upload undef  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001002
