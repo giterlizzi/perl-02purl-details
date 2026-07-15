@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 15 Jul 2026 18:59:43 GMT
+Last-Updated: Wed, 15 Jul 2026 20:52:00 GMT
 Line-Count: 266485
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -5395,9 +5395,9 @@ Amethyst::Message                  undef  pkg:cpan/Amethyst@1.00
 Amethyst::Store                    undef  pkg:cpan/Amethyst@1.00
 Amibroker::OLE::APXCreator          0.03  pkg:cpan/Amibroker-OLE-Interface@0.03
 Amibroker::OLE::Interface           0.03  pkg:cpan/Amibroker-OLE-Interface@0.03
-Amiga::ARexx                        0.06  pkg:cpan/perl@5.42.2
-Amiga::ARexx::Msg                   0.06  pkg:cpan/perl@5.42.2
-Amiga::Exec                         0.04  pkg:cpan/perl@5.42.2
+Amiga::ARexx                        0.06  pkg:cpan/perl@5.44.0
+Amiga::ARexx::Msg                   0.06  pkg:cpan/perl@5.44.0
+Amiga::Exec                         0.04  pkg:cpan/perl@5.44.0
 Amon2                               6.18  pkg:cpan/Amon2@6.18
 Amon2::Auth::Site::Google           0.04  pkg:cpan/Amon2-Auth-Site-Google@0.04
 Amon2::Auth::Site::Hatena           0.04  pkg:cpan/Amon2-Auth-Site-Hatena@0.04
@@ -5914,7 +5914,7 @@ Any::Template::Backend::Text::MicroMason 1.007  pkg:cpan/Any-Template@1.015
 Any::Template::Backend::Text::Template 1.006  pkg:cpan/Any-Template@1.015
 Any::Template::ProcessDir           0.08  pkg:cpan/Any-Template-ProcessDir@0.08
 Any::URI::Escape                    0.01  pkg:cpan/Any-URI-Escape@0.01
-AnyDBM_File                         1.01  pkg:cpan/perl@5.42.2
+AnyDBM_File                         1.01  pkg:cpan/perl@5.44.0
 AnyDBM_File::Importer              0.012  pkg:cpan/AnyDBM_File-Importer@0.012
 AnyData                             0.12  pkg:cpan/AnyData@0.12
 AnyData2                           0.002  pkg:cpan/AnyData2@0.002
@@ -21415,7 +21415,7 @@ Azure::Storage::Blob::Client::Meta::Attribute::Custom::Trait::BodyParameter unde
 Azure::Storage::Blob::Client::Meta::Attribute::Custom::Trait::HeaderParameter undef  pkg:cpan/Azure-Storage-Blob-Client@0.05
 Azure::Storage::Blob::Client::Meta::Attribute::Custom::Trait::URIParameter undef  pkg:cpan/Azure-Storage-Blob-Client@0.05
 Azure::Storage::Blob::Client::Service::Signer undef  pkg:cpan/Azure-Storage-Blob-Client@0.05
-B                                   1.89  pkg:cpan/perl@5.42.2
+B                                   1.92  pkg:cpan/perl@5.44.0
 B::AV                              undef  pkg:cpan/App-SimpleBackuper@0.2.22
 B::Asm5_005002                     undef  pkg:cpan/B-C@1.57
 B::Asm5_005003                     undef  pkg:cpan/B-C@1.57
@@ -21468,7 +21468,7 @@ B::Clobbers                         0.01  pkg:cpan/rpm-build-perl@0.82
 B::CodeLines                         1.1  pkg:cpan/B-CodeLines@1.1
 B::CompilerPhase::Hook              0.04  pkg:cpan/B-CompilerPhase-Hook@0.04
 B::Compiling                        0.06  pkg:cpan/B-Compiling@0.06
-B::Concise                         1.007  pkg:cpan/perl@5.42.2
+B::Concise                         1.012  pkg:cpan/perl@5.44.0
 B::ConstOptree                      0.02  pkg:cpan/B-ConstOptree@0.02
 B::CutNPaste                        0.31  pkg:cpan/Code-CutNPaste@0.31
 B::Debug                            1.26  pkg:cpan/B-Debug@1.26
@@ -21477,7 +21477,7 @@ B::Delivered                       1.000000  pkg:cpan/sealed@v8.7.7
 B::Deobfuscate                      0.20  pkg:cpan/B-Deobfuscate@0.20
 B::Deobfuscate::Dict::Flowers      undef  pkg:cpan/B-Deobfuscate@0.20
 B::Deobfuscate::Dict::PGPHashWords undef  pkg:cpan/B-Deobfuscate@0.20
-B::Deparse                          1.85  pkg:cpan/perl@5.42.2
+B::Deparse                          1.89  pkg:cpan/perl@5.44.0
 B::DeparseTree                     v3.4.0  pkg:cpan/B-DeparseTree@v3.4.0
 B::DeparseTree::Common             v3.0.0  pkg:cpan/B-DeparseTree@v3.1.0
 B::DeparseTree::Fragment           undef  pkg:cpan/B-DeparseTree@v3.4.0
@@ -21548,10 +21548,10 @@ B::MAGIC                           undef  pkg:cpan/App-SimpleBackuper@0.2.22
 B::METHOP                          undef  pkg:cpan/App-SimpleBackuper@0.2.22
 B::Module::Info                     0.39  pkg:cpan/Module-Info@0.39
 B::NV                              undef  pkg:cpan/App-SimpleBackuper@0.2.22
-B::OBJECT                           1.89  pkg:cpan/perl@5.42.2
+B::OBJECT                           1.92  pkg:cpan/perl@5.44.0
 B::OP                               1.12  pkg:cpan/B-Lint@1.13
 B::OPCheck                          0.32  pkg:cpan/B-OPCheck@0.32
-B::Op_private                      5.042002  pkg:cpan/perl@5.42.2
+B::Op_private                      5.044000  pkg:cpan/perl@5.44.0
 B::OptreeShortestPath               0.02  pkg:cpan/B-OptreeShortestPath@0.02
 B::PADLIST                         undef  pkg:cpan/App-SimpleBackuper@0.2.22
 B::PADNAME                         undef  pkg:cpan/App-SimpleBackuper@0.2.22
@@ -21571,7 +21571,7 @@ B::STASHGV                          1.57  pkg:cpan/B-C@1.57
 B::SV                              undef  pkg:cpan/App-SimpleBackuper@0.2.22
 B::SVOP                             1.12  pkg:cpan/B-Lint@1.13
 B::Section                          1.58  pkg:cpan/perl@5.22.4
-B::Showlex                          1.05  pkg:cpan/perl@5.42.2
+B::Showlex                          1.05  pkg:cpan/perl@5.44.0
 B::Size                             0.09  pkg:cpan/B-Size@0.09
 B::Size2                            2.07  pkg:cpan/B-Size2@2.07
 B::Size2::Terse                     2.07  pkg:cpan/B-Size2@2.07
@@ -21579,7 +21579,7 @@ B::Stash                            1.03  pkg:cpan/B-C@1.57
 B::Stats                            0.09  pkg:cpan/B-Stats@0.09
 B::Stats::Minus                    undef  pkg:cpan/B-Stats@0.09
 B::Tap                              0.16  pkg:cpan/B-Tap@0.16
-B::Terse                            1.09  pkg:cpan/perl@5.42.2
+B::Terse                            1.09  pkg:cpan/perl@5.44.0
 B::TerseSize                        0.09  pkg:cpan/B-Size@0.09
 B::Tools                            0.01  pkg:cpan/B-Tools@0.01
 B::Tree                            undef  pkg:cpan/B-Tree@0.02
@@ -21594,7 +21594,7 @@ B::Utils::OP                        0.27  pkg:cpan/B-Utils@0.27
 B::Walker                           0.11  pkg:cpan/rpm-build-perl@0.82
 B::XPath                            0.01  pkg:cpan/B-XPath@0.01
 B::XSUB::Dumber                     0.01  pkg:cpan/B-XSUB-Dumber@0.01
-B::Xref                             1.07  pkg:cpan/perl@5.42.2
+B::Xref                             1.07  pkg:cpan/perl@5.44.0
 BACnet                              0.08  pkg:cpan/BACnet@0.08
 BACnet::APDU                       undef  pkg:cpan/BACnet@0.08
 BACnet::BVLC                       undef  pkg:cpan/BACnet@0.08
@@ -23407,7 +23407,7 @@ Bencher::Scenarios::URI::Info      0.002  pkg:cpan/Bencher-Scenarios-URI-Info@0.
 Bencher::Scenarios::Z              0.005  pkg:cpan/Bencher-Scenarios-Z@0.005
 Bencher::Tiny                      0.003  pkg:cpan/Bencher-Tiny@0.003
 Bencher::Util::CPANModules         0.006  pkg:cpan/Acme-CPANModulesUtil-Bencher@0.006
-Benchmark                           1.27  pkg:cpan/perl@5.42.2
+Benchmark                           1.27  pkg:cpan/perl@5.44.0
 Benchmark::Apps                     0.05  pkg:cpan/Benchmark-Apps@0.05
 Benchmark::CSV                     0.001002  pkg:cpan/Benchmark-CSV@0.001002
 Benchmark::Chart                    0.01  pkg:cpan/Benchmark-Chart@0.01?ext=zip
@@ -46334,9 +46334,9 @@ Class::Storage                      0.03  pkg:cpan/Class-Storage@0.03
 Class::StorageFactory                1.0  pkg:cpan/Class-StorageFactory@1.0
 Class::StorageFactory::YAML        undef  pkg:cpan/Class-StorageFactory@1.0
 Class::StrongSingleton              0.02  pkg:cpan/Class-StrongSingleton@0.02
-Class::Struct                       0.68  pkg:cpan/perl@5.42.2
+Class::Struct                       0.68  pkg:cpan/perl@5.44.0
 Class::Struct::FIELDS                1.1  pkg:cpan/Class-Struct-FIELDS@1.1
-Class::Struct::Tie_ISA              0.68  pkg:cpan/perl@5.42.2
+Class::Struct::Tie_ISA              0.68  pkg:cpan/perl@5.44.0
 Class::StructTemplate               0.01  pkg:cpan/Class-StructTemplate@0.01
 Class::Structured                    0.1  pkg:cpan/Class-Structured@0.1
 Class::Superclasses                 1.00  pkg:cpan/Class-Superclasses@1.00
@@ -47803,7 +47803,7 @@ Config::ENV::Multi::ConfigInstance undef  pkg:cpan/Config-ENV-Multi@0.05
 Config::Eggdrop::Userfile           0.01  pkg:cpan/Config-Eggdrop-Userfile@0.01
 Config::Entities                    1.07  pkg:cpan/Config-Entities@1.07
 Config::Extend::MySQL               0.05  pkg:cpan/Config-Extend-MySQL@0.05
-Config::Extensions                  0.03  pkg:cpan/perl@5.42.2
+Config::Extensions                  0.03  pkg:cpan/perl@5.44.0
 Config::Fast                        1.07  pkg:cpan/Config-Fast@1.07
 Config::Fast::Parser                1.06  pkg:cpan/Config-Fast@1.06
 Config::File                        1.54  pkg:cpan/Config-File@1.54
@@ -54421,12 +54421,12 @@ DBM::Deep::Storage                 undef  pkg:cpan/DBM-Deep@2.0019
 DBM::Deep::Storage::DBI            undef  pkg:cpan/DBM-Deep@2.0019
 DBM::Deep::Storage::File           undef  pkg:cpan/DBM-Deep@2.0019
 DBMS                                 1.7  pkg:cpan/RDFStore@0.51
-DBM_Filter                          0.07  pkg:cpan/perl@5.42.2
-DBM_Filter::compress                0.03  pkg:cpan/perl@5.42.2
-DBM_Filter::encode                  0.03  pkg:cpan/perl@5.42.2
-DBM_Filter::int32                   0.03  pkg:cpan/perl@5.42.2
-DBM_Filter::null                    0.03  pkg:cpan/perl@5.42.2
-DBM_Filter::utf8                    0.03  pkg:cpan/perl@5.42.2
+DBM_Filter                          0.07  pkg:cpan/perl@5.44.0
+DBM_Filter::compress                0.03  pkg:cpan/perl@5.44.0
+DBM_Filter::encode                  0.03  pkg:cpan/perl@5.44.0
+DBM_Filter::int32                   0.03  pkg:cpan/perl@5.44.0
+DBM_Filter::null                    0.03  pkg:cpan/perl@5.44.0
+DBM_Filter::utf8                    0.03  pkg:cpan/perl@5.44.0
 DBMedit                            undef  pkg:cpan/POEIKC@0.04
 DBNull_File                          1.2  pkg:cpan/HTTPD-User-Manage@1.59
 DBO                                 0.01  pkg:cpan/DBO@0.01
@@ -65286,7 +65286,7 @@ Devel::PatchPerl::Plugin::Darwin   v0.1.2  pkg:cpan/Devel-PatchPerl-Plugin-Darwi
 Devel::PatchPerl::Plugin::Darwin::getcwd 0.003  pkg:cpan/Devel-PatchPerl-Plugin-Darwin-getcwd@0.003
 Devel::PatchPerl::Plugin::General  undef  pkg:cpan/App-perlall@0.51
 Devel::PatchPerl::Plugin::Legacy    0.03  pkg:cpan/Devel-PatchPerl-Plugin-Legacy@0.03
-Devel::Peek                         1.36  pkg:cpan/perl@5.42.2
+Devel::Peek                         1.36  pkg:cpan/perl@5.44.0
 Devel::PeekPoke                     0.04  pkg:cpan/Devel-PeekPoke@0.04
 Devel::PeekPoke::Constants         undef  pkg:cpan/Devel-PeekPoke@0.04
 Devel::PerlLog                      0.04  pkg:cpan/Devel-PerlLog@0.04
@@ -66780,7 +66780,7 @@ DirDB                               0.12  pkg:cpan/DirDB@0.12
 DirDB::FTP                          0.03  pkg:cpan/DirDB-FTP@0.03
 DirDB::Storable                     0.07  pkg:cpan/DirDB-Storable@0.07
 DirDB::lock                         0.12  pkg:cpan/DirDB@0.12
-DirHandle                           1.05  pkg:cpan/perl@5.42.2
+DirHandle                           1.05  pkg:cpan/perl@5.44.0
 DirSelect                           1.03  pkg:cpan/Tk-DirSelect@1.03
 DirTreeTest                         0.01  pkg:cpan/Wx-Perl-DirTree@0.07
 DirTreeTestAllowed                  0.01  pkg:cpan/Wx-Perl-DirTree@0.07
@@ -71278,7 +71278,7 @@ End::Eval::Env                     0.004  pkg:cpan/End-Eval-Env@0.004
 End::Eval::FirstArg                0.003  pkg:cpan/End-Eval-FirstArg@0.003
 End::PrintBytesIn                  1.074  pkg:cpan/App-lcpan@1.074
 Endoscope                          0.002  pkg:cpan/Endoscope@0.002
-English                             1.11  pkg:cpan/perl@5.42.2
+English                             1.12  pkg:cpan/perl@5.44.0
 English::Control                   0.002  pkg:cpan/English-Control@0.002
 English::Name                      0.003  pkg:cpan/English-Name@0.003
 English::Reference                  0.01  pkg:cpan/English-Reference@0.03?ext=tgz
@@ -72381,7 +72381,7 @@ ExtUtils::Constant::XS              0.03  pkg:cpan/ExtUtils-Constant@0.25
 ExtUtils::CppGuess                  0.27  pkg:cpan/ExtUtils-CppGuess@0.27
 ExtUtils::Depends                  0.8002  pkg:cpan/ExtUtils-Depends@0.8002
 ExtUtils::DynaGlue                  1.10  pkg:cpan/ExtUtils-DynaGlue@1.00a
-ExtUtils::Embed                     1.35  pkg:cpan/perl@5.42.2
+ExtUtils::Embed                     1.35  pkg:cpan/perl@5.44.0
 ExtUtils::F77                       1.26  pkg:cpan/ExtUtils-F77@1.26
 ExtUtils::FakeConfig                0.12  pkg:cpan/ExtUtils-FakeConfig@0.12?ext=zip
 ExtUtils::FindFunctions             0.02  pkg:cpan/ExtUtils-FindFunctions@0.02
@@ -72437,7 +72437,7 @@ ExtUtils::MakeMaker::version        7.78  pkg:cpan/ExtUtils-MakeMaker@7.78
 ExtUtils::MakeMaker::version::regex  7.78  pkg:cpan/ExtUtils-MakeMaker@7.78
 ExtUtils::MakeMaker::version::vpp   7.78  pkg:cpan/ExtUtils-MakeMaker@7.78
 ExtUtils::Manifest                  1.75  pkg:cpan/ExtUtils-Manifest@1.75
-ExtUtils::Miniperl                  1.14  pkg:cpan/perl@5.42.2
+ExtUtils::Miniperl                  1.15  pkg:cpan/perl@5.44.0
 ExtUtils::Mkbootstrap               7.78  pkg:cpan/ExtUtils-MakeMaker@7.78
 ExtUtils::Mksymlists                7.78  pkg:cpan/ExtUtils-MakeMaker@7.78
 ExtUtils::ModuleMaker               0.63  pkg:cpan/ExtUtils-ModuleMaker@0.63
@@ -72579,7 +72579,7 @@ ExtUtils::XSBuilder::StructureMap  undef  pkg:cpan/ExtUtils-XSBuilder@0.28
 ExtUtils::XSBuilder::TypeMap       undef  pkg:cpan/ExtUtils-XSBuilder@0.28
 ExtUtils::XSBuilder::WrapXS         0.03  pkg:cpan/ExtUtils-XSBuilder@0.28
 ExtUtils::XSOne                     0.03  pkg:cpan/ExtUtils-XSOne@0.03
-ExtUtils::XSSymSet                   1.4  pkg:cpan/perl@5.42.2
+ExtUtils::XSSymSet                   1.4  pkg:cpan/perl@5.44.0
 ExtUtils::XSpp                      0.19  pkg:cpan/ExtUtils-XSpp@0.19
 ExtUtils::XSpp::Cmd                undef  pkg:cpan/ExtUtils-XSpp@0.19
 ExtUtils::XSpp::Driver             undef  pkg:cpan/ExtUtils-XSpp@0.19
@@ -73995,7 +73995,7 @@ Fax::DataFax::DateTime              0.01  pkg:cpan/Fax-DataFax-DateTime@0.01
 Fax::Hylafax::Client                1.02  pkg:cpan/Fax-Hylafax-Client@1.02
 Fax::Hylafax::Client::Instant       1.02  pkg:cpan/Fax-Hylafax-Client@1.02
 Fax::Hylafax::Client::Queued        1.02  pkg:cpan/Fax-Hylafax-Client@1.02
-Fcntl                               1.20  pkg:cpan/perl@5.42.2
+Fcntl                               1.20  pkg:cpan/perl@5.44.0
 Fcntl::Packer                       0.03  pkg:cpan/Fcntl-Packer@0.03
 Fdb                                 0.03  pkg:cpan/Fdb@0.0.3?ext=tgz
 Fdb::FDBKeyValue                    0.03  pkg:cpan/Fdb@0.0.3?ext=tgz
@@ -74281,7 +74281,7 @@ File::BSDGlob                       0.94  pkg:cpan/File-BSDGlob@0.94
 File::BSED                          0.67  pkg:cpan/File-BSED@0.67
 File::BackupCopy                    1.02  pkg:cpan/File-BackupCopy@1.02
 File::BaseDir                       0.09  pkg:cpan/File-BaseDir@0.09
-File::Basename                      2.86  pkg:cpan/perl@5.42.2
+File::Basename                      2.86  pkg:cpan/perl@5.44.0
 File::Basename::Extra              0.006  pkg:cpan/File-Basename-Extra@0.006
 File::Basename::Object              0.01  pkg:cpan/File-Basename-Object@0.01
 File::BasicFlock                   98.1202  pkg:cpan/File-BasicFlock@98.1202
@@ -74350,7 +74350,7 @@ File::Comments::Plugin::Python      0.01  pkg:cpan/File-Comments@0.08
 File::Comments::Plugin::Shell       0.01  pkg:cpan/File-Comments@0.08
 File::Comments::Target              0.08  pkg:cpan/File-Comments@0.08
 File::Common                       0.003  pkg:cpan/File-Common@0.003
-File::Compare                      1.1008  pkg:cpan/perl@5.42.2
+File::Compare                      1.1008  pkg:cpan/perl@5.44.0
 File::ConfigDir                    0.021  pkg:cpan/File-ConfigDir@0.021
 File::ConfigDir::Install           0.001  pkg:cpan/File-ConfigDir-Install@0.001
 File::ConfigDir::Plack             0.002  pkg:cpan/File-ConfigDir-Plack@0.002
@@ -74358,7 +74358,7 @@ File::ContentStore                 1.004  pkg:cpan/File-ContentStore@1.004
 File::Convert::CSV                  0.03  pkg:cpan/File-Convert-CSV@0.03
 File::Convert::Taqman              undef  pkg:cpan/File-Convert-CSV@0.03
 File::Convert::Turner_Modulo       undef  pkg:cpan/File-Convert-CSV@0.03
-File::Copy                          2.41  pkg:cpan/perl@5.42.2
+File::Copy                          2.43  pkg:cpan/perl@5.44.0
 File::Copy::Link                   0.200  pkg:cpan/File-Copy-Link@0.200
 File::Copy::NoClobber              0.002003  pkg:cpan/File-Copy-NoClobber@0.2.3
 File::Copy::Recursive               0.45  pkg:cpan/File-Copy-Recursive@0.45
@@ -74416,7 +74416,7 @@ File::DirCompare                     0.7  pkg:cpan/File-DirCompare@0.7
 File::DirList                       0.05  pkg:cpan/File-DirList@0.05
 File::DirSync                       1.22  pkg:cpan/File-DirSync@1.22
 File::Dircmp                       undef  pkg:cpan/File-Dircmp@1.30
-File::DosGlob                       1.12  pkg:cpan/perl@5.42.2
+File::DosGlob                       1.12  pkg:cpan/perl@5.44.0
 File::Download                       0.3  pkg:cpan/File-Download@0.3?ext=zip
 File::Drawing                       0.01  pkg:cpan/File-Drawing@0.01
 File::Dropbox                        0.7  pkg:cpan/File-Dropbox@0.7
@@ -74469,7 +74469,7 @@ File::Fetch::Item                  undef  pkg:cpan/File-Fetch@0.08
 File::Filename                      1.05  pkg:cpan/File-Filename@1.05
 File::Filename::Convention          1.05  pkg:cpan/File-Filename@1.05
 File::FilterFuncs                   0.53  pkg:cpan/File-FilterFuncs@0.53
-File::Find                          1.44  pkg:cpan/perl@5.42.2
+File::Find                          1.44  pkg:cpan/perl@5.44.0
 File::Find::Age                     0.01  pkg:cpan/File-Find-Age@0.01
 File::Find::CaseCollide            v0.2.0  pkg:cpan/File-Find-CaseCollide@0.2.0
 File::Find::Closures               1.118  pkg:cpan/File-Find-Closures@1.118
@@ -74585,7 +74585,7 @@ File::Gettext::Schema              v0.33.1  pkg:cpan/File-Gettext@0.33.1
 File::Gettext::Storage             v0.33.1  pkg:cpan/File-Gettext@0.33.1
 File::Gettext::Storage::MO         v0.33.1  pkg:cpan/File-Gettext@0.33.1
 File::Gettext::Storage::PO         v0.33.1  pkg:cpan/File-Gettext@0.33.1
-File::Glob                          1.42  pkg:cpan/perl@5.42.2
+File::Glob                          1.44  pkg:cpan/perl@5.44.0
 File::Glob::Slurp                   0.02  pkg:cpan/File-Glob-Slurp@0.02
 File::Glob::Windows                0.1.5  pkg:cpan/File-Glob-Windows@0.1.5
 File::GlobMapper                   1.001  pkg:cpan/IO-Compress@2.223
@@ -75234,17 +75234,17 @@ File::lchown                        0.03  pkg:cpan/File-lchown@0.03
 File::lockf                         0.26  pkg:cpan/File-lockf@0.26
 File::pfopen                        0.03  pkg:cpan/File-pfopen@0.03
 File::pushd                        1.016  pkg:cpan/File-pushd@1.016
-File::stat                          1.14  pkg:cpan/perl@5.42.2
+File::stat                          1.15  pkg:cpan/perl@5.44.0
 File::stat2                         0.03  pkg:cpan/File-stat2@0.03
 File::stat::Extra                  0.010  pkg:cpan/File-stat-Extra@0.010
 File::umask                         0.01  pkg:cpan/File-umask@0.01
 File::umask::SCALAR                 0.01  pkg:cpan/File-umask@0.01
-FileCache                           1.10  pkg:cpan/perl@5.42.2
+FileCache                           1.10  pkg:cpan/perl@5.44.0
 FileCache::Appender                 0.03  pkg:cpan/FileCache-Appender@0.03
 FileCache::Handle                  0.002  pkg:cpan/FileCache-Handle@0.002
 FileContents                         1.1  pkg:cpan/Test-WWW-Mechanize-Driver@1.1
 FileDirUtil                        0.004000  pkg:cpan/FileDirUtil@v0.04
-FileHandle                          2.05  pkg:cpan/perl@5.42.2
+FileHandle                          2.05  pkg:cpan/perl@5.44.0
 FileHandle::Fmode                   0.15  pkg:cpan/FileHandle-Fmode@0.15
 FileHandle::Unget                  0.1634  pkg:cpan/FileHandle-Unget@0.1634
 FileHandle::Unget::Tie             0.1634  pkg:cpan/FileHandle-Unget@0.1634
@@ -78555,7 +78555,7 @@ GDA::DSN                           undef  pkg:cpan/GDA@0.2
 GDA::Log                           undef  pkg:cpan/GDA@0.2
 GDA::Provider                      undef  pkg:cpan/GDA@0.2
 GDB::bt                            undef  pkg:cpan/GDB-bt@0.01
-GDBM_File                           1.24  pkg:cpan/perl@5.42.2
+GDBM_File                           1.24  pkg:cpan/perl@5.44.0
 GDPR::IAB::TCFv2                   0.530  pkg:cpan/GDPR-IAB-TCFv2@0.530
 GDPR::IAB::TCFv2::BitField         0.530  pkg:cpan/GDPR-IAB-TCFv2@0.530
 GDPR::IAB::TCFv2::BitUtils         0.530  pkg:cpan/GDPR-IAB-TCFv2@0.530
@@ -83228,7 +83228,7 @@ Getopt::Param::Tiny                  0.5  pkg:cpan/Getopt-Param-Tiny@0.5
 Getopt::Plus                        0.99  pkg:cpan/Getopt-Plus@0.99
 Getopt::Regex                      undef  pkg:cpan/Getopt-Regex@0.03
 Getopt::Simple                      1.52  pkg:cpan/Getopt-Simple@1.52?ext=tgz
-Getopt::Std                         1.14  pkg:cpan/perl@5.42.2
+Getopt::Std                         1.15  pkg:cpan/perl@5.44.0
 Getopt::Std::Dump                  0.001  pkg:cpan/Getopt-Std-Dump@0.001
 Getopt::Std::Patch::DumpAndExit    0.001  pkg:cpan/Getopt-Std-Dump@0.001
 Getopt::Std::Strict                 1.01  pkg:cpan/Getopt-Std-Strict@1.01
@@ -110376,7 +110376,7 @@ Hadoop::Streaming::Reducer::Input::Iterator 0.143060  pkg:cpan/Hadoop-Streaming@
 Hadoop::Streaming::Reducer::Input::ValuesIterator 0.143060  pkg:cpan/Hadoop-Streaming@0.143060
 Hadoop::Streaming::Role::Emitter   0.143060  pkg:cpan/Hadoop-Streaming@0.143060
 Hadoop::Streaming::Role::Iterator  0.143060  pkg:cpan/Hadoop-Streaming@0.143060
-Haiku                               0.36  pkg:cpan/perl@5.42.2
+Haiku                               0.36  pkg:cpan/perl@5.44.0
 Haiku::SysInfo                     0.001  pkg:cpan/Haiku-SysInfo@0.001
 Hailo                               0.75  pkg:cpan/Hailo@0.75
 Hailo::Command                      0.75  pkg:cpan/Hailo@0.75
@@ -110710,9 +110710,9 @@ Hash::Type                          2.00  pkg:cpan/Hash-Type@2.00
 Hash::Typed                         0.06  pkg:cpan/Hash-Typed@0.06
 Hash::Union                         0.03  pkg:cpan/Hash-Union@0.03
 Hash::Unique                        0.06  pkg:cpan/Hash-Unique@0.06
-Hash::Util                          0.32  pkg:cpan/perl@5.42.2
+Hash::Util                          0.32  pkg:cpan/perl@5.44.0
 Hash::Util::Exists::Tiny            1.03  pkg:cpan/Hash-Util-Exists-Tiny@1.03
-Hash::Util::FieldHash               1.27  pkg:cpan/perl@5.42.2
+Hash::Util::FieldHash               1.27  pkg:cpan/perl@5.44.0
 Hash::Util::FieldHash::Compat       0.11  pkg:cpan/Hash-Util-FieldHash-Compat@0.11
 Hash::Util::FieldHash::Compat::Heavy  0.11  pkg:cpan/Hash-Util-FieldHash-Compat@0.11
 Hash::Util::Join                    0.07  pkg:cpan/Hash-Util-Set@0.07
@@ -110802,7 +110802,7 @@ Haul                                2.24  pkg:cpan/Haul@2.24
 Hazy                                0.05  pkg:cpan/Hazy@0.05
 HeaderMap                          undef  pkg:cpan/ZZZ-SDK@0.0.2
 HeaderParamValidator               undef  pkg:cpan/ZZZ-SDK@0.0.2
-HeaderParser                       undef  pkg:cpan/perl@5.42.2
+HeaderParser                       undef  pkg:cpan/perl@5.44.0
 Health::BladderDiary::GenChart     0.001  pkg:cpan/Health-BladderDiary-GenChart@0.001
 Health::BladderDiary::GenTable     0.007  pkg:cpan/Health-BladderDiary-GenTable@0.007
 Health::SHC                        0.006  pkg:cpan/Health-SHC@0.006
@@ -111525,10 +111525,10 @@ I18N::Handle                       0.051  pkg:cpan/I18N-Handle@0.051
 I18N::Handle::Abstract             undef  pkg:cpan/I18N-Handle@0.051
 I18N::Handle::Base                 undef  pkg:cpan/I18N-Handle@0.02
 I18N::Handle::Locale               undef  pkg:cpan/I18N-Handle@0.051
-I18N::LangTags                      0.45  pkg:cpan/perl@5.42.2
-I18N::LangTags::Detect              1.08  pkg:cpan/perl@5.42.2
-I18N::LangTags::List                0.41  pkg:cpan/perl@5.42.2
-I18N::Langinfo                      0.24  pkg:cpan/perl@5.42.2
+I18N::LangTags                      0.45  pkg:cpan/perl@5.44.0
+I18N::LangTags::Detect              1.08  pkg:cpan/perl@5.44.0
+I18N::LangTags::List                0.41  pkg:cpan/perl@5.44.0
+I18N::Langinfo                      0.24  pkg:cpan/perl@5.44.0
 I18N::Langinfo::Wide                   9  pkg:cpan/I18N-Langinfo-Wide@9
 I18N::String                        0.03  pkg:cpan/I18N-String@0.03
 I18NFool                            0.31  pkg:cpan/I18NFool@0.31
@@ -113607,9 +113607,9 @@ IPC::MorseSignals::Receiver         0.17  pkg:cpan/IPC-MorseSignals@0.17
 IPC::Msg                            2.09  pkg:cpan/IPC-SysV@2.09
 IPC::Msg::stat                      2.09  pkg:cpan/IPC-SysV@2.09
 IPC::Notify                        0.002  pkg:cpan/IPC-Notify@0.2
-IPC::Open2                          1.08  pkg:cpan/perl@5.42.2
+IPC::Open2                          1.08  pkg:cpan/perl@5.44.0
 IPC::Open2::Simple                  0.01  pkg:cpan/IPC-Open2-Simple@0.01
-IPC::Open3                          1.24  pkg:cpan/perl@5.42.2
+IPC::Open3                          1.24  pkg:cpan/perl@5.44.0
 IPC::Open3::Callback                1.19  pkg:cpan/IPC-Open3-Callback@1.19
 IPC::Open3::Callback::Command       1.19  pkg:cpan/IPC-Open3-Callback@1.19
 IPC::Open3::Callback::Command::CommandOptions  1.19  pkg:cpan/IPC-Open3-Callback@1.19
@@ -144781,7 +144781,7 @@ NCBIx::eUtils::GeneAliases         0.009000  pkg:cpan/NCBIx-eUtils-GeneAliases@0
 NCC                                0.001  pkg:cpan/NCC@0.001
 NCC::WarpCore                      0.001  pkg:cpan/NCC@0.001
 NCustom                             0.07  pkg:cpan/NCustom@0.07
-NDBM_File                           1.18  pkg:cpan/perl@5.42.2
+NDBM_File                           1.18  pkg:cpan/perl@5.44.0
 NDFD::Weather::Processer               1  pkg:cpan/NDFD-Weather-Report@1.00
 NDFD::Weather::Report                  1  pkg:cpan/NDFD-Weather-Report@1.00
 NDFD::Weather::RequestProcess          1  pkg:cpan/NDFD-Weather-Report@1.00
@@ -154059,7 +154059,7 @@ Net::ZooTool::Utils                0.003  pkg:cpan/Net-ZooTool@0.0031
 Net::addrinfo                       1.02  pkg:cpan/Net-addrinfo@1.02
 Net::eBay                           0.66  pkg:cpan/Net-eBay@0.66
 Net::eNom                          2.007000  pkg:cpan/WWW-eNom@v2.7.0
-Net::hostent                        1.04  pkg:cpan/perl@5.42.2
+Net::hostent                        1.04  pkg:cpan/perl@5.44.0
 Net::iContact                       0.02  pkg:cpan/Net-iContact@0.02
 Net::iTMS                           0.15  pkg:cpan/Net-iTMS@0.15
 Net::iTMS::Album                    0.15  pkg:cpan/Net-iTMS@0.15
@@ -154089,12 +154089,12 @@ Net::mbedTLS::X                    undef  pkg:cpan/Net-mbedTLS@0.02
 Net::mbedTLS::X::Base              undef  pkg:cpan/Net-mbedTLS@0.02
 Net::mbedTLS::X::mbedTLS           undef  pkg:cpan/Net-mbedTLS@0.02
 Net::mbedTLS::X::mbedTLS::x509VerificationFailed undef  pkg:cpan/Net-mbedTLS@0.02
-Net::netent                         1.02  pkg:cpan/perl@5.42.2
+Net::netent                         1.02  pkg:cpan/perl@5.44.0
 Net::oRTP                           0.02  pkg:cpan/Net-oRTP@0.02
 Net::pWhoIs                        1.002000  pkg:cpan/Net-pWhoIs@1.2.0
-Net::protoent                       1.03  pkg:cpan/perl@5.42.2
+Net::protoent                       1.03  pkg:cpan/perl@5.44.0
 Net::sFlow                          0.14  pkg:cpan/Net-sFlow@0.14
-Net::servent                        1.04  pkg:cpan/perl@5.42.2
+Net::servent                        1.04  pkg:cpan/perl@5.44.0
 Net::uFTP                          0.161  pkg:cpan/Net-uFTP@0.161
 Net::uFTP::FTP                      0.16  pkg:cpan/Net-uFTP@0.161
 Net::uFTP::SFTP                     0.16  pkg:cpan/Net-uFTP@0.161
@@ -155578,7 +155578,7 @@ Nuvol::Test::FolderLive            undef  pkg:cpan/Nuvol@0.03
 Nuvol::Test::Item                  undef  pkg:cpan/Nuvol@0.03
 Nuvol::Test::ItemLive              undef  pkg:cpan/Nuvol@0.03
 Nuvol::Test::Roles                 undef  pkg:cpan/Nuvol@0.03
-O                                   1.03  pkg:cpan/perl@5.42.2
+O                                   1.03  pkg:cpan/perl@5.44.0
 OAuth2::Box                         0.03  pkg:cpan/OAuth2-Box@0.03
 OAuth2::Google::Plus               undef  pkg:cpan/OAuth2-Google-Plus@0.03
 OAuth2::Google::Plus::UserInfo     undef  pkg:cpan/OAuth2-Google-Plus@0.03
@@ -155821,7 +155821,7 @@ OD::Prometheus::Client             0.006  pkg:cpan/OmniDisco-Prometheus@0.006
 OD::Prometheus::Metric             0.006  pkg:cpan/OmniDisco-Prometheus@0.006
 OD::Prometheus::Query              0.006  pkg:cpan/OmniDisco-Prometheus@0.006
 OD::Prometheus::Set                0.006  pkg:cpan/OmniDisco-Prometheus@0.006
-ODBM_File                           1.20  pkg:cpan/perl@5.42.2
+ODBM_File                           1.20  pkg:cpan/perl@5.44.0
 ODF::MailMerge                     1.011  pkg:cpan/ODF-MailMerge@1.011
 ODF::MailMerge::Engine             1.011  pkg:cpan/ODF-MailMerge@1.011
 ODF::lpOD                          2.100  pkg:cpan/ODF-lpOD@2.100
@@ -156574,25 +156574,25 @@ ORM::StatResultSet                   0.8  pkg:cpan/ORM@0.85.1
 ORM::Ta                              0.8  pkg:cpan/ORM@0.85.1
 ORM::Tjoin                          0.81  pkg:cpan/ORM@0.85.1
 ORM::TjoinNull                      0.81  pkg:cpan/ORM@0.85.1
-OS2::DLL                            1.07  pkg:cpan/perl@5.42.2
-OS2::DLL::dll                       1.07  pkg:cpan/perl@5.42.2
-OS2::ExtAttr                        0.04  pkg:cpan/perl@5.42.2
+OS2::DLL                            1.07  pkg:cpan/perl@5.44.0
+OS2::DLL::dll                       1.07  pkg:cpan/perl@5.44.0
+OS2::ExtAttr                        0.04  pkg:cpan/perl@5.44.0
 OS2::FTP                           undef  pkg:cpan/OS2-FTP@0_10?ext=zip
 OS2::Focus                          0.01  pkg:cpan/OS2-Focus@0.01
-OS2::PrfDB                          0.04  pkg:cpan/perl@5.42.2
-OS2::PrfDB::Hini                    0.04  pkg:cpan/perl@5.42.2
-OS2::PrfDB::Sub                     0.04  pkg:cpan/perl@5.42.2
+OS2::PrfDB                          0.04  pkg:cpan/perl@5.44.0
+OS2::PrfDB::Hini                    0.04  pkg:cpan/perl@5.44.0
+OS2::PrfDB::Sub                     0.04  pkg:cpan/perl@5.44.0
 OS2::Proc                           0.02  pkg:cpan/OS2-Proc@0.02
-OS2::Process                        1.12  pkg:cpan/perl@5.42.2
+OS2::Process                        1.12  pkg:cpan/perl@5.44.0
 OS2::Process::Const                 0.01  pkg:cpan/perl_mlb?ext=zip
-OS2::REXX                           1.06  pkg:cpan/perl@5.42.2
-OS2::REXX::_ARRAY                   1.06  pkg:cpan/perl@5.42.2
-OS2::REXX::_HASH                    1.06  pkg:cpan/perl@5.42.2
-OS2::REXX::_SCALAR                  1.06  pkg:cpan/perl@5.42.2
+OS2::REXX                           1.06  pkg:cpan/perl@5.44.0
+OS2::REXX::_ARRAY                   1.06  pkg:cpan/perl@5.44.0
+OS2::REXX::_HASH                    1.06  pkg:cpan/perl@5.44.0
+OS2::REXX::_SCALAR                  1.06  pkg:cpan/perl@5.44.0
 OS2::SoftInstaller                  0.09  pkg:cpan/OS2-SoftInstaller@0.09
 OS2::UPM                           undef  pkg:cpan/OS2-UPM@0_10?ext=zip
 OS2::WinObject                      0.02  pkg:cpan/OS2-WinObject@0.02
-OS2::localMorphPM                   1.12  pkg:cpan/perl@5.42.2
+OS2::localMorphPM                   1.12  pkg:cpan/perl@5.44.0
 OS390::IEBUtils::IEBPTPCH           0.01  pkg:cpan/OS390-IEBUtils@0.01
 OS390::IEBUtils::IEBUPDTE           0.01  pkg:cpan/OS390-IEBUtils@0.01
 OS390::Stdio                       0.008  pkg:cpan/OS390-Stdio@0.008
@@ -157328,7 +157328,7 @@ Ontologies                         undef  pkg:cpan/Pheno-Ranker@1.08
 Onyphe                             undef  pkg:cpan/Onyphe@4.18
 Onyphe::Api                        undef  pkg:cpan/Onyphe@4.18
 Oogaboogo::Date                     0.01  pkg:cpan/Oogaboogo-Date@0.01
-Opcode                              1.69  pkg:cpan/perl@5.42.2
+Opcode                              1.71  pkg:cpan/perl@5.44.0
 Opcodes                             0.16  pkg:cpan/Opcodes@0.16
 Open::This                         0.000035  pkg:cpan/Open-This@0.000035
 OpenAI::API                         0.37  pkg:cpan/OpenAI-API@0.37
@@ -161918,7 +161918,7 @@ POP::POX_parser                       0.  pkg:cpan/pop@0.07
 POP::Persistent                       0.  pkg:cpan/pop@0.07
 POP::Pid_factory                    1.03  pkg:cpan/pop@0.07
 POP::Schema_parser                 undef  pkg:cpan/pop@0.07
-POSIX                              2.23_01  pkg:cpan/perl@5.42.2
+POSIX                               2.26  pkg:cpan/perl@5.44.0
 POSIX::1003                         1.02  pkg:cpan/POSIX-1003@1.02
 POSIX::1003::Confstr                1.02  pkg:cpan/POSIX-1003@1.02
 POSIX::1003::Errno                  1.02  pkg:cpan/POSIX-1003@1.02
@@ -161955,9 +161955,9 @@ POSIX::RT::Timer                   0.024  pkg:cpan/POSIX-RT-Timer@0.024
 POSIX::Regex                       1.0003  pkg:cpan/POSIX-Regex@1.0003
 POSIX::Run::Capture                 1.05  pkg:cpan/POSIX-Run-Capture@1.05
 POSIX::SchedYield                  0.000002  pkg:cpan/POSIX-SchedYield@0.0.2
-POSIX::SigAction                   2.23_01  pkg:cpan/perl@5.42.2
-POSIX::SigRt                       2.23_01  pkg:cpan/perl@5.42.2
-POSIX::SigSet                      2.23_01  pkg:cpan/perl@5.42.2
+POSIX::SigAction                    2.26  pkg:cpan/perl@5.44.0
+POSIX::SigRt                        2.26  pkg:cpan/perl@5.44.0
+POSIX::SigSet                       2.26  pkg:cpan/perl@5.44.0
 POSIX::Socket                       0.09  pkg:cpan/POSIX-Socket@0.09
 POSIX::Termios                     undef  pkg:cpan/App-SimpleBackuper@0.2.22
 POSIX::Util                         0.10  pkg:cpan/POSIX-Util@0.10
@@ -196635,7 +196635,7 @@ PerlGuard::Agent::Output           undef  pkg:cpan/PerlGuard-Agent@0.15
 PerlGuard::Agent::Output::PerlGuardServer undef  pkg:cpan/PerlGuard-Agent@0.15
 PerlGuard::Agent::Output::StandardError undef  pkg:cpan/PerlGuard-Agent@0.15
 PerlGuard::Agent::Profile          undef  pkg:cpan/PerlGuard-Agent@0.15
-PerlIO                              1.12  pkg:cpan/perl@5.42.2
+PerlIO                              1.12  pkg:cpan/perl@5.44.0
 PerlIO::Layer                      undef  pkg:cpan/App-SimpleBackuper@0.2.22
 PerlIO::Layers                     0.012  pkg:cpan/PerlIO-Layers@0.012
 PerlIO::OnSearchIO                  0.01  pkg:cpan/onsearch@0.99
@@ -196647,7 +196647,7 @@ PerlIO::buffersize                 0.002  pkg:cpan/PerlIO-buffersize@0.002
 PerlIO::code                        0.03  pkg:cpan/PerlIO-code@0.03
 PerlIO::creat                      undef  pkg:cpan/PerlIO-Util@0.72
 PerlIO::dir                        undef  pkg:cpan/PerlIO-Util@0.72
-PerlIO::encoding                    0.31  pkg:cpan/perl@5.42.2
+PerlIO::encoding                    0.31  pkg:cpan/perl@5.44.0
 PerlIO::eol                         0.19  pkg:cpan/PerlIO-eol@0.19
 PerlIO::excl                       undef  pkg:cpan/PerlIO-Util@0.72
 PerlIO::fgets                       0.02  pkg:cpan/PerlIO-fgets@0.02
@@ -196657,17 +196657,17 @@ PerlIO::gzip                        0.20  pkg:cpan/PerlIO-gzip@0.20
 PerlIO::http                       0.004  pkg:cpan/PerlIO-http@0.004
 PerlIO::if                         0.003  pkg:cpan/PerlIO-if@0.003
 PerlIO::locale                      0.10  pkg:cpan/PerlIO-locale@0.10
-PerlIO::mmap                       0.017  pkg:cpan/perl@5.42.2
+PerlIO::mmap                       0.017  pkg:cpan/perl@5.44.0
 PerlIO::normalize                  0.002  pkg:cpan/PerlIO-normalize@0.002
 PerlIO::reverse                    undef  pkg:cpan/PerlIO-Util@0.72
 PerlIO::rewindable                 0.002  pkg:cpan/PerlIO-rewindable@0.002
-PerlIO::scalar                      0.32  pkg:cpan/perl@5.42.2
+PerlIO::scalar                      0.32  pkg:cpan/perl@5.44.0
 PerlIO::subfile                     0.09  pkg:cpan/PerlIO-subfile@0.09
 PerlIO::tee                        undef  pkg:cpan/PerlIO-Util@0.72
 PerlIO::text                       0.007  pkg:cpan/PerlIO-text@0.007
 PerlIO::unicodeeol                 1.002  pkg:cpan/PerlIO-unicodeeol@1.002
 PerlIO::utf8_strict                0.010  pkg:cpan/PerlIO-utf8_strict@0.010
-PerlIO::via                         0.19  pkg:cpan/perl@5.42.2
+PerlIO::via                         0.21  pkg:cpan/perl@5.44.0
 PerlIO::via::ANSIColor              0.05  pkg:cpan/PerlIO-via-ANSIColor@0.05
 PerlIO::via::Babelfish              0.01  pkg:cpan/PerlIO-via-Babelfish@0.01
 PerlIO::via::Bastardize             0.01  pkg:cpan/PerlIO-via-Bastardize@0.01
@@ -199331,9 +199331,9 @@ Pod::HTMLEmbed::Entry              undef  pkg:cpan/Pod-HTMLEmbed@0.04
 Pod::Headings                       0.04  pkg:cpan/Pod-Definitions@0.04
 Pod::Help                           1.00  pkg:cpan/Pod-Help@1.00
 Pod::Hlp                            1.02  pkg:cpan/Pod2VMSHlp@1.02
-Pod::Html                           1.35  pkg:cpan/perl@5.42.2
+Pod::Html                           1.36  pkg:cpan/perl@5.44.0
 Pod::Html::HtmlTree                 0.92  pkg:cpan/Pod-Html-HtmlTree@0.92
-Pod::Html::Util                     1.35  pkg:cpan/perl@5.42.2
+Pod::Html::Util                     1.36  pkg:cpan/perl@5.44.0
 Pod::HtmlEasy                      v1.1.11  pkg:cpan/Pod-HtmlEasy@v1.1.11a
 Pod::HtmlEasy::Data                v1.1.11  pkg:cpan/Pod-HtmlEasy@v1.1.11a
 Pod::HtmlEasy::Parser              v1.1.11  pkg:cpan/Pod-HtmlEasy@v1.1.11a
@@ -199657,7 +199657,7 @@ Pod::Simple::Words                  0.07  pkg:cpan/Pod-Simple-Words@0.07
 Pod::Simple::XHTML                  3.48  pkg:cpan/Pod-Simple@3.48
 Pod::Simple::XHTML::BlendedCode    1.003  pkg:cpan/Pod-Simple-XHTML-BlendedCode@1.003
 Pod::Simple::XHTML::BlendedCode::Blender 1.000  pkg:cpan/Pod-Simple-XHTML-BlendedCode@1.003
-Pod::Simple::XHTML::LocalPodLinks   1.35  pkg:cpan/perl@5.42.2
+Pod::Simple::XHTML::LocalPodLinks   1.36  pkg:cpan/perl@5.44.0
 Pod::Simple::XHTML::WithHighlightConfig 0.000003  pkg:cpan/Pod-Simple-XHTML-WithHighlightConfig@0.000003
 Pod::Simple::XMLOutStream           3.48  pkg:cpan/Pod-Simple@3.48
 Pod::Simpler::Aoh                   1.00  pkg:cpan/Pod-Simpler-Aoh@1.00
@@ -200170,7 +200170,7 @@ PortageXS::UI::Spinner             v0.3.1  pkg:cpan/PortageXS@0.3.1
 PortageXS::UI::Spinner::Rainbow    v0.3.1  pkg:cpan/PortageXS@0.3.1
 PortageXS::Useflags                v0.3.1  pkg:cpan/PortageXS@0.3.1
 PortageXS::Version                 v0.3.1  pkg:cpan/PortageXS@0.3.1
-Porting::updateAUTHORS             undef  pkg:cpan/perl@5.42.2
+Porting::updateAUTHORS             undef  pkg:cpan/perl@5.44.0
 PosCheck_MPCA_record               undef  pkg:cpan/combine@4.005
 Positron                           0.001003  pkg:cpan/Positron@v0.1.3
 Positron::DataTemplate             0.001003  pkg:cpan/Positron@v0.1.3
@@ -208799,7 +208799,7 @@ SCGI                                 0.6  pkg:cpan/SCGI@0.6
 SCGI::Request                      undef  pkg:cpan/SCGI@0.6
 SCUBA::Blender                       0.1  pkg:cpan/SCUBA-Blender@0.1
 SCUBA::Table::NoDeco                0.03  pkg:cpan/SCUBA-Table-NoDeco@0.03
-SDBM_File                           1.17  pkg:cpan/perl@5.42.2
+SDBM_File                           1.17  pkg:cpan/perl@5.44.0
 SDKException                       undef  pkg:cpan/ZZZ-SDK@0.0.2
 SDKLogger                          undef  pkg:cpan/ZZZ-SDK@0.0.2
 SDL                                2.548  pkg:cpan/SDL@2.548
@@ -216790,7 +216790,7 @@ SelectPdf::PdfMergeClient          v1.4.0  pkg:cpan/SelectPdf@1.4.0
 SelectPdf::PdfToTextClient         v1.4.0  pkg:cpan/SelectPdf@1.4.0
 SelectPdf::UsageClient             v1.4.0  pkg:cpan/SelectPdf@1.4.0
 SelectPdf::WebElementsClient       v1.4.0  pkg:cpan/SelectPdf@1.4.0
-SelectSaver                         1.02  pkg:cpan/perl@5.42.2
+SelectSaver                         1.03  pkg:cpan/perl@5.44.0
 Selenese                            0.01  pkg:cpan/Selenese@0.01
 Selenium::ActionChains              1.50  pkg:cpan/Selenium-Remote-Driver@1.50
 Selenium::CanStartBinary            1.50  pkg:cpan/Selenium-Remote-Driver@1.50
@@ -225143,7 +225143,7 @@ SymObj                             0.008002  pkg:cpan/S-SymObj@0.8.2
 Symantec::PCAnywhere::Profile       0.06  pkg:cpan/Symantec-PCAnywhere-Profile@0.06
 Symantec::PCAnywhere::Profile::CHF  0.06  pkg:cpan/Symantec-PCAnywhere-Profile@0.06
 Symantec::PCAnywhere::Profile::CIF  0.06  pkg:cpan/Symantec-PCAnywhere-Profile@0.06
-Symbol                              1.09  pkg:cpan/perl@5.42.2
+Symbol                              1.09  pkg:cpan/perl@5.44.0
 Symbol::Alias                      0.000002  pkg:cpan/Symbol-Move@0.000002
 Symbol::Approx::Sub                v3.1.3  pkg:cpan/Symbol-Approx-Sub@v3.1.3
 Symbol::Approx::Sub::Random        v3.1.3  pkg:cpan/Symbol-Approx-Sub@v3.1.3
@@ -225841,7 +225841,7 @@ Sys::Group::GIDhelper              0.001000  pkg:cpan/Sys-Group-GIDhelper@0.1.0
 Sys::Headers                        0.01  pkg:cpan/Sys-Headers@0.01
 Sys::HostAddr                      0.993  pkg:cpan/Sys-HostAddr@0.993?ext=tgz
 Sys::HostIP                        2.120  pkg:cpan/Sys-HostIP@2.120
-Sys::Hostname                       1.25  pkg:cpan/perl@5.42.2
+Sys::Hostname                       1.25  pkg:cpan/perl@5.44.0
 Sys::Hostname::FQDN                 0.12  pkg:cpan/Sys-Hostname-FQDN@0.12
 Sys::Hostname::Long                  1.5  pkg:cpan/Sys-Hostname-Long@1.5
 Sys::Hwloc                          0.10  pkg:cpan/Sys-Hwloc@0.10
@@ -234639,7 +234639,7 @@ Thorium::TypesTests                0.510  pkg:cpan/Thorium@0.510
 Thorium::Utils                     0.510  pkg:cpan/Thorium@0.510
 Thrall                             0.0405  pkg:cpan/Thrall@0.0405
 Thrall::Server                     0.0405  pkg:cpan/Thrall@0.0405
-Thread                              3.06  pkg:cpan/perl@5.42.2
+Thread                              3.06  pkg:cpan/perl@5.44.0
 Thread::Apartment                   0.51  pkg:cpan/Thread-Apartment@0.51
 Thread::Apartment::Client           0.51  pkg:cpan/Thread-Apartment@0.51
 Thread::Apartment::Closure          0.50  pkg:cpan/Thread-Apartment@0.51
@@ -235151,7 +235151,7 @@ Tie::Alias::Hash                    0.01  pkg:cpan/Tie-Alias-Hash@0.01
 Tie::AliasHash                      1.02  pkg:cpan/Tie-AliasHash@1.02
 Tie::Amazon::S3                     0.02  pkg:cpan/Tie-Amazon-S3@0.02
 Tie::Anon                           0.02  pkg:cpan/Tie-Anon@0.02
-Tie::Array                          1.07  pkg:cpan/perl@5.42.2
+Tie::Array                          1.07  pkg:cpan/perl@5.44.0
 Tie::Array::ArrayData              0.001  pkg:cpan/Tie-Array-ArrayData@0.001
 Tie::Array::AsHash                 0.200  pkg:cpan/Tie-Array-AsHash@0.200
 Tie::Array::Atomic                  0.01  pkg:cpan/Tie-Array-Atomic@0.01
@@ -235265,7 +235265,7 @@ Tie::EncryptedHash                   1.8  pkg:cpan/Tie-EncryptedHash@1.24
 Tie::Eudora                         0.01  pkg:cpan/Tie-Eudora@0.01
 Tie::ExecHash                       0.91  pkg:cpan/Tie-ExecHash@0.91
 Tie::Expression                     0.01  pkg:cpan/Tie-Expression@0.01
-Tie::ExtraHash                      1.06  pkg:cpan/perl@5.42.2
+Tie::ExtraHash                      1.06  pkg:cpan/perl@5.44.0
 Tie::FS                            0.001000  pkg:cpan/Tie-FS@0.1.0
 Tie::FTP                            0.02  pkg:cpan/Tie-FTP@0.02
 Tie::FieldVals                     0.6203  pkg:cpan/Tie-FieldVals@0.6203
@@ -235314,7 +235314,7 @@ Tie::Function::Examples             0.44  pkg:cpan/File-Slurp-Remote@0.44
 Tie::GHash                          0.12  pkg:cpan/Tie-GHash@0.12
 Tie::Google                         0.03  pkg:cpan/Tie-Google@0.03
 Tie::Gzip                           1.15  pkg:cpan/Tie-Gzip@0.06
-Tie::Handle                          4.3  pkg:cpan/perl@5.42.2
+Tie::Handle                          4.3  pkg:cpan/perl@5.44.0
 Tie::Handle::Argv                   0.18  pkg:cpan/File-Replace-Inplace@0.18
 Tie::Handle::Base                   0.18  pkg:cpan/Tie-Handle-Base@0.18
 Tie::Handle::CSV                    0.14  pkg:cpan/Tie-Handle-CSV@0.15
@@ -235335,7 +235335,7 @@ Tie::Handle::Scalar                  0.1  pkg:cpan/Tie-Handle-Scalar@0.1
 Tie::Handle::SkipHeader            0.004  pkg:cpan/Tie-Handle-Offset@0.004
 Tie::Handle::TailSwitch            0.001  pkg:cpan/Tie-Handle-TailSwitch@0.001
 Tie::Handle::TtyRec                 0.04  pkg:cpan/Tie-Handle-TtyRec@0.04
-Tie::Hash                           1.06  pkg:cpan/perl@5.42.2
+Tie::Hash                           1.06  pkg:cpan/perl@5.44.0
 Tie::Hash::Abbrev                    0.1  pkg:cpan/Tie-Hash-Array@0.1
 Tie::Hash::Abbrev::BibRefs          0.02  pkg:cpan/Tie-Hash-Abbrev-BibRefs@0.02
 Tie::Hash::Abbrev::Smart            0.01  pkg:cpan/Tie-Hash-Array@0.1
@@ -235373,7 +235373,7 @@ Tie::Hash::MultiValue               1.07  pkg:cpan/Tie-Hash-MultiValue@1.07
 Tie::Hash::MultiValueOpts          v1.0.4  pkg:cpan/Tie-Hash-MultiValueOpts@v1.0.4
 Tie::Hash::MultiValueOpts::CLI     v1.0.0  pkg:cpan/Tie-Hash-MultiValueOpts@v1.0.0
 Tie::Hash::MultiValueOrdered       0.006  pkg:cpan/JSON-MultiValueOrdered@0.006
-Tie::Hash::NamedCapture             0.13  pkg:cpan/perl@5.42.2
+Tie::Hash::NamedCapture             0.13  pkg:cpan/perl@5.44.0
 Tie::Hash::NoOp                    0.001  pkg:cpan/Tie-Hash-NoOp@0.001
 Tie::Hash::Random                   1.02  pkg:cpan/Tie-Hash-Random@1.02
 Tie::Hash::Rank                    undef  pkg:cpan/Tie-Hash-Rank@1.0.1
@@ -235432,7 +235432,7 @@ Tie::MLDBM::Serialise::Storable     1.04  pkg:cpan/Tie-MLDBM@1.04
 Tie::MLDBM::Store::DBI              1.04  pkg:cpan/Tie-MLDBM@1.04
 Tie::MLDBM::Store::DB_File          1.04  pkg:cpan/Tie-MLDBM@1.04
 Tie::Math                           0.10  pkg:cpan/Tie-Math@0.10
-Tie::Memoize                         1.1  pkg:cpan/perl@5.42.2
+Tie::Memoize                         1.1  pkg:cpan/perl@5.44.0
 Tie::MmapArray                      0.04  pkg:cpan/Tie-MmapArray@0.04
 Tie::Moose                         0.003  pkg:cpan/Tie-Moose@0.003
 Tie::Moose::FallbackHash           0.003  pkg:cpan/Tie-Moose@0.003
@@ -235496,7 +235496,7 @@ Tie::Rowset::InMemory               1.18  pkg:cpan/SQL-Shell@1.18
 Tie::STDERR                         0.26  pkg:cpan/Tie-STDERR@0.26
 Tie::STDOUT                        1.0500  pkg:cpan/Tie-STDOUT@1.0500
 Tie::SaveLater                      0.05  pkg:cpan/Tie-SaveLater@0.05
-Tie::Scalar                         1.06  pkg:cpan/perl@5.42.2
+Tie::Scalar                         1.06  pkg:cpan/perl@5.44.0
 Tie::Scalar::Callback               0.07  pkg:cpan/Tie-Scalar-Callback@0.07
 Tie::Scalar::Decay                 undef  pkg:cpan/Tie-Scalar-Decay@1.1.1
 Tie::Scalar::Epoch                  0.01  pkg:cpan/Tie-Scalar-Epoch@0.003
@@ -235524,10 +235524,10 @@ Tie::Simple::Scalar                 1.04  pkg:cpan/Tie-Simple@1.04
 Tie::Simple::Util                   1.04  pkg:cpan/Tie-Simple@1.04
 Tie::SortHash                       1.01  pkg:cpan/Tie-SortHash@1.01
 Tie::Static                         0.04  pkg:cpan/Tie-Static@0.04
-Tie::StdArray                       1.07  pkg:cpan/perl@5.42.2
-Tie::StdHandle                       4.6  pkg:cpan/perl@5.42.2
-Tie::StdHash                        1.06  pkg:cpan/perl@5.42.2
-Tie::StdScalar                      1.06  pkg:cpan/perl@5.42.2
+Tie::StdArray                       1.07  pkg:cpan/perl@5.44.0
+Tie::StdHandle                       4.6  pkg:cpan/perl@5.44.0
+Tie::StdHash                        1.06  pkg:cpan/perl@5.44.0
+Tie::StdScalar                      1.06  pkg:cpan/perl@5.44.0
 Tie::StdScalar::Tee                undef  pkg:cpan/SVK@v2.2.3
 Tie::Storable                       0.05  pkg:cpan/Tie-SaveLater@0.05
 Tie::Storable::More                 0.05  pkg:cpan/Tie-SaveLater@0.05
@@ -235544,7 +235544,7 @@ Tie::Sub                           1.001  pkg:cpan/Tie-Sub@1.001
 Tie::Subset                         0.02  pkg:cpan/Tie-Subset@0.02
 Tie::Subset::Array                  0.02  pkg:cpan/Tie-Subset@0.02
 Tie::Subset::Hash                   0.02  pkg:cpan/Tie-Subset@0.02
-Tie::SubstrHash                     1.01  pkg:cpan/perl@5.42.2
+Tie::SubstrHash                     1.01  pkg:cpan/perl@5.44.0
 Tie::Symbol                        0.001  pkg:cpan/Tie-Symbol@0.001
 Tie::SymlinkTree                     1.1  pkg:cpan/Tie-SymlinkTree@1.1
 Tie::SymlinkTree::Array              1.1  pkg:cpan/Tie-SymlinkTree@1.1
@@ -235817,10 +235817,10 @@ Time::Zone                          2.35  pkg:cpan/TimeDate@2.35
 Time::Zone::Olson                   0.46  pkg:cpan/Time-Zone-Olson@0.46
 Time::ZoneInfo                       0.3  pkg:cpan/Time-ZoneInfo@0.3
 Time::dt                           v0.0.1  pkg:cpan/Time-dt@v0.0.1
-Time::gmtime                        1.05  pkg:cpan/perl@5.42.2
-Time::localtime                     1.04  pkg:cpan/perl@5.42.2
+Time::gmtime                        1.05  pkg:cpan/perl@5.44.0
+Time::localtime                     1.04  pkg:cpan/perl@5.44.0
 Time::timegm                        0.01  pkg:cpan/Time-timegm@0.01
-Time::tm                            1.01  pkg:cpan/perl@5.42.2
+Time::tm                            1.01  pkg:cpan/perl@5.44.0
 Time::y2038                        20100403  pkg:cpan/Time-y2038@20100403
 Time::y2038::Everywhere            20100403  pkg:cpan/Time-y2038@20100403
 TimeClass                          undef  pkg:cpan/RObufr@0.03
@@ -238595,7 +238595,7 @@ UMMF::XForm::AssociationNames      1.014  pkg:cpan/UMMF@1.02
 UMMF::XForm::ClassInterface        1.011  pkg:cpan/UMMF@1.02
 UMMF::XForm::FoldMultipleInheritance 1.008  pkg:cpan/UMMF@1.02
 UMMF::XForm::Merge                 1.006  pkg:cpan/UMMF@1.02
-UNIVERSAL                           1.17  pkg:cpan/perl@5.42.2
+UNIVERSAL                           1.18  pkg:cpan/perl@5.44.0
 UNIVERSAL::AUTHORITY               0.006  pkg:cpan/UNIVERSAL-AUTHORITY@0.006
 UNIVERSAL::AUTHORITY::Lexical      0.003  pkg:cpan/UNIVERSAL-AUTHORITY-Lexical@0.003
 UNIVERSAL::Acme                     0.01  pkg:cpan/UNIVERSAL-Acme@0.01
@@ -239674,7 +239674,7 @@ Unicode::Transform                  0.51  pkg:cpan/Unicode-Transform@0.51
 Unicode::Transliterate              0.03  pkg:cpan/Unicode-Transliterate@0.3?ext=tgz
 Unicode::Truncate                  0.303  pkg:cpan/Unicode-Truncate@0.303
 Unicode::Tussle                    1.122  pkg:cpan/Unicode-Tussle@1.122
-Unicode::UCD                        0.81  pkg:cpan/perl@5.42.2
+Unicode::UCD                        0.83  pkg:cpan/perl@5.44.0
 Unicode::UTF8                       0.75  pkg:cpan/Unicode-UTF8@0.75
 Unicode::UTF8simple                 1.06  pkg:cpan/Unicode-UTF8simple@1.06
 Unicode::Unihan                    0.046  pkg:cpan/Unicode-Unihan@0.046
@@ -239899,8 +239899,8 @@ User::Information::Source::VFS     v0.5.0  pkg:cpan/User-Information@v0.05
 User::Information::Source::XDG     v0.5.0  pkg:cpan/User-Information@v0.05
 User::Utmp                           1.8  pkg:cpan/User-Utmp@1.8
 User::getgrouplist                 1.001001  pkg:cpan/User-getgrouplist@1.1.1
-User::grent                         1.05  pkg:cpan/perl@5.42.2
-User::pwent                         1.03  pkg:cpan/perl@5.42.2
+User::grent                         1.05  pkg:cpan/perl@5.44.0
+User::pwent                         1.03  pkg:cpan/perl@5.44.0
 UserAgent::Any                      0.05  pkg:cpan/UserAgent-Any@0.05
 UserAgent::Any::Fake                0.01  pkg:cpan/UserAgent-Any@0.05
 UserAgent::Any::Fake::Request       0.01  pkg:cpan/UserAgent-Any@0.05
@@ -244283,11 +244283,11 @@ VMOMI::WitnessNodeInfo              0.02  pkg:cpan/VMOMI@0.02
 VMPS::Packet                        0.04  pkg:cpan/VMPS-Server@0.04
 VMPS::Server                        0.04  pkg:cpan/VMPS-Server@0.04
 VMS::CMS                             0.3  pkg:cpan/VMS-CMS@0_3?ext=zip
-VMS::DCLsym                         1.09  pkg:cpan/perl@5.42.2
+VMS::DCLsym                         1.09  pkg:cpan/perl@5.44.0
 VMS::Device                         0.11  pkg:cpan/VMS-Device@0_11?ext=zip
 VMS::FileUtils::Root               0.012  pkg:cpan/VMS-FileUtils@0.015
 VMS::FileUtils::SafeName            0.02  pkg:cpan/VMS-FileUtils@0.015
-VMS::Filespec                       1.15  pkg:cpan/perl@5.42.2
+VMS::Filespec                       1.15  pkg:cpan/perl@5.44.0
 VMS::FindFile                       0.92  pkg:cpan/VMS-FindFile@0_92?ext=zip
 VMS::FlatFile                       0.01  pkg:cpan/VMS-FlatFile@0.01?ext=zip
 VMS::ICC                            0.02  pkg:cpan/vms-icc@0_02?ext=zip
@@ -244302,7 +244302,7 @@ VMS::Priv                           1.32  pkg:cpan/VMS-Priv@1_32?ext=zip
 VMS::Process                        1.09  pkg:cpan/VMS-Process@1_09?ext=zip
 VMS::Queue                          0.58  pkg:cpan/VMS-Queue@0_58?ext=zip
 VMS::Stat                           0.03  pkg:cpan/vms-stat@0_03?ext=zip
-VMS::Stdio                          2.46  pkg:cpan/perl@5.42.2
+VMS::Stdio                          2.46  pkg:cpan/perl@5.44.0
 VMS::System                         1.05  pkg:cpan/VMS-System@1_05?ext=zip
 VMS::Time                            0.1  pkg:cpan/VMS-Time@0_1?ext=zip
 VMS::User                           0.02  pkg:cpan/vms-user@0_02?ext=zip
@@ -255569,7 +255569,7 @@ Win32API::RecentFiles               0.04  pkg:cpan/Win32API-RecentFiles@0.04
 Win32API::Registry                  0.33  pkg:cpan/Win32API-Registry@0.33
 Win32API::Resources                 0.07  pkg:cpan/Win32API-Resources@0.06
 Win32API::ToolHelp                  0.02  pkg:cpan/Win32API-ToolHelp@0.02
-Win32CORE                           0.04  pkg:cpan/perl@5.42.2
+Win32CORE                           0.04  pkg:cpan/perl@5.44.0
 Win::SerialPort                     0.23  pkg:cpan/Win-SerialPort@0.23
 WinAPI::CommPort                    0.21  pkg:cpan/Win-SerialPort@0.23
 WinConsole                          0.01  pkg:cpan/Term-WinConsole@0.01
@@ -260082,7 +260082,7 @@ XRI::Descriptor                      0.1  pkg:cpan/XRI@0.2.4
 XRI::Descriptor::LocalAccess         0.1  pkg:cpan/XRI@0.2.4
 XRI::Parse                           0.1  pkg:cpan/XRI@0.2.4
 XRI::Resolution::Lite               0.04  pkg:cpan/XRI-Resolution-Lite@0.04
-XS::APItest                         1.43  pkg:cpan/perl@5.42.2
+XS::APItest                         1.50  pkg:cpan/perl@5.44.0
 XS::Assert                         0.002  pkg:cpan/XS-Assert@0.002
 XS::Base                            1.04  pkg:cpan/XS-Base@1.04
 XS::Check                           0.14  pkg:cpan/XS-Check@0.14
@@ -260125,7 +260125,7 @@ XS::Tutorial                       undef  pkg:cpan/XS-Tutorial@0.04
 XS::Tutorial::One                  undef  pkg:cpan/XS-Tutorial@0.04
 XS::Tutorial::Three                undef  pkg:cpan/XS-Tutorial@0.04
 XS::Tutorial::Two                  undef  pkg:cpan/XS-Tutorial@0.04
-XS::Typemap                         0.20  pkg:cpan/perl@5.42.2
+XS::Typemap                         0.22  pkg:cpan/perl@5.44.0
 XS::Writer                          0.02  pkg:cpan/XS-Writer@0.02
 XS::libboost::mini                 1.087000000  pkg:cpan/XS-libboost-mini@1.87.0.0
 XS::libbrotli                      1.001000000  pkg:cpan/XS-libbrotli@1.1.0.0
@@ -262648,7 +262648,7 @@ attachments::FileBodyWrapper       undef  pkg:cpan/ZZZ-SDK@0.0.2
 attachments::ResponseWrapper       undef  pkg:cpan/ZZZ-SDK@0.0.2
 attachments::SuccessResponse       undef  pkg:cpan/ZZZ-SDK@0.0.2
 attachments::UploadLinkAttachmentParam undef  pkg:cpan/ZZZ-SDK@0.0.2
-attributes                          0.36  pkg:cpan/perl@5.42.2
+attributes                          0.37  pkg:cpan/perl@5.44.0
 attrs                               1.03  pkg:cpan/perl@5.10.1
 authority                          0.005  pkg:cpan/authority@0.005
 autobless                            1.0  pkg:cpan/autobless@1.0.1
@@ -262735,7 +262735,7 @@ bindingsc                          undef  pkg:cpan/nvidia-ml-pl@4.304.2
 bitflag                             0.01  pkg:cpan/bitflag@0.01
 bitflag::ct                         0.01  pkg:cpan/bitflag-ct@0.01
 bitflags                           undef  pkg:cpan/bitflags@0.10
-blib                                1.07  pkg:cpan/perl@5.42.2
+blib                                1.07  pkg:cpan/perl@5.44.0
 bluefuse_file                       1.23  pkg:cpan/Microarray@0.45c?ext=zip
 bluefuse_post_file                  1.23  pkg:cpan/Microarray@0.45c?ext=zip
 blueprint::APIException            undef  pkg:cpan/ZZZ-SDK@0.0.2
@@ -262961,7 +262961,7 @@ build::Wx::XSP::Event              undef  pkg:cpan/Wx@0.9932
 build::Wx::XSP::Overload           undef  pkg:cpan/Wx@0.9932
 build::Wx::XSP::Virtual            undef  pkg:cpan/Wx@0.9932
 builder::MyBuilder                 undef  pkg:cpan/Perl-LanguageServer@2.0.2
-builtin                            0.019  pkg:cpan/perl@5.42.2
+builtin                            0.019  pkg:cpan/perl@5.44.0
 builtin::Backport                   0.02  pkg:cpan/builtin-Backport@0.02
 builtin::compat                    0.003003  pkg:cpan/builtin-compat@0.003003
 builtins                           0.000008  pkg:cpan/builtins@0.000008
@@ -262990,7 +262990,7 @@ bulkwrite::Resource                undef  pkg:cpan/ZZZ-SDK@0.0.2
 bulkwrite::Result                  undef  pkg:cpan/ZZZ-SDK@0.0.2
 bulkwrite::SuccessResponse         undef  pkg:cpan/ZZZ-SDK@0.0.2
 bulkwrite::UploadFileHeader        undef  pkg:cpan/ZZZ-SDK@0.0.2
-bytes                               1.09  pkg:cpan/perl@5.42.2
+bytes                               1.09  pkg:cpan/perl@5.44.0
 c                                   0.04  pkg:cpan/Catalyst-View-Template-Declare@0.04
 cPanel                             0.000001  pkg:cpan/cPanel@v0.0.1
 cPanel::3rdparty::ModuleInstaller  0.000006  pkg:cpan/cPanel-3rdparty-moduleinstaller@v0.0.6
@@ -263056,7 +263056,7 @@ cgh_analysis                         1.9  pkg:cpan/Microarray@0.45c?ext=zip
 cgh_plot                             1.9  pkg:cpan/Microarray@0.45c?ext=zip
 chain                              undef  pkg:cpan/Parse-YALALR@0.02
 character                          0.400  pkg:cpan/Perl-Types@0.400
-charnames                           1.50  pkg:cpan/perl@5.42.2
+charnames                           1.51  pkg:cpan/perl@5.44.0
 charstar                           0.9912  pkg:cpan/version@0.9912
 chdir2src                          undef  pkg:cpan/Embperl@3.0.1
 checkDependencies                  undef  pkg:cpan/IxNetwork@9.01
@@ -263188,9 +263188,9 @@ deferred                            0.01  pkg:cpan/deferred@0.01
 define                              1.04  pkg:cpan/define@1.04
 delay_use                           1.00  pkg:cpan/delay_use@1.00
 delimited_file                      1.24  pkg:cpan/Microarray@0.45c?ext=zip
-deprecate                           0.04  pkg:cpan/perl@5.42.2
+deprecate                           0.04  pkg:cpan/perl@5.44.0
 devtools                            0.02  pkg:cpan/devtools@0.02
-diagnostics                         1.40  pkg:cpan/perl@5.42.2
+diagnostics                         1.40  pkg:cpan/perl@5.44.0
 diffReps::ChromaModSite            1.122  pkg:cpan/diffReps@1.55.3
 diffReps::ClustList                 1.11  pkg:cpan/diffReps@1.55.3
 diffReps::DiffRes                   1.11  pkg:cpan/diffReps@1.55.3
@@ -264675,7 +264675,7 @@ failure                            0.004  pkg:cpan/failures@0.004
 failures                           0.004  pkg:cpan/failures@0.004
 fake                               undef  pkg:cpan/rpm-build-perl@0.82
 fake_sth                            0.91  pkg:cpan/Apache-HTMLView@0.91
-feature                             1.97  pkg:cpan/perl@5.42.2
+feature                             2.02  pkg:cpan/perl@5.44.0
 fewer                              0.204  pkg:cpan/fewer@0.204
 fields                              2.23  pkg:cpan/base@2.23
 fields::APIException               undef  pkg:cpan/ZZZ-SDK@0.0.2
@@ -264708,7 +264708,7 @@ filehandleref                      0.400  pkg:cpan/Perl-Types@0.400
 filename                           v0.20.60  pkg:cpan/filename@v0.20.060
 files                              undef  pkg:cpan/xisofs@1.3
 fileselection1                     undef  pkg:cpan/Glade-Perl@0.57
-filetest                            1.03  pkg:cpan/perl@5.42.2
+filetest                            1.03  pkg:cpan/perl@5.44.0
 filex                              undef  pkg:cpan/zxid@1.42?ext=tgz
 filter_ent                         undef  pkg:cpan/App-Greple@8.58
 filtered                           0.000007  pkg:cpan/filtered@v0.0.7
@@ -264885,7 +264885,7 @@ inner_lazy                          0.12  pkg:cpan/Wraith@0.12
 input                               0.72  pkg:cpan/ObjStore@1.59
 install                             0.01  pkg:cpan/install@0.01
 installed                          undef  pkg:cpan/Text-Tradition@2.1.0
-integer                             1.01  pkg:cpan/perl@5.42.2
+integer                             1.01  pkg:cpan/perl@5.44.0
 integer::method                    0.100  pkg:cpan/Perl-Types@0.100
 intensity_heatmap                    1.5  pkg:cpan/Microarray@0.45c?ext=zip
 intensity_scatter                    1.5  pkg:cpan/Microarray@0.45c?ext=zip
@@ -264962,7 +264962,7 @@ layouts::ResponseWrapper           undef  pkg:cpan/ZZZ-SDK@0.0.2
 layouts::Section                   undef  pkg:cpan/ZZZ-SDK@0.0.2
 lazy                               1.000002  pkg:cpan/lazy@1.000002
 lc_time                             0.15  pkg:cpan/lc_time@0.15
-less                                0.03  pkg:cpan/perl@5.42.2
+less                                0.03  pkg:cpan/perl@5.44.0
 lexical::underscore                0.004  pkg:cpan/lexical-underscore@0.004
 lexically                           0.03  pkg:cpan/lexically@0.03
 lexicals                            0.35  pkg:cpan/lexicals@0.35
@@ -265057,7 +265057,7 @@ lims_interface                       1.4  pkg:cpan/LIMS-Controller@1.6b?ext=zip
 load                                0.26  pkg:cpan/load@0.26
 local                              undef  pkg:cpan/Google-OAuth@0.05
 local::lib                         2.000029  pkg:cpan/local-lib@2.000029
-locale                              1.13  pkg:cpan/perl@5.42.2
+locale                              1.13  pkg:cpan/perl@5.44.0
 log2_heatmap                         1.5  pkg:cpan/Microarray@0.45c?ext=zip
 log_file                            1.24  pkg:cpan/Microarray@0.45c?ext=zip
 loose                               0.01  pkg:cpan/loose@0.01
@@ -265159,7 +265159,7 @@ modules::SuccessResponse           undef  pkg:cpan/ZZZ-SDK@0.0.2
 modules::Territory                 undef  pkg:cpan/ZZZ-SDK@0.0.2
 monkeypatch                        0.001  pkg:cpan/monkeypatch@0.001
 more                               0.204  pkg:cpan/fewer@0.204
-mro                                 1.29  pkg:cpan/perl@5.42.2
+mro                                 1.30  pkg:cpan/perl@5.44.0
 mro::EVERY                         1.000003  pkg:cpan/mro-EVERY@v1.0.3
 mt_1536                             1.17  pkg:cpan/LIMS-MT_Plate@1.17?ext=zip
 mt_384                              1.17  pkg:cpan/LIMS-MT_Plate@1.17?ext=zip
@@ -265312,9 +265312,9 @@ oo::Lax                             2.00  pkg:cpan/Moo-Lax@2.00
 oo_sub                             1.001000  pkg:cpan/oo_sub@v1.1.0
 oos                                undef  pkg:cpan/Moos@0.30
 oose                               2.4000  pkg:cpan/Moose@2.4000
-open                                1.13  pkg:cpan/perl@5.42.2
+open                                1.13  pkg:cpan/perl@5.44.0
 open::layers                       0.003  pkg:cpan/open-layers@0.003
-ops                                 1.02  pkg:cpan/perl@5.42.2
+ops                                 1.02  pkg:cpan/perl@5.44.0
 optimize                            0.05  pkg:cpan/optimize@0.05
 optimize::int                      undef  pkg:cpan/optimize@0.05
 optimizer                           0.08  pkg:cpan/optimizer@0.08
@@ -265344,14 +265344,14 @@ orz                                 0.24  pkg:cpan/orz@0.24
 oses                               1.003  pkg:cpan/Adam@1.003
 ossec::log::parse                  undef  pkg:cpan/Ossec-Log-Parse@0.1.1
 ouse                               undef  pkg:cpan/Mouse@v2.6.2
-overload                            1.40  pkg:cpan/perl@5.42.2
+overload                            1.40  pkg:cpan/perl@5.44.0
 overload::eval                      0.10  pkg:cpan/overload-eval@0.10
-overload::numbers                  undef  pkg:cpan/perl@5.42.2
+overload::numbers                  undef  pkg:cpan/perl@5.44.0
 overload::open                     v1.9.6  pkg:cpan/overload-open@1.9.6
 overload::reify                     0.07  pkg:cpan/overload-reify@0.07
 overload::substr                    0.04  pkg:cpan/overload-substr@0.04
 overload::x                         1.02  pkg:cpan/overload-x@1.02
-overloading                         0.02  pkg:cpan/perl@5.42.2
+overloading                         0.03  pkg:cpan/perl@5.44.0
 oxdperl                             0.05  pkg:cpan/oxdperl@0.05
 oxdperl_sobhanTest                 3.2.1  pkg:cpan/oxdperl_sobhantest@3.2.1
 p2                                  0.02  pkg:cpan/p2@0.02
@@ -265929,7 +265929,7 @@ quantarray_file                     2.20  pkg:cpan/Microarray@0.45c?ext=zip
 quantarray_image                    2.20  pkg:cpan/Microarray@0.45c?ext=zip
 quotes                              0.09  pkg:cpan/Finance-Quant@0.09
 random                              0.02  pkg:cpan/random@0.02
-re                                  0.48  pkg:cpan/perl@5.42.2
+re                                  0.48  pkg:cpan/perl@5.44.0
 re::engine::GNU                    0.027  pkg:cpan/re-engine-GNU@0.027
 re::engine::Hooks                   0.06  pkg:cpan/re-engine-Hooks@0.06
 re::engine::Hyperscan               0.03  pkg:cpan/re-engine-Hyperscan@0.03
@@ -266104,7 +266104,7 @@ sharerecords::SharedThrough        undef  pkg:cpan/ZZZ-SDK@0.0.2
 sharerecords::SuccessResponse      undef  pkg:cpan/ZZZ-SDK@0.0.2
 shit                                0.02  pkg:cpan/shit@0.02
 signatures                          0.14  pkg:cpan/signatures@0.14
-sigtrap                             1.10  pkg:cpan/perl@5.42.2
+sigtrap                             1.10  pkg:cpan/perl@5.44.0
 simpleXMLParse                       3.1  pkg:cpan/simplexmlparse@v3.1
 simple_delimited_file               1.24  pkg:cpan/Microarray@0.45c?ext=zip
 simple_plate_file                   1.12  pkg:cpan/LIMS-MT_Plate@1.17?ext=zip
@@ -266118,8 +266118,8 @@ smallnum::XS                        1.00  pkg:cpan/smallnum-XS@1.00
 smg                                 0.01  pkg:cpan/smg?ext=zip
 smokebrew                           1.06  pkg:cpan/smokebrew@1.06
 snaked                              0.14  pkg:cpan/snaked@0.14
-sort                                2.06  pkg:cpan/perl@5.42.2
-source::encoding                    0.01  pkg:cpan/perl@5.42.2
+sort                                2.06  pkg:cpan/perl@5.44.0
+source::encoding                    0.01  pkg:cpan/perl@5.44.0
 spice                               0.01  pkg:cpan/Spice@0_01
 sprite_view                          1.0  pkg:cpan/TiVo-HME@1.3
 sqlCondition                       0.002006  pkg:cpan/SQL-QueryBuilder-OO@0.2.6
@@ -266156,7 +266156,7 @@ status                             undef  pkg:cpan/xisofs@1.3
 stdouthandle                        1.27  pkg:cpan/WebTools@1.27
 stl                                undef  pkg:cpan/Class-STL-Containers@0.37
 str2fd                             undef  pkg:cpan/Pod-ToDocBook@0.9
-strict                              1.14  pkg:cpan/perl@5.42.2
+strict                              1.14  pkg:cpan/perl@5.44.0
 strict::ModuleName                  0.04  pkg:cpan/strict-ModuleName@0.04
 strictures                         2.000006  pkg:cpan/strictures@2.000006
 strictures::extra                  undef  pkg:cpan/strictures@2.000006
@@ -266166,7 +266166,7 @@ string::hashref                    0.100  pkg:cpan/Perl-Types@0.100
 string::hashref::arrayref          0.100  pkg:cpan/Perl-Types@0.100
 subimp                             undef  pkg:cpan/Embperl@3.0.1
 subroutines                        0.001  pkg:cpan/subroutines@0.001
-subs                                1.04  pkg:cpan/perl@5.42.2
+subs                                1.04  pkg:cpan/perl@5.44.0
 subs::auto                          0.08  pkg:cpan/subs-auto@0.08
 subs::parallel                      0.09  pkg:cpan/subs-parallel@0.09
 suggested                          0.003  pkg:cpan/recommended@0.003
@@ -266326,7 +266326,7 @@ users::User                        undef  pkg:cpan/ZZZ-SDK@0.0.2
 users::UsersOperations             undef  pkg:cpan/ZZZ-SDK@0.0.2
 usw                                 0.12  pkg:cpan/usw@0.12
 usww                                0.12  pkg:cpan/usw@0.12
-utf8                                1.27  pkg:cpan/perl@5.42.2
+utf8                                1.29  pkg:cpan/perl@5.44.0
 utf8::all                          0.026  pkg:cpan/utf8-all@0.026
 util                               undef  pkg:cpan/App-optex@v0.0.4
 util::argv                         undef  pkg:cpan/App-optex@v0.0.4
@@ -266359,7 +266359,7 @@ variables::ResponseWrapper         undef  pkg:cpan/ZZZ-SDK@0.0.2
 variables::SuccessResponse         undef  pkg:cpan/ZZZ-SDK@0.0.2
 variables::Variable                undef  pkg:cpan/ZZZ-SDK@0.0.2
 variables::VariablesOperations     undef  pkg:cpan/ZZZ-SDK@0.0.2
-vars                                1.05  pkg:cpan/perl@5.42.2
+vars                                1.05  pkg:cpan/perl@5.44.0
 vars::global                       0.000004  pkg:cpan/vars-global@0.0.4
 vars::i                            2.000000  pkg:cpan/vars-i@2.000000
 vendorlib                           0.12  pkg:cpan/vendorlib@0.12
@@ -266378,7 +266378,7 @@ view                               undef  pkg:cpan/Gantry@3.64
 viewer3                            0.000001  pkg:cpan/App-SeismicUnixGui@0.87.5
 vm                                   1.0  pkg:cpan/vm@1.0.1
 vm::mmap                             1.0  pkg:cpan/vm@1.0.1
-vmsish                              1.04  pkg:cpan/perl@5.42.2
+vmsish                              1.04  pkg:cpan/perl@5.44.0
 voiceIt2                            3.12  pkg:cpan/voiceIt2@3.12
 voiceIt::voiceIt2                    3.8  pkg:cpan/voiceIt-voiceIt2@3.8
 void                               0.400  pkg:cpan/Perl-Types@0.400
@@ -266423,7 +266423,7 @@ vptk_w::VPTK_Widget::packAdjust    undef  pkg:cpan/vptk_w@2_42b?ext=tgz
 vsDB                               1.004003  pkg:cpan/vsDB@1.4.3
 w3http                             1.000023  pkg:cpan/w3mir@1.0.10
 w3pdfuri                             0.1  pkg:cpan/w3mir@1.0.10
-warnings                            1.74  pkg:cpan/perl@5.42.2
+warnings                            1.78  pkg:cpan/perl@5.44.0
 warnings::DynamicScope              1.04  pkg:cpan/warnings-DynamicScope@1.04
 warnings::DynamicScope::WARNINGS_HASH  1.04  pkg:cpan/warnings-DynamicScope@1.04
 warnings::DynamicScope::WARNINGS_SCALAR  1.04  pkg:cpan/warnings-DynamicScope@1.04
@@ -266436,7 +266436,7 @@ warnings::lock                         1  pkg:cpan/warnings-lock@1
 warnings::method                    0.10  pkg:cpan/warnings-method@0.10
 warnings::pedantic                  0.02  pkg:cpan/warnings-pedantic@0.02
 warnings::regex::recompile          0.01  pkg:cpan/warnings-regex-recompile@0.01?ext=zip
-warnings::register                  1.06  pkg:cpan/perl@5.42.2
+warnings::register                  1.06  pkg:cpan/perl@5.44.0
 warnings::unused                    0.06  pkg:cpan/warnings-unused@0.06
 wcenter                            undef  pkg:cpan/xisofs@1.3
 web                                 1.44  pkg:cpan/web@1.44
