@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 15 Jul 2026 11:24:17 GMT
+Last-Updated: Wed, 15 Jul 2026 13:20:50 GMT
 Line-Count: 266459
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -16685,7 +16685,7 @@ App::sourcepan                      0.05  pkg:cpan/App-sourcepan@0.05
 App::spaceless                      0.08  pkg:cpan/App-spaceless@0.08
 App::sponge                        0.003  pkg:cpan/App-sponge@0.003
 App::squidauth                     0.002  pkg:cpan/App-squidauth@0.002
-App::sshca                         0.000007  pkg:cpan/App-sshca@0.0.7
+App::sshca                         0.000008  pkg:cpan/App-sshca@0.0.8
 App::sshwrap::hostcolor            0.009  pkg:cpan/App-sshwrap-hostcolor@0.009
 App::sslmaker                       0.21  pkg:cpan/App-sslmaker@0.21
 App::starbucksloginator            0.0012  pkg:cpan/App-starbucksloginator@0.0012
