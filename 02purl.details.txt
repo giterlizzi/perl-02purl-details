@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 15 Jul 2026 01:48:35 GMT
-Line-Count: 266456
+Last-Updated: Wed, 15 Jul 2026 04:44:53 GMT
+Line-Count: 266459
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -147634,21 +147634,21 @@ Net::Curl::Multi::EV                0.08  pkg:cpan/curl_ev@0.08
 Net::Curl::Parallel                v2.0.0  pkg:cpan/Net-Curl-Parallel@2.0.0
 Net::Curl::Parallel::Response      v2.0.0  pkg:cpan/Net-Curl-Parallel@2.0.0
 Net::Curl::Parallel::Types         v2.0.0  pkg:cpan/Net-Curl-Parallel@2.0.0
-Net::Curl::Promiser                 0.20  pkg:cpan/Net-Curl-Promiser@0.20
-Net::Curl::Promiser::AnyEvent      undef  pkg:cpan/Net-Curl-Promiser@0.20
-Net::Curl::Promiser::Backend       undef  pkg:cpan/Net-Curl-Promiser@0.20
-Net::Curl::Promiser::Backend::AnyEvent undef  pkg:cpan/Net-Curl-Promiser@0.20
-Net::Curl::Promiser::Backend::IOAsync undef  pkg:cpan/Net-Curl-Promiser@0.20
-Net::Curl::Promiser::Backend::LoopBase undef  pkg:cpan/Net-Curl-Promiser@0.20
-Net::Curl::Promiser::Backend::Mojo undef  pkg:cpan/Net-Curl-Promiser@0.20
-Net::Curl::Promiser::Backend::Select undef  pkg:cpan/Net-Curl-Promiser@0.20
-Net::Curl::Promiser::FDFHStore     undef  pkg:cpan/Net-Curl-Promiser@0.20
-Net::Curl::Promiser::IOAsync       undef  pkg:cpan/Net-Curl-Promiser@0.20
-Net::Curl::Promiser::LeakDetector  undef  pkg:cpan/Net-Curl-Promiser@0.20
-Net::Curl::Promiser::LoopBase      undef  pkg:cpan/Net-Curl-Promiser@0.20
-Net::Curl::Promiser::Mojo          undef  pkg:cpan/Net-Curl-Promiser@0.20
+Net::Curl::Promiser                 0.21  pkg:cpan/Net-Curl-Promiser@0.21
+Net::Curl::Promiser::AnyEvent      undef  pkg:cpan/Net-Curl-Promiser@0.21
+Net::Curl::Promiser::Backend       undef  pkg:cpan/Net-Curl-Promiser@0.21
+Net::Curl::Promiser::Backend::AnyEvent undef  pkg:cpan/Net-Curl-Promiser@0.21
+Net::Curl::Promiser::Backend::IOAsync undef  pkg:cpan/Net-Curl-Promiser@0.21
+Net::Curl::Promiser::Backend::LoopBase undef  pkg:cpan/Net-Curl-Promiser@0.21
+Net::Curl::Promiser::Backend::Mojo undef  pkg:cpan/Net-Curl-Promiser@0.21
+Net::Curl::Promiser::Backend::Select undef  pkg:cpan/Net-Curl-Promiser@0.21
+Net::Curl::Promiser::FDFHStore     undef  pkg:cpan/Net-Curl-Promiser@0.21
+Net::Curl::Promiser::IOAsync       undef  pkg:cpan/Net-Curl-Promiser@0.21
+Net::Curl::Promiser::LeakDetector  undef  pkg:cpan/Net-Curl-Promiser@0.21
+Net::Curl::Promiser::LoopBase      undef  pkg:cpan/Net-Curl-Promiser@0.21
+Net::Curl::Promiser::Mojo          undef  pkg:cpan/Net-Curl-Promiser@0.21
 Net::Curl::Promiser::Mojo::FDFHStore undef  pkg:cpan/Net-Curl-Promiser@0.06
-Net::Curl::Promiser::Select        undef  pkg:cpan/Net-Curl-Promiser@0.20
+Net::Curl::Promiser::Select        undef  pkg:cpan/Net-Curl-Promiser@0.21
 Net::Curl::Share                    0.58  pkg:cpan/Net-Curl@0.58
 Net::Curl::Share::Code              0.58  pkg:cpan/Net-Curl@0.58
 Net::Curl::Simple                   0.13  pkg:cpan/Net-Curl-Simple@0.13
@@ -228539,10 +228539,13 @@ Template::Directive::Userdef        1.30  pkg:cpan/Template-Toolkit@1.07
 Template::Directive::While          1.30  pkg:cpan/Template-Toolkit@1.07
 Template::Directive::XSSAudit       1.03  pkg:cpan/Template-Directive-XSSAudit@1.03
 Template::Document                 3.106  pkg:cpan/Template-Toolkit@3.106
-Template::EmbeddedPerl             0.001015  pkg:cpan/Template-EmbeddedPerl@0.001015
-Template::EmbeddedPerl::Compiled   undef  pkg:cpan/Template-EmbeddedPerl@0.001015
-Template::EmbeddedPerl::SafeString undef  pkg:cpan/Template-EmbeddedPerl@0.001015
-Template::EmbeddedPerl::Utils      undef  pkg:cpan/Template-EmbeddedPerl@0.001015
+Template::EmbeddedPerl             0.001016  pkg:cpan/Template-EmbeddedPerl@0.001016
+Template::EmbeddedPerl::Arguments  undef  pkg:cpan/Template-EmbeddedPerl@0.001016
+Template::EmbeddedPerl::Compiled   undef  pkg:cpan/Template-EmbeddedPerl@0.001016
+Template::EmbeddedPerl::RenderContext undef  pkg:cpan/Template-EmbeddedPerl@0.001016
+Template::EmbeddedPerl::RenderFrame undef  pkg:cpan/Template-EmbeddedPerl@0.001016
+Template::EmbeddedPerl::SafeString undef  pkg:cpan/Template-EmbeddedPerl@0.001016
+Template::EmbeddedPerl::Utils      undef  pkg:cpan/Template-EmbeddedPerl@0.001016
 Template::Exception                3.106  pkg:cpan/Template-Toolkit@3.106
 Template::ExpandHash                0.01  pkg:cpan/Template-ExpandHash@0.01
 Template::Extract                   0.50  pkg:cpan/Template-Extract@0.50
