@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 14 Jul 2026 22:51:07 GMT
-Line-Count: 266454
+Last-Updated: Wed, 15 Jul 2026 01:48:35 GMT
+Line-Count: 266456
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -79165,6 +79165,8 @@ Game::Tibia::Packet::Charlist      0.007  pkg:cpan/Game-Tibia-Packet@0.007
 Game::Tibia::Packet::Login         0.007  pkg:cpan/Game-Tibia-Packet@0.007
 Game::TileMap                      1.001  pkg:cpan/Game-TileMap@1.001
 Game::TileMap::Legend              1.001  pkg:cpan/Game-TileMap@1.001
+Game::TileMap::Pathfinding         0.001  pkg:cpan/Game-TileMap-Pathfinding@0.001
+Game::TileMap::Pathfinding::Result 0.001  pkg:cpan/Game-TileMap-Pathfinding@0.001
 Game::TileMap::Role::Checks        1.001  pkg:cpan/Game-TileMap@1.001
 Game::TileMap::Role::Helpers       1.001  pkg:cpan/Game-TileMap@1.001
 Game::TileMap::Tile                1.001  pkg:cpan/Game-TileMap@1.001
@@ -144045,7 +144047,7 @@ Music::Tension::Counterpoint        1.03  pkg:cpan/Music-Tension@1.03
 Music::Tension::PlompLevelt         1.03  pkg:cpan/Music-Tension@1.03
 Music::ToRoman                     0.2002  pkg:cpan/Music-ToRoman@0.2002
 Music::VoiceGen                     0.02  pkg:cpan/Music-VoiceGen@0.02
-Music::VoicePhrase                 0.0119  pkg:cpan/Music-VoicePhrase@0.0119
+Music::VoicePhrase                 0.0120  pkg:cpan/Music-VoicePhrase@0.0120
 Music::Voss                         0.16  pkg:cpan/Music-Voss@0.16
 MusicBase                          0.001  pkg:cpan/DBIx-Class-Migration@0.044
 MusicBase::Schema                      3  pkg:cpan/DBIx-Class-Migration@0.044
@@ -225462,11 +225464,11 @@ Syntax::Feature::Try::Handler      undef  pkg:cpan/Syntax-Feature-Try@0.002
 Syntax::Feature::ValuesOnArray      0.04  pkg:cpan/Syntax-Feature-EachOnArray@0.04
 Syntax::Feature::With               0.02  pkg:cpan/Syntax-Feature-With@0.02
 Syntax::Feature::With::ReadonlyScalar  0.02  pkg:cpan/Syntax-Feature-With@0.02
-Syntax::Highlight::Basic           0.001000  pkg:cpan/Syntax-Highlight-Basic@0.1.0
-Syntax::Highlight::Basic::Output::Ansi undef  pkg:cpan/Syntax-Highlight-Basic@0.1.0
-Syntax::Highlight::Basic::Output::HTML undef  pkg:cpan/Syntax-Highlight-Basic@0.1.0
-Syntax::Highlight::Basic::Output::Pygments undef  pkg:cpan/Syntax-Highlight-Basic@0.1.0
-Syntax::Highlight::Basic::Parser   undef  pkg:cpan/Syntax-Highlight-Basic@0.1.0
+Syntax::Highlight::Basic           0.001001  pkg:cpan/Syntax-Highlight-Basic@0.1.1
+Syntax::Highlight::Basic::Output::Ansi undef  pkg:cpan/Syntax-Highlight-Basic@0.1.1
+Syntax::Highlight::Basic::Output::HTML undef  pkg:cpan/Syntax-Highlight-Basic@0.1.1
+Syntax::Highlight::Basic::Output::Pygments undef  pkg:cpan/Syntax-Highlight-Basic@0.1.1
+Syntax::Highlight::Basic::Parser   undef  pkg:cpan/Syntax-Highlight-Basic@0.1.1
 Syntax::Highlight::CSS             0.0103  pkg:cpan/Syntax-Highlight-CSS@0.0103
 Syntax::Highlight::Engine::Kate     0.16  pkg:cpan/Syntax-Highlight-Engine-Kate@0.16
 Syntax::Highlight::Engine::Kate::ABC  0.16  pkg:cpan/Syntax-Highlight-Engine-Kate@0.16
@@ -225878,7 +225880,7 @@ Sys::OsPackage::Driver::Arch       0.004000  pkg:cpan/Sys-OsPackage@0.4.0
 Sys::OsPackage::Driver::Debian     0.004000  pkg:cpan/Sys-OsPackage@0.4.0
 Sys::OsPackage::Driver::RPM        0.004000  pkg:cpan/Sys-OsPackage@0.4.0
 Sys::OsPackage::Driver::Suse       0.004000  pkg:cpan/Sys-OsPackage@0.4.0
-Sys::OsRelease                     0.003001  pkg:cpan/Sys-OsRelease@0.3.1
+Sys::OsRelease                     0.004000  pkg:cpan/Sys-OsRelease@0.4.0
 Sys::OutPut                        undef  pkg:cpan/Sys-OutPut@2.1
 Sys::PageCache                      0.07  pkg:cpan/Sys-PageCache@0.07
 Sys::Path                           0.16  pkg:cpan/Sys-Path@0.16
