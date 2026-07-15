@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 15 Jul 2026 15:20:39 GMT
-Line-Count: 266459
+Last-Updated: Wed, 15 Jul 2026 17:09:14 GMT
+Line-Count: 266477
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -3858,7 +3858,8 @@ Agent::Transport::TCP              undef  pkg:cpan/Agent@3.20
 Agni                               undef  pkg:cpan/PApp@2.4
 Agni::Callback                     undef  pkg:cpan/PApp@2.4
 Aion                                 2.2  pkg:cpan/Aion@2.2
-Aion::Annotation                   v0.0.3  pkg:cpan/Aion-Annotation@0.0.3
+Aion::Annotation                   v0.1.0  pkg:cpan/Aion-Annotation@0.1.0
+Aion::Annotation::ScannedEvent     undef  pkg:cpan/Aion-Annotation@0.1.0
 Aion::Carp                           1.6  pkg:cpan/Aion-Carp@1.6
 Aion::Emitter                      v0.1.2  pkg:cpan/Aion-Emitter@0.1.2
 Aion::Emitter::ListenersRun        undef  pkg:cpan/Aion-Emitter@0.1.2
@@ -30527,7 +30528,7 @@ Business::IS::PIN                   0.06  pkg:cpan/Business-IS-PIN@0.06
 Business::ISBN                     3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN10                   3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN13                   3.014  pkg:cpan/Business-ISBN@3.014
-Business::ISBN::Data               20260704.001  pkg:cpan/Business-ISBN-Data@20260704.001
+Business::ISBN::Data               20260715.001  pkg:cpan/Business-ISBN-Data@20260715.001
 Business::ISIN                      0.20  pkg:cpan/Business-ISIN@0.20?ext=tgz
 Business::ISMN                     1.205  pkg:cpan/Business-ISMN@1.205
 Business::ISMN::Data               1.205  pkg:cpan/Business-ISMN@1.205
@@ -35056,23 +35057,23 @@ Call::Haskell::FFIGenerator        0.002001  pkg:cpan/Call-Haskell@v0.2.1
 Call::Haskell::ReadShow            0.001001  pkg:cpan/Call-Haskell@v0.2.1
 Call::Immediate                     0.01  pkg:cpan/Call-Immediate@0.01
 Call::Immediate::Call              undef  pkg:cpan/Call-Immediate@0.01
-CallBackery                        0.057000  pkg:cpan/CallBackery@0.57.0
-CallBackery::Config                undef  pkg:cpan/CallBackery@0.57.0
-CallBackery::Controller::RpcService undef  pkg:cpan/CallBackery@0.57.0
-CallBackery::Database              undef  pkg:cpan/CallBackery@0.57.0
-CallBackery::Exception             undef  pkg:cpan/CallBackery@0.57.0
-CallBackery::GuiPlugin::Abstract   undef  pkg:cpan/CallBackery@0.57.0
-CallBackery::GuiPlugin::AbstractAction undef  pkg:cpan/CallBackery@0.57.0
-CallBackery::GuiPlugin::AbstractCardlist undef  pkg:cpan/CallBackery@0.57.0
-CallBackery::GuiPlugin::AbstractForm undef  pkg:cpan/CallBackery@0.57.0
-CallBackery::GuiPlugin::AbstractHtml undef  pkg:cpan/CallBackery@0.57.0
-CallBackery::GuiPlugin::AbstractTable undef  pkg:cpan/CallBackery@0.57.0
-CallBackery::GuiPlugin::UserForm   undef  pkg:cpan/CallBackery@0.57.0
-CallBackery::GuiPlugin::Users      undef  pkg:cpan/CallBackery@0.57.0
-CallBackery::Model::ConfigJsonSchema undef  pkg:cpan/CallBackery@0.57.0
-CallBackery::Plugin::Doc           undef  pkg:cpan/CallBackery@0.57.0
-CallBackery::Translate             undef  pkg:cpan/CallBackery@0.57.0
-CallBackery::User                  undef  pkg:cpan/CallBackery@0.57.0
+CallBackery                        0.058000  pkg:cpan/CallBackery@0.58.0
+CallBackery::Config                undef  pkg:cpan/CallBackery@0.58.0
+CallBackery::Controller::RpcService undef  pkg:cpan/CallBackery@0.58.0
+CallBackery::Database              undef  pkg:cpan/CallBackery@0.58.0
+CallBackery::Exception             undef  pkg:cpan/CallBackery@0.58.0
+CallBackery::GuiPlugin::Abstract   undef  pkg:cpan/CallBackery@0.58.0
+CallBackery::GuiPlugin::AbstractAction undef  pkg:cpan/CallBackery@0.58.0
+CallBackery::GuiPlugin::AbstractCardlist undef  pkg:cpan/CallBackery@0.58.0
+CallBackery::GuiPlugin::AbstractForm undef  pkg:cpan/CallBackery@0.58.0
+CallBackery::GuiPlugin::AbstractHtml undef  pkg:cpan/CallBackery@0.58.0
+CallBackery::GuiPlugin::AbstractTable undef  pkg:cpan/CallBackery@0.58.0
+CallBackery::GuiPlugin::UserForm   undef  pkg:cpan/CallBackery@0.58.0
+CallBackery::GuiPlugin::Users      undef  pkg:cpan/CallBackery@0.58.0
+CallBackery::Model::ConfigJsonSchema undef  pkg:cpan/CallBackery@0.58.0
+CallBackery::Plugin::Doc           undef  pkg:cpan/CallBackery@0.58.0
+CallBackery::Translate             undef  pkg:cpan/CallBackery@0.58.0
+CallBackery::User                  undef  pkg:cpan/CallBackery@0.58.0
 CallGraph                           0.55  pkg:cpan/CallGraph@0.55
 CallGraph::Dumper                   0.55  pkg:cpan/CallGraph@0.55
 CallGraph::Lang::Fortran            0.55  pkg:cpan/CallGraph@0.55
@@ -57636,8 +57637,8 @@ Data::Checker::DNS                  1.08  pkg:cpan/Data-Checker@1.08
 Data::Checker::Date                 1.08  pkg:cpan/Data-Checker@1.08
 Data::Checker::IP                   1.08  pkg:cpan/Data-Checker@1.08
 Data::Checker::Ping                 1.08  pkg:cpan/Data-Checker@1.08
-Data::Checks                        0.11  pkg:cpan/Data-Checks@0.11
-Data::Checks::Builder               0.44  pkg:cpan/Data-Checks@0.11
+Data::Checks                        0.12  pkg:cpan/Data-Checks@0.12
+Data::Checks::Builder               0.44  pkg:cpan/Data-Checks@0.12
 Data::ChipsChallenge               1.000000  pkg:cpan/Data-ChipsChallenge@v1.0.0
 Data::Chronicle                     0.21  pkg:cpan/Data-Chronicle@0.21
 Data::Chronicle::Mock               0.21  pkg:cpan/Data-Chronicle@0.21
@@ -140144,15 +140145,28 @@ Mojolicious::Plugin::Fondation::Action::Static  0.05  pkg:cpan/Mojolicious-Plugi
 Mojolicious::Plugin::Fondation::Action::Templates  0.05  pkg:cpan/Mojolicious-Plugin-Fondation@0.05
 Mojolicious::Plugin::Fondation::Asset  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Asset@0.03
 Mojolicious::Plugin::Fondation::Asset::Command::asset  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Asset@0.03
+Mojolicious::Plugin::Fondation::Auth  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Auth@0.02
+Mojolicious::Plugin::Fondation::Auth::Provider  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Auth@0.02
+Mojolicious::Plugin::Fondation::Auth::Provider::DBIx  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Auth@0.02
+Mojolicious::Plugin::Fondation::Authorization  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Authorization@0.01
 Mojolicious::Plugin::Fondation::Command::fondation  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.05
 Mojolicious::Plugin::Fondation::Controller::Base  0.05  pkg:cpan/Mojolicious-Plugin-Fondation@0.05
 Mojolicious::Plugin::Fondation::Controller::Debug  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
 Mojolicious::Plugin::Fondation::Controller::Welcome  0.05  pkg:cpan/Mojolicious-Plugin-Fondation@0.05
+Mojolicious::Plugin::Fondation::Group  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Group@0.01
+Mojolicious::Plugin::Fondation::Group::Controller::Group  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Group@0.01
+Mojolicious::Plugin::Fondation::Group::Schema::Result::Group  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Group@0.01
+Mojolicious::Plugin::Fondation::Group::Schema::Result::UserGroup  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Group@0.01
 Mojolicious::Plugin::Fondation::Helpers  0.05  pkg:cpan/Mojolicious-Plugin-Fondation@0.05
 Mojolicious::Plugin::Fondation::I18N  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-I18N@0.01
 Mojolicious::Plugin::Fondation::I18N::Action::I18N  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-I18N@0.01
 Mojolicious::Plugin::Fondation::Layout::Bootstrap  0.04  pkg:cpan/Mojolicious-Plugin-Fondation-Layout-Bootstrap@0.04
 Mojolicious::Plugin::Fondation::Manager  0.05  pkg:cpan/Mojolicious-Plugin-Fondation@0.05
+Mojolicious::Plugin::Fondation::Menu  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Menu@0.01
+Mojolicious::Plugin::Fondation::Menu::Command::menu  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Menu@0.01
+Mojolicious::Plugin::Fondation::Menu::Controller::Menu  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Menu@0.01
+Mojolicious::Plugin::Fondation::Menu::Helpers  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Menu@0.01
+Mojolicious::Plugin::Fondation::Menu::Schema::Result::Menu  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Menu@0.01
 Mojolicious::Plugin::Fondation::MigrationDBIx  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-MigrationDBIx@0.03
 Mojolicious::Plugin::Fondation::MigrationDBIx::Command::db  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-MigrationDBIx@0.03
 Mojolicious::Plugin::Fondation::Model::DBIx::Async  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Model-DBIx-Async@0.03
@@ -140160,6 +140174,10 @@ Mojolicious::Plugin::Fondation::Model::DBIx::Async::Action::DBIx  0.03  pkg:cpan
 Mojolicious::Plugin::Fondation::Model::DBIx::Async::ResultSet  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Model-DBIx-Async@0.03
 Mojolicious::Plugin::Fondation::OpenAPI  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-OpenAPI@0.02
 Mojolicious::Plugin::Fondation::OpenAPI::Command::openapi  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-OpenAPI@0.02
+Mojolicious::Plugin::Fondation::Perm  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Perm@0.01
+Mojolicious::Plugin::Fondation::Perm::Controller::Perm  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Perm@0.01
+Mojolicious::Plugin::Fondation::Perm::Schema::Result::GroupPerm  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Perm@0.01
+Mojolicious::Plugin::Fondation::Perm::Schema::Result::Perm  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Perm@0.01
 Mojolicious::Plugin::Fondation::Problem  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Problem@0.01
 Mojolicious::Plugin::Fondation::Resolver  0.05  pkg:cpan/Mojolicious-Plugin-Fondation@0.05
 Mojolicious::Plugin::Fondation::SessionStore  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-SessionStore@0.01
@@ -229658,7 +229676,7 @@ Test2::EventFacet::Amnesty         1.302222  pkg:cpan/Test-Simple@1.302222
 Test2::EventFacet::Assert          1.302222  pkg:cpan/Test-Simple@1.302222
 Test2::EventFacet::Binary          0.000145  pkg:cpan/Test2-Harness-UI@0.000145
 Test2::EventFacet::Control         1.302222  pkg:cpan/Test-Simple@1.302222
-Test2::EventFacet::Coverage        0.000027  pkg:cpan/Test2-Plugin-Cover@0.000027
+Test2::EventFacet::Coverage        0.000028  pkg:cpan/Test2-Plugin-Cover@0.000028
 Test2::EventFacet::Error           1.302222  pkg:cpan/Test-Simple@1.302222
 Test2::EventFacet::Hub             1.302222  pkg:cpan/Test-Simple@1.302222
 Test2::EventFacet::Info            1.302222  pkg:cpan/Test-Simple@1.302222
@@ -229855,7 +229873,7 @@ Test2::Mock                        1.302222  pkg:cpan/Test-Simple@1.302222
 Test2::MojoX                        0.07  pkg:cpan/Test2-MojoX@0.07
 Test2::Plugin                      1.302222  pkg:cpan/Test-Simple@1.302222
 Test2::Plugin::BailOnFail          1.302222  pkg:cpan/Test-Simple@1.302222
-Test2::Plugin::Cover               0.000027  pkg:cpan/Test2-Plugin-Cover@0.000027
+Test2::Plugin::Cover               0.000028  pkg:cpan/Test2-Plugin-Cover@0.000028
 Test2::Plugin::DBBreak             0.200000  pkg:cpan/Test2-Plugin-DBBreak@0.200002
 Test2::Plugin::DBIProfile          0.002006  pkg:cpan/Test2-Plugin-DBIProfile@0.002006
 Test2::Plugin::DieOnFail           1.302222  pkg:cpan/Test-Simple@1.302222
