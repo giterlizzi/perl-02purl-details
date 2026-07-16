@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 16 Jul 2026 08:00:23 GMT
-Line-Count: 266500
+Last-Updated: Thu, 16 Jul 2026 11:27:45 GMT
+Line-Count: 266501
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -16965,11 +16965,11 @@ AptPkg::_policy                    undef  pkg:cpan/App-SimpleBackuper@0.2.22
 AptPkg::_source_list               undef  pkg:cpan/App-SimpleBackuper@0.2.22
 AptPkg::_src_records               undef  pkg:cpan/App-SimpleBackuper@0.2.22
 Arabic                              1.22  pkg:cpan/Arabic@1.22
-Arango::Tango                      0.019  pkg:cpan/Arango-Tango@0.019
-Arango::Tango::API                 0.019  pkg:cpan/Arango-Tango@0.019
-Arango::Tango::Collection          0.019  pkg:cpan/Arango-Tango@0.019
-Arango::Tango::Cursor              0.019  pkg:cpan/Arango-Tango@0.019
-Arango::Tango::Database            0.019  pkg:cpan/Arango-Tango@0.019
+Arango::Tango                      0.020  pkg:cpan/Arango-Tango@0.020
+Arango::Tango::API                 0.020  pkg:cpan/Arango-Tango@0.020
+Arango::Tango::Collection          0.020  pkg:cpan/Arango-Tango@0.020
+Arango::Tango::Cursor              0.020  pkg:cpan/Arango-Tango@0.020
+Arango::Tango::Database            0.020  pkg:cpan/Arango-Tango@0.020
 ArangoDB                            0.08  pkg:cpan/ArangoDB@0.08
 ArangoDB2                           0.11  pkg:cpan/ArangoDB2@0.11
 ArangoDB2::Admin                   undef  pkg:cpan/ArangoDB2@0.11
@@ -22240,12 +22240,13 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         0.020000  pkg:cpan/BarefootJS@0.20.0
-BarefootJS::Backend::Mojo          0.020000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.20.0
-BarefootJS::Backend::Xslate        0.020000  pkg:cpan/BarefootJS-Backend-Xslate@0.20.0
-BarefootJS::DevReload              0.020000  pkg:cpan/BarefootJS@0.20.0
-BarefootJS::Evaluator              0.014000  pkg:cpan/BarefootJS@0.20.0
-BarefootJS::SearchParams           0.014000  pkg:cpan/BarefootJS@0.20.0
+BarefootJS                         0.021000  pkg:cpan/BarefootJS@0.21.0
+BarefootJS::Backend::Mojo          0.021000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.21.0
+BarefootJS::Backend::Xslate        0.021000  pkg:cpan/BarefootJS-Backend-Xslate@0.21.0
+BarefootJS::Date                   0.021000  pkg:cpan/BarefootJS@0.21.0
+BarefootJS::DevReload              0.021000  pkg:cpan/BarefootJS@0.21.0
+BarefootJS::Evaluator              0.014000  pkg:cpan/BarefootJS@0.21.0
+BarefootJS::SearchParams           0.014000  pkg:cpan/BarefootJS@0.21.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
 Baseball::Sabermetrics              0.03  pkg:cpan/Baseball-Sabermetrics@0.03
@@ -139994,8 +139995,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    0.020000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.20.0
-Mojolicious::Plugin::BarefootJS::DevReload 0.020000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.20.0
+Mojolicious::Plugin::BarefootJS    0.021000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.21.0
+Mojolicious::Plugin::BarefootJS::DevReload 0.021000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.21.0
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -204593,7 +204594,7 @@ RPi::HCSR04                        3.1801  pkg:cpan/RPi-HCSR04@3.1801
 RPi::I2C                           3.1801  pkg:cpan/RPi-I2C@3.1801
 RPi::LCD                           3.1801  pkg:cpan/RPi-LCD@3.1801
 RPi::MultiPCA9685                   0.08  pkg:cpan/RPi-MultiPCA9685@0.08
-RPi::OLED::SSD1306::128_64         3.1801  pkg:cpan/RPi-OLED-SSD1306-128_64@3.1801
+RPi::OLED::SSD1306::128_64         3.1802  pkg:cpan/RPi-OLED-SSD1306-128_64@3.1802
 RPi::PIGPIO                        0.017  pkg:cpan/RPi-PIGPIO@0.017
 RPi::PIGPIO::Assistant             undef  pkg:cpan/RPi-PIGPIO@0.017
 RPi::PIGPIO::Device::ADC::MCP300x  undef  pkg:cpan/RPi-PIGPIO@0.017
