@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 16 Jul 2026 18:59:55 GMT
-Line-Count: 266509
+Last-Updated: Thu, 16 Jul 2026 20:50:28 GMT
+Line-Count: 266510
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -56745,7 +56745,7 @@ Dancer2::Plugin::Queue::IronMQ     0.002  pkg:cpan/Dancer2-Plugin-Queue-IronMQ@0
 Dancer2::Plugin::Queue::MongoDB    0.003  pkg:cpan/Dancer2-Plugin-Queue-MongoDB@0.003
 Dancer2::Plugin::Queue::Role::Queue 0.006  pkg:cpan/Dancer2-Plugin-Queue@0.006
 Dancer2::Plugin::Queue::Role::Test 0.006  pkg:cpan/Dancer2-Plugin-Queue@0.006
-Dancer2::Plugin::QuickORM          0.0001  pkg:cpan/Dancer2-Plugin-QuickORM@0.0001
+Dancer2::Plugin::QuickORM          1.0000  pkg:cpan/Dancer2-Plugin-QuickORM@1.0000
 Dancer2::Plugin::REST               1.03  pkg:cpan/Dancer2-Plugin-REST@1.03
 Dancer2::Plugin::RPC                2.02  pkg:cpan/Dancer2-Plugin-RPC@2.02
 Dancer2::Plugin::RPC::JSONRPC       2.00  pkg:cpan/Dancer2-Plugin-RPC@2.02
@@ -147232,44 +147232,45 @@ Net::Blossom::Client               undef  pkg:cpan/Net-Blossom@0.001001
 Net::Blossom::Error                undef  pkg:cpan/Net-Blossom@0.001001
 Net::Blossom::PaymentRequired      undef  pkg:cpan/Net-Blossom@0.001001
 Net::Blossom::Response             undef  pkg:cpan/Net-Blossom@0.001001
-Net::Blossom::Server               0.001002  pkg:cpan/Net-Blossom-Server@0.001002
-Net::Blossom::Server::Authorization undef  pkg:cpan/Net-Blossom-Server@0.001002
-Net::Blossom::Server::AuthorizationResult undef  pkg:cpan/Net-Blossom-Server@0.001002
-Net::Blossom::Server::Backend::Filesystem 0.001000  pkg:cpan/Net-Blossom-Server-Backend-Filesystem@0.001000
-Net::Blossom::Server::Backend::Filesystem::BlobStore undef  pkg:cpan/Net-Blossom-Server-Backend-Filesystem@0.001000
-Net::Blossom::Server::Backend::Filesystem::BlobStore::_Stream undef  pkg:cpan/Net-Blossom-Server-Backend-Filesystem@0.001000
-Net::Blossom::Server::Backend::Filesystem::BlobStore::_Upload undef  pkg:cpan/Net-Blossom-Server-Backend-Filesystem@0.001000
-Net::Blossom::Server::Backend::Filesystem::_Upload 0.001000  pkg:cpan/Net-Blossom-Server-Backend-Filesystem@0.001000
-Net::Blossom::Server::Backend::Postgres 0.001002  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001002
-Net::Blossom::Server::Backend::Postgres::BlobStore undef  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001002
-Net::Blossom::Server::Backend::Postgres::BlobStore::_Stream undef  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001002
-Net::Blossom::Server::Backend::Postgres::BlobStore::_Upload undef  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001002
-Net::Blossom::Server::Backend::Postgres::MetadataStore undef  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001002
+Net::Blossom::Server               0.001003  pkg:cpan/Net-Blossom-Server@0.001003
+Net::Blossom::Server::Authorization undef  pkg:cpan/Net-Blossom-Server@0.001003
+Net::Blossom::Server::AuthorizationResult undef  pkg:cpan/Net-Blossom-Server@0.001003
+Net::Blossom::Server::Backend::Filesystem 0.001001  pkg:cpan/Net-Blossom-Server-Backend-Filesystem@0.001001
+Net::Blossom::Server::Backend::Filesystem::BlobStore undef  pkg:cpan/Net-Blossom-Server-Backend-Filesystem@0.001001
+Net::Blossom::Server::Backend::Filesystem::BlobStore::_Stream undef  pkg:cpan/Net-Blossom-Server-Backend-Filesystem@0.001001
+Net::Blossom::Server::Backend::Filesystem::BlobStore::_Upload undef  pkg:cpan/Net-Blossom-Server-Backend-Filesystem@0.001001
+Net::Blossom::Server::Backend::Filesystem::_Upload 0.001001  pkg:cpan/Net-Blossom-Server-Backend-Filesystem@0.001001
+Net::Blossom::Server::Backend::Postgres 0.001003  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001003
+Net::Blossom::Server::Backend::Postgres::BlobStore undef  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001003
+Net::Blossom::Server::Backend::Postgres::BlobStore::_Stream undef  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001003
+Net::Blossom::Server::Backend::Postgres::BlobStore::_Upload undef  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001003
+Net::Blossom::Server::Backend::Postgres::MetadataStore undef  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001003
 Net::Blossom::Server::Backend::Postgres::_Stream 0.001001  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001001
-Net::Blossom::Server::Backend::Postgres::_Upload 0.001002  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001002
-Net::Blossom::Server::Backend::S3  0.001000  pkg:cpan/Net-Blossom-Server-Backend-S3@0.001000
-Net::Blossom::Server::Backend::S3::BlobStore undef  pkg:cpan/Net-Blossom-Server-Backend-S3@0.001000
-Net::Blossom::Server::Backend::S3::BlobStore::_Stream undef  pkg:cpan/Net-Blossom-Server-Backend-S3@0.001000
-Net::Blossom::Server::Backend::S3::BlobStore::_Upload undef  pkg:cpan/Net-Blossom-Server-Backend-S3@0.001000
-Net::Blossom::Server::Backend::S3::_Client undef  pkg:cpan/Net-Blossom-Server-Backend-S3@0.001000
-Net::Blossom::Server::Backend::S3::_Upload 0.001000  pkg:cpan/Net-Blossom-Server-Backend-S3@0.001000
-Net::Blossom::Server::Backend::SQLite 0.001002  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001002
-Net::Blossom::Server::Backend::SQLite::BlobStore undef  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001002
-Net::Blossom::Server::Backend::SQLite::BlobStore::_Upload undef  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001002
-Net::Blossom::Server::Backend::SQLite::MetadataStore undef  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001002
-Net::Blossom::Server::Backend::SQLite::_Upload 0.001002  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001002
-Net::Blossom::Server::BlobResult   undef  pkg:cpan/Net-Blossom-Server@0.001002
-Net::Blossom::Server::BlobStore    undef  pkg:cpan/Net-Blossom-Server@0.001002
-Net::Blossom::Server::Error        undef  pkg:cpan/Net-Blossom-Server@0.001002
-Net::Blossom::Server::MetadataStore undef  pkg:cpan/Net-Blossom-Server@0.001002
-Net::Blossom::Server::MirrorFetcher::HTTP undef  pkg:cpan/Net-Blossom-Server@0.001002
-Net::Blossom::Server::PSGI         undef  pkg:cpan/Net-Blossom-Server@0.001002
-Net::Blossom::Server::Request      undef  pkg:cpan/Net-Blossom-Server@0.001002
-Net::Blossom::Server::Response     undef  pkg:cpan/Net-Blossom-Server@0.001002
-Net::Blossom::Server::Storage      undef  pkg:cpan/Net-Blossom-Server@0.001002
-Net::Blossom::Server::Storage::Test undef  pkg:cpan/Net-Blossom-Server@0.001002
-Net::Blossom::Server::UploadResult undef  pkg:cpan/Net-Blossom-Server@0.001002
-Net::Blossom::Server::_MirrorSink  0.001002  pkg:cpan/Net-Blossom-Server@0.001002
+Net::Blossom::Server::Backend::Postgres::_Upload 0.001003  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001003
+Net::Blossom::Server::Backend::S3  0.001001  pkg:cpan/Net-Blossom-Server-Backend-S3@0.001001
+Net::Blossom::Server::Backend::S3::BlobStore undef  pkg:cpan/Net-Blossom-Server-Backend-S3@0.001001
+Net::Blossom::Server::Backend::S3::BlobStore::_Stream undef  pkg:cpan/Net-Blossom-Server-Backend-S3@0.001001
+Net::Blossom::Server::Backend::S3::BlobStore::_Upload undef  pkg:cpan/Net-Blossom-Server-Backend-S3@0.001001
+Net::Blossom::Server::Backend::S3::_Client undef  pkg:cpan/Net-Blossom-Server-Backend-S3@0.001001
+Net::Blossom::Server::Backend::S3::_Upload 0.001001  pkg:cpan/Net-Blossom-Server-Backend-S3@0.001001
+Net::Blossom::Server::Backend::SQLite 0.001003  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001003
+Net::Blossom::Server::Backend::SQLite::BlobStore undef  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001003
+Net::Blossom::Server::Backend::SQLite::BlobStore::_Upload undef  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001003
+Net::Blossom::Server::Backend::SQLite::MetadataStore undef  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001003
+Net::Blossom::Server::Backend::SQLite::_Upload 0.001003  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001003
+Net::Blossom::Server::BlobResult   undef  pkg:cpan/Net-Blossom-Server@0.001003
+Net::Blossom::Server::BlobStore    undef  pkg:cpan/Net-Blossom-Server@0.001003
+Net::Blossom::Server::Error        undef  pkg:cpan/Net-Blossom-Server@0.001003
+Net::Blossom::Server::MetadataStore undef  pkg:cpan/Net-Blossom-Server@0.001003
+Net::Blossom::Server::MirrorFetcher::HTTP undef  pkg:cpan/Net-Blossom-Server@0.001003
+Net::Blossom::Server::PSGI         undef  pkg:cpan/Net-Blossom-Server@0.001003
+Net::Blossom::Server::Request      undef  pkg:cpan/Net-Blossom-Server@0.001003
+Net::Blossom::Server::Response     undef  pkg:cpan/Net-Blossom-Server@0.001003
+Net::Blossom::Server::Storage      undef  pkg:cpan/Net-Blossom-Server@0.001003
+Net::Blossom::Server::Storage::Test undef  pkg:cpan/Net-Blossom-Server@0.001003
+Net::Blossom::Server::UploadResult undef  pkg:cpan/Net-Blossom-Server@0.001003
+Net::Blossom::Server::_MirrorSink  0.001003  pkg:cpan/Net-Blossom-Server@0.001003
+Net::Blossom::Server::_RangeStream 0.001003  pkg:cpan/Net-Blossom-Server@0.001003
 Net::Blossom::ServerList           undef  pkg:cpan/Net-Blossom@0.001001
 Net::Blossom::URI                  undef  pkg:cpan/Net-Blossom@0.001001
 Net::Blossom::_Bech32              undef  pkg:cpan/Net-Blossom@0.001001
