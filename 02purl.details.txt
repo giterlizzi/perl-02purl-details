@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 16 Jul 2026 15:27:47 GMT
-Line-Count: 266516
+Last-Updated: Thu, 16 Jul 2026 17:07:34 GMT
+Line-Count: 266522
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -127417,6 +127417,7 @@ Log::Any::Adapter::FileHandle      0.010  pkg:cpan/Log-Any-Adapter-FileHandle@0.
 Log::Any::Adapter::Fille            0.05  pkg:cpan/Log-Any-Adapter-Fille@0.05
 Log::Any::Adapter::Handler         0.009  pkg:cpan/Log-Any-Adapter-Handler@0.009
 Log::Any::Adapter::JSON             1.16  pkg:cpan/Log-Any-Adapter-JSON@1.16
+Log::Any::Adapter::JSONLines       0.001  pkg:cpan/Log-Any-Adapter-JSONLines@0.001
 Log::Any::Adapter::Journal           1.0  pkg:cpan/Log-Any-Adapter-Journal@1.0
 Log::Any::Adapter::LinuxJournal    0.173471  pkg:cpan/Log-Any-Adapter-LinuxJournal@0.173471
 Log::Any::Adapter::Log4cplus       0.001  pkg:cpan/Log-Any-Adapter-Log4cplus@0.001
@@ -147225,6 +147226,11 @@ Net::Blossom::Response             undef  pkg:cpan/Net-Blossom@0.001001
 Net::Blossom::Server               0.001002  pkg:cpan/Net-Blossom-Server@0.001002
 Net::Blossom::Server::Authorization undef  pkg:cpan/Net-Blossom-Server@0.001002
 Net::Blossom::Server::AuthorizationResult undef  pkg:cpan/Net-Blossom-Server@0.001002
+Net::Blossom::Server::Backend::Filesystem 0.001000  pkg:cpan/Net-Blossom-Server-Backend-Filesystem@0.001000
+Net::Blossom::Server::Backend::Filesystem::BlobStore undef  pkg:cpan/Net-Blossom-Server-Backend-Filesystem@0.001000
+Net::Blossom::Server::Backend::Filesystem::BlobStore::_Stream undef  pkg:cpan/Net-Blossom-Server-Backend-Filesystem@0.001000
+Net::Blossom::Server::Backend::Filesystem::BlobStore::_Upload undef  pkg:cpan/Net-Blossom-Server-Backend-Filesystem@0.001000
+Net::Blossom::Server::Backend::Filesystem::_Upload 0.001000  pkg:cpan/Net-Blossom-Server-Backend-Filesystem@0.001000
 Net::Blossom::Server::Backend::Postgres 0.001002  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001002
 Net::Blossom::Server::Backend::Postgres::BlobStore undef  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001002
 Net::Blossom::Server::Backend::Postgres::BlobStore::_Stream undef  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001002
@@ -158965,12 +158971,12 @@ PAGI::Middleware::TrustedHosts     0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Middleware::WebSocket::Compression 0.002000  pkg:cpan/PAGI-Tools@0.002000
 PAGI::Middleware::WebSocket::RateLimit 0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Middleware::XSendfile        0.002002  pkg:cpan/PAGI-Tools@0.002002
-PAGI::Nano                         0.001000  pkg:cpan/PAGI-Nano@0.001000
-PAGI::Nano::Context                0.001000  pkg:cpan/PAGI-Nano@0.001000
-PAGI::Nano::Context::HTTP          0.001000  pkg:cpan/PAGI-Nano@0.001000
-PAGI::Nano::Context::SSE           0.001000  pkg:cpan/PAGI-Nano@0.001000
-PAGI::Nano::Context::WebSocket     0.001000  pkg:cpan/PAGI-Nano@0.001000
-PAGI::Nano::ServiceRegistry        0.001000  pkg:cpan/PAGI-Nano@0.001000
+PAGI::Nano                         0.001001  pkg:cpan/PAGI-Nano@0.001001
+PAGI::Nano::Context                0.001001  pkg:cpan/PAGI-Nano@0.001001
+PAGI::Nano::Context::HTTP          0.001001  pkg:cpan/PAGI-Nano@0.001001
+PAGI::Nano::Context::SSE           0.001001  pkg:cpan/PAGI-Nano@0.001001
+PAGI::Nano::Context::WebSocket     0.001001  pkg:cpan/PAGI-Nano@0.001001
+PAGI::Nano::ServiceRegistry        0.001001  pkg:cpan/PAGI-Nano@0.001001
 PAGI::Request                      0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Request::BodyStream          0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Request::MultiPartHandler    0.002002  pkg:cpan/PAGI-Tools@0.002002
@@ -158994,12 +159000,12 @@ PAGI::Server::Runner               0.002006  pkg:cpan/PAGI-Server@0.002006
 PAGI::Server::TransportState       0.002006  pkg:cpan/PAGI-Server@0.002006
 PAGI::Session                      0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Stash                        0.002002  pkg:cpan/PAGI-Tools@0.002002
-PAGI::StructuredParameters         0.001000  pkg:cpan/PAGI-StructuredParameters@0.001000
-PAGI::StructuredParameters::Exception 0.001000  pkg:cpan/PAGI-StructuredParameters@0.001000
-PAGI::StructuredParameters::Exception::InvalidArrayLength 0.001000  pkg:cpan/PAGI-StructuredParameters@0.001000
-PAGI::StructuredParameters::Exception::InvalidArrayPointer 0.001000  pkg:cpan/PAGI-StructuredParameters@0.001000
-PAGI::StructuredParameters::Exception::MissingParameter 0.001000  pkg:cpan/PAGI-StructuredParameters@0.001000
-PAGI::StructuredParameters::Request 0.001000  pkg:cpan/PAGI-StructuredParameters@0.001000
+PAGI::StructuredParameters         0.001001  pkg:cpan/PAGI-StructuredParameters@0.001001
+PAGI::StructuredParameters::Exception 0.001001  pkg:cpan/PAGI-StructuredParameters@0.001001
+PAGI::StructuredParameters::Exception::InvalidArrayLength 0.001001  pkg:cpan/PAGI-StructuredParameters@0.001001
+PAGI::StructuredParameters::Exception::InvalidArrayPointer 0.001001  pkg:cpan/PAGI-StructuredParameters@0.001001
+PAGI::StructuredParameters::Exception::MissingParameter 0.001001  pkg:cpan/PAGI-StructuredParameters@0.001001
+PAGI::StructuredParameters::Request 0.001001  pkg:cpan/PAGI-StructuredParameters@0.001001
 PAGI::Test::Client                 0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Test::ConnectionState        0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Test::Response               0.002002  pkg:cpan/PAGI-Tools@0.002002
@@ -236851,15 +236857,15 @@ Travel::Routing::DE::HAFAS::Location  0.01  pkg:cpan/Travel-Routing-DE-HAFAS@0.0
 Travel::Routing::DE::HAFAS::Utils   0.11  pkg:cpan/Travel-Routing-DE-HAFAS@0.11
 Travel::Routing::DE::VRR            2.24  pkg:cpan/Travel-Routing-DE-VRR@2.24
 Travel::Status::DE::ASEAG           2.01  pkg:cpan/Travel-Status-DE-URA@2.01
-Travel::Status::DE::DBRIS           0.31  pkg:cpan/Travel-Status-DE-DBRIS@0.31
-Travel::Status::DE::DBRIS::Formation  0.31  pkg:cpan/Travel-Status-DE-DBRIS@0.31
-Travel::Status::DE::DBRIS::Formation::Carriage  0.31  pkg:cpan/Travel-Status-DE-DBRIS@0.31
-Travel::Status::DE::DBRIS::Formation::Group  0.31  pkg:cpan/Travel-Status-DE-DBRIS@0.31
-Travel::Status::DE::DBRIS::Formation::Sector  0.31  pkg:cpan/Travel-Status-DE-DBRIS@0.31
-Travel::Status::DE::DBRIS::Journey  0.31  pkg:cpan/Travel-Status-DE-DBRIS@0.31
-Travel::Status::DE::DBRIS::JourneyAtStop  0.31  pkg:cpan/Travel-Status-DE-DBRIS@0.31
-Travel::Status::DE::DBRIS::Location  0.31  pkg:cpan/Travel-Status-DE-DBRIS@0.31
-Travel::Status::DE::DBRIS::Operators  0.31  pkg:cpan/Travel-Status-DE-DBRIS@0.31
+Travel::Status::DE::DBRIS           0.32  pkg:cpan/Travel-Status-DE-DBRIS@0.32
+Travel::Status::DE::DBRIS::Formation  0.32  pkg:cpan/Travel-Status-DE-DBRIS@0.32
+Travel::Status::DE::DBRIS::Formation::Carriage  0.32  pkg:cpan/Travel-Status-DE-DBRIS@0.32
+Travel::Status::DE::DBRIS::Formation::Group  0.32  pkg:cpan/Travel-Status-DE-DBRIS@0.32
+Travel::Status::DE::DBRIS::Formation::Sector  0.32  pkg:cpan/Travel-Status-DE-DBRIS@0.32
+Travel::Status::DE::DBRIS::Journey  0.32  pkg:cpan/Travel-Status-DE-DBRIS@0.32
+Travel::Status::DE::DBRIS::JourneyAtStop  0.32  pkg:cpan/Travel-Status-DE-DBRIS@0.32
+Travel::Status::DE::DBRIS::Location  0.32  pkg:cpan/Travel-Status-DE-DBRIS@0.32
+Travel::Status::DE::DBRIS::Operators  0.32  pkg:cpan/Travel-Status-DE-DBRIS@0.32
 Travel::Status::DE::DBWagenreihung  0.18  pkg:cpan/Travel-Status-DE-DBWagenreihung@0.18
 Travel::Status::DE::DBWagenreihung::Carriage  0.18  pkg:cpan/Travel-Status-DE-DBWagenreihung@0.18
 Travel::Status::DE::DBWagenreihung::Group  0.18  pkg:cpan/Travel-Status-DE-DBWagenreihung@0.18
