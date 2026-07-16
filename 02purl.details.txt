@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 16 Jul 2026 11:27:45 GMT
-Line-Count: 266501
+Last-Updated: Thu, 16 Jul 2026 13:27:23 GMT
+Line-Count: 266511
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -1207,18 +1207,18 @@ AWS::CloudFront::Logging           undef  pkg:cpan/AWS-CloudFront@0.003
 AWS::CloudFront::Request::DistributionRequest undef  pkg:cpan/AWS-CloudFront@0.003
 AWS::CloudFront::S3Origin          undef  pkg:cpan/AWS-CloudFront@0.003
 AWS::IP                             0.04  pkg:cpan/AWS-IP@0.04
-AWS::Lambda                        v0.9.0  pkg:cpan/AWS-Lambda@0.9.0
-AWS::Lambda::AL                    v0.9.0  pkg:cpan/AWS-Lambda@0.9.0
-AWS::Lambda::AL2                   v0.9.0  pkg:cpan/AWS-Lambda@0.9.0
-AWS::Lambda::AL2023                v0.9.0  pkg:cpan/AWS-Lambda@0.9.0
-AWS::Lambda::Bootstrap             undef  pkg:cpan/AWS-Lambda@0.9.0
-AWS::Lambda::Context               undef  pkg:cpan/AWS-Lambda@0.9.0
-AWS::Lambda::PSGI                  undef  pkg:cpan/AWS-Lambda@0.9.0
+AWS::Lambda                        v0.10.0  pkg:cpan/AWS-Lambda@0.10.0
+AWS::Lambda::AL                    v0.10.0  pkg:cpan/AWS-Lambda@0.10.0
+AWS::Lambda::AL2                   v0.10.0  pkg:cpan/AWS-Lambda@0.10.0
+AWS::Lambda::AL2023                v0.10.0  pkg:cpan/AWS-Lambda@0.10.0
+AWS::Lambda::Bootstrap             undef  pkg:cpan/AWS-Lambda@0.10.0
+AWS::Lambda::Context               undef  pkg:cpan/AWS-Lambda@0.10.0
+AWS::Lambda::PSGI                  undef  pkg:cpan/AWS-Lambda@0.10.0
 AWS::Lambda::Quick                 1.0002  pkg:cpan/AWS-Lambda-Quick@1.0002
 AWS::Lambda::Quick::CreateZip      1.0002  pkg:cpan/AWS-Lambda-Quick@1.0002
 AWS::Lambda::Quick::Processor      1.0002  pkg:cpan/AWS-Lambda-Quick@1.0002
 AWS::Lambda::Quick::Upload         1.0002  pkg:cpan/AWS-Lambda-Quick@1.0002
-AWS::Lambda::ResponseWriter        undef  pkg:cpan/AWS-Lambda@0.9.0
+AWS::Lambda::ResponseWriter        undef  pkg:cpan/AWS-Lambda@0.10.0
 AWS::Networks                       0.01  pkg:cpan/AWS-Networks@0.01
 AWS::S3                             2.00  pkg:cpan/AWS-S3@2.00
 AWS::S3::Bucket                    undef  pkg:cpan/AWS-S3@2.00
@@ -36256,6 +36256,9 @@ Catalyst::Plugin::Imager            0.01  pkg:cpan/Catalyst-Plugin-Imager@0.01
 Catalyst::Plugin::Images            0.02  pkg:cpan/Catalyst-Plugin-Images@0.02
 Catalyst::Plugin::InjectionHelpers 0.015  pkg:cpan/Catalyst-Plugin-InjectionHelpers@0.015
 Catalyst::Plugin::JSONRPC           0.01  pkg:cpan/Catalyst-Plugin-JSONRPC@0.01
+Catalyst::Plugin::JSONRPC::Server  0.003  pkg:cpan/Catalyst-Plugin-JSONRPC-Server@0.003
+Catalyst::Plugin::JSONRPC::Server::Dispatcher 0.003  pkg:cpan/Catalyst-Plugin-JSONRPC-Server@0.003
+Catalyst::Plugin::JSONRPC::Server::Error 0.003  pkg:cpan/Catalyst-Plugin-JSONRPC-Server@0.003
 Catalyst::Plugin::JavaScript::Console  0.01  pkg:cpan/Catalyst-Plugin-JavaScript-Console@0.01
 Catalyst::Plugin::LeakTracker       0.03  pkg:cpan/Catalyst-Plugin-LeakTracker@0.03
 Catalyst::Plugin::Localize::Simple   1.1  pkg:cpan/Catalyst-Plugin-Localize-Simple@1.1
@@ -36286,6 +36289,13 @@ Catalyst::Plugin::Moostash         0.001002  pkg:cpan/Catalyst-Plugin-Moostash@v
 Catalyst::Plugin::Moostash::Base   undef  pkg:cpan/Catalyst-Plugin-Moostash@v0.1.2
 Catalyst::Plugin::MortalForward     0.01  pkg:cpan/Catalyst-Plugin-MortalForward@0.01
 Catalyst::Plugin::Navigation       1.002  pkg:cpan/Catalyst-Plugin-Navigation@1.002
+Catalyst::Plugin::OAuth2::AuthorizationServer 0.003  pkg:cpan/Catalyst-Plugin-OAuth2-AuthorizationServer@0.003
+Catalyst::Plugin::OAuth2::AuthorizationServer::Error 0.003  pkg:cpan/Catalyst-Plugin-OAuth2-AuthorizationServer@0.003
+Catalyst::Plugin::OAuth2::AuthorizationServer::Role::Store 0.003  pkg:cpan/Catalyst-Plugin-OAuth2-AuthorizationServer@0.003
+Catalyst::Plugin::OAuth2::AuthorizationServer::Server 0.003  pkg:cpan/Catalyst-Plugin-OAuth2-AuthorizationServer@0.003
+Catalyst::Plugin::OAuth2::ResourceServer 0.003  pkg:cpan/Catalyst-Plugin-OAuth2-ResourceServer@0.003
+Catalyst::Plugin::OAuth2::ResourceServer::Error 0.003  pkg:cpan/Catalyst-Plugin-OAuth2-ResourceServer@0.003
+Catalyst::Plugin::OAuth2::ResourceServer::Server 0.003  pkg:cpan/Catalyst-Plugin-OAuth2-ResourceServer@0.003
 Catalyst::Plugin::OIDC              1.05  pkg:cpan/Catalyst-Plugin-OIDC@1.05
 Catalyst::Plugin::Observe           0.02  pkg:cpan/Catalyst-Plugin-Observe@0.02
 Catalyst::Plugin::OpenIDConnect     0.15  pkg:cpan/Catalyst-Plugin-OpenIDConnect@0.15
