@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 16 Jul 2026 05:13:11 GMT
-Line-Count: 266499
+Last-Updated: Thu, 16 Jul 2026 08:00:23 GMT
+Line-Count: 266500
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -31399,6 +31399,7 @@ CAM::UserApp                        1.01  pkg:cpan/CAM-UserApp@1.01?ext=tgz
 CAM::XML                            1.14  pkg:cpan/CAM-XML@1.14?ext=tgz
 CAM::XML::Text                      1.14  pkg:cpan/CAM-XML@1.14?ext=tgz
 CAM::XML::XMLTree                   1.14  pkg:cpan/CAM-XML@1.14?ext=tgz
+CANBUS                              0.01  pkg:cpan/CANBUS@0.01
 CAPE::Utils                          4.0  pkg:cpan/CAPE-Utils@4.0.0
 CAPS::On                           undef  pkg:cpan/abbreviation@0.02
 CASCM::CLI                         v0.1.1  pkg:cpan/CASCM-CLI@v0.1.1
@@ -35057,23 +35058,23 @@ Call::Haskell::FFIGenerator        0.002001  pkg:cpan/Call-Haskell@v0.2.1
 Call::Haskell::ReadShow            0.001001  pkg:cpan/Call-Haskell@v0.2.1
 Call::Immediate                     0.01  pkg:cpan/Call-Immediate@0.01
 Call::Immediate::Call              undef  pkg:cpan/Call-Immediate@0.01
-CallBackery                        0.058000  pkg:cpan/CallBackery@0.58.0
-CallBackery::Config                undef  pkg:cpan/CallBackery@0.58.0
-CallBackery::Controller::RpcService undef  pkg:cpan/CallBackery@0.58.0
-CallBackery::Database              undef  pkg:cpan/CallBackery@0.58.0
-CallBackery::Exception             undef  pkg:cpan/CallBackery@0.58.0
-CallBackery::GuiPlugin::Abstract   undef  pkg:cpan/CallBackery@0.58.0
-CallBackery::GuiPlugin::AbstractAction undef  pkg:cpan/CallBackery@0.58.0
-CallBackery::GuiPlugin::AbstractCardlist undef  pkg:cpan/CallBackery@0.58.0
-CallBackery::GuiPlugin::AbstractForm undef  pkg:cpan/CallBackery@0.58.0
-CallBackery::GuiPlugin::AbstractHtml undef  pkg:cpan/CallBackery@0.58.0
-CallBackery::GuiPlugin::AbstractTable undef  pkg:cpan/CallBackery@0.58.0
-CallBackery::GuiPlugin::UserForm   undef  pkg:cpan/CallBackery@0.58.0
-CallBackery::GuiPlugin::Users      undef  pkg:cpan/CallBackery@0.58.0
-CallBackery::Model::ConfigJsonSchema undef  pkg:cpan/CallBackery@0.58.0
-CallBackery::Plugin::Doc           undef  pkg:cpan/CallBackery@0.58.0
-CallBackery::Translate             undef  pkg:cpan/CallBackery@0.58.0
-CallBackery::User                  undef  pkg:cpan/CallBackery@0.58.0
+CallBackery                        0.058001  pkg:cpan/CallBackery@0.58.1
+CallBackery::Config                undef  pkg:cpan/CallBackery@0.58.1
+CallBackery::Controller::RpcService undef  pkg:cpan/CallBackery@0.58.1
+CallBackery::Database              undef  pkg:cpan/CallBackery@0.58.1
+CallBackery::Exception             undef  pkg:cpan/CallBackery@0.58.1
+CallBackery::GuiPlugin::Abstract   undef  pkg:cpan/CallBackery@0.58.1
+CallBackery::GuiPlugin::AbstractAction undef  pkg:cpan/CallBackery@0.58.1
+CallBackery::GuiPlugin::AbstractCardlist undef  pkg:cpan/CallBackery@0.58.1
+CallBackery::GuiPlugin::AbstractForm undef  pkg:cpan/CallBackery@0.58.1
+CallBackery::GuiPlugin::AbstractHtml undef  pkg:cpan/CallBackery@0.58.1
+CallBackery::GuiPlugin::AbstractTable undef  pkg:cpan/CallBackery@0.58.1
+CallBackery::GuiPlugin::UserForm   undef  pkg:cpan/CallBackery@0.58.1
+CallBackery::GuiPlugin::Users      undef  pkg:cpan/CallBackery@0.58.1
+CallBackery::Model::ConfigJsonSchema undef  pkg:cpan/CallBackery@0.58.1
+CallBackery::Plugin::Doc           undef  pkg:cpan/CallBackery@0.58.1
+CallBackery::Translate             undef  pkg:cpan/CallBackery@0.58.1
+CallBackery::User                  undef  pkg:cpan/CallBackery@0.58.1
 CallGraph                           0.55  pkg:cpan/CallGraph@0.55
 CallGraph::Dumper                   0.55  pkg:cpan/CallGraph@0.55
 CallGraph::Lang::Fortran            0.55  pkg:cpan/CallGraph@0.55
@@ -79166,8 +79167,8 @@ Game::Tibia::Packet::Charlist      0.007  pkg:cpan/Game-Tibia-Packet@0.007
 Game::Tibia::Packet::Login         0.007  pkg:cpan/Game-Tibia-Packet@0.007
 Game::TileMap                      1.001  pkg:cpan/Game-TileMap@1.001
 Game::TileMap::Legend              1.001  pkg:cpan/Game-TileMap@1.001
-Game::TileMap::Pathfinding         0.001  pkg:cpan/Game-TileMap-Pathfinding@0.001
-Game::TileMap::Pathfinding::Result 0.001  pkg:cpan/Game-TileMap-Pathfinding@0.001
+Game::TileMap::Pathfinding         0.002  pkg:cpan/Game-TileMap-Pathfinding@0.002
+Game::TileMap::Pathfinding::Result 0.002  pkg:cpan/Game-TileMap-Pathfinding@0.002
 Game::TileMap::Role::Checks        1.001  pkg:cpan/Game-TileMap@1.001
 Game::TileMap::Role::Helpers       1.001  pkg:cpan/Game-TileMap@1.001
 Game::TileMap::Tile                1.001  pkg:cpan/Game-TileMap@1.001
@@ -123203,7 +123204,7 @@ Lingua::JA::KanjiTable              0.15  pkg:cpan/Lingua-JA-KanjiTable@0.15
 Lingua::JA::MacJapanese             0.20  pkg:cpan/Lingua-JA-MacJapanese@0.20
 Lingua::JA::Mail                    0.03  pkg:cpan/Lingua-JA-Mail@0.03
 Lingua::JA::Mail::Header            0.02  pkg:cpan/Lingua-JA-Mail@0.03
-Lingua::JA::Moji                    0.61  pkg:cpan/Lingua-JA-Moji@0.61
+Lingua::JA::Moji                    0.62  pkg:cpan/Lingua-JA-Moji@0.62
 Lingua::JA::Name::Splitter          0.12  pkg:cpan/Lingua-JA-Name-Splitter@0.12
 Lingua::JA::NormalizeText           0.50  pkg:cpan/Lingua-JA-NormalizeText@0.50
 Lingua::JA::Number                  0.01  pkg:cpan/Lingua-JA-Number@0.01
