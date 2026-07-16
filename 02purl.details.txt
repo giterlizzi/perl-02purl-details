@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 16 Jul 2026 20:50:28 GMT
+Last-Updated: Thu, 16 Jul 2026 22:51:22 GMT
 Line-Count: 266510
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -47695,28 +47695,28 @@ Conan::Deploy                          0  pkg:cpan/Conan@0.0.7
 Conan::Promote                         0  pkg:cpan/Conan@0.0.7
 Conan::Promote::Xen                    0  pkg:cpan/Conan@0.0.7
 Concierge                          v0.10.0  pkg:cpan/Concierge@v0.10.0
-Concierge::Auth                    v0.5.0  pkg:cpan/Concierge-Auth@v0.5.0
-Concierge::Auth::Base              v0.5.0  pkg:cpan/Concierge-Auth@v0.5.0
-Concierge::Auth::Generators        v0.4.5  pkg:cpan/Concierge-Auth@v0.5.0
-Concierge::Auth::Pwd               v0.5.0  pkg:cpan/Concierge-Auth@v0.5.0
+Concierge::Auth                    v0.5.1  pkg:cpan/Concierge-Auth@v0.5.1
+Concierge::Auth::Base              v0.5.1  pkg:cpan/Concierge-Auth@v0.5.1
+Concierge::Auth::Generators        v0.4.5  pkg:cpan/Concierge-Auth@v0.5.1
+Concierge::Auth::Pwd               v0.5.1  pkg:cpan/Concierge-Auth@v0.5.1
 Concierge::Base                    v0.7.2  pkg:cpan/Concierge@v0.7.2
 Concierge::Desk::Base              v0.9.0  pkg:cpan/Concierge@v0.9.0
 Concierge::Desk::Component         v0.10.0  pkg:cpan/Concierge@v0.10.0
 Concierge::Desk::Setup             v0.10.0  pkg:cpan/Concierge@v0.10.0
 Concierge::Desk::UnavailableComponent v0.10.0  pkg:cpan/Concierge@v0.10.0
 Concierge::Desk::User              v0.10.0  pkg:cpan/Concierge@v0.10.0
-Concierge::Sessions                v0.11.1  pkg:cpan/Concierge-Sessions@v0.11.1
-Concierge::Sessions::Base          v0.11.1  pkg:cpan/Concierge-Sessions@v0.11.1
-Concierge::Sessions::File          v0.11.1  pkg:cpan/Concierge-Sessions@v0.11.1
-Concierge::Sessions::SQLite        v0.11.1  pkg:cpan/Concierge-Sessions@v0.11.1
-Concierge::Sessions::Session       v0.11.1  pkg:cpan/Concierge-Sessions@v0.11.1
+Concierge::Sessions                v0.11.2  pkg:cpan/Concierge-Sessions@v0.11.2
+Concierge::Sessions::Base          v0.11.2  pkg:cpan/Concierge-Sessions@v0.11.2
+Concierge::Sessions::File          v0.11.2  pkg:cpan/Concierge-Sessions@v0.11.2
+Concierge::Sessions::SQLite        v0.11.2  pkg:cpan/Concierge-Sessions@v0.11.2
+Concierge::Sessions::Session       v0.11.2  pkg:cpan/Concierge-Sessions@v0.11.2
 Concierge::Setup                   v0.7.2  pkg:cpan/Concierge@v0.7.2
 Concierge::User                    v0.7.2  pkg:cpan/Concierge@v0.7.2
-Concierge::Users                   v0.9.2  pkg:cpan/Concierge-Users@v0.9.2
-Concierge::Users::Database         v0.9.2  pkg:cpan/Concierge-Users@v0.9.2
-Concierge::Users::File             v0.9.2  pkg:cpan/Concierge-Users@v0.9.2
-Concierge::Users::Meta             v0.9.2  pkg:cpan/Concierge-Users@v0.9.2
-Concierge::Users::YAML             v0.9.2  pkg:cpan/Concierge-Users@v0.9.2
+Concierge::Users                   v0.9.3  pkg:cpan/Concierge-Users@v0.9.3
+Concierge::Users::Database         v0.9.3  pkg:cpan/Concierge-Users@v0.9.3
+Concierge::Users::File             v0.9.3  pkg:cpan/Concierge-Users@v0.9.3
+Concierge::Users::Meta             v0.9.3  pkg:cpan/Concierge-Users@v0.9.3
+Concierge::Users::YAML             v0.9.3  pkg:cpan/Concierge-Users@v0.9.3
 Conclave::OTK                      undef  pkg:cpan/Conclave-OTK@0.01
 Conclave::OTK::Backend             undef  pkg:cpan/Conclave-OTK@0.01
 Conclave::OTK::Backend::4store     undef  pkg:cpan/Conclave-OTK@0.01
