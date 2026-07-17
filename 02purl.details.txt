@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 17 Jul 2026 18:57:35 GMT
-Line-Count: 266593
+Last-Updated: Fri, 17 Jul 2026 20:45:08 GMT
+Line-Count: 266595
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -49343,6 +49343,8 @@ Crypt::FDH                         1.010  pkg:cpan/Crypt-FDH@1.010
 Crypt::FNA                          0.65  pkg:cpan/Crypt-FNA@0.65
 Crypt::FNA::Async                   0.10  pkg:cpan/Crypt-FNA-Async@0.10
 Crypt::FNA::Validation              0.02  pkg:cpan/Crypt-FNA@0.65
+Crypt::FPE::FF1                     0.01  pkg:cpan/Crypt-FPE-FF1@0.01
+Crypt::FPE::FF1::Format            undef  pkg:cpan/Crypt-FPE-FF1@0.01
 Crypt::Fernet                      0.0306  pkg:cpan/Crypt-Fernet@0.0306
 Crypt::FileHandle                   0.03  pkg:cpan/Crypt-FileHandle@0.03
 Crypt::Format                       0.12  pkg:cpan/Crypt-Format@0.12
@@ -53911,7 +53913,7 @@ DBIx::Romani::Query::XML::TTT      undef  pkg:cpan/DBIx-Romani@0.0.16
 DBIx::Romani::Query::XML::Util     undef  pkg:cpan/DBIx-Romani@0.0.16
 DBIx::Romani::Query::XML::Where    undef  pkg:cpan/DBIx-Romani@0.0.16
 DBIx::Romani::ResultSet            undef  pkg:cpan/DBIx-Romani@0.0.16
-DBIx::RunSQL                        0.27  pkg:cpan/DBIx-RunSQL@0.27
+DBIx::RunSQL                        0.28  pkg:cpan/DBIx-RunSQL@0.28
 DBIx::SQL::Abstract                 0.07  pkg:cpan/DBIx-SQL-Abstract@0.07
 DBIx::SQLCrosstab                   1.17  pkg:cpan/DBIx-SQLCrosstab@1.17
 DBIx::SQLCrosstab::Format            0.7  pkg:cpan/DBIx-SQLCrosstab@1.17
@@ -208201,14 +208203,14 @@ Rose::Conf                         0.021  pkg:cpan/Rose-Conf@0.021
 Rose::Conf::FileBased               0.02  pkg:cpan/Rose-Conf@0.021
 Rose::Conf::Root                    0.01  pkg:cpan/Rose-Conf@0.021
 Rose::Conf::Setting                0.021  pkg:cpan/Rose-Conf@0.021
-Rose::DB                           0.787  pkg:cpan/Rose-DB@0.787
-Rose::DB::Cache                    0.755  pkg:cpan/Rose-DB@0.787
-Rose::DB::Cache::Entry             0.736  pkg:cpan/Rose-DB@0.787
-Rose::DB::Constants                undef  pkg:cpan/Rose-DB@0.787
-Rose::DB::Generic                   0.11  pkg:cpan/Rose-DB@0.787
-Rose::DB::Informix                 0.774  pkg:cpan/Rose-DB@0.787
-Rose::DB::MariaDB                  0.780  pkg:cpan/Rose-DB@0.787
-Rose::DB::MySQL                    0.774  pkg:cpan/Rose-DB@0.787
+Rose::DB                           0.788  pkg:cpan/Rose-DB@0.788
+Rose::DB::Cache                    0.755  pkg:cpan/Rose-DB@0.788
+Rose::DB::Cache::Entry             0.736  pkg:cpan/Rose-DB@0.788
+Rose::DB::Constants                undef  pkg:cpan/Rose-DB@0.788
+Rose::DB::Generic                   0.11  pkg:cpan/Rose-DB@0.788
+Rose::DB::Informix                 0.774  pkg:cpan/Rose-DB@0.788
+Rose::DB::MariaDB                  0.780  pkg:cpan/Rose-DB@0.788
+Rose::DB::MySQL                    0.774  pkg:cpan/Rose-DB@0.788
 Rose::DB::Object                   0.823  pkg:cpan/Rose-DB-Object@0.823
 Rose::DB::Object::Cached           0.785  pkg:cpan/Rose-DB-Object@0.823
 Rose::DB::Object::Constants        0.791  pkg:cpan/Rose-DB-Object@0.823
@@ -208290,12 +208292,12 @@ Rose::DB::Object::Std              0.021  pkg:cpan/Rose-DB-Object@0.823
 Rose::DB::Object::Std::Cached       0.02  pkg:cpan/Rose-DB-Object@0.823
 Rose::DB::Object::Std::Metadata     0.02  pkg:cpan/Rose-DB-Object@0.823
 Rose::DB::Object::Util             0.772  pkg:cpan/Rose-DB-Object@0.823
-Rose::DB::Oracle                   0.784  pkg:cpan/Rose-DB@0.787
-Rose::DB::Oracle::DateHandler      0.784  pkg:cpan/Rose-DB@0.787
-Rose::DB::Pg                       0.786  pkg:cpan/Rose-DB@0.787
-Rose::DB::Registry                 0.728  pkg:cpan/Rose-DB@0.787
-Rose::DB::Registry::Entry          0.784  pkg:cpan/Rose-DB@0.787
-Rose::DB::SQLite                   0.765  pkg:cpan/Rose-DB@0.787
+Rose::DB::Oracle                   0.784  pkg:cpan/Rose-DB@0.788
+Rose::DB::Oracle::DateHandler      0.784  pkg:cpan/Rose-DB@0.788
+Rose::DB::Pg                       0.786  pkg:cpan/Rose-DB@0.788
+Rose::DB::Registry                 0.728  pkg:cpan/Rose-DB@0.788
+Rose::DB::Registry::Entry          0.784  pkg:cpan/Rose-DB@0.788
+Rose::DB::SQLite                   0.765  pkg:cpan/Rose-DB@0.788
 Rose::DBx::AutoReconnect            0.04  pkg:cpan/Rose-DBx-AutoReconnect@0.04
 Rose::DBx::Bouquet                  1.04  pkg:cpan/Rose-DBx-Bouquet@1.04?ext=tgz
 Rose::DBx::Bouquet::Config          1.04  pkg:cpan/Rose-DBx-Bouquet@1.04?ext=tgz
@@ -208333,7 +208335,7 @@ Rose::DBx::Role::NestTransaction    0.03  pkg:cpan/Rose-DBx-Role-NestTransaction
 Rose::DBx::Role::QueryCannery       1.00  pkg:cpan/Rose-DBx-Role-QueryCannery@1.00
 Rose::DBx::TestDB                   0.05  pkg:cpan/Rose-DBx-TestDB@0.05
 Rose::DateTime                     0.540  pkg:cpan/Rose-DateTime@0.540
-Rose::DateTime::Format::Generic    0.787  pkg:cpan/Rose-DB@0.787
+Rose::DateTime::Format::Generic    0.788  pkg:cpan/Rose-DB@0.788
 Rose::DateTime::Parser              0.50  pkg:cpan/Rose-DateTime@0.540
 Rose::DateTime::Util               0.540  pkg:cpan/Rose-DateTime@0.540
 Rose::HTML::Anchor                 0.606  pkg:cpan/Rose-HTML-Objects@0.627
