@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 17 Jul 2026 17:04:43 GMT
-Line-Count: 266587
+Last-Updated: Fri, 17 Jul 2026 18:57:35 GMT
+Line-Count: 266593
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -17200,7 +17200,7 @@ Archive::Libarchive::Lib::EntryLinkResolver  0.09  pkg:cpan/Archive-Libarchive@0
 Archive::Libarchive::Lib::Match     0.09  pkg:cpan/Archive-Libarchive@0.09
 Archive::Libarchive::Lib::Unbound   0.09  pkg:cpan/Archive-Libarchive@0.09
 Archive::Libarchive::Match          0.09  pkg:cpan/Archive-Libarchive@0.09
-Archive::Libarchive::Peek           0.05  pkg:cpan/Archive-Libarchive-Peek@0.05
+Archive::Libarchive::Peek           0.06  pkg:cpan/Archive-Libarchive-Peek@0.06
 Archive::Libarchive::Unwrap         0.01  pkg:cpan/Archive-Libarchive-Unwrap@0.01
 Archive::Libarchive::XS            0.0903  pkg:cpan/Archive-Libarchive-XS@0.0903
 Archive::Libarchive::XS::Callback  0.0903  pkg:cpan/Archive-Libarchive-XS@0.0903
@@ -30530,7 +30530,7 @@ Business::IS::PIN                   0.06  pkg:cpan/Business-IS-PIN@0.06
 Business::ISBN                     3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN10                   3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN13                   3.014  pkg:cpan/Business-ISBN@3.014
-Business::ISBN::Data               20260715.001  pkg:cpan/Business-ISBN-Data@20260715.001
+Business::ISBN::Data               20260717.001  pkg:cpan/Business-ISBN-Data@20260717.001
 Business::ISIN                      0.20  pkg:cpan/Business-ISIN@0.20?ext=tgz
 Business::ISMN                     1.205  pkg:cpan/Business-ISMN@1.205
 Business::ISMN::Data               1.205  pkg:cpan/Business-ISMN@1.205
@@ -33431,23 +33431,24 @@ CPAN::Local::Role::Inject          0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Local::Role::MetaCPAN::API   0.001  pkg:cpan/CPAN-Local-Role-MetaCPAN-API@0.001
 CPAN::Local::Role::Prune           0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Local::Role::Remove          0.010  pkg:cpan/CPAN-Local@0.010
-CPAN::Maker                        v2.0.1  pkg:cpan/CPAN-Maker@2.0.1
-CPAN::Maker::Bootstrapper          v2.0.6  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
-CPAN::Maker::Bootstrapper::ConfigReader     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
-CPAN::Maker::Bootstrapper::Constants     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
-CPAN::Maker::Bootstrapper::Role::CreateConfig     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
-CPAN::Maker::Bootstrapper::Role::Init     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
-CPAN::Maker::Bootstrapper::Role::Installer     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
-CPAN::Maker::Bootstrapper::Role::LLM::Annotator     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
-CPAN::Maker::Bootstrapper::Role::LLM::Models     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
-CPAN::Maker::Bootstrapper::Role::LLM::ReleaseNotes     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
-CPAN::Maker::Bootstrapper::Role::LLM::Reviewer     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
-CPAN::Maker::Bootstrapper::Role::LLM::Utils     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
-CPAN::Maker::Bootstrapper::Role::ScaffoldImporter     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
-CPAN::Maker::Constants             v2.0.1  pkg:cpan/CPAN-Maker@2.0.1
-CPAN::Maker::Role::FileUtils       v2.0.1  pkg:cpan/CPAN-Maker@2.0.1
-CPAN::Maker::Role::ModuleUtils     v2.0.1  pkg:cpan/CPAN-Maker@2.0.1
-CPAN::Maker::Utils                 v2.0.1  pkg:cpan/CPAN-Maker@2.0.1
+CPAN::Maker                        v2.0.3  pkg:cpan/CPAN-Maker@2.0.3
+CPAN::Maker::Bootstrapper          v2.0.9  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.9
+CPAN::Maker::Bootstrapper::ConfigReader     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.9
+CPAN::Maker::Bootstrapper::Constants     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.9
+CPAN::Maker::Bootstrapper::Role::CreateConfig     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.9
+CPAN::Maker::Bootstrapper::Role::ExtraFiles     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.9
+CPAN::Maker::Bootstrapper::Role::Init     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.9
+CPAN::Maker::Bootstrapper::Role::Installer v2.0.9  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.9
+CPAN::Maker::Bootstrapper::Role::LLM::Annotator     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.9
+CPAN::Maker::Bootstrapper::Role::LLM::Models     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.9
+CPAN::Maker::Bootstrapper::Role::LLM::ReleaseNotes     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.9
+CPAN::Maker::Bootstrapper::Role::LLM::Reviewer     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.9
+CPAN::Maker::Bootstrapper::Role::LLM::Utils     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.9
+CPAN::Maker::Bootstrapper::Role::ScaffoldImporter     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.9
+CPAN::Maker::Constants             v2.0.3  pkg:cpan/CPAN-Maker@2.0.3
+CPAN::Maker::Role::FileUtils       v2.0.3  pkg:cpan/CPAN-Maker@2.0.3
+CPAN::Maker::Role::ModuleUtils     v2.0.3  pkg:cpan/CPAN-Maker@2.0.3
+CPAN::Maker::Utils                 v2.0.3  pkg:cpan/CPAN-Maker@2.0.3
 CPAN::Meta                         2.150013  pkg:cpan/CPAN-Meta@2.150013
 CPAN::Meta::Check                  0.018  pkg:cpan/CPAN-Meta-Check@0.018
 CPAN::Meta::Converter              2.150013  pkg:cpan/CPAN-Meta@2.150013
@@ -36442,7 +36443,7 @@ Catalyst::Plugin::Starch            0.08  pkg:cpan/Catalyst-Plugin-Starch@0.08
 Catalyst::Plugin::Starch::Cookie    0.08  pkg:cpan/Catalyst-Plugin-Starch@0.08
 Catalyst::Plugin::Static            0.11  pkg:cpan/Catalyst-Plugin-Static@0.11
 Catalyst::Plugin::Static::File     v0.2.5  pkg:cpan/Catalyst-Plugin-Static-File@v0.2.5
-Catalyst::Plugin::Static::Simple    0.37  pkg:cpan/Catalyst-Plugin-Static-Simple@0.37
+Catalyst::Plugin::Static::Simple    0.38  pkg:cpan/Catalyst-Plugin-Static-Simple@0.38
 Catalyst::Plugin::Static::Simple::ButMaintained  0.30  pkg:cpan/Catalyst-Plugin-Static-Simple-ButMaintained@0.30
 Catalyst::Plugin::Static::Simple::ByClass 0.005  pkg:cpan/Catalyst-Plugin-Static-Simple-ByClass@0.005
 Catalyst::Plugin::Static::TT       0.002  pkg:cpan/Catalyst-Plugin-Static-TT@0.002
@@ -83741,7 +83742,7 @@ Git::Release::BranchManager        undef  pkg:cpan/Git-Release@0.05
 Git::Release::Config               undef  pkg:cpan/Git-Release@0.05
 Git::Release::Remote               undef  pkg:cpan/Git-Release@0.05
 Git::Release::RemoteManager        undef  pkg:cpan/Git-Release@0.05
-Git::ReleaseDiffs                      0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.6
+Git::ReleaseDiffs                      0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.9
 Git::ReleaseRepo                   0.006  pkg:cpan/Git-ReleaseRepo@0.006
 Git::ReleaseRepo::Command          0.006  pkg:cpan/Git-ReleaseRepo@0.006
 Git::ReleaseRepo::Command::add     0.006  pkg:cpan/Git-ReleaseRepo@0.006
@@ -145187,6 +145188,10 @@ Neovim::RPC::Plugin::FileToPackageName v1.0.1  pkg:cpan/Neovim-RPC@1.0.1
 Neovim::RPC::Plugin::FlipOperator  v1.0.1  pkg:cpan/Neovim-RPC@1.0.1
 Neovim::RPC::Plugin::LoadPlugin    v1.0.1  pkg:cpan/Neovim-RPC@1.0.1
 Neovim::RPC::Plugin::Taskwarrior   v0.0.1  pkg:cpan/Neovim-RPC-Plugin-Taskwarrior@0.0.1
+NepaliDateTime                      0.02  pkg:cpan/NepaliDateTime@0.02
+NepaliDateTime::Data                0.01  pkg:cpan/NepaliDateTime@0.02
+NepaliDateTime::Date                0.02  pkg:cpan/NepaliDateTime@0.02
+NepaliDateTime::DateTime            0.02  pkg:cpan/NepaliDateTime@0.02
 Nephia::Plugin::CSRFDefender        0.81  pkg:cpan/Nephia-Plugin-CSRFDefender@0.81
 Nephia::Plugin::FormValidator::Lite  0.03  pkg:cpan/Nephia-Plugin-FormValidator-Lite@0.03
 Nephia::Plugin::PlackSession        0.81  pkg:cpan/Nephia-Plugin-PlackSession@0.81
@@ -147237,24 +147242,24 @@ Net::Blossom::Server::Backend::Filesystem::BlobStore undef  pkg:cpan/Net-Blossom
 Net::Blossom::Server::Backend::Filesystem::BlobStore::_Stream undef  pkg:cpan/Net-Blossom-Server-Backend-Filesystem@0.001001
 Net::Blossom::Server::Backend::Filesystem::BlobStore::_Upload undef  pkg:cpan/Net-Blossom-Server-Backend-Filesystem@0.001001
 Net::Blossom::Server::Backend::Filesystem::_Upload 0.001001  pkg:cpan/Net-Blossom-Server-Backend-Filesystem@0.001001
-Net::Blossom::Server::Backend::Postgres 0.001003  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001003
-Net::Blossom::Server::Backend::Postgres::BlobStore undef  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001003
-Net::Blossom::Server::Backend::Postgres::BlobStore::_Stream undef  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001003
-Net::Blossom::Server::Backend::Postgres::BlobStore::_Upload undef  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001003
-Net::Blossom::Server::Backend::Postgres::MetadataStore undef  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001003
+Net::Blossom::Server::Backend::Postgres 0.001004  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001004
+Net::Blossom::Server::Backend::Postgres::BlobStore undef  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001004
+Net::Blossom::Server::Backend::Postgres::BlobStore::_Stream undef  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001004
+Net::Blossom::Server::Backend::Postgres::BlobStore::_Upload undef  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001004
+Net::Blossom::Server::Backend::Postgres::MetadataStore undef  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001004
 Net::Blossom::Server::Backend::Postgres::_Stream 0.001001  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001001
-Net::Blossom::Server::Backend::Postgres::_Upload 0.001003  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001003
+Net::Blossom::Server::Backend::Postgres::_Upload 0.001004  pkg:cpan/Net-Blossom-Server-Backend-Postgres@0.001004
 Net::Blossom::Server::Backend::S3  0.001001  pkg:cpan/Net-Blossom-Server-Backend-S3@0.001001
 Net::Blossom::Server::Backend::S3::BlobStore undef  pkg:cpan/Net-Blossom-Server-Backend-S3@0.001001
 Net::Blossom::Server::Backend::S3::BlobStore::_Stream undef  pkg:cpan/Net-Blossom-Server-Backend-S3@0.001001
 Net::Blossom::Server::Backend::S3::BlobStore::_Upload undef  pkg:cpan/Net-Blossom-Server-Backend-S3@0.001001
 Net::Blossom::Server::Backend::S3::_Client undef  pkg:cpan/Net-Blossom-Server-Backend-S3@0.001001
 Net::Blossom::Server::Backend::S3::_Upload 0.001001  pkg:cpan/Net-Blossom-Server-Backend-S3@0.001001
-Net::Blossom::Server::Backend::SQLite 0.001003  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001003
-Net::Blossom::Server::Backend::SQLite::BlobStore undef  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001003
-Net::Blossom::Server::Backend::SQLite::BlobStore::_Upload undef  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001003
-Net::Blossom::Server::Backend::SQLite::MetadataStore undef  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001003
-Net::Blossom::Server::Backend::SQLite::_Upload 0.001003  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001003
+Net::Blossom::Server::Backend::SQLite 0.001004  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001004
+Net::Blossom::Server::Backend::SQLite::BlobStore undef  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001004
+Net::Blossom::Server::Backend::SQLite::BlobStore::_Upload undef  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001004
+Net::Blossom::Server::Backend::SQLite::MetadataStore undef  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001004
+Net::Blossom::Server::Backend::SQLite::_Upload 0.001004  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001004
 Net::Blossom::Server::BlobResult   undef  pkg:cpan/Net-Blossom-Server@0.001004
 Net::Blossom::Server::BlobStore    undef  pkg:cpan/Net-Blossom-Server@0.001004
 Net::Blossom::Server::Error        undef  pkg:cpan/Net-Blossom-Server@0.001004
@@ -232879,6 +232884,7 @@ Text::ASCIIMathML::Node             0.81  pkg:cpan/Text-ASCIIMathML@0.81
 Text::ASCIIPipe                    1.001000  pkg:cpan/Text-ASCIIPipe@1.001000
 Text::ASCIITable                    0.22  pkg:cpan/Text-ASCIITable@0.22
 Text::ASCIITable::EasyTable        1.006  pkg:cpan/Text-ASCIITable-EasyTable@1.006
+Text::ASCIITable::FixANSI          v1.0.0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.9
 Text::ASCIITable::Wrap               0.2  pkg:cpan/Text-ASCIITable@0.22
 Text::Abbrev                        1.02  pkg:cpan/Text-Abbrev@1.02
 Text::Abbreviate                    0.01  pkg:cpan/Text-Abbreviate@0.01
