@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 17 Jul 2026 15:08:00 GMT
+Last-Updated: Fri, 17 Jul 2026 17:04:43 GMT
 Line-Count: 266587
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -10262,15 +10262,15 @@ App::Framework::Lite::Object       2.002  pkg:cpan/App-Framework-Lite@1.09
 App::Framework::Settings           1.000  pkg:cpan/App-Framework@1.07
 App::FromUnixtime                   0.17  pkg:cpan/App-FromUnixtime@0.17
 App::FzfUtils                      0.003  pkg:cpan/App-FzfUtils@0.003
-App::GHGen                          0.05  pkg:cpan/App-GHGen@0.05
-App::GHGen::Analyzer                0.05  pkg:cpan/App-GHGen@0.05
-App::GHGen::CostEstimator           0.05  pkg:cpan/App-GHGen@0.05
-App::GHGen::Detector                0.05  pkg:cpan/App-GHGen@0.05
-App::GHGen::Fixer                   0.05  pkg:cpan/App-GHGen@0.05
-App::GHGen::Generator               0.05  pkg:cpan/App-GHGen@0.05
-App::GHGen::Interactive             0.05  pkg:cpan/App-GHGen@0.05
-App::GHGen::PerlCustomizer          0.05  pkg:cpan/App-GHGen@0.05
-App::GHGen::Reporter                0.05  pkg:cpan/App-GHGen@0.05
+App::GHGen                          0.06  pkg:cpan/App-GHGen@0.06
+App::GHGen::Analyzer                0.06  pkg:cpan/App-GHGen@0.06
+App::GHGen::CostEstimator           0.06  pkg:cpan/App-GHGen@0.06
+App::GHGen::Detector                0.06  pkg:cpan/App-GHGen@0.06
+App::GHGen::Fixer                   0.06  pkg:cpan/App-GHGen@0.06
+App::GHGen::Generator               0.06  pkg:cpan/App-GHGen@0.06
+App::GHGen::Interactive             0.06  pkg:cpan/App-GHGen@0.06
+App::GHGen::PerlCustomizer          0.06  pkg:cpan/App-GHGen@0.06
+App::GHGen::Reporter                0.06  pkg:cpan/App-GHGen@0.06
 App::GHPT                          2.000001  pkg:cpan/App-GHPT@2.000001
 App::GHPT::Types                   2.000001  pkg:cpan/App-GHPT@2.000001
 App::GHPT::WorkSubmitter           2.000001  pkg:cpan/App-GHPT@2.000001
@@ -32919,15 +32919,15 @@ CLI::Popt                           0.01  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X                       undef  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X::BadOption            undef  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X::Base                 undef  pkg:cpan/CLI-Popt@0.01
-CLI::Simple                        v2.0.14  pkg:cpan/CLI-Simple@2.0.14
-CLI::Simple::Constants             v2.0.14  pkg:cpan/CLI-Simple@2.0.14
-CLI::Simple::DumpSpec                  0  pkg:cpan/CLI-Simple@2.0.14
-CLI::Simple::Helpers                   0  pkg:cpan/CLI-Simple@2.0.14
-CLI::Simple::Migrate                   0  pkg:cpan/CLI-Simple@2.0.14
-CLI::Simple::Modulino                  0  pkg:cpan/CLI-Simple@2.0.14
-CLI::Simple::Scaffold                  0  pkg:cpan/CLI-Simple@2.0.14
-CLI::Simple::Shell                     0  pkg:cpan/CLI-Simple@2.0.14
-CLI::Simple::Utils                 v2.0.14  pkg:cpan/CLI-Simple@2.0.14
+CLI::Simple                        v2.1.0  pkg:cpan/CLI-Simple@2.1.0
+CLI::Simple::Constants             v2.1.0  pkg:cpan/CLI-Simple@2.1.0
+CLI::Simple::DumpSpec                  0  pkg:cpan/CLI-Simple@2.1.0
+CLI::Simple::Helpers                   0  pkg:cpan/CLI-Simple@2.1.0
+CLI::Simple::Migrate                   0  pkg:cpan/CLI-Simple@2.1.0
+CLI::Simple::Modulino                  0  pkg:cpan/CLI-Simple@2.1.0
+CLI::Simple::Scaffold                  0  pkg:cpan/CLI-Simple@2.1.0
+CLI::Simple::Shell                     0  pkg:cpan/CLI-Simple@2.1.0
+CLI::Simple::Utils                 v2.1.0  pkg:cpan/CLI-Simple@2.1.0
 CLI::Startup                        0.29  pkg:cpan/CLI-Startup@0.29
 CLI::Table::Key::Finder             0.31  pkg:cpan/CLI-Table-Key-Finder@0.31
 CLI::Table::Util                    0.06  pkg:cpan/CLI-Table-Util@0.06
@@ -141452,7 +141452,7 @@ MooX::Role::Pluggable              1.002002  pkg:cpan/MooX-Role-Pluggable@1.0020
 MooX::Role::Pluggable::Constants   1.002002  pkg:cpan/MooX-Role-Pluggable@1.002002
 MooX::Role::REST                   0.001  pkg:cpan/MooX-Role-HTTP-Tiny@0.94
 MooX::Role::Reconstruct            0.001002  pkg:cpan/MooX-Role-Reconstruct@v0.1.2
-MooX::Role::SEOTags                1.000001  pkg:cpan/MooX-Role-SEOTags@1.0.1
+MooX::Role::SEOTags                1.001001  pkg:cpan/MooX-Role-SEOTags@1.1.1
 MooX::Roles::Pluggable             0.003  pkg:cpan/MooX-Roles-Pluggable@0.003
 MooX::SetOnce                      0.001003  pkg:cpan/MooX-SetOnce@0.001003
 MooX::ShortHas                     1.202040  pkg:cpan/MooX-ShortHas@1.202040
@@ -147229,9 +147229,9 @@ Net::Blossom::Client               undef  pkg:cpan/Net-Blossom@0.001001
 Net::Blossom::Error                undef  pkg:cpan/Net-Blossom@0.001001
 Net::Blossom::PaymentRequired      undef  pkg:cpan/Net-Blossom@0.001001
 Net::Blossom::Response             undef  pkg:cpan/Net-Blossom@0.001001
-Net::Blossom::Server               0.001003  pkg:cpan/Net-Blossom-Server@0.001003
-Net::Blossom::Server::Authorization undef  pkg:cpan/Net-Blossom-Server@0.001003
-Net::Blossom::Server::AuthorizationResult undef  pkg:cpan/Net-Blossom-Server@0.001003
+Net::Blossom::Server               0.001004  pkg:cpan/Net-Blossom-Server@0.001004
+Net::Blossom::Server::Authorization undef  pkg:cpan/Net-Blossom-Server@0.001004
+Net::Blossom::Server::AuthorizationResult undef  pkg:cpan/Net-Blossom-Server@0.001004
 Net::Blossom::Server::Backend::Filesystem 0.001001  pkg:cpan/Net-Blossom-Server-Backend-Filesystem@0.001001
 Net::Blossom::Server::Backend::Filesystem::BlobStore undef  pkg:cpan/Net-Blossom-Server-Backend-Filesystem@0.001001
 Net::Blossom::Server::Backend::Filesystem::BlobStore::_Stream undef  pkg:cpan/Net-Blossom-Server-Backend-Filesystem@0.001001
@@ -147255,19 +147255,19 @@ Net::Blossom::Server::Backend::SQLite::BlobStore undef  pkg:cpan/Net-Blossom-Ser
 Net::Blossom::Server::Backend::SQLite::BlobStore::_Upload undef  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001003
 Net::Blossom::Server::Backend::SQLite::MetadataStore undef  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001003
 Net::Blossom::Server::Backend::SQLite::_Upload 0.001003  pkg:cpan/Net-Blossom-Server-Backend-SQLite@0.001003
-Net::Blossom::Server::BlobResult   undef  pkg:cpan/Net-Blossom-Server@0.001003
-Net::Blossom::Server::BlobStore    undef  pkg:cpan/Net-Blossom-Server@0.001003
-Net::Blossom::Server::Error        undef  pkg:cpan/Net-Blossom-Server@0.001003
-Net::Blossom::Server::MetadataStore undef  pkg:cpan/Net-Blossom-Server@0.001003
-Net::Blossom::Server::MirrorFetcher::HTTP undef  pkg:cpan/Net-Blossom-Server@0.001003
-Net::Blossom::Server::PSGI         undef  pkg:cpan/Net-Blossom-Server@0.001003
-Net::Blossom::Server::Request      undef  pkg:cpan/Net-Blossom-Server@0.001003
-Net::Blossom::Server::Response     undef  pkg:cpan/Net-Blossom-Server@0.001003
-Net::Blossom::Server::Storage      undef  pkg:cpan/Net-Blossom-Server@0.001003
-Net::Blossom::Server::Storage::Test undef  pkg:cpan/Net-Blossom-Server@0.001003
-Net::Blossom::Server::UploadResult undef  pkg:cpan/Net-Blossom-Server@0.001003
-Net::Blossom::Server::_MirrorSink  0.001003  pkg:cpan/Net-Blossom-Server@0.001003
-Net::Blossom::Server::_RangeStream 0.001003  pkg:cpan/Net-Blossom-Server@0.001003
+Net::Blossom::Server::BlobResult   undef  pkg:cpan/Net-Blossom-Server@0.001004
+Net::Blossom::Server::BlobStore    undef  pkg:cpan/Net-Blossom-Server@0.001004
+Net::Blossom::Server::Error        undef  pkg:cpan/Net-Blossom-Server@0.001004
+Net::Blossom::Server::MetadataStore undef  pkg:cpan/Net-Blossom-Server@0.001004
+Net::Blossom::Server::MirrorFetcher::HTTP undef  pkg:cpan/Net-Blossom-Server@0.001004
+Net::Blossom::Server::PSGI         undef  pkg:cpan/Net-Blossom-Server@0.001004
+Net::Blossom::Server::Request      undef  pkg:cpan/Net-Blossom-Server@0.001004
+Net::Blossom::Server::Response     undef  pkg:cpan/Net-Blossom-Server@0.001004
+Net::Blossom::Server::Storage      undef  pkg:cpan/Net-Blossom-Server@0.001004
+Net::Blossom::Server::Storage::Test undef  pkg:cpan/Net-Blossom-Server@0.001004
+Net::Blossom::Server::UploadResult undef  pkg:cpan/Net-Blossom-Server@0.001004
+Net::Blossom::Server::_MirrorSink  0.001004  pkg:cpan/Net-Blossom-Server@0.001004
+Net::Blossom::Server::_RangeStream 0.001004  pkg:cpan/Net-Blossom-Server@0.001004
 Net::Blossom::ServerList           undef  pkg:cpan/Net-Blossom@0.001001
 Net::Blossom::URI                  undef  pkg:cpan/Net-Blossom@0.001001
 Net::Blossom::_Bech32              undef  pkg:cpan/Net-Blossom@0.001001
@@ -220793,7 +220793,7 @@ SimpleDBI                           0.02  pkg:cpan/SimpleDBI@0.02
 SimpleDBI::mysql                   undef  pkg:cpan/SimpleDBI@0.02
 SimpleException                    0.103  pkg:cpan/Exceptions@0.103
 SimpleFlake                         0.11  pkg:cpan/SimpleFlake@0.11
-SimpleFlow                          0.14  pkg:cpan/SimpleFlow@0.14
+SimpleFlow                          0.15  pkg:cpan/SimpleFlow@0.15
 SimpleMock                          0.05  pkg:cpan/SimpleMock@0.05
 SimpleMock::Mocks::DBI              0.05  pkg:cpan/SimpleMock@0.05
 SimpleMock::Mocks::LWP::UserAgent   0.05  pkg:cpan/SimpleMock@0.05
