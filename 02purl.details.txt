@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 17 Jul 2026 09:49:59 GMT
-Line-Count: 266508
+Last-Updated: Fri, 17 Jul 2026 11:16:52 GMT
+Line-Count: 266510
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -195683,11 +195683,12 @@ Perl::Critic::Policy::Compatibility::PodMinimumVersion   100  pkg:cpan/Perl-Crit
 Perl::Critic::Policy::Compatibility::ProhibitThreeArgumentOpen 1.001  pkg:cpan/Perl-Critic-Compatibility@1.001
 Perl::Critic::Policy::Compatibility::ProhibitUnixDevNull   100  pkg:cpan/Perl-Critic-Pulp@100
 Perl::Critic::Policy::CompileTime   0.03  pkg:cpan/Perl-Critic-Policy-CompileTime@0.03
-Perl::Critic::Policy::ControlStructures::LoopsRequireLabels  0.01  pkg:cpan/Perl-Critic-Policy-ControlStructures-LoopsRequireLabels@0.01
-Perl::Critic::Policy::ControlStructures::ProhibitBareBlockLoopControls  0.06  pkg:cpan/Perl-Critic-Policy-ControlStructures-ProhibitBareBlockLoopControls@0.06
+Perl::Critic::Policy::ControlStructures::LoopsRequireLabels  0.07  pkg:cpan/Perl-Critic-PolicyBundle-LoopsAndLabels@0.07
+Perl::Critic::Policy::ControlStructures::ProhibitBareBlockLoopControls  0.07  pkg:cpan/Perl-Critic-PolicyBundle-LoopsAndLabels@0.07
 Perl::Critic::Policy::ControlStructures::ProhibitCStyleForLoops 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ControlStructures::ProhibitCascadingIfElse 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ControlStructures::ProhibitDeepNests 1.156  pkg:cpan/Perl-Critic@1.156
+Perl::Critic::Policy::ControlStructures::ProhibitGotoIntoConstruct  0.07  pkg:cpan/Perl-Critic-PolicyBundle-LoopsAndLabels@0.07
 Perl::Critic::Policy::ControlStructures::ProhibitInlineDo 0.000007  pkg:cpan/Perl-Critic-Grape@0.0.7
 Perl::Critic::Policy::ControlStructures::ProhibitLabelsWithSpecialBlockNames 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ControlStructures::ProhibitMultipleSubscripts undef  pkg:cpan/Perl-Critic-PolicyBundle-SNEZ@0.03
@@ -195976,6 +195977,7 @@ Perl::Critic::Policy::logicLAB::RequirePackageNamePattern  0.05  pkg:cpan/Perl-C
 Perl::Critic::Policy::logicLAB::RequireParamsValidate  0.03  pkg:cpan/Perl-Critic-Policy-logicLAB-RequireParamsValidate@0.03
 Perl::Critic::Policy::logicLAB::RequireSheBang  0.07  pkg:cpan/Perl-Critic-Policy-logicLAB-RequireSheBang@0.07
 Perl::Critic::Policy::logicLAB::RequireVersionFormat  0.08  pkg:cpan/Perl-Critic-Policy-logicLAB-RequireVersionFormat@0.08
+Perl::Critic::PolicyBundle::LoopsAndLabels  0.07  pkg:cpan/Perl-Critic-PolicyBundle-LoopsAndLabels@0.07
 Perl::Critic::PolicyBundle::PERLANCAR 0.002  pkg:cpan/Perl-Critic-PolicyBundle-PERLANCAR@0.002
 Perl::Critic::PolicyBundle::PERLANCAR::BuiltinFunctions::GrepWithSimpleValue 0.002  pkg:cpan/Perl-Critic-PolicyBundle-PERLANCAR@0.002
 Perl::Critic::PolicyBundle::PERLANCAR::Variables::ProhibitFatCommaInDeclaration 0.002  pkg:cpan/Perl-Critic-PolicyBundle-PERLANCAR@0.002
