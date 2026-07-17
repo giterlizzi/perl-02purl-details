@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 17 Jul 2026 06:09:43 GMT
+Last-Updated: Fri, 17 Jul 2026 09:49:59 GMT
 Line-Count: 266508
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -129074,11 +129074,11 @@ MIDI::RtController::Filter::CC     0.1200  pkg:cpan/MIDI-RtController-Filter-CC@
 MIDI::RtController::Filter::Drums  0.0401  pkg:cpan/MIDI-RtController-Filter-Drums@0.0401
 MIDI::RtController::Filter::Math   0.0501  pkg:cpan/MIDI-RtController-Filter-Tonal@0.0501
 MIDI::RtController::Filter::Tonal  0.0501  pkg:cpan/MIDI-RtController-Filter-Tonal@0.0501
-MIDI::RtMidi::FFI                   0.10  pkg:cpan/MIDI-RtMidi-FFI@0.10
-MIDI::RtMidi::FFI::AbstractDevice   0.10  pkg:cpan/MIDI-RtMidi-FFI@0.10
-MIDI::RtMidi::FFI::Device           0.10  pkg:cpan/MIDI-RtMidi-FFI@0.10
-MIDI::RtMidi::FFI::Device::In       0.10  pkg:cpan/MIDI-RtMidi-FFI@0.10
-MIDI::RtMidi::FFI::Device::Out      0.10  pkg:cpan/MIDI-RtMidi-FFI@0.10
+MIDI::RtMidi::FFI                   0.12  pkg:cpan/MIDI-RtMidi-FFI@0.12
+MIDI::RtMidi::FFI::AbstractDevice   0.12  pkg:cpan/MIDI-RtMidi-FFI@0.12
+MIDI::RtMidi::FFI::Device           0.12  pkg:cpan/MIDI-RtMidi-FFI@0.12
+MIDI::RtMidi::FFI::Device::In       0.12  pkg:cpan/MIDI-RtMidi-FFI@0.12
+MIDI::RtMidi::FFI::Device::Out      0.12  pkg:cpan/MIDI-RtMidi-FFI@0.12
 MIDI::RtMidi::ScorePlayer          0.0303  pkg:cpan/MIDI-RtMidi-ScorePlayer@0.0303
 MIDI::SP404sx                      1.000000  pkg:cpan/MIDI-SP404sx@v1.0.0
 MIDI::SP404sx::Constants           undef  pkg:cpan/MIDI-SP404sx@v1.0.0
@@ -208501,8 +208501,8 @@ Rsync::Config::Exceptions            0.1  pkg:cpan/Rsync-Config@0.2
 Rsync::Config::Module                2.1  pkg:cpan/Rsync-Config@0.3.1
 Rsync::Config::Parser                0.1  pkg:cpan/Rsync-Config@0.3.1
 Rsync::Config::Renderer              0.2  pkg:cpan/Rsync-Config@0.3.1
-RtMidiIn                            0.10  pkg:cpan/MIDI-RtMidi-FFI@0.10
-RtMidiOut                           0.10  pkg:cpan/MIDI-RtMidi-FFI@0.10
+RtMidiIn                            0.12  pkg:cpan/MIDI-RtMidi-FFI@0.12
+RtMidiOut                           0.12  pkg:cpan/MIDI-RtMidi-FFI@0.12
 RtMidiWrapper                       0.01  pkg:cpan/MIDI-RtMidi-FFI@0.01
 Rtmgr                               0.05  pkg:cpan/Rtmgr-Gen-Db@0.05
 Rtmgr::Gen                          0.05  pkg:cpan/Rtmgr-Gen-Db@0.05
@@ -217833,19 +217833,19 @@ Sepia::Xref                         0.65  pkg:cpan/Sepia@0.992
 Seq::Iter                          0.001  pkg:cpan/Seq-Iter@0.001
 SeqDiff                            undef  pkg:cpan/SeqDiff@v0.1
 Ser::BinRPC                         0.01  pkg:cpan/Ser-BinRPC@0.01
-Sereal                             5.008  pkg:cpan/Sereal@5.008
+Sereal                             5.009  pkg:cpan/Sereal@5.009
 Sereal::Dclone                     0.003  pkg:cpan/Sereal-Dclone@0.003
-Sereal::Decoder                    5.008  pkg:cpan/Sereal-Decoder@5.008
-Sereal::Decoder::Constants         5.008  pkg:cpan/Sereal-Decoder@5.008
-Sereal::Encoder                    5.008  pkg:cpan/Sereal-Encoder@5.008
-Sereal::Encoder::Constants         5.008  pkg:cpan/Sereal-Encoder@5.008
+Sereal::Decoder                    5.009  pkg:cpan/Sereal-Decoder@5.009
+Sereal::Decoder::Constants         5.009  pkg:cpan/Sereal-Decoder@5.009
+Sereal::Encoder                    5.009  pkg:cpan/Sereal-Encoder@5.009
+Sereal::Encoder::Constants         5.009  pkg:cpan/Sereal-Encoder@5.009
 Sereal::Merger                     0.001  pkg:cpan/Sereal-Merger@0.001
 Sereal::Merger::Constants          0.001  pkg:cpan/Sereal-Merger@0.001
 Sereal::Path                       4.004  pkg:cpan/Sereal-Path@4.004
 Sereal::Path::Constants            4.004  pkg:cpan/Sereal-Path@4.004
 Sereal::Path::Iterator             4.004  pkg:cpan/Sereal-Path@4.004
 Sereal::Path::Tie                  4.004  pkg:cpan/Sereal-Path@4.004
-Sereal::Performance                undef  pkg:cpan/Sereal-Decoder@5.008
+Sereal::Performance                undef  pkg:cpan/Sereal-Decoder@5.009
 Sereal::Splitter                   0.840  pkg:cpan/Sereal-Splitter@0.840
 Sereal::Splitter::Constants        0.830  pkg:cpan/Sereal-Splitter@0.840
 SerealX::Store                     0.003  pkg:cpan/SerealX-Store@0.003
