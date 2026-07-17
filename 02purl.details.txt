@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 16 Jul 2026 22:51:22 GMT
-Line-Count: 266510
+Last-Updated: Fri, 17 Jul 2026 02:02:12 GMT
+Line-Count: 266506
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -870,7 +870,6 @@ AMF::Perl::IO::Serializer          undef  pkg:cpan/AMF-Perl@0.15
 AMF::Perl::Sql::MysqlRecordSet     undef  pkg:cpan/AMF-Perl@0.15
 AMF::Perl::Util::Object            undef  pkg:cpan/AMF-Perl@0.15
 AMF::Perl::Util::RemotingService   undef  pkg:cpan/AMF-Perl@0.15
-AMPR::Rip44                         0.03  pkg:cpan/AMPR-Rip44@0.03
 AMQP                                0.01  pkg:cpan/AMQP@0.01
 AMQP::Publisher                     0.01  pkg:cpan/AMQP@0.01
 AMQP::Subscriber                    0.01  pkg:cpan/AMQP@0.01
@@ -10553,7 +10552,7 @@ App::Goto::Amazon                   0.01  pkg:cpan/App-Goto-Amazon@0.01
 App::GraphicsColorNamesUtils       0.008  pkg:cpan/App-GraphicsColorNamesUtils@0.008
 App::Gre                            0.18  pkg:cpan/App-Gre@0.18
 App::GreaseMonkeyProxy              0.05  pkg:cpan/HTTP-Proxy-GreaseMonkey@0.05
-App::GrepUtils                     0.006  pkg:cpan/App-GrepUtils@0.006
+App::GrepUtils                     0.007  pkg:cpan/App-GrepUtils@0.007
 App::Grepl                          0.01  pkg:cpan/App-Grepl@0.01
 App::Grepl::Base                    0.01  pkg:cpan/App-Grepl@0.01
 App::Grepl::Results                 0.01  pkg:cpan/App-Grepl@0.01
@@ -69848,7 +69847,6 @@ EZID                                0.02  pkg:cpan/EZID@0.02
 Earabic                             1.22  pkg:cpan/Arabic@1.22
 Earth                               0.03  pkg:cpan/Earth@0.04
 Earth::Entity                      undef  pkg:cpan/Earth@0.01
-Earth::USA::Washington::Cascadia    0.01  pkg:cpan/Earth-USA-Washington-Cascadia@0.01
 Earthquake::EEW::Decoder            0.03  pkg:cpan/Earthquake_EEW_Decoder@0.03
 Easy                                0.01  pkg:cpan/Easy-WML@0.1
 EasyDB                             undef  pkg:cpan/EasyDB@0.5b2?ext=tgz
@@ -71278,7 +71276,7 @@ Encode::Unicode::PerlDecodeJava    20171127  pkg:cpan/Encode-Unicode-PerlDecodeJ
 Encode::Unicode::UTF7               2.10  pkg:cpan/Encode@3.24
 Encode::VN                          0.06  pkg:cpan/Encode-VN@0.06
 Encode::Wechsler                    1.00  pkg:cpan/Encode-Wechsler@1.00
-Encode::Wide                        0.06  pkg:cpan/Encode-Wide@0.06
+Encode::Wide                        0.07  pkg:cpan/Encode-Wide@0.07
 Encode::Win32                      undef  pkg:cpan/Encode-Registry@0.13
 Encode::X11                           31  pkg:cpan/X11-Protocol-Other@31
 Encode::XS                          3.24  pkg:cpan/Encode@3.24
@@ -106656,7 +106654,6 @@ Guacamole::Deparse                 0.008  pkg:cpan/Guacamole@0.008
 Guacamole::Dumper                  0.008  pkg:cpan/Guacamole@0.008
 Guacamole::Test                    0.008  pkg:cpan/Guacamole@0.008
 Guard                              1.023  pkg:cpan/Guard@1.023
-Guard::State::Washington            0.01  pkg:cpan/Guard-State-Washington@0.01
 Guard::Stats                        0.03  pkg:cpan/Guard-Stats@0.03
 Guard::Stats::Instance             0.0204  pkg:cpan/Guard-Stats@0.03
 Guard::Timer                       1.000001  pkg:cpan/Log-Timer@1.0.1
@@ -256159,7 +256156,6 @@ WordPress::DBIC::Schema::Result::WpTermmeta undef  pkg:cpan/WordPress-DBIC-Schem
 WordPress::DBIC::Schema::Result::WpUser undef  pkg:cpan/WordPress-DBIC-Schema@1.01
 WordPress::DBIC::Schema::Result::WpUsermeta undef  pkg:cpan/WordPress-DBIC-Schema@1.01
 WordPress::DBIC::Schema::ResultSet::WpPost undef  pkg:cpan/WordPress-DBIC-Schema@1.01
-WordPress::Plugin::WallFlower      0.000003  pkg:cpan/WordPress-Plugin-WallFlower@0.0.3
 WordPress::Post                     1.07  pkg:cpan/WordPress-Post@1.07
 WordPress::XMLRPC                   2.13  pkg:cpan/WordPress-XMLRPC@2.13
 Wordnet::SenseSearch                0.02  pkg:cpan/Wordnet-SenseSearch@0.02
