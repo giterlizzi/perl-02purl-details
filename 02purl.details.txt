@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 18 Jul 2026 16:48:42 GMT
+Last-Updated: Sat, 18 Jul 2026 18:52:59 GMT
 Line-Count: 266600
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -876,7 +876,7 @@ AMQP::Subscriber                    0.01  pkg:cpan/AMQP@0.01
 AMSSerializer                       0.02  pkg:cpan/SOAP-Amazon-MerchantTransport@0.02
 AMX2                               undef  pkg:cpan/Apache2-ModXml2@0.01
 ANSI::Heatmap                        0.3  pkg:cpan/ANSI-Heatmap@0.3?ext=zip
-ANSI::Palette                       0.05  pkg:cpan/ANSI-Palette@0.05
+ANSI::Palette                       0.06  pkg:cpan/ANSI-Palette@0.06
 ANSI::Unicode                       0.03  pkg:cpan/ansi-unicode@0.03
 AOL::SFLAP                          0.33  pkg:cpan/AOL-TOC@0.340
 AOL::TOC                            0.34  pkg:cpan/AOL-TOC@0.340
@@ -34831,7 +34831,7 @@ Cache::CacheSizer                  undef  pkg:cpan/Cache-Cache@1.08
 Cache::CacheTester                 undef  pkg:cpan/Cache-Cache@1.08
 Cache::CacheUtils                  undef  pkg:cpan/Cache-Cache@1.08
 Cache::Cascade                      0.07  pkg:cpan/Cache-Cascade@0.07
-Cache::CodeBlock                    0.04  pkg:cpan/Cache-CodeBlock@0.04
+Cache::CodeBlock                    0.05  pkg:cpan/Cache-CodeBlock@0.05
 Cache::Ehcache                      0.03  pkg:cpan/Cache-Ehcache@0.03
 Cache::Elasticache::Memcache       0.000005  pkg:cpan/Cache-Elasticache-Memcache@0.0.5
 Cache::Entry                        2.11  pkg:cpan/Cache@2.11
@@ -56676,8 +56676,8 @@ Dancer2::Plugin::Interchange6::Routes::Cart undef  pkg:cpan/Dancer2-Plugin-Inter
 Dancer2::Plugin::Interchange6::Routes::Checkout undef  pkg:cpan/Dancer2-Plugin-Interchange6@0.204
 Dancer2::Plugin::JSManager         0.013  pkg:cpan/Dancer2-Plugin-JSManager@0.013
 Dancer2::Plugin::JWT               0.021  pkg:cpan/Dancer2-Plugin-JWT@0.021
-Dancer2::Plugin::JobScheduler      0.006  pkg:cpan/Dancer2-Plugin-JobScheduler@0.006
-Dancer2::Plugin::JobScheduler::Client::TheSchwartz 0.006  pkg:cpan/Dancer2-Plugin-JobScheduler@0.006
+Dancer2::Plugin::JobScheduler      0.007  pkg:cpan/Dancer2-Plugin-JobScheduler@0.007
+Dancer2::Plugin::JobScheduler::Client::TheSchwartz 0.007  pkg:cpan/Dancer2-Plugin-JobScheduler@0.007
 Dancer2::Plugin::JsonApi           v0.0.1  pkg:cpan/Dancer2-Plugin-JsonApi@0.0.1
 Dancer2::Plugin::JsonApi::Registry v0.0.1  pkg:cpan/Dancer2-Plugin-JsonApi@0.0.1
 Dancer2::Plugin::JsonApi::Schema   v0.0.1  pkg:cpan/Dancer2-Plugin-JsonApi@0.0.1
@@ -62469,7 +62469,7 @@ Date::Calendar::Profiles             6.4  pkg:cpan/Date-Calc@6.4
 Date::Calendar::Year                 6.4  pkg:cpan/Date-Calc@6.4
 Date::Chinese                       1.12  pkg:cpan/Date-Chinese@1.12
 Date::Christmas                     1.02  pkg:cpan/Date-Christmas@1.02
-Date::Cmp                           0.05  pkg:cpan/Date-Cmp@0.05
+Date::Cmp                           0.06  pkg:cpan/Date-Cmp@0.06
 Date::CommonFormats                 0.05  pkg:cpan/Date-CommonFormats@0.05
 Date::Components                   0.002001  pkg:cpan/Date-Components@0.2.1
 Date::Convert                       0.16  pkg:cpan/DateConvert@0.16
@@ -84057,7 +84057,7 @@ Glib::Type                         undef  pkg:cpan/App-SimpleBackuper@0.2.22
 Glib::Variant                      1.3294  pkg:cpan/Glib@1.3294
 Glib::VariantDict                  undef  pkg:cpan/App-SimpleBackuper@0.2.22
 Glib::VariantType                  undef  pkg:cpan/App-SimpleBackuper@0.2.22
-Glitch                              0.10  pkg:cpan/Glitch@0.10
+Glitch                              0.11  pkg:cpan/Glitch@0.11
 Global::IPC::StaticVariable        0.015  pkg:cpan/Global-IPC-StaticVariable@0.015
 Global::MutexLock                  0.026  pkg:cpan/Global-MutexLock@0.026
 Global::Rainbow::Map               0.002  pkg:cpan/Global-Rainbow-Map@0.002
@@ -141423,7 +141423,7 @@ MooX::PluginRoles::Base            undef  pkg:cpan/MooX-PluginRoles@0.02
 MooX::Press                        0.086  pkg:cpan/MooX-Press@0.086
 MooX::Press::Keywords              0.086  pkg:cpan/MooX-Press@0.086
 MooX::Pression                     0.617  pkg:cpan/Zydeco@0.617
-MooX::Private::Attribute            1.03  pkg:cpan/MooX-Private-Attribute@1.03
+MooX::Private::Attribute            1.04  pkg:cpan/MooX-Private-Attribute@1.04
 MooX::ProtectedAttributes           0.03  pkg:cpan/MooX-ProtectedAttributes@0.03
 MooX::Purple                        0.20  pkg:cpan/MooX-Purple@0.20
 MooX::Purple::G                     0.19  pkg:cpan/MooX-Purple@0.20
@@ -202545,7 +202545,7 @@ QuadPres::FS                       v0.32.0  pkg:cpan/QuadPres@0.32.0
 QuadPres::Url                      v0.32.0  pkg:cpan/QuadPres@0.32.0
 QuadPres::VimIface                 v0.32.0  pkg:cpan/QuadPres@0.32.0
 QuadPres::WriteContents            v0.32.0  pkg:cpan/QuadPres@0.32.0
-Quaint                              0.04  pkg:cpan/Quaint@0.04
+Quaint                              0.05  pkg:cpan/Quaint@0.05
 Qualys                              0.05  pkg:cpan/Qualys@0.05
 QualysGuard::Request                0.04  pkg:cpan/QualysGuard-Request@0.04
 QualysGuard::Response               0.02  pkg:cpan/QualysGuard-Request@0.04
@@ -250748,14 +250748,14 @@ WebService::ChatWorkApi::Response::Me undef  pkg:cpan/WebService-ChatWorkApi@0.0
 WebService::ChatWorkApi::Response::My undef  pkg:cpan/WebService-ChatWorkApi@0.01
 WebService::ChatWorkApi::Response::My::Status undef  pkg:cpan/WebService-ChatWorkApi@0.01
 WebService::ChatWorkApi::UserAgent  0.01  pkg:cpan/WebService-ChatWorkApi@0.01
-WebService::Chroma                  0.08  pkg:cpan/WebService-Chroma@0.08
-WebService::Chroma::Collection     undef  pkg:cpan/WebService-Chroma@0.08
-WebService::Chroma::DB             undef  pkg:cpan/WebService-Chroma@0.08
-WebService::Chroma::Embeddings::Jina undef  pkg:cpan/WebService-Chroma@0.08
-WebService::Chroma::Embeddings::Ollama undef  pkg:cpan/WebService-Chroma@0.08
-WebService::Chroma::Embeddings::OpenAI undef  pkg:cpan/WebService-Chroma@0.08
-WebService::Chroma::Tenant         undef  pkg:cpan/WebService-Chroma@0.08
-WebService::Chroma::UA             undef  pkg:cpan/WebService-Chroma@0.08
+WebService::Chroma                  0.09  pkg:cpan/WebService-Chroma@0.09
+WebService::Chroma::Collection     undef  pkg:cpan/WebService-Chroma@0.09
+WebService::Chroma::DB             undef  pkg:cpan/WebService-Chroma@0.09
+WebService::Chroma::Embeddings::Jina undef  pkg:cpan/WebService-Chroma@0.09
+WebService::Chroma::Embeddings::Ollama undef  pkg:cpan/WebService-Chroma@0.09
+WebService::Chroma::Embeddings::OpenAI undef  pkg:cpan/WebService-Chroma@0.09
+WebService::Chroma::Tenant         undef  pkg:cpan/WebService-Chroma@0.09
+WebService::Chroma::UA             undef  pkg:cpan/WebService-Chroma@0.09
 WebService::CityGrid::Search        0.04  pkg:cpan/WebService-CityGrid-Search@0.04
 WebService::CityGrid::Search::Result  0.04  pkg:cpan/WebService-CityGrid-Search@0.04
 WebService::Class                   0.03  pkg:cpan/WebService-Class@0.03
@@ -253056,9 +253056,9 @@ WebService::Intercom::User          0.09  pkg:cpan/WebService-Intercom@0.09
 WebService::Jamendo                39.0480460480490  pkg:cpan/WebService-Jamendo@2
 WebService::Jamendo::RSS            0.01  pkg:cpan/WebService-Jamendo-RSS@0.01
 WebService::Jandi::WebHook         0.000001  pkg:cpan/WebService-Jandi-WebHook@v0.0.1
-WebService::Jina                    0.05  pkg:cpan/WebService-Jina@0.05
-WebService::Jina::Response         undef  pkg:cpan/WebService-Jina@0.05
-WebService::Jina::UA               undef  pkg:cpan/WebService-Jina@0.05
+WebService::Jina                    0.06  pkg:cpan/WebService-Jina@0.06
+WebService::Jina::Response         undef  pkg:cpan/WebService-Jina@0.06
+WebService::Jina::UA               undef  pkg:cpan/WebService-Jina@0.06
 WebService::JotForm                0.020  pkg:cpan/WebService-JotForm@0.020
 WebService::JugemKey::Auth          0.04  pkg:cpan/WebService-JugemKey-Auth@0.04
 WebService::JugemKey::Auth::User    0.04  pkg:cpan/WebService-JugemKey-Auth@0.04
@@ -262740,7 +262740,7 @@ arrayref::object                   0.400  pkg:cpan/Perl-Types@0.400
 arrayref::scalartype               0.400  pkg:cpan/Perl-Types@0.400
 arrayref::string                   0.400  pkg:cpan/Perl-Types@0.400
 arybase                             0.15  pkg:cpan/perl@5.28.3
-as                                  0.14  pkg:cpan/as@0.14
+as                                  0.15  pkg:cpan/as@0.15
 asa                                 1.04  pkg:cpan/asa@1.04
 assertions                          0.03  pkg:cpan/assertions@0.03
 assertions::activate                0.02  pkg:cpan/assertions@0.03
