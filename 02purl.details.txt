@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 18 Jul 2026 12:58:50 GMT
-Line-Count: 266596
+Last-Updated: Sat, 18 Jul 2026 14:44:01 GMT
+Line-Count: 266600
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -120108,6 +120108,10 @@ LJ::Schedule::Vcal                   0.6  pkg:cpan/LJ-Schedule@0.6
 LJ::Simple                          0.15  pkg:cpan/LJ-Simple@0.15
 LLEval                              0.01  pkg:cpan/LLEval@0.01
 LLEval::CLI                        undef  pkg:cpan/LLEval@0.01
+LLM::API                           v1.0.1  pkg:cpan/LLM-API@1.0.1
+LLM::API::Content                  v1.0.1  pkg:cpan/LLM-API@1.0.1
+LLM::API::Response                 v1.0.0  pkg:cpan/LLM-API@1.0.1
+LLM::API::Usage                    v1.0.0  pkg:cpan/LLM-API@1.0.1
 LLM::SimpleClient                   0.01  pkg:cpan/LLM-SimpleClient@0.01
 LLM::SimpleClient::HuggingFace      0.01  pkg:cpan/LLM-SimpleClient@0.01
 LLM::SimpleClient::Mistral          0.01  pkg:cpan/LLM-SimpleClient@0.01
@@ -126860,9 +126864,9 @@ Locale::US                          3.04  pkg:cpan/Locale-US@3.04
 Locale::US::CensusDivisions        1.001000  pkg:cpan/Locale-US-CensusDivisions@1.1.0
 Locale::Unicode                    0.004003  pkg:cpan/Locale-Unicode@v0.4.3
 Locale::Unicode::Boolean           0.004003  pkg:cpan/Locale-Unicode@v0.4.3
-Locale::Unicode::Data              1.008006  pkg:cpan/Locale-Unicode-Data@v1.8.6
-Locale::Unicode::Data::Boolean     1.008006  pkg:cpan/Locale-Unicode-Data@v1.8.6
-Locale::Unicode::Data::Exception   1.008006  pkg:cpan/Locale-Unicode-Data@v1.8.6
+Locale::Unicode::Data              1.009000  pkg:cpan/Locale-Unicode-Data@v1.9.0
+Locale::Unicode::Data::Boolean     1.009000  pkg:cpan/Locale-Unicode-Data@v1.9.0
+Locale::Unicode::Data::Exception   1.009000  pkg:cpan/Locale-Unicode-Data@v1.9.0
 Locale::Unicode::Exception         0.004003  pkg:cpan/Locale-Unicode@v0.4.3
 Locale::Util                       undef  pkg:cpan/libintl-perl@1.37
 Locale::Utils::Autotranslator      1.016  pkg:cpan/Locale-Utils-Autotranslator@1.016
@@ -265191,7 +265195,7 @@ match::simple::sugar               0.012  pkg:cpan/match-simple@0.012
 match::smart                       0.012  pkg:cpan/match-simple@0.012
 maybe                              0.0202  pkg:cpan/maybe@0.0202
 maybe::start                       undef  pkg:cpan/Object-Remote@0.005000
-mb                                  0.65  pkg:cpan/mb@0.65
+mb                                  0.66  pkg:cpan/mb@0.66
 mb::Encode                          0.04  pkg:cpan/mb-Encode@0.04
 mb::JSON                            0.06  pkg:cpan/mb-JSON@0.06
 mb::JSON::Boolean                   0.06  pkg:cpan/mb-JSON@0.06
