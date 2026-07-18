@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 18 Jul 2026 09:17:26 GMT
+Last-Updated: Sat, 18 Jul 2026 10:56:22 GMT
 Line-Count: 266596
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -33431,7 +33431,7 @@ CPAN::Local::Role::Inject          0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Local::Role::MetaCPAN::API   0.001  pkg:cpan/CPAN-Local-Role-MetaCPAN-API@0.001
 CPAN::Local::Role::Prune           0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Local::Role::Remove          0.010  pkg:cpan/CPAN-Local@0.010
-CPAN::Maker                        v2.0.3  pkg:cpan/CPAN-Maker@2.0.3
+CPAN::Maker                        v2.0.4  pkg:cpan/CPAN-Maker@2.0.4
 CPAN::Maker::Bootstrapper          v2.0.9  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.9
 CPAN::Maker::Bootstrapper::ConfigReader     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.9
 CPAN::Maker::Bootstrapper::Constants     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.9
@@ -33445,10 +33445,10 @@ CPAN::Maker::Bootstrapper::Role::LLM::ReleaseNotes     0  pkg:cpan/CPAN-Maker-Bo
 CPAN::Maker::Bootstrapper::Role::LLM::Reviewer     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.9
 CPAN::Maker::Bootstrapper::Role::LLM::Utils     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.9
 CPAN::Maker::Bootstrapper::Role::ScaffoldImporter     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.9
-CPAN::Maker::Constants             v2.0.3  pkg:cpan/CPAN-Maker@2.0.3
-CPAN::Maker::Role::FileUtils       v2.0.3  pkg:cpan/CPAN-Maker@2.0.3
-CPAN::Maker::Role::ModuleUtils     v2.0.3  pkg:cpan/CPAN-Maker@2.0.3
-CPAN::Maker::Utils                 v2.0.3  pkg:cpan/CPAN-Maker@2.0.3
+CPAN::Maker::Constants             v2.0.4  pkg:cpan/CPAN-Maker@2.0.4
+CPAN::Maker::Role::FileUtils       v2.0.4  pkg:cpan/CPAN-Maker@2.0.4
+CPAN::Maker::Role::ModuleUtils     v2.0.4  pkg:cpan/CPAN-Maker@2.0.4
+CPAN::Maker::Utils                 v2.0.4  pkg:cpan/CPAN-Maker@2.0.4
 CPAN::Meta                         2.150013  pkg:cpan/CPAN-Meta@2.150013
 CPAN::Meta::Check                  0.018  pkg:cpan/CPAN-Meta-Check@0.018
 CPAN::Meta::Converter              2.150013  pkg:cpan/CPAN-Meta@2.150013
@@ -196683,7 +196683,7 @@ PerlIO::Layer                      undef  pkg:cpan/App-SimpleBackuper@0.2.22
 PerlIO::Layers                     0.012  pkg:cpan/PerlIO-Layers@0.012
 PerlIO::OnSearchIO                  0.01  pkg:cpan/onsearch@0.99
 PerlIO::Util                        0.72  pkg:cpan/PerlIO-Util@0.72
-PerlIO::Via::Base64                 0.05  pkg:cpan/PerlIO-Via-Base64@0.05
+PerlIO::Via::Base64                 0.06  pkg:cpan/PerlIO-Via-Base64@0.06
 PerlIO::bitswap                    0.003  pkg:cpan/PerlIO-bitswap@0.003
 PerlIO::bom                        0.001  pkg:cpan/PerlIO-bom@0.001
 PerlIO::buffersize                 0.002  pkg:cpan/PerlIO-buffersize@0.002
@@ -196726,15 +196726,15 @@ PerlIO::via::GnuPG::Maybe          0.006  pkg:cpan/PerlIO-via-GnuPG@0.006
 PerlIO::via::Include                0.06  pkg:cpan/PerlIO-via-Include@0.06
 PerlIO::via::LAUTER_DEUTSCHER       1.02  pkg:cpan/Acme-LAUTER-DEUTSCHER@1.02
 PerlIO::via::Limit                  0.04  pkg:cpan/PerlIO-via-Limit@0.04
-PerlIO::via::LineNumber             0.06  pkg:cpan/PerlIO-via-LineNumber@0.06
+PerlIO::via::LineNumber             0.07  pkg:cpan/PerlIO-via-LineNumber@0.07
 PerlIO::via::Logger                 1.01  pkg:cpan/PerlIO-via-Logger@1.01
-PerlIO::via::MD5                    0.09  pkg:cpan/PerlIO-via-MD5@0.09
+PerlIO::via::MD5                    0.10  pkg:cpan/PerlIO-via-MD5@0.10
 PerlIO::via::PinyinConvert          0.01  pkg:cpan/Lingua-ZH-PinyinConvert@0.05
 PerlIO::via::Pipe                  1.100860  pkg:cpan/PerlIO-via-Pipe@1.100860
 PerlIO::via::Pod                    0.08  pkg:cpan/PerlIO-via-Pod@0.08
 PerlIO::via::PrepareCP1251          0.02  pkg:cpan/PerlIO-via-PrepareCP1251@0.02
 PerlIO::via::QuotedPrint            0.10  pkg:cpan/PerlIO-via-QuotedPrint@0.10
-PerlIO::via::Rotate                 0.10  pkg:cpan/PerlIO-via-Rotate@0.10
+PerlIO::via::Rotate                 0.11  pkg:cpan/PerlIO-via-Rotate@0.11
 PerlIO::via::SeqIO                 0.0322  pkg:cpan/PerlIO-via-SeqIO@0.0322
 PerlIO::via::Skip                   0.04  pkg:cpan/PerlIO-via-Skip@0.06
 PerlIO::via::StripHTML              0.04  pkg:cpan/PerlIO-via-StripHTML@0.04
@@ -213728,12 +213728,12 @@ Salesforce::Deserializer            0.57  pkg:cpan/Salesforce@0.57
 Salesforce::LoginResult             0.57  pkg:cpan/Salesforce@0.57
 Salesforce::SforceService           0.57  pkg:cpan/Salesforce@0.57
 Salesforce::Soap                    0.57  pkg:cpan/Salesforce@0.57
-Salus                               0.09  pkg:cpan/Salus@0.09
-Salus::Command                     undef  pkg:cpan/Salus@0.09
-Salus::Header                      undef  pkg:cpan/Salus@0.09
-Salus::Row                         undef  pkg:cpan/Salus@0.09
-Salus::Row::Column                 undef  pkg:cpan/Salus@0.09
-Salus::Table                       undef  pkg:cpan/Salus@0.09
+Salus                               0.10  pkg:cpan/Salus@0.10
+Salus::Command                     undef  pkg:cpan/Salus@0.10
+Salus::Header                      undef  pkg:cpan/Salus@0.10
+Salus::Row                         undef  pkg:cpan/Salus@0.10
+Salus::Row::Column                 undef  pkg:cpan/Salus@0.10
+Salus::Table                       undef  pkg:cpan/Salus@0.10
 Salvation                          0.9913  pkg:cpan/Salvation@0.9913
 Salvation::AnyNotify                0.01  pkg:cpan/Salvation-AnyNotify@0.01
 Salvation::AnyNotify::Plugin       undef  pkg:cpan/Salvation-AnyNotify@0.01
@@ -225985,8 +225985,8 @@ Sys::RunAlone                       0.13  pkg:cpan/Sys-RunAlone@0.13
 Sys::RunAlone::Flexible            0.004  pkg:cpan/Sys-RunAlone-Flexible@0.004
 Sys::RunAlone::Flexible2           0.001  pkg:cpan/Sys-RunAlone-Flexible2@0.001
 Sys::RunAlone::User                 0.01  pkg:cpan/Sys-RunAlone-User@0.01
-Sys::RunAlways                      0.07  pkg:cpan/Sys-RunAlways@0.07
-Sys::RunUntil                       0.06  pkg:cpan/Sys-RunUntil@0.06
+Sys::RunAlways                      0.08  pkg:cpan/Sys-RunAlways@0.08
+Sys::RunUntil                       0.07  pkg:cpan/Sys-RunUntil@0.07
 Sys::Sendfile                       0.19  pkg:cpan/Sys-Sendfile@0.19
 Sys::Sendfile::FreeBSD              0.01  pkg:cpan/Sys-Sendfile-FreeBSD@0.01
 Sys::Sendfile::OSX                  0.02  pkg:cpan/Sys-Sendfile-OSX@0.02
