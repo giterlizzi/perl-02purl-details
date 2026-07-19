@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 19 Jul 2026 14:48:24 GMT
-Line-Count: 266673
+Last-Updated: Sun, 19 Jul 2026 16:50:01 GMT
+Line-Count: 266674
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -116037,7 +116037,7 @@ JSON::Builder::Obj                  0.04  pkg:cpan/JSON-Builder@0.04
 JSON::CPAN::Meta                   7.001  pkg:cpan/JSON-CPAN-Meta@7.001
 JSON::Client                        0.03  pkg:cpan/JSON-Server@0.03
 JSON::Color                        0.134  pkg:cpan/JSON-Color@0.134
-JSON::Conditional                   1.02  pkg:cpan/JSON-Conditional@1.02
+JSON::Conditional                   1.03  pkg:cpan/JSON-Conditional@1.03
 JSON::Converter                     1.14  pkg:cpan/JSON@1.15
 JSON::Create                        0.36  pkg:cpan/JSON-Create@0.36
 JSON::Create::Bool                  0.36  pkg:cpan/JSON-Create@0.36
@@ -116110,7 +116110,7 @@ JSON::Meth                         1.001008  pkg:cpan/JSON-Meth@1.001008
 JSON::MultiValueOrdered            0.006  pkg:cpan/JSON-MultiValueOrdered@0.006
 JSON::NotString                     1.07  pkg:cpan/JSON@1.15
 JSON::ON                           v0.0.3  pkg:cpan/JSON-ON@v0.0.3
-JSON::Ordered::Conditional          0.03  pkg:cpan/JSON-Ordered-Conditional@0.03
+JSON::Ordered::Conditional          0.04  pkg:cpan/JSON-Ordered-Conditional@0.04
 JSON::PP                            4.18  pkg:cpan/JSON-PP@4.18
 JSON::PP5005                        1.10  pkg:cpan/JSON@2.27
 JSON::PP56                          1.08  pkg:cpan/JSON@2.27
@@ -138825,8 +138825,8 @@ Module::Requires                    0.03  pkg:cpan/Module-Requires@0.03
 Module::Runtime                    0.018  pkg:cpan/Module-Runtime@0.018
 Module::Runtime::Conflicts         0.003  pkg:cpan/Module-Runtime-Conflicts@0.003
 Module::ScanDeps                    1.37  pkg:cpan/Module-ScanDeps@1.37
-Module::ScanDeps::FindRequires     v1.7.8  pkg:cpan/Module-ScanDeps-Static@1.7.8
-Module::ScanDeps::Static           v1.7.8  pkg:cpan/Module-ScanDeps-Static@1.7.8
+Module::ScanDeps::FindRequires     v1.8.1  pkg:cpan/Module-ScanDeps-Static@1.8.1
+Module::ScanDeps::Static           v1.8.1  pkg:cpan/Module-ScanDeps-Static@1.8.1
 Module::ScanDeps::Static::VERSION  v1.7.8  pkg:cpan/Module-ScanDeps-Static@1.7.8
 Module::ScanDeps::VERSION          v1.7.0  pkg:cpan/Module-ScanDeps-Static@1.7.0
 Module::Setup                       0.09  pkg:cpan/Module-Setup@0.09
@@ -147242,42 +147242,43 @@ Net::Bind                           0.05  pkg:cpan/Net-Bind@0.05
 Net::Bind::Resolv                   0.01  pkg:cpan/Net-Bind@0.01
 Net::Bind::Utils                    0.05  pkg:cpan/Net-Bind@0.05
 Net::Bind::rbldnsdAccessor          0.05  pkg:cpan/Net-Bind-rbldnsdAccessor@0.05
-Net::BitTorrent                    v2.0.1  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::DHT               v2.0.6  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::DHT::Peer         v2.0.6  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::DHT::Security     v2.0.6  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Emitter           v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
+Net::BitTorrent                    v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::DHT               v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::DHT::Peer         v2.0.6  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::DHT::Security     v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Emitter           v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
 Net::BitTorrent::File               1.02  pkg:cpan/Net-BitTorrent-File@1.02-fix
-Net::BitTorrent::Peer              v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
+Net::BitTorrent::Peer              v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
 Net::BitTorrent::PeerPacket          1.2  pkg:cpan/Net-BitTorrent-PeerPacket@1.2
-Net::BitTorrent::Protocol::BEP03   v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Protocol::BEP03::Bencode v2.0.1  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Protocol::BEP06   v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Protocol::BEP09   v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Protocol::BEP10   v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Protocol::BEP11   v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Protocol::BEP23   v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Protocol::BEP52   v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Protocol::BEP53   v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Protocol::BEP55   v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Protocol::HandshakeOnly v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Protocol::MSE     v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Protocol::MSE::KeyExchange v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Protocol::MSE::RC4 v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Protocol::PeerHandler v2.0.1  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Protocol::Simulation v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Storage           v2.0.1  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Storage::File     v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Torrent           v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Torrent::Generator v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Torrent::PiecePicker v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Tracker           v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Tracker::Base     v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Tracker::HTTP     v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Tracker::UDP      v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Tracker::WebSeed  v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Transport::TCP    v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
-Net::BitTorrent::Types             v2.0.0  pkg:cpan/Net-BitTorrent@v2.0.1
+Net::BitTorrent::Protocol::BEP03   v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Protocol::BEP03::Bencode v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Protocol::BEP06   v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Protocol::BEP09   v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Protocol::BEP10   v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Protocol::BEP11   v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Protocol::BEP23   v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Protocol::BEP52   v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Protocol::BEP53   v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Protocol::BEP55   v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Protocol::HandshakeOnly v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Protocol::MSE     v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Protocol::MSE::KeyExchange v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Protocol::MSE::RC4 v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Protocol::PeerHandler v2.0.1  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Protocol::Simulation v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::SSRF              v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Storage           v2.0.1  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Storage::File     v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Torrent           v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Torrent::Generator v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Torrent::PiecePicker v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Tracker           v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Tracker::Base     v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Tracker::HTTP     v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Tracker::UDP      v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Tracker::WebSeed  v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Transport::TCP    v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Types             v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
 Net::BitTorrentSync                 0.21  pkg:cpan/Net-BitTorrentSync@0.21
 Net::Blacklist::Client               0.3  pkg:cpan/Net-Blacklist-Client@0.3
 Net::Blogger                        1.03  pkg:cpan/Net-Blogger@1.03
@@ -196804,7 +196805,7 @@ PerlIO::via::Skip                   0.04  pkg:cpan/PerlIO-via-Skip@0.06
 PerlIO::via::StripHTML              0.04  pkg:cpan/PerlIO-via-StripHTML@0.04
 PerlIO::via::Timeout                0.32  pkg:cpan/PerlIO-via-Timeout@0.32
 PerlIO::via::ToFirePHP             1.100860  pkg:cpan/PerlIO-via-ToFirePHP@1.100860
-PerlIO::via::UnComment              0.06  pkg:cpan/PerlIO-via-UnComment@0.06
+PerlIO::via::UnComment              0.07  pkg:cpan/PerlIO-via-UnComment@0.07
 PerlIO::via::UnPod                  0.09  pkg:cpan/PerlIO-via-UnPod@0.09
 PerlIO::via::UnicodeDebug          0.002  pkg:cpan/Unicode-Debug@0.002
 PerlIO::via::Unidecode              1.02  pkg:cpan/PerlIO-via-Unidecode@1.02
@@ -199780,7 +199781,7 @@ Pod::Simple::XHTML::BlendedCode::Blender 1.000  pkg:cpan/Pod-Simple-XHTML-Blende
 Pod::Simple::XHTML::LocalPodLinks   1.36  pkg:cpan/perl@5.44.0
 Pod::Simple::XHTML::WithHighlightConfig 0.000003  pkg:cpan/Pod-Simple-XHTML-WithHighlightConfig@0.000003
 Pod::Simple::XMLOutStream           3.48  pkg:cpan/Pod-Simple@3.48
-Pod::Simpler::Aoh                   1.00  pkg:cpan/Pod-Simpler-Aoh@1.00
+Pod::Simpler::Aoh                   1.01  pkg:cpan/Pod-Simpler-Aoh@1.01
 Pod::Simplify                      undef  pkg:cpan/PodSimplify@0.04
 Pod::Site                           0.56  pkg:cpan/Pod-Site@0.56
 Pod::Site::Search                   0.56  pkg:cpan/Pod-Site@0.56
@@ -210880,7 +210881,7 @@ SQL::Abstract::Plugin::BangOverrides undef  pkg:cpan/SQL-Abstract@2.000001
 SQL::Abstract::Plugin::ExtraClauses undef  pkg:cpan/SQL-Abstract@2.000001
 SQL::Abstract::Plugin::InsertMulti  0.05  pkg:cpan/SQL-Abstract-Plugin-InsertMulti@0.05
 SQL::Abstract::Plugin::InsertReturning  0.05  pkg:cpan/SQL-Abstract-Plugin-InsertReturning@0.05
-SQL::Abstract::Plugin::TableAlias   0.05  pkg:cpan/SQL-Abstract-Plugin-TableAlias@0.05
+SQL::Abstract::Plugin::TableAlias   0.06  pkg:cpan/SQL-Abstract-Plugin-TableAlias@0.06
 SQL::Abstract::Prefetch            0.003  pkg:cpan/SQL-Abstract-Prefetch@0.003
 SQL::Abstract::Reference           undef  pkg:cpan/SQL-Abstract@2.000001
 SQL::Abstract::Role::Plugin        undef  pkg:cpan/SQL-Abstract@2.000001
@@ -224736,7 +224737,7 @@ StringEvolver                       0.03  pkg:cpan/Algorithm-Evolve@0.03
 StringHandle                        0.20  pkg:cpan/Chess-PGN-Parse@0.20
 Stringify::Deep                     0.03  pkg:cpan/Stringify-Deep@0.03
 Struct::Compare                      1.0  pkg:cpan/Struct-Compare@1.0.1
-Struct::Conditional                 1.03  pkg:cpan/Struct-Conditional@1.03
+Struct::Conditional                 1.04  pkg:cpan/Struct-Conditional@1.04
 Struct::Diff                        0.98  pkg:cpan/Struct-Diff@0.98
 Struct::Diff::MergePatch            0.01  pkg:cpan/Struct-Diff-MergePatch@0.01
 Struct::Dumb                        0.16  pkg:cpan/Struct-Dumb@0.16
@@ -260615,9 +260616,9 @@ YAML::Active::lc                   1.100810  pkg:cpan/YAML-Active@1.100810
 YAML::Active::uc                   1.100810  pkg:cpan/YAML-Active@1.100810
 YAML::Any                           1.31  pkg:cpan/YAML@1.31
 YAML::AppConfig                     0.19  pkg:cpan/YAML-AppConfig@0.19
-YAML::As::Parsed                    0.09  pkg:cpan/YAML-As-Parsed@0.09
+YAML::As::Parsed                    1.00  pkg:cpan/YAML-As-Parsed@1.00
 YAML::CacheLoader                  0.019  pkg:cpan/YAML-CacheLoader@0.019
-YAML::Conditional                   1.02  pkg:cpan/YAML-Conditional@1.02
+YAML::Conditional                   1.03  pkg:cpan/YAML-Conditional@1.03
 YAML::DBH                           1.08  pkg:cpan/YAML-DBH@1.08
 YAML::Diff                         0.000002  pkg:cpan/YAML-Diff@0.0.2
 YAML::Diff::Command                undef  pkg:cpan/YAML-Diff@0.0.2
@@ -260672,7 +260673,7 @@ YAML::Old::Type::regexp            undef  pkg:cpan/YAML-Old@1.23
 YAML::Old::Type::undef             undef  pkg:cpan/YAML-Old@1.23
 YAML::Old::Types                   undef  pkg:cpan/YAML-Old@1.23
 YAML::Old::Warning                 undef  pkg:cpan/YAML-Old@1.23
-YAML::Ordered::Conditional          0.04  pkg:cpan/YAML-Ordered-Conditional@0.04
+YAML::Ordered::Conditional          0.05  pkg:cpan/YAML-Ordered-Conditional@0.05
 YAML::PP                           v0.41.0  pkg:cpan/YAML-PP@v0.41.0
 YAML::PP::Common                   v0.41.0  pkg:cpan/YAML-PP@v0.41.0
 YAML::PP::Constructor              v0.41.0  pkg:cpan/YAML-PP@v0.41.0
