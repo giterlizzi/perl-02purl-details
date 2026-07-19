@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 19 Jul 2026 16:50:01 GMT
-Line-Count: 266674
+Last-Updated: Sun, 19 Jul 2026 18:57:34 GMT
+Line-Count: 266667
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -13567,7 +13567,6 @@ App::SeismicUnixGui::misc::L_SU_global_constants 0.000001  pkg:cpan/App-SeismicU
 App::SeismicUnixGui::misc::L_SU_local_user_constants 0.000001  pkg:cpan/App-SeismicUnixGui@0.87.6
 App::SeismicUnixGui::misc::L_SU_path 0.000001  pkg:cpan/App-SeismicUnixGui@0.87.6
 App::SeismicUnixGui::misc::PID     0.000001  pkg:cpan/App-SeismicUnixGui@0.87.6
-App::SeismicUnixGui::misc::Project_Variables 0.000001  pkg:cpan/App-SeismicUnixGui@0.87.5
 App::SeismicUnixGui::misc::SeismicUnix   1.0  pkg:cpan/App-SeismicUnixGui@0.87.6
 App::SeismicUnixGui::misc::a2su     0.01  pkg:cpan/App-SeismicUnixGui@0.87.6
 App::SeismicUnixGui::misc::algebra_by undef  pkg:cpan/App-SeismicUnixGui@0.87.6
@@ -13578,7 +13577,6 @@ App::SeismicUnixGui::misc::blue_flow 0.000004  pkg:cpan/App-SeismicUnixGui@0.87.
 App::SeismicUnixGui::misc::check_buttons 0.000001  pkg:cpan/App-SeismicUnixGui@0.87.6
 App::SeismicUnixGui::misc::cmpcc   0.000001  pkg:cpan/App-SeismicUnixGui@0.87.6
 App::SeismicUnixGui::misc::color_listbox 0.000001  pkg:cpan/App-SeismicUnixGui@0.87.6
-App::SeismicUnixGui::misc::conditions4big_streams 0.000002  pkg:cpan/App-SeismicUnixGui@0.87.5
 App::SeismicUnixGui::misc::conditions4flows 0.000002  pkg:cpan/App-SeismicUnixGui@0.87.6
 App::SeismicUnixGui::misc::config_superflows   1.0  pkg:cpan/App-SeismicUnixGui@0.87.6
 App::SeismicUnixGui::misc::control 0.000003  pkg:cpan/App-SeismicUnixGui@0.87.6
@@ -13592,7 +13590,6 @@ App::SeismicUnixGui::misc::file_dialog 0.000004  pkg:cpan/App-SeismicUnixGui@0.8
 App::SeismicUnixGui::misc::files_LSU 0.000004  pkg:cpan/App-SeismicUnixGui@0.87.6
 App::SeismicUnixGui::misc::flow    0.000002  pkg:cpan/App-SeismicUnixGui@0.87.6
 App::SeismicUnixGui::misc::flow_widgets 0.001003  pkg:cpan/App-SeismicUnixGui@0.87.6
-App::SeismicUnixGui::misc::geometry_pack undef  pkg:cpan/App-SeismicUnixGui@0.87.5
 App::SeismicUnixGui::misc::green_flow 0.000004  pkg:cpan/App-SeismicUnixGui@0.87.6
 App::SeismicUnixGui::misc::grey_flow 0.000004  pkg:cpan/App-SeismicUnixGui@0.87.6
 App::SeismicUnixGui::misc::gui_history 0.000002  pkg:cpan/App-SeismicUnixGui@0.87.6
@@ -13632,11 +13629,7 @@ App::SeismicUnixGui::misc::param_flow_pink 0.000005  pkg:cpan/App-SeismicUnixGui
 App::SeismicUnixGui::misc::param_sunix 0.000002  pkg:cpan/App-SeismicUnixGui@0.87.6
 App::SeismicUnixGui::misc::param_widgets 1.000001  pkg:cpan/App-SeismicUnixGui@0.87.6
 App::SeismicUnixGui::misc::param_widgets4pre_built_streams 0.000002  pkg:cpan/App-SeismicUnixGui@0.87.6
-App::SeismicUnixGui::misc::param_widgets_blue 0.000002  pkg:cpan/App-SeismicUnixGui@0.87.5
-App::SeismicUnixGui::misc::param_widgets_green 0.000002  pkg:cpan/App-SeismicUnixGui@0.87.5
-App::SeismicUnixGui::misc::param_widgets_grey 0.000002  pkg:cpan/App-SeismicUnixGui@0.87.5
 App::SeismicUnixGui::misc::param_widgets_neutral 0.000002  pkg:cpan/App-SeismicUnixGui@0.87.6
-App::SeismicUnixGui::misc::param_widgets_pink 0.000002  pkg:cpan/App-SeismicUnixGui@0.87.5
 App::SeismicUnixGui::misc::perl_declare 0.000001  pkg:cpan/App-SeismicUnixGui@0.87.6
 App::SeismicUnixGui::misc::perl_flow 0.000002  pkg:cpan/App-SeismicUnixGui@0.87.6
 App::SeismicUnixGui::misc::perl_header 0.000001  pkg:cpan/App-SeismicUnixGui@0.87.6
@@ -15755,7 +15748,7 @@ App::gh::Git                        0.01  pkg:cpan/App-gh@0.66
 App::gh::Git::Error::Command        0.01  pkg:cpan/App-gh@0.66
 App::gh::Git::activestate_pipe      0.01  pkg:cpan/App-gh@0.66
 App::gh::Utils                     undef  pkg:cpan/App-gh@0.66
-App::gherkin                       v41.0.0  pkg:cpan/Gherkin@41.0.0
+App::gherkin                       v42.0.0  pkg:cpan/Gherkin@42.0.0
 App::ghmulti                        0.07  pkg:cpan/App-ghmulti@0.07
 App::gimpgitbuild                  v0.32.1  pkg:cpan/App-gimpgitbuild@0.32.1
 App::gimpgitbuild::API::GitBuild   v0.32.1  pkg:cpan/App-gimpgitbuild@0.32.1
@@ -36258,9 +36251,9 @@ Catalyst::Plugin::Imager            0.01  pkg:cpan/Catalyst-Plugin-Imager@0.01
 Catalyst::Plugin::Images            0.02  pkg:cpan/Catalyst-Plugin-Images@0.02
 Catalyst::Plugin::InjectionHelpers 0.015  pkg:cpan/Catalyst-Plugin-InjectionHelpers@0.015
 Catalyst::Plugin::JSONRPC           0.01  pkg:cpan/Catalyst-Plugin-JSONRPC@0.01
-Catalyst::Plugin::JSONRPC::Server  0.003  pkg:cpan/Catalyst-Plugin-JSONRPC-Server@0.003
-Catalyst::Plugin::JSONRPC::Server::Dispatcher 0.003  pkg:cpan/Catalyst-Plugin-JSONRPC-Server@0.003
-Catalyst::Plugin::JSONRPC::Server::Error 0.003  pkg:cpan/Catalyst-Plugin-JSONRPC-Server@0.003
+Catalyst::Plugin::JSONRPC::Server  0.004  pkg:cpan/Catalyst-Plugin-JSONRPC-Server@0.004
+Catalyst::Plugin::JSONRPC::Server::Dispatcher 0.003  pkg:cpan/Catalyst-Plugin-JSONRPC-Server@0.004
+Catalyst::Plugin::JSONRPC::Server::Error 0.003  pkg:cpan/Catalyst-Plugin-JSONRPC-Server@0.004
 Catalyst::Plugin::JavaScript::Console  0.01  pkg:cpan/Catalyst-Plugin-JavaScript-Console@0.01
 Catalyst::Plugin::LeakTracker       0.03  pkg:cpan/Catalyst-Plugin-LeakTracker@0.03
 Catalyst::Plugin::Localize::Simple   1.1  pkg:cpan/Catalyst-Plugin-Localize-Simple@1.1
@@ -83307,30 +83300,30 @@ Gfsm::XL                            0.11  pkg:cpan/Gfsm-XL@0.11
 Gfsm::XL::Cascade                  undef  pkg:cpan/Gfsm-XL@0.11
 Gfsm::XL::Cascade::Lookup          undef  pkg:cpan/Gfsm-XL@0.11
 Gftracks                             0.9  pkg:cpan/Gftracks@0.9
-Gherkin                            v41.0.0  pkg:cpan/Gherkin@41.0.0
-Gherkin::AstBuilder                v41.0.0  pkg:cpan/Gherkin@41.0.0
-Gherkin::AstNode                   v41.0.0  pkg:cpan/Gherkin@41.0.0
-Gherkin::Dialect                   v41.0.0  pkg:cpan/Gherkin@41.0.0
-Gherkin::Exceptions                v41.0.0  pkg:cpan/Gherkin@41.0.0
-Gherkin::Exceptions::AstBuilder    v41.0.0  pkg:cpan/Gherkin@41.0.0
-Gherkin::Exceptions::CompositeParser v41.0.0  pkg:cpan/Gherkin@41.0.0
-Gherkin::Exceptions::NoSuchLanguage v41.0.0  pkg:cpan/Gherkin@41.0.0
-Gherkin::Exceptions::Parser        v41.0.0  pkg:cpan/Gherkin@41.0.0
-Gherkin::Exceptions::SingleParser  v41.0.0  pkg:cpan/Gherkin@41.0.0
-Gherkin::Exceptions::UnexpectedEOF v41.0.0  pkg:cpan/Gherkin@41.0.0
-Gherkin::Exceptions::UnexpectedToken v41.0.0  pkg:cpan/Gherkin@41.0.0
-Gherkin::Generated::Languages      v41.0.0  pkg:cpan/Gherkin@41.0.0
-Gherkin::Generated::Parser         v41.0.0  pkg:cpan/Gherkin@41.0.0
-Gherkin::Line                      v41.0.0  pkg:cpan/Gherkin@41.0.0
-Gherkin::MarkdownTokenMatcher      v41.0.0  pkg:cpan/Gherkin@41.0.0
-Gherkin::Parser                    v41.0.0  pkg:cpan/Gherkin@41.0.0
-Gherkin::ParserBase                v41.0.0  pkg:cpan/Gherkin@41.0.0
-Gherkin::ParserContext             v41.0.0  pkg:cpan/Gherkin@41.0.0
-Gherkin::Pickles::Compiler         v41.0.0  pkg:cpan/Gherkin@41.0.0
-Gherkin::Token                     v41.0.0  pkg:cpan/Gherkin@41.0.0
-Gherkin::TokenFormatterBuilder     v41.0.0  pkg:cpan/Gherkin@41.0.0
-Gherkin::TokenMatcher              v41.0.0  pkg:cpan/Gherkin@41.0.0
-Gherkin::TokenScanner              v41.0.0  pkg:cpan/Gherkin@41.0.0
+Gherkin                            v42.0.0  pkg:cpan/Gherkin@42.0.0
+Gherkin::AstBuilder                v42.0.0  pkg:cpan/Gherkin@42.0.0
+Gherkin::AstNode                   v42.0.0  pkg:cpan/Gherkin@42.0.0
+Gherkin::Dialect                   v42.0.0  pkg:cpan/Gherkin@42.0.0
+Gherkin::Exceptions                v42.0.0  pkg:cpan/Gherkin@42.0.0
+Gherkin::Exceptions::AstBuilder    v42.0.0  pkg:cpan/Gherkin@42.0.0
+Gherkin::Exceptions::CompositeParser v42.0.0  pkg:cpan/Gherkin@42.0.0
+Gherkin::Exceptions::NoSuchLanguage v42.0.0  pkg:cpan/Gherkin@42.0.0
+Gherkin::Exceptions::Parser        v42.0.0  pkg:cpan/Gherkin@42.0.0
+Gherkin::Exceptions::SingleParser  v42.0.0  pkg:cpan/Gherkin@42.0.0
+Gherkin::Exceptions::UnexpectedEOF v42.0.0  pkg:cpan/Gherkin@42.0.0
+Gherkin::Exceptions::UnexpectedToken v42.0.0  pkg:cpan/Gherkin@42.0.0
+Gherkin::Generated::Languages      v42.0.0  pkg:cpan/Gherkin@42.0.0
+Gherkin::Generated::Parser         v42.0.0  pkg:cpan/Gherkin@42.0.0
+Gherkin::Line                      v42.0.0  pkg:cpan/Gherkin@42.0.0
+Gherkin::MarkdownTokenMatcher      v42.0.0  pkg:cpan/Gherkin@42.0.0
+Gherkin::Parser                    v42.0.0  pkg:cpan/Gherkin@42.0.0
+Gherkin::ParserBase                v42.0.0  pkg:cpan/Gherkin@42.0.0
+Gherkin::ParserContext             v42.0.0  pkg:cpan/Gherkin@42.0.0
+Gherkin::Pickles::Compiler         v42.0.0  pkg:cpan/Gherkin@42.0.0
+Gherkin::Token                     v42.0.0  pkg:cpan/Gherkin@42.0.0
+Gherkin::TokenFormatterBuilder     v42.0.0  pkg:cpan/Gherkin@42.0.0
+Gherkin::TokenMatcher              v42.0.0  pkg:cpan/Gherkin@42.0.0
+Gherkin::TokenScanner              v42.0.0  pkg:cpan/Gherkin@42.0.0
 Gibbs                              1.001000  pkg:cpan/Gibbs@v1.1
 Giblog                              3.00  pkg:cpan/Giblog@3.00
 Giblog::API                        undef  pkg:cpan/Giblog@3.00
@@ -223899,9 +223892,9 @@ Stats::Fermi::FermiDiracStats      undef  pkg:cpan/Stats-Fermi@0.1.7
 Stats::Hawking                     0.001003  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HTRandom           undef  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HawkingTemperature undef  pkg:cpan/Stats-Hawking@0.1.3
-Stats::LikeR                        0.23  pkg:cpan/Stats-LikeR@0.23
+Stats::LikeR                        0.24  pkg:cpan/Stats-LikeR@0.24
 Stats::LikeR::Pred                  0.16  pkg:cpan/Stats-LikeR@0.16
-Stats::LikeR::col                   0.23  pkg:cpan/Stats-LikeR@0.23
+Stats::LikeR::col                   0.24  pkg:cpan/Stats-LikeR@0.24
 StatsView::Graph                    1.15  pkg:cpan/StatsView@1.4
 StatsView::Graph::Iost             undef  pkg:cpan/StatsView@1.4
 StatsView::Graph::Iostat           undef  pkg:cpan/StatsView@1.4
