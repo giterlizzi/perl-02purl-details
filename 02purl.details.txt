@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 19 Jul 2026 06:24:35 GMT
+Last-Updated: Sun, 19 Jul 2026 09:46:03 GMT
 Line-Count: 266660
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -33775,7 +33775,7 @@ CPAN::Test::Dummy::Perl5::NoBugTracker  1.00  pkg:cpan/CPAN-Test-Dummy-Perl5-NoB
 CPAN::Test::Dummy::Perl5::PackageWithBlock::AndVersion  0.03  pkg:cpan/CPAN-Test-Dummy-Perl5-PackageWithBlock@0.03
 CPAN::Test::Dummy::Perl5::RecSug   0.001  pkg:cpan/CPAN-Test-Dummy-Perl5-RecSug@0.001
 CPAN::Test::Dummy::Perl5::Requires  0.02  pkg:cpan/CPAN-Test-Dummy-Perl5-Requires@0.02
-CPAN::Test::Dummy::Perl5::SKAJI    v0.0.12  pkg:cpan/CPAN-Test-Dummy-Perl5-SKAJI@v0.0.12
+CPAN::Test::Dummy::Perl5::SKAJI    v0.0.24  pkg:cpan/CPAN-Test-Dummy-Perl5-SKAJI@v0.0.24
 CPAN::Test::Dummy::Perl5::StaticInstall  0.01  pkg:cpan/CPAN-Test-Dummy-Perl5-StaticInstall@0.01
 CPAN::Test::Dummy::Perl5::UseUnsafeINC::Fail  0.04  pkg:cpan/CPAN-Test-Dummy-Perl5-UseUnsafeINC-Fail@0.04
 CPAN::Test::Dummy::Perl5::UseUnsafeINC::One  0.01  pkg:cpan/CPAN-Test-Dummy-Perl5-UseUnsafeINC-One@0.01
@@ -82064,7 +82064,7 @@ Gentoo::Probe                      1.000006  pkg:cpan/Gentoo-Probe@1.0.6
 Gentoo::Util::VirtualDepend        0.003023  pkg:cpan/Gentoo-Util-VirtualDepend@0.003023
 Gentoo::VDB                        0.001002  pkg:cpan/Gentoo-VDB@0.001002
 Gentoo::VDB::Portage               0.001002  pkg:cpan/Gentoo-VDB@0.001002
-Geo::Address::Formatter            1.9993  pkg:cpan/Geo-Address-Formatter@1.9993
+Geo::Address::Formatter            1.9994  pkg:cpan/Geo-Address-Formatter@1.9994
 Geo::Address::Mail                  0.04  pkg:cpan/Geo-Address-Mail@0.04
 Geo::Address::Mail::Standardizer    0.02  pkg:cpan/Geo-Address-Mail-Standardizer@0.02
 Geo::Address::Mail::Standardizer::Results undef  pkg:cpan/Geo-Address-Mail-Standardizer@0.02
@@ -233457,9 +233457,9 @@ Text::HikiDoc::Plugin::vimcolor    1.007  pkg:cpan/Text-HikiDoc@1.019
 Text::Histogram                     0.01  pkg:cpan/Text-Histogram@0.01
 Text::HistogramChart               0.005  pkg:cpan/Text-HistogramChart@0.005
 Text::Hoborg                       0.000006  pkg:cpan/Text-Hoborg@0.0.6
-Text::Hogan                         2.04  pkg:cpan/Text-Hogan@2.04
-Text::Hogan::Compiler               2.04  pkg:cpan/Text-Hogan@2.04
-Text::Hogan::Template               2.04  pkg:cpan/Text-Hogan@2.04
+Text::Hogan                         2.05  pkg:cpan/Text-Hogan@2.05
+Text::Hogan::Compiler               2.05  pkg:cpan/Text-Hogan@2.05
+Text::Hogan::Template               2.05  pkg:cpan/Text-Hogan@2.05
 Text::Hspell                       v0.4.1  pkg:cpan/Text-Hspell@0.4.1
 Text::HumanComputerWords            0.04  pkg:cpan/Text-HumanComputerWords@0.04
 Text::Hunspell                      2.16  pkg:cpan/Text-Hunspell@2.16
