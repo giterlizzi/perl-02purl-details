@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 19 Jul 2026 22:43:11 GMT
+Last-Updated: Mon, 20 Jul 2026 02:22:45 GMT
 Line-Count: 266667
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -31407,24 +31407,24 @@ CBI::Wrapper::Flow                 undef  pkg:cpan/CBI-Wrapper@0.02
 CBI::Wrapper::RIBA                 undef  pkg:cpan/CBI-Wrapper@0.02
 CBI::Wrapper::Record               undef  pkg:cpan/CBI-Wrapper@0.02
 CBI::Wrapper::RecordMapping        undef  pkg:cpan/CBI-Wrapper@0.02
-CBOR::Free                          0.34  pkg:cpan/CBOR-Free@0.34
-CBOR::Free::AddOne                 undef  pkg:cpan/CBOR-Free@0.34
-CBOR::Free::Decoder                undef  pkg:cpan/CBOR-Free@0.34
-CBOR::Free::Decoder::Base          undef  pkg:cpan/CBOR-Free@0.34
-CBOR::Free::SequenceDecoder        undef  pkg:cpan/CBOR-Free@0.34
-CBOR::Free::Tagged                 undef  pkg:cpan/CBOR-Free@0.34
-CBOR::Free::X                      undef  pkg:cpan/CBOR-Free@0.34
-CBOR::Free::X::Base                undef  pkg:cpan/CBOR-Free@0.34
-CBOR::Free::X::CannotDecode64Bit   undef  pkg:cpan/CBOR-Free@0.34
-CBOR::Free::X::DuplicateMapKey     undef  pkg:cpan/CBOR-Free@0.34
-CBOR::Free::X::Incomplete          undef  pkg:cpan/CBOR-Free@0.34
-CBOR::Free::X::InvalidControl      undef  pkg:cpan/CBOR-Free@0.34
-CBOR::Free::X::InvalidMapKey       undef  pkg:cpan/CBOR-Free@0.34
-CBOR::Free::X::InvalidUTF8         undef  pkg:cpan/CBOR-Free@0.34
-CBOR::Free::X::NegativeIntTooLow   undef  pkg:cpan/CBOR-Free@0.34
-CBOR::Free::X::Recursion           undef  pkg:cpan/CBOR-Free@0.34
-CBOR::Free::X::Unrecognized        undef  pkg:cpan/CBOR-Free@0.34
-CBOR::Free::X::WideCharacter       undef  pkg:cpan/CBOR-Free@0.34
+CBOR::Free                          0.35  pkg:cpan/CBOR-Free@0.35
+CBOR::Free::AddOne                 undef  pkg:cpan/CBOR-Free@0.35
+CBOR::Free::Decoder                undef  pkg:cpan/CBOR-Free@0.35
+CBOR::Free::Decoder::Base          undef  pkg:cpan/CBOR-Free@0.35
+CBOR::Free::SequenceDecoder        undef  pkg:cpan/CBOR-Free@0.35
+CBOR::Free::Tagged                 undef  pkg:cpan/CBOR-Free@0.35
+CBOR::Free::X                      undef  pkg:cpan/CBOR-Free@0.35
+CBOR::Free::X::Base                undef  pkg:cpan/CBOR-Free@0.35
+CBOR::Free::X::CannotDecode64Bit   undef  pkg:cpan/CBOR-Free@0.35
+CBOR::Free::X::DuplicateMapKey     undef  pkg:cpan/CBOR-Free@0.35
+CBOR::Free::X::Incomplete          undef  pkg:cpan/CBOR-Free@0.35
+CBOR::Free::X::InvalidControl      undef  pkg:cpan/CBOR-Free@0.35
+CBOR::Free::X::InvalidMapKey       undef  pkg:cpan/CBOR-Free@0.35
+CBOR::Free::X::InvalidUTF8         undef  pkg:cpan/CBOR-Free@0.35
+CBOR::Free::X::NegativeIntTooLow   undef  pkg:cpan/CBOR-Free@0.35
+CBOR::Free::X::Recursion           undef  pkg:cpan/CBOR-Free@0.35
+CBOR::Free::X::Unrecognized        undef  pkg:cpan/CBOR-Free@0.35
+CBOR::Free::X::WideCharacter       undef  pkg:cpan/CBOR-Free@0.35
 CBOR::PP                            0.05  pkg:cpan/CBOR-PP@0.05
 CBOR::PP::Decode                   undef  pkg:cpan/CBOR-PP@0.05
 CBOR::PP::Encode                   undef  pkg:cpan/CBOR-PP@0.05
@@ -83095,10 +83095,10 @@ Getopt::Chain::v005                0.005  pkg:cpan/Getopt-Chain@0.017
 Getopt::Chain::v005::Carp          undef  pkg:cpan/Getopt-Chain@0.017
 Getopt::Chain::v005::Context       undef  pkg:cpan/Getopt-Chain@0.017
 Getopt::Chain::v005::Context::Link undef  pkg:cpan/Getopt-Chain@0.017
-Getopt::Class                      1.001005  pkg:cpan/Getopt-Class@v1.1.5
-Getopt::Class::Alias               1.001005  pkg:cpan/Getopt-Class@v1.1.5
-Getopt::Class::Repository          1.001005  pkg:cpan/Getopt-Class@v1.1.5
-Getopt::Class::Values              1.001005  pkg:cpan/Getopt-Class@v1.1.5
+Getopt::Class                      1.002000  pkg:cpan/Getopt-Class@v1.2.0
+Getopt::Class::Alias               1.002000  pkg:cpan/Getopt-Class@v1.2.0
+Getopt::Class::Repository          1.002000  pkg:cpan/Getopt-Class@v1.2.0
+Getopt::Class::Values              1.002000  pkg:cpan/Getopt-Class@v1.2.0
 Getopt::CommandLineExports          0.04  pkg:cpan/Getopt-CommandLineExports@0.04
 Getopt::Compact                     0.04  pkg:cpan/Getopt-Compact@0.04
 Getopt::Compact::PodMunger          0.04  pkg:cpan/Getopt-Compact@0.04
@@ -115910,11 +115910,11 @@ JPList::Controls::Sort              0.04  pkg:cpan/JPList@0.05
 JPList::DB::Config                  0.04  pkg:cpan/JPList@0.05
 JPList::DB::Result                  0.05  pkg:cpan/JPList@0.05
 JPList::Request                     0.05  pkg:cpan/JPList@0.05
-JQ::Lite                            2.47  pkg:cpan/JQ-Lite@2.47
-JQ::Lite::Expression               undef  pkg:cpan/JQ-Lite@2.47
-JQ::Lite::Filters                  undef  pkg:cpan/JQ-Lite@2.47
-JQ::Lite::Parser                   undef  pkg:cpan/JQ-Lite@2.47
-JQ::Lite::Util                     undef  pkg:cpan/JQ-Lite@2.47
+JQ::Lite                            2.48  pkg:cpan/JQ-Lite@2.48
+JQ::Lite::Expression               undef  pkg:cpan/JQ-Lite@2.48
+JQ::Lite::Filters                  undef  pkg:cpan/JQ-Lite@2.48
+JQ::Lite::Parser                   undef  pkg:cpan/JQ-Lite@2.48
+JQ::Lite::Util                     undef  pkg:cpan/JQ-Lite@2.48
 JQuery                              1.00  pkg:cpan/JQuery@1.06
 JQuery::Accordion                   1.00  pkg:cpan/JQuery@1.06
 JQuery::CSS                         1.00  pkg:cpan/JQuery@1.06
@@ -116241,25 +116241,25 @@ JSON::Schema::Error                0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Fit                   0.07  pkg:cpan/JSON-Schema-Fit@0.07
 JSON::Schema::Generate              0.15  pkg:cpan/JSON-Schema-Generate@0.15
 JSON::Schema::Helper               0.016  pkg:cpan/JSON-Schema@0.016
-JSON::Schema::Modern               0.641  pkg:cpan/JSON-Schema-Modern@0.641
-JSON::Schema::Modern::Annotation   0.641  pkg:cpan/JSON-Schema-Modern@0.641
-JSON::Schema::Modern::Document     0.641  pkg:cpan/JSON-Schema-Modern@0.641
-JSON::Schema::Modern::Document::OpenAPI 0.141  pkg:cpan/OpenAPI-Modern@0.141
-JSON::Schema::Modern::Error        0.641  pkg:cpan/JSON-Schema-Modern@0.641
-JSON::Schema::Modern::Result       0.641  pkg:cpan/JSON-Schema-Modern@0.641
-JSON::Schema::Modern::ResultNode   0.641  pkg:cpan/JSON-Schema-Modern@0.641
-JSON::Schema::Modern::Utilities    0.641  pkg:cpan/JSON-Schema-Modern@0.641
-JSON::Schema::Modern::Vocabulary   0.641  pkg:cpan/JSON-Schema-Modern@0.641
-JSON::Schema::Modern::Vocabulary::Applicator 0.641  pkg:cpan/JSON-Schema-Modern@0.641
-JSON::Schema::Modern::Vocabulary::Content 0.641  pkg:cpan/JSON-Schema-Modern@0.641
-JSON::Schema::Modern::Vocabulary::Core 0.641  pkg:cpan/JSON-Schema-Modern@0.641
-JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.641  pkg:cpan/JSON-Schema-Modern@0.641
-JSON::Schema::Modern::Vocabulary::FormatAssertion 0.641  pkg:cpan/JSON-Schema-Modern@0.641
-JSON::Schema::Modern::Vocabulary::MetaData 0.641  pkg:cpan/JSON-Schema-Modern@0.641
-JSON::Schema::Modern::Vocabulary::OpenAPI 0.141  pkg:cpan/OpenAPI-Modern@0.141
-JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.141  pkg:cpan/OpenAPI-Modern@0.141
-JSON::Schema::Modern::Vocabulary::Unevaluated 0.641  pkg:cpan/JSON-Schema-Modern@0.641
-JSON::Schema::Modern::Vocabulary::Validation 0.641  pkg:cpan/JSON-Schema-Modern@0.641
+JSON::Schema::Modern               0.642  pkg:cpan/JSON-Schema-Modern@0.642
+JSON::Schema::Modern::Annotation   0.642  pkg:cpan/JSON-Schema-Modern@0.642
+JSON::Schema::Modern::Document     0.642  pkg:cpan/JSON-Schema-Modern@0.642
+JSON::Schema::Modern::Document::OpenAPI 0.142  pkg:cpan/OpenAPI-Modern@0.142
+JSON::Schema::Modern::Error        0.642  pkg:cpan/JSON-Schema-Modern@0.642
+JSON::Schema::Modern::Result       0.642  pkg:cpan/JSON-Schema-Modern@0.642
+JSON::Schema::Modern::ResultNode   0.642  pkg:cpan/JSON-Schema-Modern@0.642
+JSON::Schema::Modern::Utilities    0.642  pkg:cpan/JSON-Schema-Modern@0.642
+JSON::Schema::Modern::Vocabulary   0.642  pkg:cpan/JSON-Schema-Modern@0.642
+JSON::Schema::Modern::Vocabulary::Applicator 0.642  pkg:cpan/JSON-Schema-Modern@0.642
+JSON::Schema::Modern::Vocabulary::Content 0.642  pkg:cpan/JSON-Schema-Modern@0.642
+JSON::Schema::Modern::Vocabulary::Core 0.642  pkg:cpan/JSON-Schema-Modern@0.642
+JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.642  pkg:cpan/JSON-Schema-Modern@0.642
+JSON::Schema::Modern::Vocabulary::FormatAssertion 0.642  pkg:cpan/JSON-Schema-Modern@0.642
+JSON::Schema::Modern::Vocabulary::MetaData 0.642  pkg:cpan/JSON-Schema-Modern@0.642
+JSON::Schema::Modern::Vocabulary::OpenAPI 0.142  pkg:cpan/OpenAPI-Modern@0.142
+JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.142  pkg:cpan/OpenAPI-Modern@0.142
+JSON::Schema::Modern::Vocabulary::Unevaluated 0.642  pkg:cpan/JSON-Schema-Modern@0.642
+JSON::Schema::Modern::Vocabulary::Validation 0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Null                 0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Result               0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Shorthand            v0.0.2  pkg:cpan/JSON-Schema-Shorthand@0.0.2
@@ -157462,8 +157462,8 @@ OpenAPI::Generator::From::Pod      undef  pkg:cpan/OpenAPI-Generator@0.06
 OpenAPI::Generator::Util           undef  pkg:cpan/OpenAPI-Generator@0.06
 OpenAPI::Linter                     0.19  pkg:cpan/OpenAPI-Linter@0.19
 OpenAPI::Linter::Location           0.19  pkg:cpan/OpenAPI-Linter@0.19
-OpenAPI::Modern                    0.141  pkg:cpan/OpenAPI-Modern@0.141
-OpenAPI::Modern::Utilities         0.141  pkg:cpan/OpenAPI-Modern@0.141
+OpenAPI::Modern                    0.142  pkg:cpan/OpenAPI-Modern@0.142
+OpenAPI::Modern::Utilities         0.142  pkg:cpan/OpenAPI-Modern@0.142
 OpenAPI::PerlGenerator              0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
 OpenAPI::PerlGenerator::Template    0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
 OpenAPI::PerlGenerator::Template::Mojo  0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
@@ -196100,7 +196100,7 @@ Perl::Critic::Violation            1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::logicLAB              0.11  pkg:cpan/Perl-Critic-logicLAB@0.11
 Perl::Destruct::Level               0.02  pkg:cpan/Perl-Destruct-Level@0.02
 Perl::Dist                          1.16  pkg:cpan/Perl-Dist@1.16
-Perl::Dist::APPerl                 0.007000  pkg:cpan/Perl-Dist-APPerl@v0.7.0
+Perl::Dist::APPerl                 0.008000  pkg:cpan/Perl-Dist-APPerl@v0.8.0
 Perl::Dist::Asset                   1.16  pkg:cpan/Perl-Dist@1.16
 Perl::Dist::Asset::Binary           1.16  pkg:cpan/Perl-Dist@1.16
 Perl::Dist::Asset::Distribution     1.16  pkg:cpan/Perl-Dist@1.16
@@ -223892,9 +223892,9 @@ Stats::Fermi::FermiDiracStats      undef  pkg:cpan/Stats-Fermi@0.1.7
 Stats::Hawking                     0.001003  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HTRandom           undef  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HawkingTemperature undef  pkg:cpan/Stats-Hawking@0.1.3
-Stats::LikeR                        0.24  pkg:cpan/Stats-LikeR@0.24
+Stats::LikeR                        0.25  pkg:cpan/Stats-LikeR@0.25
 Stats::LikeR::Pred                  0.16  pkg:cpan/Stats-LikeR@0.16
-Stats::LikeR::col                   0.24  pkg:cpan/Stats-LikeR@0.24
+Stats::LikeR::col                   0.25  pkg:cpan/Stats-LikeR@0.25
 StatsView::Graph                    1.15  pkg:cpan/StatsView@1.4
 StatsView::Graph::Iost             undef  pkg:cpan/StatsView@1.4
 StatsView::Graph::Iostat           undef  pkg:cpan/StatsView@1.4
