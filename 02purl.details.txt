@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 20 Jul 2026 17:29:56 GMT
+Last-Updated: Mon, 20 Jul 2026 19:29:06 GMT
 Line-Count: 266673
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -214097,7 +214097,7 @@ Schedule::Chronic::Constraint::Xscreensaver undef  pkg:cpan/Chronic@0.30
 Schedule::Chronic::Logger          undef  pkg:cpan/Chronic@0.30
 Schedule::Chronic::Tab             undef  pkg:cpan/Chronic@0.30
 Schedule::Chronic::Timer           undef  pkg:cpan/Chronic@0.30
-Schedule::Cron                      1.05  pkg:cpan/Schedule-Cron@1.05
+Schedule::Cron                      1.06  pkg:cpan/Schedule-Cron@1.06
 Schedule::Cron::Events              1.96  pkg:cpan/Schedule-Cron-Events@1.96
 Schedule::Cron::Nofork              0.03  pkg:cpan/Schedule-Cron-Nofork@0.03
 Schedule::Cronchik                   0.4  pkg:cpan/Schedule-Cronchik@0.4
@@ -236363,23 +236363,23 @@ Tk::Labelframe                     4.003  pkg:cpan/Tk@804.036
 Tk::Labelled                         0.2  pkg:cpan/Tk-Gauge@0.3
 Tk::LineGraph                       0.01  pkg:cpan/Tk-LineGraph@0.01
 Tk::LineNumberText                   0.5  pkg:cpan/Tk-LineNumberText@0.5
-Tk::ListBrowser                     0.14  pkg:cpan/Tk-ListBrowser@0.14
-Tk::ListBrowser::Bar                0.04  pkg:cpan/Tk-ListBrowser@0.14
-Tk::ListBrowser::BaseItem            0.1  pkg:cpan/Tk-ListBrowser@0.14
-Tk::ListBrowser::Column              0.1  pkg:cpan/Tk-ListBrowser@0.14
+Tk::ListBrowser                     0.15  pkg:cpan/Tk-ListBrowser@0.15
+Tk::ListBrowser::Bar                0.04  pkg:cpan/Tk-ListBrowser@0.15
+Tk::ListBrowser::BaseItem           0.15  pkg:cpan/Tk-ListBrowser@0.15
+Tk::ListBrowser::Column              0.1  pkg:cpan/Tk-ListBrowser@0.15
 Tk::ListBrowser::Data               0.08  pkg:cpan/Tk-ListBrowser@0.08
-Tk::ListBrowser::Entry              0.14  pkg:cpan/Tk-ListBrowser@0.14
-Tk::ListBrowser::FilterEntry        0.11  pkg:cpan/Tk-ListBrowser@0.14
-Tk::ListBrowser::HList              0.14  pkg:cpan/Tk-ListBrowser@0.14
-Tk::ListBrowser::HashList            0.1  pkg:cpan/Tk-ListBrowser@0.14
-Tk::ListBrowser::Item               0.14  pkg:cpan/Tk-ListBrowser@0.14
-Tk::ListBrowser::LBCanvas           0.04  pkg:cpan/Tk-ListBrowser@0.14
-Tk::ListBrowser::LBHeader           0.11  pkg:cpan/Tk-ListBrowser@0.14
-Tk::ListBrowser::List               0.14  pkg:cpan/Tk-ListBrowser@0.14
-Tk::ListBrowser::Row                0.14  pkg:cpan/Tk-ListBrowser@0.14
-Tk::ListBrowser::SelectXPM          0.11  pkg:cpan/Tk-ListBrowser@0.14
-Tk::ListBrowser::SideColumn         0.12  pkg:cpan/Tk-ListBrowser@0.14
-Tk::ListBrowser::Tree               0.14  pkg:cpan/Tk-ListBrowser@0.14
+Tk::ListBrowser::Entry              0.15  pkg:cpan/Tk-ListBrowser@0.15
+Tk::ListBrowser::FilterEntry        0.11  pkg:cpan/Tk-ListBrowser@0.15
+Tk::ListBrowser::HList              0.14  pkg:cpan/Tk-ListBrowser@0.15
+Tk::ListBrowser::HashList            0.1  pkg:cpan/Tk-ListBrowser@0.15
+Tk::ListBrowser::Item               0.15  pkg:cpan/Tk-ListBrowser@0.15
+Tk::ListBrowser::LBCanvas           0.04  pkg:cpan/Tk-ListBrowser@0.15
+Tk::ListBrowser::LBHeader           0.11  pkg:cpan/Tk-ListBrowser@0.15
+Tk::ListBrowser::List               0.14  pkg:cpan/Tk-ListBrowser@0.15
+Tk::ListBrowser::Row                0.15  pkg:cpan/Tk-ListBrowser@0.15
+Tk::ListBrowser::SelectXPM          0.11  pkg:cpan/Tk-ListBrowser@0.15
+Tk::ListBrowser::SideColumn         0.15  pkg:cpan/Tk-ListBrowser@0.15
+Tk::ListBrowser::Tree               0.14  pkg:cpan/Tk-ListBrowser@0.15
 Tk::ListEntry                       0.07  pkg:cpan/Tk-ListEntry@0.07
 Tk::ListMgr                         0.02  pkg:cpan/Tk-GBARR@2.08
 Tk::ListMgr::Item                   0.02  pkg:cpan/Tk-GBARR@2.08
