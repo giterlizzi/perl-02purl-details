@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 20 Jul 2026 13:52:30 GMT
+Last-Updated: Mon, 20 Jul 2026 15:45:48 GMT
 Line-Count: 266673
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -231579,11 +231579,11 @@ Test::Mockify::Sut                 undef  pkg:cpan/Test-Mockify@2.4
 Test::Mockify::Tools               undef  pkg:cpan/Test-Mockify@2.4
 Test::Mockify::TypeTests           undef  pkg:cpan/Test-Mockify@2.4
 Test::Mockify::Verify              undef  pkg:cpan/Test-Mockify@2.4
-Test::Mockingbird                   0.11  pkg:cpan/Test-Mockingbird@0.11
-Test::Mockingbird::Async            0.11  pkg:cpan/Test-Mockingbird@0.11
-Test::Mockingbird::DeepMock         0.11  pkg:cpan/Test-Mockingbird@0.11
-Test::Mockingbird::Guard            0.11  pkg:cpan/Test-Mockingbird@0.11
-Test::Mockingbird::TimeTravel       0.11  pkg:cpan/Test-Mockingbird@0.11
+Test::Mockingbird                   0.12  pkg:cpan/Test-Mockingbird@0.12
+Test::Mockingbird::Async            0.12  pkg:cpan/Test-Mockingbird@0.12
+Test::Mockingbird::DeepMock         0.12  pkg:cpan/Test-Mockingbird@0.12
+Test::Mockingbird::Guard            0.12  pkg:cpan/Test-Mockingbird@0.12
+Test::Mockingbird::TimeTravel       0.12  pkg:cpan/Test-Mockingbird@0.12
 Test::Modern                       0.013  pkg:cpan/Test-Modern@0.013
 Test::Module                       undef  pkg:cpan/Devel-Trepan@0.73
 Test::Module::Basic                undef  pkg:cpan/Test-Subunits@0.000003
