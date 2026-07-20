@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 20 Jul 2026 21:04:10 GMT
-Line-Count: 266675
+Last-Updated: Mon, 20 Jul 2026 22:51:57 GMT
+Line-Count: 266677
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -33426,25 +33426,25 @@ CPAN::Local::Role::Inject          0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Local::Role::MetaCPAN::API   0.001  pkg:cpan/CPAN-Local-Role-MetaCPAN-API@0.001
 CPAN::Local::Role::Prune           0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Local::Role::Remove          0.010  pkg:cpan/CPAN-Local@0.010
-CPAN::Maker                        v2.0.4  pkg:cpan/CPAN-Maker@2.0.4
-CPAN::Maker::Bootstrapper          v2.0.10  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.10
-CPAN::Maker::Bootstrapper::ConfigReader     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.10
-CPAN::Maker::Bootstrapper::Constants     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.10
-CPAN::Maker::Bootstrapper::Role::CreateConfig     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.10
-CPAN::Maker::Bootstrapper::Role::CreateDeps     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.10
-CPAN::Maker::Bootstrapper::Role::ExtraFiles     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.10
-CPAN::Maker::Bootstrapper::Role::Init     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.10
-CPAN::Maker::Bootstrapper::Role::Installer v2.0.10  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.10
-CPAN::Maker::Bootstrapper::Role::LLM::Annotator     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.10
-CPAN::Maker::Bootstrapper::Role::LLM::Models     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.10
-CPAN::Maker::Bootstrapper::Role::LLM::ReleaseNotes     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.10
-CPAN::Maker::Bootstrapper::Role::LLM::Reviewer     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.10
-CPAN::Maker::Bootstrapper::Role::LLM::Utils     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.10
-CPAN::Maker::Bootstrapper::Role::ScaffoldImporter     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.10
-CPAN::Maker::Constants             v2.0.4  pkg:cpan/CPAN-Maker@2.0.4
-CPAN::Maker::Role::FileUtils       v2.0.4  pkg:cpan/CPAN-Maker@2.0.4
-CPAN::Maker::Role::ModuleUtils     v2.0.4  pkg:cpan/CPAN-Maker@2.0.4
-CPAN::Maker::Utils                 v2.0.4  pkg:cpan/CPAN-Maker@2.0.4
+CPAN::Maker                        v2.0.5  pkg:cpan/CPAN-Maker@2.0.5
+CPAN::Maker::Bootstrapper          v2.0.11  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
+CPAN::Maker::Bootstrapper::ConfigReader     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
+CPAN::Maker::Bootstrapper::Constants     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
+CPAN::Maker::Bootstrapper::Role::CreateConfig     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
+CPAN::Maker::Bootstrapper::Role::CreateDeps     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
+CPAN::Maker::Bootstrapper::Role::ExtraFiles     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
+CPAN::Maker::Bootstrapper::Role::Init     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
+CPAN::Maker::Bootstrapper::Role::Installer v2.0.11  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
+CPAN::Maker::Bootstrapper::Role::LLM::Annotator     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
+CPAN::Maker::Bootstrapper::Role::LLM::Models     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
+CPAN::Maker::Bootstrapper::Role::LLM::ReleaseNotes     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
+CPAN::Maker::Bootstrapper::Role::LLM::Reviewer     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
+CPAN::Maker::Bootstrapper::Role::LLM::Utils     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
+CPAN::Maker::Bootstrapper::Role::ScaffoldImporter     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
+CPAN::Maker::Constants             v2.0.5  pkg:cpan/CPAN-Maker@2.0.5
+CPAN::Maker::Role::FileUtils       v2.0.5  pkg:cpan/CPAN-Maker@2.0.5
+CPAN::Maker::Role::ModuleUtils     v2.0.5  pkg:cpan/CPAN-Maker@2.0.5
+CPAN::Maker::Utils                 v2.0.5  pkg:cpan/CPAN-Maker@2.0.5
 CPAN::Meta                         2.150013  pkg:cpan/CPAN-Meta@2.150013
 CPAN::Meta::Check                  0.018  pkg:cpan/CPAN-Meta-Check@0.018
 CPAN::Meta::Converter              2.150013  pkg:cpan/CPAN-Meta@2.150013
@@ -83741,7 +83741,7 @@ Git::Release::BranchManager        undef  pkg:cpan/Git-Release@0.05
 Git::Release::Config               undef  pkg:cpan/Git-Release@0.05
 Git::Release::Remote               undef  pkg:cpan/Git-Release@0.05
 Git::Release::RemoteManager        undef  pkg:cpan/Git-Release@0.05
-Git::ReleaseDiffs                      0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.10
+Git::ReleaseDiffs                      0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
 Git::ReleaseRepo                   0.006  pkg:cpan/Git-ReleaseRepo@0.006
 Git::ReleaseRepo::Command          0.006  pkg:cpan/Git-ReleaseRepo@0.006
 Git::ReleaseRepo::Command::add     0.006  pkg:cpan/Git-ReleaseRepo@0.006
@@ -139781,16 +139781,18 @@ MojoX::Aliyun                       0.02  pkg:cpan/App-Aliyun@0.02
 MojoX::AlmostJSON                  1.151250  pkg:cpan/MojoX-AlmostJSON@1.151250
 MojoX::AlmostJSON::_Bool           1.151250  pkg:cpan/MojoX-AlmostJSON@1.151250
 MojoX::Auth::Simple                0.004002  pkg:cpan/MojoX-Auth-Simple@0.04.03
-MojoX::Authentication              0.003  pkg:cpan/MojoX-Authentication@0.003
-MojoX::Authentication::Model       0.003  pkg:cpan/MojoX-Authentication@0.003
-MojoX::Authentication::Model::Db   0.003  pkg:cpan/MojoX-Authentication@0.003
-MojoX::Authentication::Model::Hash 0.003  pkg:cpan/MojoX-Authentication@0.003
-MojoX::Authentication::Model::Role::Creator 0.003  pkg:cpan/MojoX-Authentication@0.003
-MojoX::Authentication::Model::Role::Local 0.003  pkg:cpan/MojoX-Authentication@0.003
-MojoX::Authentication::Model::Role::Remap 0.003  pkg:cpan/MojoX-Authentication@0.003
-MojoX::Authentication::Model::SAML2 0.003  pkg:cpan/MojoX-Authentication@0.003
-MojoX::Authentication::Model::SAML2::Db 0.003  pkg:cpan/MojoX-Authentication@0.003
-MojoX::Authentication::Model::SAML2::Hash 0.003  pkg:cpan/MojoX-Authentication@0.003
+MojoX::Authentication              0.004  pkg:cpan/MojoX-Authentication@0.004
+MojoX::Authentication::Model       0.004  pkg:cpan/MojoX-Authentication@0.004
+MojoX::Authentication::Model::Db   0.004  pkg:cpan/MojoX-Authentication@0.004
+MojoX::Authentication::Model::Hash 0.004  pkg:cpan/MojoX-Authentication@0.004
+MojoX::Authentication::Model::Role::Creator 0.004  pkg:cpan/MojoX-Authentication@0.004
+MojoX::Authentication::Model::Role::Local 0.004  pkg:cpan/MojoX-Authentication@0.004
+MojoX::Authentication::Model::Role::MojoDbWrap 0.004  pkg:cpan/MojoX-Authentication@0.004
+MojoX::Authentication::Model::Role::Remap 0.004  pkg:cpan/MojoX-Authentication@0.004
+MojoX::Authentication::Model::SAML2 0.004  pkg:cpan/MojoX-Authentication@0.004
+MojoX::Authentication::Model::SAML2::Db 0.004  pkg:cpan/MojoX-Authentication@0.004
+MojoX::Authentication::Model::SAML2::Hash 0.004  pkg:cpan/MojoX-Authentication@0.004
+MojoX::Authentication::Util        undef  pkg:cpan/MojoX-Authentication@0.004
 MojoX::CPAN::Uploader              0.034  pkg:cpan/MojoX-CPAN-Uploader@0.034
 MojoX::CloudFlare::Simple           0.04  pkg:cpan/MojoX-CloudFlare-Simple@0.04
 MojoX::ConfigAppStart               1.06  pkg:cpan/MojoX-ConfigAppStart@1.06
@@ -232966,7 +232968,7 @@ Text::ASCIIMathML::Node             0.81  pkg:cpan/Text-ASCIIMathML@0.81
 Text::ASCIIPipe                    1.001000  pkg:cpan/Text-ASCIIPipe@1.001000
 Text::ASCIITable                    0.22  pkg:cpan/Text-ASCIITable@0.22
 Text::ASCIITable::EasyTable        1.006  pkg:cpan/Text-ASCIITable-EasyTable@1.006
-Text::ASCIITable::FixANSI          v1.0.0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.10
+Text::ASCIITable::FixANSI          v1.0.0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
 Text::ASCIITable::Wrap               0.2  pkg:cpan/Text-ASCIITable@0.22
 Text::Abbrev                        1.02  pkg:cpan/Text-Abbrev@1.02
 Text::Abbreviate                    0.01  pkg:cpan/Text-Abbreviate@0.01
