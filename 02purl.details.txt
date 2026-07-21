@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 21 Jul 2026 13:22:37 GMT
-Line-Count: 266679
+Last-Updated: Tue, 21 Jul 2026 15:29:05 GMT
+Line-Count: 266680
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -4785,7 +4785,7 @@ Alien::SDL3_ttf                     0.05  pkg:cpan/Alien-SDL3_ttf@0.05
 Alien::SFML                        0.0101  pkg:cpan/Alien-SFML@0.02
 Alien::SIMDe                        0.01  pkg:cpan/Alien-SIMDe@0.01
 Alien::SLOCCount                    0.07  pkg:cpan/Alien-SLOCCount@0.07
-Alien::SNMP                        3.0509050200  pkg:cpan/Alien-SNMP@3.0509050200
+Alien::SNMP                        4.0509050200  pkg:cpan/Alien-SNMP@4.0509050200
 Alien::SNMP::MIBDEV                2.020000  pkg:cpan/Alien-SNMP-MIBDEV@2.020000
 Alien::SVN                         v1.8.11.0  pkg:cpan/Alien-SVN@v1.8.11.0
 Alien::SWIG4                        0.05  pkg:cpan/Alien-SWIG4@0.05
@@ -21632,10 +21632,11 @@ BACnet::ServiceRequestSequences::SubscribeCOV undef  pkg:cpan/BACnet@0.08
 BACnet::ServiceRequestSequences::Utils undef  pkg:cpan/BACnet@0.08
 BACnet::Socket                     undef  pkg:cpan/BACnet@0.08
 BACnet::Subscription               undef  pkg:cpan/BACnet@0.08
-BATsh                               0.06  pkg:cpan/BATsh@0.06
-BATsh::CMD                          0.06  pkg:cpan/BATsh@0.06
-BATsh::Env                          0.06  pkg:cpan/BATsh@0.06
-BATsh::SH                           0.06  pkg:cpan/BATsh@0.06
+BATsh                               0.07  pkg:cpan/BATsh@0.07
+BATsh::CMD                          0.07  pkg:cpan/BATsh@0.07
+BATsh::Env                          0.07  pkg:cpan/BATsh@0.07
+BATsh::MB                           0.07  pkg:cpan/BATsh@0.07
+BATsh::SH                           0.07  pkg:cpan/BATsh@0.07
 BBBB                               undef  pkg:cpan/Data-Table-Text@20210818
 BBCode::Body                        0.34  pkg:cpan/BBCode-Parser@0.34
 BBCode::Parser                      0.34  pkg:cpan/BBCode-Parser@0.34
@@ -50515,7 +50516,7 @@ Cucumber::TagExpressions::LiteralNode v10.0.0  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
 Cucumber::TagExpressions::NotNode  v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
 Cucumber::TagExpressions::OrNode   v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.125
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.126
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
@@ -69768,7 +69769,7 @@ EV::ClickHouse::Streamer            0.05  pkg:cpan/EV-ClickHouse@0.05
 EV::ClickHouse::_DurGuard           0.05  pkg:cpan/EV-ClickHouse@0.05
 EV::Cron                           0.123600  pkg:cpan/EV-Cron@0.123600
 EV::Embed                          undef  pkg:cpan/App-SimpleBackuper@0.2.22
-EV::Etcd                            0.08  pkg:cpan/EV-Etcd@0.08
+EV::Etcd                            0.09  pkg:cpan/EV-Etcd@0.09
 EV::Fork                           undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Future                          0.05  pkg:cpan/EV-Future@0.05
 EV::Gearman                         0.01  pkg:cpan/EV-Gearman@0.01
