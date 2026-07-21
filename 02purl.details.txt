@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 21 Jul 2026 19:07:46 GMT
+Last-Updated: Tue, 21 Jul 2026 20:59:36 GMT
 Line-Count: 266681
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -109565,7 +109565,7 @@ HTTP::ClientDetect::Location        0.03  pkg:cpan/HTTP-ClientDetect@0.03
 HTTP::Command::Wrapper              0.08  pkg:cpan/HTTP-Command-Wrapper@0.08
 HTTP::Command::Wrapper::Curl       undef  pkg:cpan/HTTP-Command-Wrapper@0.08
 HTTP::Command::Wrapper::Wget       undef  pkg:cpan/HTTP-Command-Wrapper@0.08
-HTTP::Config                        7.02  pkg:cpan/HTTP-Message@7.02
+HTTP::Config                        7.03  pkg:cpan/HTTP-Message@7.03
 HTTP::CookieJar                    0.014  pkg:cpan/HTTP-CookieJar@0.014
 HTTP::CookieJar::LWP               0.014  pkg:cpan/HTTP-CookieJar@0.014
 HTTP::CookieMonster                 0.11  pkg:cpan/HTTP-CookieMonster@0.11
@@ -109770,7 +109770,7 @@ HTTP::Handle                       undef  pkg:cpan/HTTP-Handle@0.2
 HTTP::Handy                         1.07  pkg:cpan/HTTP-Handy@1.07
 HTTP::Handy::Input                  1.07  pkg:cpan/HTTP-Handy@1.07
 HTTP::HeaderParser::XS              0.20  pkg:cpan/HTTP-HeaderParser-XS@0.20
-HTTP::Headers                       7.02  pkg:cpan/HTTP-Message@7.02
+HTTP::Headers                       7.03  pkg:cpan/HTTP-Message@7.03
 HTTP::Headers::ActionPack           0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
 HTTP::Headers::ActionPack::AcceptCharset  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
 HTTP::Headers::ActionPack::AcceptLanguage  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
@@ -109792,14 +109792,14 @@ HTTP::Headers::ActionPack::MediaTypeList  0.09  pkg:cpan/HTTP-Headers-ActionPack
 HTTP::Headers::ActionPack::PriorityList  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
 HTTP::Headers::ActionPack::Util     0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
 HTTP::Headers::ActionPack::WWWAuthenticate  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
-HTTP::Headers::Auth                 7.02  pkg:cpan/HTTP-Message@7.02
-HTTP::Headers::ETag                 7.02  pkg:cpan/HTTP-Message@7.02
+HTTP::Headers::Auth                 7.03  pkg:cpan/HTTP-Message@7.03
+HTTP::Headers::ETag                 7.03  pkg:cpan/HTTP-Message@7.03
 HTTP::Headers::Fancy               1.001  pkg:cpan/HTTP-Headers-Fancy@1.001
 HTTP::Headers::Fast                 0.22  pkg:cpan/HTTP-Headers-Fast@0.22
 HTTP::Headers::Fast::XS            0.001  pkg:cpan/HTTP-Headers-Fast-XS@0.001
 HTTP::Headers::Patch::DontUseStorable 0.062  pkg:cpan/HTTP-Headers-Patch-DontUseStorable@0.062
 HTTP::Headers::UserAgent            3.09  pkg:cpan/HTTP-Headers-UserAgent@3.09
-HTTP::Headers::Util                 7.02  pkg:cpan/HTTP-Message@7.02
+HTTP::Headers::Util                 7.03  pkg:cpan/HTTP-Message@7.03
 HTTP::LRDD                         0.106  pkg:cpan/HTTP-LRDD@0.106
 HTTP::Link                         0.001  pkg:cpan/HTTP-Link@0.001
 HTTP::Link::Parser                 0.200  pkg:cpan/HTTP-Link-Parser@0.200
@@ -109814,7 +109814,7 @@ HTTP::LoadGen::Run                  0.03  pkg:cpan/HTTP-LoadGen@0.07
 HTTP::LoadGen::Run::_dbg            0.03  pkg:cpan/HTTP-LoadGen@0.07
 HTTP::LoadGen::ScoreBoard           0.04  pkg:cpan/HTTP-LoadGen@0.07
 HTTP::MHTTP                         0.15  pkg:cpan/HTTP-MHTTP@0.15
-HTTP::Message                       7.02  pkg:cpan/HTTP-Message@7.02
+HTTP::Message                       7.03  pkg:cpan/HTTP-Message@7.03
 HTTP::Message::JSON                undef  pkg:cpan/LWP-JSON-Tiny@0.014
 HTTP::Message::PSGI                undef  pkg:cpan/Plack@1.0054
 HTTP::MessageParser                  0.3  pkg:cpan/HTTP-MessageParser@0.3
@@ -110035,11 +110035,11 @@ HTTP::Recorder                      0.07  pkg:cpan/HTTP-Recorder@0.07
 HTTP::Recorder::Httperf             0.02  pkg:cpan/HTTP-Recorder-Httperf@0.02
 HTTP::Recorder::Httperf::Logger     0.01  pkg:cpan/HTTP-Recorder-Httperf@0.02
 HTTP::Recorder::Logger             undef  pkg:cpan/HTTP-Recorder@0.07
-HTTP::Request                       7.02  pkg:cpan/HTTP-Message@7.02
+HTTP::Request                       7.03  pkg:cpan/HTTP-Message@7.03
 HTTP::Request::AsCGI                 1.2  pkg:cpan/HTTP-Request-AsCGI@1.2
 HTTP::Request::AsCurl               0.03  pkg:cpan/HTTP-Request-AsCurl@0.03
 HTTP::Request::Chunked             undef  pkg:cpan/POE-Filter-HTTPD-Chunked@0.9
-HTTP::Request::Common               7.02  pkg:cpan/HTTP-Message@7.02
+HTTP::Request::Common               7.03  pkg:cpan/HTTP-Message@7.03
 HTTP::Request::CurlParameters       0.57  pkg:cpan/HTTP-Request-FromCurl@0.57
 HTTP::Request::Diff                 0.07  pkg:cpan/HTTP-Request-Diff@0.07
 HTTP::Request::Form                0.952  pkg:cpan/HTTP-Request-Form@0.952
@@ -110055,7 +110055,7 @@ HTTP::Request::JSON                undef  pkg:cpan/LWP-JSON-Tiny@0.014
 HTTP::Request::Params               1.02  pkg:cpan/HTTP-Request-Params@1.02
 HTTP::Request::StreamingUpload      0.01  pkg:cpan/HTTP-Request-StreamingUpload@0.01
 HTTP::Request::Webpush              0.15  pkg:cpan/HTTP-Request-Webpush@0.15
-HTTP::Response                      7.02  pkg:cpan/HTTP-Message@7.02
+HTTP::Response                      7.03  pkg:cpan/HTTP-Message@7.03
 HTTP::Response::CGI                  1.0  pkg:cpan/HTTP-Response-CGI@1.0
 HTTP::Response::Encoding            0.06  pkg:cpan/HTTP-Response-Encoding@0.06
 HTTP::Response::JSON               undef  pkg:cpan/LWP-JSON-Tiny@0.014
@@ -110161,7 +110161,7 @@ HTTP::Soup                          0.01  pkg:cpan/HTTP-Soup@0.01
 HTTP::Soup::Gnome                   0.02  pkg:cpan/HTTP-Soup-Gnome@0.02
 HTTP::State                        0.001002  pkg:cpan/HTTP-State@v0.1.2
 HTTP::State::Cookie                undef  pkg:cpan/HTTP-State@v0.1.2
-HTTP::Status                        7.02  pkg:cpan/HTTP-Message@7.02
+HTTP::Status                        7.03  pkg:cpan/HTTP-Message@7.03
 HTTP::Status::Const                0.003000  pkg:cpan/HTTP-Status-Const@v0.3.0
 HTTP::StreamParser                 0.101  pkg:cpan/HTTP-StreamParser@0.101
 HTTP::StreamParser::Request        0.101  pkg:cpan/HTTP-StreamParser@0.101
@@ -144833,17 +144833,17 @@ MzML::SpectrumList                 undef  pkg:cpan/MzML-Parser@0.1
 MzML::Target                       undef  pkg:cpan/MzML-Parser@0.1
 MzML::TargetList                   undef  pkg:cpan/MzML-Parser@0.1
 MzML::UserParam                    undef  pkg:cpan/MzML-Parser@0.1
-NBI::EcoScheduler                  v0.21.0  pkg:cpan/NBI-Slurm@0.21.0
-NBI::Job                           v0.21.0  pkg:cpan/NBI-Slurm@0.21.0
-NBI::Launcher                      v0.21.0  pkg:cpan/NBI-Slurm@0.21.0
-NBI::Launcher::Kraken2             v0.21.0  pkg:cpan/NBI-Slurm@0.21.0
-NBI::Launcher::RemovePrimers       v0.21.0  pkg:cpan/NBI-Slurm@0.21.0
-NBI::Manifest                      v0.21.0  pkg:cpan/NBI-Slurm@0.21.0
-NBI::Opts                          v0.21.0  pkg:cpan/NBI-Slurm@0.21.0
-NBI::Pipeline                      v0.21.0  pkg:cpan/NBI-Slurm@0.21.0
-NBI::Queue                         v0.21.0  pkg:cpan/NBI-Slurm@0.21.0
-NBI::QueuedJob                     v0.21.0  pkg:cpan/NBI-Slurm@0.21.0
-NBI::Slurm                         v0.21.0  pkg:cpan/NBI-Slurm@0.21.0
+NBI::EcoScheduler                  v0.22.0  pkg:cpan/NBI-Slurm@0.22.0
+NBI::Job                           v0.22.0  pkg:cpan/NBI-Slurm@0.22.0
+NBI::Launcher                      v0.22.0  pkg:cpan/NBI-Slurm@0.22.0
+NBI::Launcher::Kraken2             v0.22.0  pkg:cpan/NBI-Slurm@0.22.0
+NBI::Launcher::RemovePrimers       v0.22.0  pkg:cpan/NBI-Slurm@0.22.0
+NBI::Manifest                      v0.22.0  pkg:cpan/NBI-Slurm@0.22.0
+NBI::Opts                          v0.22.0  pkg:cpan/NBI-Slurm@0.22.0
+NBI::Pipeline                      v0.22.0  pkg:cpan/NBI-Slurm@0.22.0
+NBI::Queue                         v0.22.0  pkg:cpan/NBI-Slurm@0.22.0
+NBI::QueuedJob                     v0.22.0  pkg:cpan/NBI-Slurm@0.22.0
+NBI::Slurm                         v0.22.0  pkg:cpan/NBI-Slurm@0.22.0
 NBU                                 1.42  pkg:cpan/NBU@0.95
 NBU::Class                          1.29  pkg:cpan/NBU@0.95
 NBU::Drive                          1.24  pkg:cpan/NBU@0.95
@@ -260851,7 +260851,7 @@ YAMLScript::Runtime                undef  pkg:cpan/YAMLScript@0.0.5
 YAMLScript::Str                    undef  pkg:cpan/YAMLScript@0.0.16
 YAMLScript::Test                   undef  pkg:cpan/YAMLScript-Lingy@0.2.1
 YAMLScript::Util                   undef  pkg:cpan/YAMLScript@0.0.16
-YAMLStar                           0.001015  pkg:cpan/YAMLStar@0.1.15
+YAMLStar                           0.001017  pkg:cpan/YAMLStar@0.1.17
 YAMLTest                           0.001000  pkg:cpan/YAMLTest@0.1.0
 YANG                                0.02  pkg:cpan/YANG@0.02
 YAOO                                0.10  pkg:cpan/YAOO@0.10
