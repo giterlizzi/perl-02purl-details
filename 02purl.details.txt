@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 21 Jul 2026 06:22:51 GMT
-Line-Count: 266678
+Last-Updated: Tue, 21 Jul 2026 10:18:55 GMT
+Line-Count: 266679
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -22236,13 +22236,14 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         0.025000  pkg:cpan/BarefootJS@0.25.0
-BarefootJS::Backend::Mojo          0.025000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.25.0
-BarefootJS::Backend::Xslate        0.025000  pkg:cpan/BarefootJS-Backend-Xslate@0.25.0
-BarefootJS::Date                   0.025000  pkg:cpan/BarefootJS@0.25.0
-BarefootJS::DevReload              0.025000  pkg:cpan/BarefootJS@0.25.0
-BarefootJS::Evaluator              0.014000  pkg:cpan/BarefootJS@0.25.0
-BarefootJS::SearchParams           0.014000  pkg:cpan/BarefootJS@0.25.0
+BarefootJS                         0.026000  pkg:cpan/BarefootJS@0.26.0
+BarefootJS::Backend::Mojo          0.026000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.26.0
+BarefootJS::Backend::Xslate        0.026000  pkg:cpan/BarefootJS-Backend-Xslate@0.26.0
+BarefootJS::Date                   0.026000  pkg:cpan/BarefootJS@0.26.0
+BarefootJS::DevReload              0.026000  pkg:cpan/BarefootJS@0.26.0
+BarefootJS::Evaluator              0.014000  pkg:cpan/BarefootJS@0.26.0
+BarefootJS::SearchParams           0.014000  pkg:cpan/BarefootJS@0.26.0
+BarefootJS::_TZProbe               0.026000  pkg:cpan/BarefootJS@0.26.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
 Baseball::Sabermetrics              0.03  pkg:cpan/Baseball-Sabermetrics@0.03
@@ -30525,7 +30526,7 @@ Business::IS::PIN                   0.06  pkg:cpan/Business-IS-PIN@0.06
 Business::ISBN                     3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN10                   3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN13                   3.014  pkg:cpan/Business-ISBN@3.014
-Business::ISBN::Data               20260717.001  pkg:cpan/Business-ISBN-Data@20260717.001
+Business::ISBN::Data               20260721.001  pkg:cpan/Business-ISBN-Data@20260721.001
 Business::ISIN                      0.20  pkg:cpan/Business-ISIN@0.20?ext=tgz
 Business::ISMN                     1.205  pkg:cpan/Business-ISMN@1.205
 Business::ISMN::Data               1.205  pkg:cpan/Business-ISMN@1.205
@@ -121963,7 +121964,7 @@ Launcher::Cascade::Printable       undef  pkg:cpan/Launcher-Cascade@0.02
 Launcher::Cascade::Simple          undef  pkg:cpan/Launcher-Cascade@0.02
 Lavoco::Web::App                    0.06  pkg:cpan/Lavoco-Web-App@0.06
 Lavoco::Web::Editor                 0.07  pkg:cpan/Lavoco-Web-Editor@0.07
-Layout::Flex                        0.01  pkg:cpan/Layout-Flex@0.01
+Layout::Flex                        0.02  pkg:cpan/Layout-Flex@0.02
 Layout::Manager                     0.35  pkg:cpan/Layout-Manager@0.35
 Layout::Manager::Absolute          undef  pkg:cpan/Layout-Manager@0.35
 Layout::Manager::Axis              undef  pkg:cpan/Layout-Manager@0.35
@@ -140083,8 +140084,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    0.025000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.25.0
-Mojolicious::Plugin::BarefootJS::DevReload 0.025000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.25.0
+Mojolicious::Plugin::BarefootJS    0.026000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.26.0
+Mojolicious::Plugin::BarefootJS::DevReload 0.026000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.26.0
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -197111,19 +197112,19 @@ Person::CNPclass                    0.02  pkg:cpan/Person-CNPclass@v0.02
 Person::ID::CZ::RC                  0.05  pkg:cpan/Person-ID-CZ-RC@0.05
 Person::ID::CZ::RC::Generator       0.06  pkg:cpan/Person-ID-CZ-RC-Generator@0.06
 PersonData                         undef  pkg:cpan/XPlanner@0.01
-PersonName::Format                 0.001000  pkg:cpan/PersonName-Format@v0.1.0
-PersonName::Format::Compiled       0.001000  pkg:cpan/PersonName-Format@v0.1.0
-PersonName::Format::Compiled::IdentityName 0.001000  pkg:cpan/PersonName-Format@v0.1.0
-PersonName::Format::Exception      0.001000  pkg:cpan/PersonName-Format@v0.1.0
-PersonName::Format::FieldModifier  0.001000  pkg:cpan/PersonName-Format@v0.1.0
-PersonName::Format::Generic        0.001000  pkg:cpan/PersonName-Format@v0.1.0
-PersonName::Format::Name           0.001000  pkg:cpan/PersonName-Format@v0.1.0
-PersonName::Format::NullObject     0.001000  pkg:cpan/PersonName-Format@v0.1.0
-PersonName::Format::PP             0.001000  pkg:cpan/PersonName-Format@v0.1.0
-PersonName::Format::Pattern        0.001000  pkg:cpan/PersonName-Format@v0.1.0
-PersonName::Format::Pattern::GivenToSurname 0.001000  pkg:cpan/PersonName-Format@v0.1.0
-PersonName::Format::SimpleName     0.001000  pkg:cpan/PersonName-Format@v0.1.0
-PersonName::Format::SurnameAllCapsName 0.001000  pkg:cpan/PersonName-Format@v0.1.0
+PersonName::Format                 0.001001  pkg:cpan/PersonName-Format@v0.1.1
+PersonName::Format::Compiled       0.001000  pkg:cpan/PersonName-Format@v0.1.1
+PersonName::Format::Compiled::IdentityName 0.001000  pkg:cpan/PersonName-Format@v0.1.1
+PersonName::Format::Exception      0.001000  pkg:cpan/PersonName-Format@v0.1.1
+PersonName::Format::FieldModifier  0.001000  pkg:cpan/PersonName-Format@v0.1.1
+PersonName::Format::Generic        0.001000  pkg:cpan/PersonName-Format@v0.1.1
+PersonName::Format::Name           0.001000  pkg:cpan/PersonName-Format@v0.1.1
+PersonName::Format::NullObject     0.001000  pkg:cpan/PersonName-Format@v0.1.1
+PersonName::Format::PP             0.001000  pkg:cpan/PersonName-Format@v0.1.1
+PersonName::Format::Pattern        0.001000  pkg:cpan/PersonName-Format@v0.1.1
+PersonName::Format::Pattern::GivenToSurname 0.001000  pkg:cpan/PersonName-Format@v0.1.1
+PersonName::Format::SimpleName     0.001000  pkg:cpan/PersonName-Format@v0.1.1
+PersonName::Format::SurnameAllCapsName 0.001001  pkg:cpan/PersonName-Format@v0.1.1
 PersonVisitor                       0.13  pkg:cpan/Shipment@0.13
 Personality::Type::MBTI             0.05  pkg:cpan/Personality-Type-MBTI@0.05
 Perspective                            1  pkg:cpan/CECALA
@@ -225580,7 +225581,7 @@ Syntax::Collection::Basic          0.0601  pkg:cpan/Syntax-Collection-Basic@0.06
 Syntax::Collection::Moose          0.0601  pkg:cpan/Syntax-Collection-Basic@0.0601
 Syntax::Collector                  0.006  pkg:cpan/Syntax-Collector@0.006
 Syntax::Collector::Collection      0.006  pkg:cpan/Syntax-Collector@0.006
-Syntax::Construct                  1.045  pkg:cpan/Syntax-Construct@1.045
+Syntax::Construct                  1.046  pkg:cpan/Syntax-Construct@1.046
 Syntax::Feature::CatalystAction     0.01  pkg:cpan/CatalystX-Syntax-Action@0.01
 Syntax::Feature::Corolocal         0.001002  pkg:cpan/Coro-Localize@0.1.2
 Syntax::Feature::Dispatcher        0.006  pkg:cpan/Smart-Dispatch@0.006
