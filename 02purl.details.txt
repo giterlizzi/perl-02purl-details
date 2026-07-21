@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 21 Jul 2026 20:59:36 GMT
+Last-Updated: Tue, 21 Jul 2026 22:47:53 GMT
 Line-Count: 266681
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -33589,7 +33589,7 @@ CPAN::Patches                       0.05  pkg:cpan/CPAN-Patches@0.05
 CPAN::Patches::Plugin::Debian       0.03  pkg:cpan/CPAN-Patches-Plugin-Debian@0.03
 CPAN::Patches::Plugin::Debian::SPc  0.03  pkg:cpan/CPAN-Patches-Plugin-Debian@0.03
 CPAN::Patches::SPc                  0.04  pkg:cpan/CPAN-Patches@0.05
-CPAN::Perl::Releases               5.20260715  pkg:cpan/CPAN-Perl-Releases@5.20260715
+CPAN::Perl::Releases               5.20260720  pkg:cpan/CPAN-Perl-Releases@5.20260720
 CPAN::Perl::Releases::MetaCPAN     v1.0.1  pkg:cpan/CPAN-Perl-Releases-MetaCPAN@v1.0.1
 CPAN::Plugin                        0.97  pkg:cpan/CPAN@2.38
 CPAN::Plugin::Specfile              0.02  pkg:cpan/CPAN@2.38
@@ -50516,7 +50516,7 @@ Cucumber::TagExpressions::LiteralNode v10.0.0  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
 Cucumber::TagExpressions::NotNode  v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
 Cucumber::TagExpressions::OrNode   v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.126
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.127
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
@@ -138388,12 +138388,12 @@ Module::Compile::Opt               undef  pkg:cpan/Module-Compile@0.38
 Module::Compile::Simple             0.24  pkg:cpan/Module-Compile-Simple@0.24
 Module::Compile::TT                undef  pkg:cpan/Module-Compile-TT@0.02
 Module::ConfigureRequires           0.03  pkg:cpan/Module-ConfigureRequires@0.03
-Module::CoreList                   5.20260708  pkg:cpan/Module-CoreList@5.20260708
+Module::CoreList                   5.20260720  pkg:cpan/Module-CoreList@5.20260720
 Module::CoreList::DBSchema          0.08  pkg:cpan/Module-CoreList-DBSchema@0.08
 Module::CoreList::List             0.001  pkg:cpan/Module-CoreList-List@0.001
 Module::CoreList::More              0.08  pkg:cpan/Module-CoreList-More@0.08
 Module::CoreList::TieHashDelta     5.20180120  pkg:cpan/Module-CoreList@5.20180120
-Module::CoreList::Utils            5.20260708  pkg:cpan/Module-CoreList@5.20260708
+Module::CoreList::Utils            5.20260720  pkg:cpan/Module-CoreList@5.20260720
 Module::Crypt                       0.06  pkg:cpan/Module-Crypt@0.06
 Module::CryptSource                 0.02  pkg:cpan/Module-CryptSource@0.02
 Module::Data                       0.013  pkg:cpan/Module-Data@0.013
@@ -138825,8 +138825,8 @@ Module::Requires                    0.03  pkg:cpan/Module-Requires@0.03
 Module::Runtime                    0.018  pkg:cpan/Module-Runtime@0.018
 Module::Runtime::Conflicts         0.003  pkg:cpan/Module-Runtime-Conflicts@0.003
 Module::ScanDeps                    1.37  pkg:cpan/Module-ScanDeps@1.37
-Module::ScanDeps::FindRequires     v1.8.2  pkg:cpan/Module-ScanDeps-Static@1.8.2
-Module::ScanDeps::Static           v1.8.2  pkg:cpan/Module-ScanDeps-Static@1.8.2
+Module::ScanDeps::FindRequires     v1.9.1  pkg:cpan/Module-ScanDeps-Static@1.9.1
+Module::ScanDeps::Static           v1.9.1  pkg:cpan/Module-ScanDeps-Static@1.9.1
 Module::ScanDeps::Static::VERSION  v1.7.8  pkg:cpan/Module-ScanDeps-Static@1.7.8
 Module::ScanDeps::VERSION          v1.7.0  pkg:cpan/Module-ScanDeps-Static@1.7.0
 Module::Setup                       0.09  pkg:cpan/Module-Setup@0.09
