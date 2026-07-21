@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 21 Jul 2026 17:08:45 GMT
-Line-Count: 266680
+Last-Updated: Tue, 21 Jul 2026 19:07:46 GMT
+Line-Count: 266681
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -53707,20 +53707,20 @@ DBIx::QueryLog                      0.42  pkg:cpan/DBIx-QueryLog@0.42
 DBIx::Quick                          0.9  pkg:cpan/DBIx-Quick@0.9
 DBIx::Quick::Converter             undef  pkg:cpan/DBIx-Quick@0.9
 DBIx::Quick::Role                  undef  pkg:cpan/DBIx-Quick@0.9
-DBIx::QuickDB                      0.000055  pkg:cpan/DBIx-QuickDB@0.000055
-DBIx::QuickDB::Driver              0.000055  pkg:cpan/DBIx-QuickDB@0.000055
-DBIx::QuickDB::Driver::DuckDB      0.000055  pkg:cpan/DBIx-QuickDB@0.000055
-DBIx::QuickDB::Driver::MariaDB     0.000055  pkg:cpan/DBIx-QuickDB@0.000055
-DBIx::QuickDB::Driver::MySQL       0.000055  pkg:cpan/DBIx-QuickDB@0.000055
+DBIx::QuickDB                      0.000056  pkg:cpan/DBIx-QuickDB@0.000056
+DBIx::QuickDB::Driver              0.000056  pkg:cpan/DBIx-QuickDB@0.000056
+DBIx::QuickDB::Driver::DuckDB      0.000056  pkg:cpan/DBIx-QuickDB@0.000056
+DBIx::QuickDB::Driver::MariaDB     0.000056  pkg:cpan/DBIx-QuickDB@0.000056
+DBIx::QuickDB::Driver::MySQL       0.000056  pkg:cpan/DBIx-QuickDB@0.000056
 DBIx::QuickDB::Driver::MySQL::Base 0.000035  pkg:cpan/DBIx-QuickDB@0.000035
-DBIx::QuickDB::Driver::MySQLCom    0.000055  pkg:cpan/DBIx-QuickDB@0.000055
-DBIx::QuickDB::Driver::Percona     0.000055  pkg:cpan/DBIx-QuickDB@0.000055
-DBIx::QuickDB::Driver::PostgreSQL  0.000055  pkg:cpan/DBIx-QuickDB@0.000055
-DBIx::QuickDB::Driver::SQLite      0.000055  pkg:cpan/DBIx-QuickDB@0.000055
-DBIx::QuickDB::Pool                0.000055  pkg:cpan/DBIx-QuickDB@0.000055
-DBIx::QuickDB::Util                0.000055  pkg:cpan/DBIx-QuickDB@0.000055
-DBIx::QuickDB::Util::HashBase      0.000055  pkg:cpan/DBIx-QuickDB@0.000055
-DBIx::QuickDB::Watcher             0.000055  pkg:cpan/DBIx-QuickDB@0.000055
+DBIx::QuickDB::Driver::MySQLCom    0.000056  pkg:cpan/DBIx-QuickDB@0.000056
+DBIx::QuickDB::Driver::Percona     0.000056  pkg:cpan/DBIx-QuickDB@0.000056
+DBIx::QuickDB::Driver::PostgreSQL  0.000056  pkg:cpan/DBIx-QuickDB@0.000056
+DBIx::QuickDB::Driver::SQLite      0.000056  pkg:cpan/DBIx-QuickDB@0.000056
+DBIx::QuickDB::Pool                0.000056  pkg:cpan/DBIx-QuickDB@0.000056
+DBIx::QuickDB::Util                0.000056  pkg:cpan/DBIx-QuickDB@0.000056
+DBIx::QuickDB::Util::HashBase      0.000056  pkg:cpan/DBIx-QuickDB@0.000056
+DBIx::QuickDB::Watcher             0.000056  pkg:cpan/DBIx-QuickDB@0.000056
 DBIx::QuickORM                     0.000028  pkg:cpan/DBIx-QuickORM@0.000028
 DBIx::QuickORM::Affinity           0.000028  pkg:cpan/DBIx-QuickORM@0.000028
 DBIx::QuickORM::BuilderState       0.000004  pkg:cpan/DBIx-QuickORM@0.000004
@@ -71642,7 +71642,7 @@ Error::WarnDie                     0.17030  pkg:cpan/Error@0.17030
 Error::subs                        0.17030  pkg:cpan/Error@0.17030
 Errors::Errors                      1.26  pkg:cpan/WebTools@1.27
 Escape::Houdini                    v0.3.3  pkg:cpan/Escape-Houdini@0.3.3
-Eshu                                0.09  pkg:cpan/Eshu@0.09
+Eshu                                0.10  pkg:cpan/Eshu@0.10
 Esjis                               1.22  pkg:cpan/Sjis@1.22
 Etcd                               0.004  pkg:cpan/Etcd@0.004
 Etcd::Error                        0.004  pkg:cpan/Etcd@0.004
@@ -76595,6 +76595,7 @@ Font::FreeType::NamedInfo          undef  pkg:cpan/Font-FreeType@0.18
 Font::Fret                         1.202  pkg:cpan/Font-TTF-Scripts@1.06
 Font::Fret::Default                1.202  pkg:cpan/Font-TTF-Scripts@1.06
 Font::GlyphNames                   1.00000  pkg:cpan/Font-GlyphNames@1.00000
+Font::Metrics                       0.01  pkg:cpan/Font-Metrics@0.01
 Font::Metrics::Courier             undef  pkg:cpan/Font-AFM@1.20
 Font::Metrics::CourierBold         undef  pkg:cpan/Font-AFM@1.20
 Font::Metrics::CourierBoldOblique  undef  pkg:cpan/Font-AFM@1.20
@@ -132305,7 +132306,7 @@ Markdown::Pod                      0.008  pkg:cpan/Markdown-Pod@0.008
 Markdown::Pod::Handler             0.008  pkg:cpan/Markdown-Pod@0.008
 Markdown::Pod::script              0.008  pkg:cpan/Markdown-Pod@0.008
 Markdown::Render                   v2.0.4  pkg:cpan/Markdown-Render@2.0.4
-Markdown::Simple                    0.17  pkg:cpan/Markdown-Simple@0.17
+Markdown::Simple                    0.18  pkg:cpan/Markdown-Simple@0.18
 Markdown::TOC                       0.01  pkg:cpan/Markdown-TOC@0.01
 Markdown::Table                     0.04  pkg:cpan/Markdown-Table@0.04
 Markdown::To::POD                   0.06  pkg:cpan/Markdown-To-POD@0.06
@@ -141447,7 +141448,7 @@ MooX::Keyword::Factory              1.01  pkg:cpan/MooX-Keyword-Factory@1.01
 MooX::Keyword::Field                1.01  pkg:cpan/MooX-Keyword-Field@1.01
 MooX::Keyword::Random               1.00  pkg:cpan/MooX-Keyword-Random@1.00
 MooX::Keyword::Readonly             1.00  pkg:cpan/MooX-Keyword-Readonly@1.00
-MooX::LazierAttributes             1.07010  pkg:cpan/MooX-LazierAttributes@1.07010
+MooX::LazierAttributes             1.07011  pkg:cpan/MooX-LazierAttributes@1.07011
 MooX::LazyRequire                  0.001002  pkg:cpan/MooX-LazyRequire@0.001002
 MooX::Locale::Passthrough          0.001  pkg:cpan/MooX-Locale-Passthrough@0.001
 MooX::Locale::TextDomain::OO       0.001  pkg:cpan/MooX-Locale-TextDomain-OO@0.001
@@ -230122,7 +230123,7 @@ Test2::Tools::Process::Exit         0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::Proc         0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::System       0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::SystemProc   0.07  pkg:cpan/Test2-Tools-Process@0.07
-Test2::Tools::QuickDB              0.000055  pkg:cpan/DBIx-QuickDB@0.000055
+Test2::Tools::QuickDB              0.000056  pkg:cpan/DBIx-QuickDB@0.000056
 Test2::Tools::Ref                  1.302222  pkg:cpan/Test-Simple@1.302222
 Test2::Tools::Refcount             1.302222  pkg:cpan/Test-Simple@1.302222
 Test2::Tools::Rustfmt               0.05  pkg:cpan/Test2-Tools-Rustfmt@0.05
