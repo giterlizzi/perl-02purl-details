@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 22 Jul 2026 11:43:22 GMT
-Line-Count: 266705
+Last-Updated: Wed, 22 Jul 2026 13:27:00 GMT
+Line-Count: 266709
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -37791,6 +37791,10 @@ Catmandu::XSD                       0.05  pkg:cpan/Catmandu-XSD@0.05
 Catmandu::Z3950                     0.06  pkg:cpan/Catmandu-Z3950@0.06
 Catmandu::Zotero                    0.07  pkg:cpan/Catmandu-Zotero@0.07
 Cave::Wrapper                      1.000001  pkg:cpan/Cave-Wrapper@1.000001
+Cavil::Matcher                      1.00  pkg:cpan/Cavil-Matcher@1.00
+Cavil::Matcher::Hash                1.00  pkg:cpan/Cavil-Matcher@1.00
+Cavil::Matcher::Index              undef  pkg:cpan/Cavil-Matcher@1.00
+Cavil::Matcher::Manifest           undef  pkg:cpan/Cavil-Matcher@1.00
 CayleyDickson                       0.04  pkg:cpan/CayleyDickson@0.01?ext=tgz
 Cdk                                4.009001  pkg:cpan/Curses-Devkit@4.9.3
 Cdk::Alphalist                     undef  pkg:cpan/Curses-Devkit@4.9.3
@@ -75178,7 +75182,7 @@ File::TypeCategories                0.08  pkg:cpan/File-TypeCategories@0.08
 File::URIList                      v0.4.0  pkg:cpan/File-URIList@v0.04
 File::UStore                        0.16  pkg:cpan/File-UStore@0.16
 File::Unpack                        0.70  pkg:cpan/File-Unpack@0.70
-File::Unpack2                        1.3  pkg:cpan/File-Unpack2@1.3
+File::Unpack2                        1.5  pkg:cpan/File-Unpack2@1.5
 File::Unsaved                      0.070  pkg:cpan/File-Unsaved@0.070
 File::Update                       v0.2.1  pkg:cpan/File-Update@0.2.1
 File::UserConfig                    0.06  pkg:cpan/File-UserConfig@0.06
@@ -127516,7 +127520,7 @@ Log::Any::Adapter::MojoLog          0.05  pkg:cpan/Log-Any-Adapter-MojoLog@0.05
 Log::Any::Adapter::Multiplex       1.720  pkg:cpan/Log-Any@1.720
 Log::Any::Adapter::Multiplexor      0.03  pkg:cpan/Log-Any-Adapter-Multiplexor@0.03
 Log::Any::Adapter::Null            1.720  pkg:cpan/Log-Any@1.720
-Log::Any::Adapter::OpenTelemetry   0.033  pkg:cpan/OpenTelemetry@0.033
+Log::Any::Adapter::OpenTelemetry   0.035  pkg:cpan/OpenTelemetry@0.035
 Log::Any::Adapter::OpenTracing     0.001  pkg:cpan/Log-Any-Adapter-OpenTracing@0.001
 Log::Any::Adapter::Redis           1.000  pkg:cpan/Log-Any-Adapter-Redis@1.000
 Log::Any::Adapter::Screen          0.141  pkg:cpan/Log-Any-Adapter-Screen@0.141
@@ -158210,45 +158214,45 @@ OpenStack::MetaAPI::Roles::GetFromId 0.003  pkg:cpan/OpenStack-MetaAPI@0.003
 OpenStack::MetaAPI::Roles::Listable 0.003  pkg:cpan/OpenStack-MetaAPI@0.003
 OpenStack::MetaAPI::Routes         0.003  pkg:cpan/OpenStack-MetaAPI@0.003
 OpenStatisticalServices            0.022  pkg:cpan/openStatisticalServices@0.022
-OpenTelemetry                      0.033  pkg:cpan/OpenTelemetry@0.033
+OpenTelemetry                      0.035  pkg:cpan/OpenTelemetry@0.035
 OpenTelemetry::Any                 0.001  pkg:cpan/OpenTelemetry@0.001
-OpenTelemetry::AttributeMap        0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Attributes          0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Baggage             0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Baggage::Builder    0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Baggage::Entry      0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Constants           0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Context             0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Context::Key        0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Exporter            0.033  pkg:cpan/OpenTelemetry@0.033
+OpenTelemetry::AttributeMap        0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Attributes          0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Baggage             0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Baggage::Builder    0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Baggage::Entry      0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Constants           0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Context             0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Context::Key        0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Exporter            0.035  pkg:cpan/OpenTelemetry@0.035
 OpenTelemetry::Exporter::OTLP      0.021  pkg:cpan/OpenTelemetry-Exporter-OTLP@0.021
 OpenTelemetry::Exporter::OTLP::Encoder::JSON 0.021  pkg:cpan/OpenTelemetry-Exporter-OTLP@0.021
 OpenTelemetry::Exporter::OTLP::Encoder::Protobuf 0.021  pkg:cpan/OpenTelemetry-Exporter-OTLP@0.021
 OpenTelemetry::Exporter::OTLP::Logs 0.021  pkg:cpan/OpenTelemetry-Exporter-OTLP@0.021
 OpenTelemetry::Exporter::OTLP::Traces 0.021  pkg:cpan/OpenTelemetry-Exporter-OTLP@0.021
-OpenTelemetry::Instrumentation     0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Instrumentation::DBI 0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Instrumentation::HTTP::Tiny 0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Instrumentation::LWP::UserAgent 0.033  pkg:cpan/OpenTelemetry@0.033
+OpenTelemetry::Instrumentation     0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Instrumentation::DBI 0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Instrumentation::HTTP::Tiny 0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Instrumentation::LWP::UserAgent 0.035  pkg:cpan/OpenTelemetry@0.035
 OpenTelemetry::Instrumentation::caller 0.034  pkg:cpan/OpenTelemetry-Instrumentation-namespace@0.034
 OpenTelemetry::Instrumentation::namespace 0.034  pkg:cpan/OpenTelemetry-Instrumentation-namespace@0.034
-OpenTelemetry::Integration         0.033  pkg:cpan/OpenTelemetry@0.033
+OpenTelemetry::Integration         0.035  pkg:cpan/OpenTelemetry@0.035
 OpenTelemetry::Integration::DBI    0.025  pkg:cpan/OpenTelemetry@0.025
 OpenTelemetry::Integration::HTTP::Tiny 0.025  pkg:cpan/OpenTelemetry@0.025
 OpenTelemetry::Integration::LWP::UserAgent 0.025  pkg:cpan/OpenTelemetry@0.025
-OpenTelemetry::Logs::LogRecord::Processor 0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Logs::Logger        0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Logs::LoggerProvider 0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Processor           0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Propagator          0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Propagator::Baggage 0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Propagator::Composite 0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Propagator::None    0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Propagator::TextMap 0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Propagator::TraceContext 0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Propagator::TraceContext::TraceFlags 0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Propagator::TraceContext::TraceParent 0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Propagator::TraceContext::TraceState 0.033  pkg:cpan/OpenTelemetry@0.033
+OpenTelemetry::Logs::LogRecord::Processor 0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Logs::Logger        0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Logs::LoggerProvider 0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Processor           0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Propagator          0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Propagator::Baggage 0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Propagator::Composite 0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Propagator::None    0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Propagator::TextMap 0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Propagator::TraceContext 0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Propagator::TraceContext::TraceFlags 0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Propagator::TraceContext::TraceParent 0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Propagator::TraceContext::TraceState 0.035  pkg:cpan/OpenTelemetry@0.035
 OpenTelemetry::Proto               0.021  pkg:cpan/OpenTelemetry-Exporter-OTLP@0.021
 OpenTelemetry::SDK                 0.028  pkg:cpan/OpenTelemetry-SDK@0.028
 OpenTelemetry::SDK::Exporter::Console 0.028  pkg:cpan/OpenTelemetry-SDK@0.028
@@ -158267,20 +158271,20 @@ OpenTelemetry::SDK::Trace::Span::Readable 0.028  pkg:cpan/OpenTelemetry-SDK@0.02
 OpenTelemetry::SDK::Trace::SpanLimits 0.028  pkg:cpan/OpenTelemetry-SDK@0.028
 OpenTelemetry::SDK::Trace::Tracer  0.028  pkg:cpan/OpenTelemetry-SDK@0.028
 OpenTelemetry::SDK::Trace::TracerProvider 0.028  pkg:cpan/OpenTelemetry-SDK@0.028
-OpenTelemetry::Trace               0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Trace::Event        0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Trace::Link         0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Trace::Span         0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Trace::Span::Processor 0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Trace::Span::Status 0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Trace::SpanContext  0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Trace::Tracer       0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::Trace::TracerProvider 0.033  pkg:cpan/OpenTelemetry@0.033
+OpenTelemetry::Trace               0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Trace::Event        0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Trace::Link         0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Trace::Span         0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Trace::Span::Processor 0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Trace::Span::Status 0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Trace::SpanContext  0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Trace::Tracer       0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::Trace::TracerProvider 0.035  pkg:cpan/OpenTelemetry@0.035
 OpenTelemetry::TraceContext::W3C    0.02  pkg:cpan/OpenTelemetry-TraceContext-W3C@0.02
-OpenTelemetry::X                   0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::X::Invalid          0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::X::Parsing          0.033  pkg:cpan/OpenTelemetry@0.033
-OpenTelemetry::X::Unsupported      0.033  pkg:cpan/OpenTelemetry@0.033
+OpenTelemetry::X                   0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::X::Invalid          0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::X::Parsing          0.035  pkg:cpan/OpenTelemetry@0.035
+OpenTelemetry::X::Unsupported      0.035  pkg:cpan/OpenTelemetry@0.035
 OpenThought                        1.099016  pkg:cpan/OpenThought@1.99.16
 OpenThought::Serializer             1.33  pkg:cpan/OpenThought@0.71
 OpenThought::Template               1.23  pkg:cpan/OpenThought@0.71
