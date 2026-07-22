@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 22 Jul 2026 15:26:24 GMT
+Last-Updated: Wed, 22 Jul 2026 17:09:15 GMT
 Line-Count: 266709
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -69799,7 +69799,7 @@ EV::Nats::ObjectStore              undef  pkg:cpan/EV-Nats@0.04
 EV::Periodic                       undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Pg                              0.07  pkg:cpan/EV-Pg@0.07
 EV::Prepare                        undef  pkg:cpan/App-SimpleBackuper@0.2.22
-EV::Redis                           0.12  pkg:cpan/EV-Redis@0.12
+EV::Redis                           0.13  pkg:cpan/EV-Redis@0.13
 EV::Signal                         undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Stat                           undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Timer                          undef  pkg:cpan/App-SimpleBackuper@0.2.22
@@ -162066,7 +162066,7 @@ POSIX::1003::Sysconf                1.02  pkg:cpan/POSIX-1003@1.02
 POSIX::1003::Termios                1.02  pkg:cpan/POSIX-1003@1.02
 POSIX::1003::Time                   1.02  pkg:cpan/POSIX-1003@1.02
 POSIX::1003::User                   1.02  pkg:cpan/POSIX-1003@1.02
-POSIX::2008                         0.26  pkg:cpan/POSIX-2008@0.26
+POSIX::2008                         0.27  pkg:cpan/POSIX-2008@0.27
 POSIX::AtFork                       0.04  pkg:cpan/POSIX-AtFork@0.04
 POSIX::Open3                        0.01  pkg:cpan/POSIX-Open3@0.01
 POSIX::RT::Clock                   0.024  pkg:cpan/POSIX-RT-Timer@0.024
