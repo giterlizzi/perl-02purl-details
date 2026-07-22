@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 22 Jul 2026 13:27:00 GMT
+Last-Updated: Wed, 22 Jul 2026 15:26:24 GMT
 Line-Count: 266709
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -48153,7 +48153,7 @@ Config::Patch::Hunk                 0.09  pkg:cpan/Config-Patch@0.09
 Config::Patcher::Util               0.09  pkg:cpan/Config-Patch@0.09
 Config::Path                        0.12  pkg:cpan/Config-Path@0.13
 Config::Perl                        0.06  pkg:cpan/Config-Perl@0.06
-Config::Perl::V                     0.39  pkg:cpan/Config-Perl-V@0.39?ext=tgz
+Config::Perl::V                     0.40  pkg:cpan/Config-Perl-V@0.40?ext=tgz
 Config::Pg::ServiceFile             0.02  pkg:cpan/Config-Pg-ServiceFile@0.02
 Config::Pit                         0.04  pkg:cpan/Config-Pit@0.04
 Config::Plugin::Tiny                1.02  pkg:cpan/Config-Plugin-Tiny@1.02?ext=tgz
@@ -49119,7 +49119,7 @@ Crypt::AllOrNothing                 0.10  pkg:cpan/Crypt-AllOrNothing@0.10
 Crypt::AllOrNothing::Util           0.09  pkg:cpan/Crypt-AllOrNothing-Util@0.09
 Crypt::Anubis                        1.0  pkg:cpan/Crypt-Anubis@1.0.4
 Crypt::AppleTwoFish                0.051  pkg:cpan/Crypt-AppleTwoFish@0.051
-Crypt::Argon2                      0.031  pkg:cpan/Crypt-Argon2@0.031
+Crypt::Argon2                      0.032  pkg:cpan/Crypt-Argon2@0.032
 Crypt::AuthEnc                     0.090  pkg:cpan/CryptX@0.090
 Crypt::AuthEnc::CCM                0.090  pkg:cpan/CryptX@0.090
 Crypt::AuthEnc::ChaCha20Poly1305   0.090  pkg:cpan/CryptX@0.090
@@ -60476,7 +60476,7 @@ Data::Record::Serialize::Encode::html  0.02  pkg:cpan/Data-Record-Serialize-Enco
 Data::Record::Serialize::Encode::json  2.03  pkg:cpan/Data-Record-Serialize@2.03
 Data::Record::Serialize::Encode::null  2.03  pkg:cpan/Data-Record-Serialize@2.03
 Data::Record::Serialize::Encode::rdb  2.03  pkg:cpan/Data-Record-Serialize@2.03
-Data::Record::Serialize::Encode::table  0.01  pkg:cpan/Data-Record-Serialize-Encode-table@0.01
+Data::Record::Serialize::Encode::table  0.02  pkg:cpan/Data-Record-Serialize-Encode-table@0.02
 Data::Record::Serialize::Encode::yaml  2.03  pkg:cpan/Data-Record-Serialize@2.03
 Data::Record::Serialize::Error      2.03  pkg:cpan/Data-Record-Serialize@2.03
 Data::Record::Serialize::Role::Base  2.03  pkg:cpan/Data-Record-Serialize@2.03
