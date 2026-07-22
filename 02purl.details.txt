@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 22 Jul 2026 20:57:58 GMT
+Last-Updated: Wed, 22 Jul 2026 22:55:18 GMT
 Line-Count: 266725
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -199594,7 +199594,7 @@ Pod::POM::View::DocBook             0.08  pkg:cpan/Pod-POM-View-DocBook@0.08
 Pod::POM::View::HTML                2.01  pkg:cpan/Pod-POM@2.01
 Pod::POM::View::HTML::Filter        0.09  pkg:cpan/Pod-POM-View-HTML-Filter@0.09
 Pod::POM::View::Pod                 2.01  pkg:cpan/Pod-POM@2.01
-Pod::POM::View::Restructured       1.000003  pkg:cpan/Pod-POM-View-Restructured@1.000003
+Pod::POM::View::Restructured       1.000004  pkg:cpan/Pod-POM-View-Restructured@1.000004
 Pod::POM::View::TOC                 0.02  pkg:cpan/Pod-POM-View-TOC@0.02
 Pod::POM::View::Text                2.01  pkg:cpan/Pod-POM@2.01
 Pod::POM::View::TextBasic            0.2  pkg:cpan/Pod-Spelling@0.23
@@ -260651,7 +260651,7 @@ YADA::Worker                       0.049  pkg:cpan/AnyEvent-Net-Curl-Queued@0.04
 YAGL                                 0.1  pkg:cpan/YAGL@0.1
 YAHC                               0.035  pkg:cpan/YAHC@0.035
 YAMC                                 0.2  pkg:cpan/YAMC@0.2
-YAML                               1.320000  pkg:cpan/YAML@v1.320.0
+YAML                               1.321  pkg:cpan/YAML@1.321
 YAML::Accessor                     undef  pkg:cpan/YAML-Accessor@0.45
 YAML::Active                       1.100810  pkg:cpan/YAML-Active@1.100810
 YAML::Active::Concat               1.100810  pkg:cpan/YAML-Active@1.100810
@@ -260665,7 +260665,7 @@ YAML::Active::Shuffle              1.100810  pkg:cpan/YAML-Active@1.100810
 YAML::Active::ValueMutator         1.100810  pkg:cpan/YAML-Active@1.100810
 YAML::Active::lc                   1.100810  pkg:cpan/YAML-Active@1.100810
 YAML::Active::uc                   1.100810  pkg:cpan/YAML-Active@1.100810
-YAML::Any                          1.320000  pkg:cpan/YAML@v1.320.0
+YAML::Any                          1.321  pkg:cpan/YAML@1.321
 YAML::AppConfig                     0.19  pkg:cpan/YAML-AppConfig@0.19
 YAML::As::Parsed                    1.00  pkg:cpan/YAML-As-Parsed@1.00
 YAML::CacheLoader                  0.019  pkg:cpan/YAML-CacheLoader@0.019
@@ -260674,10 +260674,10 @@ YAML::DBH                           1.08  pkg:cpan/YAML-DBH@1.08
 YAML::Diff                         0.000002  pkg:cpan/YAML-Diff@0.0.2
 YAML::Diff::Command                undef  pkg:cpan/YAML-Diff@0.0.2
 YAML::Dump                          1.84  pkg:cpan/YAML-Dump@1.84
-YAML::Dumper                       undef  pkg:cpan/YAML@v1.320.0
-YAML::Dumper::Base                 undef  pkg:cpan/YAML@v1.320.0
+YAML::Dumper                       undef  pkg:cpan/YAML@1.321
+YAML::Dumper::Base                 undef  pkg:cpan/YAML@1.321
 YAML::Dumper::Syck                 undef  pkg:cpan/YAML-Syck@1.47
-YAML::Error                        undef  pkg:cpan/YAML@v1.320.0
+YAML::Error                        undef  pkg:cpan/YAML@1.321
 YAML::Full                         0.000001  pkg:cpan/YAML-Full@0.0.1
 YAML::Full::Base                   0.000001  pkg:cpan/YAML-Full@0.0.1
 YAML::Full::Composer               0.000001  pkg:cpan/YAML-Full@0.0.1
@@ -260697,15 +260697,15 @@ YAML::LoadBundle                   v0.4.3  pkg:cpan/YAML-LoadBundle@v0.4.3
 YAML::LoadBundle::YAMLDV           0.001  pkg:cpan/YAML-LoadBundle@0.001
 YAML::LoadFileCached                0.21  pkg:cpan/YAML-LoadFileCached@0.21
 YAML::LoadURI                       0.01  pkg:cpan/YAML-LoadURI@0.01
-YAML::Loader                       undef  pkg:cpan/YAML@v1.320.0
-YAML::Loader::Base                 undef  pkg:cpan/YAML@v1.320.0
+YAML::Loader                       undef  pkg:cpan/YAML@1.321
+YAML::Loader::Base                 undef  pkg:cpan/YAML@1.321
 YAML::Loader::Syck                 undef  pkg:cpan/YAML-Syck@1.47
 YAML::Logic                         0.07  pkg:cpan/YAML-Logic@0.07
 YAML::MLDBM                         0.10  pkg:cpan/YAML-MLDBM@0.10
 YAML::Manual                        0.10  pkg:cpan/YAML-Manual@0.10
-YAML::Marshall                     undef  pkg:cpan/YAML@v1.320.0
-YAML::Mo                           undef  pkg:cpan/YAML@v1.320.0
-YAML::Node                         undef  pkg:cpan/YAML@v1.320.0
+YAML::Marshall                     undef  pkg:cpan/YAML@1.321
+YAML::Mo                           undef  pkg:cpan/YAML@1.321
+YAML::Node                         undef  pkg:cpan/YAML@1.321
 YAML::Old                           1.23  pkg:cpan/YAML-Old@1.23
 YAML::Old::Dumper                  undef  pkg:cpan/YAML-Old@1.23
 YAML::Old::Dumper::Base            undef  pkg:cpan/YAML-Old@1.23
@@ -260841,7 +260841,7 @@ YAML::Safe                          0.84  pkg:cpan/YAML-Safe@0.84
 YAML::Shell                         0.71  pkg:cpan/YAML-Shell@0.71
 YAML::Syck                          1.47  pkg:cpan/YAML-Syck@1.47
 YAML::SyckWrapper                  0.001  pkg:cpan/YAML-SyckWrapper@0.001
-YAML::Tag                          undef  pkg:cpan/YAML@v1.320.0
+YAML::Tag                          undef  pkg:cpan/YAML@1.321
 YAML::Tests                         0.06  pkg:cpan/YAML-Tests@0.06
 YAML::Tests::Benchmark             undef  pkg:cpan/YAML-Tests@0.06
 YAML::Tidy                         v0.11.0  pkg:cpan/YAML-Tidy@v0.11.0
@@ -260856,14 +260856,14 @@ YAML::Tiny                          1.76  pkg:cpan/YAML-Tiny@1.76
 YAML::Tiny::Color                   0.04  pkg:cpan/YAML-Tiny-Color@0.04
 YAML::Tiny::LikeJSON               0.0011  pkg:cpan/YAML-Tiny-LikeJSON@0.0011
 YAML::Tiny::Stream                  0.01  pkg:cpan/YAML-Tiny-Stream@0.01
-YAML::Type::blessed                undef  pkg:cpan/YAML@v1.320.0
-YAML::Type::code                   undef  pkg:cpan/YAML@v1.320.0
-YAML::Type::glob                   undef  pkg:cpan/YAML@v1.320.0
-YAML::Type::ref                    undef  pkg:cpan/YAML@v1.320.0
-YAML::Type::regexp                 undef  pkg:cpan/YAML@v1.320.0
-YAML::Type::undef                  undef  pkg:cpan/YAML@v1.320.0
-YAML::Types                        undef  pkg:cpan/YAML@v1.320.0
-YAML::Warning                      undef  pkg:cpan/YAML@v1.320.0
+YAML::Type::blessed                undef  pkg:cpan/YAML@1.321
+YAML::Type::code                   undef  pkg:cpan/YAML@1.321
+YAML::Type::glob                   undef  pkg:cpan/YAML@1.321
+YAML::Type::ref                    undef  pkg:cpan/YAML@1.321
+YAML::Type::regexp                 undef  pkg:cpan/YAML@1.321
+YAML::Type::undef                  undef  pkg:cpan/YAML@1.321
+YAML::Types                        undef  pkg:cpan/YAML@1.321
+YAML::Warning                      undef  pkg:cpan/YAML@1.321
 YAML::XS                           v0.910.0  pkg:cpan/YAML-LibYAML@v0.910.0
 YAML::XS::LibYAML                  v0.910.0  pkg:cpan/YAML-LibYAML@v0.910.0
 YAML::YAML2ADoc                    0.001000  pkg:cpan/YAML-YAML2ADoc@0.1.0
@@ -266726,9 +266726,9 @@ yagg::Config                        0.01  pkg:cpan/yagg@1.4004
 yagg::Grammar                      undef  pkg:cpan/yagg@1.4004
 yagg::NonterminalParser            undef  pkg:cpan/yagg@1.4004
 yagg::TerminalParser               undef  pkg:cpan/yagg@1.4004
-yaml_mapping                       undef  pkg:cpan/YAML@v1.320.0
-yaml_scalar                        undef  pkg:cpan/YAML@v1.320.0
-yaml_sequence                      undef  pkg:cpan/YAML@v1.320.0
+yaml_mapping                       undef  pkg:cpan/YAML@1.321
+yaml_scalar                        undef  pkg:cpan/YAML@1.321
+yaml_sequence                      undef  pkg:cpan/YAML@1.321
 yesssSMS                            2.21  pkg:cpan/yesssSMS@2.21
 ylib                               0.003  pkg:cpan/ylib@0.003
 your                                1.00  pkg:cpan/your@1.00
