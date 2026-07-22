@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 22 Jul 2026 17:09:15 GMT
+Last-Updated: Wed, 22 Jul 2026 19:01:59 GMT
 Line-Count: 266709
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -4932,7 +4932,7 @@ Alien::libuv                       1.014  pkg:cpan/Alien-libuv@1.014
 Alien::libvas                      0.216  pkg:cpan/Alien-libvas@0.216
 Alien::libversion                   1.00  pkg:cpan/Alien-libversion@1.00
 Alien::libvterm                     0.03  pkg:cpan/Alien-libvterm@0.03
-Alien::libwebsockets                0.03  pkg:cpan/Alien-libwebsockets@0.03
+Alien::libwebsockets                0.04  pkg:cpan/Alien-libwebsockets@0.04
 Alien::libzookeeper                 0.04  pkg:cpan/Alien-libzookeeper@0.04
 Alien::m4                           0.21  pkg:cpan/Alien-m4@0.21
 Alien::mpg123                      0.003  pkg:cpan/Alien-mpg123@0.003
@@ -69805,7 +69805,7 @@ EV::Stat                           undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Timer                          undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Watcher                        undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Watcher::Bind                  0.00001  pkg:cpan/EV-Watcher-Bind@0.00001
-EV::Websockets                      0.09  pkg:cpan/EV-Websockets@0.09
+EV::Websockets                      0.10  pkg:cpan/EV-Websockets@0.10
 EV::Websockets::Connection          0.05  pkg:cpan/EV-Websockets@0.05
 EV::Websockets::Context             0.05  pkg:cpan/EV-Websockets@0.05
 EV::cares                           0.03  pkg:cpan/EV-cares@0.03
@@ -205066,7 +205066,7 @@ RT::Extension::Log::MemoryUsage     0.02  pkg:cpan/RT-Extension-Log-MemoryUsage@
 RT::Extension::Log::MemoryUsage::MPL  0.02  pkg:cpan/RT-Extension-Log-MemoryUsage@0.02
 RT::Extension::ManageAutoCreatedUsers  0.12  pkg:cpan/RT-Extension-ManageAutoCreatedUsers@0.12
 RT::Extension::MandatoryFields       0.6  pkg:cpan/RT-Extension-MandatoryFields@0.6
-RT::Extension::MandatoryOnTransition  1.02  pkg:cpan/RT-Extension-MandatoryOnTransition@1.02
+RT::Extension::MandatoryOnTransition  1.03  pkg:cpan/RT-Extension-MandatoryOnTransition@1.03
 RT::Extension::MandatoryOnTransition::Test undef  pkg:cpan/RT-Extension-MandatoryOnTransition@0.04
 RT::Extension::MandatoryRequestor   0.02  pkg:cpan/RT-Extension-MandatoryRequestor@0.02
 RT::Extension::MandatorySubject     0.06  pkg:cpan/RT-Extension-MandatorySubject@0.06
