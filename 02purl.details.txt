@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 23 Jul 2026 13:39:58 GMT
+Last-Updated: Thu, 23 Jul 2026 15:49:33 GMT
 Line-Count: 266728
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -21632,11 +21632,11 @@ BACnet::ServiceRequestSequences::SubscribeCOV undef  pkg:cpan/BACnet@0.08
 BACnet::ServiceRequestSequences::Utils undef  pkg:cpan/BACnet@0.08
 BACnet::Socket                     undef  pkg:cpan/BACnet@0.08
 BACnet::Subscription               undef  pkg:cpan/BACnet@0.08
-BATsh                               0.07  pkg:cpan/BATsh@0.07
-BATsh::CMD                          0.07  pkg:cpan/BATsh@0.07
-BATsh::Env                          0.07  pkg:cpan/BATsh@0.07
-BATsh::MB                           0.07  pkg:cpan/BATsh@0.07
-BATsh::SH                           0.07  pkg:cpan/BATsh@0.07
+BATsh                               0.08  pkg:cpan/BATsh@0.08
+BATsh::CMD                          0.08  pkg:cpan/BATsh@0.08
+BATsh::Env                          0.08  pkg:cpan/BATsh@0.08
+BATsh::MB                           0.08  pkg:cpan/BATsh@0.08
+BATsh::SH                           0.08  pkg:cpan/BATsh@0.08
 BBBB                               undef  pkg:cpan/Data-Table-Text@20210818
 BBCode::Body                        0.34  pkg:cpan/BBCode-Parser@0.34
 BBCode::Parser                      0.34  pkg:cpan/BBCode-Parser@0.34
@@ -120434,7 +120434,7 @@ LWP::Protocol::http::connect::Socket  6.09  pkg:cpan/LWP-Protocol-connect@6.09
 LWP::Protocol::http::hosts         undef  pkg:cpan/LWP-UserAgent-DNS-Hosts@0.14
 LWP::Protocol::http::socks           1.7  pkg:cpan/LWP-Protocol-socks@1.7
 LWP::Protocol::http::socks::Socket   1.7  pkg:cpan/LWP-Protocol-socks@1.7
-LWP::Protocol::https                6.16  pkg:cpan/LWP-Protocol-https@6.16
+LWP::Protocol::https                6.17  pkg:cpan/LWP-Protocol-https@6.17
 LWP::Protocol::https::Socket        6.15  pkg:cpan/LWP-Protocol-https@6.15
 LWP::Protocol::https::SocksChain     1.8  pkg:cpan/LWP-Protocol-https-SocksChain@1.8
 LWP::Protocol::https::SocksChain10   1.7  pkg:cpan/LWP-Protocol-https-SocksChain10@1.7
@@ -122002,7 +122002,7 @@ Launcher::Cascade::Printable       undef  pkg:cpan/Launcher-Cascade@0.02
 Launcher::Cascade::Simple          undef  pkg:cpan/Launcher-Cascade@0.02
 Lavoco::Web::App                    0.06  pkg:cpan/Lavoco-Web-App@0.06
 Lavoco::Web::Editor                 0.07  pkg:cpan/Lavoco-Web-Editor@0.07
-Layout::Flex                        0.03  pkg:cpan/Layout-Flex@0.03
+Layout::Flex                        0.04  pkg:cpan/Layout-Flex@0.04
 Layout::Manager                     0.35  pkg:cpan/Layout-Manager@0.35
 Layout::Manager::Absolute          undef  pkg:cpan/Layout-Manager@0.35
 Layout::Manager::Axis              undef  pkg:cpan/Layout-Manager@0.35
