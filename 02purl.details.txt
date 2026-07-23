@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 23 Jul 2026 06:24:40 GMT
+Last-Updated: Thu, 23 Jul 2026 10:13:22 GMT
 Line-Count: 266725
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -30527,7 +30527,7 @@ Business::IS::PIN                   0.06  pkg:cpan/Business-IS-PIN@0.06
 Business::ISBN                     3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN10                   3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN13                   3.014  pkg:cpan/Business-ISBN@3.014
-Business::ISBN::Data               20260721.001  pkg:cpan/Business-ISBN-Data@20260721.001
+Business::ISBN::Data               20260723.001  pkg:cpan/Business-ISBN-Data@20260723.001
 Business::ISIN                      0.20  pkg:cpan/Business-ISIN@0.20?ext=tgz
 Business::ISMN                     1.205  pkg:cpan/Business-ISMN@1.205
 Business::ISMN::Data               1.205  pkg:cpan/Business-ISMN@1.205
@@ -69792,14 +69792,14 @@ EV::Kafka::Conn                     0.04  pkg:cpan/EV-Kafka@0.04
 EV::Loop                           undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Loop::Async                     1.01  pkg:cpan/EV-Loop-Async@1.01
 EV::MakeMaker                      undef  pkg:cpan/EV@4.37
-EV::MariaDB                         0.07  pkg:cpan/EV-MariaDB@0.07
+EV::MariaDB                         0.08  pkg:cpan/EV-MariaDB@0.08
 EV::Memcached                       0.05  pkg:cpan/EV-Memcached@0.05
 EV::Nats                            0.04  pkg:cpan/EV-Nats@0.04
 EV::Nats::JetStream                undef  pkg:cpan/EV-Nats@0.04
 EV::Nats::KV                       undef  pkg:cpan/EV-Nats@0.04
 EV::Nats::ObjectStore              undef  pkg:cpan/EV-Nats@0.04
 EV::Periodic                       undef  pkg:cpan/App-SimpleBackuper@0.2.22
-EV::Pg                              0.07  pkg:cpan/EV-Pg@0.07
+EV::Pg                              0.08  pkg:cpan/EV-Pg@0.08
 EV::Prepare                        undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Redis                           0.13  pkg:cpan/EV-Redis@0.13
 EV::Signal                         undef  pkg:cpan/App-SimpleBackuper@0.2.22
