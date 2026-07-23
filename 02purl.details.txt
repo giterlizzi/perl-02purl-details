@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 23 Jul 2026 10:13:22 GMT
-Line-Count: 266725
+Last-Updated: Thu, 23 Jul 2026 13:39:58 GMT
+Line-Count: 266728
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -30566,45 +30566,45 @@ Business::Monzo::Transaction       undef  pkg:cpan/Business-Monzo@0.13
 Business::Monzo::Utils             undef  pkg:cpan/Business-Monzo@0.13
 Business::Monzo::Version           undef  pkg:cpan/Business-Monzo@0.13
 Business::Monzo::Webhook           undef  pkg:cpan/Business-Monzo@0.13
-Business::NAB                       0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::AccountInformation::Account  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::AccountInformation::File  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::AccountInformation::Group  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::AccountInformation::Transaction  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::Acknowledgement      0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::Acknowledgement::Issue  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::Australian::DirectEntry::Payments  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::Australian::DirectEntry::Payments::DescriptiveRecord  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::Australian::DirectEntry::Payments::DetailRecord  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::Australian::DirectEntry::Payments::TotalRecord  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::Australian::DirectEntry::Report  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::Australian::DirectEntry::Report::DisclaimerRecord  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::Australian::DirectEntry::Report::FailedRecord  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::Australian::DirectEntry::Report::FailedSummary  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::Australian::DirectEntry::Report::HeaderRecord  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::Australian::DirectEntry::Report::PaymentRecord  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::Australian::DirectEntry::Report::TrailerRecord  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::Australian::DirectEntry::Report::ValueSummary  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::Australian::DirectEntry::Returns  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::Australian::DirectEntry::Returns::DescriptiveRecord  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::Australian::DirectEntry::Returns::DetailRecord  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::Australian::DirectEntry::Returns::TotalRecord  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::BPAY::Payments       0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::BPAY::Payments::DetailRecord  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::BPAY::Payments::HeaderRecord  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::BPAY::Payments::Results  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::BPAY::Payments::Results::DetailRecord  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::BPAY::Payments::Results::HeaderRecord  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::BPAY::Payments::Results::TrailerRecord  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::BPAY::Payments::TrailerRecord  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::BPAY::Remittance::File  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::BPAY::Remittance::File::DetailRecord  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::BPAY::Remittance::File::HeaderRecord  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::BPAY::Remittance::File::TrailerRecord  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::CSV                  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::FileContainer        0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::Role::AttributeContainer  0.06  pkg:cpan/Business-NAB@0.06
-Business::NAB::Types                0.06  pkg:cpan/Business-NAB@0.06
+Business::NAB                       0.06  pkg:cpan/Business-NAB@0.07
+Business::NAB::AccountInformation::Account  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::AccountInformation::File  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::AccountInformation::Group  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::AccountInformation::Transaction  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::Acknowledgement      0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::Acknowledgement::Issue  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::Australian::DirectEntry::Payments  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::Australian::DirectEntry::Payments::DescriptiveRecord  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::Australian::DirectEntry::Payments::DetailRecord  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::Australian::DirectEntry::Payments::TotalRecord  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::Australian::DirectEntry::Report  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::Australian::DirectEntry::Report::DisclaimerRecord  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::Australian::DirectEntry::Report::FailedRecord  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::Australian::DirectEntry::Report::FailedSummary  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::Australian::DirectEntry::Report::HeaderRecord  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::Australian::DirectEntry::Report::PaymentRecord  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::Australian::DirectEntry::Report::TrailerRecord  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::Australian::DirectEntry::Report::ValueSummary  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::Australian::DirectEntry::Returns  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::Australian::DirectEntry::Returns::DescriptiveRecord  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::Australian::DirectEntry::Returns::DetailRecord  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::Australian::DirectEntry::Returns::TotalRecord  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::BPAY::Payments       0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::BPAY::Payments::DetailRecord  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::BPAY::Payments::HeaderRecord  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::BPAY::Payments::Results  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::BPAY::Payments::Results::DetailRecord  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::BPAY::Payments::Results::HeaderRecord  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::BPAY::Payments::Results::TrailerRecord  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::BPAY::Payments::TrailerRecord  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::BPAY::Remittance::File  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::BPAY::Remittance::File::DetailRecord  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::BPAY::Remittance::File::HeaderRecord  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::BPAY::Remittance::File::TrailerRecord  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::CSV                  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::FileContainer        0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::Role::AttributeContainer  0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB::Types                0.07  pkg:cpan/Business-NAB@0.07
 Business::NETeller::Direct          1.00  pkg:cpan/Business-NETeller-Direct@1.00
 Business::NoChex                    0.02  pkg:cpan/Business-NoChex@0.02
 Business::OnlinePayment             3.05  pkg:cpan/Business-OnlinePayment@3.05
@@ -50516,13 +50516,13 @@ Cucumber::Messages::TestStepResult v34.2.0  pkg:cpan/Cucumber-Messages@34.2.0
 Cucumber::Messages::TestStepStarted v34.2.0  pkg:cpan/Cucumber-Messages@34.2.0
 Cucumber::Messages::Timestamp      v34.2.0  pkg:cpan/Cucumber-Messages@34.2.0
 Cucumber::Messages::UndefinedParameterType v34.2.0  pkg:cpan/Cucumber-Messages@34.2.0
-Cucumber::TagExpressions           v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
-Cucumber::TagExpressions::AndNode  v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
-Cucumber::TagExpressions::ExpressionNode v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
-Cucumber::TagExpressions::LiteralNode v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
-Cucumber::TagExpressions::Node     v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
-Cucumber::TagExpressions::NotNode  v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
-Cucumber::TagExpressions::OrNode   v10.0.0  pkg:cpan/Cucumber-TagExpressions@10.0.0
+Cucumber::TagExpressions           v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
+Cucumber::TagExpressions::AndNode  v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
+Cucumber::TagExpressions::ExpressionNode v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
+Cucumber::TagExpressions::LiteralNode v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
+Cucumber::TagExpressions::Node     v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
+Cucumber::TagExpressions::NotNode  v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
+Cucumber::TagExpressions::OrNode   v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
 Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.129
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
@@ -57597,7 +57597,7 @@ Data::Bind::Sig                     0.30  pkg:cpan/Data-Bind@0.30
 Data::Bind::SigCollection           0.30  pkg:cpan/Data-Bind@0.30
 Data::Binder                           1  pkg:cpan/Data-Binder@1
 Data::BitMask                       1.00  pkg:cpan/Data-BitMask@1.00
-Data::BitSet::Shared                0.04  pkg:cpan/Data-BitSet-Shared@0.04
+Data::BitSet::Shared                0.05  pkg:cpan/Data-BitSet-Shared@0.05
 Data::BitStream                     0.08  pkg:cpan/Data-BitStream@0.08
 Data::BitStream::BLVec              0.08  pkg:cpan/Data-BitStream@0.08
 Data::BitStream::Base               0.08  pkg:cpan/Data-BitStream@0.08
@@ -57958,7 +57958,7 @@ Data::Crumbr::Default::JSON        0.001002  pkg:cpan/Data-Crumbr@0.1.2
 Data::Crumbr::Default::URI         0.001002  pkg:cpan/Data-Crumbr@0.1.2
 Data::Crumbr::Util                 0.001002  pkg:cpan/Data-Crumbr@0.1.2
 Data::Cube                          0.02  pkg:cpan/Data-Cube@0.02
-Data::CuckooFilter::Shared          0.02  pkg:cpan/Data-CuckooFilter-Shared@0.02
+Data::CuckooFilter::Shared          0.03  pkg:cpan/Data-CuckooFilter-Shared@0.03
 Data::Cuid                          0.07  pkg:cpan/Data-Cuid@0.07
 Data::Currency                     0.06000  pkg:cpan/Data-Currency@0.06000
 Data::DEC                           0.03  pkg:cpan/Data-DEC@0.03
@@ -58269,6 +58269,7 @@ Data::Feed::Web::Content           undef  pkg:cpan/Data-Feed@0.00015
 Data::Feed::Web::Enclosure         undef  pkg:cpan/Data-Feed@0.00015
 Data::Feed::Web::Entry             undef  pkg:cpan/Data-Feed@0.00015
 Data::Feed::Web::Feed              undef  pkg:cpan/Data-Feed@0.00015
+Data::Fenwick2D::Shared             0.01  pkg:cpan/Data-Fenwick2D-Shared@0.01
 Data::Fetch                         0.07  pkg:cpan/Data-Fetch@0.07
 Data::FetchPath                     0.02  pkg:cpan/Data-FetchPath@0.02
 Data::File::Map                     0.09  pkg:cpan/Data-File-Map@0.09
@@ -58990,6 +58991,7 @@ Data::Inspect                       0.05  pkg:cpan/Data-Inspect@0.05
 Data::Integer                      0.007  pkg:cpan/Data-Integer@0.007
 Data::Interactive::Inspect          0.07  pkg:cpan/Data-Interactive-Inspect@0.07
 Data::Intern::Shared                0.02  pkg:cpan/Data-Intern-Shared@0.02
+Data::IntervalTree::Shared          0.01  pkg:cpan/Data-IntervalTree-Shared@0.01
 Data::Iter                           0.2  pkg:cpan/Data-Iter@0.2
 Data::Iterator                     0.021  pkg:cpan/Data-Iterator@0.021?ext=zip
 Data::Iterator::EasyObj             0.01  pkg:cpan/Data-Iterator-EasyObj@0.01
@@ -59172,6 +59174,7 @@ Data::Microformat::hCard::organization  0.04  pkg:cpan/Data-Microformat@0.04
 Data::Microformat::hCard::type      0.04  pkg:cpan/Data-Microformat@0.04
 Data::Microformat::hFeed           undef  pkg:cpan/Data-Microformat@0.04
 Data::Microformat::hFeed::hEntry   undef  pkg:cpan/Data-Microformat@0.04
+Data::MinHash::Shared               0.02  pkg:cpan/Data-MinHash-Shared@0.02
 Data::MiniDumpX                    0.000001  pkg:cpan/Data-MiniDumpX@0.000001
 Data::Mining::Apriori               0.18  pkg:cpan/Data-Mining-Apriori@0.18
 Data::Mining::AssociationRules       0.1  pkg:cpan/Data-Mining-AssociationRules@0.10
@@ -60323,11 +60326,11 @@ Data::Properties                    1.07  pkg:cpan/Data-Properties@1.07
 Data::Properties::JSON             0.004  pkg:cpan/Data-Properties-JSON@0.004
 Data::Properties::YAML              0.04  pkg:cpan/Data-Properties-YAML@0.04
 Data::PropertyList                 1998.1217  pkg:cpan/Data-PropertyList@1998.1217
-Data::PubSub::Shared                0.07  pkg:cpan/Data-PubSub-Shared@0.07
-Data::PubSub::Shared::Int          undef  pkg:cpan/Data-PubSub-Shared@0.07
-Data::PubSub::Shared::Int16        undef  pkg:cpan/Data-PubSub-Shared@0.07
-Data::PubSub::Shared::Int32        undef  pkg:cpan/Data-PubSub-Shared@0.07
-Data::PubSub::Shared::Str          undef  pkg:cpan/Data-PubSub-Shared@0.07
+Data::PubSub::Shared                0.08  pkg:cpan/Data-PubSub-Shared@0.08
+Data::PubSub::Shared::Int           0.08  pkg:cpan/Data-PubSub-Shared@0.08
+Data::PubSub::Shared::Int16         0.08  pkg:cpan/Data-PubSub-Shared@0.08
+Data::PubSub::Shared::Int32         0.08  pkg:cpan/Data-PubSub-Shared@0.08
+Data::PubSub::Shared::Str           0.08  pkg:cpan/Data-PubSub-Shared@0.08
 Data::Pulp                          0.01  pkg:cpan/Data-Pulp@0.01
 Data::Pulp::Carp                   undef  pkg:cpan/Data-Pulp@0.01
 Data::Pulp::Pulper                 undef  pkg:cpan/Data-Pulp@0.01
@@ -61340,8 +61343,8 @@ Data::Sofu::Reference                0.3  pkg:cpan/Sofu@0.3
 Data::Sofu::SofuML                   0.3  pkg:cpan/Sofu@0.3
 Data::Sofu::Undefined                0.3  pkg:cpan/Sofu@0.3
 Data::Sofu::Value                    0.3  pkg:cpan/Sofu@0.3
-Data::SortedSet::Shared             0.03  pkg:cpan/Data-SortedSet-Shared@0.03
-Data::SortedSet::Shared::Strings    0.03  pkg:cpan/Data-SortedSet-Shared@0.03
+Data::SortedSet::Shared             0.04  pkg:cpan/Data-SortedSet-Shared@0.04
+Data::SortedSet::Shared::Strings    0.04  pkg:cpan/Data-SortedSet-Shared@0.04
 Data::Sorting                        0.9  pkg:cpan/Data-Sorting@0.9
 Data::SpatialHash::Shared           0.02  pkg:cpan/Data-SpatialHash-Shared@0.02
 Data::SplitSerializer               0.91  pkg:cpan/Data-SplitSerializer@0.91
@@ -75184,7 +75187,7 @@ File::TypeCategories                0.08  pkg:cpan/File-TypeCategories@0.08
 File::URIList                      v0.4.0  pkg:cpan/File-URIList@v0.04
 File::UStore                        0.16  pkg:cpan/File-UStore@0.16
 File::Unpack                        0.70  pkg:cpan/File-Unpack@0.70
-File::Unpack2                        1.5  pkg:cpan/File-Unpack2@1.5
+File::Unpack2                        2.0  pkg:cpan/File-Unpack2@2.0
 File::Unsaved                      0.070  pkg:cpan/File-Unsaved@0.070
 File::Update                       v0.2.1  pkg:cpan/File-Update@0.2.1
 File::UserConfig                    0.06  pkg:cpan/File-UserConfig@0.06
@@ -152661,7 +152664,7 @@ Net::SNMP::Mixin::System            0.14  pkg:cpan/Net-SNMP-Mixin@0.14
 Net::SNMP::Mixin::Util              0.14  pkg:cpan/Net-SNMP-Mixin@0.14
 Net::SNMP::PDU                     v3.0.1  pkg:cpan/Net-SNMP@v6.0.1
 Net::SNMP::Poller                   0.05  pkg:cpan/Net-SNMP-Poller@0.05
-Net::SNMP::QueryEngine::AnyEvent    0.06  pkg:cpan/Net-SNMP-QueryEngine-AnyEvent@0.06
+Net::SNMP::QueryEngine::AnyEvent   1.001000  pkg:cpan/Net-SNMP-QueryEngine-AnyEvent@v1.1.0
 Net::SNMP::Security                v2.0.0  pkg:cpan/Net-SNMP@v6.0.1
 Net::SNMP::Security::Community     v2.0.0  pkg:cpan/Net-SNMP@v6.0.1
 Net::SNMP::Security::USM           v4.0.1  pkg:cpan/Net-SNMP@v6.0.1
