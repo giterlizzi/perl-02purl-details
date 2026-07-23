@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 22 Jul 2026 22:55:18 GMT
+Last-Updated: Thu, 23 Jul 2026 02:06:45 GMT
 Line-Count: 266725
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -16169,7 +16169,7 @@ App::makebeamerinfo::GUI               0  pkg:cpan/App-makebeamerinfo@2.002
 App::makebeamerinfo::Transitions       0  pkg:cpan/App-makebeamerinfo@2.002
 App::makedist                      undef  pkg:cpan/App-makedist@0.026
 App::makedpkg                       0.05  pkg:cpan/App-makedpkg@0.05
-App::makefilepl2cpanfile            0.02  pkg:cpan/App-makefilepl2cpanfile@0.02
+App::makefilepl2cpanfile            0.03  pkg:cpan/App-makefilepl2cpanfile@0.03
 App::manwrap::pm                   0.006  pkg:cpan/App-manwrap-pm@0.006
 App::matrixpack                    0.0014  pkg:cpan/App-matrixpack@0.0014
 App::mbxilinx                       0.13  pkg:cpan/Module-Build-Xilinx@0.13
@@ -33589,7 +33589,7 @@ CPAN::Patches                       0.05  pkg:cpan/CPAN-Patches@0.05
 CPAN::Patches::Plugin::Debian       0.03  pkg:cpan/CPAN-Patches-Plugin-Debian@0.03
 CPAN::Patches::Plugin::Debian::SPc  0.03  pkg:cpan/CPAN-Patches-Plugin-Debian@0.03
 CPAN::Patches::SPc                  0.04  pkg:cpan/CPAN-Patches@0.05
-CPAN::Perl::Releases               5.20260720  pkg:cpan/CPAN-Perl-Releases@5.20260720
+CPAN::Perl::Releases               5.20260723  pkg:cpan/CPAN-Perl-Releases@5.20260723
 CPAN::Perl::Releases::MetaCPAN     v1.0.1  pkg:cpan/CPAN-Perl-Releases-MetaCPAN@v1.0.1
 CPAN::Plugin                        0.97  pkg:cpan/CPAN@2.38
 CPAN::Plugin::Specfile              0.02  pkg:cpan/CPAN@2.38
@@ -69793,7 +69793,7 @@ EV::Loop                           undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Loop::Async                     1.01  pkg:cpan/EV-Loop-Async@1.01
 EV::MakeMaker                      undef  pkg:cpan/EV@4.37
 EV::MariaDB                         0.07  pkg:cpan/EV-MariaDB@0.07
-EV::Memcached                       0.04  pkg:cpan/EV-Memcached@0.04
+EV::Memcached                       0.05  pkg:cpan/EV-Memcached@0.05
 EV::Nats                            0.04  pkg:cpan/EV-Nats@0.04
 EV::Nats::JetStream                undef  pkg:cpan/EV-Nats@0.04
 EV::Nats::KV                       undef  pkg:cpan/EV-Nats@0.04
@@ -69810,7 +69810,7 @@ EV::Watcher::Bind                  0.00001  pkg:cpan/EV-Watcher-Bind@0.00001
 EV::Websockets                      0.10  pkg:cpan/EV-Websockets@0.10
 EV::Websockets::Connection          0.05  pkg:cpan/EV-Websockets@0.05
 EV::Websockets::Context             0.05  pkg:cpan/EV-Websockets@0.05
-EV::cares                           0.03  pkg:cpan/EV-cares@0.03
+EV::cares                           0.04  pkg:cpan/EV-cares@0.04
 EVDB::API                           0.99  pkg:cpan/EVDB-API@0.99
 EVDB::API::JSON                    undef  pkg:cpan/EVDB-API@0.99
 EVDB::API::REST                    undef  pkg:cpan/EVDB-API@0.99
@@ -163978,7 +163978,7 @@ Params::Validate::Dependencies::all_or_none_of  1.02  pkg:cpan/Params-Validate-D
 Params::Validate::Dummy             0.03  pkg:cpan/Module-Optional@0.03
 Params::Validate::Micro            0.032  pkg:cpan/Params-Validate-Micro@0.032
 Params::Validate::PP                1.31  pkg:cpan/Params-Validate@1.31
-Params::Validate::Strict            0.35  pkg:cpan/Params-Validate-Strict@0.35
+Params::Validate::Strict            0.36  pkg:cpan/Params-Validate-Strict@0.36
 Params::Validate::XS                1.31  pkg:cpan/Params-Validate@1.31
 Params::ValidationCompiler          0.31  pkg:cpan/Params-ValidationCompiler@0.31
 Params::ValidationCompiler::Compiler  0.31  pkg:cpan/Params-ValidationCompiler@0.31
