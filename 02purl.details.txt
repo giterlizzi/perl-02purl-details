@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 23 Jul 2026 02:06:45 GMT
+Last-Updated: Thu, 23 Jul 2026 06:24:40 GMT
 Line-Count: 266725
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -35132,7 +35132,7 @@ Captcha::noCAPTCHA                  0.16  pkg:cpan/Captcha-noCAPTCHA@0.16
 Captcha::reCAPTCHA                  0.99  pkg:cpan/Captcha-reCaptcha@0.99
 Captcha::reCAPTCHA::Mailhide        0.94  pkg:cpan/Captcha-reCAPTCHA-Mailhide@0.94
 Captcha::reCAPTCHA::V2               0.3  pkg:cpan/Captcha-reCAPTCHA-V2@0.3
-Captcha::reCAPTCHA::V3              0.12  pkg:cpan/Captcha-reCAPTCHA-V3@0.12
+Captcha::reCAPTCHA::V3              0.14  pkg:cpan/Captcha-reCAPTCHA-V3@0.14
 Captive::Portal                     4.10  pkg:cpan/Captive-Portal@4.10
 Captive::Portal::LockHandle         4.10  pkg:cpan/Captive-Portal@4.10
 Captive::Portal::Role::AuthenSimple  4.10  pkg:cpan/Captive-Portal@4.10
@@ -76603,7 +76603,7 @@ Font::FreeType::NamedInfo          undef  pkg:cpan/Font-FreeType@0.18
 Font::Fret                         1.202  pkg:cpan/Font-TTF-Scripts@1.06
 Font::Fret::Default                1.202  pkg:cpan/Font-TTF-Scripts@1.06
 Font::GlyphNames                   1.00000  pkg:cpan/Font-GlyphNames@1.00000
-Font::Metrics                       0.01  pkg:cpan/Font-Metrics@0.01
+Font::Metrics                       0.02  pkg:cpan/Font-Metrics@0.02
 Font::Metrics::Courier             undef  pkg:cpan/Font-AFM@1.20
 Font::Metrics::CourierBold         undef  pkg:cpan/Font-AFM@1.20
 Font::Metrics::CourierBoldOblique  undef  pkg:cpan/Font-AFM@1.20
@@ -120431,7 +120431,7 @@ LWP::Protocol::http::connect::Socket  6.09  pkg:cpan/LWP-Protocol-connect@6.09
 LWP::Protocol::http::hosts         undef  pkg:cpan/LWP-UserAgent-DNS-Hosts@0.14
 LWP::Protocol::http::socks           1.7  pkg:cpan/LWP-Protocol-socks@1.7
 LWP::Protocol::http::socks::Socket   1.7  pkg:cpan/LWP-Protocol-socks@1.7
-LWP::Protocol::https                6.15  pkg:cpan/LWP-Protocol-https@6.15
+LWP::Protocol::https                6.16  pkg:cpan/LWP-Protocol-https@6.16
 LWP::Protocol::https::Socket        6.15  pkg:cpan/LWP-Protocol-https@6.15
 LWP::Protocol::https::SocksChain     1.8  pkg:cpan/LWP-Protocol-https-SocksChain@1.8
 LWP::Protocol::https::SocksChain10   1.7  pkg:cpan/LWP-Protocol-https-SocksChain10@1.7
@@ -121999,7 +121999,7 @@ Launcher::Cascade::Printable       undef  pkg:cpan/Launcher-Cascade@0.02
 Launcher::Cascade::Simple          undef  pkg:cpan/Launcher-Cascade@0.02
 Lavoco::Web::App                    0.06  pkg:cpan/Lavoco-Web-App@0.06
 Lavoco::Web::Editor                 0.07  pkg:cpan/Lavoco-Web-Editor@0.07
-Layout::Flex                        0.02  pkg:cpan/Layout-Flex@0.02
+Layout::Flex                        0.03  pkg:cpan/Layout-Flex@0.03
 Layout::Manager                     0.35  pkg:cpan/Layout-Manager@0.35
 Layout::Manager::Absolute          undef  pkg:cpan/Layout-Manager@0.35
 Layout::Manager::Axis              undef  pkg:cpan/Layout-Manager@0.35
@@ -210497,38 +210497,38 @@ SPVM::Format                       undef  pkg:cpan/SPVM@0.990191
 SPVM::Getopt::Long                 0.004  pkg:cpan/SPVM-Getopt-Long@0.004
 SPVM::Getopt::Long::Spec           undef  pkg:cpan/SPVM-Getopt-Long@0.004
 SPVM::Global                       undef  pkg:cpan/SPVM@0.990191
-SPVM::Go                           0.035  pkg:cpan/SPVM-Go@0.035
-SPVM::Go::Channel                  undef  pkg:cpan/SPVM-Go@0.035
-SPVM::Go::Channel::Wait            undef  pkg:cpan/SPVM-Go@0.035
-SPVM::Go::Context                  undef  pkg:cpan/SPVM-Go@0.035
-SPVM::Go::Context::CanncelCallback undef  pkg:cpan/SPVM-Go@0.035
-SPVM::Go::Context::Derived         undef  pkg:cpan/SPVM-Go@0.035
-SPVM::Go::Context::Error::Canceled undef  pkg:cpan/SPVM-Go@0.035
-SPVM::Go::Context::Error::DeadlineExceeded undef  pkg:cpan/SPVM-Go@0.035
-SPVM::Go::Context::Value           undef  pkg:cpan/SPVM-Go@0.035
+SPVM::Go                           0.036  pkg:cpan/SPVM-Go@0.036
+SPVM::Go::Channel                  undef  pkg:cpan/SPVM-Go@0.036
+SPVM::Go::Channel::Wait            undef  pkg:cpan/SPVM-Go@0.036
+SPVM::Go::Context                  undef  pkg:cpan/SPVM-Go@0.036
+SPVM::Go::Context::CanncelCallback undef  pkg:cpan/SPVM-Go@0.036
+SPVM::Go::Context::Derived         undef  pkg:cpan/SPVM-Go@0.036
+SPVM::Go::Context::Error::Canceled undef  pkg:cpan/SPVM-Go@0.036
+SPVM::Go::Context::Error::DeadlineExceeded undef  pkg:cpan/SPVM-Go@0.036
+SPVM::Go::Context::Value           undef  pkg:cpan/SPVM-Go@0.036
 SPVM::Go::Coroutine                undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Duration_1l              undef  pkg:cpan/SPVM-Go@0.035
-SPVM::Go::Error::IOTimeout         undef  pkg:cpan/SPVM-Go@0.035
-SPVM::Go::Goroutine                undef  pkg:cpan/SPVM-Go@0.035
-SPVM::Go::OS::Signal               undef  pkg:cpan/SPVM-Go@0.035
+SPVM::Go::Duration_1l              undef  pkg:cpan/SPVM-Go@0.036
+SPVM::Go::Error::IOTimeout         undef  pkg:cpan/SPVM-Go@0.036
+SPVM::Go::Goroutine                undef  pkg:cpan/SPVM-Go@0.036
+SPVM::Go::OS::Signal               undef  pkg:cpan/SPVM-Go@0.036
 SPVM::Go::Poll                     undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Schedule                 undef  pkg:cpan/SPVM-Go@0.035
+SPVM::Go::Schedule                 undef  pkg:cpan/SPVM-Go@0.036
 SPVM::Go::Schedule::Task           undef  pkg:cpan/SPVM-Go@0.031
-SPVM::Go::Select                   undef  pkg:cpan/SPVM-Go@0.035
-SPVM::Go::Select::Case             undef  pkg:cpan/SPVM-Go@0.035
-SPVM::Go::Select::Result           undef  pkg:cpan/SPVM-Go@0.035
-SPVM::Go::Sync::WaitGroup          undef  pkg:cpan/SPVM-Go@0.035
-SPVM::Go::Time                     undef  pkg:cpan/SPVM-Go@0.035
-SPVM::Go::UV                       undef  pkg:cpan/SPVM-Go@0.035
-SPVM::Go::UV::Callback::Handle     undef  pkg:cpan/SPVM-Go@0.035
-SPVM::Go::UV::Callback::LoopAlive  undef  pkg:cpan/SPVM-Go@0.035
-SPVM::Go::UV::ConfigBuilder        undef  pkg:cpan/SPVM-Go@0.035
-SPVM::Go::UV::Event                undef  pkg:cpan/SPVM-Go@0.035
-SPVM::Go::UV::Handle::Async        undef  pkg:cpan/SPVM-Go@0.035
-SPVM::Go::UV::Handle::Idle         undef  pkg:cpan/SPVM-Go@0.035
-SPVM::Go::UV::Handle::Poll         undef  pkg:cpan/SPVM-Go@0.035
-SPVM::Go::UV::Handle::Timer        undef  pkg:cpan/SPVM-Go@0.035
-SPVM::Go::UV::Loop                 undef  pkg:cpan/SPVM-Go@0.035
+SPVM::Go::Select                   undef  pkg:cpan/SPVM-Go@0.036
+SPVM::Go::Select::Case             undef  pkg:cpan/SPVM-Go@0.036
+SPVM::Go::Select::Result           undef  pkg:cpan/SPVM-Go@0.036
+SPVM::Go::Sync::WaitGroup          undef  pkg:cpan/SPVM-Go@0.036
+SPVM::Go::Time                     undef  pkg:cpan/SPVM-Go@0.036
+SPVM::Go::UV                       undef  pkg:cpan/SPVM-Go@0.036
+SPVM::Go::UV::Callback::Handle     undef  pkg:cpan/SPVM-Go@0.036
+SPVM::Go::UV::Callback::LoopAlive  undef  pkg:cpan/SPVM-Go@0.036
+SPVM::Go::UV::ConfigBuilder        undef  pkg:cpan/SPVM-Go@0.036
+SPVM::Go::UV::Event                undef  pkg:cpan/SPVM-Go@0.036
+SPVM::Go::UV::Handle::Async        undef  pkg:cpan/SPVM-Go@0.036
+SPVM::Go::UV::Handle::Idle         undef  pkg:cpan/SPVM-Go@0.036
+SPVM::Go::UV::Handle::Poll         undef  pkg:cpan/SPVM-Go@0.036
+SPVM::Go::UV::Handle::Timer        undef  pkg:cpan/SPVM-Go@0.036
+SPVM::Go::UV::Loop                 undef  pkg:cpan/SPVM-Go@0.036
 SPVM::HTTP::Tiny                   0.017  pkg:cpan/SPVM-HTTP-Tiny@0.017
 SPVM::HTTP::Tiny::Asset            undef  pkg:cpan/SPVM-HTTP-Tiny@0.012
 SPVM::HTTP::Tiny::Asset::File      undef  pkg:cpan/SPVM-HTTP-Tiny@0.012
