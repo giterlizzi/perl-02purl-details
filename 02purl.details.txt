@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 24 Jul 2026 06:19:55 GMT
-Line-Count: 266734
+Last-Updated: Fri, 24 Jul 2026 10:09:53 GMT
+Line-Count: 266736
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -30566,45 +30566,45 @@ Business::Monzo::Transaction       undef  pkg:cpan/Business-Monzo@0.13
 Business::Monzo::Utils             undef  pkg:cpan/Business-Monzo@0.13
 Business::Monzo::Version           undef  pkg:cpan/Business-Monzo@0.13
 Business::Monzo::Webhook           undef  pkg:cpan/Business-Monzo@0.13
-Business::NAB                       0.06  pkg:cpan/Business-NAB@0.07
-Business::NAB::AccountInformation::Account  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::AccountInformation::File  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::AccountInformation::Group  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::AccountInformation::Transaction  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::Acknowledgement      0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::Acknowledgement::Issue  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::Australian::DirectEntry::Payments  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::Australian::DirectEntry::Payments::DescriptiveRecord  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::Australian::DirectEntry::Payments::DetailRecord  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::Australian::DirectEntry::Payments::TotalRecord  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::Australian::DirectEntry::Report  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::Australian::DirectEntry::Report::DisclaimerRecord  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::Australian::DirectEntry::Report::FailedRecord  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::Australian::DirectEntry::Report::FailedSummary  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::Australian::DirectEntry::Report::HeaderRecord  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::Australian::DirectEntry::Report::PaymentRecord  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::Australian::DirectEntry::Report::TrailerRecord  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::Australian::DirectEntry::Report::ValueSummary  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::Australian::DirectEntry::Returns  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::Australian::DirectEntry::Returns::DescriptiveRecord  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::Australian::DirectEntry::Returns::DetailRecord  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::Australian::DirectEntry::Returns::TotalRecord  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::BPAY::Payments       0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::BPAY::Payments::DetailRecord  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::BPAY::Payments::HeaderRecord  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::BPAY::Payments::Results  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::BPAY::Payments::Results::DetailRecord  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::BPAY::Payments::Results::HeaderRecord  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::BPAY::Payments::Results::TrailerRecord  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::BPAY::Payments::TrailerRecord  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::BPAY::Remittance::File  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::BPAY::Remittance::File::DetailRecord  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::BPAY::Remittance::File::HeaderRecord  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::BPAY::Remittance::File::TrailerRecord  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::CSV                  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::FileContainer        0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::Role::AttributeContainer  0.07  pkg:cpan/Business-NAB@0.07
-Business::NAB::Types                0.07  pkg:cpan/Business-NAB@0.07
+Business::NAB                       0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::AccountInformation::Account  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::AccountInformation::File  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::AccountInformation::Group  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::AccountInformation::Transaction  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::Acknowledgement      0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::Acknowledgement::Issue  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::Australian::DirectEntry::Payments  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::Australian::DirectEntry::Payments::DescriptiveRecord  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::Australian::DirectEntry::Payments::DetailRecord  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::Australian::DirectEntry::Payments::TotalRecord  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::Australian::DirectEntry::Report  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::Australian::DirectEntry::Report::DisclaimerRecord  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::Australian::DirectEntry::Report::FailedRecord  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::Australian::DirectEntry::Report::FailedSummary  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::Australian::DirectEntry::Report::HeaderRecord  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::Australian::DirectEntry::Report::PaymentRecord  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::Australian::DirectEntry::Report::TrailerRecord  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::Australian::DirectEntry::Report::ValueSummary  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::Australian::DirectEntry::Returns  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::Australian::DirectEntry::Returns::DescriptiveRecord  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::Australian::DirectEntry::Returns::DetailRecord  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::Australian::DirectEntry::Returns::TotalRecord  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::BPAY::Payments       0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::BPAY::Payments::DetailRecord  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::BPAY::Payments::HeaderRecord  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::BPAY::Payments::Results  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::BPAY::Payments::Results::DetailRecord  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::BPAY::Payments::Results::HeaderRecord  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::BPAY::Payments::Results::TrailerRecord  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::BPAY::Payments::TrailerRecord  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::BPAY::Remittance::File  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::BPAY::Remittance::File::DetailRecord  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::BPAY::Remittance::File::HeaderRecord  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::BPAY::Remittance::File::TrailerRecord  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::CSV                  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::FileContainer        0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::Role::AttributeContainer  0.08  pkg:cpan/Business-NAB@0.08
+Business::NAB::Types                0.08  pkg:cpan/Business-NAB@0.08
 Business::NETeller::Direct          1.00  pkg:cpan/Business-NETeller-Direct@1.00
 Business::NoChex                    0.02  pkg:cpan/Business-NoChex@0.02
 Business::OnlinePayment             3.05  pkg:cpan/Business-OnlinePayment@3.05
@@ -229753,12 +229753,14 @@ TermC                              undef  pkg:cpan/go-db-perl@0.04
 Termbox                             2.00  pkg:cpan/Termbox@2.00
 Termbox::Cell                       0.12  pkg:cpan/Termbox@0.12
 Termbox::Event                      0.12  pkg:cpan/Termbox@0.12
-Termbox::PP                        0.005001  pkg:cpan/Termbox-PP@v0.5.1
-Termbox::PP::Terminfo::Builtin     0.005001  pkg:cpan/Termbox-PP@v0.5.1
+Termbox::PP                        0.005003  pkg:cpan/Termbox-PP@v0.5.3
+Termbox::PP::Terminfo::Builtin     0.005003  pkg:cpan/Termbox-PP@v0.5.3
 Termbox::PP::WCWidth               0.005001  pkg:cpan/Termbox-PP@v0.5.1
 Termbox::PP::WCWidth::Tables       undef  pkg:cpan/Termbox-PP@v0.5.1
 Terminal::Control                   0.19  pkg:cpan/Terminal-Control@0.19
 Terminal::Identify                  0.29  pkg:cpan/Terminal-Identify@0.29
+Terminal::WCWidth                  0.005003  pkg:cpan/Termbox-PP@v0.5.3
+Terminal::WCWidth::Tables          undef  pkg:cpan/Termbox-PP@v0.5.3
 Termux::API                         1.01  pkg:cpan/Termux-API@1.01
 Terse                               0.27  pkg:cpan/Terse@0.27
 Terse::App                         undef  pkg:cpan/Terse@0.27
