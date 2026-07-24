@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 23 Jul 2026 22:49:53 GMT
-Line-Count: 266730
+Last-Updated: Fri, 24 Jul 2026 02:02:41 GMT
+Line-Count: 266734
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -16243,7 +16243,7 @@ App::nrand                         0.002  pkg:cpan/App-nrand@0.002
 App::numero2bgc                    0.021  pkg:cpan/App-numero2bgc@0.021
 App::numseq                        0.002  pkg:cpan/App-numseq@0.002
 App::numspeed                      0.001  pkg:cpan/App-numspeed@0.001
-App::nup                            1.07  pkg:cpan/App-nup@1.07
+App::nup                            1.08  pkg:cpan/App-nup@1.08
 App::oaf                           undef  pkg:cpan/App-oaf@0.04
 App::olson                             0  pkg:cpan/App-olson@0.000
 App::olson::LocalDateTime              0  pkg:cpan/App-olson@0.000
@@ -16278,7 +16278,7 @@ App::optex::textconv::pandoc        1.08  pkg:cpan/App-optex-textconv@1.08
 App::optex::textconv::pdf           1.08  pkg:cpan/App-optex-textconv@1.08
 App::optex::textconv::tika          1.08  pkg:cpan/App-optex-textconv@1.08
 App::optex::textconv::xls           1.08  pkg:cpan/App-optex-textconv@1.08
-App::optex::up                      1.07  pkg:cpan/App-nup@1.07
+App::optex::up                      1.08  pkg:cpan/App-nup@1.08
 App::optex::util                   undef  pkg:cpan/App-optex@1.07
 App::optex::util::argv             undef  pkg:cpan/App-optex@1.07
 App::optex::util::filter           undef  pkg:cpan/App-optex@1.07
@@ -32241,7 +32241,7 @@ CGI::IDS::Whitelist                1.0217  pkg:cpan/CGI-IDS@1.0217
 CGI::ImageMagick                   undef  pkg:cpan/Apache-ImageMagick@2.0b7
 CGI::ImageMagick::SubRequest       undef  pkg:cpan/Apache-ImageMagick@2.0b7
 CGI::Imagemap                          2  pkg:cpan/CGI-Imagemap@2.01?ext=tgz
-CGI::Info                           1.13  pkg:cpan/CGI-Info@1.13
+CGI::Info                           1.14  pkg:cpan/CGI-Info@1.14
 CGI::Inspect                         0.5  pkg:cpan/CGI-Inspect@0.5
 CGI::Inspect::Here                 undef  pkg:cpan/CGI-Inspect@0.5
 CGI::Inspect::Plugin               undef  pkg:cpan/CGI-Inspect@0.5
@@ -47698,29 +47698,30 @@ Conan::Configure::Xen                  0  pkg:cpan/Conan@0.0.7
 Conan::Deploy                          0  pkg:cpan/Conan@0.0.7
 Conan::Promote                         0  pkg:cpan/Conan@0.0.7
 Conan::Promote::Xen                    0  pkg:cpan/Conan@0.0.7
-Concierge                          v0.10.0  pkg:cpan/Concierge@v0.10.0
-Concierge::Auth                    v0.5.1  pkg:cpan/Concierge-Auth@v0.5.1
-Concierge::Auth::Base              v0.5.1  pkg:cpan/Concierge-Auth@v0.5.1
-Concierge::Auth::Generators        v0.4.5  pkg:cpan/Concierge-Auth@v0.5.1
-Concierge::Auth::Pwd               v0.5.1  pkg:cpan/Concierge-Auth@v0.5.1
+Concierge                          v0.11.0  pkg:cpan/Concierge@v0.11.0
+Concierge::Auth                    v0.5.2  pkg:cpan/Concierge-Auth@v0.5.2
+Concierge::Auth::Base              v0.5.2  pkg:cpan/Concierge-Auth@v0.5.2
+Concierge::Auth::Generators        v0.4.5  pkg:cpan/Concierge-Auth@v0.5.2
+Concierge::Auth::Pwd               v0.5.2  pkg:cpan/Concierge-Auth@v0.5.2
 Concierge::Base                    v0.7.2  pkg:cpan/Concierge@v0.7.2
 Concierge::Desk::Base              v0.9.0  pkg:cpan/Concierge@v0.9.0
-Concierge::Desk::Component         v0.10.0  pkg:cpan/Concierge@v0.10.0
-Concierge::Desk::Setup             v0.10.0  pkg:cpan/Concierge@v0.10.0
-Concierge::Desk::UnavailableComponent v0.10.0  pkg:cpan/Concierge@v0.10.0
-Concierge::Desk::User              v0.10.0  pkg:cpan/Concierge@v0.10.0
-Concierge::Sessions                v0.11.2  pkg:cpan/Concierge-Sessions@v0.11.2
-Concierge::Sessions::Base          v0.11.2  pkg:cpan/Concierge-Sessions@v0.11.2
-Concierge::Sessions::File          v0.11.2  pkg:cpan/Concierge-Sessions@v0.11.2
-Concierge::Sessions::SQLite        v0.11.2  pkg:cpan/Concierge-Sessions@v0.11.2
-Concierge::Sessions::Session       v0.11.2  pkg:cpan/Concierge-Sessions@v0.11.2
+Concierge::Desk::Component         v0.11.0  pkg:cpan/Concierge@v0.11.0
+Concierge::Desk::Setup             v0.11.0  pkg:cpan/Concierge@v0.11.0
+Concierge::Desk::UnavailableComponent v0.11.0  pkg:cpan/Concierge@v0.11.0
+Concierge::Desk::User              v0.11.0  pkg:cpan/Concierge@v0.11.0
+Concierge::Sessions                v0.11.3  pkg:cpan/Concierge-Sessions@v0.11.3
+Concierge::Sessions::Base          v0.11.3  pkg:cpan/Concierge-Sessions@v0.11.3
+Concierge::Sessions::File          v0.11.3  pkg:cpan/Concierge-Sessions@v0.11.3
+Concierge::Sessions::SQLite        v0.11.3  pkg:cpan/Concierge-Sessions@v0.11.3
+Concierge::Sessions::Session       v0.11.3  pkg:cpan/Concierge-Sessions@v0.11.3
 Concierge::Setup                   v0.7.2  pkg:cpan/Concierge@v0.7.2
 Concierge::User                    v0.7.2  pkg:cpan/Concierge@v0.7.2
-Concierge::Users                   v0.9.3  pkg:cpan/Concierge-Users@v0.9.3
+Concierge::Users                   v0.9.4  pkg:cpan/Concierge-Users@v0.9.4
 Concierge::Users::Database         v0.9.3  pkg:cpan/Concierge-Users@v0.9.3
-Concierge::Users::File             v0.9.3  pkg:cpan/Concierge-Users@v0.9.3
-Concierge::Users::Meta             v0.9.3  pkg:cpan/Concierge-Users@v0.9.3
-Concierge::Users::YAML             v0.9.3  pkg:cpan/Concierge-Users@v0.9.3
+Concierge::Users::File             v0.9.4  pkg:cpan/Concierge-Users@v0.9.4
+Concierge::Users::Meta             v0.9.4  pkg:cpan/Concierge-Users@v0.9.4
+Concierge::Users::SQLite           v0.9.4  pkg:cpan/Concierge-Users@v0.9.4
+Concierge::Users::YAML             v0.9.4  pkg:cpan/Concierge-Users@v0.9.4
 Conclave::OTK                      undef  pkg:cpan/Conclave-OTK@0.01
 Conclave::OTK::Backend             undef  pkg:cpan/Conclave-OTK@0.01
 Conclave::OTK::Backend::4store     undef  pkg:cpan/Conclave-OTK@0.01
@@ -50523,7 +50524,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.0  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
 Cucumber::TagExpressions::NotNode  v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
 Cucumber::TagExpressions::OrNode   v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.129
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.130
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
@@ -58026,7 +58027,7 @@ Data::Dimensions                    0.05  pkg:cpan/Data-Dimensions@0.05
 Data::Dimensions::Map              undef  pkg:cpan/Data-Dimensions@0.05
 Data::Dimensions::SickTie          undef  pkg:cpan/Data-Dimensions@0.05
 Data::Direct                        0.05  pkg:cpan/Data-Direct@0.05
-Data::DisjointSet::Shared           0.02  pkg:cpan/Data-DisjointSet-Shared@0.02
+Data::DisjointSet::Shared           0.03  pkg:cpan/Data-DisjointSet-Shared@0.03
 Data::Display                       0.02  pkg:cpan/Data-Display@0.02
 Data::Displaycolour                v0.5.0  pkg:cpan/Data-Displaycolour@v0.05
 Data::Displaycolour::Data          v0.5.0  pkg:cpan/Data-Displaycolour@v0.05
@@ -58272,6 +58273,7 @@ Data::Feed::Web::Enclosure         undef  pkg:cpan/Data-Feed@0.00015
 Data::Feed::Web::Entry             undef  pkg:cpan/Data-Feed@0.00015
 Data::Feed::Web::Feed              undef  pkg:cpan/Data-Feed@0.00015
 Data::Fenwick2D::Shared             0.01  pkg:cpan/Data-Fenwick2D-Shared@0.01
+Data::Fenwick::Shared               0.02  pkg:cpan/Data-Fenwick-Shared@0.02
 Data::Fetch                         0.07  pkg:cpan/Data-Fetch@0.07
 Data::FetchPath                     0.02  pkg:cpan/Data-FetchPath@0.02
 Data::File::Map                     0.09  pkg:cpan/Data-File-Map@0.09
@@ -58400,7 +58402,7 @@ Data::Gimei::Random                undef  pkg:cpan/Data-Gimei@v0.5.0
 Data::Gimei::Word                  undef  pkg:cpan/Data-Gimei@v0.5.0
 Data::Google::Visualization::DataSource  0.01  pkg:cpan/Data-Google-Visualization-DataSource@0.01
 Data::Google::Visualization::DataTable  0.11  pkg:cpan/Data-Google-Visualization-DataTable@0.11
-Data::Graph::Shared                 0.04  pkg:cpan/Data-Graph-Shared@0.04
+Data::Graph::Shared                 0.05  pkg:cpan/Data-Graph-Shared@0.05
 Data::Graph::Util                  0.007  pkg:cpan/Data-Graph-Util@0.007
 Data::Grid                          0.07  pkg:cpan/Data-Grid@0.07
 Data::Grid::CSV                     0.07  pkg:cpan/Data-Grid@0.07
@@ -58475,26 +58477,27 @@ Data::HashMap::SI                   0.08  pkg:cpan/Data-HashMap@0.08
 Data::HashMap::SI16                 0.08  pkg:cpan/Data-HashMap@0.08
 Data::HashMap::SI32                 0.08  pkg:cpan/Data-HashMap@0.08
 Data::HashMap::SS                   0.08  pkg:cpan/Data-HashMap@0.08
-Data::HashMap::Shared               0.15  pkg:cpan/Data-HashMap-Shared@0.15
-Data::HashMap::Shared::I16          0.15  pkg:cpan/Data-HashMap-Shared@0.15
-Data::HashMap::Shared::I16S         0.15  pkg:cpan/Data-HashMap-Shared@0.15
-Data::HashMap::Shared::I32          0.15  pkg:cpan/Data-HashMap-Shared@0.15
-Data::HashMap::Shared::I32S         0.15  pkg:cpan/Data-HashMap-Shared@0.15
-Data::HashMap::Shared::II           0.15  pkg:cpan/Data-HashMap-Shared@0.15
-Data::HashMap::Shared::IS           0.15  pkg:cpan/Data-HashMap-Shared@0.15
-Data::HashMap::Shared::SI           0.15  pkg:cpan/Data-HashMap-Shared@0.15
-Data::HashMap::Shared::SI16         0.15  pkg:cpan/Data-HashMap-Shared@0.15
-Data::HashMap::Shared::SI32         0.15  pkg:cpan/Data-HashMap-Shared@0.15
-Data::HashMap::Shared::SS           0.15  pkg:cpan/Data-HashMap-Shared@0.15
+Data::HashMap::Shared               0.16  pkg:cpan/Data-HashMap-Shared@0.16
+Data::HashMap::Shared::I16          0.16  pkg:cpan/Data-HashMap-Shared@0.16
+Data::HashMap::Shared::I16S         0.16  pkg:cpan/Data-HashMap-Shared@0.16
+Data::HashMap::Shared::I32          0.16  pkg:cpan/Data-HashMap-Shared@0.16
+Data::HashMap::Shared::I32S         0.16  pkg:cpan/Data-HashMap-Shared@0.16
+Data::HashMap::Shared::II           0.16  pkg:cpan/Data-HashMap-Shared@0.16
+Data::HashMap::Shared::IS           0.16  pkg:cpan/Data-HashMap-Shared@0.16
+Data::HashMap::Shared::SI           0.16  pkg:cpan/Data-HashMap-Shared@0.16
+Data::HashMap::Shared::SI16         0.16  pkg:cpan/Data-HashMap-Shared@0.16
+Data::HashMap::Shared::SI32         0.16  pkg:cpan/Data-HashMap-Shared@0.16
+Data::HashMap::Shared::SS           0.16  pkg:cpan/Data-HashMap-Shared@0.16
 Data::HashType                      0.07  pkg:cpan/Data-HashType@0.07
 Data::Header::Fields                0.05  pkg:cpan/Data-Header-Fields@0.05
-Data::Heap::Shared                  0.06  pkg:cpan/Data-Heap-Shared@0.06
+Data::Heap::Shared                  0.07  pkg:cpan/Data-Heap-Shared@0.07
 Data::HexConverter                  0.65  pkg:cpan/Data-HexConverter@0.65
 Data::HexDump                       0.04  pkg:cpan/Data-HexDump@0.04
 Data::HexDump::Range                0.13  pkg:cpan/Data-HexDump-Range@0.13.72
 Data::HexDump::XXD                 0.001001  pkg:cpan/Data-HexDump-XXD@0.1.1
 Data::Hexdumper                    3.0001  pkg:cpan/Data-Hexdumper@3.0001
 Data::Hexify                        1.00  pkg:cpan/Data-Hexify@1.00
+Data::HierTimingWheel::Shared       0.01  pkg:cpan/Data-HierTimingWheel-Shared@0.01
 Data::Hierarchy                     0.34  pkg:cpan/Data-Hierarchy@0.34
 Data::Hierarchy::Relative           0.34  pkg:cpan/Data-Hierarchy@0.34
 Data::Hierarchy::Traverser          0.01  pkg:cpan/Data-Hierarchy-Traverser@0.01
@@ -69774,12 +69777,12 @@ EV::ADNS                             3.0  pkg:cpan/EV-ADNS@3.0
 EV::Async                          undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Check                          undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Child                          undef  pkg:cpan/App-SimpleBackuper@0.2.22
-EV::ClickHouse                      0.05  pkg:cpan/EV-ClickHouse@0.05
-EV::ClickHouse::Error               0.05  pkg:cpan/EV-ClickHouse@0.05
-EV::ClickHouse::Iterator            0.05  pkg:cpan/EV-ClickHouse@0.05
-EV::ClickHouse::Pool                0.05  pkg:cpan/EV-ClickHouse@0.05
-EV::ClickHouse::Streamer            0.05  pkg:cpan/EV-ClickHouse@0.05
-EV::ClickHouse::_DurGuard           0.05  pkg:cpan/EV-ClickHouse@0.05
+EV::ClickHouse                      0.06  pkg:cpan/EV-ClickHouse@0.06
+EV::ClickHouse::Error               0.06  pkg:cpan/EV-ClickHouse@0.06
+EV::ClickHouse::Iterator            0.06  pkg:cpan/EV-ClickHouse@0.06
+EV::ClickHouse::Pool                0.06  pkg:cpan/EV-ClickHouse@0.06
+EV::ClickHouse::Streamer            0.06  pkg:cpan/EV-ClickHouse@0.06
+EV::ClickHouse::_DurGuard           0.06  pkg:cpan/EV-ClickHouse@0.06
 EV::Cron                           0.123600  pkg:cpan/EV-Cron@0.123600
 EV::Embed                          undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Etcd                            0.09  pkg:cpan/EV-Etcd@0.09
@@ -74393,7 +74396,7 @@ File::Compare                      1.1008  pkg:cpan/perl@5.44.0
 File::ConfigDir                    0.021  pkg:cpan/File-ConfigDir@0.021
 File::ConfigDir::Install           0.001  pkg:cpan/File-ConfigDir-Install@0.001
 File::ConfigDir::Plack             0.002  pkg:cpan/File-ConfigDir-Plack@0.002
-File::ContentStore                 1.004  pkg:cpan/File-ContentStore@1.004
+File::ContentStore                 1.005  pkg:cpan/File-ContentStore@1.005
 File::Convert::CSV                  0.03  pkg:cpan/File-Convert-CSV@0.03
 File::Convert::Taqman              undef  pkg:cpan/File-Convert-CSV@0.03
 File::Convert::Turner_Modulo       undef  pkg:cpan/File-Convert-CSV@0.03
@@ -109603,7 +109606,7 @@ HTTP::ClientDetect::Location        0.03  pkg:cpan/HTTP-ClientDetect@0.03
 HTTP::Command::Wrapper              0.08  pkg:cpan/HTTP-Command-Wrapper@0.08
 HTTP::Command::Wrapper::Curl       undef  pkg:cpan/HTTP-Command-Wrapper@0.08
 HTTP::Command::Wrapper::Wget       undef  pkg:cpan/HTTP-Command-Wrapper@0.08
-HTTP::Config                        7.03  pkg:cpan/HTTP-Message@7.03
+HTTP::Config                        7.04  pkg:cpan/HTTP-Message@7.04
 HTTP::CookieJar                    0.014  pkg:cpan/HTTP-CookieJar@0.014
 HTTP::CookieJar::LWP               0.014  pkg:cpan/HTTP-CookieJar@0.014
 HTTP::CookieMonster                 0.11  pkg:cpan/HTTP-CookieMonster@0.11
@@ -109808,7 +109811,7 @@ HTTP::Handle                       undef  pkg:cpan/HTTP-Handle@0.2
 HTTP::Handy                         1.07  pkg:cpan/HTTP-Handy@1.07
 HTTP::Handy::Input                  1.07  pkg:cpan/HTTP-Handy@1.07
 HTTP::HeaderParser::XS              0.20  pkg:cpan/HTTP-HeaderParser-XS@0.20
-HTTP::Headers                       7.03  pkg:cpan/HTTP-Message@7.03
+HTTP::Headers                       7.04  pkg:cpan/HTTP-Message@7.04
 HTTP::Headers::ActionPack           0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
 HTTP::Headers::ActionPack::AcceptCharset  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
 HTTP::Headers::ActionPack::AcceptLanguage  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
@@ -109830,14 +109833,14 @@ HTTP::Headers::ActionPack::MediaTypeList  0.09  pkg:cpan/HTTP-Headers-ActionPack
 HTTP::Headers::ActionPack::PriorityList  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
 HTTP::Headers::ActionPack::Util     0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
 HTTP::Headers::ActionPack::WWWAuthenticate  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
-HTTP::Headers::Auth                 7.03  pkg:cpan/HTTP-Message@7.03
-HTTP::Headers::ETag                 7.03  pkg:cpan/HTTP-Message@7.03
+HTTP::Headers::Auth                 7.04  pkg:cpan/HTTP-Message@7.04
+HTTP::Headers::ETag                 7.04  pkg:cpan/HTTP-Message@7.04
 HTTP::Headers::Fancy               1.001  pkg:cpan/HTTP-Headers-Fancy@1.001
 HTTP::Headers::Fast                 0.22  pkg:cpan/HTTP-Headers-Fast@0.22
 HTTP::Headers::Fast::XS            0.001  pkg:cpan/HTTP-Headers-Fast-XS@0.001
 HTTP::Headers::Patch::DontUseStorable 0.062  pkg:cpan/HTTP-Headers-Patch-DontUseStorable@0.062
 HTTP::Headers::UserAgent            3.09  pkg:cpan/HTTP-Headers-UserAgent@3.09
-HTTP::Headers::Util                 7.03  pkg:cpan/HTTP-Message@7.03
+HTTP::Headers::Util                 7.04  pkg:cpan/HTTP-Message@7.04
 HTTP::LRDD                         0.106  pkg:cpan/HTTP-LRDD@0.106
 HTTP::Link                         0.001  pkg:cpan/HTTP-Link@0.001
 HTTP::Link::Parser                 0.200  pkg:cpan/HTTP-Link-Parser@0.200
@@ -109852,7 +109855,7 @@ HTTP::LoadGen::Run                  0.03  pkg:cpan/HTTP-LoadGen@0.07
 HTTP::LoadGen::Run::_dbg            0.03  pkg:cpan/HTTP-LoadGen@0.07
 HTTP::LoadGen::ScoreBoard           0.04  pkg:cpan/HTTP-LoadGen@0.07
 HTTP::MHTTP                         0.15  pkg:cpan/HTTP-MHTTP@0.15
-HTTP::Message                       7.03  pkg:cpan/HTTP-Message@7.03
+HTTP::Message                       7.04  pkg:cpan/HTTP-Message@7.04
 HTTP::Message::JSON                undef  pkg:cpan/LWP-JSON-Tiny@0.014
 HTTP::Message::PSGI                undef  pkg:cpan/Plack@1.0054
 HTTP::MessageParser                  0.3  pkg:cpan/HTTP-MessageParser@0.3
@@ -110073,11 +110076,11 @@ HTTP::Recorder                      0.07  pkg:cpan/HTTP-Recorder@0.07
 HTTP::Recorder::Httperf             0.02  pkg:cpan/HTTP-Recorder-Httperf@0.02
 HTTP::Recorder::Httperf::Logger     0.01  pkg:cpan/HTTP-Recorder-Httperf@0.02
 HTTP::Recorder::Logger             undef  pkg:cpan/HTTP-Recorder@0.07
-HTTP::Request                       7.03  pkg:cpan/HTTP-Message@7.03
+HTTP::Request                       7.04  pkg:cpan/HTTP-Message@7.04
 HTTP::Request::AsCGI                 1.2  pkg:cpan/HTTP-Request-AsCGI@1.2
 HTTP::Request::AsCurl               0.03  pkg:cpan/HTTP-Request-AsCurl@0.03
 HTTP::Request::Chunked             undef  pkg:cpan/POE-Filter-HTTPD-Chunked@0.9
-HTTP::Request::Common               7.03  pkg:cpan/HTTP-Message@7.03
+HTTP::Request::Common               7.04  pkg:cpan/HTTP-Message@7.04
 HTTP::Request::CurlParameters       0.57  pkg:cpan/HTTP-Request-FromCurl@0.57
 HTTP::Request::Diff                 0.07  pkg:cpan/HTTP-Request-Diff@0.07
 HTTP::Request::Form                0.952  pkg:cpan/HTTP-Request-Form@0.952
@@ -110093,7 +110096,7 @@ HTTP::Request::JSON                undef  pkg:cpan/LWP-JSON-Tiny@0.014
 HTTP::Request::Params               1.02  pkg:cpan/HTTP-Request-Params@1.02
 HTTP::Request::StreamingUpload      0.01  pkg:cpan/HTTP-Request-StreamingUpload@0.01
 HTTP::Request::Webpush              0.15  pkg:cpan/HTTP-Request-Webpush@0.15
-HTTP::Response                      7.03  pkg:cpan/HTTP-Message@7.03
+HTTP::Response                      7.04  pkg:cpan/HTTP-Message@7.04
 HTTP::Response::CGI                  1.0  pkg:cpan/HTTP-Response-CGI@1.0
 HTTP::Response::Encoding            0.06  pkg:cpan/HTTP-Response-Encoding@0.06
 HTTP::Response::JSON               undef  pkg:cpan/LWP-JSON-Tiny@0.014
@@ -110199,7 +110202,7 @@ HTTP::Soup                          0.01  pkg:cpan/HTTP-Soup@0.01
 HTTP::Soup::Gnome                   0.02  pkg:cpan/HTTP-Soup-Gnome@0.02
 HTTP::State                        0.001002  pkg:cpan/HTTP-State@v0.1.2
 HTTP::State::Cookie                undef  pkg:cpan/HTTP-State@v0.1.2
-HTTP::Status                        7.03  pkg:cpan/HTTP-Message@7.03
+HTTP::Status                        7.04  pkg:cpan/HTTP-Message@7.04
 HTTP::Status::Const                0.003000  pkg:cpan/HTTP-Status-Const@v0.3.0
 HTTP::StreamParser                 0.101  pkg:cpan/HTTP-StreamParser@0.101
 HTTP::StreamParser::Request        0.101  pkg:cpan/HTTP-StreamParser@0.101
@@ -132102,7 +132105,7 @@ Map::Tube::Paris                   v0.2.2  pkg:cpan/Map-Tube-Paris@v0.2.2
 Map::Tube::Pluggable               v5.1.0  pkg:cpan/Map-Tube@v5.1.0
 Map::Tube::Plugin::Formatter        0.17  pkg:cpan/Map-Tube-Plugin-Formatter@0.17
 Map::Tube::Plugin::Formatter::Utils  0.17  pkg:cpan/Map-Tube-Plugin-Formatter@0.17
-Map::Tube::Plugin::FuzzyFind       v0.82.0  pkg:cpan/Map-Tube-Plugin-FuzzyFind@v0.82.0
+Map::Tube::Plugin::FuzzyFind       v0.82.1  pkg:cpan/Map-Tube-Plugin-FuzzyFind@v0.82.1
 Map::Tube::Plugin::Graph           v1.1.0  pkg:cpan/Map-Tube-Plugin-Graph@v1.1.0
 Map::Tube::Plugin::Graph::Utils    v1.1.0  pkg:cpan/Map-Tube-Plugin-Graph@v1.1.0
 Map::Tube::Prague                   0.16  pkg:cpan/Map-Tube-Prague@0.16
@@ -157971,6 +157974,7 @@ OpenSearch::Client::CxnPool::Sniff 3.007009  pkg:cpan/OpenSearch-Client@3.007009
 OpenSearch::Client::CxnPool::Static 3.007009  pkg:cpan/OpenSearch-Client@3.007009
 OpenSearch::Client::CxnPool::Static::NoPing 3.007009  pkg:cpan/OpenSearch-Client@3.007009
 OpenSearch::Client::Error          3.007009  pkg:cpan/OpenSearch-Client@3.007009
+OpenSearch::Client::Hash           3.007010  pkg:cpan/OpenSearch-Client-Hash@3.007010
 OpenSearch::Client::Logger::LogAny 3.007009  pkg:cpan/OpenSearch-Client@3.007009
 OpenSearch::Client::Role::API      3.007009  pkg:cpan/OpenSearch-Client@3.007009
 OpenSearch::Client::Role::Client   3.007009  pkg:cpan/OpenSearch-Client@3.007009
@@ -226080,8 +226084,8 @@ Sys::OsPackage::Driver::Arch       0.004000  pkg:cpan/Sys-OsPackage@0.4.0
 Sys::OsPackage::Driver::Debian     0.004000  pkg:cpan/Sys-OsPackage@0.4.0
 Sys::OsPackage::Driver::RPM        0.004000  pkg:cpan/Sys-OsPackage@0.4.0
 Sys::OsPackage::Driver::Suse       0.004000  pkg:cpan/Sys-OsPackage@0.4.0
-Sys::OsRelease                     0.004003  pkg:cpan/Sys-OsRelease@0.4.3
-Sys::OsRelease::Lite               undef  pkg:cpan/Sys-OsRelease-Lite@0.4.3%2Blite
+Sys::OsRelease                     0.004004  pkg:cpan/Sys-OsRelease@0.4.4
+Sys::OsRelease::Lite               undef  pkg:cpan/Sys-OsRelease-Lite@0.4.4%2Blite
 Sys::OutPut                        undef  pkg:cpan/Sys-OutPut@2.1
 Sys::PageCache                      0.07  pkg:cpan/Sys-PageCache@0.07
 Sys::Path                           0.16  pkg:cpan/Sys-Path@0.16
