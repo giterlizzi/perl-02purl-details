@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 24 Jul 2026 02:02:41 GMT
+Last-Updated: Fri, 24 Jul 2026 06:19:55 GMT
 Line-Count: 266734
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -50524,7 +50524,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.0  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
 Cucumber::TagExpressions::NotNode  v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
 Cucumber::TagExpressions::OrNode   v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.130
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.131
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
@@ -226774,9 +226774,9 @@ TOML::Tiny::Parser                  0.22  pkg:cpan/TOML-Tiny@0.22
 TOML::Tiny::Tokenizer               0.22  pkg:cpan/TOML-Tiny@0.22
 TOML::Tiny::Util                    0.22  pkg:cpan/TOML-Tiny@0.22
 TOML::Tiny::Writer                  0.22  pkg:cpan/TOML-Tiny@0.22
-TOML::XS                            0.05  pkg:cpan/TOML-XS@0.05
-TOML::XS::Document                 undef  pkg:cpan/TOML-XS@0.05
-TOML::XS::Timestamp                undef  pkg:cpan/TOML-XS@0.05
+TOML::XS                            0.06  pkg:cpan/TOML-XS@0.06
+TOML::XS::Document                 undef  pkg:cpan/TOML-XS@0.06
+TOML::XS::Timestamp                undef  pkg:cpan/TOML-XS@0.06
 TOON                               0.001000  pkg:cpan/TOON@0.1.0
 TOON::Error                        0.001000  pkg:cpan/TOON@0.1.0
 TOON::PP                           0.001000  pkg:cpan/TOON@0.1.0
