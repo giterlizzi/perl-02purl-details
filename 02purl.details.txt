@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 24 Jul 2026 13:22:42 GMT
+Last-Updated: Fri, 24 Jul 2026 15:21:15 GMT
 Line-Count: 266737
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -35923,7 +35923,7 @@ Catalyst::Helper::View::Template::PHP  0.04  pkg:cpan/Catalyst-View-Template-PHP
 Catalyst::Helper::View::Tenjin     0.050001  pkg:cpan/Catalyst-View-Tenjin@0.050001
 Catalyst::Helper::View::Text::Template 0.011  pkg:cpan/Catalyst-View-Text-Template@0.011
 Catalyst::Helper::View::Thumbnail   0.03  pkg:cpan/Catalyst-View-Thumbnail@0.03
-Catalyst::Helper::View::Wkhtmltopdf undef  pkg:cpan/Catalyst-View-Wkhtmltopdf@0.5.2
+Catalyst::Helper::View::Wkhtmltopdf v0.6.0  pkg:cpan/Catalyst-View-Wkhtmltopdf@v0.6.0
 Catalyst::Helper::View::XLSX         1.2  pkg:cpan/Catalyst-View-XLSX@1.2
 Catalyst::Helper::View::XML        undef  pkg:cpan/Catalyst-View-XML-Simple@0.022
 Catalyst::Helper::View::XML::Hash::LX undef  pkg:cpan/Catalyst-View-XML-Hash-LX@0.04
@@ -36695,7 +36695,7 @@ Catalyst::View::Text::MicroTemplate::_PerRequest undef  pkg:cpan/Catalyst-View-T
 Catalyst::View::Text::Template     0.011  pkg:cpan/Catalyst-View-Text-Template@0.011
 Catalyst::View::Thumbnail           0.03  pkg:cpan/Catalyst-View-Thumbnail@0.03
 Catalyst::View::Vega                0.02  pkg:cpan/Catalyst-View-Vega@0.02
-Catalyst::View::Wkhtmltopdf        0.005002  pkg:cpan/Catalyst-View-Wkhtmltopdf@0.5.2
+Catalyst::View::Wkhtmltopdf        v0.6.0  pkg:cpan/Catalyst-View-Wkhtmltopdf@v0.6.0
 Catalyst::View::XLSX                 1.2  pkg:cpan/Catalyst-View-XLSX@1.2
 Catalyst::View::XML::Feed           0.09  pkg:cpan/Catalyst-View-XML-Feed@0.09
 Catalyst::View::XML::Generator      0.02  pkg:cpan/Catalyst-View-XML-Generator@0.02
@@ -56618,7 +56618,7 @@ Dancer2::Plugin::Emailesque         0.03  pkg:cpan/Dancer2-Plugin-Emailesque@0.0
 Dancer2::Plugin::EncryptID          0.03  pkg:cpan/Dancer2-Plugin-EncryptID@0.03
 Dancer2::Plugin::Etcd              0.011  pkg:cpan/Dancer2-Plugin-Etcd@0.011
 Dancer2::Plugin::Etcd::CLI         0.011  pkg:cpan/Dancer2-Plugin-Etcd@0.011
-Dancer2::Plugin::Feed              1.160550  pkg:cpan/Dancer2-Plugin-Feed@1.160550
+Dancer2::Plugin::Feed              1.262050  pkg:cpan/Dancer2-Plugin-Feed@1.262050
 Dancer2::Plugin::Flash              0.03  pkg:cpan/Dancer2-Plugin-Flash@0.03
 Dancer2::Plugin::FlashNote          0.03  pkg:cpan/Dancer2-Plugin-FlashNote@0.03
 Dancer2::Plugin::FontSubset        v0.0.1  pkg:cpan/Dancer2-Plugin-FontSubset@0.0.1
@@ -69789,8 +69789,8 @@ EV::Embed                          undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Etcd                            0.09  pkg:cpan/EV-Etcd@0.09
 EV::Fork                           undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Future                          0.05  pkg:cpan/EV-Future@0.05
-EV::Gearman                         0.01  pkg:cpan/EV-Gearman@0.01
-EV::Gearman::Job                   undef  pkg:cpan/EV-Gearman@0.01
+EV::Gearman                         0.02  pkg:cpan/EV-Gearman@0.02
+EV::Gearman::Job                   undef  pkg:cpan/EV-Gearman@0.02
 EV::Glib                            2.01  pkg:cpan/EV-Glib@2.01
 EV::Hiredis                         0.07  pkg:cpan/EV-Hiredis@0.07
 EV::IO                             undef  pkg:cpan/App-SimpleBackuper@0.2.22
@@ -162092,7 +162092,7 @@ POSIX::1003::Sysconf                1.02  pkg:cpan/POSIX-1003@1.02
 POSIX::1003::Termios                1.02  pkg:cpan/POSIX-1003@1.02
 POSIX::1003::Time                   1.02  pkg:cpan/POSIX-1003@1.02
 POSIX::1003::User                   1.02  pkg:cpan/POSIX-1003@1.02
-POSIX::2008                         0.27  pkg:cpan/POSIX-2008@0.27
+POSIX::2008                         0.28  pkg:cpan/POSIX-2008@0.28
 POSIX::AtFork                       0.04  pkg:cpan/POSIX-AtFork@0.04
 POSIX::Open3                        0.01  pkg:cpan/POSIX-Open3@0.01
 POSIX::RT::Clock                   0.024  pkg:cpan/POSIX-RT-Timer@0.024
