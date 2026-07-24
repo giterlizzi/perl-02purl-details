@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 24 Jul 2026 20:56:17 GMT
+Last-Updated: Fri, 24 Jul 2026 22:55:21 GMT
 Line-Count: 266737
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -69795,9 +69795,9 @@ EV::Glib                            2.01  pkg:cpan/EV-Glib@2.01
 EV::Hiredis                         0.07  pkg:cpan/EV-Hiredis@0.07
 EV::IO                             undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Idle                           undef  pkg:cpan/App-SimpleBackuper@0.2.22
-EV::Kafka                           0.04  pkg:cpan/EV-Kafka@0.04
-EV::Kafka::Client                   0.04  pkg:cpan/EV-Kafka@0.04
-EV::Kafka::Conn                     0.04  pkg:cpan/EV-Kafka@0.04
+EV::Kafka                           0.05  pkg:cpan/EV-Kafka@0.05
+EV::Kafka::Client                   0.05  pkg:cpan/EV-Kafka@0.05
+EV::Kafka::Conn                     0.05  pkg:cpan/EV-Kafka@0.05
 EV::Loop                           undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Loop::Async                     1.01  pkg:cpan/EV-Loop-Async@1.01
 EV::MakeMaker                      undef  pkg:cpan/EV@4.37
@@ -76612,7 +76612,7 @@ Font::FreeType::NamedInfo          undef  pkg:cpan/Font-FreeType@0.18
 Font::Fret                         1.202  pkg:cpan/Font-TTF-Scripts@1.06
 Font::Fret::Default                1.202  pkg:cpan/Font-TTF-Scripts@1.06
 Font::GlyphNames                   1.00000  pkg:cpan/Font-GlyphNames@1.00000
-Font::Metrics                       0.02  pkg:cpan/Font-Metrics@0.02
+Font::Metrics                       0.03  pkg:cpan/Font-Metrics@0.03
 Font::Metrics::Courier             undef  pkg:cpan/Font-AFM@1.20
 Font::Metrics::CourierBold         undef  pkg:cpan/Font-AFM@1.20
 Font::Metrics::CourierBoldOblique  undef  pkg:cpan/Font-AFM@1.20
@@ -115958,11 +115958,11 @@ JPList::Controls::Sort              0.04  pkg:cpan/JPList@0.05
 JPList::DB::Config                  0.04  pkg:cpan/JPList@0.05
 JPList::DB::Result                  0.05  pkg:cpan/JPList@0.05
 JPList::Request                     0.05  pkg:cpan/JPList@0.05
-JQ::Lite                            2.48  pkg:cpan/JQ-Lite@2.48
-JQ::Lite::Expression               undef  pkg:cpan/JQ-Lite@2.48
-JQ::Lite::Filters                  undef  pkg:cpan/JQ-Lite@2.48
-JQ::Lite::Parser                   undef  pkg:cpan/JQ-Lite@2.48
-JQ::Lite::Util                     undef  pkg:cpan/JQ-Lite@2.48
+JQ::Lite                            2.49  pkg:cpan/JQ-Lite@2.49
+JQ::Lite::Expression               undef  pkg:cpan/JQ-Lite@2.49
+JQ::Lite::Filters                  undef  pkg:cpan/JQ-Lite@2.49
+JQ::Lite::Parser                   undef  pkg:cpan/JQ-Lite@2.49
+JQ::Lite::Util                     undef  pkg:cpan/JQ-Lite@2.49
 JQuery                              1.00  pkg:cpan/JQuery@1.06
 JQuery::Accordion                   1.00  pkg:cpan/JQuery@1.06
 JQuery::CSS                         1.00  pkg:cpan/JQuery@1.06
@@ -122008,7 +122008,7 @@ Launcher::Cascade::Printable       undef  pkg:cpan/Launcher-Cascade@0.02
 Launcher::Cascade::Simple          undef  pkg:cpan/Launcher-Cascade@0.02
 Lavoco::Web::App                    0.06  pkg:cpan/Lavoco-Web-App@0.06
 Lavoco::Web::Editor                 0.07  pkg:cpan/Lavoco-Web-Editor@0.07
-Layout::Flex                        0.04  pkg:cpan/Layout-Flex@0.04
+Layout::Flex                        0.05  pkg:cpan/Layout-Flex@0.05
 Layout::Manager                     0.35  pkg:cpan/Layout-Manager@0.35
 Layout::Manager::Absolute          undef  pkg:cpan/Layout-Manager@0.35
 Layout::Manager::Axis              undef  pkg:cpan/Layout-Manager@0.35
@@ -130737,36 +130737,36 @@ Mail::DKIM::Signer                 1.20240923  pkg:cpan/Mail-DKIM@1.20240923
 Mail::DKIM::SignerPolicy           1.20240923  pkg:cpan/Mail-DKIM@1.20240923
 Mail::DKIM::TextWrap               1.20240923  pkg:cpan/Mail-DKIM@1.20240923
 Mail::DKIM::Verifier               1.20240923  pkg:cpan/Mail-DKIM@1.20240923
-Mail::DMARC                        2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::Base                  2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::HTTP                  2.20260621  pkg:cpan/Mail-DMARC@2.20260621
+Mail::DMARC                        2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::Base                  2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::HTTP                  2.20260724  pkg:cpan/Mail-DMARC@2.20260724
 Mail::DMARC::Iterator              0.014  pkg:cpan/Mail-DMARC-Iterator@0.014
-Mail::DMARC::Policy                2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::PurePerl              2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::Report                2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::Report::Aggregate     2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::Report::Aggregate::Metadata 2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::Report::Aggregate::Record 2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::Report::Aggregate::Record::Auth_Results 2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::Report::Aggregate::Record::Auth_Results::DKIM 2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::Report::Aggregate::Record::Auth_Results::SPF 2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::Report::Aggregate::Record::Identifiers 2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::Report::Aggregate::Record::Row 2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::Report::Aggregate::Record::Row::Policy_Evaluated 2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::Report::Receive       2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::Report::Send          2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::Report::Send::HTTP    2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::Report::Send::SMTP    2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::Report::Sender        undef  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::Report::Store         2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::Report::Store::SQL    2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::Report::Store::SQL::Grammars::MySQL 2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::Report::Store::SQL::Grammars::PostgreSQL 2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::Report::Store::SQL::Grammars::SQLite 2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::Report::URI           2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::Result                2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::Result::Reason        2.20260621  pkg:cpan/Mail-DMARC@2.20260621
-Mail::DMARC::Test::Transport       undef  pkg:cpan/Mail-DMARC@2.20260621
+Mail::DMARC::Policy                2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::PurePerl              2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::Report                2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::Report::Aggregate     2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::Report::Aggregate::Metadata 2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::Report::Aggregate::Record 2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::Report::Aggregate::Record::Auth_Results 2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::Report::Aggregate::Record::Auth_Results::DKIM 2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::Report::Aggregate::Record::Auth_Results::SPF 2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::Report::Aggregate::Record::Identifiers 2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::Report::Aggregate::Record::Row 2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::Report::Aggregate::Record::Row::Policy_Evaluated 2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::Report::Receive       2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::Report::Send          2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::Report::Send::HTTP    2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::Report::Send::SMTP    2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::Report::Sender        undef  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::Report::Store         2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::Report::Store::SQL    2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::Report::Store::SQL::Grammars::MySQL 2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::Report::Store::SQL::Grammars::PostgreSQL 2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::Report::Store::SQL::Grammars::SQLite 2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::Report::URI           2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::Result                2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::Result::Reason        2.20260724  pkg:cpan/Mail-DMARC@2.20260724
+Mail::DMARC::Test::Transport       undef  pkg:cpan/Mail-DMARC@2.20260724
 Mail::DMARC::opendmarc              0.11  pkg:cpan/Mail-DMARC-opendmarc@0.11
 Mail::DMARC::opendmarc::Constants::C::Symbols  0.11  pkg:cpan/Mail-DMARC-opendmarc@0.11
 Mail::DSPAM::Learning                0.1  pkg:cpan/Mail-DSPAM-Learning@0.1
@@ -157975,7 +157975,7 @@ OpenSearch::Client::CxnPool::Sniff 3.007009  pkg:cpan/OpenSearch-Client@3.007009
 OpenSearch::Client::CxnPool::Static 3.007009  pkg:cpan/OpenSearch-Client@3.007009
 OpenSearch::Client::CxnPool::Static::NoPing 3.007009  pkg:cpan/OpenSearch-Client@3.007009
 OpenSearch::Client::Error          3.007009  pkg:cpan/OpenSearch-Client@3.007009
-OpenSearch::Client::Hash           3.007010  pkg:cpan/OpenSearch-Client-Hash@3.007010
+OpenSearch::Client::Hash           3.008  pkg:cpan/OpenSearch-Client-Hash@3.008
 OpenSearch::Client::Logger::LogAny 3.007009  pkg:cpan/OpenSearch-Client@3.007009
 OpenSearch::Client::Role::API      3.007009  pkg:cpan/OpenSearch-Client@3.007009
 OpenSearch::Client::Role::Client   3.007009  pkg:cpan/OpenSearch-Client@3.007009
