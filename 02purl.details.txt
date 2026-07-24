@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 24 Jul 2026 10:09:53 GMT
-Line-Count: 266736
+Last-Updated: Fri, 24 Jul 2026 13:22:42 GMT
+Line-Count: 266737
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -30527,7 +30527,7 @@ Business::IS::PIN                   0.06  pkg:cpan/Business-IS-PIN@0.06
 Business::ISBN                     3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN10                   3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN13                   3.014  pkg:cpan/Business-ISBN@3.014
-Business::ISBN::Data               20260723.001  pkg:cpan/Business-ISBN-Data@20260723.001
+Business::ISBN::Data               20260724.001  pkg:cpan/Business-ISBN-Data@20260724.001
 Business::ISIN                      0.20  pkg:cpan/Business-ISIN@0.20?ext=tgz
 Business::ISMN                     1.205  pkg:cpan/Business-ISMN@1.205
 Business::ISMN::Data               1.205  pkg:cpan/Business-ISMN@1.205
@@ -58501,7 +58501,7 @@ Data::HierTimingWheel::Shared       0.01  pkg:cpan/Data-HierTimingWheel-Shared@0
 Data::Hierarchy                     0.34  pkg:cpan/Data-Hierarchy@0.34
 Data::Hierarchy::Relative           0.34  pkg:cpan/Data-Hierarchy@0.34
 Data::Hierarchy::Traverser          0.01  pkg:cpan/Data-Hierarchy-Traverser@0.01
-Data::Histogram::Shared             0.02  pkg:cpan/Data-Histogram-Shared@0.02
+Data::Histogram::Shared             0.03  pkg:cpan/Data-Histogram-Shared@0.03
 Data::Hive                         1.015  pkg:cpan/Data-Hive@1.015
 Data::Hive::PathPacker             1.015  pkg:cpan/Data-Hive@1.015
 Data::Hive::PathPacker::Flexible   1.015  pkg:cpan/Data-Hive@1.015
@@ -58537,7 +58537,7 @@ Data::Hopen::Util::Filename        0.000021  pkg:cpan/Data-Hopen@0.000021
 Data::Hopen::Util::MergeWithoutCloneBlessed 0.000020  pkg:cpan/Data-Hopen@0.000021
 Data::Hopen::Util::NameSet         0.000021  pkg:cpan/Data-Hopen@0.000021
 Data::Hopen::Visitor               0.000021  pkg:cpan/Data-Hopen@0.000021
-Data::HyperLogLog::Shared           0.02  pkg:cpan/Data-HyperLogLog-Shared@0.02
+Data::HyperLogLog::Shared           0.03  pkg:cpan/Data-HyperLogLog-Shared@0.03
 Data::ICal                          0.24  pkg:cpan/Data-ICal@0.24
 Data::ICal::DAVAdapter              0.03  pkg:cpan/Meetup-API@0.03
 Data::ICal::DateTime                0.82  pkg:cpan/Data-ICal-DateTime@0.82
@@ -58995,7 +58995,7 @@ Data::InputMonster::Util::Catalyst 0.006  pkg:cpan/Data-InputMonster-Util-Cataly
 Data::Inspect                       0.05  pkg:cpan/Data-Inspect@0.05
 Data::Integer                      0.007  pkg:cpan/Data-Integer@0.007
 Data::Interactive::Inspect          0.07  pkg:cpan/Data-Interactive-Inspect@0.07
-Data::Intern::Shared                0.02  pkg:cpan/Data-Intern-Shared@0.02
+Data::Intern::Shared                0.03  pkg:cpan/Data-Intern-Shared@0.03
 Data::IntervalTree::Shared          0.01  pkg:cpan/Data-IntervalTree-Shared@0.01
 Data::Iter                           0.2  pkg:cpan/Data-Iter@0.2
 Data::Iterator                     0.021  pkg:cpan/Data-Iterator@0.021?ext=zip
@@ -59017,6 +59017,7 @@ Data::JSONSchema::Ajv::src::06      0.09  pkg:cpan/Data-JSONSchema-Ajv@0.09
 Data::JavaScript                    1.16  pkg:cpan/Data-JavaScript@1.16
 Data::JavaScript::Anon              1.03  pkg:cpan/Data-JavaScript-Anon@1.03
 Data::JavaScript::LiteObject        1.04  pkg:cpan/Data-JavaScript-LiteObject@1.04?ext=tgz
+Data::KDTree::Shared                0.01  pkg:cpan/Data-KDTree-Shared@0.01
 Data::KSUID                        0.001  pkg:cpan/Data-KSUID@0.001
 Data::Kanji::Kanjidic               0.17  pkg:cpan/Data-Kanji-Kanjidic@0.17
 Data::KeyDiff                      0.021  pkg:cpan/Data-KeyDiff@0.021
@@ -59074,7 +59075,7 @@ Data::Localize::Util               undef  pkg:cpan/Data-Localize@0.00028
 Data::Localize::YAML               0.002  pkg:cpan/Data-Localize-YAML@0.002
 Data::Locations                      5.5  pkg:cpan/Data-Locations@5.5
 Data::Lock                          1.03  pkg:cpan/Data-Lock@1.03
-Data::Log::Shared                   0.05  pkg:cpan/Data-Log-Shared@0.05
+Data::Log::Shared                   0.06  pkg:cpan/Data-Log-Shared@0.06
 Data::Login                         0.05  pkg:cpan/Data-Login@0.05
 Data::Login::Role                   0.05  pkg:cpan/Data-Login@0.05
 Data::Lotter                       0.00004  pkg:cpan/Data-Lotter@0.00004
@@ -59300,7 +59301,7 @@ Data::MuFormX::Registry            0.001  pkg:cpan/Data-MuFormX-Registry@0.001
 Data::MultiValuedHash              1.081  pkg:cpan/Data-MultiValuedHash@1.081
 Data::Multihash                     0.03  pkg:cpan/Data-Multihash@0.03-fix
 Data::Munge                        0.111  pkg:cpan/Data-Munge@0.111
-Data::NDArray::Shared               0.02  pkg:cpan/Data-NDArray-Shared@0.02
+Data::NDArray::Shared               0.03  pkg:cpan/Data-NDArray-Shared@0.03
 Data::NFA                          20201031  pkg:cpan/Data-NFA@20201031
 Data::Navigation::Item              0.02  pkg:cpan/Data-Navigation-Item@0.02
 Data::Nest                          0.06  pkg:cpan/Data-Nest@0.06
@@ -222018,7 +222019,7 @@ Socket::More::Resolver::Async      undef  pkg:cpan/Socket-More-Resolver@v0.1.0
 Socket::More::Resolver::IO::Async  undef  pkg:cpan/Socket-More-Resolver@v0.1.3
 Socket::More::Resolver::Mojo::IOLoop undef  pkg:cpan/Socket-More-Resolver@v0.1.3
 Socket::More::Resolver::Worker     undef  pkg:cpan/Socket-More-Resolver@v0.1.3
-Socket::MsgHdr                      0.05  pkg:cpan/Socket-MsgHdr@0.05
+Socket::MsgHdr                      0.06  pkg:cpan/Socket-MsgHdr@0.06
 Socket::Multicast                   0.01  pkg:cpan/Socket-Multicast@0.01
 Socket::Multicast6                  0.04  pkg:cpan/Socket-Multicast6@0.04
 Socket::Netlink                     0.05  pkg:cpan/Socket-Netlink@0.05
