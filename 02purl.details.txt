@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 25 Jul 2026 20:41:48 GMT
-Line-Count: 266750
+Last-Updated: Sat, 25 Jul 2026 22:45:39 GMT
+Line-Count: 266751
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -63738,7 +63738,7 @@ DateTime::Format::Flexible::lang::de undef  pkg:cpan/DateTime-Format-Flexible@0.
 DateTime::Format::Flexible::lang::en undef  pkg:cpan/DateTime-Format-Flexible@0.37
 DateTime::Format::Flexible::lang::es undef  pkg:cpan/DateTime-Format-Flexible@0.37
 DateTime::Format::GeekTime         1.001  pkg:cpan/DateTime-Format-GeekTime@1.001
-DateTime::Format::Genealogy         0.12  pkg:cpan/DateTime-Format-Genealogy@0.12
+DateTime::Format::Genealogy         0.13  pkg:cpan/DateTime-Format-Genealogy@0.13
 DateTime::Format::GnuAt             0.03  pkg:cpan/DateTime-Format-GnuAt@0.03
 DateTime::Format::HTTP              0.43  pkg:cpan/DateTime-Format-HTTP@0.43
 DateTime::Format::Human             0.01  pkg:cpan/DateTime-Format-Human@0.01
@@ -65121,7 +65121,7 @@ Devel::IPerl::ReadLine::Role::DevelREPL 0.012  pkg:cpan/Devel-IPerl@0.012
 Devel::IPerl::ReadLine::String     0.012  pkg:cpan/Devel-IPerl@0.012
 Devel::InPackage                    0.01  pkg:cpan/Devel-InPackage@0.01
 Devel::InheritNamespace            0.00003  pkg:cpan/Devel-InheritNamespace@0.00003
-Devel::InnerPackage                  0.4  pkg:cpan/Module-Pluggable@6.3
+Devel::InnerPackage                  0.4  pkg:cpan/Module-Pluggable@6.4
 Devel::IntelliPerl                  0.04  pkg:cpan/Devel-IntelliPerl@0.04
 Devel::IntelliPerl::Editor          0.04  pkg:cpan/Devel-IntelliPerl@0.04
 Devel::IntelliPerl::Editor::TextMate  0.04  pkg:cpan/Devel-IntelliPerl@0.04
@@ -122596,7 +122596,7 @@ LibCAS::ModPerl2                    0.01  pkg:cpan/LibCAS@0.02a
 LibJIT                              0.03  pkg:cpan/LibJIT@0.03
 LibTracker::Client                  0.02  pkg:cpan/LibTracker-Client@0.02
 LibTracker::Client::MetaDataTypeDetails undef  pkg:cpan/LibTracker-Client@0.02
-LibUI                               0.02  pkg:cpan/LibUI@0.02
+LibUI                              v1.0.0  pkg:cpan/LibUI@v1.0.0
 LibUI::Align                        0.02  pkg:cpan/LibUI@0.02
 LibUI::Area                         0.02  pkg:cpan/LibUI@0.02
 LibUI::Area::DrawParams             0.02  pkg:cpan/LibUI@0.02
@@ -122628,6 +122628,7 @@ LibUI::HBox                         0.02  pkg:cpan/LibUI@0.02
 LibUI::HSeparator                   0.02  pkg:cpan/LibUI@0.02
 LibUI::HorizontalSeparator          0.01  pkg:cpan/LibUI@0.01
 LibUI::Label                        0.02  pkg:cpan/LibUI@0.02
+LibUI::Matrix                      v1.0.0  pkg:cpan/LibUI@v1.0.0
 LibUI::Menu                         0.02  pkg:cpan/LibUI@0.02
 LibUI::MenuItem                     0.02  pkg:cpan/LibUI@0.02
 LibUI::MultilineEntry               0.02  pkg:cpan/LibUI@0.02
@@ -138814,11 +138815,11 @@ Module::Path::Patch::Hide          0.001  pkg:cpan/Module-Path-Patch-Hide@0.001
 Module::Plan::Archive               1.19  pkg:cpan/pip@1.19
 Module::Plan::Base                  1.19  pkg:cpan/pip@1.19
 Module::Plan::Lite                  1.19  pkg:cpan/pip@1.19
-Module::Pluggable                    6.3  pkg:cpan/Module-Pluggable@6.3
+Module::Pluggable                    6.4  pkg:cpan/Module-Pluggable@6.4
 Module::Pluggable::Dependency      0.000004  pkg:cpan/Module-Pluggable-Dependency@0.0.4
 Module::Pluggable::Fast             0.19  pkg:cpan/Module-Pluggable-Fast@0.19
 Module::Pluggable::Loader          1.100860  pkg:cpan/Module-Pluggable-Loader@1.100860
-Module::Pluggable::Object            5.2  pkg:cpan/Module-Pluggable@6.3
+Module::Pluggable::Object            5.3  pkg:cpan/Module-Pluggable@6.4
 Module::Pluggable::Ordered           1.5  pkg:cpan/Module-Pluggable-Ordered@1.5
 Module::Pluggable::Singleton        0.06  pkg:cpan/Module-Pluggable-Singleton@0.06
 Module::Pluggable::Singleton::Object  0.06  pkg:cpan/Module-Pluggable-Singleton@0.06
@@ -147288,43 +147289,43 @@ Net::Bind                           0.05  pkg:cpan/Net-Bind@0.05
 Net::Bind::Resolv                   0.01  pkg:cpan/Net-Bind@0.01
 Net::Bind::Utils                    0.05  pkg:cpan/Net-Bind@0.05
 Net::Bind::rbldnsdAccessor          0.05  pkg:cpan/Net-Bind-rbldnsdAccessor@0.05
-Net::BitTorrent                    v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::DHT               v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::DHT::Peer         v2.0.6  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::DHT::Security     v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Emitter           v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent                    v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::DHT               v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::DHT::Peer         v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::DHT::Security     v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Emitter           v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
 Net::BitTorrent::File               1.02  pkg:cpan/Net-BitTorrent-File@1.02-fix
-Net::BitTorrent::Peer              v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Peer              v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
 Net::BitTorrent::PeerPacket          1.2  pkg:cpan/Net-BitTorrent-PeerPacket@1.2
-Net::BitTorrent::Protocol::BEP03   v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Protocol::BEP03::Bencode v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Protocol::BEP06   v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Protocol::BEP09   v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Protocol::BEP10   v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Protocol::BEP11   v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Protocol::BEP23   v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Protocol::BEP52   v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Protocol::BEP53   v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Protocol::BEP55   v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Protocol::HandshakeOnly v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Protocol::MSE     v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Protocol::MSE::KeyExchange v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Protocol::MSE::RC4 v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Protocol::PeerHandler v2.0.1  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Protocol::Simulation v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::SSRF              v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Storage           v2.0.1  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Storage::File     v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Torrent           v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Torrent::Generator v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Torrent::PiecePicker v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Tracker           v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Tracker::Base     v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Tracker::HTTP     v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Tracker::UDP      v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Tracker::WebSeed  v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Transport::TCP    v2.1.0  pkg:cpan/Net-BitTorrent@v2.1.0
-Net::BitTorrent::Types             v2.0.0  pkg:cpan/Net-BitTorrent@v2.1.0
+Net::BitTorrent::Protocol::BEP03   v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Protocol::BEP03::Bencode v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Protocol::BEP06   v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Protocol::BEP09   v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Protocol::BEP10   v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Protocol::BEP11   v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Protocol::BEP23   v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Protocol::BEP52   v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Protocol::BEP53   v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Protocol::BEP55   v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Protocol::HandshakeOnly v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Protocol::MSE     v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Protocol::MSE::KeyExchange v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Protocol::MSE::RC4 v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Protocol::PeerHandler v2.0.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Protocol::Simulation v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::SSRF              v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Storage           v2.0.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Storage::File     v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Torrent           v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Torrent::Generator v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Torrent::PiecePicker v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Tracker           v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Tracker::Base     v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Tracker::HTTP     v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Tracker::UDP      v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Tracker::WebSeed  v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Transport::TCP    v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
+Net::BitTorrent::Types             v2.1.1  pkg:cpan/Net-BitTorrent@v2.1.1
 Net::BitTorrentSync                 0.21  pkg:cpan/Net-BitTorrentSync@0.21
 Net::Blacklist::Client               0.3  pkg:cpan/Net-Blacklist-Client@0.3
 Net::Blogger                        1.03  pkg:cpan/Net-Blogger@1.03
