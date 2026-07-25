@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 25 Jul 2026 13:08:40 GMT
-Line-Count: 266746
+Last-Updated: Sat, 25 Jul 2026 14:56:28 GMT
+Line-Count: 266750
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -22237,14 +22237,14 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         0.026002  pkg:cpan/BarefootJS@0.26.2
-BarefootJS::Backend::Mojo          0.026002  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.26.2
-BarefootJS::Backend::Xslate        0.026002  pkg:cpan/BarefootJS-Backend-Xslate@0.26.2
-BarefootJS::Date                   0.026002  pkg:cpan/BarefootJS@0.26.2
-BarefootJS::DevReload              0.026002  pkg:cpan/BarefootJS@0.26.2
-BarefootJS::Evaluator              0.014000  pkg:cpan/BarefootJS@0.26.2
-BarefootJS::SearchParams           0.014000  pkg:cpan/BarefootJS@0.26.2
-BarefootJS::_TZProbe               0.026002  pkg:cpan/BarefootJS@0.26.2
+BarefootJS                         0.026003  pkg:cpan/BarefootJS@0.26.3
+BarefootJS::Backend::Mojo          0.026003  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.26.3
+BarefootJS::Backend::Xslate        0.026003  pkg:cpan/BarefootJS-Backend-Xslate@0.26.3
+BarefootJS::Date                   0.026003  pkg:cpan/BarefootJS@0.26.3
+BarefootJS::DevReload              0.026003  pkg:cpan/BarefootJS@0.26.3
+BarefootJS::Evaluator              0.014000  pkg:cpan/BarefootJS@0.26.3
+BarefootJS::SearchParams           0.014000  pkg:cpan/BarefootJS@0.26.3
+BarefootJS::_TZProbe               0.026003  pkg:cpan/BarefootJS@0.26.3
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
 Baseball::Sabermetrics              0.03  pkg:cpan/Baseball-Sabermetrics@0.03
@@ -43099,26 +43099,26 @@ ChainMake::Parallel                    0  pkg:cpan/ChainMake@0.9.0
 ChainMake::Tester                      0  pkg:cpan/ChainMake@0.9.0
 Champ                              0.001  pkg:cpan/App-PythonToPerl@0.001
 Champlain                           0.14  pkg:cpan/Champlain@0.14
-Chandra                             0.29  pkg:cpan/Chandra@0.29
-Chandra::App                        0.29  pkg:cpan/Chandra@0.29
-Chandra::Assets                     0.29  pkg:cpan/Chandra@0.29
-Chandra::Bind                       0.29  pkg:cpan/Chandra@0.29
-Chandra::Breadcrumb                 0.29  pkg:cpan/Chandra@0.29
-Chandra::Bridge                     0.29  pkg:cpan/Chandra@0.29
-Chandra::Bridge::Extension          0.29  pkg:cpan/Chandra@0.29
-Chandra::Canvas                     0.29  pkg:cpan/Chandra@0.29
-Chandra::Clipboard                  0.29  pkg:cpan/Chandra@0.29
-Chandra::Component                  0.29  pkg:cpan/Chandra@0.29
-Chandra::ContextMenu                0.29  pkg:cpan/Chandra@0.29
-Chandra::DevTools                   0.29  pkg:cpan/Chandra@0.29
-Chandra::Dialog                     0.29  pkg:cpan/Chandra@0.29
-Chandra::DragDrop                   0.29  pkg:cpan/Chandra@0.29
+Chandra                             0.30  pkg:cpan/Chandra@0.30
+Chandra::App                        0.30  pkg:cpan/Chandra@0.30
+Chandra::Assets                     0.30  pkg:cpan/Chandra@0.30
+Chandra::Bind                       0.30  pkg:cpan/Chandra@0.30
+Chandra::Breadcrumb                 0.30  pkg:cpan/Chandra@0.30
+Chandra::Bridge                     0.30  pkg:cpan/Chandra@0.30
+Chandra::Bridge::Extension          0.30  pkg:cpan/Chandra@0.30
+Chandra::Canvas                     0.30  pkg:cpan/Chandra@0.30
+Chandra::Clipboard                  0.30  pkg:cpan/Chandra@0.30
+Chandra::Component                  0.30  pkg:cpan/Chandra@0.30
+Chandra::ContextMenu                0.30  pkg:cpan/Chandra@0.30
+Chandra::DevTools                   0.30  pkg:cpan/Chandra@0.30
+Chandra::Dialog                     0.30  pkg:cpan/Chandra@0.30
+Chandra::DragDrop                   0.30  pkg:cpan/Chandra@0.30
 Chandra::EPUB                       0.03  pkg:cpan/Chandra-EPUB@0.03
-Chandra::Element                    0.29  pkg:cpan/Chandra@0.29
-Chandra::Error                      0.29  pkg:cpan/Chandra@0.29
-Chandra::Event                      0.29  pkg:cpan/Chandra@0.29
-Chandra::Form                       0.29  pkg:cpan/Chandra@0.29
-Chandra::Form::Validator            0.29  pkg:cpan/Chandra@0.29
+Chandra::Element                    0.30  pkg:cpan/Chandra@0.30
+Chandra::Error                      0.30  pkg:cpan/Chandra@0.30
+Chandra::Event                      0.30  pkg:cpan/Chandra@0.30
+Chandra::Form                       0.30  pkg:cpan/Chandra@0.30
+Chandra::Form::Validator            0.30  pkg:cpan/Chandra@0.30
 Chandra::Game::Tetris               0.04  pkg:cpan/Chandra-Game-Tetris@0.04
 Chandra::Game::Tetris::Blocks      undef  pkg:cpan/Chandra-Game-Tetris@0.04
 Chandra::Game::Tetris::Blocks::IBlock undef  pkg:cpan/Chandra-Game-Tetris@0.04
@@ -43131,28 +43131,30 @@ Chandra::Game::Tetris::Blocks::TBlock undef  pkg:cpan/Chandra-Game-Tetris@0.04
 Chandra::Game::Tetris::Blocks::ZBlock undef  pkg:cpan/Chandra-Game-Tetris@0.04
 Chandra::Game::Tetris::Engine      undef  pkg:cpan/Chandra-Game-Tetris@0.04
 Chandra::Game::Tetris::Grid        undef  pkg:cpan/Chandra-Game-Tetris@0.04
-Chandra::HotReload                  0.29  pkg:cpan/Chandra@0.29
-Chandra::Log                        0.29  pkg:cpan/Chandra@0.29
+Chandra::HotReload                  0.30  pkg:cpan/Chandra@0.30
+Chandra::Log                        0.30  pkg:cpan/Chandra@0.30
 Chandra::Markdown                   0.02  pkg:cpan/Chandra-Markdown@0.02
 Chandra::Markdown::App              0.01  pkg:cpan/Chandra-Markdown@0.02
-Chandra::Modal                      0.29  pkg:cpan/Chandra@0.29
-Chandra::Nav                        0.29  pkg:cpan/Chandra@0.29
-Chandra::Notify                     0.29  pkg:cpan/Chandra@0.29
-Chandra::Pack                       0.29  pkg:cpan/Chandra@0.29
-Chandra::Protocol                   0.29  pkg:cpan/Chandra@0.29
-Chandra::Shortcut                   0.29  pkg:cpan/Chandra@0.29
-Chandra::Socket::Client             0.29  pkg:cpan/Chandra@0.29
-Chandra::Socket::Connection         0.29  pkg:cpan/Chandra@0.29
-Chandra::Socket::Hub                0.29  pkg:cpan/Chandra@0.29
-Chandra::Socket::Token              0.29  pkg:cpan/Chandra@0.29
-Chandra::Splash                     0.29  pkg:cpan/Chandra@0.29
-Chandra::Store                      0.29  pkg:cpan/Chandra@0.29
-Chandra::Table                      0.29  pkg:cpan/Chandra@0.29
-Chandra::Tabs                       0.29  pkg:cpan/Chandra@0.29
-Chandra::Theme                      0.29  pkg:cpan/Chandra@0.29
-Chandra::Toast                      0.29  pkg:cpan/Chandra@0.29
-Chandra::Tray                       0.29  pkg:cpan/Chandra@0.29
-Chandra::Window                     0.29  pkg:cpan/Chandra@0.29
+Chandra::Modal                      0.30  pkg:cpan/Chandra@0.30
+Chandra::Nav                        0.30  pkg:cpan/Chandra@0.30
+Chandra::Notify                     0.30  pkg:cpan/Chandra@0.30
+Chandra::Pack                       0.30  pkg:cpan/Chandra@0.30
+Chandra::Protocol                   0.30  pkg:cpan/Chandra@0.30
+Chandra::Same::Boy                  0.01  pkg:cpan/Chandra-Same-Boy@0.01
+Chandra::Same::Boy::App             0.01  pkg:cpan/Chandra-Same-Boy@0.01
+Chandra::Shortcut                   0.30  pkg:cpan/Chandra@0.30
+Chandra::Socket::Client             0.30  pkg:cpan/Chandra@0.30
+Chandra::Socket::Connection         0.30  pkg:cpan/Chandra@0.30
+Chandra::Socket::Hub                0.30  pkg:cpan/Chandra@0.30
+Chandra::Socket::Token              0.30  pkg:cpan/Chandra@0.30
+Chandra::Splash                     0.30  pkg:cpan/Chandra@0.30
+Chandra::Store                      0.30  pkg:cpan/Chandra@0.30
+Chandra::Table                      0.30  pkg:cpan/Chandra@0.30
+Chandra::Tabs                       0.30  pkg:cpan/Chandra@0.30
+Chandra::Theme                      0.30  pkg:cpan/Chandra@0.30
+Chandra::Toast                      0.30  pkg:cpan/Chandra@0.30
+Chandra::Tray                       0.30  pkg:cpan/Chandra@0.30
+Chandra::Window                     0.30  pkg:cpan/Chandra@0.30
 Changes                            0.004002  pkg:cpan/Changes@v0.4.2
 Changes::Change                    0.001002  pkg:cpan/Changes@v0.4.2
 Changes::Group                     0.002001  pkg:cpan/Changes@v0.4.2
@@ -140128,8 +140130,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    0.026002  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.26.2
-Mojolicious::Plugin::BarefootJS::DevReload 0.026002  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.26.2
+Mojolicious::Plugin::BarefootJS    0.026003  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.26.3
+Mojolicious::Plugin::BarefootJS::DevReload 0.026003  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.26.3
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -213961,6 +213963,8 @@ Samba::LDAP::Machine                0.05  pkg:cpan/Samba-LDAP@0.05
 Samba::LDAP::User                   0.05  pkg:cpan/Samba-LDAP@0.05
 Samba::SIDhelper                     0.0  pkg:cpan/Samba-SIDhelper@0.0.0
 Samba::Smbstatus                    0.01  pkg:cpan/Samba-Smbstatus@0.01
+Same::Boy                           0.01  pkg:cpan/Same-Boy@0.01
+Same::Boy::Terminal                 0.01  pkg:cpan/Same-Boy@0.01
 Sample                             undef  pkg:cpan/DBIx-Skinny@0.03
 Sample::AuthCookieHandler            1.2  pkg:cpan/Apache-AuthCookie@1.4
 Sample::Schema                     undef  pkg:cpan/DBIx-Skinny@0.03
