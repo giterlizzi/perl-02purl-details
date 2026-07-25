@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 25 Jul 2026 18:57:03 GMT
+Last-Updated: Sat, 25 Jul 2026 20:41:48 GMT
 Line-Count: 266750
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -16840,7 +16840,7 @@ App::ygeo                           0.02  pkg:cpan/App-ygeo@0.02
 App::ygeo::yaml                     0.02  pkg:cpan/App-ygeo@0.02
 App::zen                            0.11  pkg:cpan/App-zen@0.11
 App::zerogap                       0.014  pkg:cpan/App-coldigits@0.014
-App::zipdetails                    4.008  pkg:cpan/App-zipdetails@4.008
+App::zipdetails                    4.009  pkg:cpan/App-zipdetails@4.009
 App::zoo                            0.02  pkg:cpan/App-zoo@0.02
 AppBase::Grep                      0.014  pkg:cpan/AppBase-Grep@0.014
 AppBase::Grep::ColorScheme::AspirinC 0.001  pkg:cpan/AppBase-Grep-ColorSchemes-Kuler@0.001
