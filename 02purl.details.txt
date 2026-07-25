@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 25 Jul 2026 02:01:39 GMT
+Last-Updated: Sat, 25 Jul 2026 06:10:31 GMT
 Line-Count: 266746
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -255080,15 +255080,15 @@ Wiktionary::Parser::Section::Translations::WordSense undef  pkg:cpan/Wiktionary-
 Wiktionary::Parser::Section::Translations::WordSense::Lexeme undef  pkg:cpan/Wiktionary-Parser@0.11
 Wiktionary::Parser::Section::WikisaurusSection undef  pkg:cpan/Wiktionary-Parser@0.11
 Wiktionary::Parser::TemplateParser undef  pkg:cpan/Wiktionary-Parser@0.11
-Wildling                           2.000006  pkg:cpan/Wildling@2.0.6
-Wildling::Cli                      undef  pkg:cpan/Wildling@2.0.6
-Wildling::Client                   2.000006  pkg:cpan/Wildling@2.0.6
-Wildling::Generator                undef  pkg:cpan/Wildling@2.0.6
-Wildling::Json                     undef  pkg:cpan/Wildling@2.0.6
-Wildling::Json::Bool               undef  pkg:cpan/Wildling@2.0.6
-Wildling::Json::_Parser            undef  pkg:cpan/Wildling@2.0.6
-Wildling::ParsePattern             undef  pkg:cpan/Wildling@2.0.6
-Wildling::Token                    undef  pkg:cpan/Wildling@2.0.6
+Wildling                           2.000007  pkg:cpan/Wildling@2.0.7
+Wildling::Cli                      undef  pkg:cpan/Wildling@2.0.7
+Wildling::Client                   2.000007  pkg:cpan/Wildling@2.0.7
+Wildling::Generator                undef  pkg:cpan/Wildling@2.0.7
+Wildling::Json                     undef  pkg:cpan/Wildling@2.0.7
+Wildling::Json::Bool               undef  pkg:cpan/Wildling@2.0.7
+Wildling::Json::_Parser            undef  pkg:cpan/Wildling@2.0.7
+Wildling::ParsePattern             undef  pkg:cpan/Wildling@2.0.7
+Wildling::Token                    undef  pkg:cpan/Wildling@2.0.7
 Wily                                0.02  pkg:cpan/Wily@0.02
 Wily::Connect                       0.01  pkg:cpan/Wily@0.02
 Wily::Message                       0.01  pkg:cpan/Wily@0.02
