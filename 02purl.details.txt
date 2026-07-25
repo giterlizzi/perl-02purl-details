@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 25 Jul 2026 11:03:39 GMT
+Last-Updated: Sat, 25 Jul 2026 13:08:40 GMT
 Line-Count: 266746
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -110562,9 +110562,9 @@ Haineko::SMTPD::Session            undef  pkg:cpan/Haineko@0.2.16
 Haineko::Sample                    undef  pkg:cpan/Haineko@0.2.16
 Haineko::Sendmail                  undef  pkg:cpan/Haineko@0.2.16
 Hal::Cdroms                         0.06  pkg:cpan/Hal-Cdroms@0.06
-Ham::ADIF                          v2018.3.31  pkg:cpan/Ham-ADIF@v2018.3.31
-Ham::ADIF::ADI                     v2018.3.31  pkg:cpan/Ham-ADIF@v2018.3.31
-Ham::ADIF::ADX                     v2018.3.31  pkg:cpan/Ham-ADIF@v2018.3.31
+Ham::ADIF                          v2026.7.25  pkg:cpan/Ham-ADIF@v2026.7.25
+Ham::ADIF::ADI                     v2026.7.25  pkg:cpan/Ham-ADIF@v2026.7.25
+Ham::ADIF::ADX                     v2026.7.25  pkg:cpan/Ham-ADIF@v2026.7.25
 Ham::APRS::DeviceID                 2.02  pkg:cpan/Ham-APRS-DeviceID@2.02
 Ham::APRS::FAP                      1.21  pkg:cpan/Ham-APRS-FAP@1.21
 Ham::APRS::IS                       1.18  pkg:cpan/Ham-APRS-FAP@1.21
@@ -234173,10 +234173,10 @@ Text::Same::MatchMap                0.07  pkg:cpan/Text-Same@0.07
 Text::Same::Range                   0.07  pkg:cpan/Text-Same@0.07
 Text::Same::TextUI                  0.07  pkg:cpan/Text-Same@0.07
 Text::Same::Util                    0.07  pkg:cpan/Text-Same@0.07
-Text::Sass                         v1.0.4  pkg:cpan/Text-Sass@v1.0.4
-Text::Sass::Expr                   v1.0.4  pkg:cpan/Text-Sass@v1.0.4
-Text::Sass::Functions              v1.0.4  pkg:cpan/Text-Sass@v1.0.4
-Text::Sass::Token                  v1.0.4  pkg:cpan/Text-Sass@v1.0.4
+Text::Sass                         v1.1.0  pkg:cpan/Text-Sass@v1.1.0
+Text::Sass::Expr                   v1.1.0  pkg:cpan/Text-Sass@v1.1.0
+Text::Sass::Functions              v1.1.0  pkg:cpan/Text-Sass@v1.1.0
+Text::Sass::Token                  v1.1.0  pkg:cpan/Text-Sass@v1.1.0
 Text::Sass::XS                      0.11  pkg:cpan/Text-Sass-XS@0.11
 Text::Scan                          0.31  pkg:cpan/Text-Scan@0.31
 Text::Schmutz                      v0.1.2  pkg:cpan/Text-Schmutz@v0.1.2
