@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 25 Jul 2026 14:56:28 GMT
+Last-Updated: Sat, 25 Jul 2026 16:50:06 GMT
 Line-Count: 266750
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -134528,7 +134528,7 @@ MathWorks::platformList            undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::product                 undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepItem          undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepList          undef  pkg:cpan/XML-Pastor@0.6.0
-Matplotlib::Simple                 0.301  pkg:cpan/Matplotlib-Simple@0.301
+Matplotlib::Simple                  0.31  pkg:cpan/Matplotlib-Simple@0.31
 Matrix::Simple                      1.04  pkg:cpan/Matrix-Simple@1.04
 Matts::Message                     undef  pkg:cpan/Matts-Message-Parser@1.0
 Matts::Message::Parser               1.0  pkg:cpan/Matts-Message-Parser@1.0
@@ -199130,12 +199130,12 @@ Playwright::WebSocket              1.551  pkg:cpan/Playwright@1.551
 Playwright::WebSocketFrame         1.551  pkg:cpan/Playwright@1.551
 Playwright::WebSocketRoute         1.551  pkg:cpan/Playwright@1.551
 Playwright::Worker                 1.551  pkg:cpan/Playwright@1.551
-Plerd                              1.903  pkg:cpan/Plerd@1.903
-Plerd::Init                        undef  pkg:cpan/Plerd@1.903
-Plerd::Post                        undef  pkg:cpan/Plerd@1.903
-Plerd::SmartyPants                 undef  pkg:cpan/Plerd@1.903
-Plerd::Tag                         undef  pkg:cpan/Plerd@1.903
-Plerd::Util                        undef  pkg:cpan/Plerd@1.903
+Plerd                              2.000  pkg:cpan/Plerd@2.000
+Plerd::Init                        undef  pkg:cpan/Plerd@2.000
+Plerd::Post                        undef  pkg:cpan/Plerd@2.000
+Plerd::SmartyPants                 undef  pkg:cpan/Plerd@2.000
+Plerd::Tag                         undef  pkg:cpan/Plerd@2.000
+Plerd::Util                        undef  pkg:cpan/Plerd@2.000
 Plerd::WebmentionQueue             undef  pkg:cpan/Plerd@1.820
 Plibwrap                            0.05  pkg:cpan/DBD-Plibdata@0.06
 Plibwrap::Row                       0.05  pkg:cpan/DBD-Plibdata@0.06
