@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 25 Jul 2026 06:10:31 GMT
+Last-Updated: Sat, 25 Jul 2026 09:39:31 GMT
 Line-Count: 266746
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -33469,15 +33469,15 @@ CPAN::Meta::Validator              2.150013  pkg:cpan/CPAN-Meta@2.150013
 CPAN::Meta::X                      0.010  pkg:cpan/CPAN-Meta-X@0.010
 CPAN::Meta::X::Old                 0.010  pkg:cpan/CPAN-Meta-X@0.010
 CPAN::Meta::YAML                   0.020  pkg:cpan/CPAN-Meta-YAML@0.020
-CPAN::MetaCurator                   1.26  pkg:cpan/CPAN-MetaCurator@1.26?ext=tgz
-CPAN::MetaCurator::Config           1.26  pkg:cpan/CPAN-MetaCurator@1.26?ext=tgz
-CPAN::MetaCurator::Create           1.26  pkg:cpan/CPAN-MetaCurator@1.26?ext=tgz
-CPAN::MetaCurator::Database         1.26  pkg:cpan/CPAN-MetaCurator@1.26?ext=tgz
-CPAN::MetaCurator::Export           1.26  pkg:cpan/CPAN-MetaCurator@1.26?ext=tgz
-CPAN::MetaCurator::HTML             1.26  pkg:cpan/CPAN-MetaCurator@1.26?ext=tgz
-CPAN::MetaCurator::Import           1.26  pkg:cpan/CPAN-MetaCurator@1.26?ext=tgz
-CPAN::MetaCurator::Search           1.26  pkg:cpan/CPAN-MetaCurator@1.26?ext=tgz
-CPAN::MetaCurator::Validate         1.26  pkg:cpan/CPAN-MetaCurator@1.26?ext=tgz
+CPAN::MetaCurator                   1.27  pkg:cpan/CPAN-MetaCurator@1.27?ext=tgz
+CPAN::MetaCurator::Config           1.27  pkg:cpan/CPAN-MetaCurator@1.27?ext=tgz
+CPAN::MetaCurator::Create           1.27  pkg:cpan/CPAN-MetaCurator@1.27?ext=tgz
+CPAN::MetaCurator::Database         1.27  pkg:cpan/CPAN-MetaCurator@1.27?ext=tgz
+CPAN::MetaCurator::Export           1.27  pkg:cpan/CPAN-MetaCurator@1.27?ext=tgz
+CPAN::MetaCurator::HTML             1.27  pkg:cpan/CPAN-MetaCurator@1.27?ext=tgz
+CPAN::MetaCurator::Import           1.27  pkg:cpan/CPAN-MetaCurator@1.27?ext=tgz
+CPAN::MetaCurator::Search           1.27  pkg:cpan/CPAN-MetaCurator@1.27?ext=tgz
+CPAN::MetaCurator::Validate         1.27  pkg:cpan/CPAN-MetaCurator@1.27?ext=tgz
 CPAN::MetaPackager                  1.04  pkg:cpan/CPAN-MetaPackager@1.04?ext=tgz
 CPAN::MetaPackager::Config          1.04  pkg:cpan/CPAN-MetaPackager@1.04?ext=tgz
 CPAN::MetaPackager::Create          1.04  pkg:cpan/CPAN-MetaPackager@1.04?ext=tgz
@@ -35923,7 +35923,7 @@ Catalyst::Helper::View::Template::PHP  0.04  pkg:cpan/Catalyst-View-Template-PHP
 Catalyst::Helper::View::Tenjin     0.050001  pkg:cpan/Catalyst-View-Tenjin@0.050001
 Catalyst::Helper::View::Text::Template 0.011  pkg:cpan/Catalyst-View-Text-Template@0.011
 Catalyst::Helper::View::Thumbnail   0.03  pkg:cpan/Catalyst-View-Thumbnail@0.03
-Catalyst::Helper::View::Wkhtmltopdf v0.6.0  pkg:cpan/Catalyst-View-Wkhtmltopdf@v0.6.0
+Catalyst::Helper::View::Wkhtmltopdf v0.6.1  pkg:cpan/Catalyst-View-Wkhtmltopdf@v0.6.1
 Catalyst::Helper::View::XLSX         1.2  pkg:cpan/Catalyst-View-XLSX@1.2
 Catalyst::Helper::View::XML        undef  pkg:cpan/Catalyst-View-XML-Simple@0.022
 Catalyst::Helper::View::XML::Hash::LX undef  pkg:cpan/Catalyst-View-XML-Hash-LX@0.04
@@ -36695,7 +36695,7 @@ Catalyst::View::Text::MicroTemplate::_PerRequest undef  pkg:cpan/Catalyst-View-T
 Catalyst::View::Text::Template     0.011  pkg:cpan/Catalyst-View-Text-Template@0.011
 Catalyst::View::Thumbnail           0.03  pkg:cpan/Catalyst-View-Thumbnail@0.03
 Catalyst::View::Vega                0.02  pkg:cpan/Catalyst-View-Vega@0.02
-Catalyst::View::Wkhtmltopdf        v0.6.0  pkg:cpan/Catalyst-View-Wkhtmltopdf@v0.6.0
+Catalyst::View::Wkhtmltopdf        v0.6.1  pkg:cpan/Catalyst-View-Wkhtmltopdf@v0.6.1
 Catalyst::View::XLSX                 1.2  pkg:cpan/Catalyst-View-XLSX@1.2
 Catalyst::View::XML::Feed           0.09  pkg:cpan/Catalyst-View-XML-Feed@0.09
 Catalyst::View::XML::Generator      0.02  pkg:cpan/Catalyst-View-XML-Generator@0.02
@@ -46657,24 +46657,24 @@ ClearCase::Vob_Cfg_Parser           1.01  pkg:cpan/ClearCase-Region@1.01
 ClearCase::Wrapper                  1.19  pkg:cpan/ClearCase-Wrapper@1.19
 ClearCase::Wrapper::DSB             1.14  pkg:cpan/ClearCase-Wrapper-DSB@1.14
 ClearCase::Wrapper::MGi             1.00  pkg:cpan/ClearCase-Wrapper-MGi@1.00
-ClearPress                         v2026.5.25  pkg:cpan/ClearPress@v2026.5.25
-ClearPress::Localize               v2026.5.25  pkg:cpan/ClearPress@v2026.5.25
-ClearPress::authdecor              v2026.5.25  pkg:cpan/ClearPress@v2026.5.25
-ClearPress::authenticator          v2026.5.25  pkg:cpan/ClearPress@v2026.5.25
-ClearPress::authenticator::db      v2026.5.25  pkg:cpan/ClearPress@v2026.5.25
-ClearPress::authenticator::ldap    v2026.5.25  pkg:cpan/ClearPress@v2026.5.25
-ClearPress::authenticator::passwd  v2026.5.25  pkg:cpan/ClearPress@v2026.5.25
-ClearPress::authenticator::session v2026.5.25  pkg:cpan/ClearPress@v2026.5.25
-ClearPress::controller             v2026.5.25  pkg:cpan/ClearPress@v2026.5.25
-ClearPress::decorator              v2026.5.25  pkg:cpan/ClearPress@v2026.5.25
-ClearPress::driver                 v2026.5.25  pkg:cpan/ClearPress@v2026.5.25
-ClearPress::driver::Pg             v2026.5.25  pkg:cpan/ClearPress@v2026.5.25
-ClearPress::driver::SQLite         v2026.5.25  pkg:cpan/ClearPress@v2026.5.25
-ClearPress::driver::mysql          v2026.5.25  pkg:cpan/ClearPress@v2026.5.25
-ClearPress::model                  v2026.5.25  pkg:cpan/ClearPress@v2026.5.25
-ClearPress::util                   v2026.5.25  pkg:cpan/ClearPress@v2026.5.25
-ClearPress::view                   v2026.5.25  pkg:cpan/ClearPress@v2026.5.25
-ClearPress::view::error            v2026.5.25  pkg:cpan/ClearPress@v2026.5.25
+ClearPress                         v2026.7.25  pkg:cpan/ClearPress@v2026.7.25
+ClearPress::Localize               v2026.7.25  pkg:cpan/ClearPress@v2026.7.25
+ClearPress::authdecor              v2026.7.25  pkg:cpan/ClearPress@v2026.7.25
+ClearPress::authenticator          v2026.7.25  pkg:cpan/ClearPress@v2026.7.25
+ClearPress::authenticator::db      v2026.7.25  pkg:cpan/ClearPress@v2026.7.25
+ClearPress::authenticator::ldap    v2026.7.25  pkg:cpan/ClearPress@v2026.7.25
+ClearPress::authenticator::passwd  v2026.7.25  pkg:cpan/ClearPress@v2026.7.25
+ClearPress::authenticator::session v2026.7.25  pkg:cpan/ClearPress@v2026.7.25
+ClearPress::controller             v2026.7.25  pkg:cpan/ClearPress@v2026.7.25
+ClearPress::decorator              v2026.7.25  pkg:cpan/ClearPress@v2026.7.25
+ClearPress::driver                 v2026.7.25  pkg:cpan/ClearPress@v2026.7.25
+ClearPress::driver::Pg             v2026.7.25  pkg:cpan/ClearPress@v2026.7.25
+ClearPress::driver::SQLite         v2026.7.25  pkg:cpan/ClearPress@v2026.7.25
+ClearPress::driver::mysql          v2026.7.25  pkg:cpan/ClearPress@v2026.7.25
+ClearPress::model                  v2026.7.25  pkg:cpan/ClearPress@v2026.7.25
+ClearPress::util                   v2026.7.25  pkg:cpan/ClearPress@v2026.7.25
+ClearPress::view                   v2026.7.25  pkg:cpan/ClearPress@v2026.7.25
+ClearPress::view::error            v2026.7.25  pkg:cpan/ClearPress@v2026.7.25
 Clearbuilt::ExcelErator            2.0001  pkg:cpan/Clearbuilt-Excelerator@2.0001
 Clearcase                           1.02  pkg:cpan/Clearcase@1.02
 Clearcase::Element                 undef  pkg:cpan/Clearcase@1.02
@@ -200308,8 +200308,8 @@ Pootle::Resource::Project          undef  pkg:cpan/Pootle-Client@0.08
 Pootle::Resource::Store            undef  pkg:cpan/Pootle-Client@0.08
 Pootle::Resource::TranslationProject undef  pkg:cpan/Pootle-Client@0.08
 Pootle::Resource::Unit             undef  pkg:cpan/Pootle-Client@0.08
-PopIndent                           0.42  pkg:cpan/Tk-CodeText@0.68
-PopTabs                             0.42  pkg:cpan/Tk-CodeText@0.68
+PopIndent                           0.42  pkg:cpan/Tk-CodeText@0.69
+PopTabs                             0.42  pkg:cpan/Tk-CodeText@0.69
 Poppler                            1.0103  pkg:cpan/Poppler@1.0103
 Poppler::Page::Dimension           undef  pkg:cpan/Poppler@1.0103
 Populous                           0.001  pkg:cpan/Populous@0.001
@@ -226085,8 +226085,8 @@ Sys::OsPackage::Driver::Arch       0.004000  pkg:cpan/Sys-OsPackage@0.4.0
 Sys::OsPackage::Driver::Debian     0.004000  pkg:cpan/Sys-OsPackage@0.4.0
 Sys::OsPackage::Driver::RPM        0.004000  pkg:cpan/Sys-OsPackage@0.4.0
 Sys::OsPackage::Driver::Suse       0.004000  pkg:cpan/Sys-OsPackage@0.4.0
-Sys::OsRelease                     0.004004  pkg:cpan/Sys-OsRelease@0.4.4
-Sys::OsRelease::Lite               undef  pkg:cpan/Sys-OsRelease-Lite@0.4.4%2Blite
+Sys::OsRelease                     0.004005  pkg:cpan/Sys-OsRelease@0.4.5
+Sys::OsRelease::Lite               undef  pkg:cpan/Sys-OsRelease-Lite@0.4.5%2Blite
 Sys::OutPut                        undef  pkg:cpan/Sys-OutPut@2.1
 Sys::PageCache                      0.07  pkg:cpan/Sys-PageCache@0.07
 Sys::Path                           0.16  pkg:cpan/Sys-Path@0.16
@@ -236223,11 +236223,11 @@ Tk::Cloth::Tag                      2.03  pkg:cpan/Tk-GBARR@2.08
 Tk::Cloth::Text                     2.03  pkg:cpan/Tk-GBARR@2.08
 Tk::Cloth::Window                   2.03  pkg:cpan/Tk-GBARR@2.08
 Tk::CmdLine                        4.007  pkg:cpan/Tk@804.036
-Tk::CodeText                        0.68  pkg:cpan/Tk-CodeText@0.68
-Tk::CodeText::Kamelon               0.53  pkg:cpan/Tk-CodeText@0.68
-Tk::CodeText::StatusBar             0.42  pkg:cpan/Tk-CodeText@0.68
-Tk::CodeText::TagsEditor            0.52  pkg:cpan/Tk-CodeText@0.68
-Tk::CodeText::Theme                 0.40  pkg:cpan/Tk-CodeText@0.68
+Tk::CodeText                        0.69  pkg:cpan/Tk-CodeText@0.69
+Tk::CodeText::Kamelon               0.53  pkg:cpan/Tk-CodeText@0.69
+Tk::CodeText::StatusBar             0.42  pkg:cpan/Tk-CodeText@0.69
+Tk::CodeText::TagsEditor            0.52  pkg:cpan/Tk-CodeText@0.69
+Tk::CodeText::Theme                 0.40  pkg:cpan/Tk-CodeText@0.69
 Tk::CollapsableFrame                 1.2  pkg:cpan/Tk-CollapsableFrame@1.2
 Tk::ColorDialog                    4.014  pkg:cpan/Tk@804.036
 Tk::ColorEditor                    4.014  pkg:cpan/Tk@804.036
@@ -236764,7 +236764,7 @@ Tk::XFontSelect                     0.43  pkg:cpan/Tk-Workspace@1.76
 Tk::XML::WizardMaker                0.91  pkg:cpan/Tk-XML-WizardMaker@0.91
 Tk::XMLViewer                       0.21  pkg:cpan/Tk-XMLViewer@0.21
 Tk::XPMs                            1.11  pkg:cpan/Tk-XPMs@1.11
-Tk::XText                           0.68  pkg:cpan/Tk-CodeText@0.68
+Tk::XText                           0.69  pkg:cpan/Tk-CodeText@0.69
 Tk::Xcursor                         0.03  pkg:cpan/Tk-Xcursor@0.03
 Tk::Xlib                           4.004  pkg:cpan/Tk@804.036
 Tk::Xrm                            4.005  pkg:cpan/Tk@804.036
