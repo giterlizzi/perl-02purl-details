@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 25 Jul 2026 22:45:39 GMT
-Line-Count: 266751
+Last-Updated: Sun, 26 Jul 2026 02:06:26 GMT
+Line-Count: 266756
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -61082,6 +61082,7 @@ Data::Sah::Filter::perl::Str::underscore_non_latin_alphanums 0.025  pkg:cpan/Dat
 Data::Sah::Filter::perl::Str::upcase 0.025  pkg:cpan/Data-Sah-Filter@0.025
 Data::Sah::Filter::perl::Str::uppercase 0.025  pkg:cpan/Data-Sah-Filter@0.025
 Data::Sah::Filter::perl::Str::wrap 0.025  pkg:cpan/Data-Sah-Filter@0.025
+Data::Sah::Filter::perl::UUID::normalize_hexdigit_uuid 0.001  pkg:cpan/Sah-SchemaBundle-UUID@0.001
 Data::Sah::Filter::perl::Unix::check_gid_exists 0.022  pkg:cpan/Sah-SchemaBundle-Unix@0.022
 Data::Sah::Filter::perl::Unix::check_uid_exists 0.022  pkg:cpan/Sah-SchemaBundle-Unix@0.022
 Data::Sah::Filter::perl::Unix::check_unix_group_exists 0.022  pkg:cpan/Sah-SchemaBundle-Unix@0.022
@@ -209143,7 +209144,7 @@ SDL2::syswm                         0.01  pkg:cpan/SDL2-FFI@0.08
 SDL2::timer                         0.01  pkg:cpan/SDL2-FFI@0.08
 SDL2::touch                         0.01  pkg:cpan/SDL2-FFI@0.08
 SDL2::video                        undef  pkg:cpan/SDL2-FFI@0.08
-SDL3                               v0.0.3  pkg:cpan/SDL3@v0.0.3
+SDL3                               v0.0.4  pkg:cpan/SDL3@v0.0.4
 SDL::App::FPS                       0.21  pkg:cpan/SDL-App-FPS@0.21
 SDL::App::FPS::Button               0.02  pkg:cpan/SDL-App-FPS@0.21
 SDL::App::FPS::Color                0.02  pkg:cpan/SDL-App-FPS@0.21
@@ -213270,6 +213271,7 @@ Sah::Schema::unix::username::exists 0.022  pkg:cpan/Sah-SchemaBundle-Unix@0.022
 Sah::Schema::uppercase_str         0.018  pkg:cpan/Sah-Schemas-Str@0.018
 Sah::Schema::url                   0.012  pkg:cpan/Sah-Schemas-URL@0.012
 Sah::Schema::urls                  0.012  pkg:cpan/Sah-Schemas-URL@0.012
+Sah::Schema::uuid::hexdigit        0.001  pkg:cpan/Sah-SchemaBundle-UUID@0.001
 Sah::Schema::vivaldi::profile_name 0.001  pkg:cpan/Sah-Schemas-Vivaldi@0.001
 Sah::Schema::youtube::videoid      0.003  pkg:cpan/Sah-Schemas-YouTube@0.003
 Sah::SchemaBundle                  v0.1.1  pkg:cpan/Sah-SchemaBundle@0.1.1
@@ -213301,6 +213303,7 @@ Sah::SchemaBundle::DBI             0.006  pkg:cpan/Sah-SchemaBundle-DBI@0.006
 Sah::SchemaBundle::DNS             0.003  pkg:cpan/Sah-SchemaBundle-DNS@0.003
 Sah::SchemaBundle::Data::Sah       0.004  pkg:cpan/Sah-SchemaBundle-Data-Sah@0.004
 Sah::SchemaBundle::DataSizeSpeed   0.010  pkg:cpan/Sah-SchemaBundle-DataSizeSpeed@0.010
+Sah::SchemaBundle::GUID            0.001  pkg:cpan/Sah-SchemaBundle-UUID@0.001
 Sah::SchemaBundle::Identifier      0.002  pkg:cpan/Sah-SchemaBundle-Identifier@0.002
 Sah::SchemaBundle::KDEActivity     0.002  pkg:cpan/Sah-SchemaBundle-KDEActivity@0.002
 Sah::SchemaBundle::Nutrient        0.003  pkg:cpan/Sah-SchemaBundle-Nutrient@0.003
@@ -213308,6 +213311,7 @@ Sah::SchemaBundle::Path            0.031  pkg:cpan/Sah-SchemaBundle-Path@0.031
 Sah::SchemaBundle::Perl            0.050  pkg:cpan/Sah-SchemaBundle-Perl@0.050
 Sah::SchemaBundle::SortKey         0.002  pkg:cpan/Sah-SchemaBundle-SortKey@0.002
 Sah::SchemaBundle::Sorter          0.002  pkg:cpan/Sah-SchemaBundle-Sorter@0.002
+Sah::SchemaBundle::UUID            0.001  pkg:cpan/Sah-SchemaBundle-UUID@0.001
 Sah::SchemaBundle::Unix            0.022  pkg:cpan/Sah-SchemaBundle-Unix@0.022
 Sah::SchemaR::any_from_json        0.007  pkg:cpan/Sah-Schemas-JSON@0.007
 Sah::SchemaR::aoaoms               0.009  pkg:cpan/Sah-SchemaBundle-Collection@0.009
@@ -213701,6 +213705,7 @@ Sah::SchemaR::unix::username::exists 0.022  pkg:cpan/Sah-SchemaBundle-Unix@0.022
 Sah::SchemaR::uppercase_str        0.017  pkg:cpan/Sah-Schemas-Str@0.017
 Sah::SchemaR::url                  0.012  pkg:cpan/Sah-Schemas-URL@0.012
 Sah::SchemaR::urls                 0.012  pkg:cpan/Sah-Schemas-URL@0.012
+Sah::SchemaR::uuid::hexdigit       0.001  pkg:cpan/Sah-SchemaBundle-UUID@0.001
 Sah::SchemaR::vivaldi::profile_name 0.001  pkg:cpan/Sah-Schemas-Vivaldi@0.001
 Sah::SchemaR::youtube::videoid     0.003  pkg:cpan/Sah-Schemas-YouTube@0.003
 Sah::Schemas                       0.001000  pkg:cpan/Sah-Schemas@0.1.0
