@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 26 Jul 2026 02:06:26 GMT
-Line-Count: 266756
+Last-Updated: Sun, 26 Jul 2026 06:30:15 GMT
+Line-Count: 266754
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -35132,7 +35132,6 @@ Captcha::noCAPTCHA                  0.16  pkg:cpan/Captcha-noCAPTCHA@0.16
 Captcha::reCAPTCHA                  0.99  pkg:cpan/Captcha-reCaptcha@0.99
 Captcha::reCAPTCHA::Mailhide        0.94  pkg:cpan/Captcha-reCAPTCHA-Mailhide@0.94
 Captcha::reCAPTCHA::V2               0.3  pkg:cpan/Captcha-reCAPTCHA-V2@0.3
-Captcha::reCAPTCHA::V3              0.14  pkg:cpan/Captcha-reCAPTCHA-V3@0.14
 Captive::Portal                     4.10  pkg:cpan/Captive-Portal@4.10
 Captive::Portal::LockHandle         4.10  pkg:cpan/Captive-Portal@4.10
 Captive::Portal::Role::AuthenSimple  4.10  pkg:cpan/Captive-Portal@4.10
@@ -109615,17 +109614,17 @@ HTTP::CookieJar                    0.014  pkg:cpan/HTTP-CookieJar@0.014
 HTTP::CookieJar::LWP               0.014  pkg:cpan/HTTP-CookieJar@0.014
 HTTP::CookieMonster                 0.11  pkg:cpan/HTTP-CookieMonster@0.11
 HTTP::CookieMonster::Cookie         0.11  pkg:cpan/HTTP-CookieMonster@0.11
-HTTP::Cookies                       6.11  pkg:cpan/HTTP-Cookies@6.11
+HTTP::Cookies                       6.12  pkg:cpan/HTTP-Cookies@6.12
 HTTP::Cookies::Chrome              3.002  pkg:cpan/HTTP-Cookies-Chrome@3.002
 HTTP::Cookies::Chrome::Record      3.002  pkg:cpan/HTTP-Cookies-Chrome@3.002
 HTTP::Cookies::ChromeDevTools       0.79  pkg:cpan/WWW-Mechanize-Chrome@0.79
 HTTP::Cookies::ChromeMacOS          0.02  pkg:cpan/HTTP-Cookies-ChromeMacOS@0.02
 HTTP::Cookies::Find                1.417  pkg:cpan/HTTP-Cookies-Find@1.417
 HTTP::Cookies::Guess                0.01  pkg:cpan/HTTP-Cookies-Guess@0.01
-HTTP::Cookies::Microsoft            6.11  pkg:cpan/HTTP-Cookies@6.11
+HTTP::Cookies::Microsoft            6.12  pkg:cpan/HTTP-Cookies@6.12
 HTTP::Cookies::MozRepl              0.80  pkg:cpan/WWW-Mechanize-Firefox@0.80
 HTTP::Cookies::Mozilla             2.036  pkg:cpan/HTTP-Cookies-Mozilla@2.036
-HTTP::Cookies::Netscape             6.11  pkg:cpan/HTTP-Cookies@6.11
+HTTP::Cookies::Netscape             6.12  pkg:cpan/HTTP-Cookies@6.12
 HTTP::Cookies::Omniweb             1.131  pkg:cpan/HTTP-Cookies-Omniweb@1.131
 HTTP::Cookies::Opera                0.08  pkg:cpan/HTTP-Cookies-Opera@0.08
 HTTP::Cookies::PhantomJS            0.02  pkg:cpan/HTTP-Cookies-PhantomJS@0.02
@@ -119646,7 +119645,6 @@ Kwiki::AnchorLink                   0.03  pkg:cpan/Kwiki-AnchorLink@0.03
 Kwiki::AnchorLink::Point            0.03  pkg:cpan/Kwiki-AnchorLink@0.03
 Kwiki::AnchorLink::Ref              0.03  pkg:cpan/Kwiki-AnchorLink@0.03
 Kwiki::Archive                     undef  pkg:cpan/Kwiki@0.39
-Kwiki::Archive::Cvs                0.105  pkg:cpan/Kwiki-Archive-Cvs@0.105
 Kwiki::Archive::Rcs                 0.16  pkg:cpan/Kwiki-Archive-Rcs@0.16
 Kwiki::Archive::SVK                 0.12  pkg:cpan/Kwiki-Archive-SVK@0.12
 Kwiki::Atom                         0.15  pkg:cpan/Kwiki-Atom@0.15
@@ -265353,8 +265351,8 @@ maybe                              0.0202  pkg:cpan/maybe@0.0202
 maybe::start                       undef  pkg:cpan/Object-Remote@0.005000
 mb                                  0.66  pkg:cpan/mb@0.66
 mb::Encode                          0.04  pkg:cpan/mb-Encode@0.04
-mb::JSON                            0.06  pkg:cpan/mb-JSON@0.06
-mb::JSON::Boolean                   0.06  pkg:cpan/mb-JSON@0.06
+mb::JSON                            0.07  pkg:cpan/mb-JSON@0.07
+mb::JSON::Boolean                   0.07  pkg:cpan/mb-JSON@0.07
 mcoder                              0.10  pkg:cpan/mcoder@0.10
 mcoder::array::calculated           0.01  pkg:cpan/mcoder@0.10
 mcoder::array::get                  0.01  pkg:cpan/mcoder@0.10
