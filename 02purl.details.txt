@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 26 Jul 2026 22:52:45 GMT
+Last-Updated: Mon, 27 Jul 2026 02:13:52 GMT
 Line-Count: 266755
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -72423,7 +72423,7 @@ ExtUtils::Constant::Base            0.06  pkg:cpan/ExtUtils-Constant@0.25
 ExtUtils::Constant::ProxySubs       0.09  pkg:cpan/ExtUtils-Constant@0.25
 ExtUtils::Constant::Utils           0.04  pkg:cpan/ExtUtils-Constant@0.25
 ExtUtils::Constant::XS              0.03  pkg:cpan/ExtUtils-Constant@0.25
-ExtUtils::CppGuess                  0.27  pkg:cpan/ExtUtils-CppGuess@0.27
+ExtUtils::CppGuess                 0.271  pkg:cpan/ExtUtils-CppGuess@0.271
 ExtUtils::Depends                  0.8002  pkg:cpan/ExtUtils-Depends@0.8002
 ExtUtils::DynaGlue                  1.10  pkg:cpan/ExtUtils-DynaGlue@1.00a
 ExtUtils::Embed                     1.35  pkg:cpan/perl@5.44.0
