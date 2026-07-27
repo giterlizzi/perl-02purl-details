@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 27 Jul 2026 14:16:12 GMT
-Line-Count: 266757
+Last-Updated: Mon, 27 Jul 2026 17:37:05 GMT
+Line-Count: 266758
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -35922,7 +35922,7 @@ Catalyst::Helper::View::Template::PHP  0.04  pkg:cpan/Catalyst-View-Template-PHP
 Catalyst::Helper::View::Tenjin     0.050001  pkg:cpan/Catalyst-View-Tenjin@0.050001
 Catalyst::Helper::View::Text::Template 0.011  pkg:cpan/Catalyst-View-Text-Template@0.011
 Catalyst::Helper::View::Thumbnail   0.03  pkg:cpan/Catalyst-View-Thumbnail@0.03
-Catalyst::Helper::View::Wkhtmltopdf v0.6.2  pkg:cpan/Catalyst-View-Wkhtmltopdf@v0.6.2
+Catalyst::Helper::View::Wkhtmltopdf v0.6.3  pkg:cpan/Catalyst-View-Wkhtmltopdf@v0.6.3
 Catalyst::Helper::View::XLSX         1.2  pkg:cpan/Catalyst-View-XLSX@1.2
 Catalyst::Helper::View::XML        undef  pkg:cpan/Catalyst-View-XML-Simple@0.022
 Catalyst::Helper::View::XML::Hash::LX undef  pkg:cpan/Catalyst-View-XML-Hash-LX@0.04
@@ -36694,7 +36694,7 @@ Catalyst::View::Text::MicroTemplate::_PerRequest undef  pkg:cpan/Catalyst-View-T
 Catalyst::View::Text::Template     0.011  pkg:cpan/Catalyst-View-Text-Template@0.011
 Catalyst::View::Thumbnail           0.03  pkg:cpan/Catalyst-View-Thumbnail@0.03
 Catalyst::View::Vega                0.02  pkg:cpan/Catalyst-View-Vega@0.02
-Catalyst::View::Wkhtmltopdf        v0.6.2  pkg:cpan/Catalyst-View-Wkhtmltopdf@v0.6.2
+Catalyst::View::Wkhtmltopdf        v0.6.3  pkg:cpan/Catalyst-View-Wkhtmltopdf@v0.6.3
 Catalyst::View::XLSX                 1.2  pkg:cpan/Catalyst-View-XLSX@1.2
 Catalyst::View::XML::Feed           0.09  pkg:cpan/Catalyst-View-XML-Feed@0.09
 Catalyst::View::XML::Generator      0.02  pkg:cpan/Catalyst-View-XML-Generator@0.02
@@ -75196,7 +75196,7 @@ File::TypeCategories                0.08  pkg:cpan/File-TypeCategories@0.08
 File::URIList                      v0.4.0  pkg:cpan/File-URIList@v0.04
 File::UStore                        0.16  pkg:cpan/File-UStore@0.16
 File::Unpack                        0.70  pkg:cpan/File-Unpack@0.70
-File::Unpack2                        2.0  pkg:cpan/File-Unpack2@2.0
+File::Unpack2                       2.01  pkg:cpan/File-Unpack2@2.01
 File::Unsaved                      0.070  pkg:cpan/File-Unsaved@0.070
 File::Update                       v0.2.1  pkg:cpan/File-Update@0.2.1
 File::UserConfig                    0.06  pkg:cpan/File-UserConfig@0.06
@@ -198084,7 +198084,7 @@ Plack::App::Prack                   0.02  pkg:cpan/Plack-App-Prack@0.02
 Plack::App::Prack::Request         undef  pkg:cpan/Plack-App-Prack@0.02
 Plack::App::Prack::Response        undef  pkg:cpan/Plack-App-Prack@0.02
 Plack::App::Prack::Worker          undef  pkg:cpan/Plack-App-Prack@0.02
-Plack::App::Prerender              v0.2.0  pkg:cpan/Plack-App-Prerender@v0.2.0
+Plack::App::Prerender              v0.3.0  pkg:cpan/Plack-App-Prerender@v0.3.0
 Plack::App::Proxy                   0.29  pkg:cpan/Plack-App-Proxy@0.29
 Plack::App::Proxy::Anonymous       0.0100  pkg:cpan/Plack-App-Proxy-Anonymous@0.0100
 Plack::App::Proxy::Backend         undef  pkg:cpan/Plack-App-Proxy@0.29
@@ -206428,10 +206428,10 @@ Redis::DistLock                     0.07  pkg:cpan/Redis-DistLock@0.07
 Redis::Dump                        0.016  pkg:cpan/Redis-Dump@0.016
 Redis::Dump::Config                0.016  pkg:cpan/Redis-Dump@0.016
 Redis::Dump::Restore               0.016  pkg:cpan/Redis-Dump@0.016
-Redis::Fast                         0.38  pkg:cpan/Redis-Fast@0.38
-Redis::Fast::Hash                  undef  pkg:cpan/Redis-Fast@0.38
-Redis::Fast::List                  undef  pkg:cpan/Redis-Fast@0.38
-Redis::Fast::Sentinel              undef  pkg:cpan/Redis-Fast@0.38
+Redis::Fast                         0.39  pkg:cpan/Redis-Fast@0.39
+Redis::Fast::Hash                  undef  pkg:cpan/Redis-Fast@0.39
+Redis::Fast::List                  undef  pkg:cpan/Redis-Fast@0.39
+Redis::Fast::Sentinel              undef  pkg:cpan/Redis-Fast@0.39
 Redis::Handle                      0.002000  pkg:cpan/Redis-Handle@0.2.0
 Redis::Hash                        2.000  pkg:cpan/Redis@2.000
 Redis::Jet                          0.09  pkg:cpan/Redis-Jet@0.09
@@ -214114,6 +214114,7 @@ Scalar::Util::Numeric::PP           0.04  pkg:cpan/Scalar-Util-Numeric-PP@0.04
 Scalar::Util::Reftype               0.46  pkg:cpan/Scalar-Util-Reftype@0.46
 Scalar::Validation                 0.700  pkg:cpan/Scalar-Validation@0.700
 Scalar::ValueTags                  0.004  pkg:cpan/Scalar-ValueTags@0.004
+Scalar::ValueTags::LineageTracking 0.002  pkg:cpan/Scalar-ValueTags-LineageTracking@0.002
 Scalar::Vec::Util                   0.08  pkg:cpan/Scalar-Vec-Util@0.08
 Scalar::Watcher                    0.002001  pkg:cpan/Scalar-Watcher@0.002001
 ScalarTypes::NumericTypes           0.11  pkg:cpan/ScalarTypes-NumericTypes@0.11
@@ -222710,8 +222711,8 @@ SpeL::Parser::Aux                  20240615  pkg:cpan/SpeL-Wizard@20240615
 SpeL::Parser::Auxiliary            20250511.1428  pkg:cpan/SpeL-Wizard@20250511.1428
 SpeL::Parser::Chunk                20250511.1428  pkg:cpan/SpeL-Wizard@20250511.1428
 SpeL::Wizard                       20250511.1428  pkg:cpan/SpeL-Wizard@20250511.1428
-Speak                               1.01  pkg:cpan/Speak@1.01
-Speak::Logger                       1.01  pkg:cpan/Speak@1.01
+Speak                               1.02  pkg:cpan/Speak@1.02
+Speak::Logger                       1.02  pkg:cpan/Speak@1.02
 SpecialVars                         0.08  pkg:cpan/Data-HTMLDumper@0.08
 Specio                              0.53  pkg:cpan/Specio@0.53
 Specio::Coercion                    0.53  pkg:cpan/Specio@0.53
