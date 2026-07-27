@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 27 Jul 2026 17:37:05 GMT
+Last-Updated: Mon, 27 Jul 2026 19:16:25 GMT
 Line-Count: 266758
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -247433,7 +247433,7 @@ WWW::Mechanize::Script::Plugin::ResponseTimeTest 0.100  pkg:cpan/WWW-Mechanize-S
 WWW::Mechanize::Script::Plugin::StatusTest 0.100  pkg:cpan/WWW-Mechanize-Script@0.101
 WWW::Mechanize::Script::Plugin::TextMatchTest 0.100  pkg:cpan/WWW-Mechanize-Script@0.101
 WWW::Mechanize::Script::Util       0.100  pkg:cpan/WWW-Mechanize-Script@0.101
-WWW::Mechanize::Shell               0.62  pkg:cpan/WWW-Mechanize-Shell@0.62
+WWW::Mechanize::Shell               0.63  pkg:cpan/WWW-Mechanize-Shell@0.63
 WWW::Mechanize::Sleepy               0.7  pkg:cpan/WWW-Mechanize-Sleepy@0.7
 WWW::Mechanize::SpamCop             0.08  pkg:cpan/WWW-Mechanize-SpamCop@0.08
 WWW::Mechanize::Timed               0.44  pkg:cpan/WWW-Mechanize-Timed@0.44
