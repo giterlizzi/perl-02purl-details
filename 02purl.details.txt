@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 27 Jul 2026 21:04:06 GMT
+Last-Updated: Mon, 27 Jul 2026 22:54:11 GMT
 Line-Count: 267429
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -14720,9 +14720,9 @@ App::Tangerine                      0.22  pkg:cpan/App-Tangerine@0.22
 App::Tangerine::Metadata            0.22  pkg:cpan/App-Tangerine@0.22
 App::Tapper::prove                 0.002  pkg:cpan/App-Tapper-prove@0.002
 App::TarColor                      0.011  pkg:cpan/App-TarColor@0.011
-App::Tarotplane                     2.01  pkg:cpan/App-Tarotplane@2.01
-App::Tarotplane::Cards              2.01  pkg:cpan/App-Tarotplane@2.01
-App::Tarotplane::UI                 2.01  pkg:cpan/App-Tarotplane@2.01
+App::Tarotplane                     2.02  pkg:cpan/App-Tarotplane@2.02
+App::Tarotplane::Cards              2.02  pkg:cpan/App-Tarotplane@2.02
+App::Tarotplane::UI                 2.02  pkg:cpan/App-Tarotplane@2.02
 App::Task                           0.03  pkg:cpan/App-Task@0.03
 App::TaskBuilder                   1.000  pkg:cpan/App-TaskBuilder@1.000
 App::Taskflow                        1.0  pkg:cpan/App-Taskflow@1.0
@@ -62353,8 +62353,8 @@ DataWarehouse::Aggregate            0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::Dimension            0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::ETL                  0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::Fact                 0.04  pkg:cpan/DataWarehouse@0.04
-Database::Abstraction               0.36  pkg:cpan/Database-Abstraction@0.36
-Database::Abstraction::Query        0.36  pkg:cpan/Database-Abstraction@0.36
+Database::Abstraction               0.37  pkg:cpan/Database-Abstraction@0.37
+Database::Abstraction::Query        0.37  pkg:cpan/Database-Abstraction@0.37
 Database::Async                    0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Backoff           0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Backoff::Exponential 0.019  pkg:cpan/Database-Async@0.019
