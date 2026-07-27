@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 27 Jul 2026 11:12:30 GMT
-Line-Count: 266756
+Last-Updated: Mon, 27 Jul 2026 14:16:12 GMT
+Line-Count: 266757
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -22237,14 +22237,14 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         0.026003  pkg:cpan/BarefootJS@0.26.3
-BarefootJS::Backend::Mojo          0.026003  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.26.3
-BarefootJS::Backend::Xslate        0.026003  pkg:cpan/BarefootJS-Backend-Xslate@0.26.3
-BarefootJS::Date                   0.026003  pkg:cpan/BarefootJS@0.26.3
-BarefootJS::DevReload              0.026003  pkg:cpan/BarefootJS@0.26.3
-BarefootJS::Evaluator              0.014000  pkg:cpan/BarefootJS@0.26.3
-BarefootJS::SearchParams           0.014000  pkg:cpan/BarefootJS@0.26.3
-BarefootJS::_TZProbe               0.026003  pkg:cpan/BarefootJS@0.26.3
+BarefootJS                         0.027000  pkg:cpan/BarefootJS@0.27.0
+BarefootJS::Backend::Mojo          0.027000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.27.0
+BarefootJS::Backend::Xslate        0.027000  pkg:cpan/BarefootJS-Backend-Xslate@0.27.0
+BarefootJS::Date                   0.027000  pkg:cpan/BarefootJS@0.27.0
+BarefootJS::DevReload              0.027000  pkg:cpan/BarefootJS@0.27.0
+BarefootJS::Evaluator              0.014000  pkg:cpan/BarefootJS@0.27.0
+BarefootJS::SearchParams           0.014000  pkg:cpan/BarefootJS@0.27.0
+BarefootJS::_TZProbe               0.027000  pkg:cpan/BarefootJS@0.27.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
 Baseball::Sabermetrics              0.03  pkg:cpan/Baseball-Sabermetrics@0.03
@@ -35922,7 +35922,7 @@ Catalyst::Helper::View::Template::PHP  0.04  pkg:cpan/Catalyst-View-Template-PHP
 Catalyst::Helper::View::Tenjin     0.050001  pkg:cpan/Catalyst-View-Tenjin@0.050001
 Catalyst::Helper::View::Text::Template 0.011  pkg:cpan/Catalyst-View-Text-Template@0.011
 Catalyst::Helper::View::Thumbnail   0.03  pkg:cpan/Catalyst-View-Thumbnail@0.03
-Catalyst::Helper::View::Wkhtmltopdf v0.6.1  pkg:cpan/Catalyst-View-Wkhtmltopdf@v0.6.1
+Catalyst::Helper::View::Wkhtmltopdf v0.6.2  pkg:cpan/Catalyst-View-Wkhtmltopdf@v0.6.2
 Catalyst::Helper::View::XLSX         1.2  pkg:cpan/Catalyst-View-XLSX@1.2
 Catalyst::Helper::View::XML        undef  pkg:cpan/Catalyst-View-XML-Simple@0.022
 Catalyst::Helper::View::XML::Hash::LX undef  pkg:cpan/Catalyst-View-XML-Hash-LX@0.04
@@ -36694,7 +36694,7 @@ Catalyst::View::Text::MicroTemplate::_PerRequest undef  pkg:cpan/Catalyst-View-T
 Catalyst::View::Text::Template     0.011  pkg:cpan/Catalyst-View-Text-Template@0.011
 Catalyst::View::Thumbnail           0.03  pkg:cpan/Catalyst-View-Thumbnail@0.03
 Catalyst::View::Vega                0.02  pkg:cpan/Catalyst-View-Vega@0.02
-Catalyst::View::Wkhtmltopdf        v0.6.1  pkg:cpan/Catalyst-View-Wkhtmltopdf@v0.6.1
+Catalyst::View::Wkhtmltopdf        v0.6.2  pkg:cpan/Catalyst-View-Wkhtmltopdf@v0.6.2
 Catalyst::View::XLSX                 1.2  pkg:cpan/Catalyst-View-XLSX@1.2
 Catalyst::View::XML::Feed           0.09  pkg:cpan/Catalyst-View-XML-Feed@0.09
 Catalyst::View::XML::Generator      0.02  pkg:cpan/Catalyst-View-XML-Generator@0.02
@@ -60260,8 +60260,8 @@ Data::Pokemon::Go::Skill           undef  pkg:cpan/Data-Pokemon-Go@0.14
 Data::Polipo                        0.02  pkg:cpan/Data-Polipo@0.02
 Data::Polymorph                     0.01  pkg:cpan/Data-Polymorph@0.01
 Data::Pond                         0.006  pkg:cpan/Data-Pond@0.006
-Data::Pool::Shared                  0.07  pkg:cpan/Data-Pool-Shared@0.07
-Data::Pool::Shared::Guard           0.07  pkg:cpan/Data-Pool-Shared@0.07
+Data::Pool::Shared                  0.08  pkg:cpan/Data-Pool-Shared@0.08
+Data::Pool::Shared::Guard           0.08  pkg:cpan/Data-Pool-Shared@0.08
 Data::Power::FaultDetectorBase      0.01  pkg:cpan/Data-Power-FaultDetectorBase@0.01?ext=tgz
 Data::Power::Inspection             0.07  pkg:cpan/Data-Power-Inspection@0.07?ext=tgz
 Data::PowerSet                      0.05  pkg:cpan/Data-PowerSet@0.05
@@ -60371,11 +60371,11 @@ Data::Query                        undef  pkg:cpan/Data-CapabilityBased@0.001000
 Data::Queue                        1.0002  pkg:cpan/Data-Queue@1.0002
 Data::Queue::Batch                  0.04  pkg:cpan/Data-Queue-Batch@0.04
 Data::Queue::Persistent             0.13  pkg:cpan/Data-Queue-Persistent@0.13
-Data::Queue::Shared                 0.06  pkg:cpan/Data-Queue-Shared@0.06
-Data::Queue::Shared::Int           undef  pkg:cpan/Data-Queue-Shared@0.06
-Data::Queue::Shared::Int16         undef  pkg:cpan/Data-Queue-Shared@0.06
-Data::Queue::Shared::Int32         undef  pkg:cpan/Data-Queue-Shared@0.06
-Data::Queue::Shared::Str           undef  pkg:cpan/Data-Queue-Shared@0.06
+Data::Queue::Shared                 0.07  pkg:cpan/Data-Queue-Shared@0.07
+Data::Queue::Shared::Int            0.07  pkg:cpan/Data-Queue-Shared@0.07
+Data::Queue::Shared::Int16          0.07  pkg:cpan/Data-Queue-Shared@0.07
+Data::Queue::Shared::Int32          0.07  pkg:cpan/Data-Queue-Shared@0.07
+Data::Queue::Shared::Str            0.07  pkg:cpan/Data-Queue-Shared@0.07
 Data::QuickMemoPlus::Reader         0.12  pkg:cpan/Data-QuickMemoPlus-Reader@0.12
 Data::Radius                       1.002009  pkg:cpan/Data-Radius@1.2.9
 Data::Radius::Constants            undef  pkg:cpan/Data-Radius@1.2.9
@@ -60385,7 +60385,7 @@ Data::Radius::DictionaryParser     undef  pkg:cpan/Data-Radius@1.2.9
 Data::Radius::Encode               undef  pkg:cpan/Data-Radius@1.2.9
 Data::Radius::Packet               undef  pkg:cpan/Data-Radius@1.2.9
 Data::Radius::Util                 undef  pkg:cpan/Data-Radius@1.2.9
-Data::RadixTree::Shared             0.02  pkg:cpan/Data-RadixTree-Shared@0.02
+Data::RadixTree::Shared             0.03  pkg:cpan/Data-RadixTree-Shared@0.03
 Data::Rand                         0.000004  pkg:cpan/Data-Rand@0.0.4
 Data::Rand::Obscure                0.021  pkg:cpan/Data-Rand-Obscure@0.021
 Data::Rand::Obscure::Generator     undef  pkg:cpan/Data-Rand-Obscure@0.021
@@ -60544,10 +60544,11 @@ Data::Reporter::Orasource          undef  pkg:cpan/Data-Reporter@1.4
 Data::Reporter::RepFormat           0.01  pkg:cpan/Data-Reporter@1.4
 Data::Reporter::Sybsource          undef  pkg:cpan/Data-Reporter@1.4
 Data::Reporter::VisSection         undef  pkg:cpan/Data-Reporter@1.4
-Data::ReqRep::Shared                0.05  pkg:cpan/Data-ReqRep-Shared@0.05
-Data::ReqRep::Shared::Client       undef  pkg:cpan/Data-ReqRep-Shared@0.05
-Data::ReqRep::Shared::Int          undef  pkg:cpan/Data-ReqRep-Shared@0.05
-Data::ReqRep::Shared::Int::Client  undef  pkg:cpan/Data-ReqRep-Shared@0.05
+Data::ReqRep::Shared                0.06  pkg:cpan/Data-ReqRep-Shared@0.06
+Data::ReqRep::Shared::Client        0.06  pkg:cpan/Data-ReqRep-Shared@0.06
+Data::ReqRep::Shared::Int           0.06  pkg:cpan/Data-ReqRep-Shared@0.06
+Data::ReqRep::Shared::Int::Client   0.06  pkg:cpan/Data-ReqRep-Shared@0.06
+Data::Reservoir::Shared             0.02  pkg:cpan/Data-Reservoir-Shared@0.02
 Data::Resolver                     0.006  pkg:cpan/Data-Resolver@0.006
 Data::Resolver::Alternatives       0.006  pkg:cpan/Data-Resolver@0.006
 Data::Resolver::Asset              0.006  pkg:cpan/Data-Resolver@0.006
@@ -60658,7 +60659,7 @@ Data::Riak::Types                    2.0  pkg:cpan/Data-Riak@2.0
 Data::Riak::Util::MapCount           2.0  pkg:cpan/Data-Riak@2.0
 Data::Riak::Util::ReduceCount        2.0  pkg:cpan/Data-Riak@2.0
 Data::RingBuffer                    0.02  pkg:cpan/Data-RingBuffer@0.02
-Data::RingBuffer::Shared            0.04  pkg:cpan/Data-RingBuffer-Shared@0.04
+Data::RingBuffer::Shared            0.05  pkg:cpan/Data-RingBuffer-Shared@0.05
 Data::RingBuffer::Time              0.02  pkg:cpan/Data-RingBuffer-Time@0.02
 Data::Rlist                         1.44  pkg:cpan/Data-Rlist@1.44
 Data::Rmap                          0.65  pkg:cpan/Data-Rmap@0.65
@@ -113279,7 +113280,7 @@ IO::K8s::Traefik::V1alpha1::TLSStore 1.100  pkg:cpan/IO-K8s@1.100
 IO::K8s::Traefik::V1alpha1::TraefikService 1.100  pkg:cpan/IO-K8s@1.100
 IO::K8s::Types                     1.100  pkg:cpan/IO-K8s@1.100
 IO::K8s::Types::Net                1.100  pkg:cpan/IO-K8s@1.100
-IO::KQueue                          0.39  pkg:cpan/IO-KQueue@0.39
+IO::KQueue                          0.40  pkg:cpan/IO-KQueue@0.40
 IO::LCDproc                        0.037  pkg:cpan/IO-LCDproc@0.037
 IO::LCDproc::Client                0.037  pkg:cpan/IO-LCDproc@0.037
 IO::LCDproc::Screen                0.037  pkg:cpan/IO-LCDproc@0.037
@@ -128099,7 +128100,7 @@ Log::Syslog::Fast::Constants       undef  pkg:cpan/Log-Syslog-Fast@0.68
 Log::Syslog::Fast::PP              undef  pkg:cpan/Log-Syslog-Fast@0.68
 Log::Syslog::Fast::Simple          undef  pkg:cpan/Log-Syslog-Fast@0.68
 Log::Timer                         1.000001  pkg:cpan/Log-Timer@1.0.1
-Log::Tiny                            1.1  pkg:cpan/Log-Tiny@1.1
+Log::Tiny                            1.3  pkg:cpan/Log-Tiny@1.3
 Log::Topics                        undef  pkg:cpan/Log-Topics@0.02
 Log::Trace                         1.070  pkg:cpan/Log-Trace@1.070
 Log::TraceMessages                   1.4  pkg:cpan/Log-TraceMessages@1.4
@@ -134529,7 +134530,7 @@ MathWorks::platformList            undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::product                 undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepItem          undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepList          undef  pkg:cpan/XML-Pastor@0.6.0
-Matplotlib::Simple                  0.31  pkg:cpan/Matplotlib-Simple@0.31
+Matplotlib::Simple                 0.311  pkg:cpan/Matplotlib-Simple@0.311
 Matrix::Simple                      1.04  pkg:cpan/Matrix-Simple@1.04
 Matts::Message                     undef  pkg:cpan/Matts-Message-Parser@1.0
 Matts::Message::Parser               1.0  pkg:cpan/Matts-Message-Parser@1.0
@@ -140131,8 +140132,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    0.026003  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.26.3
-Mojolicious::Plugin::BarefootJS::DevReload 0.026003  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.26.3
+Mojolicious::Plugin::BarefootJS    0.027000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.27.0
+Mojolicious::Plugin::BarefootJS::DevReload 0.027000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.27.0
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -206427,10 +206428,10 @@ Redis::DistLock                     0.07  pkg:cpan/Redis-DistLock@0.07
 Redis::Dump                        0.016  pkg:cpan/Redis-Dump@0.016
 Redis::Dump::Config                0.016  pkg:cpan/Redis-Dump@0.016
 Redis::Dump::Restore               0.016  pkg:cpan/Redis-Dump@0.016
-Redis::Fast                         0.37  pkg:cpan/Redis-Fast@0.37
-Redis::Fast::Hash                  undef  pkg:cpan/Redis-Fast@0.37
-Redis::Fast::List                  undef  pkg:cpan/Redis-Fast@0.37
-Redis::Fast::Sentinel              undef  pkg:cpan/Redis-Fast@0.37
+Redis::Fast                         0.38  pkg:cpan/Redis-Fast@0.38
+Redis::Fast::Hash                  undef  pkg:cpan/Redis-Fast@0.38
+Redis::Fast::List                  undef  pkg:cpan/Redis-Fast@0.38
+Redis::Fast::Sentinel              undef  pkg:cpan/Redis-Fast@0.38
 Redis::Handle                      0.002000  pkg:cpan/Redis-Handle@0.2.0
 Redis::Hash                        2.000  pkg:cpan/Redis@2.000
 Redis::Jet                          0.09  pkg:cpan/Redis-Jet@0.09
