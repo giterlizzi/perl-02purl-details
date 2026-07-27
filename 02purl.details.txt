@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 27 Jul 2026 02:13:52 GMT
+Last-Updated: Mon, 27 Jul 2026 06:56:14 GMT
 Line-Count: 266755
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -49000,7 +49000,7 @@ CrawlerCommons::RobotRule           0.03  pkg:cpan/CrawlerCommons-RobotRulesPars
 CrawlerCommons::RobotRules          0.03  pkg:cpan/CrawlerCommons-RobotRulesParser@0.03
 CrawlerCommons::RobotRulesParser    0.03  pkg:cpan/CrawlerCommons-RobotRulesParser@0.03
 CrawlerCommons::RobotToken          0.03  pkg:cpan/CrawlerCommons-RobotRulesParser@0.03
-Crayon                              1.05  pkg:cpan/Crayon@1.05
+Crayon                              1.06  pkg:cpan/Crayon@1.06
 Creature                           undef  pkg:cpan/Class-Classgen-classgen@3.03
 Criteria::Compile                  0.0461  pkg:cpan/Criteria-Compile@0.047
 Criteria::Compile::HASH                0  pkg:cpan/Criteria-Compile@0.047
@@ -110929,7 +110929,7 @@ Hatena::Keyword                     0.05  pkg:cpan/Hatena-Keyword@0.05
 Hatena::Keyword::Similar            0.01  pkg:cpan/Hatena-Keyword-Similar@0.01
 Hatena::Star::Mobile                0.01  pkg:cpan/Hatena-Star-Mobile@0.01
 Haul                                2.24  pkg:cpan/Haul@2.24
-Hazy                                0.05  pkg:cpan/Hazy@0.05
+Hazy                                0.06  pkg:cpan/Hazy@0.06
 HeaderMap                          undef  pkg:cpan/ZZZ-SDK@0.0.2
 HeaderParamValidator               undef  pkg:cpan/ZZZ-SDK@0.0.2
 HeaderParser                       undef  pkg:cpan/perl@5.44.0
@@ -124669,7 +124669,7 @@ List::Vectorize                     1.05  pkg:cpan/List-Vectorize@1.05
 List::Zip                           0.04  pkg:cpan/List-Zip@0.04
 List::oo                           0.002001  pkg:cpan/List-oo@v0.2.1
 ListCon                            undef  pkg:cpan/Code-Perl@0.03
-Litavis                             0.03  pkg:cpan/Litavis@0.03
+Litavis                             0.04  pkg:cpan/Litavis@0.04
 Lithium::WebDriver                   1.0  pkg:cpan/Lithium-WebDriver@1.0.0
 Lithium::WebDriver::Phantom        undef  pkg:cpan/Lithium-WebDriver@1.0.0
 Lithium::WebDriver::Utils          undef  pkg:cpan/Lithium-WebDriver@1.0.0
