@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 28 Jul 2026 04:58:04 GMT
+Last-Updated: Tue, 28 Jul 2026 08:21:06 GMT
 Line-Count: 267430
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -154586,7 +154586,7 @@ Net::Wireless::802_11::AP          0.001001  pkg:cpan/Net-Wireless-802_11-AP@0.1
 Net::Wireless::802_11::Scan::FreeBSD   0.0  pkg:cpan/Net-Wireless-802_11-Scan-FreeBSD@0.0.1
 Net::Wireless::802_11::WPA::CLI    2.001000  pkg:cpan/Net-Wireless-802_11-WPA-CLI@2.1.0
 Net::Wireless::802_11::WPA::CLI::Helper   0.0  pkg:cpan/Net-Wireless-802_11-WPA-CLI-Helper@0.0.0
-Net::WoRMS                         undef  pkg:cpan/Net-WoRMS@1.1
+Net::WoRMS                           1.3  pkg:cpan/Net-WoRMS@1.3
 Net::Works                          0.22  pkg:cpan/Net-Works@0.22
 Net::Works::Address                 0.22  pkg:cpan/Net-Works@0.22
 Net::Works::Network                 0.22  pkg:cpan/Net-Works@0.22
