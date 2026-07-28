@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 28 Jul 2026 11:51:38 GMT
+Last-Updated: Tue, 28 Jul 2026 13:47:34 GMT
 Line-Count: 267431
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -63831,7 +63831,7 @@ DateTime::Format::Text              0.10  pkg:cpan/DateTime-Format-Text@0.10
 DateTime::Format::Unicode          0.003000  pkg:cpan/DateTime-Format-Unicode@v0.3.0
 DateTime::Format::Unicode::Exception 0.003000  pkg:cpan/DateTime-Format-Unicode@v0.3.0
 DateTime::Format::Variant           0.01  pkg:cpan/DateTime-Format-Variant@0.2
-DateTime::Format::W3CDTF            0.08  pkg:cpan/DateTime-Format-W3CDTF@0.08
+DateTime::Format::W3CDTF            0.09  pkg:cpan/DateTime-Format-W3CDTF@0.09
 DateTime::Format::WindowsFileTime   0.02  pkg:cpan/DateTime-Format-WindowsFileTime@0.02
 DateTime::Format::XMLTV            1.001  pkg:cpan/DateTime-Format-XMLTV@1.001
 DateTime::Format::XSD                0.4  pkg:cpan/DateTime-Format-XSD@0.4
@@ -75207,7 +75207,7 @@ File::TypeCategories                0.08  pkg:cpan/File-TypeCategories@0.08
 File::URIList                      v0.4.0  pkg:cpan/File-URIList@v0.04
 File::UStore                        0.16  pkg:cpan/File-UStore@0.16
 File::Unpack                        0.70  pkg:cpan/File-Unpack@0.70
-File::Unpack2                       2.01  pkg:cpan/File-Unpack2@2.01
+File::Unpack2                       2.02  pkg:cpan/File-Unpack2@2.02
 File::Unsaved                      0.070  pkg:cpan/File-Unsaved@0.070
 File::Update                       v0.2.1  pkg:cpan/File-Update@0.2.1
 File::UserConfig                    0.06  pkg:cpan/File-UserConfig@0.06
@@ -164666,7 +164666,7 @@ Params::Validate::Dependencies::all_or_none_of  1.02  pkg:cpan/Params-Validate-D
 Params::Validate::Dummy             0.03  pkg:cpan/Module-Optional@0.03
 Params::Validate::Micro            0.032  pkg:cpan/Params-Validate-Micro@0.032
 Params::Validate::PP                1.31  pkg:cpan/Params-Validate@1.31
-Params::Validate::Strict            0.36  pkg:cpan/Params-Validate-Strict@0.36
+Params::Validate::Strict            0.37  pkg:cpan/Params-Validate-Strict@0.37
 Params::Validate::XS                1.31  pkg:cpan/Params-Validate@1.31
 Params::ValidationCompiler          0.31  pkg:cpan/Params-ValidationCompiler@0.31
 Params::ValidationCompiler::Compiler  0.31  pkg:cpan/Params-ValidationCompiler@0.31
@@ -221570,14 +221570,14 @@ Sim::AgentSoar::Node                0.06  pkg:cpan/Sim-AgentSoar@0.06
 Sim::AgentSoar::Worker              0.06  pkg:cpan/Sim-AgentSoar@0.06
 Sim::Clock                          0.03  pkg:cpan/Sim@0.03
 Sim::Dispatcher                     0.03  pkg:cpan/Sim@0.03
-Sim::OPT                           0.903  pkg:cpan/Sim-OPT@0.903
-Sim::OPT::Descend                  0.181  pkg:cpan/Sim-OPT@0.903
-Sim::OPT::Interlinear              0.199  pkg:cpan/Sim-OPT@0.903
-Sim::OPT::Morph                    0.175  pkg:cpan/Sim-OPT@0.903
-Sim::OPT::Parcoord3d               0.001005  pkg:cpan/Sim-OPT@0.903
-Sim::OPT::Report                   0.125  pkg:cpan/Sim-OPT@0.903
-Sim::OPT::Sim                      0.103  pkg:cpan/Sim-OPT@0.903
-Sim::OPT::Takechance                0.06  pkg:cpan/Sim-OPT@0.903
+Sim::OPT                           0.919  pkg:cpan/Sim-OPT@0.919
+Sim::OPT::Descend                  0.181  pkg:cpan/Sim-OPT@0.919
+Sim::OPT::Interlinear              0.199  pkg:cpan/Sim-OPT@0.919
+Sim::OPT::Morph                    0.175  pkg:cpan/Sim-OPT@0.919
+Sim::OPT::Parcoord3d               0.001005  pkg:cpan/Sim-OPT@0.919
+Sim::OPT::Report                   0.125  pkg:cpan/Sim-OPT@0.919
+Sim::OPT::Sim                      0.103  pkg:cpan/Sim-OPT@0.919
+Sim::OPT::Takechance                0.06  pkg:cpan/Sim-OPT@0.919
 SimString::Wrapper                  0.03  pkg:cpan/SimString-Wrapper@0.03
 Simd::Avx512                       20210130  pkg:cpan/Simd-Avx512@20210130
 Simple                             undef  pkg:cpan/CGI-Builder-TT2@0.03
@@ -230439,14 +230439,14 @@ TermC                              undef  pkg:cpan/go-db-perl@0.04
 Termbox                             2.00  pkg:cpan/Termbox@2.00
 Termbox::Cell                       0.12  pkg:cpan/Termbox@0.12
 Termbox::Event                      0.12  pkg:cpan/Termbox@0.12
-Termbox::PP                        0.005003  pkg:cpan/Termbox-PP@v0.5.3
-Termbox::PP::Terminfo::Builtin     0.005003  pkg:cpan/Termbox-PP@v0.5.3
+Termbox::PP                        0.006000  pkg:cpan/Termbox-PP@v0.6.0
+Termbox::PP::Terminfo::Builtin     0.006000  pkg:cpan/Termbox-PP@v0.6.0
 Termbox::PP::WCWidth               0.005001  pkg:cpan/Termbox-PP@v0.5.1
 Termbox::PP::WCWidth::Tables       undef  pkg:cpan/Termbox-PP@v0.5.1
 Terminal::Control                   0.19  pkg:cpan/Terminal-Control@0.19
 Terminal::Identify                  0.29  pkg:cpan/Terminal-Identify@0.29
-Terminal::WCWidth                  0.005003  pkg:cpan/Termbox-PP@v0.5.3
-Terminal::WCWidth::Tables          undef  pkg:cpan/Termbox-PP@v0.5.3
+Terminal::WCWidth                  0.006000  pkg:cpan/Termbox-PP@v0.6.0
+Terminal::WCWidth::Tables          undef  pkg:cpan/Termbox-PP@v0.6.0
 Termux::API                         1.01  pkg:cpan/Termux-API@1.01
 Terse                               0.28  pkg:cpan/Terse@0.28
 Terse::App                         undef  pkg:cpan/Terse@0.28
