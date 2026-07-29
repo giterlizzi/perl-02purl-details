@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 29 Jul 2026 11:56:11 GMT
-Line-Count: 267469
+Last-Updated: Wed, 29 Jul 2026 13:59:20 GMT
+Line-Count: 267470
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -69804,7 +69804,8 @@ EV::Cron                           0.123600  pkg:cpan/EV-Cron@0.123600
 EV::Embed                          undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Etcd                            0.09  pkg:cpan/EV-Etcd@0.09
 EV::Fork                           undef  pkg:cpan/App-SimpleBackuper@0.2.22
-EV::Future                          0.05  pkg:cpan/EV-Future@0.05
+EV::Future                          0.06  pkg:cpan/EV-Future@0.06
+EV::Future::Handle                  0.06  pkg:cpan/EV-Future@0.06
 EV::Gearman                         0.02  pkg:cpan/EV-Gearman@0.02
 EV::Gearman::Job                   undef  pkg:cpan/EV-Gearman@0.02
 EV::Glib                            2.01  pkg:cpan/EV-Glib@2.01
@@ -259956,7 +259957,7 @@ XML::Perl2SAX                       0.08  pkg:cpan/libxml-perl@0.08
 XML::Printer::ESCPOS                0.06  pkg:cpan/XML-Printer-ESCPOS@0.06
 XML::Printer::ESCPOS::Debug         0.06  pkg:cpan/XML-Printer-ESCPOS@0.06
 XML::Printer::ESCPOS::Tags          0.06  pkg:cpan/XML-Printer-ESCPOS@0.06
-XML::PugiXML                        0.07  pkg:cpan/XML-PugiXML@0.07
+XML::PugiXML                        0.08  pkg:cpan/XML-PugiXML@0.08
 XML::QL                             0.07  pkg:cpan/XML-QL@0.07
 XML::QL::Search                     0.07  pkg:cpan/XML-QL@0.07
 XML::QL::Where                      0.07  pkg:cpan/XML-QL@0.07
