@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 29 Jul 2026 20:45:37 GMT
+Last-Updated: Wed, 29 Jul 2026 22:54:28 GMT
 Line-Count: 267470
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -56736,7 +56736,7 @@ Dancer2::Plugin::Negotiate         0.002  pkg:cpan/Dancer2-Plugin-Negotiate@0.00
 Dancer2::Plugin::OAuth2::Server     0.11  pkg:cpan/Dancer2-Plugin-OAuth2-Server@0.11
 Dancer2::Plugin::OAuth2::Server::Role undef  pkg:cpan/Dancer2-Plugin-OAuth2-Server@0.11
 Dancer2::Plugin::OAuth2::Server::Simple undef  pkg:cpan/Dancer2-Plugin-OAuth2-Server@0.11
-Dancer2::Plugin::OIDC               1.02  pkg:cpan/Dancer2-Plugin-OIDC@1.02
+Dancer2::Plugin::OIDC               1.03  pkg:cpan/Dancer2-Plugin-OIDC@1.03
 Dancer2::Plugin::OpenAPI           v1.0.2  pkg:cpan/Dancer2-Plugin-OpenAPI@1.0.2
 Dancer2::Plugin::OpenAPI::Path     v1.0.2  pkg:cpan/Dancer2-Plugin-OpenAPI@1.0.2
 Dancer2::Plugin::OpenAPIRoutes      0.03  pkg:cpan/Dancer2-Plugin-OpenAPIRoutes@0.03
