@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 29 Jul 2026 08:27:24 GMT
-Line-Count: 267467
+Last-Updated: Wed, 29 Jul 2026 11:56:11 GMT
+Line-Count: 267469
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -60150,6 +60150,8 @@ Data::PcAxis                       0.000007  pkg:cpan/Data-PcAxis@0.0.7
 Data::Peek                          0.54  pkg:cpan/Data-Peek@0.54?ext=tgz
 Data::Pensieve                      0.03  pkg:cpan/Data-Pensieve@0.03a
 Data::Pensieve::Revision           undef  pkg:cpan/Data-Pensieve@0.03a
+Data::PerfectHash::Shared           0.01  pkg:cpan/Data-PerfectHash-Shared@0.01
+Data::PerfectHash::Shared::Builder  0.01  pkg:cpan/Data-PerfectHash-Shared@0.01
 Data::Perl                         0.002011  pkg:cpan/Data-Perl@0.002011
 Data::Perl::Bool                   0.002011  pkg:cpan/Data-Perl@0.002011
 Data::Perl::Bool::MooseLike        0.001009  pkg:cpan/MooX-HandlesVia@0.001009
@@ -142263,7 +142265,7 @@ MooX::Role::Pluggable              1.002002  pkg:cpan/MooX-Role-Pluggable@1.0020
 MooX::Role::Pluggable::Constants   1.002002  pkg:cpan/MooX-Role-Pluggable@1.002002
 MooX::Role::REST                   0.001  pkg:cpan/MooX-Role-HTTP-Tiny@0.94
 MooX::Role::Reconstruct            0.001002  pkg:cpan/MooX-Role-Reconstruct@v0.1.2
-MooX::Role::SEOTags                1.001001  pkg:cpan/MooX-Role-SEOTags@1.1.1
+MooX::Role::SEOTags                1.002000  pkg:cpan/MooX-Role-SEOTags@1.2.0
 MooX::Roles::Pluggable             0.003  pkg:cpan/MooX-Roles-Pluggable@0.003
 MooX::SetOnce                      0.001003  pkg:cpan/MooX-SetOnce@0.001003
 MooX::ShortHas                     1.202040  pkg:cpan/MooX-ShortHas@1.202040
@@ -224462,7 +224464,7 @@ Statistics::Gtest                   0.07  pkg:cpan/Statistics-Gtest@0.07
 Statistics::Hartigan                0.01  pkg:cpan/Statistics-Hartigan@0.01
 Statistics::Histogram                0.1  pkg:cpan/Statistics-Histogram@0.2
 Statistics::KernelEstimation        0.05  pkg:cpan/Statistics-KernelEstimation@0.05
-Statistics::Krippendorff            0.05  pkg:cpan/Statistics-Krippendorff@0.05
+Statistics::Krippendorff            0.06  pkg:cpan/Statistics-Krippendorff@0.06
 Statistics::KruskalWallis           0.01  pkg:cpan/Statistics-KruskalWallis@0.01
 Statistics::LSNoHistory             0.01  pkg:cpan/Statistics-LSNoHistory@0.01?ext=tgz
 Statistics::LTU                    undef  pkg:cpan/Statistics-LTU@2.8
