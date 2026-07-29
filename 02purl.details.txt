@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 29 Jul 2026 01:58:10 GMT
-Line-Count: 267431
+Last-Updated: Wed, 29 Jul 2026 05:22:55 GMT
+Line-Count: 267455
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -104832,6 +104832,30 @@ Google::Cloud::ExtendedOperations   0.11  pkg:cpan/Google-Api-Common@0.03
 Google::Cloud::ExtendedOperations::Types undef  pkg:cpan/Google-Api-Common@0.03
 Google::Cloud::Iam::V1              0.03  pkg:cpan/Google-Cloud-Iam-V1@0.03
 Google::Cloud::Iam::V1::IamPolicyClient  0.02  pkg:cpan/Google-Cloud-Iam-V1@0.03
+Google::Cloud::Kms::AutokeyAdminClient  0.04  pkg:cpan/Google-Cloud-Kms-V1@0.04
+Google::Cloud::Kms::AutokeyClient   0.04  pkg:cpan/Google-Cloud-Kms-V1@0.04
+Google::Cloud::Kms::EkmServiceClient  0.04  pkg:cpan/Google-Cloud-Kms-V1@0.04
+Google::Cloud::Kms::HsmManagementClient  0.04  pkg:cpan/Google-Cloud-Kms-V1@0.04
+Google::Cloud::Kms::KeyAccessJustificationsConfigClient  0.01  pkg:cpan/Google-Cloud-Kms-V1@0.04
+Google::Cloud::Kms::KeyManagementServiceClient  0.04  pkg:cpan/Google-Cloud-Kms-V1@0.04
+Google::Cloud::Kms::V1              0.04  pkg:cpan/Google-Cloud-Kms-V1@0.04
+Google::Cloud::Kms::V1::Autokey     0.12  pkg:cpan/Google-Cloud-Kms-V1@0.04
+Google::Cloud::Kms::V1::Autokey::AutokeyClient  0.12  pkg:cpan/Google-Cloud-Kms-V1@0.04
+Google::Cloud::Kms::V1::Autokey::Types undef  pkg:cpan/Google-Cloud-Kms-V1@0.04
+Google::Cloud::Kms::V1::AutokeyAdmin  0.12  pkg:cpan/Google-Cloud-Kms-V1@0.04
+Google::Cloud::Kms::V1::AutokeyAdmin::AutokeyAdminClient  0.12  pkg:cpan/Google-Cloud-Kms-V1@0.04
+Google::Cloud::Kms::V1::AutokeyAdmin::Types undef  pkg:cpan/Google-Cloud-Kms-V1@0.04
+Google::Cloud::Kms::V1::EkmService  0.12  pkg:cpan/Google-Cloud-Kms-V1@0.04
+Google::Cloud::Kms::V1::EkmService::EkmServiceClient  0.12  pkg:cpan/Google-Cloud-Kms-V1@0.04
+Google::Cloud::Kms::V1::EkmService::Types undef  pkg:cpan/Google-Cloud-Kms-V1@0.04
+Google::Cloud::Kms::V1::HsmManagement  0.12  pkg:cpan/Google-Cloud-Kms-V1@0.04
+Google::Cloud::Kms::V1::HsmManagement::HsmManagementClient  0.12  pkg:cpan/Google-Cloud-Kms-V1@0.04
+Google::Cloud::Kms::V1::HsmManagement::Types undef  pkg:cpan/Google-Cloud-Kms-V1@0.04
+Google::Cloud::Kms::V1::Resources   0.12  pkg:cpan/Google-Cloud-Kms-V1@0.04
+Google::Cloud::Kms::V1::Resources::Types undef  pkg:cpan/Google-Cloud-Kms-V1@0.04
+Google::Cloud::Kms::V1::Service     0.12  pkg:cpan/Google-Cloud-Kms-V1@0.04
+Google::Cloud::Kms::V1::Service::KeyManagementServiceClient  0.12  pkg:cpan/Google-Cloud-Kms-V1@0.04
+Google::Cloud::Kms::V1::Service::Types undef  pkg:cpan/Google-Cloud-Kms-V1@0.04
 Google::Cloud::Metastore::V1        0.03  pkg:cpan/Google-Cloud-Metastore-V1@0.03
 Google::Cloud::Metastore::V1::DataprocMetastoreClient  0.02  pkg:cpan/Google-Cloud-Metastore-V1@0.03
 Google::Cloud::Metastore::V1::DataprocMetastoreFederationClient  0.02  pkg:cpan/Google-Cloud-Metastore-V1@0.03
@@ -148411,7 +148435,7 @@ Net::Cmd                            3.15  pkg:cpan/libnet@3.15
 Net::Comcast::Customer               1.2  pkg:cpan/Net-Comcast-Customer@1.2
 Net::Compare                        0.04  pkg:cpan/Net-Compare@0.04
 Net::Config                         3.15  pkg:cpan/libnet@3.15
-Net::Connection                    0.002000  pkg:cpan/Net-Connection@0.2.0
+Net::Connection                    0.003000  pkg:cpan/Net-Connection@0.3.0
 Net::Connection::FreeBSD_sockstat  0.000002  pkg:cpan/Net-Connection-FreeBSD_sockstat@0.0.2
 Net::Connection::Match             0.005000  pkg:cpan/Net-Connection-Match@0.5.0
 Net::Connection::Match::All          0.0  pkg:cpan/Net-Connection-Match@0.5.0
@@ -201816,7 +201840,7 @@ Proc::PidUtil                       0.09  pkg:cpan/Proc-PidUtil@0.09
 Proc::Pidfile                       1.10  pkg:cpan/Proc-Pidfile@1.10
 Proc::ProcessTable                 0.637  pkg:cpan/Proc-ProcessTable@0.637
 Proc::ProcessTable::Colorizer      0.004000  pkg:cpan/Proc-ProcessTable-Colorizer@0.4.0
-Proc::ProcessTable::InfoString     0.000001  pkg:cpan/Proc-ProcessTable-InfoString@0.0.1
+Proc::ProcessTable::InfoString     0.001000  pkg:cpan/Proc-ProcessTable-InfoString@0.1.0
 Proc::ProcessTable::Match          0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
 Proc::ProcessTable::Match::Cmndline 0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
 Proc::ProcessTable::Match::Command 0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
@@ -201842,7 +201866,7 @@ Proc::ProcessTable::Match::Time    0.001000  pkg:cpan/Proc-ProcessTable-Match@0.
 Proc::ProcessTable::Match::UID     0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
 Proc::ProcessTable::Match::WChan   0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
 Proc::ProcessTable::Process         0.02  pkg:cpan/Proc-ProcessTable@0.637
-Proc::ProcessTable::ncps           0.001002  pkg:cpan/Proc-ProcessTable-ncps@0.1.2
+Proc::ProcessTable::ncps           0.002001  pkg:cpan/Proc-ProcessTable-ncps@0.2.1
 Proc::ProcessTable::piddler        0.002000  pkg:cpan/Proc-ProcessTable-piddler@0.2.0
 Proc::ProcessTableLight             0.01  pkg:cpan/Proc-ProcessTableLight@0.01
 Proc::Queue                         1.23  pkg:cpan/Proc-Queue@1.23
@@ -261601,7 +261625,7 @@ YAMLScript::Runtime                undef  pkg:cpan/YAMLScript@0.0.5
 YAMLScript::Str                    undef  pkg:cpan/YAMLScript@0.0.16
 YAMLScript::Test                   undef  pkg:cpan/YAMLScript-Lingy@0.2.1
 YAMLScript::Util                   undef  pkg:cpan/YAMLScript@0.0.16
-YAMLStar                           0.001017  pkg:cpan/YAMLStar@0.1.17
+YAMLStar                           0.001018  pkg:cpan/YAMLStar@0.1.18
 YAMLTest                           0.001000  pkg:cpan/YAMLTest@0.1.0
 YANG                                0.02  pkg:cpan/YANG@0.02
 YAOO                                0.10  pkg:cpan/YAOO@0.10
