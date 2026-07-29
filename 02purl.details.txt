@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 28 Jul 2026 22:53:09 GMT
+Last-Updated: Wed, 29 Jul 2026 01:58:10 GMT
 Line-Count: 267431
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -32324,7 +32324,7 @@ CGI::Lazy::Widget::Composite       undef  pkg:cpan/CGI-Lazy@1.10
 CGI::Lazy::Widget::Controller      undef  pkg:cpan/CGI-Lazy@1.10
 CGI::Lazy::Widget::Dataset         undef  pkg:cpan/CGI-Lazy@1.10
 CGI::Lazy::Widget::DomLoader       undef  pkg:cpan/CGI-Lazy@1.10
-CGI::Lingua                         0.82  pkg:cpan/CGI-Lingua@0.82
+CGI::Lingua                         0.83  pkg:cpan/CGI-Lingua@0.83
 CGI::List                           0.05  pkg:cpan/CGI-List@0.05
 CGI::Listman                        0.05  pkg:cpan/CGI-Listman@0.05
 CGI::Listman::dictionary            0.02  pkg:cpan/CGI-Listman@0.02
@@ -50525,7 +50525,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.0  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
 Cucumber::TagExpressions::NotNode  v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
 Cucumber::TagExpressions::OrNode   v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.131
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.132
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
@@ -160724,13 +160724,13 @@ PDF::ReportWriter                    1.5  pkg:cpan/PDF-ReportWriter@1.5
 PDF::ReportWriter::Datasource       1.00  pkg:cpan/PDF-ReportWriter@1.5
 PDF::ReportWriter::Datasource::DBI   1.0  pkg:cpan/PDF-ReportWriter@1.5
 PDF::ReportWriter::Report            1.0  pkg:cpan/PDF-ReportWriter@1.5
-PDF::Reuse                          0.43  pkg:cpan/PDF-Reuse@0.43
-PDF::Reuse::Barcode                 0.09  pkg:cpan/PDF-Reuse-Barcode@0.09
+PDF::Reuse                          0.44  pkg:cpan/PDF-Reuse@0.44
+PDF::Reuse::Barcode                 0.10  pkg:cpan/PDF-Reuse-Barcode@0.10
 PDF::Reuse::DocProxy                0.41  pkg:cpan/PDF-Reuse@0.41
 PDF::Reuse::OverlayChart            0.05  pkg:cpan/PDF-Reuse-OverlayChart@0.05
 PDF::Reuse::TTFont                  0.41  pkg:cpan/PDF-Reuse@0.41
 PDF::Reuse::Tutorial                0.13  pkg:cpan/PDF-Reuse-Tutorial@0.13
-PDF::Reuse::Util                   undef  pkg:cpan/PDF-Reuse@0.43
+PDF::Reuse::Util                   undef  pkg:cpan/PDF-Reuse@0.44
 PDF::Sign                           0.07  pkg:cpan/PDF-Sign@0.07
 PDF::Table                         1.007  pkg:cpan/PDF-Table@1.007
 PDF::Table::ColumnWidth            1.007  pkg:cpan/PDF-Table@1.007
@@ -201817,30 +201817,30 @@ Proc::Pidfile                       1.10  pkg:cpan/Proc-Pidfile@1.10
 Proc::ProcessTable                 0.637  pkg:cpan/Proc-ProcessTable@0.637
 Proc::ProcessTable::Colorizer      0.004000  pkg:cpan/Proc-ProcessTable-Colorizer@0.4.0
 Proc::ProcessTable::InfoString     0.000001  pkg:cpan/Proc-ProcessTable-InfoString@0.0.1
-Proc::ProcessTable::Match          0.000001  pkg:cpan/Proc-ProcessTable-Match@0.0.1
-Proc::ProcessTable::Match::Cmndline   0.0  pkg:cpan/Proc-ProcessTable-Match@0.0.1
-Proc::ProcessTable::Match::Command   0.0  pkg:cpan/Proc-ProcessTable-Match@0.0.1
-Proc::ProcessTable::Match::EGID      0.0  pkg:cpan/Proc-ProcessTable-Match@0.0.1
-Proc::ProcessTable::Match::EGIDset   0.0  pkg:cpan/Proc-ProcessTable-Match@0.0.1
-Proc::ProcessTable::Match::EUID      0.0  pkg:cpan/Proc-ProcessTable-Match@0.0.1
-Proc::ProcessTable::Match::EUIDset   0.0  pkg:cpan/Proc-ProcessTable-Match@0.0.1
-Proc::ProcessTable::Match::Fname     0.0  pkg:cpan/Proc-ProcessTable-Match@0.0.1
-Proc::ProcessTable::Match::GID       0.0  pkg:cpan/Proc-ProcessTable-Match@0.0.1
-Proc::ProcessTable::Match::Idle      0.0  pkg:cpan/Proc-ProcessTable-Match@0.0.1
-Proc::ProcessTable::Match::JID       0.0  pkg:cpan/Proc-ProcessTable-Match@0.0.1
-Proc::ProcessTable::Match::KernProc   0.0  pkg:cpan/Proc-ProcessTable-Match@0.0.1
-Proc::ProcessTable::Match::PID       0.0  pkg:cpan/Proc-ProcessTable-Match@0.0.1
-Proc::ProcessTable::Match::PctCPU    0.0  pkg:cpan/Proc-ProcessTable-Match@0.0.1
-Proc::ProcessTable::Match::PctMem    0.0  pkg:cpan/Proc-ProcessTable-Match@0.0.1
-Proc::ProcessTable::Match::Priority   0.0  pkg:cpan/Proc-ProcessTable-Match@0.0.1
-Proc::ProcessTable::Match::RSS       0.0  pkg:cpan/Proc-ProcessTable-Match@0.0.1
-Proc::ProcessTable::Match::Size      0.0  pkg:cpan/Proc-ProcessTable-Match@0.0.1
-Proc::ProcessTable::Match::Start     0.0  pkg:cpan/Proc-ProcessTable-Match@0.0.1
-Proc::ProcessTable::Match::State     0.0  pkg:cpan/Proc-ProcessTable-Match@0.0.1
-Proc::ProcessTable::Match::Swapped   0.0  pkg:cpan/Proc-ProcessTable-Match@0.0.1
-Proc::ProcessTable::Match::Time    0.000001  pkg:cpan/Proc-ProcessTable-Match@0.0.1
-Proc::ProcessTable::Match::UID       0.0  pkg:cpan/Proc-ProcessTable-Match@0.0.1
-Proc::ProcessTable::Match::WChan     0.0  pkg:cpan/Proc-ProcessTable-Match@0.0.1
+Proc::ProcessTable::Match          0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
+Proc::ProcessTable::Match::Cmndline 0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
+Proc::ProcessTable::Match::Command 0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
+Proc::ProcessTable::Match::EGID    0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
+Proc::ProcessTable::Match::EGIDset 0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
+Proc::ProcessTable::Match::EUID    0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
+Proc::ProcessTable::Match::EUIDset 0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
+Proc::ProcessTable::Match::Fname   0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
+Proc::ProcessTable::Match::GID     0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
+Proc::ProcessTable::Match::Idle    0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
+Proc::ProcessTable::Match::JID     0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
+Proc::ProcessTable::Match::KernProc 0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
+Proc::ProcessTable::Match::PID     0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
+Proc::ProcessTable::Match::PctCPU  0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
+Proc::ProcessTable::Match::PctMem  0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
+Proc::ProcessTable::Match::Priority 0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
+Proc::ProcessTable::Match::RSS     0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
+Proc::ProcessTable::Match::Size    0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
+Proc::ProcessTable::Match::Start   0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
+Proc::ProcessTable::Match::State   0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
+Proc::ProcessTable::Match::Swapped 0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
+Proc::ProcessTable::Match::Time    0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
+Proc::ProcessTable::Match::UID     0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
+Proc::ProcessTable::Match::WChan   0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
 Proc::ProcessTable::Process         0.02  pkg:cpan/Proc-ProcessTable@0.637
 Proc::ProcessTable::ncps           0.001002  pkg:cpan/Proc-ProcessTable-ncps@0.1.2
 Proc::ProcessTable::piddler        0.002000  pkg:cpan/Proc-ProcessTable-piddler@0.2.0
