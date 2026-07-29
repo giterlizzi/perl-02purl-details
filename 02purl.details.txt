@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 29 Jul 2026 15:50:06 GMT
+Last-Updated: Wed, 29 Jul 2026 17:07:20 GMT
 Line-Count: 267470
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -142266,7 +142266,7 @@ MooX::Role::Pluggable              1.002002  pkg:cpan/MooX-Role-Pluggable@1.0020
 MooX::Role::Pluggable::Constants   1.002002  pkg:cpan/MooX-Role-Pluggable@1.002002
 MooX::Role::REST                   0.001  pkg:cpan/MooX-Role-HTTP-Tiny@0.94
 MooX::Role::Reconstruct            0.001002  pkg:cpan/MooX-Role-Reconstruct@v0.1.2
-MooX::Role::SEOTags                1.002000  pkg:cpan/MooX-Role-SEOTags@1.2.0
+MooX::Role::SEOTags                1.002001  pkg:cpan/MooX-Role-SEOTags@1.2.1
 MooX::Roles::Pluggable             0.003  pkg:cpan/MooX-Roles-Pluggable@0.003
 MooX::SetOnce                      0.001003  pkg:cpan/MooX-SetOnce@0.001003
 MooX::ShortHas                     1.202040  pkg:cpan/MooX-ShortHas@1.202040
@@ -160752,7 +160752,7 @@ PDF::ReportWriter::Datasource       1.00  pkg:cpan/PDF-ReportWriter@1.5
 PDF::ReportWriter::Datasource::DBI   1.0  pkg:cpan/PDF-ReportWriter@1.5
 PDF::ReportWriter::Report            1.0  pkg:cpan/PDF-ReportWriter@1.5
 PDF::Reuse                          0.44  pkg:cpan/PDF-Reuse@0.44
-PDF::Reuse::Barcode                 0.10  pkg:cpan/PDF-Reuse-Barcode@0.10
+PDF::Reuse::Barcode                 0.11  pkg:cpan/PDF-Reuse-Barcode@0.11
 PDF::Reuse::DocProxy                0.41  pkg:cpan/PDF-Reuse@0.41
 PDF::Reuse::OverlayChart            0.05  pkg:cpan/PDF-Reuse-OverlayChart@0.05
 PDF::Reuse::TTFont                  0.41  pkg:cpan/PDF-Reuse@0.41
