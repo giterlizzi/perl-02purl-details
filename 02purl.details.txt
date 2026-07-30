@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 30 Jul 2026 15:46:05 GMT
+Last-Updated: Thu, 30 Jul 2026 17:18:33 GMT
 Line-Count: 267477
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -9473,29 +9473,29 @@ App::Codeowners::Formatter::YAML    0.51  pkg:cpan/App-Codeowners@0.51
 App::Codeowners::Options            0.51  pkg:cpan/App-Codeowners@0.51
 App::Codeowners::Util               0.51  pkg:cpan/App-Codeowners@0.51
 App::Codeowners::Util::Process      0.49  pkg:cpan/App-Codeowners@0.49
-App::Codit                          0.21  pkg:cpan/App-Codit@0.21
-App::Codit::BaseClasses::TextModPlugin  0.19  pkg:cpan/App-Codit@0.21
-App::Codit::CodeTextManager         0.21  pkg:cpan/App-Codit@0.21
-App::Codit::CoditTagsEditor         0.19  pkg:cpan/App-Codit@0.21
-App::Codit::Ext::CoditMDI           0.19  pkg:cpan/App-Codit@0.21
-App::Codit::Macro                   0.19  pkg:cpan/App-Codit@0.21
-App::Codit::Plugins::Backups        0.19  pkg:cpan/App-Codit@0.21
-App::Codit::Plugins::Bookmarks      0.21  pkg:cpan/App-Codit@0.21
-App::Codit::Plugins::Colors         0.19  pkg:cpan/App-Codit@0.21
-App::Codit::Plugins::Console        0.21  pkg:cpan/App-Codit@0.21
-App::Codit::Plugins::Critic         0.21  pkg:cpan/App-Codit@0.21
-App::Codit::Plugins::Diff           0.21  pkg:cpan/App-Codit@0.21
-App::Codit::Plugins::Exporter       0.19  pkg:cpan/App-Codit@0.21
-App::Codit::Plugins::FileBrowser    0.21  pkg:cpan/App-Codit@0.21
-App::Codit::Plugins::Git            0.21  pkg:cpan/App-Codit@0.21
-App::Codit::Plugins::Icons          0.21  pkg:cpan/App-Codit@0.21
-App::Codit::Plugins::PerlSubs       0.20  pkg:cpan/App-Codit@0.21
-App::Codit::Plugins::PodViewer      0.21  pkg:cpan/App-Codit@0.21
-App::Codit::Plugins::SearchReplace  0.21  pkg:cpan/App-Codit@0.21
-App::Codit::Plugins::Sessions       0.21  pkg:cpan/App-Codit@0.21
-App::Codit::Plugins::Snippets       0.21  pkg:cpan/App-Codit@0.21
-App::Codit::Plugins::SplitView      0.19  pkg:cpan/App-Codit@0.21
-App::Codit::SessionManager          0.19  pkg:cpan/App-Codit@0.21
+App::Codit                          0.23  pkg:cpan/App-Codit@0.23
+App::Codit::BaseClasses::TextModPlugin  0.19  pkg:cpan/App-Codit@0.23
+App::Codit::CodeTextManager         0.21  pkg:cpan/App-Codit@0.23
+App::Codit::CoditTagsEditor         0.19  pkg:cpan/App-Codit@0.23
+App::Codit::Ext::CoditMDI           0.23  pkg:cpan/App-Codit@0.23
+App::Codit::Macro                   0.19  pkg:cpan/App-Codit@0.23
+App::Codit::Plugins::Backups        0.19  pkg:cpan/App-Codit@0.23
+App::Codit::Plugins::Bookmarks      0.21  pkg:cpan/App-Codit@0.23
+App::Codit::Plugins::Colors         0.19  pkg:cpan/App-Codit@0.23
+App::Codit::Plugins::Console        0.21  pkg:cpan/App-Codit@0.23
+App::Codit::Plugins::Critic         0.22  pkg:cpan/App-Codit@0.23
+App::Codit::Plugins::Diff           0.22  pkg:cpan/App-Codit@0.23
+App::Codit::Plugins::Exporter       0.19  pkg:cpan/App-Codit@0.23
+App::Codit::Plugins::FileBrowser    0.22  pkg:cpan/App-Codit@0.23
+App::Codit::Plugins::Git            0.21  pkg:cpan/App-Codit@0.23
+App::Codit::Plugins::Icons          0.21  pkg:cpan/App-Codit@0.23
+App::Codit::Plugins::PerlSubs       0.20  pkg:cpan/App-Codit@0.23
+App::Codit::Plugins::PodViewer      0.21  pkg:cpan/App-Codit@0.23
+App::Codit::Plugins::SearchReplace  0.21  pkg:cpan/App-Codit@0.23
+App::Codit::Plugins::Sessions       0.21  pkg:cpan/App-Codit@0.23
+App::Codit::Plugins::Snippets       0.22  pkg:cpan/App-Codit@0.23
+App::Codit::Plugins::SplitView      0.19  pkg:cpan/App-Codit@0.23
+App::Codit::SessionManager          0.19  pkg:cpan/App-Codit@0.23
 App::ColorNamer                    0.0104  pkg:cpan/App-ColorNamer@1.001001
 App::ColorThemeUtils               0.011  pkg:cpan/App-ColorThemeUtils@0.011
 App::Colorist                      0.150460  pkg:cpan/App-Colorist@0.150460
