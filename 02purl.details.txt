@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 30 Jul 2026 17:18:33 GMT
+Last-Updated: Thu, 30 Jul 2026 19:14:17 GMT
 Line-Count: 267477
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -4785,7 +4785,7 @@ Alien::SDL3_ttf                     0.05  pkg:cpan/Alien-SDL3_ttf@0.05
 Alien::SFML                        0.0101  pkg:cpan/Alien-SFML@0.02
 Alien::SIMDe                        0.01  pkg:cpan/Alien-SIMDe@0.01
 Alien::SLOCCount                    0.07  pkg:cpan/Alien-SLOCCount@0.07
-Alien::SNMP                        4.0509050200  pkg:cpan/Alien-SNMP@4.0509050200
+Alien::SNMP                        4.0509050201  pkg:cpan/Alien-SNMP@4.0509050201
 Alien::SNMP::MIBDEV                2.020000  pkg:cpan/Alien-SNMP-MIBDEV@2.020000
 Alien::SVN                         v1.8.11.0  pkg:cpan/Alien-SVN@v1.8.11.0
 Alien::SWIG4                        0.05  pkg:cpan/Alien-SWIG4@0.05
@@ -115519,7 +115519,7 @@ Image::WMF::Font                   undef  pkg:cpan/Image-WMF@1.03
 Image::WMF::Image                   1.00  pkg:cpan/Image-WMF@1.03
 Image::WMF::Polygon                 1.00  pkg:cpan/Image-WMF@1.03
 Image::WMF::Rectangle              undef  pkg:cpan/Image-WMF@1.03
-Image::WebP                         0.01  pkg:cpan/Image-WebP@0.2
+Image::WebP                         0.03  pkg:cpan/Image-WebP@0.3.0
 Image::WordCloud                    0.03  pkg:cpan/Image-WordCloud@0.03
 Image::WordCloud::BoundingBox      undef  pkg:cpan/Image-WordCloud@0.03
 Image::WordCloud::StopWords::EN    undef  pkg:cpan/Image-WordCloud@0.03
