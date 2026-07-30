@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 30 Jul 2026 13:42:49 GMT
-Line-Count: 267473
+Last-Updated: Thu, 30 Jul 2026 15:46:05 GMT
+Line-Count: 267477
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -22237,14 +22237,14 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         0.027000  pkg:cpan/BarefootJS@0.27.0
-BarefootJS::Backend::Mojo          0.027000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.27.0
-BarefootJS::Backend::Xslate        0.027000  pkg:cpan/BarefootJS-Backend-Xslate@0.27.0
-BarefootJS::Date                   0.027000  pkg:cpan/BarefootJS@0.27.0
-BarefootJS::DevReload              0.027000  pkg:cpan/BarefootJS@0.27.0
-BarefootJS::Evaluator              0.014000  pkg:cpan/BarefootJS@0.27.0
-BarefootJS::SearchParams           0.014000  pkg:cpan/BarefootJS@0.27.0
-BarefootJS::_TZProbe               0.027000  pkg:cpan/BarefootJS@0.27.0
+BarefootJS                         0.028000  pkg:cpan/BarefootJS@0.28.0
+BarefootJS::Backend::Mojo          0.028000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.28.0
+BarefootJS::Backend::Xslate        0.028000  pkg:cpan/BarefootJS-Backend-Xslate@0.28.0
+BarefootJS::Date                   0.028000  pkg:cpan/BarefootJS@0.28.0
+BarefootJS::DevReload              0.028000  pkg:cpan/BarefootJS@0.28.0
+BarefootJS::Evaluator              0.014000  pkg:cpan/BarefootJS@0.28.0
+BarefootJS::SearchParams           0.014000  pkg:cpan/BarefootJS@0.28.0
+BarefootJS::_TZProbe               0.028000  pkg:cpan/BarefootJS@0.28.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
 Baseball::Sabermetrics              0.03  pkg:cpan/Baseball-Sabermetrics@0.03
@@ -35059,23 +35059,23 @@ Call::Haskell::FFIGenerator        0.002001  pkg:cpan/Call-Haskell@v0.2.1
 Call::Haskell::ReadShow            0.001001  pkg:cpan/Call-Haskell@v0.2.1
 Call::Immediate                     0.01  pkg:cpan/Call-Immediate@0.01
 Call::Immediate::Call              undef  pkg:cpan/Call-Immediate@0.01
-CallBackery                        0.058002  pkg:cpan/CallBackery@0.58.2
-CallBackery::Config                undef  pkg:cpan/CallBackery@0.58.2
-CallBackery::Controller::RpcService undef  pkg:cpan/CallBackery@0.58.2
-CallBackery::Database              undef  pkg:cpan/CallBackery@0.58.2
-CallBackery::Exception             undef  pkg:cpan/CallBackery@0.58.2
-CallBackery::GuiPlugin::Abstract   undef  pkg:cpan/CallBackery@0.58.2
-CallBackery::GuiPlugin::AbstractAction undef  pkg:cpan/CallBackery@0.58.2
-CallBackery::GuiPlugin::AbstractCardlist undef  pkg:cpan/CallBackery@0.58.2
-CallBackery::GuiPlugin::AbstractForm undef  pkg:cpan/CallBackery@0.58.2
-CallBackery::GuiPlugin::AbstractHtml undef  pkg:cpan/CallBackery@0.58.2
-CallBackery::GuiPlugin::AbstractTable undef  pkg:cpan/CallBackery@0.58.2
-CallBackery::GuiPlugin::UserForm   undef  pkg:cpan/CallBackery@0.58.2
-CallBackery::GuiPlugin::Users      undef  pkg:cpan/CallBackery@0.58.2
-CallBackery::Model::ConfigJsonSchema undef  pkg:cpan/CallBackery@0.58.2
-CallBackery::Plugin::Doc           undef  pkg:cpan/CallBackery@0.58.2
-CallBackery::Translate             undef  pkg:cpan/CallBackery@0.58.2
-CallBackery::User                  undef  pkg:cpan/CallBackery@0.58.2
+CallBackery                        0.058003  pkg:cpan/CallBackery@0.58.3
+CallBackery::Config                undef  pkg:cpan/CallBackery@0.58.3
+CallBackery::Controller::RpcService undef  pkg:cpan/CallBackery@0.58.3
+CallBackery::Database              undef  pkg:cpan/CallBackery@0.58.3
+CallBackery::Exception             undef  pkg:cpan/CallBackery@0.58.3
+CallBackery::GuiPlugin::Abstract   undef  pkg:cpan/CallBackery@0.58.3
+CallBackery::GuiPlugin::AbstractAction undef  pkg:cpan/CallBackery@0.58.3
+CallBackery::GuiPlugin::AbstractCardlist undef  pkg:cpan/CallBackery@0.58.3
+CallBackery::GuiPlugin::AbstractForm undef  pkg:cpan/CallBackery@0.58.3
+CallBackery::GuiPlugin::AbstractHtml undef  pkg:cpan/CallBackery@0.58.3
+CallBackery::GuiPlugin::AbstractTable undef  pkg:cpan/CallBackery@0.58.3
+CallBackery::GuiPlugin::UserForm   undef  pkg:cpan/CallBackery@0.58.3
+CallBackery::GuiPlugin::Users      undef  pkg:cpan/CallBackery@0.58.3
+CallBackery::Model::ConfigJsonSchema undef  pkg:cpan/CallBackery@0.58.3
+CallBackery::Plugin::Doc           undef  pkg:cpan/CallBackery@0.58.3
+CallBackery::Translate             undef  pkg:cpan/CallBackery@0.58.3
+CallBackery::User                  undef  pkg:cpan/CallBackery@0.58.3
 CallGraph                           0.55  pkg:cpan/CallGraph@0.55
 CallGraph::Dumper                   0.55  pkg:cpan/CallGraph@0.55
 CallGraph::Lang::Fortran            0.55  pkg:cpan/CallGraph@0.55
@@ -140833,8 +140833,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    0.027000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.27.0
-Mojolicious::Plugin::BarefootJS::DevReload 0.027000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.27.0
+Mojolicious::Plugin::BarefootJS    0.028000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.28.0
+Mojolicious::Plugin::BarefootJS::DevReload 0.028000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.28.0
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -142188,7 +142188,7 @@ MooX::InsideOut                    0.001004  pkg:cpan/MooX-InsideOut@0.001004
 MooX::InsideOut::Role::GenerateAccessor undef  pkg:cpan/MooX-InsideOut@0.001004
 MooX::Ipc::Cmd                     undef  pkg:cpan/MooX-Ipc-Cmd@1.2.1
 MooX::Ipc::Cmd::Exception          1.002001  pkg:cpan/MooX-Ipc-Cmd@1.2.1
-MooX::JSON_LD                      2.001000  pkg:cpan/MooX-Role-JSON_LD@2.1.0
+MooX::JSON_LD                      2.001001  pkg:cpan/MooX-Role-JSON_LD@2.1.1
 MooX::Keyword                       1.01  pkg:cpan/MooX-Keyword@1.01
 MooX::Keyword::Chain                1.01  pkg:cpan/MooX-Keyword-Chain@1.01
 MooX::Keyword::Factory              1.01  pkg:cpan/MooX-Keyword-Factory@1.01
@@ -142253,7 +142253,7 @@ MooX::Role::EventEmitter            0.04  pkg:cpan/MooX-Role-EventEmitter@0.04
 MooX::Role::HTTP::Tiny              0.94  pkg:cpan/MooX-Role-HTTP-Tiny@0.94
 MooX::Role::HasLogger              v1.0.0  pkg:cpan/MooX-Role-HasLogger@v1.0.0
 MooX::Role::HasLogger::Types       v1.0.0  pkg:cpan/MooX-Role-HasLogger@v1.0.0
-MooX::Role::JSON_LD                2.001000  pkg:cpan/MooX-Role-JSON_LD@2.1.0
+MooX::Role::JSON_LD                2.001001  pkg:cpan/MooX-Role-JSON_LD@2.1.1
 MooX::Role::Logger                 0.005  pkg:cpan/MooX-Role-Logger@0.005
 MooX::Role::OpenGraph                1.0  pkg:cpan/MooX-Role-SEOTags@1.0.0
 MooX::Role::POE::Emitter           1.001002  pkg:cpan/MooX-Role-POE-Emitter@1.001002
@@ -210150,6 +210150,10 @@ SIOC::Space                        undef  pkg:cpan/SIOC@v1.0.0
 SIOC::Thread                       1.000000  pkg:cpan/SIOC@v1.0.0
 SIOC::User                         1.000000  pkg:cpan/SIOC@v1.0.0
 SIOC::Usergroup                    1.000000  pkg:cpan/SIOC@v1.0.0
+SION                                0.01  pkg:cpan/SION@0.01
+SION::Data                          0.01  pkg:cpan/SION@0.01
+SION::Date                          0.01  pkg:cpan/SION@0.01
+SION::Ext                           0.01  pkg:cpan/SION@0.01
 SIRTX::Datecode                    v0.7.0  pkg:cpan/SIRTX-Datecode@v0.07
 SIRTX::Font                        v0.8.0  pkg:cpan/SIRTX-Font@v0.08
 SIRTX::Font::Renderer              v0.8.0  pkg:cpan/SIRTX-Font@v0.08
@@ -223426,8 +223430,8 @@ SpeL::Parser::Aux                  20240615  pkg:cpan/SpeL-Wizard@20240615
 SpeL::Parser::Auxiliary            20250511.1428  pkg:cpan/SpeL-Wizard@20250511.1428
 SpeL::Parser::Chunk                20250511.1428  pkg:cpan/SpeL-Wizard@20250511.1428
 SpeL::Wizard                       20250511.1428  pkg:cpan/SpeL-Wizard@20250511.1428
-Speak                               1.02  pkg:cpan/Speak@1.02
-Speak::Logger                       1.02  pkg:cpan/Speak@1.02
+Speak                               1.03  pkg:cpan/Speak@1.03
+Speak::Logger                       1.03  pkg:cpan/Speak@1.03
 SpecialVars                         0.08  pkg:cpan/Data-HTMLDumper@0.08
 Specio                              0.53  pkg:cpan/Specio@0.53
 Specio::Coercion                    0.53  pkg:cpan/Specio@0.53
