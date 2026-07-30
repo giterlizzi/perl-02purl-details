@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 30 Jul 2026 19:14:17 GMT
+Last-Updated: Thu, 30 Jul 2026 20:59:30 GMT
 Line-Count: 267477
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -32324,7 +32324,7 @@ CGI::Lazy::Widget::Composite       undef  pkg:cpan/CGI-Lazy@1.10
 CGI::Lazy::Widget::Controller      undef  pkg:cpan/CGI-Lazy@1.10
 CGI::Lazy::Widget::Dataset         undef  pkg:cpan/CGI-Lazy@1.10
 CGI::Lazy::Widget::DomLoader       undef  pkg:cpan/CGI-Lazy@1.10
-CGI::Lingua                         0.83  pkg:cpan/CGI-Lingua@0.83
+CGI::Lingua                         0.84  pkg:cpan/CGI-Lingua@0.84
 CGI::List                           0.05  pkg:cpan/CGI-List@0.05
 CGI::Listman                        0.05  pkg:cpan/CGI-Listman@0.05
 CGI::Listman::dictionary            0.02  pkg:cpan/CGI-Listman@0.02
@@ -50525,7 +50525,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.0  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
 Cucumber::TagExpressions::NotNode  v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
 Cucumber::TagExpressions::OrNode   v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.133
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.134
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
@@ -209296,7 +209296,7 @@ Router::PathInfo::Static           undef  pkg:cpan/Router-PathInfo@0.05
 Router::Pygmy                       0.05  pkg:cpan/Router-Pygmy@0.05
 Router::Pygmy::Route                0.05  pkg:cpan/Router-Pygmy@0.05
 Router::R3                         0.011001  pkg:cpan/Router-R3@0.011001
-Router::Ragel                       0.04  pkg:cpan/Router-Ragel@0.04
+Router::Ragel                       0.05  pkg:cpan/Router-Ragel@0.05
 Router::Resource                    0.22  pkg:cpan/Router-Resource@0.22
 Router::Simple                      0.17  pkg:cpan/Router-Simple@0.17
 Router::Simple::Declare            undef  pkg:cpan/Router-Simple@0.17
