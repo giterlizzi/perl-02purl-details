@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 31 Jul 2026 02:07:13 GMT
-Line-Count: 267477
+Last-Updated: Fri, 31 Jul 2026 06:37:58 GMT
+Line-Count: 267478
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -140532,18 +140532,18 @@ MojoX::Aliyun                       0.02  pkg:cpan/App-Aliyun@0.02
 MojoX::AlmostJSON                  1.151250  pkg:cpan/MojoX-AlmostJSON@1.151250
 MojoX::AlmostJSON::_Bool           1.151250  pkg:cpan/MojoX-AlmostJSON@1.151250
 MojoX::Auth::Simple                0.004002  pkg:cpan/MojoX-Auth-Simple@0.04.03
-MojoX::Authentication              0.004  pkg:cpan/MojoX-Authentication@0.004
-MojoX::Authentication::Model       0.004  pkg:cpan/MojoX-Authentication@0.004
-MojoX::Authentication::Model::Db   0.004  pkg:cpan/MojoX-Authentication@0.004
-MojoX::Authentication::Model::Hash 0.004  pkg:cpan/MojoX-Authentication@0.004
-MojoX::Authentication::Model::Role::Creator 0.004  pkg:cpan/MojoX-Authentication@0.004
-MojoX::Authentication::Model::Role::Local 0.004  pkg:cpan/MojoX-Authentication@0.004
-MojoX::Authentication::Model::Role::MojoDbWrap 0.004  pkg:cpan/MojoX-Authentication@0.004
-MojoX::Authentication::Model::Role::Remap 0.004  pkg:cpan/MojoX-Authentication@0.004
-MojoX::Authentication::Model::SAML2 0.004  pkg:cpan/MojoX-Authentication@0.004
-MojoX::Authentication::Model::SAML2::Db 0.004  pkg:cpan/MojoX-Authentication@0.004
-MojoX::Authentication::Model::SAML2::Hash 0.004  pkg:cpan/MojoX-Authentication@0.004
-MojoX::Authentication::Util        undef  pkg:cpan/MojoX-Authentication@0.004
+MojoX::Authentication              0.006  pkg:cpan/MojoX-Authentication@0.006
+MojoX::Authentication::Model       0.006  pkg:cpan/MojoX-Authentication@0.006
+MojoX::Authentication::Model::Db   0.006  pkg:cpan/MojoX-Authentication@0.006
+MojoX::Authentication::Model::Hash 0.006  pkg:cpan/MojoX-Authentication@0.006
+MojoX::Authentication::Model::Role::Creator 0.006  pkg:cpan/MojoX-Authentication@0.006
+MojoX::Authentication::Model::Role::Local 0.006  pkg:cpan/MojoX-Authentication@0.006
+MojoX::Authentication::Model::Role::MojoDbWrap 0.006  pkg:cpan/MojoX-Authentication@0.006
+MojoX::Authentication::Model::Role::Remap 0.006  pkg:cpan/MojoX-Authentication@0.006
+MojoX::Authentication::Model::SAML2 0.006  pkg:cpan/MojoX-Authentication@0.006
+MojoX::Authentication::Model::SAML2::Db 0.006  pkg:cpan/MojoX-Authentication@0.006
+MojoX::Authentication::Model::SAML2::Hash 0.006  pkg:cpan/MojoX-Authentication@0.006
+MojoX::Authentication::Util        undef  pkg:cpan/MojoX-Authentication@0.006
 MojoX::CPAN::Uploader              0.034  pkg:cpan/MojoX-CPAN-Uploader@0.034
 MojoX::CloudFlare::Simple           0.04  pkg:cpan/MojoX-CloudFlare-Simple@0.04
 MojoX::ConfigAppStart               1.06  pkg:cpan/MojoX-ConfigAppStart@1.06
@@ -153137,28 +153137,29 @@ Net::SAJAX::Exception::MethodArguments 0.107  pkg:cpan/Net-SAJAX@0.107
 Net::SAJAX::Exception::RemoteError 0.107  pkg:cpan/Net-SAJAX@0.107
 Net::SAJAX::Exception::Response    0.107  pkg:cpan/Net-SAJAX@0.107
 Net::SAML                          undef  pkg:cpan/zxid@1.42?ext=tgz
-Net::SAML2                          0.85  pkg:cpan/Net-SAML2@0.85
-Net::SAML2::AttributeConsumingService  0.85  pkg:cpan/Net-SAML2@0.85
-Net::SAML2::Binding::POST           0.85  pkg:cpan/Net-SAML2@0.85
-Net::SAML2::Binding::Redirect       0.85  pkg:cpan/Net-SAML2@0.85
-Net::SAML2::Binding::SOAP           0.85  pkg:cpan/Net-SAML2@0.85
-Net::SAML2::IdP                     0.85  pkg:cpan/Net-SAML2@0.85
-Net::SAML2::Object::Response        0.85  pkg:cpan/Net-SAML2@0.85
-Net::SAML2::Protocol::Artifact      0.85  pkg:cpan/Net-SAML2@0.85
-Net::SAML2::Protocol::ArtifactResolve  0.85  pkg:cpan/Net-SAML2@0.85
-Net::SAML2::Protocol::Assertion     0.85  pkg:cpan/Net-SAML2@0.85
-Net::SAML2::Protocol::AuthnRequest  0.85  pkg:cpan/Net-SAML2@0.85
-Net::SAML2::Protocol::LogoutRequest  0.85  pkg:cpan/Net-SAML2@0.85
-Net::SAML2::Protocol::LogoutResponse  0.85  pkg:cpan/Net-SAML2@0.85
-Net::SAML2::RequestedAttribute      0.85  pkg:cpan/Net-SAML2@0.85
-Net::SAML2::Role::ProtocolMessage   0.85  pkg:cpan/Net-SAML2@0.85
-Net::SAML2::Role::VerifyXML         0.85  pkg:cpan/Net-SAML2@0.85
-Net::SAML2::Role::XMLLang           0.85  pkg:cpan/Net-SAML2@0.85
-Net::SAML2::SP                      0.85  pkg:cpan/Net-SAML2@0.85
-Net::SAML2::Types                   0.85  pkg:cpan/Net-SAML2@0.85
-Net::SAML2::Util                    0.85  pkg:cpan/Net-SAML2@0.85
-Net::SAML2::XML::Sig                0.85  pkg:cpan/Net-SAML2@0.85
-Net::SAML2::XML::Util               0.85  pkg:cpan/Net-SAML2@0.85
+Net::SAML2                          0.88  pkg:cpan/Net-SAML2@0.88
+Net::SAML2::AttributeConsumingService  0.88  pkg:cpan/Net-SAML2@0.88
+Net::SAML2::Binding::POST           0.88  pkg:cpan/Net-SAML2@0.88
+Net::SAML2::Binding::Redirect       0.88  pkg:cpan/Net-SAML2@0.88
+Net::SAML2::Binding::SOAP           0.88  pkg:cpan/Net-SAML2@0.88
+Net::SAML2::IdP                     0.88  pkg:cpan/Net-SAML2@0.88
+Net::SAML2::Object::Response        0.88  pkg:cpan/Net-SAML2@0.88
+Net::SAML2::Protocol::Artifact      0.88  pkg:cpan/Net-SAML2@0.88
+Net::SAML2::Protocol::ArtifactResolve  0.88  pkg:cpan/Net-SAML2@0.88
+Net::SAML2::Protocol::Assertion     0.88  pkg:cpan/Net-SAML2@0.88
+Net::SAML2::Protocol::AuthnRequest  0.88  pkg:cpan/Net-SAML2@0.88
+Net::SAML2::Protocol::LogoutRequest  0.88  pkg:cpan/Net-SAML2@0.88
+Net::SAML2::Protocol::LogoutResponse  0.88  pkg:cpan/Net-SAML2@0.88
+Net::SAML2::RequestedAttribute      0.88  pkg:cpan/Net-SAML2@0.88
+Net::SAML2::Role::ProtocolMessage   0.88  pkg:cpan/Net-SAML2@0.88
+Net::SAML2::Role::VerifyXML         0.88  pkg:cpan/Net-SAML2@0.88
+Net::SAML2::Role::XMLCertificate    0.88  pkg:cpan/Net-SAML2@0.88
+Net::SAML2::Role::XMLLang           0.88  pkg:cpan/Net-SAML2@0.88
+Net::SAML2::SP                      0.88  pkg:cpan/Net-SAML2@0.88
+Net::SAML2::Types                   0.88  pkg:cpan/Net-SAML2@0.88
+Net::SAML2::Util                    0.88  pkg:cpan/Net-SAML2@0.88
+Net::SAML2::XML::Sig                0.88  pkg:cpan/Net-SAML2@0.88
+Net::SAML2::XML::Util               0.88  pkg:cpan/Net-SAML2@0.88
 Net::SAML::stomp_hdr               undef  pkg:cpan/zxid@1.42?ext=tgz
 Net::SAML::zx_at_tok               undef  pkg:cpan/zxid@1.42?ext=tgz
 Net::SAML::zx_attr_s               undef  pkg:cpan/zxid@1.42?ext=tgz
@@ -214890,7 +214891,7 @@ Schedule::Chronic::Constraint::Xscreensaver undef  pkg:cpan/Chronic@0.30
 Schedule::Chronic::Logger          undef  pkg:cpan/Chronic@0.30
 Schedule::Chronic::Tab             undef  pkg:cpan/Chronic@0.30
 Schedule::Chronic::Timer           undef  pkg:cpan/Chronic@0.30
-Schedule::Cron                      1.06  pkg:cpan/Schedule-Cron@1.06
+Schedule::Cron                      1.07  pkg:cpan/Schedule-Cron@1.07
 Schedule::Cron::Events              1.96  pkg:cpan/Schedule-Cron-Events@1.96
 Schedule::Cron::Nofork              0.03  pkg:cpan/Schedule-Cron-Nofork@0.03
 Schedule::Cronchik                   0.4  pkg:cpan/Schedule-Cronchik@0.4
