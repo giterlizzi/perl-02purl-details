@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 31 Jul 2026 10:30:55 GMT
+Last-Updated: Fri, 31 Jul 2026 13:47:46 GMT
 Line-Count: 267504
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -9931,22 +9931,22 @@ App::Egaz::Command::raxml          undef  pkg:cpan/App-Egaz@0.2.9
 App::Egaz::Command::repeatmasker   undef  pkg:cpan/App-Egaz@0.2.9
 App::Egaz::Command::template       undef  pkg:cpan/App-Egaz@0.2.9
 App::Egaz::Common                  undef  pkg:cpan/App-Egaz@0.2.9
-App::ElasticSearch::Utilities        8.9  pkg:cpan/App-ElasticSearch-Utilities@8.9
-App::ElasticSearch::Utilities::Aggregations undef  pkg:cpan/App-ElasticSearch-Utilities@8.9
-App::ElasticSearch::Utilities::Connection   8.9  pkg:cpan/App-ElasticSearch-Utilities@8.9
-App::ElasticSearch::Utilities::HTTPRequest   8.9  pkg:cpan/App-ElasticSearch-Utilities@8.9
-App::ElasticSearch::Utilities::Metrics   8.9  pkg:cpan/App-ElasticSearch-Utilities@8.9
-App::ElasticSearch::Utilities::Query   8.9  pkg:cpan/App-ElasticSearch-Utilities@8.9
-App::ElasticSearch::Utilities::QueryString   8.9  pkg:cpan/App-ElasticSearch-Utilities@8.9
-App::ElasticSearch::Utilities::QueryString::BareWords   8.9  pkg:cpan/App-ElasticSearch-Utilities@8.9
-App::ElasticSearch::Utilities::QueryString::FileExpansion   8.9  pkg:cpan/App-ElasticSearch-Utilities@8.9
-App::ElasticSearch::Utilities::QueryString::IP   8.9  pkg:cpan/App-ElasticSearch-Utilities@8.9
-App::ElasticSearch::Utilities::QueryString::Nested   8.9  pkg:cpan/App-ElasticSearch-Utilities@8.9
-App::ElasticSearch::Utilities::QueryString::Plugin   8.9  pkg:cpan/App-ElasticSearch-Utilities@8.9
-App::ElasticSearch::Utilities::QueryString::Ranges   8.9  pkg:cpan/App-ElasticSearch-Utilities@8.9
-App::ElasticSearch::Utilities::QueryString::Text   8.9  pkg:cpan/App-ElasticSearch-Utilities@8.9
-App::ElasticSearch::Utilities::QueryString::Underscored   8.9  pkg:cpan/App-ElasticSearch-Utilities@8.9
-App::ElasticSearch::Utilities::VersionHacks   8.9  pkg:cpan/App-ElasticSearch-Utilities@8.9
+App::ElasticSearch::Utilities        9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
+App::ElasticSearch::Utilities::Aggregations undef  pkg:cpan/App-ElasticSearch-Utilities@9.0
+App::ElasticSearch::Utilities::Connection   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
+App::ElasticSearch::Utilities::HTTPRequest   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
+App::ElasticSearch::Utilities::Metrics   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
+App::ElasticSearch::Utilities::Query   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
+App::ElasticSearch::Utilities::QueryString   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
+App::ElasticSearch::Utilities::QueryString::BareWords   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
+App::ElasticSearch::Utilities::QueryString::FileExpansion   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
+App::ElasticSearch::Utilities::QueryString::IP   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
+App::ElasticSearch::Utilities::QueryString::Nested   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
+App::ElasticSearch::Utilities::QueryString::Plugin   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
+App::ElasticSearch::Utilities::QueryString::Ranges   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
+App::ElasticSearch::Utilities::QueryString::Text   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
+App::ElasticSearch::Utilities::QueryString::Underscored   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
+App::ElasticSearch::Utilities::VersionHacks   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
 App::ElbV2                             0  pkg:cpan/App-FargateStack@1.0.50
 App::Elog                           0.08  pkg:cpan/App-Elog@0.08
 App::EmacsLockfileUtils            0.001  pkg:cpan/App-EmacsLockfileUtils@0.001
@@ -22237,14 +22237,14 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         0.028001  pkg:cpan/BarefootJS@0.28.1
-BarefootJS::Backend::Mojo          0.028001  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.28.1
-BarefootJS::Backend::Xslate        0.028001  pkg:cpan/BarefootJS-Backend-Xslate@0.28.1
-BarefootJS::Date                   0.028001  pkg:cpan/BarefootJS@0.28.1
-BarefootJS::DevReload              0.028001  pkg:cpan/BarefootJS@0.28.1
-BarefootJS::Evaluator              0.014000  pkg:cpan/BarefootJS@0.28.1
-BarefootJS::SearchParams           0.014000  pkg:cpan/BarefootJS@0.28.1
-BarefootJS::_TZProbe               0.028001  pkg:cpan/BarefootJS@0.28.1
+BarefootJS                         0.029000  pkg:cpan/BarefootJS@0.29.0
+BarefootJS::Backend::Mojo          0.029000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.29.0
+BarefootJS::Backend::Xslate        0.029000  pkg:cpan/BarefootJS-Backend-Xslate@0.29.0
+BarefootJS::Date                   0.029000  pkg:cpan/BarefootJS@0.29.0
+BarefootJS::DevReload              0.029000  pkg:cpan/BarefootJS@0.29.0
+BarefootJS::Evaluator              0.014000  pkg:cpan/BarefootJS@0.29.0
+BarefootJS::SearchParams           0.014000  pkg:cpan/BarefootJS@0.29.0
+BarefootJS::_TZProbe               0.029000  pkg:cpan/BarefootJS@0.29.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
 Baseball::Sabermetrics              0.03  pkg:cpan/Baseball-Sabermetrics@0.03
@@ -58999,15 +58999,15 @@ Data::ISO8583                       2.44  pkg:cpan/Data-ISO8583@2.44
 Data::ISO8583::VISA                 2.44  pkg:cpan/Data-ISO8583@2.44
 Data::Icon                          0.02  pkg:cpan/Data-Icon@0.02
 Data::IconText                     v0.5.0  pkg:cpan/Data-IconText@v0.05
-Data::Identifier                   v0.31.0  pkg:cpan/Data-Identifier@v0.31
-Data::Identifier::Cloudlet         v0.31.0  pkg:cpan/Data-Identifier@v0.31
-Data::Identifier::Generate         v0.31.0  pkg:cpan/Data-Identifier@v0.31
-Data::Identifier::Interface::Known v0.31.0  pkg:cpan/Data-Identifier@v0.31
-Data::Identifier::Interface::Simple v0.31.0  pkg:cpan/Data-Identifier@v0.31
-Data::Identifier::Interface::Subobjects v0.31.0  pkg:cpan/Data-Identifier@v0.31
-Data::Identifier::Interface::Userdata v0.31.0  pkg:cpan/Data-Identifier@v0.31
-Data::Identifier::Util             v0.31.0  pkg:cpan/Data-Identifier@v0.31
-Data::Identifier::Wellknown        v0.31.0  pkg:cpan/Data-Identifier@v0.31
+Data::Identifier                   v0.32.0  pkg:cpan/Data-Identifier@v0.32
+Data::Identifier::Cloudlet         v0.32.0  pkg:cpan/Data-Identifier@v0.32
+Data::Identifier::Generate         v0.32.0  pkg:cpan/Data-Identifier@v0.32
+Data::Identifier::Interface::Known v0.32.0  pkg:cpan/Data-Identifier@v0.32
+Data::Identifier::Interface::Simple v0.32.0  pkg:cpan/Data-Identifier@v0.32
+Data::Identifier::Interface::Subobjects v0.32.0  pkg:cpan/Data-Identifier@v0.32
+Data::Identifier::Interface::Userdata v0.32.0  pkg:cpan/Data-Identifier@v0.32
+Data::Identifier::Util             v0.32.0  pkg:cpan/Data-Identifier@v0.32
+Data::Identifier::Wellknown        v0.32.0  pkg:cpan/Data-Identifier@v0.32
 Data::Image                         0.06  pkg:cpan/Data-Image@0.06
 Data::Importer                     0.006  pkg:cpan/Data-Importer@0.006
 Data::Importer::Iterator           0.006  pkg:cpan/Data-Importer@0.006
@@ -140852,8 +140852,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    0.028001  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.28.1
-Mojolicious::Plugin::BarefootJS::DevReload 0.028001  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.28.1
+Mojolicious::Plugin::BarefootJS    0.029000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.29.0
+Mojolicious::Plugin::BarefootJS::DevReload 0.029000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.29.0
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -238743,7 +238743,7 @@ Types::DateTime                    0.002  pkg:cpan/Types-DateTime@0.002
 Types::Digest                      v0.1.2  pkg:cpan/Types-Digest@0.1.2
 Types::Dist                         0.10  pkg:cpan/Types-RENEEB@0.10
 Types::DualVar                     0.001  pkg:cpan/Types-DualVar@0.001
-Types::ElasticSearch                 8.9  pkg:cpan/App-ElasticSearch-Utilities@8.9
+Types::ElasticSearch                 9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
 Types::Encodings                   0.003  pkg:cpan/Types-Encodings@0.003
 Types::Equal                        0.03  pkg:cpan/Types-Equal@0.03
 Types::Git                          0.04  pkg:cpan/Types-Git@0.04
