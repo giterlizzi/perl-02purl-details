@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 31 Jul 2026 06:37:58 GMT
-Line-Count: 267478
+Last-Updated: Fri, 31 Jul 2026 10:30:55 GMT
+Line-Count: 267504
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -48668,53 +48668,72 @@ Convert::Number::Roman              0.04  pkg:cpan/Convert-Number-Roman@0.04
 Convert::PEM                        0.13  pkg:cpan/Convert-PEM@0.13
 Convert::PEM::CBC                   0.13  pkg:cpan/Convert-PEM@0.13
 Convert::PerlRef2String             0.03  pkg:cpan/Convert-PerlRef2String@0.03
-Convert::Pheno                      0.32  pkg:cpan/Convert-Pheno@0.32
+Convert::Pheno                      0.33  pkg:cpan/Convert-Pheno@0.33
 Convert::Pheno::BFF                undef  pkg:cpan/Convert-Pheno@0.27
-Convert::Pheno::BFF::DerivedEntities undef  pkg:cpan/Convert-Pheno@0.32
-Convert::Pheno::BFF::ToOMOP        undef  pkg:cpan/Convert-Pheno@0.32
-Convert::Pheno::BFF::ToPXF         undef  pkg:cpan/Convert-Pheno@0.32
+Convert::Pheno::BFF::DerivedEntities undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::BFF::ToOMOP        undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::BFF::ToPXF         undef  pkg:cpan/Convert-Pheno@0.33
 Convert::Pheno::Bff2Omop           undef  pkg:cpan/Convert-Pheno@0.29
 Convert::Pheno::Bff2Pxf            undef  pkg:cpan/Convert-Pheno@0.29
 Convert::Pheno::CDISC              undef  pkg:cpan/Convert-Pheno@0.32
-Convert::Pheno::CLI::Args          undef  pkg:cpan/Convert-Pheno@0.32
-Convert::Pheno::CSV                undef  pkg:cpan/Convert-Pheno@0.32
-Convert::Pheno::Context            undef  pkg:cpan/Convert-Pheno@0.32
-Convert::Pheno::DB::SQLite         undef  pkg:cpan/Convert-Pheno@0.32
-Convert::Pheno::DB::Similarity     undef  pkg:cpan/Convert-Pheno@0.32
+Convert::Pheno::CDISC::ODM         undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::CDISC::SDTM::ToBFF undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::CLI::Args          undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::CSV                undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::Context            undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::ConversionRequest  undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::DB::SQLite         undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::DB::Similarity     undef  pkg:cpan/Convert-Pheno@0.33
 Convert::Pheno::Default            undef  pkg:cpan/Convert-Pheno@0.27
-Convert::Pheno::Emit::OMOP         undef  pkg:cpan/Convert-Pheno@0.32
+Convert::Pheno::Emit::OMOP         undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::ExecutionContext   undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::FHIR::ToBFF        undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::FHIR::Util         undef  pkg:cpan/Convert-Pheno@0.33
 Convert::Pheno::IO                 undef  pkg:cpan/Convert-Pheno@0.17
-Convert::Pheno::IO::Atomic         undef  pkg:cpan/Convert-Pheno@0.32
-Convert::Pheno::IO::CSVHandler     undef  pkg:cpan/Convert-Pheno@0.32
-Convert::Pheno::IO::FileIO         undef  pkg:cpan/Convert-Pheno@0.32
-Convert::Pheno::JSONLD             undef  pkg:cpan/Convert-Pheno@0.32
+Convert::Pheno::IO::Atomic         undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::IO::CSVHandler     undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::IO::FileIO         undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::JSONLD             undef  pkg:cpan/Convert-Pheno@0.33
 Convert::Pheno::Mapping            undef  pkg:cpan/Convert-Pheno@0.27
 Convert::Pheno::Mapping::BFF::Individuals::Tabular undef  pkg:cpan/Convert-Pheno@0.32
-Convert::Pheno::Mapping::Shared    undef  pkg:cpan/Convert-Pheno@0.32
-Convert::Pheno::Model::Bundle      undef  pkg:cpan/Convert-Pheno@0.32
+Convert::Pheno::Mapping::Compiler  undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::Mapping::Shared    undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::Model::Bundle      undef  pkg:cpan/Convert-Pheno@0.33
 Convert::Pheno::OMOP               undef  pkg:cpan/Convert-Pheno@0.29
-Convert::Pheno::OMOP::Definitions  undef  pkg:cpan/Convert-Pheno@0.32
-Convert::Pheno::OMOP::ParticipantStream undef  pkg:cpan/Convert-Pheno@0.32
-Convert::Pheno::OMOP::Source       undef  pkg:cpan/Convert-Pheno@0.32
-Convert::Pheno::OMOP::ToBFF        undef  pkg:cpan/Convert-Pheno@0.32
-Convert::Pheno::OMOP::ToBFF::Biosamples undef  pkg:cpan/Convert-Pheno@0.32
-Convert::Pheno::OMOP::ToBFF::Individuals undef  pkg:cpan/Convert-Pheno@0.32
-Convert::Pheno::OpenEHR::ToBFF     undef  pkg:cpan/Convert-Pheno@0.32
-Convert::Pheno::Operations         undef  pkg:cpan/Convert-Pheno@0.32
+Convert::Pheno::OMOP::Definitions  undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::OMOP::ParticipantStream undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::OMOP::Source       undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::OMOP::ToBFF        undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::OMOP::ToBFF::Biosamples undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::OMOP::ToBFF::Individuals undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::OpenEHR::ToBFF     undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::Operations         undef  pkg:cpan/Convert-Pheno@0.33
 Convert::Pheno::PXF                undef  pkg:cpan/Convert-Pheno@0.29
-Convert::Pheno::PXF::ToBFF         undef  pkg:cpan/Convert-Pheno@0.32
-Convert::Pheno::PXF::ToBFF::Biosamples undef  pkg:cpan/Convert-Pheno@0.32
-Convert::Pheno::PXF::ToBFF::Individuals undef  pkg:cpan/Convert-Pheno@0.32
+Convert::Pheno::PXF::ToBFF         undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::PXF::ToBFF::Biosamples undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::PXF::ToBFF::Individuals undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::Pipeline           undef  pkg:cpan/Convert-Pheno@0.33
 Convert::Pheno::RDF                undef  pkg:cpan/Convert-Pheno@0.29
-Convert::Pheno::REDCap             undef  pkg:cpan/Convert-Pheno@0.32
-Convert::Pheno::Runner             undef  pkg:cpan/Convert-Pheno@0.32
+Convert::Pheno::REDCap             undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::Runner             undef  pkg:cpan/Convert-Pheno@0.33
 Convert::Pheno::SQLite             undef  pkg:cpan/Convert-Pheno@0.27
 Convert::Pheno::Schema             undef  pkg:cpan/Convert-Pheno@0.27
-Convert::Pheno::Tabular::REDCap::Dictionary undef  pkg:cpan/Convert-Pheno@0.32
-Convert::Pheno::Tabular::Record    undef  pkg:cpan/Convert-Pheno@0.32
-Convert::Pheno::Utils::Default     undef  pkg:cpan/Convert-Pheno@0.32
+Convert::Pheno::Sink::FileSet      undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::Source             undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::Source::CDISC::DatasetJSON undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::Source::CDISC::ODM undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::Source::FHIR       undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::Source::OMOP       undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::Source::OpenEHR    undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::Source::Result     undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::Source::Structured undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::Source::Tabular    undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::Tabular::REDCap::Dictionary undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::Tabular::Record    undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::Tabular::ToBFF     undef  pkg:cpan/Convert-Pheno@0.33
+Convert::Pheno::Utils::Default     undef  pkg:cpan/Convert-Pheno@0.33
 Convert::Pheno::Utils::Mapping     undef  pkg:cpan/Convert-Pheno@0.29
-Convert::Pheno::Utils::Schema      undef  pkg:cpan/Convert-Pheno@0.32
+Convert::Pheno::Utils::Schema      undef  pkg:cpan/Convert-Pheno@0.33
 Convert::Pluggable                 0.0322  pkg:cpan/Convert-Pluggable@0.0322
 Convert::RACE                       0.07  pkg:cpan/Convert-RACE@0.07
 Convert::Recode                     1.04  pkg:cpan/Convert-Recode@1.04
@@ -83200,7 +83219,7 @@ Getopt::Gen::cmdline_c             undef  pkg:cpan/Getopt-Gen@0.14
 Getopt::Gen::cmdline_h             undef  pkg:cpan/Getopt-Gen@0.14
 Getopt::Gen::cmdline_pod           undef  pkg:cpan/Getopt-Gen@0.14
 Getopt::GetArgs                     1.03  pkg:cpan/Getopt-GetArgs@1.03
-Getopt::Guided                     v3.2.1  pkg:cpan/Getopt-Guided@v3.2.1
+Getopt::Guided                     v3.2.2  pkg:cpan/Getopt-Guided@v3.2.2
 Getopt::Helpful                     0.04  pkg:cpan/Getopt-Helpful@0.04
 Getopt::Inherited                  1.100860  pkg:cpan/Getopt-Inherited@1.100860
 Getopt::Janus                       1.03  pkg:cpan/Getopt-Janus@1.03
@@ -132812,8 +132831,8 @@ Map::Tube::Pluggable               v5.1.0  pkg:cpan/Map-Tube@v5.1.0
 Map::Tube::Plugin::Formatter        0.17  pkg:cpan/Map-Tube-Plugin-Formatter@0.17
 Map::Tube::Plugin::Formatter::Utils  0.17  pkg:cpan/Map-Tube-Plugin-Formatter@0.17
 Map::Tube::Plugin::FuzzyFind       v0.82.1  pkg:cpan/Map-Tube-Plugin-FuzzyFind@v0.82.1
-Map::Tube::Plugin::Graph           v1.1.0  pkg:cpan/Map-Tube-Plugin-Graph@v1.1.0
-Map::Tube::Plugin::Graph::Utils    v1.1.0  pkg:cpan/Map-Tube-Plugin-Graph@v1.1.0
+Map::Tube::Plugin::Graph           v1.1.1  pkg:cpan/Map-Tube-Plugin-Graph@v1.1.1
+Map::Tube::Plugin::Graph::Utils    v1.1.1  pkg:cpan/Map-Tube-Plugin-Graph@v1.1.1
 Map::Tube::Prague                   0.16  pkg:cpan/Map-Tube-Prague@0.16
 Map::Tube::RheinRuhr               v0.2.5  pkg:cpan/Map-Tube-RheinRuhr@v0.2.5
 Map::Tube::Rome                     1.03  pkg:cpan/Map-Tube-Rome@1.03
@@ -151862,6 +151881,13 @@ Net::MythWeb                        0.33  pkg:cpan/Net-MythWeb@0.33
 Net::MythWeb::Channel              undef  pkg:cpan/Net-MythWeb@0.33
 Net::MythWeb::Programme            undef  pkg:cpan/Net-MythWeb@0.33
 Net::NAT::PMP                      0.9.4  pkg:cpan/Net-NAT-PMP@0.9.4
+Net::NATS2::Client                 0.003003  pkg:cpan/Net-NATS2-Client@0.3.3
+Net::NATS2::ConnectInfo            undef  pkg:cpan/Net-NATS2-Client@0.3.3
+Net::NATS2::Connection             undef  pkg:cpan/Net-NATS2-Client@0.3.3
+Net::NATS2::JetStream              undef  pkg:cpan/Net-NATS2-Client@0.3.3
+Net::NATS2::Message                undef  pkg:cpan/Net-NATS2-Client@0.3.3
+Net::NATS2::ServerInfo             undef  pkg:cpan/Net-NATS2-Client@0.3.3
+Net::NATS2::Subscription           undef  pkg:cpan/Net-NATS2-Client@0.3.3
 Net::NATS::Client                  0.002002  pkg:cpan/Net-NATS-Client@0.2.2
 Net::NATS::ConnectInfo             undef  pkg:cpan/Net-NATS-Client@0.2.2
 Net::NATS::Connection              undef  pkg:cpan/Net-NATS-Client@0.2.2
@@ -156382,10 +156408,10 @@ Number::Util::Range                0.008  pkg:cpan/Number-Util-Range@0.008
 Number::WithError                   1.01  pkg:cpan/Number-WithError@1.01
 Number::WithError::LaTeX            0.06  pkg:cpan/Number-WithError-LaTeX@0.06
 Number::YAUID                        1.5  pkg:cpan/Number-YAUID@1.5
-Number::ZipCode::JP                0.20260630  pkg:cpan/Number-ZipCode-JP@0.20260630
-Number::ZipCode::JP::Table         0.20260630  pkg:cpan/Number-ZipCode-JP@0.20260630
-Number::ZipCode::JP::Table::Area   0.20260630  pkg:cpan/Number-ZipCode-JP@0.20260630
-Number::ZipCode::JP::Table::Company 0.20260630  pkg:cpan/Number-ZipCode-JP@0.20260630
+Number::ZipCode::JP                0.20260731  pkg:cpan/Number-ZipCode-JP@0.20260731
+Number::ZipCode::JP::Table         0.20260731  pkg:cpan/Number-ZipCode-JP@0.20260731
+Number::ZipCode::JP::Table::Area   0.20260731  pkg:cpan/Number-ZipCode-JP@0.20260731
+Number::ZipCode::JP::Table::Company 0.20260731  pkg:cpan/Number-ZipCode-JP@0.20260731
 Numeric::LL_Array                  0.1504  pkg:cpan/Numeric-LL_Array@0.1504
 Numeric::Matrix                     0.04  pkg:cpan/Numeric-Matrix@0.04
 Numeric::Vector                     0.03  pkg:cpan/Numeric-Vector@0.03
