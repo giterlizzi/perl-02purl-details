@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 31 Jul 2026 20:56:22 GMT
+Last-Updated: Fri, 31 Jul 2026 22:53:38 GMT
 Line-Count: 267513
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -21633,11 +21633,11 @@ BACnet::ServiceRequestSequences::SubscribeCOV undef  pkg:cpan/BACnet@0.08
 BACnet::ServiceRequestSequences::Utils undef  pkg:cpan/BACnet@0.08
 BACnet::Socket                     undef  pkg:cpan/BACnet@0.08
 BACnet::Subscription               undef  pkg:cpan/BACnet@0.08
-BATsh                               0.09  pkg:cpan/BATsh@0.09
-BATsh::CMD                          0.09  pkg:cpan/BATsh@0.09
-BATsh::Env                          0.09  pkg:cpan/BATsh@0.09
-BATsh::MB                           0.09  pkg:cpan/BATsh@0.09
-BATsh::SH                           0.09  pkg:cpan/BATsh@0.09
+BATsh                               0.10  pkg:cpan/BATsh@0.10
+BATsh::CMD                          0.10  pkg:cpan/BATsh@0.10
+BATsh::Env                          0.10  pkg:cpan/BATsh@0.10
+BATsh::MB                           0.10  pkg:cpan/BATsh@0.10
+BATsh::SH                           0.10  pkg:cpan/BATsh@0.10
 BBBB                               undef  pkg:cpan/Data-Table-Text@20210818
 BBCode::Body                        0.34  pkg:cpan/BBCode-Parser@0.34
 BBCode::Parser                      0.34  pkg:cpan/BBCode-Parser@0.34
@@ -58058,8 +58058,8 @@ Data::Dimensions::SickTie          undef  pkg:cpan/Data-Dimensions@0.05
 Data::Direct                        0.05  pkg:cpan/Data-Direct@0.05
 Data::DisjointSet::Shared           0.03  pkg:cpan/Data-DisjointSet-Shared@0.03
 Data::Display                       0.02  pkg:cpan/Data-Display@0.02
-Data::Displaycolour                v0.5.0  pkg:cpan/Data-Displaycolour@v0.05
-Data::Displaycolour::Data          v0.5.0  pkg:cpan/Data-Displaycolour@v0.05
+Data::Displaycolour                v0.6.0  pkg:cpan/Data-Displaycolour@v0.06
+Data::Displaycolour::Data          v0.6.0  pkg:cpan/Data-Displaycolour@v0.06
 Data::Diver                        1.0101  pkg:cpan/Data-Diver@1.0101?ext=tgz
 Data::Dmap                          0.08  pkg:cpan/Data-Dmap@0.08
 Data::Dmp                          0.242  pkg:cpan/Data-Dmp@0.242
@@ -58214,13 +58214,13 @@ Data::Encoder::JSON                undef  pkg:cpan/Data-Encoder@0.05
 Data::Encoder::Storable            undef  pkg:cpan/Data-Encoder@0.05
 Data::Encoder::YAML                undef  pkg:cpan/Data-Encoder@0.05
 Data::Encrypted                     0.07  pkg:cpan/Data-Encrypted@0.07
-Data::Entropy                      0.008  pkg:cpan/Data-Entropy@0.008
-Data::Entropy::Algorithms          0.008  pkg:cpan/Data-Entropy@0.008
-Data::Entropy::RawSource::CryptCounter 0.008  pkg:cpan/Data-Entropy@0.008
-Data::Entropy::RawSource::Local    0.008  pkg:cpan/Data-Entropy@0.008
-Data::Entropy::RawSource::RandomOrg 0.008  pkg:cpan/Data-Entropy@0.008
-Data::Entropy::RawSource::RandomnumbersInfo 0.008  pkg:cpan/Data-Entropy@0.008
-Data::Entropy::Source              0.008  pkg:cpan/Data-Entropy@0.008
+Data::Entropy                      0.009  pkg:cpan/Data-Entropy@0.009
+Data::Entropy::Algorithms          0.009  pkg:cpan/Data-Entropy@0.009
+Data::Entropy::RawSource::CryptCounter 0.009  pkg:cpan/Data-Entropy@0.009
+Data::Entropy::RawSource::Local    0.009  pkg:cpan/Data-Entropy@0.009
+Data::Entropy::RawSource::RandomOrg 0.009  pkg:cpan/Data-Entropy@0.009
+Data::Entropy::RawSource::RandomnumbersInfo 0.009  pkg:cpan/Data-Entropy@0.009
+Data::Entropy::Source              0.009  pkg:cpan/Data-Entropy@0.009
 Data::Enum                         v0.6.0  pkg:cpan/Data-Enum@v0.6.0
 Data::Enumerable::Lazy             0.032  pkg:cpan/Data-Enumerable-Lazy@0.032
 Data::Enumerator                    0.03  pkg:cpan/Data-Enumerator@0.03
