@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 30 Jul 2026 22:58:07 GMT
+Last-Updated: Fri, 31 Jul 2026 02:07:13 GMT
 Line-Count: 267477
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -22237,14 +22237,14 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         0.028000  pkg:cpan/BarefootJS@0.28.0
-BarefootJS::Backend::Mojo          0.028000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.28.0
-BarefootJS::Backend::Xslate        0.028000  pkg:cpan/BarefootJS-Backend-Xslate@0.28.0
-BarefootJS::Date                   0.028000  pkg:cpan/BarefootJS@0.28.0
-BarefootJS::DevReload              0.028000  pkg:cpan/BarefootJS@0.28.0
-BarefootJS::Evaluator              0.014000  pkg:cpan/BarefootJS@0.28.0
-BarefootJS::SearchParams           0.014000  pkg:cpan/BarefootJS@0.28.0
-BarefootJS::_TZProbe               0.028000  pkg:cpan/BarefootJS@0.28.0
+BarefootJS                         0.028001  pkg:cpan/BarefootJS@0.28.1
+BarefootJS::Backend::Mojo          0.028001  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.28.1
+BarefootJS::Backend::Xslate        0.028001  pkg:cpan/BarefootJS-Backend-Xslate@0.28.1
+BarefootJS::Date                   0.028001  pkg:cpan/BarefootJS@0.28.1
+BarefootJS::DevReload              0.028001  pkg:cpan/BarefootJS@0.28.1
+BarefootJS::Evaluator              0.014000  pkg:cpan/BarefootJS@0.28.1
+BarefootJS::SearchParams           0.014000  pkg:cpan/BarefootJS@0.28.1
+BarefootJS::_TZProbe               0.028001  pkg:cpan/BarefootJS@0.28.1
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
 Baseball::Sabermetrics              0.03  pkg:cpan/Baseball-Sabermetrics@0.03
@@ -140833,8 +140833,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    0.028000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.28.0
-Mojolicious::Plugin::BarefootJS::DevReload 0.028000  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.28.0
+Mojolicious::Plugin::BarefootJS    0.028001  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.28.1
+Mojolicious::Plugin::BarefootJS::DevReload 0.028001  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.28.1
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -228723,7 +228723,7 @@ Task::Viral                        0.002001  pkg:cpan/Task-Viral@0.02.1
 Task::WWW::Search::Antiquarian::Czech  0.01  pkg:cpan/Task-WWW-Search-Antiquarian-Czech@0.01
 Task::Weaken                        1.06  pkg:cpan/Task-Weaken@1.06
 Task::WebDyne::Apache              0.003  pkg:cpan/Task-WebDyne-Apache@0.003
-Task::WebDyne::PAGI                0.003  pkg:cpan/Task-WebDyne-PAGI@0.003
+Task::WebDyne::PAGI                0.004  pkg:cpan/Task-WebDyne-PAGI@0.004
 Task::WebDyne::Plack               0.004  pkg:cpan/Task-WebDyne-Plack@0.004
 Task::WebDyne::Starman             0.004  pkg:cpan/Task-WebDyne-Starman@0.004
 Task::WebGUI                       2.0000  pkg:cpan/Task-WebGUI@2.0000
@@ -260362,7 +260362,7 @@ XML::SemanticDiff                  1.0007  pkg:cpan/XML-SemanticDiff@1.0007
 XML::SemanticDiff::BasicHandler    1.0007  pkg:cpan/XML-SemanticDiff@1.0007
 XML::SemanticDiff::PathFinder      1.0007  pkg:cpan/XML-SemanticDiff@1.0007
 XML::SemanticDiff::PathFinder::Obj 1.0007  pkg:cpan/XML-SemanticDiff@1.0007
-XML::Sig                            0.70  pkg:cpan/XML-Sig@0.70
+XML::Sig                            0.71  pkg:cpan/XML-Sig@0.71
 XML::Sig::OO                       0.012  pkg:cpan/XML-Sig-OO@0.012
 XML::Similarity                    undef  pkg:cpan/HTML-Similarity@0.2.0
 XML::Simple                         2.25  pkg:cpan/XML-Simple@2.25
