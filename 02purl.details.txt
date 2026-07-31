@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 31 Jul 2026 15:57:28 GMT
-Line-Count: 267505
+Last-Updated: Fri, 31 Jul 2026 17:27:27 GMT
+Line-Count: 267513
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -156,7 +156,7 @@ ACH::Parser                         0.01  pkg:cpan/ACH-Parser@0.01
 ACL::Lite                          0.0004  pkg:cpan/ACL-Lite@0.0004
 ACL::Regex                         0.0002  pkg:cpan/ACL-Regex@0.0002
 ACME::2026                          0.01  pkg:cpan/ACME-2026@0.01
-ACME::Base64::Hexagram             0.001  pkg:cpan/ACME-Base64-Hexagram@0.001
+ACME::Base64::Hexagram             0.002  pkg:cpan/ACME-Base64-Hexagram@0.002
 ACME::CPANPLUS::Module::With::Core::PreReq  0.06  pkg:cpan/ACME-CPANPLUS-Module-With-Core-PreReq@0.06
 ACME::Error                         0.03  pkg:cpan/ACME-Error@0.03
 ACME::Error::31337                  0.01  pkg:cpan/ACME-Error-31337@0.01
@@ -65201,8 +65201,8 @@ Devel::MAT::Context                 0.55  pkg:cpan/Devel-MAT@0.55
 Devel::MAT::Context::EVAL           0.55  pkg:cpan/Devel-MAT@0.55
 Devel::MAT::Context::SUB            0.55  pkg:cpan/Devel-MAT@0.55
 Devel::MAT::Context::TRY            0.55  pkg:cpan/Devel-MAT@0.55
-Devel::MAT::Dumper                  0.51  pkg:cpan/Devel-MAT-Dumper@0.51
-Devel::MAT::Dumper::Helper          0.51  pkg:cpan/Devel-MAT-Dumper@0.51
+Devel::MAT::Dumper                  0.52  pkg:cpan/Devel-MAT-Dumper@0.52
+Devel::MAT::Dumper::Helper          0.52  pkg:cpan/Devel-MAT-Dumper@0.52
 Devel::MAT::Dumpfile                0.55  pkg:cpan/Devel-MAT@0.55
 Devel::MAT::Graph                   0.55  pkg:cpan/Devel-MAT@0.55
 Devel::MAT::Graph::Node             0.55  pkg:cpan/Devel-MAT@0.55
@@ -112320,6 +112320,13 @@ Hyper::Developer::Model::Viewer    0.100  pkg:cpan/Hyper-Developer@0.07
 Hyper::Developer::Server           undef  pkg:cpan/Hyper-Developer@0.07
 HyperWave::CSP                     0.003001  pkg:cpan/HyperWave-CSP@0.03.1
 HyperWave::CSP::Message            undef  pkg:cpan/HyperWave-CSP@0.03.1
+Hyperman                            0.01  pkg:cpan/Hyperman@0.01
+Hyperman::Event::Epoll              0.01  pkg:cpan/Hyperman@0.01
+Hyperman::Event::IOUring            0.01  pkg:cpan/Hyperman@0.01
+Hyperman::Event::Kqueue             0.01  pkg:cpan/Hyperman@0.01
+Hyperman::Event::Poll               0.01  pkg:cpan/Hyperman@0.01
+Hyperman::Future                    0.01  pkg:cpan/Hyperman@0.01
+Hyperman::Loop                      0.01  pkg:cpan/Hyperman@0.01
 Hyperscan                           0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Database                 0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Matcher                  0.04  pkg:cpan/Hyperscan@0.04
@@ -198939,6 +198946,7 @@ Plack::Handler::H2::Writer         undef  pkg:cpan/Plack-Handler-H2@0.0.5
 Plack::Handler::HTTP::Server::PSGI undef  pkg:cpan/Plack@1.0054
 Plack::Handler::HTTP::Server::Simple  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
 Plack::Handler::HTTP::Server::Simple::PSGIServer  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
+Plack::Handler::Hyperman            0.01  pkg:cpan/Hyperman@0.01
 Plack::Handler::Martian             0.08  pkg:cpan/Martian@0.08
 Plack::Handler::Message::Passing   undef  pkg:cpan/Message-Passing-PSGI@0.001
 Plack::Handler::Monoceros          undef  pkg:cpan/Monoceros@0.29
