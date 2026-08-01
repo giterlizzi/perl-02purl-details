@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 01 Aug 2026 14:53:52 GMT
+Last-Updated: Sat, 01 Aug 2026 16:53:04 GMT
 Line-Count: 267522
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -121306,7 +121306,7 @@ LaTeX::PGF::Diagram2D::Xspline      1.00  pkg:cpan/LaTeX-PGF-Diagram2D@1.02
 LaTeX::Parser                      undef  pkg:cpan/LaTeX-Parser@0.01
 LaTeX::Pod                          0.23  pkg:cpan/LaTeX-Pod@0.23
 LaTeX::Recode                       0.05  pkg:cpan/LaTeX-Recode@0.05
-LaTeX::Replicase                   0.705  pkg:cpan/LaTeX-Replicase@0.705
+LaTeX::Replicase                   0.790  pkg:cpan/LaTeX-Replicase@0.790
 LaTeX::TOM                          1.06  pkg:cpan/LaTeX-TOM@1.06
 LaTeX::TOM::Node                    0.05  pkg:cpan/LaTeX-TOM@1.06
 LaTeX::TOM::Parser                  0.13  pkg:cpan/LaTeX-TOM@1.06
