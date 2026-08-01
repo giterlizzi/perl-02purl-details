@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 01 Aug 2026 02:08:46 GMT
-Line-Count: 267513
+Last-Updated: Sat, 01 Aug 2026 06:22:10 GMT
+Line-Count: 267514
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -148468,45 +148468,46 @@ Net::Comcast::Customer               1.2  pkg:cpan/Net-Comcast-Customer@1.2
 Net::Compare                        0.04  pkg:cpan/Net-Compare@0.04
 Net::Config                         3.15  pkg:cpan/libnet@3.15
 Net::Connection                    0.003000  pkg:cpan/Net-Connection@0.3.0
-Net::Connection::FreeBSD_sockstat  0.000002  pkg:cpan/Net-Connection-FreeBSD_sockstat@0.0.2
-Net::Connection::Match             0.005000  pkg:cpan/Net-Connection-Match@0.5.0
-Net::Connection::Match::All          0.0  pkg:cpan/Net-Connection-Match@0.5.0
-Net::Connection::Match::CIDR         0.0  pkg:cpan/Net-Connection-Match@0.5.0
-Net::Connection::Match::Command    0.001000  pkg:cpan/Net-Connection-Match@0.5.0
+Net::Connection::FreeBSD_sockstat    1.0  pkg:cpan/Net-Connection-FreeBSD_sockstat@1.0.0
+Net::Connection::Linux_ss          0.000001  pkg:cpan/Net-Connection-Linux_ss@0.0.1
+Net::Connection::Match             0.005001  pkg:cpan/Net-Connection-Match@0.5.1
+Net::Connection::Match::All          0.0  pkg:cpan/Net-Connection-Match@0.5.1
+Net::Connection::Match::CIDR         0.0  pkg:cpan/Net-Connection-Match@0.5.1
+Net::Connection::Match::Command    0.001000  pkg:cpan/Net-Connection-Match@0.5.1
 Net::Connection::Match::PID          0.0  pkg:cpan/Net-Connection-Match@0.5.0
-Net::Connection::Match::PTR        0.000001  pkg:cpan/Net-Connection-Match@0.5.0
-Net::Connection::Match::PctCPU       0.0  pkg:cpan/Net-Connection-Match@0.5.0
+Net::Connection::Match::PTR        0.000001  pkg:cpan/Net-Connection-Match@0.5.1
+Net::Connection::Match::PctCPU       0.0  pkg:cpan/Net-Connection-Match@0.5.1
 Net::Connection::Match::PctMem       0.0  pkg:cpan/Net-Connection-Match@0.5.0
-Net::Connection::Match::Ports      0.001000  pkg:cpan/Net-Connection-Match@0.5.0
-Net::Connection::Match::Protos       0.0  pkg:cpan/Net-Connection-Match@0.5.0
-Net::Connection::Match::RegexPTR     0.0  pkg:cpan/Net-Connection-Match@0.5.0
-Net::Connection::Match::States       0.0  pkg:cpan/Net-Connection-Match@0.5.0
-Net::Connection::Match::UID          0.0  pkg:cpan/Net-Connection-Match@0.5.0
+Net::Connection::Match::Ports      0.001000  pkg:cpan/Net-Connection-Match@0.5.1
+Net::Connection::Match::Protos       0.0  pkg:cpan/Net-Connection-Match@0.5.1
+Net::Connection::Match::RegexPTR     0.0  pkg:cpan/Net-Connection-Match@0.5.1
+Net::Connection::Match::States       0.0  pkg:cpan/Net-Connection-Match@0.5.1
+Net::Connection::Match::UID          0.0  pkg:cpan/Net-Connection-Match@0.5.1
 Net::Connection::Match::Username     0.0  pkg:cpan/Net-Connection-Match@0.5.0
-Net::Connection::Match::WChan        0.0  pkg:cpan/Net-Connection-Match@0.5.0
+Net::Connection::Match::WChan        0.0  pkg:cpan/Net-Connection-Match@0.5.1
 Net::Connection::Simple             1.02  pkg:cpan/Net-Connection-Simple@1.02
 Net::Connection::Sniffer            0.36  pkg:cpan/Net-Connection-Sniffer@0.36
 Net::Connection::Sniffer::Report    0.13  pkg:cpan/Net-Connection-Sniffer@0.36
 Net::Connection::Sniffer::Util      0.02  pkg:cpan/Net-Connection-Sniffer@0.36
-Net::Connection::Sort              0.001001  pkg:cpan/Net-Connection-Sort@0.1.1
-Net::Connection::Sort::host_f        0.0  pkg:cpan/Net-Connection-Sort@0.1.1
-Net::Connection::Sort::host_fl       0.0  pkg:cpan/Net-Connection-Sort@0.1.1
-Net::Connection::Sort::host_l        0.0  pkg:cpan/Net-Connection-Sort@0.1.1
-Net::Connection::Sort::host_lf       0.0  pkg:cpan/Net-Connection-Sort@0.1.1
-Net::Connection::Sort::pid           0.0  pkg:cpan/Net-Connection-Sort@0.1.1
-Net::Connection::Sort::port_f        0.0  pkg:cpan/Net-Connection-Sort@0.1.1
-Net::Connection::Sort::port_fa       0.0  pkg:cpan/Net-Connection-Sort@0.1.1
-Net::Connection::Sort::port_l        0.0  pkg:cpan/Net-Connection-Sort@0.1.1
-Net::Connection::Sort::port_la       0.0  pkg:cpan/Net-Connection-Sort@0.1.1
-Net::Connection::Sort::proto         0.0  pkg:cpan/Net-Connection-Sort@0.1.1
-Net::Connection::Sort::ptr_f         0.0  pkg:cpan/Net-Connection-Sort@0.1.1
-Net::Connection::Sort::ptr_l         0.0  pkg:cpan/Net-Connection-Sort@0.1.1
-Net::Connection::Sort::state         0.0  pkg:cpan/Net-Connection-Sort@0.1.1
-Net::Connection::Sort::uid           0.0  pkg:cpan/Net-Connection-Sort@0.1.1
-Net::Connection::Sort::unsorted    0.000001  pkg:cpan/Net-Connection-Sort@0.1.1
-Net::Connection::Sort::user          0.0  pkg:cpan/Net-Connection-Sort@0.1.1
-Net::Connection::lsof              0.003000  pkg:cpan/Net-Connection-lsof@0.3.0
-Net::Connection::ncnetstat         0.008000  pkg:cpan/Net-Connection-ncnetstat@0.8.0
+Net::Connection::Sort              0.002000  pkg:cpan/Net-Connection-Sort@0.2.0
+Net::Connection::Sort::host_f      0.001003  pkg:cpan/Net-Connection-Sort@0.2.0
+Net::Connection::Sort::host_fl     0.001004  pkg:cpan/Net-Connection-Sort@0.2.0
+Net::Connection::Sort::host_l      0.001003  pkg:cpan/Net-Connection-Sort@0.2.0
+Net::Connection::Sort::host_lf     0.001004  pkg:cpan/Net-Connection-Sort@0.2.0
+Net::Connection::Sort::pid         0.001002  pkg:cpan/Net-Connection-Sort@0.2.0
+Net::Connection::Sort::port_f      0.001002  pkg:cpan/Net-Connection-Sort@0.2.0
+Net::Connection::Sort::port_fa     0.001002  pkg:cpan/Net-Connection-Sort@0.2.0
+Net::Connection::Sort::port_l      0.001002  pkg:cpan/Net-Connection-Sort@0.2.0
+Net::Connection::Sort::port_la     0.001002  pkg:cpan/Net-Connection-Sort@0.2.0
+Net::Connection::Sort::proto       0.000002  pkg:cpan/Net-Connection-Sort@0.2.0
+Net::Connection::Sort::ptr_f       0.000002  pkg:cpan/Net-Connection-Sort@0.2.0
+Net::Connection::Sort::ptr_l       0.000002  pkg:cpan/Net-Connection-Sort@0.2.0
+Net::Connection::Sort::state       0.000002  pkg:cpan/Net-Connection-Sort@0.2.0
+Net::Connection::Sort::uid         0.000002  pkg:cpan/Net-Connection-Sort@0.2.0
+Net::Connection::Sort::unsorted    0.000004  pkg:cpan/Net-Connection-Sort@0.2.0
+Net::Connection::Sort::user        0.001002  pkg:cpan/Net-Connection-Sort@0.2.0
+Net::Connection::lsof              0.004000  pkg:cpan/Net-Connection-lsof@0.4.0
+Net::Connection::ncnetstat         0.009000  pkg:cpan/Net-Connection-ncnetstat@0.9.0
 Net::Continental                   0.017  pkg:cpan/Net-Continental@0.017
 Net::Continental::Zone             0.017  pkg:cpan/Net-Continental@0.017
 Net::Correios                      0.004  pkg:cpan/Net-Correios@0.004
