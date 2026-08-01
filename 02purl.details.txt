@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 01 Aug 2026 13:03:12 GMT
-Line-Count: 267514
+Last-Updated: Sat, 01 Aug 2026 14:53:52 GMT
+Line-Count: 267522
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -112320,13 +112320,13 @@ Hyper::Developer::Model::Viewer    0.100  pkg:cpan/Hyper-Developer@0.07
 Hyper::Developer::Server           undef  pkg:cpan/Hyper-Developer@0.07
 HyperWave::CSP                     0.003001  pkg:cpan/HyperWave-CSP@0.03.1
 HyperWave::CSP::Message            undef  pkg:cpan/HyperWave-CSP@0.03.1
-Hyperman                            0.02  pkg:cpan/Hyperman@0.02
-Hyperman::Event::Epoll              0.02  pkg:cpan/Hyperman@0.02
-Hyperman::Event::IOUring            0.02  pkg:cpan/Hyperman@0.02
-Hyperman::Event::Kqueue             0.02  pkg:cpan/Hyperman@0.02
-Hyperman::Event::Poll               0.02  pkg:cpan/Hyperman@0.02
-Hyperman::Future                    0.02  pkg:cpan/Hyperman@0.02
-Hyperman::Loop                      0.02  pkg:cpan/Hyperman@0.02
+Hyperman                            0.03  pkg:cpan/Hyperman@0.03
+Hyperman::Event::Epoll              0.03  pkg:cpan/Hyperman@0.03
+Hyperman::Event::IOUring            0.03  pkg:cpan/Hyperman@0.03
+Hyperman::Event::Kqueue             0.03  pkg:cpan/Hyperman@0.03
+Hyperman::Event::Poll               0.03  pkg:cpan/Hyperman@0.03
+Hyperman::Future                    0.03  pkg:cpan/Hyperman@0.03
+Hyperman::Loop                      0.03  pkg:cpan/Hyperman@0.03
 Hyperscan                           0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Database                 0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Matcher                  0.04  pkg:cpan/Hyperscan@0.04
@@ -198947,7 +198947,7 @@ Plack::Handler::H2::Writer         undef  pkg:cpan/Plack-Handler-H2@0.0.5
 Plack::Handler::HTTP::Server::PSGI undef  pkg:cpan/Plack@1.0054
 Plack::Handler::HTTP::Server::Simple  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
 Plack::Handler::HTTP::Server::Simple::PSGIServer  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
-Plack::Handler::Hyperman            0.02  pkg:cpan/Hyperman@0.02
+Plack::Handler::Hyperman            0.03  pkg:cpan/Hyperman@0.03
 Plack::Handler::Martian             0.08  pkg:cpan/Martian@0.08
 Plack::Handler::Message::Passing   undef  pkg:cpan/Message-Passing-PSGI@0.001
 Plack::Handler::Monoceros          undef  pkg:cpan/Monoceros@0.29
@@ -250973,50 +250973,58 @@ WebDAO::Test                        0.01  pkg:cpan/WebDAO@2.26
 WebDAO::Util                        0.03  pkg:cpan/WebDAO@2.26
 WebDriver::Tiny                    0.105  pkg:cpan/WebDriver-Tiny@0.105
 WebDriver::Tiny::Elements          0.105  pkg:cpan/WebDriver-Tiny@0.105
-WebDyne                            2.075  pkg:cpan/WebDyne@2.075
+WebDyne                            3.005  pkg:cpan/WebDyne@3.005
 WebDyne::Base                      1.250  pkg:cpan/WebDyne@1.250
 WebDyne::Bundle::VERSION           1.004  pkg:cpan/Bundle-WebDyne@1.004
-WebDyne::CGI                       2.075  pkg:cpan/WebDyne@2.075
+WebDyne::CGI                       3.005  pkg:cpan/WebDyne@3.005
 WebDyne::CGI::PSGI                 2.075  pkg:cpan/WebDyne@2.075
-WebDyne::CGI::Simple               2.075  pkg:cpan/WebDyne@2.075
-WebDyne::CGI::Simple::Upload       2.075  pkg:cpan/WebDyne@2.075
-WebDyne::Cache                     2.075  pkg:cpan/WebDyne@2.075
-WebDyne::Chain                     2.075  pkg:cpan/WebDyne@2.075
-WebDyne::Chain::Constant           2.075  pkg:cpan/WebDyne@2.075
+WebDyne::CGI::Simple               3.005  pkg:cpan/WebDyne@3.005
+WebDyne::CGI::Simple::Upload       3.005  pkg:cpan/WebDyne@3.005
+WebDyne::Cache                     3.005  pkg:cpan/WebDyne@3.005
+WebDyne::Chain                     3.005  pkg:cpan/WebDyne@3.005
+WebDyne::Chain::Constant           3.005  pkg:cpan/WebDyne@3.005
 WebDyne::Chain::VERSION            1.046  pkg:cpan/WebDyne-Chain@1.046
-WebDyne::Compile                   2.075  pkg:cpan/WebDyne@2.075
-WebDyne::Constant                  2.075  pkg:cpan/WebDyne@2.075
-WebDyne::Err                       2.075  pkg:cpan/WebDyne@2.075
-WebDyne::Err::Constant             2.075  pkg:cpan/WebDyne@2.075
-WebDyne::Filter                    2.075  pkg:cpan/WebDyne@2.075
-WebDyne::Filter::Constant          2.075  pkg:cpan/WebDyne@2.075
-WebDyne::HTML::Tiny                2.075  pkg:cpan/WebDyne@2.075
-WebDyne::HTML::TreeBuilder         2.075  pkg:cpan/WebDyne@2.075
-WebDyne::Handler                   2.075  pkg:cpan/WebDyne@2.075
-WebDyne::Install                   2.075  pkg:cpan/WebDyne@2.075
-WebDyne::Install::Apache           2.075  pkg:cpan/WebDyne@2.075
-WebDyne::Install::Apache::Constant 2.075  pkg:cpan/WebDyne@2.075
-WebDyne::Install::Constant         2.075  pkg:cpan/WebDyne@2.075
+WebDyne::Compile                   3.005  pkg:cpan/WebDyne@3.005
+WebDyne::Constant                  3.005  pkg:cpan/WebDyne@3.005
+WebDyne::Err                       3.005  pkg:cpan/WebDyne@3.005
+WebDyne::Err::Constant             3.005  pkg:cpan/WebDyne@3.005
+WebDyne::Filter                    3.005  pkg:cpan/WebDyne@3.005
+WebDyne::Filter::Constant          3.005  pkg:cpan/WebDyne@3.005
+WebDyne::HTML::Tiny                3.005  pkg:cpan/WebDyne@3.005
+WebDyne::HTML::TreeBuilder         3.005  pkg:cpan/WebDyne@3.005
+WebDyne::Handler                   3.005  pkg:cpan/WebDyne@3.005
+WebDyne::Install                   3.005  pkg:cpan/WebDyne@3.005
+WebDyne::Install::Apache           3.005  pkg:cpan/WebDyne@3.005
+WebDyne::Install::Apache::Constant 3.005  pkg:cpan/WebDyne@3.005
+WebDyne::Install::Constant         3.005  pkg:cpan/WebDyne@3.005
 WebDyne::Install::Lighttpd         1.009  pkg:cpan/WebDyne-Install-Lighttpd@1.009
 WebDyne::Install::Lighttpd::Constant 1.002  pkg:cpan/WebDyne-Install-Lighttpd@1.009
 WebDyne::Install::Lighttpd::VERSION 0.007  pkg:cpan/WebDyne-Install-Lighttpd@0.007
-WebDyne::Request::Fake             2.075  pkg:cpan/WebDyne@2.075
+WebDyne::PAGI                      3.005  pkg:cpan/WebDyne@3.005
+WebDyne::PAGI::Constant            3.005  pkg:cpan/WebDyne@3.005
+WebDyne::PSGI                      3.005  pkg:cpan/WebDyne@3.005
+WebDyne::PSGI::Constant            3.005  pkg:cpan/WebDyne@3.005
+WebDyne::Request::Apache           3.005  pkg:cpan/WebDyne@3.005
+WebDyne::Request::Apache::Body     3.005  pkg:cpan/WebDyne@3.005
+WebDyne::Request::Common           3.005  pkg:cpan/WebDyne@3.005
+WebDyne::Request::Fake             3.005  pkg:cpan/WebDyne@3.005
 WebDyne::Request::FastCGI          1.021  pkg:cpan/WebDyne-Request-FastCGI@1.021
 WebDyne::Request::FastCGI::Constant 1.002  pkg:cpan/WebDyne-Request-FastCGI@1.021
 WebDyne::Request::FastCGI::Run     1.002  pkg:cpan/WebDyne-Request-FastCGI@1.021
 WebDyne::Request::FastCGI::Static  1.002  pkg:cpan/WebDyne-Request-FastCGI@1.021
 WebDyne::Request::FastCGI::VERSION 1.019  pkg:cpan/WebDyne-Request-FastCGI@1.019
-WebDyne::Request::PSGI             2.075  pkg:cpan/WebDyne@2.075
-WebDyne::Request::PSGI::Constant   2.075  pkg:cpan/WebDyne@2.075
-WebDyne::Request::PSGI::Static     2.075  pkg:cpan/WebDyne@2.075
-WebDyne::Session                   2.075  pkg:cpan/WebDyne@2.075
-WebDyne::Session::Constant         2.075  pkg:cpan/WebDyne@2.075
+WebDyne::Request::PAGI             3.005  pkg:cpan/WebDyne@3.005
+WebDyne::Request::PSGI             3.005  pkg:cpan/WebDyne@3.005
+WebDyne::Request::PSGI::Constant   3.005  pkg:cpan/WebDyne@3.005
+WebDyne::Request::PSGI::Static     3.005  pkg:cpan/WebDyne@3.005
+WebDyne::Session                   3.005  pkg:cpan/WebDyne@3.005
+WebDyne::Session::Constant         3.005  pkg:cpan/WebDyne@3.005
 WebDyne::Session::VERSION          1.042  pkg:cpan/WebDyne-Session@1.042
-WebDyne::Static                    2.075  pkg:cpan/WebDyne@2.075
-WebDyne::Template                  2.075  pkg:cpan/WebDyne@2.075
+WebDyne::Static                    3.005  pkg:cpan/WebDyne@3.005
+WebDyne::Template                  3.005  pkg:cpan/WebDyne@3.005
 WebDyne::Template::VERSION         1.019  pkg:cpan/WebDyne-Template@1.019
-WebDyne::TieHandle                 2.075  pkg:cpan/WebDyne@2.075
-WebDyne::Util                      2.075  pkg:cpan/WebDyne@2.075
+WebDyne::TieHandle                 3.005  pkg:cpan/WebDyne@3.005
+WebDyne::Util                      3.005  pkg:cpan/WebDyne@3.005
 WebDyne::VERSION                   1.207  pkg:cpan/WebDyne@1.207
 WebFS::FileCopy                     1.04  pkg:cpan/WebFS-FileCopy@1.04
 WebFS::FileCopy::Put                1.04  pkg:cpan/WebFS-FileCopy@1.04
@@ -265652,7 +265660,7 @@ eris::role::schema                 0.009  pkg:cpan/eris@0.009
 eris::schema::syslog               0.009  pkg:cpan/eris@0.009
 eris::schemas                      0.009  pkg:cpan/eris@0.009
 error_codes                        undef  pkg:cpan/API-Intis@1.00
-error_require                      undef  pkg:cpan/WebDyne@2.075
+error_require                      undef  pkg:cpan/WebDyne@3.005
 errors                              0.13  pkg:cpan/Error-errors@0.13
 errors::subs                        0.13  pkg:cpan/Error-errors@0.13
 eta                                1.001  pkg:cpan/Acme-MetaSyntactic@1.015
