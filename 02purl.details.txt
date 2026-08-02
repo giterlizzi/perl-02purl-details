@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 02 Aug 2026 09:50:05 GMT
+Last-Updated: Sun, 02 Aug 2026 11:12:12 GMT
 Line-Count: 267534
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -32856,7 +32856,7 @@ CLI                                undef  pkg:cpan/CLI@0.24
 CLI::Application                    0.03  pkg:cpan/CLI-Application@0.03
 CLI::Array                         undef  pkg:cpan/CLI@0.24
 CLI::Base                          undef  pkg:cpan/CLI@0.24
-CLI::Cmdline                        1.25  pkg:cpan/CLI-Cmdline@1.25
+CLI::Cmdline                        1.26  pkg:cpan/CLI-Cmdline@1.26
 CLI::Coin::Toss                     0.35  pkg:cpan/CLI-Coin-Toss@0.35
 CLI::Command                       undef  pkg:cpan/CLI@0.24
 CLI::Contingency::Table             0.53  pkg:cpan/CLI-Contingency-Table@0.53
