@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 01 Aug 2026 22:46:47 GMT
-Line-Count: 267533
+Last-Updated: Sun, 02 Aug 2026 02:05:19 GMT
+Line-Count: 267534
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -50545,7 +50545,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.0  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
 Cucumber::TagExpressions::NotNode  v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
 Cucumber::TagExpressions::OrNode   v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.134
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.135
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
@@ -53744,20 +53744,20 @@ DBIx::QueryLog                      0.42  pkg:cpan/DBIx-QueryLog@0.42
 DBIx::Quick                          0.9  pkg:cpan/DBIx-Quick@0.9
 DBIx::Quick::Converter             undef  pkg:cpan/DBIx-Quick@0.9
 DBIx::Quick::Role                  undef  pkg:cpan/DBIx-Quick@0.9
-DBIx::QuickDB                      0.000056  pkg:cpan/DBIx-QuickDB@0.000056
-DBIx::QuickDB::Driver              0.000056  pkg:cpan/DBIx-QuickDB@0.000056
-DBIx::QuickDB::Driver::DuckDB      0.000056  pkg:cpan/DBIx-QuickDB@0.000056
-DBIx::QuickDB::Driver::MariaDB     0.000056  pkg:cpan/DBIx-QuickDB@0.000056
-DBIx::QuickDB::Driver::MySQL       0.000056  pkg:cpan/DBIx-QuickDB@0.000056
+DBIx::QuickDB                      0.000057  pkg:cpan/DBIx-QuickDB@0.000057
+DBIx::QuickDB::Driver              0.000057  pkg:cpan/DBIx-QuickDB@0.000057
+DBIx::QuickDB::Driver::DuckDB      0.000057  pkg:cpan/DBIx-QuickDB@0.000057
+DBIx::QuickDB::Driver::MariaDB     0.000057  pkg:cpan/DBIx-QuickDB@0.000057
+DBIx::QuickDB::Driver::MySQL       0.000057  pkg:cpan/DBIx-QuickDB@0.000057
 DBIx::QuickDB::Driver::MySQL::Base 0.000035  pkg:cpan/DBIx-QuickDB@0.000035
-DBIx::QuickDB::Driver::MySQLCom    0.000056  pkg:cpan/DBIx-QuickDB@0.000056
-DBIx::QuickDB::Driver::Percona     0.000056  pkg:cpan/DBIx-QuickDB@0.000056
-DBIx::QuickDB::Driver::PostgreSQL  0.000056  pkg:cpan/DBIx-QuickDB@0.000056
-DBIx::QuickDB::Driver::SQLite      0.000056  pkg:cpan/DBIx-QuickDB@0.000056
-DBIx::QuickDB::Pool                0.000056  pkg:cpan/DBIx-QuickDB@0.000056
-DBIx::QuickDB::Util                0.000056  pkg:cpan/DBIx-QuickDB@0.000056
-DBIx::QuickDB::Util::HashBase      0.000056  pkg:cpan/DBIx-QuickDB@0.000056
-DBIx::QuickDB::Watcher             0.000056  pkg:cpan/DBIx-QuickDB@0.000056
+DBIx::QuickDB::Driver::MySQLCom    0.000057  pkg:cpan/DBIx-QuickDB@0.000057
+DBIx::QuickDB::Driver::Percona     0.000057  pkg:cpan/DBIx-QuickDB@0.000057
+DBIx::QuickDB::Driver::PostgreSQL  0.000057  pkg:cpan/DBIx-QuickDB@0.000057
+DBIx::QuickDB::Driver::SQLite      0.000057  pkg:cpan/DBIx-QuickDB@0.000057
+DBIx::QuickDB::Pool                0.000057  pkg:cpan/DBIx-QuickDB@0.000057
+DBIx::QuickDB::Util                0.000057  pkg:cpan/DBIx-QuickDB@0.000057
+DBIx::QuickDB::Util::HashBase      0.000057  pkg:cpan/DBIx-QuickDB@0.000057
+DBIx::QuickDB::Watcher             0.000057  pkg:cpan/DBIx-QuickDB@0.000057
 DBIx::QuickORM                     0.000028  pkg:cpan/DBIx-QuickORM@0.000028
 DBIx::QuickORM::Affinity           0.000028  pkg:cpan/DBIx-QuickORM@0.000028
 DBIx::QuickORM::BuilderState       0.000004  pkg:cpan/DBIx-QuickORM@0.000004
@@ -74168,18 +74168,18 @@ Fennec::Util                       undef  pkg:cpan/Fennec@2.018
 Fern                               undef  pkg:cpan/Fern@0.2
 Festival::Client                     1.0  pkg:cpan/Festival-Client@1.0
 Festival::Client::Async            0.0303  pkg:cpan/Festival-Client-Async@0.0303
-Fetch                               0.01  pkg:cpan/Fetch@0.01
-Fetch::CookieJar                    0.01  pkg:cpan/Fetch@0.01
-Fetch::Future                       0.01  pkg:cpan/Fetch@0.01
-Fetch::Headers                      0.01  pkg:cpan/Fetch@0.01
+Fetch                               0.02  pkg:cpan/Fetch@0.02
+Fetch::CookieJar                    0.02  pkg:cpan/Fetch@0.02
+Fetch::Future                       0.02  pkg:cpan/Fetch@0.02
+Fetch::Headers                      0.02  pkg:cpan/Fetch@0.02
 Fetch::Image                       1.000000  pkg:cpan/Fetch-Image@1.000000
-Fetch::Loop                         0.01  pkg:cpan/Fetch@0.01
-Fetch::Loop::AnyEvent               0.01  pkg:cpan/Fetch@0.01
-Fetch::Loop::Hyperman               0.01  pkg:cpan/Fetch@0.01
-Fetch::Loop::IOAsync                0.01  pkg:cpan/Fetch@0.01
-Fetch::Loop::Standalone             0.01  pkg:cpan/Fetch@0.01
-Fetch::Response                     0.01  pkg:cpan/Fetch@0.01
-Fetch::WebSocket                    0.01  pkg:cpan/Fetch@0.01
+Fetch::Loop                         0.02  pkg:cpan/Fetch@0.02
+Fetch::Loop::AnyEvent               0.02  pkg:cpan/Fetch@0.02
+Fetch::Loop::Hyperman               0.02  pkg:cpan/Fetch@0.02
+Fetch::Loop::IOAsync                0.02  pkg:cpan/Fetch@0.02
+Fetch::Loop::Standalone             0.02  pkg:cpan/Fetch@0.02
+Fetch::Response                     0.02  pkg:cpan/Fetch@0.02
+Fetch::WebSocket                    0.02  pkg:cpan/Fetch@0.02
 Fetcher                            undef  pkg:cpan/article_fetcher?ext=zip
 Fey                                 0.44  pkg:cpan/Fey@0.44
 Fey::Column                         0.44  pkg:cpan/Fey@0.44
@@ -75364,6 +75364,7 @@ Filename::Compressed               0.050  pkg:cpan/Filename-Compressed@0.050
 Filename::Ebook                    0.002  pkg:cpan/Filename-Ebook@0.002
 Filename::Executable               0.002  pkg:cpan/Filename-Executable@0.002
 Filename::Image                    0.005  pkg:cpan/Filename-Image@0.005
+Filename::KeyValue                 0.001  pkg:cpan/Filename-KeyValue@0.001
 Filename::Media                    0.003  pkg:cpan/Filename-Media@0.003
 Filename::Media::Info              0.002  pkg:cpan/Filename-Media-Info@0.002
 Filename::Perl::Release            0.002  pkg:cpan/Filename-Perl-Release@0.002
@@ -230958,7 +230959,7 @@ Test2::Tools::Process::Exit         0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::Proc         0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::System       0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::SystemProc   0.07  pkg:cpan/Test2-Tools-Process@0.07
-Test2::Tools::QuickDB              0.000056  pkg:cpan/DBIx-QuickDB@0.000056
+Test2::Tools::QuickDB              0.000057  pkg:cpan/DBIx-QuickDB@0.000057
 Test2::Tools::Ref                  1.302222  pkg:cpan/Test-Simple@1.302222
 Test2::Tools::Refcount             1.302222  pkg:cpan/Test-Simple@1.302222
 Test2::Tools::Rustfmt               0.05  pkg:cpan/Test2-Tools-Rustfmt@0.05
