@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 02 Aug 2026 18:59:16 GMT
+Last-Updated: Sun, 02 Aug 2026 20:44:29 GMT
 Line-Count: 267535
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -148482,21 +148482,21 @@ Net::Config                         3.15  pkg:cpan/libnet@3.15
 Net::Connection                    0.003000  pkg:cpan/Net-Connection@0.3.0
 Net::Connection::FreeBSD_sockstat    1.0  pkg:cpan/Net-Connection-FreeBSD_sockstat@1.0.0
 Net::Connection::Linux_ss          0.000001  pkg:cpan/Net-Connection-Linux_ss@0.0.1
-Net::Connection::Match             0.005001  pkg:cpan/Net-Connection-Match@0.5.1
-Net::Connection::Match::All          0.0  pkg:cpan/Net-Connection-Match@0.5.1
-Net::Connection::Match::CIDR         0.0  pkg:cpan/Net-Connection-Match@0.5.1
-Net::Connection::Match::Command    0.001000  pkg:cpan/Net-Connection-Match@0.5.1
-Net::Connection::Match::PID          0.0  pkg:cpan/Net-Connection-Match@0.5.0
-Net::Connection::Match::PTR        0.000001  pkg:cpan/Net-Connection-Match@0.5.1
-Net::Connection::Match::PctCPU       0.0  pkg:cpan/Net-Connection-Match@0.5.1
-Net::Connection::Match::PctMem       0.0  pkg:cpan/Net-Connection-Match@0.5.0
-Net::Connection::Match::Ports      0.001000  pkg:cpan/Net-Connection-Match@0.5.1
-Net::Connection::Match::Protos       0.0  pkg:cpan/Net-Connection-Match@0.5.1
-Net::Connection::Match::RegexPTR     0.0  pkg:cpan/Net-Connection-Match@0.5.1
-Net::Connection::Match::States       0.0  pkg:cpan/Net-Connection-Match@0.5.1
-Net::Connection::Match::UID          0.0  pkg:cpan/Net-Connection-Match@0.5.1
-Net::Connection::Match::Username     0.0  pkg:cpan/Net-Connection-Match@0.5.0
-Net::Connection::Match::WChan        0.0  pkg:cpan/Net-Connection-Match@0.5.1
+Net::Connection::Match             0.005002  pkg:cpan/Net-Connection-Match@0.5.2
+Net::Connection::Match::All          0.0  pkg:cpan/Net-Connection-Match@0.5.2
+Net::Connection::Match::CIDR         0.0  pkg:cpan/Net-Connection-Match@0.5.2
+Net::Connection::Match::Command    0.001000  pkg:cpan/Net-Connection-Match@0.5.2
+Net::Connection::Match::PID          0.0  pkg:cpan/Net-Connection-Match@0.5.2
+Net::Connection::Match::PTR        0.000001  pkg:cpan/Net-Connection-Match@0.5.2
+Net::Connection::Match::PctCPU       0.0  pkg:cpan/Net-Connection-Match@0.5.2
+Net::Connection::Match::PctMem       0.0  pkg:cpan/Net-Connection-Match@0.5.2
+Net::Connection::Match::Ports      0.001000  pkg:cpan/Net-Connection-Match@0.5.2
+Net::Connection::Match::Protos       0.0  pkg:cpan/Net-Connection-Match@0.5.2
+Net::Connection::Match::RegexPTR     0.0  pkg:cpan/Net-Connection-Match@0.5.2
+Net::Connection::Match::States       0.0  pkg:cpan/Net-Connection-Match@0.5.2
+Net::Connection::Match::UID          0.0  pkg:cpan/Net-Connection-Match@0.5.2
+Net::Connection::Match::Username     0.0  pkg:cpan/Net-Connection-Match@0.5.2
+Net::Connection::Match::WChan        0.0  pkg:cpan/Net-Connection-Match@0.5.2
 Net::Connection::Simple             1.02  pkg:cpan/Net-Connection-Simple@1.02
 Net::Connection::Sniffer            0.36  pkg:cpan/Net-Connection-Sniffer@0.36
 Net::Connection::Sniffer::Report    0.13  pkg:cpan/Net-Connection-Sniffer@0.36
