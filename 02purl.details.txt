@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 02 Aug 2026 11:12:12 GMT
+Last-Updated: Sun, 02 Aug 2026 13:05:18 GMT
 Line-Count: 267534
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -74168,18 +74168,18 @@ Fennec::Util                       undef  pkg:cpan/Fennec@2.018
 Fern                               undef  pkg:cpan/Fern@0.2
 Festival::Client                     1.0  pkg:cpan/Festival-Client@1.0
 Festival::Client::Async            0.0303  pkg:cpan/Festival-Client-Async@0.0303
-Fetch                               0.03  pkg:cpan/Fetch@0.03
-Fetch::CookieJar                    0.03  pkg:cpan/Fetch@0.03
-Fetch::Future                       0.03  pkg:cpan/Fetch@0.03
-Fetch::Headers                      0.03  pkg:cpan/Fetch@0.03
+Fetch                               0.04  pkg:cpan/Fetch@0.04
+Fetch::CookieJar                    0.04  pkg:cpan/Fetch@0.04
+Fetch::Future                       0.04  pkg:cpan/Fetch@0.04
+Fetch::Headers                      0.04  pkg:cpan/Fetch@0.04
 Fetch::Image                       1.000000  pkg:cpan/Fetch-Image@1.000000
-Fetch::Loop                         0.03  pkg:cpan/Fetch@0.03
-Fetch::Loop::AnyEvent               0.03  pkg:cpan/Fetch@0.03
-Fetch::Loop::Hyperman               0.03  pkg:cpan/Fetch@0.03
-Fetch::Loop::IOAsync                0.03  pkg:cpan/Fetch@0.03
-Fetch::Loop::Standalone             0.03  pkg:cpan/Fetch@0.03
-Fetch::Response                     0.03  pkg:cpan/Fetch@0.03
-Fetch::WebSocket                    0.03  pkg:cpan/Fetch@0.03
+Fetch::Loop                         0.04  pkg:cpan/Fetch@0.04
+Fetch::Loop::AnyEvent               0.04  pkg:cpan/Fetch@0.04
+Fetch::Loop::Hyperman               0.04  pkg:cpan/Fetch@0.04
+Fetch::Loop::IOAsync                0.04  pkg:cpan/Fetch@0.04
+Fetch::Loop::Standalone             0.04  pkg:cpan/Fetch@0.04
+Fetch::Response                     0.04  pkg:cpan/Fetch@0.04
+Fetch::WebSocket                    0.04  pkg:cpan/Fetch@0.04
 Fetcher                            undef  pkg:cpan/article_fetcher?ext=zip
 Fey                                 0.44  pkg:cpan/Fey@0.44
 Fey::Column                         0.44  pkg:cpan/Fey@0.44
@@ -112332,13 +112332,13 @@ Hyper::Developer::Model::Viewer    0.100  pkg:cpan/Hyper-Developer@0.07
 Hyper::Developer::Server           undef  pkg:cpan/Hyper-Developer@0.07
 HyperWave::CSP                     0.003001  pkg:cpan/HyperWave-CSP@0.03.1
 HyperWave::CSP::Message            undef  pkg:cpan/HyperWave-CSP@0.03.1
-Hyperman                            0.04  pkg:cpan/Hyperman@0.04
-Hyperman::Event::Epoll              0.04  pkg:cpan/Hyperman@0.04
-Hyperman::Event::IOUring            0.04  pkg:cpan/Hyperman@0.04
-Hyperman::Event::Kqueue             0.04  pkg:cpan/Hyperman@0.04
-Hyperman::Event::Poll               0.04  pkg:cpan/Hyperman@0.04
-Hyperman::Future                    0.04  pkg:cpan/Hyperman@0.04
-Hyperman::Loop                      0.04  pkg:cpan/Hyperman@0.04
+Hyperman                            0.05  pkg:cpan/Hyperman@0.05
+Hyperman::Event::Epoll              0.05  pkg:cpan/Hyperman@0.05
+Hyperman::Event::IOUring            0.05  pkg:cpan/Hyperman@0.05
+Hyperman::Event::Kqueue             0.05  pkg:cpan/Hyperman@0.05
+Hyperman::Event::Poll               0.05  pkg:cpan/Hyperman@0.05
+Hyperman::Future                    0.05  pkg:cpan/Hyperman@0.05
+Hyperman::Loop                      0.05  pkg:cpan/Hyperman@0.05
 Hyperscan                           0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Database                 0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Matcher                  0.04  pkg:cpan/Hyperscan@0.04
@@ -157871,9 +157871,9 @@ Object::Pluggable::Pipeline         1.29  pkg:cpan/Object-Pluggable@1.29
 Object::Previous                   1.1012  pkg:cpan/Object-Previous@1.1012
 Object::Properties                 1.003  pkg:cpan/Object-Properties@1.003
 Object::Properties::Base           1.003  pkg:cpan/Object-Properties@1.003
-Object::Proto                       0.18  pkg:cpan/Object-Proto@0.18
-Object::Proto::Install::Files      undef  pkg:cpan/Object-Proto@0.18
-Object::Proto::Sugar                0.05  pkg:cpan/Object-Proto-Sugar@0.05
+Object::Proto                       0.19  pkg:cpan/Object-Proto@0.19
+Object::Proto::Install::Files      undef  pkg:cpan/Object-Proto@0.19
+Object::Proto::Sugar                0.06  pkg:cpan/Object-Proto-Sugar@0.06
 Object::Prototype                   0.02  pkg:cpan/Object-Prototype@0.02
 Object::Quick                      undef  pkg:cpan/Mock-Quick@1.111
 Object::RateLimiter                1.004001  pkg:cpan/Object-RateLimiter@1.004001
@@ -198959,7 +198959,7 @@ Plack::Handler::H2::Writer         undef  pkg:cpan/Plack-Handler-H2@0.0.5
 Plack::Handler::HTTP::Server::PSGI undef  pkg:cpan/Plack@1.0054
 Plack::Handler::HTTP::Server::Simple  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
 Plack::Handler::HTTP::Server::Simple::PSGIServer  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
-Plack::Handler::Hyperman            0.04  pkg:cpan/Hyperman@0.04
+Plack::Handler::Hyperman            0.05  pkg:cpan/Hyperman@0.05
 Plack::Handler::Martian             0.08  pkg:cpan/Martian@0.08
 Plack::Handler::Message::Passing   undef  pkg:cpan/Message-Passing-PSGI@0.001
 Plack::Handler::Monoceros          undef  pkg:cpan/Monoceros@0.29
