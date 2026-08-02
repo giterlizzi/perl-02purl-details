@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 02 Aug 2026 06:27:16 GMT
+Last-Updated: Sun, 02 Aug 2026 09:50:05 GMT
 Line-Count: 267534
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -53744,20 +53744,20 @@ DBIx::QueryLog                      0.42  pkg:cpan/DBIx-QueryLog@0.42
 DBIx::Quick                          0.9  pkg:cpan/DBIx-Quick@0.9
 DBIx::Quick::Converter             undef  pkg:cpan/DBIx-Quick@0.9
 DBIx::Quick::Role                  undef  pkg:cpan/DBIx-Quick@0.9
-DBIx::QuickDB                      0.000059  pkg:cpan/DBIx-QuickDB@0.000059
-DBIx::QuickDB::Driver              0.000059  pkg:cpan/DBIx-QuickDB@0.000059
-DBIx::QuickDB::Driver::DuckDB      0.000059  pkg:cpan/DBIx-QuickDB@0.000059
-DBIx::QuickDB::Driver::MariaDB     0.000059  pkg:cpan/DBIx-QuickDB@0.000059
-DBIx::QuickDB::Driver::MySQL       0.000059  pkg:cpan/DBIx-QuickDB@0.000059
+DBIx::QuickDB                      0.000060  pkg:cpan/DBIx-QuickDB@0.000060
+DBIx::QuickDB::Driver              0.000060  pkg:cpan/DBIx-QuickDB@0.000060
+DBIx::QuickDB::Driver::DuckDB      0.000060  pkg:cpan/DBIx-QuickDB@0.000060
+DBIx::QuickDB::Driver::MariaDB     0.000060  pkg:cpan/DBIx-QuickDB@0.000060
+DBIx::QuickDB::Driver::MySQL       0.000060  pkg:cpan/DBIx-QuickDB@0.000060
 DBIx::QuickDB::Driver::MySQL::Base 0.000035  pkg:cpan/DBIx-QuickDB@0.000035
-DBIx::QuickDB::Driver::MySQLCom    0.000059  pkg:cpan/DBIx-QuickDB@0.000059
-DBIx::QuickDB::Driver::Percona     0.000059  pkg:cpan/DBIx-QuickDB@0.000059
-DBIx::QuickDB::Driver::PostgreSQL  0.000059  pkg:cpan/DBIx-QuickDB@0.000059
-DBIx::QuickDB::Driver::SQLite      0.000059  pkg:cpan/DBIx-QuickDB@0.000059
-DBIx::QuickDB::Pool                0.000059  pkg:cpan/DBIx-QuickDB@0.000059
-DBIx::QuickDB::Util                0.000059  pkg:cpan/DBIx-QuickDB@0.000059
-DBIx::QuickDB::Util::HashBase      0.000059  pkg:cpan/DBIx-QuickDB@0.000059
-DBIx::QuickDB::Watcher             0.000059  pkg:cpan/DBIx-QuickDB@0.000059
+DBIx::QuickDB::Driver::MySQLCom    0.000060  pkg:cpan/DBIx-QuickDB@0.000060
+DBIx::QuickDB::Driver::Percona     0.000060  pkg:cpan/DBIx-QuickDB@0.000060
+DBIx::QuickDB::Driver::PostgreSQL  0.000060  pkg:cpan/DBIx-QuickDB@0.000060
+DBIx::QuickDB::Driver::SQLite      0.000060  pkg:cpan/DBIx-QuickDB@0.000060
+DBIx::QuickDB::Pool                0.000060  pkg:cpan/DBIx-QuickDB@0.000060
+DBIx::QuickDB::Util                0.000060  pkg:cpan/DBIx-QuickDB@0.000060
+DBIx::QuickDB::Util::HashBase      0.000060  pkg:cpan/DBIx-QuickDB@0.000060
+DBIx::QuickDB::Watcher             0.000060  pkg:cpan/DBIx-QuickDB@0.000060
 DBIx::QuickORM                     0.000028  pkg:cpan/DBIx-QuickORM@0.000028
 DBIx::QuickORM::Affinity           0.000028  pkg:cpan/DBIx-QuickORM@0.000028
 DBIx::QuickORM::BuilderState       0.000004  pkg:cpan/DBIx-QuickORM@0.000004
@@ -58058,8 +58058,8 @@ Data::Dimensions::SickTie          undef  pkg:cpan/Data-Dimensions@0.05
 Data::Direct                        0.05  pkg:cpan/Data-Direct@0.05
 Data::DisjointSet::Shared           0.03  pkg:cpan/Data-DisjointSet-Shared@0.03
 Data::Display                       0.02  pkg:cpan/Data-Display@0.02
-Data::Displaycolour                v0.6.0  pkg:cpan/Data-Displaycolour@v0.06
-Data::Displaycolour::Data          v0.6.0  pkg:cpan/Data-Displaycolour@v0.06
+Data::Displaycolour                v0.7.0  pkg:cpan/Data-Displaycolour@v0.07
+Data::Displaycolour::Data          v0.7.0  pkg:cpan/Data-Displaycolour@v0.07
 Data::Diver                        1.0101  pkg:cpan/Data-Diver@1.0101?ext=tgz
 Data::Dmap                          0.08  pkg:cpan/Data-Dmap@0.08
 Data::Dmp                          0.242  pkg:cpan/Data-Dmp@0.242
@@ -74168,18 +74168,18 @@ Fennec::Util                       undef  pkg:cpan/Fennec@2.018
 Fern                               undef  pkg:cpan/Fern@0.2
 Festival::Client                     1.0  pkg:cpan/Festival-Client@1.0
 Festival::Client::Async            0.0303  pkg:cpan/Festival-Client-Async@0.0303
-Fetch                               0.02  pkg:cpan/Fetch@0.02
-Fetch::CookieJar                    0.02  pkg:cpan/Fetch@0.02
-Fetch::Future                       0.02  pkg:cpan/Fetch@0.02
-Fetch::Headers                      0.02  pkg:cpan/Fetch@0.02
+Fetch                               0.03  pkg:cpan/Fetch@0.03
+Fetch::CookieJar                    0.03  pkg:cpan/Fetch@0.03
+Fetch::Future                       0.03  pkg:cpan/Fetch@0.03
+Fetch::Headers                      0.03  pkg:cpan/Fetch@0.03
 Fetch::Image                       1.000000  pkg:cpan/Fetch-Image@1.000000
-Fetch::Loop                         0.02  pkg:cpan/Fetch@0.02
-Fetch::Loop::AnyEvent               0.02  pkg:cpan/Fetch@0.02
-Fetch::Loop::Hyperman               0.02  pkg:cpan/Fetch@0.02
-Fetch::Loop::IOAsync                0.02  pkg:cpan/Fetch@0.02
-Fetch::Loop::Standalone             0.02  pkg:cpan/Fetch@0.02
-Fetch::Response                     0.02  pkg:cpan/Fetch@0.02
-Fetch::WebSocket                    0.02  pkg:cpan/Fetch@0.02
+Fetch::Loop                         0.03  pkg:cpan/Fetch@0.03
+Fetch::Loop::AnyEvent               0.03  pkg:cpan/Fetch@0.03
+Fetch::Loop::Hyperman               0.03  pkg:cpan/Fetch@0.03
+Fetch::Loop::IOAsync                0.03  pkg:cpan/Fetch@0.03
+Fetch::Loop::Standalone             0.03  pkg:cpan/Fetch@0.03
+Fetch::Response                     0.03  pkg:cpan/Fetch@0.03
+Fetch::WebSocket                    0.03  pkg:cpan/Fetch@0.03
 Fetcher                            undef  pkg:cpan/article_fetcher?ext=zip
 Fey                                 0.44  pkg:cpan/Fey@0.44
 Fey::Column                         0.44  pkg:cpan/Fey@0.44
@@ -112332,13 +112332,13 @@ Hyper::Developer::Model::Viewer    0.100  pkg:cpan/Hyper-Developer@0.07
 Hyper::Developer::Server           undef  pkg:cpan/Hyper-Developer@0.07
 HyperWave::CSP                     0.003001  pkg:cpan/HyperWave-CSP@0.03.1
 HyperWave::CSP::Message            undef  pkg:cpan/HyperWave-CSP@0.03.1
-Hyperman                            0.03  pkg:cpan/Hyperman@0.03
-Hyperman::Event::Epoll              0.03  pkg:cpan/Hyperman@0.03
-Hyperman::Event::IOUring            0.03  pkg:cpan/Hyperman@0.03
-Hyperman::Event::Kqueue             0.03  pkg:cpan/Hyperman@0.03
-Hyperman::Event::Poll               0.03  pkg:cpan/Hyperman@0.03
-Hyperman::Future                    0.03  pkg:cpan/Hyperman@0.03
-Hyperman::Loop                      0.03  pkg:cpan/Hyperman@0.03
+Hyperman                            0.04  pkg:cpan/Hyperman@0.04
+Hyperman::Event::Epoll              0.04  pkg:cpan/Hyperman@0.04
+Hyperman::Event::IOUring            0.04  pkg:cpan/Hyperman@0.04
+Hyperman::Event::Kqueue             0.04  pkg:cpan/Hyperman@0.04
+Hyperman::Event::Poll               0.04  pkg:cpan/Hyperman@0.04
+Hyperman::Future                    0.04  pkg:cpan/Hyperman@0.04
+Hyperman::Loop                      0.04  pkg:cpan/Hyperman@0.04
 Hyperscan                           0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Database                 0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Matcher                  0.04  pkg:cpan/Hyperscan@0.04
@@ -198959,7 +198959,7 @@ Plack::Handler::H2::Writer         undef  pkg:cpan/Plack-Handler-H2@0.0.5
 Plack::Handler::HTTP::Server::PSGI undef  pkg:cpan/Plack@1.0054
 Plack::Handler::HTTP::Server::Simple  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
 Plack::Handler::HTTP::Server::Simple::PSGIServer  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
-Plack::Handler::Hyperman            0.03  pkg:cpan/Hyperman@0.03
+Plack::Handler::Hyperman            0.04  pkg:cpan/Hyperman@0.04
 Plack::Handler::Martian             0.08  pkg:cpan/Martian@0.08
 Plack::Handler::Message::Passing   undef  pkg:cpan/Message-Passing-PSGI@0.001
 Plack::Handler::Monoceros          undef  pkg:cpan/Monoceros@0.29
@@ -201345,7 +201345,7 @@ Predicate                          undef  pkg:cpan/SemMed-Interface@0.05
 PrefixCompiler                         0  pkg:cpan/SVN-TeamTools-Indexer@0.002
 PrefixMatcher                          0  pkg:cpan/SVN-TeamTools-Indexer@0.002
 Preloaded                          undef  pkg:cpan/Resource-Loader@0.03
-Preproc::Tiny                       0.04  pkg:cpan/Preproc-Tiny@0.04
+Preproc::Tiny                       0.09  pkg:cpan/Preproc-Tiny@0.09
 Preprocess::Ops                    20201117  pkg:cpan/Preprocess-Ops@20201117
 PressKeys                          undef  pkg:cpan/PerlActor@0.02
 Prima                               1.77  pkg:cpan/Prima@1.77
@@ -230959,7 +230959,7 @@ Test2::Tools::Process::Exit         0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::Proc         0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::System       0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::SystemProc   0.07  pkg:cpan/Test2-Tools-Process@0.07
-Test2::Tools::QuickDB              0.000059  pkg:cpan/DBIx-QuickDB@0.000059
+Test2::Tools::QuickDB              0.000060  pkg:cpan/DBIx-QuickDB@0.000060
 Test2::Tools::Ref                  1.302222  pkg:cpan/Test-Simple@1.302222
 Test2::Tools::Refcount             1.302222  pkg:cpan/Test-Simple@1.302222
 Test2::Tools::Rustfmt               0.05  pkg:cpan/Test2-Tools-Rustfmt@0.05
@@ -237207,23 +237207,23 @@ Tk::Labelframe                     4.003  pkg:cpan/Tk@804.036
 Tk::Labelled                         0.2  pkg:cpan/Tk-Gauge@0.3
 Tk::LineGraph                       0.01  pkg:cpan/Tk-LineGraph@0.01
 Tk::LineNumberText                   0.5  pkg:cpan/Tk-LineNumberText@0.5
-Tk::ListBrowser                     0.16  pkg:cpan/Tk-ListBrowser@0.16
-Tk::ListBrowser::Bar                0.04  pkg:cpan/Tk-ListBrowser@0.16
-Tk::ListBrowser::BaseItem           0.15  pkg:cpan/Tk-ListBrowser@0.16
-Tk::ListBrowser::Column              0.1  pkg:cpan/Tk-ListBrowser@0.16
+Tk::ListBrowser                     0.17  pkg:cpan/Tk-ListBrowser@0.17
+Tk::ListBrowser::Bar                0.04  pkg:cpan/Tk-ListBrowser@0.17
+Tk::ListBrowser::BaseItem           0.15  pkg:cpan/Tk-ListBrowser@0.17
+Tk::ListBrowser::Column              0.1  pkg:cpan/Tk-ListBrowser@0.17
 Tk::ListBrowser::Data               0.08  pkg:cpan/Tk-ListBrowser@0.08
-Tk::ListBrowser::Entry              0.16  pkg:cpan/Tk-ListBrowser@0.16
-Tk::ListBrowser::FilterEntry        0.11  pkg:cpan/Tk-ListBrowser@0.16
-Tk::ListBrowser::HList              0.16  pkg:cpan/Tk-ListBrowser@0.16
-Tk::ListBrowser::HashList           0.16  pkg:cpan/Tk-ListBrowser@0.16
-Tk::ListBrowser::Item               0.16  pkg:cpan/Tk-ListBrowser@0.16
-Tk::ListBrowser::LBCanvas           0.04  pkg:cpan/Tk-ListBrowser@0.16
-Tk::ListBrowser::LBHeader           0.11  pkg:cpan/Tk-ListBrowser@0.16
-Tk::ListBrowser::List               0.14  pkg:cpan/Tk-ListBrowser@0.16
-Tk::ListBrowser::Row                0.15  pkg:cpan/Tk-ListBrowser@0.16
-Tk::ListBrowser::SelectXPM          0.11  pkg:cpan/Tk-ListBrowser@0.16
-Tk::ListBrowser::SideColumn         0.15  pkg:cpan/Tk-ListBrowser@0.16
-Tk::ListBrowser::Tree               0.14  pkg:cpan/Tk-ListBrowser@0.16
+Tk::ListBrowser::Entry              0.17  pkg:cpan/Tk-ListBrowser@0.17
+Tk::ListBrowser::FilterEntry        0.11  pkg:cpan/Tk-ListBrowser@0.17
+Tk::ListBrowser::HList              0.16  pkg:cpan/Tk-ListBrowser@0.17
+Tk::ListBrowser::HashList           0.17  pkg:cpan/Tk-ListBrowser@0.17
+Tk::ListBrowser::Item               0.16  pkg:cpan/Tk-ListBrowser@0.17
+Tk::ListBrowser::LBCanvas           0.04  pkg:cpan/Tk-ListBrowser@0.17
+Tk::ListBrowser::LBHeader           0.11  pkg:cpan/Tk-ListBrowser@0.17
+Tk::ListBrowser::List               0.14  pkg:cpan/Tk-ListBrowser@0.17
+Tk::ListBrowser::Row                0.15  pkg:cpan/Tk-ListBrowser@0.17
+Tk::ListBrowser::SelectXPM          0.11  pkg:cpan/Tk-ListBrowser@0.17
+Tk::ListBrowser::SideColumn         0.15  pkg:cpan/Tk-ListBrowser@0.17
+Tk::ListBrowser::Tree               0.14  pkg:cpan/Tk-ListBrowser@0.17
 Tk::ListEntry                       0.07  pkg:cpan/Tk-ListEntry@0.07
 Tk::ListMgr                         0.02  pkg:cpan/Tk-GBARR@2.08
 Tk::ListMgr::Item                   0.02  pkg:cpan/Tk-GBARR@2.08
