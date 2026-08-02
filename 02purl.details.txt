@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 02 Aug 2026 20:44:29 GMT
+Last-Updated: Sun, 02 Aug 2026 22:48:18 GMT
 Line-Count: 267535
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -3820,10 +3820,10 @@ Advanced::Config::Examples          1.14  pkg:cpan/Advanced-Config@1.14
 Advanced::Config::Options           1.14  pkg:cpan/Advanced-Config@1.14
 Advanced::Config::Reader            1.14  pkg:cpan/Advanced-Config@1.14
 Advent::Bundles                     0.05  pkg:cpan/Advent-Bundles@0.05
-Affix                              v1.2.0  pkg:cpan/Affix@v1.2.0
-Affix::Build                       v1.2.0  pkg:cpan/Affix@v1.2.0
+Affix                              v1.2.1  pkg:cpan/Affix@v1.2.1
+Affix::Build                       v1.2.1  pkg:cpan/Affix@v1.2.1
 Affix::Infix2Postfix                0.03  pkg:cpan/Affix-Infix2Postfix@0.03
-Affix::Wrap                        v1.2.0  pkg:cpan/Affix@v1.2.0
+Affix::Wrap                        v1.2.1  pkg:cpan/Affix@v1.2.1
 AfterAwhileClass                   undef  pkg:cpan/Reflex@0.100
 AfterAwhileRole                    undef  pkg:cpan/Reflex@0.100
 AfterAwhileSubclass                undef  pkg:cpan/Reflex@0.100
@@ -47753,7 +47753,7 @@ Config::AST                         1.07  pkg:cpan/Config-AST@1.07
 Config::AWS                         0.12  pkg:cpan/Config-AWS@0.12
 Config::Abstract                    0.16  pkg:cpan/Config-Abstract@0.16
 Config::Abstract::Ini               0.16  pkg:cpan/Config-Abstract@0.16
-Config::Abstraction                 0.39  pkg:cpan/Config-Abstraction@0.39
+Config::Abstraction                 0.40  pkg:cpan/Config-Abstraction@0.40
 Config::Ant                         0.01  pkg:cpan/Config-Ant@0.01
 Config::Any                         0.33  pkg:cpan/Config-Any@0.33
 Config::Any::Base                  undef  pkg:cpan/Config-Any@0.33
@@ -148519,7 +148519,7 @@ Net::Connection::Sort::uid         0.000002  pkg:cpan/Net-Connection-Sort@0.2.0
 Net::Connection::Sort::unsorted    0.000004  pkg:cpan/Net-Connection-Sort@0.2.0
 Net::Connection::Sort::user        0.001002  pkg:cpan/Net-Connection-Sort@0.2.0
 Net::Connection::lsof              0.004000  pkg:cpan/Net-Connection-lsof@0.4.0
-Net::Connection::ncnetstat         0.009000  pkg:cpan/Net-Connection-ncnetstat@0.9.0
+Net::Connection::ncnetstat         0.009001  pkg:cpan/Net-Connection-ncnetstat@0.9.1
 Net::Continental                   0.017  pkg:cpan/Net-Continental@0.017
 Net::Continental::Zone             0.017  pkg:cpan/Net-Continental@0.017
 Net::Correios                      0.004  pkg:cpan/Net-Correios@0.004
@@ -201894,7 +201894,7 @@ Proc::PidUtil                       0.09  pkg:cpan/Proc-PidUtil@0.09
 Proc::Pidfile                       1.10  pkg:cpan/Proc-Pidfile@1.10
 Proc::ProcessTable                 0.637  pkg:cpan/Proc-ProcessTable@0.637
 Proc::ProcessTable::Colorizer      0.004000  pkg:cpan/Proc-ProcessTable-Colorizer@0.4.0
-Proc::ProcessTable::InfoString     0.001000  pkg:cpan/Proc-ProcessTable-InfoString@0.1.0
+Proc::ProcessTable::InfoString     0.002000  pkg:cpan/Proc-ProcessTable-InfoString@0.2.0
 Proc::ProcessTable::Match          0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
 Proc::ProcessTable::Match::Cmndline 0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
 Proc::ProcessTable::Match::Command 0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
@@ -201920,8 +201920,8 @@ Proc::ProcessTable::Match::Time    0.001000  pkg:cpan/Proc-ProcessTable-Match@0.
 Proc::ProcessTable::Match::UID     0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
 Proc::ProcessTable::Match::WChan   0.001000  pkg:cpan/Proc-ProcessTable-Match@0.1.0
 Proc::ProcessTable::Process         0.02  pkg:cpan/Proc-ProcessTable@0.637
-Proc::ProcessTable::ncps           0.002001  pkg:cpan/Proc-ProcessTable-ncps@0.2.1
-Proc::ProcessTable::piddler        0.002000  pkg:cpan/Proc-ProcessTable-piddler@0.2.0
+Proc::ProcessTable::ncps           0.002002  pkg:cpan/Proc-ProcessTable-ncps@0.2.2
+Proc::ProcessTable::piddler        0.003000  pkg:cpan/Proc-ProcessTable-piddler@0.3.0
 Proc::ProcessTableLight             0.01  pkg:cpan/Proc-ProcessTableLight@0.01
 Proc::Queue                         1.23  pkg:cpan/Proc-Queue@1.23
 Proc::Reliable                      1.16  pkg:cpan/Proc-Reliable@1.16
@@ -232424,11 +232424,11 @@ Test::Mockify::Sut                 undef  pkg:cpan/Test-Mockify@2.4
 Test::Mockify::Tools               undef  pkg:cpan/Test-Mockify@2.4
 Test::Mockify::TypeTests           undef  pkg:cpan/Test-Mockify@2.4
 Test::Mockify::Verify              undef  pkg:cpan/Test-Mockify@2.4
-Test::Mockingbird                   0.12  pkg:cpan/Test-Mockingbird@0.12
-Test::Mockingbird::Async            0.12  pkg:cpan/Test-Mockingbird@0.12
-Test::Mockingbird::DeepMock         0.12  pkg:cpan/Test-Mockingbird@0.12
-Test::Mockingbird::Guard            0.12  pkg:cpan/Test-Mockingbird@0.12
-Test::Mockingbird::TimeTravel       0.12  pkg:cpan/Test-Mockingbird@0.12
+Test::Mockingbird                   0.13  pkg:cpan/Test-Mockingbird@0.13
+Test::Mockingbird::Async            0.13  pkg:cpan/Test-Mockingbird@0.13
+Test::Mockingbird::DeepMock         0.13  pkg:cpan/Test-Mockingbird@0.13
+Test::Mockingbird::Guard            0.13  pkg:cpan/Test-Mockingbird@0.13
+Test::Mockingbird::TimeTravel       0.13  pkg:cpan/Test-Mockingbird@0.13
 Test::Modern                       0.013  pkg:cpan/Test-Modern@0.013
 Test::Module                       undef  pkg:cpan/Devel-Trepan@0.73
 Test::Module::Basic                undef  pkg:cpan/Test-Subunits@0.000003
