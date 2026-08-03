@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 03 Aug 2026 02:07:30 GMT
-Line-Count: 267535
+Last-Updated: Mon, 03 Aug 2026 06:53:50 GMT
+Line-Count: 267545
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -22238,13 +22238,13 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         0.029000  pkg:cpan/BarefootJS@0.29.0
-BarefootJS::Backend::Mojo          v0.30.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.30.0
-BarefootJS::Backend::Xslate        v0.30.0  pkg:cpan/BarefootJS-Backend-Xslate@0.30.0
-BarefootJS::Date                   0.029000  pkg:cpan/BarefootJS@0.29.0
-BarefootJS::DevReload              0.029000  pkg:cpan/BarefootJS@0.29.0
-BarefootJS::Evaluator              0.014000  pkg:cpan/BarefootJS@0.29.0
-BarefootJS::SearchParams           0.014000  pkg:cpan/BarefootJS@0.29.0
+BarefootJS                         v0.30.2  pkg:cpan/BarefootJS@0.30.2
+BarefootJS::Backend::Mojo          v0.30.2  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.30.2
+BarefootJS::Backend::Xslate        v0.30.2  pkg:cpan/BarefootJS-Backend-Xslate@0.30.2
+BarefootJS::Date                   v0.30.2  pkg:cpan/BarefootJS@0.30.2
+BarefootJS::DevReload              v0.30.2  pkg:cpan/BarefootJS@0.30.2
+BarefootJS::Evaluator              v0.30.2  pkg:cpan/BarefootJS@0.30.2
+BarefootJS::SearchParams           v0.30.2  pkg:cpan/BarefootJS@0.30.2
 BarefootJS::_TZProbe               0.029000  pkg:cpan/BarefootJS@0.29.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
@@ -50817,6 +50817,8 @@ DB::Berkeley::Iterator              0.03  pkg:cpan/DB-Berkeley@0.03
 DB::Color                           0.10  pkg:cpan/DB-Color@0.20
 DB::Color::Config                   0.10  pkg:cpan/DB-Color@0.20
 DB::Color::Highlight                0.10  pkg:cpan/DB-Color@0.20
+DB::Commands                       undef  pkg:cpan/DB-Hooks@0.0201
+DB::Compilation                    undef  pkg:cpan/DB-Hooks@0.0201
 DB::CouchDB                          0.2  pkg:cpan/DB-CouchDB-Schema@0.3.04_remove_blib
 DB::CouchDB::Iter                    0.2  pkg:cpan/DB-CouchDB-Schema@0.3.04_remove_blib
 DB::CouchDB::Result                  0.2  pkg:cpan/DB-CouchDB-Schema@0.3.04_remove_blib
@@ -50824,11 +50826,18 @@ DB::CouchDB::Schema                0.003004  pkg:cpan/DB-CouchDB-Schema@0.3.04_r
 DB::CouchDB::Schema::Edit          undef  pkg:cpan/DB-CouchDB-Schema@0.3.04_remove_blib
 DB::Ent                             1.63  pkg:cpan/DB-Ent@1.63
 DB::Ent::DBI                        1.63  pkg:cpan/DB-Ent@1.63
-DB::Error                          undef  pkg:cpan/Devel-DebugHooks@0.07
+DB::Error                          undef  pkg:cpan/DB-Hooks@0.0201
 DB::Evented                         0.06  pkg:cpan/DB-Evented@0.06
 DB::Handy                           1.09  pkg:cpan/DB-Handy@1.09
 DB::Handy::Connection               1.09  pkg:cpan/DB-Handy@1.09
 DB::Handy::Statement                1.09  pkg:cpan/DB-Handy@1.09
+DB::Hooks                          0.0201  pkg:cpan/DB-Hooks@0.0201
+DB::Hooks::HistoryTerminal         undef  pkg:cpan/DB-Hooks@0.0201
+DB::Hooks::Remote                  undef  pkg:cpan/DB-Hooks@0.0201
+DB::Hooks::Terminal                undef  pkg:cpan/DB-Hooks@0.0201
+DB::Hooks::TraceLoad               undef  pkg:cpan/DB-Hooks@0.0201
+DB::Hooks::TraceSubs               undef  pkg:cpan/DB-Hooks@0.0201
+DB::Hooks::TraceVariable           undef  pkg:cpan/DB-Hooks@0.0201
 DB::Introspector                    0.08  pkg:cpan/DB-Introspector@0.08?ext=tgz
 DB::Introspector::Base::BooleanColumn undef  pkg:cpan/DB-Introspector@0.08?ext=tgz
 DB::Introspector::Base::CLOBColumn undef  pkg:cpan/DB-Introspector@0.08?ext=tgz
@@ -50940,6 +50949,7 @@ DB::Tutorial::DBIx::Class::PT::BR::Result::Amigo undef  pkg:cpan/Tutorial-DBIx-C
 DB::Tutorial::DBIx::Class::PT::BR::Result::Filho undef  pkg:cpan/Tutorial-DBIx-Class-Perl-ORM-Conexao-Com-Banco-de-Dados-PT@0.01
 DB::Tutorial::DBIx::Class::PT::BR::Result::Namorada undef  pkg:cpan/Tutorial-DBIx-Class-Perl-ORM-Conexao-Com-Banco-de-Dados-PT@0.01
 DB::Tutorial::DBIx::Class::PT::BR::Result::Pai undef  pkg:cpan/Tutorial-DBIx-Class-Perl-ORM-Conexao-Com-Banco-de-Dados-PT@0.01
+DB::Utils                          undef  pkg:cpan/DB-Hooks@0.0201
 DB::fake                            0.59  pkg:cpan/Devel-ebug@0.59
 DBBreak                                0  pkg:cpan/Devel-Trepan@0.58
 DBD                                  1.0  pkg:cpan/HDB@1.05
@@ -53744,20 +53754,20 @@ DBIx::QueryLog                      0.42  pkg:cpan/DBIx-QueryLog@0.42
 DBIx::Quick                          0.9  pkg:cpan/DBIx-Quick@0.9
 DBIx::Quick::Converter             undef  pkg:cpan/DBIx-Quick@0.9
 DBIx::Quick::Role                  undef  pkg:cpan/DBIx-Quick@0.9
-DBIx::QuickDB                      0.000060  pkg:cpan/DBIx-QuickDB@0.000060
-DBIx::QuickDB::Driver              0.000060  pkg:cpan/DBIx-QuickDB@0.000060
-DBIx::QuickDB::Driver::DuckDB      0.000060  pkg:cpan/DBIx-QuickDB@0.000060
-DBIx::QuickDB::Driver::MariaDB     0.000060  pkg:cpan/DBIx-QuickDB@0.000060
-DBIx::QuickDB::Driver::MySQL       0.000060  pkg:cpan/DBIx-QuickDB@0.000060
+DBIx::QuickDB                      0.000061  pkg:cpan/DBIx-QuickDB@0.000061
+DBIx::QuickDB::Driver              0.000061  pkg:cpan/DBIx-QuickDB@0.000061
+DBIx::QuickDB::Driver::DuckDB      0.000061  pkg:cpan/DBIx-QuickDB@0.000061
+DBIx::QuickDB::Driver::MariaDB     0.000061  pkg:cpan/DBIx-QuickDB@0.000061
+DBIx::QuickDB::Driver::MySQL       0.000061  pkg:cpan/DBIx-QuickDB@0.000061
 DBIx::QuickDB::Driver::MySQL::Base 0.000035  pkg:cpan/DBIx-QuickDB@0.000035
-DBIx::QuickDB::Driver::MySQLCom    0.000060  pkg:cpan/DBIx-QuickDB@0.000060
-DBIx::QuickDB::Driver::Percona     0.000060  pkg:cpan/DBIx-QuickDB@0.000060
-DBIx::QuickDB::Driver::PostgreSQL  0.000060  pkg:cpan/DBIx-QuickDB@0.000060
-DBIx::QuickDB::Driver::SQLite      0.000060  pkg:cpan/DBIx-QuickDB@0.000060
-DBIx::QuickDB::Pool                0.000060  pkg:cpan/DBIx-QuickDB@0.000060
-DBIx::QuickDB::Util                0.000060  pkg:cpan/DBIx-QuickDB@0.000060
-DBIx::QuickDB::Util::HashBase      0.000060  pkg:cpan/DBIx-QuickDB@0.000060
-DBIx::QuickDB::Watcher             0.000060  pkg:cpan/DBIx-QuickDB@0.000060
+DBIx::QuickDB::Driver::MySQLCom    0.000061  pkg:cpan/DBIx-QuickDB@0.000061
+DBIx::QuickDB::Driver::Percona     0.000061  pkg:cpan/DBIx-QuickDB@0.000061
+DBIx::QuickDB::Driver::PostgreSQL  0.000061  pkg:cpan/DBIx-QuickDB@0.000061
+DBIx::QuickDB::Driver::SQLite      0.000061  pkg:cpan/DBIx-QuickDB@0.000061
+DBIx::QuickDB::Pool                0.000061  pkg:cpan/DBIx-QuickDB@0.000061
+DBIx::QuickDB::Util                0.000061  pkg:cpan/DBIx-QuickDB@0.000061
+DBIx::QuickDB::Util::HashBase      0.000061  pkg:cpan/DBIx-QuickDB@0.000061
+DBIx::QuickDB::Watcher             0.000061  pkg:cpan/DBIx-QuickDB@0.000061
 DBIx::QuickORM                     0.000028  pkg:cpan/DBIx-QuickORM@0.000028
 DBIx::QuickORM::Affinity           0.000028  pkg:cpan/DBIx-QuickORM@0.000028
 DBIx::QuickORM::BuilderState       0.000004  pkg:cpan/DBIx-QuickORM@0.000004
@@ -111550,8 +111560,8 @@ Hash::RestrictedKeys::Tie          undef  pkg:cpan/Hash-RestrictedKeys@1.01
 Hash::SafeKeys                      0.04  pkg:cpan/Hash-SafeKeys@0.04
 Hash::Sanitize                      0.04  pkg:cpan/Hash-Sanitize@0.04
 Hash::Search                        0.03  pkg:cpan/Hash-Search@0.03
-Hash::SharedMem                    0.005  pkg:cpan/Hash-SharedMem@0.005
-Hash::SharedMem::Handle            0.005  pkg:cpan/Hash-SharedMem@0.005
+Hash::SharedMem                    0.006  pkg:cpan/Hash-SharedMem@0.006
+Hash::SharedMem::Handle            0.006  pkg:cpan/Hash-SharedMem@0.006
 Hash::Slice                         0.03  pkg:cpan/Hash-Slice@0.03
 Hash::Spy                           0.01  pkg:cpan/Hash-Spy@0.01
 Hash::Squash                       v0.0.4  pkg:cpan/Hash-Squash@v0.0.4
@@ -128993,7 +129003,7 @@ Logfile::Tail::Switch              0.004  pkg:cpan/Logfile-Tail-Switch@0.004
 Logfile::Wftp                      undef  pkg:cpan/Logfile@0.300
 Logfile::Wn                        undef  pkg:cpan/Logfile@0.300
 Logfile::WnErr                     undef  pkg:cpan/Logfile@0.300
-Logger                             undef  pkg:cpan/Devel-DebugHooks@0.07
+Logger                             undef  pkg:cpan/DB-Hooks@0.0201
 Logger::Fq                         0.002012  pkg:cpan/Logger-Fq@0.2.12
 Logger::Simple                       2.0  pkg:cpan/Logger-Simple@2.0
 Logger::Spread                       1.0  pkg:cpan/Apache-Log-Spread@1.0.3
@@ -140872,8 +140882,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    v0.30.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.30.0
-Mojolicious::Plugin::BarefootJS::DevReload v0.30.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.30.0
+Mojolicious::Plugin::BarefootJS    v0.30.2  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.30.2
+Mojolicious::Plugin::BarefootJS::DevReload v0.30.2  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.30.2
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -162320,10 +162330,10 @@ POE::Component::Server::Inet        0.06  pkg:cpan/POE-Component-Server-Inet@0.0
 POE::Component::Server::JSONRPC     0.06  pkg:cpan/POE-Component-Server-JSONRPC@0.06
 POE::Component::Server::JSONRPC::Http  0.06  pkg:cpan/POE-Component-Server-JSONRPC@0.06
 POE::Component::Server::JSONRPC::Tcp  0.06  pkg:cpan/POE-Component-Server-JSONRPC@0.06
-POE::Component::Server::JSONUnix   0.001000  pkg:cpan/POE-Component-Server-JSONUnix@0.1.0
-POE::Component::Server::JSONUnix::BlockingClient 0.001000  pkg:cpan/POE-Component-Server-JSONUnix@0.1.0
-POE::Component::Server::JSONUnix::Client 0.001000  pkg:cpan/POE-Component-Server-JSONUnix@0.1.0
-POE::Component::Server::JSONUnix::Context 0.001000  pkg:cpan/POE-Component-Server-JSONUnix@0.1.0
+POE::Component::Server::JSONUnix   0.002000  pkg:cpan/POE-Component-Server-JSONUnix@0.2.0
+POE::Component::Server::JSONUnix::BlockingClient 0.002000  pkg:cpan/POE-Component-Server-JSONUnix@0.2.0
+POE::Component::Server::JSONUnix::Client 0.002000  pkg:cpan/POE-Component-Server-JSONUnix@0.2.0
+POE::Component::Server::JSONUnix::Context 0.002000  pkg:cpan/POE-Component-Server-JSONUnix@0.2.0
 POE::Component::Server::MySQL       0.02  pkg:cpan/POE-Component-Server-MySQL@0.02
 POE::Component::Server::NNTP        1.06  pkg:cpan/POE-Component-Server-NNTP@1.06
 POE::Component::Server::NNTP::Constants  1.06  pkg:cpan/POE-Component-Server-NNTP@1.06
@@ -214883,7 +214893,7 @@ Scalar::Util::Numeric::PP           0.04  pkg:cpan/Scalar-Util-Numeric-PP@0.04
 Scalar::Util::Reftype               0.46  pkg:cpan/Scalar-Util-Reftype@0.46
 Scalar::Validation                 0.700  pkg:cpan/Scalar-Validation@0.700
 Scalar::ValueTags                  0.004  pkg:cpan/Scalar-ValueTags@0.004
-Scalar::ValueTags::LineageTracking 0.002  pkg:cpan/Scalar-ValueTags-LineageTracking@0.002
+Scalar::ValueTags::LineageTracking 0.004  pkg:cpan/Scalar-ValueTags-LineageTracking@0.004
 Scalar::Vec::Util                   0.08  pkg:cpan/Scalar-Vec-Util@0.08
 Scalar::Watcher                    0.002001  pkg:cpan/Scalar-Watcher@0.002001
 ScalarTypes::NumericTypes           0.11  pkg:cpan/ScalarTypes-NumericTypes@0.11
@@ -224736,9 +224746,9 @@ Stats::Fermi::FermiDiracStats      undef  pkg:cpan/Stats-Fermi@0.1.7
 Stats::Hawking                     0.001003  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HTRandom           undef  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HawkingTemperature undef  pkg:cpan/Stats-Hawking@0.1.3
-Stats::LikeR                        0.27  pkg:cpan/Stats-LikeR@0.27
+Stats::LikeR                        0.28  pkg:cpan/Stats-LikeR@0.28
 Stats::LikeR::Pred                  0.16  pkg:cpan/Stats-LikeR@0.16
-Stats::LikeR::col                   0.27  pkg:cpan/Stats-LikeR@0.27
+Stats::LikeR::col                   0.28  pkg:cpan/Stats-LikeR@0.28
 StatsView::Graph                    1.15  pkg:cpan/StatsView@1.4
 StatsView::Graph::Iost             undef  pkg:cpan/StatsView@1.4
 StatsView::Graph::Iostat           undef  pkg:cpan/StatsView@1.4
@@ -227852,7 +227862,7 @@ Table::BoxFormat::Unicode::CharClasses  0.01  pkg:cpan/Table-BoxFormat@0.01
 Table::Hack                         0.12  pkg:cpan/Table-Hack@0.12
 Table::ParentChild                  0.05  pkg:cpan/Table-ParentChild@0.05
 Table::ParentChild::Head            0.01  pkg:cpan/Table-ParentChild@0.05
-Table::Readable                     0.05  pkg:cpan/Table-Readable@0.05
+Table::Readable                     0.06  pkg:cpan/Table-Readable@0.06
 Table::Simple                       0.03  pkg:cpan/Table-Simple@0.03
 Table::Simple::Column              undef  pkg:cpan/Table-Simple@0.03
 Table::Simple::Output              undef  pkg:cpan/Table-Simple@0.03
@@ -230960,7 +230970,7 @@ Test2::Tools::Process::Exit         0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::Proc         0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::System       0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::SystemProc   0.07  pkg:cpan/Test2-Tools-Process@0.07
-Test2::Tools::QuickDB              0.000060  pkg:cpan/DBIx-QuickDB@0.000060
+Test2::Tools::QuickDB              0.000061  pkg:cpan/DBIx-QuickDB@0.000061
 Test2::Tools::Ref                  1.302222  pkg:cpan/Test-Simple@1.302222
 Test2::Tools::Refcount             1.302222  pkg:cpan/Test-Simple@1.302222
 Test2::Tools::Rustfmt               0.05  pkg:cpan/Test2-Tools-Rustfmt@0.05
@@ -254090,7 +254100,7 @@ WebService::MIAB                    0.03  pkg:cpan/WebService-MIAB@0.03
 WebService::MODIS                    2.0  pkg:cpan/WebService-MODIS@2.0
 WebService::Mackerel                0.05  pkg:cpan/WebService-Mackerel@0.05
 WebService::MailJet                0.0003  pkg:cpan/WebService-MailJet@0.003
-WebService::Mailgun                 0.16  pkg:cpan/WebService-Mailgun@0.16
+WebService::Mailgun                 0.17  pkg:cpan/WebService-Mailgun@0.17
 WebService::Mandrill                 0.8  pkg:cpan/WebService-Mandrill@0.8
 WebService::Mappoint                 0.3  pkg:cpan/WebService-Mappoint@0.30
 WebService::Mappoint::Common         0.3  pkg:cpan/WebService-Mappoint@0.30
