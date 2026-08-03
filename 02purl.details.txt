@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 02 Aug 2026 22:48:18 GMT
+Last-Updated: Mon, 03 Aug 2026 02:07:30 GMT
 Line-Count: 267535
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -10894,7 +10894,7 @@ App::JobLog::Vacation              1.042  pkg:cpan/App-JobLog@1.042
 App::JobLog::Vacation::Period      1.042  pkg:cpan/App-JobLog@1.042
 App::JsonLogUtils                   0.03  pkg:cpan/App-JsonLogUtils@0.03
 App::KBLIUtils                     0.003  pkg:cpan/App-KBLIUtils@0.003
-App::KDEActivityUtils              0.004  pkg:cpan/App-KDEActivityUtils@0.004
+App::KDEActivityUtils              0.006  pkg:cpan/App-KDEActivityUtils@0.006
 App::KGB                            1.62  pkg:cpan/App-KGB@1.62
 App::KGB::API                          4  pkg:cpan/App-KGB@1.62
 App::KGB::Change                    1.22  pkg:cpan/App-KGB@1.62
@@ -15166,7 +15166,7 @@ App::XTermUtils                    0.007  pkg:cpan/App-XTermUtils@0.007
 App::XUL                            0.07  pkg:cpan/App-XUL@0.07
 App::XUL::Object                   undef  pkg:cpan/App-XUL@0.07
 App::XUL::XML                      undef  pkg:cpan/App-XUL@0.07
-App::XWindowManagerUtils           0.003  pkg:cpan/App-XWindowManagerUtils@0.003
+App::XWindowManagerUtils           0.004  pkg:cpan/App-XWindowManagerUtils@0.004
 App::Xml_grep2                     undef  pkg:cpan/App-xml_grep2@0.14
 App::Xssh                          v1.1.0  pkg:cpan/App-Xssh@v1.1.0
 App::Xssh::Config                  v1.1.0  pkg:cpan/App-Xssh@v1.1.0
@@ -21980,7 +21980,7 @@ Backblaze::B2::v1::File             0.02  pkg:cpan/Backblaze-B2@0.02
 Backblaze::B2::v1::File::Synchronized  0.02  pkg:cpan/Backblaze-B2@0.02
 Backblaze::B2::v1::Synchronous      0.02  pkg:cpan/Backblaze-B2@0.02
 Backblaze::B2V2Client                1.7  pkg:cpan/Backblaze-B2V2Client@1.7
-Backblaze::B2V4                     0.04  pkg:cpan/Backblaze-B2V4@0.04
+Backblaze::B2V4                     0.05  pkg:cpan/Backblaze-B2V4@0.05
 Backbone::Events                   0.000003  pkg:cpan/Backbone-Events@0.0.3
 Backed_Objects                      1.16  pkg:cpan/Backed_Objects@1.16
 Backtick::AutoChomp                 0.02  pkg:cpan/Backtick-AutoChomp@0.02
@@ -31690,7 +31690,7 @@ CEDict::Pinyin                     0.02004  pkg:cpan/CEDict-Pinyin@0.02004
 CEFACT::Unit                        0.02  pkg:cpan/CEFACT-Unit@0.02
 CFG                                0.000001  pkg:cpan/App-SeismicUnixGui@0.87.6
 CGI                                 4.72  pkg:cpan/CGI@4.72
-CGI::ACL                            0.08  pkg:cpan/CGI-ACL@0.08
+CGI::ACL                            0.09  pkg:cpan/CGI-ACL@0.09
 CGI::AIS::Session                   0.02  pkg:cpan/CGI-AIS-Session@0.02
 CGI::Ajax                          0.707  pkg:cpan/CGI-Ajax@0.707
 CGI::Alert                          2.09  pkg:cpan/CGI-Alert@2.09
@@ -61568,7 +61568,7 @@ Data::TestImage                    0.007  pkg:cpan/Data-TestImage@0.007
 Data::TestImage::DB                0.007  pkg:cpan/Data-TestImage@0.007
 Data::TestImage::DB::Other         0.007  pkg:cpan/Data-TestImage@0.007
 Data::TestImage::DB::USC::SIPI     0.007  pkg:cpan/Data-TestImage@0.007
-Data::Text                          0.19  pkg:cpan/Data-Text@0.19
+Data::Text                          0.20  pkg:cpan/Data-Text@0.20
 Data::Text::Simple                  0.03  pkg:cpan/Data-Text-Simple@0.03
 Data::Throttler                     0.09  pkg:cpan/Data-Throttler@0.09
 Data::Throttler::Backend::Base      0.09  pkg:cpan/Data-Throttler@0.09
@@ -64604,12 +64604,12 @@ Desktop::KDEActivity::Util         0.003  pkg:cpan/Desktop-KDEActivity-Util@0.00
 Desktop::Notify                     0.05  pkg:cpan/Desktop-Notify@0.05
 Desktop::Notify::Notification       0.03  pkg:cpan/Desktop-Notify@0.05
 Desktop::Open                      0.004  pkg:cpan/Desktop-Open@0.004
-Desktop::Workspace::Util           0.002  pkg:cpan/Desktop-Workspace-Util@0.002
-DesktopWorkspace                   v1.0.0  pkg:cpan/DesktopWorkspace@1.0.0
+Desktop::Workspace::Util           0.003  pkg:cpan/Desktop-Workspace-Util@0.003
+DesktopWorkspace                   v1.0.1  pkg:cpan/DesktopWorkspace@1.0.1
 DesktopWorkspace::Sample::Source::DefHash 0.001  pkg:cpan/DesktopWorkspaceRoles-Standard@0.001
-DesktopWorkspace::Test::Spec::Basic v1.0.0  pkg:cpan/DesktopWorkspace@1.0.0
+DesktopWorkspace::Test::Spec::Basic v1.0.1  pkg:cpan/DesktopWorkspace@1.0.1
 DesktopWorkspaceRole::Source::DefHash 0.001  pkg:cpan/DesktopWorkspaceRoles-Standard@0.001
-DesktopWorkspaceRole::Spec::Basic  v1.0.0  pkg:cpan/DesktopWorkspace@1.0.0
+DesktopWorkspaceRole::Spec::Basic  v1.0.1  pkg:cpan/DesktopWorkspace@1.0.1
 DesktopWorkspaceRoles::Standard    0.001  pkg:cpan/DesktopWorkspaceRoles-Standard@0.001
 DestructAssign                     0.002007  pkg:cpan/DestructAssign@0.002007
 Destructure::Declare                0.02  pkg:cpan/Destructure-Declare@0.02
@@ -105148,7 +105148,7 @@ Google::Fusion                      0.10  pkg:cpan/Google-Fusion@0.10
 Google::Fusion::Result              0.03  pkg:cpan/Google-Fusion@0.10
 Google::GPRC                       undef  pkg:cpan/Google-OAuth@0.05
 Google::GeoCoder::Smart            v2.6.8  pkg:cpan/Google-GeoCoder-Smart@v2.6.8
-Google::ISBNNumbers                 1.01  pkg:cpan/Google-ISBNNumbers@1.01
+Google::ISBNNumbers                 1.02  pkg:cpan/Google-ISBNNumbers@1.02
 Google::Iam::V1::IamPolicy          0.11  pkg:cpan/Google-Cloud-Iam-V1@0.03
 Google::Iam::V1::IamPolicy::IamPolicyClient  0.11  pkg:cpan/Google-Cloud-Iam-V1@0.03
 Google::Iam::V1::IamPolicy::Types  undef  pkg:cpan/Google-Cloud-Iam-V1@0.03
