@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 03 Aug 2026 20:56:37 GMT
-Line-Count: 267577
+Last-Updated: Mon, 03 Aug 2026 22:54:27 GMT
+Line-Count: 267579
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -20810,7 +20810,7 @@ Audio::SID                          4.01  pkg:cpan/Audio-SID@4.01
 Audio::SPX                          0.02  pkg:cpan/Speech-Recognizer-SPX@0.09
 Audio::Scan                         1.13  pkg:cpan/Audio-Scan@1.13
 Audio::Scrobbler                    0.01  pkg:cpan/Audio-Scrobbler@0.01
-Audio::Scrobbler2                   0.05  pkg:cpan/Audio-Scrobbler2@0.05
+Audio::Scrobbler2                   1.00  pkg:cpan/Audio-Scrobbler2@1.00
 Audio::SndFile                      0.09  pkg:cpan/Audio-SndFile@0.09
 Audio::SndFile::Constants          undef  pkg:cpan/Audio-SndFile@0.09
 Audio::SndFile::Info                0.09  pkg:cpan/Audio-SndFile@0.09
@@ -59030,7 +59030,7 @@ Data::IPV4::Range::Parse            1.05  pkg:cpan/Data-IPV4-Range-Parse@1.05
 Data::ISO8583                       2.44  pkg:cpan/Data-ISO8583@2.44
 Data::ISO8583::VISA                 2.44  pkg:cpan/Data-ISO8583@2.44
 Data::Icon                          0.02  pkg:cpan/Data-Icon@0.02
-Data::IconText                     v0.6.0  pkg:cpan/Data-IconText@v0.06
+Data::IconText                     v0.7.0  pkg:cpan/Data-IconText@v0.07
 Data::Identifier                   v0.33.0  pkg:cpan/Data-Identifier@v0.33
 Data::Identifier::Cloudlet         v0.33.0  pkg:cpan/Data-Identifier@v0.33
 Data::Identifier::Generate         v0.33.0  pkg:cpan/Data-Identifier@v0.33
@@ -117068,7 +117068,7 @@ JSON::Schema::Helper               0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Modern               0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Modern::Annotation   0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Modern::Document     0.642  pkg:cpan/JSON-Schema-Modern@0.642
-JSON::Schema::Modern::Document::OpenAPI 0.144  pkg:cpan/OpenAPI-Modern@0.144
+JSON::Schema::Modern::Document::OpenAPI 0.145  pkg:cpan/OpenAPI-Modern@0.145
 JSON::Schema::Modern::Error        0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Modern::Result       0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Modern::ResultNode   0.642  pkg:cpan/JSON-Schema-Modern@0.642
@@ -117080,8 +117080,8 @@ JSON::Schema::Modern::Vocabulary::Core 0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Modern::Vocabulary::FormatAssertion 0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Modern::Vocabulary::MetaData 0.642  pkg:cpan/JSON-Schema-Modern@0.642
-JSON::Schema::Modern::Vocabulary::OpenAPI 0.144  pkg:cpan/OpenAPI-Modern@0.144
-JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.144  pkg:cpan/OpenAPI-Modern@0.144
+JSON::Schema::Modern::Vocabulary::OpenAPI 0.145  pkg:cpan/OpenAPI-Modern@0.145
+JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.145  pkg:cpan/OpenAPI-Modern@0.145
 JSON::Schema::Modern::Vocabulary::Unevaluated 0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Modern::Vocabulary::Validation 0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Null                 0.016  pkg:cpan/JSON-Schema@0.016
@@ -124781,12 +124781,14 @@ Lingua::Zompist::Cadhinor           0.92  pkg:cpan/Lingua-Zompist-Cadhinor@0.92
 Lingua::Zompist::Cuezi              0.01  pkg:cpan/Lingua-Zompist-Cuezi@0.01
 Lingua::Zompist::Kebreni            0.90  pkg:cpan/Lingua-Zompist-Kebreni@0.90
 Lingua::Zompist::Verdurian          0.91  pkg:cpan/Lingua-Zompist-Verdurian@0.91
-Lingua::famibeib                   v0.3.0  pkg:cpan/Lingua-famibeib@v0.03
-Lingua::famibeib::Fragment         v0.3.0  pkg:cpan/Lingua-famibeib@v0.03
-Lingua::famibeib::Modifier         v0.3.0  pkg:cpan/Lingua-famibeib@v0.03
-Lingua::famibeib::Sentence         v0.3.0  pkg:cpan/Lingua-famibeib@v0.03
-Lingua::famibeib::Text             v0.3.0  pkg:cpan/Lingua-famibeib@v0.03
-Lingua::famibeib::Word             v0.3.0  pkg:cpan/Lingua-famibeib@v0.03
+Lingua::famibeib                   v0.4.0  pkg:cpan/Lingua-famibeib@v0.04
+Lingua::famibeib::Fragment         v0.4.0  pkg:cpan/Lingua-famibeib@v0.04
+Lingua::famibeib::Modifier         v0.4.0  pkg:cpan/Lingua-famibeib@v0.04
+Lingua::famibeib::NameGenerator    v0.4.0  pkg:cpan/Lingua-famibeib@v0.04
+Lingua::famibeib::Sentence         v0.4.0  pkg:cpan/Lingua-famibeib@v0.04
+Lingua::famibeib::Text             v0.4.0  pkg:cpan/Lingua-famibeib@v0.04
+Lingua::famibeib::Wellknown        v0.4.0  pkg:cpan/Lingua-famibeib@v0.04
+Lingua::famibeib::Word             v0.4.0  pkg:cpan/Lingua-famibeib@v0.04
 Lingua::pt_BR::Nums2Words           0.02  pkg:cpan/Lingua-pt_BR-Nums2Words@0.02
 Lingua::tlhInganHol::yIghun        20090601  pkg:cpan/Lingua-tlhInganHol-yIghun@20090601
 Lingy                              0.001019  pkg:cpan/Lingy@0.1.19
@@ -133174,21 +133176,21 @@ Marlin::X::UndefTolerant           0.020000  pkg:cpan/Marlin-X-UndefTolerant@0.0
 Marlin::XAttribute::Alias          0.016000  pkg:cpan/Marlin@0.016000
 Marlin::XAttribute::LocalWriter    0.020001  pkg:cpan/Marlin-XAttribute-LocalWriter@0.020001
 Marlin::XAttribute::Lvalue         0.020000  pkg:cpan/Marlin-XAttribute-Lvalue@0.020000
-Marpa::R2                          12.000000  pkg:cpan/Marpa-R2@12.000000
-Marpa::R2::ASF                     12.000000  pkg:cpan/Marpa-R2@12.000000
-Marpa::R2::Grammar                 12.000000  pkg:cpan/Marpa-R2@12.000000
-Marpa::R2::HTML                    12.000000  pkg:cpan/Marpa-R2@12.000000
-Marpa::R2::HTML::Callback          12.000000  pkg:cpan/Marpa-R2@12.000000
-Marpa::R2::HTML::Config            12.000000  pkg:cpan/Marpa-R2@12.000000
-Marpa::R2::HTML::Config::Compile   12.000000  pkg:cpan/Marpa-R2@12.000000
-Marpa::R2::MetaAST                 12.000000  pkg:cpan/Marpa-R2@12.000000
-Marpa::R2::MetaG                   12.000000  pkg:cpan/Marpa-R2@12.000000
-Marpa::R2::Recognizer              12.000000  pkg:cpan/Marpa-R2@12.000000
-Marpa::R2::Scanless::G             12.000000  pkg:cpan/Marpa-R2@12.000000
-Marpa::R2::Scanless::R             12.000000  pkg:cpan/Marpa-R2@12.000000
-Marpa::R2::Stuifzand               12.000000  pkg:cpan/Marpa-R2@12.000000
-Marpa::R2::Thin::Trace             12.000000  pkg:cpan/Marpa-R2@12.000000
-Marpa::R2::Value                   12.000000  pkg:cpan/Marpa-R2@12.000000
+Marpa::R2                          14.000000  pkg:cpan/Marpa-R2@14.000000
+Marpa::R2::ASF                     14.000000  pkg:cpan/Marpa-R2@14.000000
+Marpa::R2::Grammar                 14.000000  pkg:cpan/Marpa-R2@14.000000
+Marpa::R2::HTML                    14.000000  pkg:cpan/Marpa-R2@14.000000
+Marpa::R2::HTML::Callback          14.000000  pkg:cpan/Marpa-R2@14.000000
+Marpa::R2::HTML::Config            14.000000  pkg:cpan/Marpa-R2@14.000000
+Marpa::R2::HTML::Config::Compile   14.000000  pkg:cpan/Marpa-R2@14.000000
+Marpa::R2::MetaAST                 14.000000  pkg:cpan/Marpa-R2@14.000000
+Marpa::R2::MetaG                   14.000000  pkg:cpan/Marpa-R2@14.000000
+Marpa::R2::Recognizer              14.000000  pkg:cpan/Marpa-R2@14.000000
+Marpa::R2::Scanless::G             14.000000  pkg:cpan/Marpa-R2@14.000000
+Marpa::R2::Scanless::R             14.000000  pkg:cpan/Marpa-R2@14.000000
+Marpa::R2::Stuifzand               14.000000  pkg:cpan/Marpa-R2@14.000000
+Marpa::R2::Thin::Trace             14.000000  pkg:cpan/Marpa-R2@14.000000
+Marpa::R2::Value                   14.000000  pkg:cpan/Marpa-R2@14.000000
 MarpaX::Database::Terminfo         0.012  pkg:cpan/MarpaX-Database-Terminfo@0.012
 MarpaX::Database::Terminfo::Constants 0.012  pkg:cpan/MarpaX-Database-Terminfo@0.012
 MarpaX::Database::Terminfo::Grammar 0.012  pkg:cpan/MarpaX-Database-Terminfo@0.012
@@ -158306,8 +158308,8 @@ OpenAPI::Generator::From::Pod      undef  pkg:cpan/OpenAPI-Generator@0.06
 OpenAPI::Generator::Util           undef  pkg:cpan/OpenAPI-Generator@0.06
 OpenAPI::Linter                     0.19  pkg:cpan/OpenAPI-Linter@0.19
 OpenAPI::Linter::Location           0.19  pkg:cpan/OpenAPI-Linter@0.19
-OpenAPI::Modern                    0.144  pkg:cpan/OpenAPI-Modern@0.144
-OpenAPI::Modern::Utilities         0.144  pkg:cpan/OpenAPI-Modern@0.144
+OpenAPI::Modern                    0.145  pkg:cpan/OpenAPI-Modern@0.145
+OpenAPI::Modern::Utilities         0.145  pkg:cpan/OpenAPI-Modern@0.145
 OpenAPI::PerlGenerator              0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
 OpenAPI::PerlGenerator::Template    0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
 OpenAPI::PerlGenerator::Template::Mojo  0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
