@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 03 Aug 2026 11:14:47 GMT
-Line-Count: 267545
+Last-Updated: Mon, 03 Aug 2026 14:22:59 GMT
+Line-Count: 267553
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5292,7 +5292,7 @@ Amazon::SQS::Simple::Message       undef  pkg:cpan/Amazon-SQS-Simple@2.07
 Amazon::SQS::Simple::Queue         undef  pkg:cpan/Amazon-SQS-Simple@2.07
 Amazon::SQS::Simple::SendResponse  undef  pkg:cpan/Amazon-SQS-Simple@2.07
 Amazon::SendToKindle                 0.2  pkg:cpan/Amazon-SendToKindle@0.2
-Amazon::Signature4::Lite           v1.0.1  pkg:cpan/Amazon-Signature4-Lite@1.0.1
+Amazon::Signature4::Lite           v1.0.2  pkg:cpan/Amazon-Signature4-Lite@1.0.2
 Amazon::SimpleDB                    0.03  pkg:cpan/Amazon-SimpleDB@0.03
 Amazon::SimpleDB::Client            0.04  pkg:cpan/Coro-Amazon-SimpleDB@0.04
 Amazon::SimpleDB::Domain           undef  pkg:cpan/Amazon-SimpleDB@0.03
@@ -15430,13 +15430,13 @@ App::calx                          0.009  pkg:cpan/App-calx@0.009
 App::cat::v                         1.05  pkg:cpan/App-cat-v@1.05
 App::ccdiff                         0.35  pkg:cpan/App-ccdiff@0.35?ext=tgz
 App::cdbookmark                    0.001  pkg:cpan/App-cdbookmark@0.001
-App::cdif::Command                 undef  pkg:cpan/App-sdif@4.4701
-App::cdif::Command::Mecab          undef  pkg:cpan/App-sdif@4.4701
-App::cdif::Command::OSAscript      undef  pkg:cpan/App-sdif@4.4701
-App::cdif::Tmpfile                 undef  pkg:cpan/App-sdif@4.4701
-App::cdif::colors                  undef  pkg:cpan/App-sdif@4.4701
-App::cdif::debug                   undef  pkg:cpan/App-sdif@4.4701
-App::cdif::default                 undef  pkg:cpan/App-sdif@4.4701
+App::cdif::Command                 undef  pkg:cpan/App-sdif@4.48
+App::cdif::Command::Mecab          undef  pkg:cpan/App-sdif@4.48
+App::cdif::Command::OSAscript      undef  pkg:cpan/App-sdif@4.48
+App::cdif::Tmpfile                 undef  pkg:cpan/App-sdif@4.48
+App::cdif::colors                  undef  pkg:cpan/App-sdif@4.48
+App::cdif::debug                   undef  pkg:cpan/App-sdif@4.48
+App::cdif::default                 undef  pkg:cpan/App-sdif@4.48
 App::cdnget                         0.06  pkg:cpan/App-cdnget@0.06
 App::cdnget::Downloader             0.06  pkg:cpan/App-cdnget@0.06
 App::cdnget::Exception              0.03  pkg:cpan/App-cdnget@0.06
@@ -16619,16 +16619,16 @@ App::scanrdeps                      0.02  pkg:cpan/App-scanrdeps@0.02
 App::scrape                         0.08  pkg:cpan/App-scrape@0.08
 App::screenorama                    0.06  pkg:cpan/App-screenorama@0.06
 App::scriptdist                    1.006  pkg:cpan/App-scriptdist@1.006
-App::sdif                          4.4701  pkg:cpan/App-sdif@4.4701
+App::sdif                           4.48  pkg:cpan/App-sdif@4.48
 App::sdif::Divert                  undef  pkg:cpan/App-sdif@4.43
-App::sdif::LabelStack              undef  pkg:cpan/App-sdif@4.4701
-App::sdif::Util                    undef  pkg:cpan/App-sdif@4.4701
+App::sdif::LabelStack              undef  pkg:cpan/App-sdif@4.48
+App::sdif::Util                    undef  pkg:cpan/App-sdif@4.48
 App::sdif::autocolor               undef  pkg:cpan/App-sdif@4.13.7
 App::sdif::autocolor::Apple_Terminal undef  pkg:cpan/App-sdif@4.13.7
 App::sdif::autocolor::iTerm        undef  pkg:cpan/App-sdif@4.13.7
-App::sdif::colors                  undef  pkg:cpan/App-sdif@4.4701
-App::sdif::debug                   undef  pkg:cpan/App-sdif@4.4701
-App::sdif::default                 undef  pkg:cpan/App-sdif@4.4701
+App::sdif::colors                  undef  pkg:cpan/App-sdif@4.48
+App::sdif::debug                   undef  pkg:cpan/App-sdif@4.48
+App::sdif::default                 undef  pkg:cpan/App-sdif@4.48
 App::sdif::osx_autocolor           undef  pkg:cpan/App-sdif@4.3.0
 App::sdseasydyn                    0.001000  pkg:cpan/App-sdseasydyn@0.1.0
 App::sdview                         0.20  pkg:cpan/App-sdview@0.20
@@ -16771,7 +16771,8 @@ App::vcardtidy                     1.000002  pkg:cpan/App-vcardtidy@1.0.2
 App::venn                          0.121  pkg:cpan/App-venn@0.121
 App::vidir                         undef  pkg:cpan/App-vidir@0.052
 App::vl                             0.03  pkg:cpan/App-vl@0.03
-App::watchdiff                     undef  pkg:cpan/App-sdif@4.4701
+App::watchdiff                     undef  pkg:cpan/App-sdif@4.48
+App::watchdiff::Command            undef  pkg:cpan/App-sdif@4.48
 App::watchdo                       v0.1.1  pkg:cpan/App-watchdo@v0.1.1
 App::watcher                        0.13  pkg:cpan/App-watcher@0.13
 App::wcgrep                        0.002  pkg:cpan/App-wcgrep@0.002
@@ -20472,6 +20473,8 @@ Attribute::Contract::Utils         undef  pkg:cpan/Attribute-Contract@0.05
 Attribute::Curried                  0.02  pkg:cpan/Attribute-Curried@0.02
 Attribute::Default                  1.35  pkg:cpan/Attribute-Default@1.35
 Attribute::Deprecated               1.04  pkg:cpan/Attribute-Deprecated@1.04
+Attribute::Exporter                 0.02  pkg:cpan/Attribute-Exporter@0.02
+Attribute::Exporter::TieScalar      0.02  pkg:cpan/Attribute-Exporter@0.02
 Attribute::Final                     1.3  pkg:cpan/Attribute-Final@1.3
 Attribute::Generator                0.02  pkg:cpan/Attribute-Generator@0.02
 Attribute::Generator::State         0.02  pkg:cpan/Attribute-Generator@0.02
@@ -22238,13 +22241,13 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         v0.30.2  pkg:cpan/BarefootJS@0.30.2
-BarefootJS::Backend::Mojo          v0.30.2  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.30.2
-BarefootJS::Backend::Xslate        v0.30.2  pkg:cpan/BarefootJS-Backend-Xslate@0.30.2
-BarefootJS::Date                   v0.30.2  pkg:cpan/BarefootJS@0.30.2
-BarefootJS::DevReload              v0.30.2  pkg:cpan/BarefootJS@0.30.2
-BarefootJS::Evaluator              v0.30.2  pkg:cpan/BarefootJS@0.30.2
-BarefootJS::SearchParams           v0.30.2  pkg:cpan/BarefootJS@0.30.2
+BarefootJS                         v0.30.4  pkg:cpan/BarefootJS@0.30.4
+BarefootJS::Backend::Mojo          v0.30.4  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.30.4
+BarefootJS::Backend::Xslate        v0.30.4  pkg:cpan/BarefootJS-Backend-Xslate@0.30.4
+BarefootJS::Date                   v0.30.4  pkg:cpan/BarefootJS@0.30.4
+BarefootJS::DevReload              v0.30.4  pkg:cpan/BarefootJS@0.30.4
+BarefootJS::Evaluator              v0.30.4  pkg:cpan/BarefootJS@0.30.4
+BarefootJS::SearchParams           v0.30.4  pkg:cpan/BarefootJS@0.30.4
 BarefootJS::_TZProbe               0.029000  pkg:cpan/BarefootJS@0.29.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
@@ -33255,7 +33258,7 @@ CPAN::02Packages::Search           v1.0.0  pkg:cpan/CPAN-02Packages-Search@v1.0.
 CPAN::API::BuildPL                 0.002  pkg:cpan/CPAN-API-BuildPL@0.002
 CPAN::Admin                        5.501  pkg:cpan/CPAN@2.38
 CPAN::Audit                        20260622.001  pkg:cpan/CPAN-Audit@20260622.001
-CPAN::Audit::DB                    20260726.001  pkg:cpan/CPANSA-DB@20260726.001
+CPAN::Audit::DB                    20260803.002  pkg:cpan/CPANSA-DB@20260803.002
 CPAN::Audit::Discover              1.001  pkg:cpan/CPAN-Audit@20260622.001
 CPAN::Audit::Discover::Cpanfile    1.001  pkg:cpan/CPAN-Audit@20260622.001
 CPAN::Audit::Discover::CpanfileSnapshot 1.001  pkg:cpan/CPAN-Audit@20260622.001
@@ -34028,7 +34031,7 @@ CPANPLUS::YACSmoke::ReAssemble      1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::SortVers        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::locallib        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::inc                      undef  pkg:cpan/CPANPLUS@0.84
-CPANSA::DB                         20260726.001  pkg:cpan/CPANSA-DB@20260726.001
+CPANSA::DB                         20260803.002  pkg:cpan/CPANSA-DB@20260803.002
 CPANSEC::Admin                     0.001  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command            undef  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command::Amend     undef  pkg:cpan/CPANSec-Admin@0.001
@@ -65193,8 +65196,8 @@ Devel::Leak                         0.03  pkg:cpan/Devel-Leak@0.03
 Devel::Leak::Cb                     0.04  pkg:cpan/Devel-Leak-Cb@0.04
 Devel::Leak::Module                 0.02  pkg:cpan/Devel-Leak-Module@0.02
 Devel::Leak::Object                 1.02  pkg:cpan/Devel-Leak-Object@1.02
-Devel::LeakGuard::Object            0.08  pkg:cpan/Devel-LeakGuard-Object@0.08
-Devel::LeakGuard::Object::State     0.08  pkg:cpan/Devel-LeakGuard-Object@0.08
+Devel::LeakGuard::Object            0.09  pkg:cpan/Devel-LeakGuard-Object@0.09
+Devel::LeakGuard::Object::State     0.09  pkg:cpan/Devel-LeakGuard-Object@0.09
 Devel::LeakTrace                    0.06  pkg:cpan/Devel-LeakTrace@0.06
 Devel::LeakTrace::Fast              0.11  pkg:cpan/Devel-LeakTrace-Fast@0.11
 Devel::LexAlias                     0.05  pkg:cpan/Devel-LexAlias@0.05
@@ -140882,8 +140885,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    v0.30.2  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.30.2
-Mojolicious::Plugin::BarefootJS::DevReload v0.30.2  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.30.2
+Mojolicious::Plugin::BarefootJS    v0.30.4  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.30.4
+Mojolicious::Plugin::BarefootJS::DevReload v0.30.4  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.30.4
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -141032,11 +141035,14 @@ Mojolicious::Plugin::Fondation::Action::Base  0.05  pkg:cpan/Mojolicious-Plugin-
 Mojolicious::Plugin::Fondation::Action::Controllers  0.05  pkg:cpan/Mojolicious-Plugin-Fondation@0.05
 Mojolicious::Plugin::Fondation::Action::Static  0.05  pkg:cpan/Mojolicious-Plugin-Fondation@0.05
 Mojolicious::Plugin::Fondation::Action::Templates  0.05  pkg:cpan/Mojolicious-Plugin-Fondation@0.05
-Mojolicious::Plugin::Fondation::Asset  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Asset@0.03
-Mojolicious::Plugin::Fondation::Asset::Command::asset  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Asset@0.03
+Mojolicious::Plugin::Fondation::Asset  0.04  pkg:cpan/Mojolicious-Plugin-Fondation-Asset@0.04
+Mojolicious::Plugin::Fondation::Asset::Command::asset  0.04  pkg:cpan/Mojolicious-Plugin-Fondation-Asset@0.04
 Mojolicious::Plugin::Fondation::Auth  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Auth@0.02
 Mojolicious::Plugin::Fondation::Auth::Provider  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Auth@0.02
 Mojolicious::Plugin::Fondation::Auth::Provider::DBIx  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Auth@0.02
+Mojolicious::Plugin::Fondation::Auth::Token  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Auth-Token@0.01
+Mojolicious::Plugin::Fondation::Auth::Token::Controller::ApiToken  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Auth-Token@0.01
+Mojolicious::Plugin::Fondation::Auth::Token::Schema::Result::ApiToken  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Auth-Token@0.01
 Mojolicious::Plugin::Fondation::Authorization  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Authorization@0.01
 Mojolicious::Plugin::Fondation::Command::fondation  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.05
 Mojolicious::Plugin::Fondation::Controller::Base  0.05  pkg:cpan/Mojolicious-Plugin-Fondation@0.05
@@ -151912,13 +151918,15 @@ Net::MythWeb                        0.33  pkg:cpan/Net-MythWeb@0.33
 Net::MythWeb::Channel              undef  pkg:cpan/Net-MythWeb@0.33
 Net::MythWeb::Programme            undef  pkg:cpan/Net-MythWeb@0.33
 Net::NAT::PMP                      0.9.4  pkg:cpan/Net-NAT-PMP@0.9.4
-Net::NATS2::Client                 0.003003  pkg:cpan/Net-NATS2-Client@0.3.3
-Net::NATS2::ConnectInfo            undef  pkg:cpan/Net-NATS2-Client@0.3.3
-Net::NATS2::Connection             undef  pkg:cpan/Net-NATS2-Client@0.3.3
-Net::NATS2::JetStream              undef  pkg:cpan/Net-NATS2-Client@0.3.3
-Net::NATS2::Message                undef  pkg:cpan/Net-NATS2-Client@0.3.3
-Net::NATS2::ServerInfo             undef  pkg:cpan/Net-NATS2-Client@0.3.3
-Net::NATS2::Subscription           undef  pkg:cpan/Net-NATS2-Client@0.3.3
+Net::NATS2::Base                   undef  pkg:cpan/Net-NATS2-Client@0.3.4
+Net::NATS2::Client                 v0.3.4  pkg:cpan/Net-NATS2-Client@0.3.4
+Net::NATS2::ConnectInfo            undef  pkg:cpan/Net-NATS2-Client@0.3.4
+Net::NATS2::Connection             undef  pkg:cpan/Net-NATS2-Client@0.3.4
+Net::NATS2::JetStream              undef  pkg:cpan/Net-NATS2-Client@0.3.4
+Net::NATS2::Message                undef  pkg:cpan/Net-NATS2-Client@0.3.4
+Net::NATS2::ServerInfo             undef  pkg:cpan/Net-NATS2-Client@0.3.4
+Net::NATS2::Subscription           undef  pkg:cpan/Net-NATS2-Client@0.3.4
+Net::NATS2::URI                    undef  pkg:cpan/Net-NATS2-Client@0.3.4
 Net::NATS::Client                  0.002002  pkg:cpan/Net-NATS-Client@0.2.2
 Net::NATS::ConnectInfo             undef  pkg:cpan/Net-NATS-Client@0.2.2
 Net::NATS::Connection              undef  pkg:cpan/Net-NATS-Client@0.2.2
@@ -260430,7 +260438,7 @@ XML::SemanticDiff                  1.0007  pkg:cpan/XML-SemanticDiff@1.0007
 XML::SemanticDiff::BasicHandler    1.0007  pkg:cpan/XML-SemanticDiff@1.0007
 XML::SemanticDiff::PathFinder      1.0007  pkg:cpan/XML-SemanticDiff@1.0007
 XML::SemanticDiff::PathFinder::Obj 1.0007  pkg:cpan/XML-SemanticDiff@1.0007
-XML::Sig                            0.71  pkg:cpan/XML-Sig@0.71
+XML::Sig                            0.72  pkg:cpan/XML-Sig@0.72
 XML::Sig::OO                       0.012  pkg:cpan/XML-Sig-OO@0.012
 XML::Similarity                    undef  pkg:cpan/HTML-Similarity@0.2.0
 XML::Simple                         2.25  pkg:cpan/XML-Simple@2.25
