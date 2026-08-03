@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 03 Aug 2026 19:22:05 GMT
-Line-Count: 267574
+Last-Updated: Mon, 03 Aug 2026 20:56:37 GMT
+Line-Count: 267577
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -59031,15 +59031,15 @@ Data::ISO8583                       2.44  pkg:cpan/Data-ISO8583@2.44
 Data::ISO8583::VISA                 2.44  pkg:cpan/Data-ISO8583@2.44
 Data::Icon                          0.02  pkg:cpan/Data-Icon@0.02
 Data::IconText                     v0.6.0  pkg:cpan/Data-IconText@v0.06
-Data::Identifier                   v0.32.0  pkg:cpan/Data-Identifier@v0.32
-Data::Identifier::Cloudlet         v0.32.0  pkg:cpan/Data-Identifier@v0.32
-Data::Identifier::Generate         v0.32.0  pkg:cpan/Data-Identifier@v0.32
-Data::Identifier::Interface::Known v0.32.0  pkg:cpan/Data-Identifier@v0.32
-Data::Identifier::Interface::Simple v0.32.0  pkg:cpan/Data-Identifier@v0.32
-Data::Identifier::Interface::Subobjects v0.32.0  pkg:cpan/Data-Identifier@v0.32
-Data::Identifier::Interface::Userdata v0.32.0  pkg:cpan/Data-Identifier@v0.32
-Data::Identifier::Util             v0.32.0  pkg:cpan/Data-Identifier@v0.32
-Data::Identifier::Wellknown        v0.32.0  pkg:cpan/Data-Identifier@v0.32
+Data::Identifier                   v0.33.0  pkg:cpan/Data-Identifier@v0.33
+Data::Identifier::Cloudlet         v0.33.0  pkg:cpan/Data-Identifier@v0.33
+Data::Identifier::Generate         v0.33.0  pkg:cpan/Data-Identifier@v0.33
+Data::Identifier::Interface::Known v0.33.0  pkg:cpan/Data-Identifier@v0.33
+Data::Identifier::Interface::Simple v0.33.0  pkg:cpan/Data-Identifier@v0.33
+Data::Identifier::Interface::Subobjects v0.33.0  pkg:cpan/Data-Identifier@v0.33
+Data::Identifier::Interface::Userdata v0.33.0  pkg:cpan/Data-Identifier@v0.33
+Data::Identifier::Util             v0.33.0  pkg:cpan/Data-Identifier@v0.33
+Data::Identifier::Wellknown        v0.33.0  pkg:cpan/Data-Identifier@v0.33
 Data::Image                         0.06  pkg:cpan/Data-Image@0.06
 Data::Importer                     0.006  pkg:cpan/Data-Importer@0.006
 Data::Importer::Iterator           0.006  pkg:cpan/Data-Importer@0.006
@@ -117060,15 +117060,15 @@ JSON::Schema::AsType::Type         v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
 JSON::Schema::AsType::Visit        v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
 JSON::Schema::Draft201909          0.130  pkg:cpan/JSON-Schema-Draft201909@0.130
 JSON::Schema::Error                0.016  pkg:cpan/JSON-Schema@0.016
-JSON::Schema::Fast                  0.01  pkg:cpan/JSON-Schema-Fast@0.01
-JSON::Schema::Fast::Compiled        0.01  pkg:cpan/JSON-Schema-Fast@0.01
+JSON::Schema::Fast                  0.02  pkg:cpan/JSON-Schema-Fast@0.02
+JSON::Schema::Fast::Compiled        0.01  pkg:cpan/JSON-Schema-Fast@0.02
 JSON::Schema::Fit                   0.07  pkg:cpan/JSON-Schema-Fit@0.07
 JSON::Schema::Generate              0.15  pkg:cpan/JSON-Schema-Generate@0.15
 JSON::Schema::Helper               0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Modern               0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Modern::Annotation   0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Modern::Document     0.642  pkg:cpan/JSON-Schema-Modern@0.642
-JSON::Schema::Modern::Document::OpenAPI 0.143  pkg:cpan/OpenAPI-Modern@0.143
+JSON::Schema::Modern::Document::OpenAPI 0.144  pkg:cpan/OpenAPI-Modern@0.144
 JSON::Schema::Modern::Error        0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Modern::Result       0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Modern::ResultNode   0.642  pkg:cpan/JSON-Schema-Modern@0.642
@@ -117080,8 +117080,8 @@ JSON::Schema::Modern::Vocabulary::Core 0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Modern::Vocabulary::FormatAssertion 0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Modern::Vocabulary::MetaData 0.642  pkg:cpan/JSON-Schema-Modern@0.642
-JSON::Schema::Modern::Vocabulary::OpenAPI 0.143  pkg:cpan/OpenAPI-Modern@0.143
-JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.143  pkg:cpan/OpenAPI-Modern@0.143
+JSON::Schema::Modern::Vocabulary::OpenAPI 0.144  pkg:cpan/OpenAPI-Modern@0.144
+JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.144  pkg:cpan/OpenAPI-Modern@0.144
 JSON::Schema::Modern::Vocabulary::Unevaluated 0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Modern::Vocabulary::Validation 0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Null                 0.016  pkg:cpan/JSON-Schema@0.016
@@ -158306,8 +158306,8 @@ OpenAPI::Generator::From::Pod      undef  pkg:cpan/OpenAPI-Generator@0.06
 OpenAPI::Generator::Util           undef  pkg:cpan/OpenAPI-Generator@0.06
 OpenAPI::Linter                     0.19  pkg:cpan/OpenAPI-Linter@0.19
 OpenAPI::Linter::Location           0.19  pkg:cpan/OpenAPI-Linter@0.19
-OpenAPI::Modern                    0.143  pkg:cpan/OpenAPI-Modern@0.143
-OpenAPI::Modern::Utilities         0.143  pkg:cpan/OpenAPI-Modern@0.143
+OpenAPI::Modern                    0.144  pkg:cpan/OpenAPI-Modern@0.144
+OpenAPI::Modern::Utilities         0.144  pkg:cpan/OpenAPI-Modern@0.144
 OpenAPI::PerlGenerator              0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
 OpenAPI::PerlGenerator::Template    0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
 OpenAPI::PerlGenerator::Template::Mojo  0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
@@ -159842,6 +159842,9 @@ PAGI::Endpoint::Router             0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Endpoint::Router::RouteBuilder 0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Endpoint::SSE                0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Endpoint::WebSocket          0.002002  pkg:cpan/PAGI-Tools@0.002002
+PAGI::FastAPI                      v0.0.1  pkg:cpan/PAGI-FastAPI@v0.0.1
+PAGI::FastAPI::Context             v0.0.1  pkg:cpan/PAGI-FastAPI@v0.0.1
+PAGI::FastAPI::Depends             v0.0.1  pkg:cpan/PAGI-FastAPI@v0.0.1
 PAGI::Headers                      0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Lifespan                     0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Middleware                   0.002002  pkg:cpan/PAGI-Tools@0.002002
@@ -205989,7 +205992,7 @@ RT::Extension::RepeatTicket         3.00  pkg:cpan/RT-Extension-RepeatTicket@3.0
 RT::Extension::RepliesToResolved    1.04  pkg:cpan/RT-Extension-RepliesToResolved@1.04
 RT::Extension::ReplyWithMail        0.02  pkg:cpan/RT-Extension-ReplyWithMail@0.02
 RT::Extension::ReportSpam           1.02  pkg:cpan/RT-Extension-ReportSpam@1.02
-RT::Extension::ResetPassword        2.00  pkg:cpan/RT-Extension-ResetPassword@2.00
+RT::Extension::ResetPassword        2.01  pkg:cpan/RT-Extension-ResetPassword@2.01
 RT::Extension::RichtextCustomField  0.07  pkg:cpan/RT-Extension-RichtextCustomField@0.07
 RT::Extension::RightsInspector      0.03  pkg:cpan/RT-Extension-RightsInspector@0.03
 RT::Extension::SLA                  1.04  pkg:cpan/RT-Extension-SLA@1.04
@@ -208138,7 +208141,7 @@ RetryTimer                             0  pkg:cpan/VM-EC2@1.25
 Return::DataButBool                0.000003  pkg:cpan/Return-DataButBool@0.0.3
 Return::Deep                       1.005  pkg:cpan/Return-Deep@1.005
 Return::MultiLevel                  0.08  pkg:cpan/Return-MultiLevel@0.08
-Return::Set                         0.03  pkg:cpan/Return-Set@0.03
+Return::Set                         0.04  pkg:cpan/Return-Set@0.04
 Return::Type                       0.007  pkg:cpan/Return-Type@0.007
 Return::Type::Lexical              0.002  pkg:cpan/Return-Type-Lexical@0.002
 Return::Value                      1.666005  pkg:cpan/Return-Value@1.666005
