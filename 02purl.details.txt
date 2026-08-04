@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 04 Aug 2026 01:53:07 GMT
-Line-Count: 267579
+Last-Updated: Tue, 04 Aug 2026 04:57:37 GMT
+Line-Count: 267529
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -22241,13 +22241,13 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         v0.30.5  pkg:cpan/BarefootJS@0.30.5
-BarefootJS::Backend::Mojo          v0.30.5  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.30.5
-BarefootJS::Backend::Xslate        v0.30.5  pkg:cpan/BarefootJS-Backend-Xslate@0.30.5
-BarefootJS::Date                   v0.30.5  pkg:cpan/BarefootJS@0.30.5
-BarefootJS::DevReload              v0.30.5  pkg:cpan/BarefootJS@0.30.5
-BarefootJS::Evaluator              v0.30.5  pkg:cpan/BarefootJS@0.30.5
-BarefootJS::SearchParams           v0.30.5  pkg:cpan/BarefootJS@0.30.5
+BarefootJS                         v0.30.6  pkg:cpan/BarefootJS@0.30.6
+BarefootJS::Backend::Mojo          v0.30.6  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.30.6
+BarefootJS::Backend::Xslate        v0.30.6  pkg:cpan/BarefootJS-Backend-Xslate@0.30.6
+BarefootJS::Date                   v0.30.6  pkg:cpan/BarefootJS@0.30.6
+BarefootJS::DevReload              v0.30.6  pkg:cpan/BarefootJS@0.30.6
+BarefootJS::Evaluator              v0.30.6  pkg:cpan/BarefootJS@0.30.6
+BarefootJS::SearchParams           v0.30.6  pkg:cpan/BarefootJS@0.30.6
 BarefootJS::_TZProbe               0.029000  pkg:cpan/BarefootJS@0.29.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
@@ -104268,40 +104268,6 @@ Google::Api::Usage                  0.11  pkg:cpan/Google-Api-Common@0.03
 Google::Api::Usage::Types          undef  pkg:cpan/Google-Api-Common@0.03
 Google::Api::Visibility             0.11  pkg:cpan/Google-Api-Common@0.03
 Google::Api::Visibility::Types     undef  pkg:cpan/Google-Api-Common@0.03
-Google::Auth                        0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::ClientId              0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::CloudSDK             undef  pkg:cpan/Google-Auth@0.06
-Google::Auth::ComputeEngine         0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::Credentials           0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::DefaultCredentials    0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::DefaultCredentialsError  0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::EnvironmentVars       0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::Error                 0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::Exceptions            0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::ExternalAccountCredentials  0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::ExternalAccountCredentials::Aws  0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::ExternalAccountCredentials::Pluggable  0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::IAMCredentials        0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::IDTokens              0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::IDTokens::AggregateKeySource  0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::IDTokens::HttpKeySource  0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::IDTokens::JwkHttpKeySource  0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::IDTokens::KeyInfo     0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::IDTokens::KeySources  0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::IDTokens::StaticKeySource  0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::IDTokens::Verifier    0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::IDTokens::X509CertHttpKeySource  0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::ImpersonatedServiceAccountCredentials  0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::RefreshError          0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::RetryHelper           0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::ServiceAccountCredentials  0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::Signet                0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::Signet::OAuth2        0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::TransportError        0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::UserAuthorizer        0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::UserRefreshCredentials  0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::WebUserAuthorizer     0.06  pkg:cpan/Google-Auth@0.06
-Google::Auth::WebUserAuthorizer::CallbackApp  0.06  pkg:cpan/Google-Auth@0.06
 Google::BUCC                       undef  pkg:cpan/Google-OAuth@0.05
 Google::BigQuery                    1.02  pkg:cpan/Google-BigQuery@1.02
 Google::BigQuery::V2               undef  pkg:cpan/Google-BigQuery@1.02
@@ -104789,11 +104755,6 @@ Google::Cloud::Dataflow::V1beta3::MessagesV1beta3Client  0.02  pkg:cpan/Google-C
 Google::Cloud::Dataflow::V1beta3::MetricsV1beta3Client  0.02  pkg:cpan/Google-Cloud-Dataflow-V1beta3@0.03
 Google::Cloud::Dataflow::V1beta3::SnapshotsV1beta3Client  0.02  pkg:cpan/Google-Cloud-Dataflow-V1beta3@0.03
 Google::Cloud::Dataflow::V1beta3::TemplatesServiceClient  0.02  pkg:cpan/Google-Cloud-Dataflow-V1beta3@0.03
-Google::Cloud::Datafusion::V1       0.03  pkg:cpan/Google-Cloud-Datafusion-V1@0.03
-Google::Cloud::Datafusion::V1::Datafusion  0.11  pkg:cpan/Google-Cloud-Datafusion-V1@0.03
-Google::Cloud::Datafusion::V1::Datafusion::DatafusionClient  0.11  pkg:cpan/Google-Cloud-Datafusion-V1@0.03
-Google::Cloud::Datafusion::V1::Datafusion::Types undef  pkg:cpan/Google-Cloud-Datafusion-V1@0.03
-Google::Cloud::Datafusion::V1::DatafusionClient  0.02  pkg:cpan/Google-Cloud-Datafusion-V1@0.03
 Google::Cloud::Dataplex::V1         0.03  pkg:cpan/Google-Cloud-Dataplex-V1@0.03
 Google::Cloud::Dataplex::V1::Analyze  0.11  pkg:cpan/Google-Cloud-Dataplex-V1@0.03
 Google::Cloud::Dataplex::V1::Analyze::Types undef  pkg:cpan/Google-Cloud-Dataplex-V1@0.03
@@ -105380,17 +105341,6 @@ Google::Voice                       0.06  pkg:cpan/Google-Voice@0.06
 Google::Voice::Call                undef  pkg:cpan/Google-Voice@0.06
 Google::Voice::Feed                undef  pkg:cpan/Google-Voice@0.06
 Google::Voice::SMS::Message        undef  pkg:cpan/Google-Voice@0.06
-Google::gRPC                        0.06  pkg:cpan/Google-gRPC@0.06
-Google::gRPC::Channel              undef  pkg:cpan/Google-gRPC@0.06
-Google::gRPC::ChannelPool          undef  pkg:cpan/Google-gRPC@0.06
-Google::gRPC::Client                0.06  pkg:cpan/Google-gRPC@0.06
-Google::gRPC::Deadline             undef  pkg:cpan/Google-gRPC@0.06
-Google::gRPC::Engine               undef  pkg:cpan/Google-gRPC@0.06
-Google::gRPC::Engine::NGHTTP2       0.06  pkg:cpan/Google-gRPC@0.06
-Google::gRPC::Engine::PP           undef  pkg:cpan/Google-gRPC@0.06
-Google::gRPC::Framing              undef  pkg:cpan/Google-gRPC@0.06
-Google::gRPC::Status               undef  pkg:cpan/Google-gRPC@0.06
-Google::gRPC::Stream               undef  pkg:cpan/Google-gRPC@0.06
 Google::reCAPTCHA                   0.06  pkg:cpan/Google-reCAPTCHA@0.06
 Google::reCAPTCHA::v3              v0.1.1  pkg:cpan/Google-reCAPTCHA-v3@0.1.1
 GoogleApps                         0.002  pkg:cpan/GoogleApps@0.002
@@ -140908,8 +140858,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    v0.30.5  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.30.5
-Mojolicious::Plugin::BarefootJS::DevReload v0.30.5  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.30.5
+Mojolicious::Plugin::BarefootJS    v0.30.6  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.30.6
+Mojolicious::Plugin::BarefootJS::DevReload v0.30.6  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.30.6
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
