@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 04 Aug 2026 04:57:37 GMT
+Last-Updated: Tue, 04 Aug 2026 08:25:49 GMT
 Line-Count: 267529
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -30531,7 +30531,7 @@ Business::IS::PIN                   0.06  pkg:cpan/Business-IS-PIN@0.06
 Business::ISBN                     3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN10                   3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN13                   3.014  pkg:cpan/Business-ISBN@3.014
-Business::ISBN::Data               20260724.001  pkg:cpan/Business-ISBN-Data@20260724.001
+Business::ISBN::Data               20260804.001  pkg:cpan/Business-ISBN-Data@20260804.001
 Business::ISIN                      0.20  pkg:cpan/Business-ISIN@0.20?ext=tgz
 Business::ISMN                     1.205  pkg:cpan/Business-ISMN@1.205
 Business::ISMN::Data               1.205  pkg:cpan/Business-ISMN@1.205
@@ -117010,8 +117010,8 @@ JSON::Schema::AsType::Type         v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
 JSON::Schema::AsType::Visit        v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
 JSON::Schema::Draft201909          0.130  pkg:cpan/JSON-Schema-Draft201909@0.130
 JSON::Schema::Error                0.016  pkg:cpan/JSON-Schema@0.016
-JSON::Schema::Fast                  0.02  pkg:cpan/JSON-Schema-Fast@0.02
-JSON::Schema::Fast::Compiled        0.01  pkg:cpan/JSON-Schema-Fast@0.02
+JSON::Schema::Fast                  0.03  pkg:cpan/JSON-Schema-Fast@0.03
+JSON::Schema::Fast::Compiled        0.03  pkg:cpan/JSON-Schema-Fast@0.03
 JSON::Schema::Fit                   0.07  pkg:cpan/JSON-Schema-Fit@0.07
 JSON::Schema::Generate              0.15  pkg:cpan/JSON-Schema-Generate@0.15
 JSON::Schema::Helper               0.016  pkg:cpan/JSON-Schema@0.016
@@ -211262,51 +211262,51 @@ SPVM::Format                       undef  pkg:cpan/SPVM@0.990191
 SPVM::Getopt::Long                 0.004  pkg:cpan/SPVM-Getopt-Long@0.004
 SPVM::Getopt::Long::Spec           undef  pkg:cpan/SPVM-Getopt-Long@0.004
 SPVM::Global                       undef  pkg:cpan/SPVM@0.990191
-SPVM::Go                           0.038  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::Channel                  undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::Channel::Wait            undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::Context                  undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::Context::CanncelCallback undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::Context::Derived         undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::Context::Error::Canceled undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::Context::Error::DeadlineExceeded undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::Context::Value           undef  pkg:cpan/SPVM-Go@0.038
+SPVM::Go                           0.039  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::Channel                  undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::Channel::Wait            undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::Context                  undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::Context::CanncelCallback undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::Context::Derived         undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::Context::Error::Canceled undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::Context::Error::DeadlineExceeded undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::Context::Value           undef  pkg:cpan/SPVM-Go@0.039
 SPVM::Go::Coroutine                undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Duration_1l              undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::Error::IOTimeout         undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::Goroutine                undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::OS::Signal               undef  pkg:cpan/SPVM-Go@0.038
+SPVM::Go::Duration_1l              undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::Error::IOTimeout         undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::Goroutine                undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::OS::Signal               undef  pkg:cpan/SPVM-Go@0.039
 SPVM::Go::Poll                     undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Schedule                 undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::Schedule::Info           undef  pkg:cpan/SPVM-Go@0.038
+SPVM::Go::Schedule                 undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::Schedule::Info           undef  pkg:cpan/SPVM-Go@0.039
 SPVM::Go::Schedule::Task           undef  pkg:cpan/SPVM-Go@0.031
-SPVM::Go::Select                   undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::Select::Case             undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::Select::Result           undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::Sync::WaitGroup          undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::Time                     undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::UV                       undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::UV::Callback::Async      undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::UV::Callback::Close      undef  pkg:cpan/SPVM-Go@0.038
+SPVM::Go::Select                   undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::Select::Case             undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::Select::Result           undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::Sync::WaitGroup          undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::Time                     undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::UV                       undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::UV::Callback::Async      undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::UV::Callback::Close      undef  pkg:cpan/SPVM-Go@0.039
 SPVM::Go::UV::Callback::Handle     undef  pkg:cpan/SPVM-Go@0.036
-SPVM::Go::UV::Callback::Idle       undef  pkg:cpan/SPVM-Go@0.038
+SPVM::Go::UV::Callback::Idle       undef  pkg:cpan/SPVM-Go@0.039
 SPVM::Go::UV::Callback::LoopAlive  undef  pkg:cpan/SPVM-Go@0.036
-SPVM::Go::UV::Callback::Poll       undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::UV::Callback::Read       undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::UV::Callback::Timer      undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::UV::Callback::Write      undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::UV::ConfigBuilder        undef  pkg:cpan/SPVM-Go@0.038
+SPVM::Go::UV::Callback::Poll       undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::UV::Callback::Read       undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::UV::Callback::Timer      undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::UV::Callback::Write      undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::UV::ConfigBuilder        undef  pkg:cpan/SPVM-Go@0.039
 SPVM::Go::UV::Event                undef  pkg:cpan/SPVM-Go@0.037
-SPVM::Go::UV::Handle               undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::UV::Handle::Async        undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::UV::Handle::Idle         undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::UV::Handle::Pipe         undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::UV::Handle::Poll         undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::UV::Handle::Stream       undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::UV::Handle::Timer        undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::UV::Loop                 undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::UV::Request              undef  pkg:cpan/SPVM-Go@0.038
-SPVM::Go::UV::Request::Write       undef  pkg:cpan/SPVM-Go@0.038
+SPVM::Go::UV::Handle               undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::UV::Handle::Async        undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::UV::Handle::Idle         undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::UV::Handle::Pipe         undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::UV::Handle::Poll         undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::UV::Handle::Stream       undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::UV::Handle::Timer        undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::UV::Loop                 undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::UV::Request              undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::UV::Request::Write       undef  pkg:cpan/SPVM-Go@0.039
 SPVM::HTTP::Tiny                   0.017  pkg:cpan/SPVM-HTTP-Tiny@0.017
 SPVM::HTTP::Tiny::Asset            undef  pkg:cpan/SPVM-HTTP-Tiny@0.012
 SPVM::HTTP::Tiny::Asset::File      undef  pkg:cpan/SPVM-HTTP-Tiny@0.012
@@ -246010,7 +246010,7 @@ Version::Dotted::Semantic          v0.0.1  pkg:cpan/Version-Dotted@v0.0.1
 Version::Monotonic                 1.100  pkg:cpan/Version-Monotonic@1.100
 Version::Next                      1.000  pkg:cpan/Version-Next@1.000
 Version::Requirements              0.101023  pkg:cpan/Version-Requirements@0.101023
-Version::Semantic                  v2.0.0  pkg:cpan/Version-Semantic@v2.0.0
+Version::Semantic                  v2.1.0  pkg:cpan/Version-Semantic@v2.1.0
 Version::Util                      0.732  pkg:cpan/Version-Util@0.732
 Version::libversion::PP             1.00  pkg:cpan/Version-libversion-PP@1.00
 Version::libversion::XS             1.00  pkg:cpan/Version-libversion-XS@1.00
