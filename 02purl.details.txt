@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 04 Aug 2026 19:21:14 GMT
+Last-Updated: Tue, 04 Aug 2026 21:03:58 GMT
 Line-Count: 267532
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -11092,7 +11092,7 @@ App::Lorem::Tickit::TextWidget      0.01  pkg:cpan/App-Lorem-Tickit@0.01
 App::Lorem::Tickit::Widget          0.01  pkg:cpan/App-Lorem-Tickit@0.01
 App::MARC::Count                    0.04  pkg:cpan/App-MARC-Count@0.04
 App::MARC::Field008                 0.01  pkg:cpan/App-MARC-Field008@0.01
-App::MARC::Filter                    0.1  pkg:cpan/App-MARC-Filter@0.10
+App::MARC::Filter                   0.11  pkg:cpan/App-MARC-Filter@0.11
 App::MARC::Leader                   0.11  pkg:cpan/App-MARC-Leader@0.11
 App::MARC::List                     0.09  pkg:cpan/App-MARC-List@0.09
 App::MARC::Record::Stats            0.02  pkg:cpan/App-MARC-Record-Stats@0.02
@@ -50568,7 +50568,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.0  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
 Cucumber::TagExpressions::NotNode  v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
 Cucumber::TagExpressions::OrNode   v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.138
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.139
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
@@ -67439,7 +67439,7 @@ Dist::Zilla::Plugin::DBIO::GatherSkills 0.900003  pkg:cpan/Dist-Zilla-PluginBund
 Dist::Zilla::Plugin::DBIO::SetCopyrightHolder 0.900001  pkg:cpan/DBIO-Deprecated@0.900001
 Dist::Zilla::Plugin::DBIO::SetMeta 0.900003  pkg:cpan/Dist-Zilla-PluginBundle-DBIO@0.900003
 Dist::Zilla::Plugin::DOAP          0.003  pkg:cpan/Dist-Zilla-Plugin-DOAP@0.003
-Dist::Zilla::Plugin::DROLSKY::DevTools  1.24  pkg:cpan/Dist-Zilla-PluginBundle-DROLSKY@1.24
+Dist::Zilla::Plugin::DROLSKY::DevTools  1.25  pkg:cpan/Dist-Zilla-PluginBundle-DROLSKY@1.25
 Dist::Zilla::Plugin::DROLSKY::Role::MaybeFileWriter  1.19  pkg:cpan/Dist-Zilla-PluginBundle-DROLSKY@1.19
 Dist::Zilla::Plugin::Data::Sah     0.005  pkg:cpan/Dist-Zilla-Plugin-Data-Sah@0.005
 Dist::Zilla::Plugin::Data::Sah::Coerce 0.001  pkg:cpan/Dist-Zilla-Plugin-Data-Sah-Coerce@0.001
@@ -68113,7 +68113,7 @@ Dist::Zilla::PluginBundle::DBIO    0.900003  pkg:cpan/Dist-Zilla-PluginBundle-DB
 Dist::Zilla::PluginBundle::DBR     0.024  pkg:cpan/Dist-Zilla-PluginBundle-DBR@0.024
 Dist::Zilla::PluginBundle::DOY      0.15  pkg:cpan/Dist-Zilla-PluginBundle-DOY@0.15
 Dist::Zilla::PluginBundle::DPHYS       1  pkg:cpan/Dist-Zilla-PluginBundle-DPHYS@1
-Dist::Zilla::PluginBundle::DROLSKY  1.24  pkg:cpan/Dist-Zilla-PluginBundle-DROLSKY@1.24
+Dist::Zilla::PluginBundle::DROLSKY  1.25  pkg:cpan/Dist-Zilla-PluginBundle-DROLSKY@1.25
 Dist::Zilla::PluginBundle::Dancer  0.0013  pkg:cpan/Dist-Zilla-PluginBundle-Dancer@0.0013
 Dist::Zilla::PluginBundle::FAYLAND  0.16  pkg:cpan/Dist-Zilla-PluginBundle-FAYLAND@0.16
 Dist::Zilla::PluginBundle::FLORA    0.18  pkg:cpan/Dist-Zilla-PluginBundle-FLORA@0.18
@@ -74199,18 +74199,18 @@ Fennec::Util                       undef  pkg:cpan/Fennec@2.018
 Fern                               undef  pkg:cpan/Fern@0.2
 Festival::Client                     1.0  pkg:cpan/Festival-Client@1.0
 Festival::Client::Async            0.0303  pkg:cpan/Festival-Client-Async@0.0303
-Fetch                               0.08  pkg:cpan/Fetch@0.08
-Fetch::CookieJar                    0.08  pkg:cpan/Fetch@0.08
-Fetch::Future                       0.08  pkg:cpan/Fetch@0.08
-Fetch::Headers                      0.08  pkg:cpan/Fetch@0.08
+Fetch                               0.09  pkg:cpan/Fetch@0.09
+Fetch::CookieJar                    0.09  pkg:cpan/Fetch@0.09
+Fetch::Future                       0.09  pkg:cpan/Fetch@0.09
+Fetch::Headers                      0.09  pkg:cpan/Fetch@0.09
 Fetch::Image                       1.000000  pkg:cpan/Fetch-Image@1.000000
-Fetch::Loop                         0.08  pkg:cpan/Fetch@0.08
-Fetch::Loop::AnyEvent               0.08  pkg:cpan/Fetch@0.08
-Fetch::Loop::Hyperman               0.08  pkg:cpan/Fetch@0.08
-Fetch::Loop::IOAsync                0.08  pkg:cpan/Fetch@0.08
-Fetch::Loop::Standalone             0.08  pkg:cpan/Fetch@0.08
-Fetch::Response                     0.08  pkg:cpan/Fetch@0.08
-Fetch::WebSocket                    0.08  pkg:cpan/Fetch@0.08
+Fetch::Loop                         0.09  pkg:cpan/Fetch@0.09
+Fetch::Loop::AnyEvent               0.09  pkg:cpan/Fetch@0.09
+Fetch::Loop::Hyperman               0.09  pkg:cpan/Fetch@0.09
+Fetch::Loop::IOAsync                0.09  pkg:cpan/Fetch@0.09
+Fetch::Loop::Standalone             0.09  pkg:cpan/Fetch@0.09
+Fetch::Response                     0.09  pkg:cpan/Fetch@0.09
+Fetch::WebSocket                    0.09  pkg:cpan/Fetch@0.09
 Fetcher                            undef  pkg:cpan/article_fetcher?ext=zip
 Fey                                 0.44  pkg:cpan/Fey@0.44
 Fey::Column                         0.44  pkg:cpan/Fey@0.44
@@ -159796,9 +159796,9 @@ PAGI::Endpoint::Router             0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Endpoint::Router::RouteBuilder 0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Endpoint::SSE                0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Endpoint::WebSocket          0.002002  pkg:cpan/PAGI-Tools@0.002002
-PAGI::FastAPI                      v0.0.2  pkg:cpan/PAGI-FastAPI@v0.0.2
-PAGI::FastAPI::Context             v0.0.2  pkg:cpan/PAGI-FastAPI@v0.0.2
-PAGI::FastAPI::Depends             v0.0.2  pkg:cpan/PAGI-FastAPI@v0.0.2
+PAGI::FastAPI                      v0.0.3  pkg:cpan/PAGI-FastAPI@v0.0.3
+PAGI::FastAPI::Context             v0.0.3  pkg:cpan/PAGI-FastAPI@v0.0.3
+PAGI::FastAPI::Depends             v0.0.3  pkg:cpan/PAGI-FastAPI@v0.0.3
 PAGI::Headers                      0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Lifespan                     0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Middleware                   0.002002  pkg:cpan/PAGI-Tools@0.002002
@@ -200743,7 +200743,7 @@ Pod::Weaver::PluginBundle::CorePrep 4.020  pkg:cpan/Pod-Weaver@4.020
 Pod::Weaver::PluginBundle::DAGOLDEN 0.079  pkg:cpan/Dist-Zilla-PluginBundle-DAGOLDEN@0.079
 Pod::Weaver::PluginBundle::DBIO    0.900003  pkg:cpan/Dist-Zilla-PluginBundle-DBIO@0.900003
 Pod::Weaver::PluginBundle::DBIO::Heritage 0.900003  pkg:cpan/Dist-Zilla-PluginBundle-DBIO@0.900003
-Pod::Weaver::PluginBundle::DROLSKY  1.24  pkg:cpan/Dist-Zilla-PluginBundle-DROLSKY@1.24
+Pod::Weaver::PluginBundle::DROLSKY  1.25  pkg:cpan/Dist-Zilla-PluginBundle-DROLSKY@1.25
 Pod::Weaver::PluginBundle::Default 4.020  pkg:cpan/Pod-Weaver@4.020
 Pod::Weaver::PluginBundle::FLORA    0.04  pkg:cpan/Pod-Weaver-PluginBundle-FLORA@0.04
 Pod::Weaver::PluginBundle::GRS      0.08  pkg:cpan/Dist-Zilla-PluginBundle-GRS@0.08
@@ -224732,7 +224732,7 @@ Stats::Fermi::FermiDiracStats      undef  pkg:cpan/Stats-Fermi@0.1.7
 Stats::Hawking                     0.001003  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HTRandom           undef  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HawkingTemperature undef  pkg:cpan/Stats-Hawking@0.1.3
-Stats::LikeR                        0.29  pkg:cpan/Stats-LikeR@0.29
+Stats::LikeR                       0.291  pkg:cpan/Stats-LikeR@0.291
 Stats::LikeR::Pred                  0.16  pkg:cpan/Stats-LikeR@0.16
 Stats::LikeR::col                   0.28  pkg:cpan/Stats-LikeR@0.28
 StatsView::Graph                    1.15  pkg:cpan/StatsView@1.4
