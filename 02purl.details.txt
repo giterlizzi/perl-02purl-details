@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 04 Aug 2026 08:25:49 GMT
-Line-Count: 267529
+Last-Updated: Tue, 04 Aug 2026 11:58:27 GMT
+Line-Count: 267528
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -9589,7 +9589,7 @@ App::CryptoCurrencyUtils           0.012  pkg:cpan/App-CryptoCurrencyUtils@0.012
 App::CveClient                     1.001001  pkg:cpan/App-CveClient@v1.1.1
 App::D                             1.003002  pkg:cpan/App-D@1.3.2
 App::DAVThis                       0.001  pkg:cpan/App-DAVThis@0.001
-App::DBBrowser                     2.443  pkg:cpan/App-DBBrowser@2.443
+App::DBBrowser                     2.444  pkg:cpan/App-DBBrowser@2.444
 App::DBCritic                      0.023  pkg:cpan/App-DBCritic@0.023
 App::DBCritic::Loader              0.023  pkg:cpan/App-DBCritic@0.023
 App::DBCritic::Policy              0.023  pkg:cpan/App-DBCritic@0.023
@@ -58249,8 +58249,6 @@ Data::Entropy                      0.010  pkg:cpan/Data-Entropy@0.010
 Data::Entropy::Algorithms          0.010  pkg:cpan/Data-Entropy@0.010
 Data::Entropy::RawSource::CryptCounter 0.010  pkg:cpan/Data-Entropy@0.010
 Data::Entropy::RawSource::Local    0.010  pkg:cpan/Data-Entropy@0.010
-Data::Entropy::RawSource::RandomOrg 0.009  pkg:cpan/Data-Entropy@0.009
-Data::Entropy::RawSource::RandomnumbersInfo 0.009  pkg:cpan/Data-Entropy@0.009
 Data::Entropy::Source              0.010  pkg:cpan/Data-Entropy@0.010
 Data::Enum                         v0.6.0  pkg:cpan/Data-Enum@v0.6.0
 Data::Enumerable::Lazy             0.032  pkg:cpan/Data-Enumerable-Lazy@0.032
@@ -74199,18 +74197,18 @@ Fennec::Util                       undef  pkg:cpan/Fennec@2.018
 Fern                               undef  pkg:cpan/Fern@0.2
 Festival::Client                     1.0  pkg:cpan/Festival-Client@1.0
 Festival::Client::Async            0.0303  pkg:cpan/Festival-Client-Async@0.0303
-Fetch                               0.06  pkg:cpan/Fetch@0.06
-Fetch::CookieJar                    0.06  pkg:cpan/Fetch@0.06
-Fetch::Future                       0.06  pkg:cpan/Fetch@0.06
-Fetch::Headers                      0.06  pkg:cpan/Fetch@0.06
+Fetch                               0.07  pkg:cpan/Fetch@0.07
+Fetch::CookieJar                    0.07  pkg:cpan/Fetch@0.07
+Fetch::Future                       0.07  pkg:cpan/Fetch@0.07
+Fetch::Headers                      0.07  pkg:cpan/Fetch@0.07
 Fetch::Image                       1.000000  pkg:cpan/Fetch-Image@1.000000
-Fetch::Loop                         0.06  pkg:cpan/Fetch@0.06
-Fetch::Loop::AnyEvent               0.06  pkg:cpan/Fetch@0.06
-Fetch::Loop::Hyperman               0.06  pkg:cpan/Fetch@0.06
-Fetch::Loop::IOAsync                0.06  pkg:cpan/Fetch@0.06
-Fetch::Loop::Standalone             0.06  pkg:cpan/Fetch@0.06
-Fetch::Response                     0.06  pkg:cpan/Fetch@0.06
-Fetch::WebSocket                    0.06  pkg:cpan/Fetch@0.06
+Fetch::Loop                         0.07  pkg:cpan/Fetch@0.07
+Fetch::Loop::AnyEvent               0.07  pkg:cpan/Fetch@0.07
+Fetch::Loop::Hyperman               0.07  pkg:cpan/Fetch@0.07
+Fetch::Loop::IOAsync                0.07  pkg:cpan/Fetch@0.07
+Fetch::Loop::Standalone             0.07  pkg:cpan/Fetch@0.07
+Fetch::Response                     0.07  pkg:cpan/Fetch@0.07
+Fetch::WebSocket                    0.07  pkg:cpan/Fetch@0.07
 Fetcher                            undef  pkg:cpan/article_fetcher?ext=zip
 Fey                                 0.44  pkg:cpan/Fey@0.44
 Fey::Column                         0.44  pkg:cpan/Fey@0.44
@@ -75165,11 +75163,11 @@ File::Stat::OO                      0.03  pkg:cpan/File-Stat-OO@0.03
 File::Stat::Trigger                 0.05  pkg:cpan/File-Stat-Trigger@0.05
 File::StatCache                     0.06  pkg:cpan/File-StatCache@0.06
 File::StatX                        0.005  pkg:cpan/File-StatX@0.005
-File::Sticker                      4.606  pkg:cpan/File-Sticker@4.606
-File::Sticker::Database            4.606  pkg:cpan/File-Sticker@4.606
-File::Sticker::Derive              4.606  pkg:cpan/File-Sticker@4.606
-File::Sticker::Derive::Common      4.606  pkg:cpan/File-Sticker@4.606
-File::Sticker::Derive::Title       4.606  pkg:cpan/File-Sticker@4.606
+File::Sticker                        4.7  pkg:cpan/File-Sticker@4.7
+File::Sticker::Database              4.7  pkg:cpan/File-Sticker@4.7
+File::Sticker::Derive                4.7  pkg:cpan/File-Sticker@4.7
+File::Sticker::Derive::Common        4.7  pkg:cpan/File-Sticker@4.7
+File::Sticker::Derive::Title         4.7  pkg:cpan/File-Sticker@4.7
 File::Sticker::Reader               3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Reader::Exif         3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Reader::Gif          3.03  pkg:cpan/File-Sticker@3.03
@@ -75177,14 +75175,14 @@ File::Sticker::Reader::Mp3          3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Reader::Xattr        3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Reader::Yaml         3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Reader::YamlPrefix   3.03  pkg:cpan/File-Sticker@3.03
-File::Sticker::Scribe              4.606  pkg:cpan/File-Sticker@4.606
-File::Sticker::Scribe::Epub        4.606  pkg:cpan/File-Sticker@4.606
-File::Sticker::Scribe::Exif        4.606  pkg:cpan/File-Sticker@4.606
-File::Sticker::Scribe::Gif         4.606  pkg:cpan/File-Sticker@4.606
-File::Sticker::Scribe::Mp3         4.606  pkg:cpan/File-Sticker@4.606
-File::Sticker::Scribe::Xattr       4.606  pkg:cpan/File-Sticker@4.606
-File::Sticker::Scribe::Yaml        4.606  pkg:cpan/File-Sticker@4.606
-File::Sticker::Scribe::YamlPrefix  4.606  pkg:cpan/File-Sticker@4.606
+File::Sticker::Scribe                4.7  pkg:cpan/File-Sticker@4.7
+File::Sticker::Scribe::Epub          4.7  pkg:cpan/File-Sticker@4.7
+File::Sticker::Scribe::Exif          4.7  pkg:cpan/File-Sticker@4.7
+File::Sticker::Scribe::Gif           4.7  pkg:cpan/File-Sticker@4.7
+File::Sticker::Scribe::Mp3           4.7  pkg:cpan/File-Sticker@4.7
+File::Sticker::Scribe::Xattr         4.7  pkg:cpan/File-Sticker@4.7
+File::Sticker::Scribe::Yaml          4.7  pkg:cpan/File-Sticker@4.7
+File::Sticker::Scribe::YamlPrefix    4.7  pkg:cpan/File-Sticker@4.7
 File::Sticker::Writer               3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Writer::Exif         3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Writer::Gif          3.03  pkg:cpan/File-Sticker@3.03
@@ -123491,7 +123489,7 @@ Lido::XML::LIDO_1_0::valueObjects   0.07  pkg:cpan/Lido-XML@0.07
 Lido::XML::LIDO_1_0::xlink          0.07  pkg:cpan/Lido-XML@0.07
 Lido::XML::LIDO_1_0::xml            0.07  pkg:cpan/Lido-XML@0.07
 LightTCP::SSLclient                 1.06  pkg:cpan/LightTCP-SSLclient@1.06
-LightTCP::Server                    2.04  pkg:cpan/LightTCP-Server@2.04
+LightTCP::Server                    2.05  pkg:cpan/LightTCP-Server@2.05
 LightWaveRF                         0.04  pkg:cpan/LightWaveRF@0.04
 Lighttpd::Control                   0.03  pkg:cpan/Lighttpd-Control@0.03
 Lilith                               3.0  pkg:cpan/Lilith@3.0.0
@@ -254465,9 +254463,10 @@ WebService::OpenSky::Types           0.5  pkg:cpan/WebService-OpenSky@0.5
 WebService::OpenSky::Utils::Iterator   0.5  pkg:cpan/WebService-OpenSky@0.5
 WebService::OpenStates              1.03  pkg:cpan/WebService-OpenStates@1.03
 WebService::Openaura                0.02  pkg:cpan/WebService-Openaura@0.02
-WebService::OurWorldInData          0.03  pkg:cpan/WebService-OurWorldInData@0.03
-WebService::OurWorldInData::Catalog  0.03  pkg:cpan/WebService-OurWorldInData@0.03
-WebService::OurWorldInData::Chart   0.03  pkg:cpan/WebService-OurWorldInData@0.03
+WebService::OurWorldInData          0.04  pkg:cpan/WebService-OurWorldInData@0.04
+WebService::OurWorldInData::Catalog  0.04  pkg:cpan/WebService-OurWorldInData@0.04
+WebService::OurWorldInData::Chart   0.04  pkg:cpan/WebService-OurWorldInData@0.04
+WebService::OurWorldInData::Indicators  0.04  pkg:cpan/WebService-OurWorldInData@0.04
 WebService::OverheidIO               1.2  pkg:cpan/WebService-OverheidIO@1.2
 WebService::OverheidIO::BAG          1.2  pkg:cpan/WebService-OverheidIO@1.2
 WebService::OverheidIO::KvK          1.2  pkg:cpan/WebService-OverheidIO@1.2
