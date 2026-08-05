@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 05 Aug 2026 11:52:42 GMT
-Line-Count: 267567
+Last-Updated: Wed, 05 Aug 2026 13:50:34 GMT
+Line-Count: 267573
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -1207,18 +1207,18 @@ AWS::CloudFront::Logging           undef  pkg:cpan/AWS-CloudFront@0.003
 AWS::CloudFront::Request::DistributionRequest undef  pkg:cpan/AWS-CloudFront@0.003
 AWS::CloudFront::S3Origin          undef  pkg:cpan/AWS-CloudFront@0.003
 AWS::IP                             0.04  pkg:cpan/AWS-IP@0.04
-AWS::Lambda                        v0.10.0  pkg:cpan/AWS-Lambda@0.10.0
-AWS::Lambda::AL                    v0.10.0  pkg:cpan/AWS-Lambda@0.10.0
-AWS::Lambda::AL2                   v0.10.0  pkg:cpan/AWS-Lambda@0.10.0
-AWS::Lambda::AL2023                v0.10.0  pkg:cpan/AWS-Lambda@0.10.0
-AWS::Lambda::Bootstrap             undef  pkg:cpan/AWS-Lambda@0.10.0
-AWS::Lambda::Context               undef  pkg:cpan/AWS-Lambda@0.10.0
-AWS::Lambda::PSGI                  undef  pkg:cpan/AWS-Lambda@0.10.0
+AWS::Lambda                        v0.11.0  pkg:cpan/AWS-Lambda@0.11.0
+AWS::Lambda::AL                    v0.11.0  pkg:cpan/AWS-Lambda@0.11.0
+AWS::Lambda::AL2                   v0.11.0  pkg:cpan/AWS-Lambda@0.11.0
+AWS::Lambda::AL2023                v0.11.0  pkg:cpan/AWS-Lambda@0.11.0
+AWS::Lambda::Bootstrap             undef  pkg:cpan/AWS-Lambda@0.11.0
+AWS::Lambda::Context               undef  pkg:cpan/AWS-Lambda@0.11.0
+AWS::Lambda::PSGI                  undef  pkg:cpan/AWS-Lambda@0.11.0
 AWS::Lambda::Quick                 1.0002  pkg:cpan/AWS-Lambda-Quick@1.0002
 AWS::Lambda::Quick::CreateZip      1.0002  pkg:cpan/AWS-Lambda-Quick@1.0002
 AWS::Lambda::Quick::Processor      1.0002  pkg:cpan/AWS-Lambda-Quick@1.0002
 AWS::Lambda::Quick::Upload         1.0002  pkg:cpan/AWS-Lambda-Quick@1.0002
-AWS::Lambda::ResponseWriter        undef  pkg:cpan/AWS-Lambda@0.10.0
+AWS::Lambda::ResponseWriter        undef  pkg:cpan/AWS-Lambda@0.11.0
 AWS::Networks                       0.01  pkg:cpan/AWS-Networks@0.01
 AWS::S3                             2.00  pkg:cpan/AWS-S3@2.00
 AWS::S3::Bucket                    undef  pkg:cpan/AWS-S3@2.00
@@ -112314,13 +112314,13 @@ Hyper::Developer::Model::Viewer    0.100  pkg:cpan/Hyper-Developer@0.07
 Hyper::Developer::Server           undef  pkg:cpan/Hyper-Developer@0.07
 HyperWave::CSP                     0.003001  pkg:cpan/HyperWave-CSP@0.03.1
 HyperWave::CSP::Message            undef  pkg:cpan/HyperWave-CSP@0.03.1
-Hyperman                            0.09  pkg:cpan/Hyperman@0.09
-Hyperman::Event::Epoll              0.09  pkg:cpan/Hyperman@0.09
-Hyperman::Event::IOUring            0.09  pkg:cpan/Hyperman@0.09
-Hyperman::Event::Kqueue             0.09  pkg:cpan/Hyperman@0.09
-Hyperman::Event::Poll               0.09  pkg:cpan/Hyperman@0.09
-Hyperman::Future                    0.09  pkg:cpan/Hyperman@0.09
-Hyperman::Loop                      0.09  pkg:cpan/Hyperman@0.09
+Hyperman                            0.10  pkg:cpan/Hyperman@0.10
+Hyperman::Event::Epoll              0.09  pkg:cpan/Hyperman@0.10
+Hyperman::Event::IOUring            0.09  pkg:cpan/Hyperman@0.10
+Hyperman::Event::Kqueue             0.09  pkg:cpan/Hyperman@0.10
+Hyperman::Event::Poll               0.09  pkg:cpan/Hyperman@0.10
+Hyperman::Future                    0.09  pkg:cpan/Hyperman@0.10
+Hyperman::Loop                      0.09  pkg:cpan/Hyperman@0.10
 Hyperscan                           0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Database                 0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Matcher                  0.04  pkg:cpan/Hyperscan@0.04
@@ -159834,6 +159834,12 @@ PAGI::Endpoint::WebSocket          0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::FastAPI                      v0.0.3  pkg:cpan/PAGI-FastAPI@v0.0.3
 PAGI::FastAPI::Context             v0.0.3  pkg:cpan/PAGI-FastAPI@v0.0.3
 PAGI::FastAPI::Depends             v0.0.3  pkg:cpan/PAGI-FastAPI@v0.0.3
+PAGI::FastAPI::Security            v0.0.1  pkg:cpan/PAGI-FastAPI-Security@v0.0.1
+PAGI::FastAPI::Security::APIKey    v0.0.1  pkg:cpan/PAGI-FastAPI-Security@v0.0.1
+PAGI::FastAPI::Security::Base      v0.0.1  pkg:cpan/PAGI-FastAPI-Security@v0.0.1
+PAGI::FastAPI::Security::HTTPBasic v0.0.1  pkg:cpan/PAGI-FastAPI-Security@v0.0.1
+PAGI::FastAPI::Security::HTTPBearer v0.0.1  pkg:cpan/PAGI-FastAPI-Security@v0.0.1
+PAGI::FastAPI::Security::OAuth2::PasswordBearer v0.0.1  pkg:cpan/PAGI-FastAPI-Security@v0.0.1
 PAGI::Headers                      0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Lifespan                     0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Middleware                   0.002002  pkg:cpan/PAGI-Tools@0.002002
@@ -198990,7 +198996,7 @@ Plack::Handler::H2::Writer         undef  pkg:cpan/Plack-Handler-H2@0.0.5
 Plack::Handler::HTTP::Server::PSGI undef  pkg:cpan/Plack@1.0054
 Plack::Handler::HTTP::Server::Simple  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
 Plack::Handler::HTTP::Server::Simple::PSGIServer  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
-Plack::Handler::Hyperman            0.09  pkg:cpan/Hyperman@0.09
+Plack::Handler::Hyperman            0.09  pkg:cpan/Hyperman@0.10
 Plack::Handler::Martian             0.08  pkg:cpan/Martian@0.08
 Plack::Handler::Message::Passing   undef  pkg:cpan/Message-Passing-PSGI@0.001
 Plack::Handler::Monoceros          undef  pkg:cpan/Monoceros@0.29
@@ -218789,19 +218795,19 @@ Sepia::Xref                         0.65  pkg:cpan/Sepia@0.992
 Seq::Iter                          0.001  pkg:cpan/Seq-Iter@0.001
 SeqDiff                            undef  pkg:cpan/SeqDiff@v0.1
 Ser::BinRPC                         0.01  pkg:cpan/Ser-BinRPC@0.01
-Sereal                             5.009  pkg:cpan/Sereal@5.009
+Sereal                             5.010  pkg:cpan/Sereal@5.010
 Sereal::Dclone                     0.003  pkg:cpan/Sereal-Dclone@0.003
-Sereal::Decoder                    5.009  pkg:cpan/Sereal-Decoder@5.009
-Sereal::Decoder::Constants         5.009  pkg:cpan/Sereal-Decoder@5.009
-Sereal::Encoder                    5.009  pkg:cpan/Sereal-Encoder@5.009
-Sereal::Encoder::Constants         5.009  pkg:cpan/Sereal-Encoder@5.009
+Sereal::Decoder                    5.010  pkg:cpan/Sereal-Decoder@5.010
+Sereal::Decoder::Constants         5.010  pkg:cpan/Sereal-Decoder@5.010
+Sereal::Encoder                    5.010  pkg:cpan/Sereal-Encoder@5.010
+Sereal::Encoder::Constants         5.010  pkg:cpan/Sereal-Encoder@5.010
 Sereal::Merger                     0.001  pkg:cpan/Sereal-Merger@0.001
 Sereal::Merger::Constants          0.001  pkg:cpan/Sereal-Merger@0.001
 Sereal::Path                       4.004  pkg:cpan/Sereal-Path@4.004
 Sereal::Path::Constants            4.004  pkg:cpan/Sereal-Path@4.004
 Sereal::Path::Iterator             4.004  pkg:cpan/Sereal-Path@4.004
 Sereal::Path::Tie                  4.004  pkg:cpan/Sereal-Path@4.004
-Sereal::Performance                undef  pkg:cpan/Sereal-Decoder@5.009
+Sereal::Performance                undef  pkg:cpan/Sereal-Decoder@5.010
 Sereal::Splitter                   0.840  pkg:cpan/Sereal-Splitter@0.840
 Sereal::Splitter::Constants        0.830  pkg:cpan/Sereal-Splitter@0.840
 SerealX::Store                     0.003  pkg:cpan/SerealX-Store@0.003
@@ -232847,7 +232853,7 @@ Test::RestAPI::Endpoint            undef  pkg:cpan/Test-RestAPI@0.1.6
 Test::RestAPI::MojoGenerator       undef  pkg:cpan/Test-RestAPI@0.1.6
 Test::Resub                         2.03  pkg:cpan/Test-Resub@2.03
 Test::Retry                         0.01  pkg:cpan/Test-Retry@0.01
-Test::Returns                       0.03  pkg:cpan/Test-Returns@0.03
+Test::Returns                       0.04  pkg:cpan/Test-Returns@0.04
 Test::Reuse                        0.001  pkg:cpan/Test-Reuse@0.001
 Test::Rinci                        0.156  pkg:cpan/Test-Rinci@0.156
 Test::Rinci::CmdLine               0.001  pkg:cpan/Test-Rinci-CmdLine@0.001
