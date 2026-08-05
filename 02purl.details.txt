@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 05 Aug 2026 17:25:47 GMT
-Line-Count: 267575
+Last-Updated: Wed, 05 Aug 2026 19:19:22 GMT
+Line-Count: 267609
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -3820,10 +3820,10 @@ Advanced::Config::Examples          1.14  pkg:cpan/Advanced-Config@1.14
 Advanced::Config::Options           1.14  pkg:cpan/Advanced-Config@1.14
 Advanced::Config::Reader            1.14  pkg:cpan/Advanced-Config@1.14
 Advent::Bundles                     0.05  pkg:cpan/Advent-Bundles@0.05
-Affix                              v1.2.1  pkg:cpan/Affix@v1.2.1
-Affix::Build                       v1.2.1  pkg:cpan/Affix@v1.2.1
+Affix                              v1.2.2  pkg:cpan/Affix@v1.2.2
+Affix::Build                       v1.2.2  pkg:cpan/Affix@v1.2.2
 Affix::Infix2Postfix                0.03  pkg:cpan/Affix-Infix2Postfix@0.03
-Affix::Wrap                        v1.2.1  pkg:cpan/Affix@v1.2.1
+Affix::Wrap                        v1.2.2  pkg:cpan/Affix@v1.2.2
 AfterAwhileClass                   undef  pkg:cpan/Reflex@0.100
 AfterAwhileRole                    undef  pkg:cpan/Reflex@0.100
 AfterAwhileSubclass                undef  pkg:cpan/Reflex@0.100
@@ -61536,18 +61536,18 @@ Data::TableData::Object::aos       0.116  pkg:cpan/Data-TableData-Object@0.116
 Data::TableData::Object::hash      0.116  pkg:cpan/Data-TableData-Object@0.116
 Data::TableData::Pick              0.001  pkg:cpan/Data-TableData-Pick@0.001
 Data::TableData::Rank              0.002  pkg:cpan/Data-TableData-Rank@0.002
-Data::TableReader                  0.021  pkg:cpan/Data-TableReader@0.021
-Data::TableReader::Decoder         0.021  pkg:cpan/Data-TableReader@0.021
-Data::TableReader::Decoder::CSV    0.021  pkg:cpan/Data-TableReader@0.021
+Data::TableReader                  0.022  pkg:cpan/Data-TableReader@0.022
+Data::TableReader::Decoder         0.022  pkg:cpan/Data-TableReader@0.022
+Data::TableReader::Decoder::CSV    0.022  pkg:cpan/Data-TableReader@0.022
 Data::TableReader::Decoder::HTML   0.020  pkg:cpan/Data-TableReader-Decoder-HTML@0.020
-Data::TableReader::Decoder::IdiotCSV 0.021  pkg:cpan/Data-TableReader@0.021
-Data::TableReader::Decoder::Mock   0.021  pkg:cpan/Data-TableReader@0.021
-Data::TableReader::Decoder::Spreadsheet 0.021  pkg:cpan/Data-TableReader@0.021
-Data::TableReader::Decoder::TSV    0.021  pkg:cpan/Data-TableReader@0.021
-Data::TableReader::Decoder::XLS    0.021  pkg:cpan/Data-TableReader@0.021
-Data::TableReader::Decoder::XLSX   0.021  pkg:cpan/Data-TableReader@0.021
-Data::TableReader::Field           0.021  pkg:cpan/Data-TableReader@0.021
-Data::TableReader::Iterator        0.021  pkg:cpan/Data-TableReader@0.021
+Data::TableReader::Decoder::IdiotCSV 0.022  pkg:cpan/Data-TableReader@0.022
+Data::TableReader::Decoder::Mock   0.022  pkg:cpan/Data-TableReader@0.022
+Data::TableReader::Decoder::Spreadsheet 0.022  pkg:cpan/Data-TableReader@0.022
+Data::TableReader::Decoder::TSV    0.022  pkg:cpan/Data-TableReader@0.022
+Data::TableReader::Decoder::XLS    0.022  pkg:cpan/Data-TableReader@0.022
+Data::TableReader::Decoder::XLSX   0.022  pkg:cpan/Data-TableReader@0.022
+Data::TableReader::Field           0.022  pkg:cpan/Data-TableReader@0.022
+Data::TableReader::Iterator        0.022  pkg:cpan/Data-TableReader@0.022
 Data::Tabular                       0.29  pkg:cpan/Data-Tabular@0.29
 Data::Tabular::Config::Extra       undef  pkg:cpan/Data-Tabular@0.29
 Data::Tabular::Config::Output      undef  pkg:cpan/Data-Tabular@0.29
@@ -104269,6 +104269,40 @@ Google::Api::Usage                  0.11  pkg:cpan/Google-Api-Common@0.03
 Google::Api::Usage::Types          undef  pkg:cpan/Google-Api-Common@0.03
 Google::Api::Visibility             0.11  pkg:cpan/Google-Api-Common@0.03
 Google::Api::Visibility::Types     undef  pkg:cpan/Google-Api-Common@0.03
+Google::Auth                        0.10  pkg:cpan/Google-Auth@0.10
+Google::Auth::ClientId             undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::CloudSDK             undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::ComputeEngine        undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::Credentials          undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::DefaultCredentials   undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::DefaultCredentialsError undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::EnvironmentVars      undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::Error                undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::Exceptions           undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::ExternalAccountCredentials undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::ExternalAccountCredentials::Aws undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::ExternalAccountCredentials::Pluggable undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::IAMCredentials       undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::IDTokens             undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::IDTokens::AggregateKeySource undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::IDTokens::HttpKeySource undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::IDTokens::JwkHttpKeySource undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::IDTokens::KeyInfo    undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::IDTokens::KeySources undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::IDTokens::StaticKeySource undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::IDTokens::Verifier   undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::IDTokens::X509CertHttpKeySource undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::ImpersonatedServiceAccountCredentials undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::RefreshError         undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::RetryHelper          undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::ServiceAccountCredentials undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::Signet               undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::Signet::OAuth2       undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::TransportError       undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::UserAuthorizer       undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::UserRefreshCredentials undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::WebUserAuthorizer    undef  pkg:cpan/Google-Auth@0.10
+Google::Auth::WebUserAuthorizer::CallbackApp undef  pkg:cpan/Google-Auth@0.10
 Google::BUCC                       undef  pkg:cpan/Google-OAuth@0.05
 Google::BigQuery                    1.02  pkg:cpan/Google-BigQuery@1.02
 Google::BigQuery::V2               undef  pkg:cpan/Google-BigQuery@1.02
@@ -134627,8 +134661,8 @@ Math::ModInt::GF3                  0.013  pkg:cpan/Math-ModInt@0.013
 Math::ModInt::Perl                 0.013  pkg:cpan/Math-ModInt@0.013
 Math::ModInt::Trivial              0.013  pkg:cpan/Math-ModInt@0.013
 Math::MultiplicationTable           0.01  pkg:cpan/Math-MultiplicationTable@0.01
-Math::NLopt                         0.11  pkg:cpan/Math-NLopt@0.11
-Math::NLopt::Exception              0.11  pkg:cpan/Math-NLopt@0.11
+Math::NLopt                         0.12  pkg:cpan/Math-NLopt@0.12
+Math::NLopt::Exception              0.12  pkg:cpan/Math-NLopt@0.12
 Math::NLopt::Exception::Failure     0.11  pkg:cpan/Math-NLopt@0.11
 Math::NLopt::Exception::ForcedStop  0.11  pkg:cpan/Math-NLopt@0.11
 Math::NLopt::Exception::InvalidArgs  0.11  pkg:cpan/Math-NLopt@0.11
@@ -162892,7 +162926,7 @@ POSIX::RT::MQ                       0.05  pkg:cpan/POSIX-RT-MQ@0.05
 POSIX::RT::Scheduler               0.003  pkg:cpan/POSIX-RT-Scheduler@0.003
 POSIX::RT::Semaphore                0.05  pkg:cpan/POSIX-RT-Semaphore@0.05
 POSIX::RT::SharedMem                0.11  pkg:cpan/POSIX-RT-SharedMem@0.11
-POSIX::RT::Signal                  0.019  pkg:cpan/POSIX-RT-Signal@0.019
+POSIX::RT::Signal                  0.020  pkg:cpan/POSIX-RT-Signal@0.020
 POSIX::RT::Spawn                    0.13  pkg:cpan/POSIX-RT-Spawn@0.13
 POSIX::RT::Timer                   0.024  pkg:cpan/POSIX-RT-Timer@0.024
 POSIX::Regex                       1.0003  pkg:cpan/POSIX-Regex@1.0003
