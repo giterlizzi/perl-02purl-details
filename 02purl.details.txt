@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 05 Aug 2026 20:59:55 GMT
-Line-Count: 267609
+Last-Updated: Wed, 05 Aug 2026 22:51:15 GMT
+Line-Count: 267610
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -157822,6 +157822,7 @@ Object::BlankStr                    0.05  pkg:cpan/Object-BlankStr@0.05
 Object::Boolean                     0.02  pkg:cpan/Object-Boolean@0.02
 Object::Boolean::YesNo              0.02  pkg:cpan/Object-Boolean@0.02
 Object::Botox                       1.15  pkg:cpan/Object-Botox@1.15
+Object::Cache::Sqlite              0.001002  pkg:cpan/Object-Cache-Sqlite@v0.1.2
 Object::Capsule                    0.012  pkg:cpan/Object-Capsule@0.012
 Object::Composer                   0.000002  pkg:cpan/Object-Composer@0.0.2
 Object::Configure                   0.23  pkg:cpan/Object-Configure@0.23
