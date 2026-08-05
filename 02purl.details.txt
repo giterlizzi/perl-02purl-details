@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 05 Aug 2026 04:59:09 GMT
-Line-Count: 267535
+Last-Updated: Wed, 05 Aug 2026 08:24:05 GMT
+Line-Count: 267567
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -32861,7 +32861,7 @@ CLI                                undef  pkg:cpan/CLI@0.24
 CLI::Application                    0.03  pkg:cpan/CLI-Application@0.03
 CLI::Array                         undef  pkg:cpan/CLI@0.24
 CLI::Base                          undef  pkg:cpan/CLI@0.24
-CLI::Cmdline                        1.29  pkg:cpan/CLI-Cmdline@1.29
+CLI::Cmdline                        1.30  pkg:cpan/CLI-Cmdline@1.30
 CLI::Coin::Toss                     0.35  pkg:cpan/CLI-Coin-Toss@0.35
 CLI::Command                       undef  pkg:cpan/CLI@0.24
 CLI::Contingency::Table             0.53  pkg:cpan/CLI-Contingency-Table@0.53
@@ -139226,37 +139226,37 @@ Module::Functions                  v2.1.3  pkg:cpan/Module-Functions@2.1.3
 Module::Generate                    1.04  pkg:cpan/Module-Generate@1.04
 Module::Generate::Hash              1.01  pkg:cpan/Module-Generate-Hash@1.01
 Module::Generate::YAML              1.01  pkg:cpan/Module-Generate-YAML@1.01
-Module::Generic                    1.006002  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::Array             2.003001  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::Boolean           1.002002  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::DateTime          0.006005  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::DateTime::Interval 0.006005  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::Dynamic           1.003002  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::Exception         1.004001  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::File              0.016002  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::File::Cache       0.003001  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::File::IO          0.002001  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::File::Magic       0.002000  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::File::Mmap        0.001005  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::Finfo             0.005007  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::Global            1.002002  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::Hash              1.005003  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::HeaderValue       0.004004  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::Infinity          2.005001  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::Iterator          1.002004  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::Iterator::Element 1.002004  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::JSON              0.002002  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::Nan               2.005001  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::Null              1.001005  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::Number            2.005001  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::Number::Format    0.001001  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::NumberSpecial     2.005001  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::Scalar            1.004004  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::Scalar::IO        0.002001  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::SharedMem         0.005006  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::SharedMemXS       0.003004  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::Tie               1.002000  pkg:cpan/Module-Generic@v1.6.2
-Module::Generic::TieHash           1.002003  pkg:cpan/Module-Generic@v1.6.2
+Module::Generic                    1.007000  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::Array             2.003001  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::Boolean           1.002002  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::DateTime          0.006005  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::DateTime::Interval 0.006005  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::Dynamic           1.003002  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::Exception         1.004001  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::File              0.017000  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::File::Cache       0.003001  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::File::IO          0.002001  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::File::Magic       0.002000  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::File::Mmap        0.001005  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::Finfo             0.005007  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::Global            1.002002  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::Hash              1.005003  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::HeaderValue       0.004004  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::Infinity          2.005001  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::Iterator          1.002004  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::Iterator::Element 1.002004  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::JSON              0.002002  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::Nan               2.005001  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::Null              1.001005  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::Number            2.005001  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::Number::Format    0.001001  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::NumberSpecial     2.005001  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::Scalar            1.004004  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::Scalar::IO        0.002001  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::SharedMem         0.005006  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::SharedMemXS       0.003004  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::Tie               1.002000  pkg:cpan/Module-Generic@v1.7.0
+Module::Generic::TieHash           1.002003  pkg:cpan/Module-Generic@v1.7.0
 Module::Hash                       0.002  pkg:cpan/Module-Hash@0.002
 Module::HideRename                 0.003  pkg:cpan/Module-HideRename@0.003
 Module::Husbandry                  0.002  pkg:cpan/Module-Husbandry@0.002
@@ -150245,11 +150245,43 @@ Net::FileShare                      0.18  pkg:cpan/Net-FileShare@0.18
 Net::Finger                         1.06  pkg:cpan/Net-Finger@1.06
 Net::Finger::Server                0.005  pkg:cpan/Net-Finger-Server@0.005
 Net::FireEagle                       1.6  pkg:cpan/Net-FireEagle@1.6
-Net::Firewall::BlockerHelper       0.000001  pkg:cpan/Net-Firewall-BlockerHelper@0.0.1
-Net::Firewall::BlockerHelper::backends::dummy 0.000001  pkg:cpan/Net-Firewall-BlockerHelper@0.0.1
-Net::Firewall::BlockerHelper::backends::ipfw 0.000001  pkg:cpan/Net-Firewall-BlockerHelper@0.0.1
-Net::Firewall::BlockerHelper::backends::pf 0.000001  pkg:cpan/Net-Firewall-BlockerHelper@0.0.1
-Net::Firewall::BlockerHelper::backends::shell 0.000001  pkg:cpan/Net-Firewall-BlockerHelper@0.0.1
+Net::Firewall::BlockerHelper       0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::abuseipdb 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::akamai 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::aws_wafv2 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::azure 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::bgp_rtbh 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::checkpoint 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::cisco_fmc 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::cloud_armor 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::cloudflare 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::dns_rpz 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::dummy 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::f5_bigip 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::fastly 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::file_reload 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::firewalld 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::fortigate 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::hosts_deny 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::ipfw 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::iptables 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::juniper_srx 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::linux_ip_route 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::netscaler 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::nftables 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::npf 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::nsupdate 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::opnsense 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::panos 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::pf 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::pfsense 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::routeros 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::routeros_api 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::shell 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::shorewall 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::ufw 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::vyos 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper::backends::xdp 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
 Net::Fix::Checksum::XS              0.03  pkg:cpan/Net-Fix-Checksum-XS@0.03
 Net::FleetDB                        0.33  pkg:cpan/Net-FleetDB@0.33
 Net::Flickr::API                     1.7  pkg:cpan/Net-Flickr-API@1.7
@@ -208106,7 +208138,7 @@ ReturnValue                        0.904  pkg:cpan/ReturnValue@0.904
 ReturnValue::Error                 0.904  pkg:cpan/ReturnValue@0.904
 ReturnValue::Success               0.904  pkg:cpan/ReturnValue@0.904
 Reuters::SSL                        0.52  pkg:cpan/Reuters-SSL@0.52
-Reverse::Proxy                      0.02  pkg:cpan/Reverse-Proxy@0.02
+Reverse::Proxy                      0.03  pkg:cpan/Reverse-Proxy@0.03
 ReverseProxy::FormFiller             0.5  pkg:cpan/ReverseProxy-FormFiller@0.5
 Rewire                              0.06  pkg:cpan/Rewire@0.06
 Rewire::Engine                     undef  pkg:cpan/Rewire@0.06
