@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 05 Aug 2026 01:53:30 GMT
+Last-Updated: Wed, 05 Aug 2026 04:59:09 GMT
 Line-Count: 267535
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -211267,51 +211267,51 @@ SPVM::Format                       undef  pkg:cpan/SPVM@0.990191
 SPVM::Getopt::Long                 0.004  pkg:cpan/SPVM-Getopt-Long@0.004
 SPVM::Getopt::Long::Spec           undef  pkg:cpan/SPVM-Getopt-Long@0.004
 SPVM::Global                       undef  pkg:cpan/SPVM@0.990191
-SPVM::Go                           0.039  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::Channel                  undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::Channel::Wait            undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::Context                  undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::Context::CanncelCallback undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::Context::Derived         undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::Context::Error::Canceled undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::Context::Error::DeadlineExceeded undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::Context::Value           undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go                           0.040  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::Channel                  undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::Channel::Wait            undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::Context                  undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::Context::CanncelCallback undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::Context::Derived         undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::Context::Error::Canceled undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::Context::Error::DeadlineExceeded undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::Context::Value           undef  pkg:cpan/SPVM-Go@0.040
 SPVM::Go::Coroutine                undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Duration_1l              undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::Error::IOTimeout         undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::Goroutine                undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::OS::Signal               undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::Duration_1l              undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::Error::IOTimeout         undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::Goroutine                undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::OS::Signal               undef  pkg:cpan/SPVM-Go@0.040
 SPVM::Go::Poll                     undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Schedule                 undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::Schedule::Info           undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::Schedule                 undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::Schedule::Info           undef  pkg:cpan/SPVM-Go@0.040
 SPVM::Go::Schedule::Task           undef  pkg:cpan/SPVM-Go@0.031
-SPVM::Go::Select                   undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::Select::Case             undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::Select::Result           undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::Sync::WaitGroup          undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::Time                     undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::UV                       undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::UV::Callback::Async      undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::UV::Callback::Close      undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::Select                   undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::Select::Case             undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::Select::Result           undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::Sync::WaitGroup          undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::Time                     undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::UV                       undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::UV::Callback::Async      undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::UV::Callback::Close      undef  pkg:cpan/SPVM-Go@0.040
 SPVM::Go::UV::Callback::Handle     undef  pkg:cpan/SPVM-Go@0.036
-SPVM::Go::UV::Callback::Idle       undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::UV::Callback::Idle       undef  pkg:cpan/SPVM-Go@0.040
 SPVM::Go::UV::Callback::LoopAlive  undef  pkg:cpan/SPVM-Go@0.036
-SPVM::Go::UV::Callback::Poll       undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::UV::Callback::Read       undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::UV::Callback::Timer      undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::UV::Callback::Write      undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::UV::ConfigBuilder        undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::UV::Callback::Poll       undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::UV::Callback::Read       undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::UV::Callback::Timer      undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::UV::Callback::Write      undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::UV::ConfigBuilder        undef  pkg:cpan/SPVM-Go@0.040
 SPVM::Go::UV::Event                undef  pkg:cpan/SPVM-Go@0.037
-SPVM::Go::UV::Handle               undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::UV::Handle::Async        undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::UV::Handle::Idle         undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::UV::Handle::Pipe         undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::UV::Handle::Poll         undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::UV::Handle::Stream       undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::UV::Handle::Timer        undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::UV::Loop                 undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::UV::Request              undef  pkg:cpan/SPVM-Go@0.039
-SPVM::Go::UV::Request::Write       undef  pkg:cpan/SPVM-Go@0.039
+SPVM::Go::UV::Handle               undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::UV::Handle::Async        undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::UV::Handle::Idle         undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::UV::Handle::Pipe         undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::UV::Handle::Poll         undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::UV::Handle::Stream       undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::UV::Handle::Timer        undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::UV::Loop                 undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::UV::Request              undef  pkg:cpan/SPVM-Go@0.040
+SPVM::Go::UV::Request::Write       undef  pkg:cpan/SPVM-Go@0.040
 SPVM::HTTP::Tiny                   0.017  pkg:cpan/SPVM-HTTP-Tiny@0.017
 SPVM::HTTP::Tiny::Asset            undef  pkg:cpan/SPVM-HTTP-Tiny@0.012
 SPVM::HTTP::Tiny::Asset::File      undef  pkg:cpan/SPVM-HTTP-Tiny@0.012
