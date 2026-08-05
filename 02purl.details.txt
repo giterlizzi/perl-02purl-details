@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 04 Aug 2026 22:55:20 GMT
-Line-Count: 267533
+Last-Updated: Wed, 05 Aug 2026 01:53:30 GMT
+Line-Count: 267535
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -47705,17 +47705,18 @@ Conan::Configure::Xen                  0  pkg:cpan/Conan@0.0.7
 Conan::Deploy                          0  pkg:cpan/Conan@0.0.7
 Conan::Promote                         0  pkg:cpan/Conan@0.0.7
 Conan::Promote::Xen                    0  pkg:cpan/Conan@0.0.7
-Concierge                          v0.11.0  pkg:cpan/Concierge@v0.11.0
+Concierge                          v0.13.0  pkg:cpan/Concierge@v0.13.0
 Concierge::Auth                    v0.5.2  pkg:cpan/Concierge-Auth@v0.5.2
 Concierge::Auth::Base              v0.5.2  pkg:cpan/Concierge-Auth@v0.5.2
 Concierge::Auth::Generators        v0.4.5  pkg:cpan/Concierge-Auth@v0.5.2
 Concierge::Auth::Pwd               v0.5.2  pkg:cpan/Concierge-Auth@v0.5.2
 Concierge::Base                    v0.7.2  pkg:cpan/Concierge@v0.7.2
 Concierge::Desk::Base              v0.9.0  pkg:cpan/Concierge@v0.9.0
-Concierge::Desk::Component         v0.11.0  pkg:cpan/Concierge@v0.11.0
-Concierge::Desk::Setup             v0.11.0  pkg:cpan/Concierge@v0.11.0
-Concierge::Desk::UnavailableComponent v0.11.0  pkg:cpan/Concierge@v0.11.0
-Concierge::Desk::User              v0.11.0  pkg:cpan/Concierge@v0.11.0
+Concierge::Desk::Component         v0.13.0  pkg:cpan/Concierge@v0.13.0
+Concierge::Desk::DeferredComponent v0.13.0  pkg:cpan/Concierge@v0.13.0
+Concierge::Desk::Setup             v0.13.0  pkg:cpan/Concierge@v0.13.0
+Concierge::Desk::UnavailableComponent v0.13.0  pkg:cpan/Concierge@v0.13.0
+Concierge::Desk::User              v0.13.0  pkg:cpan/Concierge@v0.13.0
 Concierge::Sessions                v0.11.3  pkg:cpan/Concierge-Sessions@v0.11.3
 Concierge::Sessions::Base          v0.11.3  pkg:cpan/Concierge-Sessions@v0.11.3
 Concierge::Sessions::File          v0.11.3  pkg:cpan/Concierge-Sessions@v0.11.3
@@ -50284,7 +50285,7 @@ Crypt::SEAL2                         1.0  pkg:cpan/Crypt-SEAL2@1.0.4
 Crypt::SEED                         0.01  pkg:cpan/Crypt-SEED@0.01
 Crypt::SHAVS                        0.02  pkg:cpan/Crypt-SHAVS@0.02
 Crypt::SKey                         0.10  pkg:cpan/Crypt-SKey@0.10
-Crypt::SMIME                        0.32  pkg:cpan/Crypt-SMIME@0.33
+Crypt::SMIME                        0.34  pkg:cpan/Crypt-SMIME@0.34
 Crypt::SMimeEngine                  0.06  pkg:cpan/Crypt-SMimeEngine@0.06
 Crypt::SRP                         0.019  pkg:cpan/Crypt-SRP@0.019
 Crypt::SSLeay                       0.72  pkg:cpan/Crypt-SSLeay@0.72
@@ -50568,7 +50569,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.0  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
 Cucumber::TagExpressions::NotNode  v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
 Cucumber::TagExpressions::OrNode   v11.0.0  pkg:cpan/Cucumber-TagExpressions@11.0.0
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.139
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.140
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
@@ -64635,7 +64636,7 @@ Desktop::KDEActivity::Util         0.003  pkg:cpan/Desktop-KDEActivity-Util@0.00
 Desktop::Notify                     0.05  pkg:cpan/Desktop-Notify@0.05
 Desktop::Notify::Notification       0.03  pkg:cpan/Desktop-Notify@0.05
 Desktop::Open                      0.004  pkg:cpan/Desktop-Open@0.004
-Desktop::Workspace::Util           0.003  pkg:cpan/Desktop-Workspace-Util@0.003
+Desktop::Workspace::Util           0.004  pkg:cpan/Desktop-Workspace-Util@0.004
 DesktopWorkspace                   v1.0.1  pkg:cpan/DesktopWorkspace@1.0.1
 DesktopWorkspace::Sample::Source::DefHash 0.001  pkg:cpan/DesktopWorkspaceRoles-Standard@0.001
 DesktopWorkspace::Test::Spec::Basic v1.0.1  pkg:cpan/DesktopWorkspace@1.0.1
@@ -124520,6 +124521,7 @@ Lingua::Thesaurus::Storage::SQLite undef  pkg:cpan/Lingua-Thesaurus@0.13
 Lingua::Thesaurus::Term            undef  pkg:cpan/Lingua-Thesaurus@0.13
 Lingua::TokenParse                 0.1602  pkg:cpan/Lingua-TokenParse@0.1602
 Lingua::TokiPona::Numbers           0.03  pkg:cpan/Lingua-Conlang-Numbers@0.04
+Lingua::TokiPona::Word             v0.1.0  pkg:cpan/Lingua-TokiPona-Word@v0.01
 Lingua::Translate                   0.09  pkg:cpan/Lingua-Translate@0.09
 Lingua::Translate::Babelfish       undef  pkg:cpan/Lingua-Translate@0.09
 Lingua::Translate::Bing             0.04  pkg:cpan/Lingua-Translate-Bing@0.04
