@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 05 Aug 2026 15:56:50 GMT
-Line-Count: 267573
+Last-Updated: Wed, 05 Aug 2026 17:25:47 GMT
+Line-Count: 267575
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -59032,15 +59032,15 @@ Data::ISO8583                       2.44  pkg:cpan/Data-ISO8583@2.44
 Data::ISO8583::VISA                 2.44  pkg:cpan/Data-ISO8583@2.44
 Data::Icon                          0.02  pkg:cpan/Data-Icon@0.02
 Data::IconText                     v0.7.0  pkg:cpan/Data-IconText@v0.07
-Data::Identifier                   v0.33.0  pkg:cpan/Data-Identifier@v0.33
-Data::Identifier::Cloudlet         v0.33.0  pkg:cpan/Data-Identifier@v0.33
-Data::Identifier::Generate         v0.33.0  pkg:cpan/Data-Identifier@v0.33
-Data::Identifier::Interface::Known v0.33.0  pkg:cpan/Data-Identifier@v0.33
-Data::Identifier::Interface::Simple v0.33.0  pkg:cpan/Data-Identifier@v0.33
-Data::Identifier::Interface::Subobjects v0.33.0  pkg:cpan/Data-Identifier@v0.33
-Data::Identifier::Interface::Userdata v0.33.0  pkg:cpan/Data-Identifier@v0.33
-Data::Identifier::Util             v0.33.0  pkg:cpan/Data-Identifier@v0.33
-Data::Identifier::Wellknown        v0.33.0  pkg:cpan/Data-Identifier@v0.33
+Data::Identifier                   v0.34.0  pkg:cpan/Data-Identifier@v0.34
+Data::Identifier::Cloudlet         v0.34.0  pkg:cpan/Data-Identifier@v0.34
+Data::Identifier::Generate         v0.34.0  pkg:cpan/Data-Identifier@v0.34
+Data::Identifier::Interface::Known v0.34.0  pkg:cpan/Data-Identifier@v0.34
+Data::Identifier::Interface::Simple v0.34.0  pkg:cpan/Data-Identifier@v0.34
+Data::Identifier::Interface::Subobjects v0.34.0  pkg:cpan/Data-Identifier@v0.34
+Data::Identifier::Interface::Userdata v0.34.0  pkg:cpan/Data-Identifier@v0.34
+Data::Identifier::Util             v0.34.0  pkg:cpan/Data-Identifier@v0.34
+Data::Identifier::Wellknown        v0.34.0  pkg:cpan/Data-Identifier@v0.34
 Data::Image                         0.06  pkg:cpan/Data-Image@0.06
 Data::Importer                     0.006  pkg:cpan/Data-Importer@0.006
 Data::Importer::Iterator           0.006  pkg:cpan/Data-Importer@0.006
@@ -62456,8 +62456,8 @@ Database::Wrapper::MySQL            1.04  pkg:cpan/Database-Wrapper@1.04
 Database::Wrapper::ODBC             1.04  pkg:cpan/Database-Wrapper@1.04
 Database::Wrapper::Postgres         1.04  pkg:cpan/Database-Wrapper@1.04
 Database::Wrapper::SQLite           1.04  pkg:cpan/Database-Wrapper@1.04
-Datafile::Array                     1.07  pkg:cpan/Datafile-Array@1.07
-Datafile::Hash                      1.07  pkg:cpan/Datafile-Hash@1.07
+Datafile::Array                     1.08  pkg:cpan/Datafile-Array@1.08
+Datafile::Hash                      1.08  pkg:cpan/Datafile-Hash@1.08
 Datahub::Factory                    1.77  pkg:cpan/Datahub-Factory@1.77
 Datahub::Factory::Adlib::Import    undef  pkg:cpan/Datahub-Factory@0.01
 Datahub::Factory::Arthub            1.02  pkg:cpan/Datahub-Factory-Arthub@1.02
@@ -74200,18 +74200,18 @@ Fennec::Util                       undef  pkg:cpan/Fennec@2.018
 Fern                               undef  pkg:cpan/Fern@0.2
 Festival::Client                     1.0  pkg:cpan/Festival-Client@1.0
 Festival::Client::Async            0.0303  pkg:cpan/Festival-Client-Async@0.0303
-Fetch                               0.09  pkg:cpan/Fetch@0.09
-Fetch::CookieJar                    0.09  pkg:cpan/Fetch@0.09
-Fetch::Future                       0.09  pkg:cpan/Fetch@0.09
-Fetch::Headers                      0.09  pkg:cpan/Fetch@0.09
+Fetch                               0.10  pkg:cpan/Fetch@0.10
+Fetch::CookieJar                    0.09  pkg:cpan/Fetch@0.10
+Fetch::Future                       0.09  pkg:cpan/Fetch@0.10
+Fetch::Headers                      0.09  pkg:cpan/Fetch@0.10
 Fetch::Image                       1.000000  pkg:cpan/Fetch-Image@1.000000
-Fetch::Loop                         0.09  pkg:cpan/Fetch@0.09
-Fetch::Loop::AnyEvent               0.09  pkg:cpan/Fetch@0.09
-Fetch::Loop::Hyperman               0.09  pkg:cpan/Fetch@0.09
-Fetch::Loop::IOAsync                0.09  pkg:cpan/Fetch@0.09
-Fetch::Loop::Standalone             0.09  pkg:cpan/Fetch@0.09
-Fetch::Response                     0.09  pkg:cpan/Fetch@0.09
-Fetch::WebSocket                    0.09  pkg:cpan/Fetch@0.09
+Fetch::Loop                         0.09  pkg:cpan/Fetch@0.10
+Fetch::Loop::AnyEvent               0.09  pkg:cpan/Fetch@0.10
+Fetch::Loop::Hyperman               0.09  pkg:cpan/Fetch@0.10
+Fetch::Loop::IOAsync                0.09  pkg:cpan/Fetch@0.10
+Fetch::Loop::Standalone             0.09  pkg:cpan/Fetch@0.10
+Fetch::Response                     0.09  pkg:cpan/Fetch@0.10
+Fetch::WebSocket                    0.09  pkg:cpan/Fetch@0.10
 Fetcher                            undef  pkg:cpan/article_fetcher?ext=zip
 Fey                                 0.44  pkg:cpan/Fey@0.44
 Fey::Column                         0.44  pkg:cpan/Fey@0.44
@@ -224773,7 +224773,7 @@ Stats::Fermi::FermiDiracStats      undef  pkg:cpan/Stats-Fermi@0.1.7
 Stats::Hawking                     0.001003  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HTRandom           undef  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HawkingTemperature undef  pkg:cpan/Stats-Hawking@0.1.3
-Stats::LikeR                       0.291  pkg:cpan/Stats-LikeR@0.291
+Stats::LikeR                       0.292  pkg:cpan/Stats-LikeR@0.292
 Stats::LikeR::Pred                  0.16  pkg:cpan/Stats-LikeR@0.16
 Stats::LikeR::col                   0.28  pkg:cpan/Stats-LikeR@0.28
 StatsView::Graph                    1.15  pkg:cpan/StatsView@1.4
@@ -230135,6 +230135,8 @@ Template::Stash::EscapeHTML         0.02  pkg:cpan/Template-Stash-EscapeHTML@0.0
 Template::Stash::ForceUTF8          0.03  pkg:cpan/Template-Provider-Encoding@0.10
 Template::Stash::HTML::Entities    1.003001  pkg:cpan/Template-Stash-HTML-Entities@1.3.1
 Template::Stash::XS                undef  pkg:cpan/Template-Toolkit@3.106
+Template::Stencil                   0.02  pkg:cpan/Template-Stencil@0.02
+Template::Stencil::PSGI             0.02  pkg:cpan/Template-Stencil@0.02
 Template::Swig                      0.05  pkg:cpan/Template-Swig@0.05
 Template::TAL                       0.91  pkg:cpan/Template-TAL@0.91
 Template::TAL::Language            undef  pkg:cpan/Template-TAL@0.91
@@ -235080,7 +235082,7 @@ Text::Statistics::Devanagari        0.04  pkg:cpan/Text-Statistics-Devanagari@0.
 Text::Statistics::GreekAndCoptic    0.05  pkg:cpan/Text-Statistics-GreekAndCoptic@0.05
 Text::Statistics::Latin             0.06  pkg:cpan/Text-Statistics-Latin@0.06
 Text::StemTagPOS                    0.61  pkg:cpan/Text-StemTagPOS@0.61
-Text::Stencil                       0.02  pkg:cpan/Text-Stencil@0.02
+Text::Stencil                       0.03  pkg:cpan/Text-Stencil@0.03
 Text::StripAccents                  0.11  pkg:cpan/Text-StripAccents@0.11
 Text::Striphigh                     0.02  pkg:cpan/Text-Striphigh@0.02
 Text::Stripper                      1.16  pkg:cpan/Text-Stripper@1.16
@@ -259582,7 +259584,7 @@ XML::Handler::XMLWriter             0.08  pkg:cpan/libxml-perl@0.08
 XML::Handler::YAWriter              0.23  pkg:cpan/XML-Handler-YAWriter@0.23
 XML::Hash                           0.95  pkg:cpan/XML-Hash@0.95
 XML::Hash::LX                       0.07  pkg:cpan/XML-Hash-LX@0.07
-XML::Hash::XS                       0.64  pkg:cpan/XML-Hash-XS@0.64
+XML::Hash::XS                       0.65  pkg:cpan/XML-Hash-XS@0.65
 XML::IDMEF                          0.11  pkg:cpan/XML-IDMEF@0.11
 XML::IETF                           0.01  pkg:cpan/XML-IETF@0.01
 XML::IODEF                          0.11  pkg:cpan/XML-IODEF@0.11
