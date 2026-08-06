@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 06 Aug 2026 01:55:41 GMT
+Last-Updated: Thu, 06 Aug 2026 05:11:26 GMT
 Line-Count: 267610
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -131325,41 +131325,41 @@ Mail::AuthenticationResults::Token::QuotedString 2.20260216  pkg:cpan/Mail-Authe
 Mail::AuthenticationResults::Token::Separator 2.20260216  pkg:cpan/Mail-AuthenticationResults@2.20260216
 Mail::AuthenticationResults::Token::Space 2.20260216  pkg:cpan/Mail-AuthenticationResults@2.20260216
 Mail::AuthenticationResults::Token::String 2.20260216  pkg:cpan/Mail-AuthenticationResults@2.20260216
-Mail::BIMI                         3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::App                    3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::App::Command::checkdomain 3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::App::Command::checkrecord 3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::App::Command::checksvg 3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::App::Command::checkvmc 3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::App::Command::svgfromvmc 3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::Base                   3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::CacheBackend::FastMmap 3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::CacheBackend::File     3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::CacheBackend::Null     3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::Constants              3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::Error                  3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::Indicator              3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::Options                3.20260302  pkg:cpan/Mail-BIMI@3.20260302
+Mail::BIMI                         3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::App                    3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::App::Command::checkdomain 3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::App::Command::checkrecord 3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::App::Command::checksvg 3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::App::Command::checkvmc 3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::App::Command::svgfromvmc 3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::Base                   3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::CacheBackend::FastMmap 3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::CacheBackend::File     3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::CacheBackend::Null     3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::Constants              3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::Error                  3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::Indicator              3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::Options                3.20260806  pkg:cpan/Mail-BIMI@3.20260806
 Mail::BIMI::Pragmas                1.20200226  pkg:cpan/Mail-BIMI@1.20200226
-Mail::BIMI::Prelude                3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::Record                 3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::Record::Authority      3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::Record::Location       3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::Result                 3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::Role::CacheBackend     3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::Role::Cacheable        3.20260302  pkg:cpan/Mail-BIMI@3.20260302
+Mail::BIMI::Prelude                3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::Record                 3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::Record::Authority      3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::Record::Location       3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::Result                 3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::Role::CacheBackend     3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::Role::Cacheable        3.20260806  pkg:cpan/Mail-BIMI@3.20260806
 Mail::BIMI::Role::Constants        1.20200226  pkg:cpan/Mail-BIMI@1.20200226
-Mail::BIMI::Role::Data             3.20260302  pkg:cpan/Mail-BIMI@3.20260302
+Mail::BIMI::Role::Data             3.20260806  pkg:cpan/Mail-BIMI@3.20260806
 Mail::BIMI::Role::Error            1.20200226  pkg:cpan/Mail-BIMI@1.20200226
-Mail::BIMI::Role::HasError         3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::Role::HasHTTPClient    3.20260302  pkg:cpan/Mail-BIMI@3.20260302
+Mail::BIMI::Role::HasError         3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::Role::HasHTTPClient    3.20260806  pkg:cpan/Mail-BIMI@3.20260806
 Mail::BIMI::Role::Resolver         1.20200226  pkg:cpan/Mail-BIMI@1.20200226
-Mail::BIMI::Trait::CacheKey        3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::Trait::CacheSerial     3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::Trait::Cacheable       3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::VMC                    3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::VMC::Cert              3.20260302  pkg:cpan/Mail-BIMI@3.20260302
-Mail::BIMI::VMC::Chain             3.20260302  pkg:cpan/Mail-BIMI@3.20260302
+Mail::BIMI::Trait::CacheKey        3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::Trait::CacheSerial     3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::Trait::Cacheable       3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::VMC                    3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::VMC::Cert              3.20260806  pkg:cpan/Mail-BIMI@3.20260806
+Mail::BIMI::VMC::Chain             3.20260806  pkg:cpan/Mail-BIMI@3.20260806
 Mail::Barracuda::API                0.01  pkg:cpan/Mail-Barracuda-API@0.01
 Mail::Box                           4.02  pkg:cpan/Mail-Box@4.02
 Mail::Box::Collection               4.02  pkg:cpan/Mail-Box@4.02
