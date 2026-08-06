@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 06 Aug 2026 08:21:47 GMT
-Line-Count: 267613
+Last-Updated: Thu, 06 Aug 2026 11:58:07 GMT
+Line-Count: 267614
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -11090,7 +11090,7 @@ App::Logs                              0  pkg:cpan/App-FargateStack@1.0.50
 App::Lorem::Tickit                  0.01  pkg:cpan/App-Lorem-Tickit@0.01
 App::Lorem::Tickit::TextWidget      0.01  pkg:cpan/App-Lorem-Tickit@0.01
 App::Lorem::Tickit::Widget          0.01  pkg:cpan/App-Lorem-Tickit@0.01
-App::MARC::Count                    0.04  pkg:cpan/App-MARC-Count@0.04
+App::MARC::Count                    0.05  pkg:cpan/App-MARC-Count@0.05
 App::MARC::Field008                 0.01  pkg:cpan/App-MARC-Field008@0.01
 App::MARC::Filter                   0.11  pkg:cpan/App-MARC-Filter@0.11
 App::MARC::Leader                   0.11  pkg:cpan/App-MARC-Leader@0.11
@@ -47917,7 +47917,7 @@ Config::Identity::Bitbucket        0.001  pkg:cpan/Dist-Zilla-Plugin-Bitbucket@0
 Config::Identity::GitHub           0.0019  pkg:cpan/Config-Identity@0.0019
 Config::Identity::PAUSE            0.0019  pkg:cpan/Config-Identity@0.0019
 Config::Inetd                       0.33  pkg:cpan/Config-Inetd@0.33
-Config::IniFiles                   3.002000  pkg:cpan/Config-IniFiles@3.002000
+Config::IniFiles                   3.003000  pkg:cpan/Config-IniFiles@3.003000
 Config::IniFiles::Check::Health     0.09  pkg:cpan/Config-IniFiles-Check-Health@0.09
 Config::IniFiles::_section          1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 Config::IniHashReadDeep             0.04  pkg:cpan/Config-IniHashReadDeep@0.05
@@ -124558,7 +124558,7 @@ Lingua::Thesaurus::Storage::SQLite undef  pkg:cpan/Lingua-Thesaurus@0.13
 Lingua::Thesaurus::Term            undef  pkg:cpan/Lingua-Thesaurus@0.13
 Lingua::TokenParse                 0.1602  pkg:cpan/Lingua-TokenParse@0.1602
 Lingua::TokiPona::Numbers           0.03  pkg:cpan/Lingua-Conlang-Numbers@0.04
-Lingua::TokiPona::Word             v0.1.0  pkg:cpan/Lingua-TokiPona-Word@v0.01
+Lingua::TokiPona::Word             v0.2.0  pkg:cpan/Lingua-TokiPona-Word@v0.02
 Lingua::Translate                   0.09  pkg:cpan/Lingua-Translate@0.09
 Lingua::Translate::Babelfish       undef  pkg:cpan/Lingua-Translate@0.09
 Lingua::Translate::Bing             0.04  pkg:cpan/Lingua-Translate-Bing@0.04
@@ -159869,15 +159869,15 @@ PAGI::Endpoint::Router             0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Endpoint::Router::RouteBuilder 0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Endpoint::SSE                0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Endpoint::WebSocket          0.002002  pkg:cpan/PAGI-Tools@0.002002
-PAGI::FastAPI                      v0.0.4  pkg:cpan/PAGI-FastAPI@v0.0.4
-PAGI::FastAPI::Context             v0.0.4  pkg:cpan/PAGI-FastAPI@v0.0.4
-PAGI::FastAPI::Depends             v0.0.4  pkg:cpan/PAGI-FastAPI@v0.0.4
-PAGI::FastAPI::Security            v0.0.2  pkg:cpan/PAGI-FastAPI-Security@v0.0.2
-PAGI::FastAPI::Security::APIKey    v0.0.2  pkg:cpan/PAGI-FastAPI-Security@v0.0.2
-PAGI::FastAPI::Security::Base      v0.0.2  pkg:cpan/PAGI-FastAPI-Security@v0.0.2
-PAGI::FastAPI::Security::HTTPBasic v0.0.2  pkg:cpan/PAGI-FastAPI-Security@v0.0.2
-PAGI::FastAPI::Security::HTTPBearer v0.0.2  pkg:cpan/PAGI-FastAPI-Security@v0.0.2
-PAGI::FastAPI::Security::OAuth2::PasswordBearer v0.0.2  pkg:cpan/PAGI-FastAPI-Security@v0.0.2
+PAGI::FastAPI                      v0.0.5  pkg:cpan/PAGI-FastAPI@v0.0.5
+PAGI::FastAPI::Context             v0.0.5  pkg:cpan/PAGI-FastAPI@v0.0.5
+PAGI::FastAPI::Depends             v0.0.5  pkg:cpan/PAGI-FastAPI@v0.0.5
+PAGI::FastAPI::Security            v0.0.4  pkg:cpan/PAGI-FastAPI-Security@v0.0.4
+PAGI::FastAPI::Security::APIKey    v0.0.4  pkg:cpan/PAGI-FastAPI-Security@v0.0.4
+PAGI::FastAPI::Security::Base      v0.0.4  pkg:cpan/PAGI-FastAPI-Security@v0.0.4
+PAGI::FastAPI::Security::HTTPBasic v0.0.4  pkg:cpan/PAGI-FastAPI-Security@v0.0.4
+PAGI::FastAPI::Security::HTTPBearer v0.0.4  pkg:cpan/PAGI-FastAPI-Security@v0.0.4
+PAGI::FastAPI::Security::OAuth2::PasswordBearer v0.0.4  pkg:cpan/PAGI-FastAPI-Security@v0.0.4
 PAGI::Headers                      0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Lifespan                     0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Middleware                   0.002002  pkg:cpan/PAGI-Tools@0.002002
@@ -254548,10 +254548,11 @@ WebService::OpenSky::Types           0.5  pkg:cpan/WebService-OpenSky@0.5
 WebService::OpenSky::Utils::Iterator   0.5  pkg:cpan/WebService-OpenSky@0.5
 WebService::OpenStates              1.03  pkg:cpan/WebService-OpenStates@1.03
 WebService::Openaura                0.02  pkg:cpan/WebService-Openaura@0.02
-WebService::OurWorldInData          0.04  pkg:cpan/WebService-OurWorldInData@0.04
-WebService::OurWorldInData::Catalog  0.04  pkg:cpan/WebService-OurWorldInData@0.04
-WebService::OurWorldInData::Chart   0.04  pkg:cpan/WebService-OurWorldInData@0.04
-WebService::OurWorldInData::Indicators  0.04  pkg:cpan/WebService-OurWorldInData@0.04
+WebService::OurWorldInData          0.05  pkg:cpan/WebService-OurWorldInData@0.05
+WebService::OurWorldInData::Catalog  0.05  pkg:cpan/WebService-OurWorldInData@0.05
+WebService::OurWorldInData::Chart   0.05  pkg:cpan/WebService-OurWorldInData@0.05
+WebService::OurWorldInData::Indicators  0.05  pkg:cpan/WebService-OurWorldInData@0.05
+WebService::OurWorldInData::Search  0.05  pkg:cpan/WebService-OurWorldInData@0.05
 WebService::OverheidIO               1.2  pkg:cpan/WebService-OverheidIO@1.2
 WebService::OverheidIO::BAG          1.2  pkg:cpan/WebService-OverheidIO@1.2
 WebService::OverheidIO::KvK          1.2  pkg:cpan/WebService-OverheidIO@1.2
