@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 06 Aug 2026 11:58:07 GMT
-Line-Count: 267614
+Last-Updated: Thu, 06 Aug 2026 14:10:58 GMT
+Line-Count: 267622
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -150971,7 +150971,7 @@ Net::HTTP::Spore::Role::UserAgent   0.09  pkg:cpan/Net-HTTP-Spore@0.09
 Net::HTTP::Tiny                    0.002  pkg:cpan/Net-HTTP-Tiny@0.002
 Net::HTTPS                          6.24  pkg:cpan/Net-HTTP@6.24
 Net::HTTPS::Any                     0.12  pkg:cpan/Net-HTTPS-Any@0.12
-Net::HTTPS::NB                      0.15  pkg:cpan/Net-HTTPS-NB@0.15
+Net::HTTPS::NB                      0.16  pkg:cpan/Net-HTTPS-NB@0.16
 Net::HTTPServer                    1.001001  pkg:cpan/Net-HTTPServer@1.1.1
 Net::HTTPServer::CaptureSTDOUT     undef  pkg:cpan/Net-HTTPServer@1.1.1
 Net::HTTPServer::Request           1.000003  pkg:cpan/Net-HTTPServer@1.1.1
@@ -212562,6 +212562,14 @@ SSL_Context                         0.81  pkg:cpan/IO-Socket-SSL@0.81
 SSL_HANDLE                          0.81  pkg:cpan/IO-Socket-SSL@0.81
 SSL_SSL                             0.81  pkg:cpan/IO-Socket-SSL@0.81
 SSN::Validate                       0.18  pkg:cpan/SSN-Validate@0.18
+SSVC                                1.00  pkg:cpan/SSVC@1.00
+SSVC::Base                         undef  pkg:cpan/SSVC@1.00
+SSVC::CISA                         undef  pkg:cpan/SSVC@1.00
+SSVC::CISA::BOD2604                undef  pkg:cpan/SSVC@1.00
+SSVC::CoordinatorPublication       undef  pkg:cpan/SSVC@1.00
+SSVC::CoordinatorTriage            undef  pkg:cpan/SSVC@1.00
+SSVC::Deployer                     undef  pkg:cpan/SSVC@1.00
+SSVC::Supplier                     undef  pkg:cpan/SSVC@1.00
 STADAF                              0.01  pkg:cpan/vstadaf@0.01
 STAFService                         0.25  pkg:cpan/STAFService@0.25
 STANAG                              0.01  pkg:cpan/STANAG@0.01
@@ -227030,26 +227038,26 @@ Sys::Uptime                         0.01  pkg:cpan/Sys-Uptime@0.01
 Sys::User::UIDhelper               0.001000  pkg:cpan/Sys-User-UIDhelper@0.1.0
 Sys::Utmp                            1.8  pkg:cpan/Sys-Utmp@1.8
 Sys::Utmp::Utent                   undef  pkg:cpan/Sys-Utmp@1.8
-Sys::Virt                          v12.5.0  pkg:cpan/Sys-Virt@v12.5.0
-Sys::Virt::Domain                  undef  pkg:cpan/Sys-Virt@v12.5.0
-Sys::Virt::DomainCheckpoint        undef  pkg:cpan/Sys-Virt@v12.5.0
-Sys::Virt::DomainSnapshot          undef  pkg:cpan/Sys-Virt@v12.5.0
-Sys::Virt::Error                   undef  pkg:cpan/Sys-Virt@v12.5.0
-Sys::Virt::Event                   undef  pkg:cpan/Sys-Virt@v12.5.0
-Sys::Virt::EventImpl               undef  pkg:cpan/Sys-Virt@v12.5.0
+Sys::Virt                          v12.6.0  pkg:cpan/Sys-Virt@v12.6.0
+Sys::Virt::Domain                  undef  pkg:cpan/Sys-Virt@v12.6.0
+Sys::Virt::DomainCheckpoint        undef  pkg:cpan/Sys-Virt@v12.6.0
+Sys::Virt::DomainSnapshot          undef  pkg:cpan/Sys-Virt@v12.6.0
+Sys::Virt::Error                   undef  pkg:cpan/Sys-Virt@v12.6.0
+Sys::Virt::Event                   undef  pkg:cpan/Sys-Virt@v12.6.0
+Sys::Virt::EventImpl               undef  pkg:cpan/Sys-Virt@v12.6.0
 Sys::Virt::IO::Async               0.000005  pkg:cpan/Sys-Virt-IO-Async@0.0.5
 Sys::Virt::IO::Async::Event        0.000003  pkg:cpan/Sys-Virt-IO-Async@0.0.3
 Sys::Virt::IO::Async::EventImpl    0.000005  pkg:cpan/Sys-Virt-IO-Async@0.0.5
-Sys::Virt::Interface               undef  pkg:cpan/Sys-Virt@v12.5.0
-Sys::Virt::NWFilter                undef  pkg:cpan/Sys-Virt@v12.5.0
-Sys::Virt::NWFilterBinding         undef  pkg:cpan/Sys-Virt@v12.5.0
-Sys::Virt::Network                 undef  pkg:cpan/Sys-Virt@v12.5.0
-Sys::Virt::NetworkPort             undef  pkg:cpan/Sys-Virt@v12.5.0
-Sys::Virt::NodeDevice              undef  pkg:cpan/Sys-Virt@v12.5.0
-Sys::Virt::Secret                  undef  pkg:cpan/Sys-Virt@v12.5.0
-Sys::Virt::StoragePool             undef  pkg:cpan/Sys-Virt@v12.5.0
-Sys::Virt::StorageVol              undef  pkg:cpan/Sys-Virt@v12.5.0
-Sys::Virt::Stream                  undef  pkg:cpan/Sys-Virt@v12.5.0
+Sys::Virt::Interface               undef  pkg:cpan/Sys-Virt@v12.6.0
+Sys::Virt::NWFilter                undef  pkg:cpan/Sys-Virt@v12.6.0
+Sys::Virt::NWFilterBinding         undef  pkg:cpan/Sys-Virt@v12.6.0
+Sys::Virt::Network                 undef  pkg:cpan/Sys-Virt@v12.6.0
+Sys::Virt::NetworkPort             undef  pkg:cpan/Sys-Virt@v12.6.0
+Sys::Virt::NodeDevice              undef  pkg:cpan/Sys-Virt@v12.6.0
+Sys::Virt::Secret                  undef  pkg:cpan/Sys-Virt@v12.6.0
+Sys::Virt::StoragePool             undef  pkg:cpan/Sys-Virt@v12.6.0
+Sys::Virt::StorageVol              undef  pkg:cpan/Sys-Virt@v12.6.0
+Sys::Virt::Stream                  undef  pkg:cpan/Sys-Virt@v12.6.0
 SysAdmin                            0.11  pkg:cpan/SysAdmin@0.11
 SysAdmin::DB                        0.09  pkg:cpan/SysAdmin@0.11
 SysAdmin::Date                      0.03  pkg:cpan/SysAdmin@0.11
