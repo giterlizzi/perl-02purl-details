@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 06 Aug 2026 05:11:26 GMT
-Line-Count: 267610
+Last-Updated: Thu, 06 Aug 2026 08:21:47 GMT
+Line-Count: 267613
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -67106,6 +67106,9 @@ Dist::Milla                        1.000022  pkg:cpan/Dist-Milla@v1.0.22
 Dist::Milla::App                   1.000022  pkg:cpan/Dist-Milla@v1.0.22
 Dist::PolicyFiles                   0.09  pkg:cpan/Dist-PolicyFiles@0.09
 Dist::Setup                         0.17  pkg:cpan/Dist-Setup@0.17
+Dist::Starter                      v0.1.0  pkg:cpan/Dist-Starter@v0.1.0
+Dist::Starter::Context             v0.1.0  pkg:cpan/Dist-Starter@v0.1.0
+Dist::Starter::Exception           v0.1.0  pkg:cpan/Dist-Starter@v0.1.0
 Dist::Surveyor                     0.023  pkg:cpan/Dist-Surveyor@0.023
 Dist::Surveyor::DB_File            0.023  pkg:cpan/Dist-Surveyor@0.023
 Dist::Surveyor::Inquiry            0.023  pkg:cpan/Dist-Surveyor@0.023
@@ -146262,19 +146265,19 @@ Net::API::Gett::User                1.06  pkg:cpan/Net-API-Gett@1.06
 Net::API::Nominatim                 0.03  pkg:cpan/Net-API-Nominatim@0.03
 Net::API::Nominatim::Model::Address  0.03  pkg:cpan/Net-API-Nominatim@0.03
 Net::API::Nominatim::Model::BoundingBox  0.03  pkg:cpan/Net-API-Nominatim@0.03
-Net::API::REST                     1.002005  pkg:cpan/Net-API-REST@v1.2.5
-Net::API::REST::Cookie             1.000000  pkg:cpan/Net-API-REST@v1.2.5
-Net::API::REST::Cookies            1.000000  pkg:cpan/Net-API-REST@v1.2.5
-Net::API::REST::DateTime           1.000000  pkg:cpan/Net-API-REST@v1.2.5
-Net::API::REST::Endpoint           1.002005  pkg:cpan/Net-API-REST@v1.2.5
-Net::API::REST::JWT                0.100004  pkg:cpan/Net-API-REST@v1.2.5
-Net::API::REST::Query              1.000000  pkg:cpan/Net-API-REST@v1.2.5
-Net::API::REST::RC                 1.002005  pkg:cpan/Net-API-REST@v1.2.5
-Net::API::REST::Request            1.001000  pkg:cpan/Net-API-REST@v1.2.5
+Net::API::REST                     1.002006  pkg:cpan/Net-API-REST@v1.2.6
+Net::API::REST::Cookie             1.000000  pkg:cpan/Net-API-REST@v1.2.6
+Net::API::REST::Cookies            1.000000  pkg:cpan/Net-API-REST@v1.2.6
+Net::API::REST::DateTime           1.000000  pkg:cpan/Net-API-REST@v1.2.6
+Net::API::REST::Endpoint           1.002006  pkg:cpan/Net-API-REST@v1.2.6
+Net::API::REST::JWT                0.100004  pkg:cpan/Net-API-REST@v1.2.6
+Net::API::REST::Query              1.000000  pkg:cpan/Net-API-REST@v1.2.6
+Net::API::REST::RC                 1.002006  pkg:cpan/Net-API-REST@v1.2.6
+Net::API::REST::Request            1.001000  pkg:cpan/Net-API-REST@v1.2.6
 Net::API::REST::Request::Params    0.009003  pkg:cpan/Net-API-REST@v0.8.1
 Net::API::REST::Request::Upload    0.009003  pkg:cpan/Net-API-REST@v0.8.1
-Net::API::REST::Response           1.000000  pkg:cpan/Net-API-REST@v1.2.5
-Net::API::REST::Status             1.000000  pkg:cpan/Net-API-REST@v1.2.5
+Net::API::REST::Response           1.000000  pkg:cpan/Net-API-REST@v1.2.6
+Net::API::REST::Status             1.000000  pkg:cpan/Net-API-REST@v1.2.6
 Net::API::RPX                      1.000001  pkg:cpan/Net-API-RPX@1.000001
 Net::API::RPX::Exception           1.000001  pkg:cpan/Net-API-RPX@1.000001
 Net::API::RPX::Exception::Network  1.000001  pkg:cpan/Net-API-RPX@1.000001
