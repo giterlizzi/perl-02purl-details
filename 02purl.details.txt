@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 07 Aug 2026 16:44:36 GMT
+Last-Updated: Fri, 07 Aug 2026 18:43:40 GMT
 Line-Count: 267664
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -10265,15 +10265,15 @@ App::Framework::Lite::Object       2.002  pkg:cpan/App-Framework-Lite@1.09
 App::Framework::Settings           1.000  pkg:cpan/App-Framework@1.07
 App::FromUnixtime                   0.17  pkg:cpan/App-FromUnixtime@0.17
 App::FzfUtils                      0.003  pkg:cpan/App-FzfUtils@0.003
-App::GHGen                          0.07  pkg:cpan/App-GHGen@0.07
-App::GHGen::Analyzer                0.07  pkg:cpan/App-GHGen@0.07
-App::GHGen::CostEstimator           0.07  pkg:cpan/App-GHGen@0.07
-App::GHGen::Detector                0.07  pkg:cpan/App-GHGen@0.07
-App::GHGen::Fixer                   0.07  pkg:cpan/App-GHGen@0.07
-App::GHGen::Generator               0.07  pkg:cpan/App-GHGen@0.07
-App::GHGen::Interactive             0.07  pkg:cpan/App-GHGen@0.07
-App::GHGen::PerlCustomizer          0.07  pkg:cpan/App-GHGen@0.07
-App::GHGen::Reporter                0.07  pkg:cpan/App-GHGen@0.07
+App::GHGen                          0.08  pkg:cpan/App-GHGen@0.08
+App::GHGen::Analyzer                0.08  pkg:cpan/App-GHGen@0.08
+App::GHGen::CostEstimator           0.08  pkg:cpan/App-GHGen@0.08
+App::GHGen::Detector                0.08  pkg:cpan/App-GHGen@0.08
+App::GHGen::Fixer                   0.08  pkg:cpan/App-GHGen@0.08
+App::GHGen::Generator               0.08  pkg:cpan/App-GHGen@0.08
+App::GHGen::Interactive             0.08  pkg:cpan/App-GHGen@0.08
+App::GHGen::PerlCustomizer          0.08  pkg:cpan/App-GHGen@0.08
+App::GHGen::Reporter                0.08  pkg:cpan/App-GHGen@0.08
 App::GHPT                          2.000001  pkg:cpan/App-GHPT@2.000001
 App::GHPT::Types                   2.000001  pkg:cpan/App-GHPT@2.000001
 App::GHPT::WorkSubmitter           2.000001  pkg:cpan/App-GHPT@2.000001
@@ -117063,7 +117063,7 @@ JSON::Schema::Helper               0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Modern               0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Modern::Annotation   0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Modern::Document     0.642  pkg:cpan/JSON-Schema-Modern@0.642
-JSON::Schema::Modern::Document::OpenAPI 0.145  pkg:cpan/OpenAPI-Modern@0.145
+JSON::Schema::Modern::Document::OpenAPI 0.146  pkg:cpan/OpenAPI-Modern@0.146
 JSON::Schema::Modern::Error        0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Modern::Result       0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Modern::ResultNode   0.642  pkg:cpan/JSON-Schema-Modern@0.642
@@ -117075,8 +117075,8 @@ JSON::Schema::Modern::Vocabulary::Core 0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Modern::Vocabulary::FormatAssertion 0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Modern::Vocabulary::MetaData 0.642  pkg:cpan/JSON-Schema-Modern@0.642
-JSON::Schema::Modern::Vocabulary::OpenAPI 0.145  pkg:cpan/OpenAPI-Modern@0.145
-JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.145  pkg:cpan/OpenAPI-Modern@0.145
+JSON::Schema::Modern::Vocabulary::OpenAPI 0.146  pkg:cpan/OpenAPI-Modern@0.146
+JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.146  pkg:cpan/OpenAPI-Modern@0.146
 JSON::Schema::Modern::Vocabulary::Unevaluated 0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Modern::Vocabulary::Validation 0.642  pkg:cpan/JSON-Schema-Modern@0.642
 JSON::Schema::Null                 0.016  pkg:cpan/JSON-Schema@0.016
@@ -141084,9 +141084,9 @@ Mojolicious::Plugin::Fondation::Menu::Helpers  0.03  pkg:cpan/Mojolicious-Plugin
 Mojolicious::Plugin::Fondation::Menu::Schema::Result::Menu  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Menu@0.03
 Mojolicious::Plugin::Fondation::MigrationDBIx  0.05  pkg:cpan/Mojolicious-Plugin-Fondation-MigrationDBIx@0.05
 Mojolicious::Plugin::Fondation::MigrationDBIx::Command::db  0.05  pkg:cpan/Mojolicious-Plugin-Fondation-MigrationDBIx@0.05
-Mojolicious::Plugin::Fondation::Model::DBIx::Async  0.05  pkg:cpan/Mojolicious-Plugin-Fondation-Model-DBIx-Async@0.05
-Mojolicious::Plugin::Fondation::Model::DBIx::Async::Action::DBIx  0.05  pkg:cpan/Mojolicious-Plugin-Fondation-Model-DBIx-Async@0.05
-Mojolicious::Plugin::Fondation::Model::DBIx::Async::ResultSet  0.05  pkg:cpan/Mojolicious-Plugin-Fondation-Model-DBIx-Async@0.05
+Mojolicious::Plugin::Fondation::Model::DBIx::Async  0.06  pkg:cpan/Mojolicious-Plugin-Fondation-Model-DBIx-Async@0.06
+Mojolicious::Plugin::Fondation::Model::DBIx::Async::Action::DBIx  0.06  pkg:cpan/Mojolicious-Plugin-Fondation-Model-DBIx-Async@0.06
+Mojolicious::Plugin::Fondation::Model::DBIx::Async::ResultSet  0.06  pkg:cpan/Mojolicious-Plugin-Fondation-Model-DBIx-Async@0.06
 Mojolicious::Plugin::Fondation::OpenAPI  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-OpenAPI@0.03
 Mojolicious::Plugin::Fondation::OpenAPI::Command::openapi  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-OpenAPI@0.03
 Mojolicious::Plugin::Fondation::Perm  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Perm@0.03
@@ -154735,7 +154735,7 @@ Net::Wireless::802_11::AP          0.001001  pkg:cpan/Net-Wireless-802_11-AP@0.1
 Net::Wireless::802_11::Scan::FreeBSD   0.0  pkg:cpan/Net-Wireless-802_11-Scan-FreeBSD@0.0.1
 Net::Wireless::802_11::WPA::CLI    2.001000  pkg:cpan/Net-Wireless-802_11-WPA-CLI@2.1.0
 Net::Wireless::802_11::WPA::CLI::Helper   0.0  pkg:cpan/Net-Wireless-802_11-WPA-CLI-Helper@0.0.0
-Net::WoRMS                           1.4  pkg:cpan/Net-WoRMS@1.4
+Net::WoRMS                           1.5  pkg:cpan/Net-WoRMS@1.5
 Net::Works                          0.22  pkg:cpan/Net-Works@0.22
 Net::Works::Address                 0.22  pkg:cpan/Net-Works@0.22
 Net::Works::Network                 0.22  pkg:cpan/Net-Works@0.22
@@ -158343,8 +158343,8 @@ OpenAPI::Generator::From::Pod      undef  pkg:cpan/OpenAPI-Generator@0.06
 OpenAPI::Generator::Util           undef  pkg:cpan/OpenAPI-Generator@0.06
 OpenAPI::Linter                     0.19  pkg:cpan/OpenAPI-Linter@0.19
 OpenAPI::Linter::Location           0.19  pkg:cpan/OpenAPI-Linter@0.19
-OpenAPI::Modern                    0.145  pkg:cpan/OpenAPI-Modern@0.145
-OpenAPI::Modern::Utilities         0.145  pkg:cpan/OpenAPI-Modern@0.145
+OpenAPI::Modern                    0.146  pkg:cpan/OpenAPI-Modern@0.146
+OpenAPI::Modern::Utilities         0.146  pkg:cpan/OpenAPI-Modern@0.146
 OpenAPI::PerlGenerator              0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
 OpenAPI::PerlGenerator::Template    0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
 OpenAPI::PerlGenerator::Template::Mojo  0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
@@ -205739,7 +205739,7 @@ RT::Action::NotifyAtTicketLevelAsComment undef  pkg:cpan/RT-Extension-NotifyBase
 RT::Action::NotifyGroup             0.02  pkg:cpan/RT-Action-NotifyGroup@0.02
 RT::Action::NotifyGroupAsComment    0.01  pkg:cpan/RT-Action-NotifyGroup@0.02
 RT::Action::NotifyOwners           undef  pkg:cpan/RT-Extension-NotifyOwners@0.02
-RT::Action::OwnerAwayReassign      undef  pkg:cpan/RT-Extension-AwayMode@0.02
+RT::Action::OwnerAwayReassign      undef  pkg:cpan/RT-Extension-AwayMode@0.03
 RT::Action::ParseACNS              undef  pkg:cpan/RT-Extension-ACNS@1.00
 RT::Action::PushoverNotify         undef  pkg:cpan/RT-Extension-PushoverNotify@0.01
 RT::Action::ReassignOwner          undef  pkg:cpan/RT-Extension-ReassignOwner@0.01
@@ -205816,7 +205816,7 @@ RT::Condition::NotStartedInBusinessHours   0.3  pkg:cpan/RT-Condition-NotStarted
 RT::Condition::OnAbandoned         undef  pkg:cpan/RT-Condition-OwnershipChanges@0.01
 RT::Condition::OnOwned             undef  pkg:cpan/RT-Condition-OwnershipChanges@0.01
 RT::Condition::Owner               undef  pkg:cpan/RT-Extension-NotifyBasedOnOwnership@0.01
-RT::Condition::OwnerAway           undef  pkg:cpan/RT-Extension-AwayMode@0.02
+RT::Condition::OwnerAway           undef  pkg:cpan/RT-Extension-AwayMode@0.03
 RT::Condition::OwnershipChanges     0.01  pkg:cpan/RT-Condition-OwnershipChanges@0.01
 RT::Condition::RequestorReply      undef  pkg:cpan/RT-Extension-HelpDesk@1.00
 RT::Condition::SLA                 undef  pkg:cpan/RT-Extension-SLA@1.04
@@ -205887,7 +205887,7 @@ RT::Extension::AutomaticAssignment::Filter::MemberOfRole undef  pkg:cpan/RT-Exte
 RT::Extension::AutomaticAssignment::Filter::UserDefined undef  pkg:cpan/RT-Extension-AutomaticAssignment@2.00
 RT::Extension::AutomaticAssignment::Filter::WorkSchedule undef  pkg:cpan/RT-Extension-AutomaticAssignment@2.00
 RT::Extension::AutomaticAssignment::Test undef  pkg:cpan/RT-Extension-AutomaticAssignment@2.00
-RT::Extension::AwayMode             0.02  pkg:cpan/RT-Extension-AwayMode@0.02
+RT::Extension::AwayMode             0.03  pkg:cpan/RT-Extension-AwayMode@0.03
 RT::Extension::BecomeUser           0.02  pkg:cpan/RT-Extension-BecomeUser@1.01
 RT::Extension::BooleanCustomField   0.05  pkg:cpan/RT-Extension-BooleanCustomField@0.05
 RT::Extension::BounceEmail          0.03  pkg:cpan/RT-Extension-BounceEmail@0.03
