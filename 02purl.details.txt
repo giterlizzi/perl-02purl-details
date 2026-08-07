@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 07 Aug 2026 12:45:49 GMT
+Last-Updated: Fri, 07 Aug 2026 14:46:56 GMT
 Line-Count: 267664
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -164791,7 +164791,7 @@ Params::Dry::Types::Object         1.2003  pkg:cpan/Params-Dry@1.2003
 Params::Dry::Types::Ref            1.2003  pkg:cpan/Params-Dry@1.2003
 Params::Dry::Types::String         1.2003  pkg:cpan/Params-Dry@1.2003
 Params::Filter                     0.018  pkg:cpan/Params-Filter@0.018
-Params::Get                         0.15  pkg:cpan/Params-Get@0.15
+Params::Get                         0.16  pkg:cpan/Params-Get@0.16
 Params::Lazy                       0.005  pkg:cpan/Params-Lazy@0.005
 Params::Named                        1.0  pkg:cpan/Params-Named@1.0.2
 Params::PatternMatch                0.01  pkg:cpan/Params-PatternMatch@0.01
@@ -197476,30 +197476,30 @@ Perl::Tags::Tag::Role               0.32  pkg:cpan/Perl-Tags@0.32
 Perl::Tags::Tag::Stub               0.32  pkg:cpan/Perl-Tags@0.32
 Perl::Tags::Tag::Sub                0.32  pkg:cpan/Perl-Tags@0.32
 Perl::Tags::Tag::Var                0.32  pkg:cpan/Perl-Tags@0.32
-Perl::Tidy                         20260705  pkg:cpan/Perl-Tidy@20260705
-Perl::Tidy::Debugger               20260705  pkg:cpan/Perl-Tidy@20260705
+Perl::Tidy                         20260808  pkg:cpan/Perl-Tidy@20260808
+Perl::Tidy::Debugger               20260808  pkg:cpan/Perl-Tidy@20260808
 Perl::Tidy::DevNull                20230701  pkg:cpan/Perl-Tidy@20230701
-Perl::Tidy::Diagnostics            20260705  pkg:cpan/Perl-Tidy@20260705
-Perl::Tidy::FileWriter             20260705  pkg:cpan/Perl-Tidy@20260705
-Perl::Tidy::Formatter              20260705  pkg:cpan/Perl-Tidy@20260705
-Perl::Tidy::HtmlWriter             20260705  pkg:cpan/Perl-Tidy@20260705
-Perl::Tidy::IOScalar               20260705  pkg:cpan/Perl-Tidy@20260705
-Perl::Tidy::IOScalarArray          20260705  pkg:cpan/Perl-Tidy@20260705
-Perl::Tidy::IndentationItem        20260705  pkg:cpan/Perl-Tidy@20260705
+Perl::Tidy::Diagnostics            20260808  pkg:cpan/Perl-Tidy@20260808
+Perl::Tidy::FileWriter             20260808  pkg:cpan/Perl-Tidy@20260808
+Perl::Tidy::Formatter              20260808  pkg:cpan/Perl-Tidy@20260808
+Perl::Tidy::HtmlWriter             20260808  pkg:cpan/Perl-Tidy@20260808
+Perl::Tidy::IOScalar               20260808  pkg:cpan/Perl-Tidy@20260808
+Perl::Tidy::IOScalarArray          20260808  pkg:cpan/Perl-Tidy@20260808
+Perl::Tidy::IndentationItem        20260808  pkg:cpan/Perl-Tidy@20260808
 Perl::Tidy::Komodo                 1.151340  pkg:cpan/Perl-Tidy-Komodo@1.151340
 Perl::Tidy::LineBuffer             20230701  pkg:cpan/Perl-Tidy@20230701
 Perl::Tidy::LineSink               20230701  pkg:cpan/Perl-Tidy@20230701
 Perl::Tidy::LineSource             20230701  pkg:cpan/Perl-Tidy@20230701
-Perl::Tidy::Logger                 20260705  pkg:cpan/Perl-Tidy@20260705
+Perl::Tidy::Logger                 20260808  pkg:cpan/Perl-Tidy@20260808
 Perl::Tidy::Sweet                   1.20  pkg:cpan/Perl-Tidy-Sweetened@1.20
 Perl::Tidy::Sweetened               1.20  pkg:cpan/Perl-Tidy-Sweetened@1.20
 Perl::Tidy::Sweetened::Keyword::Block  1.20  pkg:cpan/Perl-Tidy-Sweetened@1.20
 Perl::Tidy::Sweetened::Pluggable    1.20  pkg:cpan/Perl-Tidy-Sweetened@1.20
 Perl::Tidy::Sweetened::Variable::Twigils  1.20  pkg:cpan/Perl-Tidy-Sweetened@1.20
-Perl::Tidy::Tokenizer              20260705  pkg:cpan/Perl-Tidy@20260705
-Perl::Tidy::VerticalAligner        20260705  pkg:cpan/Perl-Tidy@20260705
-Perl::Tidy::VerticalAligner::Alignment 20260705  pkg:cpan/Perl-Tidy@20260705
-Perl::Tidy::VerticalAligner::Line  20260705  pkg:cpan/Perl-Tidy@20260705
+Perl::Tidy::Tokenizer              20260808  pkg:cpan/Perl-Tidy@20260808
+Perl::Tidy::VerticalAligner        20260808  pkg:cpan/Perl-Tidy@20260808
+Perl::Tidy::VerticalAligner::Alignment 20260808  pkg:cpan/Perl-Tidy@20260808
+Perl::Tidy::VerticalAligner::Line  20260808  pkg:cpan/Perl-Tidy@20260808
 Perl::ToPerl6                      0.040  pkg:cpan/Perl-ToPerl6@0.040
 Perl::ToPerl6::Command             0.040  pkg:cpan/Perl-ToPerl6@0.040
 Perl::ToPerl6::Transformer::Arrays::AddWhitespace undef  pkg:cpan/Perl-ToPerl6@0.040
@@ -205739,7 +205739,7 @@ RT::Action::NotifyAtTicketLevelAsComment undef  pkg:cpan/RT-Extension-NotifyBase
 RT::Action::NotifyGroup             0.02  pkg:cpan/RT-Action-NotifyGroup@0.02
 RT::Action::NotifyGroupAsComment    0.01  pkg:cpan/RT-Action-NotifyGroup@0.02
 RT::Action::NotifyOwners           undef  pkg:cpan/RT-Extension-NotifyOwners@0.02
-RT::Action::OwnerAwayReassign      undef  pkg:cpan/RT-Extension-AwayMode@0.01
+RT::Action::OwnerAwayReassign      undef  pkg:cpan/RT-Extension-AwayMode@0.02
 RT::Action::ParseACNS              undef  pkg:cpan/RT-Extension-ACNS@1.00
 RT::Action::PushoverNotify         undef  pkg:cpan/RT-Extension-PushoverNotify@0.01
 RT::Action::ReassignOwner          undef  pkg:cpan/RT-Extension-ReassignOwner@0.01
@@ -205816,7 +205816,7 @@ RT::Condition::NotStartedInBusinessHours   0.3  pkg:cpan/RT-Condition-NotStarted
 RT::Condition::OnAbandoned         undef  pkg:cpan/RT-Condition-OwnershipChanges@0.01
 RT::Condition::OnOwned             undef  pkg:cpan/RT-Condition-OwnershipChanges@0.01
 RT::Condition::Owner               undef  pkg:cpan/RT-Extension-NotifyBasedOnOwnership@0.01
-RT::Condition::OwnerAway           undef  pkg:cpan/RT-Extension-AwayMode@0.01
+RT::Condition::OwnerAway           undef  pkg:cpan/RT-Extension-AwayMode@0.02
 RT::Condition::OwnershipChanges     0.01  pkg:cpan/RT-Condition-OwnershipChanges@0.01
 RT::Condition::RequestorReply      undef  pkg:cpan/RT-Extension-HelpDesk@1.00
 RT::Condition::SLA                 undef  pkg:cpan/RT-Extension-SLA@1.04
@@ -205887,7 +205887,7 @@ RT::Extension::AutomaticAssignment::Filter::MemberOfRole undef  pkg:cpan/RT-Exte
 RT::Extension::AutomaticAssignment::Filter::UserDefined undef  pkg:cpan/RT-Extension-AutomaticAssignment@2.00
 RT::Extension::AutomaticAssignment::Filter::WorkSchedule undef  pkg:cpan/RT-Extension-AutomaticAssignment@2.00
 RT::Extension::AutomaticAssignment::Test undef  pkg:cpan/RT-Extension-AutomaticAssignment@2.00
-RT::Extension::AwayMode             0.01  pkg:cpan/RT-Extension-AwayMode@0.01
+RT::Extension::AwayMode             0.02  pkg:cpan/RT-Extension-AwayMode@0.02
 RT::Extension::BecomeUser           0.02  pkg:cpan/RT-Extension-BecomeUser@1.01
 RT::Extension::BooleanCustomField   0.05  pkg:cpan/RT-Extension-BooleanCustomField@0.05
 RT::Extension::BounceEmail          0.03  pkg:cpan/RT-Extension-BounceEmail@0.03
