@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 07 Aug 2026 02:18:37 GMT
+Last-Updated: Fri, 07 Aug 2026 05:28:48 GMT
 Line-Count: 267656
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -210005,7 +210005,7 @@ SDL2::syswm                         0.01  pkg:cpan/SDL2-FFI@0.08
 SDL2::timer                         0.01  pkg:cpan/SDL2-FFI@0.08
 SDL2::touch                         0.01  pkg:cpan/SDL2-FFI@0.08
 SDL2::video                        undef  pkg:cpan/SDL2-FFI@0.08
-SDL3                               v0.0.4  pkg:cpan/SDL3@v0.0.4
+SDL3                               v0.0.5  pkg:cpan/SDL3@v0.0.5
 SDL::App::FPS                       0.21  pkg:cpan/SDL-App-FPS@0.21
 SDL::App::FPS::Button               0.02  pkg:cpan/SDL-App-FPS@0.21
 SDL::App::FPS::Color                0.02  pkg:cpan/SDL-App-FPS@0.21
