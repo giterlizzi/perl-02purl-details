@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 07 Aug 2026 10:44:30 GMT
-Line-Count: 267663
+Last-Updated: Fri, 07 Aug 2026 12:45:49 GMT
+Line-Count: 267664
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -30533,7 +30533,7 @@ Business::IS::PIN                   0.06  pkg:cpan/Business-IS-PIN@0.06
 Business::ISBN                     3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN10                   3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN13                   3.014  pkg:cpan/Business-ISBN@3.014
-Business::ISBN::Data               20260804.001  pkg:cpan/Business-ISBN-Data@20260804.001
+Business::ISBN::Data               20260807.001  pkg:cpan/Business-ISBN-Data@20260807.001
 Business::ISIN                      0.20  pkg:cpan/Business-ISIN@0.20?ext=tgz
 Business::ISMN                     1.205  pkg:cpan/Business-ISMN@1.205
 Business::ISMN::Data               1.205  pkg:cpan/Business-ISMN@1.205
@@ -36593,6 +36593,7 @@ Catalyst::View::CSS::Squish         0.02  pkg:cpan/Catalyst-View-CSS-Squish@0.02
 Catalyst::View::CSV                  1.8  pkg:cpan/Catalyst-View-CSV@1.8
 Catalyst::View::Chart::Strip        0.05  pkg:cpan/Catalyst-View-Chart-Strip@0.05
 Catalyst::View::Chart::Strip::Example undef  pkg:cpan/Catalyst-View-Chart-Strip@0.05
+Catalyst::View::ChromePDF          v0.1.0  pkg:cpan/Catalyst-View-ChromePDF@v0.1.0
 Catalyst::View::ClearSilver         0.01  pkg:cpan/Catalyst-View-ClearSilver@0.01
 Catalyst::View::Component::ESI      0.02  pkg:cpan/Catalyst-View-Component-ESI@0.02
 Catalyst::View::Component::SubInclude  0.10  pkg:cpan/Catalyst-View-Component-SubInclude@0.10
@@ -115597,7 +115598,7 @@ Image::Xpm                          1.13  pkg:cpan/Image-Xpm@1.13
 Image::libsiftfast                  0.03  pkg:cpan/Image-libsiftfast@0.03
 ImageButton                          1.0  pkg:cpan/Tk-ImageButton@1.0
 ImagePwd                            1.16  pkg:cpan/WebTools@1.27
-Imager                             1.033  pkg:cpan/Imager@1.033
+Imager                             1.034  pkg:cpan/Imager@1.034
 Imager::Album                       0.06  pkg:cpan/Imager-Album@0.06
 Imager::Album::GUI                 undef  pkg:cpan/Imager-Album@0.06
 Imager::AverageGray                  0.0  pkg:cpan/Imager-AverageGray@0.0.0
@@ -115611,9 +115612,9 @@ Imager::Bing::MapLayer::Role::Misc 0.001009  pkg:cpan/Imager-Bing-MapLayer@v0.1.
 Imager::Bing::MapLayer::Role::TileClass 0.001009  pkg:cpan/Imager-Bing-MapLayer@v0.1.9
 Imager::Bing::MapLayer::Tile       0.001009  pkg:cpan/Imager-Bing-MapLayer@v0.1.9
 Imager::Bing::MapLayer::Utils      0.001009  pkg:cpan/Imager-Bing-MapLayer@v0.1.9
-Imager::Color                      1.015  pkg:cpan/Imager@1.033
-Imager::Color::Float               1.008  pkg:cpan/Imager@1.033
-Imager::Color::Table               1.004  pkg:cpan/Imager@1.033
+Imager::Color                      1.015  pkg:cpan/Imager@1.034
+Imager::Color::Float               1.008  pkg:cpan/Imager@1.034
+Imager::Color::Table               1.004  pkg:cpan/Imager@1.034
 Imager::CommandLine                undef  pkg:cpan/CloudDeploy@1.07
 Imager::CommandLine::AccountImages undef  pkg:cpan/CloudDeploy@1.07
 Imager::CommandLine::AllImages     undef  pkg:cpan/CloudDeploy@1.07
@@ -115625,7 +115626,7 @@ Imager::CommandLine::NewTemplate   undef  pkg:cpan/CloudDeploy@1.07
 Imager::CommandLine::TagImages     undef  pkg:cpan/CloudDeploy@1.07
 Imager::CommandLine::UntagImages   undef  pkg:cpan/CloudDeploy@1.07
 Imager::CommandLine::Vagrant       undef  pkg:cpan/CloudDeploy@1.07
-Imager::CountColor                  0.03  pkg:cpan/Imager@1.033
+Imager::CountColor                  0.03  pkg:cpan/Imager@1.034
 Imager::DTP::Letter                 0.05  pkg:cpan/Imager-DTP@0.06
 Imager::DTP::Line                   0.05  pkg:cpan/Imager-DTP@0.06
 Imager::DTP::Line::Horizontal       0.03  pkg:cpan/Imager-DTP@0.06
@@ -115635,51 +115636,51 @@ Imager::DTP::Textbox::Horizontal    0.03  pkg:cpan/Imager-DTP@0.06
 Imager::DTP::Textbox::Vertical      0.03  pkg:cpan/Imager-DTP@0.06
 Imager::Draw::Hexagon              0.0102  pkg:cpan/Imager-Draw-Hexagon@0.0102
 Imager::ExifOrientation             0.07  pkg:cpan/Imager-ExifOrientation@0.07
-Imager::Expr                       1.008  pkg:cpan/Imager@1.033
-Imager::Expr::Assem                1.004  pkg:cpan/Imager@1.033
-Imager::Expr::Infix                1.008  pkg:cpan/Imager@1.033
-Imager::Expr::Postfix              1.008  pkg:cpan/Imager@1.033
-Imager::ExtUtils                   1.003  pkg:cpan/Imager@1.033
-Imager::FORMATS                    1.033  pkg:cpan/Imager@1.033
+Imager::Expr                       1.008  pkg:cpan/Imager@1.034
+Imager::Expr::Assem                1.004  pkg:cpan/Imager@1.034
+Imager::Expr::Infix                1.008  pkg:cpan/Imager@1.034
+Imager::Expr::Postfix              1.008  pkg:cpan/Imager@1.034
+Imager::ExtUtils                   1.003  pkg:cpan/Imager@1.034
+Imager::FORMATS                    1.034  pkg:cpan/Imager@1.034
 Imager::File::APNG                 0.002  pkg:cpan/Imager-File-APNG@0.002
 Imager::File::AVIF                 0.002  pkg:cpan/Imager-File-AVIF@0.002
-Imager::File::CUR                  1.000  pkg:cpan/Imager@1.033
-Imager::File::GIF                  1.004  pkg:cpan/Imager-File-GIF@1.004
+Imager::File::CUR                  1.000  pkg:cpan/Imager@1.034
+Imager::File::GIF                  1.005  pkg:cpan/Imager-File-GIF@1.005
 Imager::File::HEIF                 0.007  pkg:cpan/Imager-File-HEIF@0.007
 Imager::File::HEIF::Encoder            1  pkg:cpan/Imager-File-HEIF@0.007
 Imager::File::HEIF::Encoder::Parameter 1.000  pkg:cpan/Imager-File-HEIF@0.007
-Imager::File::ICO                   0.08  pkg:cpan/Imager@1.033
-Imager::File::JPEG                 1.004  pkg:cpan/Imager-File-JPEG@1.004
-Imager::File::PNG                  1.002  pkg:cpan/Imager-File-PNG@1.002
+Imager::File::ICO                   0.09  pkg:cpan/Imager@1.034
+Imager::File::JPEG                 1.005  pkg:cpan/Imager-File-JPEG@1.005
+Imager::File::PNG                  1.003  pkg:cpan/Imager-File-PNG@1.003
 Imager::File::QOI                  1.000  pkg:cpan/Imager-File-QOI@1.000
-Imager::File::SGI                   0.06  pkg:cpan/Imager@1.033
-Imager::File::TIFF                 1.005  pkg:cpan/Imager-File-TIFF@1.005
+Imager::File::SGI                   0.07  pkg:cpan/Imager@1.034
+Imager::File::TIFF                 1.006  pkg:cpan/Imager-File-TIFF@1.006
 Imager::File::WEBP                 0.006  pkg:cpan/Imager-File-WEBP@0.006
-Imager::Fill                       1.013  pkg:cpan/Imager@1.033
+Imager::Fill                       1.013  pkg:cpan/Imager@1.034
 Imager::Filter::Autocrop            1.23  pkg:cpan/Imager-Filter-Autocrop@1.23
 Imager::Filter::Bakumatsu           0.05  pkg:cpan/Imager-Filter-Bakumatsu@0.05
 Imager::Filter::Binarization       undef  pkg:cpan/Imager-Filter-Binarization@0.002
-Imager::Filter::DynTest             0.03  pkg:cpan/Imager@1.033
+Imager::Filter::DynTest             0.04  pkg:cpan/Imager@1.034
 Imager::Filter::ExifOrientation     0.01  pkg:cpan/Imager-ExifOrientation@0.07
 Imager::Filter::FishEye             0.04  pkg:cpan/Imager-Filter-FishEye@0.04
-Imager::Filter::Flines              0.04  pkg:cpan/Imager@1.033
-Imager::Filter::Mandelbrot          0.05  pkg:cpan/Imager@1.033
+Imager::Filter::Flines              0.05  pkg:cpan/Imager@1.034
+Imager::Filter::Mandelbrot          0.05  pkg:cpan/Imager@1.034
 Imager::Filter::RoundedCorner       0.02  pkg:cpan/Imager-Filter-RoundedCorner@0.02
 Imager::Filter::Sepia               0.02  pkg:cpan/Imager-Filter-Sepia@0.02
 Imager::Filter::Statistic          undef  pkg:cpan/Imager-Filter-Statistic@0.002
-Imager::Font                       1.039  pkg:cpan/Imager@1.033
-Imager::Font::BBox                 1.007  pkg:cpan/Imager@1.033
-Imager::Font::FT2                  1.004  pkg:cpan/Imager-Font-FT2@1.004
-Imager::Font::FreeType2            1.021  pkg:cpan/Imager@1.033
-Imager::Font::Image                1.000  pkg:cpan/Imager@1.033
+Imager::Font                       1.039  pkg:cpan/Imager@1.034
+Imager::Font::BBox                 1.007  pkg:cpan/Imager@1.034
+Imager::Font::FT2                  1.005  pkg:cpan/Imager-Font-FT2@1.005
+Imager::Font::FreeType2            1.021  pkg:cpan/Imager@1.034
+Imager::Font::Image                1.000  pkg:cpan/Imager@1.034
 Imager::Font::T1                   1.031  pkg:cpan/Imager-Font-T1@1.031
-Imager::Font::Test                 1.002  pkg:cpan/Imager@1.033
-Imager::Font::Truetype             1.013  pkg:cpan/Imager@1.033
-Imager::Font::Type1                1.013  pkg:cpan/Imager@1.033
-Imager::Font::W32                   0.93  pkg:cpan/Imager-Font-W32@0.93
-Imager::Font::Win32                1.000  pkg:cpan/Imager-Font-W32@0.93
-Imager::Font::Wrap                 1.005  pkg:cpan/Imager@1.033
-Imager::Fountain                   1.009  pkg:cpan/Imager@1.033
+Imager::Font::Test                 1.002  pkg:cpan/Imager@1.034
+Imager::Font::Truetype             1.013  pkg:cpan/Imager@1.034
+Imager::Font::Type1                1.013  pkg:cpan/Imager@1.034
+Imager::Font::W32                   0.97  pkg:cpan/Imager-Font-W32@0.97
+Imager::Font::Win32                1.000  pkg:cpan/Imager-Font-W32@0.97
+Imager::Font::Wrap                 1.005  pkg:cpan/Imager@1.034
+Imager::Fountain                   1.009  pkg:cpan/Imager@1.034
 Imager::GIF                        undef  pkg:cpan/Imager-GIF@0.002
 Imager::Graph                       0.12  pkg:cpan/Imager-Graph@0.12
 Imager::Graph::Area                undef  pkg:cpan/Imager-Graph@0.12
@@ -115693,24 +115694,24 @@ Imager::Graph::Util                undef  pkg:cpan/Imager-Graph@0.12
 Imager::Graph::Vertical             0.11  pkg:cpan/Imager-Graph@0.12
 Imager::Heatmap                     0.03  pkg:cpan/Imager-Heatmap@0.03
 Imager::IMBarcode::JP               0.02  pkg:cpan/Imager-IMBarcode-JP@0.02
-Imager::IO                         1.033  pkg:cpan/Imager@1.033
+Imager::IO                         1.034  pkg:cpan/Imager@1.034
 Imager::Image::Base                 0.02  pkg:cpan/Imager-Image-Base@0.02
 Imager::Image::Xbm                  0.01  pkg:cpan/Imager-Image-Base@0.02
 Imager::Image::Xpm                  0.01  pkg:cpan/Imager-Image-Base@0.02
 Imager::LineTrace                   0.06  pkg:cpan/Imager-LineTrace@0.06
 Imager::LineTrace::Algorithm       undef  pkg:cpan/Imager-LineTrace@0.06
 Imager::LineTrace::Figure          undef  pkg:cpan/Imager-LineTrace@0.06
-Imager::Matrix2d                   1.013  pkg:cpan/Imager@1.033
+Imager::Matrix2d                   1.013  pkg:cpan/Imager@1.034
 Imager::Montage                     0.02  pkg:cpan/Imager-Montage@0.02
 Imager::Plot                        0.09  pkg:cpan/Imager-Plot@0.09
 Imager::Plot::Axis                 undef  pkg:cpan/Imager-Plot@0.09
 Imager::Plot::DataSet              undef  pkg:cpan/Imager-Plot@0.09
 Imager::Plot::Style                undef  pkg:cpan/Imager-Plot@0.07
 Imager::Plot::Util                 undef  pkg:cpan/Imager-Plot@0.07
-Imager::Preprocess                 1.003  pkg:cpan/Imager@1.033
-Imager::Probe                      1.011  pkg:cpan/Imager@1.033
+Imager::Preprocess                 1.003  pkg:cpan/Imager@1.034
+Imager::Probe                      1.011  pkg:cpan/Imager@1.034
 Imager::QRCode                     0.035  pkg:cpan/Imager-QRCode@0.035
-Imager::Regops                     1.000  pkg:cpan/Imager@1.033
+Imager::Regops                     1.000  pkg:cpan/Imager@1.034
 Imager::Screenshot                 0.014  pkg:cpan/Imager-Screenshot@0.014
 Imager::Search                      1.01  pkg:cpan/Imager-Search@1.01
 Imager::Search::Driver              1.01  pkg:cpan/Imager-Search@1.01
@@ -115723,12 +115724,12 @@ Imager::Search::Screenshot          1.01  pkg:cpan/Imager-Search@1.01
 Imager::Simple                     0.010003  pkg:cpan/Imager-Simple@0.010003
 Imager::SkinDetector                0.05  pkg:cpan/Imager-SkinDetector@0.05
 Imager::TabularDisplay             undef  pkg:cpan/CloudDeploy@1.07
-Imager::Test                       1.007  pkg:cpan/Imager@1.033
-Imager::Test::OverUtf8             1.007  pkg:cpan/Imager@1.033
+Imager::Test                       1.007  pkg:cpan/Imager@1.034
+Imager::Test::OverUtf8             1.007  pkg:cpan/Imager@1.034
 Imager::Tiler                      1.010003  pkg:cpan/Imager-Tiler@1.010003
-Imager::Transform                  1.007  pkg:cpan/Imager@1.033
+Imager::Transform                  1.007  pkg:cpan/Imager@1.034
 Imager::Trim                       0.007  pkg:cpan/Imager-Trim@0.007
-Imager::TrimColorList              1.000  pkg:cpan/Imager@1.033
+Imager::TrimColorList              1.000  pkg:cpan/Imager@1.034
 Imager::zxing                      1.002  pkg:cpan/Imager-zxing@1.002
 Imager::zxing::Encoder             1.002  pkg:cpan/Imager-zxing@1.002
 Imgur::API                         0.001003  pkg:cpan/Imgur-API@0.1.3
@@ -124776,14 +124777,14 @@ Lingua::Zompist::Cadhinor           0.92  pkg:cpan/Lingua-Zompist-Cadhinor@0.92
 Lingua::Zompist::Cuezi              0.01  pkg:cpan/Lingua-Zompist-Cuezi@0.01
 Lingua::Zompist::Kebreni            0.90  pkg:cpan/Lingua-Zompist-Kebreni@0.90
 Lingua::Zompist::Verdurian          0.91  pkg:cpan/Lingua-Zompist-Verdurian@0.91
-Lingua::famibeib                   v0.4.0  pkg:cpan/Lingua-famibeib@v0.04
-Lingua::famibeib::Fragment         v0.4.0  pkg:cpan/Lingua-famibeib@v0.04
-Lingua::famibeib::Modifier         v0.4.0  pkg:cpan/Lingua-famibeib@v0.04
-Lingua::famibeib::NameGenerator    v0.4.0  pkg:cpan/Lingua-famibeib@v0.04
-Lingua::famibeib::Sentence         v0.4.0  pkg:cpan/Lingua-famibeib@v0.04
-Lingua::famibeib::Text             v0.4.0  pkg:cpan/Lingua-famibeib@v0.04
-Lingua::famibeib::Wellknown        v0.4.0  pkg:cpan/Lingua-famibeib@v0.04
-Lingua::famibeib::Word             v0.4.0  pkg:cpan/Lingua-famibeib@v0.04
+Lingua::famibeib                   v0.5.0  pkg:cpan/Lingua-famibeib@v0.05
+Lingua::famibeib::Fragment         v0.5.0  pkg:cpan/Lingua-famibeib@v0.05
+Lingua::famibeib::Modifier         v0.5.0  pkg:cpan/Lingua-famibeib@v0.05
+Lingua::famibeib::NameGenerator    v0.5.0  pkg:cpan/Lingua-famibeib@v0.05
+Lingua::famibeib::Sentence         v0.5.0  pkg:cpan/Lingua-famibeib@v0.05
+Lingua::famibeib::Text             v0.5.0  pkg:cpan/Lingua-famibeib@v0.05
+Lingua::famibeib::Wellknown        v0.5.0  pkg:cpan/Lingua-famibeib@v0.05
+Lingua::famibeib::Word             v0.5.0  pkg:cpan/Lingua-famibeib@v0.05
 Lingua::pt_BR::Nums2Words           0.02  pkg:cpan/Lingua-pt_BR-Nums2Words@0.02
 Lingua::tlhInganHol::yIghun        20090601  pkg:cpan/Lingua-tlhInganHol-yIghun@20090601
 Lingy                              0.001019  pkg:cpan/Lingy@0.1.19
@@ -133123,7 +133124,7 @@ Markdown::Pod                      0.008  pkg:cpan/Markdown-Pod@0.008
 Markdown::Pod::Handler             0.008  pkg:cpan/Markdown-Pod@0.008
 Markdown::Pod::script              0.008  pkg:cpan/Markdown-Pod@0.008
 Markdown::Render                   v2.0.4  pkg:cpan/Markdown-Render@2.0.4
-Markdown::Simple                    0.19  pkg:cpan/Markdown-Simple@0.19
+Markdown::Simple                    0.20  pkg:cpan/Markdown-Simple@0.20
 Markdown::TOC                       0.01  pkg:cpan/Markdown-TOC@0.01
 Markdown::Table                     0.04  pkg:cpan/Markdown-Table@0.04
 Markdown::To::POD                   0.06  pkg:cpan/Markdown-To-POD@0.06
@@ -217718,7 +217719,7 @@ Search::Tools::Tokenizer           1.007  pkg:cpan/Search-Tools@1.007
 Search::Tools::Transliterate       1.007  pkg:cpan/Search-Tools@1.007
 Search::Tools::UTF8                1.007  pkg:cpan/Search-Tools@1.007
 Search::Tools::XML                 1.007  pkg:cpan/Search-Tools@1.007
-Search::Trigram                     0.01  pkg:cpan/Search-Trigram@0.01
+Search::Trigram                     0.02  pkg:cpan/Search-Trigram@0.02
 Search::Typesense                   0.08  pkg:cpan/Search-Typesense@0.08
 Search::Typesense::Collection       0.08  pkg:cpan/Search-Typesense@0.08
 Search::Typesense::Document         0.08  pkg:cpan/Search-Typesense@0.08
