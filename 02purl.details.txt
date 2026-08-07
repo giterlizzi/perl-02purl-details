@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 07 Aug 2026 14:46:56 GMT
+Last-Updated: Fri, 07 Aug 2026 16:44:36 GMT
 Line-Count: 267664
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -75062,7 +75062,7 @@ File::ReplaceBytes                  1.02  pkg:cpan/File-ReplaceBytes@1.02
 File::Revision                      1.04  pkg:cpan/File-Revision@0.03
 File::Rotate::Backup                0.13  pkg:cpan/File-Rotate-Backup@0.13
 File::Rotate::Backup::Copy          1.10  pkg:cpan/File-Rotate-Backup@0.13
-File::Rotate::Simple               v0.3.0  pkg:cpan/File-Rotate-Simple@v0.3.0
+File::Rotate::Simple               v0.4.1  pkg:cpan/File-Rotate-Simple@v0.4.1
 File::RotateLogs                    0.08  pkg:cpan/File-RotateLogs@0.08
 File::RoundRobin                    0.07  pkg:cpan/File-RoundRobin@0.07
 File::RsyBak                       0.361  pkg:cpan/File-RsyBak@0.361
@@ -153255,29 +153255,29 @@ Net::SAJAX::Exception::MethodArguments 0.107  pkg:cpan/Net-SAJAX@0.107
 Net::SAJAX::Exception::RemoteError 0.107  pkg:cpan/Net-SAJAX@0.107
 Net::SAJAX::Exception::Response    0.107  pkg:cpan/Net-SAJAX@0.107
 Net::SAML                          undef  pkg:cpan/zxid@1.42?ext=tgz
-Net::SAML2                          0.88  pkg:cpan/Net-SAML2@0.88
-Net::SAML2::AttributeConsumingService  0.88  pkg:cpan/Net-SAML2@0.88
-Net::SAML2::Binding::POST           0.88  pkg:cpan/Net-SAML2@0.88
-Net::SAML2::Binding::Redirect       0.88  pkg:cpan/Net-SAML2@0.88
-Net::SAML2::Binding::SOAP           0.88  pkg:cpan/Net-SAML2@0.88
-Net::SAML2::IdP                     0.88  pkg:cpan/Net-SAML2@0.88
-Net::SAML2::Object::Response        0.88  pkg:cpan/Net-SAML2@0.88
-Net::SAML2::Protocol::Artifact      0.88  pkg:cpan/Net-SAML2@0.88
-Net::SAML2::Protocol::ArtifactResolve  0.88  pkg:cpan/Net-SAML2@0.88
-Net::SAML2::Protocol::Assertion     0.88  pkg:cpan/Net-SAML2@0.88
-Net::SAML2::Protocol::AuthnRequest  0.88  pkg:cpan/Net-SAML2@0.88
-Net::SAML2::Protocol::LogoutRequest  0.88  pkg:cpan/Net-SAML2@0.88
-Net::SAML2::Protocol::LogoutResponse  0.88  pkg:cpan/Net-SAML2@0.88
-Net::SAML2::RequestedAttribute      0.88  pkg:cpan/Net-SAML2@0.88
-Net::SAML2::Role::ProtocolMessage   0.88  pkg:cpan/Net-SAML2@0.88
-Net::SAML2::Role::VerifyXML         0.88  pkg:cpan/Net-SAML2@0.88
-Net::SAML2::Role::XMLCertificate    0.88  pkg:cpan/Net-SAML2@0.88
-Net::SAML2::Role::XMLLang           0.88  pkg:cpan/Net-SAML2@0.88
-Net::SAML2::SP                      0.88  pkg:cpan/Net-SAML2@0.88
-Net::SAML2::Types                   0.88  pkg:cpan/Net-SAML2@0.88
-Net::SAML2::Util                    0.88  pkg:cpan/Net-SAML2@0.88
-Net::SAML2::XML::Sig                0.88  pkg:cpan/Net-SAML2@0.88
-Net::SAML2::XML::Util               0.88  pkg:cpan/Net-SAML2@0.88
+Net::SAML2                          0.89  pkg:cpan/Net-SAML2@0.89
+Net::SAML2::AttributeConsumingService  0.89  pkg:cpan/Net-SAML2@0.89
+Net::SAML2::Binding::POST           0.89  pkg:cpan/Net-SAML2@0.89
+Net::SAML2::Binding::Redirect       0.89  pkg:cpan/Net-SAML2@0.89
+Net::SAML2::Binding::SOAP           0.89  pkg:cpan/Net-SAML2@0.89
+Net::SAML2::IdP                     0.89  pkg:cpan/Net-SAML2@0.89
+Net::SAML2::Object::Response        0.89  pkg:cpan/Net-SAML2@0.89
+Net::SAML2::Protocol::Artifact      0.89  pkg:cpan/Net-SAML2@0.89
+Net::SAML2::Protocol::ArtifactResolve  0.89  pkg:cpan/Net-SAML2@0.89
+Net::SAML2::Protocol::Assertion     0.89  pkg:cpan/Net-SAML2@0.89
+Net::SAML2::Protocol::AuthnRequest  0.89  pkg:cpan/Net-SAML2@0.89
+Net::SAML2::Protocol::LogoutRequest  0.89  pkg:cpan/Net-SAML2@0.89
+Net::SAML2::Protocol::LogoutResponse  0.89  pkg:cpan/Net-SAML2@0.89
+Net::SAML2::RequestedAttribute      0.89  pkg:cpan/Net-SAML2@0.89
+Net::SAML2::Role::ProtocolMessage   0.89  pkg:cpan/Net-SAML2@0.89
+Net::SAML2::Role::VerifyXML         0.89  pkg:cpan/Net-SAML2@0.89
+Net::SAML2::Role::XMLCertificate    0.89  pkg:cpan/Net-SAML2@0.89
+Net::SAML2::Role::XMLLang           0.89  pkg:cpan/Net-SAML2@0.89
+Net::SAML2::SP                      0.89  pkg:cpan/Net-SAML2@0.89
+Net::SAML2::Types                   0.89  pkg:cpan/Net-SAML2@0.89
+Net::SAML2::Util                    0.89  pkg:cpan/Net-SAML2@0.89
+Net::SAML2::XML::Sig                0.89  pkg:cpan/Net-SAML2@0.89
+Net::SAML2::XML::Util               0.89  pkg:cpan/Net-SAML2@0.89
 Net::SAML::stomp_hdr               undef  pkg:cpan/zxid@1.42?ext=tgz
 Net::SAML::zx_at_tok               undef  pkg:cpan/zxid@1.42?ext=tgz
 Net::SAML::zx_attr_s               undef  pkg:cpan/zxid@1.42?ext=tgz
