@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 07 Aug 2026 18:43:40 GMT
-Line-Count: 267664
+Last-Updated: Fri, 07 Aug 2026 20:32:48 GMT
+Line-Count: 267666
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -33260,7 +33260,7 @@ CPAN::02Packages::Search           v1.0.0  pkg:cpan/CPAN-02Packages-Search@v1.0.
 CPAN::API::BuildPL                 0.002  pkg:cpan/CPAN-API-BuildPL@0.002
 CPAN::Admin                        5.501  pkg:cpan/CPAN@2.38
 CPAN::Audit                        20260622.001  pkg:cpan/CPAN-Audit@20260622.001
-CPAN::Audit::DB                    20260803.002  pkg:cpan/CPANSA-DB@20260803.002
+CPAN::Audit::DB                    20260807.001  pkg:cpan/CPANSA-DB@20260807.001
 CPAN::Audit::Discover              1.001  pkg:cpan/CPAN-Audit@20260622.001
 CPAN::Audit::Discover::Cpanfile    1.001  pkg:cpan/CPAN-Audit@20260622.001
 CPAN::Audit::Discover::CpanfileSnapshot 1.001  pkg:cpan/CPAN-Audit@20260622.001
@@ -34033,7 +34033,7 @@ CPANPLUS::YACSmoke::ReAssemble      1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::SortVers        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::locallib        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::inc                      undef  pkg:cpan/CPANPLUS@0.84
-CPANSA::DB                         20260803.002  pkg:cpan/CPANSA-DB@20260803.002
+CPANSA::DB                         20260807.001  pkg:cpan/CPANSA-DB@20260807.001
 CPANSEC::Admin                     0.001  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command            undef  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command::Amend     undef  pkg:cpan/CPANSec-Admin@0.001
@@ -36410,8 +36410,8 @@ Catalyst::Plugin::Session::Store::Cookie 0.005  pkg:cpan/Catalyst-Plugin-Session
 Catalyst::Plugin::Session::Store::CouchDB  0.03  pkg:cpan/Catalyst-Plugin-Session-Store-CouchDB@0.03
 Catalyst::Plugin::Session::Store::Couchbase  0.94  pkg:cpan/Catalyst-Plugin-Session-Store-Couchbase@0.94
 Catalyst::Plugin::Session::Store::DBI  0.16  pkg:cpan/Catalyst-Plugin-Session-Store-DBI@0.16
-Catalyst::Plugin::Session::Store::DBIC  0.14  pkg:cpan/Catalyst-Plugin-Session-Store-DBIC@0.14
-Catalyst::Plugin::Session::Store::DBIC::Delegate undef  pkg:cpan/Catalyst-Plugin-Session-Store-DBIC@0.14
+Catalyst::Plugin::Session::Store::DBIC  0.15  pkg:cpan/Catalyst-Plugin-Session-Store-DBIC@0.15
+Catalyst::Plugin::Session::Store::DBIC::Delegate  0.15  pkg:cpan/Catalyst-Plugin-Session-Store-DBIC@0.15
 Catalyst::Plugin::Session::Store::DOD  0.01  pkg:cpan/Catalyst-Plugin-Session-Store-DOD@0.01
 Catalyst::Plugin::Session::Store::Delegate  0.06  pkg:cpan/Catalyst-Plugin-Session-Store-Delegate@0.06
 Catalyst::Plugin::Session::Store::Dummy  0.44  pkg:cpan/Catalyst-Plugin-Session@0.44
@@ -53450,12 +53450,12 @@ DBIx::LogAny::db                   undef  pkg:cpan/DBIx-LogAny@0.06
 DBIx::LogAny::st                   undef  pkg:cpan/DBIx-LogAny@0.06
 DBIx::LogProfile                    0.02  pkg:cpan/DBIx-LogProfile@0.02
 DBIx::Lookup::Field                2.101420  pkg:cpan/DBIx-Lookup-Field@2.101420
-DBIx::Loop                          0.01  pkg:cpan/DBIx-Loop@0.01
-DBIx::Loop::Future                  0.01  pkg:cpan/DBIx-Loop@0.01
-DBIx::Loop::Loop::AnyEvent          0.01  pkg:cpan/DBIx-Loop@0.01
-DBIx::Loop::Loop::Hyperman          0.01  pkg:cpan/DBIx-Loop@0.01
-DBIx::Loop::Loop::IOAsync           0.01  pkg:cpan/DBIx-Loop@0.01
-DBIx::Loop::Loop::Mojo              0.01  pkg:cpan/DBIx-Loop@0.01
+DBIx::Loop                          0.02  pkg:cpan/DBIx-Loop@0.02
+DBIx::Loop::Future                  0.02  pkg:cpan/DBIx-Loop@0.02
+DBIx::Loop::Loop::AnyEvent          0.02  pkg:cpan/DBIx-Loop@0.02
+DBIx::Loop::Loop::Hyperman          0.02  pkg:cpan/DBIx-Loop@0.02
+DBIx::Loop::Loop::IOAsync           0.02  pkg:cpan/DBIx-Loop@0.02
+DBIx::Loop::Loop::Mojo              0.02  pkg:cpan/DBIx-Loop@0.02
 DBIx::Migrate                       0.01  pkg:cpan/DBIx-Migrate@0.01
 DBIx::Migration                     0.32  pkg:cpan/DBIx-Migration@0.32
 DBIx::Migration::CLI                0.32  pkg:cpan/DBIx-Migration@0.32
@@ -53785,20 +53785,20 @@ DBIx::QueryLog                      0.42  pkg:cpan/DBIx-QueryLog@0.42
 DBIx::Quick                          0.9  pkg:cpan/DBIx-Quick@0.9
 DBIx::Quick::Converter             undef  pkg:cpan/DBIx-Quick@0.9
 DBIx::Quick::Role                  undef  pkg:cpan/DBIx-Quick@0.9
-DBIx::QuickDB                      0.000062  pkg:cpan/DBIx-QuickDB@0.000062
-DBIx::QuickDB::Driver              0.000062  pkg:cpan/DBIx-QuickDB@0.000062
-DBIx::QuickDB::Driver::DuckDB      0.000062  pkg:cpan/DBIx-QuickDB@0.000062
-DBIx::QuickDB::Driver::MariaDB     0.000062  pkg:cpan/DBIx-QuickDB@0.000062
-DBIx::QuickDB::Driver::MySQL       0.000062  pkg:cpan/DBIx-QuickDB@0.000062
+DBIx::QuickDB                      0.000063  pkg:cpan/DBIx-QuickDB@0.000063
+DBIx::QuickDB::Driver              0.000063  pkg:cpan/DBIx-QuickDB@0.000063
+DBIx::QuickDB::Driver::DuckDB      0.000063  pkg:cpan/DBIx-QuickDB@0.000063
+DBIx::QuickDB::Driver::MariaDB     0.000063  pkg:cpan/DBIx-QuickDB@0.000063
+DBIx::QuickDB::Driver::MySQL       0.000063  pkg:cpan/DBIx-QuickDB@0.000063
 DBIx::QuickDB::Driver::MySQL::Base 0.000035  pkg:cpan/DBIx-QuickDB@0.000035
-DBIx::QuickDB::Driver::MySQLCom    0.000062  pkg:cpan/DBIx-QuickDB@0.000062
-DBIx::QuickDB::Driver::Percona     0.000062  pkg:cpan/DBIx-QuickDB@0.000062
-DBIx::QuickDB::Driver::PostgreSQL  0.000062  pkg:cpan/DBIx-QuickDB@0.000062
-DBIx::QuickDB::Driver::SQLite      0.000062  pkg:cpan/DBIx-QuickDB@0.000062
-DBIx::QuickDB::Pool                0.000062  pkg:cpan/DBIx-QuickDB@0.000062
-DBIx::QuickDB::Util                0.000062  pkg:cpan/DBIx-QuickDB@0.000062
-DBIx::QuickDB::Util::HashBase      0.000062  pkg:cpan/DBIx-QuickDB@0.000062
-DBIx::QuickDB::Watcher             0.000062  pkg:cpan/DBIx-QuickDB@0.000062
+DBIx::QuickDB::Driver::MySQLCom    0.000063  pkg:cpan/DBIx-QuickDB@0.000063
+DBIx::QuickDB::Driver::Percona     0.000063  pkg:cpan/DBIx-QuickDB@0.000063
+DBIx::QuickDB::Driver::PostgreSQL  0.000063  pkg:cpan/DBIx-QuickDB@0.000063
+DBIx::QuickDB::Driver::SQLite      0.000063  pkg:cpan/DBIx-QuickDB@0.000063
+DBIx::QuickDB::Pool                0.000063  pkg:cpan/DBIx-QuickDB@0.000063
+DBIx::QuickDB::Util                0.000063  pkg:cpan/DBIx-QuickDB@0.000063
+DBIx::QuickDB::Util::HashBase      0.000063  pkg:cpan/DBIx-QuickDB@0.000063
+DBIx::QuickDB::Watcher             0.000063  pkg:cpan/DBIx-QuickDB@0.000063
 DBIx::QuickORM                     0.000028  pkg:cpan/DBIx-QuickORM@0.000028
 DBIx::QuickORM::Affinity           0.000028  pkg:cpan/DBIx-QuickORM@0.000028
 DBIx::QuickORM::BuilderState       0.000004  pkg:cpan/DBIx-QuickORM@0.000004
@@ -112358,13 +112358,13 @@ Hyper::Developer::Model::Viewer    0.100  pkg:cpan/Hyper-Developer@0.07
 Hyper::Developer::Server           undef  pkg:cpan/Hyper-Developer@0.07
 HyperWave::CSP                     0.003001  pkg:cpan/HyperWave-CSP@0.03.1
 HyperWave::CSP::Message            undef  pkg:cpan/HyperWave-CSP@0.03.1
-Hyperman                            0.12  pkg:cpan/Hyperman@0.12
-Hyperman::Event::Epoll              0.09  pkg:cpan/Hyperman@0.12
-Hyperman::Event::IOUring            0.09  pkg:cpan/Hyperman@0.12
-Hyperman::Event::Kqueue             0.09  pkg:cpan/Hyperman@0.12
-Hyperman::Event::Poll               0.09  pkg:cpan/Hyperman@0.12
-Hyperman::Future                    0.09  pkg:cpan/Hyperman@0.12
-Hyperman::Loop                      0.09  pkg:cpan/Hyperman@0.12
+Hyperman                            0.13  pkg:cpan/Hyperman@0.13
+Hyperman::Event::Epoll              0.09  pkg:cpan/Hyperman@0.13
+Hyperman::Event::IOUring            0.09  pkg:cpan/Hyperman@0.13
+Hyperman::Event::Kqueue             0.09  pkg:cpan/Hyperman@0.13
+Hyperman::Event::Poll               0.09  pkg:cpan/Hyperman@0.13
+Hyperman::Future                    0.09  pkg:cpan/Hyperman@0.13
+Hyperman::Loop                      0.09  pkg:cpan/Hyperman@0.13
 Hyperscan                           0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Database                 0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Matcher                  0.04  pkg:cpan/Hyperscan@0.04
@@ -141067,10 +141067,10 @@ Mojolicious::Plugin::Fondation::Command::fondation  0.07  pkg:cpan/Mojolicious-P
 Mojolicious::Plugin::Fondation::Controller::Base  0.07  pkg:cpan/Mojolicious-Plugin-Fondation@0.07
 Mojolicious::Plugin::Fondation::Controller::Debug  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
 Mojolicious::Plugin::Fondation::Controller::Welcome  0.07  pkg:cpan/Mojolicious-Plugin-Fondation@0.07
-Mojolicious::Plugin::Fondation::Group  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Group@0.02
-Mojolicious::Plugin::Fondation::Group::Controller::Group  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Group@0.02
-Mojolicious::Plugin::Fondation::Group::Schema::Result::Group  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Group@0.02
-Mojolicious::Plugin::Fondation::Group::Schema::Result::UserGroup  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Group@0.02
+Mojolicious::Plugin::Fondation::Group  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Group@0.03
+Mojolicious::Plugin::Fondation::Group::Controller::Group  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Group@0.03
+Mojolicious::Plugin::Fondation::Group::Schema::Result::Group  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Group@0.03
+Mojolicious::Plugin::Fondation::Group::Schema::Result::UserGroup  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Group@0.03
 Mojolicious::Plugin::Fondation::Group::UI::Bootstrap  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Group-UI-Bootstrap@0.01
 Mojolicious::Plugin::Fondation::Helpers  0.07  pkg:cpan/Mojolicious-Plugin-Fondation@0.07
 Mojolicious::Plugin::Fondation::I18N  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-I18N@0.01
@@ -141089,10 +141089,10 @@ Mojolicious::Plugin::Fondation::Model::DBIx::Async::Action::DBIx  0.06  pkg:cpan
 Mojolicious::Plugin::Fondation::Model::DBIx::Async::ResultSet  0.06  pkg:cpan/Mojolicious-Plugin-Fondation-Model-DBIx-Async@0.06
 Mojolicious::Plugin::Fondation::OpenAPI  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-OpenAPI@0.03
 Mojolicious::Plugin::Fondation::OpenAPI::Command::openapi  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-OpenAPI@0.03
-Mojolicious::Plugin::Fondation::Perm  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Perm@0.03
-Mojolicious::Plugin::Fondation::Perm::Controller::Perm  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Perm@0.03
-Mojolicious::Plugin::Fondation::Perm::Schema::Result::GroupPerm  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Perm@0.03
-Mojolicious::Plugin::Fondation::Perm::Schema::Result::Perm  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Perm@0.03
+Mojolicious::Plugin::Fondation::Perm  0.04  pkg:cpan/Mojolicious-Plugin-Fondation-Perm@0.04
+Mojolicious::Plugin::Fondation::Perm::Controller::Perm  0.04  pkg:cpan/Mojolicious-Plugin-Fondation-Perm@0.04
+Mojolicious::Plugin::Fondation::Perm::Schema::Result::GroupPerm  0.04  pkg:cpan/Mojolicious-Plugin-Fondation-Perm@0.04
+Mojolicious::Plugin::Fondation::Perm::Schema::Result::Perm  0.04  pkg:cpan/Mojolicious-Plugin-Fondation-Perm@0.04
 Mojolicious::Plugin::Fondation::Perm::UI::Bootstrap  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Perm-UI-Bootstrap@0.01
 Mojolicious::Plugin::Fondation::Problem  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Problem@0.03
 Mojolicious::Plugin::Fondation::Resolver  0.07  pkg:cpan/Mojolicious-Plugin-Fondation@0.07
@@ -199044,7 +199044,7 @@ Plack::Handler::H2::Writer         undef  pkg:cpan/Plack-Handler-H2@0.0.5
 Plack::Handler::HTTP::Server::PSGI undef  pkg:cpan/Plack@1.0054
 Plack::Handler::HTTP::Server::Simple  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
 Plack::Handler::HTTP::Server::Simple::PSGIServer  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
-Plack::Handler::Hyperman            0.09  pkg:cpan/Hyperman@0.12
+Plack::Handler::Hyperman            0.09  pkg:cpan/Hyperman@0.13
 Plack::Handler::Martian             0.08  pkg:cpan/Martian@0.08
 Plack::Handler::Message::Passing   undef  pkg:cpan/Message-Passing-PSGI@0.001
 Plack::Handler::Monoceros          undef  pkg:cpan/Monoceros@0.29
@@ -202958,34 +202958,36 @@ Puncheur::Request                  undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Response                 undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Runner                   undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Trigger                  undef  pkg:cpan/Puncheur@v0.3.0
-Punk                                0.02  pkg:cpan/Punk@0.02
-Punk::App                           0.02  pkg:cpan/Punk@0.02
-Punk::CORS                          0.02  pkg:cpan/Punk@0.02
-Punk::CSRF                          0.02  pkg:cpan/Punk@0.02
-Punk::Command                       0.02  pkg:cpan/Punk@0.02
-Punk::Config                        0.02  pkg:cpan/Punk@0.02
-Punk::Context                       0.02  pkg:cpan/Punk@0.02
-Punk::Controller                    0.02  pkg:cpan/Punk@0.02
-Punk::Future                        0.02  pkg:cpan/Punk@0.02
-Punk::Generate                      0.02  pkg:cpan/Punk@0.02
-Punk::Logger                        0.02  pkg:cpan/Punk@0.02
-Punk::Model                         0.02  pkg:cpan/Punk@0.02
-Punk::Model::DBI                    0.02  pkg:cpan/Punk@0.02
-Punk::Mount::OpenAPI                0.02  pkg:cpan/Punk@0.02
-Punk::Plugin                        0.02  pkg:cpan/Punk@0.02
-Punk::Request                       0.02  pkg:cpan/Punk@0.02
-Punk::Response                      0.02  pkg:cpan/Punk@0.02
-Punk::Router                        0.02  pkg:cpan/Punk@0.02
-Punk::Router::Scope                 0.02  pkg:cpan/Punk@0.02
-Punk::SSE                           0.02  pkg:cpan/Punk@0.02
-Punk::Session                       0.02  pkg:cpan/Punk@0.02
-Punk::Static                        0.02  pkg:cpan/Punk@0.02
-Punk::UA                            0.02  pkg:cpan/Punk@0.02
-Punk::Upload                        0.02  pkg:cpan/Punk@0.02
-Punk::View::Stencil                 0.02  pkg:cpan/Punk@0.02
-Punk::Views                         0.02  pkg:cpan/Punk@0.02
-Punk::WebSocket                     0.02  pkg:cpan/Punk@0.02
-Punk::WebSocket::Room               0.02  pkg:cpan/Punk@0.02
+Punk                                0.03  pkg:cpan/Punk@0.03
+Punk::App                           0.02  pkg:cpan/Punk@0.03
+Punk::CORS                          0.02  pkg:cpan/Punk@0.03
+Punk::CSRF                          0.02  pkg:cpan/Punk@0.03
+Punk::Command                       0.02  pkg:cpan/Punk@0.03
+Punk::Config                        0.02  pkg:cpan/Punk@0.03
+Punk::Context                       0.02  pkg:cpan/Punk@0.03
+Punk::Controller                    0.02  pkg:cpan/Punk@0.03
+Punk::Future                        0.02  pkg:cpan/Punk@0.03
+Punk::Generate                      0.02  pkg:cpan/Punk@0.03
+Punk::Logger                        0.02  pkg:cpan/Punk@0.03
+Punk::Model                         0.02  pkg:cpan/Punk@0.03
+Punk::Model::DBI                    0.02  pkg:cpan/Punk@0.03
+Punk::Model::DBIx::Loop             0.03  pkg:cpan/Punk@0.03
+Punk::Mount::Markdown               0.03  pkg:cpan/Punk@0.03
+Punk::Mount::OpenAPI                0.02  pkg:cpan/Punk@0.03
+Punk::Plugin                        0.02  pkg:cpan/Punk@0.03
+Punk::Request                       0.02  pkg:cpan/Punk@0.03
+Punk::Response                      0.02  pkg:cpan/Punk@0.03
+Punk::Router                        0.02  pkg:cpan/Punk@0.03
+Punk::Router::Scope                 0.02  pkg:cpan/Punk@0.03
+Punk::SSE                           0.02  pkg:cpan/Punk@0.03
+Punk::Session                       0.02  pkg:cpan/Punk@0.03
+Punk::Static                        0.02  pkg:cpan/Punk@0.03
+Punk::UA                            0.02  pkg:cpan/Punk@0.03
+Punk::Upload                        0.02  pkg:cpan/Punk@0.03
+Punk::View::Stencil                 0.02  pkg:cpan/Punk@0.03
+Punk::Views                         0.02  pkg:cpan/Punk@0.03
+Punk::WebSocket                     0.02  pkg:cpan/Punk@0.03
+Punk::WebSocket::Room               0.02  pkg:cpan/Punk@0.03
 Puppet::Classify                   undef  pkg:cpan/Puppet-Classify@0.003
 Puppet::DB                         undef  pkg:cpan/Puppet-DB@0.001
 Puppet::Orchestrator               undef  pkg:cpan/Puppet-Orchestrator@0.002
@@ -231086,7 +231088,7 @@ Test2::Tools::Process::Exit         0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::Proc         0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::System       0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::SystemProc   0.07  pkg:cpan/Test2-Tools-Process@0.07
-Test2::Tools::QuickDB              0.000062  pkg:cpan/DBIx-QuickDB@0.000062
+Test2::Tools::QuickDB              0.000063  pkg:cpan/DBIx-QuickDB@0.000063
 Test2::Tools::Ref                  1.302222  pkg:cpan/Test-Simple@1.302222
 Test2::Tools::Refcount             1.302222  pkg:cpan/Test-Simple@1.302222
 Test2::Tools::Rustfmt               0.05  pkg:cpan/Test2-Tools-Rustfmt@0.05
