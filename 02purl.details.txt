@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 08 Aug 2026 14:24:40 GMT
-Line-Count: 267679
+Last-Updated: Sat, 08 Aug 2026 16:24:11 GMT
+Line-Count: 267680
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5119,40 +5119,41 @@ Alzabo::SQLMaker::PostgreSQL           2  pkg:cpan/Alzabo@0.92
 Alzabo::Schema                         2  pkg:cpan/Alzabo@0.92
 Alzabo::Table                          2  pkg:cpan/Alzabo@0.92
 Alzabo::Utils                      undef  pkg:cpan/Alzabo@0.92
-Amazon::API                        v2.3.4  pkg:cpan/Amazon-API@2.3.4
-Amazon::API::Botocore              v2.3.4  pkg:cpan/Amazon-API@2.3.4
-Amazon::API::Botocore::Pod         v2.3.4  pkg:cpan/Amazon-API@2.3.4
-Amazon::API::Botocore::Services    v2.3.4  pkg:cpan/Amazon-API@2.3.4
-Amazon::API::Botocore::Shape       v2.3.4  pkg:cpan/Amazon-API@2.3.4
-Amazon::API::Botocore::Shape::Serializer v2.3.4  pkg:cpan/Amazon-API@2.3.4
-Amazon::API::Botocore::Shape::Utils v2.3.4  pkg:cpan/Amazon-API@2.3.4
+Amazon::API                        v2.4.6  pkg:cpan/Amazon-API@2.4.6
+Amazon::API::Botocore              v2.4.6  pkg:cpan/Amazon-API@2.4.6
+Amazon::API::Botocore::Pod         v2.4.6  pkg:cpan/Amazon-API@2.4.6
+Amazon::API::Botocore::Services    v2.4.6  pkg:cpan/Amazon-API@2.4.6
+Amazon::API::Botocore::Shape       v2.4.6  pkg:cpan/Amazon-API@2.4.6
+Amazon::API::Botocore::Shape::Serializer v2.4.6  pkg:cpan/Amazon-API@2.4.6
+Amazon::API::Botocore::Shape::Utils v2.4.6  pkg:cpan/Amazon-API@2.4.6
 Amazon::API::CHIME                 v1.2.7  pkg:cpan/Amazon-API@1.3.3
 Amazon::API::CloudSearch           v1.2.7  pkg:cpan/Amazon-API@1.3.3
 Amazon::API::CloudSearchDomain     v1.2.7  pkg:cpan/Amazon-API@1.3.3
 Amazon::API::CloudWatchLogs        v1.3.5  pkg:cpan/Amazon-API@1.3.5
-Amazon::API::Constants             v2.3.4  pkg:cpan/Amazon-API@2.3.4
+Amazon::API::Constants             v2.4.6  pkg:cpan/Amazon-API@2.4.6
 Amazon::API::EC2                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::ECR                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::ECS                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
-Amazon::API::Error                 v2.3.4  pkg:cpan/Amazon-API@2.3.4
-Amazon::API::HTTP::Response            0  pkg:cpan/Amazon-API@2.3.4
-Amazon::API::HTTP::UserAgent           0  pkg:cpan/Amazon-API@2.3.4
-Amazon::API::NullLogger                0  pkg:cpan/Amazon-API@2.3.4
-Amazon::API::Pod::Parser            0.01  pkg:cpan/Amazon-API@2.3.4
-Amazon::API::Pod::Simple::Text      0.01  pkg:cpan/Amazon-API@2.3.4
+Amazon::API::Error                 v2.4.6  pkg:cpan/Amazon-API@2.4.6
+Amazon::API::HTTP::Response            0  pkg:cpan/Amazon-API@2.4.6
+Amazon::API::HTTP::UserAgent           0  pkg:cpan/Amazon-API@2.4.6
+Amazon::API::ModuleNames               0  pkg:cpan/Amazon-API@2.4.6
+Amazon::API::NullLogger                0  pkg:cpan/Amazon-API@2.4.6
+Amazon::API::Pod::Parser            0.01  pkg:cpan/Amazon-API@2.4.6
+Amazon::API::Pod::Simple::Text      0.01  pkg:cpan/Amazon-API@2.4.6
 Amazon::API::SQS                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::SSM                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
-Amazon::API::STS                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
+Amazon::API::STS                   v2011.6.15  pkg:cpan/Amazon-API@2.4.6
 Amazon::API::SecretsManager        v1.3.5  pkg:cpan/Amazon-API@1.3.5
-Amazon::API::Signature4            v2.3.4  pkg:cpan/Amazon-API@2.3.4
-Amazon::API::Template                  0  pkg:cpan/Amazon-API@2.3.4
+Amazon::API::Signature4            v2.4.6  pkg:cpan/Amazon-API@2.4.6
+Amazon::API::Template                  0  pkg:cpan/Amazon-API@2.4.6
 Amazon::CloudFront::SignedURL       0.03  pkg:cpan/Amazon-CloudFront-SignedURL@0.03
 Amazon::CloudFront::Thin            0.05  pkg:cpan/Amazon-CloudFront-Thin@0.05
 Amazon::CreatorsAPI                 0.01  pkg:cpan/Amazon-CreatorsAPI@0.01
 Amazon::CreatorsAPI::Auth          undef  pkg:cpan/Amazon-CreatorsAPI@0.01
-Amazon::Credentials                v1.3.0  pkg:cpan/Amazon-Credentials@1.3.0
-Amazon::Credentials::HTTP::Response     0  pkg:cpan/Amazon-Credentials@1.3.0
-Amazon::Credentials::HTTP::UserAgent     0  pkg:cpan/Amazon-Credentials@1.3.0
+Amazon::Credentials                v1.3.2  pkg:cpan/Amazon-Credentials@1.3.2
+Amazon::Credentials::HTTP::Response     0  pkg:cpan/Amazon-Credentials@1.3.2
+Amazon::Credentials::HTTP::UserAgent     0  pkg:cpan/Amazon-Credentials@1.3.2
 Amazon::Credentials::UnitTests         0  pkg:cpan/Amazon-Credentials@1.1.6
 Amazon::Dash::Button                0.11  pkg:cpan/Amazon-Dash-Button@0.11
 Amazon::Dash::Button::Device        0.11  pkg:cpan/Amazon-Dash-Button@0.11
@@ -112358,13 +112359,13 @@ Hyper::Developer::Model::Viewer    0.100  pkg:cpan/Hyper-Developer@0.07
 Hyper::Developer::Server           undef  pkg:cpan/Hyper-Developer@0.07
 HyperWave::CSP                     0.003001  pkg:cpan/HyperWave-CSP@0.03.1
 HyperWave::CSP::Message            undef  pkg:cpan/HyperWave-CSP@0.03.1
-Hyperman                            0.13  pkg:cpan/Hyperman@0.13
-Hyperman::Event::Epoll              0.09  pkg:cpan/Hyperman@0.13
-Hyperman::Event::IOUring            0.09  pkg:cpan/Hyperman@0.13
-Hyperman::Event::Kqueue             0.09  pkg:cpan/Hyperman@0.13
-Hyperman::Event::Poll               0.09  pkg:cpan/Hyperman@0.13
-Hyperman::Future                    0.09  pkg:cpan/Hyperman@0.13
-Hyperman::Loop                      0.09  pkg:cpan/Hyperman@0.13
+Hyperman                            0.14  pkg:cpan/Hyperman@0.14
+Hyperman::Event::Epoll              0.09  pkg:cpan/Hyperman@0.14
+Hyperman::Event::IOUring            0.09  pkg:cpan/Hyperman@0.14
+Hyperman::Event::Kqueue             0.09  pkg:cpan/Hyperman@0.14
+Hyperman::Event::Poll               0.09  pkg:cpan/Hyperman@0.14
+Hyperman::Future                    0.09  pkg:cpan/Hyperman@0.14
+Hyperman::Loop                      0.09  pkg:cpan/Hyperman@0.14
 Hyperscan                           0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Database                 0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Matcher                  0.04  pkg:cpan/Hyperscan@0.04
@@ -159881,16 +159882,16 @@ PAGI::Endpoint::Router             0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Endpoint::Router::RouteBuilder 0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Endpoint::SSE                0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Endpoint::WebSocket          0.002002  pkg:cpan/PAGI-Tools@0.002002
-PAGI::FastAPI                      v0.0.7  pkg:cpan/PAGI-FastAPI@v0.0.7
-PAGI::FastAPI::Context             v0.0.7  pkg:cpan/PAGI-FastAPI@v0.0.7
-PAGI::FastAPI::Depends             v0.0.7  pkg:cpan/PAGI-FastAPI@v0.0.7
+PAGI::FastAPI                      v0.0.8  pkg:cpan/PAGI-FastAPI@v0.0.8
+PAGI::FastAPI::Context             v0.0.8  pkg:cpan/PAGI-FastAPI@v0.0.8
+PAGI::FastAPI::Depends             v0.0.8  pkg:cpan/PAGI-FastAPI@v0.0.8
 PAGI::FastAPI::Security            v0.0.4  pkg:cpan/PAGI-FastAPI-Security@v0.0.4
 PAGI::FastAPI::Security::APIKey    v0.0.4  pkg:cpan/PAGI-FastAPI-Security@v0.0.4
 PAGI::FastAPI::Security::Base      v0.0.4  pkg:cpan/PAGI-FastAPI-Security@v0.0.4
 PAGI::FastAPI::Security::HTTPBasic v0.0.4  pkg:cpan/PAGI-FastAPI-Security@v0.0.4
 PAGI::FastAPI::Security::HTTPBearer v0.0.4  pkg:cpan/PAGI-FastAPI-Security@v0.0.4
 PAGI::FastAPI::Security::OAuth2::PasswordBearer v0.0.4  pkg:cpan/PAGI-FastAPI-Security@v0.0.4
-PAGI::FastAPI::WebSocket           v0.0.7  pkg:cpan/PAGI-FastAPI@v0.0.7
+PAGI::FastAPI::WebSocket           v0.0.8  pkg:cpan/PAGI-FastAPI@v0.0.8
 PAGI::Headers                      0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Lifespan                     0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Middleware                   0.002002  pkg:cpan/PAGI-Tools@0.002002
@@ -199047,7 +199048,7 @@ Plack::Handler::H2::Writer         undef  pkg:cpan/Plack-Handler-H2@0.0.5
 Plack::Handler::HTTP::Server::PSGI undef  pkg:cpan/Plack@1.0054
 Plack::Handler::HTTP::Server::Simple  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
 Plack::Handler::HTTP::Server::Simple::PSGIServer  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
-Plack::Handler::Hyperman            0.09  pkg:cpan/Hyperman@0.13
+Plack::Handler::Hyperman            0.09  pkg:cpan/Hyperman@0.14
 Plack::Handler::Martian             0.08  pkg:cpan/Martian@0.08
 Plack::Handler::Message::Passing   undef  pkg:cpan/Message-Passing-PSGI@0.001
 Plack::Handler::Monoceros          undef  pkg:cpan/Monoceros@0.29
@@ -225658,7 +225659,7 @@ String::Strip                       1.02  pkg:cpan/String-Strip@1.02
 String::Substitute                 0.007  pkg:cpan/String-Substitute@0.007
 String::Substitution               1.002  pkg:cpan/String-Substitution@1.002
 String::Substrings                  0.02  pkg:cpan/String-Substrings@0.02
-String::Super                      v0.2.0  pkg:cpan/String-Super@v0.02
+String::Super                      v0.3.0  pkg:cpan/String-Super@v0.03
 String::Switches                   0.001  pkg:cpan/String-Switches@0.001
 String::TT                          0.03  pkg:cpan/String-TT@0.03
 String::TagString                  0.006  pkg:cpan/String-TagString@0.006
