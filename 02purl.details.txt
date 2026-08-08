@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 08 Aug 2026 10:23:16 GMT
-Line-Count: 267670
+Last-Updated: Sat, 08 Aug 2026 12:32:30 GMT
+Line-Count: 267679
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -36593,7 +36593,7 @@ Catalyst::View::CSS::Squish         0.02  pkg:cpan/Catalyst-View-CSS-Squish@0.02
 Catalyst::View::CSV                  1.8  pkg:cpan/Catalyst-View-CSV@1.8
 Catalyst::View::Chart::Strip        0.05  pkg:cpan/Catalyst-View-Chart-Strip@0.05
 Catalyst::View::Chart::Strip::Example undef  pkg:cpan/Catalyst-View-Chart-Strip@0.05
-Catalyst::View::ChromePDF          v0.1.0  pkg:cpan/Catalyst-View-ChromePDF@v0.1.0
+Catalyst::View::ChromePDF          v0.1.1  pkg:cpan/Catalyst-View-ChromePDF@v0.1.1
 Catalyst::View::ClearSilver         0.01  pkg:cpan/Catalyst-View-ClearSilver@0.01
 Catalyst::View::Component::ESI      0.02  pkg:cpan/Catalyst-View-Component-ESI@0.02
 Catalyst::View::Component::SubInclude  0.10  pkg:cpan/Catalyst-View-Component-SubInclude@0.10
@@ -75062,7 +75062,7 @@ File::ReplaceBytes                  1.02  pkg:cpan/File-ReplaceBytes@1.02
 File::Revision                      1.04  pkg:cpan/File-Revision@0.03
 File::Rotate::Backup                0.13  pkg:cpan/File-Rotate-Backup@0.13
 File::Rotate::Backup::Copy          1.10  pkg:cpan/File-Rotate-Backup@0.13
-File::Rotate::Simple               v0.4.1  pkg:cpan/File-Rotate-Simple@v0.4.1
+File::Rotate::Simple               v0.4.2  pkg:cpan/File-Rotate-Simple@v0.4.2
 File::RotateLogs                    0.08  pkg:cpan/File-RotateLogs@0.08
 File::RoundRobin                    0.07  pkg:cpan/File-RoundRobin@0.07
 File::RsyBak                       0.361  pkg:cpan/File-RsyBak@0.361
@@ -159881,16 +159881,16 @@ PAGI::Endpoint::Router             0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Endpoint::Router::RouteBuilder 0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Endpoint::SSE                0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Endpoint::WebSocket          0.002002  pkg:cpan/PAGI-Tools@0.002002
-PAGI::FastAPI                      v0.0.6  pkg:cpan/PAGI-FastAPI@v0.0.6
-PAGI::FastAPI::Context             v0.0.6  pkg:cpan/PAGI-FastAPI@v0.0.6
-PAGI::FastAPI::Depends             v0.0.6  pkg:cpan/PAGI-FastAPI@v0.0.6
+PAGI::FastAPI                      v0.0.7  pkg:cpan/PAGI-FastAPI@v0.0.7
+PAGI::FastAPI::Context             v0.0.7  pkg:cpan/PAGI-FastAPI@v0.0.7
+PAGI::FastAPI::Depends             v0.0.7  pkg:cpan/PAGI-FastAPI@v0.0.7
 PAGI::FastAPI::Security            v0.0.4  pkg:cpan/PAGI-FastAPI-Security@v0.0.4
 PAGI::FastAPI::Security::APIKey    v0.0.4  pkg:cpan/PAGI-FastAPI-Security@v0.0.4
 PAGI::FastAPI::Security::Base      v0.0.4  pkg:cpan/PAGI-FastAPI-Security@v0.0.4
 PAGI::FastAPI::Security::HTTPBasic v0.0.4  pkg:cpan/PAGI-FastAPI-Security@v0.0.4
 PAGI::FastAPI::Security::HTTPBearer v0.0.4  pkg:cpan/PAGI-FastAPI-Security@v0.0.4
 PAGI::FastAPI::Security::OAuth2::PasswordBearer v0.0.4  pkg:cpan/PAGI-FastAPI-Security@v0.0.4
-PAGI::FastAPI::WebSocket           v0.0.6  pkg:cpan/PAGI-FastAPI@v0.0.6
+PAGI::FastAPI::WebSocket           v0.0.7  pkg:cpan/PAGI-FastAPI@v0.0.7
 PAGI::Headers                      0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Lifespan                     0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Middleware                   0.002002  pkg:cpan/PAGI-Tools@0.002002
@@ -202961,36 +202961,45 @@ Puncheur::Request                  undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Response                 undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Runner                   undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Trigger                  undef  pkg:cpan/Puncheur@v0.3.0
-Punk                                0.03  pkg:cpan/Punk@0.03
-Punk::App                           0.02  pkg:cpan/Punk@0.03
-Punk::CORS                          0.02  pkg:cpan/Punk@0.03
-Punk::CSRF                          0.02  pkg:cpan/Punk@0.03
-Punk::Command                       0.02  pkg:cpan/Punk@0.03
-Punk::Config                        0.02  pkg:cpan/Punk@0.03
-Punk::Context                       0.02  pkg:cpan/Punk@0.03
-Punk::Controller                    0.02  pkg:cpan/Punk@0.03
-Punk::Future                        0.02  pkg:cpan/Punk@0.03
-Punk::Generate                      0.02  pkg:cpan/Punk@0.03
-Punk::Logger                        0.02  pkg:cpan/Punk@0.03
-Punk::Model                         0.02  pkg:cpan/Punk@0.03
-Punk::Model::DBI                    0.02  pkg:cpan/Punk@0.03
-Punk::Model::DBIx::Loop             0.03  pkg:cpan/Punk@0.03
-Punk::Mount::Markdown               0.03  pkg:cpan/Punk@0.03
-Punk::Mount::OpenAPI                0.02  pkg:cpan/Punk@0.03
-Punk::Plugin                        0.02  pkg:cpan/Punk@0.03
-Punk::Request                       0.02  pkg:cpan/Punk@0.03
-Punk::Response                      0.02  pkg:cpan/Punk@0.03
-Punk::Router                        0.02  pkg:cpan/Punk@0.03
-Punk::Router::Scope                 0.02  pkg:cpan/Punk@0.03
-Punk::SSE                           0.02  pkg:cpan/Punk@0.03
-Punk::Session                       0.02  pkg:cpan/Punk@0.03
-Punk::Static                        0.02  pkg:cpan/Punk@0.03
-Punk::UA                            0.02  pkg:cpan/Punk@0.03
-Punk::Upload                        0.02  pkg:cpan/Punk@0.03
-Punk::View::Stencil                 0.02  pkg:cpan/Punk@0.03
-Punk::Views                         0.02  pkg:cpan/Punk@0.03
-Punk::WebSocket                     0.02  pkg:cpan/Punk@0.03
-Punk::WebSocket::Room               0.02  pkg:cpan/Punk@0.03
+Punk                                0.04  pkg:cpan/Punk@0.04
+Punk::App                           0.02  pkg:cpan/Punk@0.04
+Punk::CORS                          0.02  pkg:cpan/Punk@0.04
+Punk::CSRF                          0.02  pkg:cpan/Punk@0.04
+Punk::Command                       0.02  pkg:cpan/Punk@0.04
+Punk::Config                        0.02  pkg:cpan/Punk@0.04
+Punk::Context                       0.02  pkg:cpan/Punk@0.04
+Punk::Controller                    0.02  pkg:cpan/Punk@0.04
+Punk::Future                        0.02  pkg:cpan/Punk@0.04
+Punk::Generate                      0.02  pkg:cpan/Punk@0.04
+Punk::Logger                        0.02  pkg:cpan/Punk@0.04
+Punk::Model                         0.02  pkg:cpan/Punk@0.04
+Punk::Model::DBI                    0.02  pkg:cpan/Punk@0.04
+Punk::Model::DBIx::Loop             0.03  pkg:cpan/Punk@0.04
+Punk::Mount::Markdown               0.03  pkg:cpan/Punk@0.04
+Punk::Mount::OpenAPI                0.02  pkg:cpan/Punk@0.04
+Punk::Plugin                        0.02  pkg:cpan/Punk@0.04
+Punk::Plugin::Queue                 0.01  pkg:cpan/Punk-Queue@0.01
+Punk::Queue                         0.01  pkg:cpan/Punk-Queue@0.01
+Punk::Queue::Backend                0.01  pkg:cpan/Punk-Queue@0.01
+Punk::Queue::Backend::Pg            0.01  pkg:cpan/Punk-Queue@0.01
+Punk::Queue::Backend::SQLite        0.01  pkg:cpan/Punk-Queue@0.01
+Punk::Queue::Command                0.01  pkg:cpan/Punk-Queue@0.01
+Punk::Queue::Cron                   0.01  pkg:cpan/Punk-Queue@0.01
+Punk::Queue::Job                    0.01  pkg:cpan/Punk-Queue@0.01
+Punk::Queue::Worker                 0.01  pkg:cpan/Punk-Queue@0.01
+Punk::Request                       0.02  pkg:cpan/Punk@0.04
+Punk::Response                      0.02  pkg:cpan/Punk@0.04
+Punk::Router                        0.02  pkg:cpan/Punk@0.04
+Punk::Router::Scope                 0.02  pkg:cpan/Punk@0.04
+Punk::SSE                           0.02  pkg:cpan/Punk@0.04
+Punk::Session                       0.02  pkg:cpan/Punk@0.04
+Punk::Static                        0.02  pkg:cpan/Punk@0.04
+Punk::UA                            0.02  pkg:cpan/Punk@0.04
+Punk::Upload                        0.02  pkg:cpan/Punk@0.04
+Punk::View::Stencil                 0.02  pkg:cpan/Punk@0.04
+Punk::Views                         0.02  pkg:cpan/Punk@0.04
+Punk::WebSocket                     0.02  pkg:cpan/Punk@0.04
+Punk::WebSocket::Room               0.02  pkg:cpan/Punk@0.04
 Puppet::Classify                   undef  pkg:cpan/Puppet-Classify@0.003
 Puppet::DB                         undef  pkg:cpan/Puppet-DB@0.001
 Puppet::Orchestrator               undef  pkg:cpan/Puppet-Orchestrator@0.002
@@ -259679,7 +259688,7 @@ XML::Handler::XMLWriter             0.08  pkg:cpan/libxml-perl@0.08
 XML::Handler::YAWriter              0.23  pkg:cpan/XML-Handler-YAWriter@0.23
 XML::Hash                           0.95  pkg:cpan/XML-Hash@0.95
 XML::Hash::LX                       0.07  pkg:cpan/XML-Hash-LX@0.07
-XML::Hash::XS                       0.65  pkg:cpan/XML-Hash-XS@0.65
+XML::Hash::XS                       0.66  pkg:cpan/XML-Hash-XS@0.66
 XML::IDMEF                          0.11  pkg:cpan/XML-IDMEF@0.11
 XML::IETF                           0.01  pkg:cpan/XML-IETF@0.01
 XML::IODEF                          0.11  pkg:cpan/XML-IODEF@0.11
