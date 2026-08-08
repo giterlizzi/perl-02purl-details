@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 07 Aug 2026 22:27:18 GMT
-Line-Count: 267666
+Last-Updated: Sat, 08 Aug 2026 01:05:18 GMT
+Line-Count: 267667
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -62055,14 +62055,14 @@ Data::UNLreport                     1.07  pkg:cpan/Data-UNLreport@1.07
 Data::UNLreport::Line               1.07  pkg:cpan/Data-UNLreport@1.07
 Data::UNLreport::_util              1.07  pkg:cpan/Data-UNLreport@1.07
 Data::URIEncode                     0.11  pkg:cpan/Data-URIEncode@0.11
-Data::URIID                        v0.22.0  pkg:cpan/Data-URIID@v0.22
-Data::URIID::Barcode               v0.22.0  pkg:cpan/Data-URIID@v0.22
-Data::URIID::Base                  v0.22.0  pkg:cpan/Data-URIID@v0.22
-Data::URIID::Colour                v0.22.0  pkg:cpan/Data-URIID@v0.22
-Data::URIID::Digest                v0.22.0  pkg:cpan/Data-URIID@v0.22
+Data::URIID                        v0.23.0  pkg:cpan/Data-URIID@v0.23
+Data::URIID::Barcode               v0.23.0  pkg:cpan/Data-URIID@v0.23
+Data::URIID::Base                  v0.23.0  pkg:cpan/Data-URIID@v0.23
+Data::URIID::Colour                v0.23.0  pkg:cpan/Data-URIID@v0.23
+Data::URIID::Digest                v0.23.0  pkg:cpan/Data-URIID@v0.23
 Data::URIID::Future                v0.5.0  pkg:cpan/Data-URIID@v0.05
-Data::URIID::Result                v0.22.0  pkg:cpan/Data-URIID@v0.22
-Data::URIID::Service               v0.22.0  pkg:cpan/Data-URIID@v0.22
+Data::URIID::Result                v0.23.0  pkg:cpan/Data-URIID@v0.23
+Data::URIID::Service               v0.23.0  pkg:cpan/Data-URIID@v0.23
 Data::UUID                         1.227  pkg:cpan/Data-UUID@1.227
 Data::UUID::Base64URLSafe           0.35  pkg:cpan/Data-UUID-Base64URLSafe@0.35
 Data::UUID::Concise                0.121240  pkg:cpan/Data-UUID-Concise@0.121240
@@ -68171,7 +68171,7 @@ Dist::Zilla::PluginBundle::RBUELS    0.1  pkg:cpan/Dist-Zilla-PluginBundle-RBUEL
 Dist::Zilla::PluginBundle::RJBS    5.036  pkg:cpan/Dist-Zilla-PluginBundle-RJBS@5.036
 Dist::Zilla::PluginBundle::ROKR    0.0019  pkg:cpan/Dist-Zilla-PluginBundle-ROKR@0.0019
 Dist::Zilla::PluginBundle::ROKR::Basic 0.0019  pkg:cpan/Dist-Zilla-PluginBundle-ROKR@0.0019
-Dist::Zilla::PluginBundle::RSRCHBOY 0.077  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.077
+Dist::Zilla::PluginBundle::RSRCHBOY 0.078  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.078
 Dist::Zilla::PluginBundle::RTHOMPSON 0.161990  pkg:cpan/Dist-Zilla-PluginBundle-Author-RTHOMPSON@0.161990
 Dist::Zilla::PluginBundle::RWP     0.230470  pkg:cpan/Dist-Zilla-PluginBundle-RWP@0.230470
 Dist::Zilla::PluginBundle::Rakudo   0.01  pkg:cpan/Dist-Zilla-PluginBundle-Rakudo@0.01
@@ -200850,7 +200850,7 @@ Pod::Weaver::PluginBundle::NoAuthor 0.007  pkg:cpan/Dist-Zilla-Plugin-AuthorsFro
 Pod::Weaver::PluginBundle::ODYNIEC 0.021  pkg:cpan/Dist-Zilla-PluginBundle-ODYNIEC@0.021
 Pod::Weaver::PluginBundle::Prophet 0.001  pkg:cpan/Prophet-Devel@0.001
 Pod::Weaver::PluginBundle::RJBS    5.036  pkg:cpan/Dist-Zilla-PluginBundle-RJBS@5.036
-Pod::Weaver::PluginBundle::RSRCHBOY 0.077  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.077
+Pod::Weaver::PluginBundle::RSRCHBOY 0.078  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.078
 Pod::Weaver::PluginBundle::RTHOMPSON 0.151680  pkg:cpan/Pod-Weaver-PluginBundle-Author-RTHOMPSON@0.151680
 Pod::Weaver::PluginBundle::ReplaceBoilerplate  1.00  pkg:cpan/Pod-Weaver-PluginBundle-ReplaceBoilerplate@1.00
 Pod::Weaver::PluginBundle::SCHWIGON 0.003  pkg:cpan/Pod-Weaver-PluginBundle-SCHWIGON@0.003
@@ -200919,11 +200919,11 @@ Pod::Weaver::Section::MooseConsumes  0.02  pkg:cpan/Pod-Weaver-Section-MooseDep@
 Pod::Weaver::Section::MooseExtends  0.02  pkg:cpan/Pod-Weaver-Section-MooseDep@0.02
 Pod::Weaver::Section::Name         4.020  pkg:cpan/Pod-Weaver@4.020
 Pod::Weaver::Section::PERLANCAR::Contributing 0.293  pkg:cpan/Pod-Weaver-PluginBundle-Author-PERLANCAR@0.293
-Pod::Weaver::Section::RSRCHBOY::Authors 0.077  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.077
-Pod::Weaver::Section::RSRCHBOY::GeneratedAttributes 0.077  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.077
-Pod::Weaver::Section::RSRCHBOY::LazyAttributes 0.077  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.077
-Pod::Weaver::Section::RSRCHBOY::RequiredAttributes 0.077  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.077
-Pod::Weaver::Section::RSRCHBOY::RoleParameters 0.077  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.077
+Pod::Weaver::Section::RSRCHBOY::Authors 0.078  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.078
+Pod::Weaver::Section::RSRCHBOY::GeneratedAttributes 0.078  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.078
+Pod::Weaver::Section::RSRCHBOY::LazyAttributes 0.078  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.078
+Pod::Weaver::Section::RSRCHBOY::RequiredAttributes 0.078  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.078
+Pod::Weaver::Section::RSRCHBOY::RoleParameters 0.078  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.078
 Pod::Weaver::Section::RecentChanges v0.6.0  pkg:cpan/Dist-Zilla-Plugin-UsefulReadme@v0.6.0
 Pod::Weaver::Section::Region       4.020  pkg:cpan/Pod-Weaver@4.020
 Pod::Weaver::Section::ReplaceAuthors  1.00  pkg:cpan/Pod-Weaver-PluginBundle-ReplaceBoilerplate@1.00
@@ -200947,7 +200947,7 @@ Pod::Weaver::Section::WarrantyDisclaimer::Custom 0.121290  pkg:cpan/Pod-Weaver-S
 Pod::Weaver::Section::WarrantyDisclaimer::GPL1 0.121290  pkg:cpan/Pod-Weaver-Section-WarrantyDisclaimer@0.121290
 Pod::Weaver::Section::WarrantyDisclaimer::GPL2 0.121290  pkg:cpan/Pod-Weaver-Section-WarrantyDisclaimer@0.121290
 Pod::Weaver::Section::WarrantyDisclaimer::GPL3 0.121290  pkg:cpan/Pod-Weaver-Section-WarrantyDisclaimer@0.121290
-Pod::Weaver::SectionBase::CollectWithIntro 0.077  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.077
+Pod::Weaver::SectionBase::CollectWithIntro 0.078  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.078
 Pod::Webserver                      3.11  pkg:cpan/Pod-Webserver@3.11?ext=tgz
 Pod::Webserver::Connection          3.11  pkg:cpan/Pod-Webserver@3.11?ext=tgz
 Pod::Webserver::Daemon              3.11  pkg:cpan/Pod-Webserver@3.11?ext=tgz
@@ -221792,14 +221792,15 @@ Sim::AgentSoar::Node                0.06  pkg:cpan/Sim-AgentSoar@0.06
 Sim::AgentSoar::Worker              0.06  pkg:cpan/Sim-AgentSoar@0.06
 Sim::Clock                          0.03  pkg:cpan/Sim@0.03
 Sim::Dispatcher                     0.03  pkg:cpan/Sim@0.03
-Sim::OPT                           0.919  pkg:cpan/Sim-OPT@0.919
-Sim::OPT::Descend                  0.181  pkg:cpan/Sim-OPT@0.919
-Sim::OPT::Interlinear              0.199  pkg:cpan/Sim-OPT@0.919
-Sim::OPT::Morph                    0.175  pkg:cpan/Sim-OPT@0.919
-Sim::OPT::Parcoord3d               0.001005  pkg:cpan/Sim-OPT@0.919
-Sim::OPT::Report                   0.125  pkg:cpan/Sim-OPT@0.919
-Sim::OPT::Sim                      0.103  pkg:cpan/Sim-OPT@0.919
-Sim::OPT::Takechance                0.06  pkg:cpan/Sim-OPT@0.919
+Sim::OPT                           0.921  pkg:cpan/Sim-OPT@0.921
+Sim::OPT::CalcMarginals            0.001  pkg:cpan/Sim-OPT@0.921
+Sim::OPT::Descend                  0.182  pkg:cpan/Sim-OPT@0.921
+Sim::OPT::Interlinear              0.199  pkg:cpan/Sim-OPT@0.921
+Sim::OPT::Morph                    0.175  pkg:cpan/Sim-OPT@0.921
+Sim::OPT::Parcoord3d               0.001005  pkg:cpan/Sim-OPT@0.921
+Sim::OPT::Report                   0.125  pkg:cpan/Sim-OPT@0.921
+Sim::OPT::Sim                      0.103  pkg:cpan/Sim-OPT@0.921
+Sim::OPT::Takechance                0.06  pkg:cpan/Sim-OPT@0.921
 SimString::Wrapper                  0.03  pkg:cpan/SimString-Wrapper@0.03
 Simd::Avx512                       20210130  pkg:cpan/Simd-Avx512@20210130
 Simple                             undef  pkg:cpan/CGI-Builder-TT2@0.03
