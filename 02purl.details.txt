@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 09 Aug 2026 01:09:29 GMT
+Last-Updated: Sun, 09 Aug 2026 03:26:10 GMT
 Line-Count: 267802
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -15432,13 +15432,13 @@ App::calx                          0.009  pkg:cpan/App-calx@0.009
 App::cat::v                         1.05  pkg:cpan/App-cat-v@1.05
 App::ccdiff                         0.35  pkg:cpan/App-ccdiff@0.35?ext=tgz
 App::cdbookmark                    0.001  pkg:cpan/App-cdbookmark@0.001
-App::cdif::Command                 undef  pkg:cpan/App-sdif@4.48
-App::cdif::Command::Mecab          undef  pkg:cpan/App-sdif@4.48
-App::cdif::Command::OSAscript      undef  pkg:cpan/App-sdif@4.48
-App::cdif::Tmpfile                 undef  pkg:cpan/App-sdif@4.48
-App::cdif::colors                  undef  pkg:cpan/App-sdif@4.48
-App::cdif::debug                   undef  pkg:cpan/App-sdif@4.48
-App::cdif::default                 undef  pkg:cpan/App-sdif@4.48
+App::cdif::Command                 undef  pkg:cpan/App-sdif@4.4801
+App::cdif::Command::Mecab          undef  pkg:cpan/App-sdif@4.4801
+App::cdif::Command::OSAscript      undef  pkg:cpan/App-sdif@4.4801
+App::cdif::Tmpfile                 undef  pkg:cpan/App-sdif@4.4801
+App::cdif::colors                  undef  pkg:cpan/App-sdif@4.4801
+App::cdif::debug                   undef  pkg:cpan/App-sdif@4.4801
+App::cdif::default                 undef  pkg:cpan/App-sdif@4.4801
 App::cdnget                         0.06  pkg:cpan/App-cdnget@0.06
 App::cdnget::Downloader             0.06  pkg:cpan/App-cdnget@0.06
 App::cdnget::Exception              0.03  pkg:cpan/App-cdnget@0.06
@@ -16623,16 +16623,16 @@ App::scanrdeps                      0.02  pkg:cpan/App-scanrdeps@0.02
 App::scrape                         0.08  pkg:cpan/App-scrape@0.08
 App::screenorama                    0.06  pkg:cpan/App-screenorama@0.06
 App::scriptdist                    1.006  pkg:cpan/App-scriptdist@1.006
-App::sdif                           4.48  pkg:cpan/App-sdif@4.48
+App::sdif                          4.4801  pkg:cpan/App-sdif@4.4801
 App::sdif::Divert                  undef  pkg:cpan/App-sdif@4.43
-App::sdif::LabelStack              undef  pkg:cpan/App-sdif@4.48
-App::sdif::Util                    undef  pkg:cpan/App-sdif@4.48
+App::sdif::LabelStack              undef  pkg:cpan/App-sdif@4.4801
+App::sdif::Util                    undef  pkg:cpan/App-sdif@4.4801
 App::sdif::autocolor               undef  pkg:cpan/App-sdif@4.13.7
 App::sdif::autocolor::Apple_Terminal undef  pkg:cpan/App-sdif@4.13.7
 App::sdif::autocolor::iTerm        undef  pkg:cpan/App-sdif@4.13.7
-App::sdif::colors                  undef  pkg:cpan/App-sdif@4.48
-App::sdif::debug                   undef  pkg:cpan/App-sdif@4.48
-App::sdif::default                 undef  pkg:cpan/App-sdif@4.48
+App::sdif::colors                  undef  pkg:cpan/App-sdif@4.4801
+App::sdif::debug                   undef  pkg:cpan/App-sdif@4.4801
+App::sdif::default                 undef  pkg:cpan/App-sdif@4.4801
 App::sdif::osx_autocolor           undef  pkg:cpan/App-sdif@4.3.0
 App::sdseasydyn                    0.001000  pkg:cpan/App-sdseasydyn@0.1.0
 App::sdview                         0.20  pkg:cpan/App-sdview@0.20
@@ -16775,8 +16775,8 @@ App::vcardtidy                     1.000002  pkg:cpan/App-vcardtidy@1.0.2
 App::venn                          0.121  pkg:cpan/App-venn@0.121
 App::vidir                         undef  pkg:cpan/App-vidir@0.052
 App::vl                             0.03  pkg:cpan/App-vl@0.03
-App::watchdiff                     undef  pkg:cpan/App-sdif@4.48
-App::watchdiff::Command            undef  pkg:cpan/App-sdif@4.48
+App::watchdiff                     undef  pkg:cpan/App-sdif@4.4801
+App::watchdiff::Command            undef  pkg:cpan/App-sdif@4.4801
 App::watchdo                       v0.1.1  pkg:cpan/App-watchdo@v0.1.1
 App::watcher                        0.13  pkg:cpan/App-watcher@0.13
 App::wcgrep                        0.002  pkg:cpan/App-wcgrep@0.002
@@ -22245,13 +22245,13 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         v0.31.3  pkg:cpan/BarefootJS@0.31.3
-BarefootJS::Backend::Mojo          v0.31.3  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.31.3
-BarefootJS::Backend::Xslate        v0.31.3  pkg:cpan/BarefootJS-Backend-Xslate@0.31.3
-BarefootJS::Date                   v0.31.3  pkg:cpan/BarefootJS@0.31.3
-BarefootJS::DevReload              v0.31.3  pkg:cpan/BarefootJS@0.31.3
-BarefootJS::Evaluator              v0.31.3  pkg:cpan/BarefootJS@0.31.3
-BarefootJS::SearchParams           v0.31.3  pkg:cpan/BarefootJS@0.31.3
+BarefootJS                         v0.31.4  pkg:cpan/BarefootJS@0.31.4
+BarefootJS::Backend::Mojo          v0.31.4  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.31.4
+BarefootJS::Backend::Xslate        v0.31.4  pkg:cpan/BarefootJS-Backend-Xslate@0.31.4
+BarefootJS::Date                   v0.31.4  pkg:cpan/BarefootJS@0.31.4
+BarefootJS::DevReload              v0.31.4  pkg:cpan/BarefootJS@0.31.4
+BarefootJS::Evaluator              v0.31.4  pkg:cpan/BarefootJS@0.31.4
+BarefootJS::SearchParams           v0.31.4  pkg:cpan/BarefootJS@0.31.4
 BarefootJS::_TZProbe               0.029000  pkg:cpan/BarefootJS@0.29.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
@@ -67232,7 +67232,7 @@ Dist::Zilla::MintingProfile::Author::JACQUESG  0.02  pkg:cpan/Dist-Zilla-PluginB
 Dist::Zilla::MintingProfile::Author::KENTNL 2.025021  pkg:cpan/Dist-Zilla-PluginBundle-Author-KENTNL@2.025021
 Dist::Zilla::MintingProfile::Author::LESPEA 1.008000  pkg:cpan/Dist-Zilla-PluginBundle-Author-LESPEA@1.008000
 Dist::Zilla::MintingProfile::Author::MINTLAB  0.02  pkg:cpan/Dist-Zilla-PluginBundle-Author-MINTLAB@0.02
-Dist::Zilla::MintingProfile::Author::Plicease  2.79  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.79
+Dist::Zilla::MintingProfile::Author::Plicease  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
 Dist::Zilla::MintingProfile::Author::RWSTAUNER 6.002  pkg:cpan/Dist-Zilla-PluginBundle-Author-RWSTAUNER@6.002
 Dist::Zilla::MintingProfile::Author::TABULO 1.000014  pkg:cpan/Dist-Zilla-PluginBundle-Author-TABULO@1.000014
 Dist::Zilla::MintingProfile::Author::WATERKIP   3.3  pkg:cpan/Dist-Zilla-PluginBundle-Author-WATERKIP@3.3
@@ -67302,18 +67302,18 @@ Dist::Zilla::Plugin::Author::KENTNL::MinimumPerl 2.025021  pkg:cpan/Dist-Zilla-P
 Dist::Zilla::Plugin::Author::KENTNL::Prereqs::Latest::Selective 1.001001  pkg:cpan/Dist-Zilla-Plugin-Author-KENTNL-Prereqs-Latest-Selective@1.001001
 Dist::Zilla::Plugin::Author::KENTNL::RecommendFixes 0.005004  pkg:cpan/Dist-Zilla-Plugin-Author-KENTNL-RecommendFixes@0.005004
 Dist::Zilla::Plugin::Author::KENTNL::TravisCI 0.001004  pkg:cpan/Dist-Zilla-Plugin-Author-KENTNL-TravisCI@0.001004
-Dist::Zilla::Plugin::Author::Plicease  2.79  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.79
-Dist::Zilla::Plugin::Author::Plicease::Cleaner  2.79  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.79
-Dist::Zilla::Plugin::Author::Plicease::Core  2.79  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.79
-Dist::Zilla::Plugin::Author::Plicease::Init2  2.79  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.79
-Dist::Zilla::Plugin::Author::Plicease::MakeMaker  2.79  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.79
-Dist::Zilla::Plugin::Author::Plicease::NoUnsafeInc  2.79  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.79
-Dist::Zilla::Plugin::Author::Plicease::PkgVersionBlock  2.79  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.79
-Dist::Zilla::Plugin::Author::Plicease::ReadmeAnyFromPod  2.79  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.79
-Dist::Zilla::Plugin::Author::Plicease::SpecialPrereqs  2.79  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.79
-Dist::Zilla::Plugin::Author::Plicease::Tests  2.79  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.79
-Dist::Zilla::Plugin::Author::Plicease::Thanks  2.79  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.79
-Dist::Zilla::Plugin::Author::Plicease::Upload  2.79  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.79
+Dist::Zilla::Plugin::Author::Plicease  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
+Dist::Zilla::Plugin::Author::Plicease::Cleaner  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
+Dist::Zilla::Plugin::Author::Plicease::Core  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
+Dist::Zilla::Plugin::Author::Plicease::Init2  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
+Dist::Zilla::Plugin::Author::Plicease::MakeMaker  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
+Dist::Zilla::Plugin::Author::Plicease::NoUnsafeInc  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
+Dist::Zilla::Plugin::Author::Plicease::PkgVersionBlock  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
+Dist::Zilla::Plugin::Author::Plicease::ReadmeAnyFromPod  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
+Dist::Zilla::Plugin::Author::Plicease::SpecialPrereqs  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
+Dist::Zilla::Plugin::Author::Plicease::Tests  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
+Dist::Zilla::Plugin::Author::Plicease::Thanks  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
+Dist::Zilla::Plugin::Author::Plicease::Upload  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
 Dist::Zilla::Plugin::Author::VDB::Hg::Commit v0.11.3  pkg:cpan/Dist-Zilla-PluginBundle-Author-VDB@v0.11.3
 Dist::Zilla::Plugin::Author::VDB::Hg::Push v0.11.3  pkg:cpan/Dist-Zilla-PluginBundle-Author-VDB@v0.11.3
 Dist::Zilla::Plugin::Author::VDB::Hg::Status v0.11.3  pkg:cpan/Dist-Zilla-PluginBundle-Author-VDB@v0.11.3
@@ -68082,7 +68082,7 @@ Dist::Zilla::PluginBundle::Author::PERLANCAR 0.610  pkg:cpan/Dist-Zilla-PluginBu
 Dist::Zilla::PluginBundle::Author::PERLANCAR::NonCPAN 0.610  pkg:cpan/Dist-Zilla-PluginBundle-Author-PERLANCAR@0.610
 Dist::Zilla::PluginBundle::Author::PERLANCAR::NonCPAN::Task 0.610  pkg:cpan/Dist-Zilla-PluginBundle-Author-PERLANCAR@0.610
 Dist::Zilla::PluginBundle::Author::PERLANCAR::Task 0.610  pkg:cpan/Dist-Zilla-PluginBundle-Author-PERLANCAR@0.610
-Dist::Zilla::PluginBundle::Author::Plicease  2.79  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.79
+Dist::Zilla::PluginBundle::Author::Plicease  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
 Dist::Zilla::PluginBundle::Author::RAYM 0.002  pkg:cpan/Dist-Zilla-PluginBundle-Author-RAYM@0.002
 Dist::Zilla::PluginBundle::Author::REFECO 0.007  pkg:cpan/Dist-Zilla-PluginBundle-Author-REFECO@0.007
 Dist::Zilla::PluginBundle::Author::RHOELZ  0.07  pkg:cpan/Dist-Zilla-PluginBundle-Author-RHOELZ@0.07
@@ -68174,7 +68174,7 @@ Dist::Zilla::PluginBundle::RBUELS    0.1  pkg:cpan/Dist-Zilla-PluginBundle-RBUEL
 Dist::Zilla::PluginBundle::RJBS    5.036  pkg:cpan/Dist-Zilla-PluginBundle-RJBS@5.036
 Dist::Zilla::PluginBundle::ROKR    0.0019  pkg:cpan/Dist-Zilla-PluginBundle-ROKR@0.0019
 Dist::Zilla::PluginBundle::ROKR::Basic 0.0019  pkg:cpan/Dist-Zilla-PluginBundle-ROKR@0.0019
-Dist::Zilla::PluginBundle::RSRCHBOY 0.078  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.078
+Dist::Zilla::PluginBundle::RSRCHBOY 0.079  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.079
 Dist::Zilla::PluginBundle::RTHOMPSON 0.161990  pkg:cpan/Dist-Zilla-PluginBundle-Author-RTHOMPSON@0.161990
 Dist::Zilla::PluginBundle::RWP     0.230470  pkg:cpan/Dist-Zilla-PluginBundle-RWP@0.230470
 Dist::Zilla::PluginBundle::Rakudo   0.01  pkg:cpan/Dist-Zilla-PluginBundle-Rakudo@0.01
@@ -141024,8 +141024,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    v0.31.3  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.31.3
-Mojolicious::Plugin::BarefootJS::DevReload v0.31.3  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.31.3
+Mojolicious::Plugin::BarefootJS    v0.31.4  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.31.4
+Mojolicious::Plugin::BarefootJS::DevReload v0.31.4  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.31.4
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -200973,7 +200973,7 @@ Pod::Weaver::PluginBundle::NoAuthor 0.007  pkg:cpan/Dist-Zilla-Plugin-AuthorsFro
 Pod::Weaver::PluginBundle::ODYNIEC 0.021  pkg:cpan/Dist-Zilla-PluginBundle-ODYNIEC@0.021
 Pod::Weaver::PluginBundle::Prophet 0.001  pkg:cpan/Prophet-Devel@0.001
 Pod::Weaver::PluginBundle::RJBS    5.036  pkg:cpan/Dist-Zilla-PluginBundle-RJBS@5.036
-Pod::Weaver::PluginBundle::RSRCHBOY 0.078  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.078
+Pod::Weaver::PluginBundle::RSRCHBOY 0.079  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.079
 Pod::Weaver::PluginBundle::RTHOMPSON 0.151680  pkg:cpan/Pod-Weaver-PluginBundle-Author-RTHOMPSON@0.151680
 Pod::Weaver::PluginBundle::ReplaceBoilerplate  1.00  pkg:cpan/Pod-Weaver-PluginBundle-ReplaceBoilerplate@1.00
 Pod::Weaver::PluginBundle::SCHWIGON 0.003  pkg:cpan/Pod-Weaver-PluginBundle-SCHWIGON@0.003
@@ -201042,11 +201042,11 @@ Pod::Weaver::Section::MooseConsumes  0.02  pkg:cpan/Pod-Weaver-Section-MooseDep@
 Pod::Weaver::Section::MooseExtends  0.02  pkg:cpan/Pod-Weaver-Section-MooseDep@0.02
 Pod::Weaver::Section::Name         4.020  pkg:cpan/Pod-Weaver@4.020
 Pod::Weaver::Section::PERLANCAR::Contributing 0.293  pkg:cpan/Pod-Weaver-PluginBundle-Author-PERLANCAR@0.293
-Pod::Weaver::Section::RSRCHBOY::Authors 0.078  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.078
-Pod::Weaver::Section::RSRCHBOY::GeneratedAttributes 0.078  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.078
-Pod::Weaver::Section::RSRCHBOY::LazyAttributes 0.078  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.078
-Pod::Weaver::Section::RSRCHBOY::RequiredAttributes 0.078  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.078
-Pod::Weaver::Section::RSRCHBOY::RoleParameters 0.078  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.078
+Pod::Weaver::Section::RSRCHBOY::Authors 0.079  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.079
+Pod::Weaver::Section::RSRCHBOY::GeneratedAttributes 0.079  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.079
+Pod::Weaver::Section::RSRCHBOY::LazyAttributes 0.079  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.079
+Pod::Weaver::Section::RSRCHBOY::RequiredAttributes 0.079  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.079
+Pod::Weaver::Section::RSRCHBOY::RoleParameters 0.079  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.079
 Pod::Weaver::Section::RecentChanges v0.6.0  pkg:cpan/Dist-Zilla-Plugin-UsefulReadme@v0.6.0
 Pod::Weaver::Section::Region       4.020  pkg:cpan/Pod-Weaver@4.020
 Pod::Weaver::Section::ReplaceAuthors  1.00  pkg:cpan/Pod-Weaver-PluginBundle-ReplaceBoilerplate@1.00
@@ -201070,7 +201070,7 @@ Pod::Weaver::Section::WarrantyDisclaimer::Custom 0.121290  pkg:cpan/Pod-Weaver-S
 Pod::Weaver::Section::WarrantyDisclaimer::GPL1 0.121290  pkg:cpan/Pod-Weaver-Section-WarrantyDisclaimer@0.121290
 Pod::Weaver::Section::WarrantyDisclaimer::GPL2 0.121290  pkg:cpan/Pod-Weaver-Section-WarrantyDisclaimer@0.121290
 Pod::Weaver::Section::WarrantyDisclaimer::GPL3 0.121290  pkg:cpan/Pod-Weaver-Section-WarrantyDisclaimer@0.121290
-Pod::Weaver::SectionBase::CollectWithIntro 0.078  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.078
+Pod::Weaver::SectionBase::CollectWithIntro 0.079  pkg:cpan/Dist-Zilla-PluginBundle-RSRCHBOY@0.079
 Pod::Webserver                      3.11  pkg:cpan/Pod-Webserver@3.11?ext=tgz
 Pod::Webserver::Connection          3.11  pkg:cpan/Pod-Webserver@3.11?ext=tgz
 Pod::Webserver::Daemon              3.11  pkg:cpan/Pod-Webserver@3.11?ext=tgz
