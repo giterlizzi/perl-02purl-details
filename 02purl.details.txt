@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 09 Aug 2026 12:35:32 GMT
+Last-Updated: Sun, 09 Aug 2026 14:26:57 GMT
 Line-Count: 267822
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -33262,7 +33262,7 @@ CPAN::02Packages::Search           v1.0.0  pkg:cpan/CPAN-02Packages-Search@v1.0.
 CPAN::API::BuildPL                 0.002  pkg:cpan/CPAN-API-BuildPL@0.002
 CPAN::Admin                        5.501  pkg:cpan/CPAN@2.38
 CPAN::Audit                        20260622.001  pkg:cpan/CPAN-Audit@20260622.001
-CPAN::Audit::DB                    20260807.001  pkg:cpan/CPANSA-DB@20260807.001
+CPAN::Audit::DB                    20260809.001  pkg:cpan/CPANSA-DB@20260809.001
 CPAN::Audit::Discover              1.001  pkg:cpan/CPAN-Audit@20260622.001
 CPAN::Audit::Discover::Cpanfile    1.001  pkg:cpan/CPAN-Audit@20260622.001
 CPAN::Audit::Discover::CpanfileSnapshot 1.001  pkg:cpan/CPAN-Audit@20260622.001
@@ -34035,7 +34035,7 @@ CPANPLUS::YACSmoke::ReAssemble      1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::SortVers        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::locallib        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::inc                      undef  pkg:cpan/CPANPLUS@0.84
-CPANSA::DB                         20260807.001  pkg:cpan/CPANSA-DB@20260807.001
+CPANSA::DB                         20260809.001  pkg:cpan/CPANSA-DB@20260809.001
 CPANSEC::Admin                     0.001  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command            undef  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command::Amend     undef  pkg:cpan/CPANSec-Admin@0.001
@@ -158443,10 +158443,10 @@ Onyphe::Api                        undef  pkg:cpan/Onyphe@4.18
 Oogaboogo::Date                     0.01  pkg:cpan/Oogaboogo-Date@0.01
 Opcode                              1.71  pkg:cpan/perl@5.44.0
 Opcodes                             0.16  pkg:cpan/Opcodes@0.16
-Open::API                           0.07  pkg:cpan/Open-API@0.07
-Open::API::Client                   0.04  pkg:cpan/Open-API@0.07
-Open::API::Plack                    0.04  pkg:cpan/Open-API@0.07
-Open::API::UI                       0.04  pkg:cpan/Open-API@0.07
+Open::API                           0.08  pkg:cpan/Open-API@0.08
+Open::API::Client                   0.08  pkg:cpan/Open-API@0.08
+Open::API::Plack                    0.08  pkg:cpan/Open-API@0.08
+Open::API::UI                       0.08  pkg:cpan/Open-API@0.08
 Open::This                         0.000035  pkg:cpan/Open-This@0.000035
 OpenAI::API                         0.37  pkg:cpan/OpenAI-API@0.37
 OpenAI::API::Config                undef  pkg:cpan/OpenAI-API@0.37
@@ -161204,8 +161204,8 @@ PDL::Demos::GSL_CDF                undef  pkg:cpan/PDL-GSL@2.103
 PDL::Demos::GSL_RNG                undef  pkg:cpan/PDL-GSL@2.103
 PDL::Demos::General                undef  pkg:cpan/PDL@2.104
 PDL::Demos::Gnuplot                undef  pkg:cpan/PDL-Graphics-Gnuplot@2.032
-PDL::Demos::PGPLOT                 undef  pkg:cpan/PGPLOT@2.35
-PDL::Demos::PGPLOT_OO              undef  pkg:cpan/PGPLOT@2.35
+PDL::Demos::PGPLOT                 undef  pkg:cpan/PGPLOT@2.36
+PDL::Demos::PGPLOT_OO              undef  pkg:cpan/PGPLOT@2.36
 PDL::Demos::PLplot                 undef  pkg:cpan/PDL-Graphics-PLplot@0.842
 PDL::Demos::Prima                  undef  pkg:cpan/PDL-Graphics-Prima@0.21
 PDL::Demos::Proj4_demo             undef  pkg:cpan/PDL-Transform-Proj4@2.099
@@ -161264,13 +161264,13 @@ PDL::Graphics::ColorSpace          0.206  pkg:cpan/PDL-Graphics-ColorSpace@0.206
 PDL::Graphics::ColorSpace::RGBSpace undef  pkg:cpan/PDL-Graphics-ColorSpace@0.206
 PDL::Graphics::Gnuplot             2.032  pkg:cpan/PDL-Graphics-Gnuplot@2.032
 PDL::Graphics::IIS                 0.001  pkg:cpan/PDL-Graphics-IIS@0.001
-PDL::Graphics::LUT                 undef  pkg:cpan/PGPLOT@2.35
+PDL::Graphics::LUT                 undef  pkg:cpan/PGPLOT@2.36
 PDL::Graphics::Limits               0.03  pkg:cpan/PDL-Graphics-Limits@0.03
 PDL::Graphics::Limits::DSet         0.03  pkg:cpan/PDL-Graphics-Limits@0.03
 PDL::Graphics::OpenGLQ             undef  pkg:cpan/PDL-Graphics-TriD@2.102
-PDL::Graphics::PGPLOT              undef  pkg:cpan/PGPLOT@2.35
-PDL::Graphics::PGPLOT::Window      undef  pkg:cpan/PGPLOT@2.35
-PDL::Graphics::PGPLOTOptions       undef  pkg:cpan/PGPLOT@2.35
+PDL::Graphics::PGPLOT              undef  pkg:cpan/PGPLOT@2.36
+PDL::Graphics::PGPLOT::Window      undef  pkg:cpan/PGPLOT@2.36
+PDL::Graphics::PGPLOTOptions       undef  pkg:cpan/PGPLOT@2.36
 PDL::Graphics::PLplot              0.842  pkg:cpan/PDL-Graphics-PLplot@0.842
 PDL::Graphics::Prima                0.21  pkg:cpan/PDL-Graphics-Prima@0.21
 PDL::Graphics::Prima::Axis          0.18  pkg:cpan/PDL-Graphics-Prima@0.21
@@ -161320,7 +161320,7 @@ PDL::Graphics::Simple::Gnuplot     undef  pkg:cpan/PDL-Graphics-Simple@1.016
 PDL::Graphics::Simple::PGPLOT      undef  pkg:cpan/PDL-Graphics-Simple@1.016
 PDL::Graphics::Simple::PLplot      undef  pkg:cpan/PDL-Graphics-Simple@1.016
 PDL::Graphics::Simple::Prima       undef  pkg:cpan/PDL-Graphics-Simple@1.016
-PDL::Graphics::State               undef  pkg:cpan/PGPLOT@2.35
+PDL::Graphics::State               undef  pkg:cpan/PGPLOT@2.36
 PDL::Graphics::TriD                2.102  pkg:cpan/PDL-Graphics-TriD@2.102
 PDL::Graphics::TriD::ArcBall       undef  pkg:cpan/PDL-Graphics-TriD@2.102
 PDL::Graphics::TriD::ArcBowl       undef  pkg:cpan/PDL-Graphics-TriD@2.102
@@ -161671,7 +161671,7 @@ PGP::Mail                            1.7  pkg:cpan/PGP-Mail@1.7
 PGP::Pipe                            0.3  pkg:cpan/PGP@0.3a
 PGP::Sign                           1.04  pkg:cpan/PGP-Sign@1.04
 PGP::Words::Tiny                   0.002  pkg:cpan/PGP-Words-Tiny@0.002
-PGPLOT                              2.35  pkg:cpan/PGPLOT@2.35
+PGPLOT                              2.36  pkg:cpan/PGPLOT@2.36
 PGPLOT::Device                      0.14  pkg:cpan/PGPLOT-Device@0.14
 PGPLOT::Device::PGWin               0.14  pkg:cpan/PGPLOT-Device@0.14
 PGPLOT::Simple                      0.05  pkg:cpan/PGPLOT-Simple@0.05
@@ -256170,7 +256170,7 @@ Wily::Connect                       0.01  pkg:cpan/Wily@0.02
 Wily::Message                       0.01  pkg:cpan/Wily@0.02
 Wily::RPC                           0.01  pkg:cpan/Wily@0.02
 Wily::Win                           0.02  pkg:cpan/Wily@0.02
-Win32                               0.62  pkg:cpan/Win32@0.62
+Win32                               0.63  pkg:cpan/Win32@0.63
 Win32::AD::Constant                 0.01  pkg:cpan/Win32-AD-Control-DirSync@0.01
 Win32::AD::Control::DirSync         0.01  pkg:cpan/Win32-AD-Control-DirSync@0.01
 Win32::AD::User                     0.04  pkg:cpan/Win32-AD-User@0.04
