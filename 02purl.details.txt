@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 09 Aug 2026 08:33:18 GMT
-Line-Count: 267802
+Last-Updated: Sun, 09 Aug 2026 10:25:33 GMT
+Line-Count: 267822
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -71600,6 +71600,26 @@ Eobj                                0.23  pkg:cpan/Eobj@0.23
 Eobj::PLerror                      undef  pkg:cpan/Eobj@0.23
 Eoldutf8                            1.15  pkg:cpan/Char-OldUTF8@1.15
 Eponymous::Hash                     0.02  pkg:cpan/Eponymous-Hash@0.02
+Ereshkigal                         0.000001  pkg:cpan/Ereshkigal@0.0.1
+Ereshkigal::App                    0.000001  pkg:cpan/Ereshkigal@0.0.1
+Ereshkigal::App::Command           0.000001  pkg:cpan/Ereshkigal@0.0.1
+Ereshkigal::App::Command::add      0.000001  pkg:cpan/Ereshkigal@0.0.1
+Ereshkigal::App::Command::ban      0.000001  pkg:cpan/Ereshkigal@0.0.1
+Ereshkigal::App::Command::banned   0.000001  pkg:cpan/Ereshkigal@0.0.1
+Ereshkigal::App::Command::checkpoint 0.000001  pkg:cpan/Ereshkigal@0.0.1
+Ereshkigal::App::Command::cidr_ban 0.000001  pkg:cpan/Ereshkigal@0.0.1
+Ereshkigal::App::Command::cidr_unban 0.000001  pkg:cpan/Ereshkigal@0.0.1
+Ereshkigal::App::Command::clear_retries 0.000001  pkg:cpan/Ereshkigal@0.0.1
+Ereshkigal::App::Command::re_init  0.000001  pkg:cpan/Ereshkigal@0.0.1
+Ereshkigal::App::Command::remove   0.000001  pkg:cpan/Ereshkigal@0.0.1
+Ereshkigal::App::Command::start    0.000001  pkg:cpan/Ereshkigal@0.0.1
+Ereshkigal::App::Command::status   0.000001  pkg:cpan/Ereshkigal@0.0.1
+Ereshkigal::App::Command::stop     0.000001  pkg:cpan/Ereshkigal@0.0.1
+Ereshkigal::App::Command::unban    0.000001  pkg:cpan/Ereshkigal@0.0.1
+Ereshkigal::Client                 0.000001  pkg:cpan/Ereshkigal@0.0.1
+Ereshkigal::IP                     0.000001  pkg:cpan/Ereshkigal@0.0.1
+Ereshkigal::Kur                    0.000001  pkg:cpan/Ereshkigal@0.0.1
+Ereshkigal::LogDrek                0.000001  pkg:cpan/Ereshkigal@0.0.1
 Erlang::Interface                   0.03  pkg:cpan/Erlang-Interface@0.03
 Erlang::Interface::Eterm            0.03  pkg:cpan/Erlang-Interface@0.03
 Erlang::Parser                       0.6  pkg:cpan/Erlang-Parser@0.6
