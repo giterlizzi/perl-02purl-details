@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 09 Aug 2026 04:57:27 GMT
+Last-Updated: Sun, 09 Aug 2026 06:42:20 GMT
 Line-Count: 267802
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -158423,10 +158423,10 @@ Onyphe::Api                        undef  pkg:cpan/Onyphe@4.18
 Oogaboogo::Date                     0.01  pkg:cpan/Oogaboogo-Date@0.01
 Opcode                              1.71  pkg:cpan/perl@5.44.0
 Opcodes                             0.16  pkg:cpan/Opcodes@0.16
-Open::API                           0.06  pkg:cpan/Open-API@0.06
-Open::API::Client                   0.04  pkg:cpan/Open-API@0.06
-Open::API::Plack                    0.04  pkg:cpan/Open-API@0.06
-Open::API::UI                       0.04  pkg:cpan/Open-API@0.06
+Open::API                           0.07  pkg:cpan/Open-API@0.07
+Open::API::Client                   0.04  pkg:cpan/Open-API@0.07
+Open::API::Plack                    0.04  pkg:cpan/Open-API@0.07
+Open::API::UI                       0.04  pkg:cpan/Open-API@0.07
 Open::This                         0.000035  pkg:cpan/Open-This@0.000035
 OpenAI::API                         0.37  pkg:cpan/OpenAI-API@0.37
 OpenAI::API::Config                undef  pkg:cpan/OpenAI-API@0.37
