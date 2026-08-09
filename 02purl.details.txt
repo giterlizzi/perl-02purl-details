@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 09 Aug 2026 20:23:12 GMT
-Line-Count: 267824
+Last-Updated: Sun, 09 Aug 2026 22:22:04 GMT
+Line-Count: 267825
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -83749,22 +83749,23 @@ Git::MoreHooks::CheckIndent        0.018  pkg:cpan/Git-MoreHooks@0.018
 Git::MoreHooks::CheckPerl          0.018  pkg:cpan/Git-MoreHooks@0.018
 Git::MoreHooks::GitRepoAdmin       0.018  pkg:cpan/Git-MoreHooks@0.018
 Git::MoreHooks::TriggerJenkins     0.018  pkg:cpan/Git-MoreHooks@0.018
-Git::Native                        0.003  pkg:cpan/Git-Native@0.003
-Git::Native::Blob                  0.003  pkg:cpan/Git-Native@0.003
-Git::Native::Branch                0.003  pkg:cpan/Git-Native@0.003
-Git::Native::Commit                0.003  pkg:cpan/Git-Native@0.003
-Git::Native::Config                0.003  pkg:cpan/Git-Native@0.003
-Git::Native::Credential            0.003  pkg:cpan/Git-Native@0.003
-Git::Native::Error                 0.003  pkg:cpan/Git-Native@0.003
-Git::Native::Oid                   0.003  pkg:cpan/Git-Native@0.003
-Git::Native::Reference             0.003  pkg:cpan/Git-Native@0.003
-Git::Native::Remote                0.003  pkg:cpan/Git-Native@0.003
-Git::Native::Repository            0.003  pkg:cpan/Git-Native@0.003
-Git::Native::Revwalker             0.003  pkg:cpan/Git-Native@0.003
-Git::Native::Signature             0.003  pkg:cpan/Git-Native@0.003
-Git::Native::Tag                   0.003  pkg:cpan/Git-Native@0.003
-Git::Native::Tree                  0.003  pkg:cpan/Git-Native@0.003
-Git::Native::TreeBuilder           0.003  pkg:cpan/Git-Native@0.003
+Git::Native                        0.004  pkg:cpan/Git-Native@0.004
+Git::Native::Blob                  0.004  pkg:cpan/Git-Native@0.004
+Git::Native::Branch                0.004  pkg:cpan/Git-Native@0.004
+Git::Native::Commit                0.004  pkg:cpan/Git-Native@0.004
+Git::Native::Config                0.004  pkg:cpan/Git-Native@0.004
+Git::Native::Credential            0.004  pkg:cpan/Git-Native@0.004
+Git::Native::Error                 0.004  pkg:cpan/Git-Native@0.004
+Git::Native::Oid                   0.004  pkg:cpan/Git-Native@0.004
+Git::Native::Reference             0.004  pkg:cpan/Git-Native@0.004
+Git::Native::Remote                0.004  pkg:cpan/Git-Native@0.004
+Git::Native::Remote::Result        0.004  pkg:cpan/Git-Native@0.004
+Git::Native::Repository            0.004  pkg:cpan/Git-Native@0.004
+Git::Native::Revwalker             0.004  pkg:cpan/Git-Native@0.004
+Git::Native::Signature             0.004  pkg:cpan/Git-Native@0.004
+Git::Native::Tag                   0.004  pkg:cpan/Git-Native@0.004
+Git::Native::Tree                  0.004  pkg:cpan/Git-Native@0.004
+Git::Native::TreeBuilder           0.004  pkg:cpan/Git-Native@0.004
 Git::Nuggit                         1.01  pkg:cpan/Git-Nuggit@1.01
 Git::Nuggit::Log                    0.01  pkg:cpan/Git-Nuggit@1.01
 Git::Nuggit::Status                 0.04  pkg:cpan/Git-Nuggit@1.01
