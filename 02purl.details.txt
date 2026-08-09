@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 08 Aug 2026 22:20:30 GMT
-Line-Count: 267799
+Last-Updated: Sun, 09 Aug 2026 01:09:29 GMT
+Line-Count: 267802
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -53787,20 +53787,20 @@ DBIx::QueryLog                      0.42  pkg:cpan/DBIx-QueryLog@0.42
 DBIx::Quick                          0.9  pkg:cpan/DBIx-Quick@0.9
 DBIx::Quick::Converter             undef  pkg:cpan/DBIx-Quick@0.9
 DBIx::Quick::Role                  undef  pkg:cpan/DBIx-Quick@0.9
-DBIx::QuickDB                      0.000063  pkg:cpan/DBIx-QuickDB@0.000063
-DBIx::QuickDB::Driver              0.000063  pkg:cpan/DBIx-QuickDB@0.000063
-DBIx::QuickDB::Driver::DuckDB      0.000063  pkg:cpan/DBIx-QuickDB@0.000063
-DBIx::QuickDB::Driver::MariaDB     0.000063  pkg:cpan/DBIx-QuickDB@0.000063
-DBIx::QuickDB::Driver::MySQL       0.000063  pkg:cpan/DBIx-QuickDB@0.000063
+DBIx::QuickDB                      0.000064  pkg:cpan/DBIx-QuickDB@0.000064
+DBIx::QuickDB::Driver              0.000064  pkg:cpan/DBIx-QuickDB@0.000064
+DBIx::QuickDB::Driver::DuckDB      0.000064  pkg:cpan/DBIx-QuickDB@0.000064
+DBIx::QuickDB::Driver::MariaDB     0.000064  pkg:cpan/DBIx-QuickDB@0.000064
+DBIx::QuickDB::Driver::MySQL       0.000064  pkg:cpan/DBIx-QuickDB@0.000064
 DBIx::QuickDB::Driver::MySQL::Base 0.000035  pkg:cpan/DBIx-QuickDB@0.000035
-DBIx::QuickDB::Driver::MySQLCom    0.000063  pkg:cpan/DBIx-QuickDB@0.000063
-DBIx::QuickDB::Driver::Percona     0.000063  pkg:cpan/DBIx-QuickDB@0.000063
-DBIx::QuickDB::Driver::PostgreSQL  0.000063  pkg:cpan/DBIx-QuickDB@0.000063
-DBIx::QuickDB::Driver::SQLite      0.000063  pkg:cpan/DBIx-QuickDB@0.000063
-DBIx::QuickDB::Pool                0.000063  pkg:cpan/DBIx-QuickDB@0.000063
-DBIx::QuickDB::Util                0.000063  pkg:cpan/DBIx-QuickDB@0.000063
-DBIx::QuickDB::Util::HashBase      0.000063  pkg:cpan/DBIx-QuickDB@0.000063
-DBIx::QuickDB::Watcher             0.000063  pkg:cpan/DBIx-QuickDB@0.000063
+DBIx::QuickDB::Driver::MySQLCom    0.000064  pkg:cpan/DBIx-QuickDB@0.000064
+DBIx::QuickDB::Driver::Percona     0.000064  pkg:cpan/DBIx-QuickDB@0.000064
+DBIx::QuickDB::Driver::PostgreSQL  0.000064  pkg:cpan/DBIx-QuickDB@0.000064
+DBIx::QuickDB::Driver::SQLite      0.000064  pkg:cpan/DBIx-QuickDB@0.000064
+DBIx::QuickDB::Pool                0.000064  pkg:cpan/DBIx-QuickDB@0.000064
+DBIx::QuickDB::Util                0.000064  pkg:cpan/DBIx-QuickDB@0.000064
+DBIx::QuickDB::Util::HashBase      0.000064  pkg:cpan/DBIx-QuickDB@0.000064
+DBIx::QuickDB::Watcher             0.000064  pkg:cpan/DBIx-QuickDB@0.000064
 DBIx::QuickORM                     0.000028  pkg:cpan/DBIx-QuickORM@0.000028
 DBIx::QuickORM::Affinity           0.000028  pkg:cpan/DBIx-QuickORM@0.000028
 DBIx::QuickORM::BuilderState       0.000004  pkg:cpan/DBIx-QuickORM@0.000004
@@ -64646,6 +64646,7 @@ Desktop::Notify                     0.05  pkg:cpan/Desktop-Notify@0.05
 Desktop::Notify::Notification       0.03  pkg:cpan/Desktop-Notify@0.05
 Desktop::Open                      0.004  pkg:cpan/Desktop-Open@0.004
 Desktop::Workspace::Util           0.004  pkg:cpan/Desktop-Workspace-Util@0.004
+Desktop::XWindowManager::Util      0.004  pkg:cpan/Desktop-XWindowManager-Util@0.004
 DesktopWorkspace                   v1.0.1  pkg:cpan/DesktopWorkspace@1.0.1
 DesktopWorkspace::Sample::Source::DefHash 0.001  pkg:cpan/DesktopWorkspaceRoles-Standard@0.001
 DesktopWorkspace::Test::Spec::Basic v1.0.1  pkg:cpan/DesktopWorkspace@1.0.1
@@ -67290,7 +67291,7 @@ Dist::Zilla::Plugin::Author::CSSON::GithubActions 0.0107  pkg:cpan/Dist-Zilla-Pl
 Dist::Zilla::Plugin::Author::CSSON::GithubActions::BaseWorkflow 0.0103  pkg:cpan/Dist-Zilla-Plugin-Author-CSSON-GithubActions@0.0103
 Dist::Zilla::Plugin::Author::CSSON::GithubActions::Role::Workflow 0.0103  pkg:cpan/Dist-Zilla-Plugin-Author-CSSON-GithubActions@0.0103
 Dist::Zilla::Plugin::Author::CSSON::GithubActions::Workflow::TestWithMakefile 0.0107  pkg:cpan/Dist-Zilla-Plugin-Author-CSSON-GithubActions@0.0107
-Dist::Zilla::Plugin::Author::GETTY::GiteaMeta 0.317  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.317
+Dist::Zilla::Plugin::Author::GETTY::GiteaMeta 0.318  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.318
 Dist::Zilla::Plugin::Author::GSG   v0.6.2  pkg:cpan/Dist-Zilla-PluginBundle-Author-GSG@v0.6.2
 Dist::Zilla::Plugin::Author::GSG::HasVersionTests v0.6.2  pkg:cpan/Dist-Zilla-PluginBundle-Author-GSG@v0.6.2
 Dist::Zilla::Plugin::Author::HAYOBAAN::LinkCheck 0.016  pkg:cpan/Dist-Zilla-PluginBundle-Author-HAYOBAAN@0.016
@@ -67524,9 +67525,9 @@ Dist::Zilla::Plugin::GenerateFile  6.037  pkg:cpan/Dist-Zilla@6.037
 Dist::Zilla::Plugin::GenerateFile::FromShareDir 0.016  pkg:cpan/Dist-Zilla-Plugin-GenerateFile-FromShareDir@0.016
 Dist::Zilla::Plugin::Git           2.052  pkg:cpan/Dist-Zilla-Plugin-Git@2.052
 Dist::Zilla::Plugin::Git::Check    2.052  pkg:cpan/Dist-Zilla-Plugin-Git@2.052
-Dist::Zilla::Plugin::Git::CheckFor::CorrectBranch 0.014  pkg:cpan/Dist-Zilla-PluginBundle-Git-CheckFor@0.014
-Dist::Zilla::Plugin::Git::CheckFor::Fixups 0.014  pkg:cpan/Dist-Zilla-PluginBundle-Git-CheckFor@0.014
-Dist::Zilla::Plugin::Git::CheckFor::MergeConflicts 0.014  pkg:cpan/Dist-Zilla-PluginBundle-Git-CheckFor@0.014
+Dist::Zilla::Plugin::Git::CheckFor::CorrectBranch 0.015  pkg:cpan/Dist-Zilla-PluginBundle-Git-CheckFor@0.015
+Dist::Zilla::Plugin::Git::CheckFor::Fixups 0.015  pkg:cpan/Dist-Zilla-PluginBundle-Git-CheckFor@0.015
+Dist::Zilla::Plugin::Git::CheckFor::MergeConflicts 0.015  pkg:cpan/Dist-Zilla-PluginBundle-Git-CheckFor@0.015
 Dist::Zilla::Plugin::Git::Checkout 0.004  pkg:cpan/Dist-Zilla-Plugin-Git-Checkout@0.004
 Dist::Zilla::Plugin::Git::Commit   2.052  pkg:cpan/Dist-Zilla-Plugin-Git@2.052
 Dist::Zilla::Plugin::Git::CommitBuild 2.052  pkg:cpan/Dist-Zilla-Plugin-Git@2.052
@@ -68051,8 +68052,8 @@ Dist::Zilla::PluginBundle::Author::DOMM 0.912  pkg:cpan/Dist-Zilla-PluginBundle-
 Dist::Zilla::PluginBundle::Author::ETHER 0.173  pkg:cpan/Dist-Zilla-PluginBundle-Author-ETHER@0.173
 Dist::Zilla::PluginBundle::Author::FERREIRA v0.4.0  pkg:cpan/Dist-Zilla-PluginBundle-Author-FERREIRA@0.4.0
 Dist::Zilla::PluginBundle::Author::GABRIEL  0.01  pkg:cpan/Dist-Zilla-PluginBundle-Author-GABRIEL@0.01
-Dist::Zilla::PluginBundle::Author::GETTY 0.317  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.317
-Dist::Zilla::PluginBundle::Author::GETTY::Docker 0.317  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.317
+Dist::Zilla::PluginBundle::Author::GETTY 0.318  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.318
+Dist::Zilla::PluginBundle::Author::GETTY::Docker 0.318  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.318
 Dist::Zilla::PluginBundle::Author::GSG v0.6.2  pkg:cpan/Dist-Zilla-PluginBundle-Author-GSG@v0.6.2
 Dist::Zilla::PluginBundle::Author::GTERMARS  0.06  pkg:cpan/Dist-Zilla-PluginBundle-Author-GTERMARS@0.06
 Dist::Zilla::PluginBundle::Author::HAYOBAAN 0.016  pkg:cpan/Dist-Zilla-PluginBundle-Author-HAYOBAAN@0.016
@@ -68137,7 +68138,7 @@ Dist::Zilla::PluginBundle::GENEHACK   0.9  pkg:cpan/Dist-Zilla-PluginBundle-GENE
 Dist::Zilla::PluginBundle::GPHAT    0.06  pkg:cpan/Dist-Zilla-PluginBundle-GPHAT@0.06
 Dist::Zilla::PluginBundle::GRS      0.08  pkg:cpan/Dist-Zilla-PluginBundle-GRS@0.08
 Dist::Zilla::PluginBundle::Git     2.052  pkg:cpan/Dist-Zilla-Plugin-Git@2.052
-Dist::Zilla::PluginBundle::Git::CheckFor 0.014  pkg:cpan/Dist-Zilla-PluginBundle-Git-CheckFor@0.014
+Dist::Zilla::PluginBundle::Git::CheckFor 0.015  pkg:cpan/Dist-Zilla-PluginBundle-Git-CheckFor@0.015
 Dist::Zilla::PluginBundle::Git::VersionManager 0.007  pkg:cpan/Dist-Zilla-PluginBundle-Git-VersionManager@0.007
 Dist::Zilla::PluginBundle::GitHub   0.49  pkg:cpan/Dist-Zilla-Plugin-GitHub@0.49
 Dist::Zilla::PluginBundle::GitLab  1.0002  pkg:cpan/Dist-Zilla-PluginBundle-GitLab@1.0002
@@ -68243,7 +68244,7 @@ Dist::Zilla::Role::Git::Remote::Branch v0.1.2  pkg:cpan/Dist-Zilla-Plugin-Git-Re
 Dist::Zilla::Role::Git::Remote::Check v0.1.2  pkg:cpan/Dist-Zilla-Plugin-Git-Remote-Check@0.1.2
 Dist::Zilla::Role::Git::Remote::Update v0.1.2  pkg:cpan/Dist-Zilla-Plugin-Git-Remote-Check@0.1.2
 Dist::Zilla::Role::Git::Repo       2.052  pkg:cpan/Dist-Zilla-Plugin-Git@2.052
-Dist::Zilla::Role::Git::Repo::More 0.014  pkg:cpan/Dist-Zilla-PluginBundle-Git-CheckFor@0.014
+Dist::Zilla::Role::Git::Repo::More 0.015  pkg:cpan/Dist-Zilla-PluginBundle-Git-CheckFor@0.015
 Dist::Zilla::Role::Git::StringFormatter 2.052  pkg:cpan/Dist-Zilla-Plugin-Git@2.052
 Dist::Zilla::Role::GitConfig        0.92  pkg:cpan/Dist-Zilla-Plugin-Config-Git@0.92
 Dist::Zilla::Role::GitStore::ConfigConsumer 0.000005  pkg:cpan/Dist-Zilla-Stash-Store-Git@0.000005
@@ -150409,43 +150410,45 @@ Net::FileShare                      0.18  pkg:cpan/Net-FileShare@0.18
 Net::Finger                         1.06  pkg:cpan/Net-Finger@1.06
 Net::Finger::Server                0.005  pkg:cpan/Net-Finger-Server@0.005
 Net::FireEagle                       1.6  pkg:cpan/Net-FireEagle@1.6
-Net::Firewall::BlockerHelper       0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::abuseipdb 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::akamai 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::aws_wafv2 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::azure 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::bgp_rtbh 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::checkpoint 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::cisco_fmc 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::cloud_armor 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::cloudflare 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::dns_rpz 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::dummy 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::f5_bigip 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::fastly 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::file_reload 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::firewalld 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::fortigate 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::hosts_deny 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::ipfw 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::iptables 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::juniper_srx 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::linux_ip_route 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::netscaler 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::nftables 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::npf 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::nsupdate 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::opnsense 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::panos 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::pf 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::pfsense 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::routeros 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::routeros_api 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::shell 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::shorewall 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::ufw 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::vyos 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
-Net::Firewall::BlockerHelper::backends::xdp 0.001000  pkg:cpan/Net-Firewall-BlockerHelper@0.1.0
+Net::Firewall::BlockerHelper       0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::Util 0.000001  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::abuseipdb 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::akamai 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::aws_wafv2 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::azure 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::bgp_rtbh 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::checkpoint 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::cisco_fmc 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::cloud_armor 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::cloudflare 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::dns_rpz 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::dummy 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::f5_bigip 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::fastly 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::file_reload 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::firewalld 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::fortigate 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::hosts_deny 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::ipfw 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::iptables 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::juniper_srx 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::linux_ip_route 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::netscaler 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::nftables 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::npf 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::nsupdate 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::openwrt 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::opnsense 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::panos 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::pf 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::pfsense 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::routeros 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::routeros_api 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::shell 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::shorewall 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::ufw 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::vyos 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
+Net::Firewall::BlockerHelper::backends::xdp 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
 Net::Fix::Checksum::XS              0.03  pkg:cpan/Net-Fix-Checksum-XS@0.03
 Net::FleetDB                        0.33  pkg:cpan/Net-FleetDB@0.33
 Net::Flickr::API                     1.7  pkg:cpan/Net-Flickr-API@1.7
@@ -200409,7 +200412,7 @@ Pod::Elemental::Paragraph          0.103006  pkg:cpan/Pod-Elemental@0.103006
 Pod::Elemental::PerlMunger         0.200007  pkg:cpan/Pod-Elemental-PerlMunger@0.200007
 Pod::Elemental::Selectors          0.103006  pkg:cpan/Pod-Elemental@0.103006
 Pod::Elemental::Transformer        0.103006  pkg:cpan/Pod-Elemental@0.103006
-Pod::Elemental::Transformer::Author::GETTY 0.317  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.317
+Pod::Elemental::Transformer::Author::GETTY 0.318  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.318
 Pod::Elemental::Transformer::Codebox 0.101001  pkg:cpan/Pod-Elemental-Transformer-SynHi@0.101001
 Pod::Elemental::Transformer::Cowl_GenDoc undef  pkg:cpan/RDF-Cowl@1.0.0
 Pod::Elemental::Transformer::Ditaa 0.001006  pkg:cpan/Pod-Weaver-Plugin-Ditaa@0.001006
@@ -200922,7 +200925,7 @@ Pod::Weaver::PluginBundle::Author::CCM 0.012  pkg:cpan/Dist-Zilla-PluginBundle-A
 Pod::Weaver::PluginBundle::Author::CSSON 0.1101  pkg:cpan/Pod-Weaver-PluginBundle-Author-CSSON@0.1101
 Pod::Weaver::PluginBundle::Author::DOHERTY 0.010  pkg:cpan/Pod-Weaver-PluginBundle-Author-DOHERTY@0.010
 Pod::Weaver::PluginBundle::Author::ETHER 0.173  pkg:cpan/Dist-Zilla-PluginBundle-Author-ETHER@0.173
-Pod::Weaver::PluginBundle::Author::GETTY 0.317  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.317
+Pod::Weaver::PluginBundle::Author::GETTY 0.318  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.318
 Pod::Weaver::PluginBundle::Author::HAYOBAAN 0.016  pkg:cpan/Dist-Zilla-PluginBundle-Author-HAYOBAAN@0.016
 Pod::Weaver::PluginBundle::Author::IOANR 1.230480  pkg:cpan/Dist-Zilla-PluginBundle-Author-IOANR@1.230480
 Pod::Weaver::PluginBundle::Author::KENTNL 0.001003  pkg:cpan/Pod-Weaver-PluginBundle-Author-KENTNL@0.001003
@@ -231218,7 +231221,7 @@ Test2::Tools::Process::Exit         0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::Proc         0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::System       0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::SystemProc   0.07  pkg:cpan/Test2-Tools-Process@0.07
-Test2::Tools::QuickDB              0.000063  pkg:cpan/DBIx-QuickDB@0.000063
+Test2::Tools::QuickDB              0.000064  pkg:cpan/DBIx-QuickDB@0.000064
 Test2::Tools::Ref                  1.302222  pkg:cpan/Test-Simple@1.302222
 Test2::Tools::Refcount             1.302222  pkg:cpan/Test-Simple@1.302222
 Test2::Tools::Rustfmt               0.05  pkg:cpan/Test2-Tools-Rustfmt@0.05
