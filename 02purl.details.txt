@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 10 Aug 2026 07:16:52 GMT
+Last-Updated: Mon, 10 Aug 2026 09:10:45 GMT
 Line-Count: 267825
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -36595,7 +36595,7 @@ Catalyst::View::CSS::Squish         0.02  pkg:cpan/Catalyst-View-CSS-Squish@0.02
 Catalyst::View::CSV                  1.8  pkg:cpan/Catalyst-View-CSV@1.8
 Catalyst::View::Chart::Strip        0.05  pkg:cpan/Catalyst-View-Chart-Strip@0.05
 Catalyst::View::Chart::Strip::Example undef  pkg:cpan/Catalyst-View-Chart-Strip@0.05
-Catalyst::View::ChromePDF          v0.1.1  pkg:cpan/Catalyst-View-ChromePDF@v0.1.1
+Catalyst::View::ChromePDF          v0.1.2  pkg:cpan/Catalyst-View-ChromePDF@v0.1.2
 Catalyst::View::ClearSilver         0.01  pkg:cpan/Catalyst-View-ClearSilver@0.01
 Catalyst::View::Component::ESI      0.02  pkg:cpan/Catalyst-View-Component-ESI@0.02
 Catalyst::View::Component::SubInclude  0.10  pkg:cpan/Catalyst-View-Component-SubInclude@0.10
