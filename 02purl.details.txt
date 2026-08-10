@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 10 Aug 2026 03:46:12 GMT
+Last-Updated: Mon, 10 Aug 2026 05:18:54 GMT
 Line-Count: 267825
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -145084,7 +145084,7 @@ Music::MelodicDevice::Arpeggiation 0.0302  pkg:cpan/Music-MelodicDevice-Arpeggia
 Music::MelodicDevice::Inversion    0.0504  pkg:cpan/Music-MelodicDevice-Inversion@0.0504
 Music::MelodicDevice::Ornamentation 0.0706  pkg:cpan/Music-MelodicDevice-Ornamentation@0.0706
 Music::MelodicDevice::Transposition 0.0601  pkg:cpan/Music-MelodicDevice-Transposition@0.0601
-Music::ModalFunction               0.0504  pkg:cpan/Music-ModalFunction@0.0504
+Music::ModalFunction               0.0505  pkg:cpan/Music-ModalFunction@0.0505
 Music::NeoRiemannianTonnetz         0.27  pkg:cpan/Music-NeoRiemannianTonnetz@0.27
 Music::Note                         0.01  pkg:cpan/Music-Note@0.01
 Music::Note::Frequency              0.05  pkg:cpan/Music-Note-Frequency@0.05
