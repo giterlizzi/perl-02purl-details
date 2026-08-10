@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 10 Aug 2026 05:18:54 GMT
+Last-Updated: Mon, 10 Aug 2026 07:16:52 GMT
 Line-Count: 267825
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -21640,11 +21640,11 @@ BACnet::ServiceRequestSequences::SubscribeCOV undef  pkg:cpan/BACnet@0.08
 BACnet::ServiceRequestSequences::Utils undef  pkg:cpan/BACnet@0.08
 BACnet::Socket                     undef  pkg:cpan/BACnet@0.08
 BACnet::Subscription               undef  pkg:cpan/BACnet@0.08
-BATsh                               0.10  pkg:cpan/BATsh@0.10
-BATsh::CMD                          0.10  pkg:cpan/BATsh@0.10
-BATsh::Env                          0.10  pkg:cpan/BATsh@0.10
-BATsh::MB                           0.10  pkg:cpan/BATsh@0.10
-BATsh::SH                           0.10  pkg:cpan/BATsh@0.10
+BATsh                               0.11  pkg:cpan/BATsh@0.11
+BATsh::CMD                          0.11  pkg:cpan/BATsh@0.11
+BATsh::Env                          0.11  pkg:cpan/BATsh@0.11
+BATsh::MB                           0.11  pkg:cpan/BATsh@0.11
+BATsh::SH                           0.11  pkg:cpan/BATsh@0.11
 BBBB                               undef  pkg:cpan/Data-Table-Text@20210818
 BBCode::Body                        0.34  pkg:cpan/BBCode-Parser@0.34
 BBCode::Parser                      0.34  pkg:cpan/BBCode-Parser@0.34
@@ -124743,7 +124743,7 @@ Lingua::Verbnet                    1.002  pkg:cpan/Lingua-Verbnet@1.002
 Lingua::Verbnet::Ambiguity         undef  pkg:cpan/Lingua-Verbnet@1.002
 Lingua::Verbnet::StatHandlers      1.002  pkg:cpan/Lingua-Verbnet@1.002
 Lingua::Word2Num                   0.2603270  pkg:cpan/Lingua-Word2Num@0.2603270
-Lingua::Word::Parser               0.0809  pkg:cpan/Lingua-Word-Parser@0.0809
+Lingua::Word::Parser               0.0900  pkg:cpan/Lingua-Word-Parser@0.0900
 Lingua::Wordnet                     0.74  pkg:cpan/Lingua-Wordnet@0.74
 Lingua::Wordnet::Analysis           0.74  pkg:cpan/Lingua-Wordnet@0.74
 Lingua::Wordnet::Synset             0.74  pkg:cpan/Lingua-Wordnet@0.74
@@ -145084,7 +145084,7 @@ Music::MelodicDevice::Arpeggiation 0.0302  pkg:cpan/Music-MelodicDevice-Arpeggia
 Music::MelodicDevice::Inversion    0.0504  pkg:cpan/Music-MelodicDevice-Inversion@0.0504
 Music::MelodicDevice::Ornamentation 0.0706  pkg:cpan/Music-MelodicDevice-Ornamentation@0.0706
 Music::MelodicDevice::Transposition 0.0601  pkg:cpan/Music-MelodicDevice-Transposition@0.0601
-Music::ModalFunction               0.0505  pkg:cpan/Music-ModalFunction@0.0505
+Music::ModalFunction               0.0600  pkg:cpan/Music-ModalFunction@0.0600
 Music::NeoRiemannianTonnetz         0.27  pkg:cpan/Music-NeoRiemannianTonnetz@0.27
 Music::Note                         0.01  pkg:cpan/Music-Note@0.01
 Music::Note::Frequency              0.05  pkg:cpan/Music-Note-Frequency@0.05
@@ -203121,15 +203121,15 @@ Punk::Model::DBIx::Loop             0.03  pkg:cpan/Punk@0.04
 Punk::Mount::Markdown               0.03  pkg:cpan/Punk@0.04
 Punk::Mount::OpenAPI                0.02  pkg:cpan/Punk@0.04
 Punk::Plugin                        0.02  pkg:cpan/Punk@0.04
-Punk::Plugin::Queue                 0.01  pkg:cpan/Punk-Queue@0.01
-Punk::Queue                         0.01  pkg:cpan/Punk-Queue@0.01
-Punk::Queue::Backend                0.01  pkg:cpan/Punk-Queue@0.01
-Punk::Queue::Backend::Pg            0.01  pkg:cpan/Punk-Queue@0.01
-Punk::Queue::Backend::SQLite        0.01  pkg:cpan/Punk-Queue@0.01
-Punk::Queue::Command                0.01  pkg:cpan/Punk-Queue@0.01
-Punk::Queue::Cron                   0.01  pkg:cpan/Punk-Queue@0.01
-Punk::Queue::Job                    0.01  pkg:cpan/Punk-Queue@0.01
-Punk::Queue::Worker                 0.01  pkg:cpan/Punk-Queue@0.01
+Punk::Plugin::Queue                 0.02  pkg:cpan/Punk-Queue@0.02
+Punk::Queue                         0.02  pkg:cpan/Punk-Queue@0.02
+Punk::Queue::Backend                0.02  pkg:cpan/Punk-Queue@0.02
+Punk::Queue::Backend::Pg            0.02  pkg:cpan/Punk-Queue@0.02
+Punk::Queue::Backend::SQLite        0.02  pkg:cpan/Punk-Queue@0.02
+Punk::Queue::Command                0.02  pkg:cpan/Punk-Queue@0.02
+Punk::Queue::Cron                   0.02  pkg:cpan/Punk-Queue@0.02
+Punk::Queue::Job                    0.02  pkg:cpan/Punk-Queue@0.02
+Punk::Queue::Worker                 0.02  pkg:cpan/Punk-Queue@0.02
 Punk::Request                       0.02  pkg:cpan/Punk@0.04
 Punk::Response                      0.02  pkg:cpan/Punk@0.04
 Punk::Router                        0.02  pkg:cpan/Punk@0.04
