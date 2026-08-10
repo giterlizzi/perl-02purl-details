@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 10 Aug 2026 20:33:39 GMT
+Last-Updated: Mon, 10 Aug 2026 22:29:28 GMT
 Line-Count: 267831
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -139634,7 +139634,7 @@ Module::MetaInfo::AutoGuess         0.01  pkg:cpan/Module-MetaInfo@0.03
 Module::MetaInfo::DirTree           0.01  pkg:cpan/Module-MetaInfo@0.03
 Module::MetaInfo::ModList          undef  pkg:cpan/Module-MetaInfo@0.03
 Module::MetaInfo::_Extractor        0.01  pkg:cpan/Module-MetaInfo@0.03
-Module::Metadata                   1.000039  pkg:cpan/Module-Metadata@1.000039
+Module::Metadata                   1.000040  pkg:cpan/Module-Metadata@1.000040
 Module::Metadata::Changes           2.12  pkg:cpan/Module-Metadata-Changes@2.12?ext=tgz
 Module::Metadata::CoreList          1.09  pkg:cpan/Module-Metadata-CoreList@1.09?ext=tgz
 Module::Metadata::CoreList::Config  1.09  pkg:cpan/Module-Metadata-CoreList@1.09?ext=tgz
@@ -163479,7 +163479,7 @@ PX::API::Request                   0.000003  pkg:cpan/PX-API@v0.0.3
 PX::API::Response                  0.000003  pkg:cpan/PX-API@v0.0.3
 PX::API::Response::JSON            0.000003  pkg:cpan/PX-API@v0.0.3
 PX::API::Response::Rest            0.000003  pkg:cpan/PX-API@v0.0.3
-PXF::Util                          undef  pkg:cpan/PlackX-Framework@0.28
+PXF::Util                          undef  pkg:cpan/PlackX-Framework@0.29
 PXML                               undef  pkg:cpan/FunctionalPerl@0.72.76
 PXML::Body                         undef  pkg:cpan/FunctionalPerl@0.72.76
 PXML::Element                      undef  pkg:cpan/FunctionalPerl@0.72.76
@@ -199771,17 +199771,17 @@ Plack::Util::PeriAHS               0.620  pkg:cpan/Perinci-Access-HTTP-Server@0.
 Plack::Util::Prototype             undef  pkg:cpan/Plack@1.0054
 Plack::VCR                          0.06  pkg:cpan/Plack-Middleware-Recorder@0.06
 Plack::VCR::Interaction             0.06  pkg:cpan/Plack-Middleware-Recorder@0.06
-PlackX::Framework                   0.28  pkg:cpan/PlackX-Framework@0.28
-PlackX::Framework::Config          undef  pkg:cpan/PlackX-Framework@0.28
-PlackX::Framework::Handler         undef  pkg:cpan/PlackX-Framework@0.28
-PlackX::Framework::Request         undef  pkg:cpan/PlackX-Framework@0.28
-PlackX::Framework::Response        undef  pkg:cpan/PlackX-Framework@0.28
-PlackX::Framework::Role::RouterEngine undef  pkg:cpan/PlackX-Framework@0.28
-PlackX::Framework::Role::TemplateEngine undef  pkg:cpan/PlackX-Framework@0.28
-PlackX::Framework::Router          undef  pkg:cpan/PlackX-Framework@0.28
-PlackX::Framework::Router::Engine  undef  pkg:cpan/PlackX-Framework@0.28
-PlackX::Framework::Template        undef  pkg:cpan/PlackX-Framework@0.28
-PlackX::Framework::URIx            undef  pkg:cpan/PlackX-Framework@0.28
+PlackX::Framework                   0.29  pkg:cpan/PlackX-Framework@0.29
+PlackX::Framework::Config          undef  pkg:cpan/PlackX-Framework@0.29
+PlackX::Framework::Handler         undef  pkg:cpan/PlackX-Framework@0.29
+PlackX::Framework::Request         undef  pkg:cpan/PlackX-Framework@0.29
+PlackX::Framework::Response        undef  pkg:cpan/PlackX-Framework@0.29
+PlackX::Framework::Role::RouterEngine undef  pkg:cpan/PlackX-Framework@0.29
+PlackX::Framework::Role::TemplateEngine undef  pkg:cpan/PlackX-Framework@0.29
+PlackX::Framework::Router          undef  pkg:cpan/PlackX-Framework@0.29
+PlackX::Framework::Router::Engine  undef  pkg:cpan/PlackX-Framework@0.29
+PlackX::Framework::Template        undef  pkg:cpan/PlackX-Framework@0.29
+PlackX::Framework::URIx            undef  pkg:cpan/PlackX-Framework@0.29
 PlackX::MiddlewareStack            0.011  pkg:cpan/PlackX-MiddlewareStack@0.011
 PlackX::RouteBuilder                0.03  pkg:cpan/PlackX-RouteBuilder@0.03
 Plagger                            0.007017  pkg:cpan/Plagger@0.7.17
