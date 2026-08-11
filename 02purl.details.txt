@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 11 Aug 2026 10:43:13 GMT
+Last-Updated: Tue, 11 Aug 2026 12:47:17 GMT
 Line-Count: 267832
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -20039,7 +20039,7 @@ Astro::SkyX::sky6Web                0.11  pkg:cpan/Astro-SkyX@0.11
 Astro::SolarParallax                0.04  pkg:cpan/Astro-SolarParallax@0.04
 Astro::SolarParallax::Observer      0.01  pkg:cpan/Astro-SolarParallax@0.04
 Astro::SpaceElevator                0.05  pkg:cpan/Astro-SpaceElevator@0.05
-Astro::SpaceTrack                  0.182  pkg:cpan/Astro-SpaceTrack@0.182
+Astro::SpaceTrack                  0.183  pkg:cpan/Astro-SpaceTrack@0.183
 Astro::SunTime                      0.06  pkg:cpan/Astro-SunTime@0.06
 Astro::Sunrise                      0.99  pkg:cpan/Astro-Sunrise@0.99
 Astro::Telescope                    0.71  pkg:cpan/Astro-Telescope@0.71
@@ -47697,7 +47697,7 @@ Compress::Zstd::DecompressionContext undef  pkg:cpan/Compress-Zstd@0.20
 Compress::Zstd::DecompressionDictionary undef  pkg:cpan/Compress-Zstd@0.20
 Compress::Zstd::Decompressor       undef  pkg:cpan/Compress-Zstd@0.20
 Compress::unLZMA                    0.05  pkg:cpan/Compress-unLZMA@0.05
-Compression::Util                   0.16  pkg:cpan/Compression-Util@0.16
+Compression::Util                   0.17  pkg:cpan/Compression-Util@0.17
 Comskil                            00.12345  pkg:cpan/Comskil-JIRA@00.11329
 Comskil::JQueue                     0.10  pkg:cpan/Comskil-JIRA@00.11329
 Comskil::JQueue::POP                0.10  pkg:cpan/Comskil-JIRA@00.11329
