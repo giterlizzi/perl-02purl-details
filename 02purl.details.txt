@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 11 Aug 2026 16:51:19 GMT
-Line-Count: 267832
+Last-Updated: Tue, 11 Aug 2026 18:52:20 GMT
+Line-Count: 267833
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -16617,7 +16617,7 @@ App::safer                         0.003  pkg:cpan/App-safer@0.003
 App::saikoro                       0.300  pkg:cpan/App-saikoro@0.300
 App::samelines                     0.033  pkg:cpan/App-samelines@0.033
 App::samesize                      0.018  pkg:cpan/App-samesize@0.018
-App::sbozyp                        undef  pkg:cpan/App-sbozyp@v1.7.2
+App::sbozyp                        undef  pkg:cpan/App-sbozyp@v1.8.0
 App::scan_prereqs_cpanfile          1.10  pkg:cpan/App-scan_prereqs_cpanfile@1.10
 App::scanrdeps                      0.02  pkg:cpan/App-scanrdeps@0.02
 App::scrape                         0.08  pkg:cpan/App-scrape@0.08
@@ -46705,9 +46705,10 @@ Clearcase::Vobs                    undef  pkg:cpan/Clearcase@1.02
 Clearquest                          1.02  pkg:cpan/Clearquest@1.02
 Clearquest::Utils                  undef  pkg:cpan/Clearquest@1.02
 ClickHouse                          0.05  pkg:cpan/ClickHouse@0.05
-ClickHouse::Encoder                 0.01  pkg:cpan/ClickHouse-Encoder@0.01
-ClickHouse::Encoder::BulkInserter   0.01  pkg:cpan/ClickHouse-Encoder@0.01
-ClickHouse::Encoder::TCP            0.01  pkg:cpan/ClickHouse-Encoder@0.01
+ClickHouse::Encoder                 0.02  pkg:cpan/ClickHouse-Encoder@0.02
+ClickHouse::Encoder::BulkInserter   0.02  pkg:cpan/ClickHouse-Encoder@0.02
+ClickHouse::Encoder::Streamer       0.02  pkg:cpan/ClickHouse-Encoder@0.02
+ClickHouse::Encoder::TCP            0.02  pkg:cpan/ClickHouse-Encoder@0.02
 Client                             undef  pkg:cpan/Crypt-HCE_SHA@0.75
 Clio                                0.02  pkg:cpan/Clio@0.02
 Clio::Client                        0.02  pkg:cpan/Clio@0.02
@@ -53789,20 +53790,20 @@ DBIx::QueryLog                      0.42  pkg:cpan/DBIx-QueryLog@0.42
 DBIx::Quick                          0.9  pkg:cpan/DBIx-Quick@0.9
 DBIx::Quick::Converter             undef  pkg:cpan/DBIx-Quick@0.9
 DBIx::Quick::Role                  undef  pkg:cpan/DBIx-Quick@0.9
-DBIx::QuickDB                      0.000064  pkg:cpan/DBIx-QuickDB@0.000064
-DBIx::QuickDB::Driver              0.000064  pkg:cpan/DBIx-QuickDB@0.000064
-DBIx::QuickDB::Driver::DuckDB      0.000064  pkg:cpan/DBIx-QuickDB@0.000064
-DBIx::QuickDB::Driver::MariaDB     0.000064  pkg:cpan/DBIx-QuickDB@0.000064
-DBIx::QuickDB::Driver::MySQL       0.000064  pkg:cpan/DBIx-QuickDB@0.000064
+DBIx::QuickDB                      0.000065  pkg:cpan/DBIx-QuickDB@0.000065
+DBIx::QuickDB::Driver              0.000065  pkg:cpan/DBIx-QuickDB@0.000065
+DBIx::QuickDB::Driver::DuckDB      0.000065  pkg:cpan/DBIx-QuickDB@0.000065
+DBIx::QuickDB::Driver::MariaDB     0.000065  pkg:cpan/DBIx-QuickDB@0.000065
+DBIx::QuickDB::Driver::MySQL       0.000065  pkg:cpan/DBIx-QuickDB@0.000065
 DBIx::QuickDB::Driver::MySQL::Base 0.000035  pkg:cpan/DBIx-QuickDB@0.000035
-DBIx::QuickDB::Driver::MySQLCom    0.000064  pkg:cpan/DBIx-QuickDB@0.000064
-DBIx::QuickDB::Driver::Percona     0.000064  pkg:cpan/DBIx-QuickDB@0.000064
-DBIx::QuickDB::Driver::PostgreSQL  0.000064  pkg:cpan/DBIx-QuickDB@0.000064
-DBIx::QuickDB::Driver::SQLite      0.000064  pkg:cpan/DBIx-QuickDB@0.000064
-DBIx::QuickDB::Pool                0.000064  pkg:cpan/DBIx-QuickDB@0.000064
-DBIx::QuickDB::Util                0.000064  pkg:cpan/DBIx-QuickDB@0.000064
-DBIx::QuickDB::Util::HashBase      0.000064  pkg:cpan/DBIx-QuickDB@0.000064
-DBIx::QuickDB::Watcher             0.000064  pkg:cpan/DBIx-QuickDB@0.000064
+DBIx::QuickDB::Driver::MySQLCom    0.000065  pkg:cpan/DBIx-QuickDB@0.000065
+DBIx::QuickDB::Driver::Percona     0.000065  pkg:cpan/DBIx-QuickDB@0.000065
+DBIx::QuickDB::Driver::PostgreSQL  0.000065  pkg:cpan/DBIx-QuickDB@0.000065
+DBIx::QuickDB::Driver::SQLite      0.000065  pkg:cpan/DBIx-QuickDB@0.000065
+DBIx::QuickDB::Pool                0.000065  pkg:cpan/DBIx-QuickDB@0.000065
+DBIx::QuickDB::Util                0.000065  pkg:cpan/DBIx-QuickDB@0.000065
+DBIx::QuickDB::Util::HashBase      0.000065  pkg:cpan/DBIx-QuickDB@0.000065
+DBIx::QuickDB::Watcher             0.000065  pkg:cpan/DBIx-QuickDB@0.000065
 DBIx::QuickORM                     0.000028  pkg:cpan/DBIx-QuickORM@0.000028
 DBIx::QuickORM::Affinity           0.000028  pkg:cpan/DBIx-QuickORM@0.000028
 DBIx::QuickORM::BuilderState       0.000004  pkg:cpan/DBIx-QuickORM@0.000004
@@ -66035,7 +66036,7 @@ Device::Cdio::ISO9660::FS              0  pkg:cpan/Device-Cdio@v0.3.0
 Device::Cdio::ISO9660::IFS             0  pkg:cpan/Device-Cdio@v0.3.0
 Device::Cdio::Track                    0  pkg:cpan/Device-Cdio@v0.3.0
 Device::Cdio::Util                     0  pkg:cpan/Device-Cdio@v0.3.0
-Device::Chip                        0.26  pkg:cpan/Device-Chip@0.26
+Device::Chip                        0.27  pkg:cpan/Device-Chip@0.27
 Device::Chip::AD5691R               0.16  pkg:cpan/Device-Chip-AnalogConverters@0.16
 Device::Chip::AD9833                0.05  pkg:cpan/Device-Chip-AD9833@0.05
 Device::Chip::ADC121Sx              0.16  pkg:cpan/Device-Chip-AnalogConverters@0.16
@@ -66044,7 +66045,7 @@ Device::Chip::ADT7470               0.03  pkg:cpan/Device-Chip-ADT7470@0.03
 Device::Chip::AS3935                0.04  pkg:cpan/Device-Chip-AS3935@0.04
 Device::Chip::AVR_HVSP              0.07  pkg:cpan/Device-Chip-AVR_HVSP@0.07
 Device::Chip::AVR_HVSP::FuseInfo    0.08  pkg:cpan/Device-Chip-AVR_HVSP@0.08
-Device::Chip::Adapter               0.26  pkg:cpan/Device-Chip@0.26
+Device::Chip::Adapter               0.27  pkg:cpan/Device-Chip@0.27
 Device::Chip::Adapter::BusPirate    0.25  pkg:cpan/Device-BusPirate@0.25
 Device::Chip::Adapter::CH341A       0.02  pkg:cpan/Device-Chip-Adapter-CH341A@0.02
 Device::Chip::Adapter::FTDI         0.14  pkg:cpan/Device-FTDI@0.14
@@ -66055,7 +66056,7 @@ Device::Chip::AnalogConverters      0.16  pkg:cpan/Device-Chip-AnalogConverters@
 Device::Chip::BME280                0.07  pkg:cpan/Device-Chip-BME280@0.07
 Device::Chip::BNO055                0.04  pkg:cpan/Device-Chip-BNO055@0.04
 Device::Chip::BV4243                0.04  pkg:cpan/Device-Chip-BV4243@0.04
-Device::Chip::Base::RegisteredI2C   0.26  pkg:cpan/Device-Chip@0.26
+Device::Chip::Base::RegisteredI2C   0.27  pkg:cpan/Device-Chip@0.27
 Device::Chip::CC1101                0.10  pkg:cpan/Device-Chip-CC1101@0.10
 Device::Chip::CCS811                0.03  pkg:cpan/Device-Chip-CCS811@0.03
 Device::Chip::DAC7513               0.16  pkg:cpan/Device-Chip-AnalogConverters@0.16
@@ -66086,14 +66087,14 @@ Device::Chip::PCF8574               0.06  pkg:cpan/Device-Chip-PCF8574@0.06
 Device::Chip::PCF8575               0.06  pkg:cpan/Device-Chip-PCF8574@0.06
 Device::Chip::PCF857x               0.06  pkg:cpan/Device-Chip-PCF8574@0.06
 Device::Chip::PMS5003               0.01  pkg:cpan/Device-Chip-PMS5003@0.01
-Device::Chip::ProtocolBase::SPI     0.26  pkg:cpan/Device-Chip@0.26
+Device::Chip::ProtocolBase::SPI     0.27  pkg:cpan/Device-Chip@0.27
 Device::Chip::SCD4x                 0.02  pkg:cpan/Device-Chip-From-Sensirion@0.02
 Device::Chip::SDCard                0.04  pkg:cpan/Device-Chip-SDCard@0.04
 Device::Chip::SGP4x                 0.02  pkg:cpan/Device-Chip-From-Sensirion@0.02
 Device::Chip::SSD1306               0.16  pkg:cpan/Device-Chip-SSD1306@0.16
 Device::Chip::SSD1306::I2C          0.16  pkg:cpan/Device-Chip-SSD1306@0.16
 Device::Chip::SSD1306::SPI4         0.16  pkg:cpan/Device-Chip-SSD1306@0.16
-Device::Chip::Sensor                0.26  pkg:cpan/Device-Chip@0.26
+Device::Chip::Sensor                0.27  pkg:cpan/Device-Chip@0.27
 Device::Chip::Si5351                0.02  pkg:cpan/Device-Chip-Si5351@0.02
 Device::Chip::TCS3472x              0.05  pkg:cpan/Device-Chip-TCS3472x@0.05
 Device::Chip::TMP102                0.02  pkg:cpan/Device-Chip-TMP102@0.02
@@ -124750,7 +124751,7 @@ Lingua::Verbnet                    1.002  pkg:cpan/Lingua-Verbnet@1.002
 Lingua::Verbnet::Ambiguity         undef  pkg:cpan/Lingua-Verbnet@1.002
 Lingua::Verbnet::StatHandlers      1.002  pkg:cpan/Lingua-Verbnet@1.002
 Lingua::Word2Num                   0.2603270  pkg:cpan/Lingua-Word2Num@0.2603270
-Lingua::Word::Parser               0.0900  pkg:cpan/Lingua-Word-Parser@0.0900
+Lingua::Word::Parser               0.0901  pkg:cpan/Lingua-Word-Parser@0.0901
 Lingua::Wordnet                     0.74  pkg:cpan/Lingua-Wordnet@0.74
 Lingua::Wordnet::Analysis           0.74  pkg:cpan/Lingua-Wordnet@0.74
 Lingua::Wordnet::Synset             0.74  pkg:cpan/Lingua-Wordnet@0.74
@@ -231251,7 +231252,7 @@ Test2::Tools::Process::Exit         0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::Proc         0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::System       0.07  pkg:cpan/Test2-Tools-Process@0.07
 Test2::Tools::Process::SystemProc   0.07  pkg:cpan/Test2-Tools-Process@0.07
-Test2::Tools::QuickDB              0.000064  pkg:cpan/DBIx-QuickDB@0.000064
+Test2::Tools::QuickDB              0.000065  pkg:cpan/DBIx-QuickDB@0.000065
 Test2::Tools::Ref                  1.302222  pkg:cpan/Test-Simple@1.302222
 Test2::Tools::Refcount             1.302222  pkg:cpan/Test-Simple@1.302222
 Test2::Tools::Rustfmt               0.05  pkg:cpan/Test2-Tools-Rustfmt@0.05
@@ -232134,7 +232135,7 @@ Test::DependentModules              0.27  pkg:cpan/Test-DependentModules@0.27
 Test::Depends                       0.06  pkg:cpan/Test-Depends@0.06
 Test::DescribeMe                   0.004  pkg:cpan/Test-DescribeMe@0.004
 Test::Detect                         0.1  pkg:cpan/Test-Detect@0.1
-Test::Device::Chip::Adapter         0.26  pkg:cpan/Device-Chip@0.26
+Test::Device::Chip::Adapter         0.27  pkg:cpan/Device-Chip@0.27
 Test::Device::SerialPort            0.05  pkg:cpan/Test-Device-SerialPort@0.05
 Test::DiagINC                      0.010  pkg:cpan/Test-DiagINC@0.010
 Test::DiagRef                      1.132080  pkg:cpan/Test-DiagRef@1.132080
