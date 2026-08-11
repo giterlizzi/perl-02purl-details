@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 11 Aug 2026 06:54:18 GMT
+Last-Updated: Tue, 11 Aug 2026 08:45:48 GMT
 Line-Count: 267832
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -50857,9 +50857,9 @@ DB::Ent                             1.63  pkg:cpan/DB-Ent@1.63
 DB::Ent::DBI                        1.63  pkg:cpan/DB-Ent@1.63
 DB::Error                          undef  pkg:cpan/DB-Hooks@0.0201
 DB::Evented                         0.06  pkg:cpan/DB-Evented@0.06
-DB::Handy                           1.09  pkg:cpan/DB-Handy@1.09
-DB::Handy::Connection               1.09  pkg:cpan/DB-Handy@1.09
-DB::Handy::Statement                1.09  pkg:cpan/DB-Handy@1.09
+DB::Handy                           1.10  pkg:cpan/DB-Handy@1.10
+DB::Handy::Connection               1.10  pkg:cpan/DB-Handy@1.10
+DB::Handy::Statement                1.10  pkg:cpan/DB-Handy@1.10
 DB::Hooks                          0.0201  pkg:cpan/DB-Hooks@0.0201
 DB::Hooks::HistoryTerminal         undef  pkg:cpan/DB-Hooks@0.0201
 DB::Hooks::Remote                  undef  pkg:cpan/DB-Hooks@0.0201
