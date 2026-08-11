@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 11 Aug 2026 14:51:29 GMT
+Last-Updated: Tue, 11 Aug 2026 16:51:19 GMT
 Line-Count: 267832
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -117315,7 +117315,7 @@ JSON::XS::VersionOneAndTwo          0.31  pkg:cpan/JSON-XS-VersionOneAndTwo@0.31
 JSON::YAJL                          0.10  pkg:cpan/JSON-YAJL@0.10
 JSON::YAJL::Generator               0.10  pkg:cpan/JSON-YAJL@0.10
 JSON::YAJL::Parser                  0.10  pkg:cpan/JSON-YAJL@0.10
-JSON::YY                            0.06  pkg:cpan/JSON-YY@0.06
+JSON::YY                            0.07  pkg:cpan/JSON-YY@0.07
 JSON::YY::Doc                       0.06  pkg:cpan/JSON-YY@0.06
 JSON::backportPP::Boolean          2.27203  pkg:cpan/JSON@2.61
 JSON::ize                          0.202  pkg:cpan/JSON-ize@0.202
@@ -225491,35 +225491,35 @@ Stream::Reader                      0.09  pkg:cpan/Stream-Reader@0.09
 Stream::Streamable                 undef  pkg:cpan/Stream@1.00
 Stream::StringInputStream          undef  pkg:cpan/Stream@1.00
 Stream::StringOutputStream         undef  pkg:cpan/Stream@1.00
-StreamFinder                        2.64  pkg:cpan/StreamFinder@2.64
-StreamFinder::Anystream            undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::Apple                undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::Bitchute             undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::Blogger              undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::BrandNewTube         undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::Brighteon            undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::Castbox              undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::EpochTV              undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::IHeartRadio          undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::InternetRadio        undef  pkg:cpan/StreamFinder@2.64
+StreamFinder                        2.70  pkg:cpan/StreamFinder@2.70
+StreamFinder::Anystream            undef  pkg:cpan/StreamFinder@2.70
+StreamFinder::Apple                undef  pkg:cpan/StreamFinder@2.70
+StreamFinder::Bitchute             undef  pkg:cpan/StreamFinder@2.70
+StreamFinder::Blogger              undef  pkg:cpan/StreamFinder@2.70
+StreamFinder::BrandNewTube         undef  pkg:cpan/StreamFinder@2.70
+StreamFinder::Brighteon            undef  pkg:cpan/StreamFinder@2.70
+StreamFinder::Castbox              undef  pkg:cpan/StreamFinder@2.70
+StreamFinder::EpochTV              undef  pkg:cpan/StreamFinder@2.70
+StreamFinder::IHeartRadio          undef  pkg:cpan/StreamFinder@2.70
+StreamFinder::InternetRadio        undef  pkg:cpan/StreamFinder@2.70
 StreamFinder::Odysee               undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::OnlineRadiobox       undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::Podbean              undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::PodcastAddict        undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::Podchaser            undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::PragerU              undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::RadioNet             undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::Rcast                undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::Rumble               undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::SermonAudio          undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::SoundCloud           undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::Spreaker             undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::Subsplash            undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::Tunein               undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::Vimeo                undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::Youtube              undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::Zeno                 undef  pkg:cpan/StreamFinder@2.64
-StreamFinder::_Class               undef  pkg:cpan/StreamFinder@2.64
+StreamFinder::OnlineRadiobox       undef  pkg:cpan/StreamFinder@2.70
+StreamFinder::Podbean              undef  pkg:cpan/StreamFinder@2.70
+StreamFinder::PodcastAddict        undef  pkg:cpan/StreamFinder@2.70
+StreamFinder::Podchaser            undef  pkg:cpan/StreamFinder@2.70
+StreamFinder::PragerU              undef  pkg:cpan/StreamFinder@2.70
+StreamFinder::RadioNet             undef  pkg:cpan/StreamFinder@2.70
+StreamFinder::Rcast                undef  pkg:cpan/StreamFinder@2.70
+StreamFinder::Rumble               undef  pkg:cpan/StreamFinder@2.70
+StreamFinder::SermonAudio          undef  pkg:cpan/StreamFinder@2.70
+StreamFinder::SoundCloud           undef  pkg:cpan/StreamFinder@2.70
+StreamFinder::Spreaker             undef  pkg:cpan/StreamFinder@2.70
+StreamFinder::Subsplash            undef  pkg:cpan/StreamFinder@2.70
+StreamFinder::Tunein               undef  pkg:cpan/StreamFinder@2.70
+StreamFinder::Vimeo                undef  pkg:cpan/StreamFinder@2.70
+StreamFinder::Youtube              undef  pkg:cpan/StreamFinder@2.70
+StreamFinder::Zeno                 undef  pkg:cpan/StreamFinder@2.70
+StreamFinder::_Class               undef  pkg:cpan/StreamFinder@2.70
 StreamRoot::Manifest                0.03  pkg:cpan/StreamRoot-Manifest@0.03
 StreamWrapper                      undef  pkg:cpan/ZZZ-SDK@0.0.2
 StreamedOutput                     undef  pkg:cpan/Lingy@0.1.19
