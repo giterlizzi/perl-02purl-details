@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 10 Aug 2026 22:29:28 GMT
+Last-Updated: Tue, 11 Aug 2026 01:10:09 GMT
 Line-Count: 267831
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -10267,15 +10267,15 @@ App::Framework::Lite::Object       2.002  pkg:cpan/App-Framework-Lite@1.09
 App::Framework::Settings           1.000  pkg:cpan/App-Framework@1.07
 App::FromUnixtime                   0.17  pkg:cpan/App-FromUnixtime@0.17
 App::FzfUtils                      0.003  pkg:cpan/App-FzfUtils@0.003
-App::GHGen                          0.08  pkg:cpan/App-GHGen@0.08
-App::GHGen::Analyzer                0.08  pkg:cpan/App-GHGen@0.08
-App::GHGen::CostEstimator           0.08  pkg:cpan/App-GHGen@0.08
-App::GHGen::Detector                0.08  pkg:cpan/App-GHGen@0.08
-App::GHGen::Fixer                   0.08  pkg:cpan/App-GHGen@0.08
-App::GHGen::Generator               0.08  pkg:cpan/App-GHGen@0.08
-App::GHGen::Interactive             0.08  pkg:cpan/App-GHGen@0.08
-App::GHGen::PerlCustomizer          0.08  pkg:cpan/App-GHGen@0.08
-App::GHGen::Reporter                0.08  pkg:cpan/App-GHGen@0.08
+App::GHGen                          0.09  pkg:cpan/App-GHGen@0.09
+App::GHGen::Analyzer                0.09  pkg:cpan/App-GHGen@0.09
+App::GHGen::CostEstimator           0.09  pkg:cpan/App-GHGen@0.09
+App::GHGen::Detector                0.09  pkg:cpan/App-GHGen@0.09
+App::GHGen::Fixer                   0.09  pkg:cpan/App-GHGen@0.09
+App::GHGen::Generator               0.09  pkg:cpan/App-GHGen@0.09
+App::GHGen::Interactive             0.09  pkg:cpan/App-GHGen@0.09
+App::GHGen::PerlCustomizer          0.09  pkg:cpan/App-GHGen@0.09
+App::GHGen::Reporter                0.09  pkg:cpan/App-GHGen@0.09
 App::GHPT                          2.000001  pkg:cpan/App-GHPT@2.000001
 App::GHPT::Types                   2.000001  pkg:cpan/App-GHPT@2.000001
 App::GHPT::WorkSubmitter           2.000001  pkg:cpan/App-GHPT@2.000001
@@ -49284,7 +49284,7 @@ Crypt::Cryptoki::Raw               undef  pkg:cpan/Crypt-Cryptoki@0.01
 Crypt::Ctr                          0.01  pkg:cpan/Crypt-Ctr@0.01
 Crypt::Ctr::FullWidth              undef  pkg:cpan/Crypt-EAX@0.04
 Crypt::Curve25519                   0.08  pkg:cpan/Crypt-Curve25519@0.08
-Crypt::DES                          2.07  pkg:cpan/Crypt-DES@2.07
+Crypt::DES                          2.09  pkg:cpan/Crypt-DES@2.09
 Crypt::DES_EDE3                     0.03  pkg:cpan/Crypt-DES_EDE3@0.03
 Crypt::DES_EEE3                     0.01  pkg:cpan/Crypt-DES_EEE3@0.01
 Crypt::DES_PP                       1.00  pkg:cpan/Crypt-DES_PP@1.00
@@ -67231,7 +67231,7 @@ Dist::Zilla::MintingProfile::Author::CHIM 0.052002  pkg:cpan/Dist-Zilla-PluginBu
 Dist::Zilla::MintingProfile::Author::CSSON 0.1103  pkg:cpan/Dist-Zilla-PluginBundle-Author-CSSON@0.1103
 Dist::Zilla::MintingProfile::Author::Caelum  0.08  pkg:cpan/Dist-Zilla-MintingProfile-Author-Caelum@0.08
 Dist::Zilla::MintingProfile::Author::DBOOK v1.0.10  pkg:cpan/Dist-Zilla-PluginBundle-Author-DBOOK@v1.0.10
-Dist::Zilla::MintingProfile::Author::ETHER 0.173  pkg:cpan/Dist-Zilla-PluginBundle-Author-ETHER@0.173
+Dist::Zilla::MintingProfile::Author::ETHER 0.174  pkg:cpan/Dist-Zilla-PluginBundle-Author-ETHER@0.174
 Dist::Zilla::MintingProfile::Author::JACQUESG  0.02  pkg:cpan/Dist-Zilla-PluginBundle-Author-JACQUESG@0.02
 Dist::Zilla::MintingProfile::Author::KENTNL 2.025021  pkg:cpan/Dist-Zilla-PluginBundle-Author-KENTNL@2.025021
 Dist::Zilla::MintingProfile::Author::LESPEA 1.008000  pkg:cpan/Dist-Zilla-PluginBundle-Author-LESPEA@1.008000
@@ -67557,7 +67557,7 @@ Dist::Zilla::Plugin::Git::Tag::ForRelease undef  pkg:cpan/Dist-Zilla-Plugin-Git-
 Dist::Zilla::Plugin::GitFmtChanges 0.006  pkg:cpan/Dist-Zilla-Plugin-GitFmtChanges@0.006
 Dist::Zilla::Plugin::GitHub         0.49  pkg:cpan/Dist-Zilla-Plugin-GitHub@0.49
 Dist::Zilla::Plugin::GitHub::Create  0.49  pkg:cpan/Dist-Zilla-Plugin-GitHub@0.49
-Dist::Zilla::Plugin::GitHub::CreateRelease 0.0011  pkg:cpan/Dist-Zilla-Plugin-GitHub-CreateRelease@0.0011
+Dist::Zilla::Plugin::GitHub::CreateRelease 0.0012  pkg:cpan/Dist-Zilla-Plugin-GitHub-CreateRelease@0.0012
 Dist::Zilla::Plugin::GitHub::Meta   0.49  pkg:cpan/Dist-Zilla-Plugin-GitHub@0.49
 Dist::Zilla::Plugin::GitHub::RequireGreenBuild  0.04  pkg:cpan/Dist-Zilla-Plugin-GitHub-RequireGreenBuild@0.04
 Dist::Zilla::Plugin::GitHub::Update  0.49  pkg:cpan/Dist-Zilla-Plugin-GitHub@0.49
@@ -68053,7 +68053,7 @@ Dist::Zilla::PluginBundle::Author::DBR v1.2.5  pkg:cpan/Dist-Zilla-PluginBundle-
 Dist::Zilla::PluginBundle::Author::DERIV 0.005  pkg:cpan/Dist-Zilla-PluginBundle-Author-DERIV@0.005
 Dist::Zilla::PluginBundle::Author::DOHERTY  0.42  pkg:cpan/Dist-Zilla-PluginBundle-Author-DOHERTY@0.42
 Dist::Zilla::PluginBundle::Author::DOMM 0.912  pkg:cpan/Dist-Zilla-PluginBundle-Author-DOMM@0.912
-Dist::Zilla::PluginBundle::Author::ETHER 0.173  pkg:cpan/Dist-Zilla-PluginBundle-Author-ETHER@0.173
+Dist::Zilla::PluginBundle::Author::ETHER 0.174  pkg:cpan/Dist-Zilla-PluginBundle-Author-ETHER@0.174
 Dist::Zilla::PluginBundle::Author::FERREIRA v0.4.0  pkg:cpan/Dist-Zilla-PluginBundle-Author-FERREIRA@0.4.0
 Dist::Zilla::PluginBundle::Author::GABRIEL  0.01  pkg:cpan/Dist-Zilla-PluginBundle-Author-GABRIEL@0.01
 Dist::Zilla::PluginBundle::Author::GETTY 0.318  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.318
@@ -200953,7 +200953,7 @@ Pod::Weaver::PluginBundle::Author::BBYRD  1.06  pkg:cpan/Dist-Zilla-PluginBundle
 Pod::Weaver::PluginBundle::Author::CCM 0.012  pkg:cpan/Dist-Zilla-PluginBundle-Author-CCM@0.012
 Pod::Weaver::PluginBundle::Author::CSSON 0.1101  pkg:cpan/Pod-Weaver-PluginBundle-Author-CSSON@0.1101
 Pod::Weaver::PluginBundle::Author::DOHERTY 0.010  pkg:cpan/Pod-Weaver-PluginBundle-Author-DOHERTY@0.010
-Pod::Weaver::PluginBundle::Author::ETHER 0.173  pkg:cpan/Dist-Zilla-PluginBundle-Author-ETHER@0.173
+Pod::Weaver::PluginBundle::Author::ETHER 0.174  pkg:cpan/Dist-Zilla-PluginBundle-Author-ETHER@0.174
 Pod::Weaver::PluginBundle::Author::GETTY 0.318  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.318
 Pod::Weaver::PluginBundle::Author::HAYOBAAN 0.016  pkg:cpan/Dist-Zilla-PluginBundle-Author-HAYOBAAN@0.016
 Pod::Weaver::PluginBundle::Author::IOANR 1.230480  pkg:cpan/Dist-Zilla-PluginBundle-Author-IOANR@1.230480
