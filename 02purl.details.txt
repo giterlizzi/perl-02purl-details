@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 11 Aug 2026 18:52:20 GMT
+Last-Updated: Tue, 11 Aug 2026 20:35:48 GMT
 Line-Count: 267833
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -148467,9 +148467,9 @@ Net::CIDR::Lite::Span               0.24  pkg:cpan/Net-CIDR-Lite@0.24
 Net::CIDR::MobileJP                 0.24  pkg:cpan/Net-CIDR-MobileJP@0.24
 Net::CIDR::ORTC                     0.02  pkg:cpan/Net-CIDR-ORTC@0.02
 Net::CIDR::Overlap                 0.002000  pkg:cpan/Net-CIDR-Overlap@0.2.0
-Net::CIDR::Set                      0.22  pkg:cpan/Net-CIDR-Set@0.22
-Net::CIDR::Set::IPv4                0.22  pkg:cpan/Net-CIDR-Set@0.22
-Net::CIDR::Set::IPv6                0.22  pkg:cpan/Net-CIDR-Set@0.22
+Net::CIDR::Set                      0.23  pkg:cpan/Net-CIDR-Set@0.23
+Net::CIDR::Set::IPv4                0.23  pkg:cpan/Net-CIDR-Set@0.23
+Net::CIDR::Set::IPv6                0.23  pkg:cpan/Net-CIDR-Set@0.23
 Net::CLI::Interact                 2.400002  pkg:cpan/Net-CLI-Interact@2.400002
 Net::CLI::Interact::Action         2.400002  pkg:cpan/Net-CLI-Interact@2.400002
 Net::CLI::Interact::ActionSet      2.400002  pkg:cpan/Net-CLI-Interact@2.400002
@@ -256181,7 +256181,7 @@ Wily::Connect                       0.01  pkg:cpan/Wily@0.02
 Wily::Message                       0.01  pkg:cpan/Wily@0.02
 Wily::RPC                           0.01  pkg:cpan/Wily@0.02
 Wily::Win                           0.02  pkg:cpan/Wily@0.02
-Win32                               0.63  pkg:cpan/Win32@0.63
+Win32                               0.64  pkg:cpan/Win32@0.64
 Win32::AD::Constant                 0.01  pkg:cpan/Win32-AD-Control-DirSync@0.01
 Win32::AD::Control::DirSync         0.01  pkg:cpan/Win32-AD-Control-DirSync@0.01
 Win32::AD::User                     0.04  pkg:cpan/Win32-AD-User@0.04
