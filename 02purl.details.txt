@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 11 Aug 2026 20:35:48 GMT
+Last-Updated: Tue, 11 Aug 2026 22:34:01 GMT
 Line-Count: 267833
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -9893,14 +9893,14 @@ App::ENumberUtils                  v20230301.0.2  pkg:cpan/App-ENumberUtils@2023
 App::EPAN                          0.002  pkg:cpan/App-EPAN@0.002
 App::EUMM::Migrate                  0.12  pkg:cpan/App-EUMM-Migrate@0.12
 App::EUMM::Upgrade                   1.0  pkg:cpan/App-EUMM-Upgrade@1.0
-App::Easer                         2.014  pkg:cpan/App-Easer@2.014
-App::Easer::ConfigHash             2.014  pkg:cpan/App-Easer@2.014
-App::Easer::V1                     2.014  pkg:cpan/App-Easer@2.014
-App::Easer::V2                     2.014  pkg:cpan/App-Easer@2.014
-App::Easer::V2::Command            2.014  pkg:cpan/App-Easer@2.014
-App::Easer::V2::Command::Commands  2.014  pkg:cpan/App-Easer@2.014
-App::Easer::V2::Command::Help      2.014  pkg:cpan/App-Easer@2.014
-App::Easer::V2::Command::Tree      2.014  pkg:cpan/App-Easer@2.014
+App::Easer                         2.016  pkg:cpan/App-Easer@2.016
+App::Easer::ConfigHash             2.016  pkg:cpan/App-Easer@2.016
+App::Easer::V1                     2.016  pkg:cpan/App-Easer@2.016
+App::Easer::V2                     2.016  pkg:cpan/App-Easer@2.016
+App::Easer::V2::Command            2.016  pkg:cpan/App-Easer@2.016
+App::Easer::V2::Command::Commands  2.016  pkg:cpan/App-Easer@2.016
+App::Easer::V2::Command::Help      2.016  pkg:cpan/App-Easer@2.016
+App::Easer::V2::Command::Tree      2.016  pkg:cpan/App-Easer@2.016
 App::EbookUtils                    0.003  pkg:cpan/App-EbookUtils@0.003
 App::Edge                           0.03  pkg:cpan/App-Edge@0.03
 App::EditorTools                    1.00  pkg:cpan/App-EditorTools@1.00
@@ -57704,23 +57704,23 @@ Data::BitStream::Vec                0.08  pkg:cpan/Data-BitStream@0.08
 Data::BitStream::WordVec            0.08  pkg:cpan/Data-BitStream@0.08
 Data::BitStream::XS                 0.08  pkg:cpan/Data-BitStream-XS@0.08
 Data::Bitfield                      0.04  pkg:cpan/Data-Bitfield@0.04
-Data::BloomFilter::Shared           0.04  pkg:cpan/Data-BloomFilter-Shared@0.04
+Data::BloomFilter::Shared           0.05  pkg:cpan/Data-BloomFilter-Shared@0.05
 Data::Bool                         2.98014  pkg:cpan/Data-Bool@2.98014
 Data::Bool::Impl                   2.98014  pkg:cpan/Data-Bool@2.98014
 Data::Bucketeer                    0.006  pkg:cpan/Data-Bucketeer@0.006
 Data::Buffer                        0.06  pkg:cpan/Data-Buffer@0.06
-Data::Buffer::Shared                0.06  pkg:cpan/Data-Buffer-Shared@0.06
-Data::Buffer::Shared::F32           0.06  pkg:cpan/Data-Buffer-Shared@0.06
-Data::Buffer::Shared::F64           0.06  pkg:cpan/Data-Buffer-Shared@0.06
-Data::Buffer::Shared::I16           0.06  pkg:cpan/Data-Buffer-Shared@0.06
-Data::Buffer::Shared::I32           0.06  pkg:cpan/Data-Buffer-Shared@0.06
-Data::Buffer::Shared::I64           0.06  pkg:cpan/Data-Buffer-Shared@0.06
-Data::Buffer::Shared::I8            0.06  pkg:cpan/Data-Buffer-Shared@0.06
-Data::Buffer::Shared::Str           0.06  pkg:cpan/Data-Buffer-Shared@0.06
-Data::Buffer::Shared::U16           0.06  pkg:cpan/Data-Buffer-Shared@0.06
-Data::Buffer::Shared::U32           0.06  pkg:cpan/Data-Buffer-Shared@0.06
-Data::Buffer::Shared::U64           0.06  pkg:cpan/Data-Buffer-Shared@0.06
-Data::Buffer::Shared::U8            0.06  pkg:cpan/Data-Buffer-Shared@0.06
+Data::Buffer::Shared                0.07  pkg:cpan/Data-Buffer-Shared@0.07
+Data::Buffer::Shared::F32           0.07  pkg:cpan/Data-Buffer-Shared@0.07
+Data::Buffer::Shared::F64           0.07  pkg:cpan/Data-Buffer-Shared@0.07
+Data::Buffer::Shared::I16           0.07  pkg:cpan/Data-Buffer-Shared@0.07
+Data::Buffer::Shared::I32           0.07  pkg:cpan/Data-Buffer-Shared@0.07
+Data::Buffer::Shared::I64           0.07  pkg:cpan/Data-Buffer-Shared@0.07
+Data::Buffer::Shared::I8            0.07  pkg:cpan/Data-Buffer-Shared@0.07
+Data::Buffer::Shared::Str           0.07  pkg:cpan/Data-Buffer-Shared@0.07
+Data::Buffer::Shared::U16           0.07  pkg:cpan/Data-Buffer-Shared@0.07
+Data::Buffer::Shared::U32           0.07  pkg:cpan/Data-Buffer-Shared@0.07
+Data::Buffer::Shared::U64           0.07  pkg:cpan/Data-Buffer-Shared@0.07
+Data::Buffer::Shared::U8            0.07  pkg:cpan/Data-Buffer-Shared@0.07
 Data::Bvec                          1.01  pkg:cpan/Data-Bvec@1.01
 Data::BytesLocker                  v1.0.8.0  pkg:cpan/Crypt-NaCl-Sodium@1.0.8.0
 Data::CEFACT::Unit                  0.01  pkg:cpan/Data-CEFACT-Unit@0.01
@@ -58019,8 +58019,8 @@ Data::CouchDB::Connection           0.14  pkg:cpan/Data-CouchDB@0.14
 Data::CouchDB::Exceptions           0.14  pkg:cpan/Data-CouchDB@0.14
 Data::CouchDB::Handler              0.14  pkg:cpan/Data-CouchDB@0.14
 Data::CouchDB::Role::VersionedData  0.14  pkg:cpan/Data-CouchDB@0.14
-Data::CountMinSketch::Shared        0.03  pkg:cpan/Data-CountMinSketch-Shared@0.03
-Data::CountingBloomFilter::Shared   0.01  pkg:cpan/Data-CountingBloomFilter-Shared@0.01
+Data::CountMinSketch::Shared        0.04  pkg:cpan/Data-CountMinSketch-Shared@0.04
+Data::CountingBloomFilter::Shared   0.02  pkg:cpan/Data-CountingBloomFilter-Shared@0.02
 Data::Couplet                      0.02004314  pkg:cpan/Data-Couplet@0.02004314
 Data::Couplet::Extension           0.02004314  pkg:cpan/Data-Couplet@0.02004314
 Data::Couplet::Plugin::BasicReorder 0.02004314  pkg:cpan/Data-Couplet@0.02004314
@@ -58035,10 +58035,10 @@ Data::Crumbr::Default::JSON        0.001002  pkg:cpan/Data-Crumbr@0.1.2
 Data::Crumbr::Default::URI         0.001002  pkg:cpan/Data-Crumbr@0.1.2
 Data::Crumbr::Util                 0.001002  pkg:cpan/Data-Crumbr@0.1.2
 Data::Cube                          0.02  pkg:cpan/Data-Cube@0.02
-Data::CuckooFilter::Shared          0.03  pkg:cpan/Data-CuckooFilter-Shared@0.03
+Data::CuckooFilter::Shared          0.04  pkg:cpan/Data-CuckooFilter-Shared@0.04
 Data::Cuid                          0.07  pkg:cpan/Data-Cuid@0.07
 Data::Currency                     0.06000  pkg:cpan/Data-Currency@0.06000
-Data::DDSketch::Shared              0.01  pkg:cpan/Data-DDSketch-Shared@0.01
+Data::DDSketch::Shared              0.02  pkg:cpan/Data-DDSketch-Shared@0.02
 Data::DEC                           0.03  pkg:cpan/Data-DEC@0.03
 Data::DEC::Declaration             undef  pkg:cpan/Data-DEC@0.03
 Data::DFA                          20201031  pkg:cpan/Data-DFA@20201031
@@ -205904,7 +205904,7 @@ RT::Action::NotifyAtTicketLevelAsComment undef  pkg:cpan/RT-Extension-NotifyBase
 RT::Action::NotifyGroup             0.02  pkg:cpan/RT-Action-NotifyGroup@0.02
 RT::Action::NotifyGroupAsComment    0.01  pkg:cpan/RT-Action-NotifyGroup@0.02
 RT::Action::NotifyOwners           undef  pkg:cpan/RT-Extension-NotifyOwners@0.02
-RT::Action::OwnerAwayReassign      undef  pkg:cpan/RT-Extension-AwayMode@0.03
+RT::Action::OwnerAwayReassign      undef  pkg:cpan/RT-Extension-AwayMode@0.04
 RT::Action::ParseACNS              undef  pkg:cpan/RT-Extension-ACNS@1.00
 RT::Action::PushoverNotify         undef  pkg:cpan/RT-Extension-PushoverNotify@0.01
 RT::Action::ReassignOwner          undef  pkg:cpan/RT-Extension-ReassignOwner@0.01
@@ -205981,7 +205981,7 @@ RT::Condition::NotStartedInBusinessHours   0.3  pkg:cpan/RT-Condition-NotStarted
 RT::Condition::OnAbandoned         undef  pkg:cpan/RT-Condition-OwnershipChanges@0.01
 RT::Condition::OnOwned             undef  pkg:cpan/RT-Condition-OwnershipChanges@0.01
 RT::Condition::Owner               undef  pkg:cpan/RT-Extension-NotifyBasedOnOwnership@0.01
-RT::Condition::OwnerAway           undef  pkg:cpan/RT-Extension-AwayMode@0.03
+RT::Condition::OwnerAway           undef  pkg:cpan/RT-Extension-AwayMode@0.04
 RT::Condition::OwnershipChanges     0.01  pkg:cpan/RT-Condition-OwnershipChanges@0.01
 RT::Condition::RequestorReply      undef  pkg:cpan/RT-Extension-HelpDesk@1.00
 RT::Condition::SLA                 undef  pkg:cpan/RT-Extension-SLA@1.04
@@ -206052,7 +206052,7 @@ RT::Extension::AutomaticAssignment::Filter::MemberOfRole undef  pkg:cpan/RT-Exte
 RT::Extension::AutomaticAssignment::Filter::UserDefined undef  pkg:cpan/RT-Extension-AutomaticAssignment@2.00
 RT::Extension::AutomaticAssignment::Filter::WorkSchedule undef  pkg:cpan/RT-Extension-AutomaticAssignment@2.00
 RT::Extension::AutomaticAssignment::Test undef  pkg:cpan/RT-Extension-AutomaticAssignment@2.00
-RT::Extension::AwayMode             0.03  pkg:cpan/RT-Extension-AwayMode@0.03
+RT::Extension::AwayMode             0.04  pkg:cpan/RT-Extension-AwayMode@0.04
 RT::Extension::BecomeUser           0.02  pkg:cpan/RT-Extension-BecomeUser@1.01
 RT::Extension::BooleanCustomField   0.05  pkg:cpan/RT-Extension-BooleanCustomField@0.05
 RT::Extension::BounceEmail          0.03  pkg:cpan/RT-Extension-BounceEmail@0.03
@@ -227156,8 +227156,8 @@ Sys::OsPackage::Driver::Arch       0.004000  pkg:cpan/Sys-OsPackage@0.4.0
 Sys::OsPackage::Driver::Debian     0.004000  pkg:cpan/Sys-OsPackage@0.4.0
 Sys::OsPackage::Driver::RPM        0.004000  pkg:cpan/Sys-OsPackage@0.4.0
 Sys::OsPackage::Driver::Suse       0.004000  pkg:cpan/Sys-OsPackage@0.4.0
-Sys::OsRelease                     0.004005  pkg:cpan/Sys-OsRelease@0.4.5
-Sys::OsRelease::Lite               undef  pkg:cpan/Sys-OsRelease-Lite@0.4.5%2Blite
+Sys::OsRelease                     0.004006  pkg:cpan/Sys-OsRelease@0.4.6
+Sys::OsRelease::Lite               undef  pkg:cpan/Sys-OsRelease-Lite@0.4.6%2Blite
 Sys::OutPut                        undef  pkg:cpan/Sys-OutPut@2.1
 Sys::PageCache                      0.07  pkg:cpan/Sys-PageCache@0.07
 Sys::Path                           0.16  pkg:cpan/Sys-Path@0.16
