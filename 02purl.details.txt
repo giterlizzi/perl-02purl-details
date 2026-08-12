@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 12 Aug 2026 03:59:35 GMT
+Last-Updated: Wed, 12 Aug 2026 05:40:14 GMT
 Line-Count: 267833
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -124255,7 +124255,7 @@ Lingua::JA::KanjiTable              0.15  pkg:cpan/Lingua-JA-KanjiTable@0.15
 Lingua::JA::MacJapanese             0.20  pkg:cpan/Lingua-JA-MacJapanese@0.20
 Lingua::JA::Mail                    0.03  pkg:cpan/Lingua-JA-Mail@0.03
 Lingua::JA::Mail::Header            0.02  pkg:cpan/Lingua-JA-Mail@0.03
-Lingua::JA::Moji                    0.62  pkg:cpan/Lingua-JA-Moji@0.62
+Lingua::JA::Moji                    0.63  pkg:cpan/Lingua-JA-Moji@0.63
 Lingua::JA::Name::Splitter          0.12  pkg:cpan/Lingua-JA-Name-Splitter@0.12
 Lingua::JA::NormalizeText           0.50  pkg:cpan/Lingua-JA-NormalizeText@0.50
 Lingua::JA::Number                  0.01  pkg:cpan/Lingua-JA-Number@0.01
