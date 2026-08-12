@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 12 Aug 2026 20:35:33 GMT
+Last-Updated: Wed, 12 Aug 2026 22:32:46 GMT
 Line-Count: 267847
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -104312,42 +104312,42 @@ Google::Api::Usage                  0.11  pkg:cpan/Google-Api-Common@0.03
 Google::Api::Usage::Types          undef  pkg:cpan/Google-Api-Common@0.03
 Google::Api::Visibility             0.11  pkg:cpan/Google-Api-Common@0.03
 Google::Api::Visibility::Types     undef  pkg:cpan/Google-Api-Common@0.03
-Google::Auth                        0.11  pkg:cpan/Google-Auth@0.11
-Google::Auth::ClientId             undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::CloudSDK             undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::ComputeEngine        undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::Credentials          undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::DefaultCredentials   undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::DefaultCredentialsError undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::EnvironmentVars      undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::Error                undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::Exceptions           undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::ExternalAccountCredentials undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::ExternalAccountCredentials::Aws undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::ExternalAccountCredentials::Pluggable undef  pkg:cpan/Google-Auth@0.11
+Google::Auth                        0.12  pkg:cpan/Google-Auth@0.12
+Google::Auth::ClientId             undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::CloudSDK             undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::ComputeEngine        undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::Credentials          undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::DefaultCredentials   undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::DefaultCredentialsError undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::EnvironmentVars      undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::Error                undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::Exceptions           undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::ExternalAccountCredentials undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::ExternalAccountCredentials::Aws undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::ExternalAccountCredentials::Pluggable undef  pkg:cpan/Google-Auth@0.12
 Google::Auth::IAMCredentials       undef  pkg:cpan/Google-Auth@0.10
-Google::Auth::IDTokens             undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::IDTokens::AggregateKeySource undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::IDTokens::HttpKeySource undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::IDTokens::JwkHttpKeySource undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::IDTokens::KeyInfo    undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::IDTokens::KeySources undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::IDTokens::StaticKeySource undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::IDTokens::Verifier   undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::IDTokens::X509CertHttpKeySource undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::ImpersonatedServiceAccountCredentials undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::RefreshError         undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::RetryHelper          undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::ServiceAccountCredentials undef  pkg:cpan/Google-Auth@0.11
+Google::Auth::IDTokens             undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::IDTokens::AggregateKeySource undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::IDTokens::HttpKeySource undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::IDTokens::JwkHttpKeySource undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::IDTokens::KeyInfo    undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::IDTokens::KeySources undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::IDTokens::StaticKeySource undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::IDTokens::Verifier   undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::IDTokens::X509CertHttpKeySource undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::ImpersonatedServiceAccountCredentials undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::RefreshError         undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::RetryHelper          undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::ServiceAccountCredentials undef  pkg:cpan/Google-Auth@0.12
 Google::Auth::Signet               undef  pkg:cpan/Google-Auth@0.10
 Google::Auth::Signet::OAuth2       undef  pkg:cpan/Google-Auth@0.10
-Google::Auth::Stores::FileTokenStore undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::Stores::TokenStore   undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::TransportError       undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::UserAuthorizer       undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::UserRefreshCredentials undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::WebUserAuthorizer    undef  pkg:cpan/Google-Auth@0.11
-Google::Auth::WebUserAuthorizer::CallbackApp undef  pkg:cpan/Google-Auth@0.11
+Google::Auth::Stores::FileTokenStore undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::Stores::TokenStore   undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::TransportError       undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::UserAuthorizer       undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::UserRefreshCredentials undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::WebUserAuthorizer    undef  pkg:cpan/Google-Auth@0.12
+Google::Auth::WebUserAuthorizer::CallbackApp undef  pkg:cpan/Google-Auth@0.12
 Google::BUCC                       undef  pkg:cpan/Google-OAuth@0.05
 Google::BigQuery                    1.02  pkg:cpan/Google-BigQuery@1.02
 Google::BigQuery::V2               undef  pkg:cpan/Google-BigQuery@1.02
@@ -196965,7 +196965,7 @@ Perl::Critic::Policy::Plicease::ProhibitLeadingZeros  0.10  pkg:cpan/Perl-Critic
 Perl::Critic::Policy::Plicease::ProhibitSignaturesAndAtUnderscore  0.10  pkg:cpan/Perl-Critic-Plicease@0.10
 Perl::Critic::Policy::Plicease::ProhibitSpecificModules  0.10  pkg:cpan/Perl-Critic-Plicease@0.10
 Perl::Critic::Policy::Plicease::ProhibitUnicodeDigitInRegexp  0.10  pkg:cpan/Perl-Critic-Plicease@0.10
-Perl::Critic::Policy::PreferredModules 0.004  pkg:cpan/Perl-Critic-Policy-PreferredModules@0.004
+Perl::Critic::Policy::PreferredModules 0.005  pkg:cpan/Perl-Critic-Policy-PreferredModules@0.005
 Perl::Critic::Policy::ProhibitImplicitImport 0.000001  pkg:cpan/Perl-Critic-Policy-ProhibitImplicitImport@0.000001
 Perl::Critic::Policy::ProhibitOrReturn  0.02  pkg:cpan/Perl-Critic-Policy-ProhibitOrReturn@0.02
 Perl::Critic::Policy::ProhibitSmartmatch   0.4  pkg:cpan/Perl-Critic-Policy-ProhibitSmartmatch@0.4
