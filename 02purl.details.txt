@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 12 Aug 2026 07:13:23 GMT
-Line-Count: 267833
+Last-Updated: Wed, 12 Aug 2026 09:04:52 GMT
+Line-Count: 267835
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -48469,19 +48469,21 @@ Context::Set::Storage::DBIC            0  pkg:cpan/Context-Set@0.02
 Context::Set::Storage::Split           0  pkg:cpan/Context-Set@0.02
 Context::Set::Storage::Split::Rule     0  pkg:cpan/Context-Set@0.02
 Context::Set::Union                    0  pkg:cpan/Context-Set@0.02
-Context::Singleton                 v1.0.5  pkg:cpan/Context-Singleton@1.0.5
-Context::Singleton::Exception::Deduced v1.0.5  pkg:cpan/Context-Singleton@1.0.5
-Context::Singleton::Exception::Invalid v1.0.5  pkg:cpan/Context-Singleton@1.0.5
-Context::Singleton::Exception::Nondeducible v1.0.5  pkg:cpan/Context-Singleton@1.0.5
-Context::Singleton::Frame          v1.0.5  pkg:cpan/Context-Singleton@1.0.5
-Context::Singleton::Frame::Builder::Array v1.0.5  pkg:cpan/Context-Singleton@1.0.5
-Context::Singleton::Frame::Builder::Base v1.0.5  pkg:cpan/Context-Singleton@1.0.5
-Context::Singleton::Frame::Builder::Hash v1.0.5  pkg:cpan/Context-Singleton@1.0.5
-Context::Singleton::Frame::Builder::Value v1.0.5  pkg:cpan/Context-Singleton@1.0.5
-Context::Singleton::Frame::DB      v1.0.5  pkg:cpan/Context-Singleton@1.0.5
-Context::Singleton::Frame::Promise v1.0.5  pkg:cpan/Context-Singleton@1.0.5
-Context::Singleton::Frame::Promise::Builder v1.0.5  pkg:cpan/Context-Singleton@1.0.5
-Context::Singleton::Frame::Promise::Rule v1.0.5  pkg:cpan/Context-Singleton@1.0.5
+Context::Singleton                 v1.0.7  pkg:cpan/Context-Singleton@1.0.7
+Context::Singleton::Exception::Deduced v1.0.7  pkg:cpan/Context-Singleton@1.0.7
+Context::Singleton::Exception::Invalid v1.0.7  pkg:cpan/Context-Singleton@1.0.7
+Context::Singleton::Exception::Nondeducible v1.0.7  pkg:cpan/Context-Singleton@1.0.7
+Context::Singleton::Frame          v1.0.7  pkg:cpan/Context-Singleton@1.0.7
+Context::Singleton::Frame::Builder::Array v1.0.7  pkg:cpan/Context-Singleton@1.0.7
+Context::Singleton::Frame::Builder::Base v1.0.7  pkg:cpan/Context-Singleton@1.0.7
+Context::Singleton::Frame::Builder::Hash v1.0.7  pkg:cpan/Context-Singleton@1.0.7
+Context::Singleton::Frame::Builder::Value v1.0.7  pkg:cpan/Context-Singleton@1.0.7
+Context::Singleton::Frame::DB      v1.0.7  pkg:cpan/Context-Singleton@1.0.7
+Context::Singleton::Frame::Deducer v1.0.7  pkg:cpan/Context-Singleton@1.0.7
+Context::Singleton::Frame::Deducer::Notifying v1.0.7  pkg:cpan/Context-Singleton@1.0.7
+Context::Singleton::Frame::Promise v1.0.7  pkg:cpan/Context-Singleton@1.0.7
+Context::Singleton::Frame::Promise::Builder v1.0.7  pkg:cpan/Context-Singleton@1.0.7
+Context::Singleton::Frame::Promise::Rule v1.0.7  pkg:cpan/Context-Singleton@1.0.7
 Context::Singleton::Frame::Result  v1.0.5  pkg:cpan/Context-Singleton@1.0.5
 Contextual::Call                    0.01  pkg:cpan/Contextual-Call@0.01
 Contextual::Diag                    0.04  pkg:cpan/Contextual-Diag@0.04
@@ -238127,13 +238129,13 @@ Travel::Status::DE::URA::Result     2.01  pkg:cpan/Travel-Status-DE-URA@2.01
 Travel::Status::DE::URA::Stop       2.01  pkg:cpan/Travel-Status-DE-URA@2.01
 Travel::Status::DE::VRR             3.20  pkg:cpan/Travel-Status-DE-VRR@3.20
 Travel::Status::GB::TFL             2.01  pkg:cpan/Travel-Status-DE-URA@2.01
-Travel::Status::MOTIS               0.03  pkg:cpan/Travel-Status-MOTIS@0.03
-Travel::Status::MOTIS::Polyline     0.03  pkg:cpan/Travel-Status-MOTIS@0.03
-Travel::Status::MOTIS::Services     0.03  pkg:cpan/Travel-Status-MOTIS@0.03
-Travel::Status::MOTIS::Stop         0.03  pkg:cpan/Travel-Status-MOTIS@0.03
-Travel::Status::MOTIS::Stopover     0.03  pkg:cpan/Travel-Status-MOTIS@0.03
-Travel::Status::MOTIS::Trip         0.03  pkg:cpan/Travel-Status-MOTIS@0.03
-Travel::Status::MOTIS::TripAtStopover  0.03  pkg:cpan/Travel-Status-MOTIS@0.03
+Travel::Status::MOTIS               0.04  pkg:cpan/Travel-Status-MOTIS@0.04
+Travel::Status::MOTIS::Polyline     0.04  pkg:cpan/Travel-Status-MOTIS@0.04
+Travel::Status::MOTIS::Services     0.04  pkg:cpan/Travel-Status-MOTIS@0.04
+Travel::Status::MOTIS::Stop         0.04  pkg:cpan/Travel-Status-MOTIS@0.04
+Travel::Status::MOTIS::Stopover     0.04  pkg:cpan/Travel-Status-MOTIS@0.04
+Travel::Status::MOTIS::Trip         0.04  pkg:cpan/Travel-Status-MOTIS@0.04
+Travel::Status::MOTIS::TripAtStopover  0.04  pkg:cpan/Travel-Status-MOTIS@0.04
 Traveller::Hex                     undef  pkg:cpan/App-traveller@1.02
 Traveller::Mapper                  undef  pkg:cpan/App-traveller@1.02
 Traveller::Mapper::Classic         undef  pkg:cpan/App-traveller@1.02
