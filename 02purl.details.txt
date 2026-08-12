@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 12 Aug 2026 12:52:42 GMT
+Last-Updated: Wed, 12 Aug 2026 14:50:47 GMT
 Line-Count: 267836
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -60739,7 +60739,7 @@ Data::RingBuffer::Shared            0.06  pkg:cpan/Data-RingBuffer-Shared@0.06
 Data::RingBuffer::Time              0.02  pkg:cpan/Data-RingBuffer-Time@0.02
 Data::Rlist                         1.44  pkg:cpan/Data-Rlist@1.44
 Data::Rmap                          0.65  pkg:cpan/Data-Rmap@0.65
-Data::RoaringBitmap::Shared         0.03  pkg:cpan/Data-RoaringBitmap-Shared@0.03
+Data::RoaringBitmap::Shared         0.04  pkg:cpan/Data-RoaringBitmap-Shared@0.04
 Data::RoundRobin                    0.03  pkg:cpan/Data-RoundRobin@0.03
 Data::RoundRobinShared              0.11  pkg:cpan/Data-RoundRobinShared@0.11
 Data::Roundtrip                     0.31  pkg:cpan/Data-Roundtrip@0.31
@@ -61304,7 +61304,7 @@ Data::Section::Seekable::Writer    0.092  pkg:cpan/Data-Section-Seekable@0.092
 Data::Section::Simple               0.07  pkg:cpan/Data-Section-Simple@0.07
 Data::Section::TestBase             0.13  pkg:cpan/Text-TestBase@0.13
 Data::Section::Writer               0.05  pkg:cpan/Data-Section-Writer@0.05
-Data::SegmentTree::Shared           0.03  pkg:cpan/Data-SegmentTree-Shared@0.03
+Data::SegmentTree::Shared           0.04  pkg:cpan/Data-SegmentTree-Shared@0.04
 Data::Selector                      1.02  pkg:cpan/Data-Selector@1.02
 Data::Semantic                     1.101620  pkg:cpan/Data-Semantic@1.101620
 Data::Semantic::Net                1.101760  pkg:cpan/Data-Semantic-Net@1.101760
@@ -61429,14 +61429,14 @@ Data::Sofu::Reference                0.3  pkg:cpan/Sofu@0.3
 Data::Sofu::SofuML                   0.3  pkg:cpan/Sofu@0.3
 Data::Sofu::Undefined                0.3  pkg:cpan/Sofu@0.3
 Data::Sofu::Value                    0.3  pkg:cpan/Sofu@0.3
-Data::SortedSet::Shared             0.04  pkg:cpan/Data-SortedSet-Shared@0.04
-Data::SortedSet::Shared::Strings    0.04  pkg:cpan/Data-SortedSet-Shared@0.04
+Data::SortedSet::Shared             0.05  pkg:cpan/Data-SortedSet-Shared@0.05
+Data::SortedSet::Shared::Strings    0.05  pkg:cpan/Data-SortedSet-Shared@0.05
 Data::Sorting                        0.9  pkg:cpan/Data-Sorting@0.9
-Data::SpatialHash::Shared           0.03  pkg:cpan/Data-SpatialHash-Shared@0.03
+Data::SpatialHash::Shared           0.04  pkg:cpan/Data-SpatialHash-Shared@0.04
 Data::SplitSerializer               0.91  pkg:cpan/Data-SplitSerializer@0.91
 Data::SpreadPagination             0.001002  pkg:cpan/Data-SpreadPagination@0.1.2
 Data::Stack                         0.01  pkg:cpan/Data-Stack@0.01
-Data::Stack::Shared                 0.07  pkg:cpan/Data-Stack-Shared@0.07
+Data::Stack::Shared                 0.08  pkg:cpan/Data-Stack-Shared@0.08
 Data::StackedHash                   0.99  pkg:cpan/Data-StackedHash@0.99
 Data::StackedMap                    0.03  pkg:cpan/Data-StackedMap@0.03
 Data::Stacker                       1.03  pkg:cpan/Data-Stacker@1.03
@@ -61513,15 +61513,15 @@ Data::Structure::Util               0.16  pkg:cpan/Data-Structure-Util@0.16
 Data::Swap                          0.08  pkg:cpan/Data-Swap@0.08
 Data::Sync                          0.08  pkg:cpan/Data-Sync@0.08
 Data::Sync::Advanced               undef  pkg:cpan/Data-Sync@0.08
-Data::Sync::Shared                  0.07  pkg:cpan/Data-Sync-Shared@0.07
-Data::Sync::Shared::Barrier         0.07  pkg:cpan/Data-Sync-Shared@0.07
-Data::Sync::Shared::Condvar         0.07  pkg:cpan/Data-Sync-Shared@0.07
-Data::Sync::Shared::Condvar::Guard  0.07  pkg:cpan/Data-Sync-Shared@0.07
-Data::Sync::Shared::Once            0.07  pkg:cpan/Data-Sync-Shared@0.07
-Data::Sync::Shared::RWLock          0.07  pkg:cpan/Data-Sync-Shared@0.07
-Data::Sync::Shared::RWLock::Guard   0.07  pkg:cpan/Data-Sync-Shared@0.07
-Data::Sync::Shared::Semaphore       0.07  pkg:cpan/Data-Sync-Shared@0.07
-Data::Sync::Shared::Semaphore::Guard  0.07  pkg:cpan/Data-Sync-Shared@0.07
+Data::Sync::Shared                  0.08  pkg:cpan/Data-Sync-Shared@0.08
+Data::Sync::Shared::Barrier         0.08  pkg:cpan/Data-Sync-Shared@0.08
+Data::Sync::Shared::Condvar         0.08  pkg:cpan/Data-Sync-Shared@0.08
+Data::Sync::Shared::Condvar::Guard  0.08  pkg:cpan/Data-Sync-Shared@0.08
+Data::Sync::Shared::Once            0.08  pkg:cpan/Data-Sync-Shared@0.08
+Data::Sync::Shared::RWLock          0.08  pkg:cpan/Data-Sync-Shared@0.08
+Data::Sync::Shared::RWLock::Guard   0.08  pkg:cpan/Data-Sync-Shared@0.08
+Data::Sync::Shared::Semaphore       0.08  pkg:cpan/Data-Sync-Shared@0.08
+Data::Sync::Shared::Semaphore::Guard  0.08  pkg:cpan/Data-Sync-Shared@0.08
 Data::TDMA                         undef  pkg:cpan/Data-TDMA@0.2
 Data::TDMA::Constants              undef  pkg:cpan/Data-TDMA@0.2
 Data::TDMA::Day                    undef  pkg:cpan/Data-TDMA@0.2
@@ -61639,7 +61639,7 @@ Data::Timeline::Entry              1.100860  pkg:cpan/Data-Timeline@1.100860
 Data::Timeline::Formatter          1.100860  pkg:cpan/Data-Timeline@1.100860
 Data::Timeline::Formatter::HTML    1.100860  pkg:cpan/Data-Timeline@1.100860
 Data::Timeline::Formatter::SimpleTable 1.100860  pkg:cpan/Data-Timeline@1.100860
-Data::TimingWheel::Shared           0.01  pkg:cpan/Data-TimingWheel-Shared@0.01
+Data::TimingWheel::Shared           0.02  pkg:cpan/Data-TimingWheel-Shared@0.02
 Data::Token                        0.000003  pkg:cpan/Data-Token@v0.0.3
 Data::Toolkit                        1.1  pkg:cpan/Data-Toolkit@1.1
 Data::Toolkit::Connector             1.0  pkg:cpan/Data-Toolkit@1.1
@@ -61656,7 +61656,7 @@ Data::Tools::Serialization          1.50  pkg:cpan/Data-Tools@1.50
 Data::Tools::Socket                 1.50  pkg:cpan/Data-Tools@1.50
 Data::Tools::Socket::Protocols      1.50  pkg:cpan/Data-Tools@1.50
 Data::Tools::Time                   1.50  pkg:cpan/Data-Tools@1.50
-Data::TopK::Shared                  0.03  pkg:cpan/Data-TopK-Shared@0.03
+Data::TopK::Shared                  0.04  pkg:cpan/Data-TopK-Shared@0.04
 Data::ToruCa                        0.06  pkg:cpan/Data-ToruCa@0.06
 Data::Trace                         1.06  pkg:cpan/Data-Trace@1.06
 Data::Tranco                       undef  pkg:cpan/Data-Tranco@0.003
@@ -112393,13 +112393,13 @@ Hyper::Developer::Model::Viewer    0.100  pkg:cpan/Hyper-Developer@0.07
 Hyper::Developer::Server           undef  pkg:cpan/Hyper-Developer@0.07
 HyperWave::CSP                     0.003001  pkg:cpan/HyperWave-CSP@0.03.1
 HyperWave::CSP::Message            undef  pkg:cpan/HyperWave-CSP@0.03.1
-Hyperman                            0.16  pkg:cpan/Hyperman@0.16
-Hyperman::Event::Epoll              0.16  pkg:cpan/Hyperman@0.16
-Hyperman::Event::IOUring            0.16  pkg:cpan/Hyperman@0.16
-Hyperman::Event::Kqueue             0.16  pkg:cpan/Hyperman@0.16
-Hyperman::Event::Poll               0.16  pkg:cpan/Hyperman@0.16
-Hyperman::Future                    0.16  pkg:cpan/Hyperman@0.16
-Hyperman::Loop                      0.16  pkg:cpan/Hyperman@0.16
+Hyperman                            0.17  pkg:cpan/Hyperman@0.17
+Hyperman::Event::Epoll              0.17  pkg:cpan/Hyperman@0.17
+Hyperman::Event::IOUring            0.17  pkg:cpan/Hyperman@0.17
+Hyperman::Event::Kqueue             0.17  pkg:cpan/Hyperman@0.17
+Hyperman::Event::Poll               0.17  pkg:cpan/Hyperman@0.17
+Hyperman::Future                    0.17  pkg:cpan/Hyperman@0.17
+Hyperman::Loop                      0.17  pkg:cpan/Hyperman@0.17
 Hyperscan                           0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Database                 0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Matcher                  0.04  pkg:cpan/Hyperscan@0.04
@@ -117206,8 +117206,8 @@ JSON::Schema::AsType::Type         v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
 JSON::Schema::AsType::Visit        v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
 JSON::Schema::Draft201909          0.130  pkg:cpan/JSON-Schema-Draft201909@0.130
 JSON::Schema::Error                0.016  pkg:cpan/JSON-Schema@0.016
-JSON::Schema::Fast                  0.06  pkg:cpan/JSON-Schema-Fast@0.06
-JSON::Schema::Fast::Compiled        0.06  pkg:cpan/JSON-Schema-Fast@0.06
+JSON::Schema::Fast                  0.07  pkg:cpan/JSON-Schema-Fast@0.07
+JSON::Schema::Fast::Compiled        0.07  pkg:cpan/JSON-Schema-Fast@0.07
 JSON::Schema::Fit                   0.07  pkg:cpan/JSON-Schema-Fit@0.07
 JSON::Schema::Generate              0.15  pkg:cpan/JSON-Schema-Generate@0.15
 JSON::Schema::Helper               0.016  pkg:cpan/JSON-Schema@0.016
@@ -158457,10 +158457,10 @@ Onyphe::Api                        undef  pkg:cpan/Onyphe@4.18
 Oogaboogo::Date                     0.01  pkg:cpan/Oogaboogo-Date@0.01
 Opcode                              1.71  pkg:cpan/perl@5.44.0
 Opcodes                             0.16  pkg:cpan/Opcodes@0.16
-Open::API                           0.08  pkg:cpan/Open-API@0.08
-Open::API::Client                   0.08  pkg:cpan/Open-API@0.08
-Open::API::Plack                    0.08  pkg:cpan/Open-API@0.08
-Open::API::UI                       0.08  pkg:cpan/Open-API@0.08
+Open::API                           0.09  pkg:cpan/Open-API@0.09
+Open::API::Client                   0.09  pkg:cpan/Open-API@0.09
+Open::API::Plack                    0.09  pkg:cpan/Open-API@0.09
+Open::API::UI                       0.09  pkg:cpan/Open-API@0.09
 Open::This                         0.000035  pkg:cpan/Open-This@0.000035
 OpenAI::API                         0.37  pkg:cpan/OpenAI-API@0.37
 OpenAI::API::Config                undef  pkg:cpan/OpenAI-API@0.37
@@ -199201,7 +199201,7 @@ Plack::Handler::H2::Writer         undef  pkg:cpan/Plack-Handler-H2@0.0.5
 Plack::Handler::HTTP::Server::PSGI undef  pkg:cpan/Plack@1.0054
 Plack::Handler::HTTP::Server::Simple  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
 Plack::Handler::HTTP::Server::Simple::PSGIServer  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
-Plack::Handler::Hyperman            0.16  pkg:cpan/Hyperman@0.16
+Plack::Handler::Hyperman            0.17  pkg:cpan/Hyperman@0.17
 Plack::Handler::Martian             0.08  pkg:cpan/Martian@0.08
 Plack::Handler::Message::Passing   undef  pkg:cpan/Message-Passing-PSGI@0.001
 Plack::Handler::Monoceros          undef  pkg:cpan/Monoceros@0.29
