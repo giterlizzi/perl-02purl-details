@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 13 Aug 2026 18:52:45 GMT
-Line-Count: 267953
+Last-Updated: Thu, 13 Aug 2026 20:34:00 GMT
+Line-Count: 267955
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -124178,6 +124178,8 @@ Lingua::GLE::Num2Word              0.2603300  pkg:cpan/Lingua-GLE-Num2Word@0.260
 Lingua::GLE::Word2Num              0.2603300  pkg:cpan/Lingua-GLE-Word2Num@0.2603300
 Lingua::GLG::Num2Word              0.2603300  pkg:cpan/Lingua-GLG-Num2Word@0.2603300
 Lingua::GLG::Word2Num              0.2603300  pkg:cpan/Lingua-GLG-Word2Num@0.2603300
+Lingua::Generic::Interface         v0.1.0  pkg:cpan/Lingua-Generic-Interface@v0.01
+Lingua::Generic::Interface::Word   v0.1.0  pkg:cpan/Lingua-Generic-Interface@v0.01
 Lingua::Guess                       0.03  pkg:cpan/Lingua-Guess@0.03
 Lingua::HE::MacHebrew               0.20  pkg:cpan/Lingua-HE-MacHebrew@0.20
 Lingua::HE::Sentence                0.13  pkg:cpan/Lingua-HE-Sentence@0.13
