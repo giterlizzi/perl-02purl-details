@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 13 Aug 2026 09:04:42 GMT
+Last-Updated: Thu, 13 Aug 2026 10:55:34 GMT
 Line-Count: 267949
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -2474,11 +2474,11 @@ Acme::CramCode                      0.01  pkg:cpan/Acme-CramCode@0.01
 Acme::Crap                         0.001003  pkg:cpan/Acme-Crap@0.001003
 Acme::Crap::Negated                0.001003  pkg:cpan/Acme-Crap@0.001003
 Acme::CreatingCPANModules           0.01  pkg:cpan/Acme-CreatingCPANModules@0.01
-Acme::Crux                         undef  pkg:cpan/Acrux@0.12
-Acme::Crux::Plugin                 undef  pkg:cpan/Acrux@0.12
-Acme::Crux::Plugin::Config         undef  pkg:cpan/Acrux@0.12
-Acme::Crux::Plugin::Log            undef  pkg:cpan/Acrux@0.12
-Acme::Crux::Sandbox                undef  pkg:cpan/Acrux@0.12
+Acme::Crux                         undef  pkg:cpan/Acrux@0.13
+Acme::Crux::Plugin                 undef  pkg:cpan/Acrux@0.13
+Acme::Crux::Plugin::Config         undef  pkg:cpan/Acrux@0.13
+Acme::Crux::Plugin::Log            undef  pkg:cpan/Acrux@0.13
+Acme::Crux::Sandbox                undef  pkg:cpan/Acrux@0.13
 Acme::Currency                      3.01  pkg:cpan/Acme-Currency@3.01
 Acme::Current::Forever              1.00  pkg:cpan/Acme-Current-Forever@1.00
 Acme::Curse                        undef  pkg:cpan/Acme-Curse@0.0.1
@@ -3706,23 +3706,23 @@ Acpi::Class::Devices               0.003  pkg:cpan/Acpi-Class@0.003
 Acpi::Fan                            0.1  pkg:cpan/Acpi@0.1
 Acpi::Field                          0.1  pkg:cpan/Acpi@0.1
 Acpi::Temperature                    0.1  pkg:cpan/Acpi@0.1
-Acrux                               0.12  pkg:cpan/Acrux@0.12
-Acrux::Config                      undef  pkg:cpan/Acrux@0.12
-Acrux::Const                       undef  pkg:cpan/Acrux@0.12
+Acrux                               0.13  pkg:cpan/Acrux@0.13
+Acrux::Config                      undef  pkg:cpan/Acrux@0.13
+Acrux::Const                       undef  pkg:cpan/Acrux@0.13
 Acrux::DBI                          0.04  pkg:cpan/Acrux-DBI@0.04
 Acrux::DBI::Dump                    0.01  pkg:cpan/Acrux-DBI@0.03
 Acrux::DBI::Res                     0.02  pkg:cpan/Acrux-DBI@0.03
 Acrux::DBI::Tx                      0.01  pkg:cpan/Acrux-DBI@0.03
-Acrux::Digest                      undef  pkg:cpan/Acrux@0.12
-Acrux::Digest::Damm                undef  pkg:cpan/Acrux@0.12
-Acrux::Digest::FNV32a              undef  pkg:cpan/Acrux@0.12
-Acrux::Digest::M11R                undef  pkg:cpan/Acrux@0.12
-Acrux::FileLock                    undef  pkg:cpan/Acrux@0.12
-Acrux::FilePid                     undef  pkg:cpan/Acrux@0.12
-Acrux::Log                         undef  pkg:cpan/Acrux@0.12
-Acrux::Pointer                     undef  pkg:cpan/Acrux@0.12
-Acrux::RefUtil                     undef  pkg:cpan/Acrux@0.12
-Acrux::Util                        undef  pkg:cpan/Acrux@0.12
+Acrux::Digest                      undef  pkg:cpan/Acrux@0.13
+Acrux::Digest::Damm                undef  pkg:cpan/Acrux@0.13
+Acrux::Digest::FNV32a              undef  pkg:cpan/Acrux@0.13
+Acrux::Digest::M11R                undef  pkg:cpan/Acrux@0.13
+Acrux::FileLock                    undef  pkg:cpan/Acrux@0.13
+Acrux::FilePid                     undef  pkg:cpan/Acrux@0.13
+Acrux::Log                         undef  pkg:cpan/Acrux@0.13
+Acrux::Pointer                     undef  pkg:cpan/Acrux@0.13
+Acrux::RefUtil                     undef  pkg:cpan/Acrux@0.13
+Acrux::Util                        undef  pkg:cpan/Acrux@0.13
 Action::CircuitBreaker               0.1  pkg:cpan/Action-CircuitBreaker@0.1
 Action::Retry                       0.24  pkg:cpan/Action-Retry@0.24
 Action::Retry::Strategy             0.24  pkg:cpan/Action-Retry@0.24
@@ -67123,7 +67123,7 @@ Dist::Milla                        1.000022  pkg:cpan/Dist-Milla@v1.0.22
 Dist::Milla::App                   1.000022  pkg:cpan/Dist-Milla@v1.0.22
 Dist::PolicyFiles                   0.09  pkg:cpan/Dist-PolicyFiles@0.09
 Dist::Setup                         0.17  pkg:cpan/Dist-Setup@0.17
-Dist::Starter                      v0.1.1  pkg:cpan/Dist-Starter@v0.1.1
+Dist::Starter                      v0.2.0  pkg:cpan/Dist-Starter@v0.2.0
 Dist::Starter::Context             v0.1.0  pkg:cpan/Dist-Starter@v0.1.0
 Dist::Starter::Exception           v0.1.0  pkg:cpan/Dist-Starter@v0.1.0
 Dist::Surveyor                     0.023  pkg:cpan/Dist-Surveyor@0.023
@@ -215287,7 +215287,7 @@ Scalar::Util::Numeric               0.40  pkg:cpan/Scalar-Util-Numeric@0.40
 Scalar::Util::Numeric::PP           0.04  pkg:cpan/Scalar-Util-Numeric-PP@0.04
 Scalar::Util::Reftype               0.46  pkg:cpan/Scalar-Util-Reftype@0.46
 Scalar::Validation                 0.700  pkg:cpan/Scalar-Validation@0.700
-Scalar::ValueTags                  0.004  pkg:cpan/Scalar-ValueTags@0.004
+Scalar::ValueTags                  0.006  pkg:cpan/Scalar-ValueTags@0.006
 Scalar::ValueTags::LineageTracking 0.004  pkg:cpan/Scalar-ValueTags-LineageTracking@0.004
 Scalar::Vec::Util                   0.08  pkg:cpan/Scalar-Vec-Util@0.08
 Scalar::Watcher                    0.002001  pkg:cpan/Scalar-Watcher@0.002001
