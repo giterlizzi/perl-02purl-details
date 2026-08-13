@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 12 Aug 2026 22:32:46 GMT
+Last-Updated: Thu, 13 Aug 2026 01:19:37 GMT
 Line-Count: 267847
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -30535,7 +30535,7 @@ Business::IS::PIN                   0.06  pkg:cpan/Business-IS-PIN@0.06
 Business::ISBN                     3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN10                   3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN13                   3.014  pkg:cpan/Business-ISBN@3.014
-Business::ISBN::Data               20260811.001  pkg:cpan/Business-ISBN-Data@20260811.001
+Business::ISBN::Data               20260812.001  pkg:cpan/Business-ISBN-Data@20260812.001
 Business::ISIN                      0.20  pkg:cpan/Business-ISIN@0.20?ext=tgz
 Business::ISMN                     1.205  pkg:cpan/Business-ISMN@1.205
 Business::ISMN::Data               1.205  pkg:cpan/Business-ISMN@1.205
@@ -34614,19 +34614,19 @@ CWB::Web::Cache                    undef  pkg:cpan/CWB-Web@v3.5.0
 CWB::Web::Query                    undef  pkg:cpan/CWB-Web@v3.5.0
 CWB::Web::Search                   undef  pkg:cpan/CWB-Web@v3.5.0
 CWB::Web::Search::MatchList        undef  pkg:cpan/CWB-Web@v3.5.0
-CXC::Astro::Regions                 0.03  pkg:cpan/CXC-Astro-Regions@0.03
-CXC::Astro::Regions::CFITSIO        0.03  pkg:cpan/CXC-Astro-Regions@0.03
-CXC::Astro::Regions::CFITSIO::Role::Region  0.03  pkg:cpan/CXC-Astro-Regions@0.03
-CXC::Astro::Regions::CFITSIO::Types  0.03  pkg:cpan/CXC-Astro-Regions@0.03
-CXC::Astro::Regions::CFITSIO::Variant  0.03  pkg:cpan/CXC-Astro-Regions@0.03
-CXC::Astro::Regions::CIAO           0.03  pkg:cpan/CXC-Astro-Regions@0.03
-CXC::Astro::Regions::CIAO::Role::Region  0.03  pkg:cpan/CXC-Astro-Regions@0.03
-CXC::Astro::Regions::CIAO::Types    0.03  pkg:cpan/CXC-Astro-Regions@0.03
-CXC::Astro::Regions::CIAO::Variant  0.03  pkg:cpan/CXC-Astro-Regions@0.03
-CXC::Astro::Regions::DS9            0.03  pkg:cpan/CXC-Astro-Regions@0.03
-CXC::Astro::Regions::DS9::Role::Region  0.03  pkg:cpan/CXC-Astro-Regions@0.03
-CXC::Astro::Regions::DS9::Types     0.03  pkg:cpan/CXC-Astro-Regions@0.03
-CXC::Astro::Regions::DS9::Variant   0.03  pkg:cpan/CXC-Astro-Regions@0.03
+CXC::Astro::Regions                 0.04  pkg:cpan/CXC-Astro-Regions@0.04
+CXC::Astro::Regions::CFITSIO        0.04  pkg:cpan/CXC-Astro-Regions@0.04
+CXC::Astro::Regions::CFITSIO::Role::Region  0.04  pkg:cpan/CXC-Astro-Regions@0.04
+CXC::Astro::Regions::CFITSIO::Types  0.04  pkg:cpan/CXC-Astro-Regions@0.04
+CXC::Astro::Regions::CFITSIO::Variant  0.04  pkg:cpan/CXC-Astro-Regions@0.04
+CXC::Astro::Regions::CIAO           0.04  pkg:cpan/CXC-Astro-Regions@0.04
+CXC::Astro::Regions::CIAO::Role::Region  0.04  pkg:cpan/CXC-Astro-Regions@0.04
+CXC::Astro::Regions::CIAO::Types    0.04  pkg:cpan/CXC-Astro-Regions@0.04
+CXC::Astro::Regions::CIAO::Variant  0.04  pkg:cpan/CXC-Astro-Regions@0.04
+CXC::Astro::Regions::DS9            0.04  pkg:cpan/CXC-Astro-Regions@0.04
+CXC::Astro::Regions::DS9::Role::Region  0.04  pkg:cpan/CXC-Astro-Regions@0.04
+CXC::Astro::Regions::DS9::Types     0.04  pkg:cpan/CXC-Astro-Regions@0.04
+CXC::Astro::Regions::DS9::Variant   0.04  pkg:cpan/CXC-Astro-Regions@0.04
 CXC::DB::DDL                        0.21  pkg:cpan/CXC-DB-DDL@0.21
 CXC::DB::DDL::CloneClear            0.21  pkg:cpan/CXC-DB-DDL@0.21
 CXC::DB::DDL::Constants             0.21  pkg:cpan/CXC-DB-DDL@0.21
@@ -117211,25 +117211,25 @@ JSON::Schema::Fast::Compiled        0.07  pkg:cpan/JSON-Schema-Fast@0.07
 JSON::Schema::Fit                   0.07  pkg:cpan/JSON-Schema-Fit@0.07
 JSON::Schema::Generate              0.15  pkg:cpan/JSON-Schema-Generate@0.15
 JSON::Schema::Helper               0.016  pkg:cpan/JSON-Schema@0.016
-JSON::Schema::Modern               0.643  pkg:cpan/JSON-Schema-Modern@0.643
-JSON::Schema::Modern::Annotation   0.643  pkg:cpan/JSON-Schema-Modern@0.643
-JSON::Schema::Modern::Document     0.643  pkg:cpan/JSON-Schema-Modern@0.643
+JSON::Schema::Modern               0.644  pkg:cpan/JSON-Schema-Modern@0.644
+JSON::Schema::Modern::Annotation   0.644  pkg:cpan/JSON-Schema-Modern@0.644
+JSON::Schema::Modern::Document     0.644  pkg:cpan/JSON-Schema-Modern@0.644
 JSON::Schema::Modern::Document::OpenAPI 0.146  pkg:cpan/OpenAPI-Modern@0.146
-JSON::Schema::Modern::Error        0.643  pkg:cpan/JSON-Schema-Modern@0.643
-JSON::Schema::Modern::Result       0.643  pkg:cpan/JSON-Schema-Modern@0.643
-JSON::Schema::Modern::ResultNode   0.643  pkg:cpan/JSON-Schema-Modern@0.643
-JSON::Schema::Modern::Utilities    0.643  pkg:cpan/JSON-Schema-Modern@0.643
-JSON::Schema::Modern::Vocabulary   0.643  pkg:cpan/JSON-Schema-Modern@0.643
-JSON::Schema::Modern::Vocabulary::Applicator 0.643  pkg:cpan/JSON-Schema-Modern@0.643
-JSON::Schema::Modern::Vocabulary::Content 0.643  pkg:cpan/JSON-Schema-Modern@0.643
-JSON::Schema::Modern::Vocabulary::Core 0.643  pkg:cpan/JSON-Schema-Modern@0.643
-JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.643  pkg:cpan/JSON-Schema-Modern@0.643
-JSON::Schema::Modern::Vocabulary::FormatAssertion 0.643  pkg:cpan/JSON-Schema-Modern@0.643
-JSON::Schema::Modern::Vocabulary::MetaData 0.643  pkg:cpan/JSON-Schema-Modern@0.643
+JSON::Schema::Modern::Error        0.644  pkg:cpan/JSON-Schema-Modern@0.644
+JSON::Schema::Modern::Result       0.644  pkg:cpan/JSON-Schema-Modern@0.644
+JSON::Schema::Modern::ResultNode   0.644  pkg:cpan/JSON-Schema-Modern@0.644
+JSON::Schema::Modern::Utilities    0.644  pkg:cpan/JSON-Schema-Modern@0.644
+JSON::Schema::Modern::Vocabulary   0.644  pkg:cpan/JSON-Schema-Modern@0.644
+JSON::Schema::Modern::Vocabulary::Applicator 0.644  pkg:cpan/JSON-Schema-Modern@0.644
+JSON::Schema::Modern::Vocabulary::Content 0.644  pkg:cpan/JSON-Schema-Modern@0.644
+JSON::Schema::Modern::Vocabulary::Core 0.644  pkg:cpan/JSON-Schema-Modern@0.644
+JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.644  pkg:cpan/JSON-Schema-Modern@0.644
+JSON::Schema::Modern::Vocabulary::FormatAssertion 0.644  pkg:cpan/JSON-Schema-Modern@0.644
+JSON::Schema::Modern::Vocabulary::MetaData 0.644  pkg:cpan/JSON-Schema-Modern@0.644
 JSON::Schema::Modern::Vocabulary::OpenAPI 0.146  pkg:cpan/OpenAPI-Modern@0.146
 JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.146  pkg:cpan/OpenAPI-Modern@0.146
-JSON::Schema::Modern::Vocabulary::Unevaluated 0.643  pkg:cpan/JSON-Schema-Modern@0.643
-JSON::Schema::Modern::Vocabulary::Validation 0.643  pkg:cpan/JSON-Schema-Modern@0.643
+JSON::Schema::Modern::Vocabulary::Unevaluated 0.644  pkg:cpan/JSON-Schema-Modern@0.644
+JSON::Schema::Modern::Vocabulary::Validation 0.644  pkg:cpan/JSON-Schema-Modern@0.644
 JSON::Schema::Null                 0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Result               0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Shorthand            v0.0.2  pkg:cpan/JSON-Schema-Shorthand@0.0.2
