@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 13 Aug 2026 10:55:34 GMT
+Last-Updated: Thu, 13 Aug 2026 12:53:45 GMT
 Line-Count: 267949
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -53457,12 +53457,12 @@ DBIx::LogAny::db                   undef  pkg:cpan/DBIx-LogAny@0.06
 DBIx::LogAny::st                   undef  pkg:cpan/DBIx-LogAny@0.06
 DBIx::LogProfile                    0.02  pkg:cpan/DBIx-LogProfile@0.02
 DBIx::Lookup::Field                2.101420  pkg:cpan/DBIx-Lookup-Field@2.101420
-DBIx::Loop                          0.03  pkg:cpan/DBIx-Loop@0.03
-DBIx::Loop::Future                  0.02  pkg:cpan/DBIx-Loop@0.03
-DBIx::Loop::Loop::AnyEvent          0.02  pkg:cpan/DBIx-Loop@0.03
-DBIx::Loop::Loop::Hyperman          0.02  pkg:cpan/DBIx-Loop@0.03
-DBIx::Loop::Loop::IOAsync           0.02  pkg:cpan/DBIx-Loop@0.03
-DBIx::Loop::Loop::Mojo              0.02  pkg:cpan/DBIx-Loop@0.03
+DBIx::Loop                          0.04  pkg:cpan/DBIx-Loop@0.04
+DBIx::Loop::Future                  0.02  pkg:cpan/DBIx-Loop@0.04
+DBIx::Loop::Loop::AnyEvent          0.02  pkg:cpan/DBIx-Loop@0.04
+DBIx::Loop::Loop::Hyperman          0.02  pkg:cpan/DBIx-Loop@0.04
+DBIx::Loop::Loop::IOAsync           0.03  pkg:cpan/DBIx-Loop@0.04
+DBIx::Loop::Loop::Mojo              0.02  pkg:cpan/DBIx-Loop@0.04
 DBIx::Migrate                       0.01  pkg:cpan/DBIx-Migrate@0.01
 DBIx::Migration                     0.32  pkg:cpan/DBIx-Migration@0.32
 DBIx::Migration::CLI                0.32  pkg:cpan/DBIx-Migration@0.32
@@ -56619,22 +56619,22 @@ Dancer2::Plugin::Argon2::Passphrase  0.01  pkg:cpan/Dancer2-Plugin-Argon2@0.01
 Dancer2::Plugin::Articulate        0.002  pkg:cpan/Dancer2-Plugin-Articulate@0.002
 Dancer2::Plugin::Auth::ActiveDirectory  0.03  pkg:cpan/Dancer2-Plugin-Auth-ActiveDirectory@0.03
 Dancer2::Plugin::Auth::CAS         undef  pkg:cpan/Dancer2-Plugin-Auth-CAS@2.000
-Dancer2::Plugin::Auth::Extensible  0.712  pkg:cpan/Dancer2-Plugin-Auth-Extensible@0.712
+Dancer2::Plugin::Auth::Extensible  0.713  pkg:cpan/Dancer2-Plugin-Auth-Extensible@0.713
 Dancer2::Plugin::Auth::Extensible::Provider::ActiveDirectory  0.04  pkg:cpan/Dancer2-Plugin-Auth-Extensible-Provider-ActiveDirectory@0.04
 Dancer2::Plugin::Auth::Extensible::Provider::Base 0.502  pkg:cpan/Dancer2-Plugin-Auth-Extensible@0.502
-Dancer2::Plugin::Auth::Extensible::Provider::Config 0.712  pkg:cpan/Dancer2-Plugin-Auth-Extensible@0.712
+Dancer2::Plugin::Auth::Extensible::Provider::Config 0.713  pkg:cpan/Dancer2-Plugin-Auth-Extensible@0.713
 Dancer2::Plugin::Auth::Extensible::Provider::DBIC 0.624  pkg:cpan/Dancer2-Plugin-Auth-Extensible-Provider-DBIC@0.624
 Dancer2::Plugin::Auth::Extensible::Provider::DBIxClass 0.0902  pkg:cpan/Dancer2-Plugin-Auth-Extensible-Provider-DBIxClass@0.0902
 Dancer2::Plugin::Auth::Extensible::Provider::Database 0.630  pkg:cpan/Dancer2-Plugin-Auth-Extensible-Provider-Database@0.630
-Dancer2::Plugin::Auth::Extensible::Provider::Example 0.712  pkg:cpan/Dancer2-Plugin-Auth-Extensible@0.712
+Dancer2::Plugin::Auth::Extensible::Provider::Example 0.713  pkg:cpan/Dancer2-Plugin-Auth-Extensible@0.713
 Dancer2::Plugin::Auth::Extensible::Provider::IMAP 0.003  pkg:cpan/Dancer2-Plugin-Auth-Extensible-Provider-IMAP@0.003
 Dancer2::Plugin::Auth::Extensible::Provider::LDAP 0.706  pkg:cpan/Dancer2-Plugin-Auth-Extensible-Provider-LDAP@0.706
-Dancer2::Plugin::Auth::Extensible::Provider::Unix 0.712  pkg:cpan/Dancer2-Plugin-Auth-Extensible@0.712
+Dancer2::Plugin::Auth::Extensible::Provider::Unix 0.713  pkg:cpan/Dancer2-Plugin-Auth-Extensible@0.713
 Dancer2::Plugin::Auth::Extensible::Provider::Usergroup 0.709  pkg:cpan/Dancer2-Plugin-Auth-Extensible-Provider-Usergroup@0.709
 Dancer2::Plugin::Auth::Extensible::Rights  0.01  pkg:cpan/Dancer2-Plugin-Auth-Extensible-Rights@0.01
-Dancer2::Plugin::Auth::Extensible::Role::Provider 0.712  pkg:cpan/Dancer2-Plugin-Auth-Extensible@0.712
-Dancer2::Plugin::Auth::Extensible::Test 0.712  pkg:cpan/Dancer2-Plugin-Auth-Extensible@0.712
-Dancer2::Plugin::Auth::Extensible::Test::App 0.712  pkg:cpan/Dancer2-Plugin-Auth-Extensible@0.712
+Dancer2::Plugin::Auth::Extensible::Role::Provider 0.713  pkg:cpan/Dancer2-Plugin-Auth-Extensible@0.713
+Dancer2::Plugin::Auth::Extensible::Test 0.713  pkg:cpan/Dancer2-Plugin-Auth-Extensible@0.713
+Dancer2::Plugin::Auth::Extensible::Test::App 0.713  pkg:cpan/Dancer2-Plugin-Auth-Extensible@0.713
 Dancer2::Plugin::Auth::HTTP::Basic::DWIW 0.0901  pkg:cpan/Dancer2-Plugin-Auth-HTTP-Basic-DWIW@0.0901
 Dancer2::Plugin::Auth::OAuth        0.23  pkg:cpan/Dancer2-Plugin-Auth-OAuth@0.23
 Dancer2::Plugin::Auth::OAuth::Provider undef  pkg:cpan/Dancer2-Plugin-Auth-OAuth@0.23
@@ -234723,9 +234723,9 @@ Text::HikiDoc::Plugin::vimcolor    1.007  pkg:cpan/Text-HikiDoc@1.019
 Text::Histogram                     0.01  pkg:cpan/Text-Histogram@0.01
 Text::HistogramChart               0.005  pkg:cpan/Text-HistogramChart@0.005
 Text::Hoborg                       0.000006  pkg:cpan/Text-Hoborg@0.0.6
-Text::Hogan                         2.05  pkg:cpan/Text-Hogan@2.05
-Text::Hogan::Compiler               2.05  pkg:cpan/Text-Hogan@2.05
-Text::Hogan::Template               2.05  pkg:cpan/Text-Hogan@2.05
+Text::Hogan                         2.06  pkg:cpan/Text-Hogan@2.06
+Text::Hogan::Compiler               2.06  pkg:cpan/Text-Hogan@2.06
+Text::Hogan::Template               2.06  pkg:cpan/Text-Hogan@2.06
 Text::Hspell                       v0.4.1  pkg:cpan/Text-Hspell@0.4.1
 Text::HumanComputerWords            0.04  pkg:cpan/Text-HumanComputerWords@0.04
 Text::Hunspell                      2.16  pkg:cpan/Text-Hunspell@2.16
