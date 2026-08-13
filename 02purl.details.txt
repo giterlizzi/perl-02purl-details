@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 13 Aug 2026 12:53:45 GMT
-Line-Count: 267949
+Last-Updated: Thu, 13 Aug 2026 14:50:43 GMT
+Line-Count: 267950
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -66055,7 +66055,8 @@ Device::Chip::Adapter::Gpiod       v0.1.0  pkg:cpan/Device-Chip-Adapter-Gpiod@v0
 Device::Chip::Adapter::LinuxKernel 0.00008  pkg:cpan/Device-Chip-Adapter-LinuxKernel@0.00008
 Device::Chip::Adapter::UART         0.03  pkg:cpan/Device-Chip-Adapter-UART@0.03
 Device::Chip::AnalogConverters      0.16  pkg:cpan/Device-Chip-AnalogConverters@0.16
-Device::Chip::BME280                0.07  pkg:cpan/Device-Chip-BME280@0.07
+Device::Chip::BME280                0.08  pkg:cpan/Device-Chip-BME280@0.08
+Device::Chip::BMP280                0.08  pkg:cpan/Device-Chip-BME280@0.08
 Device::Chip::BNO055                0.04  pkg:cpan/Device-Chip-BNO055@0.04
 Device::Chip::BV4243                0.04  pkg:cpan/Device-Chip-BV4243@0.04
 Device::Chip::Base::RegisteredI2C   0.27  pkg:cpan/Device-Chip@0.27
