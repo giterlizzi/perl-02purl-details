@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 13 Aug 2026 14:50:43 GMT
-Line-Count: 267950
+Last-Updated: Thu, 13 Aug 2026 16:48:28 GMT
+Line-Count: 267951
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -48469,22 +48469,23 @@ Context::Set::Storage::DBIC            0  pkg:cpan/Context-Set@0.02
 Context::Set::Storage::Split           0  pkg:cpan/Context-Set@0.02
 Context::Set::Storage::Split::Rule     0  pkg:cpan/Context-Set@0.02
 Context::Set::Union                    0  pkg:cpan/Context-Set@0.02
-Context::Singleton                 v1.0.8  pkg:cpan/Context-Singleton@1.0.8
-Context::Singleton::Exception::Deduced v1.0.8  pkg:cpan/Context-Singleton@1.0.8
-Context::Singleton::Exception::Invalid v1.0.8  pkg:cpan/Context-Singleton@1.0.8
-Context::Singleton::Exception::Nondeducible v1.0.8  pkg:cpan/Context-Singleton@1.0.8
-Context::Singleton::Frame          v1.0.8  pkg:cpan/Context-Singleton@1.0.8
-Context::Singleton::Frame::Builder::Array v1.0.8  pkg:cpan/Context-Singleton@1.0.8
-Context::Singleton::Frame::Builder::Base v1.0.8  pkg:cpan/Context-Singleton@1.0.8
-Context::Singleton::Frame::Builder::Hash v1.0.8  pkg:cpan/Context-Singleton@1.0.8
-Context::Singleton::Frame::Builder::Value v1.0.8  pkg:cpan/Context-Singleton@1.0.8
-Context::Singleton::Frame::DB      v1.0.8  pkg:cpan/Context-Singleton@1.0.8
-Context::Singleton::Frame::Deducer v1.0.8  pkg:cpan/Context-Singleton@1.0.8
-Context::Singleton::Frame::Deducer::Notifying v1.0.8  pkg:cpan/Context-Singleton@1.0.8
-Context::Singleton::Frame::Promise v1.0.8  pkg:cpan/Context-Singleton@1.0.8
-Context::Singleton::Frame::Promise::Builder v1.0.8  pkg:cpan/Context-Singleton@1.0.8
-Context::Singleton::Frame::Promise::Rule v1.0.8  pkg:cpan/Context-Singleton@1.0.8
+Context::Singleton                 v1.0.9  pkg:cpan/Context-Singleton@1.0.9
+Context::Singleton::Exception::Deduced v1.0.9  pkg:cpan/Context-Singleton@1.0.9
+Context::Singleton::Exception::Invalid v1.0.9  pkg:cpan/Context-Singleton@1.0.9
+Context::Singleton::Exception::Nondeducible v1.0.9  pkg:cpan/Context-Singleton@1.0.9
+Context::Singleton::Frame          v1.0.9  pkg:cpan/Context-Singleton@1.0.9
+Context::Singleton::Frame::Builder::Array v1.0.9  pkg:cpan/Context-Singleton@1.0.9
+Context::Singleton::Frame::Builder::Base v1.0.9  pkg:cpan/Context-Singleton@1.0.9
+Context::Singleton::Frame::Builder::Hash v1.0.9  pkg:cpan/Context-Singleton@1.0.9
+Context::Singleton::Frame::Builder::Value v1.0.9  pkg:cpan/Context-Singleton@1.0.9
+Context::Singleton::Frame::DB      v1.0.9  pkg:cpan/Context-Singleton@1.0.9
+Context::Singleton::Frame::Deducer v1.0.9  pkg:cpan/Context-Singleton@1.0.9
+Context::Singleton::Frame::Deducer::Notifying v1.0.9  pkg:cpan/Context-Singleton@1.0.9
+Context::Singleton::Frame::Promise v1.0.9  pkg:cpan/Context-Singleton@1.0.9
+Context::Singleton::Frame::Promise::Builder v1.0.9  pkg:cpan/Context-Singleton@1.0.9
+Context::Singleton::Frame::Promise::Rule v1.0.9  pkg:cpan/Context-Singleton@1.0.9
 Context::Singleton::Frame::Result  v1.0.5  pkg:cpan/Context-Singleton@1.0.5
+Context::Singleton::Singleton      v1.0.9  pkg:cpan/Context-Singleton@1.0.9
 Contextual::Call                    0.01  pkg:cpan/Contextual-Call@0.01
 Contextual::Diag                    0.04  pkg:cpan/Contextual-Diag@0.04
 Contextual::Diag::Value             0.04  pkg:cpan/Contextual-Diag@0.04
@@ -50577,7 +50578,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.1  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::NotNode  v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::OrNode   v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.140
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.141
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
@@ -267499,7 +267500,7 @@ relatedrecords::ResponseWrapper    undef  pkg:cpan/ZZZ-SDK@0.0.2
 relatedrecords::SuccessResponse    undef  pkg:cpan/ZZZ-SDK@0.0.2
 relative                            0.04  pkg:cpan/relative@0.04
 remove_file_and_try_executable_again  0.07  pkg:cpan/PAR@0.88
-require::relative                  v1.0.0  pkg:cpan/require-relative@1.0.0
+require::relative                  v1.0.1  pkg:cpan/require-relative@1.0.1
 required                           1.007003  pkg:cpan/Bio-NeXMLIO@1.7.3
 requires                           undef  pkg:cpan/Template-Declare@0.47
 resultArr                              0  pkg:cpan/SVN-TeamTools-Indexer@0.002
