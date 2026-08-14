@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 14 Aug 2026 20:23:47 GMT
-Line-Count: 267968
+Last-Updated: Fri, 14 Aug 2026 22:14:52 GMT
+Line-Count: 267970
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -203256,6 +203256,7 @@ Punk::Context                       0.02  pkg:cpan/Punk@0.08
 Punk::Controller                    0.02  pkg:cpan/Punk@0.08
 Punk::Future                        0.02  pkg:cpan/Punk@0.08
 Punk::Generate                      0.02  pkg:cpan/Punk@0.08
+Punk::GraphQL                       0.01  pkg:cpan/Punk-GraphQL@0.01
 Punk::Logger                        0.02  pkg:cpan/Punk@0.08
 Punk::Model                         0.02  pkg:cpan/Punk@0.08
 Punk::Model::DBI                    0.02  pkg:cpan/Punk@0.08
@@ -203263,6 +203264,7 @@ Punk::Model::DBIx::Loop             0.03  pkg:cpan/Punk@0.08
 Punk::Mount::Markdown               0.03  pkg:cpan/Punk@0.08
 Punk::Mount::OpenAPI                0.02  pkg:cpan/Punk@0.08
 Punk::Plugin                        0.02  pkg:cpan/Punk@0.08
+Punk::Plugin::GraphQL               0.01  pkg:cpan/Punk-GraphQL@0.01
 Punk::Plugin::Queue                 0.02  pkg:cpan/Punk-Queue@0.03
 Punk::Queue                         0.03  pkg:cpan/Punk-Queue@0.03
 Punk::Queue::Backend                0.02  pkg:cpan/Punk-Queue@0.03
