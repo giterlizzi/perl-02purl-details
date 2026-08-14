@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 14 Aug 2026 12:49:14 GMT
+Last-Updated: Fri, 14 Aug 2026 14:44:36 GMT
 Line-Count: 267965
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -45330,12 +45330,12 @@ Clang::Index                        0.09  pkg:cpan/Clang@0.09
 Clang::TUnit                        0.09  pkg:cpan/Clang@0.09
 Clang::Type                         0.09  pkg:cpan/Clang@0.09
 Clang::TypeKind                     0.09  pkg:cpan/Clang@0.09
-ClarID::Tools                       0.03  pkg:cpan/ClarID-Tools@0.03
-ClarID::Tools::Command::code       undef  pkg:cpan/ClarID-Tools@0.03
-ClarID::Tools::Command::qrcode     undef  pkg:cpan/ClarID-Tools@0.03
-ClarID::Tools::Command::validate   undef  pkg:cpan/ClarID-Tools@0.03
-ClarID::Tools::Util                undef  pkg:cpan/ClarID-Tools@0.03
-ClarID::Tools::Validator           undef  pkg:cpan/ClarID-Tools@0.03
+ClarID::Tools                       0.04  pkg:cpan/ClarID-Tools@0.04
+ClarID::Tools::Command::code       undef  pkg:cpan/ClarID-Tools@0.04
+ClarID::Tools::Command::qrcode     undef  pkg:cpan/ClarID-Tools@0.04
+ClarID::Tools::Command::validate   undef  pkg:cpan/ClarID-Tools@0.04
+ClarID::Tools::Util                undef  pkg:cpan/ClarID-Tools@0.04
+ClarID::Tools::Validator           undef  pkg:cpan/ClarID-Tools@0.04
 Clarion                             1.02  pkg:cpan/Clarion@1.02
 ClarionUnlock                        1.0  pkg:cpan/ClarionUnlock@1.0
 Clarity::XOG                       undef  pkg:cpan/Clarity-XOG-Merge@1.001
