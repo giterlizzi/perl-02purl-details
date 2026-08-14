@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 14 Aug 2026 09:01:17 GMT
-Line-Count: 267964
+Last-Updated: Fri, 14 Aug 2026 10:51:44 GMT
+Line-Count: 267965
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -75219,11 +75219,11 @@ File::Stat::OO                      0.03  pkg:cpan/File-Stat-OO@0.03
 File::Stat::Trigger                 0.05  pkg:cpan/File-Stat-Trigger@0.05
 File::StatCache                     0.06  pkg:cpan/File-StatCache@0.06
 File::StatX                        0.005  pkg:cpan/File-StatX@0.005
-File::Sticker                        4.7  pkg:cpan/File-Sticker@4.7
-File::Sticker::Database              4.7  pkg:cpan/File-Sticker@4.7
-File::Sticker::Derive                4.7  pkg:cpan/File-Sticker@4.7
-File::Sticker::Derive::Common        4.7  pkg:cpan/File-Sticker@4.7
-File::Sticker::Derive::Title         4.7  pkg:cpan/File-Sticker@4.7
+File::Sticker                        4.8  pkg:cpan/File-Sticker@4.8
+File::Sticker::Database              4.8  pkg:cpan/File-Sticker@4.8
+File::Sticker::Derive                4.8  pkg:cpan/File-Sticker@4.8
+File::Sticker::Derive::Common        4.8  pkg:cpan/File-Sticker@4.8
+File::Sticker::Derive::Title         4.8  pkg:cpan/File-Sticker@4.8
 File::Sticker::Reader               3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Reader::Exif         3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Reader::Gif          3.03  pkg:cpan/File-Sticker@3.03
@@ -75231,14 +75231,14 @@ File::Sticker::Reader::Mp3          3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Reader::Xattr        3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Reader::Yaml         3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Reader::YamlPrefix   3.03  pkg:cpan/File-Sticker@3.03
-File::Sticker::Scribe                4.7  pkg:cpan/File-Sticker@4.7
-File::Sticker::Scribe::Epub          4.7  pkg:cpan/File-Sticker@4.7
-File::Sticker::Scribe::Exif          4.7  pkg:cpan/File-Sticker@4.7
-File::Sticker::Scribe::Gif           4.7  pkg:cpan/File-Sticker@4.7
-File::Sticker::Scribe::Mp3           4.7  pkg:cpan/File-Sticker@4.7
-File::Sticker::Scribe::Xattr         4.7  pkg:cpan/File-Sticker@4.7
-File::Sticker::Scribe::Yaml          4.7  pkg:cpan/File-Sticker@4.7
-File::Sticker::Scribe::YamlPrefix    4.7  pkg:cpan/File-Sticker@4.7
+File::Sticker::Scribe                4.8  pkg:cpan/File-Sticker@4.8
+File::Sticker::Scribe::Epub          4.8  pkg:cpan/File-Sticker@4.8
+File::Sticker::Scribe::Exif          4.8  pkg:cpan/File-Sticker@4.8
+File::Sticker::Scribe::Gif           4.8  pkg:cpan/File-Sticker@4.8
+File::Sticker::Scribe::Mp3           4.8  pkg:cpan/File-Sticker@4.8
+File::Sticker::Scribe::Xattr         4.8  pkg:cpan/File-Sticker@4.8
+File::Sticker::Scribe::Yaml          4.8  pkg:cpan/File-Sticker@4.8
+File::Sticker::Scribe::YamlPrefix    4.8  pkg:cpan/File-Sticker@4.8
 File::Sticker::Writer               3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Writer::Exif         3.03  pkg:cpan/File-Sticker@3.03
 File::Sticker::Writer::Gif          3.03  pkg:cpan/File-Sticker@3.03
@@ -124473,6 +124473,7 @@ Lingua::LO::Romanize::Types         0.10  pkg:cpan/Lingua-LO-Romanize@0.10
 Lingua::LO::Romanize::Word          0.10  pkg:cpan/Lingua-LO-Romanize@0.10
 Lingua::LTZ::Num2Word              0.2603300  pkg:cpan/Lingua-LTZ-Num2Word@0.2603300
 Lingua::LTZ::Word2Num              0.2603300  pkg:cpan/Lingua-LTZ-Word2Num@0.2603300
+Lingua::Lapine::Word               v0.1.0  pkg:cpan/Lingua-Lapine-Word@v0.01
 Lingua::Latex                      undef  pkg:cpan/Lingua-AlignmentSet@1.1?ext=tgz
 Lingua::Lexicon::IDP                 1.0  pkg:cpan/Lingua-Lexicon-IDP@1.0
 Lingua::LinkParser                  1.17  pkg:cpan/Lingua-LinkParser@1.17
@@ -163611,7 +163612,7 @@ PX::API::Request                   0.000003  pkg:cpan/PX-API@v0.0.3
 PX::API::Response                  0.000003  pkg:cpan/PX-API@v0.0.3
 PX::API::Response::JSON            0.000003  pkg:cpan/PX-API@v0.0.3
 PX::API::Response::Rest            0.000003  pkg:cpan/PX-API@v0.0.3
-PXF::Util                          undef  pkg:cpan/PlackX-Framework@0.29
+PXF::Util                          undef  pkg:cpan/PlackX-Framework@0.30
 PXML                               undef  pkg:cpan/FunctionalPerl@0.72.76
 PXML::Body                         undef  pkg:cpan/FunctionalPerl@0.72.76
 PXML::Element                      undef  pkg:cpan/FunctionalPerl@0.72.76
@@ -199903,17 +199904,17 @@ Plack::Util::PeriAHS               0.620  pkg:cpan/Perinci-Access-HTTP-Server@0.
 Plack::Util::Prototype             undef  pkg:cpan/Plack@1.0054
 Plack::VCR                          0.06  pkg:cpan/Plack-Middleware-Recorder@0.06
 Plack::VCR::Interaction             0.06  pkg:cpan/Plack-Middleware-Recorder@0.06
-PlackX::Framework                   0.29  pkg:cpan/PlackX-Framework@0.29
-PlackX::Framework::Config          undef  pkg:cpan/PlackX-Framework@0.29
-PlackX::Framework::Handler         undef  pkg:cpan/PlackX-Framework@0.29
-PlackX::Framework::Request         undef  pkg:cpan/PlackX-Framework@0.29
-PlackX::Framework::Response        undef  pkg:cpan/PlackX-Framework@0.29
-PlackX::Framework::Role::RouterEngine undef  pkg:cpan/PlackX-Framework@0.29
-PlackX::Framework::Role::TemplateEngine undef  pkg:cpan/PlackX-Framework@0.29
-PlackX::Framework::Router          undef  pkg:cpan/PlackX-Framework@0.29
-PlackX::Framework::Router::Engine  undef  pkg:cpan/PlackX-Framework@0.29
-PlackX::Framework::Template        undef  pkg:cpan/PlackX-Framework@0.29
-PlackX::Framework::URIx            undef  pkg:cpan/PlackX-Framework@0.29
+PlackX::Framework                   0.30  pkg:cpan/PlackX-Framework@0.30
+PlackX::Framework::Config          undef  pkg:cpan/PlackX-Framework@0.30
+PlackX::Framework::Handler         undef  pkg:cpan/PlackX-Framework@0.30
+PlackX::Framework::Request         undef  pkg:cpan/PlackX-Framework@0.30
+PlackX::Framework::Response        undef  pkg:cpan/PlackX-Framework@0.30
+PlackX::Framework::Role::RouterEngine undef  pkg:cpan/PlackX-Framework@0.30
+PlackX::Framework::Role::TemplateEngine undef  pkg:cpan/PlackX-Framework@0.30
+PlackX::Framework::Router          undef  pkg:cpan/PlackX-Framework@0.30
+PlackX::Framework::Router::Engine  undef  pkg:cpan/PlackX-Framework@0.30
+PlackX::Framework::Template        undef  pkg:cpan/PlackX-Framework@0.30
+PlackX::Framework::URIx            undef  pkg:cpan/PlackX-Framework@0.30
 PlackX::MiddlewareStack            0.011  pkg:cpan/PlackX-MiddlewareStack@0.011
 PlackX::RouteBuilder                0.03  pkg:cpan/PlackX-RouteBuilder@0.03
 Plagger                            0.007017  pkg:cpan/Plagger@0.7.17
