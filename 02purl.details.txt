@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 14 Aug 2026 18:43:00 GMT
+Last-Updated: Fri, 14 Aug 2026 20:23:47 GMT
 Line-Count: 267968
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -202958,17 +202958,17 @@ Protocol::SocketIO::Message        undef  pkg:cpan/Protocol-SocketIO@0.07
 Protocol::SocketIO::Path           undef  pkg:cpan/Protocol-SocketIO@0.07
 Protocol::Star::Linemode             1.0  pkg:cpan/Protocol-Star-Linemode@1.0.0
 Protocol::Star::Linemode::Generated undef  pkg:cpan/Protocol-Star-Linemode@1.0.0
-Protocol::Sys::Virt                12.006000  pkg:cpan/Protocol-Sys-Virt@v12.6.0
+Protocol::Sys::Virt                12.006001  pkg:cpan/Protocol-Sys-Virt@v12.6.1
 Protocol::Sys::Virt::Devel         1.000001  pkg:cpan/Protocol-Sys-Virt-Devel@v1.0.1
-Protocol::Sys::Virt::KeepAlive     12.006000  pkg:cpan/Protocol-Sys-Virt@v12.6.0
-Protocol::Sys::Virt::KeepAlive::XDR 12.006000  pkg:cpan/Protocol-Sys-Virt@v12.6.0
-Protocol::Sys::Virt::Remote        12.006000  pkg:cpan/Protocol-Sys-Virt@v12.6.0
-Protocol::Sys::Virt::Remote::XDR   12.006000  pkg:cpan/Protocol-Sys-Virt@v12.6.0
-Protocol::Sys::Virt::Transport     12.006000  pkg:cpan/Protocol-Sys-Virt@v12.6.0
-Protocol::Sys::Virt::Transport::XDR 12.006000  pkg:cpan/Protocol-Sys-Virt@v12.6.0
-Protocol::Sys::Virt::TypedParams   12.006000  pkg:cpan/Protocol-Sys-Virt@v12.6.0
-Protocol::Sys::Virt::UNIXSocket    12.006000  pkg:cpan/Protocol-Sys-Virt@v12.6.0
-Protocol::Sys::Virt::URI           12.006000  pkg:cpan/Protocol-Sys-Virt@v12.6.0
+Protocol::Sys::Virt::KeepAlive     12.006001  pkg:cpan/Protocol-Sys-Virt@v12.6.1
+Protocol::Sys::Virt::KeepAlive::XDR 12.006001  pkg:cpan/Protocol-Sys-Virt@v12.6.1
+Protocol::Sys::Virt::Remote        12.006001  pkg:cpan/Protocol-Sys-Virt@v12.6.1
+Protocol::Sys::Virt::Remote::XDR   12.006001  pkg:cpan/Protocol-Sys-Virt@v12.6.1
+Protocol::Sys::Virt::Transport     12.006001  pkg:cpan/Protocol-Sys-Virt@v12.6.1
+Protocol::Sys::Virt::Transport::XDR 12.006001  pkg:cpan/Protocol-Sys-Virt@v12.6.1
+Protocol::Sys::Virt::TypedParams   12.006001  pkg:cpan/Protocol-Sys-Virt@v12.6.1
+Protocol::Sys::Virt::UNIXSocket    12.006001  pkg:cpan/Protocol-Sys-Virt@v12.6.1
+Protocol::Sys::Virt::URI           12.006001  pkg:cpan/Protocol-Sys-Virt@v12.6.1
 Protocol::TLS                       0.04  pkg:cpan/Protocol-TLS@0.04
 Protocol::TLS::Alert               undef  pkg:cpan/Protocol-TLS@0.04
 Protocol::TLS::Application         undef  pkg:cpan/Protocol-TLS@0.04
