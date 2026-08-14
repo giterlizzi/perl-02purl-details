@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 14 Aug 2026 07:13:50 GMT
+Last-Updated: Fri, 14 Aug 2026 09:01:17 GMT
 Line-Count: 267964
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -16230,7 +16230,7 @@ App::mycnfdiff::Utils               1.00  pkg:cpan/App-mycnfdiff@1.00
 App::mymeta_requires               0.006  pkg:cpan/App-mymeta_requires@0.006
 App::mysqlinfo                     0.001  pkg:cpan/App-mysqlinfo@0.001
 App::nauniq                        0.112  pkg:cpan/App-nauniq@0.112
-App::news                           1.09  pkg:cpan/App-news@1.09
+App::news                            1.1  pkg:cpan/App-news@1.1
 App::newver                         0.02  pkg:cpan/App-newver@0.02
 App::newver::INI                    0.02  pkg:cpan/App-newver@0.02
 App::newver::Scanner                0.02  pkg:cpan/App-newver@0.02
@@ -22550,8 +22550,8 @@ Bench::CompactTree                 undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
 Bench::ExpatHandler                undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
 Bench::SAXHandler                  undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
 BenchAccel                         undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.7.0
-BenchCat                           undef  pkg:cpan/Punk@0.07
-BenchCat::Controller::Root         undef  pkg:cpan/Punk@0.07
+BenchCat                           undef  pkg:cpan/Punk@0.08
+BenchCat::Controller::Root         undef  pkg:cpan/Punk@0.08
 Bencher                            v1.62.4  pkg:cpan/Bencher@1.062.4
 Bencher::BPM                       0.002  pkg:cpan/Bencher-BPM@0.002
 Bencher::Backend                   1.063  pkg:cpan/Bencher-Backend@1.063
@@ -34855,7 +34855,7 @@ Cache::Entry                        2.11  pkg:cpan/Cache@2.11
 Cache::Escalate                     0.02  pkg:cpan/Cache-Escalate@0.02
 Cache::FastMemoryBackend           undef  pkg:cpan/Cache-FastMemoryCache@0.01
 Cache::FastMemoryCache              0.01  pkg:cpan/Cache-FastMemoryCache@0.01
-Cache::FastMmap                     1.62  pkg:cpan/Cache-FastMmap@1.62
+Cache::FastMmap                     1.63  pkg:cpan/Cache-FastMmap@1.63
 Cache::FastMmap::OnLeave            1.60  pkg:cpan/Cache-FastMmap@1.60
 Cache::FastMmap::Tie                0.03  pkg:cpan/Cache-FastMmap-Tie@0.03
 Cache::File                         2.11  pkg:cpan/Cache@2.11
@@ -203242,23 +203242,23 @@ Puncheur::Request                  undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Response                 undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Runner                   undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Trigger                  undef  pkg:cpan/Puncheur@v0.3.0
-Punk                                0.07  pkg:cpan/Punk@0.07
-Punk::App                           0.02  pkg:cpan/Punk@0.07
-Punk::CORS                          0.02  pkg:cpan/Punk@0.07
-Punk::CSRF                          0.02  pkg:cpan/Punk@0.07
-Punk::Command                       0.02  pkg:cpan/Punk@0.07
-Punk::Config                        0.02  pkg:cpan/Punk@0.07
-Punk::Context                       0.02  pkg:cpan/Punk@0.07
-Punk::Controller                    0.02  pkg:cpan/Punk@0.07
-Punk::Future                        0.02  pkg:cpan/Punk@0.07
-Punk::Generate                      0.02  pkg:cpan/Punk@0.07
-Punk::Logger                        0.02  pkg:cpan/Punk@0.07
-Punk::Model                         0.02  pkg:cpan/Punk@0.07
-Punk::Model::DBI                    0.02  pkg:cpan/Punk@0.07
-Punk::Model::DBIx::Loop             0.03  pkg:cpan/Punk@0.07
-Punk::Mount::Markdown               0.03  pkg:cpan/Punk@0.07
-Punk::Mount::OpenAPI                0.02  pkg:cpan/Punk@0.07
-Punk::Plugin                        0.02  pkg:cpan/Punk@0.07
+Punk                                0.08  pkg:cpan/Punk@0.08
+Punk::App                           0.02  pkg:cpan/Punk@0.08
+Punk::CORS                          0.02  pkg:cpan/Punk@0.08
+Punk::CSRF                          0.02  pkg:cpan/Punk@0.08
+Punk::Command                       0.02  pkg:cpan/Punk@0.08
+Punk::Config                        0.02  pkg:cpan/Punk@0.08
+Punk::Context                       0.02  pkg:cpan/Punk@0.08
+Punk::Controller                    0.02  pkg:cpan/Punk@0.08
+Punk::Future                        0.02  pkg:cpan/Punk@0.08
+Punk::Generate                      0.02  pkg:cpan/Punk@0.08
+Punk::Logger                        0.02  pkg:cpan/Punk@0.08
+Punk::Model                         0.02  pkg:cpan/Punk@0.08
+Punk::Model::DBI                    0.02  pkg:cpan/Punk@0.08
+Punk::Model::DBIx::Loop             0.03  pkg:cpan/Punk@0.08
+Punk::Mount::Markdown               0.03  pkg:cpan/Punk@0.08
+Punk::Mount::OpenAPI                0.02  pkg:cpan/Punk@0.08
+Punk::Plugin                        0.02  pkg:cpan/Punk@0.08
 Punk::Plugin::Queue                 0.02  pkg:cpan/Punk-Queue@0.03
 Punk::Queue                         0.03  pkg:cpan/Punk-Queue@0.03
 Punk::Queue::Backend                0.02  pkg:cpan/Punk-Queue@0.03
@@ -203268,20 +203268,20 @@ Punk::Queue::Command                0.02  pkg:cpan/Punk-Queue@0.03
 Punk::Queue::Cron                   0.02  pkg:cpan/Punk-Queue@0.03
 Punk::Queue::Job                    0.02  pkg:cpan/Punk-Queue@0.03
 Punk::Queue::Worker                 0.02  pkg:cpan/Punk-Queue@0.03
-Punk::RateLimit                     0.01  pkg:cpan/Punk@0.07
-Punk::Request                       0.02  pkg:cpan/Punk@0.07
-Punk::Response                      0.02  pkg:cpan/Punk@0.07
-Punk::Router                        0.02  pkg:cpan/Punk@0.07
-Punk::Router::Scope                 0.02  pkg:cpan/Punk@0.07
-Punk::SSE                           0.02  pkg:cpan/Punk@0.07
-Punk::Session                       0.02  pkg:cpan/Punk@0.07
-Punk::Static                        0.02  pkg:cpan/Punk@0.07
-Punk::UA                            0.02  pkg:cpan/Punk@0.07
-Punk::Upload                        0.02  pkg:cpan/Punk@0.07
-Punk::View::Stencil                 0.02  pkg:cpan/Punk@0.07
-Punk::Views                         0.02  pkg:cpan/Punk@0.07
-Punk::WebSocket                     0.02  pkg:cpan/Punk@0.07
-Punk::WebSocket::Room               0.02  pkg:cpan/Punk@0.07
+Punk::RateLimit                     0.01  pkg:cpan/Punk@0.08
+Punk::Request                       0.02  pkg:cpan/Punk@0.08
+Punk::Response                      0.02  pkg:cpan/Punk@0.08
+Punk::Router                        0.02  pkg:cpan/Punk@0.08
+Punk::Router::Scope                 0.02  pkg:cpan/Punk@0.08
+Punk::SSE                           0.02  pkg:cpan/Punk@0.08
+Punk::Session                       0.02  pkg:cpan/Punk@0.08
+Punk::Static                        0.02  pkg:cpan/Punk@0.08
+Punk::UA                            0.02  pkg:cpan/Punk@0.08
+Punk::Upload                        0.02  pkg:cpan/Punk@0.08
+Punk::View::Stencil                 0.02  pkg:cpan/Punk@0.08
+Punk::Views                         0.02  pkg:cpan/Punk@0.08
+Punk::WebSocket                     0.02  pkg:cpan/Punk@0.08
+Punk::WebSocket::Room               0.02  pkg:cpan/Punk@0.08
 Puppet::Classify                   undef  pkg:cpan/Puppet-Classify@0.003
 Puppet::DB                         undef  pkg:cpan/Puppet-DB@0.001
 Puppet::Orchestrator               undef  pkg:cpan/Puppet-Orchestrator@0.002
