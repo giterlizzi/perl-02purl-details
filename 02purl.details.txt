@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 15 Aug 2026 16:15:16 GMT
-Line-Count: 258463
+Last-Updated: Sat, 15 Aug 2026 18:18:00 GMT
+Line-Count: 258464
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -110095,25 +110095,26 @@ KubeBuilder::Property              undef  pkg:cpan/KubeBuilder@0.02
 KubeBuilder::TypeInferer           undef  pkg:cpan/KubeBuilder@0.02
 Kubectl::CLIWrapper                 0.06  pkg:cpan/Kubectl-CLIWrapper@0.06
 Kubectl::CLIWrapper::Result        undef  pkg:cpan/Kubectl-CLIWrapper@0.06
-Kubernetes::REST                   1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::Admissionregistration 1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::Apiextensions    1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::Apiregistration  1.106  pkg:cpan/Kubernetes-REST@1.106
+Kubernetes::REST                   1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::Admissionregistration 1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::Apiextensions    1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::Apiregistration  1.107  pkg:cpan/Kubernetes-REST@1.107
 Kubernetes::REST::Apis             1.105  pkg:cpan/Kubernetes-REST-Deprecated@1.105
-Kubernetes::REST::Apps             1.106  pkg:cpan/Kubernetes-REST@1.106
+Kubernetes::REST::Apps             1.107  pkg:cpan/Kubernetes-REST@1.107
 Kubernetes::REST::Auditregistration 1.105  pkg:cpan/Kubernetes-REST-Deprecated@1.105
-Kubernetes::REST::AuthToken        1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::Authentication   1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::Authorization    1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::Autoscaling      1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::Batch            1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::CLI              1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::CLI::Cmd::Create 1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::CLI::Cmd::Delete 1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::CLI::Cmd::Get    1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::CLI::Cmd::Raw    1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::CLI::Role::Connection 1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::CLI::Watch       1.106  pkg:cpan/Kubernetes-REST@1.106
+Kubernetes::REST::AuthToken        1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::AuthTokenFile    1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::Authentication   1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::Authorization    1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::Autoscaling      1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::Batch            1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::CLI              1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::CLI::Cmd::Create 1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::CLI::Cmd::Delete 1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::CLI::Cmd::Get    1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::CLI::Cmd::Raw    1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::CLI::Role::Connection 1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::CLI::Watch       1.107  pkg:cpan/Kubernetes-REST@1.107
 Kubernetes::REST::Call::GetAPIVersions 1.105  pkg:cpan/Kubernetes-REST-Deprecated@1.105
 Kubernetes::REST::Call::GetAdmissionregistrationAPIGroup 1.105  pkg:cpan/Kubernetes-REST-Deprecated@1.105
 Kubernetes::REST::Call::GetApiextensionsAPIGroup 1.105  pkg:cpan/Kubernetes-REST-Deprecated@1.105
@@ -111117,36 +111118,36 @@ Kubernetes::REST::Call::v2beta2::Autoscaling::WatchHorizontalPodAutoscalerListFo
 Kubernetes::REST::Call::v2beta2::Autoscaling::WatchNamespacedHorizontalPodAutoscaler 1.105  pkg:cpan/Kubernetes-REST-Deprecated@1.105
 Kubernetes::REST::Call::v2beta2::Autoscaling::WatchNamespacedHorizontalPodAutoscalerList 1.105  pkg:cpan/Kubernetes-REST-Deprecated@1.105
 Kubernetes::REST::CallContext      1.105  pkg:cpan/Kubernetes-REST-Deprecated@1.105
-Kubernetes::REST::Certificates     1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::Coordination     1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::Core             1.106  pkg:cpan/Kubernetes-REST@1.106
+Kubernetes::REST::Certificates     1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::Coordination     1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::Core             1.107  pkg:cpan/Kubernetes-REST@1.107
 Kubernetes::REST::Deprecated       1.105  pkg:cpan/Kubernetes-REST-Deprecated@1.105
-Kubernetes::REST::Error            1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::Events           1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::Example          1.106  pkg:cpan/Kubernetes-REST@1.106
+Kubernetes::REST::Error            1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::Events           1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::Example          1.107  pkg:cpan/Kubernetes-REST@1.107
 Kubernetes::REST::Extensions       1.105  pkg:cpan/Kubernetes-REST-Deprecated@1.105
-Kubernetes::REST::HTTPRequest      1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::HTTPResponse     1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::HTTPTinyIO       1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::Kubeconfig       1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::LWPIO            1.106  pkg:cpan/Kubernetes-REST@1.106
+Kubernetes::REST::HTTPRequest      1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::HTTPResponse     1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::HTTPTinyIO       1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::Kubeconfig       1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::LWPIO            1.107  pkg:cpan/Kubernetes-REST@1.107
 Kubernetes::REST::ListToRequest    1.105  pkg:cpan/Kubernetes-REST-Deprecated@1.105
-Kubernetes::REST::LogEvent         1.106  pkg:cpan/Kubernetes-REST@1.106
+Kubernetes::REST::LogEvent         1.107  pkg:cpan/Kubernetes-REST@1.107
 Kubernetes::REST::Logs             1.105  pkg:cpan/Kubernetes-REST-Deprecated@1.105
-Kubernetes::REST::Networking       1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::Policy           1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::RbacAuthorization 1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::RemoteError      1.106  pkg:cpan/Kubernetes-REST@1.106
+Kubernetes::REST::Networking       1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::Policy           1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::RbacAuthorization 1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::RemoteError      1.107  pkg:cpan/Kubernetes-REST@1.107
 Kubernetes::REST::Result2Hash      1.105  pkg:cpan/Kubernetes-REST-Deprecated@1.105
 Kubernetes::REST::Result2Object    1.105  pkg:cpan/Kubernetes-REST-Deprecated@1.105
-Kubernetes::REST::Role::IO         1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::Scheduling       1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::Server           1.106  pkg:cpan/Kubernetes-REST@1.106
+Kubernetes::REST::Role::IO         1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::Scheduling       1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::Server           1.107  pkg:cpan/Kubernetes-REST@1.107
 Kubernetes::REST::Settings         1.105  pkg:cpan/Kubernetes-REST-Deprecated@1.105
-Kubernetes::REST::Storage          1.106  pkg:cpan/Kubernetes-REST@1.106
-Kubernetes::REST::V0Group          1.106  pkg:cpan/Kubernetes-REST@1.106
+Kubernetes::REST::Storage          1.107  pkg:cpan/Kubernetes-REST@1.107
+Kubernetes::REST::V0Group          1.107  pkg:cpan/Kubernetes-REST@1.107
 Kubernetes::REST::Version          1.105  pkg:cpan/Kubernetes-REST-Deprecated@1.105
-Kubernetes::REST::WatchEvent       1.106  pkg:cpan/Kubernetes-REST@1.106
+Kubernetes::REST::WatchEvent       1.107  pkg:cpan/Kubernetes-REST@1.107
 Kwalify                             1.24  pkg:cpan/Kwalify@1.24
 Kwalify::Validator                  1.24  pkg:cpan/Kwalify@1.24
 Kwargs                             undef  pkg:cpan/Kwargs@0.01
@@ -138327,12 +138328,12 @@ Net::Async::Kubernetes             0.007  pkg:cpan/Net-Async-Kubernetes@0.007
 Net::Async::Kubernetes::Controller 0.007  pkg:cpan/Net-Async-Kubernetes@0.007
 Net::Async::Kubernetes::PortForwardSession 0.007  pkg:cpan/Net-Async-Kubernetes@0.007
 Net::Async::Kubernetes::Watcher    0.007  pkg:cpan/Net-Async-Kubernetes@0.007
-Net::Async::MCP                    0.003  pkg:cpan/Net-Async-MCP@0.003
+Net::Async::MCP                    0.004  pkg:cpan/Net-Async-MCP@0.004
 Net::Async::MCP::Server            0.001  pkg:cpan/Net-Async-MCP-Server@0.001
 Net::Async::MCP::Server::Transport::Stdio 0.001  pkg:cpan/Net-Async-MCP-Server@0.001
-Net::Async::MCP::Transport::HTTP   0.003  pkg:cpan/Net-Async-MCP@0.003
-Net::Async::MCP::Transport::InProcess 0.003  pkg:cpan/Net-Async-MCP@0.003
-Net::Async::MCP::Transport::Stdio  0.003  pkg:cpan/Net-Async-MCP@0.003
+Net::Async::MCP::Transport::HTTP   0.004  pkg:cpan/Net-Async-MCP@0.004
+Net::Async::MCP::Transport::InProcess 0.004  pkg:cpan/Net-Async-MCP@0.004
+Net::Async::MCP::Transport::Stdio  0.004  pkg:cpan/Net-Async-MCP@0.004
 Net::Async::MPD                    0.005  pkg:cpan/Net-Async-MPD@0.005
 Net::Async::Matrix                  0.19  pkg:cpan/Net-Async-Matrix@0.19
 Net::Async::Matrix::Room            0.19  pkg:cpan/Net-Async-Matrix@0.19
