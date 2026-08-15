@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 15 Aug 2026 08:18:35 GMT
+Last-Updated: Sat, 15 Aug 2026 10:15:18 GMT
 Line-Count: 267972
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -16560,7 +16560,7 @@ App::puzzl::run                    undef  pkg:cpan/App-puzzl@0.01
 App::pwhich                         1.17  pkg:cpan/App-pwhich@1.17
 App::quantile                      0.014  pkg:cpan/App-quantile@0.014
 App::quickabspath                  0.001  pkg:cpan/App-quickabspath@0.001
-App::rainbarf                        1.4  pkg:cpan/App-rainbarf@1.4
+App::rainbarf                        1.5  pkg:cpan/App-rainbarf@1.5
 App::randquote                     0.001  pkg:cpan/App-randquote@0.001
 App::randskip                      0.0003  pkg:cpan/App-randskip@0.0003
 App::rank                          0.007  pkg:cpan/App-rank@0.007
@@ -78612,7 +78612,7 @@ GCT::XSP::ActionTaglib              0.02  pkg:cpan/GCT-XSP-ActionTaglib@0.02
 GCloud::CLIWrapper                  0.01  pkg:cpan/GCloud-CLIWrapper@0.01
 GCloud::CLIWrapper::Result         undef  pkg:cpan/GCloud-CLIWrapper@0.01
 GCrypt                               0.3  pkg:cpan/gcrypt@0.3
-GD                                  2.86  pkg:cpan/GD@2.86
+GD                                  2.87  pkg:cpan/GD@2.87
 GD::3DBarGrapher                   0.009006  pkg:cpan/GD-3DBarGrapher@0.9.6
 GD::Arrow                           0.01  pkg:cpan/GD-Arrow@0.01
 GD::Arrow::Full                     0.01  pkg:cpan/GD-Arrow@0.01
@@ -78692,10 +78692,10 @@ GD::Graph::utils                     1.7  pkg:cpan/GDGraph@1.56
 GD::Graph::xylines                     1  pkg:cpan/GDGraph-XY@0.92
 GD::Graph::xylinespoints               1  pkg:cpan/GDGraph-XY@0.92
 GD::Graph::xypoints                    1  pkg:cpan/GDGraph-XY@0.92
-GD::Group                              1  pkg:cpan/GD@2.86
+GD::Group                              1  pkg:cpan/GD@2.87
 GD::Icons                           0.04  pkg:cpan/GD-Icons@0.04
 GD::Icons::Config                   0.04  pkg:cpan/GD-Icons@0.04
-GD::Image                           2.86  pkg:cpan/GD@2.86
+GD::Image                           2.86  pkg:cpan/GD@2.87
 GD::Image::AnimatedGif              0.05  pkg:cpan/GD-Image-AnimatedGif@0.05
 GD::Image::CopyIFS                  0.25  pkg:cpan/GD-Image-CopyIFS@0.25
 GD::Image::Orientation              0.05  pkg:cpan/GD-Image-Orientation@0.05
@@ -78706,8 +78706,8 @@ GD::Map::Mercator                   1.03  pkg:cpan/GD-Map-Mercator@1.03
 GD::Map::Mercator::Projector        1.03  pkg:cpan/GD-Map-Mercator@1.03
 GD::OrgChart                        0.03  pkg:cpan/GD-OrgChart@0.03
 GD::Persian                          0.9  pkg:cpan/GD-Persian@0.9
-GD::Polygon                         2.82  pkg:cpan/GD@2.86
-GD::Polyline                         0.2  pkg:cpan/GD@2.86
+GD::Polygon                         2.82  pkg:cpan/GD@2.87
+GD::Polyline                         0.2  pkg:cpan/GD@2.87
 GD::RPPNG                            0.9  pkg:cpan/gd-rppng@0.9
 GD::SIRDS                           0.02  pkg:cpan/GD-SIRDS@0.02
 GD::SVG                             0.33  pkg:cpan/GD-SVG@0.33
@@ -78720,7 +78720,7 @@ GD::SecurityImage::GD               1.75  pkg:cpan/GD-SecurityImage@1.75
 GD::SecurityImage::Magick           1.75  pkg:cpan/GD-SecurityImage@1.75
 GD::SecurityImage::Styles           1.75  pkg:cpan/GD-SecurityImage@1.75
 GD::SecurityImage::Utils            1.02  pkg:cpan/GD-SecurityImage-Utils@1.02
-GD::Simple                         undef  pkg:cpan/GD@2.86
+GD::Simple                         undef  pkg:cpan/GD@2.87
 GD::Sparkline                       0.05  pkg:cpan/GD-Sparkline@0.05
 GD::Tab::Guitar                     0.03  pkg:cpan/GD-Tab-Guitar@0.03
 GD::Tab::Ukulele                    0.01  pkg:cpan/GD-Tab-Ukulele@0.01
@@ -130256,23 +130256,23 @@ MIDI::Simple::Drummer::Jazz        0.0813  pkg:cpan/MIDI-Simple-Drummer@0.0813
 MIDI::Simple::Drummer::Rock        0.0813  pkg:cpan/MIDI-Simple-Drummer@0.0813
 MIDI::Simple::Drummer::Rudiments   0.0813  pkg:cpan/MIDI-Simple-Drummer@0.0813
 MIDI::SoundFont                     1.08  pkg:cpan/MIDI-SoundFont@1.08
-MIDI::Stream                       0.005  pkg:cpan/MIDI-Stream@0.005
-MIDI::Stream::Decoder              0.005  pkg:cpan/MIDI-Stream@0.005
-MIDI::Stream::Encoder              0.005  pkg:cpan/MIDI-Stream@0.005
-MIDI::Stream::Event                0.005  pkg:cpan/MIDI-Stream@0.005
-MIDI::Stream::Event::AfterTouch    0.005  pkg:cpan/MIDI-Stream@0.005
-MIDI::Stream::Event::Channel       0.005  pkg:cpan/MIDI-Stream@0.005
-MIDI::Stream::Event::ControlChange 0.005  pkg:cpan/MIDI-Stream@0.005
-MIDI::Stream::Event::Note          0.005  pkg:cpan/MIDI-Stream@0.005
-MIDI::Stream::Event::PitchBend     0.005  pkg:cpan/MIDI-Stream@0.005
-MIDI::Stream::Event::PolyTouch     0.005  pkg:cpan/MIDI-Stream@0.005
-MIDI::Stream::Event::ProgramChange 0.005  pkg:cpan/MIDI-Stream@0.005
-MIDI::Stream::Event::SongPosition  0.005  pkg:cpan/MIDI-Stream@0.005
-MIDI::Stream::Event::SongSelect    0.005  pkg:cpan/MIDI-Stream@0.005
-MIDI::Stream::Event::SysEx         0.005  pkg:cpan/MIDI-Stream@0.005
-MIDI::Stream::Event::TimeCode      0.005  pkg:cpan/MIDI-Stream@0.005
-MIDI::Stream::FIFO                 0.005  pkg:cpan/MIDI-Stream@0.005
-MIDI::Stream::Tables               0.005  pkg:cpan/MIDI-Stream@0.005
+MIDI::Stream                       0.006  pkg:cpan/MIDI-Stream@0.006
+MIDI::Stream::Decoder              0.006  pkg:cpan/MIDI-Stream@0.006
+MIDI::Stream::Encoder              0.006  pkg:cpan/MIDI-Stream@0.006
+MIDI::Stream::Event                0.006  pkg:cpan/MIDI-Stream@0.006
+MIDI::Stream::Event::AfterTouch    0.006  pkg:cpan/MIDI-Stream@0.006
+MIDI::Stream::Event::Channel       0.006  pkg:cpan/MIDI-Stream@0.006
+MIDI::Stream::Event::ControlChange 0.006  pkg:cpan/MIDI-Stream@0.006
+MIDI::Stream::Event::Note          0.006  pkg:cpan/MIDI-Stream@0.006
+MIDI::Stream::Event::PitchBend     0.006  pkg:cpan/MIDI-Stream@0.006
+MIDI::Stream::Event::PolyTouch     0.006  pkg:cpan/MIDI-Stream@0.006
+MIDI::Stream::Event::ProgramChange 0.006  pkg:cpan/MIDI-Stream@0.006
+MIDI::Stream::Event::SongPosition  0.006  pkg:cpan/MIDI-Stream@0.006
+MIDI::Stream::Event::SongSelect    0.006  pkg:cpan/MIDI-Stream@0.006
+MIDI::Stream::Event::SysEx         0.006  pkg:cpan/MIDI-Stream@0.006
+MIDI::Stream::Event::TimeCode      0.006  pkg:cpan/MIDI-Stream@0.006
+MIDI::Stream::FIFO                 0.006  pkg:cpan/MIDI-Stream@0.006
+MIDI::Stream::Tables               0.006  pkg:cpan/MIDI-Stream@0.006
 MIDI::Tab                          0.0402  pkg:cpan/MIDI-Tab@0.0402
 MIDI::Tools                         0.02  pkg:cpan/MIDI-Tools@0.02
 MIDI::Track                         0.84  pkg:cpan/MIDI-Perl@0.84
