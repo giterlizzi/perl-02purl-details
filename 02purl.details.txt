@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 15 Aug 2026 20:14:20 GMT
-Line-Count: 258472
+Last-Updated: Sat, 15 Aug 2026 22:13:07 GMT
+Line-Count: 258473
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -22550,8 +22550,8 @@ Bench::CompactTree                 undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
 Bench::ExpatHandler                undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
 Bench::SAXHandler                  undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
 BenchAccel                         undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.7.0
-BenchCat                           undef  pkg:cpan/Punk@0.10
-BenchCat::Controller::Root         undef  pkg:cpan/Punk@0.10
+BenchCat                           undef  pkg:cpan/Punk@0.11
+BenchCat::Controller::Root         undef  pkg:cpan/Punk@0.11
 Bencher                            v1.62.4  pkg:cpan/Bencher@1.062.4
 Bencher::BPM                       0.002  pkg:cpan/Bencher-BPM@0.002
 Bencher::Backend                   1.063  pkg:cpan/Bencher-Backend@1.063
@@ -53474,12 +53474,12 @@ DBIx::LogAny::db                   undef  pkg:cpan/DBIx-LogAny@0.06
 DBIx::LogAny::st                   undef  pkg:cpan/DBIx-LogAny@0.06
 DBIx::LogProfile                    0.02  pkg:cpan/DBIx-LogProfile@0.02
 DBIx::Lookup::Field                2.101420  pkg:cpan/DBIx-Lookup-Field@2.101420
-DBIx::Loop                          0.04  pkg:cpan/DBIx-Loop@0.04
-DBIx::Loop::Future                  0.02  pkg:cpan/DBIx-Loop@0.04
-DBIx::Loop::Loop::AnyEvent          0.02  pkg:cpan/DBIx-Loop@0.04
-DBIx::Loop::Loop::Hyperman          0.02  pkg:cpan/DBIx-Loop@0.04
-DBIx::Loop::Loop::IOAsync           0.03  pkg:cpan/DBIx-Loop@0.04
-DBIx::Loop::Loop::Mojo              0.02  pkg:cpan/DBIx-Loop@0.04
+DBIx::Loop                          0.05  pkg:cpan/DBIx-Loop@0.05
+DBIx::Loop::Future                  0.05  pkg:cpan/DBIx-Loop@0.05
+DBIx::Loop::Loop::AnyEvent          0.05  pkg:cpan/DBIx-Loop@0.05
+DBIx::Loop::Loop::Hyperman          0.05  pkg:cpan/DBIx-Loop@0.05
+DBIx::Loop::Loop::IOAsync           0.05  pkg:cpan/DBIx-Loop@0.05
+DBIx::Loop::Loop::Mojo              0.05  pkg:cpan/DBIx-Loop@0.05
 DBIx::Migrate                       0.01  pkg:cpan/DBIx-Migrate@0.01
 DBIx::Migration                     0.32  pkg:cpan/DBIx-Migration@0.32
 DBIx::Migration::CLI                0.32  pkg:cpan/DBIx-Migration@0.32
@@ -116194,7 +116194,7 @@ List::Vectorize                     1.05  pkg:cpan/List-Vectorize@1.05
 List::Zip                           0.04  pkg:cpan/List-Zip@0.04
 List::oo                           0.002001  pkg:cpan/List-oo@v0.2.1
 ListCon                            undef  pkg:cpan/Code-Perl@0.03
-Litavis                             0.04  pkg:cpan/Litavis@0.04
+Litavis                             0.05  pkg:cpan/Litavis@0.05
 Lithium::WebDriver                   1.0  pkg:cpan/Lithium-WebDriver@1.0.0
 Lithium::WebDriver::Phantom        undef  pkg:cpan/Lithium-WebDriver@1.0.0
 Lithium::WebDriver::Utils          undef  pkg:cpan/Lithium-WebDriver@1.0.0
@@ -120713,11 +120713,11 @@ MIDI::RtController::Filter::CC     0.1200  pkg:cpan/MIDI-RtController-Filter-CC@
 MIDI::RtController::Filter::Drums  0.0401  pkg:cpan/MIDI-RtController-Filter-Drums@0.0401
 MIDI::RtController::Filter::Math   0.0501  pkg:cpan/MIDI-RtController-Filter-Tonal@0.0501
 MIDI::RtController::Filter::Tonal  0.0501  pkg:cpan/MIDI-RtController-Filter-Tonal@0.0501
-MIDI::RtMidi::FFI                   0.12  pkg:cpan/MIDI-RtMidi-FFI@0.12
-MIDI::RtMidi::FFI::AbstractDevice   0.12  pkg:cpan/MIDI-RtMidi-FFI@0.12
-MIDI::RtMidi::FFI::Device           0.12  pkg:cpan/MIDI-RtMidi-FFI@0.12
-MIDI::RtMidi::FFI::Device::In       0.12  pkg:cpan/MIDI-RtMidi-FFI@0.12
-MIDI::RtMidi::FFI::Device::Out      0.12  pkg:cpan/MIDI-RtMidi-FFI@0.12
+MIDI::RtMidi::FFI                   0.13  pkg:cpan/MIDI-RtMidi-FFI@0.13
+MIDI::RtMidi::FFI::AbstractDevice   0.13  pkg:cpan/MIDI-RtMidi-FFI@0.13
+MIDI::RtMidi::FFI::Device           0.13  pkg:cpan/MIDI-RtMidi-FFI@0.13
+MIDI::RtMidi::FFI::Device::In       0.13  pkg:cpan/MIDI-RtMidi-FFI@0.13
+MIDI::RtMidi::FFI::Device::Out      0.13  pkg:cpan/MIDI-RtMidi-FFI@0.13
 MIDI::RtMidi::ScorePlayer          0.0303  pkg:cpan/MIDI-RtMidi-ScorePlayer@0.0303
 MIDI::SP404sx                      1.000000  pkg:cpan/MIDI-SP404sx@v1.0.0
 MIDI::SP404sx::Constants           undef  pkg:cpan/MIDI-SP404sx@v1.0.0
@@ -193732,24 +193732,25 @@ Puncheur::Request                  undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Response                 undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Runner                   undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Trigger                  undef  pkg:cpan/Puncheur@v0.3.0
-Punk                                0.10  pkg:cpan/Punk@0.10
-Punk::App                           0.10  pkg:cpan/Punk@0.10
-Punk::CORS                          0.10  pkg:cpan/Punk@0.10
-Punk::CSRF                          0.10  pkg:cpan/Punk@0.10
-Punk::Command                       0.10  pkg:cpan/Punk@0.10
-Punk::Config                        0.10  pkg:cpan/Punk@0.10
-Punk::Context                       0.10  pkg:cpan/Punk@0.10
-Punk::Controller                    0.10  pkg:cpan/Punk@0.10
-Punk::DevError                      0.10  pkg:cpan/Punk@0.10
-Punk::Future                        0.10  pkg:cpan/Punk@0.10
-Punk::Generate                      0.10  pkg:cpan/Punk@0.10
+Punk                                0.11  pkg:cpan/Punk@0.11
+Punk::App                           0.11  pkg:cpan/Punk@0.11
+Punk::CORS                          0.11  pkg:cpan/Punk@0.11
+Punk::CSRF                          0.11  pkg:cpan/Punk@0.11
+Punk::Command                       0.11  pkg:cpan/Punk@0.11
+Punk::Config                        0.11  pkg:cpan/Punk@0.11
+Punk::Context                       0.11  pkg:cpan/Punk@0.11
+Punk::Controller                    0.11  pkg:cpan/Punk@0.11
+Punk::DevError                      0.11  pkg:cpan/Punk@0.11
+Punk::Future                        0.11  pkg:cpan/Punk@0.11
+Punk::Generate                      0.11  pkg:cpan/Punk@0.11
 Punk::GraphQL                       0.01  pkg:cpan/Punk-GraphQL@0.01
-Punk::Logger                        0.10  pkg:cpan/Punk@0.10
-Punk::Model                         0.10  pkg:cpan/Punk@0.10
-Punk::Model::DBI                    0.10  pkg:cpan/Punk@0.10
-Punk::Model::DBIx::Loop             0.10  pkg:cpan/Punk@0.10
-Punk::Mount::Markdown               0.10  pkg:cpan/Punk@0.10
-Punk::Mount::OpenAPI                0.10  pkg:cpan/Punk@0.10
+Punk::Headers                       0.11  pkg:cpan/Punk@0.11
+Punk::Logger                        0.11  pkg:cpan/Punk@0.11
+Punk::Model                         0.11  pkg:cpan/Punk@0.11
+Punk::Model::DBI                    0.11  pkg:cpan/Punk@0.11
+Punk::Model::DBIx::Loop             0.11  pkg:cpan/Punk@0.11
+Punk::Mount::Markdown               0.11  pkg:cpan/Punk@0.11
+Punk::Mount::OpenAPI                0.11  pkg:cpan/Punk@0.11
 Punk::OAuth2                        0.01  pkg:cpan/Punk-OAuth2@0.01
 Punk::OAuth2::Checker               0.01  pkg:cpan/Punk-OAuth2@0.01
 Punk::OAuth2::JWKS                  0.01  pkg:cpan/Punk-OAuth2@0.01
@@ -193759,7 +193760,7 @@ Punk::OAuth2::Server                0.01  pkg:cpan/Punk-OAuth2@0.01
 Punk::OAuth2::Server::Store         0.01  pkg:cpan/Punk-OAuth2@0.01
 Punk::OAuth2::Tokens                0.01  pkg:cpan/Punk-OAuth2@0.01
 Punk::OAuth2::Util                  0.01  pkg:cpan/Punk-OAuth2@0.01
-Punk::Plugin                        0.10  pkg:cpan/Punk@0.10
+Punk::Plugin                        0.11  pkg:cpan/Punk@0.11
 Punk::Plugin::GraphQL               0.01  pkg:cpan/Punk-GraphQL@0.01
 Punk::Plugin::OAuth2                0.01  pkg:cpan/Punk-OAuth2@0.01
 Punk::Plugin::Queue                 0.02  pkg:cpan/Punk-Queue@0.03
@@ -193771,25 +193772,25 @@ Punk::Queue::Command                0.02  pkg:cpan/Punk-Queue@0.03
 Punk::Queue::Cron                   0.02  pkg:cpan/Punk-Queue@0.03
 Punk::Queue::Job                    0.02  pkg:cpan/Punk-Queue@0.03
 Punk::Queue::Worker                 0.02  pkg:cpan/Punk-Queue@0.03
-Punk::RateLimit                     0.10  pkg:cpan/Punk@0.10
-Punk::Request                       0.10  pkg:cpan/Punk@0.10
-Punk::Response                      0.10  pkg:cpan/Punk@0.10
-Punk::Router                        0.10  pkg:cpan/Punk@0.10
-Punk::Router::Scope                 0.10  pkg:cpan/Punk@0.10
-Punk::SSE                           0.10  pkg:cpan/Punk@0.10
-Punk::Session                       0.10  pkg:cpan/Punk@0.10
-Punk::Static                        0.10  pkg:cpan/Punk@0.10
-Punk::Test                          0.10  pkg:cpan/Punk@0.10
-Punk::Test::WS                      0.10  pkg:cpan/Punk@0.10
-Punk::Test::WS::Conn                0.10  pkg:cpan/Punk@0.10
-Punk::Test::_Writer                 0.10  pkg:cpan/Punk@0.10
-Punk::UA                            0.10  pkg:cpan/Punk@0.10
-Punk::Upload                        0.10  pkg:cpan/Punk@0.10
-Punk::Validate                      0.10  pkg:cpan/Punk@0.10
-Punk::View::Stencil                 0.10  pkg:cpan/Punk@0.10
-Punk::Views                         0.10  pkg:cpan/Punk@0.10
-Punk::WebSocket                     0.10  pkg:cpan/Punk@0.10
-Punk::WebSocket::Room               0.10  pkg:cpan/Punk@0.10
+Punk::RateLimit                     0.11  pkg:cpan/Punk@0.11
+Punk::Request                       0.11  pkg:cpan/Punk@0.11
+Punk::Response                      0.11  pkg:cpan/Punk@0.11
+Punk::Router                        0.11  pkg:cpan/Punk@0.11
+Punk::Router::Scope                 0.11  pkg:cpan/Punk@0.11
+Punk::SSE                           0.11  pkg:cpan/Punk@0.11
+Punk::Session                       0.11  pkg:cpan/Punk@0.11
+Punk::Static                        0.11  pkg:cpan/Punk@0.11
+Punk::Test                          0.11  pkg:cpan/Punk@0.11
+Punk::Test::WS                      0.11  pkg:cpan/Punk@0.11
+Punk::Test::WS::Conn                0.11  pkg:cpan/Punk@0.11
+Punk::Test::_Writer                 0.11  pkg:cpan/Punk@0.11
+Punk::UA                            0.11  pkg:cpan/Punk@0.11
+Punk::Upload                        0.11  pkg:cpan/Punk@0.11
+Punk::Validate                      0.11  pkg:cpan/Punk@0.11
+Punk::View::Stencil                 0.11  pkg:cpan/Punk@0.11
+Punk::Views                         0.11  pkg:cpan/Punk@0.11
+Punk::WebSocket                     0.11  pkg:cpan/Punk@0.11
+Punk::WebSocket::Room               0.11  pkg:cpan/Punk@0.11
 Puppet::Classify                   undef  pkg:cpan/Puppet-Classify@0.003
 Puppet::DB                         undef  pkg:cpan/Puppet-DB@0.001
 Puppet::Orchestrator               undef  pkg:cpan/Puppet-Orchestrator@0.002
@@ -200313,8 +200314,8 @@ Rsync::Config::Exceptions            0.1  pkg:cpan/Rsync-Config@0.2
 Rsync::Config::Module                2.1  pkg:cpan/Rsync-Config@0.3.1
 Rsync::Config::Parser                0.1  pkg:cpan/Rsync-Config@0.3.1
 Rsync::Config::Renderer              0.2  pkg:cpan/Rsync-Config@0.3.1
-RtMidiIn                            0.12  pkg:cpan/MIDI-RtMidi-FFI@0.12
-RtMidiOut                           0.12  pkg:cpan/MIDI-RtMidi-FFI@0.12
+RtMidiIn                            0.13  pkg:cpan/MIDI-RtMidi-FFI@0.13
+RtMidiOut                           0.13  pkg:cpan/MIDI-RtMidi-FFI@0.13
 RtMidiWrapper                       0.01  pkg:cpan/MIDI-RtMidi-FFI@0.01
 Rtmgr                               0.05  pkg:cpan/Rtmgr-Gen-Db@0.05
 Rtmgr::Gen                          0.05  pkg:cpan/Rtmgr-Gen-Db@0.05
