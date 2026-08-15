@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 15 Aug 2026 06:24:40 GMT
+Last-Updated: Sat, 15 Aug 2026 08:18:35 GMT
 Line-Count: 267972
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -74258,18 +74258,18 @@ Fennec::Util                       undef  pkg:cpan/Fennec@2.018
 Fern                               undef  pkg:cpan/Fern@0.2
 Festival::Client                     1.0  pkg:cpan/Festival-Client@1.0
 Festival::Client::Async            0.0303  pkg:cpan/Festival-Client-Async@0.0303
-Fetch                               0.12  pkg:cpan/Fetch@0.12
-Fetch::CookieJar                    0.09  pkg:cpan/Fetch@0.12
-Fetch::Future                       0.09  pkg:cpan/Fetch@0.12
-Fetch::Headers                      0.09  pkg:cpan/Fetch@0.12
+Fetch                               0.13  pkg:cpan/Fetch@0.13
+Fetch::CookieJar                    0.09  pkg:cpan/Fetch@0.13
+Fetch::Future                       0.09  pkg:cpan/Fetch@0.13
+Fetch::Headers                      0.09  pkg:cpan/Fetch@0.13
 Fetch::Image                       1.000000  pkg:cpan/Fetch-Image@1.000000
-Fetch::Loop                         0.09  pkg:cpan/Fetch@0.12
-Fetch::Loop::AnyEvent               0.09  pkg:cpan/Fetch@0.12
-Fetch::Loop::Hyperman               0.09  pkg:cpan/Fetch@0.12
-Fetch::Loop::IOAsync                0.09  pkg:cpan/Fetch@0.12
-Fetch::Loop::Standalone             0.09  pkg:cpan/Fetch@0.12
-Fetch::Response                     0.09  pkg:cpan/Fetch@0.12
-Fetch::WebSocket                    0.09  pkg:cpan/Fetch@0.12
+Fetch::Loop                         0.09  pkg:cpan/Fetch@0.13
+Fetch::Loop::AnyEvent               0.09  pkg:cpan/Fetch@0.13
+Fetch::Loop::Hyperman               0.09  pkg:cpan/Fetch@0.13
+Fetch::Loop::IOAsync                0.09  pkg:cpan/Fetch@0.13
+Fetch::Loop::Standalone             0.09  pkg:cpan/Fetch@0.13
+Fetch::Response                     0.09  pkg:cpan/Fetch@0.13
+Fetch::WebSocket                    0.09  pkg:cpan/Fetch@0.13
 Fetcher                            undef  pkg:cpan/article_fetcher?ext=zip
 Fey                                 0.44  pkg:cpan/Fey@0.44
 Fey::Column                         0.44  pkg:cpan/Fey@0.44
