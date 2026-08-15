@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 15 Aug 2026 12:22:38 GMT
-Line-Count: 267982
+Last-Updated: Sat, 15 Aug 2026 14:14:14 GMT
+Line-Count: 267986
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -22550,8 +22550,8 @@ Bench::CompactTree                 undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
 Bench::ExpatHandler                undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
 Bench::SAXHandler                  undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
 BenchAccel                         undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.7.0
-BenchCat                           undef  pkg:cpan/Punk@0.08
-BenchCat::Controller::Root         undef  pkg:cpan/Punk@0.08
+BenchCat                           undef  pkg:cpan/Punk@0.09
+BenchCat::Controller::Root         undef  pkg:cpan/Punk@0.09
 Bencher                            v1.62.4  pkg:cpan/Bencher@1.062.4
 Bencher::BPM                       0.002  pkg:cpan/Bencher-BPM@0.002
 Bencher::Backend                   1.063  pkg:cpan/Bencher-Backend@1.063
@@ -78612,7 +78612,7 @@ GCT::XSP::ActionTaglib              0.02  pkg:cpan/GCT-XSP-ActionTaglib@0.02
 GCloud::CLIWrapper                  0.01  pkg:cpan/GCloud-CLIWrapper@0.01
 GCloud::CLIWrapper::Result         undef  pkg:cpan/GCloud-CLIWrapper@0.01
 GCrypt                               0.3  pkg:cpan/gcrypt@0.3
-GD                                  2.87  pkg:cpan/GD@2.87
+GD                                  2.90  pkg:cpan/GD@2.90
 GD::3DBarGrapher                   0.009006  pkg:cpan/GD-3DBarGrapher@0.9.6
 GD::Arrow                           0.01  pkg:cpan/GD-Arrow@0.01
 GD::Arrow::Full                     0.01  pkg:cpan/GD-Arrow@0.01
@@ -78692,10 +78692,10 @@ GD::Graph::utils                     1.7  pkg:cpan/GDGraph@1.56
 GD::Graph::xylines                     1  pkg:cpan/GDGraph-XY@0.92
 GD::Graph::xylinespoints               1  pkg:cpan/GDGraph-XY@0.92
 GD::Graph::xypoints                    1  pkg:cpan/GDGraph-XY@0.92
-GD::Group                              1  pkg:cpan/GD@2.87
+GD::Group                              1  pkg:cpan/GD@2.90
 GD::Icons                           0.04  pkg:cpan/GD-Icons@0.04
 GD::Icons::Config                   0.04  pkg:cpan/GD-Icons@0.04
-GD::Image                           2.86  pkg:cpan/GD@2.87
+GD::Image                           2.86  pkg:cpan/GD@2.90
 GD::Image::AnimatedGif              0.05  pkg:cpan/GD-Image-AnimatedGif@0.05
 GD::Image::CopyIFS                  0.25  pkg:cpan/GD-Image-CopyIFS@0.25
 GD::Image::Orientation              0.05  pkg:cpan/GD-Image-Orientation@0.05
@@ -78706,8 +78706,8 @@ GD::Map::Mercator                   1.03  pkg:cpan/GD-Map-Mercator@1.03
 GD::Map::Mercator::Projector        1.03  pkg:cpan/GD-Map-Mercator@1.03
 GD::OrgChart                        0.03  pkg:cpan/GD-OrgChart@0.03
 GD::Persian                          0.9  pkg:cpan/GD-Persian@0.9
-GD::Polygon                         2.82  pkg:cpan/GD@2.87
-GD::Polyline                         0.2  pkg:cpan/GD@2.87
+GD::Polygon                         2.82  pkg:cpan/GD@2.90
+GD::Polyline                         0.2  pkg:cpan/GD@2.90
 GD::RPPNG                            0.9  pkg:cpan/gd-rppng@0.9
 GD::SIRDS                           0.02  pkg:cpan/GD-SIRDS@0.02
 GD::SVG                             0.33  pkg:cpan/GD-SVG@0.33
@@ -78720,7 +78720,7 @@ GD::SecurityImage::GD               1.75  pkg:cpan/GD-SecurityImage@1.75
 GD::SecurityImage::Magick           1.75  pkg:cpan/GD-SecurityImage@1.75
 GD::SecurityImage::Styles           1.75  pkg:cpan/GD-SecurityImage@1.75
 GD::SecurityImage::Utils            1.02  pkg:cpan/GD-SecurityImage-Utils@1.02
-GD::Simple                         undef  pkg:cpan/GD@2.87
+GD::Simple                         undef  pkg:cpan/GD@2.90
 GD::Sparkline                       0.05  pkg:cpan/GD-Sparkline@0.05
 GD::Tab::Guitar                     0.03  pkg:cpan/GD-Tab-Guitar@0.03
 GD::Tab::Ukulele                    0.01  pkg:cpan/GD-Tab-Ukulele@0.01
@@ -203248,23 +203248,23 @@ Puncheur::Request                  undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Response                 undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Runner                   undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Trigger                  undef  pkg:cpan/Puncheur@v0.3.0
-Punk                                0.08  pkg:cpan/Punk@0.08
-Punk::App                           0.02  pkg:cpan/Punk@0.08
-Punk::CORS                          0.02  pkg:cpan/Punk@0.08
-Punk::CSRF                          0.02  pkg:cpan/Punk@0.08
-Punk::Command                       0.02  pkg:cpan/Punk@0.08
-Punk::Config                        0.02  pkg:cpan/Punk@0.08
-Punk::Context                       0.02  pkg:cpan/Punk@0.08
-Punk::Controller                    0.02  pkg:cpan/Punk@0.08
-Punk::Future                        0.02  pkg:cpan/Punk@0.08
-Punk::Generate                      0.02  pkg:cpan/Punk@0.08
+Punk                                0.09  pkg:cpan/Punk@0.09
+Punk::App                           0.03  pkg:cpan/Punk@0.09
+Punk::CORS                          0.03  pkg:cpan/Punk@0.09
+Punk::CSRF                          0.03  pkg:cpan/Punk@0.09
+Punk::Command                       0.03  pkg:cpan/Punk@0.09
+Punk::Config                        0.03  pkg:cpan/Punk@0.09
+Punk::Context                       0.03  pkg:cpan/Punk@0.09
+Punk::Controller                    0.03  pkg:cpan/Punk@0.09
+Punk::Future                        0.03  pkg:cpan/Punk@0.09
+Punk::Generate                      0.03  pkg:cpan/Punk@0.09
 Punk::GraphQL                       0.01  pkg:cpan/Punk-GraphQL@0.01
-Punk::Logger                        0.02  pkg:cpan/Punk@0.08
-Punk::Model                         0.02  pkg:cpan/Punk@0.08
-Punk::Model::DBI                    0.02  pkg:cpan/Punk@0.08
-Punk::Model::DBIx::Loop             0.03  pkg:cpan/Punk@0.08
-Punk::Mount::Markdown               0.03  pkg:cpan/Punk@0.08
-Punk::Mount::OpenAPI                0.02  pkg:cpan/Punk@0.08
+Punk::Logger                        0.03  pkg:cpan/Punk@0.09
+Punk::Model                         0.03  pkg:cpan/Punk@0.09
+Punk::Model::DBI                    0.03  pkg:cpan/Punk@0.09
+Punk::Model::DBIx::Loop             0.04  pkg:cpan/Punk@0.09
+Punk::Mount::Markdown               0.04  pkg:cpan/Punk@0.09
+Punk::Mount::OpenAPI                0.03  pkg:cpan/Punk@0.09
 Punk::OAuth2                        0.01  pkg:cpan/Punk-OAuth2@0.01
 Punk::OAuth2::Checker               0.01  pkg:cpan/Punk-OAuth2@0.01
 Punk::OAuth2::JWKS                  0.01  pkg:cpan/Punk-OAuth2@0.01
@@ -203274,7 +203274,7 @@ Punk::OAuth2::Server                0.01  pkg:cpan/Punk-OAuth2@0.01
 Punk::OAuth2::Server::Store         0.01  pkg:cpan/Punk-OAuth2@0.01
 Punk::OAuth2::Tokens                0.01  pkg:cpan/Punk-OAuth2@0.01
 Punk::OAuth2::Util                  0.01  pkg:cpan/Punk-OAuth2@0.01
-Punk::Plugin                        0.02  pkg:cpan/Punk@0.08
+Punk::Plugin                        0.03  pkg:cpan/Punk@0.09
 Punk::Plugin::GraphQL               0.01  pkg:cpan/Punk-GraphQL@0.01
 Punk::Plugin::OAuth2                0.01  pkg:cpan/Punk-OAuth2@0.01
 Punk::Plugin::Queue                 0.02  pkg:cpan/Punk-Queue@0.03
@@ -203286,20 +203286,24 @@ Punk::Queue::Command                0.02  pkg:cpan/Punk-Queue@0.03
 Punk::Queue::Cron                   0.02  pkg:cpan/Punk-Queue@0.03
 Punk::Queue::Job                    0.02  pkg:cpan/Punk-Queue@0.03
 Punk::Queue::Worker                 0.02  pkg:cpan/Punk-Queue@0.03
-Punk::RateLimit                     0.01  pkg:cpan/Punk@0.08
-Punk::Request                       0.02  pkg:cpan/Punk@0.08
-Punk::Response                      0.02  pkg:cpan/Punk@0.08
-Punk::Router                        0.02  pkg:cpan/Punk@0.08
-Punk::Router::Scope                 0.02  pkg:cpan/Punk@0.08
-Punk::SSE                           0.02  pkg:cpan/Punk@0.08
-Punk::Session                       0.02  pkg:cpan/Punk@0.08
-Punk::Static                        0.02  pkg:cpan/Punk@0.08
-Punk::UA                            0.02  pkg:cpan/Punk@0.08
-Punk::Upload                        0.02  pkg:cpan/Punk@0.08
-Punk::View::Stencil                 0.02  pkg:cpan/Punk@0.08
-Punk::Views                         0.02  pkg:cpan/Punk@0.08
-Punk::WebSocket                     0.02  pkg:cpan/Punk@0.08
-Punk::WebSocket::Room               0.02  pkg:cpan/Punk@0.08
+Punk::RateLimit                     0.02  pkg:cpan/Punk@0.09
+Punk::Request                       0.03  pkg:cpan/Punk@0.09
+Punk::Response                      0.03  pkg:cpan/Punk@0.09
+Punk::Router                        0.03  pkg:cpan/Punk@0.09
+Punk::Router::Scope                 0.03  pkg:cpan/Punk@0.09
+Punk::SSE                           0.03  pkg:cpan/Punk@0.09
+Punk::Session                       0.03  pkg:cpan/Punk@0.09
+Punk::Static                        0.03  pkg:cpan/Punk@0.09
+Punk::Test                          0.01  pkg:cpan/Punk@0.09
+Punk::Test::WS                      0.01  pkg:cpan/Punk@0.09
+Punk::Test::WS::Conn                0.01  pkg:cpan/Punk@0.09
+Punk::Test::_Writer                 0.01  pkg:cpan/Punk@0.09
+Punk::UA                            0.03  pkg:cpan/Punk@0.09
+Punk::Upload                        0.03  pkg:cpan/Punk@0.09
+Punk::View::Stencil                 0.03  pkg:cpan/Punk@0.09
+Punk::Views                         0.03  pkg:cpan/Punk@0.09
+Punk::WebSocket                     0.03  pkg:cpan/Punk@0.09
+Punk::WebSocket::Room               0.03  pkg:cpan/Punk@0.09
 Puppet::Classify                   undef  pkg:cpan/Puppet-Classify@0.003
 Puppet::DB                         undef  pkg:cpan/Puppet-DB@0.001
 Puppet::Orchestrator               undef  pkg:cpan/Puppet-Orchestrator@0.002
