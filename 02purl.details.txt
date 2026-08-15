@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 15 Aug 2026 04:22:07 GMT
-Line-Count: 267970
+Last-Updated: Sat, 15 Aug 2026 06:24:40 GMT
+Line-Count: 267972
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -22254,13 +22254,13 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         v0.31.5  pkg:cpan/BarefootJS@0.31.5
-BarefootJS::Backend::Mojo          v0.31.5  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.31.5
-BarefootJS::Backend::Xslate        v0.31.5  pkg:cpan/BarefootJS-Backend-Xslate@0.31.5
-BarefootJS::Date                   v0.31.5  pkg:cpan/BarefootJS@0.31.5
-BarefootJS::DevReload              v0.31.5  pkg:cpan/BarefootJS@0.31.5
-BarefootJS::Evaluator              v0.31.5  pkg:cpan/BarefootJS@0.31.5
-BarefootJS::SearchParams           v0.31.5  pkg:cpan/BarefootJS@0.31.5
+BarefootJS                         v0.31.6  pkg:cpan/BarefootJS@0.31.6
+BarefootJS::Backend::Mojo          v0.31.6  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.31.6
+BarefootJS::Backend::Xslate        v0.31.6  pkg:cpan/BarefootJS-Backend-Xslate@0.31.6
+BarefootJS::Date                   v0.31.6  pkg:cpan/BarefootJS@0.31.6
+BarefootJS::DevReload              v0.31.6  pkg:cpan/BarefootJS@0.31.6
+BarefootJS::Evaluator              v0.31.6  pkg:cpan/BarefootJS@0.31.6
+BarefootJS::SearchParams           v0.31.6  pkg:cpan/BarefootJS@0.31.6
 BarefootJS::_TZProbe               0.029000  pkg:cpan/BarefootJS@0.29.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
@@ -49493,6 +49493,8 @@ Crypt::Image::Axis                  0.15  pkg:cpan/Crypt-Image@0.15
 Crypt::Image::Params                0.15  pkg:cpan/Crypt-Image@0.15
 Crypt::Image::Util                  0.15  pkg:cpan/Crypt-Image@0.15
 Crypt::Imail                        0.01  pkg:cpan/Crypt-Imail@0.01
+Crypt::JWS                          0.01  pkg:cpan/Crypt-JWS@0.01
+Crypt::JWS::Key                     0.01  pkg:cpan/Crypt-JWS@0.01
 Crypt::JWT                         0.038  pkg:cpan/Crypt-JWT@0.038
 Crypt::Juniper                      0.02  pkg:cpan/Crypt-Juniper@0.02
 Crypt::KDF::BaseKDFGenerator       0.001  pkg:cpan/Crypt-KDF@0.02
@@ -141178,8 +141180,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    v0.31.5  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.31.5
-Mojolicious::Plugin::BarefootJS::DevReload v0.31.5  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.31.5
+Mojolicious::Plugin::BarefootJS    v0.31.6  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.31.6
+Mojolicious::Plugin::BarefootJS::DevReload v0.31.6  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.31.6
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
