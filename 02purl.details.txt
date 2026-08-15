@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 15 Aug 2026 02:45:16 GMT
+Last-Updated: Sat, 15 Aug 2026 04:22:07 GMT
 Line-Count: 267970
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -3820,10 +3820,10 @@ Advanced::Config::Examples          1.14  pkg:cpan/Advanced-Config@1.14
 Advanced::Config::Options           1.14  pkg:cpan/Advanced-Config@1.14
 Advanced::Config::Reader            1.14  pkg:cpan/Advanced-Config@1.14
 Advent::Bundles                     0.05  pkg:cpan/Advent-Bundles@0.05
-Affix                              v1.2.3  pkg:cpan/Affix@v1.2.3
-Affix::Build                       v1.2.3  pkg:cpan/Affix@v1.2.3
+Affix                              v1.2.4  pkg:cpan/Affix@v1.2.4
+Affix::Build                       v1.2.4  pkg:cpan/Affix@v1.2.4
 Affix::Infix2Postfix                0.03  pkg:cpan/Affix-Infix2Postfix@0.03
-Affix::Wrap                        v1.2.3  pkg:cpan/Affix@v1.2.3
+Affix::Wrap                        v1.2.4  pkg:cpan/Affix@v1.2.4
 AfterAwhileClass                   undef  pkg:cpan/Reflex@0.100
 AfterAwhileRole                    undef  pkg:cpan/Reflex@0.100
 AfterAwhileSubclass                undef  pkg:cpan/Reflex@0.100
