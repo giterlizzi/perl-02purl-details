@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 16 Aug 2026 14:15:16 GMT
-Line-Count: 258479
+Last-Updated: Sun, 16 Aug 2026 16:15:39 GMT
+Line-Count: 258485
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -33273,7 +33273,7 @@ CPAN::02Packages::Search           v1.0.0  pkg:cpan/CPAN-02Packages-Search@v1.0.
 CPAN::API::BuildPL                 0.002  pkg:cpan/CPAN-API-BuildPL@0.002
 CPAN::Admin                        5.501  pkg:cpan/CPAN@2.38
 CPAN::Audit                        20260622.001  pkg:cpan/CPAN-Audit@20260622.001
-CPAN::Audit::DB                    20260811.001  pkg:cpan/CPANSA-DB@20260811.001
+CPAN::Audit::DB                    20260816.002  pkg:cpan/CPANSA-DB@20260816.002
 CPAN::Audit::Discover              1.001  pkg:cpan/CPAN-Audit@20260622.001
 CPAN::Audit::Discover::Cpanfile    1.001  pkg:cpan/CPAN-Audit@20260622.001
 CPAN::Audit::Discover::CpanfileSnapshot 1.001  pkg:cpan/CPAN-Audit@20260622.001
@@ -34046,7 +34046,7 @@ CPANPLUS::YACSmoke::ReAssemble      1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::SortVers        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::locallib        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::inc                      undef  pkg:cpan/CPANPLUS@0.84
-CPANSA::DB                         20260811.001  pkg:cpan/CPANSA-DB@20260811.001
+CPANSA::DB                         20260816.002  pkg:cpan/CPANSA-DB@20260816.002
 CPANSEC::Admin                     0.001  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command            undef  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command::Amend     undef  pkg:cpan/CPANSec-Admin@0.001
@@ -71786,7 +71786,7 @@ Error::WarnDie                     0.17030  pkg:cpan/Error@0.17030
 Error::subs                        0.17030  pkg:cpan/Error@0.17030
 Errors::Errors                      1.26  pkg:cpan/WebTools@1.27
 Escape::Houdini                    v0.3.3  pkg:cpan/Escape-Houdini@0.3.3
-Eshu                                0.11  pkg:cpan/Eshu@0.11
+Eshu                                0.12  pkg:cpan/Eshu@0.12
 Esjis                               1.22  pkg:cpan/Sjis@1.22
 Etcd                               0.004  pkg:cpan/Etcd@0.004
 Etcd::Error                        0.004  pkg:cpan/Etcd@0.004
@@ -100803,6 +100803,12 @@ HTML::_TokenUpdateParser            1.12  pkg:cpan/HTML-Toc@1.12
 HTMLBase                           undef  pkg:cpan/HTML-Seamstress@6.112830
 HTMLElements                       undef  pkg:cpan/Mozilla-DOM@0.23
 HTMLTMPL                            1.34  pkg:cpan/HTMLTMPL@1.34
+HTTP::API::Core                     0.01  pkg:cpan/HTTP-API-Core@0.01
+HTTP::API::Core::Auth              undef  pkg:cpan/HTTP-API-Core@0.01
+HTTP::API::Core::Error             undef  pkg:cpan/HTTP-API-Core@0.01
+HTTP::API::Core::Pagination        undef  pkg:cpan/HTTP-API-Core@0.01
+HTTP::API::Core::RateLimit         undef  pkg:cpan/HTTP-API-Core@0.01
+HTTP::API::Core::Response          undef  pkg:cpan/HTTP-API-Core@0.01
 HTTP::Accept                        0.03  pkg:cpan/HTTP-Accept@0.03
 HTTP::AcceptCharset                 0.04  pkg:cpan/HTTP-AcceptCharset@0.04
 HTTP::AcceptLanguage                0.02  pkg:cpan/HTTP-AcceptLanguage@0.02
@@ -107803,8 +107809,8 @@ JSON::Schema::AsType::Type         v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
 JSON::Schema::AsType::Visit        v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
 JSON::Schema::Draft201909          0.130  pkg:cpan/JSON-Schema-Draft201909@0.130
 JSON::Schema::Error                0.016  pkg:cpan/JSON-Schema@0.016
-JSON::Schema::Fast                  0.07  pkg:cpan/JSON-Schema-Fast@0.07
-JSON::Schema::Fast::Compiled        0.07  pkg:cpan/JSON-Schema-Fast@0.07
+JSON::Schema::Fast                  0.08  pkg:cpan/JSON-Schema-Fast@0.08
+JSON::Schema::Fast::Compiled        0.08  pkg:cpan/JSON-Schema-Fast@0.08
 JSON::Schema::Fit                   0.07  pkg:cpan/JSON-Schema-Fit@0.07
 JSON::Schema::Generate              0.15  pkg:cpan/JSON-Schema-Generate@0.15
 JSON::Schema::Helper               0.016  pkg:cpan/JSON-Schema@0.016
@@ -215672,7 +215678,7 @@ Stats::Fermi::FermiDiracStats      undef  pkg:cpan/Stats-Fermi@0.1.7
 Stats::Hawking                     0.001003  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HTRandom           undef  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HawkingTemperature undef  pkg:cpan/Stats-Hawking@0.1.3
-Stats::LikeR                       0.298  pkg:cpan/Stats-LikeR@0.298
+Stats::LikeR                         0.3  pkg:cpan/Stats-LikeR@0.3
 Stats::LikeR::Pred                  0.16  pkg:cpan/Stats-LikeR@0.16
 Stats::LikeR::col                   0.28  pkg:cpan/Stats-LikeR@0.28
 StatsView::Graph                    1.15  pkg:cpan/StatsView@1.4
@@ -221034,8 +221040,8 @@ Template::Stash::EscapeHTML         0.02  pkg:cpan/Template-Stash-EscapeHTML@0.0
 Template::Stash::ForceUTF8          0.03  pkg:cpan/Template-Provider-Encoding@0.10
 Template::Stash::HTML::Entities    1.003001  pkg:cpan/Template-Stash-HTML-Entities@1.3.1
 Template::Stash::XS                undef  pkg:cpan/Template-Toolkit@3.106
-Template::Stencil                   0.07  pkg:cpan/Template-Stencil@0.07
-Template::Stencil::PSGI             0.04  pkg:cpan/Template-Stencil@0.07
+Template::Stencil                   0.08  pkg:cpan/Template-Stencil@0.08
+Template::Stencil::PSGI             0.04  pkg:cpan/Template-Stencil@0.08
 Template::Swig                      0.05  pkg:cpan/Template-Swig@0.05
 Template::TAL                       0.91  pkg:cpan/Template-TAL@0.91
 Template::TAL::Language            undef  pkg:cpan/Template-TAL@0.91
