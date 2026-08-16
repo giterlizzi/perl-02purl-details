@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 16 Aug 2026 12:24:06 GMT
+Last-Updated: Sun, 16 Aug 2026 14:15:16 GMT
 Line-Count: 258479
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -15526,41 +15526,41 @@ App::cpanreports                   0.004  pkg:cpan/App-cpanreports@0.004
 App::cpantested                    0.003  pkg:cpan/App-cpantested@0.003
 App::cpanthanks                     0.03  pkg:cpan/App-cpanthanks@0.03
 App::cpantimes                     1.502101  pkg:cpan/App-cpantimes@1.502101
-App::cpm                           v1.1.4  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Builder::Base            undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Builder::EUMM            undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Builder::MB              undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Builder::Prebuilt        undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Builder::Static          undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::CLI                      undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::CircularDependency       undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Context                  undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::DistNotation             undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Distribution             undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::HTTP                     undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Installer::Unpacker      undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Logger                   undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Logger::File             undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Logger::Terminal         undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Master                   undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Requirement              undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Resolver                 undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Resolver::02Packages     undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Resolver::Cascade        undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Resolver::Custom         undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Resolver::Fixed          undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Resolver::MetaCPAN       undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Resolver::MetaDB         undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Resolver::Snapshot       undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Task                     undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Tutorial                 undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Util                     undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Worker                   undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Worker::Installer        undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::Worker::Installer::Custom undef  pkg:cpan/App-cpm@v1.1.4
+App::cpm                           v1.1.5  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Builder::Base            undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Builder::EUMM            undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Builder::MB              undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Builder::Prebuilt        undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Builder::Static          undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::CLI                      undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::CircularDependency       undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Context                  undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::DistNotation             undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Distribution             undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::HTTP                     undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Installer::Unpacker      undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Logger                   undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Logger::File             undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Logger::Terminal         undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Master                   undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Requirement              undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Resolver                 undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Resolver::02Packages     undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Resolver::Cascade        undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Resolver::Custom         undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Resolver::Fixed          undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Resolver::MetaCPAN       undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Resolver::MetaDB         undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Resolver::Snapshot       undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Task                     undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Tutorial                 undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Util                     undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Worker                   undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Worker::Installer        undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::Worker::Installer::Custom undef  pkg:cpan/App-cpm@v1.1.5
 App::cpm::Worker::Installer::Prebuilt undef  pkg:cpan/App-cpm@v1.1.3
-App::cpm::Worker::Resolver         undef  pkg:cpan/App-cpm@v1.1.4
-App::cpm::version                  undef  pkg:cpan/App-cpm@v1.1.4
+App::cpm::Worker::Resolver         undef  pkg:cpan/App-cpm@v1.1.5
+App::cpm::version                  undef  pkg:cpan/App-cpm@v1.1.5
 App::cpx                            0.04  pkg:cpan/App-cpx@0.04
 App::crosstable                    0.110  pkg:cpan/App-crosstable@0.110
 App::cryp::Cmd::Exchange::accounts 0.012  pkg:cpan/App-cryp-exchange@0.012
@@ -49808,7 +49808,7 @@ Crypt::OpenSSL::FASTPBKDF2          0.01  pkg:cpan/Crypt-OpenSSL-FASTPBKDF2@0.01
 Crypt::OpenSSL::Guess               0.15  pkg:cpan/Crypt-OpenSSL-Guess@0.15
 Crypt::OpenSSL::PBKDF2              0.11  pkg:cpan/Crypt-OpenSSL-PBKDF2@0.11
 Crypt::OpenSSL::PKCS10              0.37  pkg:cpan/Crypt-OpenSSL-PKCS10@0.37
-Crypt::OpenSSL::PKCS12              1.98  pkg:cpan/Crypt-OpenSSL-PKCS12@1.98
+Crypt::OpenSSL::PKCS12              1.99  pkg:cpan/Crypt-OpenSSL-PKCS12@1.99
 Crypt::OpenSSL::RC4                 0.04  pkg:cpan/Crypt-OpenSSL-RC4@0.04
 Crypt::OpenSSL::RSA                 0.41  pkg:cpan/Crypt-OpenSSL-RSA@0.41
 Crypt::OpenSSL::Random              0.17  pkg:cpan/Crypt-OpenSSL-Random@0.17
