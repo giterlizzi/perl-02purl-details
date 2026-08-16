@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 16 Aug 2026 08:19:43 GMT
+Last-Updated: Sun, 16 Aug 2026 10:15:14 GMT
 Line-Count: 258477
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -102885,13 +102885,13 @@ Hyper::Developer::Model::Viewer    0.100  pkg:cpan/Hyper-Developer@0.07
 Hyper::Developer::Server           undef  pkg:cpan/Hyper-Developer@0.07
 HyperWave::CSP                     0.003001  pkg:cpan/HyperWave-CSP@0.03.1
 HyperWave::CSP::Message            undef  pkg:cpan/HyperWave-CSP@0.03.1
-Hyperman                            0.19  pkg:cpan/Hyperman@0.19
-Hyperman::Event::Epoll              0.17  pkg:cpan/Hyperman@0.19
-Hyperman::Event::IOUring            0.17  pkg:cpan/Hyperman@0.19
-Hyperman::Event::Kqueue             0.17  pkg:cpan/Hyperman@0.19
-Hyperman::Event::Poll               0.17  pkg:cpan/Hyperman@0.19
-Hyperman::Future                    0.17  pkg:cpan/Hyperman@0.19
-Hyperman::Loop                      0.17  pkg:cpan/Hyperman@0.19
+Hyperman                            0.20  pkg:cpan/Hyperman@0.20
+Hyperman::Event::Epoll              0.17  pkg:cpan/Hyperman@0.20
+Hyperman::Event::IOUring            0.17  pkg:cpan/Hyperman@0.20
+Hyperman::Event::Kqueue             0.17  pkg:cpan/Hyperman@0.20
+Hyperman::Event::Poll               0.17  pkg:cpan/Hyperman@0.20
+Hyperman::Future                    0.17  pkg:cpan/Hyperman@0.20
+Hyperman::Loop                      0.17  pkg:cpan/Hyperman@0.20
 Hyperscan                           0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Database                 0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Matcher                  0.04  pkg:cpan/Hyperscan@0.04
@@ -115318,7 +115318,7 @@ Lingua::Thesaurus::Storage::SQLite undef  pkg:cpan/Lingua-Thesaurus@0.13
 Lingua::Thesaurus::Term            undef  pkg:cpan/Lingua-Thesaurus@0.13
 Lingua::TokenParse                 0.1602  pkg:cpan/Lingua-TokenParse@0.1602
 Lingua::TokiPona::Numbers           0.03  pkg:cpan/Lingua-Conlang-Numbers@0.04
-Lingua::TokiPona::Word             v0.3.0  pkg:cpan/Lingua-TokiPona-Word@v0.03
+Lingua::TokiPona::Word             v0.4.0  pkg:cpan/Lingua-TokiPona-Word@v0.04
 Lingua::Translate                   0.09  pkg:cpan/Lingua-Translate@0.09
 Lingua::Translate::Babelfish       undef  pkg:cpan/Lingua-Translate@0.09
 Lingua::Translate::Bing             0.04  pkg:cpan/Lingua-Translate-Bing@0.04
@@ -115530,16 +115530,16 @@ Lingua::Zompist::Cadhinor           0.92  pkg:cpan/Lingua-Zompist-Cadhinor@0.92
 Lingua::Zompist::Cuezi              0.01  pkg:cpan/Lingua-Zompist-Cuezi@0.01
 Lingua::Zompist::Kebreni            0.90  pkg:cpan/Lingua-Zompist-Kebreni@0.90
 Lingua::Zompist::Verdurian          0.91  pkg:cpan/Lingua-Zompist-Verdurian@0.91
-Lingua::famibeib                   v0.6.0  pkg:cpan/Lingua-famibeib@v0.06
-Lingua::famibeib::ForeignWord      v0.6.0  pkg:cpan/Lingua-famibeib@v0.06
-Lingua::famibeib::Fragment         v0.6.0  pkg:cpan/Lingua-famibeib@v0.06
-Lingua::famibeib::Modifier         v0.6.0  pkg:cpan/Lingua-famibeib@v0.06
-Lingua::famibeib::NameGenerator    v0.6.0  pkg:cpan/Lingua-famibeib@v0.06
-Lingua::famibeib::Prefix           v0.6.0  pkg:cpan/Lingua-famibeib@v0.06
-Lingua::famibeib::Sentence         v0.6.0  pkg:cpan/Lingua-famibeib@v0.06
-Lingua::famibeib::Text             v0.6.0  pkg:cpan/Lingua-famibeib@v0.06
-Lingua::famibeib::Wellknown        v0.6.0  pkg:cpan/Lingua-famibeib@v0.06
-Lingua::famibeib::Word             v0.6.0  pkg:cpan/Lingua-famibeib@v0.06
+Lingua::famibeib                   v0.7.0  pkg:cpan/Lingua-famibeib@v0.07
+Lingua::famibeib::ForeignWord      v0.7.0  pkg:cpan/Lingua-famibeib@v0.07
+Lingua::famibeib::Fragment         v0.7.0  pkg:cpan/Lingua-famibeib@v0.07
+Lingua::famibeib::Modifier         v0.7.0  pkg:cpan/Lingua-famibeib@v0.07
+Lingua::famibeib::NameGenerator    v0.7.0  pkg:cpan/Lingua-famibeib@v0.07
+Lingua::famibeib::Prefix           v0.7.0  pkg:cpan/Lingua-famibeib@v0.07
+Lingua::famibeib::Sentence         v0.7.0  pkg:cpan/Lingua-famibeib@v0.07
+Lingua::famibeib::Text             v0.7.0  pkg:cpan/Lingua-famibeib@v0.07
+Lingua::famibeib::Wellknown        v0.7.0  pkg:cpan/Lingua-famibeib@v0.07
+Lingua::famibeib::Word             v0.7.0  pkg:cpan/Lingua-famibeib@v0.07
 Lingua::pt_BR::Nums2Words           0.02  pkg:cpan/Lingua-pt_BR-Nums2Words@0.02
 Lingua::tlhInganHol::yIghun        20090601  pkg:cpan/Lingua-tlhInganHol-yIghun@20090601
 Lingy                              0.001019  pkg:cpan/Lingy@0.1.19
@@ -189820,7 +189820,7 @@ Plack::Handler::H2::Writer         undef  pkg:cpan/Plack-Handler-H2@0.0.5
 Plack::Handler::HTTP::Server::PSGI undef  pkg:cpan/Plack@1.0054
 Plack::Handler::HTTP::Server::Simple  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
 Plack::Handler::HTTP::Server::Simple::PSGIServer  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
-Plack::Handler::Hyperman            0.17  pkg:cpan/Hyperman@0.19
+Plack::Handler::Hyperman            0.17  pkg:cpan/Hyperman@0.20
 Plack::Handler::Martian             0.08  pkg:cpan/Martian@0.08
 Plack::Handler::Message::Passing   undef  pkg:cpan/Message-Passing-PSGI@0.001
 Plack::Handler::Monoceros          undef  pkg:cpan/Monoceros@0.29
@@ -198354,7 +198354,7 @@ Regexp::Common::profanity_us       4.112150  pkg:cpan/Regexp-Common-profanity_us
 Regexp::Common::time                0.16  pkg:cpan/Regexp-Common-time@0.16
 Regexp::Common::whitespace         2024080801  pkg:cpan/Regexp-Common@2024080801
 Regexp::Common::zip                2024080801  pkg:cpan/Regexp-Common@2024080801
-Regexp::Compare                     0.36  pkg:cpan/Regexp-Compare@0.36
+Regexp::Compare                     0.37  pkg:cpan/Regexp-Compare@0.37
 Regexp::Constant                    1.22  pkg:cpan/Regexp-Constant@1.22
 Regexp::Copy                        0.06  pkg:cpan/Regexp-Copy@0.06
 Regexp::Debugger                   0.002007  pkg:cpan/Regexp-Debugger@0.002007
