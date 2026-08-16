@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 16 Aug 2026 16:15:39 GMT
-Line-Count: 258485
+Last-Updated: Sun, 16 Aug 2026 18:18:15 GMT
+Line-Count: 258487
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -71786,7 +71786,7 @@ Error::WarnDie                     0.17030  pkg:cpan/Error@0.17030
 Error::subs                        0.17030  pkg:cpan/Error@0.17030
 Errors::Errors                      1.26  pkg:cpan/WebTools@1.27
 Escape::Houdini                    v0.3.3  pkg:cpan/Escape-Houdini@0.3.3
-Eshu                                0.12  pkg:cpan/Eshu@0.12
+Eshu                                0.13  pkg:cpan/Eshu@0.13
 Esjis                               1.22  pkg:cpan/Sjis@1.22
 Etcd                               0.004  pkg:cpan/Etcd@0.004
 Etcd::Error                        0.004  pkg:cpan/Etcd@0.004
@@ -102891,13 +102891,13 @@ Hyper::Developer::Model::Viewer    0.100  pkg:cpan/Hyper-Developer@0.07
 Hyper::Developer::Server           undef  pkg:cpan/Hyper-Developer@0.07
 HyperWave::CSP                     0.003001  pkg:cpan/HyperWave-CSP@0.03.1
 HyperWave::CSP::Message            undef  pkg:cpan/HyperWave-CSP@0.03.1
-Hyperman                            0.21  pkg:cpan/Hyperman@0.21
-Hyperman::Event::Epoll              0.17  pkg:cpan/Hyperman@0.21
-Hyperman::Event::IOUring            0.17  pkg:cpan/Hyperman@0.21
-Hyperman::Event::Kqueue             0.17  pkg:cpan/Hyperman@0.21
-Hyperman::Event::Poll               0.17  pkg:cpan/Hyperman@0.21
-Hyperman::Future                    0.17  pkg:cpan/Hyperman@0.21
-Hyperman::Loop                      0.17  pkg:cpan/Hyperman@0.21
+Hyperman                            0.22  pkg:cpan/Hyperman@0.22
+Hyperman::Event::Epoll              0.17  pkg:cpan/Hyperman@0.22
+Hyperman::Event::IOUring            0.17  pkg:cpan/Hyperman@0.22
+Hyperman::Event::Kqueue             0.17  pkg:cpan/Hyperman@0.22
+Hyperman::Event::Poll               0.17  pkg:cpan/Hyperman@0.22
+Hyperman::Future                    0.17  pkg:cpan/Hyperman@0.22
+Hyperman::Loop                      0.17  pkg:cpan/Hyperman@0.22
 Hyperscan                           0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Database                 0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Matcher                  0.04  pkg:cpan/Hyperscan@0.04
@@ -131818,13 +131818,14 @@ Mojolicious::Plugin::Fondation::Action::Static  0.07  pkg:cpan/Mojolicious-Plugi
 Mojolicious::Plugin::Fondation::Action::Templates  0.07  pkg:cpan/Mojolicious-Plugin-Fondation@0.07
 Mojolicious::Plugin::Fondation::Asset  0.04  pkg:cpan/Mojolicious-Plugin-Fondation-Asset@0.04
 Mojolicious::Plugin::Fondation::Asset::Command::asset  0.04  pkg:cpan/Mojolicious-Plugin-Fondation-Asset@0.04
-Mojolicious::Plugin::Fondation::Auth  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Auth@0.02
-Mojolicious::Plugin::Fondation::Auth::Provider  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Auth@0.02
-Mojolicious::Plugin::Fondation::Auth::Provider::DBIx  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Auth@0.02
+Mojolicious::Plugin::Fondation::Auth  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Auth@0.03
+Mojolicious::Plugin::Fondation::Auth::Provider  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Auth@0.03
+Mojolicious::Plugin::Fondation::Auth::Provider::DBIx  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Auth@0.03
 Mojolicious::Plugin::Fondation::Auth::Token  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Auth-Token@0.02
 Mojolicious::Plugin::Fondation::Auth::Token::Controller::ApiToken  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Auth-Token@0.02
 Mojolicious::Plugin::Fondation::Auth::Token::Schema::Result::ApiToken  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Auth-Token@0.02
-Mojolicious::Plugin::Fondation::Authorization  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Authorization@0.01
+Mojolicious::Plugin::Fondation::Authorization  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Authorization@0.02
+Mojolicious::Plugin::Fondation::CSRF  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-CSRF@0.01
 Mojolicious::Plugin::Fondation::Command::fondation  0.07  pkg:cpan/Mojolicious-Plugin-Fondation@0.07
 Mojolicious::Plugin::Fondation::Controller::Base  0.07  pkg:cpan/Mojolicious-Plugin-Fondation@0.07
 Mojolicious::Plugin::Fondation::Controller::Debug  0.01  pkg:cpan/Mojolicious-Plugin-Fondation@0.01
@@ -131833,29 +131834,29 @@ Mojolicious::Plugin::Fondation::Group  0.03  pkg:cpan/Mojolicious-Plugin-Fondati
 Mojolicious::Plugin::Fondation::Group::Controller::Group  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Group@0.03
 Mojolicious::Plugin::Fondation::Group::Schema::Result::Group  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Group@0.03
 Mojolicious::Plugin::Fondation::Group::Schema::Result::UserGroup  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Group@0.03
-Mojolicious::Plugin::Fondation::Group::UI::Bootstrap  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Group-UI-Bootstrap@0.01
+Mojolicious::Plugin::Fondation::Group::UI::Bootstrap  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Group-UI-Bootstrap@0.02
 Mojolicious::Plugin::Fondation::Helpers  0.07  pkg:cpan/Mojolicious-Plugin-Fondation@0.07
-Mojolicious::Plugin::Fondation::I18N  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-I18N@0.01
-Mojolicious::Plugin::Fondation::I18N::Action::I18N  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-I18N@0.01
-Mojolicious::Plugin::Fondation::Layout::Bootstrap  0.04  pkg:cpan/Mojolicious-Plugin-Fondation-Layout-Bootstrap@0.04
+Mojolicious::Plugin::Fondation::I18N  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-I18N@0.02
+Mojolicious::Plugin::Fondation::I18N::Action::I18N  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-I18N@0.02
+Mojolicious::Plugin::Fondation::Layout::Bootstrap  0.05  pkg:cpan/Mojolicious-Plugin-Fondation-Layout-Bootstrap@0.05
 Mojolicious::Plugin::Fondation::Manager  0.07  pkg:cpan/Mojolicious-Plugin-Fondation@0.07
-Mojolicious::Plugin::Fondation::Menu  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Menu@0.03
-Mojolicious::Plugin::Fondation::Menu::Command::menu  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Menu@0.03
-Mojolicious::Plugin::Fondation::Menu::Controller::Menu  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Menu@0.03
-Mojolicious::Plugin::Fondation::Menu::Helpers  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Menu@0.03
-Mojolicious::Plugin::Fondation::Menu::Schema::Result::Menu  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Menu@0.03
-Mojolicious::Plugin::Fondation::MigrationDBIx  0.05  pkg:cpan/Mojolicious-Plugin-Fondation-MigrationDBIx@0.05
-Mojolicious::Plugin::Fondation::MigrationDBIx::Command::db  0.05  pkg:cpan/Mojolicious-Plugin-Fondation-MigrationDBIx@0.05
+Mojolicious::Plugin::Fondation::Menu  0.04  pkg:cpan/Mojolicious-Plugin-Fondation-Menu@0.04
+Mojolicious::Plugin::Fondation::Menu::Command::menu  0.04  pkg:cpan/Mojolicious-Plugin-Fondation-Menu@0.04
+Mojolicious::Plugin::Fondation::Menu::Controller::Menu  0.04  pkg:cpan/Mojolicious-Plugin-Fondation-Menu@0.04
+Mojolicious::Plugin::Fondation::Menu::Helpers  0.04  pkg:cpan/Mojolicious-Plugin-Fondation-Menu@0.04
+Mojolicious::Plugin::Fondation::Menu::Schema::Result::Menu  0.04  pkg:cpan/Mojolicious-Plugin-Fondation-Menu@0.04
+Mojolicious::Plugin::Fondation::MigrationDBIx  0.06  pkg:cpan/Mojolicious-Plugin-Fondation-MigrationDBIx@0.06
+Mojolicious::Plugin::Fondation::MigrationDBIx::Command::db  0.06  pkg:cpan/Mojolicious-Plugin-Fondation-MigrationDBIx@0.06
 Mojolicious::Plugin::Fondation::Model::DBIx::Async  0.06  pkg:cpan/Mojolicious-Plugin-Fondation-Model-DBIx-Async@0.06
 Mojolicious::Plugin::Fondation::Model::DBIx::Async::Action::DBIx  0.06  pkg:cpan/Mojolicious-Plugin-Fondation-Model-DBIx-Async@0.06
 Mojolicious::Plugin::Fondation::Model::DBIx::Async::ResultSet  0.06  pkg:cpan/Mojolicious-Plugin-Fondation-Model-DBIx-Async@0.06
-Mojolicious::Plugin::Fondation::OpenAPI  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-OpenAPI@0.03
-Mojolicious::Plugin::Fondation::OpenAPI::Command::openapi  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-OpenAPI@0.03
+Mojolicious::Plugin::Fondation::OpenAPI  0.04  pkg:cpan/Mojolicious-Plugin-Fondation-OpenAPI@0.04
+Mojolicious::Plugin::Fondation::OpenAPI::Command::openapi  0.04  pkg:cpan/Mojolicious-Plugin-Fondation-OpenAPI@0.04
 Mojolicious::Plugin::Fondation::Perm  0.04  pkg:cpan/Mojolicious-Plugin-Fondation-Perm@0.04
 Mojolicious::Plugin::Fondation::Perm::Controller::Perm  0.04  pkg:cpan/Mojolicious-Plugin-Fondation-Perm@0.04
 Mojolicious::Plugin::Fondation::Perm::Schema::Result::GroupPerm  0.04  pkg:cpan/Mojolicious-Plugin-Fondation-Perm@0.04
 Mojolicious::Plugin::Fondation::Perm::Schema::Result::Perm  0.04  pkg:cpan/Mojolicious-Plugin-Fondation-Perm@0.04
-Mojolicious::Plugin::Fondation::Perm::UI::Bootstrap  0.01  pkg:cpan/Mojolicious-Plugin-Fondation-Perm-UI-Bootstrap@0.01
+Mojolicious::Plugin::Fondation::Perm::UI::Bootstrap  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Perm-UI-Bootstrap@0.02
 Mojolicious::Plugin::Fondation::Problem  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-Problem@0.03
 Mojolicious::Plugin::Fondation::Resolver  0.07  pkg:cpan/Mojolicious-Plugin-Fondation@0.07
 Mojolicious::Plugin::Fondation::Schema::Result::Base  0.07  pkg:cpan/Mojolicious-Plugin-Fondation@0.07
@@ -131864,17 +131865,18 @@ Mojolicious::Plugin::Fondation::Setup  0.11  pkg:cpan/Mojolicious-Plugin-Fondati
 Mojolicious::Plugin::Fondation::Setup::Controller::Setup  0.11  pkg:cpan/Mojolicious-Plugin-Fondation-Setup@0.11
 Mojolicious::Plugin::Fondation::Setup::MetaCPAN  0.11  pkg:cpan/Mojolicious-Plugin-Fondation-Setup@0.11
 Mojolicious::Plugin::Fondation::TestHelper  0.07  pkg:cpan/Mojolicious-Plugin-Fondation@0.07
-Mojolicious::Plugin::Fondation::User  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-User@0.03
-Mojolicious::Plugin::Fondation::User::Controller::User  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-User@0.03
-Mojolicious::Plugin::Fondation::User::Schema::Result::User  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-User@0.03
-Mojolicious::Plugin::Fondation::User::Schema::ResultSet::User  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-User@0.03
-Mojolicious::Plugin::Fondation::User::UI::Bootstrap  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-User-UI-Bootstrap@0.02
+Mojolicious::Plugin::Fondation::User  0.04  pkg:cpan/Mojolicious-Plugin-Fondation-User@0.04
+Mojolicious::Plugin::Fondation::User::Controller::User  0.04  pkg:cpan/Mojolicious-Plugin-Fondation-User@0.04
+Mojolicious::Plugin::Fondation::User::Schema::Result::User  0.04  pkg:cpan/Mojolicious-Plugin-Fondation-User@0.04
+Mojolicious::Plugin::Fondation::User::Schema::ResultSet::User  0.04  pkg:cpan/Mojolicious-Plugin-Fondation-User@0.04
+Mojolicious::Plugin::Fondation::User::UI::Bootstrap  0.03  pkg:cpan/Mojolicious-Plugin-Fondation-User-UI-Bootstrap@0.03
 Mojolicious::Plugin::Fondation::Utils  0.07  pkg:cpan/Mojolicious-Plugin-Fondation@0.07
 Mojolicious::Plugin::Fondation::Workflow  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Workflow@0.02
 Mojolicious::Plugin::Fondation::Workflow::Action::Workflow  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Workflow@0.02
 Mojolicious::Plugin::Fondation::Workflow::Proxy  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Workflow@0.02
 Mojolicious::Plugin::Fondation::Workflow::Schema::Result::Workflow  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Workflow@0.02
 Mojolicious::Plugin::Fondation::Workflow::Schema::Result::WorkflowHistory  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Workflow@0.02
+Mojolicious::Plugin::Fondation::Workflow::UI::Bootstrap  0.02  pkg:cpan/Mojolicious-Plugin-Fondation-Workflow-UI-Bootstrap@0.02
 Mojolicious::Plugin::FontAwesomeHelpers 0.001000  pkg:cpan/Mojolicious-Plugin-FontAwesomeHelpers@v0.1.0
 Mojolicious::Plugin::ForkCall      undef  pkg:cpan/Mojo-IOLoop-ForkCall@0.21
 Mojolicious::Plugin::ForkCart       0.03  pkg:cpan/Mojolicious-Plugin-ForkCart@0.03
@@ -189826,7 +189828,7 @@ Plack::Handler::H2::Writer         undef  pkg:cpan/Plack-Handler-H2@0.0.5
 Plack::Handler::HTTP::Server::PSGI undef  pkg:cpan/Plack@1.0054
 Plack::Handler::HTTP::Server::Simple  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
 Plack::Handler::HTTP::Server::Simple::PSGIServer  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
-Plack::Handler::Hyperman            0.17  pkg:cpan/Hyperman@0.21
+Plack::Handler::Hyperman            0.17  pkg:cpan/Hyperman@0.22
 Plack::Handler::Martian             0.08  pkg:cpan/Martian@0.08
 Plack::Handler::Message::Passing   undef  pkg:cpan/Message-Passing-PSGI@0.001
 Plack::Handler::Monoceros          undef  pkg:cpan/Monoceros@0.29
