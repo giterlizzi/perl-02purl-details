@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 17 Aug 2026 10:24:23 GMT
-Line-Count: 258490
+Last-Updated: Mon, 17 Aug 2026 12:28:54 GMT
+Line-Count: 258491
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -71786,7 +71786,7 @@ Error::WarnDie                     0.17030  pkg:cpan/Error@0.17030
 Error::subs                        0.17030  pkg:cpan/Error@0.17030
 Errors::Errors                      1.26  pkg:cpan/WebTools@1.27
 Escape::Houdini                    v0.3.3  pkg:cpan/Escape-Houdini@0.3.3
-Eshu                                0.13  pkg:cpan/Eshu@0.13
+Eshu                                0.14  pkg:cpan/Eshu@0.14
 Esjis                               1.22  pkg:cpan/Sjis@1.22
 Etcd                               0.004  pkg:cpan/Etcd@0.004
 Etcd::Error                        0.004  pkg:cpan/Etcd@0.004
@@ -102891,13 +102891,13 @@ Hyper::Developer::Model::Viewer    0.100  pkg:cpan/Hyper-Developer@0.07
 Hyper::Developer::Server           undef  pkg:cpan/Hyper-Developer@0.07
 HyperWave::CSP                     0.003001  pkg:cpan/HyperWave-CSP@0.03.1
 HyperWave::CSP::Message            undef  pkg:cpan/HyperWave-CSP@0.03.1
-Hyperman                            0.23  pkg:cpan/Hyperman@0.23
-Hyperman::Event::Epoll              0.17  pkg:cpan/Hyperman@0.23
-Hyperman::Event::IOUring            0.17  pkg:cpan/Hyperman@0.23
-Hyperman::Event::Kqueue             0.17  pkg:cpan/Hyperman@0.23
-Hyperman::Event::Poll               0.17  pkg:cpan/Hyperman@0.23
-Hyperman::Future                    0.17  pkg:cpan/Hyperman@0.23
-Hyperman::Loop                      0.17  pkg:cpan/Hyperman@0.23
+Hyperman                            0.24  pkg:cpan/Hyperman@0.24
+Hyperman::Event::Epoll              0.17  pkg:cpan/Hyperman@0.24
+Hyperman::Event::IOUring            0.17  pkg:cpan/Hyperman@0.24
+Hyperman::Event::Kqueue             0.17  pkg:cpan/Hyperman@0.24
+Hyperman::Event::Poll               0.17  pkg:cpan/Hyperman@0.24
+Hyperman::Future                    0.17  pkg:cpan/Hyperman@0.24
+Hyperman::Loop                      0.17  pkg:cpan/Hyperman@0.24
 Hyperscan                           0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Database                 0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Matcher                  0.04  pkg:cpan/Hyperscan@0.04
@@ -189828,7 +189828,7 @@ Plack::Handler::H2::Writer         undef  pkg:cpan/Plack-Handler-H2@0.0.5
 Plack::Handler::HTTP::Server::PSGI undef  pkg:cpan/Plack@1.0054
 Plack::Handler::HTTP::Server::Simple  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
 Plack::Handler::HTTP::Server::Simple::PSGIServer  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
-Plack::Handler::Hyperman            0.17  pkg:cpan/Hyperman@0.23
+Plack::Handler::Hyperman            0.17  pkg:cpan/Hyperman@0.24
 Plack::Handler::Martian             0.08  pkg:cpan/Martian@0.08
 Plack::Handler::Message::Passing   undef  pkg:cpan/Message-Passing-PSGI@0.001
 Plack::Handler::Monoceros          undef  pkg:cpan/Monoceros@0.29
@@ -218609,6 +218609,7 @@ TUI::App                           v2.0.1  pkg:cpan/TUI-Vision@v2.0.1
 TUI::Dialogs                       v2.0.1  pkg:cpan/TUI-Vision@v2.0.1
 TUI::Drivers                       v2.0.1  pkg:cpan/TUI-Vision@v2.0.1
 TUI::Gadgets                       v2.0.1  pkg:cpan/TUI-Vision@v2.0.1
+TUI::Handy                          0.01  pkg:cpan/TUI-Handy@0.01
 TUI::Memory                        v2.0.1  pkg:cpan/TUI-Vision@v2.0.1
 TUI::MsgBox                        v2.0.1  pkg:cpan/TUI-Vision@v2.0.1
 TUI::Objects                       v2.0.1  pkg:cpan/TUI-Vision@v2.0.1
