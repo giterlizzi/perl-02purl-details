@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 17 Aug 2026 18:27:45 GMT
+Last-Updated: Mon, 17 Aug 2026 20:17:29 GMT
 Line-Count: 258495
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -22551,8 +22551,8 @@ Bench::CompactTree                 undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
 Bench::ExpatHandler                undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
 Bench::SAXHandler                  undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
 BenchAccel                         undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.7.0
-BenchCat                           undef  pkg:cpan/Punk@0.15
-BenchCat::Controller::Root         undef  pkg:cpan/Punk@0.15
+BenchCat                           undef  pkg:cpan/Punk@0.16
+BenchCat::Controller::Root         undef  pkg:cpan/Punk@0.16
 Bencher                            v1.62.4  pkg:cpan/Bencher@1.062.4
 Bencher::BPM                       0.002  pkg:cpan/Bencher-BPM@0.002
 Bencher::Backend                   1.063  pkg:cpan/Bencher-Backend@1.063
@@ -100804,14 +100804,14 @@ HTML::_TokenUpdateParser            1.12  pkg:cpan/HTML-Toc@1.12
 HTMLBase                           undef  pkg:cpan/HTML-Seamstress@6.112830
 HTMLElements                       undef  pkg:cpan/Mozilla-DOM@0.23
 HTMLTMPL                            1.34  pkg:cpan/HTMLTMPL@1.34
-HTTP::API::Client                   1.05  pkg:cpan/HTTP-API-Client@1.05
+HTTP::API::Client                   1.06  pkg:cpan/HTTP-API-Client@1.06
 HTTP::API::Core                     1.00  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Auth              undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Error             undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Pagination        undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::RateLimit         undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Response          undef  pkg:cpan/HTTP-API-Core@1.00
-HTTP::API::DataTypeMarker           1.05  pkg:cpan/HTTP-API-Client@1.05
+HTTP::API::DataTypeMarker           1.06  pkg:cpan/HTTP-API-Client@1.06
 HTTP::Accept                        0.03  pkg:cpan/HTTP-Accept@0.03
 HTTP::AcceptCharset                 0.04  pkg:cpan/HTTP-AcceptCharset@0.04
 HTTP::AcceptLanguage                0.02  pkg:cpan/HTTP-AcceptLanguage@0.02
@@ -193746,28 +193746,28 @@ Puncheur::Request                  undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Response                 undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Runner                   undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Trigger                  undef  pkg:cpan/Puncheur@v0.3.0
-Punk                                0.15  pkg:cpan/Punk@0.15
-Punk::App                           0.14  pkg:cpan/Punk@0.15
-Punk::Auth                          0.14  pkg:cpan/Punk@0.15
-Punk::Auth::Password                0.14  pkg:cpan/Punk@0.15
-Punk::CORS                          0.14  pkg:cpan/Punk@0.15
-Punk::CSRF                          0.14  pkg:cpan/Punk@0.15
-Punk::Command                       0.14  pkg:cpan/Punk@0.15
+Punk                                0.16  pkg:cpan/Punk@0.16
+Punk::App                           0.16  pkg:cpan/Punk@0.16
+Punk::Auth                          0.16  pkg:cpan/Punk@0.16
+Punk::Auth::Password                0.16  pkg:cpan/Punk@0.16
+Punk::CORS                          0.16  pkg:cpan/Punk@0.16
+Punk::CSRF                          0.16  pkg:cpan/Punk@0.16
+Punk::Command                       0.16  pkg:cpan/Punk@0.16
 Punk::Command::Queue                0.04  pkg:cpan/Punk-Queue@0.04
-Punk::Config                        0.14  pkg:cpan/Punk@0.15
-Punk::Context                       0.14  pkg:cpan/Punk@0.15
-Punk::Controller                    0.14  pkg:cpan/Punk@0.15
-Punk::DevError                      0.14  pkg:cpan/Punk@0.15
-Punk::Future                        0.14  pkg:cpan/Punk@0.15
-Punk::Generate                      0.14  pkg:cpan/Punk@0.15
+Punk::Config                        0.16  pkg:cpan/Punk@0.16
+Punk::Context                       0.16  pkg:cpan/Punk@0.16
+Punk::Controller                    0.16  pkg:cpan/Punk@0.16
+Punk::DevError                      0.16  pkg:cpan/Punk@0.16
+Punk::Future                        0.16  pkg:cpan/Punk@0.16
+Punk::Generate                      0.16  pkg:cpan/Punk@0.16
 Punk::GraphQL                       0.02  pkg:cpan/Punk-GraphQL@0.02
-Punk::Headers                       0.14  pkg:cpan/Punk@0.15
-Punk::Logger                        0.14  pkg:cpan/Punk@0.15
-Punk::Model                         0.14  pkg:cpan/Punk@0.15
-Punk::Model::DBI                    0.14  pkg:cpan/Punk@0.15
-Punk::Model::DBIx::Loop             0.14  pkg:cpan/Punk@0.15
-Punk::Mount::Markdown               0.14  pkg:cpan/Punk@0.15
-Punk::Mount::OpenAPI                0.14  pkg:cpan/Punk@0.15
+Punk::Headers                       0.16  pkg:cpan/Punk@0.16
+Punk::Logger                        0.16  pkg:cpan/Punk@0.16
+Punk::Model                         0.16  pkg:cpan/Punk@0.16
+Punk::Model::DBI                    0.16  pkg:cpan/Punk@0.16
+Punk::Model::DBIx::Loop             0.16  pkg:cpan/Punk@0.16
+Punk::Mount::Markdown               0.16  pkg:cpan/Punk@0.16
+Punk::Mount::OpenAPI                0.16  pkg:cpan/Punk@0.16
 Punk::OAuth2                        0.02  pkg:cpan/Punk-OAuth2@0.02
 Punk::OAuth2::Checker               0.02  pkg:cpan/Punk-OAuth2@0.02
 Punk::OAuth2::JWKS                  0.02  pkg:cpan/Punk-OAuth2@0.02
@@ -193777,7 +193777,7 @@ Punk::OAuth2::Server                0.02  pkg:cpan/Punk-OAuth2@0.02
 Punk::OAuth2::Server::Store         0.02  pkg:cpan/Punk-OAuth2@0.02
 Punk::OAuth2::Tokens                0.02  pkg:cpan/Punk-OAuth2@0.02
 Punk::OAuth2::Util                  0.02  pkg:cpan/Punk-OAuth2@0.02
-Punk::Plugin                        0.14  pkg:cpan/Punk@0.15
+Punk::Plugin                        0.16  pkg:cpan/Punk@0.16
 Punk::Plugin::GraphQL               0.02  pkg:cpan/Punk-GraphQL@0.02
 Punk::Plugin::OAuth2                0.02  pkg:cpan/Punk-OAuth2@0.02
 Punk::Plugin::Queue                 0.02  pkg:cpan/Punk-Queue@0.04
@@ -193789,26 +193789,26 @@ Punk::Queue::Command                0.02  pkg:cpan/Punk-Queue@0.04
 Punk::Queue::Cron                   0.02  pkg:cpan/Punk-Queue@0.04
 Punk::Queue::Job                    0.02  pkg:cpan/Punk-Queue@0.04
 Punk::Queue::Worker                 0.02  pkg:cpan/Punk-Queue@0.04
-Punk::RateLimit                     0.14  pkg:cpan/Punk@0.15
-Punk::Request                       0.14  pkg:cpan/Punk@0.15
-Punk::Response                      0.14  pkg:cpan/Punk@0.15
-Punk::Router                        0.14  pkg:cpan/Punk@0.15
-Punk::Router::Scope                 0.14  pkg:cpan/Punk@0.15
-Punk::SSE                           0.14  pkg:cpan/Punk@0.15
-Punk::SendFile::Reader              0.14  pkg:cpan/Punk@0.15
-Punk::Session                       0.14  pkg:cpan/Punk@0.15
-Punk::Static                        0.14  pkg:cpan/Punk@0.15
-Punk::Test                          0.14  pkg:cpan/Punk@0.15
-Punk::Test::WS                      0.14  pkg:cpan/Punk@0.15
-Punk::Test::WS::Conn                0.14  pkg:cpan/Punk@0.15
+Punk::RateLimit                     0.16  pkg:cpan/Punk@0.16
+Punk::Request                       0.16  pkg:cpan/Punk@0.16
+Punk::Response                      0.16  pkg:cpan/Punk@0.16
+Punk::Router                        0.16  pkg:cpan/Punk@0.16
+Punk::Router::Scope                 0.16  pkg:cpan/Punk@0.16
+Punk::SSE                           0.16  pkg:cpan/Punk@0.16
+Punk::SendFile::Reader              0.16  pkg:cpan/Punk@0.16
+Punk::Session                       0.16  pkg:cpan/Punk@0.16
+Punk::Static                        0.16  pkg:cpan/Punk@0.16
+Punk::Test                          0.16  pkg:cpan/Punk@0.16
+Punk::Test::WS                      0.16  pkg:cpan/Punk@0.16
+Punk::Test::WS::Conn                0.16  pkg:cpan/Punk@0.16
 Punk::Test::_Writer                 0.12  pkg:cpan/Punk@0.12
-Punk::UA                            0.14  pkg:cpan/Punk@0.15
-Punk::Upload                        0.14  pkg:cpan/Punk@0.15
-Punk::Validate                      0.14  pkg:cpan/Punk@0.15
-Punk::View::Stencil                 0.14  pkg:cpan/Punk@0.15
-Punk::Views                         0.14  pkg:cpan/Punk@0.15
-Punk::WebSocket                     0.14  pkg:cpan/Punk@0.15
-Punk::WebSocket::Room               0.14  pkg:cpan/Punk@0.15
+Punk::UA                            0.16  pkg:cpan/Punk@0.16
+Punk::Upload                        0.16  pkg:cpan/Punk@0.16
+Punk::Validate                      0.16  pkg:cpan/Punk@0.16
+Punk::View::Stencil                 0.16  pkg:cpan/Punk@0.16
+Punk::Views                         0.16  pkg:cpan/Punk@0.16
+Punk::WebSocket                     0.16  pkg:cpan/Punk@0.16
+Punk::WebSocket::Room               0.16  pkg:cpan/Punk@0.16
 Puppet::Classify                   undef  pkg:cpan/Puppet-Classify@0.003
 Puppet::DB                         undef  pkg:cpan/Puppet-DB@0.001
 Puppet::Orchestrator               undef  pkg:cpan/Puppet-Orchestrator@0.002
