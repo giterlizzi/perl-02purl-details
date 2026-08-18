@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 18 Aug 2026 20:14:51 GMT
-Line-Count: 258621
+Last-Updated: Tue, 18 Aug 2026 22:14:51 GMT
+Line-Count: 258651
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -12273,6 +12273,15 @@ App::Open::Backend::Dummy          undef  pkg:cpan/App-Open@0.0.4
 App::Open::Backend::MailCap        undef  pkg:cpan/App-Open@0.0.4
 App::Open::Backend::YAML           undef  pkg:cpan/App-Open@0.0.4
 App::Open::Config                  undef  pkg:cpan/App-Open@0.0.4
+App::OpenHAP                       0.001000  pkg:cpan/App-OpenHAP@0.1.0
+App::OpenHAP::Devices              0.001000  pkg:cpan/App-OpenHAP@0.1.0
+App::OpenHAP::Host                 0.001000  pkg:cpan/App-OpenHAP@0.1.0
+App::OpenHAP::Tasmota::Device      0.001000  pkg:cpan/App-OpenHAP@0.1.0
+App::OpenHAP::Tasmota::Heater      0.001000  pkg:cpan/App-OpenHAP@0.1.0
+App::OpenHAP::Tasmota::Lightbulb   0.001000  pkg:cpan/App-OpenHAP@0.1.0
+App::OpenHAP::Tasmota::Sensor      0.001000  pkg:cpan/App-OpenHAP@0.1.0
+App::OpenHAP::Tasmota::Thermostat  0.001000  pkg:cpan/App-OpenHAP@0.1.0
+App::OpenHAP::Test::Integration    0.001000  pkg:cpan/App-OpenHAP@0.1.0
 App::OpenMbox                       0.13  pkg:cpan/App-OpenMbox@0.13?ext=tgz
 App::OpenMbox::Client               0.13  pkg:cpan/App-OpenMbox-Client@0.13?ext=tgz
 App::OpenMbox::Test                 0.13  pkg:cpan/App-OpenMbox-Test@0.13?ext=tgz
@@ -33027,15 +33036,15 @@ CLI::Popt                           0.01  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X                       undef  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X::BadOption            undef  pkg:cpan/CLI-Popt@0.01
 CLI::Popt::X::Base                 undef  pkg:cpan/CLI-Popt@0.01
-CLI::Simple                        v2.2.0  pkg:cpan/CLI-Simple@2.2.0
-CLI::Simple::Constants             v2.2.0  pkg:cpan/CLI-Simple@2.2.0
-CLI::Simple::DumpSpec                  0  pkg:cpan/CLI-Simple@2.2.0
-CLI::Simple::Helpers                   0  pkg:cpan/CLI-Simple@2.2.0
-CLI::Simple::Migrate                   0  pkg:cpan/CLI-Simple@2.2.0
-CLI::Simple::Modulino                  0  pkg:cpan/CLI-Simple@2.2.0
-CLI::Simple::Scaffold                  0  pkg:cpan/CLI-Simple@2.2.0
-CLI::Simple::Shell                     0  pkg:cpan/CLI-Simple@2.2.0
-CLI::Simple::Utils                 v2.2.0  pkg:cpan/CLI-Simple@2.2.0
+CLI::Simple                        v2.2.2  pkg:cpan/CLI-Simple@2.2.2
+CLI::Simple::Constants             v2.2.2  pkg:cpan/CLI-Simple@2.2.2
+CLI::Simple::DumpSpec                  0  pkg:cpan/CLI-Simple@2.2.2
+CLI::Simple::Helpers                   0  pkg:cpan/CLI-Simple@2.2.2
+CLI::Simple::Migrate                   0  pkg:cpan/CLI-Simple@2.2.2
+CLI::Simple::Modulino                  0  pkg:cpan/CLI-Simple@2.2.2
+CLI::Simple::Scaffold                  0  pkg:cpan/CLI-Simple@2.2.2
+CLI::Simple::Shell                     0  pkg:cpan/CLI-Simple@2.2.2
+CLI::Simple::Utils                 v2.2.2  pkg:cpan/CLI-Simple@2.2.2
 CLI::Startup                        0.29  pkg:cpan/CLI-Startup@0.29
 CLI::Table::Key::Finder             0.31  pkg:cpan/CLI-Table-Key-Finder@0.31
 CLI::Table::Util                    0.06  pkg:cpan/CLI-Table-Util@0.06
@@ -33539,25 +33548,28 @@ CPAN::Local::Role::Inject          0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Local::Role::MetaCPAN::API   0.001  pkg:cpan/CPAN-Local-Role-MetaCPAN-API@0.001
 CPAN::Local::Role::Prune           0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Local::Role::Remove          0.010  pkg:cpan/CPAN-Local@0.010
-CPAN::Maker                        v2.0.5  pkg:cpan/CPAN-Maker@2.0.5
-CPAN::Maker::Bootstrapper          v2.0.11  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
-CPAN::Maker::Bootstrapper::ConfigReader     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
-CPAN::Maker::Bootstrapper::Constants     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
-CPAN::Maker::Bootstrapper::Role::CreateConfig     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
-CPAN::Maker::Bootstrapper::Role::CreateDeps     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
-CPAN::Maker::Bootstrapper::Role::ExtraFiles     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
-CPAN::Maker::Bootstrapper::Role::Init     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
-CPAN::Maker::Bootstrapper::Role::Installer v2.0.11  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
-CPAN::Maker::Bootstrapper::Role::LLM::Annotator     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
-CPAN::Maker::Bootstrapper::Role::LLM::Models     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
-CPAN::Maker::Bootstrapper::Role::LLM::ReleaseNotes     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
-CPAN::Maker::Bootstrapper::Role::LLM::Reviewer     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
-CPAN::Maker::Bootstrapper::Role::LLM::Utils     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
-CPAN::Maker::Bootstrapper::Role::ScaffoldImporter     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
-CPAN::Maker::Constants             v2.0.5  pkg:cpan/CPAN-Maker@2.0.5
-CPAN::Maker::Role::FileUtils       v2.0.5  pkg:cpan/CPAN-Maker@2.0.5
-CPAN::Maker::Role::ModuleUtils     v2.0.5  pkg:cpan/CPAN-Maker@2.0.5
-CPAN::Maker::Utils                 v2.0.5  pkg:cpan/CPAN-Maker@2.0.5
+CPAN::Maker                        v2.0.8  pkg:cpan/CPAN-Maker@2.0.8
+CPAN::Maker::Bootstrapper          v2.2.3  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
+CPAN::Maker::Bootstrapper::ConfigReader     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
+CPAN::Maker::Bootstrapper::Constants     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
+CPAN::Maker::Bootstrapper::Role::CreateConfig     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
+CPAN::Maker::Bootstrapper::Role::CreateDeps     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
+CPAN::Maker::Bootstrapper::Role::Critic     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
+CPAN::Maker::Bootstrapper::Role::ExtraFiles     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
+CPAN::Maker::Bootstrapper::Role::Filter     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
+CPAN::Maker::Bootstrapper::Role::Init     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
+CPAN::Maker::Bootstrapper::Role::Installer v2.2.3  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
+CPAN::Maker::Bootstrapper::Role::LLM::Annotator     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
+CPAN::Maker::Bootstrapper::Role::LLM::Models     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
+CPAN::Maker::Bootstrapper::Role::LLM::ReleaseNotes     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
+CPAN::Maker::Bootstrapper::Role::LLM::Reviewer     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
+CPAN::Maker::Bootstrapper::Role::LLM::Utils     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
+CPAN::Maker::Bootstrapper::Role::ResolveVars     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
+CPAN::Maker::Bootstrapper::Role::ScaffoldImporter     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
+CPAN::Maker::Constants             v2.0.8  pkg:cpan/CPAN-Maker@2.0.8
+CPAN::Maker::Role::FileUtils       v2.0.8  pkg:cpan/CPAN-Maker@2.0.8
+CPAN::Maker::Role::ModuleUtils     v2.0.8  pkg:cpan/CPAN-Maker@2.0.8
+CPAN::Maker::Utils                 v2.0.8  pkg:cpan/CPAN-Maker@2.0.8
 CPAN::Meta                         2.150013  pkg:cpan/CPAN-Meta@2.150013
 CPAN::Meta::Check                  0.018  pkg:cpan/CPAN-Meta-Check@0.018
 CPAN::Meta::Converter              2.150013  pkg:cpan/CPAN-Meta@2.150013
@@ -84020,7 +84032,7 @@ Git::Release::BranchManager        undef  pkg:cpan/Git-Release@0.05
 Git::Release::Config               undef  pkg:cpan/Git-Release@0.05
 Git::Release::Remote               undef  pkg:cpan/Git-Release@0.05
 Git::Release::RemoteManager        undef  pkg:cpan/Git-Release@0.05
-Git::ReleaseDiffs                      0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
+Git::ReleaseDiffs                      0  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
 Git::ReleaseRepo                   0.006  pkg:cpan/Git-ReleaseRepo@0.006
 Git::ReleaseRepo::Command          0.006  pkg:cpan/Git-ReleaseRepo@0.006
 Git::ReleaseRepo::Command::add     0.006  pkg:cpan/Git-ReleaseRepo@0.006
@@ -100921,14 +100933,14 @@ HTML::_TokenUpdateParser            1.12  pkg:cpan/HTML-Toc@1.12
 HTMLBase                           undef  pkg:cpan/HTML-Seamstress@6.112830
 HTMLElements                       undef  pkg:cpan/Mozilla-DOM@0.23
 HTMLTMPL                            1.34  pkg:cpan/HTMLTMPL@1.34
-HTTP::API::Client                   1.14  pkg:cpan/HTTP-API-Client@1.14
+HTTP::API::Client                   1.16  pkg:cpan/HTTP-API-Client@1.16
 HTTP::API::Core                     1.00  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Auth              undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Error             undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Pagination        undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::RateLimit         undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Response          undef  pkg:cpan/HTTP-API-Core@1.00
-HTTP::API::DataTypeMarker           1.14  pkg:cpan/HTTP-API-Client@1.14
+HTTP::API::DataTypeMarker           1.16  pkg:cpan/HTTP-API-Client@1.16
 HTTP::Accept                        0.03  pkg:cpan/HTTP-Accept@0.03
 HTTP::AcceptCharset                 0.04  pkg:cpan/HTTP-AcceptCharset@0.04
 HTTP::AcceptLanguage                0.02  pkg:cpan/HTTP-AcceptLanguage@0.02
@@ -103011,13 +103023,13 @@ Hyper::Developer::Model::Viewer    0.100  pkg:cpan/Hyper-Developer@0.07
 Hyper::Developer::Server           undef  pkg:cpan/Hyper-Developer@0.07
 HyperWave::CSP                     0.003001  pkg:cpan/HyperWave-CSP@0.03.1
 HyperWave::CSP::Message            undef  pkg:cpan/HyperWave-CSP@0.03.1
-Hyperman                            0.26  pkg:cpan/Hyperman@0.26
-Hyperman::Event::Epoll              0.26  pkg:cpan/Hyperman@0.26
-Hyperman::Event::IOUring            0.26  pkg:cpan/Hyperman@0.26
-Hyperman::Event::Kqueue             0.26  pkg:cpan/Hyperman@0.26
-Hyperman::Event::Poll               0.26  pkg:cpan/Hyperman@0.26
-Hyperman::Future                    0.26  pkg:cpan/Hyperman@0.26
-Hyperman::Loop                      0.26  pkg:cpan/Hyperman@0.26
+Hyperman                            0.27  pkg:cpan/Hyperman@0.27
+Hyperman::Event::Epoll              0.27  pkg:cpan/Hyperman@0.27
+Hyperman::Event::IOUring            0.27  pkg:cpan/Hyperman@0.27
+Hyperman::Event::Kqueue             0.27  pkg:cpan/Hyperman@0.27
+Hyperman::Event::Poll               0.27  pkg:cpan/Hyperman@0.27
+Hyperman::Future                    0.27  pkg:cpan/Hyperman@0.27
+Hyperman::Loop                      0.27  pkg:cpan/Hyperman@0.27
 Hyperscan                           0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Database                 0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Matcher                  0.04  pkg:cpan/Hyperscan@0.04
@@ -189953,7 +189965,7 @@ Plack::Handler::H2::Writer         undef  pkg:cpan/Plack-Handler-H2@0.0.5
 Plack::Handler::HTTP::Server::PSGI undef  pkg:cpan/Plack@1.0054
 Plack::Handler::HTTP::Server::Simple  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
 Plack::Handler::HTTP::Server::Simple::PSGIServer  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
-Plack::Handler::Hyperman            0.26  pkg:cpan/Hyperman@0.26
+Plack::Handler::Hyperman            0.27  pkg:cpan/Hyperman@0.27
 Plack::Handler::Martian             0.08  pkg:cpan/Martian@0.08
 Plack::Handler::Message::Passing   undef  pkg:cpan/Message-Passing-PSGI@0.001
 Plack::Handler::Monoceros          undef  pkg:cpan/Monoceros@0.29
@@ -193459,6 +193471,24 @@ Protocol::FIX::TagsAccessor         0.08  pkg:cpan/Protocol-FIX@0.08
 Protocol::Gearman                   0.05  pkg:cpan/Protocol-Gearman@0.05
 Protocol::Gearman::Client           0.05  pkg:cpan/Protocol-Gearman@0.05
 Protocol::Gearman::Worker           0.05  pkg:cpan/Protocol-Gearman@0.05
+Protocol::HAP                      0.001000  pkg:cpan/App-OpenHAP@0.1.0
+Protocol::HAP::Accessory           0.001000  pkg:cpan/App-OpenHAP@0.1.0
+Protocol::HAP::Bridge              0.001000  pkg:cpan/App-OpenHAP@0.1.0
+Protocol::HAP::Characteristic      0.001000  pkg:cpan/App-OpenHAP@0.1.0
+Protocol::HAP::Controller          0.001000  pkg:cpan/App-OpenHAP@0.1.0
+Protocol::HAP::Crypto              0.001000  pkg:cpan/App-OpenHAP@0.1.0
+Protocol::HAP::HTTP                0.001000  pkg:cpan/App-OpenHAP@0.1.0
+Protocol::HAP::Log::Null           0.001000  pkg:cpan/App-OpenHAP@0.1.0
+Protocol::HAP::Pairing             0.001000  pkg:cpan/App-OpenHAP@0.1.0
+Protocol::HAP::SRP                 0.001000  pkg:cpan/App-OpenHAP@0.1.0
+Protocol::HAP::SRP::Client         0.001000  pkg:cpan/App-OpenHAP@0.1.0
+Protocol::HAP::Server              0.001000  pkg:cpan/App-OpenHAP@0.1.0
+Protocol::HAP::Service             0.001000  pkg:cpan/App-OpenHAP@0.1.0
+Protocol::HAP::Session             0.001000  pkg:cpan/App-OpenHAP@0.1.0
+Protocol::HAP::SetupCode           0.001000  pkg:cpan/App-OpenHAP@0.1.0
+Protocol::HAP::Store::File         0.001000  pkg:cpan/App-OpenHAP@0.1.0
+Protocol::HAP::Store::Memory       0.001000  pkg:cpan/App-OpenHAP@0.1.0
+Protocol::HAP::TLV                 0.001000  pkg:cpan/App-OpenHAP@0.1.0
 Protocol::HTTP                     1.001006  pkg:cpan/Protocol-HTTP@1.1.6
 Protocol::HTTP2                     1.13  pkg:cpan/Protocol-HTTP2@1.13
 Protocol::HTTP2::Client            undef  pkg:cpan/Protocol-HTTP2@1.13
@@ -224885,7 +224915,7 @@ Text::ASCIIMathML::Node             0.81  pkg:cpan/Text-ASCIIMathML@0.81
 Text::ASCIIPipe                    1.001000  pkg:cpan/Text-ASCIIPipe@1.001000
 Text::ASCIITable                    0.22  pkg:cpan/Text-ASCIITable@0.22
 Text::ASCIITable::EasyTable        1.006  pkg:cpan/Text-ASCIITable-EasyTable@1.006
-Text::ASCIITable::FixANSI          v1.0.0  pkg:cpan/CPAN-Maker-Bootstrapper@2.0.11
+Text::ASCIITable::FixANSI          v1.0.0  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
 Text::ASCIITable::Wrap               0.2  pkg:cpan/Text-ASCIITable@0.22
 Text::Abbrev                        1.02  pkg:cpan/Text-Abbrev@1.02
 Text::Abbreviate                    0.01  pkg:cpan/Text-Abbreviate@0.01
