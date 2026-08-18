@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 18 Aug 2026 18:26:49 GMT
-Line-Count: 258572
+Last-Updated: Tue, 18 Aug 2026 20:14:51 GMT
+Line-Count: 258621
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -10333,6 +10333,28 @@ App::Framework::Lite                1.09  pkg:cpan/App-Framework-Lite@1.09
 App::Framework::Lite::Object       2.002  pkg:cpan/App-Framework-Lite@1.09
 App::Framework::Settings           1.000  pkg:cpan/App-Framework@1.07
 App::FromUnixtime                   0.17  pkg:cpan/App-FromUnixtime@0.17
+App::FuguVM                        0.001001  pkg:cpan/App-FuguVM@0.1.1
+App::FuguVM::CLI                   0.001001  pkg:cpan/App-FuguVM@0.1.1
+App::FuguVM::Config                0.001001  pkg:cpan/App-FuguVM@0.1.1
+App::FuguVM::Console               0.001001  pkg:cpan/App-FuguVM@0.1.1
+App::FuguVM::Disk                  0.001001  pkg:cpan/App-FuguVM@0.1.1
+App::FuguVM::DiskCache             0.001001  pkg:cpan/App-FuguVM@0.1.1
+App::FuguVM::Guest                 0.001001  pkg:cpan/App-FuguVM@0.1.1
+App::FuguVM::Miniroot              0.001001  pkg:cpan/App-FuguVM@0.1.1
+App::FuguVM::Proxy                 0.001001  pkg:cpan/App-FuguVM@0.1.1
+App::FuguVM::Proxy::Cache          0.001001  pkg:cpan/App-FuguVM@0.1.1
+App::FuguVM::QMP                   0.001001  pkg:cpan/App-FuguVM@0.1.1
+App::FuguVM::State                 0.001001  pkg:cpan/App-FuguVM@0.1.1
+App::FuguWeb                       0.001001  pkg:cpan/App-FuguWeb@0.1.1
+App::FuguWeb::CLI                  0.001001  pkg:cpan/App-FuguWeb@0.1.1
+App::FuguWeb::Check                0.001001  pkg:cpan/App-FuguWeb@0.1.1
+App::FuguWeb::Config               0.001001  pkg:cpan/App-FuguWeb@0.1.1
+App::FuguWeb::Config::Group        0.001001  pkg:cpan/App-FuguWeb@0.1.1
+App::FuguWeb::Index                0.001001  pkg:cpan/App-FuguWeb@0.1.1
+App::FuguWeb::Manual               0.001001  pkg:cpan/App-FuguWeb@0.1.1
+App::FuguWeb::Page                 0.001001  pkg:cpan/App-FuguWeb@0.1.1
+App::FuguWeb::Render               0.001001  pkg:cpan/App-FuguWeb@0.1.1
+App::FuguWeb::Site                 0.001001  pkg:cpan/App-FuguWeb@0.1.1
 App::FzfUtils                      0.003  pkg:cpan/App-FzfUtils@0.003
 App::GHGen                          0.09  pkg:cpan/App-GHGen@0.09
 App::GHGen::Analyzer                0.09  pkg:cpan/App-GHGen@0.09
@@ -53544,12 +53566,12 @@ DBIx::LogAny::db                   undef  pkg:cpan/DBIx-LogAny@0.06
 DBIx::LogAny::st                   undef  pkg:cpan/DBIx-LogAny@0.06
 DBIx::LogProfile                    0.02  pkg:cpan/DBIx-LogProfile@0.02
 DBIx::Lookup::Field                2.101420  pkg:cpan/DBIx-Lookup-Field@2.101420
-DBIx::Loop                          0.05  pkg:cpan/DBIx-Loop@0.05
-DBIx::Loop::Future                  0.05  pkg:cpan/DBIx-Loop@0.05
-DBIx::Loop::Loop::AnyEvent          0.05  pkg:cpan/DBIx-Loop@0.05
-DBIx::Loop::Loop::Hyperman          0.05  pkg:cpan/DBIx-Loop@0.05
-DBIx::Loop::Loop::IOAsync           0.05  pkg:cpan/DBIx-Loop@0.05
-DBIx::Loop::Loop::Mojo              0.05  pkg:cpan/DBIx-Loop@0.05
+DBIx::Loop                          0.06  pkg:cpan/DBIx-Loop@0.06
+DBIx::Loop::Future                  0.06  pkg:cpan/DBIx-Loop@0.06
+DBIx::Loop::Loop::AnyEvent          0.06  pkg:cpan/DBIx-Loop@0.06
+DBIx::Loop::Loop::Hyperman          0.06  pkg:cpan/DBIx-Loop@0.06
+DBIx::Loop::Loop::IOAsync           0.06  pkg:cpan/DBIx-Loop@0.06
+DBIx::Loop::Loop::Mojo              0.06  pkg:cpan/DBIx-Loop@0.06
 DBIx::Migrate                       0.01  pkg:cpan/DBIx-Migrate@0.01
 DBIx::Migration                     0.32  pkg:cpan/DBIx-Migration@0.32
 DBIx::Migration::CLI                0.32  pkg:cpan/DBIx-Migration@0.32
@@ -74328,18 +74350,18 @@ Fennec::Util                       undef  pkg:cpan/Fennec@2.018
 Fern                               undef  pkg:cpan/Fern@0.2
 Festival::Client                     1.0  pkg:cpan/Festival-Client@1.0
 Festival::Client::Async            0.0303  pkg:cpan/Festival-Client-Async@0.0303
-Fetch                               0.13  pkg:cpan/Fetch@0.13
-Fetch::CookieJar                    0.09  pkg:cpan/Fetch@0.13
-Fetch::Future                       0.09  pkg:cpan/Fetch@0.13
-Fetch::Headers                      0.09  pkg:cpan/Fetch@0.13
+Fetch                               0.14  pkg:cpan/Fetch@0.14
+Fetch::CookieJar                    0.14  pkg:cpan/Fetch@0.14
+Fetch::Future                       0.14  pkg:cpan/Fetch@0.14
+Fetch::Headers                      0.14  pkg:cpan/Fetch@0.14
 Fetch::Image                       1.000000  pkg:cpan/Fetch-Image@1.000000
-Fetch::Loop                         0.09  pkg:cpan/Fetch@0.13
-Fetch::Loop::AnyEvent               0.09  pkg:cpan/Fetch@0.13
-Fetch::Loop::Hyperman               0.09  pkg:cpan/Fetch@0.13
-Fetch::Loop::IOAsync                0.09  pkg:cpan/Fetch@0.13
-Fetch::Loop::Standalone             0.09  pkg:cpan/Fetch@0.13
-Fetch::Response                     0.09  pkg:cpan/Fetch@0.13
-Fetch::WebSocket                    0.09  pkg:cpan/Fetch@0.13
+Fetch::Loop                         0.14  pkg:cpan/Fetch@0.14
+Fetch::Loop::AnyEvent               0.14  pkg:cpan/Fetch@0.14
+Fetch::Loop::Hyperman               0.14  pkg:cpan/Fetch@0.14
+Fetch::Loop::IOAsync                0.14  pkg:cpan/Fetch@0.14
+Fetch::Loop::Standalone             0.14  pkg:cpan/Fetch@0.14
+Fetch::Response                     0.14  pkg:cpan/Fetch@0.14
+Fetch::WebSocket                    0.14  pkg:cpan/Fetch@0.14
 Fetcher                            undef  pkg:cpan/article_fetcher?ext=zip
 Fey                                 0.44  pkg:cpan/Fey@0.44
 Fey::Column                         0.44  pkg:cpan/Fey@0.44
@@ -77869,6 +77891,32 @@ Ftree::SettingsFactory             2.003041  pkg:cpan/FamilyTreeInfo@2.3.41
 Ftree::StringUtils                 2.003041  pkg:cpan/FamilyTreeInfo@2.3.41
 Ftree::TextGeneratorFactory        2.003041  pkg:cpan/FamilyTreeInfo@2.3.41
 Fuckin::Lazy                       0.000002  pkg:cpan/Fuckin-Lazy@0.000002
+Fugu                               0.001002  pkg:cpan/Fugu@0.1.2
+Fugu::CLI                          0.001002  pkg:cpan/Fugu@0.1.2
+Fugu::Config                       0.001002  pkg:cpan/Fugu@0.1.2
+Fugu::Control                      0.001002  pkg:cpan/Fugu@0.1.2
+Fugu::Control::Client              0.001002  pkg:cpan/Fugu@0.1.2
+Fugu::Daemon                       0.001002  pkg:cpan/Fugu@0.1.2
+Fugu::EventLoop                    0.001002  pkg:cpan/Fugu@0.1.2
+Fugu::File                         0.001002  pkg:cpan/Fugu@0.1.2
+Fugu::Imsg                         0.001002  pkg:cpan/Fugu@0.1.2
+Fugu::JSONSocket                   0.001002  pkg:cpan/Fugu@0.1.2
+Fugu::Log                          0.001002  pkg:cpan/Fugu@0.1.2
+Fugu::MQTT                         0.001002  pkg:cpan/Fugu@0.1.2
+Fugu::Mdnsd                        0.001002  pkg:cpan/Fugu@0.1.2
+Fugu::Pidfile                      0.001002  pkg:cpan/Fugu@0.1.2
+Fugu::Privdrop                     0.001002  pkg:cpan/Fugu@0.1.2
+Fugu::Process                      0.001002  pkg:cpan/Fugu@0.1.2
+Fugu::Proxy                        0.001002  pkg:cpan/Fugu@0.1.2
+Fugu::Proxy::Cache                 0.001002  pkg:cpan/Fugu@0.1.2
+Fugu::Proxy::Meta                  0.001002  pkg:cpan/Fugu@0.1.2
+Fugu::Random                       0.001002  pkg:cpan/Fugu@0.1.2
+Fugu::SSH                          0.001002  pkg:cpan/Fugu@0.1.2
+Fugu::Sandbox                      0.001002  pkg:cpan/Fugu@0.1.2
+Fugu::Signal                       0.001002  pkg:cpan/Fugu@0.1.2
+Fugu::StateFile                    0.001002  pkg:cpan/Fugu@0.1.2
+Fugu::TestLog                      0.001002  pkg:cpan/Fugu@0.1.2
+Fugu::Timeout                      0.001002  pkg:cpan/Fugu@0.1.2
 Fukurama::Class                    0.032  pkg:cpan/Fukurama-Class@0.032
 Fukurama::Class::Abstract          undef  pkg:cpan/Fukurama-Class@0.032
 Fukurama::Class::Attributes        undef  pkg:cpan/Fukurama-Class@0.032
@@ -102963,13 +103011,13 @@ Hyper::Developer::Model::Viewer    0.100  pkg:cpan/Hyper-Developer@0.07
 Hyper::Developer::Server           undef  pkg:cpan/Hyper-Developer@0.07
 HyperWave::CSP                     0.003001  pkg:cpan/HyperWave-CSP@0.03.1
 HyperWave::CSP::Message            undef  pkg:cpan/HyperWave-CSP@0.03.1
-Hyperman                            0.25  pkg:cpan/Hyperman@0.25
-Hyperman::Event::Epoll              0.25  pkg:cpan/Hyperman@0.25
-Hyperman::Event::IOUring            0.25  pkg:cpan/Hyperman@0.25
-Hyperman::Event::Kqueue             0.25  pkg:cpan/Hyperman@0.25
-Hyperman::Event::Poll               0.25  pkg:cpan/Hyperman@0.25
-Hyperman::Future                    0.25  pkg:cpan/Hyperman@0.25
-Hyperman::Loop                      0.25  pkg:cpan/Hyperman@0.25
+Hyperman                            0.26  pkg:cpan/Hyperman@0.26
+Hyperman::Event::Epoll              0.26  pkg:cpan/Hyperman@0.26
+Hyperman::Event::IOUring            0.26  pkg:cpan/Hyperman@0.26
+Hyperman::Event::Kqueue             0.26  pkg:cpan/Hyperman@0.26
+Hyperman::Event::Poll               0.26  pkg:cpan/Hyperman@0.26
+Hyperman::Future                    0.26  pkg:cpan/Hyperman@0.26
+Hyperman::Loop                      0.26  pkg:cpan/Hyperman@0.26
 Hyperscan                           0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Database                 0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Matcher                  0.04  pkg:cpan/Hyperscan@0.04
@@ -122380,7 +122428,7 @@ Mail::DMARC::Test::Transport       undef  pkg:cpan/Mail-DMARC@2.20260724
 Mail::DMARC::opendmarc              0.11  pkg:cpan/Mail-DMARC-opendmarc@0.11
 Mail::DMARC::opendmarc::Constants::C::Symbols  0.11  pkg:cpan/Mail-DMARC-opendmarc@0.11
 Mail::DSPAM::Learning                0.1  pkg:cpan/Mail-DSPAM-Learning@0.1
-Mail::DWIM                          0.09  pkg:cpan/Mail-DWIM@0.09
+Mail::DWIM                          0.10  pkg:cpan/Mail-DWIM@0.10
 Mail::DataFeed::Abusix             2.20210112  pkg:cpan/Mail-DataFeed-Abusix@2.20210112
 Mail::Decency                      0.001006  pkg:cpan/Mail-Decency@0.1.6
 Mail::Decency::ContentFilter       0.001006  pkg:cpan/Mail-Decency@0.1.6
@@ -189905,7 +189953,7 @@ Plack::Handler::H2::Writer         undef  pkg:cpan/Plack-Handler-H2@0.0.5
 Plack::Handler::HTTP::Server::PSGI undef  pkg:cpan/Plack@1.0054
 Plack::Handler::HTTP::Server::Simple  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
 Plack::Handler::HTTP::Server::Simple::PSGIServer  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
-Plack::Handler::Hyperman            0.25  pkg:cpan/Hyperman@0.25
+Plack::Handler::Hyperman            0.26  pkg:cpan/Hyperman@0.26
 Plack::Handler::Martian             0.08  pkg:cpan/Martian@0.08
 Plack::Handler::Message::Passing   undef  pkg:cpan/Message-Passing-PSGI@0.001
 Plack::Handler::Monoceros          undef  pkg:cpan/Monoceros@0.29
@@ -193457,6 +193505,7 @@ Protocol::IMAP::Server             0.004  pkg:cpan/Protocol-IMAP@0.004
 Protocol::IRC                       0.13  pkg:cpan/Protocol-IRC@0.13
 Protocol::IRC::Client               0.13  pkg:cpan/Protocol-IRC@0.13
 Protocol::IRC::Message              0.13  pkg:cpan/Protocol-IRC@0.13
+Protocol::Imsg                     0.001002  pkg:cpan/Fugu@0.1.2
 Protocol::MTProto                   0.01  pkg:cpan/Protocol-MTProto@0.01
 Protocol::MTProto::TLSchemaParser   0.01  pkg:cpan/Protocol-MTProto@0.01
 Protocol::Matrix                    0.02  pkg:cpan/Protocol-Matrix@0.02
