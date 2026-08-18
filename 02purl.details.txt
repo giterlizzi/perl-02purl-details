@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 18 Aug 2026 00:50:16 GMT
+Last-Updated: Tue, 18 Aug 2026 02:49:18 GMT
 Line-Count: 258499
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -22255,13 +22255,13 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         v0.31.6  pkg:cpan/BarefootJS@0.31.6
-BarefootJS::Backend::Mojo          v0.31.6  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.31.6
-BarefootJS::Backend::Xslate        v0.31.6  pkg:cpan/BarefootJS-Backend-Xslate@0.31.6
-BarefootJS::Date                   v0.31.6  pkg:cpan/BarefootJS@0.31.6
-BarefootJS::DevReload              v0.31.6  pkg:cpan/BarefootJS@0.31.6
-BarefootJS::Evaluator              v0.31.6  pkg:cpan/BarefootJS@0.31.6
-BarefootJS::SearchParams           v0.31.6  pkg:cpan/BarefootJS@0.31.6
+BarefootJS                         v0.31.7  pkg:cpan/BarefootJS@0.31.7
+BarefootJS::Backend::Mojo          v0.31.7  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.31.7
+BarefootJS::Backend::Xslate        v0.31.7  pkg:cpan/BarefootJS-Backend-Xslate@0.31.7
+BarefootJS::Date                   v0.31.7  pkg:cpan/BarefootJS@0.31.7
+BarefootJS::DevReload              v0.31.7  pkg:cpan/BarefootJS@0.31.7
+BarefootJS::Evaluator              v0.31.7  pkg:cpan/BarefootJS@0.31.7
+BarefootJS::SearchParams           v0.31.7  pkg:cpan/BarefootJS@0.31.7
 BarefootJS::_TZProbe               0.029000  pkg:cpan/BarefootJS@0.29.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
@@ -131672,8 +131672,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    v0.31.6  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.31.6
-Mojolicious::Plugin::BarefootJS::DevReload v0.31.6  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.31.6
+Mojolicious::Plugin::BarefootJS    v0.31.7  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.31.7
+Mojolicious::Plugin::BarefootJS::DevReload v0.31.7  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.31.7
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
