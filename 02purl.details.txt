@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 18 Aug 2026 12:30:40 GMT
+Last-Updated: Tue, 18 Aug 2026 14:25:23 GMT
 Line-Count: 258505
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -16628,7 +16628,7 @@ App::safer                         0.003  pkg:cpan/App-safer@0.003
 App::saikoro                       0.300  pkg:cpan/App-saikoro@0.300
 App::samelines                     0.033  pkg:cpan/App-samelines@0.033
 App::samesize                      0.018  pkg:cpan/App-samesize@0.018
-App::sbozyp                        undef  pkg:cpan/App-sbozyp@v1.8.0
+App::sbozyp                        undef  pkg:cpan/App-sbozyp@v1.9.0
 App::scan_prereqs_cpanfile          1.10  pkg:cpan/App-scan_prereqs_cpanfile@1.10
 App::scanrdeps                      0.02  pkg:cpan/App-scanrdeps@0.02
 App::scrape                         0.08  pkg:cpan/App-scrape@0.08
@@ -22553,8 +22553,8 @@ Bench::CompactTree                 undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
 Bench::ExpatHandler                undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
 Bench::SAXHandler                  undef  pkg:cpan/MediaWiki-DumpFile@0.2.2
 BenchAccel                         undef  pkg:cpan/Algorithm-Classifier-IsolationForest@0.7.0
-BenchCat                           undef  pkg:cpan/Punk@0.17
-BenchCat::Controller::Root         undef  pkg:cpan/Punk@0.17
+BenchCat                           undef  pkg:cpan/Punk@0.18
+BenchCat::Controller::Root         undef  pkg:cpan/Punk@0.18
 Bencher                            v1.62.4  pkg:cpan/Bencher@1.062.4
 Bencher::BPM                       0.002  pkg:cpan/Bencher-BPM@0.002
 Bencher::Backend                   1.063  pkg:cpan/Bencher-Backend@1.063
@@ -100806,14 +100806,14 @@ HTML::_TokenUpdateParser            1.12  pkg:cpan/HTML-Toc@1.12
 HTMLBase                           undef  pkg:cpan/HTML-Seamstress@6.112830
 HTMLElements                       undef  pkg:cpan/Mozilla-DOM@0.23
 HTMLTMPL                            1.34  pkg:cpan/HTMLTMPL@1.34
-HTTP::API::Client                   1.10  pkg:cpan/HTTP-API-Client@1.10
+HTTP::API::Client                   1.12  pkg:cpan/HTTP-API-Client@1.12
 HTTP::API::Core                     1.00  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Auth              undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Error             undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Pagination        undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::RateLimit         undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Response          undef  pkg:cpan/HTTP-API-Core@1.00
-HTTP::API::DataTypeMarker           1.10  pkg:cpan/HTTP-API-Client@1.10
+HTTP::API::DataTypeMarker           1.12  pkg:cpan/HTTP-API-Client@1.12
 HTTP::Accept                        0.03  pkg:cpan/HTTP-Accept@0.03
 HTTP::AcceptCharset                 0.04  pkg:cpan/HTTP-AcceptCharset@0.04
 HTTP::AcceptLanguage                0.02  pkg:cpan/HTTP-AcceptLanguage@0.02
@@ -193752,28 +193752,28 @@ Puncheur::Request                  undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Response                 undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Runner                   undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Trigger                  undef  pkg:cpan/Puncheur@v0.3.0
-Punk                                0.17  pkg:cpan/Punk@0.17
-Punk::App                           0.17  pkg:cpan/Punk@0.17
-Punk::Auth                          0.17  pkg:cpan/Punk@0.17
-Punk::Auth::Password                0.17  pkg:cpan/Punk@0.17
-Punk::CORS                          0.17  pkg:cpan/Punk@0.17
-Punk::CSRF                          0.17  pkg:cpan/Punk@0.17
-Punk::Command                       0.17  pkg:cpan/Punk@0.17
+Punk                                0.18  pkg:cpan/Punk@0.18
+Punk::App                           0.18  pkg:cpan/Punk@0.18
+Punk::Auth                          0.18  pkg:cpan/Punk@0.18
+Punk::Auth::Password                0.18  pkg:cpan/Punk@0.18
+Punk::CORS                          0.18  pkg:cpan/Punk@0.18
+Punk::CSRF                          0.18  pkg:cpan/Punk@0.18
+Punk::Command                       0.18  pkg:cpan/Punk@0.18
 Punk::Command::Queue                0.04  pkg:cpan/Punk-Queue@0.04
-Punk::Config                        0.17  pkg:cpan/Punk@0.17
-Punk::Context                       0.17  pkg:cpan/Punk@0.17
-Punk::Controller                    0.17  pkg:cpan/Punk@0.17
-Punk::DevError                      0.17  pkg:cpan/Punk@0.17
-Punk::Future                        0.17  pkg:cpan/Punk@0.17
-Punk::Generate                      0.17  pkg:cpan/Punk@0.17
+Punk::Config                        0.18  pkg:cpan/Punk@0.18
+Punk::Context                       0.18  pkg:cpan/Punk@0.18
+Punk::Controller                    0.18  pkg:cpan/Punk@0.18
+Punk::DevError                      0.18  pkg:cpan/Punk@0.18
+Punk::Future                        0.18  pkg:cpan/Punk@0.18
+Punk::Generate                      0.18  pkg:cpan/Punk@0.18
 Punk::GraphQL                       0.02  pkg:cpan/Punk-GraphQL@0.02
-Punk::Headers                       0.17  pkg:cpan/Punk@0.17
-Punk::Logger                        0.17  pkg:cpan/Punk@0.17
-Punk::Model                         0.17  pkg:cpan/Punk@0.17
-Punk::Model::DBI                    0.17  pkg:cpan/Punk@0.17
-Punk::Model::DBIx::Loop             0.17  pkg:cpan/Punk@0.17
-Punk::Mount::Markdown               0.17  pkg:cpan/Punk@0.17
-Punk::Mount::OpenAPI                0.17  pkg:cpan/Punk@0.17
+Punk::Headers                       0.18  pkg:cpan/Punk@0.18
+Punk::Logger                        0.18  pkg:cpan/Punk@0.18
+Punk::Model                         0.18  pkg:cpan/Punk@0.18
+Punk::Model::DBI                    0.18  pkg:cpan/Punk@0.18
+Punk::Model::DBIx::Loop             0.18  pkg:cpan/Punk@0.18
+Punk::Mount::Markdown               0.18  pkg:cpan/Punk@0.18
+Punk::Mount::OpenAPI                0.18  pkg:cpan/Punk@0.18
 Punk::OAuth2                        0.04  pkg:cpan/Punk-OAuth2@0.04
 Punk::OAuth2::Checker               0.04  pkg:cpan/Punk-OAuth2@0.04
 Punk::OAuth2::JWKS                  0.04  pkg:cpan/Punk-OAuth2@0.04
@@ -193783,7 +193783,7 @@ Punk::OAuth2::Server                0.04  pkg:cpan/Punk-OAuth2@0.04
 Punk::OAuth2::Server::Store         0.04  pkg:cpan/Punk-OAuth2@0.04
 Punk::OAuth2::Tokens                0.04  pkg:cpan/Punk-OAuth2@0.04
 Punk::OAuth2::Util                  0.04  pkg:cpan/Punk-OAuth2@0.04
-Punk::Plugin                        0.17  pkg:cpan/Punk@0.17
+Punk::Plugin                        0.18  pkg:cpan/Punk@0.18
 Punk::Plugin::GraphQL               0.02  pkg:cpan/Punk-GraphQL@0.02
 Punk::Plugin::OAuth2                0.04  pkg:cpan/Punk-OAuth2@0.04
 Punk::Plugin::Queue                 0.02  pkg:cpan/Punk-Queue@0.04
@@ -193795,26 +193795,26 @@ Punk::Queue::Command                0.02  pkg:cpan/Punk-Queue@0.04
 Punk::Queue::Cron                   0.02  pkg:cpan/Punk-Queue@0.04
 Punk::Queue::Job                    0.02  pkg:cpan/Punk-Queue@0.04
 Punk::Queue::Worker                 0.02  pkg:cpan/Punk-Queue@0.04
-Punk::RateLimit                     0.17  pkg:cpan/Punk@0.17
-Punk::Request                       0.17  pkg:cpan/Punk@0.17
-Punk::Response                      0.17  pkg:cpan/Punk@0.17
-Punk::Router                        0.17  pkg:cpan/Punk@0.17
-Punk::Router::Scope                 0.17  pkg:cpan/Punk@0.17
-Punk::SSE                           0.17  pkg:cpan/Punk@0.17
-Punk::SendFile::Reader              0.17  pkg:cpan/Punk@0.17
-Punk::Session                       0.17  pkg:cpan/Punk@0.17
-Punk::Static                        0.17  pkg:cpan/Punk@0.17
-Punk::Test                          0.17  pkg:cpan/Punk@0.17
-Punk::Test::WS                      0.17  pkg:cpan/Punk@0.17
-Punk::Test::WS::Conn                0.17  pkg:cpan/Punk@0.17
+Punk::RateLimit                     0.18  pkg:cpan/Punk@0.18
+Punk::Request                       0.18  pkg:cpan/Punk@0.18
+Punk::Response                      0.18  pkg:cpan/Punk@0.18
+Punk::Router                        0.18  pkg:cpan/Punk@0.18
+Punk::Router::Scope                 0.18  pkg:cpan/Punk@0.18
+Punk::SSE                           0.18  pkg:cpan/Punk@0.18
+Punk::SendFile::Reader              0.18  pkg:cpan/Punk@0.18
+Punk::Session                       0.18  pkg:cpan/Punk@0.18
+Punk::Static                        0.18  pkg:cpan/Punk@0.18
+Punk::Test                          0.18  pkg:cpan/Punk@0.18
+Punk::Test::WS                      0.18  pkg:cpan/Punk@0.18
+Punk::Test::WS::Conn                0.18  pkg:cpan/Punk@0.18
 Punk::Test::_Writer                 0.12  pkg:cpan/Punk@0.12
-Punk::UA                            0.17  pkg:cpan/Punk@0.17
-Punk::Upload                        0.17  pkg:cpan/Punk@0.17
-Punk::Validate                      0.17  pkg:cpan/Punk@0.17
-Punk::View::Stencil                 0.17  pkg:cpan/Punk@0.17
-Punk::Views                         0.17  pkg:cpan/Punk@0.17
-Punk::WebSocket                     0.17  pkg:cpan/Punk@0.17
-Punk::WebSocket::Room               0.17  pkg:cpan/Punk@0.17
+Punk::UA                            0.18  pkg:cpan/Punk@0.18
+Punk::Upload                        0.18  pkg:cpan/Punk@0.18
+Punk::Validate                      0.18  pkg:cpan/Punk@0.18
+Punk::View::Stencil                 0.18  pkg:cpan/Punk@0.18
+Punk::Views                         0.18  pkg:cpan/Punk@0.18
+Punk::WebSocket                     0.18  pkg:cpan/Punk@0.18
+Punk::WebSocket::Room               0.18  pkg:cpan/Punk@0.18
 Puppet::Classify                   undef  pkg:cpan/Puppet-Classify@0.003
 Puppet::DB                         undef  pkg:cpan/Puppet-DB@0.001
 Puppet::Orchestrator               undef  pkg:cpan/Puppet-Orchestrator@0.002
