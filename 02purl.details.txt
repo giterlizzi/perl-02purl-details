@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 18 Aug 2026 04:27:52 GMT
+Last-Updated: Tue, 18 Aug 2026 06:30:16 GMT
 Line-Count: 258499
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -223165,7 +223165,7 @@ Test::Litmus                        0.03  pkg:cpan/Test-Litmus@0.03
 Test::Litmus::Log                   0.01  pkg:cpan/Test-Litmus@0.03
 Test::Litmus::Result                0.01  pkg:cpan/Test-Litmus@0.03
 Test::Lives                        1.003  pkg:cpan/Test-Lives@1.003
-Test::Load::Helper                 v1.0.1  pkg:cpan/Test-Load-Helper@1.0.1
+Test::Load::Helper                 v1.0.2  pkg:cpan/Test-Load-Helper@1.0.2
 Test::LoadAllModules               0.022  pkg:cpan/Test-LoadAllModules@0.022
 Test::LocalFunctions                0.23  pkg:cpan/Test-LocalFunctions@0.23
 Test::LocalFunctions::Fast         undef  pkg:cpan/Test-LocalFunctions@0.23
