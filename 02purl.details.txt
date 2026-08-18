@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 17 Aug 2026 22:16:18 GMT
-Line-Count: 258496
+Last-Updated: Tue, 18 Aug 2026 00:50:16 GMT
+Line-Count: 258499
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -3814,11 +3814,11 @@ AddressBook::DB::PDB                0.13  pkg:cpan/AddressBook@0.16
 AddressBook::DB::Text               0.13  pkg:cpan/AddressBook@0.16
 AddressBook::Entry                  0.12  pkg:cpan/AddressBook@0.16
 AddressDedup                        1.09  pkg:cpan/Scraper@3.05
-Advanced::Config                    1.14  pkg:cpan/Advanced-Config@1.14
-Advanced::Config::Date              1.14  pkg:cpan/Advanced-Config@1.14
-Advanced::Config::Examples          1.14  pkg:cpan/Advanced-Config@1.14
-Advanced::Config::Options           1.14  pkg:cpan/Advanced-Config@1.14
-Advanced::Config::Reader            1.14  pkg:cpan/Advanced-Config@1.14
+Advanced::Config                    1.15  pkg:cpan/Advanced-Config@1.15
+Advanced::Config::Date              1.15  pkg:cpan/Advanced-Config@1.15
+Advanced::Config::Examples          1.15  pkg:cpan/Advanced-Config@1.15
+Advanced::Config::Options           1.15  pkg:cpan/Advanced-Config@1.15
+Advanced::Config::Reader            1.15  pkg:cpan/Advanced-Config@1.15
 Advent::Bundles                     0.05  pkg:cpan/Advent-Bundles@0.05
 Affix                              v1.2.5  pkg:cpan/Affix@v1.2.5
 Affix::Build                       v1.2.5  pkg:cpan/Affix@v1.2.5
@@ -75455,7 +75455,7 @@ Filename::Compressed               0.050  pkg:cpan/Filename-Compressed@0.050
 Filename::Ebook                    0.002  pkg:cpan/Filename-Ebook@0.002
 Filename::Executable               0.002  pkg:cpan/Filename-Executable@0.002
 Filename::Image                    0.005  pkg:cpan/Filename-Image@0.005
-Filename::KeyValue                 0.002  pkg:cpan/Filename-KeyValue@0.002
+Filename::KeyValue                 0.003  pkg:cpan/Filename-KeyValue@0.003
 Filename::Media                    0.003  pkg:cpan/Filename-Media@0.003
 Filename::Media::Info              0.002  pkg:cpan/Filename-Media-Info@0.002
 Filename::Perl::Release            0.002  pkg:cpan/Filename-Perl-Release@0.002
@@ -100804,14 +100804,14 @@ HTML::_TokenUpdateParser            1.12  pkg:cpan/HTML-Toc@1.12
 HTMLBase                           undef  pkg:cpan/HTML-Seamstress@6.112830
 HTMLElements                       undef  pkg:cpan/Mozilla-DOM@0.23
 HTMLTMPL                            1.34  pkg:cpan/HTMLTMPL@1.34
-HTTP::API::Client                   1.06  pkg:cpan/HTTP-API-Client@1.06
+HTTP::API::Client                   1.07  pkg:cpan/HTTP-API-Client@1.07
 HTTP::API::Core                     1.00  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Auth              undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Error             undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Pagination        undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::RateLimit         undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Response          undef  pkg:cpan/HTTP-API-Core@1.00
-HTTP::API::DataTypeMarker           1.06  pkg:cpan/HTTP-API-Client@1.06
+HTTP::API::DataTypeMarker           1.07  pkg:cpan/HTTP-API-Client@1.07
 HTTP::Accept                        0.03  pkg:cpan/HTTP-Accept@0.03
 HTTP::AcceptCharset                 0.04  pkg:cpan/HTTP-AcceptCharset@0.04
 HTTP::AcceptLanguage                0.02  pkg:cpan/HTTP-AcceptLanguage@0.02
@@ -130690,6 +130690,8 @@ Mojo::ACME                          0.13  pkg:cpan/Mojo-ACME@0.13
 Mojo::ACME::CA                     undef  pkg:cpan/Mojo-ACME@0.13
 Mojo::ACME::ChallengeServer        undef  pkg:cpan/Mojo-ACME@0.13
 Mojo::ACME::Key                    undef  pkg:cpan/Mojo-ACME@0.13
+Mojo::ATProto::OAuth                1.00  pkg:cpan/Mojo-ATProto-OAuth@1.00
+Mojo::ATProto::OAuth::Resolver      1.00  pkg:cpan/Mojo-ATProto-OAuth@1.00
 Mojo::AWS                           0.10  pkg:cpan/Mojolicious-Plugin-AWS@0.21
 Mojo::AWS::S3                       0.01  pkg:cpan/Mojolicious-Plugin-AWS@0.21
 Mojo::Alien::npm                   undef  pkg:cpan/Mojolicious-Plugin-Webpack@1.02
@@ -143008,7 +143010,7 @@ Net::OATH::Server::Lite::Error     undef  pkg:cpan/Net-OATH-Server@0.02
 Net::OATH::Server::Lite::Login     undef  pkg:cpan/Net-OATH-Server@0.02
 Net::OATH::Server::Lite::Model::User undef  pkg:cpan/Net-OATH-Server@0.02
 Net::OATH::Server::Lite::User      undef  pkg:cpan/Net-OATH-Server@0.02
-Net::OAuth                          0.32  pkg:cpan/Net-OAuth@0.32
+Net::OAuth                          0.33  pkg:cpan/Net-OAuth@0.33
 Net::OAuth2                         0.67  pkg:cpan/Net-OAuth2@0.67
 Net::OAuth2::AccessToken            0.67  pkg:cpan/Net-OAuth2@0.67
 Net::OAuth2::AuthorizationServer    0.28  pkg:cpan/Net-OAuth2-AuthorizationServer@0.28
@@ -143062,32 +143064,33 @@ Net::OAuth2Server::Response::Role::TokenExchange 0.004  pkg:cpan/Net-OAuth2Serve
 Net::OAuth2Server::Set             0.006  pkg:cpan/Net-OAuth2Server@0.006
 Net::OAuth2Server::TokenExchange   0.004  pkg:cpan/Net-OAuth2Server-TokenExchange@0.004
 Net::OAuth2Server::TokenType       0.004  pkg:cpan/Net-OAuth2Server-TokenExchange@0.004
-Net::OAuth::AccessToken            undef  pkg:cpan/Net-OAuth@0.32
-Net::OAuth::AccessTokenRequest     undef  pkg:cpan/Net-OAuth@0.32
-Net::OAuth::AccessTokenResponse    undef  pkg:cpan/Net-OAuth@0.32
-Net::OAuth::Client                  0.32  pkg:cpan/Net-OAuth@0.32
-Net::OAuth::ConsumerRequest        undef  pkg:cpan/Net-OAuth@0.32
-Net::OAuth::Message                undef  pkg:cpan/Net-OAuth@0.32
-Net::OAuth::ProtectedResourceRequest undef  pkg:cpan/Net-OAuth@0.32
-Net::OAuth::Request                 0.32  pkg:cpan/Net-OAuth@0.32
-Net::OAuth::RequestTokenRequest    undef  pkg:cpan/Net-OAuth@0.32
-Net::OAuth::RequestTokenResponse   undef  pkg:cpan/Net-OAuth@0.32
-Net::OAuth::Response               undef  pkg:cpan/Net-OAuth@0.32
-Net::OAuth::SignatureMethod::HMAC_SHA1 undef  pkg:cpan/Net-OAuth@0.32
-Net::OAuth::SignatureMethod::HMAC_SHA256 undef  pkg:cpan/Net-OAuth@0.32
-Net::OAuth::SignatureMethod::PLAINTEXT undef  pkg:cpan/Net-OAuth@0.32
-Net::OAuth::SignatureMethod::RSA_SHA1 undef  pkg:cpan/Net-OAuth@0.32
+Net::OAuth::AccessToken            undef  pkg:cpan/Net-OAuth@0.33
+Net::OAuth::AccessTokenRequest     undef  pkg:cpan/Net-OAuth@0.33
+Net::OAuth::AccessTokenResponse    undef  pkg:cpan/Net-OAuth@0.33
+Net::OAuth::Client                  0.33  pkg:cpan/Net-OAuth@0.33
+Net::OAuth::ConsumerRequest        undef  pkg:cpan/Net-OAuth@0.33
+Net::OAuth::Message                undef  pkg:cpan/Net-OAuth@0.33
+Net::OAuth::ProtectedResourceRequest undef  pkg:cpan/Net-OAuth@0.33
+Net::OAuth::Request                 0.33  pkg:cpan/Net-OAuth@0.33
+Net::OAuth::RequestTokenRequest    undef  pkg:cpan/Net-OAuth@0.33
+Net::OAuth::RequestTokenResponse   undef  pkg:cpan/Net-OAuth@0.33
+Net::OAuth::Response               undef  pkg:cpan/Net-OAuth@0.33
+Net::OAuth::SignatureMethod        undef  pkg:cpan/Net-OAuth@0.33
+Net::OAuth::SignatureMethod::HMAC_SHA1 undef  pkg:cpan/Net-OAuth@0.33
+Net::OAuth::SignatureMethod::HMAC_SHA256 undef  pkg:cpan/Net-OAuth@0.33
+Net::OAuth::SignatureMethod::PLAINTEXT undef  pkg:cpan/Net-OAuth@0.33
+Net::OAuth::SignatureMethod::RSA_SHA1 undef  pkg:cpan/Net-OAuth@0.33
 Net::OAuth::Simple                   1.7  pkg:cpan/Net-OAuth-Simple@1.7
 Net::OAuth::Simple::AuthHeader     0.4002  pkg:cpan/WWW-TypePad@0.4002
-Net::OAuth::UserAuthRequest        undef  pkg:cpan/Net-OAuth@0.32
-Net::OAuth::UserAuthResponse       undef  pkg:cpan/Net-OAuth@0.32
-Net::OAuth::V1_0A::AccessTokenRequest undef  pkg:cpan/Net-OAuth@0.32
-Net::OAuth::V1_0A::RequestTokenRequest undef  pkg:cpan/Net-OAuth@0.32
-Net::OAuth::V1_0A::RequestTokenResponse undef  pkg:cpan/Net-OAuth@0.32
-Net::OAuth::V1_0A::UserAuthResponse undef  pkg:cpan/Net-OAuth@0.32
-Net::OAuth::XauthAccessTokenRequest undef  pkg:cpan/Net-OAuth@0.32
+Net::OAuth::UserAuthRequest        undef  pkg:cpan/Net-OAuth@0.33
+Net::OAuth::UserAuthResponse       undef  pkg:cpan/Net-OAuth@0.33
+Net::OAuth::V1_0A::AccessTokenRequest undef  pkg:cpan/Net-OAuth@0.33
+Net::OAuth::V1_0A::RequestTokenRequest undef  pkg:cpan/Net-OAuth@0.33
+Net::OAuth::V1_0A::RequestTokenResponse undef  pkg:cpan/Net-OAuth@0.33
+Net::OAuth::V1_0A::UserAuthResponse undef  pkg:cpan/Net-OAuth@0.33
+Net::OAuth::XauthAccessTokenRequest undef  pkg:cpan/Net-OAuth@0.33
 Net::OAuth::Yahoo                    1.0  pkg:cpan/Net-OAuth-Yahoo@1.0.0
-Net::OAuth::YahooAccessTokenRefreshRequest undef  pkg:cpan/Net-OAuth@0.32
+Net::OAuth::YahooAccessTokenRefreshRequest undef  pkg:cpan/Net-OAuth@0.33
 Net::OBEX                          1.001002  pkg:cpan/Net-OBEX@1.001002
 Net::OBEX::FTP                     1.001002  pkg:cpan/Net-OBEX@1.001002
 Net::OBEX::Packet::Headers         1.001002  pkg:cpan/Net-OBEX@1.001002
@@ -151849,13 +151852,13 @@ PDL::Demos::Func_demo              undef  pkg:cpan/PDL@2.105
 PDL::Demos::GSL_CDF                undef  pkg:cpan/PDL-GSL@2.103
 PDL::Demos::GSL_RNG                undef  pkg:cpan/PDL-GSL@2.103
 PDL::Demos::General                undef  pkg:cpan/PDL@2.105
-PDL::Demos::Gnuplot                undef  pkg:cpan/PDL-Graphics-Gnuplot@2.032
+PDL::Demos::Gnuplot                undef  pkg:cpan/PDL-Graphics-Gnuplot@2.033
 PDL::Demos::PGPLOT                 undef  pkg:cpan/PGPLOT@2.36
 PDL::Demos::PGPLOT_OO              undef  pkg:cpan/PGPLOT@2.36
 PDL::Demos::PLplot                 undef  pkg:cpan/PDL-Graphics-PLplot@0.842
 PDL::Demos::Prima                  undef  pkg:cpan/PDL-Graphics-Prima@0.21
 PDL::Demos::Proj4_demo             undef  pkg:cpan/PDL-Transform-Proj4@2.099
-PDL::Demos::Simplex                undef  pkg:cpan/PDL-Opt-Simplex@2.097
+PDL::Demos::Simplex                undef  pkg:cpan/PDL-Opt-Simplex@2.098
 PDL::Demos::Sound                  undef  pkg:cpan/PDL@2.105
 PDL::Demos::Stats                  undef  pkg:cpan/PDL-Stats@0.856
 PDL::Demos::TkTriD_demo            undef  pkg:cpan/PDL-Graphics-TriD@2.102
@@ -151908,11 +151911,11 @@ PDL::Graphics::Asymptote           0.0.3  pkg:cpan/Graphics-Asymptote@0.0.3
 PDL::Graphics::ColorDistance       0.000001  pkg:cpan/PDL-Graphics-ColorDistance@0.0.1
 PDL::Graphics::ColorSpace          0.206  pkg:cpan/PDL-Graphics-ColorSpace@0.206
 PDL::Graphics::ColorSpace::RGBSpace undef  pkg:cpan/PDL-Graphics-ColorSpace@0.206
-PDL::Graphics::Gnuplot             2.032  pkg:cpan/PDL-Graphics-Gnuplot@2.032
+PDL::Graphics::Gnuplot             2.033  pkg:cpan/PDL-Graphics-Gnuplot@2.033
 PDL::Graphics::IIS                 0.001  pkg:cpan/PDL-Graphics-IIS@0.001
 PDL::Graphics::LUT                 undef  pkg:cpan/PGPLOT@2.36
-PDL::Graphics::Limits               0.03  pkg:cpan/PDL-Graphics-Limits@0.03
-PDL::Graphics::Limits::DSet         0.03  pkg:cpan/PDL-Graphics-Limits@0.03
+PDL::Graphics::Limits              0.031  pkg:cpan/PDL-Graphics-Limits@0.031
+PDL::Graphics::Limits::DSet        0.031  pkg:cpan/PDL-Graphics-Limits@0.031
 PDL::Graphics::OpenGLQ             undef  pkg:cpan/PDL-Graphics-TriD@2.102
 PDL::Graphics::PGPLOT              undef  pkg:cpan/PGPLOT@2.36
 PDL::Graphics::PGPLOT::Window      undef  pkg:cpan/PGPLOT@2.36
@@ -151961,11 +151964,11 @@ PDL::Graphics::Prima::Scaling::Log  0.18  pkg:cpan/PDL-Graphics-Prima@0.21
 PDL::Graphics::Prima::Simple        0.18  pkg:cpan/PDL-Graphics-Prima@0.21
 PDL::Graphics::Prima::SizeSpec     undef  pkg:cpan/PDL-Graphics-Prima@0.21
 PDL::Graphics::Prima::SizeSpec::Parser undef  pkg:cpan/PDL-Graphics-Prima@0.21
-PDL::Graphics::Simple              1.016  pkg:cpan/PDL-Graphics-Simple@1.016
-PDL::Graphics::Simple::Gnuplot     undef  pkg:cpan/PDL-Graphics-Simple@1.016
-PDL::Graphics::Simple::PGPLOT      undef  pkg:cpan/PDL-Graphics-Simple@1.016
-PDL::Graphics::Simple::PLplot      undef  pkg:cpan/PDL-Graphics-Simple@1.016
-PDL::Graphics::Simple::Prima       undef  pkg:cpan/PDL-Graphics-Simple@1.016
+PDL::Graphics::Simple              1.017  pkg:cpan/PDL-Graphics-Simple@1.017
+PDL::Graphics::Simple::Gnuplot     undef  pkg:cpan/PDL-Graphics-Simple@1.017
+PDL::Graphics::Simple::PGPLOT      undef  pkg:cpan/PDL-Graphics-Simple@1.017
+PDL::Graphics::Simple::PLplot      undef  pkg:cpan/PDL-Graphics-Simple@1.017
+PDL::Graphics::Simple::Prima       undef  pkg:cpan/PDL-Graphics-Simple@1.017
 PDL::Graphics::State               undef  pkg:cpan/PGPLOT@2.36
 PDL::Graphics::TriD                2.102  pkg:cpan/PDL-Graphics-TriD@2.102
 PDL::Graphics::TriD::ArcBall       undef  pkg:cpan/PDL-Graphics-TriD@2.102
@@ -152036,21 +152039,21 @@ PDL::IO::Dcm                       1.011  pkg:cpan/PDL-IO-Dcm@1.011
 PDL::IO::Dcm::Plugins::MRISiemens  undef  pkg:cpan/PDL-IO-Dcm@1.011
 PDL::IO::Dcm::Plugins::MRSSiemens  undef  pkg:cpan/PDL-IO-Dcm@1.011
 PDL::IO::Dcm::Plugins::Primitive   undef  pkg:cpan/PDL-IO-Dcm@1.011
-PDL::IO::Dicom                     2.098  pkg:cpan/PDL-IO-Dicom@2.098
+PDL::IO::Dicom                     2.099  pkg:cpan/PDL-IO-Dicom@2.099
 PDL::IO::Dumper                    1.003002  pkg:cpan/PDL@2.105
-PDL::IO::ENVI                      2.098  pkg:cpan/PDL-IO-ENVI@2.098
+PDL::IO::ENVI                      2.099  pkg:cpan/PDL-IO-ENVI@2.099
 PDL::IO::FITS                       0.92  pkg:cpan/PDL@2.105
 PDL::IO::FastRaw                   0.000003  pkg:cpan/PDL@2.105
 PDL::IO::FlexRaw                   undef  pkg:cpan/PDL@2.105
 PDL::IO::GD                        undef  pkg:cpan/PDL-IO-GD@2.103
 PDL::IO::Grib                          2  pkg:cpan/PDL-IO-Grib@2.0
 PDL::IO::Grib::Field               undef  pkg:cpan/PDL-IO-Grib@2.0
-PDL::IO::HDF                       2.003  pkg:cpan/PDL-IO-HDF@2.003
+PDL::IO::HDF                       2.004  pkg:cpan/PDL-IO-HDF@2.004
 PDL::IO::HDF5                      0.762  pkg:cpan/PDL-IO-HDF5@0.762
 PDL::IO::HDF5::Dataset             undef  pkg:cpan/PDL-IO-HDF5@0.762
 PDL::IO::HDF5::Group               undef  pkg:cpan/PDL-IO-HDF5@0.762
 PDL::IO::HDF5::tkview              undef  pkg:cpan/PDL-IO-HDF5@0.762
-PDL::IO::IDL                       2.098  pkg:cpan/PDL-IO-IDL@2.098
+PDL::IO::IDL                       2.099  pkg:cpan/PDL-IO-IDL@2.099
 PDL::IO::Image                     1.001  pkg:cpan/PDL-IO-Image@1.001
 PDL::IO::MDIF                      undef  pkg:cpan/PDL-IO-Touchstone@1.016
 PDL::IO::Matlab                    0.006  pkg:cpan/PDL-IO-Matlab@0.006
@@ -152126,7 +152129,7 @@ PDL::Opt::NonLinear                 0.09  pkg:cpan/PDL-Opt-NonLinear@0.09
 PDL::Opt::ParticleSwarm            undef  pkg:cpan/PDL-Opt-Simplex-Simple@2.007
 PDL::Opt::ParticleSwarm::Simple    undef  pkg:cpan/PDL-Opt-Simplex-Simple@2.007
 PDL::Opt::QP                        0.29  pkg:cpan/PDL-Opt-QP@0.29
-PDL::Opt::Simplex                  2.097  pkg:cpan/PDL-Opt-Simplex@2.097
+PDL::Opt::Simplex                  2.098  pkg:cpan/PDL-Opt-Simplex@2.098
 PDL::Opt::Simplex::Simple          2.007  pkg:cpan/PDL-Opt-Simplex-Simple@2.007
 PDL::Options                        0.92  pkg:cpan/PDL@2.105
 PDL::PP                              2.3  pkg:cpan/PDL@2.105
@@ -152162,7 +152165,7 @@ PDL::Stats::TS                     undef  pkg:cpan/PDL-Stats@0.856
 PDL::StringfiableExtension         0.006005  pkg:cpan/Data-Frame@0.006005
 PDL::Transform                     undef  pkg:cpan/PDL@2.105
 PDL::Transform::Cartography          0.6  pkg:cpan/PDL@2.105
-PDL::Transform::Color              1.010  pkg:cpan/PDL-Transform-Color@1.010
+PDL::Transform::Color              1.011  pkg:cpan/PDL-Transform-Color@1.011
 PDL::Transform::Composition        undef  pkg:cpan/PDL@2.105
 PDL::Transform::Linear             undef  pkg:cpan/PDL@2.105
 PDL::Transform::Proj4              2.099  pkg:cpan/PDL-Transform-Proj4@2.099
