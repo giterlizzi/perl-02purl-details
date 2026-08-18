@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 18 Aug 2026 10:19:49 GMT
+Last-Updated: Tue, 18 Aug 2026 12:30:40 GMT
 Line-Count: 258505
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -21273,15 +21273,15 @@ AutoloadComponent                  undef  pkg:cpan/makepp@1.19
 Automate::Animate::FFmpeg           0.13  pkg:cpan/Automate-Animate-FFmpeg@0.13
 Avatica::Client                    0.003  pkg:cpan/Avatica-Client@0.003
 Aviation::Report                    1.02  pkg:cpan/Aviation-Report@1.02
-Avro                               1.12.1  pkg:cpan/Avro@1.12.1
-Avro::BinaryDecoder                1.12.1  pkg:cpan/Avro@1.12.1
-Avro::BinaryEncoder                1.12.1  pkg:cpan/Avro@1.12.1
-Avro::DataFile                     1.12.1  pkg:cpan/Avro@1.12.1
-Avro::DataFileReader               1.12.1  pkg:cpan/Avro@1.12.1
-Avro::DataFileWriter               1.12.1  pkg:cpan/Avro@1.12.1
-Avro::Protocol                     1.12.1  pkg:cpan/Avro@1.12.1
-Avro::Protocol::Message            1.12.1  pkg:cpan/Avro@1.12.1
-Avro::Schema                       1.12.1  pkg:cpan/Avro@1.12.1
+Avro                               1.12.2  pkg:cpan/Avro@1.12.2
+Avro::BinaryDecoder                1.12.2  pkg:cpan/Avro@1.12.2
+Avro::BinaryEncoder                1.12.2  pkg:cpan/Avro@1.12.2
+Avro::DataFile                     1.12.2  pkg:cpan/Avro@1.12.2
+Avro::DataFileReader               1.12.2  pkg:cpan/Avro@1.12.2
+Avro::DataFileWriter               1.12.2  pkg:cpan/Avro@1.12.2
+Avro::Protocol                     1.12.2  pkg:cpan/Avro@1.12.2
+Avro::Protocol::Message            1.12.2  pkg:cpan/Avro@1.12.2
+Avro::Schema                       1.12.2  pkg:cpan/Avro@1.12.2
 Aw                                 0.016007  pkg:cpan/Aw@0.16.7
 Aw::Adapter                          0.3  pkg:cpan/Aw@0.16.7
 Aw::Admin                          0.016007  pkg:cpan/Aw@0.16.7
@@ -22257,13 +22257,13 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         v0.31.7  pkg:cpan/BarefootJS@0.31.7
-BarefootJS::Backend::Mojo          v0.31.7  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.31.7
-BarefootJS::Backend::Xslate        v0.31.7  pkg:cpan/BarefootJS-Backend-Xslate@0.31.7
-BarefootJS::Date                   v0.31.7  pkg:cpan/BarefootJS@0.31.7
-BarefootJS::DevReload              v0.31.7  pkg:cpan/BarefootJS@0.31.7
-BarefootJS::Evaluator              v0.31.7  pkg:cpan/BarefootJS@0.31.7
-BarefootJS::SearchParams           v0.31.7  pkg:cpan/BarefootJS@0.31.7
+BarefootJS                         v0.31.8  pkg:cpan/BarefootJS@0.31.8
+BarefootJS::Backend::Mojo          v0.31.8  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.31.8
+BarefootJS::Backend::Xslate        v0.31.8  pkg:cpan/BarefootJS-Backend-Xslate@0.31.8
+BarefootJS::Date                   v0.31.8  pkg:cpan/BarefootJS@0.31.8
+BarefootJS::DevReload              v0.31.8  pkg:cpan/BarefootJS@0.31.8
+BarefootJS::Evaluator              v0.31.8  pkg:cpan/BarefootJS@0.31.8
+BarefootJS::SearchParams           v0.31.8  pkg:cpan/BarefootJS@0.31.8
 BarefootJS::_TZProbe               0.029000  pkg:cpan/BarefootJS@0.29.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
@@ -59065,7 +59065,7 @@ Data::IPV4::Range::Parse            1.05  pkg:cpan/Data-IPV4-Range-Parse@1.05
 Data::ISO8583                       2.44  pkg:cpan/Data-ISO8583@2.44
 Data::ISO8583::VISA                 2.44  pkg:cpan/Data-ISO8583@2.44
 Data::Icon                          0.02  pkg:cpan/Data-Icon@0.02
-Data::IconText                     v0.7.0  pkg:cpan/Data-IconText@v0.07
+Data::IconText                     v0.8.0  pkg:cpan/Data-IconText@v0.08
 Data::Identifier                   v0.35.0  pkg:cpan/Data-Identifier@v0.35
 Data::Identifier::Cloudlet         v0.35.0  pkg:cpan/Data-Identifier@v0.35
 Data::Identifier::Generate         v0.35.0  pkg:cpan/Data-Identifier@v0.35
@@ -131674,8 +131674,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    v0.31.7  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.31.7
-Mojolicious::Plugin::BarefootJS::DevReload v0.31.7  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.31.7
+Mojolicious::Plugin::BarefootJS    v0.31.8  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.31.8
+Mojolicious::Plugin::BarefootJS::DevReload v0.31.8  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.31.8
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -193774,18 +193774,18 @@ Punk::Model::DBI                    0.17  pkg:cpan/Punk@0.17
 Punk::Model::DBIx::Loop             0.17  pkg:cpan/Punk@0.17
 Punk::Mount::Markdown               0.17  pkg:cpan/Punk@0.17
 Punk::Mount::OpenAPI                0.17  pkg:cpan/Punk@0.17
-Punk::OAuth2                        0.03  pkg:cpan/Punk-OAuth2@0.03
-Punk::OAuth2::Checker               0.03  pkg:cpan/Punk-OAuth2@0.03
-Punk::OAuth2::JWKS                  0.03  pkg:cpan/Punk-OAuth2@0.03
-Punk::OAuth2::Presets               0.03  pkg:cpan/Punk-OAuth2@0.03
-Punk::OAuth2::Provider              0.03  pkg:cpan/Punk-OAuth2@0.03
-Punk::OAuth2::Server                0.03  pkg:cpan/Punk-OAuth2@0.03
-Punk::OAuth2::Server::Store         0.03  pkg:cpan/Punk-OAuth2@0.03
-Punk::OAuth2::Tokens                0.03  pkg:cpan/Punk-OAuth2@0.03
-Punk::OAuth2::Util                  0.03  pkg:cpan/Punk-OAuth2@0.03
+Punk::OAuth2                        0.04  pkg:cpan/Punk-OAuth2@0.04
+Punk::OAuth2::Checker               0.04  pkg:cpan/Punk-OAuth2@0.04
+Punk::OAuth2::JWKS                  0.04  pkg:cpan/Punk-OAuth2@0.04
+Punk::OAuth2::Presets               0.04  pkg:cpan/Punk-OAuth2@0.04
+Punk::OAuth2::Provider              0.04  pkg:cpan/Punk-OAuth2@0.04
+Punk::OAuth2::Server                0.04  pkg:cpan/Punk-OAuth2@0.04
+Punk::OAuth2::Server::Store         0.04  pkg:cpan/Punk-OAuth2@0.04
+Punk::OAuth2::Tokens                0.04  pkg:cpan/Punk-OAuth2@0.04
+Punk::OAuth2::Util                  0.04  pkg:cpan/Punk-OAuth2@0.04
 Punk::Plugin                        0.17  pkg:cpan/Punk@0.17
 Punk::Plugin::GraphQL               0.02  pkg:cpan/Punk-GraphQL@0.02
-Punk::Plugin::OAuth2                0.03  pkg:cpan/Punk-OAuth2@0.03
+Punk::Plugin::OAuth2                0.04  pkg:cpan/Punk-OAuth2@0.04
 Punk::Plugin::Queue                 0.02  pkg:cpan/Punk-Queue@0.04
 Punk::Queue                         0.04  pkg:cpan/Punk-Queue@0.04
 Punk::Queue::Backend                0.02  pkg:cpan/Punk-Queue@0.04
