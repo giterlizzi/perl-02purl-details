@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 18 Aug 2026 02:49:18 GMT
+Last-Updated: Tue, 18 Aug 2026 04:27:52 GMT
 Line-Count: 258499
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -218806,7 +218806,7 @@ Table::BoxFormat::Unicode::CharClasses  0.01  pkg:cpan/Table-BoxFormat@0.01
 Table::Hack                         0.12  pkg:cpan/Table-Hack@0.12
 Table::ParentChild                  0.05  pkg:cpan/Table-ParentChild@0.05
 Table::ParentChild::Head            0.01  pkg:cpan/Table-ParentChild@0.05
-Table::Readable                     0.06  pkg:cpan/Table-Readable@0.06
+Table::Readable                     0.07  pkg:cpan/Table-Readable@0.07
 Table::Simple                       0.03  pkg:cpan/Table-Simple@0.03
 Table::Simple::Column              undef  pkg:cpan/Table-Simple@0.03
 Table::Simple::Output              undef  pkg:cpan/Table-Simple@0.03
