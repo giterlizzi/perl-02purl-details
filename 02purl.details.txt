@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 18 Aug 2026 14:25:23 GMT
+Last-Updated: Tue, 18 Aug 2026 16:21:58 GMT
 Line-Count: 258505
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -100806,14 +100806,14 @@ HTML::_TokenUpdateParser            1.12  pkg:cpan/HTML-Toc@1.12
 HTMLBase                           undef  pkg:cpan/HTML-Seamstress@6.112830
 HTMLElements                       undef  pkg:cpan/Mozilla-DOM@0.23
 HTMLTMPL                            1.34  pkg:cpan/HTMLTMPL@1.34
-HTTP::API::Client                   1.12  pkg:cpan/HTTP-API-Client@1.12
+HTTP::API::Client                   1.13  pkg:cpan/HTTP-API-Client@1.13
 HTTP::API::Core                     1.00  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Auth              undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Error             undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Pagination        undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::RateLimit         undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Response          undef  pkg:cpan/HTTP-API-Core@1.00
-HTTP::API::DataTypeMarker           1.12  pkg:cpan/HTTP-API-Client@1.12
+HTTP::API::DataTypeMarker           1.13  pkg:cpan/HTTP-API-Client@1.13
 HTTP::Accept                        0.03  pkg:cpan/HTTP-Accept@0.03
 HTTP::AcceptCharset                 0.04  pkg:cpan/HTTP-AcceptCharset@0.04
 HTTP::AcceptLanguage                0.02  pkg:cpan/HTTP-AcceptLanguage@0.02
@@ -130692,7 +130692,7 @@ Mojo::ACME                          0.13  pkg:cpan/Mojo-ACME@0.13
 Mojo::ACME::CA                     undef  pkg:cpan/Mojo-ACME@0.13
 Mojo::ACME::ChallengeServer        undef  pkg:cpan/Mojo-ACME@0.13
 Mojo::ACME::Key                    undef  pkg:cpan/Mojo-ACME@0.13
-Mojo::ATProto::OAuth                1.00  pkg:cpan/Mojo-ATProto-OAuth@1.00
+Mojo::ATProto::OAuth                1.01  pkg:cpan/Mojo-ATProto-OAuth@1.01
 Mojo::ATProto::OAuth::Resolver      1.00  pkg:cpan/Mojo-ATProto-OAuth@1.00
 Mojo::AWS                           0.10  pkg:cpan/Mojolicious-Plugin-AWS@0.21
 Mojo::AWS::S3                       0.01  pkg:cpan/Mojolicious-Plugin-AWS@0.21
@@ -213729,7 +213729,7 @@ SockJS::Transport::WebSocket       undef  pkg:cpan/SockJS@0.10
 SockJS::Transport::XHRPolling      undef  pkg:cpan/SockJS@0.10
 SockJS::Transport::XHRSend         undef  pkg:cpan/SockJS@0.10
 SockJS::Transport::XHRStreaming    undef  pkg:cpan/SockJS@0.10
-Socket                             2.042  pkg:cpan/Socket@2.042
+Socket                             2.043  pkg:cpan/Socket@2.043
 Socket6                             0.29  pkg:cpan/Socket6@0.29
 Socket::AcceptFilter                0.03  pkg:cpan/Socket-AcceptFilter@0.03
 Socket::Class                      2.258  pkg:cpan/Socket-Class@2.258
