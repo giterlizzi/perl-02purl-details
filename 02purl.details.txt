@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 19 Aug 2026 10:20:42 GMT
+Last-Updated: Wed, 19 Aug 2026 12:31:25 GMT
 Line-Count: 258673
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -100937,14 +100937,14 @@ HTML::_TokenUpdateParser            1.12  pkg:cpan/HTML-Toc@1.12
 HTMLBase                           undef  pkg:cpan/HTML-Seamstress@6.112830
 HTMLElements                       undef  pkg:cpan/Mozilla-DOM@0.23
 HTMLTMPL                            1.34  pkg:cpan/HTMLTMPL@1.34
-HTTP::API::Client                   1.23  pkg:cpan/HTTP-API-Client@1.23
+HTTP::API::Client                   1.24  pkg:cpan/HTTP-API-Client@1.24
 HTTP::API::Core                     1.00  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Auth              undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Error             undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Pagination        undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::RateLimit         undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Response          undef  pkg:cpan/HTTP-API-Core@1.00
-HTTP::API::DataTypeMarker           1.23  pkg:cpan/HTTP-API-Client@1.23
+HTTP::API::DataTypeMarker           1.24  pkg:cpan/HTTP-API-Client@1.24
 HTTP::Accept                        0.03  pkg:cpan/HTTP-Accept@0.03
 HTTP::AcceptCharset                 0.04  pkg:cpan/HTTP-AcceptCharset@0.04
 HTTP::AcceptLanguage                0.02  pkg:cpan/HTTP-AcceptLanguage@0.02
