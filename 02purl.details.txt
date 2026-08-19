@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 19 Aug 2026 00:50:45 GMT
+Last-Updated: Wed, 19 Aug 2026 02:50:40 GMT
 Line-Count: 258659
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -14894,35 +14894,35 @@ App::TermAttrUtils                 0.007  pkg:cpan/App-TermAttrUtils@0.007
 App::Termcast                       0.13  pkg:cpan/App-Termcast@0.13
 App::Test::DWG::LibreDWG::DwgRead   0.06  pkg:cpan/App-Test-DWG-LibreDWG-DwgRead@0.06
 App::Test::DWG::LibreDWG::JSON      0.05  pkg:cpan/App-Test-DWG-LibreDWG-JSON@0.05
-App::Test::Generator                0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::Analyzer::Complexity  0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::Analyzer::Return  0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::Analyzer::ReturnMeta  0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::Analyzer::SideEffect  0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::BenchmarkGenerator  0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::CoverageGuidedFuzzer  0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::Emitter::Perl  0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::Exporter::YAML  0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::LCSAJ         0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::LCSAJ::Coverage  0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::Model::Method  0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::Mutant        0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::Mutation::Base  0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::Mutation::BooleanNegation  0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::Mutation::ConditionalInversion  0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::Mutation::NumericBoundary  0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::Mutation::ReturnUndef  0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::Mutator       0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::Planner       0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::Planner::Fixture  0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::Planner::Grouping  0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::Planner::Isolation  0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::Planner::Mock  0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::PodExampleExtractor  0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::Sample::Module  0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::SchemaExtractor  0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::Template      0.45  pkg:cpan/App-Test-Generator@0.45
-App::Test::Generator::TestStrategy  0.45  pkg:cpan/App-Test-Generator@0.45
+App::Test::Generator                0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::Analyzer::Complexity  0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::Analyzer::Return  0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::Analyzer::ReturnMeta  0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::Analyzer::SideEffect  0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::BenchmarkGenerator  0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::CoverageGuidedFuzzer  0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::Emitter::Perl  0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::Exporter::YAML  0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::LCSAJ         0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::LCSAJ::Coverage  0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::Model::Method  0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::Mutant        0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::Mutation::Base  0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::Mutation::BooleanNegation  0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::Mutation::ConditionalInversion  0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::Mutation::NumericBoundary  0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::Mutation::ReturnUndef  0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::Mutator       0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::Planner       0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::Planner::Fixture  0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::Planner::Grouping  0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::Planner::Isolation  0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::Planner::Mock  0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::PodExampleExtractor  0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::Sample::Module  0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::SchemaExtractor  0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::Template      0.46  pkg:cpan/App-Test-Generator@0.46
+App::Test::Generator::TestStrategy  0.46  pkg:cpan/App-Test-Generator@0.46
 App::Test::Tapat                    0.04  pkg:cpan/App-Test-Tapat@0.04
 App::TestOnTap                     1.001  pkg:cpan/App-TestOnTap@1.001
 App::TestOnTap::Args               1.001  pkg:cpan/App-TestOnTap@1.001
@@ -64799,7 +64799,7 @@ Devel::Agent::AwareRole            0.001  pkg:cpan/Devel-Agent@0.006
 Devel::Agent::EveryThing           undef  pkg:cpan/Devel-Agent@0.007
 Devel::Agent::Proxy                0.0002  pkg:cpan/Devel-Agent@0.006
 Devel::Agent::Util                 undef  pkg:cpan/Devel-Agent@0.007
-Devel::App::Test::Generator::LCSAJ::Runtime  0.45  pkg:cpan/App-Test-Generator@0.45
+Devel::App::Test::Generator::LCSAJ::Runtime  0.46  pkg:cpan/App-Test-Generator@0.46
 Devel::Arena                        0.23  pkg:cpan/Devel-Arena@0.23
 Devel::ArgNames                     0.03  pkg:cpan/Devel-ArgNames@0.03
 Devel::Assert                       1.06  pkg:cpan/Devel-Assert@1.06
@@ -100937,14 +100937,14 @@ HTML::_TokenUpdateParser            1.12  pkg:cpan/HTML-Toc@1.12
 HTMLBase                           undef  pkg:cpan/HTML-Seamstress@6.112830
 HTMLElements                       undef  pkg:cpan/Mozilla-DOM@0.23
 HTMLTMPL                            1.34  pkg:cpan/HTMLTMPL@1.34
-HTTP::API::Client                   1.20  pkg:cpan/HTTP-API-Client@1.20
+HTTP::API::Client                   1.23  pkg:cpan/HTTP-API-Client@1.23
 HTTP::API::Core                     1.00  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Auth              undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Error             undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Pagination        undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::RateLimit         undef  pkg:cpan/HTTP-API-Core@1.00
 HTTP::API::Core::Response          undef  pkg:cpan/HTTP-API-Core@1.00
-HTTP::API::DataTypeMarker           1.20  pkg:cpan/HTTP-API-Client@1.20
+HTTP::API::DataTypeMarker           1.23  pkg:cpan/HTTP-API-Client@1.23
 HTTP::Accept                        0.03  pkg:cpan/HTTP-Accept@0.03
 HTTP::AcceptCharset                 0.04  pkg:cpan/HTTP-AcceptCharset@0.04
 HTTP::AcceptLanguage                0.02  pkg:cpan/HTTP-AcceptLanguage@0.02
@@ -151975,8 +151975,8 @@ PDL::Config                        undef  pkg:cpan/PDL@2.106
 PDL::Constants                      0.02  pkg:cpan/PDL@2.106
 PDL::Core                          2.096  pkg:cpan/PDL@2.106
 PDL::Core::Dev                     undef  pkg:cpan/PDL@2.106
-PDL::DSP::Fir                      0.006  pkg:cpan/PDL-DSP-Fir@0.006
-PDL::DSP::Fir::Simple              0.005  pkg:cpan/PDL-DSP-Fir@0.006
+PDL::DSP::Fir                      0.007  pkg:cpan/PDL-DSP-Fir@0.007
+PDL::DSP::Fir::Simple              0.005  pkg:cpan/PDL-DSP-Fir@0.007
 PDL::DSP::Windows                  0.103  pkg:cpan/PDL-DSP-Windows@0.103
 PDL::DateTime                      0.004  pkg:cpan/PDL-DateTime@0.004
 PDL::Dbg                           undef  pkg:cpan/PDL@2.106
@@ -155720,7 +155720,7 @@ Params::Dry::Types::Object         1.2003  pkg:cpan/Params-Dry@1.2003
 Params::Dry::Types::Ref            1.2003  pkg:cpan/Params-Dry@1.2003
 Params::Dry::Types::String         1.2003  pkg:cpan/Params-Dry@1.2003
 Params::Filter                     0.018  pkg:cpan/Params-Filter@0.018
-Params::Get                         0.16  pkg:cpan/Params-Get@0.16
+Params::Get                         0.17  pkg:cpan/Params-Get@0.17
 Params::Lazy                       0.005  pkg:cpan/Params-Lazy@0.005
 Params::Named                        1.0  pkg:cpan/Params-Named@1.0.2
 Params::PatternMatch                0.01  pkg:cpan/Params-PatternMatch@0.01
