@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 19 Aug 2026 02:50:40 GMT
+Last-Updated: Wed, 19 Aug 2026 04:29:57 GMT
 Line-Count: 258659
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -122444,7 +122444,7 @@ Mail::DMARC::Test::Transport       undef  pkg:cpan/Mail-DMARC@2.20260724
 Mail::DMARC::opendmarc              0.11  pkg:cpan/Mail-DMARC-opendmarc@0.11
 Mail::DMARC::opendmarc::Constants::C::Symbols  0.11  pkg:cpan/Mail-DMARC-opendmarc@0.11
 Mail::DSPAM::Learning                0.1  pkg:cpan/Mail-DSPAM-Learning@0.1
-Mail::DWIM                          0.10  pkg:cpan/Mail-DWIM@0.10
+Mail::DWIM                          0.11  pkg:cpan/Mail-DWIM@0.11
 Mail::DataFeed::Abusix             2.20210112  pkg:cpan/Mail-DataFeed-Abusix@2.20210112
 Mail::Decency                      0.001006  pkg:cpan/Mail-Decency@0.1.6
 Mail::Decency::ContentFilter       0.001006  pkg:cpan/Mail-Decency@0.1.6
