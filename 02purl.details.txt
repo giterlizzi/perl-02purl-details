@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 21 Aug 2026 14:26:48 GMT
-Line-Count: 258756
+Last-Updated: Fri, 21 Aug 2026 16:23:22 GMT
+Line-Count: 258758
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -155770,7 +155770,7 @@ Params::Validate::Dependencies::all_or_none_of  1.02  pkg:cpan/Params-Validate-D
 Params::Validate::Dummy             0.03  pkg:cpan/Module-Optional@0.03
 Params::Validate::Micro            0.032  pkg:cpan/Params-Validate-Micro@0.032
 Params::Validate::PP                1.31  pkg:cpan/Params-Validate@1.31
-Params::Validate::Strict            0.38  pkg:cpan/Params-Validate-Strict@0.38
+Params::Validate::Strict            0.39  pkg:cpan/Params-Validate-Strict@0.39
 Params::Validate::XS                1.31  pkg:cpan/Params-Validate@1.31
 Params::ValidationCompiler          0.31  pkg:cpan/Params-ValidationCompiler@0.31
 Params::ValidationCompiler::Compiler  0.31  pkg:cpan/Params-ValidationCompiler@0.31
@@ -193944,31 +193944,31 @@ Puncheur::Request                  undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Response                 undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Runner                   undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Trigger                  undef  pkg:cpan/Puncheur@v0.3.0
-Punk                                0.27  pkg:cpan/Punk@0.27
-Punk::App                           0.27  pkg:cpan/Punk@0.27
-Punk::Auth                          0.27  pkg:cpan/Punk@0.27
-Punk::Auth::Password                0.27  pkg:cpan/Punk@0.27
-Punk::CORS                          0.27  pkg:cpan/Punk@0.27
-Punk::CSRF                          0.27  pkg:cpan/Punk@0.27
-Punk::Cache                         0.27  pkg:cpan/Punk@0.27
-Punk::Cache::File                   0.27  pkg:cpan/Punk@0.27
-Punk::Cache::Memory                 0.27  pkg:cpan/Punk@0.27
-Punk::Command                       0.27  pkg:cpan/Punk@0.27
+Punk                                0.28  pkg:cpan/Punk@0.28
+Punk::App                           0.28  pkg:cpan/Punk@0.28
+Punk::Auth                          0.28  pkg:cpan/Punk@0.28
+Punk::Auth::Password                0.28  pkg:cpan/Punk@0.28
+Punk::CORS                          0.28  pkg:cpan/Punk@0.28
+Punk::CSRF                          0.28  pkg:cpan/Punk@0.28
+Punk::Cache                         0.28  pkg:cpan/Punk@0.28
+Punk::Cache::File                   0.28  pkg:cpan/Punk@0.28
+Punk::Cache::Memory                 0.28  pkg:cpan/Punk@0.28
+Punk::Command                       0.28  pkg:cpan/Punk@0.28
 Punk::Command::Queue                0.04  pkg:cpan/Punk-Queue@0.06
-Punk::Config                        0.27  pkg:cpan/Punk@0.27
-Punk::Context                       0.27  pkg:cpan/Punk@0.27
-Punk::Controller                    0.27  pkg:cpan/Punk@0.27
-Punk::DevError                      0.27  pkg:cpan/Punk@0.27
-Punk::Future                        0.27  pkg:cpan/Punk@0.27
-Punk::Generate                      0.27  pkg:cpan/Punk@0.27
+Punk::Config                        0.28  pkg:cpan/Punk@0.28
+Punk::Context                       0.28  pkg:cpan/Punk@0.28
+Punk::Controller                    0.28  pkg:cpan/Punk@0.28
+Punk::DevError                      0.28  pkg:cpan/Punk@0.28
+Punk::Future                        0.28  pkg:cpan/Punk@0.28
+Punk::Generate                      0.28  pkg:cpan/Punk@0.28
 Punk::GraphQL                       0.02  pkg:cpan/Punk-GraphQL@0.02
-Punk::Headers                       0.27  pkg:cpan/Punk@0.27
-Punk::Logger                        0.27  pkg:cpan/Punk@0.27
-Punk::Model                         0.27  pkg:cpan/Punk@0.27
-Punk::Model::DBI                    0.27  pkg:cpan/Punk@0.27
-Punk::Model::DBIx::Loop             0.27  pkg:cpan/Punk@0.27
-Punk::Mount::Markdown               0.27  pkg:cpan/Punk@0.27
-Punk::Mount::OpenAPI                0.27  pkg:cpan/Punk@0.27
+Punk::Headers                       0.28  pkg:cpan/Punk@0.28
+Punk::Logger                        0.28  pkg:cpan/Punk@0.28
+Punk::Model                         0.28  pkg:cpan/Punk@0.28
+Punk::Model::DBI                    0.28  pkg:cpan/Punk@0.28
+Punk::Model::DBIx::Loop             0.28  pkg:cpan/Punk@0.28
+Punk::Mount::Markdown               0.28  pkg:cpan/Punk@0.28
+Punk::Mount::OpenAPI                0.28  pkg:cpan/Punk@0.28
 Punk::OAuth2                        0.05  pkg:cpan/Punk-OAuth2@0.05
 Punk::OAuth2::Checker               0.05  pkg:cpan/Punk-OAuth2@0.05
 Punk::OAuth2::JWKS                  0.05  pkg:cpan/Punk-OAuth2@0.05
@@ -193991,19 +193991,20 @@ Punk::OpenTelemetry::Propagate      0.04  pkg:cpan/Punk-OpenTelemetry@0.04
 Punk::OpenTelemetry::Resource       0.04  pkg:cpan/Punk-OpenTelemetry@0.04
 Punk::OpenTelemetry::Schema         0.04  pkg:cpan/Punk-OpenTelemetry@0.04
 Punk::OpenTelemetry::Tracer         0.04  pkg:cpan/Punk-OpenTelemetry@0.04
-Punk::Plugin                        0.27  pkg:cpan/Punk@0.27
-Punk::Plugin::Blob                  0.27  pkg:cpan/Punk@0.27
-Punk::Plugin::CSP                   0.27  pkg:cpan/Punk@0.27
-Punk::Plugin::ConditionalGet        0.27  pkg:cpan/Punk@0.27
+Punk::Plugin                        0.28  pkg:cpan/Punk@0.28
+Punk::Plugin::Blob                  0.28  pkg:cpan/Punk@0.28
+Punk::Plugin::CSP                   0.28  pkg:cpan/Punk@0.28
+Punk::Plugin::ConditionalGet        0.28  pkg:cpan/Punk@0.28
 Punk::Plugin::GraphQL               0.02  pkg:cpan/Punk-GraphQL@0.02
-Punk::Plugin::Health                0.27  pkg:cpan/Punk@0.27
-Punk::Plugin::Idempotency           0.27  pkg:cpan/Punk@0.27
-Punk::Plugin::Metrics               0.27  pkg:cpan/Punk@0.27
+Punk::Plugin::Health                0.28  pkg:cpan/Punk@0.28
+Punk::Plugin::I18n                  0.28  pkg:cpan/Punk@0.28
+Punk::Plugin::Idempotency           0.28  pkg:cpan/Punk@0.28
+Punk::Plugin::Metrics               0.28  pkg:cpan/Punk@0.28
 Punk::Plugin::OAuth2                0.05  pkg:cpan/Punk-OAuth2@0.05
 Punk::Plugin::OpenTelemetry         0.04  pkg:cpan/Punk-OpenTelemetry@0.04
 Punk::Plugin::Queue                 0.02  pkg:cpan/Punk-Queue@0.06
-Punk::Plugin::RequestId             0.27  pkg:cpan/Punk@0.27
-Punk::Plugin::Sitemap               0.27  pkg:cpan/Punk@0.27
+Punk::Plugin::RequestId             0.28  pkg:cpan/Punk@0.28
+Punk::Plugin::Sitemap               0.28  pkg:cpan/Punk@0.28
 Punk::Queue                         0.06  pkg:cpan/Punk-Queue@0.06
 Punk::Queue::Backend                0.02  pkg:cpan/Punk-Queue@0.06
 Punk::Queue::Backend::Pg            0.02  pkg:cpan/Punk-Queue@0.06
@@ -194012,27 +194013,27 @@ Punk::Queue::Command                0.02  pkg:cpan/Punk-Queue@0.06
 Punk::Queue::Cron                   0.02  pkg:cpan/Punk-Queue@0.06
 Punk::Queue::Job                    0.02  pkg:cpan/Punk-Queue@0.06
 Punk::Queue::Worker                 0.02  pkg:cpan/Punk-Queue@0.06
-Punk::RateLimit                     0.27  pkg:cpan/Punk@0.27
-Punk::Request                       0.27  pkg:cpan/Punk@0.27
-Punk::Response                      0.27  pkg:cpan/Punk@0.27
-Punk::Router                        0.27  pkg:cpan/Punk@0.27
-Punk::Router::Scope                 0.27  pkg:cpan/Punk@0.27
-Punk::SSE                           0.27  pkg:cpan/Punk@0.27
-Punk::SendFile::Reader              0.27  pkg:cpan/Punk@0.27
-Punk::Session                       0.27  pkg:cpan/Punk@0.27
-Punk::Session::Store                0.27  pkg:cpan/Punk@0.27
-Punk::Static                        0.27  pkg:cpan/Punk@0.27
-Punk::Test                          0.27  pkg:cpan/Punk@0.27
-Punk::Test::WS                      0.27  pkg:cpan/Punk@0.27
-Punk::Test::WS::Conn                0.27  pkg:cpan/Punk@0.27
+Punk::RateLimit                     0.28  pkg:cpan/Punk@0.28
+Punk::Request                       0.28  pkg:cpan/Punk@0.28
+Punk::Response                      0.28  pkg:cpan/Punk@0.28
+Punk::Router                        0.28  pkg:cpan/Punk@0.28
+Punk::Router::Scope                 0.28  pkg:cpan/Punk@0.28
+Punk::SSE                           0.28  pkg:cpan/Punk@0.28
+Punk::SendFile::Reader              0.28  pkg:cpan/Punk@0.28
+Punk::Session                       0.28  pkg:cpan/Punk@0.28
+Punk::Session::Store                0.28  pkg:cpan/Punk@0.28
+Punk::Static                        0.28  pkg:cpan/Punk@0.28
+Punk::Test                          0.28  pkg:cpan/Punk@0.28
+Punk::Test::WS                      0.28  pkg:cpan/Punk@0.28
+Punk::Test::WS::Conn                0.28  pkg:cpan/Punk@0.28
 Punk::Test::_Writer                 0.12  pkg:cpan/Punk@0.12
-Punk::UA                            0.27  pkg:cpan/Punk@0.27
-Punk::Upload                        0.27  pkg:cpan/Punk@0.27
-Punk::Validate                      0.27  pkg:cpan/Punk@0.27
-Punk::View::Stencil                 0.27  pkg:cpan/Punk@0.27
-Punk::Views                         0.27  pkg:cpan/Punk@0.27
-Punk::WebSocket                     0.27  pkg:cpan/Punk@0.27
-Punk::WebSocket::Room               0.27  pkg:cpan/Punk@0.27
+Punk::UA                            0.28  pkg:cpan/Punk@0.28
+Punk::Upload                        0.28  pkg:cpan/Punk@0.28
+Punk::Validate                      0.28  pkg:cpan/Punk@0.28
+Punk::View::Stencil                 0.28  pkg:cpan/Punk@0.28
+Punk::Views                         0.28  pkg:cpan/Punk@0.28
+Punk::WebSocket                     0.28  pkg:cpan/Punk@0.28
+Punk::WebSocket::Room               0.28  pkg:cpan/Punk@0.28
 Puppet::Classify                   undef  pkg:cpan/Puppet-Classify@0.003
 Puppet::DB                         undef  pkg:cpan/Puppet-DB@0.001
 Puppet::Orchestrator               undef  pkg:cpan/Puppet-Orchestrator@0.002
@@ -194370,6 +194371,7 @@ QQ::weixin::work::wedoc::spreadsheet  0.10  pkg:cpan/QQ-weixin-work@v0.12?ext=zi
 QQ::weixin::work::wedoc::vip        0.10  pkg:cpan/QQ-weixin-work@v0.12?ext=zip
 QQ::weixin::work::wedrive           0.10  pkg:cpan/QQ-weixin-work@v0.12?ext=zip
 QQ::weixin::work::wedrive::vip      0.10  pkg:cpan/QQ-weixin-work@v0.12?ext=zip
+QR::Code                            0.01  pkg:cpan/QR-Code@0.01
 QRCode::Any                        0.003  pkg:cpan/QRCode-Any@0.003
 QRCode::Base45                      0.03  pkg:cpan/QRCode-Base45@0.03
 QRCode::Encoder                    0.005  pkg:cpan/QRCode-Encoder@0.005
@@ -221274,8 +221276,8 @@ Template::Stash::EscapeHTML         0.02  pkg:cpan/Template-Stash-EscapeHTML@0.0
 Template::Stash::ForceUTF8          0.03  pkg:cpan/Template-Provider-Encoding@0.10
 Template::Stash::HTML::Entities    1.003001  pkg:cpan/Template-Stash-HTML-Entities@1.3.1
 Template::Stash::XS                undef  pkg:cpan/Template-Toolkit@3.106
-Template::Stencil                   0.09  pkg:cpan/Template-Stencil@0.09
-Template::Stencil::PSGI             0.04  pkg:cpan/Template-Stencil@0.09
+Template::Stencil                   0.10  pkg:cpan/Template-Stencil@0.10
+Template::Stencil::PSGI             0.04  pkg:cpan/Template-Stencil@0.10
 Template::Swig                      0.05  pkg:cpan/Template-Swig@0.05
 Template::TAL                       0.91  pkg:cpan/Template-TAL@0.91
 Template::TAL::Language            undef  pkg:cpan/Template-TAL@0.91
