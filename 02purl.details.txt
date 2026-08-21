@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 21 Aug 2026 10:21:46 GMT
-Line-Count: 258767
+Last-Updated: Fri, 21 Aug 2026 12:32:08 GMT
+Line-Count: 258756
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -33105,17 +33105,6 @@ CLIPSeqTools::Role::Option::ReferenceLibrary   1.0  pkg:cpan/CLIPSeqTools@1.0.0
 CLIPSeqTools::Role::Option::Transcripts   1.0  pkg:cpan/CLIPSeqTools@1.0.0
 CLucene                             1.03  pkg:cpan/CLucene@1.03
 CMD::Colors                          0.1  pkg:cpan/CMD-Colors@0.1
-CMS::Drupal                         0.94  pkg:cpan/CMS-Drupal@0.94
-CMS::Drupal::Admin                  0.94  pkg:cpan/CMS-Drupal@0.94
-CMS::Drupal::Admin::MaintenanceMode  0.94  pkg:cpan/CMS-Drupal@0.94
-CMS::Drupal::Modules                0.94  pkg:cpan/CMS-Drupal@0.94
-CMS::Drupal::Modules::MembershipEntity  0.96  pkg:cpan/CMS-Drupal-Modules-MembershipEntity@0.96
-CMS::Drupal::Modules::MembershipEntity::Cookbook  0.96  pkg:cpan/CMS-Drupal-Modules-MembershipEntity@0.96
-CMS::Drupal::Modules::MembershipEntity::Membership  0.96  pkg:cpan/CMS-Drupal-Modules-MembershipEntity@0.96
-CMS::Drupal::Modules::MembershipEntity::Stats  0.96  pkg:cpan/CMS-Drupal-Modules-MembershipEntity@0.96
-CMS::Drupal::Modules::MembershipEntity::Term  0.96  pkg:cpan/CMS-Drupal-Modules-MembershipEntity@0.96
-CMS::Drupal::Modules::MembershipEntity::Test  0.96  pkg:cpan/CMS-Drupal-Modules-MembershipEntity@0.96
-CMS::Drupal::Types                  0.94  pkg:cpan/CMS-Drupal@0.94
 CMS::JoomlaToDrupal                 0.05  pkg:cpan/CMS-JoomlaToDrupal@0.05
 CMS::MediaWiki                     0.8014  pkg:cpan/CMS-MediaWiki@0.8014
 CN::Province                        0.02  pkg:cpan/CN-Province@0.02
