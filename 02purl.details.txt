@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 21 Aug 2026 06:33:31 GMT
-Line-Count: 258740
+Last-Updated: Fri, 21 Aug 2026 08:31:04 GMT
+Line-Count: 258767
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -238763,6 +238763,33 @@ WWW::Freshmeat::Project::URL        0.22  pkg:cpan/WWW-Freshmeat@0.22
 WWW::Freshmeat::User                0.22  pkg:cpan/WWW-Freshmeat@0.22
 WWW::Fuel::US::Prices              0.000004  pkg:cpan/WWW-Fuel-US-Prices@0.0.4
 WWW::GameMonitor                    0.03  pkg:cpan/WWW-GameMonitor@0.03
+WWW::Garden::Design                 0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Controller::AutoComplete  0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Controller::Design  0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Controller::Feature  0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Controller::Flower  0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Controller::Garden  0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Controller::GetFlowerDetails  0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Controller::GetTable  0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Controller::Initialize  0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Controller::Property  0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Controller::Report  0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Controller::Search  0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Database       0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Database::Mojo  0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Database::MojoDriver  0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Database::Pg   0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Database::SQLite  0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Export         0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Export::Pg     0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Export::SQLite  0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Import         0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Import::Pg     0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Import::SQLite  0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Util::Config   0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Util::Create   0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Util::Filer    0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
+WWW::Garden::Design::Util::ValidateForm  0.97  pkg:cpan/WWW-Garden-Design@0.97?ext=tgz
 WWW::Gazetteer                      0.24  pkg:cpan/WWW-Gazetteer@0.24
 WWW::Gazetteer::Getty               0.11  pkg:cpan/WWW-Gazetteer-Getty@0.11
 WWW::Geni                          0.003000  pkg:cpan/WWW-Geni@0.3.0a?ext=tgz
