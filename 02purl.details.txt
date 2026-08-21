@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 21 Aug 2026 12:32:08 GMT
+Last-Updated: Fri, 21 Aug 2026 14:26:48 GMT
 Line-Count: 258756
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -50690,7 +50690,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.1  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::NotNode  v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::OrNode   v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.142
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.143
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
@@ -227534,7 +227534,7 @@ Tie::Hash::Random                   1.02  pkg:cpan/Tie-Hash-Random@1.02
 Tie::Hash::Rank                    undef  pkg:cpan/Tie-Hash-Rank@1.0.1
 Tie::Hash::ReadonlyStack             0.2  pkg:cpan/Tie-Hash-ReadonlyStack@0.2
 Tie::Hash::RedisDB                  1.03  pkg:cpan/Tie-Hash-RedisDB@1.03
-Tie::Hash::Regex                    1.14  pkg:cpan/Tie-Hash-Regex@1.14
+Tie::Hash::Regex                     2.0  pkg:cpan/Tie-Hash-Regex@2.0.0
 Tie::Hash::RegexKeys                1.21  pkg:cpan/Tie-Hash-RegexKeys@1.21
 Tie::Hash::SerializedString        0.002  pkg:cpan/Scalar-Accessors-LikeHash@0.002
 Tie::Hash::Sorted                   0.10  pkg:cpan/Tie-Hash-Sorted@0.10
