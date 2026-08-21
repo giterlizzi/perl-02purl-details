@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 21 Aug 2026 18:25:57 GMT
-Line-Count: 258801
+Last-Updated: Fri, 21 Aug 2026 20:17:18 GMT
+Line-Count: 258803
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -193996,6 +193996,7 @@ Punk::CSRF                          0.28  pkg:cpan/Punk@0.28
 Punk::Cache                         0.28  pkg:cpan/Punk@0.28
 Punk::Cache::File                   0.28  pkg:cpan/Punk@0.28
 Punk::Cache::Memory                 0.28  pkg:cpan/Punk@0.28
+Punk::ClamAV                        0.01  pkg:cpan/Punk-ClamAV@0.01
 Punk::Command                       0.28  pkg:cpan/Punk@0.28
 Punk::Command::Queue                0.04  pkg:cpan/Punk-Queue@0.06
 Punk::Config                        0.28  pkg:cpan/Punk@0.28
@@ -194037,6 +194038,7 @@ Punk::OpenTelemetry::Tracer         0.04  pkg:cpan/Punk-OpenTelemetry@0.04
 Punk::Plugin                        0.28  pkg:cpan/Punk@0.28
 Punk::Plugin::Blob                  0.28  pkg:cpan/Punk@0.28
 Punk::Plugin::CSP                   0.28  pkg:cpan/Punk@0.28
+Punk::Plugin::ClamAV                0.01  pkg:cpan/Punk-ClamAV@0.01
 Punk::Plugin::ConditionalGet        0.28  pkg:cpan/Punk@0.28
 Punk::Plugin::GraphQL               0.02  pkg:cpan/Punk-GraphQL@0.02
 Punk::Plugin::Health                0.28  pkg:cpan/Punk@0.28
