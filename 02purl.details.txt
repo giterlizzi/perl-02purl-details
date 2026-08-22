@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 22 Aug 2026 18:18:18 GMT
+Last-Updated: Sat, 22 Aug 2026 20:14:23 GMT
 Line-Count: 258821
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -62545,8 +62545,8 @@ DataWarehouse::Aggregate            0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::Dimension            0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::ETL                  0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::Fact                 0.04  pkg:cpan/DataWarehouse@0.04
-Database::Abstraction               0.37  pkg:cpan/Database-Abstraction@0.37
-Database::Abstraction::Query        0.37  pkg:cpan/Database-Abstraction@0.37
+Database::Abstraction               0.38  pkg:cpan/Database-Abstraction@0.38
+Database::Abstraction::Query        0.38  pkg:cpan/Database-Abstraction@0.38
 Database::Async                    0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Backoff           0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Backoff::Exponential 0.019  pkg:cpan/Database-Async@0.019
@@ -194066,7 +194066,7 @@ Punk::Plugin::OpenTelemetry         0.04  pkg:cpan/Punk-OpenTelemetry@0.04
 Punk::Plugin::Queue                 0.02  pkg:cpan/Punk-Queue@0.06
 Punk::Plugin::RequestId             0.29  pkg:cpan/Punk@0.29
 Punk::Plugin::Sitemap               0.29  pkg:cpan/Punk@0.29
-Punk::Plugin::TOTP                  0.02  pkg:cpan/Punk-TOTP@0.02
+Punk::Plugin::TOTP                  0.03  pkg:cpan/Punk-TOTP@0.03
 Punk::Queue                         0.06  pkg:cpan/Punk-Queue@0.06
 Punk::Queue::Backend                0.02  pkg:cpan/Punk-Queue@0.06
 Punk::Queue::Backend::Pg            0.02  pkg:cpan/Punk-Queue@0.06
@@ -194085,7 +194085,7 @@ Punk::SendFile::Reader              0.29  pkg:cpan/Punk@0.29
 Punk::Session                       0.29  pkg:cpan/Punk@0.29
 Punk::Session::Store                0.29  pkg:cpan/Punk@0.29
 Punk::Static                        0.29  pkg:cpan/Punk@0.29
-Punk::TOTP                          0.02  pkg:cpan/Punk-TOTP@0.02
+Punk::TOTP                          0.03  pkg:cpan/Punk-TOTP@0.03
 Punk::Test                          0.29  pkg:cpan/Punk@0.29
 Punk::Test::WS                      0.29  pkg:cpan/Punk@0.29
 Punk::Test::WS::Conn                0.29  pkg:cpan/Punk@0.29
