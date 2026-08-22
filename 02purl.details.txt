@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 22 Aug 2026 16:14:55 GMT
+Last-Updated: Sat, 22 Aug 2026 18:18:18 GMT
 Line-Count: 258821
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -4918,7 +4918,7 @@ Alien::XPA                         v2.1.20.7  pkg:cpan/Alien-XPA@v2.1.20.7
 Alien::Xmake                        0.08  pkg:cpan/Alien-Xmake@0.08
 Alien::Xrepo                        0.08  pkg:cpan/Alien-Xmake@0.08
 Alien::Xrepo::PackageInfo          undef  pkg:cpan/Alien-Xmake@0.08
-Alien::YAMLScript                  0.002030  pkg:cpan/Alien-YAMLScript@0.2.30
+Alien::YAMLScript                  0.002031  pkg:cpan/Alien-YAMLScript@0.2.31
 Alien::YARA                        v0.0.1  pkg:cpan/Alien-YARA@v0.0.6
 Alien::Z3                          0.002  pkg:cpan/Alien-Z3@0.002
 Alien::ZMQ                          0.06  pkg:cpan/Alien-ZMQ@0.06
@@ -120868,7 +120868,7 @@ MIDI::Opus                          0.84  pkg:cpan/MIDI-Perl@0.84
 MIDI::Pitch                          0.7  pkg:cpan/MIDI-Pitch@0.7
 MIDI::Praxis::Variation            0.0607  pkg:cpan/MIDI-Praxis-Variation@0.0607
 MIDI::Realtime                      0.01  pkg:cpan/MIDI-Realtime@0.01
-MIDI::RtController                 0.0806  pkg:cpan/MIDI-RtController@0.0806
+MIDI::RtController                 0.0807  pkg:cpan/MIDI-RtController@0.0807
 MIDI::RtController::Filter         0.0104  pkg:cpan/MIDI-RtController-Filter@0.0104
 MIDI::RtController::Filter::CC     0.1202  pkg:cpan/MIDI-RtController-Filter-CC@0.1202
 MIDI::RtController::Filter::Drums  0.0402  pkg:cpan/MIDI-RtController-Filter-Drums@0.0402
@@ -252964,8 +252964,8 @@ YAML::XS                           v0.910.0  pkg:cpan/YAML-LibYAML@v0.910.0
 YAML::XS::LibYAML                  v0.910.0  pkg:cpan/YAML-LibYAML@v0.910.0
 YAML::YAML2ADoc                    0.001000  pkg:cpan/YAML-YAML2ADoc@0.1.0
 YAML::yq::Helper                   0.002000  pkg:cpan/YAML-yq-Helper@0.2.0
-YAMLScript                         0.002030  pkg:cpan/YAMLScript@0.2.30
-YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.2.30
+YAMLScript                         0.002031  pkg:cpan/YAMLScript@0.2.31
+YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.2.31
 YAMLScript::Base                   undef  pkg:cpan/YAMLScript@0.0.7
 YAMLScript::CLI                    undef  pkg:cpan/YAMLScript@0.1.3
 YAMLScript::Call                   undef  pkg:cpan/YAMLScript@0.0.16
