@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 23 Aug 2026 00:54:35 GMT
-Line-Count: 258834
+Last-Updated: Sun, 23 Aug 2026 02:55:40 GMT
+Line-Count: 258838
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -115454,7 +115454,7 @@ Lingua::TermWeight::WordCounter::Lossy  0.01  pkg:cpan/Lingua-TermWeight@0.01
 Lingua::TermWeight::WordCounter::Simple  0.01  pkg:cpan/Lingua-TermWeight@0.01
 Lingua::TermWeight::WordSegmenter::LetterNgram  0.01  pkg:cpan/Lingua-TermWeight@0.01
 Lingua::TermWeight::WordSegmenter::SplitBySpace  0.01  pkg:cpan/Lingua-TermWeight@0.01
-Lingua::Text                        0.09  pkg:cpan/Lingua-Text@0.09
+Lingua::Text                        0.10  pkg:cpan/Lingua-Text@0.10
 Lingua::Thesaurus                   0.13  pkg:cpan/Lingua-Thesaurus@0.13
 Lingua::Thesaurus::IO              undef  pkg:cpan/Lingua-Thesaurus@0.13
 Lingua::Thesaurus::IO::ISO2788     undef  pkg:cpan/Lingua-Thesaurus@0.13
@@ -215987,7 +215987,7 @@ Stats::Fermi::FermiDiracStats      undef  pkg:cpan/Stats-Fermi@0.1.7
 Stats::Hawking                     0.001003  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HTRandom           undef  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HawkingTemperature undef  pkg:cpan/Stats-Hawking@0.1.3
-Stats::LikeR                       0.301  pkg:cpan/Stats-LikeR@0.301
+Stats::LikeR                       0.302  pkg:cpan/Stats-LikeR@0.302
 Stats::LikeR::Pred                  0.16  pkg:cpan/Stats-LikeR@0.16
 Stats::LikeR::col                   0.28  pkg:cpan/Stats-LikeR@0.28
 StatsView::Graph                    1.15  pkg:cpan/StatsView@1.4
@@ -231925,8 +231925,12 @@ Unicornify::URL                     1.07  pkg:cpan/Gravatar-URL@1.07
 Unicruft                            0.06  pkg:cpan/Unicruft@0.06
 Uniden::BC75XLT                    0.000004  pkg:cpan/Uniden-BC75XLT@0.0.4
 Unidexer                            0.02  pkg:cpan/Unidexer@0.02
-Uniform::HTMX                       0.11  pkg:cpan/Uniform-HTMX@0.11
-Uniform::HTMX::PSGI                 1.00  pkg:cpan/Uniform-HTMX-PSGI@1.00
+Uniform                             1.01  pkg:cpan/Uniform@1.01
+Uniform::Exceptions                 1.00  pkg:cpan/Uniform@1.01
+Uniform::HTMX                       0.15  pkg:cpan/Uniform-HTMX@0.15
+Uniform::HTMX::Mojolicious          1.01  pkg:cpan/Uniform-HTMX-Mojolicious@1.01
+Uniform::HTMX::PSGI                 1.01  pkg:cpan/Uniform-HTMX-PSGI@1.01
+Uniform::Utils                      1.00  pkg:cpan/Uniform@1.01
 UnigeneAccessor                    28051999  pkg:cpan/Boulder@1.15
 Uninets::Check                      0.04  pkg:cpan/Uninets-Check@0.04
 Uninets::Check::Modules::HTTP       0.03  pkg:cpan/Uninets-Check-Modules-HTTP@0.03
