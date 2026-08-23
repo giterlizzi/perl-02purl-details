@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 22 Aug 2026 22:14:06 GMT
-Line-Count: 258831
+Last-Updated: Sun, 23 Aug 2026 00:54:35 GMT
+Line-Count: 258834
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -4854,7 +4854,7 @@ Alien::SDL3_ttf                     0.05  pkg:cpan/Alien-SDL3_ttf@0.05
 Alien::SFML                        0.0101  pkg:cpan/Alien-SFML@0.02
 Alien::SIMDe                        0.01  pkg:cpan/Alien-SIMDe@0.01
 Alien::SLOCCount                    0.07  pkg:cpan/Alien-SLOCCount@0.07
-Alien::SNMP                        4.0509050201  pkg:cpan/Alien-SNMP@4.0509050201
+Alien::SNMP                        4.0509050202  pkg:cpan/Alien-SNMP@4.0509050202
 Alien::SNMP::MIBDEV                2.020000  pkg:cpan/Alien-SNMP-MIBDEV@2.020000
 Alien::SVN                         v1.8.11.0  pkg:cpan/Alien-SVN@v1.8.11.0
 Alien::SWIG4                        0.05  pkg:cpan/Alien-SWIG4@0.05
@@ -67023,6 +67023,7 @@ Dir::Manifest::Key                 v0.6.1  pkg:cpan/Dir-Manifest@0.6.1
 Dir::Manifest::Slurp               v0.6.1  pkg:cpan/Dir-Manifest@0.6.1
 Dir::Project                       3.026  pkg:cpan/Dir-Project@3.026
 Dir::Purge                          1.02  pkg:cpan/Dir-Purge@1.02
+Dir::Rename::WD                    0.001  pkg:cpan/Dir-Rename-WD@0.001
 Dir::Rocknroll                      0.34  pkg:cpan/Dir-Rocknroll@0.34
 Dir::Self                           0.11  pkg:cpan/Dir-Self@0.11
 Dir::Split                          0.82  pkg:cpan/Dir-Split@0.82
@@ -98283,7 +98284,7 @@ Gwybodaeth::Write::WriteFromXML    undef  pkg:cpan/Gwybodaeth@0.02
 Gx                                  0.06  pkg:cpan/Regexp-Genex@0.07
 Gzip::BinarySearch                  0.91  pkg:cpan/Gzip-BinarySearch@0.91
 Gzip::Faster                        0.22  pkg:cpan/Gzip-Faster@0.22
-Gzip::Libdeflate                    0.12  pkg:cpan/Gzip-Libdeflate@0.12
+Gzip::Libdeflate                    0.13  pkg:cpan/Gzip-Libdeflate@0.13
 Gzip::RandomAccess                  0.92  pkg:cpan/Gzip-RandomAccess@0.92
 Gzip::Zopfli                        0.02  pkg:cpan/Gzip-Zopfli@0.02
 H                                  0.001  pkg:cpan/H@0.001
@@ -231924,6 +231925,8 @@ Unicornify::URL                     1.07  pkg:cpan/Gravatar-URL@1.07
 Unicruft                            0.06  pkg:cpan/Unicruft@0.06
 Uniden::BC75XLT                    0.000004  pkg:cpan/Uniden-BC75XLT@0.0.4
 Unidexer                            0.02  pkg:cpan/Unidexer@0.02
+Uniform::HTMX                       0.11  pkg:cpan/Uniform-HTMX@0.11
+Uniform::HTMX::PSGI                 1.00  pkg:cpan/Uniform-HTMX-PSGI@1.00
 UnigeneAccessor                    28051999  pkg:cpan/Boulder@1.15
 Uninets::Check                      0.04  pkg:cpan/Uninets-Check@0.04
 Uninets::Check::Modules::HTTP       0.03  pkg:cpan/Uninets-Check-Modules-HTTP@0.03
