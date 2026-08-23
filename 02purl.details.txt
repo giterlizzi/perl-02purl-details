@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 23 Aug 2026 06:28:20 GMT
+Last-Updated: Sun, 23 Aug 2026 08:20:44 GMT
 Line-Count: 258842
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -231933,7 +231933,7 @@ Uniform::HTMX::PAGI                 1.00  pkg:cpan/Uniform-HTMX-PAGI@1.00
 Uniform::HTMX::PSGI                 1.01  pkg:cpan/Uniform-HTMX-PSGI@1.01
 Uniform::Upload                     0.01  pkg:cpan/Uniform-Upload@0.01
 Uniform::Upload::File               0.01  pkg:cpan/Uniform-Upload@0.01
-Uniform::Upload::PAGI               1.00  pkg:cpan/Uniform-Upload-PAGI@1.00
+Uniform::Upload::PAGI               1.01  pkg:cpan/Uniform-Upload-PAGI@1.01
 Uniform::Utils                      1.02  pkg:cpan/Uniform@1.03
 UnigeneAccessor                    28051999  pkg:cpan/Boulder@1.15
 Uninets::Check                      0.04  pkg:cpan/Uninets-Check@0.04
