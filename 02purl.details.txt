@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 23 Aug 2026 20:13:57 GMT
-Line-Count: 258847
+Last-Updated: Sun, 23 Aug 2026 22:13:55 GMT
+Line-Count: 258849
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -77912,32 +77912,34 @@ Ftree::SettingsFactory             2.003041  pkg:cpan/FamilyTreeInfo@2.3.41
 Ftree::StringUtils                 2.003041  pkg:cpan/FamilyTreeInfo@2.3.41
 Ftree::TextGeneratorFactory        2.003041  pkg:cpan/FamilyTreeInfo@2.3.41
 Fuckin::Lazy                       0.000002  pkg:cpan/Fuckin-Lazy@0.000002
-Fugu                               0.001002  pkg:cpan/Fugu@0.1.2
-Fugu::CLI                          0.001002  pkg:cpan/Fugu@0.1.2
-Fugu::Config                       0.001002  pkg:cpan/Fugu@0.1.2
-Fugu::Control                      0.001002  pkg:cpan/Fugu@0.1.2
-Fugu::Control::Client              0.001002  pkg:cpan/Fugu@0.1.2
-Fugu::Daemon                       0.001002  pkg:cpan/Fugu@0.1.2
-Fugu::EventLoop                    0.001002  pkg:cpan/Fugu@0.1.2
-Fugu::File                         0.001002  pkg:cpan/Fugu@0.1.2
-Fugu::Imsg                         0.001002  pkg:cpan/Fugu@0.1.2
-Fugu::JSONSocket                   0.001002  pkg:cpan/Fugu@0.1.2
-Fugu::Log                          0.001002  pkg:cpan/Fugu@0.1.2
-Fugu::MQTT                         0.001002  pkg:cpan/Fugu@0.1.2
-Fugu::Mdnsd                        0.001002  pkg:cpan/Fugu@0.1.2
-Fugu::Pidfile                      0.001002  pkg:cpan/Fugu@0.1.2
-Fugu::Privdrop                     0.001002  pkg:cpan/Fugu@0.1.2
-Fugu::Process                      0.001002  pkg:cpan/Fugu@0.1.2
-Fugu::Proxy                        0.001002  pkg:cpan/Fugu@0.1.2
-Fugu::Proxy::Cache                 0.001002  pkg:cpan/Fugu@0.1.2
-Fugu::Proxy::Meta                  0.001002  pkg:cpan/Fugu@0.1.2
-Fugu::Random                       0.001002  pkg:cpan/Fugu@0.1.2
-Fugu::SSH                          0.001002  pkg:cpan/Fugu@0.1.2
-Fugu::Sandbox                      0.001002  pkg:cpan/Fugu@0.1.2
-Fugu::Signal                       0.001002  pkg:cpan/Fugu@0.1.2
-Fugu::StateFile                    0.001002  pkg:cpan/Fugu@0.1.2
-Fugu::TestLog                      0.001002  pkg:cpan/Fugu@0.1.2
-Fugu::Timeout                      0.001002  pkg:cpan/Fugu@0.1.2
+Fugu                               0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::CLI                          0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::Config                       0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::Control                      0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::Control::Client              0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::Daemon                       0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::EventLoop                    0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::File                         0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::Imsg                         0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::JSONSocket                   0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::Log                          0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::MQTT                         0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::Mdnsd                        0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::Pidfile                      0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::Privdrop                     0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::Process                      0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::Proxy                        0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::Proxy::Cache                 0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::Proxy::Meta                  0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::REPL                         0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::Random                       0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::SSH                          0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::Sandbox                      0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::Signal                       0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::Signify                      0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::StateFile                    0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::TestLog                      0.002000  pkg:cpan/Fugu@0.2.0
+Fugu::Timeout                      0.002000  pkg:cpan/Fugu@0.2.0
 Fukurama::Class                    0.032  pkg:cpan/Fukurama-Class@0.032
 Fukurama::Class::Abstract          undef  pkg:cpan/Fukurama-Class@0.032
 Fukurama::Class::Attributes        undef  pkg:cpan/Fukurama-Class@0.032
@@ -193642,7 +193644,7 @@ Protocol::IMAP::Server             0.004  pkg:cpan/Protocol-IMAP@0.004
 Protocol::IRC                       0.13  pkg:cpan/Protocol-IRC@0.13
 Protocol::IRC::Client               0.13  pkg:cpan/Protocol-IRC@0.13
 Protocol::IRC::Message              0.13  pkg:cpan/Protocol-IRC@0.13
-Protocol::Imsg                     0.001002  pkg:cpan/Fugu@0.1.2
+Protocol::Imsg                     0.002000  pkg:cpan/Fugu@0.2.0
 Protocol::MTProto                   0.01  pkg:cpan/Protocol-MTProto@0.01
 Protocol::MTProto::TLSchemaParser   0.01  pkg:cpan/Protocol-MTProto@0.01
 Protocol::Matrix                    0.02  pkg:cpan/Protocol-Matrix@0.02
