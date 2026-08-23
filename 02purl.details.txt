@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 23 Aug 2026 08:20:44 GMT
+Last-Updated: Sun, 23 Aug 2026 10:15:33 GMT
 Line-Count: 258842
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -51157,9 +51157,9 @@ DBD::Cassandra                      0.57  pkg:cpan/DBD-Cassandra@0.57
 DBD::Cassandra::db                  0.57  pkg:cpan/DBD-Cassandra@0.57
 DBD::Cassandra::dr                  0.57  pkg:cpan/DBD-Cassandra@0.57
 DBD::Cassandra::st                  0.57  pkg:cpan/DBD-Cassandra@0.57
-DBD::Cego                          1.004000  pkg:cpan/DBD-cego@1.4.0
-DBD::Cego::db                      1.004000  pkg:cpan/DBD-cego@1.4.0
-DBD::Cego::dr                      1.004000  pkg:cpan/DBD-cego@1.4.0
+DBD::Cego                          1.005008  pkg:cpan/DBD-cego@1.5.8
+DBD::Cego::db                      1.005008  pkg:cpan/DBD-cego@1.5.8
+DBD::Cego::dr                      1.005008  pkg:cpan/DBD-cego@1.5.8
 DBD::Chart                          0.82  pkg:cpan/DBD-Chart@0.82
 DBD::Chart::Plot                    0.81  pkg:cpan/DBD-Chart@0.82
 DBD::Chart::db                      0.82  pkg:cpan/DBD-Chart@0.82
@@ -53580,12 +53580,12 @@ DBIx::LogAny::db                   undef  pkg:cpan/DBIx-LogAny@0.06
 DBIx::LogAny::st                   undef  pkg:cpan/DBIx-LogAny@0.06
 DBIx::LogProfile                    0.02  pkg:cpan/DBIx-LogProfile@0.02
 DBIx::Lookup::Field                2.101420  pkg:cpan/DBIx-Lookup-Field@2.101420
-DBIx::Loop                          0.06  pkg:cpan/DBIx-Loop@0.06
-DBIx::Loop::Future                  0.06  pkg:cpan/DBIx-Loop@0.06
-DBIx::Loop::Loop::AnyEvent          0.06  pkg:cpan/DBIx-Loop@0.06
-DBIx::Loop::Loop::Hyperman          0.06  pkg:cpan/DBIx-Loop@0.06
-DBIx::Loop::Loop::IOAsync           0.06  pkg:cpan/DBIx-Loop@0.06
-DBIx::Loop::Loop::Mojo              0.06  pkg:cpan/DBIx-Loop@0.06
+DBIx::Loop                          0.07  pkg:cpan/DBIx-Loop@0.07
+DBIx::Loop::Future                  0.07  pkg:cpan/DBIx-Loop@0.07
+DBIx::Loop::Loop::AnyEvent          0.07  pkg:cpan/DBIx-Loop@0.07
+DBIx::Loop::Loop::Hyperman          0.07  pkg:cpan/DBIx-Loop@0.07
+DBIx::Loop::Loop::IOAsync           0.07  pkg:cpan/DBIx-Loop@0.07
+DBIx::Loop::Loop::Mojo              0.07  pkg:cpan/DBIx-Loop@0.07
 DBIx::Migrate                       0.01  pkg:cpan/DBIx-Migrate@0.01
 DBIx::Migration                     0.32  pkg:cpan/DBIx-Migration@0.32
 DBIx::Migration::CLI                0.32  pkg:cpan/DBIx-Migration@0.32
