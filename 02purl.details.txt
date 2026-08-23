@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 23 Aug 2026 12:24:36 GMT
-Line-Count: 258844
+Last-Updated: Sun, 23 Aug 2026 14:15:58 GMT
+Line-Count: 258847
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -29601,7 +29601,7 @@ Bundle::DBD::JDBC                   0.72  pkg:cpan/DBD-JDBC@0.72
 Bundle::DBD::KB                    3.18.5  pkg:cpan/DBD-KB@3.18.5
 Bundle::DBD::KingBase              3.10.12  pkg:cpan/DBD-KingBase@3.10.12
 Bundle::DBD::PO                     2.10  pkg:cpan/Bundle-DBD-PO@2.10
-Bundle::DBD::Pg                    3.21.0  pkg:cpan/DBD-Pg@3.21.0
+Bundle::DBD::Pg                    3.21.1  pkg:cpan/DBD-Pg@3.21.1
 Bundle::DBD::PgAsync               0.008001  pkg:cpan/DBD-PgAsync@0.8.1
 Bundle::DBD::Sys                   0.102  pkg:cpan/DBD-Sys@0.102
 Bundle::DBD::Yaswi                  0.01  pkg:cpan/DBD-Yaswi@0.01
@@ -51399,7 +51399,7 @@ DBD::Patroni                        0.03  pkg:cpan/DBD-Patroni@0.03
 DBD::Patroni::db                    0.02  pkg:cpan/DBD-Patroni@0.02
 DBD::Patroni::dr                    0.02  pkg:cpan/DBD-Patroni@0.02
 DBD::Patroni::st                    0.02  pkg:cpan/DBD-Patroni@0.02
-DBD::Pg                            3.21.0  pkg:cpan/DBD-Pg@3.21.0
+DBD::Pg                            3.21.1  pkg:cpan/DBD-Pg@3.21.1
 DBD::PgAsync                       0.008001  pkg:cpan/DBD-PgAsync@0.8.1
 DBD::PgAsync::DefaultValue         0.008001  pkg:cpan/DBD-PgAsync@0.8.1
 DBD::PgAsync::db                   0.008001  pkg:cpan/DBD-PgAsync@0.8.1
@@ -194017,6 +194017,7 @@ Punk::Cache::Memory                 0.31  pkg:cpan/Punk@0.31
 Punk::ClamAV                        0.01  pkg:cpan/Punk-ClamAV@0.01
 Punk::Command                       0.31  pkg:cpan/Punk@0.31
 Punk::Command::Queue                0.04  pkg:cpan/Punk-Queue@0.07
+Punk::Command::Sqitch               0.01  pkg:cpan/Punk-Sqitch@0.01
 Punk::Config                        0.31  pkg:cpan/Punk@0.31
 Punk::Context                       0.31  pkg:cpan/Punk@0.31
 Punk::Controller                    0.31  pkg:cpan/Punk@0.31
@@ -194078,6 +194079,7 @@ Punk::Plugin::OpenTelemetry         0.05  pkg:cpan/Punk-OpenTelemetry@0.05
 Punk::Plugin::Queue                 0.02  pkg:cpan/Punk-Queue@0.07
 Punk::Plugin::RequestId             0.31  pkg:cpan/Punk@0.31
 Punk::Plugin::Sitemap               0.31  pkg:cpan/Punk@0.31
+Punk::Plugin::Sqitch                0.01  pkg:cpan/Punk-Sqitch@0.01
 Punk::Plugin::TOTP                  0.04  pkg:cpan/Punk-TOTP@0.04
 Punk::Queue                         0.07  pkg:cpan/Punk-Queue@0.07
 Punk::Queue::Backend                0.02  pkg:cpan/Punk-Queue@0.07
@@ -194096,6 +194098,7 @@ Punk::SSE                           0.31  pkg:cpan/Punk@0.31
 Punk::SendFile::Reader              0.31  pkg:cpan/Punk@0.31
 Punk::Session                       0.31  pkg:cpan/Punk@0.31
 Punk::Session::Store                0.31  pkg:cpan/Punk@0.31
+Punk::Sqitch                        0.01  pkg:cpan/Punk-Sqitch@0.01
 Punk::Static                        0.31  pkg:cpan/Punk@0.31
 Punk::TOTP                          0.04  pkg:cpan/Punk-TOTP@0.04
 Punk::Test                          0.31  pkg:cpan/Punk@0.31
