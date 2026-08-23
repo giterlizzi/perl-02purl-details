@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 23 Aug 2026 18:18:19 GMT
+Last-Updated: Sun, 23 Aug 2026 20:13:57 GMT
 Line-Count: 258847
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -45406,7 +45406,7 @@ Citrix::LaunchMesg                  0.25  pkg:cpan/Citrix@0.25
 Citrix::SessOp                      0.25  pkg:cpan/Citrix@0.25
 Citrix::SessionSet                  0.25  pkg:cpan/Citrix@0.25
 City                                   1  pkg:cpan/Class-Classgen-classgen@3.03
-ClamAV::Clamd                       0.03  pkg:cpan/ClamAV-Clamd@0.03
+ClamAV::Clamd                       0.05  pkg:cpan/ClamAV-Clamd@0.05
 ClamAV::Client                      0.11  pkg:cpan/ClamAV-Client@0.11
 ClamAV::Client::Error               0.11  pkg:cpan/ClamAV-Client@0.11
 ClamAV::Config                      0.11  pkg:cpan/ClamAV-Client@0.11
@@ -62573,7 +62573,7 @@ Database::Async::Transaction       0.019  pkg:cpan/Database-Async@0.019
 Database::Cassandra::Client            1  pkg:cpan/Database-Cassandra-Client@1
 Database::DumpTruck                  1.2  pkg:cpan/Database-DumpTruck@1.2
 Database::Format::Text              1.03  pkg:cpan/Database-Format-Text@1.03
-Database::Join                     0.001  pkg:cpan/Database-Join@0.001.0
+Database::Join                     0.001001  pkg:cpan/Database-Join@0.001.1
 Database::ManagedHandle            0.003  pkg:cpan/Database-ManagedHandle@0.003
 Database::Migrator                  0.14  pkg:cpan/Database-Migrator@0.14
 Database::Migrator::Core            0.14  pkg:cpan/Database-Migrator@0.14
@@ -141842,8 +141842,8 @@ Net::HTTP2::Response               undef  pkg:cpan/Net-HTTP2@0.02
 Net::HTTP2::X                      undef  pkg:cpan/Net-HTTP2@0.02
 Net::HTTP2::X::Base                undef  pkg:cpan/Net-HTTP2@0.02
 Net::HTTP2::X::HTTP2               undef  pkg:cpan/Net-HTTP2@0.02
-Net::HTTP2::nghttp2                0.008  pkg:cpan/Net-HTTP2-nghttp2@0.008
-Net::HTTP2::nghttp2::Session       undef  pkg:cpan/Net-HTTP2-nghttp2@0.008
+Net::HTTP2::nghttp2                0.009  pkg:cpan/Net-HTTP2-nghttp2@0.009
+Net::HTTP2::nghttp2::Session       undef  pkg:cpan/Net-HTTP2-nghttp2@0.009
 Net::HTTP::API                      0.11  pkg:cpan/Net-HTTP-API@0.14
 Net::HTTP::API::Error               0.14  pkg:cpan/Net-HTTP-API@0.14
 Net::HTTP::API::Meta::Class         0.14  pkg:cpan/Net-HTTP-API@0.14
@@ -150812,36 +150812,36 @@ PAGI::Endpoint::Router             0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Endpoint::Router::RouteBuilder 0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Endpoint::SSE                0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Endpoint::WebSocket          0.002002  pkg:cpan/PAGI-Tools@0.002002
-PAGI::FastAPI                      v1.2.6  pkg:cpan/PAGI-FastAPI@v1.2.6
-PAGI::FastAPI::BotProtection       v1.2.6  pkg:cpan/PAGI-FastAPI@v1.2.6
-PAGI::FastAPI::BotProtection::ProofOfWork v1.2.6  pkg:cpan/PAGI-FastAPI@v1.2.6
-PAGI::FastAPI::Context             v1.2.6  pkg:cpan/PAGI-FastAPI@v1.2.6
-PAGI::FastAPI::Cookies             v1.2.6  pkg:cpan/PAGI-FastAPI@v1.2.6
-PAGI::FastAPI::Depends             v1.2.6  pkg:cpan/PAGI-FastAPI@v1.2.6
-PAGI::FastAPI::Middleware::BotProtection v1.2.6  pkg:cpan/PAGI-FastAPI@v1.2.6
-PAGI::FastAPI::Middleware::ExceptionHandler v1.2.6  pkg:cpan/PAGI-FastAPI@v1.2.6
-PAGI::FastAPI::Middleware::RateLimit v1.2.6  pkg:cpan/PAGI-FastAPI@v1.2.6
-PAGI::FastAPI::Queue               v1.2.6  pkg:cpan/PAGI-FastAPI@v1.2.6
-PAGI::FastAPI::Queue::Driver       v1.2.6  pkg:cpan/PAGI-FastAPI@v1.2.6
-PAGI::FastAPI::Queue::Driver::Memory v1.2.6  pkg:cpan/PAGI-FastAPI@v1.2.6
+PAGI::FastAPI                      v1.3.0  pkg:cpan/PAGI-FastAPI@v1.3.0
+PAGI::FastAPI::BotProtection       v1.3.0  pkg:cpan/PAGI-FastAPI@v1.3.0
+PAGI::FastAPI::BotProtection::ProofOfWork v1.3.0  pkg:cpan/PAGI-FastAPI@v1.3.0
+PAGI::FastAPI::Context             v1.3.0  pkg:cpan/PAGI-FastAPI@v1.3.0
+PAGI::FastAPI::Cookies             v1.3.0  pkg:cpan/PAGI-FastAPI@v1.3.0
+PAGI::FastAPI::Depends             v1.3.0  pkg:cpan/PAGI-FastAPI@v1.3.0
+PAGI::FastAPI::Middleware::BotProtection v1.3.0  pkg:cpan/PAGI-FastAPI@v1.3.0
+PAGI::FastAPI::Middleware::ExceptionHandler v1.3.0  pkg:cpan/PAGI-FastAPI@v1.3.0
+PAGI::FastAPI::Middleware::RateLimit v1.3.0  pkg:cpan/PAGI-FastAPI@v1.3.0
+PAGI::FastAPI::Queue               v1.3.0  pkg:cpan/PAGI-FastAPI@v1.3.0
+PAGI::FastAPI::Queue::Driver       v1.3.0  pkg:cpan/PAGI-FastAPI@v1.3.0
+PAGI::FastAPI::Queue::Driver::Memory v1.3.0  pkg:cpan/PAGI-FastAPI@v1.3.0
 PAGI::FastAPI::Queue::Driver::Redis v0.0.1  pkg:cpan/PAGI-FastAPI-Queue-Driver-Redis@v0.0.1
-PAGI::FastAPI::RateLimit::Driver   v1.2.6  pkg:cpan/PAGI-FastAPI@v1.2.6
+PAGI::FastAPI::RateLimit::Driver   v1.3.0  pkg:cpan/PAGI-FastAPI@v1.3.0
 PAGI::FastAPI::RateLimit::Driver::CHI v0.0.1  pkg:cpan/PAGI-FastAPI-RateLimit-Driver-CHI@v0.0.1
-PAGI::FastAPI::RateLimit::Driver::Memory v1.2.6  pkg:cpan/PAGI-FastAPI@v1.2.6
+PAGI::FastAPI::RateLimit::Driver::Memory v1.3.0  pkg:cpan/PAGI-FastAPI@v1.3.0
 PAGI::FastAPI::RateLimit::Driver::Redis v0.1.0  pkg:cpan/PAGI-FastAPI-RateLimit-Driver-Redis@v0.1.0
-PAGI::FastAPI::Response            v1.2.6  pkg:cpan/PAGI-FastAPI@v1.2.6
-PAGI::FastAPI::Response::File      v1.2.6  pkg:cpan/PAGI-FastAPI@v1.2.6
-PAGI::FastAPI::Response::HTML      v1.2.6  pkg:cpan/PAGI-FastAPI@v1.2.6
-PAGI::FastAPI::Response::Redirect  v1.2.6  pkg:cpan/PAGI-FastAPI@v1.2.6
-PAGI::FastAPI::Response::SSE       v1.2.6  pkg:cpan/PAGI-FastAPI@v1.2.6
-PAGI::FastAPI::ResponseModel       v1.2.6  pkg:cpan/PAGI-FastAPI@v1.2.6
+PAGI::FastAPI::Response            v1.3.0  pkg:cpan/PAGI-FastAPI@v1.3.0
+PAGI::FastAPI::Response::File      v1.3.0  pkg:cpan/PAGI-FastAPI@v1.3.0
+PAGI::FastAPI::Response::HTML      v1.3.0  pkg:cpan/PAGI-FastAPI@v1.3.0
+PAGI::FastAPI::Response::Redirect  v1.3.0  pkg:cpan/PAGI-FastAPI@v1.3.0
+PAGI::FastAPI::Response::SSE       v1.3.0  pkg:cpan/PAGI-FastAPI@v1.3.0
+PAGI::FastAPI::ResponseModel       v1.3.0  pkg:cpan/PAGI-FastAPI@v1.3.0
 PAGI::FastAPI::Security            v0.0.6  pkg:cpan/PAGI-FastAPI-Security@v0.0.6
 PAGI::FastAPI::Security::APIKey    v0.0.6  pkg:cpan/PAGI-FastAPI-Security@v0.0.6
 PAGI::FastAPI::Security::Base      v0.0.6  pkg:cpan/PAGI-FastAPI-Security@v0.0.6
 PAGI::FastAPI::Security::HTTPBasic v0.0.6  pkg:cpan/PAGI-FastAPI-Security@v0.0.6
 PAGI::FastAPI::Security::HTTPBearer v0.0.6  pkg:cpan/PAGI-FastAPI-Security@v0.0.6
 PAGI::FastAPI::Security::OAuth2::PasswordBearer v0.0.6  pkg:cpan/PAGI-FastAPI-Security@v0.0.6
-PAGI::FastAPI::TypedPath           v1.2.6  pkg:cpan/PAGI-FastAPI@v1.2.6
+PAGI::FastAPI::TypedPath           v1.3.0  pkg:cpan/PAGI-FastAPI@v1.3.0
 PAGI::FastAPI::WebSocket           v0.0.8  pkg:cpan/PAGI-FastAPI@v0.0.8
 PAGI::Headers                      0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Lifespan                     0.002002  pkg:cpan/PAGI-Tools@0.002002
@@ -231936,9 +231936,9 @@ Uniform::HTMX                       0.16  pkg:cpan/Uniform-HTMX@0.16
 Uniform::HTMX::Mojolicious          1.02  pkg:cpan/Uniform-HTMX-Mojolicious@1.02
 Uniform::HTMX::PAGI                 1.02  pkg:cpan/Uniform-HTMX-PAGI@1.02
 Uniform::HTMX::PSGI                 1.03  pkg:cpan/Uniform-HTMX-PSGI@1.03
-Uniform::Upload                     0.01  pkg:cpan/Uniform-Upload@0.01
-Uniform::Upload::File               0.01  pkg:cpan/Uniform-Upload@0.01
-Uniform::Upload::PAGI               1.01  pkg:cpan/Uniform-Upload-PAGI@1.01
+Uniform::Upload                     0.02  pkg:cpan/Uniform-Upload@0.02
+Uniform::Upload::File               0.02  pkg:cpan/Uniform-Upload@0.02
+Uniform::Upload::PAGI               1.02  pkg:cpan/Uniform-Upload-PAGI@1.02
 Uniform::Utils                      1.02  pkg:cpan/Uniform@1.03
 UnigeneAccessor                    28051999  pkg:cpan/Boulder@1.15
 Uninets::Check                      0.04  pkg:cpan/Uninets-Check@0.04
