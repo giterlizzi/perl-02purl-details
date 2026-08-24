@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 24 Aug 2026 18:29:14 GMT
-Line-Count: 258872
+Last-Updated: Mon, 24 Aug 2026 20:21:03 GMT
+Line-Count: 258873
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -102253,8 +102253,8 @@ Hash::RestrictedKeys::Tie          undef  pkg:cpan/Hash-RestrictedKeys@1.01
 Hash::SafeKeys                      0.04  pkg:cpan/Hash-SafeKeys@0.04
 Hash::Sanitize                      0.04  pkg:cpan/Hash-Sanitize@0.04
 Hash::Search                        0.03  pkg:cpan/Hash-Search@0.03
-Hash::SharedMem                    0.006  pkg:cpan/Hash-SharedMem@0.006
-Hash::SharedMem::Handle            0.006  pkg:cpan/Hash-SharedMem@0.006
+Hash::SharedMem                    0.007  pkg:cpan/Hash-SharedMem@0.007
+Hash::SharedMem::Handle            0.007  pkg:cpan/Hash-SharedMem@0.007
 Hash::Slice                         0.03  pkg:cpan/Hash-Slice@0.03
 Hash::Spy                           0.01  pkg:cpan/Hash-Spy@0.01
 Hash::Squash                       v0.0.4  pkg:cpan/Hash-Squash@v0.0.4
@@ -150808,7 +150808,7 @@ PAD                                 0.04  pkg:cpan/PAD@0.04
 PAD::Plugin                        undef  pkg:cpan/PAD@0.04
 PAD::Plugin::Markdown              undef  pkg:cpan/PAD@0.04
 PAD::Plugin::Static                undef  pkg:cpan/PAD@0.04
-PAGI                               0.002002  pkg:cpan/PAGI@0.002002
+PAGI                               0.002003  pkg:cpan/PAGI@0.002003
 PAGI::App::Cascade                 0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::App::Directory               0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::App::File                    0.002002  pkg:cpan/PAGI-Tools@0.002002
@@ -187519,7 +187519,7 @@ Perl::Critic::Exception::Parse     1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Freenode             v1.0.4  pkg:cpan/Perl-Critic-Freenode@v1.0.4
 Perl::Critic::Freenode::Utils      v1.0.4  pkg:cpan/Perl-Critic-Freenode@v1.0.4
 Perl::Critic::Git                  v1.3.1  pkg:cpan/Perl-Critic-Git@v1.3.1
-Perl::Critic::Grape                0.000007  pkg:cpan/Perl-Critic-Grape@0.0.7
+Perl::Critic::Grape                0.000008  pkg:cpan/Perl-Critic-Grape@0.0.8
 Perl::Critic::Itch                  0.07  pkg:cpan/Perl-Critic-Itch@0.07
 Perl::Critic::Lax                  0.014  pkg:cpan/Perl-Critic-Lax@0.014
 Perl::Critic::Mardem                0.06  pkg:cpan/Perl-Critic-Mardem@0.06
@@ -187585,7 +187585,7 @@ Perl::Critic::Policy::CodeLayout::RequireConsistentNewlines 1.156  pkg:cpan/Perl
 Perl::Critic::Policy::CodeLayout::RequireFinalSemicolon   100  pkg:cpan/Perl-Critic-Pulp@100
 Perl::Critic::Policy::CodeLayout::RequireKRBracing undef  pkg:cpan/Perl-Critic-PolicyBundle-SNEZ@0.03
 Perl::Critic::Policy::CodeLayout::RequireKRParens undef  pkg:cpan/Perl-Critic-PolicyBundle-SNEZ@0.03
-Perl::Critic::Policy::CodeLayout::RequireParensWithBuiltins 0.000007  pkg:cpan/Perl-Critic-Grape@0.0.7
+Perl::Critic::Policy::CodeLayout::RequireParensWithBuiltins 0.000008  pkg:cpan/Perl-Critic-Grape@0.0.8
 Perl::Critic::Policy::CodeLayout::RequireSpaceAroundBinaryOperators undef  pkg:cpan/Perl-Critic-PolicyBundle-SNEZ@0.03
 Perl::Critic::Policy::CodeLayout::RequireTidyCode 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::CodeLayout::RequireTrailingCommaAtNewline   100  pkg:cpan/Perl-Critic-Pulp@100
@@ -187634,7 +187634,7 @@ Perl::Critic::Policy::ControlStructures::ProhibitCStyleForLoops 1.156  pkg:cpan/
 Perl::Critic::Policy::ControlStructures::ProhibitCascadingIfElse 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ControlStructures::ProhibitDeepNests 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ControlStructures::ProhibitGotoIntoConstruct  0.07  pkg:cpan/Perl-Critic-PolicyBundle-LoopsAndLabels@0.07
-Perl::Critic::Policy::ControlStructures::ProhibitInlineDo 0.000007  pkg:cpan/Perl-Critic-Grape@0.0.7
+Perl::Critic::Policy::ControlStructures::ProhibitInlineDo 0.000008  pkg:cpan/Perl-Critic-Grape@0.0.8
 Perl::Critic::Policy::ControlStructures::ProhibitLabelsWithSpecialBlockNames 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ControlStructures::ProhibitMultipleSubscripts undef  pkg:cpan/Perl-Critic-PolicyBundle-SNEZ@0.03
 Perl::Critic::Policy::ControlStructures::ProhibitMutatingListFunctions 1.156  pkg:cpan/Perl-Critic@1.156
@@ -187789,8 +187789,8 @@ Perl::Critic::Policy::ProhibitOrReturn  0.02  pkg:cpan/Perl-Critic-Policy-Prohib
 Perl::Critic::Policy::ProhibitSmartmatch   0.4  pkg:cpan/Perl-Critic-Policy-ProhibitSmartmatch@0.4
 Perl::Critic::Policy::References::ProhibitComplexDoubleSigils   0.2  pkg:cpan/Perl-Critic-Policy-References-ProhibitComplexDoubleSigils@0.2
 Perl::Critic::Policy::References::ProhibitDoubleSigils 1.156  pkg:cpan/Perl-Critic@1.156
-Perl::Critic::Policy::References::ProhibitRefChecks 0.000007  pkg:cpan/Perl-Critic-Grape@0.0.7
-Perl::Critic::Policy::References::RequireSigils 0.000007  pkg:cpan/Perl-Critic-Grape@0.0.7
+Perl::Critic::Policy::References::ProhibitRefChecks 0.000008  pkg:cpan/Perl-Critic-Grape@0.0.8
+Perl::Critic::Policy::References::RequireSigils 0.000008  pkg:cpan/Perl-Critic-Grape@0.0.8
 Perl::Critic::Policy::RegularExpressions::ProhibitCaptureWithoutTest 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::RegularExpressions::ProhibitComplexRegexes 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::RegularExpressions::ProhibitEmptyAlternatives 0.006  pkg:cpan/Perl-Critic-Policy-RegularExpressions-ProhibitEmptyAlternatives@0.006
@@ -187891,6 +187891,7 @@ Perl::Critic::Policy::ValuesAndExpressions::RequireInterpolationOfMetachars 1.15
 Perl::Critic::Policy::ValuesAndExpressions::RequireNumberSeparators 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ValuesAndExpressions::RequireNumericVersion   100  pkg:cpan/Perl-Critic-Pulp@100
 Perl::Critic::Policy::ValuesAndExpressions::RequireQuotedHeredocTerminator 1.156  pkg:cpan/Perl-Critic@1.156
+Perl::Critic::Policy::ValuesAndExpressions::RequireSlices 0.000008  pkg:cpan/Perl-Critic-Grape@0.0.8
 Perl::Critic::Policy::ValuesAndExpressions::RequireUpperCaseHeredocTerminator 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ValuesAndExpressions::RestrictLongStrings 1.003  pkg:cpan/Perl-Critic-More@1.003
 Perl::Critic::Policy::ValuesAndExpressions::UnexpandedSpecialLiteral   100  pkg:cpan/Perl-Critic-Pulp@100
@@ -187906,7 +187907,7 @@ Perl::Critic::Policy::Variables::ProhibitPackageVars 1.156  pkg:cpan/Perl-Critic
 Perl::Critic::Policy::Variables::ProhibitPerl4PackageNames 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Variables::ProhibitPunctuationVars 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Variables::ProhibitReusedNames 1.156  pkg:cpan/Perl-Critic@1.156
-Perl::Critic::Policy::Variables::ProhibitTopicIterator 0.000007  pkg:cpan/Perl-Critic-Grape@0.0.7
+Perl::Critic::Policy::Variables::ProhibitTopicIterator 0.000008  pkg:cpan/Perl-Critic-Grape@0.0.8
 Perl::Critic::Policy::Variables::ProhibitUnusedVariables 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Variables::ProhibitUnusedVarsStricter 0.116  pkg:cpan/Perl-Critic-Policy-Variables-ProhibitUnusedVarsStricter@0.116
 Perl::Critic::Policy::Variables::ProhibitUselessInitialization  0.02  pkg:cpan/Perl-Critic-PetPeeves-JTRAMMELL@0.04
@@ -194029,28 +194030,28 @@ Puncheur::Request                  undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Response                 undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Runner                   undef  pkg:cpan/Puncheur@v0.3.0
 Puncheur::Trigger                  undef  pkg:cpan/Puncheur@v0.3.0
-Punk                                0.31  pkg:cpan/Punk@0.31
-Punk::App                           0.31  pkg:cpan/Punk@0.31
-Punk::Auth                          0.31  pkg:cpan/Punk@0.31
-Punk::Auth::Password                0.31  pkg:cpan/Punk@0.31
-Punk::CORS                          0.31  pkg:cpan/Punk@0.31
-Punk::CSRF                          0.31  pkg:cpan/Punk@0.31
-Punk::Cache                         0.31  pkg:cpan/Punk@0.31
-Punk::Cache::File                   0.31  pkg:cpan/Punk@0.31
-Punk::Cache::Memory                 0.31  pkg:cpan/Punk@0.31
+Punk                                0.32  pkg:cpan/Punk@0.32
+Punk::App                           0.32  pkg:cpan/Punk@0.32
+Punk::Auth                          0.32  pkg:cpan/Punk@0.32
+Punk::Auth::Password                0.32  pkg:cpan/Punk@0.32
+Punk::CORS                          0.32  pkg:cpan/Punk@0.32
+Punk::CSRF                          0.32  pkg:cpan/Punk@0.32
+Punk::Cache                         0.32  pkg:cpan/Punk@0.32
+Punk::Cache::File                   0.32  pkg:cpan/Punk@0.32
+Punk::Cache::Memory                 0.32  pkg:cpan/Punk@0.32
 Punk::ClamAV                        0.01  pkg:cpan/Punk-ClamAV@0.01
-Punk::Command                       0.31  pkg:cpan/Punk@0.31
+Punk::Command                       0.32  pkg:cpan/Punk@0.32
 Punk::Command::Queue                0.04  pkg:cpan/Punk-Queue@0.07
 Punk::Command::Sqitch               0.01  pkg:cpan/Punk-Sqitch@0.01
-Punk::Config                        0.31  pkg:cpan/Punk@0.31
-Punk::Context                       0.31  pkg:cpan/Punk@0.31
-Punk::Controller                    0.31  pkg:cpan/Punk@0.31
-Punk::DevError                      0.31  pkg:cpan/Punk@0.31
-Punk::Future                        0.31  pkg:cpan/Punk@0.31
-Punk::Generate                      0.31  pkg:cpan/Punk@0.31
+Punk::Config                        0.32  pkg:cpan/Punk@0.32
+Punk::Context                       0.32  pkg:cpan/Punk@0.32
+Punk::Controller                    0.32  pkg:cpan/Punk@0.32
+Punk::DevError                      0.32  pkg:cpan/Punk@0.32
+Punk::Future                        0.32  pkg:cpan/Punk@0.32
+Punk::Generate                      0.32  pkg:cpan/Punk@0.32
 Punk::GraphQL                       0.02  pkg:cpan/Punk-GraphQL@0.02
-Punk::Headers                       0.31  pkg:cpan/Punk@0.31
-Punk::Logger                        0.31  pkg:cpan/Punk@0.31
+Punk::Headers                       0.32  pkg:cpan/Punk@0.32
+Punk::Logger                        0.32  pkg:cpan/Punk@0.32
 Punk::Mailer                        0.03  pkg:cpan/Punk-Mailer@0.03
 Punk::Mailer::Job                   0.03  pkg:cpan/Punk-Mailer@0.03
 Punk::Mailer::Result                0.03  pkg:cpan/Punk-Mailer@0.03
@@ -194060,11 +194061,11 @@ Punk::Mailer::Transport::Log        0.03  pkg:cpan/Punk-Mailer@0.03
 Punk::Mailer::Transport::Resend     0.03  pkg:cpan/Punk-Mailer@0.03
 Punk::Mailer::Transport::SMTP       0.03  pkg:cpan/Punk-Mailer@0.03
 Punk::Mailer::Transport::Sendmail   0.03  pkg:cpan/Punk-Mailer@0.03
-Punk::Model                         0.31  pkg:cpan/Punk@0.31
-Punk::Model::DBI                    0.31  pkg:cpan/Punk@0.31
-Punk::Model::DBIx::Loop             0.31  pkg:cpan/Punk@0.31
-Punk::Mount::Markdown               0.31  pkg:cpan/Punk@0.31
-Punk::Mount::OpenAPI                0.31  pkg:cpan/Punk@0.31
+Punk::Model                         0.32  pkg:cpan/Punk@0.32
+Punk::Model::DBI                    0.32  pkg:cpan/Punk@0.32
+Punk::Model::DBIx::Loop             0.32  pkg:cpan/Punk@0.32
+Punk::Mount::Markdown               0.32  pkg:cpan/Punk@0.32
+Punk::Mount::OpenAPI                0.32  pkg:cpan/Punk@0.32
 Punk::OAuth2                        0.07  pkg:cpan/Punk-OAuth2@0.07
 Punk::OAuth2::Checker               0.07  pkg:cpan/Punk-OAuth2@0.07
 Punk::OAuth2::JWKS                  0.07  pkg:cpan/Punk-OAuth2@0.07
@@ -194087,22 +194088,22 @@ Punk::OpenTelemetry::Propagate      0.05  pkg:cpan/Punk-OpenTelemetry@0.05
 Punk::OpenTelemetry::Resource       0.05  pkg:cpan/Punk-OpenTelemetry@0.05
 Punk::OpenTelemetry::Schema         0.05  pkg:cpan/Punk-OpenTelemetry@0.05
 Punk::OpenTelemetry::Tracer         0.05  pkg:cpan/Punk-OpenTelemetry@0.05
-Punk::Plugin                        0.31  pkg:cpan/Punk@0.31
-Punk::Plugin::Blob                  0.31  pkg:cpan/Punk@0.31
-Punk::Plugin::CSP                   0.31  pkg:cpan/Punk@0.31
+Punk::Plugin                        0.32  pkg:cpan/Punk@0.32
+Punk::Plugin::Blob                  0.32  pkg:cpan/Punk@0.32
+Punk::Plugin::CSP                   0.32  pkg:cpan/Punk@0.32
 Punk::Plugin::ClamAV                0.01  pkg:cpan/Punk-ClamAV@0.01
-Punk::Plugin::ConditionalGet        0.31  pkg:cpan/Punk@0.31
+Punk::Plugin::ConditionalGet        0.32  pkg:cpan/Punk@0.32
 Punk::Plugin::GraphQL               0.02  pkg:cpan/Punk-GraphQL@0.02
-Punk::Plugin::Health                0.31  pkg:cpan/Punk@0.31
-Punk::Plugin::I18n                  0.31  pkg:cpan/Punk@0.31
-Punk::Plugin::Idempotency           0.31  pkg:cpan/Punk@0.31
+Punk::Plugin::Health                0.32  pkg:cpan/Punk@0.32
+Punk::Plugin::I18n                  0.32  pkg:cpan/Punk@0.32
+Punk::Plugin::Idempotency           0.32  pkg:cpan/Punk@0.32
 Punk::Plugin::Mailer                0.03  pkg:cpan/Punk-Mailer@0.03
-Punk::Plugin::Metrics               0.31  pkg:cpan/Punk@0.31
+Punk::Plugin::Metrics               0.32  pkg:cpan/Punk@0.32
 Punk::Plugin::OAuth2                0.07  pkg:cpan/Punk-OAuth2@0.07
 Punk::Plugin::OpenTelemetry         0.05  pkg:cpan/Punk-OpenTelemetry@0.05
 Punk::Plugin::Queue                 0.02  pkg:cpan/Punk-Queue@0.07
-Punk::Plugin::RequestId             0.31  pkg:cpan/Punk@0.31
-Punk::Plugin::Sitemap               0.31  pkg:cpan/Punk@0.31
+Punk::Plugin::RequestId             0.32  pkg:cpan/Punk@0.32
+Punk::Plugin::Sitemap               0.32  pkg:cpan/Punk@0.32
 Punk::Plugin::Sqitch                0.01  pkg:cpan/Punk-Sqitch@0.01
 Punk::Plugin::TOTP                  0.04  pkg:cpan/Punk-TOTP@0.04
 Punk::Queue                         0.07  pkg:cpan/Punk-Queue@0.07
@@ -194113,30 +194114,30 @@ Punk::Queue::Command                0.02  pkg:cpan/Punk-Queue@0.07
 Punk::Queue::Cron                   0.02  pkg:cpan/Punk-Queue@0.07
 Punk::Queue::Job                    0.02  pkg:cpan/Punk-Queue@0.07
 Punk::Queue::Worker                 0.02  pkg:cpan/Punk-Queue@0.07
-Punk::RateLimit                     0.31  pkg:cpan/Punk@0.31
-Punk::Request                       0.31  pkg:cpan/Punk@0.31
-Punk::Response                      0.31  pkg:cpan/Punk@0.31
-Punk::Router                        0.31  pkg:cpan/Punk@0.31
-Punk::Router::Scope                 0.31  pkg:cpan/Punk@0.31
-Punk::SSE                           0.31  pkg:cpan/Punk@0.31
-Punk::SendFile::Reader              0.31  pkg:cpan/Punk@0.31
-Punk::Session                       0.31  pkg:cpan/Punk@0.31
-Punk::Session::Store                0.31  pkg:cpan/Punk@0.31
+Punk::RateLimit                     0.32  pkg:cpan/Punk@0.32
+Punk::Request                       0.32  pkg:cpan/Punk@0.32
+Punk::Response                      0.32  pkg:cpan/Punk@0.32
+Punk::Router                        0.32  pkg:cpan/Punk@0.32
+Punk::Router::Scope                 0.32  pkg:cpan/Punk@0.32
+Punk::SSE                           0.32  pkg:cpan/Punk@0.32
+Punk::SendFile::Reader              0.32  pkg:cpan/Punk@0.32
+Punk::Session                       0.32  pkg:cpan/Punk@0.32
+Punk::Session::Store                0.32  pkg:cpan/Punk@0.32
 Punk::Sqitch                        0.01  pkg:cpan/Punk-Sqitch@0.01
-Punk::Static                        0.31  pkg:cpan/Punk@0.31
+Punk::Static                        0.32  pkg:cpan/Punk@0.32
 Punk::TOTP                          0.04  pkg:cpan/Punk-TOTP@0.04
-Punk::Test                          0.31  pkg:cpan/Punk@0.31
-Punk::Test::WS                      0.31  pkg:cpan/Punk@0.31
-Punk::Test::WS::Conn                0.31  pkg:cpan/Punk@0.31
+Punk::Test                          0.32  pkg:cpan/Punk@0.32
+Punk::Test::WS                      0.32  pkg:cpan/Punk@0.32
+Punk::Test::WS::Conn                0.32  pkg:cpan/Punk@0.32
 Punk::Test::_Writer                 0.12  pkg:cpan/Punk@0.12
-Punk::Txn                           0.31  pkg:cpan/Punk@0.31
-Punk::UA                            0.31  pkg:cpan/Punk@0.31
-Punk::Upload                        0.31  pkg:cpan/Punk@0.31
-Punk::Validate                      0.31  pkg:cpan/Punk@0.31
-Punk::View::Stencil                 0.31  pkg:cpan/Punk@0.31
-Punk::Views                         0.31  pkg:cpan/Punk@0.31
-Punk::WebSocket                     0.31  pkg:cpan/Punk@0.31
-Punk::WebSocket::Room               0.31  pkg:cpan/Punk@0.31
+Punk::Txn                           0.32  pkg:cpan/Punk@0.32
+Punk::UA                            0.32  pkg:cpan/Punk@0.32
+Punk::Upload                        0.32  pkg:cpan/Punk@0.32
+Punk::Validate                      0.32  pkg:cpan/Punk@0.32
+Punk::View::Stencil                 0.32  pkg:cpan/Punk@0.32
+Punk::Views                         0.32  pkg:cpan/Punk@0.32
+Punk::WebSocket                     0.32  pkg:cpan/Punk@0.32
+Punk::WebSocket::Room               0.32  pkg:cpan/Punk@0.32
 Puppet::Classify                   undef  pkg:cpan/Puppet-Classify@0.003
 Puppet::DB                         undef  pkg:cpan/Puppet-DB@0.001
 Puppet::Orchestrator               undef  pkg:cpan/Puppet-Orchestrator@0.002
@@ -226075,7 +226076,7 @@ Text::Parts                         0.16  pkg:cpan/Text-Parts@0.16
 Text::Password::AutoMigration       0.43  pkg:cpan/Text-Password-AutoMigration@0.43
 Text::Password::CoreCrypt           0.43  pkg:cpan/Text-Password-AutoMigration@0.43
 Text::Password::MD5                 0.43  pkg:cpan/Text-Password-AutoMigration@0.43
-Text::Password::Pronounceable       0.30  pkg:cpan/Text-Password-Pronounceable@0.30
+Text::Password::Pronounceable       0.31  pkg:cpan/Text-Password-Pronounceable@0.31
 Text::Password::SHA                 0.43  pkg:cpan/Text-Password-AutoMigration@0.43
 Text::Patch                          1.8  pkg:cpan/Text-Patch@1.8
 Text::Patch::Rred                   0.06  pkg:cpan/Text-Patch-Rred@0.06
