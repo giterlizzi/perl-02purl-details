@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 23 Aug 2026 22:13:55 GMT
-Line-Count: 258849
+Last-Updated: Mon, 24 Aug 2026 00:52:31 GMT
+Line-Count: 258872
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -22358,13 +22358,13 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         v0.32.0  pkg:cpan/BarefootJS@0.32.0
-BarefootJS::Backend::Mojo          v0.32.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.32.0
-BarefootJS::Backend::Xslate        v0.32.0  pkg:cpan/BarefootJS-Backend-Xslate@0.32.0
-BarefootJS::Date                   v0.32.0  pkg:cpan/BarefootJS@0.32.0
-BarefootJS::DevReload              v0.32.0  pkg:cpan/BarefootJS@0.32.0
-BarefootJS::Evaluator              v0.32.0  pkg:cpan/BarefootJS@0.32.0
-BarefootJS::SearchParams           v0.32.0  pkg:cpan/BarefootJS@0.32.0
+BarefootJS                         v0.33.0  pkg:cpan/BarefootJS@0.33.0
+BarefootJS::Backend::Mojo          v0.33.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.33.0
+BarefootJS::Backend::Xslate        v0.33.0  pkg:cpan/BarefootJS-Backend-Xslate@0.33.0
+BarefootJS::Date                   v0.33.0  pkg:cpan/BarefootJS@0.33.0
+BarefootJS::DevReload              v0.33.0  pkg:cpan/BarefootJS@0.33.0
+BarefootJS::Evaluator              v0.33.0  pkg:cpan/BarefootJS@0.33.0
+BarefootJS::SearchParams           v0.33.0  pkg:cpan/BarefootJS@0.33.0
 BarefootJS::_TZProbe               0.029000  pkg:cpan/BarefootJS@0.29.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
@@ -67023,7 +67023,7 @@ Dir::Manifest::Key                 v0.6.1  pkg:cpan/Dir-Manifest@0.6.1
 Dir::Manifest::Slurp               v0.6.1  pkg:cpan/Dir-Manifest@0.6.1
 Dir::Project                       3.026  pkg:cpan/Dir-Project@3.026
 Dir::Purge                          1.02  pkg:cpan/Dir-Purge@1.02
-Dir::Rename::WD                    0.001  pkg:cpan/Dir-Rename-WD@0.001
+Dir::Rename::WD                    0.002  pkg:cpan/Dir-Rename-WD@0.002
 Dir::Rocknroll                      0.34  pkg:cpan/Dir-Rocknroll@0.34
 Dir::Self                           0.11  pkg:cpan/Dir-Self@0.11
 Dir::Split                          0.82  pkg:cpan/Dir-Split@0.82
@@ -68045,7 +68045,7 @@ Dist::Zilla::Plugin::Templates     v0.6.5  pkg:cpan/Dist-Zilla-Plugin-Templates@
 Dist::Zilla::Plugin::Templates::File v0.6.5  pkg:cpan/Dist-Zilla-Plugin-Templates@v0.6.5
 Dist::Zilla::Plugin::Test::CPAN::Changes 0.013  pkg:cpan/Dist-Zilla-Plugin-Test-CPAN-Changes@0.013
 Dist::Zilla::Plugin::Test::CPAN::Meta::JSON 0.004  pkg:cpan/Dist-Zilla-Plugin-Test-CPAN-Meta-JSON@0.004
-Dist::Zilla::Plugin::Test::CVE     v0.1.2  pkg:cpan/Dist-Zilla-Plugin-Test-CVE@v0.1.2
+Dist::Zilla::Plugin::Test::CVE     v0.1.3  pkg:cpan/Dist-Zilla-Plugin-Test-CVE@v0.1.3
 Dist::Zilla::Plugin::Test::ChangesHasContent 0.011  pkg:cpan/Dist-Zilla-Plugin-CheckChangesHasContent@0.011
 Dist::Zilla::Plugin::Test::CheckBreaks 0.020  pkg:cpan/Dist-Zilla-Plugin-Test-CheckBreaks@0.020
 Dist::Zilla::Plugin::Test::CheckChanges 2.000004  pkg:cpan/Dist-Zilla-Plugin-Test-CheckChanges@2.000004
@@ -119616,6 +119616,28 @@ Log::Minimal::Instance              0.06  pkg:cpan/Log-Minimal-Instance@0.06
 Log::Minimal::Object                0.02  pkg:cpan/Log-Minimal-Object@0.02
 Log::MixedColor                    undef  pkg:cpan/Log-MixedColor@1.000
 Log::MultiChannel                   1.10  pkg:cpan/Log-MultiChannel@1.10
+Log::Munger                        0.000001  pkg:cpan/Log-Munger@0.0.1
+Log::Munger::App                   0.000001  pkg:cpan/Log-Munger@0.0.1
+Log::Munger::App::Command          undef  pkg:cpan/Log-Munger@0.0.1
+Log::Munger::App::Command::degrok  undef  pkg:cpan/Log-Munger@0.0.1
+Log::Munger::App::Command::dump_rule_file undef  pkg:cpan/Log-Munger@0.0.1
+Log::Munger::App::Command::enrich  undef  pkg:cpan/Log-Munger@0.0.1
+Log::Munger::App::Command::explain undef  pkg:cpan/Log-Munger@0.0.1
+Log::Munger::App::Command::grok2rules undef  pkg:cpan/Log-Munger@0.0.1
+Log::Munger::App::Command::list    undef  pkg:cpan/Log-Munger@0.0.1
+Log::Munger::App::Command::list_fields undef  pkg:cpan/Log-Munger@0.0.1
+Log::Munger::App::Command::munge   undef  pkg:cpan/Log-Munger@0.0.1
+Log::Munger::App::Command::rule_file_template_order undef  pkg:cpan/Log-Munger@0.0.1
+Log::Munger::App::Command::test_all undef  pkg:cpan/Log-Munger@0.0.1
+Log::Munger::App::Command::test_rule_file undef  pkg:cpan/Log-Munger@0.0.1
+Log::Munger::App::Command::which_rule_file undef  pkg:cpan/Log-Munger@0.0.1
+Log::Munger::Degrok                0.000001  pkg:cpan/Log-Munger@0.0.1
+Log::Munger::LogProcessor          0.000001  pkg:cpan/Log-Munger@0.0.1
+Log::Munger::RuleFileParser        0.000001  pkg:cpan/Log-Munger@0.0.1
+Log::Munger::RulesTemplateOrder    0.000001  pkg:cpan/Log-Munger@0.0.1
+Log::Munger::RulesTest             0.000001  pkg:cpan/Log-Munger@0.0.1
+Log::Munger::RulesUsable           0.000001  pkg:cpan/Log-Munger@0.0.1
+Log::Munger::WhichRuleFile         0.000001  pkg:cpan/Log-Munger@0.0.1
 Log::NullLogLite                    0.82  pkg:cpan/Log-LogLite@0.82
 Log::OK                            0.002001  pkg:cpan/Log-OK@v0.2.1
 Log::Parallel                      0.303  pkg:cpan/Log-Parallel@0.303
@@ -131834,8 +131856,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    v0.32.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.32.0
-Mojolicious::Plugin::BarefootJS::DevReload v0.32.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.32.0
+Mojolicious::Plugin::BarefootJS    v0.33.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.33.0
+Mojolicious::Plugin::BarefootJS::DevReload v0.33.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.33.0
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -231935,6 +231957,7 @@ Unidexer                            0.02  pkg:cpan/Unidexer@0.02
 Uniform                             1.03  pkg:cpan/Uniform@1.03
 Uniform::Exceptions                 1.02  pkg:cpan/Uniform@1.03
 Uniform::HTMX                       0.16  pkg:cpan/Uniform-HTMX@0.16
+Uniform::HTMX::Dancer2              1.00  pkg:cpan/Uniform-HTMX-Dancer2@1.00
 Uniform::HTMX::Mojolicious          1.02  pkg:cpan/Uniform-HTMX-Mojolicious@1.02
 Uniform::HTMX::PAGI                 1.02  pkg:cpan/Uniform-HTMX-PAGI@1.02
 Uniform::HTMX::PSGI                 1.03  pkg:cpan/Uniform-HTMX-PSGI@1.03
