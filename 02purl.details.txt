@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 24 Aug 2026 08:38:49 GMT
+Last-Updated: Mon, 24 Aug 2026 10:30:07 GMT
 Line-Count: 258872
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -188793,23 +188793,23 @@ PerlYamlReferenceParserParser      0.000005  pkg:cpan/YAML-Parser@0.0.5
 PerlYamlReferenceParserPrelude     0.000005  pkg:cpan/YAML-Parser@0.0.5
 PerlYamlReferenceParserReceiver    0.000005  pkg:cpan/YAML-Parser@0.0.5
 PerlYamlReferenceParserTestReceiver 0.000005  pkg:cpan/YAML-Parser@0.0.5
-Perlanet                           3.003004  pkg:cpan/Perlanet@3.3.4
+Perlanet                           v3.3.5  pkg:cpan/Perlanet@v3.3.5
 Perlanet::DBIx::Class              undef  pkg:cpan/Perlanet-DBIx-Class@0.02
 Perlanet::DBIx::Class::Role::FeedResultSet undef  pkg:cpan/Perlanet-DBIx-Class@0.02
 Perlanet::DBIx::Class::Role::PostResultSet undef  pkg:cpan/Perlanet-DBIx-Class@0.02
 Perlanet::DBIx::Class::Types       undef  pkg:cpan/Perlanet-DBIx-Class@0.02
-Perlanet::Entry                    undef  pkg:cpan/Perlanet@3.3.4
-Perlanet::Feed                     undef  pkg:cpan/Perlanet@3.3.4
-Perlanet::Role::Config             undef  pkg:cpan/Perlanet@3.3.4
-Perlanet::Simple                   undef  pkg:cpan/Perlanet@3.3.4
-Perlanet::Trait::Cache             undef  pkg:cpan/Perlanet@3.3.4
-Perlanet::Trait::FeedFile          undef  pkg:cpan/Perlanet@3.3.4
-Perlanet::Trait::OPML              undef  pkg:cpan/Perlanet@3.3.4
-Perlanet::Trait::Scrubber          undef  pkg:cpan/Perlanet@3.3.4
-Perlanet::Trait::TemplateToolkit   undef  pkg:cpan/Perlanet@3.3.4
-Perlanet::Trait::Tidy              undef  pkg:cpan/Perlanet@3.3.4
-Perlanet::Trait::YAMLConfig        undef  pkg:cpan/Perlanet@3.3.4
-Perlanet::Types                    undef  pkg:cpan/Perlanet@3.3.4
+Perlanet::Entry                    undef  pkg:cpan/Perlanet@v3.3.5
+Perlanet::Feed                     undef  pkg:cpan/Perlanet@v3.3.5
+Perlanet::Role::Config             undef  pkg:cpan/Perlanet@v3.3.5
+Perlanet::Simple                   undef  pkg:cpan/Perlanet@v3.3.5
+Perlanet::Trait::Cache             undef  pkg:cpan/Perlanet@v3.3.5
+Perlanet::Trait::FeedFile          undef  pkg:cpan/Perlanet@v3.3.5
+Perlanet::Trait::OPML              undef  pkg:cpan/Perlanet@v3.3.5
+Perlanet::Trait::Scrubber          undef  pkg:cpan/Perlanet@v3.3.5
+Perlanet::Trait::TemplateToolkit   undef  pkg:cpan/Perlanet@v3.3.5
+Perlanet::Trait::Tidy              undef  pkg:cpan/Perlanet@v3.3.5
+Perlanet::Trait::YAMLConfig        undef  pkg:cpan/Perlanet@v3.3.5
+Perlanet::Types                    undef  pkg:cpan/Perlanet@v3.3.5
 Perlbal                             1.80  pkg:cpan/Perlbal@1.80
 Perlbal::AIO                       undef  pkg:cpan/Perlbal@1.80
 Perlbal::BackendHTTP               undef  pkg:cpan/Perlbal@1.80
