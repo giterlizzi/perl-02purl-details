@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 25 Aug 2026 06:34:06 GMT
+Last-Updated: Tue, 25 Aug 2026 08:33:14 GMT
 Line-Count: 258949
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -125573,15 +125573,15 @@ Math::Groups                       1.002  pkg:cpan/Math-Groups@1.002
 Math::HashSum                       0.02  pkg:cpan/Math-HashSum@0.02
 Math::HexGrid                       0.03  pkg:cpan/Math-HexGrid@0.03
 Math::HexGrid::Hex                  0.03  pkg:cpan/Math-HexGrid@0.03
-Math::Histo                        0.002000  pkg:cpan/Math-Histo@0.2.0
-Math::Histo::2D                    0.002000  pkg:cpan/Math-Histo@0.2.0
-Math::Histo::CLI                   0.002000  pkg:cpan/Math-Histo@0.2.0
-Math::Histo::Constants             0.002000  pkg:cpan/Math-Histo@0.2.0
-Math::Histo::Fit                   0.002000  pkg:cpan/Math-Histo@0.2.0
-Math::Histo::Fit::Result           0.002000  pkg:cpan/Math-Histo@0.2.0
-Math::Histo::KDE                   0.002000  pkg:cpan/Math-Histo@0.2.0
-Math::Histo::PDL                   0.002000  pkg:cpan/Math-Histo-PDL@0.2.0
-Math::Histo::Sketch                0.002000  pkg:cpan/Math-Histo@0.2.0
+Math::Histo                        0.002001  pkg:cpan/Math-Histo@0.2.1
+Math::Histo::2D                    0.002001  pkg:cpan/Math-Histo@0.2.1
+Math::Histo::CLI                   0.002001  pkg:cpan/Math-Histo@0.2.1
+Math::Histo::Constants             0.002001  pkg:cpan/Math-Histo@0.2.1
+Math::Histo::Fit                   0.002001  pkg:cpan/Math-Histo@0.2.1
+Math::Histo::Fit::Result           0.002001  pkg:cpan/Math-Histo@0.2.1
+Math::Histo::KDE                   0.002001  pkg:cpan/Math-Histo@0.2.1
+Math::Histo::PDL                   0.002001  pkg:cpan/Math-Histo-PDL@0.2.1
+Math::Histo::Sketch                0.002001  pkg:cpan/Math-Histo@0.2.1
 Math::Histogram                     1.04  pkg:cpan/Math-Histogram@1.04
 Math::Histogram::Axis              undef  pkg:cpan/Math-Histogram@1.04
 Math::HoltWinters                   0.03  pkg:cpan/Math-HoltWinters@0.03
@@ -202569,7 +202569,7 @@ SPVM::Encode                       0.004  pkg:cpan/SPVM-Encode@0.004
 SPVM::EqualityCheckable            undef  pkg:cpan/SPVM@0.990196
 SPVM::EqualityChecker              undef  pkg:cpan/SPVM@0.990196
 SPVM::EqualityChecker::Address     undef  pkg:cpan/SPVM@0.990196
-SPVM::Errno                        0.099  pkg:cpan/SPVM-Errno@0.099
+SPVM::Errno                        0.100  pkg:cpan/SPVM-Errno@0.100
 SPVM::Error                        undef  pkg:cpan/SPVM@0.990196
 SPVM::Error::Compile               undef  pkg:cpan/SPVM@0.990196
 SPVM::Error::FieldNotSpecified     undef  pkg:cpan/SPVM@0.990196
