@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 25 Aug 2026 20:19:57 GMT
+Last-Updated: Tue, 25 Aug 2026 22:18:39 GMT
 Line-Count: 258968
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -136004,7 +136004,7 @@ Music::RhythmSet::Voice             0.06  pkg:cpan/Music-RhythmSet@0.06
 Music::Scala                        1.08  pkg:cpan/Music-Scala@1.08
 Music::ScaleNote                   0.0905  pkg:cpan/Music-ScaleNote@0.0905
 Music::Scales                       0.11  pkg:cpan/Music-Scales@0.11
-Music::SimpleDrumMachine           0.0511  pkg:cpan/Music-SimpleDrumMachine@0.0511
+Music::SimpleDrumMachine           0.0512  pkg:cpan/Music-SimpleDrumMachine@0.0512
 Music::Song                        undef  pkg:cpan/Gtk2-Ex-FormFactory@0.67
 Music::Tag                         0.4103  pkg:cpan/Music-Tag@0.4103
 Music::Tag::Amazon                 0.4101  pkg:cpan/Music-Tag-Amazon@0.4101
