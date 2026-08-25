@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 25 Aug 2026 14:36:47 GMT
-Line-Count: 258972
+Last-Updated: Tue, 25 Aug 2026 16:27:28 GMT
+Line-Count: 258962
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -4879,6 +4879,7 @@ Alien::Sord                         0.01  pkg:cpan/Alien-Sord@0.01
 Alien::SunVox                       0.03  pkg:cpan/Alien-SunVox@0.03
 Alien::SwaggerUI                   0.002  pkg:cpan/Alien-SwaggerUI@0.002
 Alien::TALib                        0.18  pkg:cpan/Alien-TALib@0.18
+Alien::TDLib                        0.01  pkg:cpan/Alien-TDLib@0.01
 Alien::Taco                        0.003  pkg:cpan/Alien-Taco@0.003
 Alien::Taco::Object                0.003  pkg:cpan/Alien-Taco@0.003
 Alien::Taco::Server                0.003  pkg:cpan/Alien-Taco@0.003
@@ -4918,7 +4919,7 @@ Alien::XPA                         v2.1.20.7  pkg:cpan/Alien-XPA@v2.1.20.7
 Alien::Xmake                        0.08  pkg:cpan/Alien-Xmake@0.08
 Alien::Xrepo                        0.08  pkg:cpan/Alien-Xmake@0.08
 Alien::Xrepo::PackageInfo          undef  pkg:cpan/Alien-Xmake@0.08
-Alien::YAMLScript                  0.002031  pkg:cpan/Alien-YAMLScript@0.2.31
+Alien::YAMLScript                  0.002032  pkg:cpan/Alien-YAMLScript@0.2.32
 Alien::YARA                        v0.0.1  pkg:cpan/Alien-YARA@v0.0.6
 Alien::Z3                          0.002  pkg:cpan/Alien-Z3@0.002
 Alien::ZMQ                          0.06  pkg:cpan/Alien-ZMQ@0.06
@@ -4944,7 +4945,7 @@ Alien::cmake4                       0.04  pkg:cpan/Alien-cmake4@0.04
 Alien::cmark                       0.005  pkg:cpan/Alien-cmark@0.005
 Alien::cue                          0.01  pkg:cpan/Alien-cue@0.01
 Alien::curl                         0.11  pkg:cpan/Alien-curl@0.11
-Alien::curlimpersonate              0.01  pkg:cpan/Alien-curlimpersonate@0.01
+Alien::curlimpersonate              0.02  pkg:cpan/Alien-curlimpersonate@0.02
 Alien::ed::GNU                      0.02  pkg:cpan/Alien-ed-GNU@0.02
 Alien::ffmpeg                      0.105  pkg:cpan/Alien-ffmpeg@0.105
 Alien::flex                         0.15  pkg:cpan/Alien-flex@0.15
@@ -115968,14 +115969,8 @@ Linux::Event::Address              0.102  pkg:cpan/Linux-Event@0.102
 Linux::Event::Backend              0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Backend::Epoll       0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Bench                0.012  pkg:cpan/Linux-Event@0.012
-Linux::Event::Clock                0.011  pkg:cpan/Linux-Event-Clock@0.011
-Linux::Event::Connect              0.001  pkg:cpan/Linux-Event-Connect@0.001
 Linux::Event::Datagram             0.102  pkg:cpan/Linux-Event@0.102
 Linux::Event::Error                0.102  pkg:cpan/Linux-Event@0.102
-Linux::Event::Fork                 0.007  pkg:cpan/Linux-Event-Fork@0.007
-Linux::Event::Fork::Child          0.007  pkg:cpan/Linux-Event-Fork@0.007
-Linux::Event::Fork::Exit           0.007  pkg:cpan/Linux-Event-Fork@0.007
-Linux::Event::Fork::Request        0.007  pkg:cpan/Linux-Event-Fork@0.007
 Linux::Event::Framer               0.102  pkg:cpan/Linux-Event@0.102
 Linux::Event::Framer::DecimalLength 0.102  pkg:cpan/Linux-Event@0.102
 Linux::Event::Framer::Delimiter    0.102  pkg:cpan/Linux-Event@0.102
@@ -115984,7 +115979,6 @@ Linux::Event::Framer::LengthPrefix 0.102  pkg:cpan/Linux-Event@0.102
 Linux::Event::Framer::Netstring    0.102  pkg:cpan/Linux-Event@0.102
 Linux::Event::Framer::U32BE        0.102  pkg:cpan/Linux-Event@0.102
 Linux::Event::Framer::Varint       0.102  pkg:cpan/Linux-Event@0.102
-Linux::Event::Listen               0.016  pkg:cpan/Linux-Event-Listen@0.016
 Linux::Event::Listener             0.102  pkg:cpan/Linux-Event@0.102
 Linux::Event::Loop                 0.102  pkg:cpan/Linux-Event@0.102
 Linux::Event::Operation            0.010  pkg:cpan/Linux-Event@0.010
@@ -116002,10 +115996,6 @@ Linux::Event::Scheduler            0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Signal               0.102  pkg:cpan/Linux-Event@0.102
 Linux::Event::Signal::Subscription 0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Stream               0.102  pkg:cpan/Linux-Event@0.102
-Linux::Event::Stream::Codec        0.002  pkg:cpan/Linux-Event-Stream@0.002
-Linux::Event::Stream::Codec::Line  0.002  pkg:cpan/Linux-Event-Stream@0.002
-Linux::Event::Stream::Codec::Netstring 0.002  pkg:cpan/Linux-Event-Stream@0.002
-Linux::Event::Stream::Codec::U32BE 0.002  pkg:cpan/Linux-Event-Stream@0.002
 Linux::Event::TLS                  0.102  pkg:cpan/Linux-Event@0.102
 Linux::Event::Timer                0.102  pkg:cpan/Linux-Event@0.102
 Linux::Event::Wakeup               0.102  pkg:cpan/Linux-Event@0.102
@@ -150935,36 +150925,36 @@ PAGI::Endpoint::Router             0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Endpoint::Router::RouteBuilder 0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Endpoint::SSE                0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Endpoint::WebSocket          0.002002  pkg:cpan/PAGI-Tools@0.002002
-PAGI::FastAPI                      v1.4.0  pkg:cpan/PAGI-FastAPI@v1.4.0
-PAGI::FastAPI::BotProtection       v1.4.0  pkg:cpan/PAGI-FastAPI@v1.4.0
-PAGI::FastAPI::BotProtection::ProofOfWork v1.4.0  pkg:cpan/PAGI-FastAPI@v1.4.0
-PAGI::FastAPI::Context             v1.4.0  pkg:cpan/PAGI-FastAPI@v1.4.0
-PAGI::FastAPI::Cookies             v1.4.0  pkg:cpan/PAGI-FastAPI@v1.4.0
-PAGI::FastAPI::Depends             v1.4.0  pkg:cpan/PAGI-FastAPI@v1.4.0
-PAGI::FastAPI::Middleware::BotProtection v1.4.0  pkg:cpan/PAGI-FastAPI@v1.4.0
-PAGI::FastAPI::Middleware::ExceptionHandler v1.4.0  pkg:cpan/PAGI-FastAPI@v1.4.0
-PAGI::FastAPI::Middleware::RateLimit v1.4.0  pkg:cpan/PAGI-FastAPI@v1.4.0
-PAGI::FastAPI::Queue               v1.4.0  pkg:cpan/PAGI-FastAPI@v1.4.0
-PAGI::FastAPI::Queue::Driver       v1.4.0  pkg:cpan/PAGI-FastAPI@v1.4.0
-PAGI::FastAPI::Queue::Driver::Memory v1.4.0  pkg:cpan/PAGI-FastAPI@v1.4.0
+PAGI::FastAPI                      v1.5.0  pkg:cpan/PAGI-FastAPI@v1.5.0
+PAGI::FastAPI::BotProtection       v1.5.0  pkg:cpan/PAGI-FastAPI@v1.5.0
+PAGI::FastAPI::BotProtection::ProofOfWork v1.5.0  pkg:cpan/PAGI-FastAPI@v1.5.0
+PAGI::FastAPI::Context             v1.5.0  pkg:cpan/PAGI-FastAPI@v1.5.0
+PAGI::FastAPI::Cookies             v1.5.0  pkg:cpan/PAGI-FastAPI@v1.5.0
+PAGI::FastAPI::Depends             v1.5.0  pkg:cpan/PAGI-FastAPI@v1.5.0
+PAGI::FastAPI::Middleware::BotProtection v1.5.0  pkg:cpan/PAGI-FastAPI@v1.5.0
+PAGI::FastAPI::Middleware::ExceptionHandler v1.5.0  pkg:cpan/PAGI-FastAPI@v1.5.0
+PAGI::FastAPI::Middleware::RateLimit v1.5.0  pkg:cpan/PAGI-FastAPI@v1.5.0
+PAGI::FastAPI::Queue               v1.5.0  pkg:cpan/PAGI-FastAPI@v1.5.0
+PAGI::FastAPI::Queue::Driver       v1.5.0  pkg:cpan/PAGI-FastAPI@v1.5.0
+PAGI::FastAPI::Queue::Driver::Memory v1.5.0  pkg:cpan/PAGI-FastAPI@v1.5.0
 PAGI::FastAPI::Queue::Driver::Redis v0.0.1  pkg:cpan/PAGI-FastAPI-Queue-Driver-Redis@v0.0.1
-PAGI::FastAPI::RateLimit::Driver   v1.4.0  pkg:cpan/PAGI-FastAPI@v1.4.0
+PAGI::FastAPI::RateLimit::Driver   v1.5.0  pkg:cpan/PAGI-FastAPI@v1.5.0
 PAGI::FastAPI::RateLimit::Driver::CHI v0.0.1  pkg:cpan/PAGI-FastAPI-RateLimit-Driver-CHI@v0.0.1
-PAGI::FastAPI::RateLimit::Driver::Memory v1.4.0  pkg:cpan/PAGI-FastAPI@v1.4.0
+PAGI::FastAPI::RateLimit::Driver::Memory v1.5.0  pkg:cpan/PAGI-FastAPI@v1.5.0
 PAGI::FastAPI::RateLimit::Driver::Redis v0.1.0  pkg:cpan/PAGI-FastAPI-RateLimit-Driver-Redis@v0.1.0
-PAGI::FastAPI::Response            v1.4.0  pkg:cpan/PAGI-FastAPI@v1.4.0
-PAGI::FastAPI::Response::File      v1.4.0  pkg:cpan/PAGI-FastAPI@v1.4.0
-PAGI::FastAPI::Response::HTML      v1.4.0  pkg:cpan/PAGI-FastAPI@v1.4.0
-PAGI::FastAPI::Response::Redirect  v1.4.0  pkg:cpan/PAGI-FastAPI@v1.4.0
-PAGI::FastAPI::Response::SSE       v1.4.0  pkg:cpan/PAGI-FastAPI@v1.4.0
-PAGI::FastAPI::ResponseModel       v1.4.0  pkg:cpan/PAGI-FastAPI@v1.4.0
+PAGI::FastAPI::Response            v1.5.0  pkg:cpan/PAGI-FastAPI@v1.5.0
+PAGI::FastAPI::Response::File      v1.5.0  pkg:cpan/PAGI-FastAPI@v1.5.0
+PAGI::FastAPI::Response::HTML      v1.5.0  pkg:cpan/PAGI-FastAPI@v1.5.0
+PAGI::FastAPI::Response::Redirect  v1.5.0  pkg:cpan/PAGI-FastAPI@v1.5.0
+PAGI::FastAPI::Response::SSE       v1.5.0  pkg:cpan/PAGI-FastAPI@v1.5.0
+PAGI::FastAPI::ResponseModel       v1.5.0  pkg:cpan/PAGI-FastAPI@v1.5.0
 PAGI::FastAPI::Security            v0.0.6  pkg:cpan/PAGI-FastAPI-Security@v0.0.6
 PAGI::FastAPI::Security::APIKey    v0.0.6  pkg:cpan/PAGI-FastAPI-Security@v0.0.6
 PAGI::FastAPI::Security::Base      v0.0.6  pkg:cpan/PAGI-FastAPI-Security@v0.0.6
 PAGI::FastAPI::Security::HTTPBasic v0.0.6  pkg:cpan/PAGI-FastAPI-Security@v0.0.6
 PAGI::FastAPI::Security::HTTPBearer v0.0.6  pkg:cpan/PAGI-FastAPI-Security@v0.0.6
 PAGI::FastAPI::Security::OAuth2::PasswordBearer v0.0.6  pkg:cpan/PAGI-FastAPI-Security@v0.0.6
-PAGI::FastAPI::TypedPath           v1.4.0  pkg:cpan/PAGI-FastAPI@v1.4.0
+PAGI::FastAPI::TypedPath           v1.5.0  pkg:cpan/PAGI-FastAPI@v1.5.0
 PAGI::FastAPI::WebSocket           v0.0.8  pkg:cpan/PAGI-FastAPI@v0.0.8
 PAGI::Headers                      0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Lifespan                     0.002002  pkg:cpan/PAGI-Tools@0.002002
@@ -253115,8 +253105,8 @@ YAML::XS                           v0.910.0  pkg:cpan/YAML-LibYAML@v0.910.0
 YAML::XS::LibYAML                  v0.910.0  pkg:cpan/YAML-LibYAML@v0.910.0
 YAML::YAML2ADoc                    0.001000  pkg:cpan/YAML-YAML2ADoc@0.1.0
 YAML::yq::Helper                   0.002000  pkg:cpan/YAML-yq-Helper@0.2.0
-YAMLScript                         0.002031  pkg:cpan/YAMLScript@0.2.31
-YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.2.31
+YAMLScript                         0.002032  pkg:cpan/YAMLScript@0.2.32
+YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.2.32
 YAMLScript::Base                   undef  pkg:cpan/YAMLScript@0.0.7
 YAMLScript::CLI                    undef  pkg:cpan/YAMLScript@0.1.3
 YAMLScript::Call                   undef  pkg:cpan/YAMLScript@0.0.16
