@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 25 Aug 2026 12:33:37 GMT
-Line-Count: 258971
+Last-Updated: Tue, 25 Aug 2026 14:36:47 GMT
+Line-Count: 258972
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -4944,6 +4944,7 @@ Alien::cmake4                       0.04  pkg:cpan/Alien-cmake4@0.04
 Alien::cmark                       0.005  pkg:cpan/Alien-cmark@0.005
 Alien::cue                          0.01  pkg:cpan/Alien-cue@0.01
 Alien::curl                         0.11  pkg:cpan/Alien-curl@0.11
+Alien::curlimpersonate              0.01  pkg:cpan/Alien-curlimpersonate@0.01
 Alien::ed::GNU                      0.02  pkg:cpan/Alien-ed-GNU@0.02
 Alien::ffmpeg                      0.105  pkg:cpan/Alien-ffmpeg@0.105
 Alien::flex                         0.15  pkg:cpan/Alien-flex@0.15
@@ -150906,7 +150907,7 @@ PAD                                 0.04  pkg:cpan/PAD@0.04
 PAD::Plugin                        undef  pkg:cpan/PAD@0.04
 PAD::Plugin::Markdown              undef  pkg:cpan/PAD@0.04
 PAD::Plugin::Static                undef  pkg:cpan/PAD@0.04
-PAGI                               0.002003  pkg:cpan/PAGI@0.002003
+PAGI                               0.002004  pkg:cpan/PAGI@0.002004
 PAGI::App::Cascade                 0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::App::Directory               0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::App::File                    0.002002  pkg:cpan/PAGI-Tools@0.002002
@@ -151029,16 +151030,16 @@ PAGI::Response                     0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Response::Writer             0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Runner                       undef  pkg:cpan/PAGI@0.001023
 PAGI::SSE                          0.002002  pkg:cpan/PAGI-Tools@0.002002
-PAGI::Server                       0.002007  pkg:cpan/PAGI-Server@0.002007
-PAGI::Server::AsyncFile            0.002007  pkg:cpan/PAGI-Server@0.002007
-PAGI::Server::Connection           0.002007  pkg:cpan/PAGI-Server@0.002007
-PAGI::Server::ConnectionState      0.002007  pkg:cpan/PAGI-Server@0.002007
-PAGI::Server::EventValidator       0.002007  pkg:cpan/PAGI-Server@0.002007
-PAGI::Server::Protocol::HTTP1      0.002007  pkg:cpan/PAGI-Server@0.002007
-PAGI::Server::Protocol::HTTP2      0.002007  pkg:cpan/PAGI-Server@0.002007
+PAGI::Server                       0.002008  pkg:cpan/PAGI-Server@0.002008
+PAGI::Server::AsyncFile            0.002008  pkg:cpan/PAGI-Server@0.002008
+PAGI::Server::Connection           0.002008  pkg:cpan/PAGI-Server@0.002008
+PAGI::Server::ConnectionState      0.002008  pkg:cpan/PAGI-Server@0.002008
+PAGI::Server::EventValidator       0.002008  pkg:cpan/PAGI-Server@0.002008
+PAGI::Server::Protocol::HTTP1      0.002008  pkg:cpan/PAGI-Server@0.002008
+PAGI::Server::Protocol::HTTP2      0.002008  pkg:cpan/PAGI-Server@0.002008
 PAGI::Server::Protocol::HTTP2::Session 0.002004  pkg:cpan/PAGI-Server@0.002004
-PAGI::Server::Runner               0.002007  pkg:cpan/PAGI-Server@0.002007
-PAGI::Server::TransportState       0.002007  pkg:cpan/PAGI-Server@0.002007
+PAGI::Server::Runner               0.002008  pkg:cpan/PAGI-Server@0.002008
+PAGI::Server::TransportState       0.002008  pkg:cpan/PAGI-Server@0.002008
 PAGI::Session                      0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Stash                        0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::StructuredParameters         0.001001  pkg:cpan/PAGI-StructuredParameters@0.001001
@@ -188561,30 +188562,30 @@ Perl::Tags::Tag::Role               0.32  pkg:cpan/Perl-Tags@0.32
 Perl::Tags::Tag::Stub               0.32  pkg:cpan/Perl-Tags@0.32
 Perl::Tags::Tag::Sub                0.32  pkg:cpan/Perl-Tags@0.32
 Perl::Tags::Tag::Var                0.32  pkg:cpan/Perl-Tags@0.32
-Perl::Tidy                         20260808  pkg:cpan/Perl-Tidy@20260808
-Perl::Tidy::Debugger               20260808  pkg:cpan/Perl-Tidy@20260808
+Perl::Tidy                         20260826  pkg:cpan/Perl-Tidy@20260826
+Perl::Tidy::Debugger               20260826  pkg:cpan/Perl-Tidy@20260826
 Perl::Tidy::DevNull                20230701  pkg:cpan/Perl-Tidy@20230701
-Perl::Tidy::Diagnostics            20260808  pkg:cpan/Perl-Tidy@20260808
-Perl::Tidy::FileWriter             20260808  pkg:cpan/Perl-Tidy@20260808
-Perl::Tidy::Formatter              20260808  pkg:cpan/Perl-Tidy@20260808
-Perl::Tidy::HtmlWriter             20260808  pkg:cpan/Perl-Tidy@20260808
-Perl::Tidy::IOScalar               20260808  pkg:cpan/Perl-Tidy@20260808
-Perl::Tidy::IOScalarArray          20260808  pkg:cpan/Perl-Tidy@20260808
-Perl::Tidy::IndentationItem        20260808  pkg:cpan/Perl-Tidy@20260808
+Perl::Tidy::Diagnostics            20260826  pkg:cpan/Perl-Tidy@20260826
+Perl::Tidy::FileWriter             20260826  pkg:cpan/Perl-Tidy@20260826
+Perl::Tidy::Formatter              20260826  pkg:cpan/Perl-Tidy@20260826
+Perl::Tidy::HtmlWriter             20260826  pkg:cpan/Perl-Tidy@20260826
+Perl::Tidy::IOScalar               20260826  pkg:cpan/Perl-Tidy@20260826
+Perl::Tidy::IOScalarArray          20260826  pkg:cpan/Perl-Tidy@20260826
+Perl::Tidy::IndentationItem        20260826  pkg:cpan/Perl-Tidy@20260826
 Perl::Tidy::Komodo                 1.151340  pkg:cpan/Perl-Tidy-Komodo@1.151340
 Perl::Tidy::LineBuffer             20230701  pkg:cpan/Perl-Tidy@20230701
 Perl::Tidy::LineSink               20230701  pkg:cpan/Perl-Tidy@20230701
 Perl::Tidy::LineSource             20230701  pkg:cpan/Perl-Tidy@20230701
-Perl::Tidy::Logger                 20260808  pkg:cpan/Perl-Tidy@20260808
+Perl::Tidy::Logger                 20260826  pkg:cpan/Perl-Tidy@20260826
 Perl::Tidy::Sweet                   1.20  pkg:cpan/Perl-Tidy-Sweetened@1.20
 Perl::Tidy::Sweetened               1.20  pkg:cpan/Perl-Tidy-Sweetened@1.20
 Perl::Tidy::Sweetened::Keyword::Block  1.20  pkg:cpan/Perl-Tidy-Sweetened@1.20
 Perl::Tidy::Sweetened::Pluggable    1.20  pkg:cpan/Perl-Tidy-Sweetened@1.20
 Perl::Tidy::Sweetened::Variable::Twigils  1.20  pkg:cpan/Perl-Tidy-Sweetened@1.20
-Perl::Tidy::Tokenizer              20260808  pkg:cpan/Perl-Tidy@20260808
-Perl::Tidy::VerticalAligner        20260808  pkg:cpan/Perl-Tidy@20260808
-Perl::Tidy::VerticalAligner::Alignment 20260808  pkg:cpan/Perl-Tidy@20260808
-Perl::Tidy::VerticalAligner::Line  20260808  pkg:cpan/Perl-Tidy@20260808
+Perl::Tidy::Tokenizer              20260826  pkg:cpan/Perl-Tidy@20260826
+Perl::Tidy::VerticalAligner        20260826  pkg:cpan/Perl-Tidy@20260826
+Perl::Tidy::VerticalAligner::Alignment 20260826  pkg:cpan/Perl-Tidy@20260826
+Perl::Tidy::VerticalAligner::Line  20260826  pkg:cpan/Perl-Tidy@20260826
 Perl::ToPerl6                      0.040  pkg:cpan/Perl-ToPerl6@0.040
 Perl::ToPerl6::Command             0.040  pkg:cpan/Perl-ToPerl6@0.040
 Perl::ToPerl6::Transformer::Arrays::AddWhitespace undef  pkg:cpan/Perl-ToPerl6@0.040
@@ -232295,7 +232296,7 @@ Util::BLOB                           0.1  pkg:cpan/RDFStore@0.51
 Util::CommandLine                   1.10  pkg:cpan/Util-CommandLine@1.10
 Util::EvalSnippet                   0.02  pkg:cpan/Util-EvalSnippet@0.02
 Util::H2O                           0.24  pkg:cpan/Util-H2O@0.24
-Util::H2O::More                    0.004005  pkg:cpan/Util-H2O-More@0.4.5
+Util::H2O::More                    0.004006  pkg:cpan/Util-H2O-More@0.4.6
 Util::Medley                       0.062  pkg:cpan/Util-Medley@0.062
 Util::Medley::Cache                0.062  pkg:cpan/Util-Medley@0.062
 Util::Medley::Crypt                0.062  pkg:cpan/Util-Medley@0.062
