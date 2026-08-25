@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 25 Aug 2026 10:23:34 GMT
-Line-Count: 258949
+Last-Updated: Tue, 25 Aug 2026 12:33:37 GMT
+Line-Count: 258971
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5381,6 +5381,28 @@ Ambassador::API::V2::Error         0.001  pkg:cpan/Ambassador-API-V2@0.001
 Ambassador::API::V2::Result        0.001  pkg:cpan/Ambassador-API-V2@0.001
 Ambassador::API::V2::Role::HasJSON 0.001  pkg:cpan/Ambassador-API-V2@0.001
 Ambassador::API::V2::Role::Response 0.001  pkg:cpan/Ambassador-API-V2@0.001
+AmberDB                             5.02  pkg:cpan/AmberDB@5.02
+AmberDB::Array                      5.02  pkg:cpan/AmberDB@5.02
+AmberDB::Base                       5.02  pkg:cpan/AmberDB@5.02
+AmberDB::Cache                      5.02  pkg:cpan/AmberDB@5.02
+AmberDB::Date                       5.02  pkg:cpan/AmberDB@5.02
+AmberDB::Index                      5.02  pkg:cpan/AmberDB@5.02
+AmberDB::Index::Facet               5.02  pkg:cpan/AmberDB@5.02
+AmberDB::Index::Junk                5.02  pkg:cpan/AmberDB@5.02
+AmberDB::Locale                     5.02  pkg:cpan/AmberDB@5.02
+AmberDB::Locale::Currency           5.02  pkg:cpan/AmberDB@5.02
+AmberDB::Locale::Lang::ar           5.02  pkg:cpan/AmberDB@5.02
+AmberDB::Locale::Lang::az           5.02  pkg:cpan/AmberDB@5.02
+AmberDB::Locale::Lang::de           5.02  pkg:cpan/AmberDB@5.02
+AmberDB::Locale::Lang::en           5.02  pkg:cpan/AmberDB@5.02
+AmberDB::Locale::Lang::es           5.02  pkg:cpan/AmberDB@5.02
+AmberDB::Locale::Lang::fr           5.02  pkg:cpan/AmberDB@5.02
+AmberDB::Locale::Lang::ja           5.02  pkg:cpan/AmberDB@5.02
+AmberDB::Locale::Lang::ru           5.02  pkg:cpan/AmberDB@5.02
+AmberDB::Locale::Lang::tr           5.02  pkg:cpan/AmberDB@5.02
+AmberDB::String                     5.02  pkg:cpan/AmberDB@5.02
+AmberDB::Tools                      5.02  pkg:cpan/AmberDB@5.02
+AmberDB::Transact                   5.02  pkg:cpan/AmberDB@5.02
 AmbientOrb::Serial                  0.02  pkg:cpan/AmbientOrb-Serial@0.02
 Ambrosia                            0.01  pkg:cpan/Ambrosia@0.010
 Ambrosia::Addons::Accessor          0.01  pkg:cpan/Ambrosia@0.010
@@ -49662,10 +49684,10 @@ Crypt::IDA::Algorithm              undef  pkg:cpan/Crypt-IDA@0.03
 Crypt::IDA::ShareFile               0.01  pkg:cpan/Crypt-IDA@0.03
 Crypt::IDA::SlidingWindow          undef  pkg:cpan/Crypt-IDA@0.03
 Crypt::IDEA                         1.10  pkg:cpan/Crypt-IDEA@1.10
-Crypt::Image                        0.15  pkg:cpan/Crypt-Image@0.15
-Crypt::Image::Axis                  0.15  pkg:cpan/Crypt-Image@0.15
-Crypt::Image::Params                0.15  pkg:cpan/Crypt-Image@0.15
-Crypt::Image::Util                  0.15  pkg:cpan/Crypt-Image@0.15
+Crypt::Image                       v1.0.0  pkg:cpan/Crypt-Image@v1.0.0
+Crypt::Image::Axis                 v1.0.0  pkg:cpan/Crypt-Image@v1.0.0
+Crypt::Image::Params               v1.0.0  pkg:cpan/Crypt-Image@v1.0.0
+Crypt::Image::Util                 v1.0.0  pkg:cpan/Crypt-Image@v1.0.0
 Crypt::Imail                        0.01  pkg:cpan/Crypt-Imail@0.01
 Crypt::JWS                          0.06  pkg:cpan/Crypt-JWS@0.06
 Crypt::JWS::Key                     0.06  pkg:cpan/Crypt-JWS@0.06
@@ -142100,7 +142122,7 @@ Net::IChat::Message::Text           0.01  pkg:cpan/Net-IChat@0.01
 Net::IDN::Encode                   2.502  pkg:cpan/Net-IDN-Encode@2.502
 Net::IDN::IDNA2003                 1.000  pkg:cpan/Net-IDN-IDNA2003@1.000
 Net::IDN::Nameprep                 1.102  pkg:cpan/Net-IDN-Nameprep@1.102
-Net::IDN::PP                        0.02  pkg:cpan/Net-IDN-PP@0.02
+Net::IDN::PP                        0.03  pkg:cpan/Net-IDN-PP@0.03
 Net::IDN::Punycode                 2.502  pkg:cpan/Net-IDN-Encode@2.502
 Net::IDN::Punycode::PP             2.502  pkg:cpan/Net-IDN-Encode@2.502
 Net::IDN::UTS46                    2.502  pkg:cpan/Net-IDN-Encode@2.502
