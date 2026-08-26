@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 26 Aug 2026 00:53:10 GMT
+Last-Updated: Wed, 26 Aug 2026 02:57:48 GMT
 Line-Count: 258971
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -136007,7 +136007,7 @@ Music::RhythmSet::Voice             0.06  pkg:cpan/Music-RhythmSet@0.06
 Music::Scala                        1.08  pkg:cpan/Music-Scala@1.08
 Music::ScaleNote                   0.0905  pkg:cpan/Music-ScaleNote@0.0905
 Music::Scales                       0.11  pkg:cpan/Music-Scales@0.11
-Music::SimpleDrumMachine           0.0512  pkg:cpan/Music-SimpleDrumMachine@0.0512
+Music::SimpleDrumMachine           0.0600  pkg:cpan/Music-SimpleDrumMachine@0.0600
 Music::Song                        undef  pkg:cpan/Gtk2-Ex-FormFactory@0.67
 Music::Tag                         0.4103  pkg:cpan/Music-Tag@0.4103
 Music::Tag::Amazon                 0.4101  pkg:cpan/Music-Tag-Amazon@0.4101
@@ -150902,7 +150902,7 @@ PAD                                 0.04  pkg:cpan/PAD@0.04
 PAD::Plugin                        undef  pkg:cpan/PAD@0.04
 PAD::Plugin::Markdown              undef  pkg:cpan/PAD@0.04
 PAD::Plugin::Static                undef  pkg:cpan/PAD@0.04
-PAGI                               0.002004  pkg:cpan/PAGI@0.002004
+PAGI                               0.002005  pkg:cpan/PAGI@0.002005
 PAGI::App::Cascade                 0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::App::Directory               0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::App::File                    0.002002  pkg:cpan/PAGI-Tools@0.002002
@@ -151025,16 +151025,16 @@ PAGI::Response                     0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Response::Writer             0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Runner                       undef  pkg:cpan/PAGI@0.001023
 PAGI::SSE                          0.002002  pkg:cpan/PAGI-Tools@0.002002
-PAGI::Server                       0.002008  pkg:cpan/PAGI-Server@0.002008
-PAGI::Server::AsyncFile            0.002008  pkg:cpan/PAGI-Server@0.002008
-PAGI::Server::Connection           0.002008  pkg:cpan/PAGI-Server@0.002008
-PAGI::Server::ConnectionState      0.002008  pkg:cpan/PAGI-Server@0.002008
-PAGI::Server::EventValidator       0.002008  pkg:cpan/PAGI-Server@0.002008
-PAGI::Server::Protocol::HTTP1      0.002008  pkg:cpan/PAGI-Server@0.002008
-PAGI::Server::Protocol::HTTP2      0.002008  pkg:cpan/PAGI-Server@0.002008
+PAGI::Server                       0.002009  pkg:cpan/PAGI-Server@0.002009
+PAGI::Server::AsyncFile            0.002009  pkg:cpan/PAGI-Server@0.002009
+PAGI::Server::Connection           0.002009  pkg:cpan/PAGI-Server@0.002009
+PAGI::Server::ConnectionState      0.002009  pkg:cpan/PAGI-Server@0.002009
+PAGI::Server::EventValidator       0.002009  pkg:cpan/PAGI-Server@0.002009
+PAGI::Server::Protocol::HTTP1      0.002009  pkg:cpan/PAGI-Server@0.002009
+PAGI::Server::Protocol::HTTP2      0.002009  pkg:cpan/PAGI-Server@0.002009
 PAGI::Server::Protocol::HTTP2::Session 0.002004  pkg:cpan/PAGI-Server@0.002004
-PAGI::Server::Runner               0.002008  pkg:cpan/PAGI-Server@0.002008
-PAGI::Server::TransportState       0.002008  pkg:cpan/PAGI-Server@0.002008
+PAGI::Server::Runner               0.002009  pkg:cpan/PAGI-Server@0.002009
+PAGI::Server::TransportState       0.002009  pkg:cpan/PAGI-Server@0.002009
 PAGI::Session                      0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::Stash                        0.002002  pkg:cpan/PAGI-Tools@0.002002
 PAGI::StructuredParameters         0.001001  pkg:cpan/PAGI-StructuredParameters@0.001001
@@ -202619,7 +202619,7 @@ SPVM::File::Find::Callback::DanglingSymlinks undef  pkg:cpan/SPVM-File-Find@0.02
 SPVM::File::Find::Callback::Preprocess undef  pkg:cpan/SPVM-File-Find@0.027
 SPVM::File::Find::Handler          undef  pkg:cpan/SPVM-File-Find@0.025
 SPVM::File::Find::Info             undef  pkg:cpan/SPVM-File-Find@0.033
-SPVM::File::Glob                   0.024  pkg:cpan/SPVM-File-Glob@0.024
+SPVM::File::Glob                   0.025  pkg:cpan/SPVM-File-Glob@0.025
 SPVM::File::Path                   0.015  pkg:cpan/SPVM-File-Path@0.015
 SPVM::File::Spec                   0.092  pkg:cpan/SPVM-File-Spec@0.092
 SPVM::File::Spec::Instance         undef  pkg:cpan/SPVM-File-Spec@0.092
