@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 26 Aug 2026 08:34:22 GMT
+Last-Updated: Wed, 26 Aug 2026 10:27:29 GMT
 Line-Count: 258971
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -139542,11 +139542,11 @@ Net::Cisco::ObjectGroup::Protocol  undef  pkg:cpan/Net-Cisco-ObjectGroup@1.01
 Net::Cisco::ObjectGroup::Service   undef  pkg:cpan/Net-Cisco-ObjectGroup@1.01
 Net::Cisco::QualityAssurance        0.01  pkg:cpan/Net-Cisco-QualityAssurance@0.01
 Net::Citadel                        0.25  pkg:cpan/Net-Citadel@0.25
-Net::Clacks                           36  pkg:cpan/Net-Clacks@36
-Net::Clacks::ClacksCache              36  pkg:cpan/Net-Clacks@36
-Net::Clacks::Client                   36  pkg:cpan/Net-Clacks@36
-Net::Clacks::PostgreSQL2Clacks        36  pkg:cpan/Net-Clacks@36
-Net::Clacks::Server                   36  pkg:cpan/Net-Clacks@36
+Net::Clacks                           37  pkg:cpan/Net-Clacks@37
+Net::Clacks::ClacksCache              37  pkg:cpan/Net-Clacks@37
+Net::Clacks::Client                   37  pkg:cpan/Net-Clacks@37
+Net::Clacks::PostgreSQL2Clacks        37  pkg:cpan/Net-Clacks@37
+Net::Clacks::Server                   37  pkg:cpan/Net-Clacks@37
 Net::ClamAV::Client                  0.1  pkg:cpan/Net-ClamAV-Client@0.1
 Net::ClamAV::Exception::Command      0.1  pkg:cpan/Net-ClamAV-Client@0.1
 Net::ClamAV::Exception::Connect      0.1  pkg:cpan/Net-ClamAV-Client@0.1
@@ -223399,7 +223399,7 @@ Test::Functional::Conf              0.06  pkg:cpan/Test-Functional@0.06
 Test::Future                        0.52  pkg:cpan/Future@0.52
 Test::Future::AsyncAwait::Awaitable  0.71  pkg:cpan/Future-AsyncAwait@0.71
 Test::Future::Deferred              0.52  pkg:cpan/Future@0.52
-Test::Future::IO                    0.06  pkg:cpan/Test-Future-IO@0.06
+Test::Future::IO                    0.07  pkg:cpan/Test-Future-IO@0.07
 Test::Future::IO::Impl              0.21  pkg:cpan/Test-Future-IO-Impl@0.21
 Test::Games::BonDigi                0.02  pkg:cpan/Games-BonDigi@0.02
 Test::Gearman                      0.002000  pkg:cpan/Test-Gearman@v0.2.0
