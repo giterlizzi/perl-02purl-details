@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 26 Aug 2026 10:27:29 GMT
-Line-Count: 258971
+Last-Updated: Wed, 26 Aug 2026 12:37:07 GMT
+Line-Count: 258978
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -62672,9 +62672,9 @@ Database::Async::SQLite            0.001  pkg:cpan/Database-Async-SQLite@0.001
 Database::Async::StatementHandle   0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Test              0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Transaction       0.019  pkg:cpan/Database-Async@0.019
-Database::BI                       0.001  pkg:cpan/Database-BI@0.001.0
-Database::BI::Controller::Dashboard 0.001  pkg:cpan/Database-BI@0.001.0
-Database::BI::Model::DataSource    0.001  pkg:cpan/Database-BI@0.001.0
+Database::BI                       0.002  pkg:cpan/Database-BI@0.002.0
+Database::BI::Controller::Dashboard 0.002  pkg:cpan/Database-BI@0.002.0
+Database::BI::Model::DataSource    0.002  pkg:cpan/Database-BI@0.002.0
 Database::Cassandra::Client            1  pkg:cpan/Database-Cassandra-Client@1
 Database::DumpTruck                  1.2  pkg:cpan/Database-DumpTruck@1.2
 Database::Format::Text              1.03  pkg:cpan/Database-Format-Text@1.03
@@ -70136,6 +70136,13 @@ EV::Prepare                        undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Redis                           0.14  pkg:cpan/EV-Redis@0.14
 EV::Signal                         undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Stat                           undef  pkg:cpan/App-SimpleBackuper@0.2.22
+EV::Telegram::TDLib                 0.01  pkg:cpan/EV-Telegram-TDLib@0.01
+EV::Telegram::TDLib::Bots           0.01  pkg:cpan/EV-Telegram-TDLib@0.01
+EV::Telegram::TDLib::Chats          0.01  pkg:cpan/EV-Telegram-TDLib@0.01
+EV::Telegram::TDLib::Connection     0.01  pkg:cpan/EV-Telegram-TDLib@0.01
+EV::Telegram::TDLib::Files          0.01  pkg:cpan/EV-Telegram-TDLib@0.01
+EV::Telegram::TDLib::Messages       0.01  pkg:cpan/EV-Telegram-TDLib@0.01
+EV::Telegram::TDLib::Users          0.01  pkg:cpan/EV-Telegram-TDLib@0.01
 EV::Timer                          undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Watcher                        undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Watcher::Bind                  0.00001  pkg:cpan/EV-Watcher-Bind@0.00001
@@ -125162,8 +125169,8 @@ Math::FitRect                       0.05  pkg:cpan/Math-FitRect@0.05
 Math::FixedPoint                   0.201306251928  pkg:cpan/Math-FixedPoint@0.20130625.1928
 Math::FixedPrecision                0.21  pkg:cpan/Math-FixedPrecision@0.21
 Math::Fleximal                      0.06  pkg:cpan/Math-Fleximal@0.06
-Math::Float128                      0.17  pkg:cpan/Math-Float128@0.17
-Math::Float128::Constant            0.17  pkg:cpan/Math-Float128@0.17
+Math::Float128                      0.18  pkg:cpan/Math-Float128@0.18
+Math::Float128::Constant            0.18  pkg:cpan/Math-Float128@0.18
 Math::Float32                       0.03  pkg:cpan/Math-Float32@0.03
 Math::Formula                       0.18  pkg:cpan/Math-Formula@0.18
 Math::Formula::Config               0.18  pkg:cpan/Math-Formula@0.18
