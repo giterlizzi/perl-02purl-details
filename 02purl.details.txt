@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 25 Aug 2026 22:18:39 GMT
-Line-Count: 258968
+Last-Updated: Wed, 26 Aug 2026 00:53:10 GMT
+Line-Count: 258971
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -62672,6 +62672,9 @@ Database::Async::SQLite            0.001  pkg:cpan/Database-Async-SQLite@0.001
 Database::Async::StatementHandle   0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Test              0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Transaction       0.019  pkg:cpan/Database-Async@0.019
+Database::BI                       0.001  pkg:cpan/Database-BI@0.001.0
+Database::BI::Controller::Dashboard 0.001  pkg:cpan/Database-BI@0.001.0
+Database::BI::Model::DataSource    0.001  pkg:cpan/Database-BI@0.001.0
 Database::Cassandra::Client            1  pkg:cpan/Database-Cassandra-Client@1
 Database::DumpTruck                  1.2  pkg:cpan/Database-DumpTruck@1.2
 Database::Format::Text              1.03  pkg:cpan/Database-Format-Text@1.03
