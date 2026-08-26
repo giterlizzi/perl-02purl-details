@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 26 Aug 2026 04:32:23 GMT
+Last-Updated: Wed, 26 Aug 2026 06:35:19 GMT
 Line-Count: 258971
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -3994,9 +3994,9 @@ Algorithm::Accounting::Report::Text  0.02  pkg:cpan/Algorithm-Accounting@0.08
 Algorithm::AdaBoost                 0.01  pkg:cpan/Algorithm-AdaBoost@0.01
 Algorithm::AdaBoost::Classifier    undef  pkg:cpan/Algorithm-AdaBoost@0.01
 Algorithm::AdaGrad                  0.03  pkg:cpan/Algorithm-AdaGrad@0.03
-Algorithm::AhoCorasick              0.03  pkg:cpan/Algorithm-AhoCorasick@0.03
-Algorithm::AhoCorasick::Node       undef  pkg:cpan/Algorithm-AhoCorasick@0.03
-Algorithm::AhoCorasick::SearchMachine undef  pkg:cpan/Algorithm-AhoCorasick@0.03
+Algorithm::AhoCorasick              0.04  pkg:cpan/Algorithm-AhoCorasick@0.04
+Algorithm::AhoCorasick::Node       undef  pkg:cpan/Algorithm-AhoCorasick@0.04
+Algorithm::AhoCorasick::SearchMachine undef  pkg:cpan/Algorithm-AhoCorasick@0.04
 Algorithm::AhoCorasick::XS          0.04  pkg:cpan/Algorithm-AhoCorasick-XS@0.04
 Algorithm::Annotate                 0.10  pkg:cpan/Algorithm-Annotate@0.10
 Algorithm::BIT2D::XS               0.003  pkg:cpan/Algorithm-BIT-XS@0.003
@@ -64161,14 +64161,14 @@ DateTime::Lite::PP                 0.001001  pkg:cpan/DateTime-Lite@v0.8.0
 DateTime::Lite::TimeZone           0.005009  pkg:cpan/DateTime-Lite@v0.8.0
 DateTime::Lite::_FakeLocale        0.001000  pkg:cpan/DateTime-Lite@v0.8.0
 DateTime::Lite::_Thawed            0.008000  pkg:cpan/DateTime-Lite@v0.8.0
-DateTime::Locale                    1.45  pkg:cpan/DateTime-Locale@1.45
-DateTime::Locale::Base              1.45  pkg:cpan/DateTime-Locale@1.45
-DateTime::Locale::Catalog           1.45  pkg:cpan/DateTime-Locale@1.45
-DateTime::Locale::Data              1.45  pkg:cpan/DateTime-Locale@1.45
+DateTime::Locale                    1.46  pkg:cpan/DateTime-Locale@1.46
+DateTime::Locale::Base              1.46  pkg:cpan/DateTime-Locale@1.46
+DateTime::Locale::Catalog           1.46  pkg:cpan/DateTime-Locale@1.46
+DateTime::Locale::Data              1.46  pkg:cpan/DateTime-Locale@1.46
 DateTime::Locale::FromCLDR         0.008007  pkg:cpan/DateTime-Locale-FromCLDR@v0.8.7
 DateTime::Locale::FromCLDR::Exception 0.008007  pkg:cpan/DateTime-Locale-FromCLDR@v0.8.7
-DateTime::Locale::FromData          1.45  pkg:cpan/DateTime-Locale@1.45
-DateTime::Locale::Util              1.45  pkg:cpan/DateTime-Locale@1.45
+DateTime::Locale::FromData          1.46  pkg:cpan/DateTime-Locale@1.46
+DateTime::Locale::Util              1.46  pkg:cpan/DateTime-Locale@1.46
 DateTime::Moonpig                   1.03  pkg:cpan/DateTime-Moonpig@1.03
 DateTime::Ordinal                   0.07  pkg:cpan/DateTime-Ordinal@0.07
 DateTime::PP                        1.66  pkg:cpan/DateTime@1.66
@@ -202746,9 +202746,9 @@ SPVM::JSON                         1.003  pkg:cpan/SPVM-JSON@1.003
 SPVM::List                         undef  pkg:cpan/SPVM@0.990196
 SPVM::Long                         undef  pkg:cpan/SPVM@0.990196
 SPVM::LongList                     undef  pkg:cpan/SPVM@0.990196
-SPVM::MIME::Base64                 1.008  pkg:cpan/SPVM-MIME-Base64@1.008
-SPVM::MIME::QuotedPrint            undef  pkg:cpan/SPVM-MIME-Base64@1.008
-SPVM::Math                         1.011  pkg:cpan/SPVM-Math@1.011
+SPVM::MIME::Base64                 1.009  pkg:cpan/SPVM-MIME-Base64@1.009
+SPVM::MIME::QuotedPrint            undef  pkg:cpan/SPVM-MIME-Base64@1.009
+SPVM::Math                         1.012  pkg:cpan/SPVM-Math@1.012
 SPVM::Mojo                         undef  pkg:cpan/SPVM-Mojolicious@0.043
 SPVM::Mojo::Asset                  undef  pkg:cpan/SPVM-Mojolicious@0.043
 SPVM::Mojo::Asset::File            undef  pkg:cpan/SPVM-Mojolicious@0.043
@@ -202969,13 +202969,13 @@ SPVM::R::OP::String                undef  pkg:cpan/SPVM-R@0.108
 SPVM::R::OP::StringBuffer          undef  pkg:cpan/SPVM-R@0.108
 SPVM::R::OP::Time::Piece           undef  pkg:cpan/SPVM-R@0.108
 SPVM::R::Util                      undef  pkg:cpan/SPVM-R@0.108
-SPVM::Re                           undef  pkg:cpan/SPVM-Regex@0.261
-SPVM::Regex                        0.261  pkg:cpan/SPVM-Regex@0.261
-SPVM::Regex::Match                 undef  pkg:cpan/SPVM-Regex@0.261
+SPVM::Re                           undef  pkg:cpan/SPVM-Regex@0.262
+SPVM::Regex                        0.262  pkg:cpan/SPVM-Regex@0.262
+SPVM::Regex::Match                 undef  pkg:cpan/SPVM-Regex@0.262
 SPVM::Regex::Opcode                undef  pkg:cpan/SPVM-Regex@0.05
 SPVM::Regex::Pattern               undef  pkg:cpan/SPVM-Regex@0.08
-SPVM::Regex::ReplaceInfo           undef  pkg:cpan/SPVM-Regex@0.261
-SPVM::Regex::Replacer              undef  pkg:cpan/SPVM-Regex@0.261
+SPVM::Regex::ReplaceInfo           undef  pkg:cpan/SPVM-Regex@0.262
+SPVM::Regex::Replacer              undef  pkg:cpan/SPVM-Regex@0.262
 SPVM::Resource::Coro               0.002  pkg:cpan/SPVM-Resource-Coro@0.002
 SPVM::Resource::Eigen              0.006  pkg:cpan/SPVM-Resource-Eigen@0.006
 SPVM::Resource::Libpng             0.015  pkg:cpan/SPVM-Resource-Libpng@0.015
