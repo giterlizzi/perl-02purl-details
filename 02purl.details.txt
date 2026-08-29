@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 29 Aug 2026 08:29:58 GMT
-Line-Count: 258987
+Last-Updated: Sat, 29 Aug 2026 14:52:15 GMT
+Line-Count: 259000
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -4523,7 +4523,7 @@ Algorithm::TrunkClassifier::DataWrapper v1.0.1  pkg:cpan/Algorithm-TrunkClassifi
 Algorithm::TrunkClassifier::DecisionTrunk v1.0.1  pkg:cpan/Algorithm-TrunkClassifier@v1.0.1
 Algorithm::TrunkClassifier::FeatureSelection v1.0.1  pkg:cpan/Algorithm-TrunkClassifier@v1.0.1
 Algorithm::TrunkClassifier::Util   v1.0.1  pkg:cpan/Algorithm-TrunkClassifier@v1.0.1
-Algorithm::UrataniTakeda           v0.1.3  pkg:cpan/Algorithm-UrataniTakeda@v0.1.3
+Algorithm::UrataniTakeda           v0.1.4  pkg:cpan/Algorithm-UrataniTakeda@v0.1.4
 Algorithm::VSM                      1.70  pkg:cpan/Algorithm-VSM@1.70
 Algorithm::VectorClocks            v0.1.2  pkg:cpan/Algorithm-VectorClocks@v0.1.2
 Algorithm::Verhoeff                  0.3  pkg:cpan/Algorithm-Verhoeff@0.3
@@ -4880,7 +4880,7 @@ Alien::Sodium                      2.000  pkg:cpan/Alien-Sodium@2.000
 Alien::Sord                         0.01  pkg:cpan/Alien-Sord@0.01
 Alien::SunVox                       0.03  pkg:cpan/Alien-SunVox@0.03
 Alien::SwaggerUI                   0.002  pkg:cpan/Alien-SwaggerUI@0.002
-Alien::TALib                        0.18  pkg:cpan/Alien-TALib@0.18
+Alien::TALib                        0.19  pkg:cpan/Alien-TALib@0.19
 Alien::TDLib                        0.01  pkg:cpan/Alien-TDLib@0.01
 Alien::Taco                        0.003  pkg:cpan/Alien-Taco@0.003
 Alien::Taco::Object                0.003  pkg:cpan/Alien-Taco@0.003
@@ -37941,6 +37941,13 @@ Catmandu::XSD                       0.05  pkg:cpan/Catmandu-XSD@0.05
 Catmandu::Z3950                     0.06  pkg:cpan/Catmandu-Z3950@0.06
 Catmandu::Zotero                    0.07  pkg:cpan/Catmandu-Zotero@0.07
 Cave::Wrapper                      1.000001  pkg:cpan/Cave-Wrapper@1.000001
+Cavil::CLI                          0.01  pkg:cpan/Cavil-CLI@0.01
+Cavil::CLI::Cache                  undef  pkg:cpan/Cavil-CLI@0.01
+Cavil::CLI::Client                 undef  pkg:cpan/Cavil-CLI@0.01
+Cavil::CLI::Config                 undef  pkg:cpan/Cavil-CLI@0.01
+Cavil::CLI::Progress               undef  pkg:cpan/Cavil-CLI@0.01
+Cavil::CLI::Scan                   undef  pkg:cpan/Cavil-CLI@0.01
+Cavil::CLI::Util                   undef  pkg:cpan/Cavil-CLI@0.01
 Cavil::Matcher                      1.04  pkg:cpan/Cavil-Matcher@1.04
 Cavil::Matcher::FpIndex            undef  pkg:cpan/Cavil-Matcher@1.04
 Cavil::Matcher::Hash                1.04  pkg:cpan/Cavil-Matcher@1.04
@@ -194149,33 +194156,39 @@ Punk::OAuth2::Server                0.07  pkg:cpan/Punk-OAuth2@0.07
 Punk::OAuth2::Server::Store         0.07  pkg:cpan/Punk-OAuth2@0.07
 Punk::OAuth2::Tokens                0.07  pkg:cpan/Punk-OAuth2@0.07
 Punk::OAuth2::Util                  0.07  pkg:cpan/Punk-OAuth2@0.07
-Punk::Observe                       0.01  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::Alert               undef  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::Dashboard           undef  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::Decode              undef  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::Exec                undef  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::Flame               undef  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::Ingest              undef  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::Key                 undef  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::Limit               undef  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::Live                undef  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::Log                 undef  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::Map                 undef  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::Metric              undef  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::Plot                undef  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::Query               undef  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::Retain              undef  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::Route               undef  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::SVG                 undef  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::Scan                undef  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::SegIO               undef  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::Segment             undef  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::Store               undef  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::Target              undef  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::Tenant              undef  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::Trace               undef  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::View                undef  pkg:cpan/Punk-Observe@0.01
-Punk::Observe::WAL                 undef  pkg:cpan/Punk-Observe@0.01
+Punk::Observe                       0.02  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Alert               undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Backend             undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Backend::Pg         undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Backend::SQLite     undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Config              undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Dashboard           undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Decode              undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Evaluate            undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Exec                undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Flame               undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Health              undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Ingest              undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Key                 undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Limit               undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Live                undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Log                 undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Map                 undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Metric              undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Plot                undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Query               undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Retain              undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Route               undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::SVG                 undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Scan                undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::SegIO               undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Segment             undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Store               undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Target              undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Tenant              undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::Trace               undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::View                undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe::WAL                 undef  pkg:cpan/Punk-Observe@0.02
 Punk::OpenTelemetry                 0.08  pkg:cpan/Punk-OpenTelemetry@0.08
 Punk::OpenTelemetry::Config         0.07  pkg:cpan/Punk-OpenTelemetry@0.08
 Punk::OpenTelemetry::Encode         0.07  pkg:cpan/Punk-OpenTelemetry@0.08
@@ -194201,7 +194214,7 @@ Punk::Plugin::Idempotency           0.34  pkg:cpan/Punk@0.34
 Punk::Plugin::Mailer                0.04  pkg:cpan/Punk-Mailer@0.04
 Punk::Plugin::Metrics               0.34  pkg:cpan/Punk@0.34
 Punk::Plugin::OAuth2                0.07  pkg:cpan/Punk-OAuth2@0.07
-Punk::Plugin::Observe              undef  pkg:cpan/Punk-Observe@0.01
+Punk::Plugin::Observe              undef  pkg:cpan/Punk-Observe@0.02
 Punk::Plugin::OpenTelemetry         0.07  pkg:cpan/Punk-OpenTelemetry@0.08
 Punk::Plugin::Queue                 0.02  pkg:cpan/Punk-Queue@0.07
 Punk::Plugin::RequestId             0.34  pkg:cpan/Punk@0.34
