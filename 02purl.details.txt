@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 29 Aug 2026 19:03:22 GMT
-Line-Count: 259000
+Last-Updated: Sat, 29 Aug 2026 22:09:46 GMT
+Line-Count: 259001
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -45446,7 +45446,7 @@ Citrix::LaunchMesg                  0.25  pkg:cpan/Citrix@0.25
 Citrix::SessOp                      0.25  pkg:cpan/Citrix@0.25
 Citrix::SessionSet                  0.25  pkg:cpan/Citrix@0.25
 City                                   1  pkg:cpan/Class-Classgen-classgen@3.03
-ClamAV::Clamd                       0.06  pkg:cpan/ClamAV-Clamd@0.06
+ClamAV::Clamd                       0.07  pkg:cpan/ClamAV-Clamd@0.07
 ClamAV::Client                      0.11  pkg:cpan/ClamAV-Client@0.11
 ClamAV::Client::Error               0.11  pkg:cpan/ClamAV-Client@0.11
 ClamAV::Config                      0.11  pkg:cpan/ClamAV-Client@0.11
@@ -148971,7 +148971,7 @@ Object::Pluggable::Pipeline         1.29  pkg:cpan/Object-Pluggable@1.29
 Object::Previous                   1.1012  pkg:cpan/Object-Previous@1.1012
 Object::Properties                 1.003  pkg:cpan/Object-Properties@1.003
 Object::Properties::Base           1.003  pkg:cpan/Object-Properties@1.003
-Object::Proto                       0.20  pkg:cpan/Object-Proto@0.20
+Object::Proto                       0.21  pkg:cpan/Object-Proto@0.21
 Object::Proto::Install::Files      undef  pkg:cpan/Object-Proto@0.19
 Object::Proto::Sugar                0.06  pkg:cpan/Object-Proto-Sugar@0.06
 Object::Prototype                   0.02  pkg:cpan/Object-Prototype@0.02
@@ -194156,39 +194156,40 @@ Punk::OAuth2::Server                0.07  pkg:cpan/Punk-OAuth2@0.07
 Punk::OAuth2::Server::Store         0.07  pkg:cpan/Punk-OAuth2@0.07
 Punk::OAuth2::Tokens                0.07  pkg:cpan/Punk-OAuth2@0.07
 Punk::OAuth2::Util                  0.07  pkg:cpan/Punk-OAuth2@0.07
-Punk::Observe                       0.02  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Alert               undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Backend             undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Backend::Pg         undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Backend::SQLite     undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Config              undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Dashboard           undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Decode              undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Evaluate            undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Exec                undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Flame               undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Health              undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Ingest              undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Key                 undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Limit               undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Live                undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Log                 undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Map                 undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Metric              undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Plot                undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Query               undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Retain              undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Route               undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::SVG                 undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Scan                undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::SegIO               undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Segment             undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Store               undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Target              undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Tenant              undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::Trace               undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::View                undef  pkg:cpan/Punk-Observe@0.02
-Punk::Observe::WAL                 undef  pkg:cpan/Punk-Observe@0.02
+Punk::Observe                       0.03  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Alert               undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Backend             undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Backend::Pg         undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Backend::SQLite     undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Cache               undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Config              undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Dashboard           undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Decode              undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Evaluate            undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Exec                undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Flame               undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Health              undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Ingest              undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Key                 undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Limit               undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Live                undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Log                 undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Map                 undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Metric              undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Plot                undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Query               undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Retain              undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Route               undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::SVG                 undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Scan                undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::SegIO               undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Segment             undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Store               undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Target              undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Tenant              undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::Trace               undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::View                undef  pkg:cpan/Punk-Observe@0.03
+Punk::Observe::WAL                 undef  pkg:cpan/Punk-Observe@0.03
 Punk::OpenTelemetry                 0.08  pkg:cpan/Punk-OpenTelemetry@0.08
 Punk::OpenTelemetry::Config         0.07  pkg:cpan/Punk-OpenTelemetry@0.08
 Punk::OpenTelemetry::Encode         0.07  pkg:cpan/Punk-OpenTelemetry@0.08
@@ -194214,7 +194215,7 @@ Punk::Plugin::Idempotency           0.34  pkg:cpan/Punk@0.35
 Punk::Plugin::Mailer                0.04  pkg:cpan/Punk-Mailer@0.04
 Punk::Plugin::Metrics               0.34  pkg:cpan/Punk@0.35
 Punk::Plugin::OAuth2                0.07  pkg:cpan/Punk-OAuth2@0.07
-Punk::Plugin::Observe              undef  pkg:cpan/Punk-Observe@0.02
+Punk::Plugin::Observe              undef  pkg:cpan/Punk-Observe@0.03
 Punk::Plugin::OpenTelemetry         0.07  pkg:cpan/Punk-OpenTelemetry@0.08
 Punk::Plugin::Queue                 0.02  pkg:cpan/Punk-Queue@0.07
 Punk::Plugin::RequestId             0.34  pkg:cpan/Punk@0.35
