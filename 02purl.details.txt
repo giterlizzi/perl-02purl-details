@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 29 Aug 2026 00:18:39 GMT
+Last-Updated: Sat, 29 Aug 2026 08:29:58 GMT
 Line-Count: 258987
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -16647,7 +16647,7 @@ App::pmodinfo                       0.10  pkg:cpan/App-pmodinfo@0.10
 App::pmpatcher                      0.06  pkg:cpan/App-pmpatcher@0.06
 App::pmuninstall                    0.33  pkg:cpan/App-pmuninstall@0.33
 App::pnc                            0.02  pkg:cpan/App-pnc@0.02
-App::pod2gfm                       1.001000  pkg:cpan/App-pod2gfm@v1.1.0
+App::pod2gfm                       1.001001  pkg:cpan/App-pod2gfm@v1.1.1
 App::pod2pandoc                    0.003002  pkg:cpan/Pod-Pandoc@0.5.0
 App::pod2pdf                        0.42  pkg:cpan/pod2pdf@0.42
 App::pod2wp                        0.005  pkg:cpan/App-pod2wp@0.005
@@ -22384,13 +22384,13 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         v0.33.1  pkg:cpan/BarefootJS@0.33.1
-BarefootJS::Backend::Mojo          v0.33.1  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.33.1
-BarefootJS::Backend::Xslate        v0.33.1  pkg:cpan/BarefootJS-Backend-Xslate@0.33.1
-BarefootJS::Date                   v0.33.1  pkg:cpan/BarefootJS@0.33.1
-BarefootJS::DevReload              v0.33.1  pkg:cpan/BarefootJS@0.33.1
-BarefootJS::Evaluator              v0.33.1  pkg:cpan/BarefootJS@0.33.1
-BarefootJS::SearchParams           v0.33.1  pkg:cpan/BarefootJS@0.33.1
+BarefootJS                         v0.33.2  pkg:cpan/BarefootJS@0.33.2
+BarefootJS::Backend::Mojo          v0.33.2  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.33.2
+BarefootJS::Backend::Xslate        v0.33.2  pkg:cpan/BarefootJS-Backend-Xslate@0.33.2
+BarefootJS::Date                   v0.33.2  pkg:cpan/BarefootJS@0.33.2
+BarefootJS::DevReload              v0.33.2  pkg:cpan/BarefootJS@0.33.2
+BarefootJS::Evaluator              v0.33.2  pkg:cpan/BarefootJS@0.33.2
+BarefootJS::SearchParams           v0.33.2  pkg:cpan/BarefootJS@0.33.2
 BarefootJS::_TZProbe               0.029000  pkg:cpan/BarefootJS@0.29.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
@@ -30676,7 +30676,7 @@ Business::IS::PIN                   0.06  pkg:cpan/Business-IS-PIN@0.06
 Business::ISBN                     3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN10                   3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN13                   3.014  pkg:cpan/Business-ISBN@3.014
-Business::ISBN::Data               20260812.001  pkg:cpan/Business-ISBN-Data@20260812.001
+Business::ISBN::Data               20260827.001  pkg:cpan/Business-ISBN-Data@20260827.001
 Business::ISIN                      0.20  pkg:cpan/Business-ISIN@0.20?ext=tgz
 Business::ISMN                     1.205  pkg:cpan/Business-ISMN@1.205
 Business::ISMN::Data               1.205  pkg:cpan/Business-ISMN@1.205
@@ -98717,7 +98717,7 @@ HTML::Content::TokeParserTokenizer undef  pkg:cpan/HTML-Content-Extractor@0.01
 HTML::ContentExtractor              0.03  pkg:cpan/HTML-ContentExtractor@0.03
 HTML::Copy                          1.31  pkg:cpan/HTML-Copy@1.31
 HTML::CruftText                     0.02  pkg:cpan/HTML-CruftText@0.02
-HTML::D3                            0.09  pkg:cpan/HTML-D3@0.09
+HTML::D3                            0.10  pkg:cpan/HTML-D3@0.10
 HTML::DBForm                        1.05  pkg:cpan/HTML-DBForm@1.05
 HTML::DBForm::Search                1.05  pkg:cpan/HTML-DBForm@1.05
 HTML::DBForm::Search::DropDown      1.05  pkg:cpan/HTML-DBForm@1.05
@@ -115930,23 +115930,23 @@ Linux::Epoll                       0.019  pkg:cpan/Linux-Epoll@0.019
 Linux::Ethtool                      0.11  pkg:cpan/Linux-Ethtool@0.11
 Linux::Ethtool::Settings            0.11  pkg:cpan/Linux-Ethtool@0.11
 Linux::Ethtool::WOL                 0.11  pkg:cpan/Linux-Ethtool@0.11
-Linux::Event                       0.104  pkg:cpan/Linux-Event@0.104
-Linux::Event::Address              0.104  pkg:cpan/Linux-Event@0.104
+Linux::Event                       0.105  pkg:cpan/Linux-Event@0.105
+Linux::Event::Address              0.105  pkg:cpan/Linux-Event@0.105
 Linux::Event::Backend              0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Backend::Epoll       0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Bench                0.012  pkg:cpan/Linux-Event@0.012
-Linux::Event::Datagram             0.104  pkg:cpan/Linux-Event@0.104
-Linux::Event::Error                0.104  pkg:cpan/Linux-Event@0.104
-Linux::Event::Framer               0.104  pkg:cpan/Linux-Event@0.104
-Linux::Event::Framer::DecimalLength 0.104  pkg:cpan/Linux-Event@0.104
-Linux::Event::Framer::Delimiter    0.104  pkg:cpan/Linux-Event@0.104
-Linux::Event::Framer::Fixed        0.104  pkg:cpan/Linux-Event@0.104
-Linux::Event::Framer::LengthPrefix 0.104  pkg:cpan/Linux-Event@0.104
-Linux::Event::Framer::Netstring    0.104  pkg:cpan/Linux-Event@0.104
-Linux::Event::Framer::U32BE        0.104  pkg:cpan/Linux-Event@0.104
-Linux::Event::Framer::Varint       0.104  pkg:cpan/Linux-Event@0.104
-Linux::Event::Listener             0.104  pkg:cpan/Linux-Event@0.104
-Linux::Event::Loop                 0.104  pkg:cpan/Linux-Event@0.104
+Linux::Event::Datagram             0.105  pkg:cpan/Linux-Event@0.105
+Linux::Event::Error                0.105  pkg:cpan/Linux-Event@0.105
+Linux::Event::Framer               0.105  pkg:cpan/Linux-Event@0.105
+Linux::Event::Framer::DecimalLength 0.105  pkg:cpan/Linux-Event@0.105
+Linux::Event::Framer::Delimiter    0.105  pkg:cpan/Linux-Event@0.105
+Linux::Event::Framer::Fixed        0.105  pkg:cpan/Linux-Event@0.105
+Linux::Event::Framer::LengthPrefix 0.105  pkg:cpan/Linux-Event@0.105
+Linux::Event::Framer::Netstring    0.105  pkg:cpan/Linux-Event@0.105
+Linux::Event::Framer::U32BE        0.105  pkg:cpan/Linux-Event@0.105
+Linux::Event::Framer::Varint       0.105  pkg:cpan/Linux-Event@0.105
+Linux::Event::Listener             0.105  pkg:cpan/Linux-Event@0.105
+Linux::Event::Loop                 0.105  pkg:cpan/Linux-Event@0.105
 Linux::Event::Operation            0.010  pkg:cpan/Linux-Event@0.010
 Linux::Event::Pid                  0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Pid::Subscription    0.012  pkg:cpan/Linux-Event@0.012
@@ -115954,17 +115954,17 @@ Linux::Event::Proactor             0.010  pkg:cpan/Linux-Event@0.010
 Linux::Event::Proactor::Backend    0.010  pkg:cpan/Linux-Event@0.010
 Linux::Event::Proactor::Backend::Fake 0.010  pkg:cpan/Linux-Event@0.010
 Linux::Event::Proactor::Backend::Uring 0.010  pkg:cpan/Linux-Event@0.010
-Linux::Event::Process              0.104  pkg:cpan/Linux-Event@0.104
+Linux::Event::Process              0.105  pkg:cpan/Linux-Event@0.105
 Linux::Event::Reactor              0.010  pkg:cpan/Linux-Event@0.010
 Linux::Event::Reactor::Backend     0.010  pkg:cpan/Linux-Event@0.010
 Linux::Event::Reactor::Backend::Epoll 0.010  pkg:cpan/Linux-Event@0.010
 Linux::Event::Scheduler            0.012  pkg:cpan/Linux-Event@0.012
-Linux::Event::Signal               0.104  pkg:cpan/Linux-Event@0.104
+Linux::Event::Signal               0.105  pkg:cpan/Linux-Event@0.105
 Linux::Event::Signal::Subscription 0.012  pkg:cpan/Linux-Event@0.012
-Linux::Event::Stream               0.104  pkg:cpan/Linux-Event@0.104
-Linux::Event::TLS                  0.104  pkg:cpan/Linux-Event@0.104
-Linux::Event::Timer                0.104  pkg:cpan/Linux-Event@0.104
-Linux::Event::Wakeup               0.104  pkg:cpan/Linux-Event@0.104
+Linux::Event::Stream               0.105  pkg:cpan/Linux-Event@0.105
+Linux::Event::TLS                  0.105  pkg:cpan/Linux-Event@0.105
+Linux::Event::Timer                0.105  pkg:cpan/Linux-Event@0.105
+Linux::Event::Wakeup               0.105  pkg:cpan/Linux-Event@0.105
 Linux::Event::Watcher              0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::XS                   0.012  pkg:cpan/Linux-Event@0.012
 Linux::Ext2::Attributes             0.20  pkg:cpan/Linux-Ext2-Attributes@0.20
@@ -131920,8 +131920,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    v0.33.1  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.33.1
-Mojolicious::Plugin::BarefootJS::DevReload v0.33.1  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.33.1
+Mojolicious::Plugin::BarefootJS    v0.33.2  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.33.2
+Mojolicious::Plugin::BarefootJS::DevReload v0.33.2  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.33.2
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -190471,7 +190471,7 @@ Plack::Middleware::OAuth::UserInfo::GitHub undef  pkg:cpan/Plack-Middleware-OAut
 Plack::Middleware::OAuth::UserInfo::Google undef  pkg:cpan/Plack-Middleware-OAuth@0.10
 Plack::Middleware::OAuth::UserInfo::Live undef  pkg:cpan/Plack-Middleware-OAuth@0.10
 Plack::Middleware::OAuth::UserInfo::Twitter undef  pkg:cpan/Plack-Middleware-OAuth@0.10
-Plack::Middleware::OpenTelemetry   0.252280  pkg:cpan/Plack-Middleware-OpenTelemetry@0.252280
+Plack::Middleware::OpenTelemetry   0.262410  pkg:cpan/Plack-Middleware-OpenTelemetry@0.262410
 Plack::Middleware::Openqq::SelfTalkForbid undef  pkg:cpan/Webqq-Client@8.5.3
 Plack::Middleware::Options          0.01  pkg:cpan/Plack-Middleware-Options@0.01
 Plack::Middleware::OptionsOK        0.02  pkg:cpan/Plack-Middleware-OptionsOK@0.02
@@ -216119,7 +216119,7 @@ Stats::Fermi::FermiDiracStats      undef  pkg:cpan/Stats-Fermi@0.1.7
 Stats::Hawking                     0.001003  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HTRandom           undef  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HawkingTemperature undef  pkg:cpan/Stats-Hawking@0.1.3
-Stats::LikeR                        0.31  pkg:cpan/Stats-LikeR@0.31
+Stats::LikeR                       0.311  pkg:cpan/Stats-LikeR@0.311
 Stats::LikeR::Pred                  0.16  pkg:cpan/Stats-LikeR@0.16
 Stats::LikeR::col                   0.28  pkg:cpan/Stats-LikeR@0.28
 StatsView::Graph                    1.15  pkg:cpan/StatsView@1.4
