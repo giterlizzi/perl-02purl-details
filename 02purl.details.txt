@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 01 Sep 2026 19:06:32 GMT
+Last-Updated: Tue, 01 Sep 2026 22:16:25 GMT
 Line-Count: 259373
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -47247,10 +47247,10 @@ CloudHealth::API::ResultParser     undef  pkg:cpan/CloudHealth-API@0.01
 CloudHealth::CLI                    0.01  pkg:cpan/CloudHealth-CLI@0.01
 CloudPAN                           1.131740  pkg:cpan/CloudPAN@1.131740
 Cloudinary                          0.16  pkg:cpan/Cloudinary@0.16
-Clownfish                          0.007000  pkg:cpan/Clownfish@0.7.0
-Clownfish::Blob                    0.007000  pkg:cpan/Clownfish@0.7.0
-Clownfish::Boolean                 0.007000  pkg:cpan/Clownfish@0.7.0
-Clownfish::ByteBuf                 0.007000  pkg:cpan/Clownfish@0.7.0
+Clownfish                          0.008000  pkg:cpan/Clownfish@0.8.0
+Clownfish::Blob                    0.008000  pkg:cpan/Clownfish@0.8.0
+Clownfish::Boolean                 0.008000  pkg:cpan/Clownfish@0.8.0
+Clownfish::ByteBuf                 0.008000  pkg:cpan/Clownfish@0.8.0
 Clownfish::CFC                     0.008000  pkg:cpan/Clownfish-CFC@0.8.0
 Clownfish::CFC::Base               0.008000  pkg:cpan/Clownfish-CFC@0.8.0
 Clownfish::CFC::Binding::Core      0.008000  pkg:cpan/Clownfish-CFC@0.8.0
@@ -47286,22 +47286,22 @@ Clownfish::CFC::Perl::Build        0.008000  pkg:cpan/Clownfish-CFC@0.8.0
 Clownfish::CFC::Perl::Build::Charmonic 0.008000  pkg:cpan/Clownfish-CFC@0.8.0
 Clownfish::CFC::Test               0.008000  pkg:cpan/Clownfish-CFC@0.8.0
 Clownfish::CFC::Util               0.008000  pkg:cpan/Clownfish-CFC@0.8.0
-Clownfish::CharBuf                 0.007000  pkg:cpan/Clownfish@0.7.0
-Clownfish::Class                   0.007000  pkg:cpan/Clownfish@0.7.0
-Clownfish::Err                     0.007000  pkg:cpan/Clownfish@0.7.0
-Clownfish::Float                   0.007000  pkg:cpan/Clownfish@0.7.0
-Clownfish::Hash                    0.007000  pkg:cpan/Clownfish@0.7.0
-Clownfish::HashIterator            0.007000  pkg:cpan/Clownfish@0.7.0
-Clownfish::Integer                 0.007000  pkg:cpan/Clownfish@0.7.0
+Clownfish::CharBuf                 0.008000  pkg:cpan/Clownfish@0.8.0
+Clownfish::Class                   0.008000  pkg:cpan/Clownfish@0.8.0
+Clownfish::Err                     0.008000  pkg:cpan/Clownfish@0.8.0
+Clownfish::Float                   0.008000  pkg:cpan/Clownfish@0.8.0
+Clownfish::Hash                    0.008000  pkg:cpan/Clownfish@0.8.0
+Clownfish::HashIterator            0.008000  pkg:cpan/Clownfish@0.8.0
+Clownfish::Integer                 0.008000  pkg:cpan/Clownfish@0.8.0
 Clownfish::LockFreeRegistry        0.004004  pkg:cpan/Clownfish@0.4.4
-Clownfish::Method                  0.007000  pkg:cpan/Clownfish@0.7.0
+Clownfish::Method                  0.008000  pkg:cpan/Clownfish@0.8.0
 Clownfish::Num                     0.004004  pkg:cpan/Clownfish@0.4.4
-Clownfish::Obj                     0.007000  pkg:cpan/Clownfish@0.7.0
+Clownfish::Obj                     0.008000  pkg:cpan/Clownfish@0.8.0
 Clownfish::StackString             0.004004  pkg:cpan/Clownfish@0.4.4
-Clownfish::String                  0.007000  pkg:cpan/Clownfish@0.7.0
+Clownfish::String                  0.008000  pkg:cpan/Clownfish@0.8.0
 Clownfish::Util::StringHelper      0.005001  pkg:cpan/Clownfish@0.5.1
 Clownfish::VArray                  0.004004  pkg:cpan/Clownfish@0.4.4
-Clownfish::Vector                  0.007000  pkg:cpan/Clownfish@0.7.0
+Clownfish::Vector                  0.008000  pkg:cpan/Clownfish@0.8.0
 Clownfish::ViewByteBuf             0.004004  pkg:cpan/Clownfish@0.4.4
 Cluster::Init                      0.215  pkg:cpan/Cluster-Init@0.215
 Cluster::Init::Conf                undef  pkg:cpan/Cluster-Init@0.215
@@ -49879,15 +49879,15 @@ Crypt::Image::Util                 v1.0.1  pkg:cpan/Crypt-Image@v1.0.1
 Crypt::Imail                        0.01  pkg:cpan/Crypt-Imail@0.01
 Crypt::JWS                          0.06  pkg:cpan/Crypt-JWS@0.06
 Crypt::JWS::Key                     0.06  pkg:cpan/Crypt-JWS@0.06
-Crypt::JWS::OpenSSL                0.003  pkg:cpan/Crypt-JWS-OpenSSL@0.003
-Crypt::JWS::OpenSSL::Algorithm::ECC 0.003  pkg:cpan/Crypt-JWS-OpenSSL@0.003
-Crypt::JWS::OpenSSL::Algorithm::HMAC 0.003  pkg:cpan/Crypt-JWS-OpenSSL@0.003
-Crypt::JWS::OpenSSL::Algorithm::RSA 0.003  pkg:cpan/Crypt-JWS-OpenSSL@0.003
-Crypt::JWS::OpenSSL::Role::Algorithm 0.003  pkg:cpan/Crypt-JWS-OpenSSL@0.003
-Crypt::JWS::OpenSSL::Role::ECEncoder 0.003  pkg:cpan/Crypt-JWS-OpenSSL@0.003
-Crypt::JWS::OpenSSL::Role::Encoder 0.003  pkg:cpan/Crypt-JWS-OpenSSL@0.003
-Crypt::JWS::OpenSSL::Util::JWK     0.003  pkg:cpan/Crypt-JWS-OpenSSL@0.003
-Crypt::JWS::OpenSSL::Util::PEM     0.003  pkg:cpan/Crypt-JWS-OpenSSL@0.003
+Crypt::JWS::OpenSSL                0.004  pkg:cpan/Crypt-JWS-OpenSSL@0.004
+Crypt::JWS::OpenSSL::Algorithm::ECC 0.004  pkg:cpan/Crypt-JWS-OpenSSL@0.004
+Crypt::JWS::OpenSSL::Algorithm::HMAC 0.004  pkg:cpan/Crypt-JWS-OpenSSL@0.004
+Crypt::JWS::OpenSSL::Algorithm::RSA 0.004  pkg:cpan/Crypt-JWS-OpenSSL@0.004
+Crypt::JWS::OpenSSL::Role::Algorithm 0.004  pkg:cpan/Crypt-JWS-OpenSSL@0.004
+Crypt::JWS::OpenSSL::Role::ECEncoder 0.004  pkg:cpan/Crypt-JWS-OpenSSL@0.004
+Crypt::JWS::OpenSSL::Role::Encoder 0.004  pkg:cpan/Crypt-JWS-OpenSSL@0.004
+Crypt::JWS::OpenSSL::Util::JWK     0.004  pkg:cpan/Crypt-JWS-OpenSSL@0.004
+Crypt::JWS::OpenSSL::Util::PEM     0.004  pkg:cpan/Crypt-JWS-OpenSSL@0.004
 Crypt::JWT                         0.038  pkg:cpan/Crypt-JWT@0.038
 Crypt::Juniper                      0.02  pkg:cpan/Crypt-Juniper@0.02
 Crypt::KDF::BaseKDFGenerator       0.001  pkg:cpan/Crypt-KDF@0.02
@@ -121285,7 +121285,7 @@ MIDI::RtMidi::FFI::Device           0.13  pkg:cpan/MIDI-RtMidi-FFI@0.13
 MIDI::RtMidi::FFI::Device::In       0.13  pkg:cpan/MIDI-RtMidi-FFI@0.13
 MIDI::RtMidi::FFI::Device::Out      0.13  pkg:cpan/MIDI-RtMidi-FFI@0.13
 MIDI::RtMidi::ScorePlayer          0.0303  pkg:cpan/MIDI-RtMidi-ScorePlayer@0.0303
-MIDI::RtMidi::Util                 0.0201  pkg:cpan/MIDI-RtMidi-Util@0.0201
+MIDI::RtMidi::Util                 0.0301  pkg:cpan/MIDI-RtMidi-Util@0.0301
 MIDI::SP404sx                      1.000000  pkg:cpan/MIDI-SP404sx@v1.0.0
 MIDI::SP404sx::Constants           undef  pkg:cpan/MIDI-SP404sx@v1.0.0
 MIDI::SP404sx::MIDIIO              undef  pkg:cpan/MIDI-SP404sx@v1.0.0
