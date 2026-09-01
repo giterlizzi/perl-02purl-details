@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 31 Aug 2026 23:32:21 GMT
-Line-Count: 259308
+Last-Updated: Tue, 01 Sep 2026 02:59:25 GMT
+Line-Count: 259309
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5217,7 +5217,7 @@ Alien::libsdl2                      1.07  pkg:cpan/Alien-libsdl2@1.07
 Alien::libsecp256k1                0.060001  pkg:cpan/Alien-libsecp256k1@0.060001
 Alien::libsnappy                    0.04  pkg:cpan/Alien-libsnappy@0.04
 Alien::libsndfile                   0.01  pkg:cpan/Alien-libsndfile@0.01
-Alien::libssh                      0.001  pkg:cpan/Alien-libssh@0.001
+Alien::libssh                      0.002  pkg:cpan/Alien-libssh@0.002
 Alien::libswe                      0.009  pkg:cpan/Alien-libswe@0.009
 Alien::libt2t                       0.06  pkg:cpan/Test2-Tools-FFI@0.06
 Alien::libtermkey                   0.22  pkg:cpan/Alien-libtermkey@0.22
@@ -5611,28 +5611,28 @@ Ambassador::API::V2::Error         0.001  pkg:cpan/Ambassador-API-V2@0.001
 Ambassador::API::V2::Result        0.001  pkg:cpan/Ambassador-API-V2@0.001
 Ambassador::API::V2::Role::HasJSON 0.001  pkg:cpan/Ambassador-API-V2@0.001
 Ambassador::API::V2::Role::Response 0.001  pkg:cpan/Ambassador-API-V2@0.001
-AmberDB                            5.022000  pkg:cpan/AmberDB@5.22.0
-AmberDB::Array                     5.022000  pkg:cpan/AmberDB@5.22.0
-AmberDB::Base                      5.022000  pkg:cpan/AmberDB@5.22.0
-AmberDB::Cache                     5.022000  pkg:cpan/AmberDB@5.22.0
-AmberDB::Date                      5.022000  pkg:cpan/AmberDB@5.22.0
-AmberDB::Index                     5.022000  pkg:cpan/AmberDB@5.22.0
-AmberDB::Index::Facet              5.022000  pkg:cpan/AmberDB@5.22.0
-AmberDB::Index::Junk               5.022000  pkg:cpan/AmberDB@5.22.0
-AmberDB::Locale                    5.022000  pkg:cpan/AmberDB@5.22.0
-AmberDB::Locale::Currency          5.022000  pkg:cpan/AmberDB@5.22.0
-AmberDB::Locale::Lang::ar          5.022000  pkg:cpan/AmberDB@5.22.0
-AmberDB::Locale::Lang::az          5.022000  pkg:cpan/AmberDB@5.22.0
-AmberDB::Locale::Lang::de          5.022000  pkg:cpan/AmberDB@5.22.0
-AmberDB::Locale::Lang::en          5.022000  pkg:cpan/AmberDB@5.22.0
-AmberDB::Locale::Lang::es          5.022000  pkg:cpan/AmberDB@5.22.0
-AmberDB::Locale::Lang::fr          5.022000  pkg:cpan/AmberDB@5.22.0
-AmberDB::Locale::Lang::ja          5.022000  pkg:cpan/AmberDB@5.22.0
-AmberDB::Locale::Lang::ru          5.022000  pkg:cpan/AmberDB@5.22.0
-AmberDB::Locale::Lang::tr          5.022000  pkg:cpan/AmberDB@5.22.0
-AmberDB::String                    5.022000  pkg:cpan/AmberDB@5.22.0
-AmberDB::Tools                     5.022000  pkg:cpan/AmberDB@5.22.0
-AmberDB::Transact                  5.022000  pkg:cpan/AmberDB@5.22.0
+AmberDB                            5.022001  pkg:cpan/AmberDB@5.22.1
+AmberDB::Array                     5.022001  pkg:cpan/AmberDB@5.22.1
+AmberDB::Base                      5.022001  pkg:cpan/AmberDB@5.22.1
+AmberDB::Cache                     5.022001  pkg:cpan/AmberDB@5.22.1
+AmberDB::Date                      5.022001  pkg:cpan/AmberDB@5.22.1
+AmberDB::Index                     5.022001  pkg:cpan/AmberDB@5.22.1
+AmberDB::Index::Facet              5.022001  pkg:cpan/AmberDB@5.22.1
+AmberDB::Index::Junk               5.022001  pkg:cpan/AmberDB@5.22.1
+AmberDB::Locale                    5.022001  pkg:cpan/AmberDB@5.22.1
+AmberDB::Locale::Currency          5.022001  pkg:cpan/AmberDB@5.22.1
+AmberDB::Locale::Lang::ar          5.022001  pkg:cpan/AmberDB@5.22.1
+AmberDB::Locale::Lang::az          5.022001  pkg:cpan/AmberDB@5.22.1
+AmberDB::Locale::Lang::de          5.022001  pkg:cpan/AmberDB@5.22.1
+AmberDB::Locale::Lang::en          5.022001  pkg:cpan/AmberDB@5.22.1
+AmberDB::Locale::Lang::es          5.022001  pkg:cpan/AmberDB@5.22.1
+AmberDB::Locale::Lang::fr          5.022001  pkg:cpan/AmberDB@5.22.1
+AmberDB::Locale::Lang::ja          5.022001  pkg:cpan/AmberDB@5.22.1
+AmberDB::Locale::Lang::ru          5.022001  pkg:cpan/AmberDB@5.22.1
+AmberDB::Locale::Lang::tr          5.022001  pkg:cpan/AmberDB@5.22.1
+AmberDB::String                    5.022001  pkg:cpan/AmberDB@5.22.1
+AmberDB::Tools                     5.022001  pkg:cpan/AmberDB@5.22.1
+AmberDB::Transact                  5.022001  pkg:cpan/AmberDB@5.22.1
 AmbientOrb::Serial                  0.02  pkg:cpan/AmbientOrb-Serial@0.02
 Ambrosia                            0.01  pkg:cpan/Ambrosia@0.010
 Ambrosia::Addons::Accessor          0.01  pkg:cpan/Ambrosia@0.010
@@ -49560,12 +49560,12 @@ Crypt::ARIA                        0.004  pkg:cpan/Crypt-ARIA@0.004
 Crypt::ASN1                        0.091  pkg:cpan/CryptX@0.091
 Crypt::Affine                       0.15  pkg:cpan/Crypt-Affine@0.15
 Crypt::Affine::Params               0.15  pkg:cpan/Crypt-Affine@0.15
-Crypt::Age                         0.002  pkg:cpan/Crypt-Age@0.002
-Crypt::Age::Header                 0.002  pkg:cpan/Crypt-Age@0.002
-Crypt::Age::Keys                   0.002  pkg:cpan/Crypt-Age@0.002
-Crypt::Age::Primitives             0.002  pkg:cpan/Crypt-Age@0.002
-Crypt::Age::Stanza                 0.002  pkg:cpan/Crypt-Age@0.002
-Crypt::Age::Stanza::X25519         0.002  pkg:cpan/Crypt-Age@0.002
+Crypt::Age                         0.003  pkg:cpan/Crypt-Age@0.003
+Crypt::Age::Header                 0.003  pkg:cpan/Crypt-Age@0.003
+Crypt::Age::Keys                   0.003  pkg:cpan/Crypt-Age@0.003
+Crypt::Age::Primitives             0.003  pkg:cpan/Crypt-Age@0.003
+Crypt::Age::Stanza                 0.003  pkg:cpan/Crypt-Age@0.003
+Crypt::Age::Stanza::X25519         0.003  pkg:cpan/Crypt-Age@0.003
 Crypt::AllOrNothing                 0.10  pkg:cpan/Crypt-AllOrNothing@0.10
 Crypt::AllOrNothing::Util           0.09  pkg:cpan/Crypt-AllOrNothing-Util@0.09
 Crypt::Anubis                        1.0  pkg:cpan/Crypt-Anubis@1.0.4
@@ -121235,6 +121235,7 @@ MIDI::RtMidi::FFI::Device           0.13  pkg:cpan/MIDI-RtMidi-FFI@0.13
 MIDI::RtMidi::FFI::Device::In       0.13  pkg:cpan/MIDI-RtMidi-FFI@0.13
 MIDI::RtMidi::FFI::Device::Out      0.13  pkg:cpan/MIDI-RtMidi-FFI@0.13
 MIDI::RtMidi::ScorePlayer          0.0303  pkg:cpan/MIDI-RtMidi-ScorePlayer@0.0303
+MIDI::RtMidi::Util                 0.0200  pkg:cpan/MIDI-RtMidi-Util@0.0200
 MIDI::SP404sx                      1.000000  pkg:cpan/MIDI-SP404sx@v1.0.0
 MIDI::SP404sx::Constants           undef  pkg:cpan/MIDI-SP404sx@v1.0.0
 MIDI::SP404sx::MIDIIO              undef  pkg:cpan/MIDI-SP404sx@v1.0.0
@@ -143037,9 +143038,9 @@ Net::LibNFS::X::Generic            undef  pkg:cpan/Net-LibNFS@0.05
 Net::LibNFS::X::NFSError           undef  pkg:cpan/Net-LibNFS@0.05
 Net::LibNIDS                        0.14  pkg:cpan/Net-LibNIDS@0.14
 Net::LibResolv                      0.03  pkg:cpan/Net-LibResolv@0.03
-Net::LibSSH                        0.002  pkg:cpan/Net-LibSSH@0.002
-Net::LibSSH::Channel               0.002  pkg:cpan/Net-LibSSH@0.002
-Net::LibSSH::SFTP                  0.002  pkg:cpan/Net-LibSSH@0.002
+Net::LibSSH                        0.003  pkg:cpan/Net-LibSSH@0.003
+Net::LibSSH::Channel               0.003  pkg:cpan/Net-LibSSH@0.003
+Net::LibSSH::SFTP                  0.003  pkg:cpan/Net-LibSSH@0.003
 Net::Libdnet                       0.990  pkg:cpan/Net-Libdnet@0.990
 Net::Libdnet6                       0.28  pkg:cpan/Net-Libdnet6@0.28
 Net::Libdnet::Arp                  undef  pkg:cpan/Net-Libdnet@0.990
@@ -199946,7 +199947,7 @@ Rex::Interface::Connection::Base   v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Connection::Fake   v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Connection::HTTP   v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Connection::HTTPS  v1.16.1  pkg:cpan/Rex@1.16.1
-Rex::Interface::Connection::LibSSH 0.002  pkg:cpan/Rex-LibSSH@0.002
+Rex::Interface::Connection::LibSSH 0.003  pkg:cpan/Rex-LibSSH@0.003
 Rex::Interface::Connection::Local  v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Connection::OpenSSH v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Connection::SSH    v1.16.1  pkg:cpan/Rex@1.16.1
@@ -199954,7 +199955,7 @@ Rex::Interface::Exec               v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Exec::Base         v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Exec::HTTP         v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Exec::IOReader     v1.16.1  pkg:cpan/Rex@1.16.1
-Rex::Interface::Exec::LibSSH       0.002  pkg:cpan/Rex-LibSSH@0.002
+Rex::Interface::Exec::LibSSH       0.003  pkg:cpan/Rex-LibSSH@0.003
 Rex::Interface::Exec::Local        v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Exec::OpenSSH      v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Exec::SSH          v1.16.1  pkg:cpan/Rex@1.16.1
@@ -199965,7 +199966,7 @@ Rex::Interface::Executor::Default  v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::File               v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::File::Base         v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::File::HTTP         v1.16.1  pkg:cpan/Rex@1.16.1
-Rex::Interface::File::LibSSH       0.002  pkg:cpan/Rex-LibSSH@0.002
+Rex::Interface::File::LibSSH       0.003  pkg:cpan/Rex-LibSSH@0.003
 Rex::Interface::File::Local        v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::File::OpenSSH      v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::File::SSH          v1.16.1  pkg:cpan/Rex@1.16.1
@@ -199973,7 +199974,7 @@ Rex::Interface::File::Sudo         v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Fs                 v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Fs::Base           v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Fs::HTTP           v1.16.1  pkg:cpan/Rex@1.16.1
-Rex::Interface::Fs::LibSSH         0.002  pkg:cpan/Rex-LibSSH@0.002
+Rex::Interface::Fs::LibSSH         0.003  pkg:cpan/Rex-LibSSH@0.003
 Rex::Interface::Fs::Local          v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Fs::OpenSSH        v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Fs::SSH            v1.16.1  pkg:cpan/Rex@1.16.1
@@ -200036,7 +200037,7 @@ Rex::JobControl::Mojolicious::Plugin::User 0.018000  pkg:cpan/Rex-JobControl@0.1
 Rex::JobControl::Nodes             0.018000  pkg:cpan/Rex-JobControl@0.18.0
 Rex::JobControl::Project           0.018000  pkg:cpan/Rex-JobControl@0.18.0
 Rex::JobControl::Rexfile           0.018000  pkg:cpan/Rex-JobControl@0.18.0
-Rex::LibSSH                        0.002  pkg:cpan/Rex-LibSSH@0.002
+Rex::LibSSH                        0.003  pkg:cpan/Rex-LibSSH@0.003
 Rex::Logger                        v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Notify                        v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Output                        v1.16.1  pkg:cpan/Rex@1.16.1
