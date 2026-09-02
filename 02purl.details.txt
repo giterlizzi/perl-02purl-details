@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 02 Sep 2026 08:17:07 GMT
+Last-Updated: Wed, 02 Sep 2026 13:59:21 GMT
 Line-Count: 259376
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -49412,8 +49412,8 @@ Courriel::Types                     0.49  pkg:cpan/Courriel@0.49
 Courriel::Types::Internal           0.49  pkg:cpan/Courriel@0.49
 Cow                                undef  pkg:cpan/Outthentic@0.4.7
 Coy                                 0.06  pkg:cpan/Coy@0.06
-Cpanel::JSON::XS                    4.43  pkg:cpan/Cpanel-JSON-XS@4.43
-Cpanel::JSON::XS::Type             undef  pkg:cpan/Cpanel-JSON-XS@4.43
+Cpanel::JSON::XS                    4.44  pkg:cpan/Cpanel-JSON-XS@4.44
+Cpanel::JSON::XS::Type             undef  pkg:cpan/Cpanel-JSON-XS@4.44
 CracTools                          1.251  pkg:cpan/CracTools@1.251
 CracTools::Annotator               1.251  pkg:cpan/CracTools@1.251
 CracTools::App                     1.251  pkg:cpan/CracTools@1.251
@@ -50994,8 +50994,8 @@ Cucumber::TagExpressions::NotNode  v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.
 Cucumber::TagExpressions::OrNode   v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.148
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
-Curl::Impersonate                   0.01  pkg:cpan/Curl-Impersonate@0.01
-Curl::Impersonate::Multi           undef  pkg:cpan/Curl-Impersonate@0.01
+Curl::Impersonate                   0.02  pkg:cpan/Curl-Impersonate@0.02
+Curl::Impersonate::Multi           undef  pkg:cpan/Curl-Impersonate@0.02
 Curses                              1.46  pkg:cpan/Curses@1.46
 Curses::Application                  0.2  pkg:cpan/CursesApplication@0.2
 Curses::Field                       1.46  pkg:cpan/Curses@1.46
@@ -194278,10 +194278,10 @@ Provision::Unix::VirtualOS::Xen::Config  1.08  pkg:cpan/Provision-Unix@1.08
 Provision::Unix::Web                1.08  pkg:cpan/Provision-Unix@1.08
 Provision::Unix::Web::Apache        1.08  pkg:cpan/Provision-Unix@1.08
 Provision::Unix::Web::Lighttpd      1.08  pkg:cpan/Provision-Unix@1.08
-Proxy::Impersonate                  0.01  pkg:cpan/Proxy-Impersonate@0.01
-Proxy::Impersonate::Cert           undef  pkg:cpan/Proxy-Impersonate@0.01
-Proxy::Impersonate::Connection     undef  pkg:cpan/Proxy-Impersonate@0.01
-Proxy::Impersonate::HTTP           undef  pkg:cpan/Proxy-Impersonate@0.01
+Proxy::Impersonate                  0.02  pkg:cpan/Proxy-Impersonate@0.02
+Proxy::Impersonate::Cert           undef  pkg:cpan/Proxy-Impersonate@0.02
+Proxy::Impersonate::Connection     undef  pkg:cpan/Proxy-Impersonate@0.02
+Proxy::Impersonate::HTTP           undef  pkg:cpan/Proxy-Impersonate@0.02
 Pry                                0.003001  pkg:cpan/Pry@0.003001
 Psh                                  1.8  pkg:cpan/psh@1.8
 Psh::Builtins::Alias               undef  pkg:cpan/psh@1.8.1
@@ -218400,8 +218400,8 @@ Syntax::Keyword::Val               0.001  pkg:cpan/Syntax-Keyword-Val@0.002
 Syntax::Keyword::Wielding          0.001001  pkg:cpan/Syntax-Keyword-Wielding@0.001001
 Syntax::Operator::Divides           0.08  pkg:cpan/Syntax-Operator-Divides@0.08
 Syntax::Operator::Elem              0.10  pkg:cpan/Syntax-Operator-In@0.10
-Syntax::Operator::Eqr               0.10  pkg:cpan/Syntax-Operator-Equ@0.10
-Syntax::Operator::Equ               0.10  pkg:cpan/Syntax-Operator-Equ@0.10
+Syntax::Operator::Eqr               0.11  pkg:cpan/Syntax-Operator-Equ@0.11
+Syntax::Operator::Equ               0.11  pkg:cpan/Syntax-Operator-Equ@0.11
 Syntax::Operator::ExistsOr          0.03  pkg:cpan/Syntax-Operator-ExistsOr@0.03
 Syntax::Operator::Identical         0.05  pkg:cpan/Syntax-Operator-Identical@0.05
 Syntax::Operator::In                0.10  pkg:cpan/Syntax-Operator-In@0.10
