@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 04 Sep 2026 13:54:32 GMT
+Last-Updated: Fri, 04 Sep 2026 17:18:50 GMT
 Line-Count: 259453
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -4959,7 +4959,7 @@ Alien::Hush                        0.8888  pkg:cpan/Alien-Hush@0.8889
 Alien::IE7                         v0.9.4  pkg:cpan/Alien-IE7@v0.9.4
 Alien::IUP                         0.711  pkg:cpan/Alien-IUP@0.711
 Alien::Iconv                       1.12001  pkg:cpan/Alien-Iconv@1.12001
-Alien::ImageMagick                  0.10  pkg:cpan/Alien-ImageMagick@0.10
+Alien::ImageMagick                  0.11  pkg:cpan/Alien-ImageMagick@0.11
 Alien::InteractiveBrokers          9.6602  pkg:cpan/Alien-InteractiveBrokers@9.6602
 Alien::JPCRE2                      0.012000  pkg:cpan/Alien-JPCRE2@0.012000
 Alien::Jena                         0.01  pkg:cpan/Alien-Jena@0.01
@@ -17010,7 +17010,7 @@ App::safer                         0.003  pkg:cpan/App-safer@0.003
 App::saikoro                       0.300  pkg:cpan/App-saikoro@0.300
 App::samelines                     0.033  pkg:cpan/App-samelines@0.033
 App::samesize                      0.018  pkg:cpan/App-samesize@0.018
-App::sbozyp                        undef  pkg:cpan/App-sbozyp@v1.9.0
+App::sbozyp                        undef  pkg:cpan/App-sbozyp@v1.10.1
 App::scan_prereqs_cpanfile          1.10  pkg:cpan/App-scan_prereqs_cpanfile@1.10
 App::scanrdeps                      0.02  pkg:cpan/App-scanrdeps@0.02
 App::scrape                         0.08  pkg:cpan/App-scrape@0.08
@@ -53888,11 +53888,11 @@ DBIx::Librarian::Statement           0.4  pkg:cpan/DBIx-Librarian@0.6
 DBIx::Librarian::Statement::SelectExactlyOne   0.4  pkg:cpan/DBIx-Librarian@0.6
 DBIx::Librarian::Statement::SelectMany   0.4  pkg:cpan/DBIx-Librarian@0.6
 DBIx::Librarian::Statement::SelectOne   0.4  pkg:cpan/DBIx-Librarian@0.6
-DBIx::Lite                          0.38  pkg:cpan/DBIx-Lite@0.38
-DBIx::Lite::ResultSet               0.38  pkg:cpan/DBIx-Lite@0.38
-DBIx::Lite::Row                     0.38  pkg:cpan/DBIx-Lite@0.38
-DBIx::Lite::Schema                  0.38  pkg:cpan/DBIx-Lite@0.38
-DBIx::Lite::Schema::Table           0.38  pkg:cpan/DBIx-Lite@0.38
+DBIx::Lite                          0.39  pkg:cpan/DBIx-Lite@0.39
+DBIx::Lite::ResultSet               0.39  pkg:cpan/DBIx-Lite@0.39
+DBIx::Lite::Row                     0.39  pkg:cpan/DBIx-Lite@0.39
+DBIx::Lite::Schema                  0.39  pkg:cpan/DBIx-Lite@0.39
+DBIx::Lite::Schema::Table           0.39  pkg:cpan/DBIx-Lite@0.39
 DBIx::Locker                       1.103  pkg:cpan/DBIx-Locker@1.103
 DBIx::Locker::Lock                 1.103  pkg:cpan/DBIx-Locker@1.103
 DBIx::Log4perl                      0.26  pkg:cpan/DBIx-Log4perl@0.26
@@ -112430,7 +112430,7 @@ LWP::DebugFile                      6.83  pkg:cpan/libwww-perl@6.83
 LWP::FastRobot                      1.05  pkg:cpan/Link_Controller@0.037
 LWP::Iterator::UserAgent           0.000001  pkg:cpan/dotReader@v0.11.2
 LWP::JSON::Tiny                    0.014  pkg:cpan/LWP-JSON-Tiny@0.014
-LWP::MediaTypes                     6.04  pkg:cpan/LWP-MediaTypes@6.04
+LWP::MediaTypes                     6.05  pkg:cpan/LWP-MediaTypes@6.05
 LWP::MemberMixin                    6.83  pkg:cpan/libwww-perl@6.83
 LWP::NoStopRobot                    1.10  pkg:cpan/Link_Controller@0.037
 LWP::Online                         1.08  pkg:cpan/LWP-Online@1.08
@@ -211001,7 +211001,7 @@ Shell::Carapace::Shell             undef  pkg:cpan/Shell-Carapace@0.22
 Shell::Cmd                          3.06  pkg:cpan/Shell-Cmd@3.06
 Shell::Command                      0.06  pkg:cpan/Shell-Command@0.06
 Shell::Completer                   0.002  pkg:cpan/Shell-Completer@0.002
-Shell::Config::Generate             0.34  pkg:cpan/Shell-Config-Generate@0.34
+Shell::Config::Generate             0.35  pkg:cpan/Shell-Config-Generate@0.35
 Shell::Connection                  undef  pkg:cpan/Orac-alpha@1.2.6
 Shell::Current                     undef  pkg:cpan/Orac-alpha@1.2.6
 Shell::Do                            1.0  pkg:cpan/Orac-alpha@1.2.6
