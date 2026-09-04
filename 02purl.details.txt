@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 04 Sep 2026 17:18:50 GMT
-Line-Count: 259453
+Last-Updated: Fri, 04 Sep 2026 20:07:35 GMT
+Line-Count: 259454
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -17526,6 +17526,7 @@ Archive::Cpio::OldBinary           undef  pkg:cpan/Archive-Cpio@0.10
 Archive::Dir                        0.03  pkg:cpan/Archive-Merged@0.03
 Archive::Extract                    0.90  pkg:cpan/Archive-Extract@0.90
 Archive::Extract::Libarchive        0.38  pkg:cpan/Archive-Extract-Libarchive@0.38
+Archive::HAR::Writer                0.01  pkg:cpan/Archive-HAR-Writer@0.01
 Archive::Har                        0.21  pkg:cpan/Archive-Har@0.21
 Archive::Har::Browser               0.21  pkg:cpan/Archive-Har@0.21
 Archive::Har::Creator               0.21  pkg:cpan/Archive-Har@0.21
@@ -59494,15 +59495,15 @@ Data::ISO8583                       2.44  pkg:cpan/Data-ISO8583@2.44
 Data::ISO8583::VISA                 2.44  pkg:cpan/Data-ISO8583@2.44
 Data::Icon                          0.02  pkg:cpan/Data-Icon@0.02
 Data::IconText                     v0.8.0  pkg:cpan/Data-IconText@v0.08
-Data::Identifier                   v0.35.0  pkg:cpan/Data-Identifier@v0.35
-Data::Identifier::Cloudlet         v0.35.0  pkg:cpan/Data-Identifier@v0.35
-Data::Identifier::Generate         v0.35.0  pkg:cpan/Data-Identifier@v0.35
-Data::Identifier::Interface::Known v0.35.0  pkg:cpan/Data-Identifier@v0.35
-Data::Identifier::Interface::Simple v0.35.0  pkg:cpan/Data-Identifier@v0.35
-Data::Identifier::Interface::Subobjects v0.35.0  pkg:cpan/Data-Identifier@v0.35
-Data::Identifier::Interface::Userdata v0.35.0  pkg:cpan/Data-Identifier@v0.35
-Data::Identifier::Util             v0.35.0  pkg:cpan/Data-Identifier@v0.35
-Data::Identifier::Wellknown        v0.35.0  pkg:cpan/Data-Identifier@v0.35
+Data::Identifier                   v0.36.0  pkg:cpan/Data-Identifier@v0.36
+Data::Identifier::Cloudlet         v0.36.0  pkg:cpan/Data-Identifier@v0.36
+Data::Identifier::Generate         v0.36.0  pkg:cpan/Data-Identifier@v0.36
+Data::Identifier::Interface::Known v0.36.0  pkg:cpan/Data-Identifier@v0.36
+Data::Identifier::Interface::Simple v0.36.0  pkg:cpan/Data-Identifier@v0.36
+Data::Identifier::Interface::Subobjects v0.36.0  pkg:cpan/Data-Identifier@v0.36
+Data::Identifier::Interface::Userdata v0.36.0  pkg:cpan/Data-Identifier@v0.36
+Data::Identifier::Util             v0.36.0  pkg:cpan/Data-Identifier@v0.36
+Data::Identifier::Wellknown        v0.36.0  pkg:cpan/Data-Identifier@v0.36
 Data::Image                         0.06  pkg:cpan/Data-Image@0.06
 Data::Importer                     0.006  pkg:cpan/Data-Importer@0.006
 Data::Importer::Iterator           0.006  pkg:cpan/Data-Importer@0.006
@@ -103406,13 +103407,13 @@ Hyper::Developer::Model::Viewer    0.100  pkg:cpan/Hyper-Developer@0.07
 Hyper::Developer::Server           undef  pkg:cpan/Hyper-Developer@0.07
 HyperWave::CSP                     0.003001  pkg:cpan/HyperWave-CSP@0.03.1
 HyperWave::CSP::Message            undef  pkg:cpan/HyperWave-CSP@0.03.1
-Hyperman                            0.42  pkg:cpan/Hyperman@0.42
-Hyperman::Event::Epoll              0.42  pkg:cpan/Hyperman@0.42
-Hyperman::Event::IOUring            0.42  pkg:cpan/Hyperman@0.42
-Hyperman::Event::Kqueue             0.42  pkg:cpan/Hyperman@0.42
-Hyperman::Event::Poll               0.42  pkg:cpan/Hyperman@0.42
-Hyperman::Future                    0.42  pkg:cpan/Hyperman@0.42
-Hyperman::Loop                      0.42  pkg:cpan/Hyperman@0.42
+Hyperman                            0.43  pkg:cpan/Hyperman@0.43
+Hyperman::Event::Epoll              0.43  pkg:cpan/Hyperman@0.43
+Hyperman::Event::IOUring            0.43  pkg:cpan/Hyperman@0.43
+Hyperman::Event::Kqueue             0.43  pkg:cpan/Hyperman@0.43
+Hyperman::Event::Poll               0.43  pkg:cpan/Hyperman@0.43
+Hyperman::Future                    0.43  pkg:cpan/Hyperman@0.43
+Hyperman::Loop                      0.43  pkg:cpan/Hyperman@0.43
 Hyperscan                           0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Database                 0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Matcher                  0.04  pkg:cpan/Hyperscan@0.04
@@ -136272,7 +136273,7 @@ Music::ChordBot::Song               0.01  pkg:cpan/Music-ChordBot@0.91
 Music::Config                      undef  pkg:cpan/Gtk2-Ex-FormFactory@0.67
 Music::CreatingRhythms             0.0808  pkg:cpan/Music-CreatingRhythms@0.0808
 Music::DBI                         undef  pkg:cpan/Gtk2-Ex-FormFactory@0.67
-Music::Dataset::ChordProgressions  0.0400  pkg:cpan/Music-Dataset-ChordProgressions@0.0400
+Music::Dataset::ChordProgressions  0.0500  pkg:cpan/Music-Dataset-ChordProgressions@0.0500
 Music::Dice                        0.0206  pkg:cpan/Music-Dice@0.0206
 Music::Drummer                     0.7015  pkg:cpan/Music-Drummer@0.7015
 Music::Duration                    0.0901  pkg:cpan/Music-Duration@0.0901
@@ -190503,7 +190504,7 @@ Plack::Handler::H2::Writer         undef  pkg:cpan/Plack-Handler-H2@0.0.5
 Plack::Handler::HTTP::Server::PSGI undef  pkg:cpan/Plack@1.0054
 Plack::Handler::HTTP::Server::Simple  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
 Plack::Handler::HTTP::Server::Simple::PSGIServer  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
-Plack::Handler::Hyperman            0.42  pkg:cpan/Hyperman@0.42
+Plack::Handler::Hyperman            0.43  pkg:cpan/Hyperman@0.43
 Plack::Handler::Martian             0.08  pkg:cpan/Martian@0.08
 Plack::Handler::Message::Passing   undef  pkg:cpan/Message-Passing-PSGI@0.001
 Plack::Handler::Monoceros          undef  pkg:cpan/Monoceros@0.29
@@ -197493,7 +197494,7 @@ RT::Extension::AI::Provider        undef  pkg:cpan/RT-Extension-AI@0.07
 RT::Extension::AI::Provider::Claude undef  pkg:cpan/RT-Extension-AI@0.07
 RT::Extension::AI::Provider::Gemini undef  pkg:cpan/RT-Extension-AI@0.07
 RT::Extension::AI::Provider::OpenAI undef  pkg:cpan/RT-Extension-AI@0.07
-RT::Extension::AWS::Assets          0.08  pkg:cpan/RT-Extension-AWS-Assets@0.08
+RT::Extension::AWS::Assets          0.09  pkg:cpan/RT-Extension-AWS-Assets@0.09
 RT::Extension::ActivityReports      2.00  pkg:cpan/RT-Extension-ActivityReports@2.00
 RT::Extension::AddAdminCcsOnQueueChange  1.01  pkg:cpan/RT-Extension-AddAdminCcsOnQueueChange@1.01
 RT::Extension::AddAttachmentsFromTransactions  2.10  pkg:cpan/RT-Extension-AddAttachmentsFromTransactions@2.10
