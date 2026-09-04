@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 04 Sep 2026 02:22:39 GMT
-Line-Count: 259417
+Last-Updated: Fri, 04 Sep 2026 08:22:11 GMT
+Line-Count: 259447
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5144,9 +5144,19 @@ Alien::Wslay                         0.3  pkg:cpan/Alien-Wslay@0.3
 Alien::XGBoost                      0.05  pkg:cpan/Alien-XGBoost@0.05
 Alien::XInputSimulator             0.001  pkg:cpan/Alien-XInputSimulator@0.001
 Alien::XPA                         v2.1.20.7  pkg:cpan/Alien-XPA@v2.1.20.7
-Alien::Xmake                       v0.9.3  pkg:cpan/Alien-Xmake@v0.9.3
-Alien::Xrepo                       v0.9.3  pkg:cpan/Alien-Xmake@v0.9.3
-Alien::Xrepo::Base                 v0.9.3  pkg:cpan/Alien-Xmake@v0.9.3
+Alien::Xmake                       v0.9.4  pkg:cpan/Alien-Xmake@v0.9.4
+Alien::Xmake::Project              v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
+Alien::Xmake::Project::Namespace   v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
+Alien::Xmake::Project::Option      v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
+Alien::Xmake::Project::Package     v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
+Alien::Xmake::Project::Rule        v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
+Alien::Xmake::Project::Target      v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
+Alien::Xmake::Project::Toolchain   v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
+Alien::Xmake::Project::Util        v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
+Alien::Xmake::Project::Xpack       v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
+Alien::Xmake::Project::XpackComponent v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
+Alien::Xrepo                       v0.9.4  pkg:cpan/Alien-Xmake@v0.9.4
+Alien::Xrepo::Base                 v0.9.4  pkg:cpan/Alien-Xmake@v0.9.4
 Alien::Xrepo::Base::Alt            v0.9.1  pkg:cpan/Alien-Xmake@v0.9.1
 Alien::Xrepo::Base::Builder        v0.9.1  pkg:cpan/Alien-Xmake@v0.9.1
 Alien::Xrepo::PackageInfo          v0.9.1  pkg:cpan/Alien-Xmake@v0.9.1
@@ -36899,19 +36909,19 @@ Catalyst::Script::Server           undef  pkg:cpan/Catalyst-Runtime@5.90132
 Catalyst::Script::Test             undef  pkg:cpan/Catalyst-Runtime@5.90132
 Catalyst::ScriptRole               undef  pkg:cpan/Catalyst-Runtime@5.90132
 Catalyst::ScriptRunner             undef  pkg:cpan/Catalyst-Runtime@5.90132
-Catalyst::Seal                      0.02  pkg:cpan/Catalyst-Seal@0.02
-Catalyst::Seal::Accessors           0.01  pkg:cpan/Catalyst-Seal@0.02
-Catalyst::Seal::ClassData           0.01  pkg:cpan/Catalyst-Seal@0.02
-Catalyst::Seal::Construct           0.01  pkg:cpan/Catalyst-Seal@0.02
-Catalyst::Seal::Dispatch            0.01  pkg:cpan/Catalyst-Seal@0.02
-Catalyst::Seal::Exceptions          0.01  pkg:cpan/Catalyst-Seal@0.02
-Catalyst::Seal::Finalize            0.01  pkg:cpan/Catalyst-Seal@0.02
-Catalyst::Seal::Guard               0.01  pkg:cpan/Catalyst-Seal@0.02
-Catalyst::Seal::Immutable           0.01  pkg:cpan/Catalyst-Seal@0.02
-Catalyst::Seal::Middleware          0.01  pkg:cpan/Catalyst-Seal@0.02
-Catalyst::Seal::Middleware::Response  0.01  pkg:cpan/Catalyst-Seal@0.02
-Catalyst::Seal::Modifiers           0.01  pkg:cpan/Catalyst-Seal@0.02
-Catalyst::Seal::Prepare             0.01  pkg:cpan/Catalyst-Seal@0.02
+Catalyst::Seal                      0.03  pkg:cpan/Catalyst-Seal@0.03
+Catalyst::Seal::Accessors           0.01  pkg:cpan/Catalyst-Seal@0.03
+Catalyst::Seal::ClassData           0.01  pkg:cpan/Catalyst-Seal@0.03
+Catalyst::Seal::Construct           0.01  pkg:cpan/Catalyst-Seal@0.03
+Catalyst::Seal::Dispatch            0.01  pkg:cpan/Catalyst-Seal@0.03
+Catalyst::Seal::Exceptions          0.01  pkg:cpan/Catalyst-Seal@0.03
+Catalyst::Seal::Finalize            0.01  pkg:cpan/Catalyst-Seal@0.03
+Catalyst::Seal::Guard               0.01  pkg:cpan/Catalyst-Seal@0.03
+Catalyst::Seal::Immutable           0.01  pkg:cpan/Catalyst-Seal@0.03
+Catalyst::Seal::Middleware          0.01  pkg:cpan/Catalyst-Seal@0.03
+Catalyst::Seal::Middleware::Response  0.01  pkg:cpan/Catalyst-Seal@0.03
+Catalyst::Seal::Modifiers           0.01  pkg:cpan/Catalyst-Seal@0.03
+Catalyst::Seal::Prepare             0.01  pkg:cpan/Catalyst-Seal@0.03
 Catalyst::Stats                    undef  pkg:cpan/Catalyst-Runtime@5.90132
 Catalyst::Test                     undef  pkg:cpan/Catalyst-Runtime@5.90132
 Catalyst::TraitFor::Component::ConfigPerSite  0.12  pkg:cpan/Catalyst-TraitFor-Component-ConfigPerSite@0.12
@@ -50022,7 +50032,7 @@ Crypt::NSS::X509::CRL               0.05  pkg:cpan/Crypt-NSS-X509@0.05
 Crypt::NSS::X509::CertList          0.05  pkg:cpan/Crypt-NSS-X509@0.05
 Crypt::NSS::X509::Certificate       0.05  pkg:cpan/Crypt-NSS-X509@0.05
 Crypt::NULL                         1.02  pkg:cpan/Crypt-NULL@1.02
-Crypt::NaCl::Sodium                2.003  pkg:cpan/Crypt-NaCl-Sodium@2.003
+Crypt::NaCl::Sodium                2.004  pkg:cpan/Crypt-NaCl-Sodium@2.004
 Crypt::NaCl::Sodium::aead          v1.0.8.0  pkg:cpan/Crypt-NaCl-Sodium@1.0.8.0
 Crypt::NaCl::Sodium::auth          v1.0.8.0  pkg:cpan/Crypt-NaCl-Sodium@1.0.8.0
 Crypt::NaCl::Sodium::box           v1.0.8.0  pkg:cpan/Crypt-NaCl-Sodium@1.0.8.0
@@ -136288,7 +136298,7 @@ Music::Intervals::Ratios           0.1101  pkg:cpan/Music-Intervals@0.1101
 Music::KNRadio::NowPlaying         0.012  pkg:cpan/Music-KNRadio-NowPlaying@0.012
 Music::LilyPondUtil                 0.56  pkg:cpan/Music-LilyPondUtil@0.56
 Music::Lyrics::LRC                  0.17  pkg:cpan/Music-Lyrics-LRC@0.17
-Music::MelodicDevice::Arpeggiation 0.0401  pkg:cpan/Music-MelodicDevice-Arpeggiation@0.0401
+Music::MelodicDevice::Arpeggiation 0.0501  pkg:cpan/Music-MelodicDevice-Arpeggiation@0.0501
 Music::MelodicDevice::Inversion    0.0504  pkg:cpan/Music-MelodicDevice-Inversion@0.0504
 Music::MelodicDevice::Ornamentation 0.0706  pkg:cpan/Music-MelodicDevice-Ornamentation@0.0706
 Music::MelodicDevice::Transposition 0.0601  pkg:cpan/Music-MelodicDevice-Transposition@0.0601
@@ -188192,7 +188202,7 @@ Perl::Critic::Policy::ProhibitNoWarningsRedefine 1.000  pkg:cpan/perl-critic-pol
 Perl::Critic::Policy::ProhibitOrReturn  0.02  pkg:cpan/Perl-Critic-Policy-ProhibitOrReturn@0.02
 Perl::Critic::Policy::ProhibitPipeOpen 1.000  pkg:cpan/perl-critic-policy-prohibitpipeopen@1.000
 Perl::Critic::Policy::ProhibitSmartmatch   0.4  pkg:cpan/Perl-Critic-Policy-ProhibitSmartmatch@0.4
-Perl::Critic::Policy::ProhibitUnusedImports 1.000  pkg:cpan/perl-critic-policy-prohibitunusedimports@1.000
+Perl::Critic::Policy::ProhibitUnusedImports 1.001  pkg:cpan/perl-critic-policy-prohibitunusedimports@1.001
 Perl::Critic::Policy::ProhibitUsageSubs 1.000  pkg:cpan/perl-critic-policy-prohibitusagesubs@1.000
 Perl::Critic::Policy::ProhibitUseLib 1.000  pkg:cpan/perl-critic-policy-prohibituselib@1.000
 Perl::Critic::Policy::References::ProhibitComplexDoubleSigils   0.2  pkg:cpan/Perl-Critic-Policy-References-ProhibitComplexDoubleSigils@0.2
@@ -203444,6 +203454,26 @@ SPVM::Time::HiRes::Util            undef  pkg:cpan/SPVM-Time-HiRes@0.003
 SPVM::Time::Local                  0.118  pkg:cpan/SPVM-Time-Local@0.118
 SPVM::Time::Piece                  0.012  pkg:cpan/SPVM-Time-Piece@0.012
 SPVM::Time::Seconds                undef  pkg:cpan/SPVM-Time-Piece@0.012
+SPVM::UV                           0.001  pkg:cpan/SPVM-UV@0.001
+SPVM::UV::Callback::Async          undef  pkg:cpan/SPVM-UV@0.001
+SPVM::UV::Callback::Close          undef  pkg:cpan/SPVM-UV@0.001
+SPVM::UV::Callback::Idle           undef  pkg:cpan/SPVM-UV@0.001
+SPVM::UV::Callback::Poll           undef  pkg:cpan/SPVM-UV@0.001
+SPVM::UV::Callback::Read           undef  pkg:cpan/SPVM-UV@0.001
+SPVM::UV::Callback::Timer          undef  pkg:cpan/SPVM-UV@0.001
+SPVM::UV::Callback::Write          undef  pkg:cpan/SPVM-UV@0.001
+SPVM::UV::ConfigBuilder            undef  pkg:cpan/SPVM-UV@0.001
+SPVM::UV::Handle                   undef  pkg:cpan/SPVM-UV@0.001
+SPVM::UV::Handle::Async            undef  pkg:cpan/SPVM-UV@0.001
+SPVM::UV::Handle::Idle             undef  pkg:cpan/SPVM-UV@0.001
+SPVM::UV::Handle::Pipe             undef  pkg:cpan/SPVM-UV@0.001
+SPVM::UV::Handle::Poll             undef  pkg:cpan/SPVM-UV@0.001
+SPVM::UV::Handle::Stream           undef  pkg:cpan/SPVM-UV@0.001
+SPVM::UV::Handle::Timer            undef  pkg:cpan/SPVM-UV@0.001
+SPVM::UV::Loop                     undef  pkg:cpan/SPVM-UV@0.001
+SPVM::UV::Request                  undef  pkg:cpan/SPVM-UV@0.001
+SPVM::UV::Request::Write           undef  pkg:cpan/SPVM-UV@0.001
+SPVM::UV::Resource::UV             undef  pkg:cpan/SPVM-UV@0.001
 SPVM::Unicode                      0.058  pkg:cpan/SPVM-Unicode@0.058
 SPVM::Unicode::Normalize           0.011  pkg:cpan/SPVM-Unicode-Normalize@0.011
 SQ                                 v0.0.6  pkg:cpan/SQ@0.0.6
