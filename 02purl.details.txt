@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 05 Sep 2026 21:49:57 GMT
-Line-Count: 259474
+Last-Updated: Sat, 05 Sep 2026 23:28:50 GMT
+Line-Count: 259466
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5623,26 +5623,10 @@ Ambassador::API::V2::Role::HasJSON 0.001  pkg:cpan/Ambassador-API-V2@0.001
 Ambassador::API::V2::Role::Response 0.001  pkg:cpan/Ambassador-API-V2@0.001
 AmberDB                            5.024000  pkg:cpan/AmberDB@5.24.0
 AmberDB::Array                     5.024000  pkg:cpan/AmberDB@5.24.0
-AmberDB::Base                      5.022001  pkg:cpan/AmberDB@5.22.1
-AmberDB::Cache                     5.022001  pkg:cpan/AmberDB@5.22.1
 AmberDB::Date                      5.024000  pkg:cpan/AmberDB@5.24.0
-AmberDB::Index                     5.022001  pkg:cpan/AmberDB@5.22.1
-AmberDB::Index::Facet              5.022001  pkg:cpan/AmberDB@5.22.1
-AmberDB::Index::Junk               5.022001  pkg:cpan/AmberDB@5.22.1
 AmberDB::Locale                    5.024000  pkg:cpan/AmberDB@5.24.0
-AmberDB::Locale::Currency          5.022001  pkg:cpan/AmberDB@5.22.1
-AmberDB::Locale::Lang::ar          5.022001  pkg:cpan/AmberDB@5.22.1
-AmberDB::Locale::Lang::az          5.022001  pkg:cpan/AmberDB@5.22.1
-AmberDB::Locale::Lang::de          5.022001  pkg:cpan/AmberDB@5.22.1
-AmberDB::Locale::Lang::en          5.022001  pkg:cpan/AmberDB@5.22.1
-AmberDB::Locale::Lang::es          5.022001  pkg:cpan/AmberDB@5.22.1
-AmberDB::Locale::Lang::fr          5.022001  pkg:cpan/AmberDB@5.22.1
-AmberDB::Locale::Lang::ja          5.022001  pkg:cpan/AmberDB@5.22.1
-AmberDB::Locale::Lang::ru          5.022001  pkg:cpan/AmberDB@5.22.1
-AmberDB::Locale::Lang::tr          5.022001  pkg:cpan/AmberDB@5.22.1
 AmberDB::String                    5.024000  pkg:cpan/AmberDB@5.24.0
 AmberDB::Tools                     5.024000  pkg:cpan/AmberDB@5.24.0
-AmberDB::Transact                  5.022001  pkg:cpan/AmberDB@5.22.1
 AmbientOrb::Serial                  0.02  pkg:cpan/AmbientOrb-Serial@0.02
 Ambrosia                            0.01  pkg:cpan/Ambrosia@0.010
 Ambrosia::Addons::Accessor          0.01  pkg:cpan/Ambrosia@0.010
@@ -14822,7 +14806,7 @@ App::Slackeria::Plugin::Ubuntu      0.12  pkg:cpan/App-Slackeria@0.12
 App::Slackeria::Plugin::Whohas      0.12  pkg:cpan/App-Slackeria@0.12
 App::Slackeria::PluginLoader        0.12  pkg:cpan/App-Slackeria@0.12
 App::SlideServer                   0.003  pkg:cpan/App-SlideServer@0.003
-App::SlimPacker                     0.02  pkg:cpan/App-SlimPacker@0.02
+App::SlimPacker                     0.03  pkg:cpan/App-SlimPacker@0.03
 App::SlowQuitApps                  0.000003  pkg:cpan/App-SlowQuitApps@0.000003
 App::Smarkmail                     0.006  pkg:cpan/App-Smarkmail@0.006
 App::Smbxfer                        0.01  pkg:cpan/App-Smbxfer@0.01
@@ -48714,6 +48698,14 @@ ConfigReader::Spec                   0.5  pkg:cpan/ConfigReader@0.5
 ConfigReader::Values                 0.5  pkg:cpan/ConfigReader@0.5
 Config_mO                          undef  pkg:cpan/Win32-GUI@1.06
 Config_u                           undef  pkg:cpan/ExtUtils-FakeConfig@0.12?ext=zip
+Configd                            0.001  pkg:cpan/Configd@0.001
+Configd::Language                  0.001  pkg:cpan/Configd@0.001
+Configd::Language::opendkim        0.001  pkg:cpan/Configd@0.001
+Configd::Language::opendmarc       0.001  pkg:cpan/Configd@0.001
+Configd::Language::postfix         0.001  pkg:cpan/Configd@0.001
+Configd::Language::redis           0.001  pkg:cpan/Configd@0.001
+Configd::Syntax::Spaced            0.001  pkg:cpan/Configd@0.001
+Configd::Unit                      0.001  pkg:cpan/Configd@0.001
 Confluence::Client::XMLRPC           2.5  pkg:cpan/Confluence-Client-XMLRPC@2.5
 Confluent::SchemaRegistry          1.000000  pkg:cpan/Confluent-SchemaRegistry@v1.0.0
 Confman                             0.04  pkg:cpan/Confman@0.04
@@ -116239,35 +116231,35 @@ Linux::Epoll                       0.019  pkg:cpan/Linux-Epoll@0.019
 Linux::Ethtool                      0.11  pkg:cpan/Linux-Ethtool@0.11
 Linux::Ethtool::Settings            0.11  pkg:cpan/Linux-Ethtool@0.11
 Linux::Ethtool::WOL                 0.11  pkg:cpan/Linux-Ethtool@0.11
-Linux::Event                       0.111  pkg:cpan/Linux-Event@0.111
-Linux::Event::Address              0.111  pkg:cpan/Linux-Event@0.111
+Linux::Event                       0.112  pkg:cpan/Linux-Event@0.112
+Linux::Event::Address              0.112  pkg:cpan/Linux-Event@0.112
 Linux::Event::Backend              0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Backend::Epoll       0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Bench                0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Datagram             0.105  pkg:cpan/Linux-Event@0.105
-Linux::Event::Error                0.111  pkg:cpan/Linux-Event@0.111
-Linux::Event::Framer               0.111  pkg:cpan/Linux-Event@0.111
-Linux::Event::Framer::DecimalLength 0.111  pkg:cpan/Linux-Event@0.111
-Linux::Event::Framer::Delimiter    0.111  pkg:cpan/Linux-Event@0.111
-Linux::Event::Framer::Fixed        0.111  pkg:cpan/Linux-Event@0.111
-Linux::Event::Framer::LengthPrefix 0.111  pkg:cpan/Linux-Event@0.111
-Linux::Event::Framer::Netstring    0.111  pkg:cpan/Linux-Event@0.111
-Linux::Event::Framer::U32BE        0.111  pkg:cpan/Linux-Event@0.111
-Linux::Event::Framer::Varint       0.111  pkg:cpan/Linux-Event@0.111
-Linux::Event::IO                   0.111  pkg:cpan/Linux-Event@0.111
-Linux::Event::IO::Pipe             0.111  pkg:cpan/Linux-Event@0.111
-Linux::Event::IO::Sock             0.111  pkg:cpan/Linux-Event@0.111
-Linux::Event::IO::Sock::Dgram      0.111  pkg:cpan/Linux-Event@0.111
-Linux::Event::IO::Sock::Listener   0.111  pkg:cpan/Linux-Event@0.111
-Linux::Event::IO::Sock::Stream     0.111  pkg:cpan/Linux-Event@0.111
-Linux::Event::IO::TTY              0.111  pkg:cpan/Linux-Event@0.111
-Linux::Event::Kernel               0.111  pkg:cpan/Linux-Event@0.111
-Linux::Event::Kernel::Event        0.111  pkg:cpan/Linux-Event@0.111
-Linux::Event::Kernel::Process      0.111  pkg:cpan/Linux-Event@0.111
-Linux::Event::Kernel::Signal       0.111  pkg:cpan/Linux-Event@0.111
-Linux::Event::Kernel::Timer        0.111  pkg:cpan/Linux-Event@0.111
+Linux::Event::Error                0.112  pkg:cpan/Linux-Event@0.112
+Linux::Event::Framer               0.112  pkg:cpan/Linux-Event@0.112
+Linux::Event::Framer::DecimalLength 0.112  pkg:cpan/Linux-Event@0.112
+Linux::Event::Framer::Delimiter    0.112  pkg:cpan/Linux-Event@0.112
+Linux::Event::Framer::Fixed        0.112  pkg:cpan/Linux-Event@0.112
+Linux::Event::Framer::LengthPrefix 0.112  pkg:cpan/Linux-Event@0.112
+Linux::Event::Framer::Netstring    0.112  pkg:cpan/Linux-Event@0.112
+Linux::Event::Framer::U32BE        0.112  pkg:cpan/Linux-Event@0.112
+Linux::Event::Framer::Varint       0.112  pkg:cpan/Linux-Event@0.112
+Linux::Event::IO                   0.112  pkg:cpan/Linux-Event@0.112
+Linux::Event::IO::Pipe             0.112  pkg:cpan/Linux-Event@0.112
+Linux::Event::IO::Sock             0.112  pkg:cpan/Linux-Event@0.112
+Linux::Event::IO::Sock::Dgram      0.112  pkg:cpan/Linux-Event@0.112
+Linux::Event::IO::Sock::Listener   0.112  pkg:cpan/Linux-Event@0.112
+Linux::Event::IO::Sock::Stream     0.112  pkg:cpan/Linux-Event@0.112
+Linux::Event::IO::TTY              0.112  pkg:cpan/Linux-Event@0.112
+Linux::Event::Kernel               0.112  pkg:cpan/Linux-Event@0.112
+Linux::Event::Kernel::Event        0.112  pkg:cpan/Linux-Event@0.112
+Linux::Event::Kernel::Process      0.112  pkg:cpan/Linux-Event@0.112
+Linux::Event::Kernel::Signal       0.112  pkg:cpan/Linux-Event@0.112
+Linux::Event::Kernel::Timer        0.112  pkg:cpan/Linux-Event@0.112
 Linux::Event::Listener             0.105  pkg:cpan/Linux-Event@0.105
-Linux::Event::Loop                 0.111  pkg:cpan/Linux-Event@0.111
+Linux::Event::Loop                 0.112  pkg:cpan/Linux-Event@0.112
 Linux::Event::Operation            0.010  pkg:cpan/Linux-Event@0.010
 Linux::Event::Pid                  0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Pid::Subscription    0.012  pkg:cpan/Linux-Event@0.012
@@ -116283,7 +116275,7 @@ Linux::Event::Scheduler            0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Signal               0.105  pkg:cpan/Linux-Event@0.105
 Linux::Event::Signal::Subscription 0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Stream               0.105  pkg:cpan/Linux-Event@0.105
-Linux::Event::TLS                  0.111  pkg:cpan/Linux-Event@0.111
+Linux::Event::TLS                  0.112  pkg:cpan/Linux-Event@0.112
 Linux::Event::Timer                0.105  pkg:cpan/Linux-Event@0.105
 Linux::Event::Wakeup               0.105  pkg:cpan/Linux-Event@0.105
 Linux::Event::Watcher              0.012  pkg:cpan/Linux-Event@0.012
@@ -136322,7 +136314,7 @@ Music::NeoRiemannianTonnetz         0.27  pkg:cpan/Music-NeoRiemannianTonnetz@0.
 Music::Note                         0.01  pkg:cpan/Music-Note@0.01
 Music::Note::Frequency              0.05  pkg:cpan/Music-Note-Frequency@0.05
 Music::Note::Role::Operators        0.04  pkg:cpan/Music-Note-Role-Operators@0.04
-Music::Percussion::Tabla           0.0704  pkg:cpan/Music-Percussion-Tabla@0.0704
+Music::Percussion::Tabla           0.0706  pkg:cpan/Music-Percussion-Tabla@0.0706
 Music::PitchNum                     0.09  pkg:cpan/Music-PitchNum@0.09
 Music::PitchNum::ABC                0.09  pkg:cpan/Music-PitchNum@0.09
 Music::PitchNum::ASPN               0.09  pkg:cpan/Music-PitchNum@0.09
