@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 05 Sep 2026 11:41:07 GMT
-Line-Count: 259472
+Last-Updated: Sat, 05 Sep 2026 14:21:32 GMT
+Line-Count: 259473
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -12652,13 +12652,13 @@ App::PAUSE::TimeMachine             0.05  pkg:cpan/App-PAUSE-TimeMachine@0.05
 App::PAUSE::cleanup                0.0014  pkg:cpan/App-PAUSE-cleanup@0.0014
 App::PDF::Link                      0.25  pkg:cpan/App-PDF-Link@0.25
 App::PDF::Overlay                  0.002  pkg:cpan/App-PDF-Overlay@0.002
-App::PDFLibrarian                  6.002004  pkg:cpan/App-PDFLibrarian@6.2.4
-App::PDFLibrarian::BibTeX          6.002004  pkg:cpan/App-PDFLibrarian@6.2.4
-App::PDFLibrarian::Library         6.002004  pkg:cpan/App-PDFLibrarian@6.2.4
-App::PDFLibrarian::QueryDialog     6.002004  pkg:cpan/App-PDFLibrarian@6.2.4
-App::PDFLibrarian::QueryDialog::impl 6.002004  pkg:cpan/App-PDFLibrarian@6.2.4
-App::PDFLibrarian::TitleAbbr       6.002004  pkg:cpan/App-PDFLibrarian@6.2.4
-App::PDFLibrarian::Util            6.002004  pkg:cpan/App-PDFLibrarian@6.2.4
+App::PDFLibrarian                  6.003000  pkg:cpan/App-PDFLibrarian@6.3.0
+App::PDFLibrarian::BibTeX          6.003000  pkg:cpan/App-PDFLibrarian@6.3.0
+App::PDFLibrarian::Library         6.003000  pkg:cpan/App-PDFLibrarian@6.3.0
+App::PDFLibrarian::QueryDialog     6.003000  pkg:cpan/App-PDFLibrarian@6.3.0
+App::PDFLibrarian::QueryDialog::impl 6.003000  pkg:cpan/App-PDFLibrarian@6.3.0
+App::PDFLibrarian::TitleAbbr       6.003000  pkg:cpan/App-PDFLibrarian@6.3.0
+App::PDFLibrarian::Util            6.003000  pkg:cpan/App-PDFLibrarian@6.3.0
 App::PDFUtils                      0.019  pkg:cpan/App-PDFUtils@0.019
 App::PDRUtils                      0.122  pkg:cpan/App-PDRUtils@0.122
 App::PDRUtils::Cmd                 0.122  pkg:cpan/App-PDRUtils@0.122
@@ -22641,13 +22641,13 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         v0.33.6  pkg:cpan/BarefootJS@0.33.6
-BarefootJS::Backend::Mojo          v0.33.6  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.33.6
-BarefootJS::Backend::Xslate        v0.33.6  pkg:cpan/BarefootJS-Backend-Xslate@0.33.6
-BarefootJS::Date                   v0.33.6  pkg:cpan/BarefootJS@0.33.6
-BarefootJS::DevReload              v0.33.6  pkg:cpan/BarefootJS@0.33.6
-BarefootJS::Evaluator              v0.33.6  pkg:cpan/BarefootJS@0.33.6
-BarefootJS::SearchParams           v0.33.6  pkg:cpan/BarefootJS@0.33.6
+BarefootJS                         v0.34.0  pkg:cpan/BarefootJS@0.34.0
+BarefootJS::Backend::Mojo          v0.34.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.34.0
+BarefootJS::Backend::Xslate        v0.34.0  pkg:cpan/BarefootJS-Backend-Xslate@0.34.0
+BarefootJS::Date                   v0.34.0  pkg:cpan/BarefootJS@0.34.0
+BarefootJS::DevReload              v0.34.0  pkg:cpan/BarefootJS@0.34.0
+BarefootJS::Evaluator              v0.34.0  pkg:cpan/BarefootJS@0.34.0
+BarefootJS::SearchParams           v0.34.0  pkg:cpan/BarefootJS@0.34.0
 BarefootJS::_TZProbe               0.029000  pkg:cpan/BarefootJS@0.29.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
@@ -48377,19 +48377,19 @@ Config::Lite                        0.03  pkg:cpan/Config-Lite@0.03
 Config::Locale                      0.10  pkg:cpan/Config-Locale@0.10
 Config::LotusNotes                  0.34  pkg:cpan/Config-LotusNotes@0.34?ext=tgz
 Config::LotusNotes::Configuration   0.34  pkg:cpan/Config-LotusNotes@0.34?ext=tgz
-Config::MVP                        2.200013  pkg:cpan/Config-MVP@2.200013
-Config::MVP::Assembler             2.200013  pkg:cpan/Config-MVP@2.200013
-Config::MVP::Assembler::WithBundles 2.200013  pkg:cpan/Config-MVP@2.200013
+Config::MVP                        2.200014  pkg:cpan/Config-MVP@2.200014
+Config::MVP::Assembler             2.200014  pkg:cpan/Config-MVP@2.200014
+Config::MVP::Assembler::WithBundles 2.200014  pkg:cpan/Config-MVP@2.200014
 Config::MVP::BundleInspector       0.001  pkg:cpan/Config-MVP-BundleInspector@0.001
-Config::MVP::Error                 2.200013  pkg:cpan/Config-MVP@2.200013
-Config::MVP::Reader                2.200013  pkg:cpan/Config-MVP@2.200013
-Config::MVP::Reader::Findable      2.200013  pkg:cpan/Config-MVP@2.200013
-Config::MVP::Reader::Findable::ByExtension 2.200013  pkg:cpan/Config-MVP@2.200013
-Config::MVP::Reader::Finder        2.200013  pkg:cpan/Config-MVP@2.200013
-Config::MVP::Reader::Hash          2.200013  pkg:cpan/Config-MVP@2.200013
+Config::MVP::Error                 2.200014  pkg:cpan/Config-MVP@2.200014
+Config::MVP::Reader                2.200014  pkg:cpan/Config-MVP@2.200014
+Config::MVP::Reader::Findable      2.200014  pkg:cpan/Config-MVP@2.200014
+Config::MVP::Reader::Findable::ByExtension 2.200014  pkg:cpan/Config-MVP@2.200014
+Config::MVP::Reader::Finder        2.200014  pkg:cpan/Config-MVP@2.200014
+Config::MVP::Reader::Hash          2.200014  pkg:cpan/Config-MVP@2.200014
 Config::MVP::Reader::INI           2.101465  pkg:cpan/Config-MVP-Reader-INI@2.101465
-Config::MVP::Section               2.200013  pkg:cpan/Config-MVP@2.200013
-Config::MVP::Sequence              2.200013  pkg:cpan/Config-MVP@2.200013
+Config::MVP::Section               2.200014  pkg:cpan/Config-MVP@2.200014
+Config::MVP::Sequence              2.200014  pkg:cpan/Config-MVP@2.200014
 Config::MVP::Slicer                0.303  pkg:cpan/Config-MVP-Slicer@0.303
 Config::MVP::Writer::INI           0.005  pkg:cpan/Config-MVP-Writer-INI@0.005
 Config::Magic                      0.801  pkg:cpan/Config-Magic@0.801
@@ -107385,9 +107385,9 @@ Internals                            1.1  pkg:cpan/Internals@1.1
 Internals::CountObjects             0.05  pkg:cpan/Internals-CountObjects@0.05
 Internals::DumpArenas               0.12  pkg:cpan/Internals-DumpArenas@0.12
 Internals::GraphArenas              0.01  pkg:cpan/Internals-GraphArenas@0.01
-InternetData                         1.0  pkg:cpan/InternetData@1.0.0
-InternetData::Database               1.0  pkg:cpan/InternetData@1.0.0
-InternetData::Error                  1.0  pkg:cpan/InternetData@1.0.0
+InternetData                       1.001001  pkg:cpan/InternetData@1.1.1
+InternetData::Database             1.001001  pkg:cpan/InternetData@1.1.1
+InternetData::Error                1.001001  pkg:cpan/InternetData@1.1.1
 Interpolation                       0.74  pkg:cpan/Interpolation@0.74
 Interpolation::A2A                  0.71  pkg:cpan/Interpolation@0.71
 Interpolation::A2S                  0.71  pkg:cpan/Interpolation@0.71
@@ -132280,8 +132280,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    v0.33.6  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.33.6
-Mojolicious::Plugin::BarefootJS::DevReload v0.33.6  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.33.6
+Mojolicious::Plugin::BarefootJS    v0.34.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.34.0
+Mojolicious::Plugin::BarefootJS::DevReload v0.34.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.34.0
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -237188,13 +237188,13 @@ VOMS::Lite::RSAKey                  0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::SAMLHelper              0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::VOMS                    0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::X509                    0.20  pkg:cpan/VOMS-Lite@0.20
-VPNDetection                       1.001000  pkg:cpan/VPNDetection@1.1.0
-VPNDetection::Bogon                1.001000  pkg:cpan/VPNDetection@1.1.0
-VPNDetection::Bogons               undef  pkg:cpan/VPNDetection@1.1.0
-VPNDetection::Cache                1.001000  pkg:cpan/VPNDetection@1.1.0
-VPNDetection::Database             1.001000  pkg:cpan/VPNDetection@1.1.0
-VPNDetection::Error                1.001000  pkg:cpan/VPNDetection@1.1.0
-VPNDetection::Result               1.001000  pkg:cpan/VPNDetection@1.1.0
+VPNDetection                       1.002001  pkg:cpan/VPNDetection@1.2.1
+VPNDetection::Bogon                1.002001  pkg:cpan/VPNDetection@1.2.1
+VPNDetection::Bogons               undef  pkg:cpan/VPNDetection@1.2.1
+VPNDetection::Cache                1.002001  pkg:cpan/VPNDetection@1.2.1
+VPNDetection::Database             1.002001  pkg:cpan/VPNDetection@1.2.1
+VPNDetection::Error                1.002001  pkg:cpan/VPNDetection@1.2.1
+VPNDetection::Result               1.002001  pkg:cpan/VPNDetection@1.2.1
 VR::API                             1.06  pkg:cpan/VR-API@1.06
 VR::API::Partner                    1.01  pkg:cpan/VR-API@1.05
 VRML                                1.10  pkg:cpan/VRML@1.10
@@ -240325,23 +240325,24 @@ WWW::NicoVideo::Download            0.06  pkg:cpan/WWW-NicoVideo-Download@0.06
 WWW::NicoVideo::Entry              undef  pkg:cpan/WWW-NicoVideo@0.03
 WWW::NicoVideo::Scraper            undef  pkg:cpan/WWW-NicoVideo@0.03
 WWW::NicoVideo::URL                undef  pkg:cpan/WWW-NicoVideo@0.03
-WWW::Noss                           2.03  pkg:cpan/WWW-Noss@2.03
-WWW::Noss::BaseConfig               2.03  pkg:cpan/WWW-Noss@2.03
-WWW::Noss::Curl                     2.03  pkg:cpan/WWW-Noss@2.03
-WWW::Noss::DB                       2.03  pkg:cpan/WWW-Noss@2.03
+WWW::Noss                           2.04  pkg:cpan/WWW-Noss@2.04
+WWW::Noss::BaseConfig               2.04  pkg:cpan/WWW-Noss@2.04
+WWW::Noss::Curl                     2.04  pkg:cpan/WWW-Noss@2.04
+WWW::Noss::DB                       2.04  pkg:cpan/WWW-Noss@2.04
 WWW::Noss::Dir                      1.10  pkg:cpan/WWW-Noss@1.10
-WWW::Noss::FeedConfig               2.03  pkg:cpan/WWW-Noss@2.03
-WWW::Noss::FeedReader               2.03  pkg:cpan/WWW-Noss@2.03
-WWW::Noss::FeedReader::Atom         2.03  pkg:cpan/WWW-Noss@2.03
-WWW::Noss::FeedReader::MediaRSS     2.03  pkg:cpan/WWW-Noss@2.03
-WWW::Noss::FeedReader::RSS          2.03  pkg:cpan/WWW-Noss@2.03
-WWW::Noss::GroupConfig              2.03  pkg:cpan/WWW-Noss@2.03
-WWW::Noss::Home                     2.03  pkg:cpan/WWW-Noss@2.03
-WWW::Noss::Lynx                     2.03  pkg:cpan/WWW-Noss@2.03
-WWW::Noss::OPML                     2.03  pkg:cpan/WWW-Noss@2.03
-WWW::Noss::TextToHtml               2.03  pkg:cpan/WWW-Noss@2.03
-WWW::Noss::Timestamp                2.03  pkg:cpan/WWW-Noss@2.03
-WWW::Noss::Util                     2.03  pkg:cpan/WWW-Noss@2.03
+WWW::Noss::FeedConfig               2.04  pkg:cpan/WWW-Noss@2.04
+WWW::Noss::FeedReader               2.04  pkg:cpan/WWW-Noss@2.04
+WWW::Noss::FeedReader::Atom         2.04  pkg:cpan/WWW-Noss@2.04
+WWW::Noss::FeedReader::MediaRSS     2.04  pkg:cpan/WWW-Noss@2.04
+WWW::Noss::FeedReader::RSS          2.04  pkg:cpan/WWW-Noss@2.04
+WWW::Noss::Forker                   2.04  pkg:cpan/WWW-Noss@2.04
+WWW::Noss::GroupConfig              2.04  pkg:cpan/WWW-Noss@2.04
+WWW::Noss::Home                     2.04  pkg:cpan/WWW-Noss@2.04
+WWW::Noss::Lynx                     2.04  pkg:cpan/WWW-Noss@2.04
+WWW::Noss::OPML                     2.04  pkg:cpan/WWW-Noss@2.04
+WWW::Noss::TextToHtml               2.04  pkg:cpan/WWW-Noss@2.04
+WWW::Noss::Timestamp                2.04  pkg:cpan/WWW-Noss@2.04
+WWW::Noss::Util                     2.04  pkg:cpan/WWW-Noss@2.04
 WWW::Notifo                         0.09  pkg:cpan/WWW-Notifo@0.09
 WWW::OAuth                         1.003  pkg:cpan/WWW-OAuth@1.003
 WWW::OAuth::Request                1.003  pkg:cpan/WWW-OAuth@1.003
