@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 05 Sep 2026 19:46:48 GMT
-Line-Count: 259477
+Last-Updated: Sat, 05 Sep 2026 21:49:57 GMT
+Line-Count: 259474
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5157,9 +5157,6 @@ Alien::Xmake::Project::Xpack       v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xmake::Project::XpackComponent v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xrepo                       v0.9.4  pkg:cpan/Alien-Xmake@v0.9.4
 Alien::Xrepo::Base                 v0.9.4  pkg:cpan/Alien-Xmake@v0.9.4
-Alien::Xrepo::Base::Alt            v0.9.1  pkg:cpan/Alien-Xmake@v0.9.1
-Alien::Xrepo::Base::Builder        v0.9.1  pkg:cpan/Alien-Xmake@v0.9.1
-Alien::Xrepo::PackageInfo          v0.9.1  pkg:cpan/Alien-Xmake@v0.9.1
 Alien::YAMLScript                  0.002032  pkg:cpan/Alien-YAMLScript@0.2.32
 Alien::YARA                        v0.0.1  pkg:cpan/Alien-YARA@v0.0.6
 Alien::Z3                          0.002  pkg:cpan/Alien-Z3@0.002
@@ -30934,7 +30931,7 @@ Business::IS::PIN                   0.06  pkg:cpan/Business-IS-PIN@0.06
 Business::ISBN                     3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN10                   3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN13                   3.014  pkg:cpan/Business-ISBN@3.014
-Business::ISBN::Data               20260904.001  pkg:cpan/Business-ISBN-Data@20260904.001
+Business::ISBN::Data               20260905.001  pkg:cpan/Business-ISBN-Data@20260905.001
 Business::ISIN                      0.20  pkg:cpan/Business-ISIN@0.20?ext=tgz
 Business::ISMN                     1.205  pkg:cpan/Business-ISMN@1.205
 Business::ISMN::Data               1.205  pkg:cpan/Business-ISMN@1.205
@@ -216563,7 +216560,7 @@ Stats::Fermi::FermiDiracStats      undef  pkg:cpan/Stats-Fermi@0.1.7
 Stats::Hawking                     0.001003  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HTRandom           undef  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HawkingTemperature undef  pkg:cpan/Stats-Hawking@0.1.3
-Stats::LikeR                       0.315  pkg:cpan/Stats-LikeR@0.315
+Stats::LikeR                       0.3151  pkg:cpan/Stats-LikeR@0.3151
 Stats::LikeR::Pred                  0.16  pkg:cpan/Stats-LikeR@0.16
 Stats::LikeR::col                   0.28  pkg:cpan/Stats-LikeR@0.28
 StatsView::Graph                    1.15  pkg:cpan/StatsView@1.4
@@ -232875,7 +232872,7 @@ VANAMBURG::Suit                    undef  pkg:cpan/VANAMBURG-Magic@0.04
 VANAMBURG::SuitSingleton           undef  pkg:cpan/VANAMBURG-Magic@0.04
 VANAMBURG::SuitSingletonCHaSeD     undef  pkg:cpan/VANAMBURG-Magic@0.04
 VANAMBURG::SuitSingletonSHoCkeD    undef  pkg:cpan/VANAMBURG-Magic@0.04
-VAPID                               1.06  pkg:cpan/VAPID@1.06
+VAPID                               2.00  pkg:cpan/VAPID@2.00
 VARCHAR                             1.93  pkg:cpan/Class-PObject@2.17
 VAST                                0.05  pkg:cpan/Mildew@0.05
 VAST::arglist                       0.05  pkg:cpan/Mildew@0.05
