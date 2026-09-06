@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 05 Sep 2026 23:28:50 GMT
-Line-Count: 259466
+Last-Updated: Sun, 06 Sep 2026 02:19:23 GMT
+Line-Count: 259468
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -65091,6 +65091,8 @@ DesignPattern::Factory::Creator     0.01  pkg:cpan/DesignPattern-Factory@0.01
 DesignPattern::Factory::Product     0.01  pkg:cpan/DesignPattern-Factory@0.01
 DesignerMimeSourceFactory_richedit undef  pkg:cpan/PerlQt@3.008
 Desktop::Detect                     0.06  pkg:cpan/Desktop-Detect@0.06
+Desktop::KDE::Util                 0.001  pkg:cpan/Desktop-KDE-Util@0.001
+Desktop::KDE::Util::Klipper        0.001  pkg:cpan/Desktop-KDE-Util@0.001
 Desktop::KDEActivity::Util         0.003  pkg:cpan/Desktop-KDEActivity-Util@0.003
 Desktop::Notify                     0.05  pkg:cpan/Desktop-Notify@0.05
 Desktop::Notify::Notification       0.03  pkg:cpan/Desktop-Notify@0.05
@@ -136314,7 +136316,7 @@ Music::NeoRiemannianTonnetz         0.27  pkg:cpan/Music-NeoRiemannianTonnetz@0.
 Music::Note                         0.01  pkg:cpan/Music-Note@0.01
 Music::Note::Frequency              0.05  pkg:cpan/Music-Note-Frequency@0.05
 Music::Note::Role::Operators        0.04  pkg:cpan/Music-Note-Role-Operators@0.04
-Music::Percussion::Tabla           0.0706  pkg:cpan/Music-Percussion-Tabla@0.0706
+Music::Percussion::Tabla           0.0709  pkg:cpan/Music-Percussion-Tabla@0.0709
 Music::PitchNum                     0.09  pkg:cpan/Music-PitchNum@0.09
 Music::PitchNum::ABC                0.09  pkg:cpan/Music-PitchNum@0.09
 Music::PitchNum::ASPN               0.09  pkg:cpan/Music-PitchNum@0.09
