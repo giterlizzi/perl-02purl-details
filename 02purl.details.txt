@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 06 Sep 2026 13:19:38 GMT
-Line-Count: 259475
+Last-Updated: Sun, 06 Sep 2026 16:37:41 GMT
+Line-Count: 259479
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -48172,6 +48172,7 @@ Config::AWS                         0.12  pkg:cpan/Config-AWS@0.12
 Config::Abstract                    0.16  pkg:cpan/Config-Abstract@0.16
 Config::Abstract::Ini               0.16  pkg:cpan/Config-Abstract@0.16
 Config::Abstraction                 0.40  pkg:cpan/Config-Abstraction@0.40
+Config::Access::Driver               1.0  pkg:cpan/Config-Access-Driver@1.0.0
 Config::Ant                         0.01  pkg:cpan/Config-Ant@0.01
 Config::Any                         0.33  pkg:cpan/Config-Any@0.33
 Config::Any::Base                  undef  pkg:cpan/Config-Any@0.33
@@ -48618,6 +48619,9 @@ Config::Scoped::Error::Validate::Declaration  0.22  pkg:cpan/Config-Scoped@0.22
 Config::Scoped::Error::Validate::Macro  0.22  pkg:cpan/Config-Scoped@0.22
 Config::Scoped::Error::Validate::Parameter  0.22  pkg:cpan/Config-Scoped@0.22
 Config::Scoped::Error::Validate::Permissions  0.22  pkg:cpan/Config-Scoped@0.22
+Config::Section                    undef  pkg:cpan/Config-Access-Driver@1.0.0
+Config::Section::List              undef  pkg:cpan/Config-Access-Driver@1.0.0
+Config::Section::Parser            undef  pkg:cpan/Config-Access-Driver@1.0.0
 Config::Secure                       0.0  pkg:cpan/Config-Secure@0.0.1
 Config::Setting                     0.04  pkg:cpan/Config-Setting@0.04
 Config::Setting::Chunk               765  pkg:cpan/Config-Setting@0.04
@@ -142621,7 +142625,7 @@ Net::IP::Identifier::Regex         0.111  pkg:cpan/Net-IP-Identifier@0.111
 Net::IP::Identifier::WhoisCache    0.111  pkg:cpan/Net-IP-Identifier@0.111
 Net::IP::Identifier::WhoisParser   0.111  pkg:cpan/Net-IP-Identifier@0.111
 Net::IP::Identifier_Role           0.111  pkg:cpan/Net-IP-Identifier@0.111
-Net::IP::LPM                        1.11  pkg:cpan/Net-IP-LPM@1.11
+Net::IP::LPM                        1.12  pkg:cpan/Net-IP-LPM@1.12
 Net::IP::Lite                       0.03  pkg:cpan/Net-IP-Lite@0.03
 Net::IP::Lite::Net                  0.03  pkg:cpan/Net-IP-Lite@0.03
 Net::IP::Match                     1.101700  pkg:cpan/Net-IP-Match@1.101700
