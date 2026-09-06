@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 06 Sep 2026 19:50:43 GMT
-Line-Count: 259484
+Last-Updated: Sun, 06 Sep 2026 21:52:58 GMT
+Line-Count: 259485
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -84279,13 +84279,14 @@ Git::Megapull                      0.101752  pkg:cpan/Git-Megapull@0.101752
 Git::Megapull::Source              0.101752  pkg:cpan/Git-Megapull@0.101752
 Git::Megapull::Source::Github      0.101752  pkg:cpan/Git-Megapull@0.101752
 Git::Message                       v4.0.0  pkg:cpan/Git-Hooks@4.0.0
-Git::MoreHooks                     0.018  pkg:cpan/Git-MoreHooks@0.018
-Git::MoreHooks::CheckCommitAuthorFromMailmap 0.018  pkg:cpan/Git-MoreHooks@0.018
-Git::MoreHooks::CheckCommitBase    0.018  pkg:cpan/Git-MoreHooks@0.018
-Git::MoreHooks::CheckIndent        0.018  pkg:cpan/Git-MoreHooks@0.018
-Git::MoreHooks::CheckPerl          0.018  pkg:cpan/Git-MoreHooks@0.018
-Git::MoreHooks::GitRepoAdmin       0.018  pkg:cpan/Git-MoreHooks@0.018
-Git::MoreHooks::TriggerJenkins     0.018  pkg:cpan/Git-MoreHooks@0.018
+Git::MoreHooks                     0.019  pkg:cpan/Git-MoreHooks@0.019
+Git::MoreHooks::CheckCommitAuthorFromMailmap 0.019  pkg:cpan/Git-MoreHooks@0.019
+Git::MoreHooks::CheckCommitBase    0.019  pkg:cpan/Git-MoreHooks@0.019
+Git::MoreHooks::CheckIndent        0.019  pkg:cpan/Git-MoreHooks@0.019
+Git::MoreHooks::CheckPerl          0.019  pkg:cpan/Git-MoreHooks@0.019
+Git::MoreHooks::GitRepoAdmin       0.019  pkg:cpan/Git-MoreHooks@0.019
+Git::MoreHooks::ScanCtags          0.019  pkg:cpan/Git-MoreHooks@0.019
+Git::MoreHooks::TriggerJenkins     0.019  pkg:cpan/Git-MoreHooks@0.019
 Git::Native                        0.006  pkg:cpan/Git-Native@0.006
 Git::Native::Blob                  0.006  pkg:cpan/Git-Native@0.006
 Git::Native::Branch                0.006  pkg:cpan/Git-Native@0.006
