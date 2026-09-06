@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 06 Sep 2026 16:37:41 GMT
-Line-Count: 259479
+Last-Updated: Sun, 06 Sep 2026 19:50:43 GMT
+Line-Count: 259484
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -21429,27 +21429,27 @@ Authen::RBAC::Group::Acl::PolicyFactory::Deny  0.01  pkg:cpan/authen-rbac@0.1
 Authen::RBAC::Group::Acl::PolicyFactory::Hostmask  0.01  pkg:cpan/authen-rbac@0.1
 Authen::RBAC::Group::Acl::PolicyFactory::Permit  0.01  pkg:cpan/authen-rbac@0.1
 Authen::Radius                      0.37  pkg:cpan/Authen-Radius@0.37
-Authen::SASL                       2.2000  pkg:cpan/Authen-SASL@2.2000
+Authen::SASL                       2.2100  pkg:cpan/Authen-SASL@2.2100
 Authen::SASL::Authd                 0.04  pkg:cpan/Authen-SASL-Authd@0.04
-Authen::SASL::CRAM_MD5             2.2000  pkg:cpan/Authen-SASL@2.2000
+Authen::SASL::CRAM_MD5             2.2100  pkg:cpan/Authen-SASL@2.2100
 Authen::SASL::Cyrus                 0.13  pkg:cpan/Authen-SASL-Cyrus@0.13
 Authen::SASL::Cyrus::Security      undef  pkg:cpan/Authen-SASL-Cyrus@0.13
-Authen::SASL::EXTERNAL             2.2000  pkg:cpan/Authen-SASL@2.2000
-Authen::SASL::Perl                 2.2000  pkg:cpan/Authen-SASL@2.2000
-Authen::SASL::Perl::ANONYMOUS      2.2000  pkg:cpan/Authen-SASL@2.2000
-Authen::SASL::Perl::CRAM_MD5       2.2000  pkg:cpan/Authen-SASL@2.2000
-Authen::SASL::Perl::DIGEST_MD5     2.2000  pkg:cpan/Authen-SASL@2.2000
-Authen::SASL::Perl::EXTERNAL       2.2000  pkg:cpan/Authen-SASL@2.2000
-Authen::SASL::Perl::GSSAPI         2.2000  pkg:cpan/Authen-SASL@2.2000
-Authen::SASL::Perl::LOGIN          2.2000  pkg:cpan/Authen-SASL@2.2000
+Authen::SASL::EXTERNAL             2.2100  pkg:cpan/Authen-SASL@2.2100
+Authen::SASL::Perl                 2.2100  pkg:cpan/Authen-SASL@2.2100
+Authen::SASL::Perl::ANONYMOUS      2.2100  pkg:cpan/Authen-SASL@2.2100
+Authen::SASL::Perl::CRAM_MD5       2.2100  pkg:cpan/Authen-SASL@2.2100
+Authen::SASL::Perl::DIGEST_MD5     2.2100  pkg:cpan/Authen-SASL@2.2100
+Authen::SASL::Perl::EXTERNAL       2.2100  pkg:cpan/Authen-SASL@2.2100
+Authen::SASL::Perl::GSSAPI         2.2100  pkg:cpan/Authen-SASL@2.2100
+Authen::SASL::Perl::LOGIN          2.2100  pkg:cpan/Authen-SASL@2.2100
 Authen::SASL::Perl::Layer           2.14  pkg:cpan/Authen-SASL@2.16
 Authen::SASL::Perl::NTLM           0.003  pkg:cpan/Authen-SASL-Perl-NTLM@0.003
-Authen::SASL::Perl::OAUTHBEARER    2.2000  pkg:cpan/Authen-SASL@2.2000
-Authen::SASL::Perl::PLAIN          2.2000  pkg:cpan/Authen-SASL@2.2000
+Authen::SASL::Perl::OAUTHBEARER    2.2100  pkg:cpan/Authen-SASL@2.2100
+Authen::SASL::Perl::PLAIN          2.2100  pkg:cpan/Authen-SASL@2.2100
 Authen::SASL::Perl::SCRAM_SHA_1     0.04  pkg:cpan/Authen-SASL-SCRAM@0.04
 Authen::SASL::Perl::SCRAM_SHA_256   0.04  pkg:cpan/Authen-SASL-SCRAM@0.04
 Authen::SASL::Perl::SCRAM_SHA_512   0.04  pkg:cpan/Authen-SASL-SCRAM@0.04
-Authen::SASL::Perl::XOAUTH2        2.2000  pkg:cpan/Authen-SASL@2.2000
+Authen::SASL::Perl::XOAUTH2        2.2100  pkg:cpan/Authen-SASL@2.2100
 Authen::SASL::SASLprep             1.100  pkg:cpan/Authen-SASL-SASLprep@1.100
 Authen::SASL::SCRAM                 0.04  pkg:cpan/Authen-SASL-SCRAM@0.04
 Authen::SASL::XS                    1.02  pkg:cpan/Authen-SASL-XS@1.02
@@ -58839,7 +58839,7 @@ Data::FormValidator::Constraints::Dates  4.88  pkg:cpan/Data-FormValidator@4.88
 Data::FormValidator::Constraints::HTTP  0.01  pkg:cpan/Data-FormValidator-Constraints-HTTP@0.01
 Data::FormValidator::Constraints::Japanese  0.03  pkg:cpan/Data-FormValidator-Constraints-Japanese@0.04
 Data::FormValidator::Constraints::MethodsFactory  0.03  pkg:cpan/Data-FormValidator-Constraints-MethodsFactory@0.03
-Data::FormValidator::Constraints::NumberPhone  0.05  pkg:cpan/Data-FormValidator-Constraints-NumberPhone@0.05
+Data::FormValidator::Constraints::NumberPhone  0.06  pkg:cpan/Data-FormValidator-Constraints-NumberPhone@0.06
 Data::FormValidator::Constraints::RegexpCommon  4.65  pkg:cpan/Data-FormValidator@4.66
 Data::FormValidator::Constraints::Upload  4.88  pkg:cpan/Data-FormValidator@4.88
 Data::FormValidator::Constraints::Words  0.10  pkg:cpan/Data-FormValidator-Constraints-Words@0.10
@@ -126672,7 +126672,7 @@ MathWorks::platformList            undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::product                 undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepItem          undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepList          undef  pkg:cpan/XML-Pastor@0.6.0
-Matplotlib::Simple                 0.311  pkg:cpan/Matplotlib-Simple@0.311
+Matplotlib::Simple                 0.312  pkg:cpan/Matplotlib-Simple@0.312
 Matrix::Simple                      1.04  pkg:cpan/Matrix-Simple@1.04
 Matts::Message                     undef  pkg:cpan/Matts-Message-Parser@1.0
 Matts::Message::Parser               1.0  pkg:cpan/Matts-Message-Parser@1.0
@@ -152946,11 +152946,11 @@ PGPLOT::Device                      0.14  pkg:cpan/PGPLOT-Device@0.14
 PGPLOT::Device::PGWin               0.14  pkg:cpan/PGPLOT-Device@0.14
 PGPLOT::Simple                      0.05  pkg:cpan/PGPLOT-Simple@0.05
 PGPLOTx::Constants                  0.03  pkg:cpan/PGPLOTx-Constants@0.03
-PGXN::API                          v0.21.0  pkg:cpan/PGXN-API@v0.21.0
-PGXN::API::Indexer                 v0.21.0  pkg:cpan/PGXN-API@v0.21.0
-PGXN::API::Router                  v0.21.0  pkg:cpan/PGXN-API@v0.21.0
+PGXN::API                          v0.21.1  pkg:cpan/PGXN-API@v0.21.1
+PGXN::API::Indexer                 v0.21.1  pkg:cpan/PGXN-API@v0.21.1
+PGXN::API::Router                  v0.21.1  pkg:cpan/PGXN-API@v0.21.1
 PGXN::API::Searcher                v0.11.1  pkg:cpan/PGXN-API-Searcher@v0.11.1
-PGXN::API::Sync                    v0.21.0  pkg:cpan/PGXN-API@v0.21.0
+PGXN::API::Sync                    v0.21.1  pkg:cpan/PGXN-API@v0.21.1
 PGXN::Meta::Validator              v0.16.0  pkg:cpan/PGXN-Meta-Validator@v0.16.0
 PGXN::Site                         v0.23.9  pkg:cpan/PGXN-Site@v0.23.9
 PGXN::Site::Controller             v0.23.9  pkg:cpan/PGXN-Site@v0.23.9
@@ -194498,9 +194498,13 @@ Punk::CSRF                          0.44  pkg:cpan/Punk@0.45
 Punk::Cache                         0.44  pkg:cpan/Punk@0.45
 Punk::Cache::File                   0.44  pkg:cpan/Punk@0.45
 Punk::Cache::Memory                 0.44  pkg:cpan/Punk@0.45
+Punk::Challenge                     0.01  pkg:cpan/Punk-Challenge@0.01
+Punk::Challenge::Solver             0.01  pkg:cpan/Punk-Challenge@0.01
+Punk::Challenge::Token              0.01  pkg:cpan/Punk-Challenge@0.01
 Punk::ClamAV                        0.02  pkg:cpan/Punk-ClamAV@0.02
 Punk::Command                       0.44  pkg:cpan/Punk@0.45
 Punk::Command::Apikey               0.02  pkg:cpan/Punk-APIKey@0.02
+Punk::Command::Challenge            0.01  pkg:cpan/Punk-Challenge@0.01
 Punk::Command::Push                 0.01  pkg:cpan/Punk-Push@0.01
 Punk::Command::Queue                0.09  pkg:cpan/Punk-Queue@0.09
 Punk::Command::Sqitch               0.01  pkg:cpan/Punk-Sqitch@0.01
@@ -194595,6 +194599,7 @@ Punk::Plugin::APIKey                0.02  pkg:cpan/Punk-APIKey@0.02
 Punk::Plugin::Authorisation         0.02  pkg:cpan/Punk-Authorisation@0.02
 Punk::Plugin::Blob                  0.44  pkg:cpan/Punk@0.45
 Punk::Plugin::CSP                   0.44  pkg:cpan/Punk@0.45
+Punk::Plugin::Challenge             0.01  pkg:cpan/Punk-Challenge@0.01
 Punk::Plugin::ClamAV                0.02  pkg:cpan/Punk-ClamAV@0.02
 Punk::Plugin::ConditionalGet        0.44  pkg:cpan/Punk@0.45
 Punk::Plugin::Feed                  0.03  pkg:cpan/Punk-Feed@0.03
@@ -253648,7 +253653,7 @@ YAMLScript::Runtime                undef  pkg:cpan/YAMLScript@0.0.5
 YAMLScript::Str                    undef  pkg:cpan/YAMLScript@0.0.16
 YAMLScript::Test                   undef  pkg:cpan/YAMLScript-Lingy@0.2.1
 YAMLScript::Util                   undef  pkg:cpan/YAMLScript@0.0.16
-YAMLStar                           0.001019  pkg:cpan/YAMLStar@0.1.19
+YAMLStar                           0.001020  pkg:cpan/YAMLStar@0.1.20
 YAMLTest                           0.001000  pkg:cpan/YAMLTest@0.1.0
 YANG                                0.02  pkg:cpan/YANG@0.02
 YAOO                                0.10  pkg:cpan/YAOO@0.10
