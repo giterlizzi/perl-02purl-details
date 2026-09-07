@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 06 Sep 2026 23:23:13 GMT
+Last-Updated: Mon, 07 Sep 2026 02:16:38 GMT
 Line-Count: 259485
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -14806,7 +14806,7 @@ App::Slackeria::Plugin::Ubuntu      0.12  pkg:cpan/App-Slackeria@0.12
 App::Slackeria::Plugin::Whohas      0.12  pkg:cpan/App-Slackeria@0.12
 App::Slackeria::PluginLoader        0.12  pkg:cpan/App-Slackeria@0.12
 App::SlideServer                   0.003  pkg:cpan/App-SlideServer@0.003
-App::SlimPacker                     0.03  pkg:cpan/App-SlimPacker@0.03
+App::SlimPacker                     0.04  pkg:cpan/App-SlimPacker@0.04
 App::SlowQuitApps                  0.000003  pkg:cpan/App-SlowQuitApps@0.000003
 App::Smarkmail                     0.006  pkg:cpan/App-Smarkmail@0.006
 App::Smbxfer                        0.01  pkg:cpan/App-Smbxfer@0.01
@@ -47140,7 +47140,7 @@ Clio::Server::TCP::Client::Handle   0.02  pkg:cpan/Clio@0.02
 Clip                                   1  pkg:cpan/CECALA
 Clip2                                  1  pkg:cpan/CECALA
 Clipboard                           0.32  pkg:cpan/Clipboard@0.32
-Clipboard::Any                     0.015  pkg:cpan/Clipboard-Any@0.015
+Clipboard::Any                     0.016  pkg:cpan/Clipboard-Any@0.016
 Clipboard::MacPasteboard            0.32  pkg:cpan/Clipboard@0.32
 Clipboard::Pb                      undef  pkg:cpan/Clipboard@0.10
 Clipboard::WaylandClipboard         0.32  pkg:cpan/Clipboard@0.32
