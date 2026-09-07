@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 07 Sep 2026 19:31:08 GMT
+Last-Updated: Mon, 07 Sep 2026 22:25:46 GMT
 Line-Count: 259480
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -5022,7 +5022,7 @@ Alien::Nettle                       0.05  pkg:cpan/Alien-Nettle@0.05
 Alien::Ninja                        0.03  pkg:cpan/Alien-Ninja@0.03
 Alien::Nodejs                       0.01  pkg:cpan/Alien-Nodejs@0.01
 Alien::OTR                         4.001001000  pkg:cpan/Alien-OTR@4.1.1.0
-Alien::OpenCV                      0.002  pkg:cpan/Alien-OpenCV@0.002
+Alien::OpenCV                      0.003  pkg:cpan/Alien-OpenCV@0.003
 Alien::OpenJDK                      0.02  pkg:cpan/Alien-OpenJDK@0.02
 Alien::OpenJPEG                    0.002  pkg:cpan/Alien-OpenJPEG@0.002
 Alien::OpenMP                      0.003010  pkg:cpan/Alien-OpenMP@0.3.10
@@ -5144,7 +5144,7 @@ Alien::Wslay                         0.3  pkg:cpan/Alien-Wslay@0.3
 Alien::XGBoost                      0.05  pkg:cpan/Alien-XGBoost@0.05
 Alien::XInputSimulator             0.001  pkg:cpan/Alien-XInputSimulator@0.001
 Alien::XPA                         v2.1.20.7  pkg:cpan/Alien-XPA@v2.1.20.7
-Alien::Xmake                       v0.9.4  pkg:cpan/Alien-Xmake@v0.9.4
+Alien::Xmake                       v0.9.5  pkg:cpan/Alien-Xmake@v0.9.5
 Alien::Xmake::Project              v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xmake::Project::Namespace   v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xmake::Project::Option      v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
@@ -34108,7 +34108,6 @@ CPAN::Search::Lite::State::mods     0.77  pkg:cpan/CPAN-Search-Lite@0.78
 CPAN::Search::Lite::State::ppms     0.77  pkg:cpan/CPAN-Search-Lite@0.78
 CPAN::Search::Lite::Util            0.77  pkg:cpan/CPAN-Search-Lite@0.78
 CPAN::Search::Lite::Version         0.77  pkg:cpan/CPAN-Search-Lite@0.78
-CPAN::Search::Tester                0.04  pkg:cpan/CPAN-Search-Tester@0.04
 CPAN::Shell                        5.5009  pkg:cpan/CPAN@2.38
 CPAN::Site                          1.17  pkg:cpan/CPAN-Site@1.17
 CPAN::Site::Index                   1.17  pkg:cpan/CPAN-Site@1.17
@@ -75546,7 +75545,7 @@ File::Random::Pick                  0.03  pkg:cpan/File-Random-Pick@0.03
 File::RandomAccess                  1.13  pkg:cpan/Image-ExifTool@13.55
 File::RandomGenerator               0.06  pkg:cpan/File-RandomGenerator@0.06
 File::RandomLine                    0.20  pkg:cpan/File-RandomLine@0.20
-File::Raw                           0.16  pkg:cpan/File-Raw@0.16
+File::Raw                           0.17  pkg:cpan/File-Raw@0.17
 File::Raw::Archive                  0.04  pkg:cpan/File-Raw-Archive@0.04
 File::Raw::Archive::Entry           0.04  pkg:cpan/File-Raw-Archive@0.04
 File::Raw::Archive::Reader          0.04  pkg:cpan/File-Raw-Archive@0.04
@@ -121335,7 +121334,7 @@ MIDI::RtMidi::FFI::Device           0.13  pkg:cpan/MIDI-RtMidi-FFI@0.13
 MIDI::RtMidi::FFI::Device::In       0.13  pkg:cpan/MIDI-RtMidi-FFI@0.13
 MIDI::RtMidi::FFI::Device::Out      0.13  pkg:cpan/MIDI-RtMidi-FFI@0.13
 MIDI::RtMidi::ScorePlayer          0.0303  pkg:cpan/MIDI-RtMidi-ScorePlayer@0.0303
-MIDI::RtMidi::Util                 0.0301  pkg:cpan/MIDI-RtMidi-Util@0.0301
+MIDI::RtMidi::Util                 0.0400  pkg:cpan/MIDI-RtMidi-Util@0.0400
 MIDI::SP404sx                      1.000000  pkg:cpan/MIDI-SP404sx@v1.0.0
 MIDI::SP404sx::Constants           undef  pkg:cpan/MIDI-SP404sx@v1.0.0
 MIDI::SP404sx::MIDIIO              undef  pkg:cpan/MIDI-SP404sx@v1.0.0
@@ -150266,6 +150265,8 @@ OpenSearch::Index::Split           undef  pkg:cpan/OpenSearch@0.94
 OpenSearch::Index::Stats           undef  pkg:cpan/OpenSearch@0.94
 OpenSearch::Index::UpdateSettings  undef  pkg:cpan/OpenSearch@0.94
 OpenSearch::MooseTypes             undef  pkg:cpan/OpenSearch@0.03
+OpenSearch::PPLQuery                 1.0  pkg:cpan/OpenSearch-PPLQuery@1.0.0
+OpenSearch::PPLQuery::Config         1.0  pkg:cpan/OpenSearch-PPLQuery@1.0.0
 OpenSearch::Parameters             undef  pkg:cpan/OpenSearch@0.94
 OpenSearch::Parameters::Body::cluster_settings undef  pkg:cpan/OpenSearch@0.03
 OpenSearch::Parameters::Body::current_node undef  pkg:cpan/OpenSearch@0.03
@@ -191893,7 +191894,7 @@ Pod::Manual::Docbook2LaTeX          0.08  pkg:cpan/Pod-Manual@0.08
 Pod::Manual::PodXML2Docbook         0.08  pkg:cpan/Pod-Manual@0.08
 Pod::Markdown                      3.400  pkg:cpan/Pod-Markdown@3.400
 Pod::Markdown::Github               0.04  pkg:cpan/Pod-Markdown-Github@0.04
-Pod::Markdown::Githubert            0.05  pkg:cpan/Pod-Markdown-Githubert@0.05
+Pod::Markdown::Githubert            0.06  pkg:cpan/Pod-Markdown-Githubert@0.06
 Pod::Markdown::Passthrough          0.01  pkg:cpan/Pod-Markdown-Passthrough@0.01
 Pod::Minicpandoc                    0.16  pkg:cpan/Pod-Minicpandoc@0.16
 Pod::MinimumVersion                   50  pkg:cpan/Pod-MinimumVersion@50
@@ -223974,7 +223975,6 @@ Test::Instance::DNS::Server        undef  pkg:cpan/Test-Instance-DNS@0.001
 Test::Instruction                   0.07  pkg:cpan/Test-Instruction@0.07
 Test::Inter                         1.13  pkg:cpan/Test-Inter@1.13
 Test::Interface                     0.02  pkg:cpan/Test-Interface@0.02
-Test::Internet                      0.07  pkg:cpan/Test-Internet@0.07
 Test::Is                           20140823.1  pkg:cpan/Test-Is@20140823.1
 Test::IsAny                         0.01  pkg:cpan/Test-IsAny@0.01
 Test::JSON                          0.11  pkg:cpan/Test-JSON@0.11
