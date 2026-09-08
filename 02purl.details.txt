@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 08 Sep 2026 02:28:43 GMT
-Line-Count: 259486
+Last-Updated: Tue, 08 Sep 2026 08:28:57 GMT
+Line-Count: 259494
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -10604,16 +10604,17 @@ App::FuguVM::Proxy                 0.001001  pkg:cpan/App-FuguVM@0.1.1
 App::FuguVM::Proxy::Cache          0.001001  pkg:cpan/App-FuguVM@0.1.1
 App::FuguVM::QMP                   0.001001  pkg:cpan/App-FuguVM@0.1.1
 App::FuguVM::State                 0.001001  pkg:cpan/App-FuguVM@0.1.1
-App::FuguWeb                       0.002000  pkg:cpan/App-FuguWeb@0.2.0
-App::FuguWeb::CLI                  0.002000  pkg:cpan/App-FuguWeb@0.2.0
-App::FuguWeb::Check                0.002000  pkg:cpan/App-FuguWeb@0.2.0
-App::FuguWeb::Config               0.002000  pkg:cpan/App-FuguWeb@0.2.0
-App::FuguWeb::Config::Group        0.002000  pkg:cpan/App-FuguWeb@0.2.0
-App::FuguWeb::Index                0.002000  pkg:cpan/App-FuguWeb@0.2.0
-App::FuguWeb::Manual               0.002000  pkg:cpan/App-FuguWeb@0.2.0
-App::FuguWeb::Page                 0.002000  pkg:cpan/App-FuguWeb@0.2.0
-App::FuguWeb::Render               0.002000  pkg:cpan/App-FuguWeb@0.2.0
-App::FuguWeb::Site                 0.002000  pkg:cpan/App-FuguWeb@0.2.0
+App::FuguWeb                       0.003000  pkg:cpan/App-FuguWeb@0.3.0
+App::FuguWeb::CLI                  0.003000  pkg:cpan/App-FuguWeb@0.3.0
+App::FuguWeb::Check                0.003000  pkg:cpan/App-FuguWeb@0.3.0
+App::FuguWeb::Config               0.003000  pkg:cpan/App-FuguWeb@0.3.0
+App::FuguWeb::Config::Group        0.003000  pkg:cpan/App-FuguWeb@0.3.0
+App::FuguWeb::Index                0.003000  pkg:cpan/App-FuguWeb@0.3.0
+App::FuguWeb::Keys                 0.003000  pkg:cpan/App-FuguWeb@0.3.0
+App::FuguWeb::Manual               0.003000  pkg:cpan/App-FuguWeb@0.3.0
+App::FuguWeb::Page                 0.003000  pkg:cpan/App-FuguWeb@0.3.0
+App::FuguWeb::Render               0.003000  pkg:cpan/App-FuguWeb@0.3.0
+App::FuguWeb::Site                 0.003000  pkg:cpan/App-FuguWeb@0.3.0
 App::FzfUtils                      0.003  pkg:cpan/App-FzfUtils@0.003
 App::GHGen                          0.10  pkg:cpan/App-GHGen@0.10
 App::GHGen::Analyzer                0.10  pkg:cpan/App-GHGen@0.10
@@ -22630,13 +22631,13 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         v0.35.1  pkg:cpan/BarefootJS@0.35.1
-BarefootJS::Backend::Mojo          v0.35.1  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.35.1
-BarefootJS::Backend::Xslate        v0.35.1  pkg:cpan/BarefootJS-Backend-Xslate@0.35.1
-BarefootJS::Date                   v0.35.1  pkg:cpan/BarefootJS@0.35.1
-BarefootJS::DevReload              v0.35.1  pkg:cpan/BarefootJS@0.35.1
-BarefootJS::Evaluator              v0.35.1  pkg:cpan/BarefootJS@0.35.1
-BarefootJS::SearchParams           v0.35.1  pkg:cpan/BarefootJS@0.35.1
+BarefootJS                         v0.35.2  pkg:cpan/BarefootJS@0.35.2
+BarefootJS::Backend::Mojo          v0.35.2  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.35.2
+BarefootJS::Backend::Xslate        v0.35.2  pkg:cpan/BarefootJS-Backend-Xslate@0.35.2
+BarefootJS::Date                   v0.35.2  pkg:cpan/BarefootJS@0.35.2
+BarefootJS::DevReload              v0.35.2  pkg:cpan/BarefootJS@0.35.2
+BarefootJS::Evaluator              v0.35.2  pkg:cpan/BarefootJS@0.35.2
+BarefootJS::SearchParams           v0.35.2  pkg:cpan/BarefootJS@0.35.2
 BarefootJS::_TZProbe               0.029000  pkg:cpan/BarefootJS@0.29.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
@@ -52791,25 +52792,25 @@ DBIx::Class::AccessorGroup         undef  pkg:cpan/DBIx-Class@0.082844
 DBIx::Class::Admin                 undef  pkg:cpan/DBIx-Class@0.082844
 DBIx::Class::AlwaysUpdate          0.001  pkg:cpan/DBIx-Class-AlwaysUpdate@0.001
 DBIx::Class::AsFdat                 0.03  pkg:cpan/DBIx-Class-AsFdat@0.03
-DBIx::Class::Async                 v1.0.6  pkg:cpan/DBIx-Class-Async@v1.0.6
+DBIx::Class::Async                 v1.0.7  pkg:cpan/DBIx-Class-Async@v1.0.7
 DBIx::Class::Async::Cursor          0.25  pkg:cpan/DBIx-Class-Async@0.25
-DBIx::Class::Async::Exception      v1.0.6  pkg:cpan/DBIx-Class-Async@v1.0.6
-DBIx::Class::Async::Exception::AmbiguousColumn v1.0.6  pkg:cpan/DBIx-Class-Async@v1.0.6
-DBIx::Class::Async::Exception::Factory v1.0.6  pkg:cpan/DBIx-Class-Async@v1.0.6
-DBIx::Class::Async::Exception::MissingColumn v1.0.6  pkg:cpan/DBIx-Class-Async@v1.0.6
-DBIx::Class::Async::Exception::NoSuchRelationship v1.0.6  pkg:cpan/DBIx-Class-Async@v1.0.6
-DBIx::Class::Async::Exception::NotInStorage v1.0.6  pkg:cpan/DBIx-Class-Async@v1.0.6
-DBIx::Class::Async::Exception::RelationshipAsColumn v1.0.6  pkg:cpan/DBIx-Class-Async@v1.0.6
+DBIx::Class::Async::Exception      v1.0.7  pkg:cpan/DBIx-Class-Async@v1.0.7
+DBIx::Class::Async::Exception::AmbiguousColumn v1.0.7  pkg:cpan/DBIx-Class-Async@v1.0.7
+DBIx::Class::Async::Exception::Factory v1.0.7  pkg:cpan/DBIx-Class-Async@v1.0.7
+DBIx::Class::Async::Exception::MissingColumn v1.0.7  pkg:cpan/DBIx-Class-Async@v1.0.7
+DBIx::Class::Async::Exception::NoSuchRelationship v1.0.7  pkg:cpan/DBIx-Class-Async@v1.0.7
+DBIx::Class::Async::Exception::NotInStorage v1.0.7  pkg:cpan/DBIx-Class-Async@v1.0.7
+DBIx::Class::Async::Exception::RelationshipAsColumn v1.0.7  pkg:cpan/DBIx-Class-Async@v1.0.7
 DBIx::Class::Async::ResultComponent     0  pkg:cpan/DBIx-Class-Async@0.49
-DBIx::Class::Async::ResultSet      v1.0.6  pkg:cpan/DBIx-Class-Async@v1.0.6
-DBIx::Class::Async::ResultSet::Pager v1.0.6  pkg:cpan/DBIx-Class-Async@v1.0.6
-DBIx::Class::Async::ResultSetColumn v1.0.6  pkg:cpan/DBIx-Class-Async@v1.0.6
-DBIx::Class::Async::Row            v1.0.6  pkg:cpan/DBIx-Class-Async@v1.0.6
-DBIx::Class::Async::Schema         v1.0.6  pkg:cpan/DBIx-Class-Async@v1.0.6
-DBIx::Class::Async::SelectNormaliser v1.0.6  pkg:cpan/DBIx-Class-Async@v1.0.6
-DBIx::Class::Async::Storage        v1.0.6  pkg:cpan/DBIx-Class-Async@v1.0.6
-DBIx::Class::Async::Storage::DBI   v1.0.6  pkg:cpan/DBIx-Class-Async@v1.0.6
-DBIx::Class::Async::Storage::DBI::Cursor v1.0.6  pkg:cpan/DBIx-Class-Async@v1.0.6
+DBIx::Class::Async::ResultSet      v1.0.7  pkg:cpan/DBIx-Class-Async@v1.0.7
+DBIx::Class::Async::ResultSet::Pager v1.0.7  pkg:cpan/DBIx-Class-Async@v1.0.7
+DBIx::Class::Async::ResultSetColumn v1.0.7  pkg:cpan/DBIx-Class-Async@v1.0.7
+DBIx::Class::Async::Row            v1.0.7  pkg:cpan/DBIx-Class-Async@v1.0.7
+DBIx::Class::Async::Schema         v1.0.7  pkg:cpan/DBIx-Class-Async@v1.0.7
+DBIx::Class::Async::SelectNormaliser v1.0.7  pkg:cpan/DBIx-Class-Async@v1.0.7
+DBIx::Class::Async::Storage        v1.0.7  pkg:cpan/DBIx-Class-Async@v1.0.7
+DBIx::Class::Async::Storage::DBI   v1.0.7  pkg:cpan/DBIx-Class-Async@v1.0.7
+DBIx::Class::Async::Storage::DBI::Cursor v1.0.7  pkg:cpan/DBIx-Class-Async@v1.0.7
 DBIx::Class::Async::TxnGuard        0.36  pkg:cpan/DBIx-Class-Async@0.36
 DBIx::Class::AuditAny              0.200200  pkg:cpan/DBIx-Class-AuditAny@0.200200
 DBIx::Class::AuditAny::AuditContext::Change undef  pkg:cpan/DBIx-Class-AuditAny@0.200200
@@ -75562,6 +75563,13 @@ File::Raw::Hash                     0.06  pkg:cpan/File-Raw-Hash@0.06
 File::Raw::JSON                     0.08  pkg:cpan/File-Raw-JSON@0.08
 File::Raw::JSON::Boolean            0.01  pkg:cpan/File-Raw-JSON@0.08
 File::Raw::Separated                0.04  pkg:cpan/File-Raw-Separated@0.04
+File::Raw::XML                      0.01  pkg:cpan/File-Raw-XML@0.01
+File::Raw::XML::Attr               undef  pkg:cpan/File-Raw-XML@0.01
+File::Raw::XML::Document           undef  pkg:cpan/File-Raw-XML@0.01
+File::Raw::XML::Namespace          undef  pkg:cpan/File-Raw-XML@0.01
+File::Raw::XML::Node               undef  pkg:cpan/File-Raw-XML@0.01
+File::Raw::XML::Reader             undef  pkg:cpan/File-Raw-XML@0.01
+File::Raw::XML::XPath              undef  pkg:cpan/File-Raw-XML@0.01
 File::Rdiff                          1.0  pkg:cpan/File-Rdiff@1.0
 File::RdistByRsync                   0.3  pkg:cpan/File-RdistByRsync@0.3
 File::Read                         0.0801  pkg:cpan/File-Read@0.0801
@@ -132287,8 +132295,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    v0.35.1  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.35.1
-Mojolicious::Plugin::BarefootJS::DevReload v0.35.1  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.35.1
+Mojolicious::Plugin::BarefootJS    v0.35.2  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.35.2
+Mojolicious::Plugin::BarefootJS::DevReload v0.35.2  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.35.2
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -251187,27 +251195,27 @@ XML::FOAF::Person                  undef  pkg:cpan/XML-FOAF@0.04
 XML::FOAFKnows::FromvCard            0.6  pkg:cpan/XML-FOAFKnows-FromvCard@0.6
 XML::FXN                            0.01  pkg:cpan/XML-FXN@0.01
 XML::Fast                           0.17  pkg:cpan/XML-Fast@0.17
-XML::Feed                          v1.0.0  pkg:cpan/XML-Feed@v1.0.0
+XML::Feed                          1.000001  pkg:cpan/XML-Feed@1.0.1
 XML::Feed::Aggregator              0.0401  pkg:cpan/XML-Feed-Aggregator@0.0401
 XML::Feed::Aggregator::Deduper     0.0401  pkg:cpan/XML-Feed-Aggregator@0.0401
 XML::Feed::Aggregator::Sort        0.0401  pkg:cpan/XML-Feed-Aggregator@0.0401
 XML::Feed::Atom                    undef  pkg:cpan/XML-Feed@0.23
-XML::Feed::Content                  0.65  pkg:cpan/XML-Feed@v1.0.0
+XML::Feed::Content                 1.000001  pkg:cpan/XML-Feed@1.0.1
 XML::Feed::Deduper                  0.06  pkg:cpan/XML-Feed-Deduper@0.06
 XML::Feed::Deduper::DB_File        undef  pkg:cpan/XML-Feed-Deduper@0.06
 XML::Feed::Deduper::Role           undef  pkg:cpan/XML-Feed-Deduper@0.06
-XML::Feed::Enclosure                0.65  pkg:cpan/XML-Feed@v1.0.0
-XML::Feed::Entry                    0.65  pkg:cpan/XML-Feed@v1.0.0
+XML::Feed::Enclosure               1.000001  pkg:cpan/XML-Feed@1.0.1
+XML::Feed::Entry                   1.000001  pkg:cpan/XML-Feed@1.0.1
 XML::Feed::Entry::Atom             undef  pkg:cpan/XML-Feed@0.23
-XML::Feed::Entry::Format::Atom      0.65  pkg:cpan/XML-Feed@v1.0.0
-XML::Feed::Entry::Format::RSS       0.65  pkg:cpan/XML-Feed@v1.0.0
+XML::Feed::Entry::Format::Atom     1.000001  pkg:cpan/XML-Feed@1.0.1
+XML::Feed::Entry::Format::RSS      1.000001  pkg:cpan/XML-Feed@1.0.1
 XML::Feed::Entry::Format::hAtom    undef  pkg:cpan/XML-Feed-Format-hAtom@0.5
 XML::Feed::Entry::RSS              undef  pkg:cpan/XML-Feed@0.23
-XML::Feed::Format::Atom             0.65  pkg:cpan/XML-Feed@v1.0.0
-XML::Feed::Format::RSS              0.65  pkg:cpan/XML-Feed@v1.0.0
+XML::Feed::Format::Atom            1.000001  pkg:cpan/XML-Feed@1.0.1
+XML::Feed::Format::RSS             1.000001  pkg:cpan/XML-Feed@1.0.1
 XML::Feed::Format::hAtom             0.5  pkg:cpan/XML-Feed-Format-hAtom@0.5
 XML::Feed::RSS                     undef  pkg:cpan/XML-Feed@0.23
-XML::Feed::Util                     0.65  pkg:cpan/XML-Feed@v1.0.0
+XML::Feed::Util                    1.000001  pkg:cpan/XML-Feed@1.0.1
 XML::FeedLite                      2.000  pkg:cpan/XML-FeedLite@2.000
 XML::FeedLite::File                1.003  pkg:cpan/XML-FeedLite@2.000
 XML::FeedLite::Normalised          1.004  pkg:cpan/XML-FeedLite@2.000
