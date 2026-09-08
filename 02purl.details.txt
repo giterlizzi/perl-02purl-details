@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 07 Sep 2026 22:25:46 GMT
-Line-Count: 259480
+Last-Updated: Tue, 08 Sep 2026 02:28:43 GMT
+Line-Count: 259486
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -4834,6 +4834,7 @@ Alien::Build::Plugin::Build::MSYS   2.84  pkg:cpan/Alien-Build@2.84
 Alien::Build::Plugin::Build::Make   2.84  pkg:cpan/Alien-Build@2.84
 Alien::Build::Plugin::Build::Premake5 0.002  pkg:cpan/Alien-Build-Plugin-Build-Premake5@0.002
 Alien::Build::Plugin::Build::SearchDep  2.84  pkg:cpan/Alien-Build@2.84
+Alien::Build::Plugin::Build::Xrepo v1.0.0  pkg:cpan/Alien-Build-Plugin-Build-Xrepo@v1.0.0
 Alien::Build::Plugin::Cleanse::BuildDir  0.06  pkg:cpan/Alien-Build-Plugin-Cleanse-BuildDir@0.06
 Alien::Build::Plugin::Core::CleanInstall  2.84  pkg:cpan/Alien-Build@2.84
 Alien::Build::Plugin::Core::Download  2.84  pkg:cpan/Alien-Build@2.84
@@ -5144,7 +5145,7 @@ Alien::Wslay                         0.3  pkg:cpan/Alien-Wslay@0.3
 Alien::XGBoost                      0.05  pkg:cpan/Alien-XGBoost@0.05
 Alien::XInputSimulator             0.001  pkg:cpan/Alien-XInputSimulator@0.001
 Alien::XPA                         v2.1.20.7  pkg:cpan/Alien-XPA@v2.1.20.7
-Alien::Xmake                       v0.9.5  pkg:cpan/Alien-Xmake@v0.9.5
+Alien::Xmake                       v1.0.0  pkg:cpan/Alien-Xmake@v1.0.0
 Alien::Xmake::Project              v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xmake::Project::Namespace   v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xmake::Project::Option      v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
@@ -5155,8 +5156,13 @@ Alien::Xmake::Project::Toolchain   v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xmake::Project::Util        v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xmake::Project::Xpack       v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xmake::Project::XpackComponent v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
-Alien::Xrepo                       v0.9.4  pkg:cpan/Alien-Xmake@v0.9.4
+Alien::Xrepo                       v1.0.0  pkg:cpan/Alien-Xrepo@v1.0.0
 Alien::Xrepo::Base                 v0.9.4  pkg:cpan/Alien-Xmake@v0.9.4
+Alien::Xrepo::Build                v1.0.0  pkg:cpan/Alien-Xrepo@v1.0.0
+Alien::Xrepo::Build::Recipe        v1.0.0  pkg:cpan/Alien-Xrepo@v1.0.0
+Alien::Xrepo::PackageInfo          v1.0.0  pkg:cpan/Alien-Xrepo@v1.0.0
+Alien::Xrepo::Runtime              v1.0.0  pkg:cpan/Alien-Xrepo@v1.0.0
+Alien::Xrepo::Runtime::Alt         v1.0.0  pkg:cpan/Alien-Xrepo@v1.0.0
 Alien::YAMLScript                  0.002032  pkg:cpan/Alien-YAMLScript@0.2.32
 Alien::YARA                        v0.0.1  pkg:cpan/Alien-YARA@v0.0.6
 Alien::Z3                          0.002  pkg:cpan/Alien-Z3@0.002
@@ -22624,13 +22630,13 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         v0.35.0  pkg:cpan/BarefootJS@0.35.0
-BarefootJS::Backend::Mojo          v0.35.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.35.0
-BarefootJS::Backend::Xslate        v0.35.0  pkg:cpan/BarefootJS-Backend-Xslate@0.35.0
-BarefootJS::Date                   v0.35.0  pkg:cpan/BarefootJS@0.35.0
-BarefootJS::DevReload              v0.35.0  pkg:cpan/BarefootJS@0.35.0
-BarefootJS::Evaluator              v0.35.0  pkg:cpan/BarefootJS@0.35.0
-BarefootJS::SearchParams           v0.35.0  pkg:cpan/BarefootJS@0.35.0
+BarefootJS                         v0.35.1  pkg:cpan/BarefootJS@0.35.1
+BarefootJS::Backend::Mojo          v0.35.1  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.35.1
+BarefootJS::Backend::Xslate        v0.35.1  pkg:cpan/BarefootJS-Backend-Xslate@0.35.1
+BarefootJS::Date                   v0.35.1  pkg:cpan/BarefootJS@0.35.1
+BarefootJS::DevReload              v0.35.1  pkg:cpan/BarefootJS@0.35.1
+BarefootJS::Evaluator              v0.35.1  pkg:cpan/BarefootJS@0.35.1
+BarefootJS::SearchParams           v0.35.1  pkg:cpan/BarefootJS@0.35.1
 BarefootJS::_TZProbe               0.029000  pkg:cpan/BarefootJS@0.29.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
@@ -47141,7 +47147,7 @@ Clio::Server::TCP::Client::Handle   0.02  pkg:cpan/Clio@0.02
 Clip                                   1  pkg:cpan/CECALA
 Clip2                                  1  pkg:cpan/CECALA
 Clipboard                           0.32  pkg:cpan/Clipboard@0.32
-Clipboard::Any                     0.016  pkg:cpan/Clipboard-Any@0.016
+Clipboard::Any                     0.017  pkg:cpan/Clipboard-Any@0.017
 Clipboard::MacPasteboard            0.32  pkg:cpan/Clipboard@0.32
 Clipboard::Pb                      undef  pkg:cpan/Clipboard@0.10
 Clipboard::WaylandClipboard         0.32  pkg:cpan/Clipboard@0.32
@@ -121322,7 +121328,7 @@ MIDI::Opus                          0.84  pkg:cpan/MIDI-Perl@0.84
 MIDI::Pitch                          0.7  pkg:cpan/MIDI-Pitch@0.7
 MIDI::Praxis::Variation            0.0607  pkg:cpan/MIDI-Praxis-Variation@0.0607
 MIDI::Realtime                      0.01  pkg:cpan/MIDI-Realtime@0.01
-MIDI::RtController                 0.0807  pkg:cpan/MIDI-RtController@0.0807
+MIDI::RtController                 0.0808  pkg:cpan/MIDI-RtController@0.0808
 MIDI::RtController::Filter         0.0104  pkg:cpan/MIDI-RtController-Filter@0.0104
 MIDI::RtController::Filter::CC     0.1202  pkg:cpan/MIDI-RtController-Filter-CC@0.1202
 MIDI::RtController::Filter::Drums  0.0402  pkg:cpan/MIDI-RtController-Filter-Drums@0.0402
@@ -132281,8 +132287,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    v0.35.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.35.0
-Mojolicious::Plugin::BarefootJS::DevReload v0.35.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.35.0
+Mojolicious::Plugin::BarefootJS    v0.35.1  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.35.1
+Mojolicious::Plugin::BarefootJS::DevReload v0.35.1  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.35.1
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -257954,7 +257960,7 @@ layouts::LayoutsOperations         undef  pkg:cpan/ZZZ-SDK@0.0.2
 layouts::Properties                undef  pkg:cpan/ZZZ-SDK@0.0.2
 layouts::ResponseWrapper           undef  pkg:cpan/ZZZ-SDK@0.0.2
 layouts::Section                   undef  pkg:cpan/ZZZ-SDK@0.0.2
-lazy                               1.000002  pkg:cpan/lazy@1.000002
+lazy                               1.000003  pkg:cpan/lazy@1.000003
 lc_time                             0.15  pkg:cpan/lc_time@0.15
 less                                0.03  pkg:cpan/perl@5.42.3
 lexical::underscore                0.004  pkg:cpan/lexical-underscore@0.004
