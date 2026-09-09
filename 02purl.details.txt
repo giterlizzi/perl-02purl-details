@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 08 Sep 2026 22:14:56 GMT
+Last-Updated: Wed, 09 Sep 2026 02:30:32 GMT
 Line-Count: 259505
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -10620,7 +10620,7 @@ App::FuguWeb::Page                 0.005000  pkg:cpan/App-FuguWeb@0.5.0
 App::FuguWeb::Render               0.005000  pkg:cpan/App-FuguWeb@0.5.0
 App::FuguWeb::Rotate               0.005000  pkg:cpan/App-FuguWeb@0.5.0
 App::FuguWeb::Site                 0.005000  pkg:cpan/App-FuguWeb@0.5.0
-App::FzfUtils                      0.003  pkg:cpan/App-FzfUtils@0.003
+App::FzfUtils                      0.004  pkg:cpan/App-FzfUtils@0.004
 App::GHGen                          0.10  pkg:cpan/App-GHGen@0.10
 App::GHGen::Analyzer                0.10  pkg:cpan/App-GHGen@0.10
 App::GHGen::CostEstimator           0.10  pkg:cpan/App-GHGen@0.10
@@ -22637,13 +22637,13 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         v0.35.2  pkg:cpan/BarefootJS@0.35.2
-BarefootJS::Backend::Mojo          v0.35.2  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.35.2
-BarefootJS::Backend::Xslate        v0.35.2  pkg:cpan/BarefootJS-Backend-Xslate@0.35.2
-BarefootJS::Date                   v0.35.2  pkg:cpan/BarefootJS@0.35.2
-BarefootJS::DevReload              v0.35.2  pkg:cpan/BarefootJS@0.35.2
-BarefootJS::Evaluator              v0.35.2  pkg:cpan/BarefootJS@0.35.2
-BarefootJS::SearchParams           v0.35.2  pkg:cpan/BarefootJS@0.35.2
+BarefootJS                         v0.35.3  pkg:cpan/BarefootJS@0.35.3
+BarefootJS::Backend::Mojo          v0.35.3  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.35.3
+BarefootJS::Backend::Xslate        v0.35.3  pkg:cpan/BarefootJS-Backend-Xslate@0.35.3
+BarefootJS::Date                   v0.35.3  pkg:cpan/BarefootJS@0.35.3
+BarefootJS::DevReload              v0.35.3  pkg:cpan/BarefootJS@0.35.3
+BarefootJS::Evaluator              v0.35.3  pkg:cpan/BarefootJS@0.35.3
+BarefootJS::SearchParams           v0.35.3  pkg:cpan/BarefootJS@0.35.3
 BarefootJS::_TZProbe               0.029000  pkg:cpan/BarefootJS@0.29.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
@@ -64386,16 +64386,16 @@ DateTime::LazyInit::Constructor_new 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ex
 DateTime::LazyInit::Constructor_now 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ext=tgz
 DateTime::LazyInit::Constructor_today 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ext=tgz
 DateTime::LeapSecond                1.67  pkg:cpan/DateTime@1.67
-DateTime::Lite                     0.008000  pkg:cpan/DateTime-Lite@v0.8.0
-DateTime::Lite::Duration           0.001002  pkg:cpan/DateTime-Lite@v0.8.0
-DateTime::Lite::Exception          0.001000  pkg:cpan/DateTime-Lite@v0.8.0
-DateTime::Lite::Infinite           0.001000  pkg:cpan/DateTime-Lite@v0.8.0
-DateTime::Lite::Infinite::Future   0.001000  pkg:cpan/DateTime-Lite@v0.8.0
-DateTime::Lite::Infinite::Past     0.001000  pkg:cpan/DateTime-Lite@v0.8.0
-DateTime::Lite::PP                 0.001001  pkg:cpan/DateTime-Lite@v0.8.0
-DateTime::Lite::TimeZone           0.005009  pkg:cpan/DateTime-Lite@v0.8.0
-DateTime::Lite::_FakeLocale        0.001000  pkg:cpan/DateTime-Lite@v0.8.0
-DateTime::Lite::_Thawed            0.008000  pkg:cpan/DateTime-Lite@v0.8.0
+DateTime::Lite                     0.008001  pkg:cpan/DateTime-Lite@v0.8.1
+DateTime::Lite::Duration           0.001002  pkg:cpan/DateTime-Lite@v0.8.1
+DateTime::Lite::Exception          0.001000  pkg:cpan/DateTime-Lite@v0.8.1
+DateTime::Lite::Infinite           0.001000  pkg:cpan/DateTime-Lite@v0.8.1
+DateTime::Lite::Infinite::Future   0.001000  pkg:cpan/DateTime-Lite@v0.8.1
+DateTime::Lite::Infinite::Past     0.001000  pkg:cpan/DateTime-Lite@v0.8.1
+DateTime::Lite::PP                 0.001002  pkg:cpan/DateTime-Lite@v0.8.1
+DateTime::Lite::TimeZone           0.005009  pkg:cpan/DateTime-Lite@v0.8.1
+DateTime::Lite::_FakeLocale        0.001000  pkg:cpan/DateTime-Lite@v0.8.1
+DateTime::Lite::_Thawed            0.008001  pkg:cpan/DateTime-Lite@v0.8.1
 DateTime::Locale                    1.46  pkg:cpan/DateTime-Locale@1.46
 DateTime::Locale::Base              1.46  pkg:cpan/DateTime-Locale@1.46
 DateTime::Locale::Catalog           1.46  pkg:cpan/DateTime-Locale@1.46
@@ -132304,8 +132304,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    v0.35.2  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.35.2
-Mojolicious::Plugin::BarefootJS::DevReload v0.35.2  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.35.2
+Mojolicious::Plugin::BarefootJS    v0.35.3  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.35.3
+Mojolicious::Plugin::BarefootJS::DevReload v0.35.3  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.35.3
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -225729,11 +225729,11 @@ Text::Annotated::Reader             0.04  pkg:cpan/Text-Annotated-Line@0.04
 Text::Annotated::Writer             0.04  pkg:cpan/Text-Annotated-Line@0.04
 Text::AsReadWithoutIntonation        0.9  pkg:cpan/Text-AsReadWithoutIntonation@0.9
 Text::AsciiTeX                      0.05  pkg:cpan/Text-AsciiTeX@0.05
-Text::AsciidocDown                 0.001001  pkg:cpan/Text-AsciidocDown@0.1.1
-Text::AsciidocDown::Include        0.001001  pkg:cpan/Text-AsciidocDown@0.1.1
-Text::AsciidocDown::Parser         0.001001  pkg:cpan/Text-AsciidocDown@0.1.1
-Text::AsciidocDown::Refs           0.001001  pkg:cpan/Text-AsciidocDown@0.1.1
-Text::AsciidocDown::Subs           0.001001  pkg:cpan/Text-AsciidocDown@0.1.1
+Text::AsciidocDown                 0.001002  pkg:cpan/Text-AsciidocDown@0.1.2
+Text::AsciidocDown::Include        0.001002  pkg:cpan/Text-AsciidocDown@0.1.2
+Text::AsciidocDown::Parser         0.001002  pkg:cpan/Text-AsciidocDown@0.1.2
+Text::AsciidocDown::Refs           0.001002  pkg:cpan/Text-AsciidocDown@0.1.2
+Text::AsciidocDown::Subs           0.001002  pkg:cpan/Text-AsciidocDown@0.1.2
 Text::Aspell                        0.09  pkg:cpan/Text-Aspell@0.09
 Text::Authinfo                      0.03  pkg:cpan/Text-Authinfo@0.03
 Text::AutoCSV                      1.002000  pkg:cpan/Text-AutoCSV@1.2.0
