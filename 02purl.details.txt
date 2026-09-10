@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 10 Sep 2026 02:31:39 GMT
-Line-Count: 259536
+Last-Updated: Thu, 10 Sep 2026 08:33:08 GMT
+Line-Count: 259553
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -74744,18 +74744,18 @@ Fennec::Util                       undef  pkg:cpan/Fennec@2.018
 Fern                               undef  pkg:cpan/Fern@0.2
 Festival::Client                     1.0  pkg:cpan/Festival-Client@1.0
 Festival::Client::Async            0.0303  pkg:cpan/Festival-Client-Async@0.0303
-Fetch                               0.26  pkg:cpan/Fetch@0.26
-Fetch::CookieJar                    0.26  pkg:cpan/Fetch@0.26
-Fetch::Future                       0.26  pkg:cpan/Fetch@0.26
-Fetch::Headers                      0.26  pkg:cpan/Fetch@0.26
+Fetch                               0.27  pkg:cpan/Fetch@0.27
+Fetch::CookieJar                    0.27  pkg:cpan/Fetch@0.27
+Fetch::Future                       0.27  pkg:cpan/Fetch@0.27
+Fetch::Headers                      0.27  pkg:cpan/Fetch@0.27
 Fetch::Image                       1.000000  pkg:cpan/Fetch-Image@1.000000
-Fetch::Loop                         0.26  pkg:cpan/Fetch@0.26
-Fetch::Loop::AnyEvent               0.26  pkg:cpan/Fetch@0.26
-Fetch::Loop::Hyperman               0.26  pkg:cpan/Fetch@0.26
-Fetch::Loop::IOAsync                0.26  pkg:cpan/Fetch@0.26
-Fetch::Loop::Standalone             0.26  pkg:cpan/Fetch@0.26
-Fetch::Response                     0.26  pkg:cpan/Fetch@0.26
-Fetch::WebSocket                    0.26  pkg:cpan/Fetch@0.26
+Fetch::Loop                         0.27  pkg:cpan/Fetch@0.27
+Fetch::Loop::AnyEvent               0.27  pkg:cpan/Fetch@0.27
+Fetch::Loop::Hyperman               0.27  pkg:cpan/Fetch@0.27
+Fetch::Loop::IOAsync                0.27  pkg:cpan/Fetch@0.27
+Fetch::Loop::Standalone             0.27  pkg:cpan/Fetch@0.27
+Fetch::Response                     0.27  pkg:cpan/Fetch@0.27
+Fetch::WebSocket                    0.27  pkg:cpan/Fetch@0.27
 Fetcher                            undef  pkg:cpan/article_fetcher?ext=zip
 Fey                                 0.44  pkg:cpan/Fey@0.44
 Fey::Column                         0.44  pkg:cpan/Fey@0.44
@@ -78182,6 +78182,7 @@ Frost::Twilight::LRU                0.65  pkg:cpan/Frost@0.70
 Frost::Types                        0.64  pkg:cpan/Frost@0.70
 Frost::Util                          0.5  pkg:cpan/Frost@0.70
 Frost::Vault                        0.62  pkg:cpan/Frost@0.70
+Frozen                              0.01  pkg:cpan/Frozen@0.01
 Fry::Base                          undef  pkg:cpan/Fry-Shell@0.15
 Fry::Cmd                           undef  pkg:cpan/Fry-Shell@0.15
 Fry::Config::Default               undef  pkg:cpan/Fry-Shell@0.15
@@ -101449,8 +101450,8 @@ HTTP::CookieJar::LWP               0.014  pkg:cpan/HTTP-CookieJar@0.014
 HTTP::CookieMonster                 0.11  pkg:cpan/HTTP-CookieMonster@0.11
 HTTP::CookieMonster::Cookie         0.11  pkg:cpan/HTTP-CookieMonster@0.11
 HTTP::Cookies                       6.12  pkg:cpan/HTTP-Cookies@6.12
-HTTP::Cookies::Chrome              3.002  pkg:cpan/HTTP-Cookies-Chrome@3.002
-HTTP::Cookies::Chrome::Record      3.002  pkg:cpan/HTTP-Cookies-Chrome@3.002
+HTTP::Cookies::Chrome              4.001  pkg:cpan/HTTP-Cookies-Chrome@4.001
+HTTP::Cookies::Chrome::Record      4.001  pkg:cpan/HTTP-Cookies-Chrome@4.001
 HTTP::Cookies::ChromeDevTools       0.80  pkg:cpan/WWW-Mechanize-Chrome@0.80
 HTTP::Cookies::ChromeMacOS          0.02  pkg:cpan/HTTP-Cookies-ChromeMacOS@0.02
 HTTP::Cookies::Find                1.417  pkg:cpan/HTTP-Cookies-Find@1.417
@@ -103433,14 +103434,14 @@ Hyper::Developer::Model::Viewer    0.100  pkg:cpan/Hyper-Developer@0.07
 Hyper::Developer::Server           undef  pkg:cpan/Hyper-Developer@0.07
 HyperWave::CSP                     0.003001  pkg:cpan/HyperWave-CSP@0.03.1
 HyperWave::CSP::Message            undef  pkg:cpan/HyperWave-CSP@0.03.1
-Hyperman                            0.45  pkg:cpan/Hyperman@0.45
-Hyperman::Event::Epoll              0.45  pkg:cpan/Hyperman@0.45
-Hyperman::Event::IOUring            0.45  pkg:cpan/Hyperman@0.45
-Hyperman::Event::Kqueue             0.45  pkg:cpan/Hyperman@0.45
-Hyperman::Event::Poll               0.45  pkg:cpan/Hyperman@0.45
-Hyperman::Future                    0.45  pkg:cpan/Hyperman@0.45
-Hyperman::Loop                      0.45  pkg:cpan/Hyperman@0.45
-Hyperman::Writer                    0.45  pkg:cpan/Hyperman@0.45
+Hyperman                            0.46  pkg:cpan/Hyperman@0.46
+Hyperman::Event::Epoll              0.46  pkg:cpan/Hyperman@0.46
+Hyperman::Event::IOUring            0.46  pkg:cpan/Hyperman@0.46
+Hyperman::Event::Kqueue             0.46  pkg:cpan/Hyperman@0.46
+Hyperman::Event::Poll               0.46  pkg:cpan/Hyperman@0.46
+Hyperman::Future                    0.46  pkg:cpan/Hyperman@0.46
+Hyperman::Loop                      0.46  pkg:cpan/Hyperman@0.46
+Hyperman::Writer                    0.46  pkg:cpan/Hyperman@0.46
 Hyperscan                           0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Database                 0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Matcher                  0.04  pkg:cpan/Hyperscan@0.04
@@ -110490,6 +110491,22 @@ Koha::Contrib::Tamil::Unimarc4xx::Fix 0.074  pkg:cpan/Koha-Contrib-Tamil@0.074
 Koha::Contrib::Tamil::Zebra::Clouder 0.074  pkg:cpan/Koha-Contrib-Tamil@0.074
 Koha::Contrib::ValueBuilder::RepeatableAutocomplete 1.006  pkg:cpan/Koha-Contrib-ValueBuilder-RepeatableAutocomplete@1.006
 Koha::Contrib::ValueBuilder::RepeatableAutocomplete::RDA 1.006  pkg:cpan/Koha-Contrib-ValueBuilder-RepeatableAutocomplete@1.006
+Koha::QA                           0.001000  pkg:cpan/Koha-QA@0.1.0
+Koha::QA::Base                     undef  pkg:cpan/Koha-QA@0.1.0
+Koha::QA::FilePermissions          undef  pkg:cpan/Koha-QA@0.1.0
+Koha::QA::PerlCritic               undef  pkg:cpan/Koha-QA@0.1.0
+Koha::QA::PerlSyntax               undef  pkg:cpan/Koha-QA@0.1.0
+Koha::QA::PodChecker               undef  pkg:cpan/Koha-QA@0.1.0
+Koha::QA::Security                 undef  pkg:cpan/Koha-QA@0.1.0
+Koha::QA::Security::CSRF           undef  pkg:cpan/Koha-QA@0.1.0
+Koha::QA::Security::Nonce          undef  pkg:cpan/Koha-QA@0.1.0
+Koha::QA::Security::TemplateFilters undef  pkg:cpan/Koha-QA@0.1.0
+Koha::QA::Spelling                 undef  pkg:cpan/Koha-QA@0.1.0
+Koha::QA::TestNoWarnings           undef  pkg:cpan/Koha-QA@0.1.0
+Koha::QA::Tidy                     undef  pkg:cpan/Koha-QA@0.1.0
+Koha::QA::Tidy::JS                 undef  pkg:cpan/Koha-QA@0.1.0
+Koha::QA::Tidy::Perl               undef  pkg:cpan/Koha-QA@0.1.0
+Koha::QA::Tidy::TT                 undef  pkg:cpan/Koha-QA@0.1.0
 Kolab                               1.02  pkg:cpan/Kolab@1.02
 Kolab::Conf                         1.03  pkg:cpan/Kolab-Conf@1.03
 Kolab::Cyrus                        1.01  pkg:cpan/Kolab-Cyrus@1.01
@@ -190569,7 +190586,7 @@ Plack::Handler::H2::Writer         undef  pkg:cpan/Plack-Handler-H2@0.0.5
 Plack::Handler::HTTP::Server::PSGI undef  pkg:cpan/Plack@1.0054
 Plack::Handler::HTTP::Server::Simple  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
 Plack::Handler::HTTP::Server::Simple::PSGIServer  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
-Plack::Handler::Hyperman            0.45  pkg:cpan/Hyperman@0.45
+Plack::Handler::Hyperman            0.46  pkg:cpan/Hyperman@0.46
 Plack::Handler::Martian             0.08  pkg:cpan/Martian@0.08
 Plack::Handler::Message::Passing   undef  pkg:cpan/Message-Passing-PSGI@0.001
 Plack::Handler::Monoceros          undef  pkg:cpan/Monoceros@0.29
@@ -191931,7 +191948,7 @@ Pod::Loom::Template::Identity       0.03  pkg:cpan/Pod-Loom@0.08
 Pod::Loom::_EventCounter            0.05  pkg:cpan/Pod-Loom@0.05
 Pod::Loom::_Interpolation           0.05  pkg:cpan/Pod-Loom@0.05
 Pod::Lyx                            0.25  pkg:cpan/pod2lyx@0.25
-Pod::Man                           v6.1.0  pkg:cpan/podlators@v6.1.0
+Pod::Man                           v6.1.1  pkg:cpan/podlators@v6.1.1
 Pod::Manual                         0.08  pkg:cpan/Pod-Manual@0.08
 Pod::Manual::Docbook2LaTeX          0.08  pkg:cpan/Pod-Manual@0.08
 Pod::Manual::PodXML2Docbook         0.08  pkg:cpan/Pod-Manual@0.08
@@ -191996,7 +192013,7 @@ Pod::PalmDoc                         0.0  pkg:cpan/Pod-PalmDoc@0.0.2
 Pod::Pandoc                        0.005000  pkg:cpan/Pod-Pandoc@0.5.0
 Pod::Pandoc::Modules                0.30  pkg:cpan/Pod-Pandoc@0.5.0
 Pod::Paragraph                      1.67  pkg:cpan/Pod-Parser@1.67
-Pod::ParseLink                     v6.1.0  pkg:cpan/podlators@v6.1.0
+Pod::ParseLink                     v6.1.1  pkg:cpan/podlators@v6.1.1
 Pod::ParseTree                      1.67  pkg:cpan/Pod-Parser@1.67
 Pod::ParseUtils                     1.67  pkg:cpan/Pod-Parser@1.67
 Pod::Parser                         1.67  pkg:cpan/Pod-Parser@1.67
@@ -192222,12 +192239,12 @@ Pod::TOC                           1.126  pkg:cpan/Pod-Perldoc-ToToc@1.126
 Pod::Template                       0.02  pkg:cpan/Pod-Template@0.02
 Pod::Term                           0.02  pkg:cpan/Pod-Term@0.02
 Pod::Tests                          1.20  pkg:cpan/Pod-Tests@1.20
-Pod::Text                          v6.1.0  pkg:cpan/podlators@v6.1.0
+Pod::Text                          v6.1.1  pkg:cpan/podlators@v6.1.1
 Pod::Text::Ansi                     0.05  pkg:cpan/Pod-Text-Ansi@0.05
-Pod::Text::Color                   v6.1.0  pkg:cpan/podlators@v6.1.0
+Pod::Text::Color                   v6.1.1  pkg:cpan/podlators@v6.1.1
 Pod::Text::Color::Delight           0.07  pkg:cpan/Pod-Text-Color-Delight@0.07
-Pod::Text::Overstrike              v6.1.0  pkg:cpan/podlators@v6.1.0
-Pod::Text::Termcap                 v6.1.0  pkg:cpan/podlators@v6.1.0
+Pod::Text::Overstrike              v6.1.1  pkg:cpan/podlators@v6.1.1
+Pod::Text::Termcap                 v6.1.1  pkg:cpan/podlators@v6.1.1
 Pod::Thread                         3.01  pkg:cpan/Pod-Thread@3.01
 Pod::Tidy                           0.10  pkg:cpan/Pod-Tidy@0.10
 Pod::ToDemo                        1.20110709  pkg:cpan/Pod-ToDemo@1.20110709
