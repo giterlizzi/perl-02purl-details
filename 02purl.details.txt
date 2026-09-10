@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 10 Sep 2026 17:35:37 GMT
+Last-Updated: Thu, 10 Sep 2026 20:17:50 GMT
 Line-Count: 259563
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -36722,8 +36722,8 @@ Catalyst::Plugin::Perlinfo          0.01  pkg:cpan/Catalyst-Plugin-Perlinfo@0.01
 Catalyst::Plugin::PickComponents    0.02  pkg:cpan/Catalyst-Plugin-PickComponents@0.02
 Catalyst::Plugin::Pluggable         0.04  pkg:cpan/Catalyst-Plugin-Pluggable@0.04
 Catalyst::Plugin::PluginLoader      0.04  pkg:cpan/Catalyst-Plugin-PluginLoader@0.04
-Catalyst::Plugin::Profile::DBI::Log  0.02  pkg:cpan/Catalyst-Plugin-Profile-DBI-Log@0.02
-Catalyst::Plugin::Profile::DBI::Log::Controller::ControlProfiling  0.02  pkg:cpan/Catalyst-Plugin-Profile-DBI-Log@0.02
+Catalyst::Plugin::Profile::DBI::Log  0.03  pkg:cpan/Catalyst-Plugin-Profile-DBI-Log@0.03
+Catalyst::Plugin::Profile::DBI::Log::Controller::ControlProfiling  0.03  pkg:cpan/Catalyst-Plugin-Profile-DBI-Log@0.03
 Catalyst::Plugin::PrometheusTiny   0.006  pkg:cpan/Catalyst-Plugin-PrometheusTiny@0.006
 Catalyst::Plugin::PrometheusTiny::Controller 0.006  pkg:cpan/Catalyst-Plugin-PrometheusTiny@0.006
 Catalyst::Plugin::Prototype         1.33  pkg:cpan/Catalyst-Plugin-Prototype@1.33
@@ -215402,8 +215402,8 @@ SpeL::Parser::Aux                  20240615  pkg:cpan/SpeL-Wizard@20240615
 SpeL::Parser::Auxiliary            20250511.1428  pkg:cpan/SpeL-Wizard@20250511.1428
 SpeL::Parser::Chunk                20250511.1428  pkg:cpan/SpeL-Wizard@20250511.1428
 SpeL::Wizard                       20250511.1428  pkg:cpan/SpeL-Wizard@20250511.1428
-Speak                               1.04  pkg:cpan/Speak@1.04
-Speak::Logger                       1.04  pkg:cpan/Speak@1.04
+Speak                               1.05  pkg:cpan/Speak@1.05
+Speak::Logger                       1.05  pkg:cpan/Speak@1.05
 SpecialVars                         0.08  pkg:cpan/Data-HTMLDumper@0.08
 Specio                              0.53  pkg:cpan/Specio@0.53
 Specio::Coercion                    0.53  pkg:cpan/Specio@0.53
@@ -224616,7 +224616,7 @@ Test::Pod::Coverage::TrustMe       0.002002  pkg:cpan/Pod-Coverage-TrustMe@0.002
 Test::Pod::CoverageChange          0.005  pkg:cpan/Test-Pod-CoverageChange@0.005
 Test::Pod::LinkCheck               0.008  pkg:cpan/Test-Pod-LinkCheck@0.008
 Test::Pod::LinkCheck::Lite         0.014  pkg:cpan/Test-Pod-LinkCheck-Lite@0.014
-Test::Pod::Links                   0.003  pkg:cpan/Test-Pod-Links@0.003
+Test::Pod::Links                   0.004  pkg:cpan/Test-Pod-Links@0.004
 Test::Pod::No404s                   0.02  pkg:cpan/Test-Pod-No404s@0.02
 Test::Pod::Snippets                 0.07  pkg:cpan/Test-Pod-Snippets@0.07
 Test::Pod::Snippets::Parser         0.07  pkg:cpan/Test-Pod-Snippets@0.07
