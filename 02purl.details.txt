@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 09 Sep 2026 22:08:49 GMT
-Line-Count: 259524
+Last-Updated: Thu, 10 Sep 2026 02:31:39 GMT
+Line-Count: 259536
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -22636,13 +22636,13 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         v0.35.3  pkg:cpan/BarefootJS@0.35.3
-BarefootJS::Backend::Mojo          v0.35.3  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.35.3
-BarefootJS::Backend::Xslate        v0.35.3  pkg:cpan/BarefootJS-Backend-Xslate@0.35.3
-BarefootJS::Date                   v0.35.3  pkg:cpan/BarefootJS@0.35.3
-BarefootJS::DevReload              v0.35.3  pkg:cpan/BarefootJS@0.35.3
-BarefootJS::Evaluator              v0.35.3  pkg:cpan/BarefootJS@0.35.3
-BarefootJS::SearchParams           v0.35.3  pkg:cpan/BarefootJS@0.35.3
+BarefootJS                         v0.35.4  pkg:cpan/BarefootJS@0.35.4
+BarefootJS::Backend::Mojo          v0.35.4  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.35.4
+BarefootJS::Backend::Xslate        v0.35.4  pkg:cpan/BarefootJS-Backend-Xslate@0.35.4
+BarefootJS::Date                   v0.35.4  pkg:cpan/BarefootJS@0.35.4
+BarefootJS::DevReload              v0.35.4  pkg:cpan/BarefootJS@0.35.4
+BarefootJS::Evaluator              v0.35.4  pkg:cpan/BarefootJS@0.35.4
+BarefootJS::SearchParams           v0.35.4  pkg:cpan/BarefootJS@0.35.4
 BarefootJS::_TZProbe               0.029000  pkg:cpan/BarefootJS@0.29.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
@@ -51027,7 +51027,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.1  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::NotNode  v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::OrNode   v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.149
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.151
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curl::Impersonate                   0.02  pkg:cpan/Curl-Impersonate@0.02
 Curl::Impersonate::Multi           undef  pkg:cpan/Curl-Impersonate@0.02
@@ -108358,25 +108358,25 @@ JSON::Schema::Fast::Compiled        0.10  pkg:cpan/JSON-Schema-Fast@0.10
 JSON::Schema::Fit                   0.07  pkg:cpan/JSON-Schema-Fit@0.07
 JSON::Schema::Generate              0.15  pkg:cpan/JSON-Schema-Generate@0.15
 JSON::Schema::Helper               0.016  pkg:cpan/JSON-Schema@0.016
-JSON::Schema::Modern               0.647  pkg:cpan/JSON-Schema-Modern@0.647
-JSON::Schema::Modern::Annotation   0.647  pkg:cpan/JSON-Schema-Modern@0.647
-JSON::Schema::Modern::Document     0.647  pkg:cpan/JSON-Schema-Modern@0.647
+JSON::Schema::Modern               0.648  pkg:cpan/JSON-Schema-Modern@0.648
+JSON::Schema::Modern::Annotation   0.648  pkg:cpan/JSON-Schema-Modern@0.648
+JSON::Schema::Modern::Document     0.648  pkg:cpan/JSON-Schema-Modern@0.648
 JSON::Schema::Modern::Document::OpenAPI 0.147  pkg:cpan/OpenAPI-Modern@0.147
-JSON::Schema::Modern::Error        0.647  pkg:cpan/JSON-Schema-Modern@0.647
-JSON::Schema::Modern::Result       0.647  pkg:cpan/JSON-Schema-Modern@0.647
-JSON::Schema::Modern::ResultNode   0.647  pkg:cpan/JSON-Schema-Modern@0.647
-JSON::Schema::Modern::Utilities    0.647  pkg:cpan/JSON-Schema-Modern@0.647
-JSON::Schema::Modern::Vocabulary   0.647  pkg:cpan/JSON-Schema-Modern@0.647
-JSON::Schema::Modern::Vocabulary::Applicator 0.647  pkg:cpan/JSON-Schema-Modern@0.647
-JSON::Schema::Modern::Vocabulary::Content 0.647  pkg:cpan/JSON-Schema-Modern@0.647
-JSON::Schema::Modern::Vocabulary::Core 0.647  pkg:cpan/JSON-Schema-Modern@0.647
-JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.647  pkg:cpan/JSON-Schema-Modern@0.647
-JSON::Schema::Modern::Vocabulary::FormatAssertion 0.647  pkg:cpan/JSON-Schema-Modern@0.647
-JSON::Schema::Modern::Vocabulary::MetaData 0.647  pkg:cpan/JSON-Schema-Modern@0.647
+JSON::Schema::Modern::Error        0.648  pkg:cpan/JSON-Schema-Modern@0.648
+JSON::Schema::Modern::Result       0.648  pkg:cpan/JSON-Schema-Modern@0.648
+JSON::Schema::Modern::ResultNode   0.648  pkg:cpan/JSON-Schema-Modern@0.648
+JSON::Schema::Modern::Utilities    0.648  pkg:cpan/JSON-Schema-Modern@0.648
+JSON::Schema::Modern::Vocabulary   0.648  pkg:cpan/JSON-Schema-Modern@0.648
+JSON::Schema::Modern::Vocabulary::Applicator 0.648  pkg:cpan/JSON-Schema-Modern@0.648
+JSON::Schema::Modern::Vocabulary::Content 0.648  pkg:cpan/JSON-Schema-Modern@0.648
+JSON::Schema::Modern::Vocabulary::Core 0.648  pkg:cpan/JSON-Schema-Modern@0.648
+JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.648  pkg:cpan/JSON-Schema-Modern@0.648
+JSON::Schema::Modern::Vocabulary::FormatAssertion 0.648  pkg:cpan/JSON-Schema-Modern@0.648
+JSON::Schema::Modern::Vocabulary::MetaData 0.648  pkg:cpan/JSON-Schema-Modern@0.648
 JSON::Schema::Modern::Vocabulary::OpenAPI 0.147  pkg:cpan/OpenAPI-Modern@0.147
 JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.147  pkg:cpan/OpenAPI-Modern@0.147
-JSON::Schema::Modern::Vocabulary::Unevaluated 0.647  pkg:cpan/JSON-Schema-Modern@0.647
-JSON::Schema::Modern::Vocabulary::Validation 0.647  pkg:cpan/JSON-Schema-Modern@0.647
+JSON::Schema::Modern::Vocabulary::Unevaluated 0.648  pkg:cpan/JSON-Schema-Modern@0.648
+JSON::Schema::Modern::Vocabulary::Validation 0.648  pkg:cpan/JSON-Schema-Modern@0.648
 JSON::Schema::Null                 0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Result               0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Shorthand            v0.0.2  pkg:cpan/JSON-Schema-Shorthand@0.0.2
@@ -120743,6 +120743,18 @@ Lustre::LFS                         0.01  pkg:cpan/Lustre-LFS@0.01
 Lustre::LFS::Dir                   undef  pkg:cpan/Lustre-LFS@0.01
 Lustre::LFS::File                  undef  pkg:cpan/Lustre-LFS@0.01
 Lutherie::FretCalc                  0.33  pkg:cpan/Lutherie-FretCalc@0.33
+Luv::CLI                           0.001  pkg:cpan/Luv-CLI@0.001
+Luv::CLI::Command::Add             undef  pkg:cpan/Luv-CLI@0.001
+Luv::CLI::Command::Build           undef  pkg:cpan/Luv-CLI@0.001
+Luv::CLI::Command::Init            undef  pkg:cpan/Luv-CLI@0.001
+Luv::CLI::Command::List            undef  pkg:cpan/Luv-CLI@0.001
+Luv::CLI::Command::Remove          undef  pkg:cpan/Luv-CLI@0.001
+Luv::CLI::Command::Search          undef  pkg:cpan/Luv-CLI@0.001
+Luv::CLI::Command::Update          undef  pkg:cpan/Luv-CLI@0.001
+Luv::CLI::Git                      undef  pkg:cpan/Luv-CLI@0.001
+Luv::CLI::Manifest                 undef  pkg:cpan/Luv-CLI@0.001
+Luv::CLI::Package                  undef  pkg:cpan/Luv-CLI@0.001
+Luv::CLI::Registry                 undef  pkg:cpan/Luv-CLI@0.001
 Lux::IO                             0.07  pkg:cpan/Lux-IO@0.07
 Lux::IO::Btree                     undef  pkg:cpan/Lux-IO@0.07
 Lvalue                              0.21  pkg:cpan/Lvalue@0.21
@@ -126865,7 +126877,7 @@ Mecom::Report                      undef  pkg:cpan/Mecom@1.15
 Mecom::Statistics::RatioVariance   undef  pkg:cpan/Mecom@1.15
 Mecom::Subsets                     undef  pkg:cpan/Mecom@1.15
 Mecom::Surface                     undef  pkg:cpan/Mecom@1.15
-Media::AssetView                   0.001  pkg:cpan/Media-AssetView@0.001
+Media::AssetView                   0.002  pkg:cpan/Media-AssetView@0.002
 Media::Convert                     1.005002  pkg:cpan/Media-Convert@1.5.2
 Media::Convert::AccurateCut        undef  pkg:cpan/Media-Convert@1.5.2
 Media::Convert::Asset              undef  pkg:cpan/Media-Convert@1.5.2
@@ -132306,8 +132318,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    v0.35.3  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.35.3
-Mojolicious::Plugin::BarefootJS::DevReload v0.35.3  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.35.3
+Mojolicious::Plugin::BarefootJS    v0.35.4  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.35.4
+Mojolicious::Plugin::BarefootJS::DevReload v0.35.4  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.35.4
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -222109,7 +222121,7 @@ Term::ANSIColor::Simple             0.10  pkg:cpan/Term-ANSIColor-Simple@0.10
 Term::ANSIColor::WithWin32         0.002  pkg:cpan/Term-ANSIColor-WithWin32@0.002
 Term::ANSIColorx::AutoFilterFH     2.7193  pkg:cpan/Term-ANSIColorx-ColorNicknames@2.7193
 Term::ANSIColorx::ColorNicknames   2.7193  pkg:cpan/Term-ANSIColorx-ColorNicknames@2.7193
-Term::ANSIEncode                    2.06  pkg:cpan/Term-ANSIEncode@2.06
+Term::ANSIEncode                    2.08  pkg:cpan/Term-ANSIEncode@2.08
 Term::ANSIMenu                      0.02  pkg:cpan/Term-ANSIMenu@0.02
 Term::ANSIScreen                    1.50  pkg:cpan/Term-ANSIScreen@1.50
 Term::ANSITable                    0.010100  pkg:cpan/Term-ANSITable@0.010100
@@ -224029,7 +224041,7 @@ Test::JSON::RPC::Autodoc::Request  undef  pkg:cpan/Test-JSON-RPC-Autodoc@0.15
 Test::JSON::RPC::Autodoc::Response undef  pkg:cpan/Test-JSON-RPC-Autodoc@0.15
 Test::JSON::RPC::Autodoc::Validator undef  pkg:cpan/Test-JSON-RPC-Autodoc@0.15
 Test::JSON::Schema                 0.001  pkg:cpan/Test-JSON-Schema@0.001
-Test::JSON::Schema::Acceptance     1.038  pkg:cpan/Test-JSON-Schema-Acceptance@1.038
+Test::JSON::Schema::Acceptance     1.039  pkg:cpan/Test-JSON-Schema-Acceptance@1.039
 Test::JSON::Type                    0.04  pkg:cpan/Test-JSON-Type@0.04
 Test::JSV::Suite                   undef  pkg:cpan/JSV@0.08
 Test::JSYNC                         0.02  pkg:cpan/Test-JSYNC@0.02
