@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 10 Sep 2026 13:59:29 GMT
-Line-Count: 259562
+Last-Updated: Thu, 10 Sep 2026 17:35:37 GMT
+Line-Count: 259563
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5627,12 +5627,12 @@ Ambassador::API::V2::Error         0.001  pkg:cpan/Ambassador-API-V2@0.001
 Ambassador::API::V2::Result        0.001  pkg:cpan/Ambassador-API-V2@0.001
 Ambassador::API::V2::Role::HasJSON 0.001  pkg:cpan/Ambassador-API-V2@0.001
 Ambassador::API::V2::Role::Response 0.001  pkg:cpan/Ambassador-API-V2@0.001
-AmberDB                            5.024000  pkg:cpan/AmberDB@5.24.0
-AmberDB::Array                     5.024000  pkg:cpan/AmberDB@5.24.0
-AmberDB::Date                      5.024000  pkg:cpan/AmberDB@5.24.0
-AmberDB::Locale                    5.024000  pkg:cpan/AmberDB@5.24.0
+AmberDB                            5.025000  pkg:cpan/AmberDB@5.25.0
+AmberDB::Array                     5.025000  pkg:cpan/AmberDB@5.25.0
+AmberDB::Date                      5.025000  pkg:cpan/AmberDB@5.25.0
+AmberDB::Locale                    5.025000  pkg:cpan/AmberDB@5.25.0
 AmberDB::String                    5.024000  pkg:cpan/AmberDB@5.24.0
-AmberDB::Tools                     5.024000  pkg:cpan/AmberDB@5.24.0
+AmberDB::Tools                     5.025000  pkg:cpan/AmberDB@5.25.0
 AmbientOrb::Serial                  0.02  pkg:cpan/AmbientOrb-Serial@0.02
 Ambrosia                            0.01  pkg:cpan/Ambrosia@0.010
 Ambrosia::Addons::Accessor          0.01  pkg:cpan/Ambrosia@0.010
@@ -16800,16 +16800,16 @@ App::perlfind::Plugin::SpecialPackages  2.07  pkg:cpan/App-perlfind@2.07
 App::perlfind::Plugin::UseModule    2.07  pkg:cpan/App-perlfind@2.07
 App::perlfind::Plugin::VersionSpecific  2.07  pkg:cpan/App-perlfind@2.07
 App::perlhl                        0.007  pkg:cpan/App-perlhl@0.007
-App::perlimports                   0.000064  pkg:cpan/App-perlimports@0.000064
-App::perlimports::Annotations      0.000064  pkg:cpan/App-perlimports@0.000064
-App::perlimports::CLI              0.000064  pkg:cpan/App-perlimports@0.000064
-App::perlimports::Config           0.000064  pkg:cpan/App-perlimports@0.000064
-App::perlimports::Document         0.000064  pkg:cpan/App-perlimports@0.000064
-App::perlimports::ExportInspector  0.000064  pkg:cpan/App-perlimports@0.000064
-App::perlimports::Include          0.000064  pkg:cpan/App-perlimports@0.000064
-App::perlimports::Role::Logger     0.000064  pkg:cpan/App-perlimports@0.000064
-App::perlimports::Sandbox          0.000064  pkg:cpan/App-perlimports@0.000064
-App::perlimports::Sorter           0.000064  pkg:cpan/App-perlimports@0.000064
+App::perlimports                   0.000065  pkg:cpan/App-perlimports@0.000065
+App::perlimports::Annotations      0.000065  pkg:cpan/App-perlimports@0.000065
+App::perlimports::CLI              0.000065  pkg:cpan/App-perlimports@0.000065
+App::perlimports::Config           0.000065  pkg:cpan/App-perlimports@0.000065
+App::perlimports::Document         0.000065  pkg:cpan/App-perlimports@0.000065
+App::perlimports::ExportInspector  0.000065  pkg:cpan/App-perlimports@0.000065
+App::perlimports::Include          0.000065  pkg:cpan/App-perlimports@0.000065
+App::perlimports::Role::Logger     0.000065  pkg:cpan/App-perlimports@0.000065
+App::perlimports::Sandbox          0.000065  pkg:cpan/App-perlimports@0.000065
+App::perlimports::Sorter           0.000065  pkg:cpan/App-perlimports@0.000065
 App::perlminlint                    0.24  pkg:cpan/App-perlminlint@0.24
 App::perlminlint::Object           undef  pkg:cpan/App-perlminlint@0.24
 App::perlminlint::Plugin           undef  pkg:cpan/App-perlminlint@0.24
@@ -48729,7 +48729,7 @@ Confluent::SchemaRegistry          1.000000  pkg:cpan/Confluent-SchemaRegistry@v
 Confman                             0.04  pkg:cpan/Confman@0.04
 Confman::API                       undef  pkg:cpan/Confman@0.04
 Confman::ConfSet                   undef  pkg:cpan/Confman@0.04
-Confold                             0.02  pkg:cpan/Confold@0.02
+Confold                             0.03  pkg:cpan/Confold@0.03
 Conformance::Conformance            0.01  pkg:cpan/Protobuf@0.09
 Conformance::Conformance::Types    undef  pkg:cpan/Protobuf@0.09
 Conjury::C                         1.004  pkg:cpan/conjury@1.004
@@ -78182,7 +78182,7 @@ Frost::Twilight::LRU                0.65  pkg:cpan/Frost@0.70
 Frost::Types                        0.64  pkg:cpan/Frost@0.70
 Frost::Util                          0.5  pkg:cpan/Frost@0.70
 Frost::Vault                        0.62  pkg:cpan/Frost@0.70
-Frozen                              0.01  pkg:cpan/Frozen@0.01
+Frozen                              0.02  pkg:cpan/Frozen@0.02
 Fry::Base                          undef  pkg:cpan/Fry-Shell@0.15
 Fry::Cmd                           undef  pkg:cpan/Fry-Shell@0.15
 Fry::Config::Default               undef  pkg:cpan/Fry-Shell@0.15
@@ -110499,22 +110499,22 @@ Koha::Contrib::Tamil::Unimarc4xx::Fix 0.074  pkg:cpan/Koha-Contrib-Tamil@0.074
 Koha::Contrib::Tamil::Zebra::Clouder 0.074  pkg:cpan/Koha-Contrib-Tamil@0.074
 Koha::Contrib::ValueBuilder::RepeatableAutocomplete 1.006  pkg:cpan/Koha-Contrib-ValueBuilder-RepeatableAutocomplete@1.006
 Koha::Contrib::ValueBuilder::RepeatableAutocomplete::RDA 1.006  pkg:cpan/Koha-Contrib-ValueBuilder-RepeatableAutocomplete@1.006
-Koha::QA                           0.001002  pkg:cpan/Koha-QA@0.1.2
-Koha::QA::Base                     undef  pkg:cpan/Koha-QA@0.1.2
-Koha::QA::FilePermissions          undef  pkg:cpan/Koha-QA@0.1.2
-Koha::QA::PerlCritic               undef  pkg:cpan/Koha-QA@0.1.2
-Koha::QA::PerlSyntax               undef  pkg:cpan/Koha-QA@0.1.2
-Koha::QA::PodChecker               undef  pkg:cpan/Koha-QA@0.1.2
-Koha::QA::Security                 undef  pkg:cpan/Koha-QA@0.1.2
-Koha::QA::Security::CSRF           undef  pkg:cpan/Koha-QA@0.1.2
-Koha::QA::Security::Nonce          undef  pkg:cpan/Koha-QA@0.1.2
-Koha::QA::Security::TemplateFilters undef  pkg:cpan/Koha-QA@0.1.2
-Koha::QA::Spelling                 undef  pkg:cpan/Koha-QA@0.1.2
-Koha::QA::TestNoWarnings           undef  pkg:cpan/Koha-QA@0.1.2
-Koha::QA::Tidy                     undef  pkg:cpan/Koha-QA@0.1.2
-Koha::QA::Tidy::JS                 undef  pkg:cpan/Koha-QA@0.1.2
-Koha::QA::Tidy::Perl               undef  pkg:cpan/Koha-QA@0.1.2
-Koha::QA::Tidy::TT                 undef  pkg:cpan/Koha-QA@0.1.2
+Koha::QA                           0.001003  pkg:cpan/Koha-QA@0.1.3
+Koha::QA::Base                     undef  pkg:cpan/Koha-QA@0.1.3
+Koha::QA::FilePermissions          undef  pkg:cpan/Koha-QA@0.1.3
+Koha::QA::PerlCritic               undef  pkg:cpan/Koha-QA@0.1.3
+Koha::QA::PerlSyntax               undef  pkg:cpan/Koha-QA@0.1.3
+Koha::QA::PodChecker               undef  pkg:cpan/Koha-QA@0.1.3
+Koha::QA::Security                 undef  pkg:cpan/Koha-QA@0.1.3
+Koha::QA::Security::CSRF           undef  pkg:cpan/Koha-QA@0.1.3
+Koha::QA::Security::Nonce          undef  pkg:cpan/Koha-QA@0.1.3
+Koha::QA::Security::TemplateFilters undef  pkg:cpan/Koha-QA@0.1.3
+Koha::QA::Spelling                 undef  pkg:cpan/Koha-QA@0.1.3
+Koha::QA::TestNoWarnings           undef  pkg:cpan/Koha-QA@0.1.3
+Koha::QA::Tidy                     undef  pkg:cpan/Koha-QA@0.1.3
+Koha::QA::Tidy::JS                 undef  pkg:cpan/Koha-QA@0.1.3
+Koha::QA::Tidy::Perl               undef  pkg:cpan/Koha-QA@0.1.3
+Koha::QA::Tidy::TT                 undef  pkg:cpan/Koha-QA@0.1.3
 Kolab                               1.02  pkg:cpan/Kolab@1.02
 Kolab::Conf                         1.03  pkg:cpan/Kolab-Conf@1.03
 Kolab::Cyrus                        1.01  pkg:cpan/Kolab-Cyrus@1.01
@@ -213638,7 +213638,7 @@ SimpleDBI                           0.02  pkg:cpan/SimpleDBI@0.02
 SimpleDBI::mysql                   undef  pkg:cpan/SimpleDBI@0.02
 SimpleException                    0.103  pkg:cpan/Exceptions@0.103
 SimpleFlake                         0.11  pkg:cpan/SimpleFlake@0.11
-SimpleFlow                          0.16  pkg:cpan/SimpleFlow@0.16
+SimpleFlow                         0.161  pkg:cpan/SimpleFlow@0.161
 SimpleMock                          0.05  pkg:cpan/SimpleMock@0.05
 SimpleMock::Mocks::DBI              0.05  pkg:cpan/SimpleMock@0.05
 SimpleMock::Mocks::LWP::UserAgent   0.05  pkg:cpan/SimpleMock@0.05
@@ -257539,6 +257539,7 @@ eBay::API::XML::Tools::CodeGen::XSD::CodeGenSimpleDataType  0.01  pkg:cpan/eBay-
 eBay::API::XML::Tools::CodeGen::XSD::Element  0.01  pkg:cpan/eBay-API@0.22
 eBay::API::XML::Tools::CodeGen::XSD::EnumElement  0.01  pkg:cpan/eBay-API@0.22
 eBay::API::XML::t::TidyHelper      undef  pkg:cpan/eBay-API@0.25
+eBay::Client::OpenAPI3              0.01  pkg:cpan/eBay-Client-OpenAPI3@0.01
 eBay::Exception                     0.01  pkg:cpan/eBay-API@0.22
 eGuideDog::Dict::Cantonese          0.41  pkg:cpan/eGuideDog-Dict-Cantonese@0.41
 eGuideDog::Dict::Mandarin            0.5  pkg:cpan/eGuideDog-Dict-Mandarin@0.5
