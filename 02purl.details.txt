@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 10 Sep 2026 20:17:50 GMT
-Line-Count: 259563
+Last-Updated: Thu, 10 Sep 2026 23:36:25 GMT
+Line-Count: 259577
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5627,12 +5627,12 @@ Ambassador::API::V2::Error         0.001  pkg:cpan/Ambassador-API-V2@0.001
 Ambassador::API::V2::Result        0.001  pkg:cpan/Ambassador-API-V2@0.001
 Ambassador::API::V2::Role::HasJSON 0.001  pkg:cpan/Ambassador-API-V2@0.001
 Ambassador::API::V2::Role::Response 0.001  pkg:cpan/Ambassador-API-V2@0.001
-AmberDB                            5.025000  pkg:cpan/AmberDB@5.25.0
-AmberDB::Array                     5.025000  pkg:cpan/AmberDB@5.25.0
-AmberDB::Date                      5.025000  pkg:cpan/AmberDB@5.25.0
-AmberDB::Locale                    5.025000  pkg:cpan/AmberDB@5.25.0
+AmberDB                            5.025001  pkg:cpan/AmberDB@5.25.1
+AmberDB::Array                     5.025001  pkg:cpan/AmberDB@5.25.1
+AmberDB::Date                      5.025001  pkg:cpan/AmberDB@5.25.1
+AmberDB::Locale                    5.025001  pkg:cpan/AmberDB@5.25.1
 AmberDB::String                    5.024000  pkg:cpan/AmberDB@5.24.0
-AmberDB::Tools                     5.025000  pkg:cpan/AmberDB@5.25.0
+AmberDB::Tools                     5.025001  pkg:cpan/AmberDB@5.25.1
 AmbientOrb::Serial                  0.02  pkg:cpan/AmbientOrb-Serial@0.02
 Ambrosia                            0.01  pkg:cpan/Ambrosia@0.010
 Ambrosia::Addons::Accessor          0.01  pkg:cpan/Ambrosia@0.010
@@ -30832,7 +30832,8 @@ Business::EDI::Segment::RFF         0.02  pkg:cpan/Business-EDI@0.05?ext=tgz
 Business::EDI::Segment_group        0.05  pkg:cpan/Business-EDI@0.05?ext=tgz
 Business::EDI::Spec                 0.02  pkg:cpan/Business-EDI@0.05?ext=tgz
 Business::EDI::Test                 0.02  pkg:cpan/Business-EDI@0.05?ext=tgz
-Business::ES::CodigoPostal          0.02  pkg:cpan/Business-ES-CodigoPostal@0.02
+Business::ES::CodigoPostal          0.03  pkg:cpan/Business-ES-CodigoPostal@0.03
+Business::ES::CodigoPostal::Municipios  0.03  pkg:cpan/Business-ES-CodigoPostal@0.03
 Business::ES::NIF                   0.15  pkg:cpan/Business-ES-NIF@0.15
 Business::Edifact::Interchange      0.07  pkg:cpan/Business-Edifact-Interchange@0.07
 Business::Edifact::Message          0.07  pkg:cpan/Business-Edifact-Interchange@0.07
@@ -30929,7 +30930,7 @@ Business::IS::PIN                   0.06  pkg:cpan/Business-IS-PIN@0.06
 Business::ISBN                     3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN10                   3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN13                   3.014  pkg:cpan/Business-ISBN@3.014
-Business::ISBN::Data               20260907.001  pkg:cpan/Business-ISBN-Data@20260907.001
+Business::ISBN::Data               20260910.001  pkg:cpan/Business-ISBN-Data@20260910.001
 Business::ISIN                      0.20  pkg:cpan/Business-ISIN@0.20?ext=tgz
 Business::ISMN                     1.205  pkg:cpan/Business-ISMN@1.205
 Business::ISMN::Data               1.205  pkg:cpan/Business-ISMN@1.205
@@ -78182,7 +78183,7 @@ Frost::Twilight::LRU                0.65  pkg:cpan/Frost@0.70
 Frost::Types                        0.64  pkg:cpan/Frost@0.70
 Frost::Util                          0.5  pkg:cpan/Frost@0.70
 Frost::Vault                        0.62  pkg:cpan/Frost@0.70
-Frozen                              0.02  pkg:cpan/Frozen@0.02
+Frozen                              0.04  pkg:cpan/Frozen@0.04
 Fry::Base                          undef  pkg:cpan/Fry-Shell@0.15
 Fry::Cmd                           undef  pkg:cpan/Fry-Shell@0.15
 Fry::Config::Default               undef  pkg:cpan/Fry-Shell@0.15
@@ -110499,22 +110500,22 @@ Koha::Contrib::Tamil::Unimarc4xx::Fix 0.074  pkg:cpan/Koha-Contrib-Tamil@0.074
 Koha::Contrib::Tamil::Zebra::Clouder 0.074  pkg:cpan/Koha-Contrib-Tamil@0.074
 Koha::Contrib::ValueBuilder::RepeatableAutocomplete 1.006  pkg:cpan/Koha-Contrib-ValueBuilder-RepeatableAutocomplete@1.006
 Koha::Contrib::ValueBuilder::RepeatableAutocomplete::RDA 1.006  pkg:cpan/Koha-Contrib-ValueBuilder-RepeatableAutocomplete@1.006
-Koha::QA                           0.001003  pkg:cpan/Koha-QA@0.1.3
-Koha::QA::Base                     undef  pkg:cpan/Koha-QA@0.1.3
-Koha::QA::FilePermissions          undef  pkg:cpan/Koha-QA@0.1.3
-Koha::QA::PerlCritic               undef  pkg:cpan/Koha-QA@0.1.3
-Koha::QA::PerlSyntax               undef  pkg:cpan/Koha-QA@0.1.3
-Koha::QA::PodChecker               undef  pkg:cpan/Koha-QA@0.1.3
-Koha::QA::Security                 undef  pkg:cpan/Koha-QA@0.1.3
-Koha::QA::Security::CSRF           undef  pkg:cpan/Koha-QA@0.1.3
-Koha::QA::Security::Nonce          undef  pkg:cpan/Koha-QA@0.1.3
-Koha::QA::Security::TemplateFilters undef  pkg:cpan/Koha-QA@0.1.3
-Koha::QA::Spelling                 undef  pkg:cpan/Koha-QA@0.1.3
-Koha::QA::TestNoWarnings           undef  pkg:cpan/Koha-QA@0.1.3
-Koha::QA::Tidy                     undef  pkg:cpan/Koha-QA@0.1.3
-Koha::QA::Tidy::JS                 undef  pkg:cpan/Koha-QA@0.1.3
-Koha::QA::Tidy::Perl               undef  pkg:cpan/Koha-QA@0.1.3
-Koha::QA::Tidy::TT                 undef  pkg:cpan/Koha-QA@0.1.3
+Koha::QA                           0.001004  pkg:cpan/Koha-QA@0.1.4
+Koha::QA::Base                     undef  pkg:cpan/Koha-QA@0.1.4
+Koha::QA::FilePermissions          undef  pkg:cpan/Koha-QA@0.1.4
+Koha::QA::PerlCritic               undef  pkg:cpan/Koha-QA@0.1.4
+Koha::QA::PerlSyntax               undef  pkg:cpan/Koha-QA@0.1.4
+Koha::QA::PodChecker               undef  pkg:cpan/Koha-QA@0.1.4
+Koha::QA::Security                 undef  pkg:cpan/Koha-QA@0.1.4
+Koha::QA::Security::CSRF           undef  pkg:cpan/Koha-QA@0.1.4
+Koha::QA::Security::Nonce          undef  pkg:cpan/Koha-QA@0.1.4
+Koha::QA::Security::TemplateFilters undef  pkg:cpan/Koha-QA@0.1.4
+Koha::QA::Spelling                 undef  pkg:cpan/Koha-QA@0.1.4
+Koha::QA::TestNoWarnings           undef  pkg:cpan/Koha-QA@0.1.4
+Koha::QA::Tidy                     undef  pkg:cpan/Koha-QA@0.1.4
+Koha::QA::Tidy::JS                 undef  pkg:cpan/Koha-QA@0.1.4
+Koha::QA::Tidy::Perl               undef  pkg:cpan/Koha-QA@0.1.4
+Koha::QA::Tidy::TT                 undef  pkg:cpan/Koha-QA@0.1.4
 Kolab                               1.02  pkg:cpan/Kolab@1.02
 Kolab::Conf                         1.03  pkg:cpan/Kolab-Conf@1.03
 Kolab::Cyrus                        1.01  pkg:cpan/Kolab-Cyrus@1.01
@@ -188284,6 +188285,7 @@ Perl::Critic::Policy::Plicease::ProhibitLeadingZeros  0.10  pkg:cpan/Perl-Critic
 Perl::Critic::Policy::Plicease::ProhibitSignaturesAndAtUnderscore  0.10  pkg:cpan/Perl-Critic-Plicease@0.10
 Perl::Critic::Policy::Plicease::ProhibitSpecificModules  0.10  pkg:cpan/Perl-Critic-Plicease@0.10
 Perl::Critic::Policy::Plicease::ProhibitUnicodeDigitInRegexp  0.10  pkg:cpan/Perl-Critic-Plicease@0.10
+Perl::Critic::Policy::PreferredBinaries 0.001  pkg:cpan/Perl-Critic-Policy-PreferredBinaries@0.001
 Perl::Critic::Policy::PreferredModules 0.005  pkg:cpan/Perl-Critic-Policy-PreferredModules@0.005
 Perl::Critic::Policy::ProhibitImplicitImport 0.000001  pkg:cpan/Perl-Critic-Policy-ProhibitImplicitImport@0.000001
 Perl::Critic::Policy::ProhibitNoWarningsRedefine 1.000  pkg:cpan/perl-critic-policy-prohibitnowarningsredefine@1.000
@@ -211058,6 +211060,18 @@ ShardedKV::Storage::Redis::String   0.20  pkg:cpan/ShardedKV@0.20
 ShardedKV::Storage::ReplicatedRest undef  pkg:cpan/ShardedKV-Storage-Rest@0.8
 ShardedKV::Storage::Rest             0.8  pkg:cpan/ShardedKV-Storage-Rest@0.8
 SharePoint::SOAPHandler            0.0013  pkg:cpan/SharePoint-SOAPHandler@0.0013
+Shared::Arena                       0.01  pkg:cpan/Shared-Arena@0.01
+Shared::Arena::Bloom                0.01  pkg:cpan/Shared-Arena@0.01
+Shared::Arena::Cache                0.01  pkg:cpan/Shared-Arena@0.01
+Shared::Arena::CountMin             0.01  pkg:cpan/Shared-Arena@0.01
+Shared::Arena::Frozen               0.01  pkg:cpan/Shared-Arena@0.01
+Shared::Arena::Frozen::View         0.01  pkg:cpan/Shared-Arena@0.01
+Shared::Arena::Histogram            0.01  pkg:cpan/Shared-Arena@0.01
+Shared::Arena::Map                  0.01  pkg:cpan/Shared-Arena@0.01
+Shared::Arena::Rate                 0.01  pkg:cpan/Shared-Arena@0.01
+Shared::Arena::Ring                 0.01  pkg:cpan/Shared-Arena@0.01
+Shared::Arena::Ring::Cursor         0.01  pkg:cpan/Shared-Arena@0.01
+Shared::Arena::Ring::Group          0.01  pkg:cpan/Shared-Arena@0.01
 Shared::Examples::Net::Amazon::S3  0.992  pkg:cpan/Net-Amazon-S3@0.992
 Shared::Examples::Net::Amazon::S3::ACL  0.89  pkg:cpan/Net-Amazon-S3@0.89
 Shared::Examples::Net::Amazon::S3::API 0.992  pkg:cpan/Net-Amazon-S3@0.992
