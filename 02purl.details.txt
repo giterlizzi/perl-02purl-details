@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 10 Sep 2026 23:36:25 GMT
-Line-Count: 259577
+Last-Updated: Fri, 11 Sep 2026 02:25:53 GMT
+Line-Count: 259578
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -99058,7 +99058,7 @@ HTML::Content::TokeParserTokenizer undef  pkg:cpan/HTML-Content-Extractor@0.01
 HTML::ContentExtractor              0.03  pkg:cpan/HTML-ContentExtractor@0.03
 HTML::Copy                          1.31  pkg:cpan/HTML-Copy@1.31
 HTML::CruftText                     0.02  pkg:cpan/HTML-CruftText@0.02
-HTML::D3                            0.10  pkg:cpan/HTML-D3@0.10
+HTML::D3                            0.11  pkg:cpan/HTML-D3@0.11
 HTML::DBForm                        1.05  pkg:cpan/HTML-DBForm@1.05
 HTML::DBForm::Search                1.05  pkg:cpan/HTML-DBForm@1.05
 HTML::DBForm::Search::DropDown      1.05  pkg:cpan/HTML-DBForm@1.05
@@ -150511,22 +150511,23 @@ OpenStack::Client::Auth            undef  pkg:cpan/OpenStack-Client@1.0007
 OpenStack::Client::Auth::v2        undef  pkg:cpan/OpenStack-Client@1.0007
 OpenStack::Client::Auth::v3        undef  pkg:cpan/OpenStack-Client@1.0007
 OpenStack::Client::Response        undef  pkg:cpan/OpenStack-Client@1.0007
-OpenStack::MetaAPI                 0.003  pkg:cpan/OpenStack-MetaAPI@0.003
-OpenStack::MetaAPI::API            0.003  pkg:cpan/OpenStack-MetaAPI@0.003
-OpenStack::MetaAPI::API::Compute   0.003  pkg:cpan/OpenStack-MetaAPI@0.003
-OpenStack::MetaAPI::API::Images    0.003  pkg:cpan/OpenStack-MetaAPI@0.003
-OpenStack::MetaAPI::API::Network   0.003  pkg:cpan/OpenStack-MetaAPI@0.003
-OpenStack::MetaAPI::API::Service   0.003  pkg:cpan/OpenStack-MetaAPI@0.003
-OpenStack::MetaAPI::API::Specs     0.003  pkg:cpan/OpenStack-MetaAPI@0.003
-OpenStack::MetaAPI::API::Specs::Compute::v2_0 0.003  pkg:cpan/OpenStack-MetaAPI@0.003
-OpenStack::MetaAPI::API::Specs::Compute::v2_1 0.003  pkg:cpan/OpenStack-MetaAPI@0.003
-OpenStack::MetaAPI::API::Specs::Default 0.003  pkg:cpan/OpenStack-MetaAPI@0.003
-OpenStack::MetaAPI::API::Specs::Network::v2 0.003  pkg:cpan/OpenStack-MetaAPI@0.003
-OpenStack::MetaAPI::API::Specs::Roles::Service 0.003  pkg:cpan/OpenStack-MetaAPI@0.003
-OpenStack::MetaAPI::Helpers::DataAsYaml 0.003  pkg:cpan/OpenStack-MetaAPI@0.003
-OpenStack::MetaAPI::Roles::GetFromId 0.003  pkg:cpan/OpenStack-MetaAPI@0.003
-OpenStack::MetaAPI::Roles::Listable 0.003  pkg:cpan/OpenStack-MetaAPI@0.003
-OpenStack::MetaAPI::Routes         0.003  pkg:cpan/OpenStack-MetaAPI@0.003
+OpenStack::MetaAPI                 0.004  pkg:cpan/OpenStack-MetaAPI@0.004
+OpenStack::MetaAPI::API            0.004  pkg:cpan/OpenStack-MetaAPI@0.004
+OpenStack::MetaAPI::API::Compute   0.004  pkg:cpan/OpenStack-MetaAPI@0.004
+OpenStack::MetaAPI::API::Images    0.004  pkg:cpan/OpenStack-MetaAPI@0.004
+OpenStack::MetaAPI::API::Network   0.004  pkg:cpan/OpenStack-MetaAPI@0.004
+OpenStack::MetaAPI::API::Service   0.004  pkg:cpan/OpenStack-MetaAPI@0.004
+OpenStack::MetaAPI::API::Specs     0.004  pkg:cpan/OpenStack-MetaAPI@0.004
+OpenStack::MetaAPI::API::Specs::Compute::v2_0 0.004  pkg:cpan/OpenStack-MetaAPI@0.004
+OpenStack::MetaAPI::API::Specs::Compute::v2_1 0.004  pkg:cpan/OpenStack-MetaAPI@0.004
+OpenStack::MetaAPI::API::Specs::Default 0.004  pkg:cpan/OpenStack-MetaAPI@0.004
+OpenStack::MetaAPI::API::Specs::Network::v2 0.004  pkg:cpan/OpenStack-MetaAPI@0.004
+OpenStack::MetaAPI::API::Specs::Roles::Service 0.004  pkg:cpan/OpenStack-MetaAPI@0.004
+OpenStack::MetaAPI::API::Volume    0.004  pkg:cpan/OpenStack-MetaAPI@0.004
+OpenStack::MetaAPI::Helpers::DataAsYaml 0.004  pkg:cpan/OpenStack-MetaAPI@0.004
+OpenStack::MetaAPI::Roles::GetFromId 0.004  pkg:cpan/OpenStack-MetaAPI@0.004
+OpenStack::MetaAPI::Roles::Listable 0.004  pkg:cpan/OpenStack-MetaAPI@0.004
+OpenStack::MetaAPI::Routes         0.004  pkg:cpan/OpenStack-MetaAPI@0.004
 OpenStatisticalServices            0.022  pkg:cpan/openStatisticalServices@0.022
 OpenTelemetry                      0.037  pkg:cpan/OpenTelemetry@0.037
 OpenTelemetry::Any                 0.001  pkg:cpan/OpenTelemetry@0.001
@@ -188285,7 +188286,7 @@ Perl::Critic::Policy::Plicease::ProhibitLeadingZeros  0.10  pkg:cpan/Perl-Critic
 Perl::Critic::Policy::Plicease::ProhibitSignaturesAndAtUnderscore  0.10  pkg:cpan/Perl-Critic-Plicease@0.10
 Perl::Critic::Policy::Plicease::ProhibitSpecificModules  0.10  pkg:cpan/Perl-Critic-Plicease@0.10
 Perl::Critic::Policy::Plicease::ProhibitUnicodeDigitInRegexp  0.10  pkg:cpan/Perl-Critic-Plicease@0.10
-Perl::Critic::Policy::PreferredBinaries 0.001  pkg:cpan/Perl-Critic-Policy-PreferredBinaries@0.001
+Perl::Critic::Policy::PreferredBinaries 0.002  pkg:cpan/Perl-Critic-Policy-PreferredBinaries@0.002
 Perl::Critic::Policy::PreferredModules 0.005  pkg:cpan/Perl-Critic-Policy-PreferredModules@0.005
 Perl::Critic::Policy::ProhibitImplicitImport 0.000001  pkg:cpan/Perl-Critic-Policy-ProhibitImplicitImport@0.000001
 Perl::Critic::Policy::ProhibitNoWarningsRedefine 1.000  pkg:cpan/perl-critic-policy-prohibitnowarningsredefine@1.000
