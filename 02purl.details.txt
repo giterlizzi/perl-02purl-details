@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 11 Sep 2026 13:58:28 GMT
-Line-Count: 259587
+Last-Updated: Fri, 11 Sep 2026 17:36:39 GMT
+Line-Count: 259590
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -24038,7 +24038,7 @@ Bible::OBML                         2.11  pkg:cpan/Bible-OBML@2.11
 Bible::OBML::Gateway                2.12  pkg:cpan/Bible-OBML-Gateway@2.12
 Bible::OBML::HTML                   1.18  pkg:cpan/Bible-OBML@1.18
 Bible::Reference                    1.20  pkg:cpan/Bible-Reference@1.20
-BibliConverter                     undef  pkg:cpan/Koha-Contrib-Sudoc@2.49
+BibliConverter                     undef  pkg:cpan/Koha-Contrib-Sudoc@2.50
 Biblio::BP                          1.25  pkg:cpan/Bundle-PBib@2.08.01
 Biblio::BP::Util                    1.18  pkg:cpan/Bundle-PBib@2.08
 Biblio::Biblio                      1.13  pkg:cpan/Bundle-PBib@2.08.01
@@ -83873,7 +83873,7 @@ Getopt::Gen::cmdline_c             undef  pkg:cpan/Getopt-Gen@0.14
 Getopt::Gen::cmdline_h             undef  pkg:cpan/Getopt-Gen@0.14
 Getopt::Gen::cmdline_pod           undef  pkg:cpan/Getopt-Gen@0.14
 Getopt::GetArgs                     1.03  pkg:cpan/Getopt-GetArgs@1.03
-Getopt::Guided                     v3.3.0  pkg:cpan/Getopt-Guided@v3.3.0
+Getopt::Guided                     v3.3.1  pkg:cpan/Getopt-Guided@v3.3.1
 Getopt::Helpful                     0.04  pkg:cpan/Getopt-Helpful@0.04
 Getopt::Inherited                  1.100860  pkg:cpan/Getopt-Inherited@1.100860
 Getopt::Janus                       1.03  pkg:cpan/Getopt-Janus@1.03
@@ -110467,18 +110467,18 @@ Koha::Contrib::ARK::Update         1.001002  pkg:cpan/Koha-Contrib-ARK@1.1.2
 Koha::Contrib::ARK::Updater        1.000002  pkg:cpan/Koha-Contrib-ARK@1.0.2
 Koha::Contrib::ARK::Writer         1.001002  pkg:cpan/Koha-Contrib-ARK@1.1.2
 Koha::Contrib::Mirabel             1.000002  pkg:cpan/Koha-Contrib-Mirabel@1.0.2
-Koha::Contrib::Sudoc                2.49  pkg:cpan/Koha-Contrib-Sudoc@2.49
-Koha::Contrib::Sudoc::BiblioReader  2.49  pkg:cpan/Koha-Contrib-Sudoc@2.49
-Koha::Contrib::Sudoc::Converter     2.49  pkg:cpan/Koha-Contrib-Sudoc@2.49
-Koha::Contrib::Sudoc::Koha          2.49  pkg:cpan/Koha-Contrib-Sudoc@2.49
-Koha::Contrib::Sudoc::Loader        2.49  pkg:cpan/Koha-Contrib-Sudoc@2.49
-Koha::Contrib::Sudoc::Loader::Authorities  2.49  pkg:cpan/Koha-Contrib-Sudoc@2.49
-Koha::Contrib::Sudoc::Loader::Biblios  2.49  pkg:cpan/Koha-Contrib-Sudoc@2.49
-Koha::Contrib::Sudoc::Localisation  2.49  pkg:cpan/Koha-Contrib-Sudoc@2.49
-Koha::Contrib::Sudoc::PPNize::Reader  2.49  pkg:cpan/Koha-Contrib-Sudoc@2.49
-Koha::Contrib::Sudoc::PPNize::Updater  2.49  pkg:cpan/Koha-Contrib-Sudoc@2.49
-Koha::Contrib::Sudoc::Spool         2.49  pkg:cpan/Koha-Contrib-Sudoc@2.49
-Koha::Contrib::Sudoc::TransferDaemon  2.49  pkg:cpan/Koha-Contrib-Sudoc@2.49
+Koha::Contrib::Sudoc                2.50  pkg:cpan/Koha-Contrib-Sudoc@2.50
+Koha::Contrib::Sudoc::BiblioReader  2.50  pkg:cpan/Koha-Contrib-Sudoc@2.50
+Koha::Contrib::Sudoc::Converter     2.50  pkg:cpan/Koha-Contrib-Sudoc@2.50
+Koha::Contrib::Sudoc::Koha          2.50  pkg:cpan/Koha-Contrib-Sudoc@2.50
+Koha::Contrib::Sudoc::Loader        2.50  pkg:cpan/Koha-Contrib-Sudoc@2.50
+Koha::Contrib::Sudoc::Loader::Authorities  2.50  pkg:cpan/Koha-Contrib-Sudoc@2.50
+Koha::Contrib::Sudoc::Loader::Biblios  2.50  pkg:cpan/Koha-Contrib-Sudoc@2.50
+Koha::Contrib::Sudoc::Localisation  2.50  pkg:cpan/Koha-Contrib-Sudoc@2.50
+Koha::Contrib::Sudoc::PPNize::Reader  2.50  pkg:cpan/Koha-Contrib-Sudoc@2.50
+Koha::Contrib::Sudoc::PPNize::Updater  2.50  pkg:cpan/Koha-Contrib-Sudoc@2.50
+Koha::Contrib::Sudoc::Spool         2.50  pkg:cpan/Koha-Contrib-Sudoc@2.50
+Koha::Contrib::Sudoc::TransferDaemon  2.50  pkg:cpan/Koha-Contrib-Sudoc@2.50
 Koha::Contrib::Tamil               0.074  pkg:cpan/Koha-Contrib-Tamil@0.074
 Koha::Contrib::Tamil::ARK          0.057  pkg:cpan/Koha-Contrib-Tamil@0.057
 Koha::Contrib::Tamil::AuthoritiesLoader 0.074  pkg:cpan/Koha-Contrib-Tamil@0.074
@@ -199976,7 +199976,7 @@ Rethinkdb::Response                undef  pkg:cpan/Rethinkdb@0.14
 Rethinkdb::Util                    undef  pkg:cpan/Rethinkdb@0.14
 Rethinkdb::_False                   0.14  pkg:cpan/Rethinkdb@0.14
 Rethinkdb::_True                    0.14  pkg:cpan/Rethinkdb@0.14
-Retro                              undef  pkg:cpan/Koha-Contrib-Sudoc@2.49
+Retro                              undef  pkg:cpan/Koha-Contrib-Sudoc@2.50
 Retry                               1.04  pkg:cpan/Retry@1.04
 Retry::Backoff                     0.006  pkg:cpan/Retry-Backoff@0.006
 Retry::Policy                       0.02  pkg:cpan/Retry-Policy@0.02
@@ -211069,18 +211069,21 @@ ShardedKV::Storage::Redis::String   0.20  pkg:cpan/ShardedKV@0.20
 ShardedKV::Storage::ReplicatedRest undef  pkg:cpan/ShardedKV-Storage-Rest@0.8
 ShardedKV::Storage::Rest             0.8  pkg:cpan/ShardedKV-Storage-Rest@0.8
 SharePoint::SOAPHandler            0.0013  pkg:cpan/SharePoint-SOAPHandler@0.0013
-Shared::Arena                       0.02  pkg:cpan/Shared-Arena@0.02
-Shared::Arena::Bloom                0.02  pkg:cpan/Shared-Arena@0.02
-Shared::Arena::Cache                0.02  pkg:cpan/Shared-Arena@0.02
-Shared::Arena::CountMin             0.02  pkg:cpan/Shared-Arena@0.02
-Shared::Arena::Frozen               0.02  pkg:cpan/Shared-Arena@0.02
-Shared::Arena::Frozen::View         0.02  pkg:cpan/Shared-Arena@0.02
-Shared::Arena::Histogram            0.02  pkg:cpan/Shared-Arena@0.02
-Shared::Arena::Map                  0.02  pkg:cpan/Shared-Arena@0.02
-Shared::Arena::Rate                 0.02  pkg:cpan/Shared-Arena@0.02
-Shared::Arena::Ring                 0.02  pkg:cpan/Shared-Arena@0.02
-Shared::Arena::Ring::Cursor         0.02  pkg:cpan/Shared-Arena@0.02
-Shared::Arena::Ring::Group          0.02  pkg:cpan/Shared-Arena@0.02
+Shared::Arena                       0.03  pkg:cpan/Shared-Arena@0.03
+Shared::Arena::Bloom                0.03  pkg:cpan/Shared-Arena@0.03
+Shared::Arena::Cache                0.03  pkg:cpan/Shared-Arena@0.03
+Shared::Arena::CountMin             0.03  pkg:cpan/Shared-Arena@0.03
+Shared::Arena::Cuckoo               0.03  pkg:cpan/Shared-Arena@0.03
+Shared::Arena::Frozen               0.03  pkg:cpan/Shared-Arena@0.03
+Shared::Arena::Frozen::View         0.03  pkg:cpan/Shared-Arena@0.03
+Shared::Arena::Histogram            0.03  pkg:cpan/Shared-Arena@0.03
+Shared::Arena::Lease                0.03  pkg:cpan/Shared-Arena@0.03
+Shared::Arena::Map                  0.03  pkg:cpan/Shared-Arena@0.03
+Shared::Arena::Rate                 0.03  pkg:cpan/Shared-Arena@0.03
+Shared::Arena::Ring                 0.03  pkg:cpan/Shared-Arena@0.03
+Shared::Arena::Ring::Cursor         0.03  pkg:cpan/Shared-Arena@0.03
+Shared::Arena::Ring::Group          0.03  pkg:cpan/Shared-Arena@0.03
+Shared::Arena::Scoreboard           0.03  pkg:cpan/Shared-Arena@0.03
 Shared::Examples::Net::Amazon::S3  0.992  pkg:cpan/Net-Amazon-S3@0.992
 Shared::Examples::Net::Amazon::S3::ACL  0.89  pkg:cpan/Net-Amazon-S3@0.89
 Shared::Examples::Net::Amazon::S3::API 0.992  pkg:cpan/Net-Amazon-S3@0.992
