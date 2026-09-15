@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 15 Sep 2026 17:51:40 GMT
-Line-Count: 259688
+Last-Updated: Tue, 15 Sep 2026 20:43:59 GMT
+Line-Count: 259729
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5202,6 +5202,7 @@ Alien::gdal                         1.44  pkg:cpan/Alien-gdal@1.44
 Alien::geos::af                    1.012  pkg:cpan/Alien-geos-af@1.012
 Alien::gettext                     0.001  pkg:cpan/Alien-gettext@0.001
 Alien::ggml                         0.09  pkg:cpan/Alien-ggml@0.09
+Alien::ghostty                      0.01  pkg:cpan/Alien-ghostty@0.01
 Alien::ghostunnel                   0.01  pkg:cpan/Alien-ghostunnel@0.01
 Alien::git                          0.10  pkg:cpan/Alien-Build-Git@0.10
 Alien::gmake                        0.24  pkg:cpan/Alien-gmake@0.24
@@ -58170,7 +58171,7 @@ Data::Bind::Sig                     0.30  pkg:cpan/Data-Bind@0.30
 Data::Bind::SigCollection           0.30  pkg:cpan/Data-Bind@0.30
 Data::Binder                           1  pkg:cpan/Data-Binder@1
 Data::BitMask                       1.00  pkg:cpan/Data-BitMask@1.00
-Data::BitSet::Shared                0.06  pkg:cpan/Data-BitSet-Shared@0.06
+Data::BitSet::Shared                0.07  pkg:cpan/Data-BitSet-Shared@0.07
 Data::BitStream                     0.08  pkg:cpan/Data-BitStream@0.08
 Data::BitStream::BLVec              0.08  pkg:cpan/Data-BitStream@0.08
 Data::BitStream::Base               0.08  pkg:cpan/Data-BitStream@0.08
@@ -58586,7 +58587,7 @@ Data::Define                        1.03  pkg:cpan/Data-Define@1.03
 Data::Delete                        0.07  pkg:cpan/Data-Skeleton@0.07
 Data::Demos                        0.000002  pkg:cpan/Data-Demos@0.0.2
 Data::Denter                        0.15  pkg:cpan/Data-Denter@0.15
-Data::Deque::Shared                 0.08  pkg:cpan/Data-Deque-Shared@0.08
+Data::Deque::Shared                 0.09  pkg:cpan/Data-Deque-Shared@0.09
 Data::Describe                      1.03  pkg:cpan/Data-Describe@1.03
 Data::Dict                         0.003  pkg:cpan/Data-Dict@0.003
 Data::Diff                          0.01  pkg:cpan/Data-Diff@0.01
@@ -58972,7 +58973,7 @@ Data::Gimei::Random                undef  pkg:cpan/Data-Gimei@v0.5.0
 Data::Gimei::Word                  undef  pkg:cpan/Data-Gimei@v0.5.0
 Data::Google::Visualization::DataSource  0.01  pkg:cpan/Data-Google-Visualization-DataSource@0.01
 Data::Google::Visualization::DataTable  0.11  pkg:cpan/Data-Google-Visualization-DataTable@0.11
-Data::Graph::Shared                 0.06  pkg:cpan/Data-Graph-Shared@0.06
+Data::Graph::Shared                 0.07  pkg:cpan/Data-Graph-Shared@0.07
 Data::Graph::Util                  0.007  pkg:cpan/Data-Graph-Util@0.007
 Data::Grid                          0.07  pkg:cpan/Data-Grid@0.07
 Data::Grid::CSV                     0.07  pkg:cpan/Data-Grid@0.07
@@ -59060,7 +59061,7 @@ Data::HashMap::Shared::SI32         0.20  pkg:cpan/Data-HashMap-Shared@0.20
 Data::HashMap::Shared::SS           0.20  pkg:cpan/Data-HashMap-Shared@0.20
 Data::HashType                      0.07  pkg:cpan/Data-HashType@0.07
 Data::Header::Fields                0.05  pkg:cpan/Data-Header-Fields@0.05
-Data::Heap::Shared                  0.08  pkg:cpan/Data-Heap-Shared@0.08
+Data::Heap::Shared                  0.09  pkg:cpan/Data-Heap-Shared@0.09
 Data::HexConverter                  0.65  pkg:cpan/Data-HexConverter@0.65
 Data::HexDump                       0.04  pkg:cpan/Data-HexDump@0.04
 Data::HexDump::Range                0.13  pkg:cpan/Data-HexDump-Range@0.13.72
@@ -60904,11 +60905,11 @@ Data::Properties                    1.07  pkg:cpan/Data-Properties@1.07
 Data::Properties::JSON             0.004  pkg:cpan/Data-Properties-JSON@0.004
 Data::Properties::YAML              0.04  pkg:cpan/Data-Properties-YAML@0.04
 Data::PropertyList                 1998.1217  pkg:cpan/Data-PropertyList@1998.1217
-Data::PubSub::Shared                0.09  pkg:cpan/Data-PubSub-Shared@0.09
-Data::PubSub::Shared::Int           0.09  pkg:cpan/Data-PubSub-Shared@0.09
-Data::PubSub::Shared::Int16         0.09  pkg:cpan/Data-PubSub-Shared@0.09
-Data::PubSub::Shared::Int32         0.09  pkg:cpan/Data-PubSub-Shared@0.09
-Data::PubSub::Shared::Str           0.09  pkg:cpan/Data-PubSub-Shared@0.09
+Data::PubSub::Shared                0.10  pkg:cpan/Data-PubSub-Shared@0.10
+Data::PubSub::Shared::Int           0.10  pkg:cpan/Data-PubSub-Shared@0.10
+Data::PubSub::Shared::Int16         0.10  pkg:cpan/Data-PubSub-Shared@0.10
+Data::PubSub::Shared::Int32         0.10  pkg:cpan/Data-PubSub-Shared@0.10
+Data::PubSub::Shared::Str           0.10  pkg:cpan/Data-PubSub-Shared@0.10
 Data::Pulp                          0.01  pkg:cpan/Data-Pulp@0.01
 Data::Pulp::Carp                   undef  pkg:cpan/Data-Pulp@0.01
 Data::Pulp::Pulper                 undef  pkg:cpan/Data-Pulp@0.01
@@ -60942,11 +60943,11 @@ Data::Query                        undef  pkg:cpan/Data-CapabilityBased@0.001000
 Data::Queue                        1.0002  pkg:cpan/Data-Queue@1.0002
 Data::Queue::Batch                  0.04  pkg:cpan/Data-Queue-Batch@0.04
 Data::Queue::Persistent             0.13  pkg:cpan/Data-Queue-Persistent@0.13
-Data::Queue::Shared                 0.08  pkg:cpan/Data-Queue-Shared@0.08
-Data::Queue::Shared::Int            0.08  pkg:cpan/Data-Queue-Shared@0.08
-Data::Queue::Shared::Int16          0.08  pkg:cpan/Data-Queue-Shared@0.08
-Data::Queue::Shared::Int32          0.08  pkg:cpan/Data-Queue-Shared@0.08
-Data::Queue::Shared::Str            0.08  pkg:cpan/Data-Queue-Shared@0.08
+Data::Queue::Shared                 0.09  pkg:cpan/Data-Queue-Shared@0.09
+Data::Queue::Shared::Int            0.09  pkg:cpan/Data-Queue-Shared@0.09
+Data::Queue::Shared::Int16          0.09  pkg:cpan/Data-Queue-Shared@0.09
+Data::Queue::Shared::Int32          0.09  pkg:cpan/Data-Queue-Shared@0.09
+Data::Queue::Shared::Str            0.09  pkg:cpan/Data-Queue-Shared@0.09
 Data::QuickMemoPlus::Reader         0.12  pkg:cpan/Data-QuickMemoPlus-Reader@0.12
 Data::Radius                       1.002009  pkg:cpan/Data-Radius@1.2.9
 Data::Radius::Constants            undef  pkg:cpan/Data-Radius@1.2.9
@@ -62008,15 +62009,15 @@ Data::Structure::Util               0.16  pkg:cpan/Data-Structure-Util@0.16
 Data::Swap                          0.08  pkg:cpan/Data-Swap@0.08
 Data::Sync                          0.08  pkg:cpan/Data-Sync@0.08
 Data::Sync::Advanced               undef  pkg:cpan/Data-Sync@0.08
-Data::Sync::Shared                  0.08  pkg:cpan/Data-Sync-Shared@0.08
-Data::Sync::Shared::Barrier         0.08  pkg:cpan/Data-Sync-Shared@0.08
-Data::Sync::Shared::Condvar         0.08  pkg:cpan/Data-Sync-Shared@0.08
-Data::Sync::Shared::Condvar::Guard  0.08  pkg:cpan/Data-Sync-Shared@0.08
-Data::Sync::Shared::Once            0.08  pkg:cpan/Data-Sync-Shared@0.08
-Data::Sync::Shared::RWLock          0.08  pkg:cpan/Data-Sync-Shared@0.08
-Data::Sync::Shared::RWLock::Guard   0.08  pkg:cpan/Data-Sync-Shared@0.08
-Data::Sync::Shared::Semaphore       0.08  pkg:cpan/Data-Sync-Shared@0.08
-Data::Sync::Shared::Semaphore::Guard  0.08  pkg:cpan/Data-Sync-Shared@0.08
+Data::Sync::Shared                  0.09  pkg:cpan/Data-Sync-Shared@0.09
+Data::Sync::Shared::Barrier         0.09  pkg:cpan/Data-Sync-Shared@0.09
+Data::Sync::Shared::Condvar         0.09  pkg:cpan/Data-Sync-Shared@0.09
+Data::Sync::Shared::Condvar::Guard  0.09  pkg:cpan/Data-Sync-Shared@0.09
+Data::Sync::Shared::Once            0.09  pkg:cpan/Data-Sync-Shared@0.09
+Data::Sync::Shared::RWLock          0.09  pkg:cpan/Data-Sync-Shared@0.09
+Data::Sync::Shared::RWLock::Guard   0.09  pkg:cpan/Data-Sync-Shared@0.09
+Data::Sync::Shared::Semaphore       0.09  pkg:cpan/Data-Sync-Shared@0.09
+Data::Sync::Shared::Semaphore::Guard  0.09  pkg:cpan/Data-Sync-Shared@0.09
 Data::TDMA                         undef  pkg:cpan/Data-TDMA@0.2
 Data::TDMA::Constants              undef  pkg:cpan/Data-TDMA@0.2
 Data::TDMA::Day                    undef  pkg:cpan/Data-TDMA@0.2
@@ -67810,7 +67811,7 @@ Dist::Zilla::Plugin::Author::CSSON::GithubActions 0.0107  pkg:cpan/Dist-Zilla-Pl
 Dist::Zilla::Plugin::Author::CSSON::GithubActions::BaseWorkflow 0.0103  pkg:cpan/Dist-Zilla-Plugin-Author-CSSON-GithubActions@0.0103
 Dist::Zilla::Plugin::Author::CSSON::GithubActions::Role::Workflow 0.0103  pkg:cpan/Dist-Zilla-Plugin-Author-CSSON-GithubActions@0.0103
 Dist::Zilla::Plugin::Author::CSSON::GithubActions::Workflow::TestWithMakefile 0.0107  pkg:cpan/Dist-Zilla-Plugin-Author-CSSON-GithubActions@0.0107
-Dist::Zilla::Plugin::Author::GETTY::GiteaMeta 0.321  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.321
+Dist::Zilla::Plugin::Author::GETTY::GiteaMeta 0.322  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.322
 Dist::Zilla::Plugin::Author::GSG   v0.6.2  pkg:cpan/Dist-Zilla-PluginBundle-Author-GSG@v0.6.2
 Dist::Zilla::Plugin::Author::GSG::HasVersionTests v0.6.2  pkg:cpan/Dist-Zilla-PluginBundle-Author-GSG@v0.6.2
 Dist::Zilla::Plugin::Author::HAYOBAAN::LinkCheck 0.016  pkg:cpan/Dist-Zilla-PluginBundle-Author-HAYOBAAN@0.016
@@ -68572,8 +68573,8 @@ Dist::Zilla::PluginBundle::Author::DOMM 0.912  pkg:cpan/Dist-Zilla-PluginBundle-
 Dist::Zilla::PluginBundle::Author::ETHER 0.174  pkg:cpan/Dist-Zilla-PluginBundle-Author-ETHER@0.174
 Dist::Zilla::PluginBundle::Author::FERREIRA v0.4.0  pkg:cpan/Dist-Zilla-PluginBundle-Author-FERREIRA@0.4.0
 Dist::Zilla::PluginBundle::Author::GABRIEL  0.01  pkg:cpan/Dist-Zilla-PluginBundle-Author-GABRIEL@0.01
-Dist::Zilla::PluginBundle::Author::GETTY 0.321  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.321
-Dist::Zilla::PluginBundle::Author::GETTY::Docker 0.321  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.321
+Dist::Zilla::PluginBundle::Author::GETTY 0.322  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.322
+Dist::Zilla::PluginBundle::Author::GETTY::Docker 0.322  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.322
 Dist::Zilla::PluginBundle::Author::GSG v0.6.2  pkg:cpan/Dist-Zilla-PluginBundle-Author-GSG@v0.6.2
 Dist::Zilla::PluginBundle::Author::GTERMARS  0.06  pkg:cpan/Dist-Zilla-PluginBundle-Author-GTERMARS@0.06
 Dist::Zilla::PluginBundle::Author::HAYOBAAN 0.016  pkg:cpan/Dist-Zilla-PluginBundle-Author-HAYOBAAN@0.016
@@ -79794,6 +79795,18 @@ Game::Asset::SDLSound                0.2  pkg:cpan/Game-Asset-SDLSound@0.2
 Game::Asset::SDLSound::Manager       0.2  pkg:cpan/Game-Asset-SDLSound@0.2
 Game::Asset::Type                    0.6  pkg:cpan/Game-Asset@0.6
 Game::Asset::YAML                    0.6  pkg:cpan/Game-Asset@0.6
+Game::Backgammon                    0.01  pkg:cpan/Game-Backgammon@0.01
+Game::Backgammon::Board             0.01  pkg:cpan/Game-Backgammon@0.01
+Game::Backgammon::Bot               0.01  pkg:cpan/Game-Backgammon@0.01
+Game::Backgammon::Dice              0.01  pkg:cpan/Game-Backgammon@0.01
+Game::Backgammon::Error             0.01  pkg:cpan/Game-Backgammon@0.01
+Game::Backgammon::Move              0.01  pkg:cpan/Game-Backgammon@0.01
+Game::Backgammon::Notation          0.01  pkg:cpan/Game-Backgammon@0.01
+Game::Backgammon::Result            0.01  pkg:cpan/Game-Backgammon@0.01
+Game::Backgammon::Rules             0.01  pkg:cpan/Game-Backgammon@0.01
+Game::Backgammon::Shots             0.01  pkg:cpan/Game-Backgammon@0.01
+Game::Backgammon::Terminal          0.01  pkg:cpan/Game-Backgammon@0.01
+Game::Backgammon::Turn              0.01  pkg:cpan/Game-Backgammon@0.01
 Game::Battleship                   0.0602  pkg:cpan/Game-Battleship@0.0602
 Game::Battleship::Craft            0.0602  pkg:cpan/Game-Battleship@0.0602
 Game::Battleship::Grid             0.0602  pkg:cpan/Game-Battleship@0.0602
@@ -79806,6 +79819,17 @@ Game::CharacterSheetGenerator::DwarfNames undef  pkg:cpan/Game-CharacterSheetGen
 Game::CharacterSheetGenerator::ElfNames undef  pkg:cpan/Game-CharacterSheetGenerator@1.03
 Game::CharacterSheetGenerator::HalflingNames undef  pkg:cpan/Game-CharacterSheetGenerator@1.03
 Game::CharacterSheetGenerator::HumanNames undef  pkg:cpan/Game-CharacterSheetGenerator@1.03
+Game::Checkers                      0.01  pkg:cpan/Game-Checkers@0.01
+Game::Checkers::Board               0.01  pkg:cpan/Game-Checkers@0.01
+Game::Checkers::Bot                 0.01  pkg:cpan/Game-Checkers@0.01
+Game::Checkers::Error               0.01  pkg:cpan/Game-Checkers@0.01
+Game::Checkers::Move                0.01  pkg:cpan/Game-Checkers@0.01
+Game::Checkers::Notation            0.01  pkg:cpan/Game-Checkers@0.01
+Game::Checkers::Piece               0.01  pkg:cpan/Game-Checkers@0.01
+Game::Checkers::Result              0.01  pkg:cpan/Game-Checkers@0.01
+Game::Checkers::Rules               0.01  pkg:cpan/Game-Checkers@0.01
+Game::Checkers::Squares             0.01  pkg:cpan/Game-Checkers@0.01
+Game::Checkers::Terminal            0.01  pkg:cpan/Game-Checkers@0.01
 Game::Collisions                     0.5  pkg:cpan/Game-Collisions@0.5
 Game::Collisions::AABB               0.5  pkg:cpan/Game-Collisions@0.5
 Game::Collisions::UserData           0.5  pkg:cpan/Game-Collisions@0.5
@@ -79827,6 +79851,20 @@ Game::Cribbage::Score              undef  pkg:cpan/Game-Cribbage@0.16
 Game::Deckar                        0.02  pkg:cpan/Game-Deckar@0.02
 Game::Deckar::Card                 undef  pkg:cpan/Game-Deckar@0.02
 Game::DijkstraMap                   1.05  pkg:cpan/Game-DijkstraMap@1.05
+Game::Dominoes                      0.01  pkg:cpan/Game-Dominoes@0.01
+Game::Dominoes::Boneyard            0.01  pkg:cpan/Game-Dominoes@0.01
+Game::Dominoes::Bot                 0.01  pkg:cpan/Game-Dominoes@0.01
+Game::Dominoes::Error               0.01  pkg:cpan/Game-Dominoes@0.01
+Game::Dominoes::Hand                0.01  pkg:cpan/Game-Dominoes@0.01
+Game::Dominoes::Layout              0.01  pkg:cpan/Game-Dominoes@0.01
+Game::Dominoes::Notation            0.01  pkg:cpan/Game-Dominoes@0.01
+Game::Dominoes::Play                0.01  pkg:cpan/Game-Dominoes@0.01
+Game::Dominoes::Result              0.01  pkg:cpan/Game-Dominoes@0.01
+Game::Dominoes::Rules               0.01  pkg:cpan/Game-Dominoes@0.01
+Game::Dominoes::Scoring             0.01  pkg:cpan/Game-Dominoes@0.01
+Game::Dominoes::Set                 0.01  pkg:cpan/Game-Dominoes@0.01
+Game::Dominoes::Terminal            0.01  pkg:cpan/Game-Dominoes@0.01
+Game::Dominoes::Tile                0.01  pkg:cpan/Game-Dominoes@0.01
 Game::EnergyLoop                    0.01  pkg:cpan/Game-EnergyLoop@0.01
 Game::Entities                     0.101  pkg:cpan/Game-Entities@0.101
 Game::FaceGenerator                 1.04  pkg:cpan/Game-FaceGenerator@1.04
@@ -126815,7 +126853,7 @@ MathWorks::platformList            undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::product                 undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepItem          undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepList          undef  pkg:cpan/XML-Pastor@0.6.0
-Matplotlib::Simple                 0.3121  pkg:cpan/Matplotlib-Simple@0.3121
+Matplotlib::Simple                 0.313  pkg:cpan/Matplotlib-Simple@0.313
 Matrix::Simple                      1.04  pkg:cpan/Matrix-Simple@1.04
 Matts::Message                     undef  pkg:cpan/Matts-Message-Parser@1.0
 Matts::Message::Parser               1.0  pkg:cpan/Matts-Message-Parser@1.0
@@ -191931,7 +191969,7 @@ Pod::Elemental::Paragraph          0.103006  pkg:cpan/Pod-Elemental@0.103006
 Pod::Elemental::PerlMunger         0.200007  pkg:cpan/Pod-Elemental-PerlMunger@0.200007
 Pod::Elemental::Selectors          0.103006  pkg:cpan/Pod-Elemental@0.103006
 Pod::Elemental::Transformer        0.103006  pkg:cpan/Pod-Elemental@0.103006
-Pod::Elemental::Transformer::Author::GETTY 0.321  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.321
+Pod::Elemental::Transformer::Author::GETTY 0.322  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.322
 Pod::Elemental::Transformer::Codebox 0.101001  pkg:cpan/Pod-Elemental-Transformer-SynHi@0.101001
 Pod::Elemental::Transformer::Cowl_GenDoc undef  pkg:cpan/RDF-Cowl@1.0.0
 Pod::Elemental::Transformer::Ditaa 0.001006  pkg:cpan/Pod-Weaver-Plugin-Ditaa@0.001006
@@ -192444,7 +192482,7 @@ Pod::Weaver::PluginBundle::Author::CCM 0.012  pkg:cpan/Dist-Zilla-PluginBundle-A
 Pod::Weaver::PluginBundle::Author::CSSON 0.1101  pkg:cpan/Pod-Weaver-PluginBundle-Author-CSSON@0.1101
 Pod::Weaver::PluginBundle::Author::DOHERTY 0.010  pkg:cpan/Pod-Weaver-PluginBundle-Author-DOHERTY@0.010
 Pod::Weaver::PluginBundle::Author::ETHER 0.174  pkg:cpan/Dist-Zilla-PluginBundle-Author-ETHER@0.174
-Pod::Weaver::PluginBundle::Author::GETTY 0.321  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.321
+Pod::Weaver::PluginBundle::Author::GETTY 0.322  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.322
 Pod::Weaver::PluginBundle::Author::HAYOBAAN 0.016  pkg:cpan/Dist-Zilla-PluginBundle-Author-HAYOBAAN@0.016
 Pod::Weaver::PluginBundle::Author::IOANR 1.230480  pkg:cpan/Dist-Zilla-PluginBundle-Author-IOANR@1.230480
 Pod::Weaver::PluginBundle::Author::KENTNL 0.001003  pkg:cpan/Pod-Weaver-PluginBundle-Author-KENTNL@0.001003
@@ -222364,6 +222402,7 @@ Term::GDBUI                         0.84  pkg:cpan/GDBUI@0.84
 Term::GentooFunctions              1.3700  pkg:cpan/Term-GentooFunctions@1.3700
 Term::GetKey                           1  pkg:cpan/LibTerm-GetKey@1.02
 Term::Getch                         0.20  pkg:cpan/Term-Getch@0.20?ext=zip
+Term::Ghostty                       0.01  pkg:cpan/Term-Ghostty@0.01
 Term::GnuScreen                     0.06  pkg:cpan/Term-GnuScreen@0.06
 Term::GnuScreen::WindowArrayLike    0.01  pkg:cpan/Term-GnuScreen-WindowArrayLike@0.01
 Term::Gnuplot                      0.90380906  pkg:cpan/Term-Gnuplot@0.90380906?ext=zip
@@ -238784,6 +238823,7 @@ WFA::Client                         0.01  pkg:cpan/WFA-Client@0.01
 WFA::Job                           undef  pkg:cpan/WFA-Client@0.01
 WFA::Role::Response                undef  pkg:cpan/WFA-Client@0.01
 WFA::Workflow                      undef  pkg:cpan/WFA-Client@0.01
+WFC                                2.1.1  pkg:cpan/WFC@2.1.1
 WG::API                            v0.13.0  pkg:cpan/WG-API@v0.13
 WG::API::Accounts                  v0.5.0  pkg:cpan/WG-API@v0.05
 WG::API::Auth                      v0.13.0  pkg:cpan/WG-API@v0.13
@@ -243198,6 +243238,7 @@ WebFetch::Output::Dump             0.015009  pkg:cpan/WebFetch@0.15.9
 WebFetch::Output::TT               0.001000  pkg:cpan/WebFetch-Output-TT@0.1.0
 WebFetch::Output::TWiki            0.001000  pkg:cpan/WebFetch-Output-TWiki@0.1.0
 WebFetch::RSS                      0.003002  pkg:cpan/WebFetch-RSS@0.3.2
+WebForms                           2.1.1  pkg:cpan/WFC@2.1.1
 WebGPU::Direct                      0.16  pkg:cpan/WebGPU-Direct@0.16
 WebGPU::Direct::Adapter            undef  pkg:cpan/WebGPU-Direct@0.16
 WebGPU::Direct::AdapterInfo        undef  pkg:cpan/WebGPU-Direct@0.16
