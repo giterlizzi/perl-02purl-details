@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 16 Sep 2026 02:46:33 GMT
-Line-Count: 259752
+Last-Updated: Wed, 16 Sep 2026 08:58:28 GMT
+Line-Count: 259773
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -11164,7 +11164,7 @@ App::Ikaros::Reporter              undef  pkg:cpan/App-Ikaros@0.02
 App::Ikaros::Util                  undef  pkg:cpan/App-Ikaros@0.02
 App::Image::Generator               0.08  pkg:cpan/App-Image-Generator@0.08
 App::ImageInfoUtils                0.004  pkg:cpan/App-ImageInfoUtils@0.004
-App::ImageMagickUtils              0.024  pkg:cpan/App-ImageMagickUtils@0.024
+App::ImageMagickUtils              0.025  pkg:cpan/App-ImageMagickUtils@0.025
 App::Images::To::DjVu               0.02  pkg:cpan/App-Images-To-DjVu@0.02
 App::IncrementUtils                0.001  pkg:cpan/App-IncrementUtils@0.001
 App::Index                         undef  pkg:cpan/CGI-MiniFramework@0.01
@@ -22658,13 +22658,13 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         v0.36.0  pkg:cpan/BarefootJS@0.36.0
-BarefootJS::Backend::Mojo          v0.36.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.36.0
-BarefootJS::Backend::Xslate        v0.36.0  pkg:cpan/BarefootJS-Backend-Xslate@0.36.0
-BarefootJS::Date                   v0.36.0  pkg:cpan/BarefootJS@0.36.0
-BarefootJS::DevReload              v0.36.0  pkg:cpan/BarefootJS@0.36.0
-BarefootJS::Evaluator              v0.36.0  pkg:cpan/BarefootJS@0.36.0
-BarefootJS::SearchParams           v0.36.0  pkg:cpan/BarefootJS@0.36.0
+BarefootJS                         v0.37.0  pkg:cpan/BarefootJS@0.37.0
+BarefootJS::Backend::Mojo          v0.37.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.37.0
+BarefootJS::Backend::Xslate        v0.37.0  pkg:cpan/BarefootJS-Backend-Xslate@0.37.0
+BarefootJS::Date                   v0.37.0  pkg:cpan/BarefootJS@0.37.0
+BarefootJS::DevReload              v0.37.0  pkg:cpan/BarefootJS@0.37.0
+BarefootJS::Evaluator              v0.37.0  pkg:cpan/BarefootJS@0.37.0
+BarefootJS::SearchParams           v0.37.0  pkg:cpan/BarefootJS@0.37.0
 BarefootJS::_TZProbe               0.029000  pkg:cpan/BarefootJS@0.29.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
@@ -58843,8 +58843,8 @@ Data::Feed::Web::Content           undef  pkg:cpan/Data-Feed@0.00015
 Data::Feed::Web::Enclosure         undef  pkg:cpan/Data-Feed@0.00015
 Data::Feed::Web::Entry             undef  pkg:cpan/Data-Feed@0.00015
 Data::Feed::Web::Feed              undef  pkg:cpan/Data-Feed@0.00015
-Data::Fenwick2D::Shared             0.02  pkg:cpan/Data-Fenwick2D-Shared@0.02
-Data::Fenwick::Shared               0.03  pkg:cpan/Data-Fenwick-Shared@0.03
+Data::Fenwick2D::Shared             0.03  pkg:cpan/Data-Fenwick2D-Shared@0.03
+Data::Fenwick::Shared               0.04  pkg:cpan/Data-Fenwick-Shared@0.04
 Data::Fetch                         0.07  pkg:cpan/Data-Fetch@0.07
 Data::FetchPath                     0.02  pkg:cpan/Data-FetchPath@0.02
 Data::File::Map                     0.09  pkg:cpan/Data-File-Map@0.09
@@ -59068,11 +59068,11 @@ Data::HexDump::Range                0.13  pkg:cpan/Data-HexDump-Range@0.13.72
 Data::HexDump::XXD                 0.001001  pkg:cpan/Data-HexDump-XXD@0.1.1
 Data::Hexdumper                    3.0001  pkg:cpan/Data-Hexdumper@3.0001
 Data::Hexify                        1.00  pkg:cpan/Data-Hexify@1.00
-Data::HierTimingWheel::Shared       0.02  pkg:cpan/Data-HierTimingWheel-Shared@0.02
+Data::HierTimingWheel::Shared       0.03  pkg:cpan/Data-HierTimingWheel-Shared@0.03
 Data::Hierarchy                     0.34  pkg:cpan/Data-Hierarchy@0.34
 Data::Hierarchy::Relative           0.34  pkg:cpan/Data-Hierarchy@0.34
 Data::Hierarchy::Traverser          0.01  pkg:cpan/Data-Hierarchy-Traverser@0.01
-Data::Histogram::Shared             0.04  pkg:cpan/Data-Histogram-Shared@0.04
+Data::Histogram::Shared             0.05  pkg:cpan/Data-Histogram-Shared@0.05
 Data::Hive                         1.015  pkg:cpan/Data-Hive@1.015
 Data::Hive::PathPacker             1.015  pkg:cpan/Data-Hive@1.015
 Data::Hive::PathPacker::Flexible   1.015  pkg:cpan/Data-Hive@1.015
@@ -59108,7 +59108,7 @@ Data::Hopen::Util::Filename        0.000021  pkg:cpan/Data-Hopen@0.000021
 Data::Hopen::Util::MergeWithoutCloneBlessed 0.000020  pkg:cpan/Data-Hopen@0.000021
 Data::Hopen::Util::NameSet         0.000021  pkg:cpan/Data-Hopen@0.000021
 Data::Hopen::Visitor               0.000021  pkg:cpan/Data-Hopen@0.000021
-Data::HyperLogLog::Shared           0.04  pkg:cpan/Data-HyperLogLog-Shared@0.04
+Data::HyperLogLog::Shared           0.05  pkg:cpan/Data-HyperLogLog-Shared@0.05
 Data::ICal                          0.24  pkg:cpan/Data-ICal@0.24
 Data::ICal::DAVAdapter              0.03  pkg:cpan/Meetup-API@0.03
 Data::ICal::DateTime                0.82  pkg:cpan/Data-ICal-DateTime@0.82
@@ -59566,8 +59566,8 @@ Data::InputMonster::Util::Catalyst 0.006  pkg:cpan/Data-InputMonster-Util-Cataly
 Data::Inspect                       0.05  pkg:cpan/Data-Inspect@0.05
 Data::Integer                      0.007  pkg:cpan/Data-Integer@0.007
 Data::Interactive::Inspect          0.07  pkg:cpan/Data-Interactive-Inspect@0.07
-Data::Intern::Shared                0.04  pkg:cpan/Data-Intern-Shared@0.04
-Data::IntervalTree::Shared          0.02  pkg:cpan/Data-IntervalTree-Shared@0.02
+Data::Intern::Shared                0.05  pkg:cpan/Data-Intern-Shared@0.05
+Data::IntervalTree::Shared          0.03  pkg:cpan/Data-IntervalTree-Shared@0.03
 Data::Iter                           0.2  pkg:cpan/Data-Iter@0.2
 Data::Iterator                     0.021  pkg:cpan/Data-Iterator@0.021?ext=zip
 Data::Iterator::EasyObj             0.01  pkg:cpan/Data-Iterator-EasyObj@0.01
@@ -78224,7 +78224,7 @@ Frost::Twilight::LRU                0.65  pkg:cpan/Frost@0.70
 Frost::Types                        0.64  pkg:cpan/Frost@0.70
 Frost::Util                          0.5  pkg:cpan/Frost@0.70
 Frost::Vault                        0.62  pkg:cpan/Frost@0.70
-Frozen                              0.06  pkg:cpan/Frozen@0.06
+Frozen                              0.07  pkg:cpan/Frozen@0.07
 Fry::Base                          undef  pkg:cpan/Fry-Shell@0.15
 Fry::Cmd                           undef  pkg:cpan/Fry-Shell@0.15
 Fry::Config::Default               undef  pkg:cpan/Fry-Shell@0.15
@@ -79943,6 +79943,19 @@ Game::Reversi::Terminal             0.01  pkg:cpan/Game-Reversi@0.01
 Game::RockPaperScissor              0.01  pkg:cpan/Game-RockPaperScissor@0.01
 Game::RockPaperScissorsLizardSpock  0.01  pkg:cpan/Game-RockPaperScissorsLizardSpock@0.01
 Game::SDL                          0.001001  pkg:cpan/Game-SDL@0.1.1
+Game::Schnapsen                     0.01  pkg:cpan/Game-Schnapsen@0.01
+Game::Schnapsen::Bot                0.01  pkg:cpan/Game-Schnapsen@0.01
+Game::Schnapsen::Card               0.01  pkg:cpan/Game-Schnapsen@0.01
+Game::Schnapsen::Deal               0.01  pkg:cpan/Game-Schnapsen@0.01
+Game::Schnapsen::Deck               0.01  pkg:cpan/Game-Schnapsen@0.01
+Game::Schnapsen::Declare            0.01  pkg:cpan/Game-Schnapsen@0.01
+Game::Schnapsen::Error              0.01  pkg:cpan/Game-Schnapsen@0.01
+Game::Schnapsen::Hand               0.01  pkg:cpan/Game-Schnapsen@0.01
+Game::Schnapsen::Scoring            0.01  pkg:cpan/Game-Schnapsen@0.01
+Game::Schnapsen::Search             0.01  pkg:cpan/Game-Schnapsen@0.01
+Game::Schnapsen::Terminal           0.01  pkg:cpan/Game-Schnapsen@0.01
+Game::Schnapsen::Trick              0.01  pkg:cpan/Game-Schnapsen@0.01
+Game::Schnapsen::Variant            0.01  pkg:cpan/Game-Schnapsen@0.01
 Game::Snake                         0.11  pkg:cpan/Game-Snake@0.11
 Game::Snake::Cell                   0.11  pkg:cpan/Game-Snake@0.11
 Game::Snake::Food                   0.11  pkg:cpan/Game-Snake@0.11
@@ -132481,8 +132494,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    v0.36.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.36.0
-Mojolicious::Plugin::BarefootJS::DevReload v0.36.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.36.0
+Mojolicious::Plugin::BarefootJS    v0.37.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.37.0
+Mojolicious::Plugin::BarefootJS::DevReload v0.37.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.37.0
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -136516,7 +136529,7 @@ Music::Intervals::Ratios           0.1101  pkg:cpan/Music-Intervals@0.1101
 Music::KNRadio::NowPlaying         0.012  pkg:cpan/Music-KNRadio-NowPlaying@0.012
 Music::LilyPondUtil                 0.56  pkg:cpan/Music-LilyPondUtil@0.56
 Music::Lyrics::LRC                  0.17  pkg:cpan/Music-Lyrics-LRC@0.17
-Music::MelodicDevice::Arpeggiation 0.0503  pkg:cpan/Music-MelodicDevice-Arpeggiation@0.0503
+Music::MelodicDevice::Arpeggiation 0.0504  pkg:cpan/Music-MelodicDevice-Arpeggiation@0.0504
 Music::MelodicDevice::Inversion    0.0504  pkg:cpan/Music-MelodicDevice-Inversion@0.0504
 Music::MelodicDevice::Ornamentation 0.0706  pkg:cpan/Music-MelodicDevice-Ornamentation@0.0706
 Music::MelodicDevice::Transposition 0.0601  pkg:cpan/Music-MelodicDevice-Transposition@0.0601
@@ -190010,6 +190023,14 @@ Physics::Ballistics                 1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::External       1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::Internal       1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::Terminal       1.03  pkg:cpan/Physics-Ballistics@1.03
+Physics::Balls                      0.01  pkg:cpan/Physics-Balls@0.01
+Physics::Balls::Ball                0.01  pkg:cpan/Physics-Balls@0.01
+Physics::Balls::Engine              0.01  pkg:cpan/Physics-Balls@0.01
+Physics::Balls::Error               0.01  pkg:cpan/Physics-Balls@0.01
+Physics::Balls::Outcome             0.01  pkg:cpan/Physics-Balls@0.01
+Physics::Balls::Strike              0.01  pkg:cpan/Physics-Balls@0.01
+Physics::Balls::Table               0.01  pkg:cpan/Physics-Balls@0.01
+Physics::Balls::World               0.01  pkg:cpan/Physics-Balls@0.01
 Physics::CPD                        0.03  pkg:cpan/Physics-CPD@0.03
 Physics::CPD::Stellarator           0.03  pkg:cpan/Physics-CPD@0.03
 Physics::CVD                        0.03  pkg:cpan/Physics-CVD@0.03
@@ -200960,7 +200981,7 @@ Robotics::Tecan::Genesis::Liha     undef  pkg:cpan/Robotics@0.23?ext=tar.bz2
 Robotics::Tecan::Genesis::Roma     undef  pkg:cpan/Robotics@0.23?ext=tar.bz2
 Robotics::Tecan::Genesis::Session  undef  pkg:cpan/Robotics@0.23?ext=tar.bz2
 Robotics::Tecan::Server             0.22  pkg:cpan/Robotics@0.23?ext=tar.bz2
-Robots::Validate                   v0.4.3  pkg:cpan/Robots-Validate@v0.4.3
+Robots::Validate                   v0.4.4  pkg:cpan/Robots-Validate@v0.4.4
 RocksDB                             0.05  pkg:cpan/RocksDB@0.05
 Rodney::XML::QuickStruct             1.1  pkg:cpan/Rodney-XML-QuickStruct@1.1
 RogersMine::App                    undef  pkg:cpan/RogersMine@0.1.12
@@ -211204,22 +211225,22 @@ ShardedKV::Storage::Redis::String   0.20  pkg:cpan/ShardedKV@0.20
 ShardedKV::Storage::ReplicatedRest undef  pkg:cpan/ShardedKV-Storage-Rest@0.8
 ShardedKV::Storage::Rest             0.8  pkg:cpan/ShardedKV-Storage-Rest@0.8
 SharePoint::SOAPHandler            0.0013  pkg:cpan/SharePoint-SOAPHandler@0.0013
-Shared::Arena                       0.06  pkg:cpan/Shared-Arena@0.06
-Shared::Arena::Bloom                0.06  pkg:cpan/Shared-Arena@0.06
-Shared::Arena::Cache                0.06  pkg:cpan/Shared-Arena@0.06
-Shared::Arena::CountMin             0.06  pkg:cpan/Shared-Arena@0.06
-Shared::Arena::Cuckoo               0.06  pkg:cpan/Shared-Arena@0.06
-Shared::Arena::Frozen               0.06  pkg:cpan/Shared-Arena@0.06
-Shared::Arena::Frozen::View         0.06  pkg:cpan/Shared-Arena@0.06
-Shared::Arena::Histogram            0.06  pkg:cpan/Shared-Arena@0.06
-Shared::Arena::HyperLogLog          0.06  pkg:cpan/Shared-Arena@0.06
-Shared::Arena::Lease                0.06  pkg:cpan/Shared-Arena@0.06
-Shared::Arena::Map                  0.06  pkg:cpan/Shared-Arena@0.06
-Shared::Arena::Rate                 0.06  pkg:cpan/Shared-Arena@0.06
-Shared::Arena::Ring                 0.06  pkg:cpan/Shared-Arena@0.06
-Shared::Arena::Ring::Cursor         0.06  pkg:cpan/Shared-Arena@0.06
-Shared::Arena::Ring::Group          0.06  pkg:cpan/Shared-Arena@0.06
-Shared::Arena::Scoreboard           0.06  pkg:cpan/Shared-Arena@0.06
+Shared::Arena                       0.07  pkg:cpan/Shared-Arena@0.07
+Shared::Arena::Bloom                0.07  pkg:cpan/Shared-Arena@0.07
+Shared::Arena::Cache                0.07  pkg:cpan/Shared-Arena@0.07
+Shared::Arena::CountMin             0.07  pkg:cpan/Shared-Arena@0.07
+Shared::Arena::Cuckoo               0.07  pkg:cpan/Shared-Arena@0.07
+Shared::Arena::Frozen               0.07  pkg:cpan/Shared-Arena@0.07
+Shared::Arena::Frozen::View         0.07  pkg:cpan/Shared-Arena@0.07
+Shared::Arena::Histogram            0.07  pkg:cpan/Shared-Arena@0.07
+Shared::Arena::HyperLogLog          0.07  pkg:cpan/Shared-Arena@0.07
+Shared::Arena::Lease                0.07  pkg:cpan/Shared-Arena@0.07
+Shared::Arena::Map                  0.07  pkg:cpan/Shared-Arena@0.07
+Shared::Arena::Rate                 0.07  pkg:cpan/Shared-Arena@0.07
+Shared::Arena::Ring                 0.07  pkg:cpan/Shared-Arena@0.07
+Shared::Arena::Ring::Cursor         0.07  pkg:cpan/Shared-Arena@0.07
+Shared::Arena::Ring::Group          0.07  pkg:cpan/Shared-Arena@0.07
+Shared::Arena::Scoreboard           0.07  pkg:cpan/Shared-Arena@0.07
 Shared::Examples::Net::Amazon::S3  0.992  pkg:cpan/Net-Amazon-S3@0.992
 Shared::Examples::Net::Amazon::S3::ACL  0.89  pkg:cpan/Net-Amazon-S3@0.89
 Shared::Examples::Net::Amazon::S3::API 0.992  pkg:cpan/Net-Amazon-S3@0.992
@@ -217658,7 +217679,7 @@ String::ZeroButTrue                  0.2  pkg:cpan/String-ZeroButTrue@0.2
 StringEvolver                       0.03  pkg:cpan/Algorithm-Evolve@0.03
 StringHandle                        0.20  pkg:cpan/Chess-PGN-Parse@0.20
 Stringify::Deep                     0.03  pkg:cpan/Stringify-Deep@0.03
-Struct::Codec                       0.01  pkg:cpan/Struct-Codec@0.01
+Struct::Codec                       0.02  pkg:cpan/Struct-Codec@0.02
 Struct::Compare                      1.0  pkg:cpan/Struct-Compare@1.0.1
 Struct::Conditional                 1.04  pkg:cpan/Struct-Conditional@1.04
 Struct::Diff                        0.98  pkg:cpan/Struct-Diff@0.98
