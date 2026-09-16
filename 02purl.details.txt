@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 15 Sep 2026 23:52:45 GMT
+Last-Updated: Wed, 16 Sep 2026 02:46:33 GMT
 Line-Count: 259752
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -22914,7 +22914,7 @@ BeamerReveal::TemplateStore        20260408.1240  pkg:cpan/BeamerReveal@20260408
 Beanstalk::Client                   1.07  pkg:cpan/Beanstalk-Client@1.07
 Beanstalk::Job                      1.07  pkg:cpan/Beanstalk-Client@1.07
 Beanstalk::Stats                    1.07  pkg:cpan/Beanstalk-Client@1.07
-BeePack                            0.103  pkg:cpan/BeePack@0.103
+BeePack                            0.200  pkg:cpan/BeePack@0.200
 Beekeeper                           0.10  pkg:cpan/Beekeeper@0.10
 Beekeeper::AnyEvent                 0.10  pkg:cpan/Beekeeper@0.10
 Beekeeper::Client                   0.10  pkg:cpan/Beekeeper@0.10
@@ -58202,23 +58202,23 @@ Data::BitStream::Vec                0.08  pkg:cpan/Data-BitStream@0.08
 Data::BitStream::WordVec            0.08  pkg:cpan/Data-BitStream@0.08
 Data::BitStream::XS                 0.08  pkg:cpan/Data-BitStream-XS@0.08
 Data::Bitfield                      0.04  pkg:cpan/Data-Bitfield@0.04
-Data::BloomFilter::Shared           0.05  pkg:cpan/Data-BloomFilter-Shared@0.05
+Data::BloomFilter::Shared           0.06  pkg:cpan/Data-BloomFilter-Shared@0.06
 Data::Bool                         2.98014  pkg:cpan/Data-Bool@2.98014
 Data::Bool::Impl                   2.98014  pkg:cpan/Data-Bool@2.98014
 Data::Bucketeer                    0.006  pkg:cpan/Data-Bucketeer@0.006
 Data::Buffer                        0.06  pkg:cpan/Data-Buffer@0.06
-Data::Buffer::Shared                0.07  pkg:cpan/Data-Buffer-Shared@0.07
-Data::Buffer::Shared::F32           0.07  pkg:cpan/Data-Buffer-Shared@0.07
-Data::Buffer::Shared::F64           0.07  pkg:cpan/Data-Buffer-Shared@0.07
-Data::Buffer::Shared::I16           0.07  pkg:cpan/Data-Buffer-Shared@0.07
-Data::Buffer::Shared::I32           0.07  pkg:cpan/Data-Buffer-Shared@0.07
-Data::Buffer::Shared::I64           0.07  pkg:cpan/Data-Buffer-Shared@0.07
-Data::Buffer::Shared::I8            0.07  pkg:cpan/Data-Buffer-Shared@0.07
-Data::Buffer::Shared::Str           0.07  pkg:cpan/Data-Buffer-Shared@0.07
-Data::Buffer::Shared::U16           0.07  pkg:cpan/Data-Buffer-Shared@0.07
-Data::Buffer::Shared::U32           0.07  pkg:cpan/Data-Buffer-Shared@0.07
-Data::Buffer::Shared::U64           0.07  pkg:cpan/Data-Buffer-Shared@0.07
-Data::Buffer::Shared::U8            0.07  pkg:cpan/Data-Buffer-Shared@0.07
+Data::Buffer::Shared                0.08  pkg:cpan/Data-Buffer-Shared@0.08
+Data::Buffer::Shared::F32           0.08  pkg:cpan/Data-Buffer-Shared@0.08
+Data::Buffer::Shared::F64           0.08  pkg:cpan/Data-Buffer-Shared@0.08
+Data::Buffer::Shared::I16           0.08  pkg:cpan/Data-Buffer-Shared@0.08
+Data::Buffer::Shared::I32           0.08  pkg:cpan/Data-Buffer-Shared@0.08
+Data::Buffer::Shared::I64           0.08  pkg:cpan/Data-Buffer-Shared@0.08
+Data::Buffer::Shared::I8            0.08  pkg:cpan/Data-Buffer-Shared@0.08
+Data::Buffer::Shared::Str           0.08  pkg:cpan/Data-Buffer-Shared@0.08
+Data::Buffer::Shared::U16           0.08  pkg:cpan/Data-Buffer-Shared@0.08
+Data::Buffer::Shared::U32           0.08  pkg:cpan/Data-Buffer-Shared@0.08
+Data::Buffer::Shared::U64           0.08  pkg:cpan/Data-Buffer-Shared@0.08
+Data::Buffer::Shared::U8            0.08  pkg:cpan/Data-Buffer-Shared@0.08
 Data::Bvec                          1.01  pkg:cpan/Data-Bvec@1.01
 Data::BytesLocker                  v1.0.8.0  pkg:cpan/Crypt-NaCl-Sodium@1.0.8.0
 Data::CEFACT::Unit                  0.01  pkg:cpan/Data-CEFACT-Unit@0.01
@@ -58517,8 +58517,8 @@ Data::CouchDB::Connection           0.14  pkg:cpan/Data-CouchDB@0.14
 Data::CouchDB::Exceptions           0.14  pkg:cpan/Data-CouchDB@0.14
 Data::CouchDB::Handler              0.14  pkg:cpan/Data-CouchDB@0.14
 Data::CouchDB::Role::VersionedData  0.14  pkg:cpan/Data-CouchDB@0.14
-Data::CountMinSketch::Shared        0.04  pkg:cpan/Data-CountMinSketch-Shared@0.04
-Data::CountingBloomFilter::Shared   0.02  pkg:cpan/Data-CountingBloomFilter-Shared@0.02
+Data::CountMinSketch::Shared        0.05  pkg:cpan/Data-CountMinSketch-Shared@0.05
+Data::CountingBloomFilter::Shared   0.03  pkg:cpan/Data-CountingBloomFilter-Shared@0.03
 Data::Couplet                      0.02004314  pkg:cpan/Data-Couplet@0.02004314
 Data::Couplet::Extension           0.02004314  pkg:cpan/Data-Couplet@0.02004314
 Data::Couplet::Plugin::BasicReorder 0.02004314  pkg:cpan/Data-Couplet@0.02004314
@@ -58533,10 +58533,10 @@ Data::Crumbr::Default::JSON        0.001002  pkg:cpan/Data-Crumbr@0.1.2
 Data::Crumbr::Default::URI         0.001002  pkg:cpan/Data-Crumbr@0.1.2
 Data::Crumbr::Util                 0.001002  pkg:cpan/Data-Crumbr@0.1.2
 Data::Cube                          0.02  pkg:cpan/Data-Cube@0.02
-Data::CuckooFilter::Shared          0.04  pkg:cpan/Data-CuckooFilter-Shared@0.04
+Data::CuckooFilter::Shared          0.05  pkg:cpan/Data-CuckooFilter-Shared@0.05
 Data::Cuid                          0.07  pkg:cpan/Data-Cuid@0.07
 Data::Currency                     0.06000  pkg:cpan/Data-Currency@0.06000
-Data::DDSketch::Shared              0.02  pkg:cpan/Data-DDSketch-Shared@0.02
+Data::DDSketch::Shared              0.03  pkg:cpan/Data-DDSketch-Shared@0.03
 Data::DEC                           0.03  pkg:cpan/Data-DEC@0.03
 Data::DEC::Declaration             undef  pkg:cpan/Data-DEC@0.03
 Data::DFA                          20201031  pkg:cpan/Data-DFA@20201031
@@ -58600,7 +58600,7 @@ Data::Dimensions                    0.05  pkg:cpan/Data-Dimensions@0.05
 Data::Dimensions::Map              undef  pkg:cpan/Data-Dimensions@0.05
 Data::Dimensions::SickTie          undef  pkg:cpan/Data-Dimensions@0.05
 Data::Direct                        0.05  pkg:cpan/Data-Direct@0.05
-Data::DisjointSet::Shared           0.04  pkg:cpan/Data-DisjointSet-Shared@0.04
+Data::DisjointSet::Shared           0.05  pkg:cpan/Data-DisjointSet-Shared@0.05
 Data::Display                       0.02  pkg:cpan/Data-Display@0.02
 Data::Displaycolour                v0.8.0  pkg:cpan/Data-Displaycolour@v0.08
 Data::Displaycolour::Data          v0.8.0  pkg:cpan/Data-Displaycolour@v0.08
@@ -62943,9 +62943,9 @@ Database::Async::SQLite            0.001  pkg:cpan/Database-Async-SQLite@0.001
 Database::Async::StatementHandle   0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Test              0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Transaction       0.019  pkg:cpan/Database-Async@0.019
-Database::BI                       0.005002  pkg:cpan/Database-BI@0.005.2
-Database::BI::Controller::Dashboard 0.005002  pkg:cpan/Database-BI@0.005.2
-Database::BI::Model::DataSource    0.005002  pkg:cpan/Database-BI@0.005.2
+Database::BI                       0.006  pkg:cpan/Database-BI@0.006.0
+Database::BI::Controller::Dashboard 0.006  pkg:cpan/Database-BI@0.006.0
+Database::BI::Model::DataSource    0.006  pkg:cpan/Database-BI@0.006.0
 Database::Cassandra::Client            1  pkg:cpan/Database-Cassandra-Client@1
 Database::DumpTruck                  1.2  pkg:cpan/Database-DumpTruck@1.2
 Database::Format::Text              1.03  pkg:cpan/Database-Format-Text@1.03
@@ -99163,7 +99163,7 @@ HTML::Content::TokeParserTokenizer undef  pkg:cpan/HTML-Content-Extractor@0.01
 HTML::ContentExtractor              0.03  pkg:cpan/HTML-ContentExtractor@0.03
 HTML::Copy                          1.31  pkg:cpan/HTML-Copy@1.31
 HTML::CruftText                     0.02  pkg:cpan/HTML-CruftText@0.02
-HTML::D3                            0.13  pkg:cpan/HTML-D3@0.13
+HTML::D3                            0.14  pkg:cpan/HTML-D3@0.14
 HTML::DBForm                        1.05  pkg:cpan/HTML-DBForm@1.05
 HTML::DBForm::Search                1.05  pkg:cpan/HTML-DBForm@1.05
 HTML::DBForm::Search::DropDown      1.05  pkg:cpan/HTML-DBForm@1.05
