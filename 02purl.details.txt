@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 17 Sep 2026 19:27:53 GMT
+Last-Updated: Thu, 17 Sep 2026 22:34:27 GMT
 Line-Count: 259766
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -28371,13 +28371,13 @@ BioX::Map::CLIS                    0.000012  pkg:cpan/BioX-Map@0.0.12
 BioX::Map::CLIS::Cmd::Compare      0.000012  pkg:cpan/BioX-Map@0.0.12
 BioX::Map::CLIS::Cmd::Map          0.000012  pkg:cpan/BioX-Map@0.0.12
 BioX::Map::CLIS::Cmd::MapCompare   0.000012  pkg:cpan/BioX-Map@0.0.12
-BioX::Seq                          0.008009  pkg:cpan/BioX-Seq@0.008009
-BioX::Seq::Fetch                   undef  pkg:cpan/BioX-Seq@0.008009
-BioX::Seq::Stream                  undef  pkg:cpan/BioX-Seq@0.008009
-BioX::Seq::Stream::FASTA           undef  pkg:cpan/BioX-Seq@0.008009
-BioX::Seq::Stream::FASTQ           undef  pkg:cpan/BioX-Seq@0.008009
-BioX::Seq::Stream::TwoBit          undef  pkg:cpan/BioX-Seq@0.008009
-BioX::Seq::Utils                   undef  pkg:cpan/BioX-Seq@0.008009
+BioX::Seq                          0.008010  pkg:cpan/BioX-Seq@0.008010
+BioX::Seq::Fetch                   undef  pkg:cpan/BioX-Seq@0.008010
+BioX::Seq::Stream                  undef  pkg:cpan/BioX-Seq@0.008010
+BioX::Seq::Stream::FASTA           undef  pkg:cpan/BioX-Seq@0.008010
+BioX::Seq::Stream::FASTQ           undef  pkg:cpan/BioX-Seq@0.008010
+BioX::Seq::Stream::TwoBit          undef  pkg:cpan/BioX-Seq@0.008010
+BioX::Seq::Utils                   undef  pkg:cpan/BioX-Seq@0.008010
 BioX::SeqUtils::Promoter           0.001001  pkg:cpan/BioX-SeqUtils-Promoter@0.1.1
 BioX::SeqUtils::Promoter::Alignment 0.001001  pkg:cpan/BioX-SeqUtils-Promoter@0.1.1
 BioX::SeqUtils::Promoter::Annotations 0.001001  pkg:cpan/BioX-SeqUtils-Promoter@0.1.1
@@ -108500,25 +108500,25 @@ JSON::Schema::Fast::Compiled        0.10  pkg:cpan/JSON-Schema-Fast@0.10
 JSON::Schema::Fit                   0.07  pkg:cpan/JSON-Schema-Fit@0.07
 JSON::Schema::Generate              0.15  pkg:cpan/JSON-Schema-Generate@0.15
 JSON::Schema::Helper               0.016  pkg:cpan/JSON-Schema@0.016
-JSON::Schema::Modern               0.648  pkg:cpan/JSON-Schema-Modern@0.648
-JSON::Schema::Modern::Annotation   0.648  pkg:cpan/JSON-Schema-Modern@0.648
-JSON::Schema::Modern::Document     0.648  pkg:cpan/JSON-Schema-Modern@0.648
+JSON::Schema::Modern               0.649  pkg:cpan/JSON-Schema-Modern@0.649
+JSON::Schema::Modern::Annotation   0.649  pkg:cpan/JSON-Schema-Modern@0.649
+JSON::Schema::Modern::Document     0.649  pkg:cpan/JSON-Schema-Modern@0.649
 JSON::Schema::Modern::Document::OpenAPI 0.148  pkg:cpan/OpenAPI-Modern@0.148
-JSON::Schema::Modern::Error        0.648  pkg:cpan/JSON-Schema-Modern@0.648
-JSON::Schema::Modern::Result       0.648  pkg:cpan/JSON-Schema-Modern@0.648
-JSON::Schema::Modern::ResultNode   0.648  pkg:cpan/JSON-Schema-Modern@0.648
-JSON::Schema::Modern::Utilities    0.648  pkg:cpan/JSON-Schema-Modern@0.648
-JSON::Schema::Modern::Vocabulary   0.648  pkg:cpan/JSON-Schema-Modern@0.648
-JSON::Schema::Modern::Vocabulary::Applicator 0.648  pkg:cpan/JSON-Schema-Modern@0.648
-JSON::Schema::Modern::Vocabulary::Content 0.648  pkg:cpan/JSON-Schema-Modern@0.648
-JSON::Schema::Modern::Vocabulary::Core 0.648  pkg:cpan/JSON-Schema-Modern@0.648
-JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.648  pkg:cpan/JSON-Schema-Modern@0.648
-JSON::Schema::Modern::Vocabulary::FormatAssertion 0.648  pkg:cpan/JSON-Schema-Modern@0.648
-JSON::Schema::Modern::Vocabulary::MetaData 0.648  pkg:cpan/JSON-Schema-Modern@0.648
+JSON::Schema::Modern::Error        0.649  pkg:cpan/JSON-Schema-Modern@0.649
+JSON::Schema::Modern::Result       0.649  pkg:cpan/JSON-Schema-Modern@0.649
+JSON::Schema::Modern::ResultNode   0.649  pkg:cpan/JSON-Schema-Modern@0.649
+JSON::Schema::Modern::Utilities    0.649  pkg:cpan/JSON-Schema-Modern@0.649
+JSON::Schema::Modern::Vocabulary   0.649  pkg:cpan/JSON-Schema-Modern@0.649
+JSON::Schema::Modern::Vocabulary::Applicator 0.649  pkg:cpan/JSON-Schema-Modern@0.649
+JSON::Schema::Modern::Vocabulary::Content 0.649  pkg:cpan/JSON-Schema-Modern@0.649
+JSON::Schema::Modern::Vocabulary::Core 0.649  pkg:cpan/JSON-Schema-Modern@0.649
+JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.649  pkg:cpan/JSON-Schema-Modern@0.649
+JSON::Schema::Modern::Vocabulary::FormatAssertion 0.649  pkg:cpan/JSON-Schema-Modern@0.649
+JSON::Schema::Modern::Vocabulary::MetaData 0.649  pkg:cpan/JSON-Schema-Modern@0.649
 JSON::Schema::Modern::Vocabulary::OpenAPI 0.148  pkg:cpan/OpenAPI-Modern@0.148
 JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.148  pkg:cpan/OpenAPI-Modern@0.148
-JSON::Schema::Modern::Vocabulary::Unevaluated 0.648  pkg:cpan/JSON-Schema-Modern@0.648
-JSON::Schema::Modern::Vocabulary::Validation 0.648  pkg:cpan/JSON-Schema-Modern@0.648
+JSON::Schema::Modern::Vocabulary::Unevaluated 0.649  pkg:cpan/JSON-Schema-Modern@0.649
+JSON::Schema::Modern::Vocabulary::Validation 0.649  pkg:cpan/JSON-Schema-Modern@0.649
 JSON::Schema::Null                 0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Result               0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Shorthand            v0.0.2  pkg:cpan/JSON-Schema-Shorthand@0.0.2
@@ -121520,7 +121520,7 @@ MHonArc::UTF8::VISCII              2.006024  pkg:cpan/MHonArc@2.6.24
 MIDI                                0.84  pkg:cpan/MIDI-Perl@0.84
 MIDI::ALSA                          1.22  pkg:cpan/MIDI-ALSA@1.22
 MIDI::Chord::Guitar                0.0706  pkg:cpan/MIDI-Chord-Guitar@0.0706
-MIDI::Device                       0.0101  pkg:cpan/MIDI-Device@0.0101
+MIDI::Device                       0.0102  pkg:cpan/MIDI-Device@0.0102
 MIDI::Device::DX7                  0.0101  pkg:cpan/MIDI-Device-DX7@0.0101
 MIDI::Drummer::Tiny                0.7101  pkg:cpan/MIDI-Drummer-Tiny@0.7101
 MIDI::Drummer::Tiny::Grooves       0.7101  pkg:cpan/MIDI-Drummer-Tiny@0.7101
