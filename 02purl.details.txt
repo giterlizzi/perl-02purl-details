@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 17 Sep 2026 02:50:25 GMT
+Last-Updated: Thu, 17 Sep 2026 09:04:16 GMT
 Line-Count: 259758
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -22657,13 +22657,13 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         v0.37.0  pkg:cpan/BarefootJS@0.37.0
-BarefootJS::Backend::Mojo          v0.37.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.37.0
-BarefootJS::Backend::Xslate        v0.37.0  pkg:cpan/BarefootJS-Backend-Xslate@0.37.0
-BarefootJS::Date                   v0.37.0  pkg:cpan/BarefootJS@0.37.0
-BarefootJS::DevReload              v0.37.0  pkg:cpan/BarefootJS@0.37.0
-BarefootJS::Evaluator              v0.37.0  pkg:cpan/BarefootJS@0.37.0
-BarefootJS::SearchParams           v0.37.0  pkg:cpan/BarefootJS@0.37.0
+BarefootJS                         v0.37.1  pkg:cpan/BarefootJS@0.37.1
+BarefootJS::Backend::Mojo          v0.37.1  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.37.1
+BarefootJS::Backend::Xslate        v0.37.1  pkg:cpan/BarefootJS-Backend-Xslate@0.37.1
+BarefootJS::Date                   v0.37.1  pkg:cpan/BarefootJS@0.37.1
+BarefootJS::DevReload              v0.37.1  pkg:cpan/BarefootJS@0.37.1
+BarefootJS::Evaluator              v0.37.1  pkg:cpan/BarefootJS@0.37.1
+BarefootJS::SearchParams           v0.37.1  pkg:cpan/BarefootJS@0.37.1
 BarefootJS::_TZProbe               0.029000  pkg:cpan/BarefootJS@0.29.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
@@ -103560,14 +103560,14 @@ Hyper::Developer::Model::Viewer    0.100  pkg:cpan/Hyper-Developer@0.07
 Hyper::Developer::Server           undef  pkg:cpan/Hyper-Developer@0.07
 HyperWave::CSP                     0.003001  pkg:cpan/HyperWave-CSP@0.03.1
 HyperWave::CSP::Message            undef  pkg:cpan/HyperWave-CSP@0.03.1
-Hyperman                            0.46  pkg:cpan/Hyperman@0.46
-Hyperman::Event::Epoll              0.46  pkg:cpan/Hyperman@0.46
-Hyperman::Event::IOUring            0.46  pkg:cpan/Hyperman@0.46
-Hyperman::Event::Kqueue             0.46  pkg:cpan/Hyperman@0.46
-Hyperman::Event::Poll               0.46  pkg:cpan/Hyperman@0.46
-Hyperman::Future                    0.46  pkg:cpan/Hyperman@0.46
-Hyperman::Loop                      0.46  pkg:cpan/Hyperman@0.46
-Hyperman::Writer                    0.46  pkg:cpan/Hyperman@0.46
+Hyperman                            0.47  pkg:cpan/Hyperman@0.47
+Hyperman::Event::Epoll              0.47  pkg:cpan/Hyperman@0.47
+Hyperman::Event::IOUring            0.47  pkg:cpan/Hyperman@0.47
+Hyperman::Event::Kqueue             0.47  pkg:cpan/Hyperman@0.47
+Hyperman::Event::Poll               0.47  pkg:cpan/Hyperman@0.47
+Hyperman::Future                    0.47  pkg:cpan/Hyperman@0.47
+Hyperman::Loop                      0.47  pkg:cpan/Hyperman@0.47
+Hyperman::Writer                    0.47  pkg:cpan/Hyperman@0.47
 Hyperscan                           0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Database                 0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Matcher                  0.04  pkg:cpan/Hyperscan@0.04
@@ -107537,9 +107537,9 @@ Internals                            1.1  pkg:cpan/Internals@1.1
 Internals::CountObjects             0.05  pkg:cpan/Internals-CountObjects@0.05
 Internals::DumpArenas               0.12  pkg:cpan/Internals-DumpArenas@0.12
 Internals::GraphArenas              0.01  pkg:cpan/Internals-GraphArenas@0.01
-InternetData                       1.004001  pkg:cpan/InternetData@1.4.1
-InternetData::Database             1.004001  pkg:cpan/InternetData@1.4.1
-InternetData::Error                1.004001  pkg:cpan/InternetData@1.4.1
+InternetData                       1.005000  pkg:cpan/InternetData@1.5.0
+InternetData::Database             1.005000  pkg:cpan/InternetData@1.5.0
+InternetData::Error                1.005000  pkg:cpan/InternetData@1.5.0
 Interpolation                       0.74  pkg:cpan/Interpolation@0.74
 Interpolation::A2A                  0.71  pkg:cpan/Interpolation@0.71
 Interpolation::A2S                  0.71  pkg:cpan/Interpolation@0.71
@@ -132494,8 +132494,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    v0.37.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.37.0
-Mojolicious::Plugin::BarefootJS::DevReload v0.37.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.37.0
+Mojolicious::Plugin::BarefootJS    v0.37.1  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.37.1
+Mojolicious::Plugin::BarefootJS::DevReload v0.37.1  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.37.1
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -190025,14 +190025,14 @@ Physics::Ballistics                 1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::External       1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::Internal       1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::Terminal       1.03  pkg:cpan/Physics-Ballistics@1.03
-Physics::Balls                      0.01  pkg:cpan/Physics-Balls@0.01
-Physics::Balls::Ball                0.01  pkg:cpan/Physics-Balls@0.01
-Physics::Balls::Engine              0.01  pkg:cpan/Physics-Balls@0.01
-Physics::Balls::Error               0.01  pkg:cpan/Physics-Balls@0.01
-Physics::Balls::Outcome             0.01  pkg:cpan/Physics-Balls@0.01
-Physics::Balls::Strike              0.01  pkg:cpan/Physics-Balls@0.01
-Physics::Balls::Table               0.01  pkg:cpan/Physics-Balls@0.01
-Physics::Balls::World               0.01  pkg:cpan/Physics-Balls@0.01
+Physics::Balls                      0.02  pkg:cpan/Physics-Balls@0.02
+Physics::Balls::Ball                0.02  pkg:cpan/Physics-Balls@0.02
+Physics::Balls::Engine              0.02  pkg:cpan/Physics-Balls@0.02
+Physics::Balls::Error               0.02  pkg:cpan/Physics-Balls@0.02
+Physics::Balls::Outcome             0.02  pkg:cpan/Physics-Balls@0.02
+Physics::Balls::Strike              0.02  pkg:cpan/Physics-Balls@0.02
+Physics::Balls::Table               0.02  pkg:cpan/Physics-Balls@0.02
+Physics::Balls::World               0.02  pkg:cpan/Physics-Balls@0.02
 Physics::CPD                        0.03  pkg:cpan/Physics-CPD@0.03
 Physics::CPD::Stellarator           0.03  pkg:cpan/Physics-CPD@0.03
 Physics::CVD                        0.03  pkg:cpan/Physics-CVD@0.03
@@ -190764,7 +190764,7 @@ Plack::Handler::H2::Writer         undef  pkg:cpan/Plack-Handler-H2@0.0.5
 Plack::Handler::HTTP::Server::PSGI undef  pkg:cpan/Plack@1.0054
 Plack::Handler::HTTP::Server::Simple  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
 Plack::Handler::HTTP::Server::Simple::PSGIServer  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
-Plack::Handler::Hyperman            0.46  pkg:cpan/Hyperman@0.46
+Plack::Handler::Hyperman            0.47  pkg:cpan/Hyperman@0.47
 Plack::Handler::Martian             0.08  pkg:cpan/Martian@0.08
 Plack::Handler::Message::Passing   undef  pkg:cpan/Message-Passing-PSGI@0.001
 Plack::Handler::Monoceros          undef  pkg:cpan/Monoceros@0.29
