@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 17 Sep 2026 09:04:16 GMT
-Line-Count: 259758
+Last-Updated: Thu, 17 Sep 2026 14:34:13 GMT
+Line-Count: 259757
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -35264,7 +35264,7 @@ Cache::Entry                        2.11  pkg:cpan/Cache@2.11
 Cache::Escalate                     0.02  pkg:cpan/Cache-Escalate@0.02
 Cache::FastMemoryBackend           undef  pkg:cpan/Cache-FastMemoryCache@0.01
 Cache::FastMemoryCache              0.01  pkg:cpan/Cache-FastMemoryCache@0.01
-Cache::FastMmap                     1.63  pkg:cpan/Cache-FastMmap@1.63
+Cache::FastMmap                     1.64  pkg:cpan/Cache-FastMmap@1.64
 Cache::FastMmap::OnLeave            1.60  pkg:cpan/Cache-FastMmap@1.60
 Cache::FastMmap::Tie                0.03  pkg:cpan/Cache-FastMmap-Tie@0.03
 Cache::File                         2.11  pkg:cpan/Cache@2.11
@@ -50795,7 +50795,7 @@ Crypt::SecretBuffer::INI           0.024  pkg:cpan/Crypt-SecretBuffer@0.024
 Crypt::SecretBuffer::PEM           0.024  pkg:cpan/Crypt-SecretBuffer@0.024
 Crypt::SecretBuffer::PEM::Headers  0.024  pkg:cpan/Crypt-SecretBuffer@0.024
 Crypt::SecretBuffer::Span          0.024  pkg:cpan/Crypt-SecretBuffer@0.024
-Crypt::SelfCertificate              1.00  pkg:cpan/Crypt-SelfCertificate@1.00
+Crypt::SelfCertificate              1.01  pkg:cpan/Crypt-SelfCertificate@1.01
 Crypt::Serpent                      1.01  pkg:cpan/Crypt-Serpent@1.01
 Crypt::Shark                         1.0  pkg:cpan/Crypt-Shark@1.0.1
 Crypt::Simple                       0.06  pkg:cpan/Crypt-Simple@0.06
@@ -133923,7 +133923,6 @@ MooX::Role::HasLogger              v1.0.0  pkg:cpan/MooX-Role-HasLogger@v1.0.0
 MooX::Role::HasLogger::Types       v1.0.0  pkg:cpan/MooX-Role-HasLogger@v1.0.0
 MooX::Role::JSON_LD                2.001001  pkg:cpan/MooX-Role-JSON_LD@2.1.1
 MooX::Role::Logger                 0.005  pkg:cpan/MooX-Role-Logger@0.005
-MooX::Role::OpenGraph                1.0  pkg:cpan/MooX-Role-SEOTags@1.0.0
 MooX::Role::POE::Emitter           1.001002  pkg:cpan/MooX-Role-POE-Emitter@1.001002
 MooX::Role::POE::Emitter::RegisteredSession 1.001001  pkg:cpan/MooX-Role-POE-Emitter@1.001001
 MooX::Role::Parameterized          0.701  pkg:cpan/MooX-Role-Parameterized@0.701
@@ -147447,7 +147446,7 @@ Number::Equation::XS                0.05  pkg:cpan/Number-Equation-XS@0.05
 Number::Extreme                     0.29  pkg:cpan/Number-Extreme@0.29
 Number::Finance::Human             undef  pkg:cpan/Number-Finance-Human@0.001
 Number::Finance::Human::autobox    undef  pkg:cpan/Number-Finance-Human@0.001
-Number::Format                      1.78  pkg:cpan/Number-Format@1.78
+Number::Format                      1.79  pkg:cpan/Number-Format@1.79
 Number::Format::BigFloat           0.001  pkg:cpan/Number-Format-BigFloat@0.001
 Number::Format::Calc                0.21  pkg:cpan/Number-Format-Calc@0.21
 Number::Format::FitWidth           0.002  pkg:cpan/Number-Format-FitWidth@0.002
@@ -213247,20 +213246,20 @@ Sietima::Role::WithPostAddress     1.001005  pkg:cpan/Sietima@1.1.5
 Sietima::Runner                    1.001005  pkg:cpan/Sietima@1.1.5
 Sietima::Subscriber                1.001005  pkg:cpan/Sietima@1.1.5
 Sietima::Types                     1.001005  pkg:cpan/Sietima@1.1.5
-Sieve::Generator                   0.003  pkg:cpan/Sieve-Generator@0.003
-Sieve::Generator::Element          0.003  pkg:cpan/Sieve-Generator@0.003
-Sieve::Generator::Element::Block   0.003  pkg:cpan/Sieve-Generator@0.003
-Sieve::Generator::Element::BracketComment 0.003  pkg:cpan/Sieve-Generator@0.003
-Sieve::Generator::Element::Command 0.003  pkg:cpan/Sieve-Generator@0.003
-Sieve::Generator::Element::Comment 0.003  pkg:cpan/Sieve-Generator@0.003
-Sieve::Generator::Element::Document 0.003  pkg:cpan/Sieve-Generator@0.003
-Sieve::Generator::Element::Heredoc 0.003  pkg:cpan/Sieve-Generator@0.003
-Sieve::Generator::Element::IfElse  0.003  pkg:cpan/Sieve-Generator@0.003
-Sieve::Generator::Element::Junction 0.003  pkg:cpan/Sieve-Generator@0.003
-Sieve::Generator::Element::Num     0.003  pkg:cpan/Sieve-Generator@0.003
-Sieve::Generator::Element::Qstr    0.003  pkg:cpan/Sieve-Generator@0.003
-Sieve::Generator::Element::QstrList 0.003  pkg:cpan/Sieve-Generator@0.003
-Sieve::Generator::Element::Terms   0.003  pkg:cpan/Sieve-Generator@0.003
+Sieve::Generator                   0.004  pkg:cpan/Sieve-Generator@0.004
+Sieve::Generator::Element          0.004  pkg:cpan/Sieve-Generator@0.004
+Sieve::Generator::Element::Block   0.004  pkg:cpan/Sieve-Generator@0.004
+Sieve::Generator::Element::BracketComment 0.004  pkg:cpan/Sieve-Generator@0.004
+Sieve::Generator::Element::Command 0.004  pkg:cpan/Sieve-Generator@0.004
+Sieve::Generator::Element::Comment 0.004  pkg:cpan/Sieve-Generator@0.004
+Sieve::Generator::Element::Document 0.004  pkg:cpan/Sieve-Generator@0.004
+Sieve::Generator::Element::Heredoc 0.004  pkg:cpan/Sieve-Generator@0.004
+Sieve::Generator::Element::IfElse  0.004  pkg:cpan/Sieve-Generator@0.004
+Sieve::Generator::Element::Junction 0.004  pkg:cpan/Sieve-Generator@0.004
+Sieve::Generator::Element::Num     0.004  pkg:cpan/Sieve-Generator@0.004
+Sieve::Generator::Element::Qstr    0.004  pkg:cpan/Sieve-Generator@0.004
+Sieve::Generator::Element::QstrList 0.004  pkg:cpan/Sieve-Generator@0.004
+Sieve::Generator::Element::Terms   0.004  pkg:cpan/Sieve-Generator@0.004
 Sieve::Generator::Lines            0.002  pkg:cpan/Sieve-Generator@0.002
 Sieve::Generator::Lines::Block     0.002  pkg:cpan/Sieve-Generator@0.002
 Sieve::Generator::Lines::Command   0.002  pkg:cpan/Sieve-Generator@0.002
@@ -213270,7 +213269,7 @@ Sieve::Generator::Lines::Heredoc   0.002  pkg:cpan/Sieve-Generator@0.002
 Sieve::Generator::Lines::IfElse    0.002  pkg:cpan/Sieve-Generator@0.002
 Sieve::Generator::Lines::Junction  0.002  pkg:cpan/Sieve-Generator@0.002
 Sieve::Generator::Lines::PrettyCommand 0.001  pkg:cpan/Sieve-Generator@0.001
-Sieve::Generator::Sugar            0.003  pkg:cpan/Sieve-Generator@0.003
+Sieve::Generator::Sugar            0.004  pkg:cpan/Sieve-Generator@0.004
 Sieve::Generator::Text             0.002  pkg:cpan/Sieve-Generator@0.002
 Sieve::Generator::Text::Qstr       0.002  pkg:cpan/Sieve-Generator@0.002
 Sieve::Generator::Text::QstrList   0.002  pkg:cpan/Sieve-Generator@0.002
@@ -237461,17 +237460,17 @@ VOMS::Lite::RSAKey                  0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::SAMLHelper              0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::VOMS                    0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::X509                    0.20  pkg:cpan/VOMS-Lite@0.20
-VPNDetection                       3.002000  pkg:cpan/VPNDetection@3.2.0
-VPNDetection::Bogon                3.002000  pkg:cpan/VPNDetection@3.2.0
-VPNDetection::Bogons               undef  pkg:cpan/VPNDetection@3.2.0
-VPNDetection::Cache                3.002000  pkg:cpan/VPNDetection@3.2.0
-VPNDetection::Database             3.002000  pkg:cpan/VPNDetection@3.2.0
-VPNDetection::Error                3.002000  pkg:cpan/VPNDetection@3.2.0
-VPNDetection::Oauth                3.002000  pkg:cpan/VPNDetection@3.2.0
-VPNDetection::OauthAccessDeniedError 3.002000  pkg:cpan/VPNDetection@3.2.0
-VPNDetection::OauthError           3.002000  pkg:cpan/VPNDetection@3.2.0
-VPNDetection::OauthExpiredTokenError 3.002000  pkg:cpan/VPNDetection@3.2.0
-VPNDetection::Result               3.002000  pkg:cpan/VPNDetection@3.2.0
+VPNDetection                       3.003000  pkg:cpan/VPNDetection@3.3.0
+VPNDetection::Bogon                3.003000  pkg:cpan/VPNDetection@3.3.0
+VPNDetection::Bogons               undef  pkg:cpan/VPNDetection@3.3.0
+VPNDetection::Cache                3.003000  pkg:cpan/VPNDetection@3.3.0
+VPNDetection::Database             3.003000  pkg:cpan/VPNDetection@3.3.0
+VPNDetection::Error                3.003000  pkg:cpan/VPNDetection@3.3.0
+VPNDetection::Oauth                3.003000  pkg:cpan/VPNDetection@3.3.0
+VPNDetection::OauthAccessDeniedError 3.003000  pkg:cpan/VPNDetection@3.3.0
+VPNDetection::OauthError           3.003000  pkg:cpan/VPNDetection@3.3.0
+VPNDetection::OauthExpiredTokenError 3.003000  pkg:cpan/VPNDetection@3.3.0
+VPNDetection::Result               3.003000  pkg:cpan/VPNDetection@3.3.0
 VR::API                             1.06  pkg:cpan/VR-API@1.06
 VR::API::Partner                    1.01  pkg:cpan/VR-API@1.05
 VRML                                1.10  pkg:cpan/VRML@1.10
