@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 18 Sep 2026 14:00:42 GMT
-Line-Count: 259824
+Last-Updated: Fri, 18 Sep 2026 18:46:39 GMT
+Line-Count: 259859
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -54174,7 +54174,7 @@ DBIx::POS::Template                0.067  pkg:cpan/DBIx-POS-Template@0.067
 DBIx::Pager                         0.02  pkg:cpan/DBIx-Pager@0.02
 DBIx::ParseDSN                     v0.9.3  pkg:cpan/DBIx-ParseDSN@v0.9.3
 DBIx::ParseDSN::Default            v0.9.3  pkg:cpan/DBIx-ParseDSN@v0.9.3
-DBIx::ParseError::MySQL            v1.0.5  pkg:cpan/DBIx-ParseError-MySQL@v1.0.5
+DBIx::ParseError::MySQL            v1.0.6  pkg:cpan/DBIx-ParseError-MySQL@v1.0.6
 DBIx::Password                       1.9  pkg:cpan/DBIx-Password@1.9
 DBIx::PasswordIniFile               2.00  pkg:cpan/DBIx-PasswordIniFile@2.00
 DBIx::Patcher                       0.04  pkg:cpan/DBIx-Patcher@0.04
@@ -62920,8 +62920,8 @@ DataWarehouse::Aggregate            0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::Dimension            0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::ETL                  0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::Fact                 0.04  pkg:cpan/DataWarehouse@0.04
-Database::Abstraction               0.42  pkg:cpan/Database-Abstraction@0.42
-Database::Abstraction::Query        0.42  pkg:cpan/Database-Abstraction@0.42
+Database::Abstraction               0.43  pkg:cpan/Database-Abstraction@0.43
+Database::Abstraction::Query        0.43  pkg:cpan/Database-Abstraction@0.43
 Database::Async                    0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Backoff           0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Backoff::Exponential 0.019  pkg:cpan/Database-Async@0.019
@@ -79940,6 +79940,20 @@ Game::Gin::Meld                     0.01  pkg:cpan/Game-Gin@0.01
 Game::Gin::Scoring                  0.01  pkg:cpan/Game-Gin@0.01
 Game::Gin::Search                   0.01  pkg:cpan/Game-Gin@0.01
 Game::Gin::Terminal                 0.01  pkg:cpan/Game-Gin@0.01
+Game::Go                            0.01  pkg:cpan/Game-Go@0.01
+Game::Go::Board                     0.01  pkg:cpan/Game-Go@0.01
+Game::Go::Bot                       0.01  pkg:cpan/Game-Go@0.01
+Game::Go::Engine                    0.01  pkg:cpan/Game-Go@0.01
+Game::Go::Error                     0.01  pkg:cpan/Game-Go@0.01
+Game::Go::GTP                       0.01  pkg:cpan/Game-Go@0.01
+Game::Go::Marking                   0.01  pkg:cpan/Game-Go@0.01
+Game::Go::Move                      0.01  pkg:cpan/Game-Go@0.01
+Game::Go::Notation                  0.01  pkg:cpan/Game-Go@0.01
+Game::Go::Result                    0.01  pkg:cpan/Game-Go@0.01
+Game::Go::Rules                     0.01  pkg:cpan/Game-Go@0.01
+Game::Go::SGF                       0.01  pkg:cpan/Game-Go@0.01
+Game::Go::Scoring                   0.01  pkg:cpan/Game-Go@0.01
+Game::Go::Terminal                  0.01  pkg:cpan/Game-Go@0.01
 Game::HeroesVsAliens                1.01  pkg:cpan/Game-HeroesVsAliens@1.01
 Game::HeroesVsAliens::Alien        undef  pkg:cpan/Game-HeroesVsAliens@0.02
 Game::HeroesVsAliens::Alien::Four  undef  pkg:cpan/Game-HeroesVsAliens@1.01
@@ -79977,6 +79991,17 @@ Game::Lottery                       1.04  pkg:cpan/Game-Lottery@1.04
 Game::Marad                         0.07  pkg:cpan/Game-Marad@0.07
 Game::NURBS                        0.001001  pkg:cpan/Game-NURBS@0.1.13
 Game::Ninja                        0.001001  pkg:cpan/Game-Ninja@0.1.6
+Game::Oware                         0.01  pkg:cpan/Game-Oware@0.01
+Game::Oware::Board                  0.01  pkg:cpan/Game-Oware@0.01
+Game::Oware::Bot                    0.01  pkg:cpan/Game-Oware@0.01
+Game::Oware::Error                  0.01  pkg:cpan/Game-Oware@0.01
+Game::Oware::Move                   0.01  pkg:cpan/Game-Oware@0.01
+Game::Oware::Notation               0.01  pkg:cpan/Game-Oware@0.01
+Game::Oware::Result                 0.01  pkg:cpan/Game-Oware@0.01
+Game::Oware::Rules                  0.01  pkg:cpan/Game-Oware@0.01
+Game::Oware::Scoring                0.01  pkg:cpan/Game-Oware@0.01
+Game::Oware::Terminal               0.01  pkg:cpan/Game-Oware@0.01
+Game::Oware::Variant                0.01  pkg:cpan/Game-Oware@0.01
 Game::Pexeso                        0.01  pkg:cpan/Game-Pexeso@0.01
 Game::Pexeso::Card                 undef  pkg:cpan/Game-Pexeso@0.01
 Game::Pexeso::Spinner              undef  pkg:cpan/Game-Pexeso@0.01
@@ -108226,7 +108251,7 @@ JQ::Lite::Runtime                  undef  pkg:cpan/JQ-Lite@2.57
 JQ::Lite::Tokenizer                undef  pkg:cpan/JQ-Lite@2.57
 JQ::Lite::Util                     undef  pkg:cpan/JQ-Lite@2.57
 JQ::Lite::Value                    undef  pkg:cpan/JQ-Lite@2.57
-JQ::XS                              1.01  pkg:cpan/JQ-XS@1.01
+JQ::XS                              2.01  pkg:cpan/JQ-XS@2.01
 JQuery                              1.00  pkg:cpan/JQuery@1.06
 JQuery::Accordion                   1.00  pkg:cpan/JQuery@1.06
 JQuery::CSS                         1.00  pkg:cpan/JQuery@1.06
@@ -112666,9 +112691,9 @@ LWP::AuthenAgent                   0.001  pkg:cpan/sitemapper@1.019
 LWP::ConnCache                      6.83  pkg:cpan/libwww-perl@6.83
 LWP::ConnCache::MaxKeepAliveRequests  0.33  pkg:cpan/LWP-ConnCache-MaxKeepAliveRequests@0.33
 LWP::ConnCache::Resolving           0.02  pkg:cpan/LWP-ConnCache-Resolving@0.02
-LWP::ConsoleLogger                 1.000002  pkg:cpan/LWP-ConsoleLogger@1.000002
-LWP::ConsoleLogger::Easy           1.000002  pkg:cpan/LWP-ConsoleLogger@1.000002
-LWP::ConsoleLogger::Everywhere     1.000002  pkg:cpan/LWP-ConsoleLogger@1.000002
+LWP::ConsoleLogger                 1.000003  pkg:cpan/LWP-ConsoleLogger@1.000003
+LWP::ConsoleLogger::Easy           1.000003  pkg:cpan/LWP-ConsoleLogger@1.000003
+LWP::ConsoleLogger::Everywhere     1.000003  pkg:cpan/LWP-ConsoleLogger@1.000003
 LWP::Curl                           0.14  pkg:cpan/LWP-Curl@0.14
 LWP::CurlLog                        0.04  pkg:cpan/LWP-CurlLog@0.04
 LWP::Debug                          6.83  pkg:cpan/libwww-perl@6.83
@@ -120972,18 +120997,18 @@ Lustre::LFS                         0.01  pkg:cpan/Lustre-LFS@0.01
 Lustre::LFS::Dir                   undef  pkg:cpan/Lustre-LFS@0.01
 Lustre::LFS::File                  undef  pkg:cpan/Lustre-LFS@0.01
 Lutherie::FretCalc                  0.33  pkg:cpan/Lutherie-FretCalc@0.33
-Luv::CLI                           0.002  pkg:cpan/Luv-CLI@0.002
-Luv::CLI::Command::Add             undef  pkg:cpan/Luv-CLI@0.002
-Luv::CLI::Command::Build           undef  pkg:cpan/Luv-CLI@0.002
-Luv::CLI::Command::Init            undef  pkg:cpan/Luv-CLI@0.002
-Luv::CLI::Command::List            undef  pkg:cpan/Luv-CLI@0.002
-Luv::CLI::Command::Remove          undef  pkg:cpan/Luv-CLI@0.002
-Luv::CLI::Command::Search          undef  pkg:cpan/Luv-CLI@0.002
-Luv::CLI::Command::Update          undef  pkg:cpan/Luv-CLI@0.002
-Luv::CLI::Git                      undef  pkg:cpan/Luv-CLI@0.002
-Luv::CLI::Manifest                 undef  pkg:cpan/Luv-CLI@0.002
-Luv::CLI::Package                  undef  pkg:cpan/Luv-CLI@0.002
-Luv::CLI::Registry                 undef  pkg:cpan/Luv-CLI@0.002
+Luv::CLI                           0.003  pkg:cpan/Luv-CLI@0.003
+Luv::CLI::Command::Add             undef  pkg:cpan/Luv-CLI@0.003
+Luv::CLI::Command::Build           undef  pkg:cpan/Luv-CLI@0.003
+Luv::CLI::Command::Init            undef  pkg:cpan/Luv-CLI@0.003
+Luv::CLI::Command::List            undef  pkg:cpan/Luv-CLI@0.003
+Luv::CLI::Command::Remove          undef  pkg:cpan/Luv-CLI@0.003
+Luv::CLI::Command::Search          undef  pkg:cpan/Luv-CLI@0.003
+Luv::CLI::Command::Update          undef  pkg:cpan/Luv-CLI@0.003
+Luv::CLI::Git                      undef  pkg:cpan/Luv-CLI@0.003
+Luv::CLI::Manifest                 undef  pkg:cpan/Luv-CLI@0.003
+Luv::CLI::Package                  undef  pkg:cpan/Luv-CLI@0.003
+Luv::CLI::Registry                 undef  pkg:cpan/Luv-CLI@0.003
 Lux::IO                             0.07  pkg:cpan/Lux-IO@0.07
 Lux::IO::Btree                     undef  pkg:cpan/Lux-IO@0.07
 Lvalue                              0.21  pkg:cpan/Lvalue@0.21
@@ -136590,6 +136615,14 @@ Music::MelodicDevice::Inversion    0.0504  pkg:cpan/Music-MelodicDevice-Inversio
 Music::MelodicDevice::Ornamentation 0.0706  pkg:cpan/Music-MelodicDevice-Ornamentation@0.0706
 Music::MelodicDevice::Transposition 0.0601  pkg:cpan/Music-MelodicDevice-Transposition@0.0601
 Music::ModalFunction               0.0600  pkg:cpan/Music-ModalFunction@0.0600
+Music::NWC2MusicXML                0.001  pkg:cpan/Music-NWC2MusicXML@0.001.0
+Music::NWC2MusicXML::Diagnostics   0.001  pkg:cpan/Music-NWC2MusicXML@0.001.0
+Music::NWC2MusicXML::Event         0.001  pkg:cpan/Music-NWC2MusicXML@0.001.0
+Music::NWC2MusicXML::MusicXML      0.001  pkg:cpan/Music-NWC2MusicXML@0.001.0
+Music::NWC2MusicXML::NWC           0.001  pkg:cpan/Music-NWC2MusicXML@0.001.0
+Music::NWC2MusicXML::Parser        0.001  pkg:cpan/Music-NWC2MusicXML@0.001.0
+Music::NWC2MusicXML::Score         0.001  pkg:cpan/Music-NWC2MusicXML@0.001.0
+Music::NWC2MusicXML::Staff         0.001  pkg:cpan/Music-NWC2MusicXML@0.001.0
 Music::NeoRiemannianTonnetz         0.27  pkg:cpan/Music-NeoRiemannianTonnetz@0.27
 Music::Note                         0.01  pkg:cpan/Music-Note@0.01
 Music::Note::Frequency              0.05  pkg:cpan/Music-Note-Frequency@0.05
@@ -188590,7 +188623,7 @@ Perl::Critic::Policy::ValuesAndExpressions::ProhibitBarewordDoubleColon   100  p
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitCommaSeparatedStatements 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitComplexVersion 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitConstantPragma 1.156  pkg:cpan/Perl-Critic@1.156
-Perl::Critic::Policy::ValuesAndExpressions::ProhibitDefinedBeforeLength 0.001  pkg:cpan/Perl-Critic-Policy-ValuesAndExpressions-ProhibitDefinedBeforeLength@0.001
+Perl::Critic::Policy::ValuesAndExpressions::ProhibitDefinedBeforeLength 0.002  pkg:cpan/Perl-Critic-Policy-ValuesAndExpressions-ProhibitDefinedBeforeLength@0.002
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitDuplicateHashKeys   100  pkg:cpan/Perl-Critic-Pulp@100
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitEmptyCommas   100  pkg:cpan/Perl-Critic-Pulp@100
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitEmptyPostfixLoop 0.001  pkg:cpan/Perl-Critic-Policy-ValuesAndExpressions-ProhibitEmptyPostfixLoop@0.001
@@ -190152,6 +190185,8 @@ Physics::RayTransfer::Observer     0.003  pkg:cpan/Physics-RayTransfer@0.003
 Physics::RayTransfer::Space        0.003  pkg:cpan/Physics-RayTransfer@0.003
 Physics::Springs                    1.01  pkg:cpan/Physics-Springs@1.01
 Physics::Springs::Friction          1.01  pkg:cpan/Physics-Springs-Friction@1.01
+Physics::Terrain                    0.01  pkg:cpan/Physics-Terrain@0.01
+Physics::Terrain::Snapshot          0.01  pkg:cpan/Physics-Terrain@0.01
 Physics::UEMColumn                 0.901  pkg:cpan/Physics-UEMColumn@0.901
 Physics::UEMColumn::Accelerator        0  pkg:cpan/Physics-UEMColumn@0.901
 Physics::UEMColumn::Auxiliary          0  pkg:cpan/Physics-UEMColumn@0.901
@@ -217717,7 +217752,7 @@ String::ZeroButTrue                  0.2  pkg:cpan/String-ZeroButTrue@0.2
 StringEvolver                       0.03  pkg:cpan/Algorithm-Evolve@0.03
 StringHandle                        0.20  pkg:cpan/Chess-PGN-Parse@0.20
 Stringify::Deep                     0.03  pkg:cpan/Stringify-Deep@0.03
-Struct::Codec                       0.04  pkg:cpan/Struct-Codec@0.04
+Struct::Codec                       0.05  pkg:cpan/Struct-Codec@0.05
 Struct::Compare                      1.0  pkg:cpan/Struct-Compare@1.0.1
 Struct::Conditional                 1.04  pkg:cpan/Struct-Conditional@1.04
 Struct::Diff                        0.98  pkg:cpan/Struct-Diff@0.98
@@ -241034,12 +241069,12 @@ WWW::SMS::Omnitel                   1.00  pkg:cpan/WWW-SMS@0.09
 WWW::SMS::SFR                       1.02  pkg:cpan/WWW-SMS@0.09
 WWW::SMS::Vizzavi                   1.01  pkg:cpan/WWW-SMS@0.09
 WWW::SMS::o2UK                      1.00  pkg:cpan/WWW-SMS@0.09
-WWW::Salesforce                    0.400  pkg:cpan/WWW-Salesforce@0.400
-WWW::Salesforce::Constants         0.400  pkg:cpan/WWW-Salesforce@0.400
-WWW::Salesforce::Deserializer      0.400  pkg:cpan/WWW-Salesforce@0.400
+WWW::Salesforce                    0.401  pkg:cpan/WWW-Salesforce@0.401
+WWW::Salesforce::Constants         0.401  pkg:cpan/WWW-Salesforce@0.401
+WWW::Salesforce::Deserializer      0.401  pkg:cpan/WWW-Salesforce@0.401
 WWW::Salesforce::Report             0.03  pkg:cpan/WWW-Salesforce-Report@0.03
-WWW::Salesforce::Serializer        0.400  pkg:cpan/WWW-Salesforce@0.400
-WWW::Salesforce::Simple            0.400  pkg:cpan/WWW-Salesforce@0.400
+WWW::Salesforce::Serializer        0.401  pkg:cpan/WWW-Salesforce@0.401
+WWW::Salesforce::Simple            0.401  pkg:cpan/WWW-Salesforce@0.401
 WWW::Saucelabs                     0.0201  pkg:cpan/WWW-Saucelabs@0.0201
 WWW::SchneierFacts                  0.02  pkg:cpan/WWW-SchneierFacts@0.02
 WWW::SchneierFacts::Fact           undef  pkg:cpan/WWW-SchneierFacts@0.02
