@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 17 Sep 2026 22:34:27 GMT
-Line-Count: 259766
+Last-Updated: Fri, 18 Sep 2026 02:37:00 GMT
+Line-Count: 259765
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -7093,7 +7093,6 @@ Apache2::AuthCookieLDAP             1.15  pkg:cpan/Apache2-AuthCookieLDAP@1.15
 Apache2::AuthEnv                   1.003008  pkg:cpan/Apache2-AuthEnv@v1.3.8
 Apache2::AuthLLDAPSympa            0.004000  pkg:cpan/AuthLLDAPSympa@1.0.0
 Apache2::AuthNSympa                0.005000  pkg:cpan/Apache2-AuthZSympa@0.5.2
-Apache2::AuthNetLDAP                0.01  pkg:cpan/Apache2-AuthNetLDAP@0.01
 Apache2::AuthPAM                    0.01  pkg:cpan/Apache2-AuthPAM@0.01
 Apache2::AuthTicket                 0.94  pkg:cpan/Apache-AuthTicket@0.94
 Apache2::AuthTicketLDAP             0.02  pkg:cpan/Apache2-AuthTicketLDAP@0.02
@@ -49625,12 +49624,12 @@ Crypt::ARIA                        0.004  pkg:cpan/Crypt-ARIA@0.004
 Crypt::ASN1                        0.091  pkg:cpan/CryptX@0.091
 Crypt::Affine                       0.15  pkg:cpan/Crypt-Affine@0.15
 Crypt::Affine::Params               0.15  pkg:cpan/Crypt-Affine@0.15
-Crypt::Age                         0.003  pkg:cpan/Crypt-Age@0.003
-Crypt::Age::Header                 0.003  pkg:cpan/Crypt-Age@0.003
-Crypt::Age::Keys                   0.003  pkg:cpan/Crypt-Age@0.003
-Crypt::Age::Primitives             0.003  pkg:cpan/Crypt-Age@0.003
-Crypt::Age::Stanza                 0.003  pkg:cpan/Crypt-Age@0.003
-Crypt::Age::Stanza::X25519         0.003  pkg:cpan/Crypt-Age@0.003
+Crypt::Age                         0.004  pkg:cpan/Crypt-Age@0.004
+Crypt::Age::Header                 0.004  pkg:cpan/Crypt-Age@0.004
+Crypt::Age::Keys                   0.004  pkg:cpan/Crypt-Age@0.004
+Crypt::Age::Primitives             0.004  pkg:cpan/Crypt-Age@0.004
+Crypt::Age::Stanza                 0.004  pkg:cpan/Crypt-Age@0.004
+Crypt::Age::Stanza::X25519         0.004  pkg:cpan/Crypt-Age@0.004
 Crypt::AllOrNothing                 0.10  pkg:cpan/Crypt-AllOrNothing@0.10
 Crypt::AllOrNothing::Util           0.09  pkg:cpan/Crypt-AllOrNothing-Util@0.09
 Crypt::Anubis                        1.0  pkg:cpan/Crypt-Anubis@1.0.4
@@ -108500,25 +108499,25 @@ JSON::Schema::Fast::Compiled        0.10  pkg:cpan/JSON-Schema-Fast@0.10
 JSON::Schema::Fit                   0.07  pkg:cpan/JSON-Schema-Fit@0.07
 JSON::Schema::Generate              0.15  pkg:cpan/JSON-Schema-Generate@0.15
 JSON::Schema::Helper               0.016  pkg:cpan/JSON-Schema@0.016
-JSON::Schema::Modern               0.649  pkg:cpan/JSON-Schema-Modern@0.649
-JSON::Schema::Modern::Annotation   0.649  pkg:cpan/JSON-Schema-Modern@0.649
-JSON::Schema::Modern::Document     0.649  pkg:cpan/JSON-Schema-Modern@0.649
-JSON::Schema::Modern::Document::OpenAPI 0.148  pkg:cpan/OpenAPI-Modern@0.148
-JSON::Schema::Modern::Error        0.649  pkg:cpan/JSON-Schema-Modern@0.649
-JSON::Schema::Modern::Result       0.649  pkg:cpan/JSON-Schema-Modern@0.649
-JSON::Schema::Modern::ResultNode   0.649  pkg:cpan/JSON-Schema-Modern@0.649
-JSON::Schema::Modern::Utilities    0.649  pkg:cpan/JSON-Schema-Modern@0.649
-JSON::Schema::Modern::Vocabulary   0.649  pkg:cpan/JSON-Schema-Modern@0.649
-JSON::Schema::Modern::Vocabulary::Applicator 0.649  pkg:cpan/JSON-Schema-Modern@0.649
-JSON::Schema::Modern::Vocabulary::Content 0.649  pkg:cpan/JSON-Schema-Modern@0.649
-JSON::Schema::Modern::Vocabulary::Core 0.649  pkg:cpan/JSON-Schema-Modern@0.649
-JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.649  pkg:cpan/JSON-Schema-Modern@0.649
-JSON::Schema::Modern::Vocabulary::FormatAssertion 0.649  pkg:cpan/JSON-Schema-Modern@0.649
-JSON::Schema::Modern::Vocabulary::MetaData 0.649  pkg:cpan/JSON-Schema-Modern@0.649
-JSON::Schema::Modern::Vocabulary::OpenAPI 0.148  pkg:cpan/OpenAPI-Modern@0.148
-JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.148  pkg:cpan/OpenAPI-Modern@0.148
-JSON::Schema::Modern::Vocabulary::Unevaluated 0.649  pkg:cpan/JSON-Schema-Modern@0.649
-JSON::Schema::Modern::Vocabulary::Validation 0.649  pkg:cpan/JSON-Schema-Modern@0.649
+JSON::Schema::Modern               0.650  pkg:cpan/JSON-Schema-Modern@0.650
+JSON::Schema::Modern::Annotation   0.650  pkg:cpan/JSON-Schema-Modern@0.650
+JSON::Schema::Modern::Document     0.650  pkg:cpan/JSON-Schema-Modern@0.650
+JSON::Schema::Modern::Document::OpenAPI 0.149  pkg:cpan/OpenAPI-Modern@0.149
+JSON::Schema::Modern::Error        0.650  pkg:cpan/JSON-Schema-Modern@0.650
+JSON::Schema::Modern::Result       0.650  pkg:cpan/JSON-Schema-Modern@0.650
+JSON::Schema::Modern::ResultNode   0.650  pkg:cpan/JSON-Schema-Modern@0.650
+JSON::Schema::Modern::Utilities    0.650  pkg:cpan/JSON-Schema-Modern@0.650
+JSON::Schema::Modern::Vocabulary   0.650  pkg:cpan/JSON-Schema-Modern@0.650
+JSON::Schema::Modern::Vocabulary::Applicator 0.650  pkg:cpan/JSON-Schema-Modern@0.650
+JSON::Schema::Modern::Vocabulary::Content 0.650  pkg:cpan/JSON-Schema-Modern@0.650
+JSON::Schema::Modern::Vocabulary::Core 0.650  pkg:cpan/JSON-Schema-Modern@0.650
+JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.650  pkg:cpan/JSON-Schema-Modern@0.650
+JSON::Schema::Modern::Vocabulary::FormatAssertion 0.650  pkg:cpan/JSON-Schema-Modern@0.650
+JSON::Schema::Modern::Vocabulary::MetaData 0.650  pkg:cpan/JSON-Schema-Modern@0.650
+JSON::Schema::Modern::Vocabulary::OpenAPI 0.149  pkg:cpan/OpenAPI-Modern@0.149
+JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.149  pkg:cpan/OpenAPI-Modern@0.149
+JSON::Schema::Modern::Vocabulary::Unevaluated 0.650  pkg:cpan/JSON-Schema-Modern@0.650
+JSON::Schema::Modern::Vocabulary::Validation 0.650  pkg:cpan/JSON-Schema-Modern@0.650
 JSON::Schema::Null                 0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Result               0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Shorthand            v0.0.2  pkg:cpan/JSON-Schema-Shorthand@0.0.2
@@ -149946,8 +149945,8 @@ OpenAPI::Generator::From::Pod      undef  pkg:cpan/OpenAPI-Generator@0.06
 OpenAPI::Generator::Util           undef  pkg:cpan/OpenAPI-Generator@0.06
 OpenAPI::Linter                     0.19  pkg:cpan/OpenAPI-Linter@0.19
 OpenAPI::Linter::Location           0.19  pkg:cpan/OpenAPI-Linter@0.19
-OpenAPI::Modern                    0.148  pkg:cpan/OpenAPI-Modern@0.148
-OpenAPI::Modern::Utilities         0.148  pkg:cpan/OpenAPI-Modern@0.148
+OpenAPI::Modern                    0.149  pkg:cpan/OpenAPI-Modern@0.149
+OpenAPI::Modern::Utilities         0.149  pkg:cpan/OpenAPI-Modern@0.149
 OpenAPI::PerlGenerator              0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
 OpenAPI::PerlGenerator::Template    0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
 OpenAPI::PerlGenerator::Template::Mojo  0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
@@ -203743,26 +203742,26 @@ SPVM::Time::HiRes::Util            undef  pkg:cpan/SPVM-Time-HiRes@0.003
 SPVM::Time::Local                  0.118  pkg:cpan/SPVM-Time-Local@0.118
 SPVM::Time::Piece                  0.012  pkg:cpan/SPVM-Time-Piece@0.012
 SPVM::Time::Seconds                undef  pkg:cpan/SPVM-Time-Piece@0.012
-SPVM::UV                           0.001  pkg:cpan/SPVM-UV@0.001
-SPVM::UV::Callback::Async          undef  pkg:cpan/SPVM-UV@0.001
-SPVM::UV::Callback::Close          undef  pkg:cpan/SPVM-UV@0.001
-SPVM::UV::Callback::Idle           undef  pkg:cpan/SPVM-UV@0.001
-SPVM::UV::Callback::Poll           undef  pkg:cpan/SPVM-UV@0.001
-SPVM::UV::Callback::Read           undef  pkg:cpan/SPVM-UV@0.001
-SPVM::UV::Callback::Timer          undef  pkg:cpan/SPVM-UV@0.001
-SPVM::UV::Callback::Write          undef  pkg:cpan/SPVM-UV@0.001
-SPVM::UV::ConfigBuilder            undef  pkg:cpan/SPVM-UV@0.001
-SPVM::UV::Handle                   undef  pkg:cpan/SPVM-UV@0.001
-SPVM::UV::Handle::Async            undef  pkg:cpan/SPVM-UV@0.001
-SPVM::UV::Handle::Idle             undef  pkg:cpan/SPVM-UV@0.001
-SPVM::UV::Handle::Pipe             undef  pkg:cpan/SPVM-UV@0.001
-SPVM::UV::Handle::Poll             undef  pkg:cpan/SPVM-UV@0.001
-SPVM::UV::Handle::Stream           undef  pkg:cpan/SPVM-UV@0.001
-SPVM::UV::Handle::Timer            undef  pkg:cpan/SPVM-UV@0.001
-SPVM::UV::Loop                     undef  pkg:cpan/SPVM-UV@0.001
-SPVM::UV::Request                  undef  pkg:cpan/SPVM-UV@0.001
-SPVM::UV::Request::Write           undef  pkg:cpan/SPVM-UV@0.001
-SPVM::UV::Resource::UV             undef  pkg:cpan/SPVM-UV@0.001
+SPVM::UV                           0.002  pkg:cpan/SPVM-UV@0.002
+SPVM::UV::Callback::Async          undef  pkg:cpan/SPVM-UV@0.002
+SPVM::UV::Callback::Close          undef  pkg:cpan/SPVM-UV@0.002
+SPVM::UV::Callback::Idle           undef  pkg:cpan/SPVM-UV@0.002
+SPVM::UV::Callback::Poll           undef  pkg:cpan/SPVM-UV@0.002
+SPVM::UV::Callback::Read           undef  pkg:cpan/SPVM-UV@0.002
+SPVM::UV::Callback::Timer          undef  pkg:cpan/SPVM-UV@0.002
+SPVM::UV::Callback::Write          undef  pkg:cpan/SPVM-UV@0.002
+SPVM::UV::ConfigBuilder            undef  pkg:cpan/SPVM-UV@0.002
+SPVM::UV::Handle                   undef  pkg:cpan/SPVM-UV@0.002
+SPVM::UV::Handle::Async            undef  pkg:cpan/SPVM-UV@0.002
+SPVM::UV::Handle::Idle             undef  pkg:cpan/SPVM-UV@0.002
+SPVM::UV::Handle::Pipe             undef  pkg:cpan/SPVM-UV@0.002
+SPVM::UV::Handle::Poll             undef  pkg:cpan/SPVM-UV@0.002
+SPVM::UV::Handle::Stream           undef  pkg:cpan/SPVM-UV@0.002
+SPVM::UV::Handle::Timer            undef  pkg:cpan/SPVM-UV@0.002
+SPVM::UV::Loop                     undef  pkg:cpan/SPVM-UV@0.002
+SPVM::UV::Request                  undef  pkg:cpan/SPVM-UV@0.002
+SPVM::UV::Request::Write           undef  pkg:cpan/SPVM-UV@0.002
+SPVM::UV::Resource::UV             undef  pkg:cpan/SPVM-UV@0.002
 SPVM::Unicode                      0.058  pkg:cpan/SPVM-Unicode@0.058
 SPVM::Unicode::Normalize           0.011  pkg:cpan/SPVM-Unicode-Normalize@0.011
 SQ                                 v0.0.6  pkg:cpan/SQ@0.0.6
@@ -240672,7 +240671,7 @@ WWW::Ohloh::API::Stack             v1.0.2  pkg:cpan/WWW-Ohloh-API@1.0.2
 WWW::Ohloh::API::StackEntry        v1.0.2  pkg:cpan/WWW-Ohloh-API@1.0.2
 WWW::Omegle                         0.02  pkg:cpan/WWW-Omegle@0.02
 WWW::OneAll                         0.03  pkg:cpan/WWW-OneAll@0.03
-WWW::OpenBao                       0.001  pkg:cpan/WWW-OpenBao@0.001
+WWW::OpenBao                       0.002  pkg:cpan/WWW-OpenBao@0.002
 WWW::OpenSearch                     0.17  pkg:cpan/WWW-OpenSearch@0.17
 WWW::OpenSearch::Agent             undef  pkg:cpan/WWW-OpenSearch@0.17
 WWW::OpenSearch::Description       undef  pkg:cpan/WWW-OpenSearch@0.17
