@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 18 Sep 2026 18:46:39 GMT
-Line-Count: 259859
+Last-Updated: Fri, 18 Sep 2026 22:08:24 GMT
+Line-Count: 259861
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -45057,7 +45057,7 @@ Chef::REST::Client::sandboxes          1  pkg:cpan/Chef-REST-Client@1.2
 Chef::REST::Client::search             1  pkg:cpan/Chef-REST-Client@1.2
 Chef::Recipe                       undef  pkg:cpan/Chef@0.01
 Chef::Resource                     undef  pkg:cpan/Chef@0.01
-Chem::Structure::Parser             0.02  pkg:cpan/Chem-Structure-Parser@0.02
+Chem::Structure::Parser             0.03  pkg:cpan/Chem-Structure-Parser@0.03
 Chemistry::3DBuilder                0.10  pkg:cpan/Chemistry-3DBuilder@0.10
 Chemistry::Artificial::Graphics     0.01  pkg:cpan/Chemistry-Artificial-Graphics@0.01
 Chemistry::Artificial::SQL          0.01  pkg:cpan/Chemistry-Artificial-SQL@0.01
@@ -62951,7 +62951,7 @@ Database::BI::Model::DataSource    0.007  pkg:cpan/Database-BI@0.007.0
 Database::Cassandra::Client            1  pkg:cpan/Database-Cassandra-Client@1
 Database::DumpTruck                  1.2  pkg:cpan/Database-DumpTruck@1.2
 Database::Format::Text              1.03  pkg:cpan/Database-Format-Text@1.03
-Database::Join                     0.003  pkg:cpan/Database-Join@0.003.0
+Database::Join                     0.003001  pkg:cpan/Database-Join@0.003.1
 Database::ManagedHandle            0.003  pkg:cpan/Database-ManagedHandle@0.003
 Database::Migrator                  0.14  pkg:cpan/Database-Migrator@0.14
 Database::Migrator::Core            0.14  pkg:cpan/Database-Migrator@0.14
@@ -108251,7 +108251,7 @@ JQ::Lite::Runtime                  undef  pkg:cpan/JQ-Lite@2.57
 JQ::Lite::Tokenizer                undef  pkg:cpan/JQ-Lite@2.57
 JQ::Lite::Util                     undef  pkg:cpan/JQ-Lite@2.57
 JQ::Lite::Value                    undef  pkg:cpan/JQ-Lite@2.57
-JQ::XS                              2.01  pkg:cpan/JQ-XS@2.01
+JQ::XS                              2.02  pkg:cpan/JQ-XS@2.02
 JQuery                              1.00  pkg:cpan/JQuery@1.06
 JQuery::Accordion                   1.00  pkg:cpan/JQuery@1.06
 JQuery::CSS                         1.00  pkg:cpan/JQuery@1.06
@@ -121307,6 +121307,7 @@ MCP::Constants                     undef  pkg:cpan/MCP@0.15
 MCP::K8s                           0.002  pkg:cpan/MCP-K8s@0.002
 MCP::K8s::Permissions              0.002  pkg:cpan/MCP-K8s@0.002
 MCP::Kubernetes                    0.002  pkg:cpan/MCP-K8s@0.002
+MCP::Picnic                        0.001  pkg:cpan/MCP-Picnic@0.001
 MCP::Primitive                     undef  pkg:cpan/MCP@0.15
 MCP::Prompt                        undef  pkg:cpan/MCP@0.15
 MCP::Resource                      undef  pkg:cpan/MCP@0.15
@@ -126718,6 +126719,7 @@ Math::Rand48                        1.00  pkg:cpan/Math-Rand48@1.00
 Math::Rand48::Cursor               0.001  pkg:cpan/Math-Rand48-Cursor@0.001
 Math::Random                        0.75  pkg:cpan/Math-Random@0.75
 Math::Random::AcceptReject          0.02  pkg:cpan/Math-Random-AcceptReject@0.02
+Math::Random::Biski64              0.002000  pkg:cpan/Math-Random-Biski64@v0.2.0
 Math::Random::BlumBlumShub          0.06  pkg:cpan/Math-Random-BlumBlumShub@0.06
 Math::Random::Brownian              0.03  pkg:cpan/Math-Random-Brownian@0.03
 Math::Random::Cauchy                0.02  pkg:cpan/Math-Random-Cauchy@0.02
@@ -144176,8 +144178,8 @@ Net::OpenSSH::Compat::SSH2::File    0.09  pkg:cpan/Net-OpenSSH-Compat@0.09
 Net::OpenSSH::Compat::SSH2::SFTP    0.09  pkg:cpan/Net-OpenSSH-Compat@0.09
 Net::OpenSSH::ConnectionCache      undef  pkg:cpan/Net-OpenSSH@0.84
 Net::OpenSSH::ModuleLoader         undef  pkg:cpan/Net-OpenSSH@0.84
-Net::OpenSSH::More                  1.03  pkg:cpan/Net-OpenSSH-More@1.03
-Net::OpenSSH::More::Linux           1.03  pkg:cpan/Net-OpenSSH-More@1.03
+Net::OpenSSH::More                  1.04  pkg:cpan/Net-OpenSSH-More@1.04
+Net::OpenSSH::More::Linux           1.04  pkg:cpan/Net-OpenSSH-More@1.04
 Net::OpenSSH::ObjectRemote         undef  pkg:cpan/Net-OpenSSH@0.84
 Net::OpenSSH::Parallel              0.14  pkg:cpan/Net-OpenSSH-Parallel@0.14
 Net::OpenSSH::Parallel::Constants   0.12  pkg:cpan/Net-OpenSSH-Parallel@0.14
@@ -188539,7 +188541,7 @@ Perl::Critic::Policy::ProhibitPipeOpen 1.000  pkg:cpan/perl-critic-policy-prohib
 Perl::Critic::Policy::ProhibitPrintSTDERR 1.000  pkg:cpan/perl-critic-policy-prohibitprintstderr@1.000
 Perl::Critic::Policy::ProhibitRegexForSimpleSubstring 1.001  pkg:cpan/perl-critic-policy-prohibitregexforsimplesubstring@1.001
 Perl::Critic::Policy::ProhibitSmartmatch   0.4  pkg:cpan/Perl-Critic-Policy-ProhibitSmartmatch@0.4
-Perl::Critic::Policy::ProhibitUnusedDefinitions 0.002  pkg:cpan/Perl-Critic-Policy-ProhibitUnusedDefinitions@0.002
+Perl::Critic::Policy::ProhibitUnusedDefinitions 0.004  pkg:cpan/Perl-Critic-Policy-ProhibitUnusedDefinitions@0.004
 Perl::Critic::Policy::ProhibitUnusedImports 1.001  pkg:cpan/perl-critic-policy-prohibitunusedimports@1.001
 Perl::Critic::Policy::ProhibitUsageSubs 1.000  pkg:cpan/perl-critic-policy-prohibitusagesubs@1.000
 Perl::Critic::Policy::ProhibitUseLib 1.000  pkg:cpan/perl-critic-policy-prohibituselib@1.000
@@ -190115,14 +190117,14 @@ Physics::Ballistics                 1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::External       1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::Internal       1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::Terminal       1.03  pkg:cpan/Physics-Ballistics@1.03
-Physics::Balls                      0.02  pkg:cpan/Physics-Balls@0.02
-Physics::Balls::Ball                0.02  pkg:cpan/Physics-Balls@0.02
-Physics::Balls::Engine              0.02  pkg:cpan/Physics-Balls@0.02
-Physics::Balls::Error               0.02  pkg:cpan/Physics-Balls@0.02
-Physics::Balls::Outcome             0.02  pkg:cpan/Physics-Balls@0.02
-Physics::Balls::Strike              0.02  pkg:cpan/Physics-Balls@0.02
-Physics::Balls::Table               0.02  pkg:cpan/Physics-Balls@0.02
-Physics::Balls::World               0.02  pkg:cpan/Physics-Balls@0.02
+Physics::Balls                      0.04  pkg:cpan/Physics-Balls@0.04
+Physics::Balls::Ball                0.04  pkg:cpan/Physics-Balls@0.04
+Physics::Balls::Engine              0.04  pkg:cpan/Physics-Balls@0.04
+Physics::Balls::Error               0.04  pkg:cpan/Physics-Balls@0.04
+Physics::Balls::Outcome             0.04  pkg:cpan/Physics-Balls@0.04
+Physics::Balls::Strike              0.04  pkg:cpan/Physics-Balls@0.04
+Physics::Balls::Table               0.04  pkg:cpan/Physics-Balls@0.04
+Physics::Balls::World               0.04  pkg:cpan/Physics-Balls@0.04
 Physics::CPD                        0.03  pkg:cpan/Physics-CPD@0.03
 Physics::CPD::Stellarator           0.03  pkg:cpan/Physics-CPD@0.03
 Physics::CVD                        0.03  pkg:cpan/Physics-CVD@0.03
