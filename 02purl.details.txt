@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 19 Sep 2026 02:36:18 GMT
+Last-Updated: Sat, 19 Sep 2026 08:25:49 GMT
 Line-Count: 259866
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -5201,7 +5201,7 @@ Alien::fpm                          0.04  pkg:cpan/Alien-fpm@0.04
 Alien::freexl                       1.06  pkg:cpan/Alien-freexl@1.06
 Alien::gdal                         1.44  pkg:cpan/Alien-gdal@1.44
 Alien::geos::af                    1.012  pkg:cpan/Alien-geos-af@1.012
-Alien::gettext                     0.001  pkg:cpan/Alien-gettext@0.001
+Alien::gettext                     0.002  pkg:cpan/Alien-gettext@0.002
 Alien::ggml                         0.09  pkg:cpan/Alien-ggml@0.09
 Alien::ghostty                      0.01  pkg:cpan/Alien-ghostty@0.01
 Alien::ghostunnel                   0.01  pkg:cpan/Alien-ghostunnel@0.01
@@ -51058,7 +51058,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.1  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::NotNode  v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::OrNode   v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.153
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.154
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curl::Impersonate                   0.02  pkg:cpan/Curl-Impersonate@0.02
 Curl::Impersonate::Multi           undef  pkg:cpan/Curl-Impersonate@0.02
@@ -103640,14 +103640,14 @@ Hyper::Developer::Model::Viewer    0.100  pkg:cpan/Hyper-Developer@0.07
 Hyper::Developer::Server           undef  pkg:cpan/Hyper-Developer@0.07
 HyperWave::CSP                     0.003001  pkg:cpan/HyperWave-CSP@0.03.1
 HyperWave::CSP::Message            undef  pkg:cpan/HyperWave-CSP@0.03.1
-Hyperman                            0.48  pkg:cpan/Hyperman@0.48
-Hyperman::Event::Epoll              0.48  pkg:cpan/Hyperman@0.48
-Hyperman::Event::IOUring            0.48  pkg:cpan/Hyperman@0.48
-Hyperman::Event::Kqueue             0.48  pkg:cpan/Hyperman@0.48
-Hyperman::Event::Poll               0.48  pkg:cpan/Hyperman@0.48
-Hyperman::Future                    0.48  pkg:cpan/Hyperman@0.48
-Hyperman::Loop                      0.48  pkg:cpan/Hyperman@0.48
-Hyperman::Writer                    0.48  pkg:cpan/Hyperman@0.48
+Hyperman                            0.49  pkg:cpan/Hyperman@0.49
+Hyperman::Event::Epoll              0.49  pkg:cpan/Hyperman@0.49
+Hyperman::Event::IOUring            0.49  pkg:cpan/Hyperman@0.49
+Hyperman::Event::Kqueue             0.49  pkg:cpan/Hyperman@0.49
+Hyperman::Event::Poll               0.49  pkg:cpan/Hyperman@0.49
+Hyperman::Future                    0.49  pkg:cpan/Hyperman@0.49
+Hyperman::Loop                      0.49  pkg:cpan/Hyperman@0.49
+Hyperman::Writer                    0.49  pkg:cpan/Hyperman@0.49
 Hyperscan                           0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Database                 0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Matcher                  0.04  pkg:cpan/Hyperscan@0.04
@@ -189230,8 +189230,8 @@ Perl::Tags::Tag::Role               0.32  pkg:cpan/Perl-Tags@0.32
 Perl::Tags::Tag::Stub               0.32  pkg:cpan/Perl-Tags@0.32
 Perl::Tags::Tag::Sub                0.32  pkg:cpan/Perl-Tags@0.32
 Perl::Tags::Tag::Var                0.32  pkg:cpan/Perl-Tags@0.32
-Perl::Tests::Covering              0.001  pkg:cpan/Perl-Tests-Covering@0.001
-Perl::Tests::Covering::Recorder    0.001  pkg:cpan/Perl-Tests-Covering@0.001
+Perl::Tests::Covering              0.002  pkg:cpan/Perl-Tests-Covering@0.002
+Perl::Tests::Covering::Recorder    0.002  pkg:cpan/Perl-Tests-Covering@0.002
 Perl::Tidy                         20260826  pkg:cpan/Perl-Tidy@20260826
 Perl::Tidy::Debugger               20260826  pkg:cpan/Perl-Tidy@20260826
 Perl::Tidy::DevNull                20230701  pkg:cpan/Perl-Tidy@20230701
@@ -190863,7 +190863,7 @@ Plack::Handler::H2::Writer         undef  pkg:cpan/Plack-Handler-H2@0.0.5
 Plack::Handler::HTTP::Server::PSGI undef  pkg:cpan/Plack@1.0054
 Plack::Handler::HTTP::Server::Simple  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
 Plack::Handler::HTTP::Server::Simple::PSGIServer  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
-Plack::Handler::Hyperman            0.48  pkg:cpan/Hyperman@0.48
+Plack::Handler::Hyperman            0.49  pkg:cpan/Hyperman@0.49
 Plack::Handler::Martian             0.08  pkg:cpan/Martian@0.08
 Plack::Handler::Message::Passing   undef  pkg:cpan/Message-Passing-PSGI@0.001
 Plack::Handler::Monoceros          undef  pkg:cpan/Monoceros@0.29
@@ -211329,22 +211329,22 @@ ShardedKV::Storage::Redis::String   0.20  pkg:cpan/ShardedKV@0.20
 ShardedKV::Storage::ReplicatedRest undef  pkg:cpan/ShardedKV-Storage-Rest@0.8
 ShardedKV::Storage::Rest             0.8  pkg:cpan/ShardedKV-Storage-Rest@0.8
 SharePoint::SOAPHandler            0.0013  pkg:cpan/SharePoint-SOAPHandler@0.0013
-Shared::Arena                       0.09  pkg:cpan/Shared-Arena@0.09
-Shared::Arena::Bloom                0.09  pkg:cpan/Shared-Arena@0.09
-Shared::Arena::Cache                0.09  pkg:cpan/Shared-Arena@0.09
-Shared::Arena::CountMin             0.09  pkg:cpan/Shared-Arena@0.09
-Shared::Arena::Cuckoo               0.09  pkg:cpan/Shared-Arena@0.09
-Shared::Arena::Frozen               0.09  pkg:cpan/Shared-Arena@0.09
-Shared::Arena::Frozen::View         0.09  pkg:cpan/Shared-Arena@0.09
-Shared::Arena::Histogram            0.09  pkg:cpan/Shared-Arena@0.09
-Shared::Arena::HyperLogLog          0.09  pkg:cpan/Shared-Arena@0.09
-Shared::Arena::Lease                0.09  pkg:cpan/Shared-Arena@0.09
-Shared::Arena::Map                  0.09  pkg:cpan/Shared-Arena@0.09
-Shared::Arena::Rate                 0.09  pkg:cpan/Shared-Arena@0.09
-Shared::Arena::Ring                 0.09  pkg:cpan/Shared-Arena@0.09
-Shared::Arena::Ring::Cursor         0.09  pkg:cpan/Shared-Arena@0.09
-Shared::Arena::Ring::Group          0.09  pkg:cpan/Shared-Arena@0.09
-Shared::Arena::Scoreboard           0.09  pkg:cpan/Shared-Arena@0.09
+Shared::Arena                       0.10  pkg:cpan/Shared-Arena@0.10
+Shared::Arena::Bloom                0.10  pkg:cpan/Shared-Arena@0.10
+Shared::Arena::Cache                0.10  pkg:cpan/Shared-Arena@0.10
+Shared::Arena::CountMin             0.10  pkg:cpan/Shared-Arena@0.10
+Shared::Arena::Cuckoo               0.10  pkg:cpan/Shared-Arena@0.10
+Shared::Arena::Frozen               0.10  pkg:cpan/Shared-Arena@0.10
+Shared::Arena::Frozen::View         0.10  pkg:cpan/Shared-Arena@0.10
+Shared::Arena::Histogram            0.10  pkg:cpan/Shared-Arena@0.10
+Shared::Arena::HyperLogLog          0.10  pkg:cpan/Shared-Arena@0.10
+Shared::Arena::Lease                0.10  pkg:cpan/Shared-Arena@0.10
+Shared::Arena::Map                  0.10  pkg:cpan/Shared-Arena@0.10
+Shared::Arena::Rate                 0.10  pkg:cpan/Shared-Arena@0.10
+Shared::Arena::Ring                 0.10  pkg:cpan/Shared-Arena@0.10
+Shared::Arena::Ring::Cursor         0.10  pkg:cpan/Shared-Arena@0.10
+Shared::Arena::Ring::Group          0.10  pkg:cpan/Shared-Arena@0.10
+Shared::Arena::Scoreboard           0.10  pkg:cpan/Shared-Arena@0.10
 Shared::Examples::Net::Amazon::S3  0.992  pkg:cpan/Net-Amazon-S3@0.992
 Shared::Examples::Net::Amazon::S3::ACL  0.89  pkg:cpan/Net-Amazon-S3@0.89
 Shared::Examples::Net::Amazon::S3::API 0.992  pkg:cpan/Net-Amazon-S3@0.992
