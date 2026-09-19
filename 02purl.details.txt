@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 19 Sep 2026 19:51:58 GMT
+Last-Updated: Sat, 19 Sep 2026 22:00:29 GMT
 Line-Count: 259890
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -99471,7 +99471,7 @@ HTML::Embperl::Session             3.000001  pkg:cpan/Embperl@3.0.1
 HTML::EmbperlObject                1.003001  pkg:cpan/HTML-Embperl@1.3.6
 HTML::Encapsulate                  v0.3.0  pkg:cpan/HTML-Encapsulate@v0.3.0
 HTML::Encoding                      0.61  pkg:cpan/HTML-Encoding@0.61
-HTML::Entities                      3.85  pkg:cpan/HTML-Parser@3.85
+HTML::Entities                      3.86  pkg:cpan/HTML-Parser@3.86
 HTML::Entities::ConvertPictogramMobileJp  0.09  pkg:cpan/HTML-Entities-ConvertPictogramMobileJp@0.09
 HTML::Entities::ConvertPictogramMobileJp::KDDITABLE undef  pkg:cpan/HTML-Entities-ConvertPictogramMobileJp@0.09
 HTML::Entities::ImodePictogram      0.06  pkg:cpan/HTML-Entities-ImodePictogram@0.06
@@ -99509,7 +99509,7 @@ HTML::FillInForm                    2.22  pkg:cpan/HTML-FillInForm@2.22
 HTML::FillInForm::ForceUTF8         0.03  pkg:cpan/HTML-FillInForm-ForceUTF8@0.03
 HTML::FillInForm::Lite              1.15  pkg:cpan/HTML-FillInForm-Lite@1.15
 HTML::FillInForm::Lite::Compat      1.15  pkg:cpan/HTML-FillInForm-Lite@1.15
-HTML::Filter                        3.85  pkg:cpan/HTML-Parser@3.85
+HTML::Filter                        3.86  pkg:cpan/HTML-Parser@3.86
 HTML::Filter::Callbacks             0.10  pkg:cpan/HTML-Filter-Callbacks@0.10
 HTML::Filter::Callbacks::Tag       undef  pkg:cpan/HTML-Filter-Callbacks@0.10
 HTML::Form                          6.13  pkg:cpan/HTML-Form@6.13
@@ -100194,7 +100194,7 @@ HTML::HTPL::Tcl                    undef  pkg:cpan/htpl@3.14
 HTML::HTPL::Template               undef  pkg:cpan/htpl@3.14
 HTML::HTPL::Txt                    undef  pkg:cpan/htpl@3.14
 HTML::HashTable                      0.6  pkg:cpan/HTML-HashTable@0.6
-HTML::HeadParser                    3.85  pkg:cpan/HTML-Parser@3.85
+HTML::HeadParser                    3.86  pkg:cpan/HTML-Parser@3.86
 HTML::HeadParser::Liberal           0.03  pkg:cpan/HTML-HeadParser-Liberal@0.03
 HTML::HiLiter                      0.201  pkg:cpan/HTML-HiLiter@0.201
 HTML::Highlight                      0.2  pkg:cpan/HTML-Highlight@0.20
@@ -100243,7 +100243,7 @@ HTML::LinkAdd                       0.13  pkg:cpan/HTML-LinkAdd@0.13
 HTML::LinkChanger                    2.4  pkg:cpan/HTML-LinkChanger@2.4
 HTML::LinkChanger::Absolutizer       2.4  pkg:cpan/HTML-LinkChanger@2.4
 HTML::LinkChanger::URLFilter         2.4  pkg:cpan/HTML-LinkChanger@2.4
-HTML::LinkExtor                     3.85  pkg:cpan/HTML-Parser@3.85
+HTML::LinkExtor                     3.86  pkg:cpan/HTML-Parser@3.86
 HTML::LinkExtractor                 0.13  pkg:cpan/HTML-LinkExtractor@0.13
 HTML::LinkFilter                    0.03  pkg:cpan/HTML-LinkFilter@0.03
 HTML::LinkList                     0.1701  pkg:cpan/HTML-LinkList@0.1701
@@ -100633,7 +100633,7 @@ HTML::Paging::SQL                   1.17  pkg:cpan/HTML-Paging-SQL@1.11
 HTML::ParagraphSplit                1.05  pkg:cpan/HTML-ParagraphSplit@1.05
 HTML::Parse                         5.07  pkg:cpan/HTML-Tree@5.07
 HTML::ParseBrowser                  1.15  pkg:cpan/HTML-ParseBrowser@1.15
-HTML::Parser                        3.85  pkg:cpan/HTML-Parser@3.85
+HTML::Parser                        3.86  pkg:cpan/HTML-Parser@3.86
 HTML::Parser::Simple                2.02  pkg:cpan/HTML-Parser-Simple@2.02?ext=tgz
 HTML::Parser::Simple::Attributes    2.02  pkg:cpan/HTML-Parser-Simple@2.02?ext=tgz
 HTML::Parser::Simple::Reporter      2.02  pkg:cpan/HTML-Parser-Simple@2.02?ext=tgz
@@ -100678,7 +100678,7 @@ HTML::Prototype::Helper::Tag       undef  pkg:cpan/HTML-Prototype@1.48
 HTML::Prototype::Js                undef  pkg:cpan/HTML-Prototype@1.48
 HTML::Prototype::Useful             0.05  pkg:cpan/HTML-Prototype-Useful@0.05
 HTML::Prototype::Useful::Js        undef  pkg:cpan/HTML-Prototype-Useful@0.05
-HTML::PullParser                    3.85  pkg:cpan/HTML-Parser@3.85
+HTML::PullParser                    3.86  pkg:cpan/HTML-Parser@3.86
 HTML::PullParser::Nested            0.04  pkg:cpan/HTML-PullParser-Nested@0.04
 HTML::Purifier                      0.01  pkg:cpan/HTML-Purifier@0.01
 HTML::Puzzle                        0.13  pkg:cpan/HTML-Puzzle@0.13
@@ -101153,7 +101153,7 @@ HTML::Toc                           1.12  pkg:cpan/HTML-Toc@1.12
 HTML::TocGenerator                  1.12  pkg:cpan/HTML-Toc@1.12
 HTML::TocInsertor                   1.12  pkg:cpan/HTML-Toc@1.12
 HTML::TocUpdator                    1.12  pkg:cpan/HTML-Toc@1.12
-HTML::TokeParser                    3.85  pkg:cpan/HTML-Parser@3.85
+HTML::TokeParser                    3.86  pkg:cpan/HTML-Parser@3.86
 HTML::TokeParser::Simple            3.16  pkg:cpan/HTML-TokeParser-Simple@3.16
 HTML::TokeParser::Simple::Token     3.16  pkg:cpan/HTML-TokeParser-Simple@3.16
 HTML::TokeParser::Simple::Token::Comment  3.16  pkg:cpan/HTML-TokeParser-Simple@3.16
