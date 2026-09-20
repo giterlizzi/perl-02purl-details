@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 20 Sep 2026 20:06:37 GMT
-Line-Count: 259906
+Last-Updated: Sun, 20 Sep 2026 23:45:54 GMT
+Line-Count: 259913
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -1482,6 +1482,12 @@ AWS::SNS::Verify                   0.0105  pkg:cpan/AWS-SNS-Verify@0.0105
 AWS::SQS::Simple                    0.02  pkg:cpan/AWS-SQS-Simple@0.02
 AWS::Signature4                     1.02  pkg:cpan/AWS-Signature4@1.02
 AWS::Signature::V2                  0.01  pkg:cpan/AWS-Signature-V2@0.01
+AWS::Signature::V4                 0.001  pkg:cpan/AWS-Signature-V4@0.001
+AWS::Signature::V4::Checksum       undef  pkg:cpan/AWS-Signature-V4@0.001
+AWS::Signature::V4::Chunker        undef  pkg:cpan/AWS-Signature-V4@0.001
+AWS::Signature::V4::Credentials    undef  pkg:cpan/AWS-Signature-V4@0.001
+AWS::Signature::V4::Error          undef  pkg:cpan/AWS-Signature-V4@0.001
+AWS::Signature::V4::X509           undef  pkg:cpan/AWS-Signature-V4@0.001
 AWS::XRay                           0.12  pkg:cpan/AWS-XRay@0.12
 AWS::XRay::Buffer                  undef  pkg:cpan/AWS-XRay@0.12
 AWS::XRay::Plugin::EC2             undef  pkg:cpan/AWS-XRay@0.12
@@ -72914,8 +72920,8 @@ Exception::SERVER_ERROR              0.3  pkg:cpan/Class-DBI-Factory@0.994
 Exception::SendMail                0.008  pkg:cpan/QBit-Application-Model-SendMail@0.008
 Exception::SendMail::BadAddress    0.008  pkg:cpan/QBit-Application-Model-SendMail@0.008
 Exception::Simple                  1.000001  pkg:cpan/Exception-Simple@1.000001
-Exception::Sink                     3.09  pkg:cpan/Exception-Sink@3.09
-Exception::Sink::Class             undef  pkg:cpan/Exception-Sink@3.09
+Exception::Sink                     3.10  pkg:cpan/Exception-Sink@3.10
+Exception::Sink::Class             undef  pkg:cpan/Exception-Sink@3.10
 Exception::Stringy                  0.20  pkg:cpan/Exception-Stringy@0.20
 Exception::SysDie                    2.8  pkg:cpan/qbit@2.8
 Exception::System                   0.11  pkg:cpan/Exception-System@0.11
@@ -150792,23 +150798,24 @@ OpenStack::Client::Auth            undef  pkg:cpan/OpenStack-Client@1.0007
 OpenStack::Client::Auth::v2        undef  pkg:cpan/OpenStack-Client@1.0007
 OpenStack::Client::Auth::v3        undef  pkg:cpan/OpenStack-Client@1.0007
 OpenStack::Client::Response        undef  pkg:cpan/OpenStack-Client@1.0007
-OpenStack::MetaAPI                 0.004  pkg:cpan/OpenStack-MetaAPI@0.004
-OpenStack::MetaAPI::API            0.004  pkg:cpan/OpenStack-MetaAPI@0.004
-OpenStack::MetaAPI::API::Compute   0.004  pkg:cpan/OpenStack-MetaAPI@0.004
-OpenStack::MetaAPI::API::Images    0.004  pkg:cpan/OpenStack-MetaAPI@0.004
-OpenStack::MetaAPI::API::Network   0.004  pkg:cpan/OpenStack-MetaAPI@0.004
-OpenStack::MetaAPI::API::Service   0.004  pkg:cpan/OpenStack-MetaAPI@0.004
-OpenStack::MetaAPI::API::Specs     0.004  pkg:cpan/OpenStack-MetaAPI@0.004
-OpenStack::MetaAPI::API::Specs::Compute::v2_0 0.004  pkg:cpan/OpenStack-MetaAPI@0.004
-OpenStack::MetaAPI::API::Specs::Compute::v2_1 0.004  pkg:cpan/OpenStack-MetaAPI@0.004
-OpenStack::MetaAPI::API::Specs::Default 0.004  pkg:cpan/OpenStack-MetaAPI@0.004
-OpenStack::MetaAPI::API::Specs::Network::v2 0.004  pkg:cpan/OpenStack-MetaAPI@0.004
-OpenStack::MetaAPI::API::Specs::Roles::Service 0.004  pkg:cpan/OpenStack-MetaAPI@0.004
-OpenStack::MetaAPI::API::Volume    0.004  pkg:cpan/OpenStack-MetaAPI@0.004
-OpenStack::MetaAPI::Helpers::DataAsYaml 0.004  pkg:cpan/OpenStack-MetaAPI@0.004
-OpenStack::MetaAPI::Roles::GetFromId 0.004  pkg:cpan/OpenStack-MetaAPI@0.004
-OpenStack::MetaAPI::Roles::Listable 0.004  pkg:cpan/OpenStack-MetaAPI@0.004
-OpenStack::MetaAPI::Routes         0.004  pkg:cpan/OpenStack-MetaAPI@0.004
+OpenStack::MetaAPI                 0.005  pkg:cpan/OpenStack-MetaAPI@0.005
+OpenStack::MetaAPI::API            0.005  pkg:cpan/OpenStack-MetaAPI@0.005
+OpenStack::MetaAPI::API::Compute   0.005  pkg:cpan/OpenStack-MetaAPI@0.005
+OpenStack::MetaAPI::API::Images    0.005  pkg:cpan/OpenStack-MetaAPI@0.005
+OpenStack::MetaAPI::API::Network   0.005  pkg:cpan/OpenStack-MetaAPI@0.005
+OpenStack::MetaAPI::API::Service   0.005  pkg:cpan/OpenStack-MetaAPI@0.005
+OpenStack::MetaAPI::API::Specs     0.005  pkg:cpan/OpenStack-MetaAPI@0.005
+OpenStack::MetaAPI::API::Specs::Compute::v2_0 0.005  pkg:cpan/OpenStack-MetaAPI@0.005
+OpenStack::MetaAPI::API::Specs::Compute::v2_1 0.005  pkg:cpan/OpenStack-MetaAPI@0.005
+OpenStack::MetaAPI::API::Specs::Default 0.005  pkg:cpan/OpenStack-MetaAPI@0.005
+OpenStack::MetaAPI::API::Specs::Network::v2 0.005  pkg:cpan/OpenStack-MetaAPI@0.005
+OpenStack::MetaAPI::API::Specs::Roles::Service 0.005  pkg:cpan/OpenStack-MetaAPI@0.005
+OpenStack::MetaAPI::API::Volume    0.005  pkg:cpan/OpenStack-MetaAPI@0.005
+OpenStack::MetaAPI::Helpers::DataAsYaml 0.005  pkg:cpan/OpenStack-MetaAPI@0.005
+OpenStack::MetaAPI::Roles::GetFromId 0.005  pkg:cpan/OpenStack-MetaAPI@0.005
+OpenStack::MetaAPI::Roles::Listable 0.005  pkg:cpan/OpenStack-MetaAPI@0.005
+OpenStack::MetaAPI::Routes         0.005  pkg:cpan/OpenStack-MetaAPI@0.005
+OpenStack::MetaAPI::UserAgent      0.005  pkg:cpan/OpenStack-MetaAPI@0.005
 OpenStatisticalServices            0.022  pkg:cpan/openStatisticalServices@0.022
 OpenTelemetry                      0.037  pkg:cpan/OpenTelemetry@0.037
 OpenTelemetry::Any                 0.001  pkg:cpan/OpenTelemetry@0.001
