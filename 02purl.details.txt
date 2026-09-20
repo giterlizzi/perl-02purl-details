@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 20 Sep 2026 02:48:08 GMT
-Line-Count: 259896
+Last-Updated: Sun, 20 Sep 2026 08:57:46 GMT
+Line-Count: 259905
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -102488,6 +102488,15 @@ HTTPD::UserAdmin::Text::cern         1.1  pkg:cpan/HTTPD-User-Manage@1.63
 HTTPEx                             0.000006  pkg:cpan/HTTP-Engine@0.0.6
 HTTPEx::Declare                     0.03  pkg:cpan/HTTPEx-Declare@0.03
 HTTPRequest                          1.0  pkg:cpan/MMM-Text-Search@0.07
+HTTPS::Handy                        1.01  pkg:cpan/HTTPS-Handy@1.01
+HTTPS::Handy::BigInt                1.01  pkg:cpan/HTTPS-Handy@1.01
+HTTPS::Handy::ChaCha                1.01  pkg:cpan/HTTPS-Handy@1.01
+HTTPS::Handy::Crypt                 1.01  pkg:cpan/HTTPS-Handy@1.01
+HTTPS::Handy::EC                    1.01  pkg:cpan/HTTPS-Handy@1.01
+HTTPS::Handy::Input                 1.01  pkg:cpan/HTTPS-Handy@1.01
+HTTPS::Handy::RSA                   1.01  pkg:cpan/HTTPS-Handy@1.01
+HTTPS::Handy::TLS                   1.01  pkg:cpan/HTTPS-Handy@1.01
+HTTPS::Handy::X509                  1.01  pkg:cpan/HTTPS-Handy@1.01
 HTTPx::Dispatcher                   0.10  pkg:cpan/HTTPx-Dispatcher@0.10
 HTTPx::Dispatcher::Rule            undef  pkg:cpan/HTTPx-Dispatcher@0.10
 HTTunnel::Client                    0.08  pkg:cpan/Apache-HTTunnel@0.08
@@ -116536,21 +116545,21 @@ Linux::Epoll                       0.019  pkg:cpan/Linux-Epoll@0.019
 Linux::Ethtool                      0.11  pkg:cpan/Linux-Ethtool@0.11
 Linux::Ethtool::Settings            0.11  pkg:cpan/Linux-Ethtool@0.11
 Linux::Ethtool::WOL                 0.11  pkg:cpan/Linux-Ethtool@0.11
-Linux::Event                       0.114  pkg:cpan/Linux-Event@0.114
-Linux::Event::Address              0.114  pkg:cpan/Linux-Event@0.114
+Linux::Event                       0.115  pkg:cpan/Linux-Event@0.115
+Linux::Event::Address              0.115  pkg:cpan/Linux-Event@0.115
 Linux::Event::Backend              0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Backend::Epoll       0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Bench                0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Datagram             0.105  pkg:cpan/Linux-Event@0.105
-Linux::Event::Error                0.114  pkg:cpan/Linux-Event@0.114
-Linux::Event::Framer               0.114  pkg:cpan/Linux-Event@0.114
-Linux::Event::Framer::DecimalLength 0.114  pkg:cpan/Linux-Event@0.114
-Linux::Event::Framer::Delimiter    0.114  pkg:cpan/Linux-Event@0.114
-Linux::Event::Framer::Fixed        0.114  pkg:cpan/Linux-Event@0.114
-Linux::Event::Framer::LengthPrefix 0.114  pkg:cpan/Linux-Event@0.114
-Linux::Event::Framer::Netstring    0.114  pkg:cpan/Linux-Event@0.114
-Linux::Event::Framer::U32BE        0.114  pkg:cpan/Linux-Event@0.114
-Linux::Event::Framer::Varint       0.114  pkg:cpan/Linux-Event@0.114
+Linux::Event::Error                0.115  pkg:cpan/Linux-Event@0.115
+Linux::Event::Framer               0.115  pkg:cpan/Linux-Event@0.115
+Linux::Event::Framer::DecimalLength 0.115  pkg:cpan/Linux-Event@0.115
+Linux::Event::Framer::Delimiter    0.115  pkg:cpan/Linux-Event@0.115
+Linux::Event::Framer::Fixed        0.115  pkg:cpan/Linux-Event@0.115
+Linux::Event::Framer::LengthPrefix 0.115  pkg:cpan/Linux-Event@0.115
+Linux::Event::Framer::Netstring    0.115  pkg:cpan/Linux-Event@0.115
+Linux::Event::Framer::U32BE        0.115  pkg:cpan/Linux-Event@0.115
+Linux::Event::Framer::Varint       0.115  pkg:cpan/Linux-Event@0.115
 Linux::Event::HTTP                 0.001  pkg:cpan/Linux-Event-HTTP@0.001
 Linux::Event::HTTP::Body::Stream   0.001  pkg:cpan/Linux-Event-HTTP@0.001
 Linux::Event::HTTP::Client         0.001  pkg:cpan/Linux-Event-HTTP@0.001
@@ -116561,20 +116570,20 @@ Linux::Event::HTTP::Response       0.001  pkg:cpan/Linux-Event-HTTP@0.001
 Linux::Event::HTTP::Server         0.001  pkg:cpan/Linux-Event-HTTP@0.001
 Linux::Event::HTTP::Server::Connection 0.001  pkg:cpan/Linux-Event-HTTP@0.001
 Linux::Event::HTTP::Transaction    0.001  pkg:cpan/Linux-Event-HTTP@0.001
-Linux::Event::IO                   0.114  pkg:cpan/Linux-Event@0.114
-Linux::Event::IO::Pipe             0.114  pkg:cpan/Linux-Event@0.114
-Linux::Event::IO::Sock             0.114  pkg:cpan/Linux-Event@0.114
-Linux::Event::IO::Sock::Dgram      0.114  pkg:cpan/Linux-Event@0.114
-Linux::Event::IO::Sock::Listener   0.114  pkg:cpan/Linux-Event@0.114
-Linux::Event::IO::Sock::Stream     0.114  pkg:cpan/Linux-Event@0.114
-Linux::Event::IO::TTY              0.114  pkg:cpan/Linux-Event@0.114
-Linux::Event::Kernel               0.114  pkg:cpan/Linux-Event@0.114
-Linux::Event::Kernel::Event        0.114  pkg:cpan/Linux-Event@0.114
-Linux::Event::Kernel::Process      0.114  pkg:cpan/Linux-Event@0.114
-Linux::Event::Kernel::Signal       0.114  pkg:cpan/Linux-Event@0.114
-Linux::Event::Kernel::Timer        0.114  pkg:cpan/Linux-Event@0.114
+Linux::Event::IO                   0.115  pkg:cpan/Linux-Event@0.115
+Linux::Event::IO::Pipe             0.115  pkg:cpan/Linux-Event@0.115
+Linux::Event::IO::Sock             0.115  pkg:cpan/Linux-Event@0.115
+Linux::Event::IO::Sock::Dgram      0.115  pkg:cpan/Linux-Event@0.115
+Linux::Event::IO::Sock::Listener   0.115  pkg:cpan/Linux-Event@0.115
+Linux::Event::IO::Sock::Stream     0.115  pkg:cpan/Linux-Event@0.115
+Linux::Event::IO::TTY              0.115  pkg:cpan/Linux-Event@0.115
+Linux::Event::Kernel               0.115  pkg:cpan/Linux-Event@0.115
+Linux::Event::Kernel::Event        0.115  pkg:cpan/Linux-Event@0.115
+Linux::Event::Kernel::Process      0.115  pkg:cpan/Linux-Event@0.115
+Linux::Event::Kernel::Signal       0.115  pkg:cpan/Linux-Event@0.115
+Linux::Event::Kernel::Timer        0.115  pkg:cpan/Linux-Event@0.115
 Linux::Event::Listener             0.105  pkg:cpan/Linux-Event@0.105
-Linux::Event::Loop                 0.114  pkg:cpan/Linux-Event@0.114
+Linux::Event::Loop                 0.115  pkg:cpan/Linux-Event@0.115
 Linux::Event::Operation            0.010  pkg:cpan/Linux-Event@0.010
 Linux::Event::Pid                  0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Pid::Subscription    0.012  pkg:cpan/Linux-Event@0.012
@@ -116590,7 +116599,7 @@ Linux::Event::Scheduler            0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Signal               0.105  pkg:cpan/Linux-Event@0.105
 Linux::Event::Signal::Subscription 0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Stream               0.105  pkg:cpan/Linux-Event@0.105
-Linux::Event::TLS                  0.114  pkg:cpan/Linux-Event@0.114
+Linux::Event::TLS                  0.115  pkg:cpan/Linux-Event@0.115
 Linux::Event::Timer                0.105  pkg:cpan/Linux-Event@0.105
 Linux::Event::Wakeup               0.105  pkg:cpan/Linux-Event@0.105
 Linux::Event::Watcher              0.012  pkg:cpan/Linux-Event@0.012
@@ -121642,8 +121651,8 @@ MIDI::Pitch                          0.7  pkg:cpan/MIDI-Pitch@0.7
 MIDI::Praxis::Variation            0.0607  pkg:cpan/MIDI-Praxis-Variation@0.0607
 MIDI::Realtime                      0.01  pkg:cpan/MIDI-Realtime@0.01
 MIDI::RtController                 0.0808  pkg:cpan/MIDI-RtController@0.0808
-MIDI::RtController::Filter         0.0104  pkg:cpan/MIDI-RtController-Filter@0.0104
-MIDI::RtController::Filter::CC     0.1202  pkg:cpan/MIDI-RtController-Filter-CC@0.1202
+MIDI::RtController::Filter         0.0105  pkg:cpan/MIDI-RtController-Filter@0.0105
+MIDI::RtController::Filter::CC     0.1300  pkg:cpan/MIDI-RtController-Filter-CC@0.1300
 MIDI::RtController::Filter::Drums  0.0402  pkg:cpan/MIDI-RtController-Filter-Drums@0.0402
 MIDI::RtController::Filter::Math   0.0502  pkg:cpan/MIDI-RtController-Filter-Tonal@0.0502
 MIDI::RtController::Filter::Tonal  0.0502  pkg:cpan/MIDI-RtController-Filter-Tonal@0.0502
