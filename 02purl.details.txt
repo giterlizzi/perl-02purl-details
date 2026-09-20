@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 20 Sep 2026 17:12:43 GMT
+Last-Updated: Sun, 20 Sep 2026 20:06:37 GMT
 Line-Count: 259906
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -12668,13 +12668,13 @@ App::PAUSE::TimeMachine             0.05  pkg:cpan/App-PAUSE-TimeMachine@0.05
 App::PAUSE::cleanup                0.0014  pkg:cpan/App-PAUSE-cleanup@0.0014
 App::PDF::Link                      0.25  pkg:cpan/App-PDF-Link@0.25
 App::PDF::Overlay                  0.002  pkg:cpan/App-PDF-Overlay@0.002
-App::PDFLibrarian                  6.003002  pkg:cpan/App-PDFLibrarian@6.3.2
-App::PDFLibrarian::BibTeX          6.003002  pkg:cpan/App-PDFLibrarian@6.3.2
-App::PDFLibrarian::Library         6.003002  pkg:cpan/App-PDFLibrarian@6.3.2
-App::PDFLibrarian::QueryDialog     6.003002  pkg:cpan/App-PDFLibrarian@6.3.2
-App::PDFLibrarian::QueryDialog::impl 6.003002  pkg:cpan/App-PDFLibrarian@6.3.2
-App::PDFLibrarian::TitleAbbr       6.003002  pkg:cpan/App-PDFLibrarian@6.3.2
-App::PDFLibrarian::Util            6.003002  pkg:cpan/App-PDFLibrarian@6.3.2
+App::PDFLibrarian                  6.003003  pkg:cpan/App-PDFLibrarian@6.3.3
+App::PDFLibrarian::BibTeX          6.003003  pkg:cpan/App-PDFLibrarian@6.3.3
+App::PDFLibrarian::Library         6.003003  pkg:cpan/App-PDFLibrarian@6.3.3
+App::PDFLibrarian::QueryDialog     6.003003  pkg:cpan/App-PDFLibrarian@6.3.3
+App::PDFLibrarian::QueryDialog::impl 6.003003  pkg:cpan/App-PDFLibrarian@6.3.3
+App::PDFLibrarian::TitleAbbr       6.003003  pkg:cpan/App-PDFLibrarian@6.3.3
+App::PDFLibrarian::Util            6.003003  pkg:cpan/App-PDFLibrarian@6.3.3
 App::PDFUtils                      0.019  pkg:cpan/App-PDFUtils@0.019
 App::PDRUtils                      0.122  pkg:cpan/App-PDRUtils@0.122
 App::PDRUtils::Cmd                 0.122  pkg:cpan/App-PDRUtils@0.122
@@ -77700,22 +77700,22 @@ Forest::Tree::Writer::ASCIIWithBranches  0.10  pkg:cpan/Forest@0.10
 Forest::Tree::Writer::SimpleASCII   0.10  pkg:cpan/Forest@0.10
 Forest::Tree::Writer::SimpleHTML    0.10  pkg:cpan/Forest@0.10
 Forex                                1.3  pkg:cpan/Forex@1.3
-ForgeOps::Tracker                  0.007000  pkg:cpan/ForgeOps-Tracker@0.7.0
-ForgeOps::Tracker::Client          undef  pkg:cpan/ForgeOps-Tracker@0.7.0
-ForgeOps::Tracker::Configuration   undef  pkg:cpan/ForgeOps-Tracker@0.7.0
-ForgeOps::Tracker::DeliveryQueue   undef  pkg:cpan/ForgeOps-Tracker@0.7.0
-ForgeOps::Tracker::EventBuilder    undef  pkg:cpan/ForgeOps-Tracker@0.7.0
-ForgeOps::Tracker::HistogramBucketer undef  pkg:cpan/ForgeOps-Tracker@0.7.0
-ForgeOps::Tracker::Integrations::Dancer2 undef  pkg:cpan/ForgeOps-Tracker@0.7.0
-ForgeOps::Tracker::Integrations::Dancer2Performance undef  pkg:cpan/ForgeOps-Tracker@0.7.0
-ForgeOps::Tracker::Integrations::PSGI undef  pkg:cpan/ForgeOps-Tracker@0.7.0
-ForgeOps::Tracker::Integrations::PSGIPerformance undef  pkg:cpan/ForgeOps-Tracker@0.7.0
-ForgeOps::Tracker::MetricBuffer    undef  pkg:cpan/ForgeOps-Tracker@0.7.0
-ForgeOps::Tracker::PerformanceFlusher undef  pkg:cpan/ForgeOps-Tracker@0.7.0
-ForgeOps::Tracker::PiiScrubber     undef  pkg:cpan/ForgeOps-Tracker@0.7.0
-ForgeOps::Tracker::Reporter        undef  pkg:cpan/ForgeOps-Tracker@0.7.0
-ForgeOps::Tracker::SpanBuffer      undef  pkg:cpan/ForgeOps-Tracker@0.7.0
-ForgeOps::Tracker::SpanDelivery    undef  pkg:cpan/ForgeOps-Tracker@0.7.0
+ForgeOps::Tracker                  0.007001  pkg:cpan/ForgeOps-Tracker@0.7.1
+ForgeOps::Tracker::Client          undef  pkg:cpan/ForgeOps-Tracker@0.7.1
+ForgeOps::Tracker::Configuration   undef  pkg:cpan/ForgeOps-Tracker@0.7.1
+ForgeOps::Tracker::DeliveryQueue   undef  pkg:cpan/ForgeOps-Tracker@0.7.1
+ForgeOps::Tracker::EventBuilder    undef  pkg:cpan/ForgeOps-Tracker@0.7.1
+ForgeOps::Tracker::HistogramBucketer undef  pkg:cpan/ForgeOps-Tracker@0.7.1
+ForgeOps::Tracker::Integrations::Dancer2 undef  pkg:cpan/ForgeOps-Tracker@0.7.1
+ForgeOps::Tracker::Integrations::Dancer2Performance undef  pkg:cpan/ForgeOps-Tracker@0.7.1
+ForgeOps::Tracker::Integrations::PSGI undef  pkg:cpan/ForgeOps-Tracker@0.7.1
+ForgeOps::Tracker::Integrations::PSGIPerformance undef  pkg:cpan/ForgeOps-Tracker@0.7.1
+ForgeOps::Tracker::MetricBuffer    undef  pkg:cpan/ForgeOps-Tracker@0.7.1
+ForgeOps::Tracker::PerformanceFlusher undef  pkg:cpan/ForgeOps-Tracker@0.7.1
+ForgeOps::Tracker::PiiScrubber     undef  pkg:cpan/ForgeOps-Tracker@0.7.1
+ForgeOps::Tracker::Reporter        undef  pkg:cpan/ForgeOps-Tracker@0.7.1
+ForgeOps::Tracker::SpanBuffer      undef  pkg:cpan/ForgeOps-Tracker@0.7.1
+ForgeOps::Tracker::SpanDelivery    undef  pkg:cpan/ForgeOps-Tracker@0.7.1
 Fork::Promise                      v0.1.0  pkg:cpan/Fork-Promise@0.1.0
 Fork::Utils                         0.07  pkg:cpan/Fork-Utils@0.08
 Forks::Queue                        0.15  pkg:cpan/Forks-Queue@0.15
@@ -108283,7 +108283,7 @@ JQ::Lite::Runtime                  undef  pkg:cpan/JQ-Lite@2.59
 JQ::Lite::Tokenizer                undef  pkg:cpan/JQ-Lite@2.59
 JQ::Lite::Util                     undef  pkg:cpan/JQ-Lite@2.59
 JQ::Lite::Value                    undef  pkg:cpan/JQ-Lite@2.59
-JQ::XS                              2.02  pkg:cpan/JQ-XS@2.02
+JQ::XS                              2.03  pkg:cpan/JQ-XS@2.03
 JQuery                              1.00  pkg:cpan/JQuery@1.06
 JQuery::Accordion                   1.00  pkg:cpan/JQuery@1.06
 JQuery::CSS                         1.00  pkg:cpan/JQuery@1.06
@@ -134054,7 +134054,7 @@ MooX::Role::Pluggable              1.002002  pkg:cpan/MooX-Role-Pluggable@1.0020
 MooX::Role::Pluggable::Constants   1.002002  pkg:cpan/MooX-Role-Pluggable@1.002002
 MooX::Role::REST                   0.001  pkg:cpan/MooX-Role-HTTP-Tiny@0.94
 MooX::Role::Reconstruct            0.001002  pkg:cpan/MooX-Role-Reconstruct@v0.1.2
-MooX::Role::SEOTags                1.002001  pkg:cpan/MooX-Role-SEOTags@1.2.1
+MooX::Role::SEOTags                1.002002  pkg:cpan/MooX-Role-SEOTags@1.2.2
 MooX::Roles::Pluggable             0.003  pkg:cpan/MooX-Roles-Pluggable@0.003
 MooX::SetOnce                      0.001003  pkg:cpan/MooX-SetOnce@0.001003
 MooX::ShortHas                     1.202040  pkg:cpan/MooX-ShortHas@1.202040
@@ -143483,9 +143483,9 @@ Net::LibNFS::X::Generic            undef  pkg:cpan/Net-LibNFS@0.05
 Net::LibNFS::X::NFSError           undef  pkg:cpan/Net-LibNFS@0.05
 Net::LibNIDS                        0.14  pkg:cpan/Net-LibNIDS@0.14
 Net::LibResolv                      0.03  pkg:cpan/Net-LibResolv@0.03
-Net::LibSSH                        0.003  pkg:cpan/Net-LibSSH@0.003
-Net::LibSSH::Channel               0.003  pkg:cpan/Net-LibSSH@0.003
-Net::LibSSH::SFTP                  0.003  pkg:cpan/Net-LibSSH@0.003
+Net::LibSSH                        0.004  pkg:cpan/Net-LibSSH@0.004
+Net::LibSSH::Channel               0.004  pkg:cpan/Net-LibSSH@0.004
+Net::LibSSH::SFTP                  0.004  pkg:cpan/Net-LibSSH@0.004
 Net::Libdnet                       0.990  pkg:cpan/Net-Libdnet@0.990
 Net::Libdnet6                       0.28  pkg:cpan/Net-Libdnet6@0.28
 Net::Libdnet::Arp                  undef  pkg:cpan/Net-Libdnet@0.990
@@ -190158,14 +190158,14 @@ Physics::Ballistics                 1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::External       1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::Internal       1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::Terminal       1.03  pkg:cpan/Physics-Ballistics@1.03
-Physics::Balls                      0.04  pkg:cpan/Physics-Balls@0.04
-Physics::Balls::Ball                0.04  pkg:cpan/Physics-Balls@0.04
-Physics::Balls::Engine              0.04  pkg:cpan/Physics-Balls@0.04
-Physics::Balls::Error               0.04  pkg:cpan/Physics-Balls@0.04
-Physics::Balls::Outcome             0.04  pkg:cpan/Physics-Balls@0.04
-Physics::Balls::Strike              0.04  pkg:cpan/Physics-Balls@0.04
-Physics::Balls::Table               0.04  pkg:cpan/Physics-Balls@0.04
-Physics::Balls::World               0.04  pkg:cpan/Physics-Balls@0.04
+Physics::Balls                      0.05  pkg:cpan/Physics-Balls@0.05
+Physics::Balls::Ball                0.05  pkg:cpan/Physics-Balls@0.05
+Physics::Balls::Engine              0.05  pkg:cpan/Physics-Balls@0.05
+Physics::Balls::Error               0.05  pkg:cpan/Physics-Balls@0.05
+Physics::Balls::Outcome             0.05  pkg:cpan/Physics-Balls@0.05
+Physics::Balls::Strike              0.05  pkg:cpan/Physics-Balls@0.05
+Physics::Balls::Table               0.05  pkg:cpan/Physics-Balls@0.05
+Physics::Balls::World               0.05  pkg:cpan/Physics-Balls@0.05
 Physics::CPD                        0.03  pkg:cpan/Physics-CPD@0.03
 Physics::CPD::Stellarator           0.03  pkg:cpan/Physics-CPD@0.03
 Physics::CVD                        0.03  pkg:cpan/Physics-CVD@0.03
@@ -200475,7 +200475,7 @@ Rex::Interface::Connection::Base   v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Connection::Fake   v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Connection::HTTP   v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Connection::HTTPS  v1.16.1  pkg:cpan/Rex@1.16.1
-Rex::Interface::Connection::LibSSH 0.003  pkg:cpan/Rex-LibSSH@0.003
+Rex::Interface::Connection::LibSSH 0.004  pkg:cpan/Rex-LibSSH@0.004
 Rex::Interface::Connection::Local  v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Connection::OpenSSH v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Connection::SSH    v1.16.1  pkg:cpan/Rex@1.16.1
@@ -200483,7 +200483,7 @@ Rex::Interface::Exec               v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Exec::Base         v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Exec::HTTP         v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Exec::IOReader     v1.16.1  pkg:cpan/Rex@1.16.1
-Rex::Interface::Exec::LibSSH       0.003  pkg:cpan/Rex-LibSSH@0.003
+Rex::Interface::Exec::LibSSH       0.004  pkg:cpan/Rex-LibSSH@0.004
 Rex::Interface::Exec::Local        v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Exec::OpenSSH      v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Exec::SSH          v1.16.1  pkg:cpan/Rex@1.16.1
@@ -200494,7 +200494,7 @@ Rex::Interface::Executor::Default  v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::File               v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::File::Base         v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::File::HTTP         v1.16.1  pkg:cpan/Rex@1.16.1
-Rex::Interface::File::LibSSH       0.003  pkg:cpan/Rex-LibSSH@0.003
+Rex::Interface::File::LibSSH       0.004  pkg:cpan/Rex-LibSSH@0.004
 Rex::Interface::File::Local        v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::File::OpenSSH      v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::File::SSH          v1.16.1  pkg:cpan/Rex@1.16.1
@@ -200502,7 +200502,7 @@ Rex::Interface::File::Sudo         v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Fs                 v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Fs::Base           v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Fs::HTTP           v1.16.1  pkg:cpan/Rex@1.16.1
-Rex::Interface::Fs::LibSSH         0.003  pkg:cpan/Rex-LibSSH@0.003
+Rex::Interface::Fs::LibSSH         0.004  pkg:cpan/Rex-LibSSH@0.004
 Rex::Interface::Fs::Local          v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Fs::OpenSSH        v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Interface::Fs::SSH            v1.16.1  pkg:cpan/Rex@1.16.1
@@ -200565,7 +200565,7 @@ Rex::JobControl::Mojolicious::Plugin::User 0.018000  pkg:cpan/Rex-JobControl@0.1
 Rex::JobControl::Nodes             0.018000  pkg:cpan/Rex-JobControl@0.18.0
 Rex::JobControl::Project           0.018000  pkg:cpan/Rex-JobControl@0.18.0
 Rex::JobControl::Rexfile           0.018000  pkg:cpan/Rex-JobControl@0.18.0
-Rex::LibSSH                        0.003  pkg:cpan/Rex-LibSSH@0.003
+Rex::LibSSH                        0.004  pkg:cpan/Rex-LibSSH@0.004
 Rex::Logger                        v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Notify                        v1.16.1  pkg:cpan/Rex@1.16.1
 Rex::Output                        v1.16.1  pkg:cpan/Rex@1.16.1
