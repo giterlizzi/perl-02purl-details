@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 20 Sep 2026 08:57:46 GMT
-Line-Count: 259905
+Last-Updated: Sun, 20 Sep 2026 13:51:25 GMT
+Line-Count: 259906
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5146,7 +5146,7 @@ Alien::Wslay                         0.3  pkg:cpan/Alien-Wslay@0.3
 Alien::XGBoost                      0.05  pkg:cpan/Alien-XGBoost@0.05
 Alien::XInputSimulator             0.001  pkg:cpan/Alien-XInputSimulator@0.001
 Alien::XPA                         v2.1.20.7  pkg:cpan/Alien-XPA@v2.1.20.7
-Alien::Xmake                       v1.0.2  pkg:cpan/Alien-Xmake@v1.0.2
+Alien::Xmake                       v1.0.3  pkg:cpan/Alien-Xmake@v1.0.3
 Alien::Xmake::Project              v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xmake::Project::Namespace   v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xmake::Project::Option      v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
@@ -33685,7 +33685,7 @@ CPAN::02Packages::Search           v1.0.0  pkg:cpan/CPAN-02Packages-Search@v1.0.
 CPAN::API::BuildPL                 0.002  pkg:cpan/CPAN-API-BuildPL@0.002
 CPAN::Admin                        5.501  pkg:cpan/CPAN@2.41
 CPAN::Audit                        20260622.001  pkg:cpan/CPAN-Audit@20260622.001
-CPAN::Audit::DB                    20260914.001  pkg:cpan/CPANSA-DB@20260914.001
+CPAN::Audit::DB                    20260920.003  pkg:cpan/CPANSA-DB@20260920.003
 CPAN::Audit::Discover              1.001  pkg:cpan/CPAN-Audit@20260622.001
 CPAN::Audit::Discover::Cpanfile    1.001  pkg:cpan/CPAN-Audit@20260622.001
 CPAN::Audit::Discover::CpanfileSnapshot 1.001  pkg:cpan/CPAN-Audit@20260622.001
@@ -34460,7 +34460,7 @@ CPANPLUS::YACSmoke::ReAssemble      1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::SortVers        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::locallib        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::inc                      undef  pkg:cpan/CPANPLUS@0.84
-CPANSA::DB                         20260914.001  pkg:cpan/CPANSA-DB@20260914.001
+CPANSA::DB                         20260920.003  pkg:cpan/CPANSA-DB@20260920.003
 CPANSEC::Admin                     0.001  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command            undef  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command::Amend     undef  pkg:cpan/CPANSec-Admin@0.001
@@ -77700,21 +77700,22 @@ Forest::Tree::Writer::ASCIIWithBranches  0.10  pkg:cpan/Forest@0.10
 Forest::Tree::Writer::SimpleASCII   0.10  pkg:cpan/Forest@0.10
 Forest::Tree::Writer::SimpleHTML    0.10  pkg:cpan/Forest@0.10
 Forex                                1.3  pkg:cpan/Forex@1.3
-ForgeOps::Tracker                  0.006000  pkg:cpan/ForgeOps-Tracker@0.6.0
-ForgeOps::Tracker::Client          undef  pkg:cpan/ForgeOps-Tracker@0.6.0
-ForgeOps::Tracker::Configuration   undef  pkg:cpan/ForgeOps-Tracker@0.6.0
-ForgeOps::Tracker::DeliveryQueue   undef  pkg:cpan/ForgeOps-Tracker@0.6.0
-ForgeOps::Tracker::EventBuilder    undef  pkg:cpan/ForgeOps-Tracker@0.6.0
-ForgeOps::Tracker::Integrations::Dancer2 undef  pkg:cpan/ForgeOps-Tracker@0.6.0
-ForgeOps::Tracker::Integrations::Dancer2Performance undef  pkg:cpan/ForgeOps-Tracker@0.6.0
-ForgeOps::Tracker::Integrations::PSGI undef  pkg:cpan/ForgeOps-Tracker@0.6.0
-ForgeOps::Tracker::Integrations::PSGIPerformance undef  pkg:cpan/ForgeOps-Tracker@0.6.0
-ForgeOps::Tracker::MetricBuffer    undef  pkg:cpan/ForgeOps-Tracker@0.6.0
-ForgeOps::Tracker::PerformanceFlusher undef  pkg:cpan/ForgeOps-Tracker@0.6.0
-ForgeOps::Tracker::PiiScrubber     undef  pkg:cpan/ForgeOps-Tracker@0.6.0
-ForgeOps::Tracker::Reporter        undef  pkg:cpan/ForgeOps-Tracker@0.6.0
-ForgeOps::Tracker::SpanBuffer      undef  pkg:cpan/ForgeOps-Tracker@0.6.0
-ForgeOps::Tracker::SpanDelivery    undef  pkg:cpan/ForgeOps-Tracker@0.6.0
+ForgeOps::Tracker                  0.007000  pkg:cpan/ForgeOps-Tracker@0.7.0
+ForgeOps::Tracker::Client          undef  pkg:cpan/ForgeOps-Tracker@0.7.0
+ForgeOps::Tracker::Configuration   undef  pkg:cpan/ForgeOps-Tracker@0.7.0
+ForgeOps::Tracker::DeliveryQueue   undef  pkg:cpan/ForgeOps-Tracker@0.7.0
+ForgeOps::Tracker::EventBuilder    undef  pkg:cpan/ForgeOps-Tracker@0.7.0
+ForgeOps::Tracker::HistogramBucketer undef  pkg:cpan/ForgeOps-Tracker@0.7.0
+ForgeOps::Tracker::Integrations::Dancer2 undef  pkg:cpan/ForgeOps-Tracker@0.7.0
+ForgeOps::Tracker::Integrations::Dancer2Performance undef  pkg:cpan/ForgeOps-Tracker@0.7.0
+ForgeOps::Tracker::Integrations::PSGI undef  pkg:cpan/ForgeOps-Tracker@0.7.0
+ForgeOps::Tracker::Integrations::PSGIPerformance undef  pkg:cpan/ForgeOps-Tracker@0.7.0
+ForgeOps::Tracker::MetricBuffer    undef  pkg:cpan/ForgeOps-Tracker@0.7.0
+ForgeOps::Tracker::PerformanceFlusher undef  pkg:cpan/ForgeOps-Tracker@0.7.0
+ForgeOps::Tracker::PiiScrubber     undef  pkg:cpan/ForgeOps-Tracker@0.7.0
+ForgeOps::Tracker::Reporter        undef  pkg:cpan/ForgeOps-Tracker@0.7.0
+ForgeOps::Tracker::SpanBuffer      undef  pkg:cpan/ForgeOps-Tracker@0.7.0
+ForgeOps::Tracker::SpanDelivery    undef  pkg:cpan/ForgeOps-Tracker@0.7.0
 Fork::Promise                      v0.1.0  pkg:cpan/Fork-Promise@0.1.0
 Fork::Utils                         0.07  pkg:cpan/Fork-Utils@0.08
 Forks::Queue                        0.15  pkg:cpan/Forks-Queue@0.15
@@ -107340,7 +107341,7 @@ InSilicoSpectro::Utils::io         undef  pkg:cpan/InSilicoSpectro@1.3.24
 Indent                              0.11  pkg:cpan/Indent@0.11
 Indent::Block                       0.11  pkg:cpan/Indent@0.11
 Indent::Data                        0.11  pkg:cpan/Indent@0.11
-Indent::Form                        0.08  pkg:cpan/Indent-Form@0.08
+Indent::Form                        0.09  pkg:cpan/Indent-Form@0.09
 Indent::String                      0.11  pkg:cpan/Indent@0.11
 Indent::Utils                       0.11  pkg:cpan/Indent@0.11
 Indent::Word                        0.11  pkg:cpan/Indent@0.11
@@ -108258,30 +108259,30 @@ JPList::Controls::Sort              0.04  pkg:cpan/JPList@0.05
 JPList::DB::Config                  0.04  pkg:cpan/JPList@0.05
 JPList::DB::Result                  0.05  pkg:cpan/JPList@0.05
 JPList::Request                     0.05  pkg:cpan/JPList@0.05
-JQ::Lite                            2.58  pkg:cpan/JQ-Lite@2.58
-JQ::Lite::AST                      undef  pkg:cpan/JQ-Lite@2.58
-JQ::Lite::AST::Filter              undef  pkg:cpan/JQ-Lite@2.58
-JQ::Lite::AST::Pipeline            undef  pkg:cpan/JQ-Lite@2.58
-JQ::Lite::Builtin                  undef  pkg:cpan/JQ-Lite@2.58
-JQ::Lite::Builtin::Aggregate       undef  pkg:cpan/JQ-Lite@2.58
-JQ::Lite::Builtin::Array           undef  pkg:cpan/JQ-Lite@2.58
-JQ::Lite::Builtin::Encoding        undef  pkg:cpan/JQ-Lite@2.58
-JQ::Lite::Builtin::Math            undef  pkg:cpan/JQ-Lite@2.58
-JQ::Lite::Builtin::Object          undef  pkg:cpan/JQ-Lite@2.58
-JQ::Lite::Builtin::String          undef  pkg:cpan/JQ-Lite@2.58
-JQ::Lite::Builtin::Type            undef  pkg:cpan/JQ-Lite@2.58
-JQ::Lite::Error                    undef  pkg:cpan/JQ-Lite@2.58
-JQ::Lite::Error::Evaluation        undef  pkg:cpan/JQ-Lite@2.58
-JQ::Lite::Error::Input             undef  pkg:cpan/JQ-Lite@2.58
-JQ::Lite::Error::Parse             undef  pkg:cpan/JQ-Lite@2.58
-JQ::Lite::Evaluator                undef  pkg:cpan/JQ-Lite@2.58
-JQ::Lite::Expression               undef  pkg:cpan/JQ-Lite@2.58
-JQ::Lite::Filters                  undef  pkg:cpan/JQ-Lite@2.58
-JQ::Lite::Parser                   undef  pkg:cpan/JQ-Lite@2.58
-JQ::Lite::Runtime                  undef  pkg:cpan/JQ-Lite@2.58
-JQ::Lite::Tokenizer                undef  pkg:cpan/JQ-Lite@2.58
-JQ::Lite::Util                     undef  pkg:cpan/JQ-Lite@2.58
-JQ::Lite::Value                    undef  pkg:cpan/JQ-Lite@2.58
+JQ::Lite                            2.59  pkg:cpan/JQ-Lite@2.59
+JQ::Lite::AST                      undef  pkg:cpan/JQ-Lite@2.59
+JQ::Lite::AST::Filter              undef  pkg:cpan/JQ-Lite@2.59
+JQ::Lite::AST::Pipeline            undef  pkg:cpan/JQ-Lite@2.59
+JQ::Lite::Builtin                  undef  pkg:cpan/JQ-Lite@2.59
+JQ::Lite::Builtin::Aggregate       undef  pkg:cpan/JQ-Lite@2.59
+JQ::Lite::Builtin::Array           undef  pkg:cpan/JQ-Lite@2.59
+JQ::Lite::Builtin::Encoding        undef  pkg:cpan/JQ-Lite@2.59
+JQ::Lite::Builtin::Math            undef  pkg:cpan/JQ-Lite@2.59
+JQ::Lite::Builtin::Object          undef  pkg:cpan/JQ-Lite@2.59
+JQ::Lite::Builtin::String          undef  pkg:cpan/JQ-Lite@2.59
+JQ::Lite::Builtin::Type            undef  pkg:cpan/JQ-Lite@2.59
+JQ::Lite::Error                    undef  pkg:cpan/JQ-Lite@2.59
+JQ::Lite::Error::Evaluation        undef  pkg:cpan/JQ-Lite@2.59
+JQ::Lite::Error::Input             undef  pkg:cpan/JQ-Lite@2.59
+JQ::Lite::Error::Parse             undef  pkg:cpan/JQ-Lite@2.59
+JQ::Lite::Evaluator                undef  pkg:cpan/JQ-Lite@2.59
+JQ::Lite::Expression               undef  pkg:cpan/JQ-Lite@2.59
+JQ::Lite::Filters                  undef  pkg:cpan/JQ-Lite@2.59
+JQ::Lite::Parser                   undef  pkg:cpan/JQ-Lite@2.59
+JQ::Lite::Runtime                  undef  pkg:cpan/JQ-Lite@2.59
+JQ::Lite::Tokenizer                undef  pkg:cpan/JQ-Lite@2.59
+JQ::Lite::Util                     undef  pkg:cpan/JQ-Lite@2.59
+JQ::Lite::Value                    undef  pkg:cpan/JQ-Lite@2.59
 JQ::XS                              2.02  pkg:cpan/JQ-XS@2.02
 JQuery                              1.00  pkg:cpan/JQuery@1.06
 JQuery::Accordion                   1.00  pkg:cpan/JQuery@1.06
@@ -121652,7 +121653,7 @@ MIDI::Praxis::Variation            0.0607  pkg:cpan/MIDI-Praxis-Variation@0.0607
 MIDI::Realtime                      0.01  pkg:cpan/MIDI-Realtime@0.01
 MIDI::RtController                 0.0808  pkg:cpan/MIDI-RtController@0.0808
 MIDI::RtController::Filter         0.0105  pkg:cpan/MIDI-RtController-Filter@0.0105
-MIDI::RtController::Filter::CC     0.1300  pkg:cpan/MIDI-RtController-Filter-CC@0.1300
+MIDI::RtController::Filter::CC     0.1301  pkg:cpan/MIDI-RtController-Filter-CC@0.1301
 MIDI::RtController::Filter::Drums  0.0402  pkg:cpan/MIDI-RtController-Filter-Drums@0.0402
 MIDI::RtController::Filter::Math   0.0502  pkg:cpan/MIDI-RtController-Filter-Tonal@0.0502
 MIDI::RtController::Filter::Tonal  0.0502  pkg:cpan/MIDI-RtController-Filter-Tonal@0.0502
@@ -201120,7 +201121,7 @@ Robotics::Tecan::Genesis::Liha     undef  pkg:cpan/Robotics@0.23?ext=tar.bz2
 Robotics::Tecan::Genesis::Roma     undef  pkg:cpan/Robotics@0.23?ext=tar.bz2
 Robotics::Tecan::Genesis::Session  undef  pkg:cpan/Robotics@0.23?ext=tar.bz2
 Robotics::Tecan::Server             0.22  pkg:cpan/Robotics@0.23?ext=tar.bz2
-Robots::Validate                   v0.4.4  pkg:cpan/Robots-Validate@v0.4.4
+Robots::Validate                   v0.4.5  pkg:cpan/Robots-Validate@v0.4.5
 RocksDB                             0.05  pkg:cpan/RocksDB@0.05
 Rodney::XML::QuickStruct             1.1  pkg:cpan/Rodney-XML-QuickStruct@1.1
 RogersMine::App                    undef  pkg:cpan/RogersMine@0.1.12
