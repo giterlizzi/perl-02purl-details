@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 20 Sep 2026 23:45:54 GMT
-Line-Count: 259913
+Last-Updated: Mon, 21 Sep 2026 02:45:22 GMT
+Line-Count: 259919
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -35278,7 +35278,7 @@ Cache::Entry                        2.11  pkg:cpan/Cache@2.11
 Cache::Escalate                     0.02  pkg:cpan/Cache-Escalate@0.02
 Cache::FastMemoryBackend           undef  pkg:cpan/Cache-FastMemoryCache@0.01
 Cache::FastMemoryCache              0.01  pkg:cpan/Cache-FastMemoryCache@0.01
-Cache::FastMmap                     1.65  pkg:cpan/Cache-FastMmap@1.65
+Cache::FastMmap                     1.66  pkg:cpan/Cache-FastMmap@1.66
 Cache::FastMmap::OnLeave            1.60  pkg:cpan/Cache-FastMmap@1.60
 Cache::FastMmap::Tie                0.03  pkg:cpan/Cache-FastMmap-Tie@0.03
 Cache::File                         2.11  pkg:cpan/Cache@2.11
@@ -116552,45 +116552,45 @@ Linux::Epoll                       0.019  pkg:cpan/Linux-Epoll@0.019
 Linux::Ethtool                      0.11  pkg:cpan/Linux-Ethtool@0.11
 Linux::Ethtool::Settings            0.11  pkg:cpan/Linux-Ethtool@0.11
 Linux::Ethtool::WOL                 0.11  pkg:cpan/Linux-Ethtool@0.11
-Linux::Event                       0.115  pkg:cpan/Linux-Event@0.115
-Linux::Event::Address              0.115  pkg:cpan/Linux-Event@0.115
+Linux::Event                       0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event::Address              0.116  pkg:cpan/Linux-Event@0.116
 Linux::Event::Backend              0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Backend::Epoll       0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Bench                0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Datagram             0.105  pkg:cpan/Linux-Event@0.105
-Linux::Event::Error                0.115  pkg:cpan/Linux-Event@0.115
-Linux::Event::Framer               0.115  pkg:cpan/Linux-Event@0.115
-Linux::Event::Framer::DecimalLength 0.115  pkg:cpan/Linux-Event@0.115
-Linux::Event::Framer::Delimiter    0.115  pkg:cpan/Linux-Event@0.115
-Linux::Event::Framer::Fixed        0.115  pkg:cpan/Linux-Event@0.115
-Linux::Event::Framer::LengthPrefix 0.115  pkg:cpan/Linux-Event@0.115
-Linux::Event::Framer::Netstring    0.115  pkg:cpan/Linux-Event@0.115
-Linux::Event::Framer::U32BE        0.115  pkg:cpan/Linux-Event@0.115
-Linux::Event::Framer::Varint       0.115  pkg:cpan/Linux-Event@0.115
-Linux::Event::HTTP                 0.001  pkg:cpan/Linux-Event-HTTP@0.001
-Linux::Event::HTTP::Body::Stream   0.001  pkg:cpan/Linux-Event-HTTP@0.001
-Linux::Event::HTTP::Client         0.001  pkg:cpan/Linux-Event-HTTP@0.001
-Linux::Event::HTTP::Client::Connection 0.001  pkg:cpan/Linux-Event-HTTP@0.001
-Linux::Event::HTTP::Client::Operation 0.001  pkg:cpan/Linux-Event-HTTP@0.001
-Linux::Event::HTTP::Request        0.001  pkg:cpan/Linux-Event-HTTP@0.001
-Linux::Event::HTTP::Response       0.001  pkg:cpan/Linux-Event-HTTP@0.001
-Linux::Event::HTTP::Server         0.001  pkg:cpan/Linux-Event-HTTP@0.001
-Linux::Event::HTTP::Server::Connection 0.001  pkg:cpan/Linux-Event-HTTP@0.001
-Linux::Event::HTTP::Transaction    0.001  pkg:cpan/Linux-Event-HTTP@0.001
-Linux::Event::IO                   0.115  pkg:cpan/Linux-Event@0.115
-Linux::Event::IO::Pipe             0.115  pkg:cpan/Linux-Event@0.115
-Linux::Event::IO::Sock             0.115  pkg:cpan/Linux-Event@0.115
-Linux::Event::IO::Sock::Dgram      0.115  pkg:cpan/Linux-Event@0.115
-Linux::Event::IO::Sock::Listener   0.115  pkg:cpan/Linux-Event@0.115
-Linux::Event::IO::Sock::Stream     0.115  pkg:cpan/Linux-Event@0.115
-Linux::Event::IO::TTY              0.115  pkg:cpan/Linux-Event@0.115
-Linux::Event::Kernel               0.115  pkg:cpan/Linux-Event@0.115
-Linux::Event::Kernel::Event        0.115  pkg:cpan/Linux-Event@0.115
-Linux::Event::Kernel::Process      0.115  pkg:cpan/Linux-Event@0.115
-Linux::Event::Kernel::Signal       0.115  pkg:cpan/Linux-Event@0.115
-Linux::Event::Kernel::Timer        0.115  pkg:cpan/Linux-Event@0.115
+Linux::Event::Error                0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event::Framer               0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event::Framer::DecimalLength 0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event::Framer::Delimiter    0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event::Framer::Fixed        0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event::Framer::LengthPrefix 0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event::Framer::Netstring    0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event::Framer::U32BE        0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event::Framer::Varint       0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event::HTTP                 0.002  pkg:cpan/Linux-Event-HTTP@0.002
+Linux::Event::HTTP::Body::Stream   0.002  pkg:cpan/Linux-Event-HTTP@0.002
+Linux::Event::HTTP::Client         0.002  pkg:cpan/Linux-Event-HTTP@0.002
+Linux::Event::HTTP::Client::Connection 0.002  pkg:cpan/Linux-Event-HTTP@0.002
+Linux::Event::HTTP::Client::Operation 0.002  pkg:cpan/Linux-Event-HTTP@0.002
+Linux::Event::HTTP::Request        0.002  pkg:cpan/Linux-Event-HTTP@0.002
+Linux::Event::HTTP::Response       0.002  pkg:cpan/Linux-Event-HTTP@0.002
+Linux::Event::HTTP::Server         0.002  pkg:cpan/Linux-Event-HTTP@0.002
+Linux::Event::HTTP::Server::Connection 0.002  pkg:cpan/Linux-Event-HTTP@0.002
+Linux::Event::HTTP::Transaction    0.002  pkg:cpan/Linux-Event-HTTP@0.002
+Linux::Event::IO                   0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event::IO::Pipe             0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event::IO::Sock             0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event::IO::Sock::Dgram      0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event::IO::Sock::Listener   0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event::IO::Sock::Stream     0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event::IO::TTY              0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event::Kernel               0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event::Kernel::Event        0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event::Kernel::Process      0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event::Kernel::Signal       0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event::Kernel::Timer        0.116  pkg:cpan/Linux-Event@0.116
 Linux::Event::Listener             0.105  pkg:cpan/Linux-Event@0.105
-Linux::Event::Loop                 0.115  pkg:cpan/Linux-Event@0.115
+Linux::Event::Loop                 0.116  pkg:cpan/Linux-Event@0.116
 Linux::Event::Operation            0.010  pkg:cpan/Linux-Event@0.010
 Linux::Event::Pid                  0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Pid::Subscription    0.012  pkg:cpan/Linux-Event@0.012
@@ -116606,10 +116606,16 @@ Linux::Event::Scheduler            0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Signal               0.105  pkg:cpan/Linux-Event@0.105
 Linux::Event::Signal::Subscription 0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Stream               0.105  pkg:cpan/Linux-Event@0.105
-Linux::Event::TLS                  0.115  pkg:cpan/Linux-Event@0.115
+Linux::Event::TLS                  0.116  pkg:cpan/Linux-Event@0.116
 Linux::Event::Timer                0.105  pkg:cpan/Linux-Event@0.105
 Linux::Event::Wakeup               0.105  pkg:cpan/Linux-Event@0.105
 Linux::Event::Watcher              0.012  pkg:cpan/Linux-Event@0.012
+Linux::Event::WebSocket            0.001  pkg:cpan/Linux-Event-WebSocket@0.001
+Linux::Event::WebSocket::Client    0.001  pkg:cpan/Linux-Event-WebSocket@0.001
+Linux::Event::WebSocket::Client::Connection 0.001  pkg:cpan/Linux-Event-WebSocket@0.001
+Linux::Event::WebSocket::Connection 0.001  pkg:cpan/Linux-Event-WebSocket@0.001
+Linux::Event::WebSocket::Server    0.001  pkg:cpan/Linux-Event-WebSocket@0.001
+Linux::Event::WebSocket::Server::Connection 0.001  pkg:cpan/Linux-Event-WebSocket@0.001
 Linux::Event::XS                   0.012  pkg:cpan/Linux-Event@0.012
 Linux::Ext2::Attributes             0.20  pkg:cpan/Linux-Ext2-Attributes@0.20
 Linux::Ext2::FileAttributes         0.01  pkg:cpan/Linux-Ext2-FileAttributes@0.01
@@ -220152,7 +220158,7 @@ TableData::Business::ID::KBLI::2020::Code v20260626.0.0  pkg:cpan/TableDataBundl
 TableData::Business::ID::KBLI::2025::Code v20260626.0.0  pkg:cpan/TableDataBundle-Business-ID-KBLI@20260626.0.0
 TableData::Calendar::Date::Holiday::ID 0.001  pkg:cpan/TableData-Calendar-Date-Holiday-ID@0.001
 TableData::DBI                     0.026  pkg:cpan/TableDataRole-Source-DBI@0.026
-TableData::Games::Cards::Troika    0.001  pkg:cpan/TableData-Games-Cards-Troika@0.001
+TableData::Games::Cards::Troika    0.002  pkg:cpan/TableData-Games-Cards-Troika@0.002
 TableData::Health::Nutrient        0.006  pkg:cpan/TableData-Health-Nutrient@0.006
 TableData::Lingua::Word::EN::Adjective::TalkEnglish 0.003  pkg:cpan/TableDataBundle-Lingua-Word-EN-Adjective@0.003
 TableData::Lingua::Word::EN::Adverb::TalkEnglish 0.003  pkg:cpan/TableDataBundle-Lingua-Word-EN-Adverb@0.003
