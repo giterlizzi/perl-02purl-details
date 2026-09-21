@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 21 Sep 2026 02:45:22 GMT
-Line-Count: 259919
+Last-Updated: Mon, 21 Sep 2026 09:29:06 GMT
+Line-Count: 259924
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -3574,7 +3574,12 @@ Acme::PSON                          0.05  pkg:cpan/Acme-PSON@0.05
 Acme::Padre::PlayCode               0.13  pkg:cpan/Acme-Padre-PlayCode@0.13
 Acme::Palindrome                     0.1  pkg:cpan/Acme-Palindrome@0.1
 Acme::Pano::Util                   0.011  pkg:cpan/Acme-Pano-Util@0.011
-Acme::Parataxis                    v0.0.10  pkg:cpan/Acme-Parataxis@v0.0.10
+Acme::Parataxis                    v0.1.0  pkg:cpan/Acme-Parataxis@v0.1.0
+Acme::Parataxis::Channel           v0.1.0  pkg:cpan/Acme-Parataxis@v0.1.0
+Acme::Parataxis::Future            v0.1.0  pkg:cpan/Acme-Parataxis@v0.1.0
+Acme::Parataxis::Semaphore         v0.1.0  pkg:cpan/Acme-Parataxis@v0.1.0
+Acme::Parataxis::Semaphore::Guard  undef  pkg:cpan/Acme-Parataxis@v0.1.0
+Acme::Parataxis::Signal            v0.1.0  pkg:cpan/Acme-Parataxis@v0.1.0
 Acme::Partitioner                   0.01  pkg:cpan/Acme-Partitioner@0.01
 Acme::Partitioner::Actor            0.01  pkg:cpan/Acme-Partitioner@0.01
 Acme::People::Happy                 0.05  pkg:cpan/Acme-People-Happy@0.05
@@ -65330,7 +65335,7 @@ Devel::CCompat::C99::VariableLengthArrays 0.002  pkg:cpan/Devel-CCompat-C99-Vari
 Devel::CCov                         0.20  pkg:cpan/Devel-CCov@0.20
 Devel::CStacktrace                 0.012  pkg:cpan/Devel-cst@0.012
 Devel::CallChecker                 0.010  pkg:cpan/Devel-CallChecker@0.010
-Devel::CallParser                  0.004  pkg:cpan/Devel-CallParser@0.004
+Devel::CallParser                  0.005  pkg:cpan/Devel-CallParser@0.005
 Devel::CallSequence                undef  pkg:cpan/UML-Sequence@0.08
 Devel::CallStack                    0.19  pkg:cpan/Devel-CallStack@0.19
 Devel::CallTrace                     1.2  pkg:cpan/Devel-CallTrace@1.2
@@ -121665,7 +121670,7 @@ MIDI::Praxis::Variation            0.0607  pkg:cpan/MIDI-Praxis-Variation@0.0607
 MIDI::Realtime                      0.01  pkg:cpan/MIDI-Realtime@0.01
 MIDI::RtController                 0.0808  pkg:cpan/MIDI-RtController@0.0808
 MIDI::RtController::Filter         0.0105  pkg:cpan/MIDI-RtController-Filter@0.0105
-MIDI::RtController::Filter::CC     0.1301  pkg:cpan/MIDI-RtController-Filter-CC@0.1301
+MIDI::RtController::Filter::CC     0.1303  pkg:cpan/MIDI-RtController-Filter-CC@0.1303
 MIDI::RtController::Filter::Drums  0.0402  pkg:cpan/MIDI-RtController-Filter-Drums@0.0402
 MIDI::RtController::Filter::Math   0.0502  pkg:cpan/MIDI-RtController-Filter-Tonal@0.0502
 MIDI::RtController::Filter::Tonal  0.0502  pkg:cpan/MIDI-RtController-Filter-Tonal@0.0502
@@ -194900,7 +194905,7 @@ Punk::ClamAV                        0.02  pkg:cpan/Punk-ClamAV@0.02
 Punk::Command                       0.51  pkg:cpan/Punk@0.53
 Punk::Command::Apikey               0.02  pkg:cpan/Punk-APIKey@0.02
 Punk::Command::Challenge            0.01  pkg:cpan/Punk-Challenge@0.01
-Punk::Command::Push                 0.02  pkg:cpan/Punk-Push@0.02
+Punk::Command::Push                 0.03  pkg:cpan/Punk-Push@0.03
 Punk::Command::Queue                0.09  pkg:cpan/Punk-Queue@0.09
 Punk::Command::SAML                undef  pkg:cpan/Punk-SAML@0.02
 Punk::Command::Sqitch               0.01  pkg:cpan/Punk-Sqitch@0.01
@@ -194932,7 +194937,7 @@ Punk::Model::DBI                    0.51  pkg:cpan/Punk@0.53
 Punk::Model::DBIx::Loop             0.51  pkg:cpan/Punk@0.53
 Punk::Model::Grant                  0.02  pkg:cpan/Punk-Authorisation@0.02
 Punk::Model::Passkey                0.02  pkg:cpan/Punk-Passkey@0.02
-Punk::Model::PushSubscription       0.02  pkg:cpan/Punk-Push@0.02
+Punk::Model::PushSubscription       0.03  pkg:cpan/Punk-Push@0.03
 Punk::Mount::Markdown               0.51  pkg:cpan/Punk@0.53
 Punk::Mount::OpenAPI                0.51  pkg:cpan/Punk@0.53
 Punk::OAuth2                        0.08  pkg:cpan/Punk-OAuth2@0.08
@@ -195012,16 +195017,16 @@ Punk::Plugin::OAuth2                0.08  pkg:cpan/Punk-OAuth2@0.08
 Punk::Plugin::Observe              undef  pkg:cpan/Punk-Observe@0.11
 Punk::Plugin::OpenTelemetry         0.10  pkg:cpan/Punk-OpenTelemetry@0.10
 Punk::Plugin::Passkey               0.02  pkg:cpan/Punk-Passkey@0.02
-Punk::Plugin::Push                  0.02  pkg:cpan/Punk-Push@0.02
+Punk::Plugin::Push                  0.03  pkg:cpan/Punk-Push@0.03
 Punk::Plugin::Queue                 0.09  pkg:cpan/Punk-Queue@0.09
 Punk::Plugin::RequestId             0.51  pkg:cpan/Punk@0.53
 Punk::Plugin::SAML                 undef  pkg:cpan/Punk-SAML@0.02
 Punk::Plugin::Sitemap               0.51  pkg:cpan/Punk@0.53
 Punk::Plugin::Sqitch                0.01  pkg:cpan/Punk-Sqitch@0.01
 Punk::Plugin::TOTP                  0.06  pkg:cpan/Punk-TOTP@0.06
-Punk::Push                          0.02  pkg:cpan/Punk-Push@0.02
-Punk::Push::Result                  0.02  pkg:cpan/Punk-Push@0.02
-Punk::Push::Subscription            0.02  pkg:cpan/Punk-Push@0.02
+Punk::Push                          0.03  pkg:cpan/Punk-Push@0.03
+Punk::Push::Result                  0.03  pkg:cpan/Punk-Push@0.03
+Punk::Push::Subscription            0.03  pkg:cpan/Punk-Push@0.03
 Punk::Queue                         0.09  pkg:cpan/Punk-Queue@0.09
 Punk::Queue::Backend                0.09  pkg:cpan/Punk-Queue@0.09
 Punk::Queue::Backend::Pg            0.09  pkg:cpan/Punk-Queue@0.09
@@ -221243,13 +221248,13 @@ Tcl                                 1.53  pkg:cpan/Tcl@1.53
 Tcl::Cmdbase                        1.53  pkg:cpan/Tcl@1.53
 Tcl::Code                           1.53  pkg:cpan/Tcl@1.53
 Tcl::List                           1.53  pkg:cpan/Tcl@1.53
-Tcl::Tk                             1.51  pkg:cpan/Tcl-Tk@1.51
+Tcl::Tk                             1.52  pkg:cpan/Tcl-Tk@1.52
 Tcl::Tk::Tkwidget::Tix             undef  pkg:cpan/Tcl-Tk-Tkwidget-Tix@8.4.3.0
 Tcl::Tk::Tkwidget::treectrl        undef  pkg:cpan/Tcl-Tk-Tkwidget-treectrl@2.4.2.7
-Tcl::Tk::Widget                     1.51  pkg:cpan/Tcl-Tk@1.51
-Tcl::Tk::Widget::Balloon           undef  pkg:cpan/Tcl-Tk@1.51
-Tcl::Tk::Widget::MainWindow         1.51  pkg:cpan/Tcl-Tk@1.51
-Tcl::Tk::Widget::Text              undef  pkg:cpan/Tcl-Tk@1.51
+Tcl::Tk::Widget                     1.52  pkg:cpan/Tcl-Tk@1.52
+Tcl::Tk::Widget::Balloon           undef  pkg:cpan/Tcl-Tk@1.52
+Tcl::Tk::Widget::MainWindow         1.52  pkg:cpan/Tcl-Tk@1.52
+Tcl::Tk::Widget::Text              undef  pkg:cpan/Tcl-Tk@1.52
 Tcl::Var                            1.53  pkg:cpan/Tcl@1.53
 Tcl::pTk                            1.11  pkg:cpan/Tcl-pTk@1.11
 Tcl::pTk::Adjuster                  1.11  pkg:cpan/Tcl-pTk@1.11
