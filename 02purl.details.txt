@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 22 Sep 2026 07:09:02 GMT
+Last-Updated: Tue, 22 Sep 2026 12:59:20 GMT
 Line-Count: 261092
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -50827,7 +50827,7 @@ Crypt::SecretBuffer::INI           0.024  pkg:cpan/Crypt-SecretBuffer@0.024
 Crypt::SecretBuffer::PEM           0.024  pkg:cpan/Crypt-SecretBuffer@0.024
 Crypt::SecretBuffer::PEM::Headers  0.024  pkg:cpan/Crypt-SecretBuffer@0.024
 Crypt::SecretBuffer::Span          0.024  pkg:cpan/Crypt-SecretBuffer@0.024
-Crypt::SelfCertificate              1.01  pkg:cpan/Crypt-SelfCertificate@1.01
+Crypt::SelfCertificate              1.05  pkg:cpan/Crypt-SelfCertificate@1.05
 Crypt::Serpent                      1.01  pkg:cpan/Crypt-Serpent@1.01
 Crypt::Shark                         1.0  pkg:cpan/Crypt-Shark@1.0.1
 Crypt::Simple                       0.06  pkg:cpan/Crypt-Simple@0.06
@@ -76860,12 +76860,12 @@ Finance::Tax::Aruba::Income::2023  0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::Tax::Aruba::Income::2025  0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::Tax::Aruba::Role::Income::TaxYear 0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::TickerSymbols              3.11  pkg:cpan/Finance-TickerSymbols@3.11?ext=zip
-Finance::Tiller2QIF                 1.09  pkg:cpan/Finance-Tiller2QIF@1.09
-Finance::Tiller2QIF::DB             1.09  pkg:cpan/Finance-Tiller2QIF@1.09
-Finance::Tiller2QIF::Map            1.09  pkg:cpan/Finance-Tiller2QIF@1.09
-Finance::Tiller2QIF::ReadCSV        1.09  pkg:cpan/Finance-Tiller2QIF@1.09
-Finance::Tiller2QIF::Util           1.09  pkg:cpan/Finance-Tiller2QIF@1.09
-Finance::Tiller2QIF::WriteQIF       1.09  pkg:cpan/Finance-Tiller2QIF@1.09
+Finance::Tiller2QIF                 1.10  pkg:cpan/Finance-Tiller2QIF@1.10
+Finance::Tiller2QIF::DB             1.10  pkg:cpan/Finance-Tiller2QIF@1.10
+Finance::Tiller2QIF::Map            1.10  pkg:cpan/Finance-Tiller2QIF@1.10
+Finance::Tiller2QIF::ReadCSV        1.10  pkg:cpan/Finance-Tiller2QIF@1.10
+Finance::Tiller2QIF::Util           1.10  pkg:cpan/Finance-Tiller2QIF@1.10
+Finance::Tiller2QIF::WriteQIF       1.10  pkg:cpan/Finance-Tiller2QIF@1.10
 Finance::USDX                       0.03  pkg:cpan/Finance-USDX@0.03
 Finance::Wesabe                     0.02  pkg:cpan/Finance-Wesabe@0.02
 Finance::Wesabe::Account           undef  pkg:cpan/Finance-Wesabe@0.02
@@ -81423,14 +81423,14 @@ Games::FrozenBubble::Net           undef  pkg:cpan/Games-FrozenBubble@2.212
 Games::FrozenBubble::NetDiscover   undef  pkg:cpan/Games-FrozenBubble@2.212
 Games::FrozenBubble::Stuff         undef  pkg:cpan/Games-FrozenBubble@2.212
 Games::FrozenBubble::Symbols       undef  pkg:cpan/Games-FrozenBubble@2.212
-Games::GUI::Battleship               1.0  pkg:cpan/Games-GUI-Battleship@1.0
-Games::GUI::Battleship::AI         undef  pkg:cpan/Games-GUI-Battleship@1.0
-Games::GUI::Battleship::AI::Hard   undef  pkg:cpan/Games-GUI-Battleship@1.0
-Games::GUI::Battleship::AI::Naive  undef  pkg:cpan/Games-GUI-Battleship@1.0
-Games::GUI::Battleship::AI::Parity undef  pkg:cpan/Games-GUI-Battleship@1.0
-Games::GUI::Battleship::Board      undef  pkg:cpan/Games-GUI-Battleship@1.0
-Games::GUI::Battleship::Renderer   undef  pkg:cpan/Games-GUI-Battleship@1.0
-Games::GUI::Battleship::Ship       undef  pkg:cpan/Games-GUI-Battleship@1.0
+Games::GUI::Battleship               1.1  pkg:cpan/Games-GUI-Battleship@1.1
+Games::GUI::Battleship::AI         undef  pkg:cpan/Games-GUI-Battleship@1.1
+Games::GUI::Battleship::AI::Hard   undef  pkg:cpan/Games-GUI-Battleship@1.1
+Games::GUI::Battleship::AI::Naive  undef  pkg:cpan/Games-GUI-Battleship@1.1
+Games::GUI::Battleship::AI::Parity undef  pkg:cpan/Games-GUI-Battleship@1.1
+Games::GUI::Battleship::Board      undef  pkg:cpan/Games-GUI-Battleship@1.1
+Games::GUI::Battleship::Renderer   undef  pkg:cpan/Games-GUI-Battleship@1.1
+Games::GUI::Battleship::Ship       undef  pkg:cpan/Games-GUI-Battleship@1.1
 Games::Go::AGA::BayRate            0.119  pkg:cpan/Games-Go-AGA-BayRate@0.119
 Games::Go::AGA::BayRate::Collection 0.119  pkg:cpan/Games-Go-AGA-BayRate@0.119
 Games::Go::AGA::BayRate::GSL::Multimin 0.119  pkg:cpan/Games-Go-AGA-BayRate@0.119
@@ -101586,12 +101586,12 @@ HTMLBase                           undef  pkg:cpan/HTML-Seamstress@6.112830
 HTMLElements                       undef  pkg:cpan/Mozilla-DOM@0.23
 HTMLTMPL                            1.34  pkg:cpan/HTMLTMPL@1.34
 HTTP::API::Client                   1.26  pkg:cpan/HTTP-API-Client@1.26
-HTTP::API::Core                     1.01  pkg:cpan/HTTP-API-Core@1.01
-HTTP::API::Core::Auth              undef  pkg:cpan/HTTP-API-Core@1.01
-HTTP::API::Core::Error             undef  pkg:cpan/HTTP-API-Core@1.01
-HTTP::API::Core::Pagination        undef  pkg:cpan/HTTP-API-Core@1.01
-HTTP::API::Core::RateLimit         undef  pkg:cpan/HTTP-API-Core@1.01
-HTTP::API::Core::Response          undef  pkg:cpan/HTTP-API-Core@1.01
+HTTP::API::Core                     1.02  pkg:cpan/HTTP-API-Core@1.02
+HTTP::API::Core::Auth              undef  pkg:cpan/HTTP-API-Core@1.02
+HTTP::API::Core::Error             undef  pkg:cpan/HTTP-API-Core@1.02
+HTTP::API::Core::Pagination        undef  pkg:cpan/HTTP-API-Core@1.02
+HTTP::API::Core::RateLimit         undef  pkg:cpan/HTTP-API-Core@1.02
+HTTP::API::Core::Response          undef  pkg:cpan/HTTP-API-Core@1.02
 HTTP::API::DataTypeMarker           1.26  pkg:cpan/HTTP-API-Client@1.26
 HTTP::Accept                        0.03  pkg:cpan/HTTP-Accept@0.03
 HTTP::AcceptCharset                 0.04  pkg:cpan/HTTP-AcceptCharset@0.04
@@ -131911,7 +131911,7 @@ Module::Build::Service::memcached   0.91  pkg:cpan/Module-Build-Service@0.91
 Module::Build::Service::postgresql  0.91  pkg:cpan/Module-Build-Service@0.91
 Module::Build::Service::slapd       0.91  pkg:cpan/Module-Build-Service@0.91
 Module::Build::Smolder              0.02  pkg:cpan/Module-Build-Smolder@0.02
-Module::Build::SysPath              0.18  pkg:cpan/Module-Build-SysPath@0.18
+Module::Build::SysPath              0.19  pkg:cpan/Module-Build-SysPath@0.19
 Module::Build::TAPArchive           0.04  pkg:cpan/Module-Build-TAPArchive@0.04
 Module::Build::TestReporter            1  pkg:cpan/Module-Build-TestReporter@1.00
 Module::Build::Tiny                0.053  pkg:cpan/Module-Build-Tiny@0.053
@@ -212478,22 +212478,22 @@ ShardedKV::Storage::Redis::String   0.20  pkg:cpan/ShardedKV@0.20
 ShardedKV::Storage::ReplicatedRest undef  pkg:cpan/ShardedKV-Storage-Rest@0.8
 ShardedKV::Storage::Rest             0.8  pkg:cpan/ShardedKV-Storage-Rest@0.8
 SharePoint::SOAPHandler            0.0013  pkg:cpan/SharePoint-SOAPHandler@0.0013
-Shared::Arena                       0.12  pkg:cpan/Shared-Arena@0.12
-Shared::Arena::Bloom                0.11  pkg:cpan/Shared-Arena@0.12
-Shared::Arena::Cache                0.11  pkg:cpan/Shared-Arena@0.12
-Shared::Arena::CountMin             0.11  pkg:cpan/Shared-Arena@0.12
-Shared::Arena::Cuckoo               0.11  pkg:cpan/Shared-Arena@0.12
-Shared::Arena::Frozen               0.11  pkg:cpan/Shared-Arena@0.12
-Shared::Arena::Frozen::View         0.11  pkg:cpan/Shared-Arena@0.12
-Shared::Arena::Histogram            0.11  pkg:cpan/Shared-Arena@0.12
-Shared::Arena::HyperLogLog          0.11  pkg:cpan/Shared-Arena@0.12
-Shared::Arena::Lease                0.11  pkg:cpan/Shared-Arena@0.12
-Shared::Arena::Map                  0.11  pkg:cpan/Shared-Arena@0.12
-Shared::Arena::Rate                 0.11  pkg:cpan/Shared-Arena@0.12
-Shared::Arena::Ring                 0.11  pkg:cpan/Shared-Arena@0.12
-Shared::Arena::Ring::Cursor         0.11  pkg:cpan/Shared-Arena@0.12
-Shared::Arena::Ring::Group          0.11  pkg:cpan/Shared-Arena@0.12
-Shared::Arena::Scoreboard           0.11  pkg:cpan/Shared-Arena@0.12
+Shared::Arena                       0.13  pkg:cpan/Shared-Arena@0.13
+Shared::Arena::Bloom                0.13  pkg:cpan/Shared-Arena@0.13
+Shared::Arena::Cache                0.13  pkg:cpan/Shared-Arena@0.13
+Shared::Arena::CountMin             0.13  pkg:cpan/Shared-Arena@0.13
+Shared::Arena::Cuckoo               0.13  pkg:cpan/Shared-Arena@0.13
+Shared::Arena::Frozen               0.13  pkg:cpan/Shared-Arena@0.13
+Shared::Arena::Frozen::View         0.13  pkg:cpan/Shared-Arena@0.13
+Shared::Arena::Histogram            0.13  pkg:cpan/Shared-Arena@0.13
+Shared::Arena::HyperLogLog          0.13  pkg:cpan/Shared-Arena@0.13
+Shared::Arena::Lease                0.13  pkg:cpan/Shared-Arena@0.13
+Shared::Arena::Map                  0.13  pkg:cpan/Shared-Arena@0.13
+Shared::Arena::Rate                 0.13  pkg:cpan/Shared-Arena@0.13
+Shared::Arena::Ring                 0.13  pkg:cpan/Shared-Arena@0.13
+Shared::Arena::Ring::Cursor         0.13  pkg:cpan/Shared-Arena@0.13
+Shared::Arena::Ring::Group          0.13  pkg:cpan/Shared-Arena@0.13
+Shared::Arena::Scoreboard           0.13  pkg:cpan/Shared-Arena@0.13
 Shared::Examples::Net::Amazon::S3  0.992  pkg:cpan/Net-Amazon-S3@0.992
 Shared::Examples::Net::Amazon::S3::ACL  0.89  pkg:cpan/Net-Amazon-S3@0.89
 Shared::Examples::Net::Amazon::S3::API 0.992  pkg:cpan/Net-Amazon-S3@0.992
@@ -238712,17 +238712,17 @@ VOMS::Lite::RSAKey                  0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::SAMLHelper              0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::VOMS                    0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::X509                    0.20  pkg:cpan/VOMS-Lite@0.20
-VPNDetection                       3.003000  pkg:cpan/VPNDetection@3.3.0
-VPNDetection::Bogon                3.003000  pkg:cpan/VPNDetection@3.3.0
-VPNDetection::Bogons               undef  pkg:cpan/VPNDetection@3.3.0
-VPNDetection::Cache                3.003000  pkg:cpan/VPNDetection@3.3.0
-VPNDetection::Database             3.003000  pkg:cpan/VPNDetection@3.3.0
-VPNDetection::Error                3.003000  pkg:cpan/VPNDetection@3.3.0
-VPNDetection::Oauth                3.003000  pkg:cpan/VPNDetection@3.3.0
-VPNDetection::OauthAccessDeniedError 3.003000  pkg:cpan/VPNDetection@3.3.0
-VPNDetection::OauthError           3.003000  pkg:cpan/VPNDetection@3.3.0
-VPNDetection::OauthExpiredTokenError 3.003000  pkg:cpan/VPNDetection@3.3.0
-VPNDetection::Result               3.003000  pkg:cpan/VPNDetection@3.3.0
+VPNDetection                       3.003001  pkg:cpan/VPNDetection@3.3.1
+VPNDetection::Bogon                3.003001  pkg:cpan/VPNDetection@3.3.1
+VPNDetection::Bogons               undef  pkg:cpan/VPNDetection@3.3.1
+VPNDetection::Cache                3.003001  pkg:cpan/VPNDetection@3.3.1
+VPNDetection::Database             3.003001  pkg:cpan/VPNDetection@3.3.1
+VPNDetection::Error                3.003001  pkg:cpan/VPNDetection@3.3.1
+VPNDetection::Oauth                3.003001  pkg:cpan/VPNDetection@3.3.1
+VPNDetection::OauthAccessDeniedError 3.003001  pkg:cpan/VPNDetection@3.3.1
+VPNDetection::OauthError           3.003001  pkg:cpan/VPNDetection@3.3.1
+VPNDetection::OauthExpiredTokenError 3.003001  pkg:cpan/VPNDetection@3.3.1
+VPNDetection::Result               3.003001  pkg:cpan/VPNDetection@3.3.1
 VR::API                             1.06  pkg:cpan/VR-API@1.06
 VR::API::Partner                    1.01  pkg:cpan/VR-API@1.05
 VRML                                1.10  pkg:cpan/VRML@1.10
