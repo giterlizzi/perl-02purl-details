@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 21 Sep 2026 21:31:50 GMT
-Line-Count: 259929
+Last-Updated: Tue, 22 Sep 2026 00:28:20 GMT
+Line-Count: 259932
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -99290,7 +99290,7 @@ HTML::Content::TokeParserTokenizer undef  pkg:cpan/HTML-Content-Extractor@0.01
 HTML::ContentExtractor              0.03  pkg:cpan/HTML-ContentExtractor@0.03
 HTML::Copy                          1.31  pkg:cpan/HTML-Copy@1.31
 HTML::CruftText                     0.02  pkg:cpan/HTML-CruftText@0.02
-HTML::D3                            0.15  pkg:cpan/HTML-D3@0.15
+HTML::D3                            0.16  pkg:cpan/HTML-D3@0.16
 HTML::DBForm                        1.05  pkg:cpan/HTML-DBForm@1.05
 HTML::DBForm::Search                1.05  pkg:cpan/HTML-DBForm@1.05
 HTML::DBForm::Search::DropDown      1.05  pkg:cpan/HTML-DBForm@1.05
@@ -116497,6 +116497,7 @@ LinkEmbedder::Link::oEmbed         undef  pkg:cpan/LinkEmbedder@1.20
 LinkedList::Single                 2.000000  pkg:cpan/LinkedList-Single@v2.0.0
 LinkedList::Single::Doc            2.000000  pkg:cpan/LinkedList-Single@v2.0.0
 LinkedList::Single::TestUtil       2.000000  pkg:cpan/LinkedList-Single@v2.0.0
+Linode::API                        0.001  pkg:cpan/Linode-API@0.001
 Linux::ACL                          0.05  pkg:cpan/Linux-ACL@0.05
 Linux::AIO                           1.9  pkg:cpan/Linux-AIO@1.9
 Linux::APT                          0.02  pkg:cpan/Linux-APT@0.02
@@ -116620,12 +116621,12 @@ Linux::Event::TLS                  0.116  pkg:cpan/Linux-Event@0.116
 Linux::Event::Timer                0.105  pkg:cpan/Linux-Event@0.105
 Linux::Event::Wakeup               0.105  pkg:cpan/Linux-Event@0.105
 Linux::Event::Watcher              0.012  pkg:cpan/Linux-Event@0.012
-Linux::Event::WebSocket            0.001  pkg:cpan/Linux-Event-WebSocket@0.001
-Linux::Event::WebSocket::Client    0.001  pkg:cpan/Linux-Event-WebSocket@0.001
-Linux::Event::WebSocket::Client::Connection 0.001  pkg:cpan/Linux-Event-WebSocket@0.001
-Linux::Event::WebSocket::Connection 0.001  pkg:cpan/Linux-Event-WebSocket@0.001
-Linux::Event::WebSocket::Server    0.001  pkg:cpan/Linux-Event-WebSocket@0.001
-Linux::Event::WebSocket::Server::Connection 0.001  pkg:cpan/Linux-Event-WebSocket@0.001
+Linux::Event::WebSocket            0.002  pkg:cpan/Linux-Event-WebSocket@0.002
+Linux::Event::WebSocket::Client    0.002  pkg:cpan/Linux-Event-WebSocket@0.002
+Linux::Event::WebSocket::Client::Connection 0.002  pkg:cpan/Linux-Event-WebSocket@0.002
+Linux::Event::WebSocket::Connection 0.002  pkg:cpan/Linux-Event-WebSocket@0.002
+Linux::Event::WebSocket::Server    0.002  pkg:cpan/Linux-Event-WebSocket@0.002
+Linux::Event::WebSocket::Server::Connection 0.002  pkg:cpan/Linux-Event-WebSocket@0.002
 Linux::Event::XS                   0.012  pkg:cpan/Linux-Event@0.012
 Linux::Ext2::Attributes             0.20  pkg:cpan/Linux-Ext2-Attributes@0.20
 Linux::Ext2::FileAttributes         0.01  pkg:cpan/Linux-Ext2-FileAttributes@0.01
@@ -121054,18 +121055,18 @@ Lustre::LFS                         0.01  pkg:cpan/Lustre-LFS@0.01
 Lustre::LFS::Dir                   undef  pkg:cpan/Lustre-LFS@0.01
 Lustre::LFS::File                  undef  pkg:cpan/Lustre-LFS@0.01
 Lutherie::FretCalc                  0.33  pkg:cpan/Lutherie-FretCalc@0.33
-Luv::CLI                           0.003  pkg:cpan/Luv-CLI@0.003
-Luv::CLI::Command::Add             undef  pkg:cpan/Luv-CLI@0.003
-Luv::CLI::Command::Build           undef  pkg:cpan/Luv-CLI@0.003
-Luv::CLI::Command::Init            undef  pkg:cpan/Luv-CLI@0.003
-Luv::CLI::Command::List            undef  pkg:cpan/Luv-CLI@0.003
-Luv::CLI::Command::Remove          undef  pkg:cpan/Luv-CLI@0.003
-Luv::CLI::Command::Search          undef  pkg:cpan/Luv-CLI@0.003
-Luv::CLI::Command::Update          undef  pkg:cpan/Luv-CLI@0.003
-Luv::CLI::Git                      undef  pkg:cpan/Luv-CLI@0.003
-Luv::CLI::Manifest                 undef  pkg:cpan/Luv-CLI@0.003
-Luv::CLI::Package                  undef  pkg:cpan/Luv-CLI@0.003
-Luv::CLI::Registry                 undef  pkg:cpan/Luv-CLI@0.003
+Luv::CLI                           0.004  pkg:cpan/Luv-CLI@0.004
+Luv::CLI::Command::Add             undef  pkg:cpan/Luv-CLI@0.004
+Luv::CLI::Command::Build           undef  pkg:cpan/Luv-CLI@0.004
+Luv::CLI::Command::Init            undef  pkg:cpan/Luv-CLI@0.004
+Luv::CLI::Command::List            undef  pkg:cpan/Luv-CLI@0.004
+Luv::CLI::Command::Remove          undef  pkg:cpan/Luv-CLI@0.004
+Luv::CLI::Command::Search          undef  pkg:cpan/Luv-CLI@0.004
+Luv::CLI::Command::Update          undef  pkg:cpan/Luv-CLI@0.004
+Luv::CLI::Git                      undef  pkg:cpan/Luv-CLI@0.004
+Luv::CLI::Manifest                 undef  pkg:cpan/Luv-CLI@0.004
+Luv::CLI::Package                  undef  pkg:cpan/Luv-CLI@0.004
+Luv::CLI::Registry                 undef  pkg:cpan/Luv-CLI@0.004
 Lux::IO                             0.07  pkg:cpan/Lux-IO@0.07
 Lux::IO::Btree                     undef  pkg:cpan/Lux-IO@0.07
 Lvalue                              0.21  pkg:cpan/Lvalue@0.21
@@ -187922,7 +187923,7 @@ Perinci::Web                        0.01  pkg:cpan/Perinci-Web@0.01
 Perinci::WebScript::JSON           0.002  pkg:cpan/Perinci-WebScript-JSON@0.002
 Periscope                          undef  pkg:cpan/Periscope@0.0.3
 Perl4::CoreLibs                    0.005  pkg:cpan/Perl4-CoreLibs@0.005
-Perl500503Syntax::OrDie             0.04  pkg:cpan/Perl500503Syntax-OrDie@0.04
+Perl500503Syntax::OrDie             0.05  pkg:cpan/Perl500503Syntax-OrDie@0.05
 Perl5::Build::Warnings              0.07  pkg:cpan/Perl5-Build-Warnings@0.07
 Perl5::CoreSmokeDB::Schema          1.12  pkg:cpan/Perl5-CoreSmokeDB-Schema@1.12
 Perl5::CoreSmokeDB::Schema::Result::Config undef  pkg:cpan/Perl5-CoreSmokeDB-Schema@1.12
@@ -215428,6 +215429,8 @@ Solstice::View::Redirect           undef  pkg:cpan/Solstice@1440
 Solstice::View::Remote             undef  pkg:cpan/Solstice@1440
 Solstice::View::Resource::File::Download   191  pkg:cpan/Solstice@1440
 Solstice::View::Resource::File::Upload undef  pkg:cpan/Solstice@1440
+SolusVM::Client                    0.001  pkg:cpan/SolusVM-Client@0.001
+SolusVM::Client::Specification     0.001  pkg:cpan/SolusVM-Client@0.001
 Solution                           v0.9.1  pkg:cpan/Solution@v0.9.1
 Solution::ArgumentError                0  pkg:cpan/Solution@v0.9.1
 Solution::Block                    v0.9.1  pkg:cpan/Solution@v0.9.1
