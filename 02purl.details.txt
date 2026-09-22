@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 22 Sep 2026 12:59:20 GMT
+Last-Updated: Tue, 22 Sep 2026 17:51:14 GMT
 Line-Count: 261092
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -117585,7 +117585,7 @@ LinkEmbedder::Link::oEmbed         undef  pkg:cpan/LinkEmbedder@1.20
 LinkedList::Single                 2.000000  pkg:cpan/LinkedList-Single@v2.0.0
 LinkedList::Single::Doc            2.000000  pkg:cpan/LinkedList-Single@v2.0.0
 LinkedList::Single::TestUtil       2.000000  pkg:cpan/LinkedList-Single@v2.0.0
-Linode::API                        0.001  pkg:cpan/Linode-API@0.001
+Linode::API                        0.002  pkg:cpan/Linode-API@0.002
 Linux::ACL                          0.05  pkg:cpan/Linux-ACL@0.05
 Linux::AIO                           1.9  pkg:cpan/Linux-AIO@1.9
 Linux::APT                          0.02  pkg:cpan/Linux-APT@0.02
@@ -122766,8 +122766,8 @@ MIDI::RtController                 0.0808  pkg:cpan/MIDI-RtController@0.0808
 MIDI::RtController::Filter         0.0105  pkg:cpan/MIDI-RtController-Filter@0.0105
 MIDI::RtController::Filter::CC     0.1303  pkg:cpan/MIDI-RtController-Filter-CC@0.1303
 MIDI::RtController::Filter::Drums  0.0402  pkg:cpan/MIDI-RtController-Filter-Drums@0.0402
-MIDI::RtController::Filter::Math   0.0502  pkg:cpan/MIDI-RtController-Filter-Tonal@0.0502
-MIDI::RtController::Filter::Tonal  0.0502  pkg:cpan/MIDI-RtController-Filter-Tonal@0.0502
+MIDI::RtController::Filter::Math   0.0503  pkg:cpan/MIDI-RtController-Filter-Tonal@0.0503
+MIDI::RtController::Filter::Tonal  0.0503  pkg:cpan/MIDI-RtController-Filter-Tonal@0.0503
 MIDI::RtMidi::FFI                   0.13  pkg:cpan/MIDI-RtMidi-FFI@0.13
 MIDI::RtMidi::FFI::AbstractDevice   0.13  pkg:cpan/MIDI-RtMidi-FFI@0.13
 MIDI::RtMidi::FFI::Device           0.13  pkg:cpan/MIDI-RtMidi-FFI@0.13
@@ -122874,25 +122874,25 @@ MIME::Base32::XS                    1.02  pkg:cpan/MIME-Base32-XS@1.02
 MIME::Base64                        3.16  pkg:cpan/MIME-Base64@3.16
 MIME::Base64::Perl                  1.00  pkg:cpan/MIME-Base64-Perl@1.00
 MIME::Base64::URLSafe               0.01  pkg:cpan/MIME-Base64-URLSafe@0.01
-MIME::Body                         5.518  pkg:cpan/MIME-tools@5.518
-MIME::Body::File                   5.518  pkg:cpan/MIME-tools@5.518
-MIME::Body::InCore                 5.518  pkg:cpan/MIME-tools@5.518
-MIME::Body::Scalar                 5.518  pkg:cpan/MIME-tools@5.518
+MIME::Body                         5.519  pkg:cpan/MIME-tools@5.519
+MIME::Body::File                   5.519  pkg:cpan/MIME-tools@5.519
+MIME::Body::InCore                 5.519  pkg:cpan/MIME-tools@5.519
+MIME::Body::Scalar                 5.519  pkg:cpan/MIME-tools@5.519
 MIME::BodyMunger                   0.007  pkg:cpan/MIME-BodyMunger@0.007
 MIME::Charset                      1.013.1  pkg:cpan/MIME-Charset@1.013.1
 MIME::Charset::UTF                 1.010  pkg:cpan/MIME-Charset@1.011.3
 MIME::Charset::_Compat             1.003001  pkg:cpan/MIME-Charset@1.011.3
 MIME::DB                           1.052000  pkg:cpan/MIME-DB@v1.52.0
 MIME::DecodeText                    0.01  pkg:cpan/MIME-DecodeText@0.01
-MIME::Decoder                      5.518  pkg:cpan/MIME-tools@5.518
-MIME::Decoder::Base64              5.518  pkg:cpan/MIME-tools@5.518
-MIME::Decoder::BinHex              5.518  pkg:cpan/MIME-tools@5.518
-MIME::Decoder::Binary              5.518  pkg:cpan/MIME-tools@5.518
-MIME::Decoder::Gzip64              5.518  pkg:cpan/MIME-tools@5.518
-MIME::Decoder::NBit                5.518  pkg:cpan/MIME-tools@5.518
+MIME::Decoder                      5.519  pkg:cpan/MIME-tools@5.519
+MIME::Decoder::Base64              5.519  pkg:cpan/MIME-tools@5.519
+MIME::Decoder::BinHex              5.519  pkg:cpan/MIME-tools@5.519
+MIME::Decoder::Binary              5.519  pkg:cpan/MIME-tools@5.519
+MIME::Decoder::Gzip64              5.519  pkg:cpan/MIME-tools@5.519
+MIME::Decoder::NBit                5.519  pkg:cpan/MIME-tools@5.519
 MIME::Decoder::PGP                 1.001001001  pkg:cpan/Mail-IspMailGate@1.1013
-MIME::Decoder::QuotedPrint         5.518  pkg:cpan/MIME-tools@5.518
-MIME::Decoder::UU                  5.518  pkg:cpan/MIME-tools@5.518
+MIME::Decoder::QuotedPrint         5.519  pkg:cpan/MIME-tools@5.519
+MIME::Decoder::UU                  5.519  pkg:cpan/MIME-tools@5.519
 MIME::Detect                        0.12  pkg:cpan/MIME-Detect@0.12
 MIME::Detect::Buffer                0.12  pkg:cpan/MIME-Detect@0.12
 MIME::Detect::FreeDesktopOrgDB      0.12  pkg:cpan/MIME-Detect@0.12
@@ -122904,7 +122904,7 @@ MIME::EcoEncode::JP_B               0.95  pkg:cpan/MIME-EcoEncode@0.95
 MIME::EcoEncode::JP_Q               0.95  pkg:cpan/MIME-EcoEncode@0.95
 MIME::EcoEncode::Param              0.95  pkg:cpan/MIME-EcoEncode@0.95
 MIME::EncWords                     1.015  pkg:cpan/MIME-EncWords@1.015.0
-MIME::Entity                       5.518  pkg:cpan/MIME-tools@5.518
+MIME::Entity                       5.519  pkg:cpan/MIME-tools@5.519
 MIME::Expander                      0.02  pkg:cpan/MIME-Expander@0.02
 MIME::Expander::Guess               0.02  pkg:cpan/MIME-Expander@0.02
 MIME::Expander::Guess::FileName     0.02  pkg:cpan/MIME-Expander@0.02
@@ -122920,11 +122920,11 @@ MIME::Fast                           1.6  pkg:cpan/MIME-Fast@1.6
 MIME::Fast::Message                  1.6  pkg:cpan/MIME-Fast@1.6
 MIME::Fast::MultiPart                1.6  pkg:cpan/MIME-Fast@1.6
 MIME::Fast::Object                   1.6  pkg:cpan/MIME-Fast@1.6
-MIME::Field::ConTraEnc             5.518  pkg:cpan/MIME-tools@5.518
-MIME::Field::ContDisp              5.518  pkg:cpan/MIME-tools@5.518
-MIME::Field::ContType              5.518  pkg:cpan/MIME-tools@5.518
-MIME::Field::ParamVal              5.518  pkg:cpan/MIME-tools@5.518
-MIME::Head                         5.518  pkg:cpan/MIME-tools@5.518
+MIME::Field::ConTraEnc             5.519  pkg:cpan/MIME-tools@5.519
+MIME::Field::ContDisp              5.519  pkg:cpan/MIME-tools@5.519
+MIME::Field::ContType              5.519  pkg:cpan/MIME-tools@5.519
+MIME::Field::ParamVal              5.519  pkg:cpan/MIME-tools@5.519
+MIME::Head                         5.519  pkg:cpan/MIME-tools@5.519
 MIME::Lite                         3.038  pkg:cpan/MIME-Lite@3.038
 MIME::Lite::Generator               0.02  pkg:cpan/MIME-Lite-Generator@0.02
 MIME::Lite::HT::HTML                0.06  pkg:cpan/MIME-Lite-HT-HTML@0.06
@@ -122941,28 +122941,28 @@ MIME::Lite::TT::Provider            0.02  pkg:cpan/MIME-Lite-TT@0.02
 MIME::Mini                         1.002  pkg:cpan/MIME-Mini@1.002
 MIME::Multipart::Parse::Ordered     0.03  pkg:cpan/MIME-Multipart-Parse-Ordered@0.03
 MIME::Multipart::ParseSimple        0.02  pkg:cpan/MIME-Multipart-ParseSimple@0.02
-MIME::Parser                       5.518  pkg:cpan/MIME-tools@5.518
-MIME::Parser::FileInto             undef  pkg:cpan/MIME-tools@5.518
-MIME::Parser::FileUnder            undef  pkg:cpan/MIME-tools@5.518
-MIME::Parser::Filer                undef  pkg:cpan/MIME-tools@5.518
+MIME::Parser                       5.519  pkg:cpan/MIME-tools@5.519
+MIME::Parser::FileInto             undef  pkg:cpan/MIME-tools@5.519
+MIME::Parser::FileUnder            undef  pkg:cpan/MIME-tools@5.519
+MIME::Parser::Filer                undef  pkg:cpan/MIME-tools@5.519
 MIME::Parser::InnerFile            5.428  pkg:cpan/MIME-tools@5.428
-MIME::Parser::Reader               undef  pkg:cpan/MIME-tools@5.518
-MIME::Parser::Results              undef  pkg:cpan/MIME-tools@5.518
+MIME::Parser::Reader               undef  pkg:cpan/MIME-tools@5.519
+MIME::Parser::Results              undef  pkg:cpan/MIME-tools@5.519
 MIME::QuotedPrint                   3.16  pkg:cpan/MIME-Base64@3.16
 MIME::QuotedPrint::Perl             1.00  pkg:cpan/MIME-Base64-Perl@1.00
 MIME::Signature                     0.22  pkg:cpan/MIME-Signature@0.22
 MIME::Structure                     0.07  pkg:cpan/MIME-Structure@0.07
 MIME::ToolUtils                    5.428  pkg:cpan/MIME-tools@5.428
-MIME::Tools                        5.518  pkg:cpan/MIME-tools@5.518
+MIME::Tools                        5.519  pkg:cpan/MIME-tools@5.519
 MIME::Type                          2.30  pkg:cpan/MIME-Types@2.30
 MIME::Type::FileName                 1.0  pkg:cpan/MIME-Type-FileName@1.0
 MIME::Types                         2.30  pkg:cpan/MIME-Types@2.30
 MIME::Visitor                      0.007  pkg:cpan/MIME-BodyMunger@0.007
-MIME::WordDecoder                  undef  pkg:cpan/MIME-tools@5.518
-MIME::WordDecoder::ISO_8859        undef  pkg:cpan/MIME-tools@5.518
-MIME::WordDecoder::US_ASCII        undef  pkg:cpan/MIME-tools@5.518
-MIME::WordDecoder::UTF_8           undef  pkg:cpan/MIME-tools@5.518
-MIME::Words                        5.518  pkg:cpan/MIME-tools@5.518
+MIME::WordDecoder                  undef  pkg:cpan/MIME-tools@5.519
+MIME::WordDecoder::ISO_8859        undef  pkg:cpan/MIME-tools@5.519
+MIME::WordDecoder::US_ASCII        undef  pkg:cpan/MIME-tools@5.519
+MIME::WordDecoder::UTF_8           undef  pkg:cpan/MIME-tools@5.519
+MIME::Words                        5.519  pkg:cpan/MIME-tools@5.519
 MIO                                undef  pkg:cpan/pantheon@0.58
 MIO::CMD                           undef  pkg:cpan/pantheon@0.58
 MIO::SSH                           undef  pkg:cpan/pantheon@0.58
