@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 22 Sep 2026 20:43:44 GMT
+Last-Updated: Tue, 22 Sep 2026 23:56:19 GMT
 Line-Count: 261107
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -10647,18 +10647,18 @@ App::FuguVM::Proxy::Cache          0.002000  pkg:cpan/App-FuguVM@0.2.0
 App::FuguVM::QMP                   0.002000  pkg:cpan/App-FuguVM@0.2.0
 App::FuguVM::Remote                0.002000  pkg:cpan/App-FuguVM@0.2.0
 App::FuguVM::State                 0.002000  pkg:cpan/App-FuguVM@0.2.0
-App::FuguWeb                       0.006002  pkg:cpan/App-FuguWeb@0.6.2
-App::FuguWeb::CLI                  0.006002  pkg:cpan/App-FuguWeb@0.6.2
-App::FuguWeb::Check                0.006002  pkg:cpan/App-FuguWeb@0.6.2
-App::FuguWeb::Config               0.006002  pkg:cpan/App-FuguWeb@0.6.2
-App::FuguWeb::Config::Group        0.006002  pkg:cpan/App-FuguWeb@0.6.2
-App::FuguWeb::Index                0.006002  pkg:cpan/App-FuguWeb@0.6.2
-App::FuguWeb::Keys                 0.006002  pkg:cpan/App-FuguWeb@0.6.2
-App::FuguWeb::Manual               0.006002  pkg:cpan/App-FuguWeb@0.6.2
-App::FuguWeb::Page                 0.006002  pkg:cpan/App-FuguWeb@0.6.2
-App::FuguWeb::Render               0.006002  pkg:cpan/App-FuguWeb@0.6.2
-App::FuguWeb::Rotate               0.006002  pkg:cpan/App-FuguWeb@0.6.2
-App::FuguWeb::Site                 0.006002  pkg:cpan/App-FuguWeb@0.6.2
+App::FuguWeb                       0.007000  pkg:cpan/App-FuguWeb@0.7.0
+App::FuguWeb::CLI                  0.007000  pkg:cpan/App-FuguWeb@0.7.0
+App::FuguWeb::Check                0.007000  pkg:cpan/App-FuguWeb@0.7.0
+App::FuguWeb::Config               0.007000  pkg:cpan/App-FuguWeb@0.7.0
+App::FuguWeb::Config::Group        0.007000  pkg:cpan/App-FuguWeb@0.7.0
+App::FuguWeb::Index                0.007000  pkg:cpan/App-FuguWeb@0.7.0
+App::FuguWeb::Keys                 0.007000  pkg:cpan/App-FuguWeb@0.7.0
+App::FuguWeb::Manual               0.007000  pkg:cpan/App-FuguWeb@0.7.0
+App::FuguWeb::Page                 0.007000  pkg:cpan/App-FuguWeb@0.7.0
+App::FuguWeb::Render               0.007000  pkg:cpan/App-FuguWeb@0.7.0
+App::FuguWeb::Rotate               0.007000  pkg:cpan/App-FuguWeb@0.7.0
+App::FuguWeb::Site                 0.007000  pkg:cpan/App-FuguWeb@0.7.0
 App::FzfUtils                      0.004  pkg:cpan/App-FzfUtils@0.004
 App::GHGen                          0.11  pkg:cpan/App-GHGen@0.11
 App::GHGen::Analyzer                0.11  pkg:cpan/App-GHGen@0.11
@@ -62960,8 +62960,8 @@ DataWarehouse::Aggregate            0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::Dimension            0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::ETL                  0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::Fact                 0.04  pkg:cpan/DataWarehouse@0.04
-Database::Abstraction               0.44  pkg:cpan/Database-Abstraction@0.44
-Database::Abstraction::Query        0.44  pkg:cpan/Database-Abstraction@0.44
+Database::Abstraction               0.45  pkg:cpan/Database-Abstraction@0.45
+Database::Abstraction::Query        0.45  pkg:cpan/Database-Abstraction@0.45
 Database::Async                    0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Backoff           0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Backoff::Exponential 0.019  pkg:cpan/Database-Async@0.019
@@ -62991,7 +62991,7 @@ Database::BI::Model::DataSource    0.008  pkg:cpan/Database-BI@0.008.0
 Database::Cassandra::Client            1  pkg:cpan/Database-Cassandra-Client@1
 Database::DumpTruck                  1.2  pkg:cpan/Database-DumpTruck@1.2
 Database::Format::Text              1.03  pkg:cpan/Database-Format-Text@1.03
-Database::Join                     0.005  pkg:cpan/Database-Join@0.005.0
+Database::Join                     0.006  pkg:cpan/Database-Join@0.006.0
 Database::ManagedHandle            0.003  pkg:cpan/Database-ManagedHandle@0.003
 Database::Migrator                  0.14  pkg:cpan/Database-Migrator@0.14
 Database::Migrator::Core            0.14  pkg:cpan/Database-Migrator@0.14
@@ -122779,7 +122779,7 @@ MIDI::Praxis::Variation            0.0607  pkg:cpan/MIDI-Praxis-Variation@0.0607
 MIDI::Realtime                      0.01  pkg:cpan/MIDI-Realtime@0.01
 MIDI::RtController                 0.0808  pkg:cpan/MIDI-RtController@0.0808
 MIDI::RtController::Filter         0.0105  pkg:cpan/MIDI-RtController-Filter@0.0105
-MIDI::RtController::Filter::CC     0.1403  pkg:cpan/MIDI-RtController-Filter-CC@0.1403
+MIDI::RtController::Filter::CC     0.1404  pkg:cpan/MIDI-RtController-Filter-CC@0.1404
 MIDI::RtController::Filter::Drums  0.0402  pkg:cpan/MIDI-RtController-Filter-Drums@0.0402
 MIDI::RtController::Filter::Math   0.0503  pkg:cpan/MIDI-RtController-Filter-Tonal@0.0503
 MIDI::RtController::Filter::Tonal  0.0503  pkg:cpan/MIDI-RtController-Filter-Tonal@0.0503
@@ -191286,14 +191286,14 @@ Physics::Ballistics                 1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::External       1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::Internal       1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::Terminal       1.03  pkg:cpan/Physics-Ballistics@1.03
-Physics::Balls                      0.05  pkg:cpan/Physics-Balls@0.05
-Physics::Balls::Ball                0.05  pkg:cpan/Physics-Balls@0.05
-Physics::Balls::Engine              0.05  pkg:cpan/Physics-Balls@0.05
-Physics::Balls::Error               0.05  pkg:cpan/Physics-Balls@0.05
-Physics::Balls::Outcome             0.05  pkg:cpan/Physics-Balls@0.05
-Physics::Balls::Strike              0.05  pkg:cpan/Physics-Balls@0.05
-Physics::Balls::Table               0.05  pkg:cpan/Physics-Balls@0.05
-Physics::Balls::World               0.05  pkg:cpan/Physics-Balls@0.05
+Physics::Balls                      0.06  pkg:cpan/Physics-Balls@0.06
+Physics::Balls::Ball                0.06  pkg:cpan/Physics-Balls@0.06
+Physics::Balls::Engine              0.06  pkg:cpan/Physics-Balls@0.06
+Physics::Balls::Error               0.06  pkg:cpan/Physics-Balls@0.06
+Physics::Balls::Outcome             0.06  pkg:cpan/Physics-Balls@0.06
+Physics::Balls::Strike              0.06  pkg:cpan/Physics-Balls@0.06
+Physics::Balls::Table               0.06  pkg:cpan/Physics-Balls@0.06
+Physics::Balls::World               0.06  pkg:cpan/Physics-Balls@0.06
 Physics::CPD                        0.03  pkg:cpan/Physics-CPD@0.03
 Physics::CPD::Stellarator           0.03  pkg:cpan/Physics-CPD@0.03
 Physics::CVD                        0.03  pkg:cpan/Physics-CVD@0.03
