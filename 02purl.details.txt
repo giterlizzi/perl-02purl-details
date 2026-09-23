@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 23 Sep 2026 08:58:47 GMT
-Line-Count: 261134
+Last-Updated: Wed, 23 Sep 2026 14:35:10 GMT
+Line-Count: 261148
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5481,10 +5481,23 @@ Amazon::CloudFront::SignedURL       0.03  pkg:cpan/Amazon-CloudFront-SignedURL@0
 Amazon::CloudFront::Thin            0.05  pkg:cpan/Amazon-CloudFront-Thin@0.05
 Amazon::CreatorsAPI                 0.01  pkg:cpan/Amazon-CreatorsAPI@0.01
 Amazon::CreatorsAPI::Auth          undef  pkg:cpan/Amazon-CreatorsAPI@0.01
-Amazon::Credentials                v1.4.0  pkg:cpan/Amazon-Credentials@1.4.0
-Amazon::Credentials::HTTP::Response     0  pkg:cpan/Amazon-Credentials@1.4.0
-Amazon::Credentials::HTTP::UserAgent     0  pkg:cpan/Amazon-Credentials@1.4.0
+Amazon::Credentials                v2.0.1  pkg:cpan/Amazon-Credentials@2.0.1
+Amazon::Credentials::HTTP::Response     0  pkg:cpan/Amazon-Credentials@2.0.1
+Amazon::Credentials::HTTP::UserAgent     0  pkg:cpan/Amazon-Credentials@2.0.1
+Amazon::Credentials::Provider          0  pkg:cpan/Amazon-Credentials@2.0.1
+Amazon::Credentials::Provider::AssumeRole     0  pkg:cpan/Amazon-Credentials@2.0.1
+Amazon::Credentials::Provider::Config     0  pkg:cpan/Amazon-Credentials@2.0.1
+Amazon::Credentials::Provider::Container     0  pkg:cpan/Amazon-Credentials@2.0.1
+Amazon::Credentials::Provider::Env     0  pkg:cpan/Amazon-Credentials@2.0.1
+Amazon::Credentials::Provider::InstanceRole     0  pkg:cpan/Amazon-Credentials@2.0.1
+Amazon::Credentials::Provider::Process     0  pkg:cpan/Amazon-Credentials@2.0.1
+Amazon::Credentials::Provider::SSO     0  pkg:cpan/Amazon-Credentials@2.0.1
+Amazon::Credentials::Provider::WebIdentity     0  pkg:cpan/Amazon-Credentials@2.0.1
+Amazon::Credentials::Resolver::Profile     0  pkg:cpan/Amazon-Credentials@2.0.1
+Amazon::Credentials::Role::File        0  pkg:cpan/Amazon-Credentials@2.0.1
+Amazon::Credentials::Role::SSOCache     0  pkg:cpan/Amazon-Credentials@2.0.1
 Amazon::Credentials::UnitTests         0  pkg:cpan/Amazon-Credentials@1.1.6
+Amazon::Credentials::Utils             0  pkg:cpan/Amazon-Credentials@2.0.1
 Amazon::Dash::Button                0.11  pkg:cpan/Amazon-Dash-Button@0.11
 Amazon::Dash::Button::Device        0.11  pkg:cpan/Amazon-Dash-Button@0.11
 Amazon::DynamoDB                    0.35  pkg:cpan/Amazon-DynamoDB@0.35
@@ -30981,7 +30994,7 @@ Business::IS::PIN                   0.06  pkg:cpan/Business-IS-PIN@0.06
 Business::ISBN                     3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN10                   3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN13                   3.014  pkg:cpan/Business-ISBN@3.014
-Business::ISBN::Data               20260912.001  pkg:cpan/Business-ISBN-Data@20260912.001
+Business::ISBN::Data               20260923.001  pkg:cpan/Business-ISBN-Data@20260923.001
 Business::ISIN                      0.20  pkg:cpan/Business-ISIN@0.20?ext=tgz
 Business::ISMN                     1.205  pkg:cpan/Business-ISMN@1.205
 Business::ISMN::Data               1.205  pkg:cpan/Business-ISMN@1.205
@@ -33706,7 +33719,7 @@ CPAN::02Packages::Search           v1.0.0  pkg:cpan/CPAN-02Packages-Search@v1.0.
 CPAN::API::BuildPL                 0.002  pkg:cpan/CPAN-API-BuildPL@0.002
 CPAN::Admin                        5.501  pkg:cpan/CPAN@2.41
 CPAN::Audit                        20260622.001  pkg:cpan/CPAN-Audit@20260622.001
-CPAN::Audit::DB                    20260920.003  pkg:cpan/CPANSA-DB@20260920.003
+CPAN::Audit::DB                    20260923.001  pkg:cpan/CPANSA-DB@20260923.001
 CPAN::Audit::Discover              1.001  pkg:cpan/CPAN-Audit@20260622.001
 CPAN::Audit::Discover::Cpanfile    1.001  pkg:cpan/CPAN-Audit@20260622.001
 CPAN::Audit::Discover::CpanfileSnapshot 1.001  pkg:cpan/CPAN-Audit@20260622.001
@@ -34481,7 +34494,7 @@ CPANPLUS::YACSmoke::ReAssemble      1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::SortVers        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::locallib        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::inc                      undef  pkg:cpan/CPANPLUS@0.84
-CPANSA::DB                         20260920.003  pkg:cpan/CPANSA-DB@20260920.003
+CPANSA::DB                         20260923.001  pkg:cpan/CPANSA-DB@20260923.001
 CPANSEC::Admin                     0.001  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command            undef  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command::Amend     undef  pkg:cpan/CPANSec-Admin@0.001
@@ -101600,12 +101613,13 @@ HTMLBase                           undef  pkg:cpan/HTML-Seamstress@6.112830
 HTMLElements                       undef  pkg:cpan/Mozilla-DOM@0.23
 HTMLTMPL                            1.34  pkg:cpan/HTMLTMPL@1.34
 HTTP::API::Client                   1.26  pkg:cpan/HTTP-API-Client@1.26
-HTTP::API::Core                     1.02  pkg:cpan/HTTP-API-Core@1.02
-HTTP::API::Core::Auth              undef  pkg:cpan/HTTP-API-Core@1.02
-HTTP::API::Core::Error             undef  pkg:cpan/HTTP-API-Core@1.02
-HTTP::API::Core::Pagination        undef  pkg:cpan/HTTP-API-Core@1.02
-HTTP::API::Core::RateLimit         undef  pkg:cpan/HTTP-API-Core@1.02
-HTTP::API::Core::Response          undef  pkg:cpan/HTTP-API-Core@1.02
+HTTP::API::Core                     1.08  pkg:cpan/HTTP-API-Core@1.08
+HTTP::API::Core::Auth              undef  pkg:cpan/HTTP-API-Core@1.08
+HTTP::API::Core::Error             undef  pkg:cpan/HTTP-API-Core@1.08
+HTTP::API::Core::Form              undef  pkg:cpan/HTTP-API-Core@1.08
+HTTP::API::Core::Pagination        undef  pkg:cpan/HTTP-API-Core@1.08
+HTTP::API::Core::RateLimit         undef  pkg:cpan/HTTP-API-Core@1.08
+HTTP::API::Core::Response          undef  pkg:cpan/HTTP-API-Core@1.08
 HTTP::API::DataTypeMarker           1.26  pkg:cpan/HTTP-API-Client@1.26
 HTTP::Accept                        0.03  pkg:cpan/HTTP-Accept@0.03
 HTTP::AcceptCharset                 0.04  pkg:cpan/HTTP-AcceptCharset@0.04
