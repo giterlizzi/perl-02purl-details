@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 23 Sep 2026 03:07:00 GMT
-Line-Count: 261106
+Last-Updated: Wed, 23 Sep 2026 08:58:47 GMT
+Line-Count: 261134
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -10630,22 +10630,22 @@ App::FuguSeed::QR                  0.001000  pkg:cpan/App-FuguSeed@0.1.0
 App::FuguSeed::Sheet               0.001000  pkg:cpan/App-FuguSeed@0.1.0
 App::FuguSeed::Text                0.001000  pkg:cpan/App-FuguSeed@0.1.0
 App::FuguSeed::Words               0.001000  pkg:cpan/App-FuguSeed@0.1.0
-App::FuguVM                        0.002000  pkg:cpan/App-FuguVM@0.2.0
-App::FuguVM::Arch                  0.002000  pkg:cpan/App-FuguVM@0.2.0
-App::FuguVM::Autoinstall           0.002000  pkg:cpan/App-FuguVM@0.2.0
-App::FuguVM::CLI                   0.002000  pkg:cpan/App-FuguVM@0.2.0
-App::FuguVM::Config                0.002000  pkg:cpan/App-FuguVM@0.2.0
-App::FuguVM::Console               0.002000  pkg:cpan/App-FuguVM@0.2.0
-App::FuguVM::Disk                  0.002000  pkg:cpan/App-FuguVM@0.2.0
-App::FuguVM::DiskCache             0.002000  pkg:cpan/App-FuguVM@0.2.0
-App::FuguVM::Guest                 0.002000  pkg:cpan/App-FuguVM@0.2.0
-App::FuguVM::Miniroot              0.002000  pkg:cpan/App-FuguVM@0.2.0
-App::FuguVM::Mirror                0.002000  pkg:cpan/App-FuguVM@0.2.0
-App::FuguVM::Proxy                 0.002000  pkg:cpan/App-FuguVM@0.2.0
-App::FuguVM::Proxy::Cache          0.002000  pkg:cpan/App-FuguVM@0.2.0
-App::FuguVM::QMP                   0.002000  pkg:cpan/App-FuguVM@0.2.0
-App::FuguVM::Remote                0.002000  pkg:cpan/App-FuguVM@0.2.0
-App::FuguVM::State                 0.002000  pkg:cpan/App-FuguVM@0.2.0
+App::FuguVM                        0.003000  pkg:cpan/App-FuguVM@0.3.0
+App::FuguVM::Arch                  0.003000  pkg:cpan/App-FuguVM@0.3.0
+App::FuguVM::Autoinstall           0.003000  pkg:cpan/App-FuguVM@0.3.0
+App::FuguVM::CLI                   0.003000  pkg:cpan/App-FuguVM@0.3.0
+App::FuguVM::Config                0.003000  pkg:cpan/App-FuguVM@0.3.0
+App::FuguVM::Console               0.003000  pkg:cpan/App-FuguVM@0.3.0
+App::FuguVM::Disk                  0.003000  pkg:cpan/App-FuguVM@0.3.0
+App::FuguVM::DiskCache             0.003000  pkg:cpan/App-FuguVM@0.3.0
+App::FuguVM::Guest                 0.003000  pkg:cpan/App-FuguVM@0.3.0
+App::FuguVM::Miniroot              0.003000  pkg:cpan/App-FuguVM@0.3.0
+App::FuguVM::Mirror                0.003000  pkg:cpan/App-FuguVM@0.3.0
+App::FuguVM::Proxy                 0.003000  pkg:cpan/App-FuguVM@0.3.0
+App::FuguVM::Proxy::Cache          0.003000  pkg:cpan/App-FuguVM@0.3.0
+App::FuguVM::QMP                   0.003000  pkg:cpan/App-FuguVM@0.3.0
+App::FuguVM::Remote                0.003000  pkg:cpan/App-FuguVM@0.3.0
+App::FuguVM::State                 0.003000  pkg:cpan/App-FuguVM@0.3.0
 App::FuguWeb                       0.007000  pkg:cpan/App-FuguWeb@0.7.0
 App::FuguWeb::CLI                  0.007000  pkg:cpan/App-FuguWeb@0.7.0
 App::FuguWeb::Check                0.007000  pkg:cpan/App-FuguWeb@0.7.0
@@ -122778,7 +122778,7 @@ MIDI::Praxis::Variation            0.0607  pkg:cpan/MIDI-Praxis-Variation@0.0607
 MIDI::Realtime                      0.01  pkg:cpan/MIDI-Realtime@0.01
 MIDI::RtController                 0.0808  pkg:cpan/MIDI-RtController@0.0808
 MIDI::RtController::Filter         0.0105  pkg:cpan/MIDI-RtController-Filter@0.0105
-MIDI::RtController::Filter::CC     0.1404  pkg:cpan/MIDI-RtController-Filter-CC@0.1404
+MIDI::RtController::Filter::CC     0.1406  pkg:cpan/MIDI-RtController-Filter-CC@0.1406
 MIDI::RtController::Filter::Drums  0.0402  pkg:cpan/MIDI-RtController-Filter-Drums@0.0402
 MIDI::RtController::Filter::Math   0.0503  pkg:cpan/MIDI-RtController-Filter-Tonal@0.0503
 MIDI::RtController::Filter::Tonal  0.0503  pkg:cpan/MIDI-RtController-Filter-Tonal@0.0503
@@ -127935,7 +127935,8 @@ Math::SZaru::QuantileEstimator         0  pkg:cpan/Math-SZaru@0.01
 Math::SZaru::TopEstimator              0  pkg:cpan/Math-SZaru@0.01
 Math::SZaru::UniqueEstimator           0  pkg:cpan/Math-SZaru@0.01
 Math::ScientificNotation::Util     0.003  pkg:cpan/Math-ScientificNotation-Util@0.003
-Math::SegmentedEnvelope            undef  pkg:cpan/Math-SegmentedEnvelope@0.02
+Math::SegmentedEnvelope             0.03  pkg:cpan/Math-SegmentedEnvelope@0.03
+Math::SegmentedEnvelope::Static     0.03  pkg:cpan/Math-SegmentedEnvelope@0.03
 Math::Sequence                      1.00  pkg:cpan/Math-Sequence@1.00
 Math::Sequence::DeBruijn           2022021301  pkg:cpan/Math-Sequence-DeBruijn@2022021301
 Math::Series                        1.01  pkg:cpan/Math-Series@1.01
@@ -191285,14 +191286,15 @@ Physics::Ballistics                 1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::External       1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::Internal       1.03  pkg:cpan/Physics-Ballistics@1.03
 Physics::Ballistics::Terminal       1.03  pkg:cpan/Physics-Ballistics@1.03
-Physics::Balls                      0.06  pkg:cpan/Physics-Balls@0.06
-Physics::Balls::Ball                0.06  pkg:cpan/Physics-Balls@0.06
-Physics::Balls::Engine              0.06  pkg:cpan/Physics-Balls@0.06
-Physics::Balls::Error               0.06  pkg:cpan/Physics-Balls@0.06
-Physics::Balls::Outcome             0.06  pkg:cpan/Physics-Balls@0.06
-Physics::Balls::Strike              0.06  pkg:cpan/Physics-Balls@0.06
-Physics::Balls::Table               0.06  pkg:cpan/Physics-Balls@0.06
-Physics::Balls::World               0.06  pkg:cpan/Physics-Balls@0.06
+Physics::Balls                      0.07  pkg:cpan/Physics-Balls@0.07
+Physics::Balls::Ball                0.07  pkg:cpan/Physics-Balls@0.07
+Physics::Balls::Engine              0.07  pkg:cpan/Physics-Balls@0.07
+Physics::Balls::Error               0.07  pkg:cpan/Physics-Balls@0.07
+Physics::Balls::Outcome             0.07  pkg:cpan/Physics-Balls@0.07
+Physics::Balls::Strike              0.07  pkg:cpan/Physics-Balls@0.07
+Physics::Balls::Table               0.07  pkg:cpan/Physics-Balls@0.07
+Physics::Balls::Tick                0.07  pkg:cpan/Physics-Balls@0.07
+Physics::Balls::World               0.07  pkg:cpan/Physics-Balls@0.07
 Physics::CPD                        0.03  pkg:cpan/Physics-CPD@0.03
 Physics::CPD::Stellarator           0.03  pkg:cpan/Physics-CPD@0.03
 Physics::CVD                        0.03  pkg:cpan/Physics-CVD@0.03
@@ -238726,17 +238728,17 @@ VOMS::Lite::RSAKey                  0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::SAMLHelper              0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::VOMS                    0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::X509                    0.20  pkg:cpan/VOMS-Lite@0.20
-VPNDetection                       3.003001  pkg:cpan/VPNDetection@3.3.1
-VPNDetection::Bogon                3.003001  pkg:cpan/VPNDetection@3.3.1
-VPNDetection::Bogons               undef  pkg:cpan/VPNDetection@3.3.1
-VPNDetection::Cache                3.003001  pkg:cpan/VPNDetection@3.3.1
-VPNDetection::Database             3.003001  pkg:cpan/VPNDetection@3.3.1
-VPNDetection::Error                3.003001  pkg:cpan/VPNDetection@3.3.1
-VPNDetection::Oauth                3.003001  pkg:cpan/VPNDetection@3.3.1
-VPNDetection::OauthAccessDeniedError 3.003001  pkg:cpan/VPNDetection@3.3.1
-VPNDetection::OauthError           3.003001  pkg:cpan/VPNDetection@3.3.1
-VPNDetection::OauthExpiredTokenError 3.003001  pkg:cpan/VPNDetection@3.3.1
-VPNDetection::Result               3.003001  pkg:cpan/VPNDetection@3.3.1
+VPNDetection                       3.003002  pkg:cpan/VPNDetection@3.3.2
+VPNDetection::Bogon                3.003002  pkg:cpan/VPNDetection@3.3.2
+VPNDetection::Bogons               undef  pkg:cpan/VPNDetection@3.3.2
+VPNDetection::Cache                3.003002  pkg:cpan/VPNDetection@3.3.2
+VPNDetection::Database             3.003002  pkg:cpan/VPNDetection@3.3.2
+VPNDetection::Error                3.003002  pkg:cpan/VPNDetection@3.3.2
+VPNDetection::Oauth                3.003002  pkg:cpan/VPNDetection@3.3.2
+VPNDetection::OauthAccessDeniedError 3.003002  pkg:cpan/VPNDetection@3.3.2
+VPNDetection::OauthError           3.003002  pkg:cpan/VPNDetection@3.3.2
+VPNDetection::OauthExpiredTokenError 3.003002  pkg:cpan/VPNDetection@3.3.2
+VPNDetection::Result               3.003002  pkg:cpan/VPNDetection@3.3.2
 VR::API                             1.06  pkg:cpan/VR-API@1.06
 VR::API::Partner                    1.01  pkg:cpan/VR-API@1.05
 VRML                                1.10  pkg:cpan/VRML@1.10
@@ -248693,6 +248695,32 @@ WebService::Tumblr                 0.0010  pkg:cpan/WebService-Tumblr@0.0010
 WebService::Tumblr::Dispatch       undef  pkg:cpan/WebService-Tumblr@0.0010
 WebService::Tumblr::Result         undef  pkg:cpan/WebService-Tumblr@0.0010
 WebService::Tuya::IoT::API          0.03  pkg:cpan/WebService-Tuya-IoT-API@0.03
+WebService::TypeSafe                0.01  pkg:cpan/WebService-TypeSafe@0.01
+WebService::TypeSafe::APIError     undef  pkg:cpan/WebService-TypeSafe@0.01
+WebService::TypeSafe::Answer       undef  pkg:cpan/WebService-TypeSafe@0.01
+WebService::TypeSafe::AuthenticationError undef  pkg:cpan/WebService-TypeSafe@0.01
+WebService::TypeSafe::BadRequestError undef  pkg:cpan/WebService-TypeSafe@0.01
+WebService::TypeSafe::ChoiceAnswer undef  pkg:cpan/WebService-TypeSafe@0.01
+WebService::TypeSafe::Client       undef  pkg:cpan/WebService-TypeSafe@0.01
+WebService::TypeSafe::ConnectionError undef  pkg:cpan/WebService-TypeSafe@0.01
+WebService::TypeSafe::Error        undef  pkg:cpan/WebService-TypeSafe@0.01
+WebService::TypeSafe::InternalServerError undef  pkg:cpan/WebService-TypeSafe@0.01
+WebService::TypeSafe::Models       undef  pkg:cpan/WebService-TypeSafe@0.01
+WebService::TypeSafe::NotFoundError undef  pkg:cpan/WebService-TypeSafe@0.01
+WebService::TypeSafe::NoulAnswer   undef  pkg:cpan/WebService-TypeSafe@0.01
+WebService::TypeSafe::Object       undef  pkg:cpan/WebService-TypeSafe@0.01
+WebService::TypeSafe::PermissionDeniedError undef  pkg:cpan/WebService-TypeSafe@0.01
+WebService::TypeSafe::Question     undef  pkg:cpan/WebService-TypeSafe@0.01
+WebService::TypeSafe::Question::Choice undef  pkg:cpan/WebService-TypeSafe@0.01
+WebService::TypeSafe::Question::Noul undef  pkg:cpan/WebService-TypeSafe@0.01
+WebService::TypeSafe::Question::Score undef  pkg:cpan/WebService-TypeSafe@0.01
+WebService::TypeSafe::RateLimitError undef  pkg:cpan/WebService-TypeSafe@0.01
+WebService::TypeSafe::Response     undef  pkg:cpan/WebService-TypeSafe@0.01
+WebService::TypeSafe::ResponseValidationError undef  pkg:cpan/WebService-TypeSafe@0.01
+WebService::TypeSafe::RetryPolicy  undef  pkg:cpan/WebService-TypeSafe@0.01
+WebService::TypeSafe::ScoreAnswer  undef  pkg:cpan/WebService-TypeSafe@0.01
+WebService::TypeSafe::TimeoutError undef  pkg:cpan/WebService-TypeSafe@0.01
+WebService::TypeSafe::UnprocessableEntityError undef  pkg:cpan/WebService-TypeSafe@0.01
 WebService::UINames                 0.01  pkg:cpan/WebService-UINames@0.01
 WebService::UK::Parliament          1.01  pkg:cpan/WebService-UK-Parliament@1.01
 WebService::UK::Parliament::Base   undef  pkg:cpan/WebService-UK-Parliament@1.01
