@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 22 Sep 2026 23:56:19 GMT
-Line-Count: 261107
+Last-Updated: Wed, 23 Sep 2026 03:07:00 GMT
+Line-Count: 261106
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5169,7 +5169,6 @@ Alien::Xmake::Project::Util        v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xmake::Project::Xpack       v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xmake::Project::XpackComponent v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xrepo                       v1.0.1  pkg:cpan/Alien-Xrepo@v1.0.1
-Alien::Xrepo::Base                 v0.9.4  pkg:cpan/Alien-Xmake@v0.9.4
 Alien::Xrepo::Build                v1.0.1  pkg:cpan/Alien-Xrepo@v1.0.1
 Alien::Xrepo::Build::Dist          v1.0.1  pkg:cpan/Alien-Xrepo@v1.0.1
 Alien::Xrepo::Build::Recipe        v1.0.1  pkg:cpan/Alien-Xrepo@v1.0.1
@@ -62985,9 +62984,9 @@ Database::Async::SQLite            0.001  pkg:cpan/Database-Async-SQLite@0.001
 Database::Async::StatementHandle   0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Test              0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Transaction       0.019  pkg:cpan/Database-Async@0.019
-Database::BI                       0.008  pkg:cpan/Database-BI@0.008.0
-Database::BI::Controller::Dashboard 0.008  pkg:cpan/Database-BI@0.008.0
-Database::BI::Model::DataSource    0.008  pkg:cpan/Database-BI@0.008.0
+Database::BI                       0.008001  pkg:cpan/Database-BI@0.008.1
+Database::BI::Controller::Dashboard 0.008001  pkg:cpan/Database-BI@0.008.1
+Database::BI::Model::DataSource    0.008001  pkg:cpan/Database-BI@0.008.1
 Database::Cassandra::Client            1  pkg:cpan/Database-Cassandra-Client@1
 Database::DumpTruck                  1.2  pkg:cpan/Database-DumpTruck@1.2
 Database::Format::Text              1.03  pkg:cpan/Database-Format-Text@1.03
@@ -99305,7 +99304,7 @@ HTML::Content::TokeParserTokenizer undef  pkg:cpan/HTML-Content-Extractor@0.01
 HTML::ContentExtractor              0.03  pkg:cpan/HTML-ContentExtractor@0.03
 HTML::Copy                          1.31  pkg:cpan/HTML-Copy@1.31
 HTML::CruftText                     0.02  pkg:cpan/HTML-CruftText@0.02
-HTML::D3                            0.16  pkg:cpan/HTML-D3@0.16
+HTML::D3                            0.17  pkg:cpan/HTML-D3@0.17
 HTML::DBForm                        1.05  pkg:cpan/HTML-DBForm@1.05
 HTML::DBForm::Search                1.05  pkg:cpan/HTML-DBForm@1.05
 HTML::DBForm::Search::DropDown      1.05  pkg:cpan/HTML-DBForm@1.05
