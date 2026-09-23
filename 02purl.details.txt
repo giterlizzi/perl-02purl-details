@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 23 Sep 2026 14:35:10 GMT
-Line-Count: 261148
+Last-Updated: Wed, 23 Sep 2026 19:22:38 GMT
+Line-Count: 261191
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -4161,7 +4161,7 @@ AgentPushKit::Client::Role         undef  pkg:cpan/AgentPushKit-Client@0.1.0
 AgentPushKit::Client::Role::AutoDoc undef  pkg:cpan/AgentPushKit-Client@0.1.0
 Agni                               undef  pkg:cpan/PApp@2.4
 Agni::Callback                     undef  pkg:cpan/PApp@2.4
-Aion                                 2.3  pkg:cpan/Aion@2.3
+Aion                                 2.4  pkg:cpan/Aion@2.4
 Aion::Annotation                   v0.1.0  pkg:cpan/Aion-Annotation@0.1.0
 Aion::Annotation::ScannedEvent     undef  pkg:cpan/Aion-Annotation@0.1.0
 Aion::Carp                           1.6  pkg:cpan/Aion-Carp@1.6
@@ -4179,13 +4179,13 @@ Aion::Fs                           v0.2.4  pkg:cpan/Aion-Fs@0.2.4
 Aion::Fs::Cat                      undef  pkg:cpan/Aion-Fs@0.2.4
 Aion::Fs::Find                     undef  pkg:cpan/Aion-Fs@0.2.4
 Aion::Fs::Lay                      undef  pkg:cpan/Aion-Fs@0.2.4
-Aion::Meta::Feature                undef  pkg:cpan/Aion@2.3
-Aion::Meta::FeatureConstruct       undef  pkg:cpan/Aion@2.3
-Aion::Meta::RequiresAnyFunction    undef  pkg:cpan/Aion@2.3
-Aion::Meta::RequiresFeature        undef  pkg:cpan/Aion@2.3
-Aion::Meta::Subroutine             undef  pkg:cpan/Aion@2.3
-Aion::Meta::Util                   undef  pkg:cpan/Aion@2.3
-Aion::Pleroma                      undef  pkg:cpan/Aion@2.3
+Aion::Meta::Feature                undef  pkg:cpan/Aion@2.4
+Aion::Meta::FeatureConstruct       undef  pkg:cpan/Aion@2.4
+Aion::Meta::RequiresAnyFunction    undef  pkg:cpan/Aion@2.4
+Aion::Meta::RequiresFeature        undef  pkg:cpan/Aion@2.4
+Aion::Meta::Subroutine             undef  pkg:cpan/Aion@2.4
+Aion::Meta::Util                   undef  pkg:cpan/Aion@2.4
+Aion::Pleroma                      undef  pkg:cpan/Aion@2.4
 Aion::Query                        v0.0.6  pkg:cpan/Aion-Query@0.0.6
 Aion::Query::Transaction           undef  pkg:cpan/Aion-Query@0.0.6
 Aion::Refmark                      undef  pkg:cpan/Aion-Telemetry@0.0.1
@@ -4196,9 +4196,11 @@ Aion::Run::RunsRun                 undef  pkg:cpan/Aion-Run@0.0.3
 Aion::Spirit                       v0.0.1  pkg:cpan/Aion-Spirit@0.0.1
 Aion::Surf                         v0.0.3  pkg:cpan/Aion-Surf@0.0.3
 Aion::Telemetry                    v0.0.1  pkg:cpan/Aion-Telemetry@0.0.1
-Aion::Type                         undef  pkg:cpan/Aion@2.3
-Aion::Type::Lim                    undef  pkg:cpan/Aion@2.3
-Aion::Types                        undef  pkg:cpan/Aion@2.3
+Aion::Type                         undef  pkg:cpan/Aion@2.4
+Aion::Type::DNF                    undef  pkg:cpan/Aion@2.4
+Aion::Type::Espresso               undef  pkg:cpan/Aion@2.4
+Aion::Type::Lim                    undef  pkg:cpan/Aion@2.4
+Aion::Types                        undef  pkg:cpan/Aion@2.4
 Aitextcleaner::FormattingResidue   0.002000  pkg:cpan/Aitextcleaner-FormattingResidue@0.2.0
 Akado::Account                     1.002000  pkg:cpan/Akado-Account@1.2.0
 Akamai::Edgegrid                   1.000005  pkg:cpan/Akamai-Edgegrid@1.0.5
@@ -47338,6 +47340,18 @@ CloudHealth::API::RemoteError      undef  pkg:cpan/CloudHealth-API@0.01
 CloudHealth::API::ResultParser     undef  pkg:cpan/CloudHealth-API@0.01
 CloudHealth::CLI                    0.01  pkg:cpan/CloudHealth-CLI@0.01
 CloudPAN                           1.131740  pkg:cpan/CloudPAN@1.131740
+Cloudflare::API                    1.007  pkg:cpan/Cloudflare-API@1.007
+Cloudflare::API::Accounts          1.007  pkg:cpan/Cloudflare-API@1.007
+Cloudflare::API::D1                1.007  pkg:cpan/Cloudflare-API@1.007
+Cloudflare::API::Error             1.007  pkg:cpan/Cloudflare-API@1.007
+Cloudflare::API::Hyperdrive        1.007  pkg:cpan/Cloudflare-API@1.007
+Cloudflare::API::KV                1.007  pkg:cpan/Cloudflare-API@1.007
+Cloudflare::API::Queues            1.007  pkg:cpan/Cloudflare-API@1.007
+Cloudflare::API::R2                1.007  pkg:cpan/Cloudflare-API@1.007
+Cloudflare::API::Resource          1.007  pkg:cpan/Cloudflare-API@1.007
+Cloudflare::API::SecretsStore      1.007  pkg:cpan/Cloudflare-API@1.007
+Cloudflare::API::Workers           1.007  pkg:cpan/Cloudflare-API@1.007
+Cloudflare::API::Zones             1.007  pkg:cpan/Cloudflare-API@1.007
 Cloudinary                          0.16  pkg:cpan/Cloudinary@0.16
 Clownfish                          0.008000  pkg:cpan/Clownfish@0.8.0
 Clownfish::Blob                    0.008000  pkg:cpan/Clownfish@0.8.0
@@ -70496,7 +70510,7 @@ EV::ClickHouse::Streamer            0.06  pkg:cpan/EV-ClickHouse@0.06
 EV::ClickHouse::_DurGuard           0.06  pkg:cpan/EV-ClickHouse@0.06
 EV::Cron                           0.123600  pkg:cpan/EV-Cron@0.123600
 EV::Embed                          undef  pkg:cpan/App-SimpleBackuper@0.2.22
-EV::Etcd                            0.09  pkg:cpan/EV-Etcd@0.09
+EV::Etcd                            0.10  pkg:cpan/EV-Etcd@0.10
 EV::Fork                           undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Future                          0.07  pkg:cpan/EV-Future@0.07
 EV::Future::Handle                  0.07  pkg:cpan/EV-Future@0.07
@@ -84212,6 +84226,33 @@ Getopt::Module                     1.000000  pkg:cpan/Getopt-Module@v1.0.0
 Getopt::O2                         v1.1.0  pkg:cpan/Getopt-O2@v1.1.0
 Getopt::O2::Rule                   undef  pkg:cpan/Getopt-O2@v1.1.0
 Getopt::OO                          0.07  pkg:cpan/Getopt-OO@0.07
+Getopt::Pad                         0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::Completion             0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::Config                 0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::Config::Format         0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::Config::Format::Json   0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::Config::Format::Yaml   0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::Error                  0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::ExitRequest            0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::Help                   0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::Parser                 0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::Registry               0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::Result                 0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::Result::Generator      0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::Spec                   0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::Spec::Arg              0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::Spec::Config           0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::Spec::Level            0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::Spec::Option           0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::Type                   0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::Type::Dir              0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::Type::File             0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::Type::Float            0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::Type::Int              0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::Type::Number           0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::Type::Path             0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::Type::Url              0.02  pkg:cpan/Getopt-Pad@0.02
+Getopt::Pad::Util                   0.02  pkg:cpan/Getopt-Pad@0.02
 Getopt::Panjang                     0.04  pkg:cpan/Getopt-Panjang@0.04
 Getopt::Param                      0.000005  pkg:cpan/Getopt-Param@0.0.5
 Getopt::Param::Tiny                  0.5  pkg:cpan/Getopt-Param-Tiny@0.5
@@ -99317,7 +99358,7 @@ HTML::Content::TokeParserTokenizer undef  pkg:cpan/HTML-Content-Extractor@0.01
 HTML::ContentExtractor              0.03  pkg:cpan/HTML-ContentExtractor@0.03
 HTML::Copy                          1.31  pkg:cpan/HTML-Copy@1.31
 HTML::CruftText                     0.02  pkg:cpan/HTML-CruftText@0.02
-HTML::D3                            0.17  pkg:cpan/HTML-D3@0.17
+HTML::D3                            0.18  pkg:cpan/HTML-D3@0.18
 HTML::DBForm                        1.05  pkg:cpan/HTML-DBForm@1.05
 HTML::DBForm::Search                1.05  pkg:cpan/HTML-DBForm@1.05
 HTML::DBForm::Search::DropDown      1.05  pkg:cpan/HTML-DBForm@1.05
@@ -104183,7 +104224,7 @@ IO::Async::JSONStream               0.02  pkg:cpan/IO-Async-JSONStream@0.02
 IO::Async::Listener                0.805  pkg:cpan/IO-Async@0.805
 IO::Async::Loop                    0.805  pkg:cpan/IO-Async@0.805
 IO::Async::Loop::AnyEvent           0.04  pkg:cpan/IO-Async-Loop-AnyEvent@0.04
-IO::Async::Loop::EV                 0.04  pkg:cpan/IO-Async-Loop-EV@0.04
+IO::Async::Loop::EV                 0.05  pkg:cpan/IO-Async-Loop-EV@0.05
 IO::Async::Loop::Epoll              0.23  pkg:cpan/IO-Async-Loop-Epoll@0.23
 IO::Async::Loop::Epoll::FD         0.004  pkg:cpan/IO-Async-Loop-Epoll-FD@0.004
 IO::Async::Loop::Event              0.03  pkg:cpan/IO-Async-Loop-Event@0.03
@@ -133756,7 +133797,7 @@ Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
 Mojolicious::Plugin::BarefootJS    v0.37.1  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.37.1
 Mojolicious::Plugin::BarefootJS::DevReload v0.37.1  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.37.1
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
-Mojolicious::Plugin::BasicAuthPlus 0.011003  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@0.11.3
+Mojolicious::Plugin::BasicAuthPlus   1.0  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@1.0
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
 Mojolicious::Plugin::BcryptSecure   0.02  pkg:cpan/Mojolicious-Plugin-BcryptSecure@0.02
 Mojolicious::Plugin::Bcs           0.004  pkg:cpan/Mojolicious-Plugin-Bundle@0.004
@@ -150815,7 +150856,7 @@ Object::Pluggable::Pipeline         1.29  pkg:cpan/Object-Pluggable@1.29
 Object::Previous                   1.1012  pkg:cpan/Object-Previous@1.1012
 Object::Properties                 1.003  pkg:cpan/Object-Properties@1.003
 Object::Properties::Base           1.003  pkg:cpan/Object-Properties@1.003
-Object::Proto                       0.22  pkg:cpan/Object-Proto@0.22
+Object::Proto                       0.23  pkg:cpan/Object-Proto@0.23
 Object::Proto::Install::Files      undef  pkg:cpan/Object-Proto@0.19
 Object::Proto::Sugar                0.06  pkg:cpan/Object-Proto-Sugar@0.06
 Object::Prototype                   0.02  pkg:cpan/Object-Prototype@0.02
@@ -216921,6 +216962,8 @@ SpeedyFile                         undef  pkg:cpan/CGI-SpeedyCGI@2.02
 SpeedyMake                         undef  pkg:cpan/CGI-SpeedyCGI@2.02
 SpeedySlot                         undef  pkg:cpan/CGI-SpeedyCGI@2.02
 SpeedyStruct                       undef  pkg:cpan/CGI-SpeedyCGI@2.02
+SpellChecker                        1.00  pkg:cpan/SpellChecker@1.00
+SpellChecker::Detect                1.00  pkg:cpan/SpellChecker@1.00
 Spellunker                         v0.4.0  pkg:cpan/Spellunker@v0.4.0
 Spellunker::CLI                    undef  pkg:cpan/Spellunker@v0.4.0
 Spellunker::CLI::Perl              v0.3.2  pkg:cpan/Spellunker-Perl@v0.3.2
@@ -218103,7 +218146,7 @@ Stats::Fermi::FermiDiracStats      undef  pkg:cpan/Stats-Fermi@0.1.7
 Stats::Hawking                     0.001003  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HTRandom           undef  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HawkingTemperature undef  pkg:cpan/Stats-Hawking@0.1.3
-Stats::LikeR                       0.318  pkg:cpan/Stats-LikeR@0.318
+Stats::LikeR                       0.319  pkg:cpan/Stats-LikeR@0.319
 Stats::LikeR::Pred                  0.16  pkg:cpan/Stats-LikeR@0.16
 Stats::LikeR::col                   0.28  pkg:cpan/Stats-LikeR@0.28
 StatsView::Graph                    1.15  pkg:cpan/StatsView@1.4
