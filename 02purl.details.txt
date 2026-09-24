@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 24 Sep 2026 02:36:13 GMT
-Line-Count: 261219
+Last-Updated: Thu, 24 Sep 2026 08:54:36 GMT
+Line-Count: 261217
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -34059,7 +34059,7 @@ CPAN::Patches                       0.05  pkg:cpan/CPAN-Patches@0.05
 CPAN::Patches::Plugin::Debian       0.03  pkg:cpan/CPAN-Patches-Plugin-Debian@0.03
 CPAN::Patches::Plugin::Debian::SPc  0.03  pkg:cpan/CPAN-Patches-Plugin-Debian@0.03
 CPAN::Patches::SPc                  0.04  pkg:cpan/CPAN-Patches@0.05
-CPAN::Perl::Releases               5.20260820  pkg:cpan/CPAN-Perl-Releases@5.20260820
+CPAN::Perl::Releases               5.20260924  pkg:cpan/CPAN-Perl-Releases@5.20260924
 CPAN::Perl::Releases::MetaCPAN     v1.0.1  pkg:cpan/CPAN-Perl-Releases-MetaCPAN@v1.0.1
 CPAN::Plugin                        0.97  pkg:cpan/CPAN@2.41
 CPAN::Plugin::Specfile              0.02  pkg:cpan/CPAN@2.41
@@ -47340,18 +47340,19 @@ CloudHealth::API::RemoteError      undef  pkg:cpan/CloudHealth-API@0.01
 CloudHealth::API::ResultParser     undef  pkg:cpan/CloudHealth-API@0.01
 CloudHealth::CLI                    0.01  pkg:cpan/CloudHealth-CLI@0.01
 CloudPAN                           1.131740  pkg:cpan/CloudPAN@1.131740
-Cloudflare::API                    1.008  pkg:cpan/Cloudflare-API@1.008
-Cloudflare::API::Accounts          1.008  pkg:cpan/Cloudflare-API@1.008
-Cloudflare::API::D1                1.008  pkg:cpan/Cloudflare-API@1.008
-Cloudflare::API::Error             1.008  pkg:cpan/Cloudflare-API@1.008
-Cloudflare::API::Hyperdrive        1.008  pkg:cpan/Cloudflare-API@1.008
-Cloudflare::API::KV                1.008  pkg:cpan/Cloudflare-API@1.008
-Cloudflare::API::Queues            1.008  pkg:cpan/Cloudflare-API@1.008
-Cloudflare::API::R2                1.008  pkg:cpan/Cloudflare-API@1.008
-Cloudflare::API::Resource          1.008  pkg:cpan/Cloudflare-API@1.008
-Cloudflare::API::SecretsStore      1.008  pkg:cpan/Cloudflare-API@1.008
-Cloudflare::API::Workers           1.008  pkg:cpan/Cloudflare-API@1.008
-Cloudflare::API::Zones             1.008  pkg:cpan/Cloudflare-API@1.008
+Cloudflare::API                    1.010  pkg:cpan/Cloudflare-API@1.010
+Cloudflare::API::Accounts          1.010  pkg:cpan/Cloudflare-API@1.010
+Cloudflare::API::CLI::Completion   1.010  pkg:cpan/Cloudflare-API@1.010
+Cloudflare::API::D1                1.010  pkg:cpan/Cloudflare-API@1.010
+Cloudflare::API::Error             1.010  pkg:cpan/Cloudflare-API@1.010
+Cloudflare::API::Hyperdrive        1.010  pkg:cpan/Cloudflare-API@1.010
+Cloudflare::API::KV                1.010  pkg:cpan/Cloudflare-API@1.010
+Cloudflare::API::Queues            1.010  pkg:cpan/Cloudflare-API@1.010
+Cloudflare::API::R2                1.010  pkg:cpan/Cloudflare-API@1.010
+Cloudflare::API::Resource          1.010  pkg:cpan/Cloudflare-API@1.010
+Cloudflare::API::SecretsStore      1.010  pkg:cpan/Cloudflare-API@1.010
+Cloudflare::API::Workers           1.010  pkg:cpan/Cloudflare-API@1.010
+Cloudflare::API::Zones             1.010  pkg:cpan/Cloudflare-API@1.010
 Cloudinary                          0.16  pkg:cpan/Cloudinary@0.16
 Clownfish                          0.008000  pkg:cpan/Clownfish@0.8.0
 Clownfish::Blob                    0.008000  pkg:cpan/Clownfish@0.8.0
@@ -74908,18 +74909,18 @@ Fennec::Util                       undef  pkg:cpan/Fennec@2.018
 Fern                               undef  pkg:cpan/Fern@0.2
 Festival::Client                     1.0  pkg:cpan/Festival-Client@1.0
 Festival::Client::Async            0.0303  pkg:cpan/Festival-Client-Async@0.0303
-Fetch                               0.27  pkg:cpan/Fetch@0.27
-Fetch::CookieJar                    0.27  pkg:cpan/Fetch@0.27
-Fetch::Future                       0.27  pkg:cpan/Fetch@0.27
-Fetch::Headers                      0.27  pkg:cpan/Fetch@0.27
+Fetch                               0.28  pkg:cpan/Fetch@0.28
+Fetch::CookieJar                    0.28  pkg:cpan/Fetch@0.28
+Fetch::Future                       0.28  pkg:cpan/Fetch@0.28
+Fetch::Headers                      0.28  pkg:cpan/Fetch@0.28
 Fetch::Image                       1.000000  pkg:cpan/Fetch-Image@1.000000
-Fetch::Loop                         0.27  pkg:cpan/Fetch@0.27
-Fetch::Loop::AnyEvent               0.27  pkg:cpan/Fetch@0.27
-Fetch::Loop::Hyperman               0.27  pkg:cpan/Fetch@0.27
-Fetch::Loop::IOAsync                0.27  pkg:cpan/Fetch@0.27
-Fetch::Loop::Standalone             0.27  pkg:cpan/Fetch@0.27
-Fetch::Response                     0.27  pkg:cpan/Fetch@0.27
-Fetch::WebSocket                    0.27  pkg:cpan/Fetch@0.27
+Fetch::Loop                         0.28  pkg:cpan/Fetch@0.28
+Fetch::Loop::AnyEvent               0.28  pkg:cpan/Fetch@0.28
+Fetch::Loop::Hyperman               0.28  pkg:cpan/Fetch@0.28
+Fetch::Loop::IOAsync                0.28  pkg:cpan/Fetch@0.28
+Fetch::Loop::Standalone             0.28  pkg:cpan/Fetch@0.28
+Fetch::Response                     0.28  pkg:cpan/Fetch@0.28
+Fetch::WebSocket                    0.28  pkg:cpan/Fetch@0.28
 Fetcher                            undef  pkg:cpan/article_fetcher?ext=zip
 Fey                                 0.44  pkg:cpan/Fey@0.44
 Fey::Column                         0.44  pkg:cpan/Fey@0.44
@@ -103753,14 +103754,14 @@ Hyper::Developer::Model::Viewer    0.100  pkg:cpan/Hyper-Developer@0.07
 Hyper::Developer::Server           undef  pkg:cpan/Hyper-Developer@0.07
 HyperWave::CSP                     0.003001  pkg:cpan/HyperWave-CSP@0.03.1
 HyperWave::CSP::Message            undef  pkg:cpan/HyperWave-CSP@0.03.1
-Hyperman                            0.52  pkg:cpan/Hyperman@0.52
-Hyperman::Event::Epoll              0.52  pkg:cpan/Hyperman@0.52
-Hyperman::Event::IOUring            0.52  pkg:cpan/Hyperman@0.52
-Hyperman::Event::Kqueue             0.52  pkg:cpan/Hyperman@0.52
-Hyperman::Event::Poll               0.52  pkg:cpan/Hyperman@0.52
-Hyperman::Future                    0.52  pkg:cpan/Hyperman@0.52
-Hyperman::Loop                      0.52  pkg:cpan/Hyperman@0.52
-Hyperman::Writer                    0.52  pkg:cpan/Hyperman@0.52
+Hyperman                            0.53  pkg:cpan/Hyperman@0.53
+Hyperman::Event::Epoll              0.53  pkg:cpan/Hyperman@0.53
+Hyperman::Event::IOUring            0.53  pkg:cpan/Hyperman@0.53
+Hyperman::Event::Kqueue             0.53  pkg:cpan/Hyperman@0.53
+Hyperman::Event::Poll               0.53  pkg:cpan/Hyperman@0.53
+Hyperman::Future                    0.53  pkg:cpan/Hyperman@0.53
+Hyperman::Loop                      0.53  pkg:cpan/Hyperman@0.53
+Hyperman::Writer                    0.53  pkg:cpan/Hyperman@0.53
 Hyperscan                           0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Database                 0.04  pkg:cpan/Hyperscan@0.04
 Hyperscan::Matcher                  0.04  pkg:cpan/Hyperscan@0.04
@@ -106898,7 +106899,6 @@ IO::Socket::SSL::PublicSuffix      undef  pkg:cpan/IO-Socket-SSL@2.099
 IO::Socket::SSL::SSL_Context       2.099  pkg:cpan/IO-Socket-SSL@2.099
 IO::Socket::SSL::SSL_HANDLE        2.099  pkg:cpan/IO-Socket-SSL@2.099
 IO::Socket::SSL::SafeAccept          1.0  pkg:cpan/Net-Daemon-SSL@1.0
-IO::Socket::SSL::SelfCertificate    1.00  pkg:cpan/IO-Socket-SSL-SelfCertificate@1.00-upload
 IO::Socket::SSL::Session_Cache     2.099  pkg:cpan/IO-Socket-SSL@2.099
 IO::Socket::SSL::Trace             2.099  pkg:cpan/IO-Socket-SSL@2.099
 IO::Socket::SSL::Utils             2.015  pkg:cpan/IO-Socket-SSL@2.099
@@ -108817,13 +108817,13 @@ Internals                            1.1  pkg:cpan/Internals@1.1
 Internals::CountObjects             0.05  pkg:cpan/Internals-CountObjects@0.05
 Internals::DumpArenas               0.12  pkg:cpan/Internals-DumpArenas@0.12
 Internals::GraphArenas              0.01  pkg:cpan/Internals-GraphArenas@0.01
-InternetData                       1.006000  pkg:cpan/InternetData@1.6.0
-InternetData::Database             1.006000  pkg:cpan/InternetData@1.6.0
-InternetData::Error                1.006000  pkg:cpan/InternetData@1.6.0
-InternetData::Oauth                1.006000  pkg:cpan/InternetData@1.6.0
-InternetData::OauthAccessDeniedError 1.006000  pkg:cpan/InternetData@1.6.0
-InternetData::OauthError           1.006000  pkg:cpan/InternetData@1.6.0
-InternetData::OauthExpiredTokenError 1.006000  pkg:cpan/InternetData@1.6.0
+InternetData                       1.006001  pkg:cpan/InternetData@1.6.1
+InternetData::Database             1.006001  pkg:cpan/InternetData@1.6.1
+InternetData::Error                1.006001  pkg:cpan/InternetData@1.6.1
+InternetData::Oauth                1.006001  pkg:cpan/InternetData@1.6.1
+InternetData::OauthAccessDeniedError 1.006001  pkg:cpan/InternetData@1.6.1
+InternetData::OauthError           1.006001  pkg:cpan/InternetData@1.6.1
+InternetData::OauthExpiredTokenError 1.006001  pkg:cpan/InternetData@1.6.1
 Interpolation                       0.74  pkg:cpan/Interpolation@0.74
 Interpolation::A2A                  0.71  pkg:cpan/Interpolation@0.71
 Interpolation::A2S                  0.71  pkg:cpan/Interpolation@0.71
@@ -132098,12 +132098,12 @@ Module::Compile::Opt               undef  pkg:cpan/Module-Compile@0.38
 Module::Compile::Simple             0.24  pkg:cpan/Module-Compile-Simple@0.24
 Module::Compile::TT                undef  pkg:cpan/Module-Compile-TT@0.02
 Module::ConfigureRequires           0.03  pkg:cpan/Module-ConfigureRequires@0.03
-Module::CoreList                   5.20260820  pkg:cpan/Module-CoreList@5.20260820
+Module::CoreList                   5.20260924  pkg:cpan/Module-CoreList@5.20260924
 Module::CoreList::DBSchema          0.08  pkg:cpan/Module-CoreList-DBSchema@0.08
 Module::CoreList::List             0.001  pkg:cpan/Module-CoreList-List@0.001
 Module::CoreList::More              0.08  pkg:cpan/Module-CoreList-More@0.08
 Module::CoreList::TieHashDelta     5.20180120  pkg:cpan/Module-CoreList@5.20180120
-Module::CoreList::Utils            5.20260820  pkg:cpan/Module-CoreList@5.20260820
+Module::CoreList::Utils            5.20260924  pkg:cpan/Module-CoreList@5.20260924
 Module::Crypt                       0.06  pkg:cpan/Module-Crypt@0.06
 Module::CryptSource                 0.02  pkg:cpan/Module-CryptSource@0.02
 Module::Data                       0.013  pkg:cpan/Module-Data@0.013
@@ -157771,7 +157771,7 @@ Params::Sah                        0.073  pkg:cpan/Params-Sah@0.073
 Params::Signature                   0.05  pkg:cpan/Params-Signature@0.05
 Params::Signature::Multi            0.05  pkg:cpan/Params-Signature@0.05
 Params::Smart                       0.09  pkg:cpan/Params-Smart@0.09
-Params::SomeUtil                    1.11  pkg:cpan/Params-SomeUtil@1.11
+Params::SomeUtil                    1.12  pkg:cpan/Params-SomeUtil@1.12
 Params::Style                       0.06  pkg:cpan/Params-Style@0.06
 Params::Util                       1.102  pkg:cpan/Params-Util@1.102
 Params::Util::PP                   1.102  pkg:cpan/Params-Util@1.102
@@ -192089,7 +192089,7 @@ Plack::Handler::H2::Writer         undef  pkg:cpan/Plack-Handler-H2@0.0.5
 Plack::Handler::HTTP::Server::PSGI undef  pkg:cpan/Plack@1.0054
 Plack::Handler::HTTP::Server::Simple  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
 Plack::Handler::HTTP::Server::Simple::PSGIServer  0.16  pkg:cpan/HTTP-Server-Simple-PSGI@0.16
-Plack::Handler::Hyperman            0.52  pkg:cpan/Hyperman@0.52
+Plack::Handler::Hyperman            0.53  pkg:cpan/Hyperman@0.53
 Plack::Handler::Martian             0.08  pkg:cpan/Martian@0.08
 Plack::Handler::Message::Passing   undef  pkg:cpan/Message-Passing-PSGI@0.001
 Plack::Handler::Monoceros          undef  pkg:cpan/Monoceros@0.29
@@ -216990,8 +216990,6 @@ SpeedyFile                         undef  pkg:cpan/CGI-SpeedyCGI@2.02
 SpeedyMake                         undef  pkg:cpan/CGI-SpeedyCGI@2.02
 SpeedySlot                         undef  pkg:cpan/CGI-SpeedyCGI@2.02
 SpeedyStruct                       undef  pkg:cpan/CGI-SpeedyCGI@2.02
-SpellChecker                        1.00  pkg:cpan/SpellChecker@1.00
-SpellChecker::Detect                1.00  pkg:cpan/SpellChecker@1.00
 Spellunker                         v0.4.0  pkg:cpan/Spellunker@v0.4.0
 Spellunker::CLI                    undef  pkg:cpan/Spellunker@v0.4.0
 Spellunker::CLI::Perl              v0.3.2  pkg:cpan/Spellunker-Perl@v0.3.2
