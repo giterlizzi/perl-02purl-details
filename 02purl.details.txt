@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 23 Sep 2026 22:36:03 GMT
-Line-Count: 261191
+Last-Updated: Thu, 24 Sep 2026 02:36:13 GMT
+Line-Count: 261219
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -4748,8 +4748,8 @@ Algorithm::TSort::Guard             0.05  pkg:cpan/Algorithm-TSort@0.05
 Algorithm::TicketClusterer          1.01  pkg:cpan/Algorithm-TicketClusterer@1.01
 Algorithm::Time::ToNumber          0.001001  pkg:cpan/Algorithm-Time-ToNumber@0.1.1
 Algorithm::TimelinePacking          0.01  pkg:cpan/Algorithm-TimelinePacking@0.01
-Algorithm::ToNumberMunger          0.000001  pkg:cpan/Algorithm-ToNumberMunger@0.0.1
-Algorithm::ToNumberMunger::Plan    0.000001  pkg:cpan/Algorithm-ToNumberMunger@0.0.1
+Algorithm::ToNumberMunger          0.001000  pkg:cpan/Algorithm-ToNumberMunger@0.1.0
+Algorithm::ToNumberMunger::Plan    0.001000  pkg:cpan/Algorithm-ToNumberMunger@0.1.0
 Algorithm::TokenBucket              0.38  pkg:cpan/Algorithm-TokenBucket@0.38
 Algorithm::Toy::HashSC              0.02  pkg:cpan/Algorithm-Toy-HashSC@0.02
 Algorithm::TravelingSalesman::BitonicTour  0.05  pkg:cpan/Algorithm-TravelingSalesman-BitonicTour@0.05
@@ -47340,18 +47340,18 @@ CloudHealth::API::RemoteError      undef  pkg:cpan/CloudHealth-API@0.01
 CloudHealth::API::ResultParser     undef  pkg:cpan/CloudHealth-API@0.01
 CloudHealth::CLI                    0.01  pkg:cpan/CloudHealth-CLI@0.01
 CloudPAN                           1.131740  pkg:cpan/CloudPAN@1.131740
-Cloudflare::API                    1.007  pkg:cpan/Cloudflare-API@1.007
-Cloudflare::API::Accounts          1.007  pkg:cpan/Cloudflare-API@1.007
-Cloudflare::API::D1                1.007  pkg:cpan/Cloudflare-API@1.007
-Cloudflare::API::Error             1.007  pkg:cpan/Cloudflare-API@1.007
-Cloudflare::API::Hyperdrive        1.007  pkg:cpan/Cloudflare-API@1.007
-Cloudflare::API::KV                1.007  pkg:cpan/Cloudflare-API@1.007
-Cloudflare::API::Queues            1.007  pkg:cpan/Cloudflare-API@1.007
-Cloudflare::API::R2                1.007  pkg:cpan/Cloudflare-API@1.007
-Cloudflare::API::Resource          1.007  pkg:cpan/Cloudflare-API@1.007
-Cloudflare::API::SecretsStore      1.007  pkg:cpan/Cloudflare-API@1.007
-Cloudflare::API::Workers           1.007  pkg:cpan/Cloudflare-API@1.007
-Cloudflare::API::Zones             1.007  pkg:cpan/Cloudflare-API@1.007
+Cloudflare::API                    1.008  pkg:cpan/Cloudflare-API@1.008
+Cloudflare::API::Accounts          1.008  pkg:cpan/Cloudflare-API@1.008
+Cloudflare::API::D1                1.008  pkg:cpan/Cloudflare-API@1.008
+Cloudflare::API::Error             1.008  pkg:cpan/Cloudflare-API@1.008
+Cloudflare::API::Hyperdrive        1.008  pkg:cpan/Cloudflare-API@1.008
+Cloudflare::API::KV                1.008  pkg:cpan/Cloudflare-API@1.008
+Cloudflare::API::Queues            1.008  pkg:cpan/Cloudflare-API@1.008
+Cloudflare::API::R2                1.008  pkg:cpan/Cloudflare-API@1.008
+Cloudflare::API::Resource          1.008  pkg:cpan/Cloudflare-API@1.008
+Cloudflare::API::SecretsStore      1.008  pkg:cpan/Cloudflare-API@1.008
+Cloudflare::API::Workers           1.008  pkg:cpan/Cloudflare-API@1.008
+Cloudflare::API::Zones             1.008  pkg:cpan/Cloudflare-API@1.008
 Cloudinary                          0.16  pkg:cpan/Cloudinary@0.16
 Clownfish                          0.008000  pkg:cpan/Clownfish@0.8.0
 Clownfish::Blob                    0.008000  pkg:cpan/Clownfish@0.8.0
@@ -54239,7 +54239,7 @@ DBIx::POS::Template                0.067  pkg:cpan/DBIx-POS-Template@0.067
 DBIx::Pager                         0.02  pkg:cpan/DBIx-Pager@0.02
 DBIx::ParseDSN                     v0.9.3  pkg:cpan/DBIx-ParseDSN@v0.9.3
 DBIx::ParseDSN::Default            v0.9.3  pkg:cpan/DBIx-ParseDSN@v0.9.3
-DBIx::ParseError::MySQL            v1.0.6  pkg:cpan/DBIx-ParseError-MySQL@v1.0.6
+DBIx::ParseError::MySQL            v1.0.7  pkg:cpan/DBIx-ParseError-MySQL@v1.0.7
 DBIx::Password                       1.9  pkg:cpan/DBIx-Password@1.9
 DBIx::PasswordIniFile               2.00  pkg:cpan/DBIx-PasswordIniFile@2.00
 DBIx::Patcher                       0.04  pkg:cpan/DBIx-Patcher@0.04
@@ -63011,9 +63011,9 @@ Database::Async::SQLite            0.001  pkg:cpan/Database-Async-SQLite@0.001
 Database::Async::StatementHandle   0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Test              0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Transaction       0.019  pkg:cpan/Database-Async@0.019
-Database::BI                       0.008001  pkg:cpan/Database-BI@0.008.1
-Database::BI::Controller::Dashboard 0.008001  pkg:cpan/Database-BI@0.008.1
-Database::BI::Model::DataSource    0.008001  pkg:cpan/Database-BI@0.008.1
+Database::BI                       0.009  pkg:cpan/Database-BI@0.009.0
+Database::BI::Controller::Dashboard 0.009  pkg:cpan/Database-BI@0.009.0
+Database::BI::Model::DataSource    0.009  pkg:cpan/Database-BI@0.009.0
 Database::Cassandra::Client            1  pkg:cpan/Database-Cassandra-Client@1
 Database::DumpTruck                  1.2  pkg:cpan/Database-DumpTruck@1.2
 Database::Format::Text              1.03  pkg:cpan/Database-Format-Text@1.03
@@ -106898,6 +106898,7 @@ IO::Socket::SSL::PublicSuffix      undef  pkg:cpan/IO-Socket-SSL@2.099
 IO::Socket::SSL::SSL_Context       2.099  pkg:cpan/IO-Socket-SSL@2.099
 IO::Socket::SSL::SSL_HANDLE        2.099  pkg:cpan/IO-Socket-SSL@2.099
 IO::Socket::SSL::SafeAccept          1.0  pkg:cpan/Net-Daemon-SSL@1.0
+IO::Socket::SSL::SelfCertificate    1.00  pkg:cpan/IO-Socket-SSL-SelfCertificate@1.00-upload
 IO::Socket::SSL::Session_Cache     2.099  pkg:cpan/IO-Socket-SSL@2.099
 IO::Socket::SSL::Trace             2.099  pkg:cpan/IO-Socket-SSL@2.099
 IO::Socket::SSL::Utils             2.015  pkg:cpan/IO-Socket-SSL@2.099
@@ -117720,21 +117721,21 @@ Linux::Epoll                       0.019  pkg:cpan/Linux-Epoll@0.019
 Linux::Ethtool                      0.11  pkg:cpan/Linux-Ethtool@0.11
 Linux::Ethtool::Settings            0.11  pkg:cpan/Linux-Ethtool@0.11
 Linux::Ethtool::WOL                 0.11  pkg:cpan/Linux-Ethtool@0.11
-Linux::Event                       0.116  pkg:cpan/Linux-Event@0.116
-Linux::Event::Address              0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event                       0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::Address              0.117  pkg:cpan/Linux-Event@0.117
 Linux::Event::Backend              0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Backend::Epoll       0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Bench                0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Datagram             0.105  pkg:cpan/Linux-Event@0.105
-Linux::Event::Error                0.116  pkg:cpan/Linux-Event@0.116
-Linux::Event::Framer               0.116  pkg:cpan/Linux-Event@0.116
-Linux::Event::Framer::DecimalLength 0.116  pkg:cpan/Linux-Event@0.116
-Linux::Event::Framer::Delimiter    0.116  pkg:cpan/Linux-Event@0.116
-Linux::Event::Framer::Fixed        0.116  pkg:cpan/Linux-Event@0.116
-Linux::Event::Framer::LengthPrefix 0.116  pkg:cpan/Linux-Event@0.116
-Linux::Event::Framer::Netstring    0.116  pkg:cpan/Linux-Event@0.116
-Linux::Event::Framer::U32BE        0.116  pkg:cpan/Linux-Event@0.116
-Linux::Event::Framer::Varint       0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event::Error                0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::Framer               0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::Framer::DecimalLength 0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::Framer::Delimiter    0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::Framer::Fixed        0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::Framer::LengthPrefix 0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::Framer::Netstring    0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::Framer::U32BE        0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::Framer::Varint       0.117  pkg:cpan/Linux-Event@0.117
 Linux::Event::HTTP                 0.002  pkg:cpan/Linux-Event-HTTP@0.002
 Linux::Event::HTTP::Body::Stream   0.002  pkg:cpan/Linux-Event-HTTP@0.002
 Linux::Event::HTTP::Client         0.002  pkg:cpan/Linux-Event-HTTP@0.002
@@ -117745,20 +117746,23 @@ Linux::Event::HTTP::Response       0.002  pkg:cpan/Linux-Event-HTTP@0.002
 Linux::Event::HTTP::Server         0.002  pkg:cpan/Linux-Event-HTTP@0.002
 Linux::Event::HTTP::Server::Connection 0.002  pkg:cpan/Linux-Event-HTTP@0.002
 Linux::Event::HTTP::Transaction    0.002  pkg:cpan/Linux-Event-HTTP@0.002
-Linux::Event::IO                   0.116  pkg:cpan/Linux-Event@0.116
-Linux::Event::IO::Pipe             0.116  pkg:cpan/Linux-Event@0.116
-Linux::Event::IO::Sock             0.116  pkg:cpan/Linux-Event@0.116
-Linux::Event::IO::Sock::Dgram      0.116  pkg:cpan/Linux-Event@0.116
-Linux::Event::IO::Sock::Listener   0.116  pkg:cpan/Linux-Event@0.116
-Linux::Event::IO::Sock::Stream     0.116  pkg:cpan/Linux-Event@0.116
-Linux::Event::IO::TTY              0.116  pkg:cpan/Linux-Event@0.116
-Linux::Event::Kernel               0.116  pkg:cpan/Linux-Event@0.116
-Linux::Event::Kernel::Event        0.116  pkg:cpan/Linux-Event@0.116
-Linux::Event::Kernel::Process      0.116  pkg:cpan/Linux-Event@0.116
-Linux::Event::Kernel::Signal       0.116  pkg:cpan/Linux-Event@0.116
-Linux::Event::Kernel::Timer        0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event::IO                   0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::IO::Pipe             0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::IO::Sock             0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::IO::Sock::Dgram      0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::IO::Sock::Listener   0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::IO::Sock::Stream     0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::IO::TTY              0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::Kernel               0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::Kernel::Event        0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::Kernel::Inotify      0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::Kernel::Inotify::Event 0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::Kernel::Inotify::Watch 0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::Kernel::Process      0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::Kernel::Signal       0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::Kernel::Timer        0.117  pkg:cpan/Linux-Event@0.117
 Linux::Event::Listener             0.105  pkg:cpan/Linux-Event@0.105
-Linux::Event::Loop                 0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event::Loop                 0.117  pkg:cpan/Linux-Event@0.117
 Linux::Event::Operation            0.010  pkg:cpan/Linux-Event@0.010
 Linux::Event::Pid                  0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Pid::Subscription    0.012  pkg:cpan/Linux-Event@0.012
@@ -117774,7 +117778,7 @@ Linux::Event::Scheduler            0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Signal               0.105  pkg:cpan/Linux-Event@0.105
 Linux::Event::Signal::Subscription 0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Stream               0.105  pkg:cpan/Linux-Event@0.105
-Linux::Event::TLS                  0.116  pkg:cpan/Linux-Event@0.116
+Linux::Event::TLS                  0.117  pkg:cpan/Linux-Event@0.117
 Linux::Event::Timer                0.105  pkg:cpan/Linux-Event@0.105
 Linux::Event::Wakeup               0.105  pkg:cpan/Linux-Event@0.105
 Linux::Event::Watcher              0.012  pkg:cpan/Linux-Event@0.012
@@ -152012,6 +152016,8 @@ OpenTelemetry::Instrumentation     0.037  pkg:cpan/OpenTelemetry@0.037
 OpenTelemetry::Instrumentation::DBI 0.037  pkg:cpan/OpenTelemetry@0.037
 OpenTelemetry::Instrumentation::HTTP::Tiny 0.037  pkg:cpan/OpenTelemetry@0.037
 OpenTelemetry::Instrumentation::LWP::UserAgent 0.037  pkg:cpan/OpenTelemetry@0.037
+OpenTelemetry::Instrumentation::Mango  0.01  pkg:cpan/OpenTelemetry-Instrumentation-Mango@0.01
+OpenTelemetry::Instrumentation::Mango::TestSuiteInjection  0.01  pkg:cpan/OpenTelemetry-Instrumentation-Mango@0.01
 OpenTelemetry::Instrumentation::Mojo::UserAgent  0.01  pkg:cpan/OpenTelemetry-Instrumentation-Mojo-UserAgent@0.01
 OpenTelemetry::Instrumentation::Mojo::UserAgent::TestSuiteInjection  0.01  pkg:cpan/OpenTelemetry-Instrumentation-Mojo-UserAgent@0.01
 OpenTelemetry::Instrumentation::caller 0.034  pkg:cpan/OpenTelemetry-Instrumentation-namespace@0.034
@@ -195681,6 +195687,28 @@ Protocol::IMAP::Envelope           0.004  pkg:cpan/Protocol-IMAP@0.004
 Protocol::IMAP::Fetch              0.004  pkg:cpan/Protocol-IMAP@0.004
 Protocol::IMAP::FetchResponseParser 0.004  pkg:cpan/Protocol-IMAP@0.004
 Protocol::IMAP::Server             0.004  pkg:cpan/Protocol-IMAP@0.004
+Protocol::IR::Code                   1.0  pkg:cpan/Protocol-IR-Code@1.0
+Protocol::IR::Converter              1.0  pkg:cpan/Protocol-IR-Code@1.0
+Protocol::IR::Format::CSV            1.0  pkg:cpan/Protocol-IR-Code@1.0
+Protocol::IR::Format::GC             1.0  pkg:cpan/Protocol-IR-Code@1.0
+Protocol::IR::Format::LIRC           1.0  pkg:cpan/Protocol-IR-Code@1.0
+Protocol::IR::Format::Mode2          1.0  pkg:cpan/Protocol-IR-Code@1.0
+Protocol::IR::Format::Pronto         1.0  pkg:cpan/Protocol-IR-Code@1.0
+Protocol::IR::Format::Tasmota        1.0  pkg:cpan/Protocol-IR-Code@1.0
+Protocol::IR::Format::Wig            1.0  pkg:cpan/Protocol-IR-Code@1.0
+Protocol::IR::Proto::JVC             1.0  pkg:cpan/Protocol-IR-Code@1.0
+Protocol::IR::Proto::JVC48           1.0  pkg:cpan/Protocol-IR-Code@1.0
+Protocol::IR::Proto::MWM             1.0  pkg:cpan/Protocol-IR-Code@1.0
+Protocol::IR::Proto::NEC             1.0  pkg:cpan/Protocol-IR-Code@1.0
+Protocol::IR::Proto::NEC2            1.0  pkg:cpan/Protocol-IR-Code@1.0
+Protocol::IR::Proto::NEC48           1.0  pkg:cpan/Protocol-IR-Code@1.0
+Protocol::IR::Proto::NEC482          1.0  pkg:cpan/Protocol-IR-Code@1.0
+Protocol::IR::Proto::NECX1           1.0  pkg:cpan/Protocol-IR-Code@1.0
+Protocol::IR::Proto::NECX2           1.0  pkg:cpan/Protocol-IR-Code@1.0
+Protocol::IR::Proto::Panasonic       1.0  pkg:cpan/Protocol-IR-Code@1.0
+Protocol::IR::Proto::SAMSUNG         1.0  pkg:cpan/Protocol-IR-Code@1.0
+Protocol::IR::Proto::SAMSUNG20       1.0  pkg:cpan/Protocol-IR-Code@1.0
+Protocol::IR::Proto::SAMSUNG36       1.0  pkg:cpan/Protocol-IR-Code@1.0
 Protocol::IRC                       0.13  pkg:cpan/Protocol-IRC@0.13
 Protocol::IRC::Client               0.13  pkg:cpan/Protocol-IRC@0.13
 Protocol::IRC::Message              0.13  pkg:cpan/Protocol-IRC@0.13
