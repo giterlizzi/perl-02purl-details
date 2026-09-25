@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 24 Sep 2026 22:54:24 GMT
-Line-Count: 261254
+Last-Updated: Fri, 25 Sep 2026 02:53:33 GMT
+Line-Count: 261255
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -51125,7 +51125,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.1  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::NotNode  v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::OrNode   v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.154
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.155
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curl::Impersonate                   0.02  pkg:cpan/Curl-Impersonate@0.02
 Curl::Impersonate::Multi           undef  pkg:cpan/Curl-Impersonate@0.02
@@ -77757,23 +77757,24 @@ Forest::Tree::Writer::ASCIIWithBranches  0.10  pkg:cpan/Forest@0.10
 Forest::Tree::Writer::SimpleASCII   0.10  pkg:cpan/Forest@0.10
 Forest::Tree::Writer::SimpleHTML    0.10  pkg:cpan/Forest@0.10
 Forex                                1.3  pkg:cpan/Forex@1.3
-ForgeOps::Tracker                  0.008000  pkg:cpan/ForgeOps-Tracker@0.8.0
-ForgeOps::Tracker::Client          undef  pkg:cpan/ForgeOps-Tracker@0.8.0
-ForgeOps::Tracker::Configuration   undef  pkg:cpan/ForgeOps-Tracker@0.8.0
-ForgeOps::Tracker::DeliveryQueue   undef  pkg:cpan/ForgeOps-Tracker@0.8.0
-ForgeOps::Tracker::EventBuilder    undef  pkg:cpan/ForgeOps-Tracker@0.8.0
-ForgeOps::Tracker::HistogramBucketer undef  pkg:cpan/ForgeOps-Tracker@0.8.0
-ForgeOps::Tracker::Integrations::Dancer2 undef  pkg:cpan/ForgeOps-Tracker@0.8.0
-ForgeOps::Tracker::Integrations::Dancer2Performance undef  pkg:cpan/ForgeOps-Tracker@0.8.0
-ForgeOps::Tracker::Integrations::PSGI undef  pkg:cpan/ForgeOps-Tracker@0.8.0
-ForgeOps::Tracker::Integrations::PSGIPerformance undef  pkg:cpan/ForgeOps-Tracker@0.8.0
-ForgeOps::Tracker::MetricBuffer    undef  pkg:cpan/ForgeOps-Tracker@0.8.0
-ForgeOps::Tracker::PerformanceFlusher undef  pkg:cpan/ForgeOps-Tracker@0.8.0
-ForgeOps::Tracker::PiiScrubber     undef  pkg:cpan/ForgeOps-Tracker@0.8.0
-ForgeOps::Tracker::Reporter        undef  pkg:cpan/ForgeOps-Tracker@0.8.0
-ForgeOps::Tracker::SpanBuffer      undef  pkg:cpan/ForgeOps-Tracker@0.8.0
-ForgeOps::Tracker::SpanDelivery    undef  pkg:cpan/ForgeOps-Tracker@0.8.0
-ForgeOps::Tracker::SqlStatement    undef  pkg:cpan/ForgeOps-Tracker@0.8.0
+ForgeOps::Tracker                  0.009000  pkg:cpan/ForgeOps-Tracker@0.9.0
+ForgeOps::Tracker::Client          undef  pkg:cpan/ForgeOps-Tracker@0.9.0
+ForgeOps::Tracker::Configuration   undef  pkg:cpan/ForgeOps-Tracker@0.9.0
+ForgeOps::Tracker::DeliveryQueue   undef  pkg:cpan/ForgeOps-Tracker@0.9.0
+ForgeOps::Tracker::EventBuilder    undef  pkg:cpan/ForgeOps-Tracker@0.9.0
+ForgeOps::Tracker::HistogramBucketer undef  pkg:cpan/ForgeOps-Tracker@0.9.0
+ForgeOps::Tracker::Integrations::Dancer2 undef  pkg:cpan/ForgeOps-Tracker@0.9.0
+ForgeOps::Tracker::Integrations::Dancer2Performance undef  pkg:cpan/ForgeOps-Tracker@0.9.0
+ForgeOps::Tracker::Integrations::PSGI undef  pkg:cpan/ForgeOps-Tracker@0.9.0
+ForgeOps::Tracker::Integrations::PSGIPerformance undef  pkg:cpan/ForgeOps-Tracker@0.9.0
+ForgeOps::Tracker::MetricBuffer    undef  pkg:cpan/ForgeOps-Tracker@0.9.0
+ForgeOps::Tracker::PerformanceFlusher undef  pkg:cpan/ForgeOps-Tracker@0.9.0
+ForgeOps::Tracker::PiiScrubber     undef  pkg:cpan/ForgeOps-Tracker@0.9.0
+ForgeOps::Tracker::Reporter        undef  pkg:cpan/ForgeOps-Tracker@0.9.0
+ForgeOps::Tracker::SpanBuffer      undef  pkg:cpan/ForgeOps-Tracker@0.9.0
+ForgeOps::Tracker::SpanDelivery    undef  pkg:cpan/ForgeOps-Tracker@0.9.0
+ForgeOps::Tracker::SqlStatement    undef  pkg:cpan/ForgeOps-Tracker@0.9.0
+ForgeOps::Tracker::TraceParent     undef  pkg:cpan/ForgeOps-Tracker@0.9.0
 Fork::Promise                      v0.1.0  pkg:cpan/Fork-Promise@0.1.0
 Fork::Utils                         0.07  pkg:cpan/Fork-Utils@0.08
 Forks::Queue                        0.15  pkg:cpan/Forks-Queue@0.15
@@ -100325,8 +100326,8 @@ HTML::Inspect::Util                 1.00  pkg:cpan/HTML-Inspect@1.00
 HTML::JQuery                       0.005  pkg:cpan/HTML-JQuery@0.005
 HTML::JQuery::Data                 undef  pkg:cpan/HTML-JQuery@0.005
 HTML::KTemplate                     1.33  pkg:cpan/HTML-KTemplate@1.33
-HTML::KhatGallery                  0.2405  pkg:cpan/khatgallery@0.2405
-HTML::KhatGallery::Core            0.2405  pkg:cpan/khatgallery@0.2405
+HTML::KhatGallery                   0.26  pkg:cpan/khatgallery@0.26
+HTML::KhatGallery::Core             0.26  pkg:cpan/khatgallery@0.26
 HTML::KhatGallery::Plugin::SortNaturally  0.02  pkg:cpan/HTML-KhatGallery-Plugin-SortNaturally@0.02
 HTML::LBI                           2.00  pkg:cpan/HTML-LBI@2.00
 HTML::Latemp::GenMakeHelpers       v0.12.0  pkg:cpan/HTML-Latemp-GenMakeHelpers@0.12.0
@@ -195712,28 +195713,28 @@ Protocol::IMAP::Envelope           0.004  pkg:cpan/Protocol-IMAP@0.004
 Protocol::IMAP::Fetch              0.004  pkg:cpan/Protocol-IMAP@0.004
 Protocol::IMAP::FetchResponseParser 0.004  pkg:cpan/Protocol-IMAP@0.004
 Protocol::IMAP::Server             0.004  pkg:cpan/Protocol-IMAP@0.004
-Protocol::IR::Code                   1.0  pkg:cpan/Protocol-IR-Code@1.0
-Protocol::IR::Converter              1.0  pkg:cpan/Protocol-IR-Code@1.0
-Protocol::IR::Format::CSV            1.0  pkg:cpan/Protocol-IR-Code@1.0
-Protocol::IR::Format::GC             1.0  pkg:cpan/Protocol-IR-Code@1.0
-Protocol::IR::Format::LIRC           1.0  pkg:cpan/Protocol-IR-Code@1.0
-Protocol::IR::Format::Mode2          1.0  pkg:cpan/Protocol-IR-Code@1.0
-Protocol::IR::Format::Pronto         1.0  pkg:cpan/Protocol-IR-Code@1.0
-Protocol::IR::Format::Tasmota        1.0  pkg:cpan/Protocol-IR-Code@1.0
-Protocol::IR::Format::Wig            1.0  pkg:cpan/Protocol-IR-Code@1.0
-Protocol::IR::Proto::JVC             1.0  pkg:cpan/Protocol-IR-Code@1.0
-Protocol::IR::Proto::JVC48           1.0  pkg:cpan/Protocol-IR-Code@1.0
-Protocol::IR::Proto::MWM             1.0  pkg:cpan/Protocol-IR-Code@1.0
-Protocol::IR::Proto::NEC             1.0  pkg:cpan/Protocol-IR-Code@1.0
-Protocol::IR::Proto::NEC2            1.0  pkg:cpan/Protocol-IR-Code@1.0
-Protocol::IR::Proto::NEC48           1.0  pkg:cpan/Protocol-IR-Code@1.0
-Protocol::IR::Proto::NEC482          1.0  pkg:cpan/Protocol-IR-Code@1.0
-Protocol::IR::Proto::NECX1           1.0  pkg:cpan/Protocol-IR-Code@1.0
-Protocol::IR::Proto::NECX2           1.0  pkg:cpan/Protocol-IR-Code@1.0
-Protocol::IR::Proto::Panasonic       1.0  pkg:cpan/Protocol-IR-Code@1.0
-Protocol::IR::Proto::SAMSUNG         1.0  pkg:cpan/Protocol-IR-Code@1.0
-Protocol::IR::Proto::SAMSUNG20       1.0  pkg:cpan/Protocol-IR-Code@1.0
-Protocol::IR::Proto::SAMSUNG36       1.0  pkg:cpan/Protocol-IR-Code@1.0
+Protocol::IR::Code                   1.1  pkg:cpan/Protocol-IR-Code@1.1
+Protocol::IR::Converter              1.1  pkg:cpan/Protocol-IR-Code@1.1
+Protocol::IR::Format::CSV            1.1  pkg:cpan/Protocol-IR-Code@1.1
+Protocol::IR::Format::GC             1.1  pkg:cpan/Protocol-IR-Code@1.1
+Protocol::IR::Format::LIRC           1.1  pkg:cpan/Protocol-IR-Code@1.1
+Protocol::IR::Format::Mode2          1.1  pkg:cpan/Protocol-IR-Code@1.1
+Protocol::IR::Format::Pronto         1.1  pkg:cpan/Protocol-IR-Code@1.1
+Protocol::IR::Format::Tasmota        1.1  pkg:cpan/Protocol-IR-Code@1.1
+Protocol::IR::Format::Wig            1.1  pkg:cpan/Protocol-IR-Code@1.1
+Protocol::IR::Proto::JVC             1.1  pkg:cpan/Protocol-IR-Code@1.1
+Protocol::IR::Proto::JVC48           1.1  pkg:cpan/Protocol-IR-Code@1.1
+Protocol::IR::Proto::MWM             1.1  pkg:cpan/Protocol-IR-Code@1.1
+Protocol::IR::Proto::NEC             1.1  pkg:cpan/Protocol-IR-Code@1.1
+Protocol::IR::Proto::NEC2            1.1  pkg:cpan/Protocol-IR-Code@1.1
+Protocol::IR::Proto::NEC48           1.1  pkg:cpan/Protocol-IR-Code@1.1
+Protocol::IR::Proto::NEC482          1.1  pkg:cpan/Protocol-IR-Code@1.1
+Protocol::IR::Proto::NECX1           1.1  pkg:cpan/Protocol-IR-Code@1.1
+Protocol::IR::Proto::NECX2           1.1  pkg:cpan/Protocol-IR-Code@1.1
+Protocol::IR::Proto::Panasonic       1.1  pkg:cpan/Protocol-IR-Code@1.1
+Protocol::IR::Proto::SAMSUNG         1.1  pkg:cpan/Protocol-IR-Code@1.1
+Protocol::IR::Proto::SAMSUNG20       1.1  pkg:cpan/Protocol-IR-Code@1.1
+Protocol::IR::Proto::SAMSUNG36       1.1  pkg:cpan/Protocol-IR-Code@1.1
 Protocol::IRC                       0.13  pkg:cpan/Protocol-IRC@0.13
 Protocol::IRC::Client               0.13  pkg:cpan/Protocol-IRC@0.13
 Protocol::IRC::Message              0.13  pkg:cpan/Protocol-IRC@0.13
