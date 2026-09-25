@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 25 Sep 2026 19:44:45 GMT
-Line-Count: 261271
+Last-Updated: Fri, 25 Sep 2026 22:59:40 GMT
+Line-Count: 261282
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -16627,7 +16627,7 @@ App::makebeamerinfo::GUI               0  pkg:cpan/App-makebeamerinfo@2.002
 App::makebeamerinfo::Transitions       0  pkg:cpan/App-makebeamerinfo@2.002
 App::makedist                      undef  pkg:cpan/App-makedist@0.026
 App::makedpkg                       0.05  pkg:cpan/App-makedpkg@0.05
-App::makefilepl2cpanfile            0.04  pkg:cpan/App-makefilepl2cpanfile@0.04
+App::makefilepl2cpanfile            0.05  pkg:cpan/App-makefilepl2cpanfile@0.05
 App::manwrap::pm                   0.006  pkg:cpan/App-manwrap-pm@0.006
 App::matrixpack                    0.0014  pkg:cpan/App-matrixpack@0.0014
 App::mbxilinx                       0.13  pkg:cpan/Module-Build-Xilinx@0.13
@@ -80216,6 +80216,12 @@ Game::WordBrain::Word              0.002002  pkg:cpan/Game-WordBrain@0.2.2
 Game::WordBrain::WordList          0.002002  pkg:cpan/Game-WordBrain@0.2.2
 Game::WordBrain::WordToFind        0.002002  pkg:cpan/Game-WordBrain@0.2.2
 Game::WordChainGame                  1.0  pkg:cpan/Game-WordChainGame@1.0
+Game::Xiangqi                       0.01  pkg:cpan/Game-Xiangqi@0.01
+Game::Xiangqi::Bot                  0.01  pkg:cpan/Game-Xiangqi@0.01
+Game::Xiangqi::Engine               0.01  pkg:cpan/Game-Xiangqi@0.01
+Game::Xiangqi::Error                0.01  pkg:cpan/Game-Xiangqi@0.01
+Game::Xiangqi::Notation             0.01  pkg:cpan/Game-Xiangqi@0.01
+Game::Xiangqi::Terminal             0.01  pkg:cpan/Game-Xiangqi@0.01
 Game::Xomb                          1.05  pkg:cpan/Game-Xomb@1.05
 GameClock                            1.2  pkg:cpan/Chess-GameClock-GameClock@1.0
 Games::2048                         0.10  pkg:cpan/Games-2048@0.10
@@ -109493,7 +109499,7 @@ JQ::Lite::Runtime                  undef  pkg:cpan/JQ-Lite@2.59
 JQ::Lite::Tokenizer                undef  pkg:cpan/JQ-Lite@2.59
 JQ::Lite::Util                     undef  pkg:cpan/JQ-Lite@2.59
 JQ::Lite::Value                    undef  pkg:cpan/JQ-Lite@2.59
-JQ::XS                              2.03  pkg:cpan/JQ-XS@2.03
+JQ::XS                              2.04  pkg:cpan/JQ-XS@2.04
 JQuery                              1.00  pkg:cpan/JQuery@1.06
 JQuery::Accordion                   1.00  pkg:cpan/JQuery@1.06
 JQuery::CSS                         1.00  pkg:cpan/JQuery@1.06
@@ -195728,28 +195734,29 @@ Protocol::IMAP::Envelope           0.004  pkg:cpan/Protocol-IMAP@0.004
 Protocol::IMAP::Fetch              0.004  pkg:cpan/Protocol-IMAP@0.004
 Protocol::IMAP::FetchResponseParser 0.004  pkg:cpan/Protocol-IMAP@0.004
 Protocol::IMAP::Server             0.004  pkg:cpan/Protocol-IMAP@0.004
-Protocol::IR::Code                   1.1  pkg:cpan/Protocol-IR-Code@1.1
-Protocol::IR::Converter              1.1  pkg:cpan/Protocol-IR-Code@1.1
-Protocol::IR::Format::CSV            1.1  pkg:cpan/Protocol-IR-Code@1.1
+Protocol::IR::Code                   1.2  pkg:cpan/Protocol-IR-Code@1.2
+Protocol::IR::Converter              1.2  pkg:cpan/Protocol-IR-Code@1.2
+Protocol::IR::Format::CSV            1.2  pkg:cpan/Protocol-IR-Code@1.2
 Protocol::IR::Format::GC             1.1  pkg:cpan/Protocol-IR-Code@1.1
-Protocol::IR::Format::LIRC           1.1  pkg:cpan/Protocol-IR-Code@1.1
-Protocol::IR::Format::Mode2          1.1  pkg:cpan/Protocol-IR-Code@1.1
-Protocol::IR::Format::Pronto         1.1  pkg:cpan/Protocol-IR-Code@1.1
-Protocol::IR::Format::Tasmota        1.1  pkg:cpan/Protocol-IR-Code@1.1
-Protocol::IR::Format::Wig            1.1  pkg:cpan/Protocol-IR-Code@1.1
-Protocol::IR::Proto::JVC             1.1  pkg:cpan/Protocol-IR-Code@1.1
-Protocol::IR::Proto::JVC48           1.1  pkg:cpan/Protocol-IR-Code@1.1
-Protocol::IR::Proto::MWM             1.1  pkg:cpan/Protocol-IR-Code@1.1
-Protocol::IR::Proto::NEC             1.1  pkg:cpan/Protocol-IR-Code@1.1
-Protocol::IR::Proto::NEC2            1.1  pkg:cpan/Protocol-IR-Code@1.1
-Protocol::IR::Proto::NEC48           1.1  pkg:cpan/Protocol-IR-Code@1.1
-Protocol::IR::Proto::NEC482          1.1  pkg:cpan/Protocol-IR-Code@1.1
-Protocol::IR::Proto::NECX1           1.1  pkg:cpan/Protocol-IR-Code@1.1
-Protocol::IR::Proto::NECX2           1.1  pkg:cpan/Protocol-IR-Code@1.1
-Protocol::IR::Proto::Panasonic       1.1  pkg:cpan/Protocol-IR-Code@1.1
-Protocol::IR::Proto::SAMSUNG         1.1  pkg:cpan/Protocol-IR-Code@1.1
-Protocol::IR::Proto::SAMSUNG20       1.1  pkg:cpan/Protocol-IR-Code@1.1
-Protocol::IR::Proto::SAMSUNG36       1.1  pkg:cpan/Protocol-IR-Code@1.1
+Protocol::IR::Format::JSON           1.2  pkg:cpan/Protocol-IR-Code@1.2
+Protocol::IR::Format::LIRC           1.2  pkg:cpan/Protocol-IR-Code@1.2
+Protocol::IR::Format::Mode2          1.2  pkg:cpan/Protocol-IR-Code@1.2
+Protocol::IR::Format::Pronto         1.2  pkg:cpan/Protocol-IR-Code@1.2
+Protocol::IR::Format::Tasmota        1.2  pkg:cpan/Protocol-IR-Code@1.2
+Protocol::IR::Format::Wig            1.2  pkg:cpan/Protocol-IR-Code@1.2
+Protocol::IR::Proto::JVC             1.2  pkg:cpan/Protocol-IR-Code@1.2
+Protocol::IR::Proto::JVC48           1.2  pkg:cpan/Protocol-IR-Code@1.2
+Protocol::IR::Proto::MWM             1.2  pkg:cpan/Protocol-IR-Code@1.2
+Protocol::IR::Proto::NEC             1.2  pkg:cpan/Protocol-IR-Code@1.2
+Protocol::IR::Proto::NEC2            1.2  pkg:cpan/Protocol-IR-Code@1.2
+Protocol::IR::Proto::NEC48           1.2  pkg:cpan/Protocol-IR-Code@1.2
+Protocol::IR::Proto::NEC482          1.2  pkg:cpan/Protocol-IR-Code@1.2
+Protocol::IR::Proto::NECX1           1.2  pkg:cpan/Protocol-IR-Code@1.2
+Protocol::IR::Proto::NECX2           1.2  pkg:cpan/Protocol-IR-Code@1.2
+Protocol::IR::Proto::Panasonic       1.2  pkg:cpan/Protocol-IR-Code@1.2
+Protocol::IR::Proto::SAMSUNG         1.2  pkg:cpan/Protocol-IR-Code@1.2
+Protocol::IR::Proto::SAMSUNG20       1.2  pkg:cpan/Protocol-IR-Code@1.2
+Protocol::IR::Proto::SAMSUNG36       1.2  pkg:cpan/Protocol-IR-Code@1.2
 Protocol::IRC                       0.13  pkg:cpan/Protocol-IRC@0.13
 Protocol::IRC::Client               0.13  pkg:cpan/Protocol-IRC@0.13
 Protocol::IRC::Message              0.13  pkg:cpan/Protocol-IRC@0.13
@@ -218008,6 +218015,10 @@ Statistics::GaussHelmertBlocks      0.05  pkg:cpan/Statistics-GaussHelmert@0.05
 Statistics::Gtest                   0.07  pkg:cpan/Statistics-Gtest@0.07
 Statistics::Hartigan                0.01  pkg:cpan/Statistics-Hartigan@0.01
 Statistics::Histogram                0.1  pkg:cpan/Statistics-Histogram@0.2
+Statistics::Kappa                   0.01  pkg:cpan/Statistics-Kappa@0.01
+Statistics::Kappa::Cohen            0.01  pkg:cpan/Statistics-Kappa@0.01
+Statistics::Kappa::Fleiss           0.01  pkg:cpan/Statistics-Kappa@0.01
+Statistics::Kappa::Weighted         0.01  pkg:cpan/Statistics-Kappa@0.01
 Statistics::KernelEstimation        0.05  pkg:cpan/Statistics-KernelEstimation@0.05
 Statistics::Krippendorff            0.06  pkg:cpan/Statistics-Krippendorff@0.06
 Statistics::KruskalWallis           0.01  pkg:cpan/Statistics-KruskalWallis@0.01
