@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 25 Sep 2026 14:54:12 GMT
-Line-Count: 261260
+Last-Updated: Fri, 25 Sep 2026 19:44:45 GMT
+Line-Count: 261271
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -45099,7 +45099,7 @@ Chef::REST::Client::sandboxes          1  pkg:cpan/Chef-REST-Client@1.2
 Chef::REST::Client::search             1  pkg:cpan/Chef-REST-Client@1.2
 Chef::Recipe                       undef  pkg:cpan/Chef@0.01
 Chef::Resource                     undef  pkg:cpan/Chef@0.01
-Chem::Structure::Parser            0.032  pkg:cpan/Chem-Structure-Parser@0.032
+Chem::Structure::Parser            0.033  pkg:cpan/Chem-Structure-Parser@0.033
 Chemistry::3DBuilder                0.10  pkg:cpan/Chemistry-3DBuilder@0.10
 Chemistry::Artificial::Graphics     0.01  pkg:cpan/Chemistry-Artificial-Graphics@0.01
 Chemistry::Artificial::SQL          0.01  pkg:cpan/Chemistry-Artificial-SQL@0.01
@@ -51125,7 +51125,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.1  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::NotNode  v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::OrNode   v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.155
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.156
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curl::Impersonate                   0.02  pkg:cpan/Curl-Impersonate@0.02
 Curl::Impersonate::Multi           undef  pkg:cpan/Curl-Impersonate@0.02
@@ -77758,26 +77758,26 @@ Forest::Tree::Writer::ASCIIWithBranches  0.10  pkg:cpan/Forest@0.10
 Forest::Tree::Writer::SimpleASCII   0.10  pkg:cpan/Forest@0.10
 Forest::Tree::Writer::SimpleHTML    0.10  pkg:cpan/Forest@0.10
 Forex                                1.3  pkg:cpan/Forex@1.3
-ForgeOps::Tracker                  0.010000  pkg:cpan/ForgeOps-Tracker@0.10.0
-ForgeOps::Tracker::ChangeDelivery  undef  pkg:cpan/ForgeOps-Tracker@0.10.0
-ForgeOps::Tracker::Changes         undef  pkg:cpan/ForgeOps-Tracker@0.10.0
-ForgeOps::Tracker::Client          undef  pkg:cpan/ForgeOps-Tracker@0.10.0
-ForgeOps::Tracker::Configuration   undef  pkg:cpan/ForgeOps-Tracker@0.10.0
-ForgeOps::Tracker::DeliveryQueue   undef  pkg:cpan/ForgeOps-Tracker@0.10.0
-ForgeOps::Tracker::EventBuilder    undef  pkg:cpan/ForgeOps-Tracker@0.10.0
-ForgeOps::Tracker::HistogramBucketer undef  pkg:cpan/ForgeOps-Tracker@0.10.0
-ForgeOps::Tracker::Integrations::Dancer2 undef  pkg:cpan/ForgeOps-Tracker@0.10.0
-ForgeOps::Tracker::Integrations::Dancer2Performance undef  pkg:cpan/ForgeOps-Tracker@0.10.0
-ForgeOps::Tracker::Integrations::PSGI undef  pkg:cpan/ForgeOps-Tracker@0.10.0
-ForgeOps::Tracker::Integrations::PSGIPerformance undef  pkg:cpan/ForgeOps-Tracker@0.10.0
-ForgeOps::Tracker::MetricBuffer    undef  pkg:cpan/ForgeOps-Tracker@0.10.0
-ForgeOps::Tracker::PerformanceFlusher undef  pkg:cpan/ForgeOps-Tracker@0.10.0
-ForgeOps::Tracker::PiiScrubber     undef  pkg:cpan/ForgeOps-Tracker@0.10.0
-ForgeOps::Tracker::Reporter        undef  pkg:cpan/ForgeOps-Tracker@0.10.0
-ForgeOps::Tracker::SpanBuffer      undef  pkg:cpan/ForgeOps-Tracker@0.10.0
-ForgeOps::Tracker::SpanDelivery    undef  pkg:cpan/ForgeOps-Tracker@0.10.0
-ForgeOps::Tracker::SqlStatement    undef  pkg:cpan/ForgeOps-Tracker@0.10.0
-ForgeOps::Tracker::TraceParent     undef  pkg:cpan/ForgeOps-Tracker@0.10.0
+ForgeOps::Tracker                  0.011000  pkg:cpan/ForgeOps-Tracker@0.11.0
+ForgeOps::Tracker::ChangeDelivery  undef  pkg:cpan/ForgeOps-Tracker@0.11.0
+ForgeOps::Tracker::Changes         undef  pkg:cpan/ForgeOps-Tracker@0.11.0
+ForgeOps::Tracker::Client          undef  pkg:cpan/ForgeOps-Tracker@0.11.0
+ForgeOps::Tracker::Configuration   undef  pkg:cpan/ForgeOps-Tracker@0.11.0
+ForgeOps::Tracker::DeliveryQueue   undef  pkg:cpan/ForgeOps-Tracker@0.11.0
+ForgeOps::Tracker::EventBuilder    undef  pkg:cpan/ForgeOps-Tracker@0.11.0
+ForgeOps::Tracker::HistogramBucketer undef  pkg:cpan/ForgeOps-Tracker@0.11.0
+ForgeOps::Tracker::Integrations::Dancer2 undef  pkg:cpan/ForgeOps-Tracker@0.11.0
+ForgeOps::Tracker::Integrations::Dancer2Performance undef  pkg:cpan/ForgeOps-Tracker@0.11.0
+ForgeOps::Tracker::Integrations::PSGI undef  pkg:cpan/ForgeOps-Tracker@0.11.0
+ForgeOps::Tracker::Integrations::PSGIPerformance undef  pkg:cpan/ForgeOps-Tracker@0.11.0
+ForgeOps::Tracker::MetricBuffer    undef  pkg:cpan/ForgeOps-Tracker@0.11.0
+ForgeOps::Tracker::PerformanceFlusher undef  pkg:cpan/ForgeOps-Tracker@0.11.0
+ForgeOps::Tracker::PiiScrubber     undef  pkg:cpan/ForgeOps-Tracker@0.11.0
+ForgeOps::Tracker::Reporter        undef  pkg:cpan/ForgeOps-Tracker@0.11.0
+ForgeOps::Tracker::SpanBuffer      undef  pkg:cpan/ForgeOps-Tracker@0.11.0
+ForgeOps::Tracker::SpanDelivery    undef  pkg:cpan/ForgeOps-Tracker@0.11.0
+ForgeOps::Tracker::SqlStatement    undef  pkg:cpan/ForgeOps-Tracker@0.11.0
+ForgeOps::Tracker::TraceParent     undef  pkg:cpan/ForgeOps-Tracker@0.11.0
 Fork::Promise                      v0.1.0  pkg:cpan/Fork-Promise@0.1.0
 Fork::Utils                         0.07  pkg:cpan/Fork-Utils@0.08
 Forks::Queue                        0.15  pkg:cpan/Forks-Queue@0.15
@@ -80004,6 +80004,17 @@ Game::Dominoes::Scoring             0.01  pkg:cpan/Game-Dominoes@0.01
 Game::Dominoes::Set                 0.01  pkg:cpan/Game-Dominoes@0.01
 Game::Dominoes::Terminal            0.01  pkg:cpan/Game-Dominoes@0.01
 Game::Dominoes::Tile                0.01  pkg:cpan/Game-Dominoes@0.01
+Game::Durak                         0.01  pkg:cpan/Game-Durak@0.01
+Game::Durak::Bot                    0.01  pkg:cpan/Game-Durak@0.01
+Game::Durak::Bout                   0.01  pkg:cpan/Game-Durak@0.01
+Game::Durak::Card                   0.01  pkg:cpan/Game-Durak@0.01
+Game::Durak::Deck                   0.01  pkg:cpan/Game-Durak@0.01
+Game::Durak::Error                  0.01  pkg:cpan/Game-Durak@0.01
+Game::Durak::Result                 0.01  pkg:cpan/Game-Durak@0.01
+Game::Durak::Rules                  0.01  pkg:cpan/Game-Durak@0.01
+Game::Durak::Search                 0.01  pkg:cpan/Game-Durak@0.01
+Game::Durak::Table                  0.01  pkg:cpan/Game-Durak@0.01
+Game::Durak::Terminal               0.01  pkg:cpan/Game-Durak@0.01
 Game::EnergyLoop                    0.01  pkg:cpan/Game-EnergyLoop@0.01
 Game::Entities                     0.101  pkg:cpan/Game-Entities@0.101
 Game::FaceGenerator                 1.04  pkg:cpan/Game-FaceGenerator@1.04
@@ -202372,7 +202383,7 @@ Robotics::Tecan::Genesis::Liha     undef  pkg:cpan/Robotics@0.23?ext=tar.bz2
 Robotics::Tecan::Genesis::Roma     undef  pkg:cpan/Robotics@0.23?ext=tar.bz2
 Robotics::Tecan::Genesis::Session  undef  pkg:cpan/Robotics@0.23?ext=tar.bz2
 Robotics::Tecan::Server             0.22  pkg:cpan/Robotics@0.23?ext=tar.bz2
-Robots::Validate                   v0.4.5  pkg:cpan/Robots-Validate@v0.4.5
+Robots::Validate                   v0.4.6  pkg:cpan/Robots-Validate@v0.4.6
 RocksDB                             0.05  pkg:cpan/RocksDB@0.05
 Rodney::XML::QuickStruct             1.1  pkg:cpan/Rodney-XML-QuickStruct@1.1
 RogersMine::App                    undef  pkg:cpan/RogersMine@0.1.12
@@ -218212,7 +218223,7 @@ Stats::Fermi::FermiDiracStats      undef  pkg:cpan/Stats-Fermi@0.1.7
 Stats::Hawking                     0.001003  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HTRandom           undef  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HawkingTemperature undef  pkg:cpan/Stats-Hawking@0.1.3
-Stats::LikeR                       0.319  pkg:cpan/Stats-LikeR@0.319
+Stats::LikeR                       0.320  pkg:cpan/Stats-LikeR@0.320
 Stats::LikeR::Pred                  0.16  pkg:cpan/Stats-LikeR@0.16
 Stats::LikeR::col                   0.28  pkg:cpan/Stats-LikeR@0.28
 StatsView::Graph                    1.15  pkg:cpan/StatsView@1.4
@@ -232043,7 +232054,7 @@ Tripletail::Validator::Filter::Wide undef  pkg:cpan/Tripletail@0.69
 Tripletail::Validator::Filter::ZipCode undef  pkg:cpan/Tripletail@0.69
 Tripletail::Validator::FilterFactory undef  pkg:cpan/Tripletail@0.69
 Tripletail::Value                  undef  pkg:cpan/Tripletail@0.69
-Trog::TOTP                         1.006  pkg:cpan/Trog-TOTP@1.006
+Trog::TOTP                         1.007  pkg:cpan/Trog-TOTP@1.007
 Tropo                               0.16  pkg:cpan/Tropo@0.16
 Tropo::RestAPI::Base                0.03  pkg:cpan/Tropo@0.16
 Tropo::RestAPI::Session             0.05  pkg:cpan/Tropo@0.16
