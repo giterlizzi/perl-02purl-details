@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 26 Sep 2026 02:57:06 GMT
-Line-Count: 261282
+Last-Updated: Sat, 26 Sep 2026 08:58:05 GMT
+Line-Count: 261312
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -1417,6 +1417,18 @@ ASP4x::Linker::Widget              undef  pkg:cpan/ASP4x-Linker@1.003
 ASP4x::Router                      0.022  pkg:cpan/ASP4x-Router@0.022
 ASP::IO                             1.07  pkg:cpan/ASP@1.07
 ASP::NextLink                       0.11  pkg:cpan/ASP-NextLink@0.11
+ASPEER::MakeMaker                  1.012  pkg:cpan/ASPEER-MakeMaker@1.012
+ASPEER::MakeMaker::MM              1.012  pkg:cpan/ASPEER-MakeMaker@1.012
+ASPEER::MakeMaker::MM::Constant    1.012  pkg:cpan/ASPEER-MakeMaker@1.012
+ASPEER::MakeMaker::MM::Import      1.012  pkg:cpan/ASPEER-MakeMaker@1.012
+ASPEER::MakeMaker::MM::Util        1.012  pkg:cpan/ASPEER-MakeMaker@1.012
+ASPEER::MakeMaker::Markdown::Pod   1.014  pkg:cpan/ASPEER-MakeMaker-Markdown-Pod@1.014
+ASPEER::MakeMaker::Markdown::Pod::Constant 1.013  pkg:cpan/ASPEER-MakeMaker-Markdown-Pod@1.014
+ASPEER::MakeMaker::Markdown::Pod::MM 1.013  pkg:cpan/ASPEER-MakeMaker-Markdown-Pod@1.014
+ASPEER::MakeMaker::Markdown::Pod::MM::Constant 1.013  pkg:cpan/ASPEER-MakeMaker-Markdown-Pod@1.014
+ASPEER::MakeMaker::Markdown::Publish 1.003  pkg:cpan/ASPEER-MakeMaker-Markdown-Publish@1.003
+ASPEER::MakeMaker::Markdown::Publish::MM 1.003  pkg:cpan/ASPEER-MakeMaker-Markdown-Publish@1.003
+ASPEER::MakeMaker::Markdown::Publish::MM::Constant 1.003  pkg:cpan/ASPEER-MakeMaker-Markdown-Publish@1.003
 AUBBC                               4.06  pkg:cpan/AUBBC@4.06
 AUDataCenter                       undef  pkg:cpan/ZZZ-SDK@0.0.2
 AVLTree                            0.001007  pkg:cpan/AVLTree@0.1.7
@@ -52898,25 +52910,25 @@ DBIx::Class::AccessorGroup         undef  pkg:cpan/DBIx-Class@0.082844
 DBIx::Class::Admin                 undef  pkg:cpan/DBIx-Class@0.082844
 DBIx::Class::AlwaysUpdate          0.001  pkg:cpan/DBIx-Class-AlwaysUpdate@0.001
 DBIx::Class::AsFdat                 0.03  pkg:cpan/DBIx-Class-AsFdat@0.03
-DBIx::Class::Async                 v1.1.0  pkg:cpan/DBIx-Class-Async@v1.1.0
+DBIx::Class::Async                 v1.2.0  pkg:cpan/DBIx-Class-Async@v1.2.0
 DBIx::Class::Async::Cursor          0.25  pkg:cpan/DBIx-Class-Async@0.25
-DBIx::Class::Async::Exception      v1.1.0  pkg:cpan/DBIx-Class-Async@v1.1.0
-DBIx::Class::Async::Exception::AmbiguousColumn v1.1.0  pkg:cpan/DBIx-Class-Async@v1.1.0
-DBIx::Class::Async::Exception::Factory v1.1.0  pkg:cpan/DBIx-Class-Async@v1.1.0
-DBIx::Class::Async::Exception::MissingColumn v1.1.0  pkg:cpan/DBIx-Class-Async@v1.1.0
-DBIx::Class::Async::Exception::NoSuchRelationship v1.1.0  pkg:cpan/DBIx-Class-Async@v1.1.0
-DBIx::Class::Async::Exception::NotInStorage v1.1.0  pkg:cpan/DBIx-Class-Async@v1.1.0
-DBIx::Class::Async::Exception::RelationshipAsColumn v1.1.0  pkg:cpan/DBIx-Class-Async@v1.1.0
+DBIx::Class::Async::Exception      v1.2.0  pkg:cpan/DBIx-Class-Async@v1.2.0
+DBIx::Class::Async::Exception::AmbiguousColumn v1.2.0  pkg:cpan/DBIx-Class-Async@v1.2.0
+DBIx::Class::Async::Exception::Factory v1.2.0  pkg:cpan/DBIx-Class-Async@v1.2.0
+DBIx::Class::Async::Exception::MissingColumn v1.2.0  pkg:cpan/DBIx-Class-Async@v1.2.0
+DBIx::Class::Async::Exception::NoSuchRelationship v1.2.0  pkg:cpan/DBIx-Class-Async@v1.2.0
+DBIx::Class::Async::Exception::NotInStorage v1.2.0  pkg:cpan/DBIx-Class-Async@v1.2.0
+DBIx::Class::Async::Exception::RelationshipAsColumn v1.2.0  pkg:cpan/DBIx-Class-Async@v1.2.0
 DBIx::Class::Async::ResultComponent     0  pkg:cpan/DBIx-Class-Async@0.49
-DBIx::Class::Async::ResultSet      v1.1.0  pkg:cpan/DBIx-Class-Async@v1.1.0
-DBIx::Class::Async::ResultSet::Pager v1.1.0  pkg:cpan/DBIx-Class-Async@v1.1.0
-DBIx::Class::Async::ResultSetColumn v1.1.0  pkg:cpan/DBIx-Class-Async@v1.1.0
-DBIx::Class::Async::Row            v1.1.0  pkg:cpan/DBIx-Class-Async@v1.1.0
-DBIx::Class::Async::Schema         v1.1.0  pkg:cpan/DBIx-Class-Async@v1.1.0
-DBIx::Class::Async::SelectNormaliser v1.1.0  pkg:cpan/DBIx-Class-Async@v1.1.0
-DBIx::Class::Async::Storage        v1.1.0  pkg:cpan/DBIx-Class-Async@v1.1.0
-DBIx::Class::Async::Storage::DBI   v1.1.0  pkg:cpan/DBIx-Class-Async@v1.1.0
-DBIx::Class::Async::Storage::DBI::Cursor v1.1.0  pkg:cpan/DBIx-Class-Async@v1.1.0
+DBIx::Class::Async::ResultSet      v1.2.0  pkg:cpan/DBIx-Class-Async@v1.2.0
+DBIx::Class::Async::ResultSet::Pager v1.2.0  pkg:cpan/DBIx-Class-Async@v1.2.0
+DBIx::Class::Async::ResultSetColumn v1.2.0  pkg:cpan/DBIx-Class-Async@v1.2.0
+DBIx::Class::Async::Row            v1.2.0  pkg:cpan/DBIx-Class-Async@v1.2.0
+DBIx::Class::Async::Schema         v1.2.0  pkg:cpan/DBIx-Class-Async@v1.2.0
+DBIx::Class::Async::SelectNormaliser v1.2.0  pkg:cpan/DBIx-Class-Async@v1.2.0
+DBIx::Class::Async::Storage        v1.2.0  pkg:cpan/DBIx-Class-Async@v1.2.0
+DBIx::Class::Async::Storage::DBI   v1.2.0  pkg:cpan/DBIx-Class-Async@v1.2.0
+DBIx::Class::Async::Storage::DBI::Cursor v1.2.0  pkg:cpan/DBIx-Class-Async@v1.2.0
 DBIx::Class::Async::TxnGuard        0.36  pkg:cpan/DBIx-Class-Async@0.36
 DBIx::Class::AuditAny              0.200200  pkg:cpan/DBIx-Class-AuditAny@0.200200
 DBIx::Class::AuditAny::AuditContext::Change undef  pkg:cpan/DBIx-Class-AuditAny@0.200200
@@ -69102,6 +69114,15 @@ DocSet::Source::POD                undef  pkg:cpan/DocSet@0.19
 DocSet::Source::Text               undef  pkg:cpan/DocSet@0.19
 DocSet::Template::Plugin::NavigateCache undef  pkg:cpan/DocSet@0.19
 DocSet::Util                       undef  pkg:cpan/DocSet@0.19
+Docbook::Convert                   1.012  pkg:cpan/Docbook-Convert@1.012
+Docbook::Convert::Base             1.012  pkg:cpan/Docbook-Convert@1.012
+Docbook::Convert::Common           1.012  pkg:cpan/Docbook-Convert@1.012
+Docbook::Convert::Constant         1.012  pkg:cpan/Docbook-Convert@1.012
+Docbook::Convert::Markdown         1.012  pkg:cpan/Docbook-Convert@1.012
+Docbook::Convert::Markdown::Util   1.012  pkg:cpan/Docbook-Convert@1.012
+Docbook::Convert::Pandoc           1.012  pkg:cpan/Docbook-Convert@1.012
+Docbook::Convert::Tag              1.012  pkg:cpan/Docbook-Convert@1.012
+Docbook::Convert::Util             1.012  pkg:cpan/Docbook-Convert@1.012
 Docbook::Table                      1.00  pkg:cpan/Docbook-Table@1.00
 Docclient                            1.0  pkg:cpan/Docserver@1.12
 Docker::CLI::Wrapper               v0.0.7  pkg:cpan/Docker-CLI-Wrapper@0.0.7
@@ -126049,8 +126070,17 @@ Markdown::Perl::Inlines             0.01  pkg:cpan/Markdown-Perl@1.14
 Markdown::Perl::Options             0.02  pkg:cpan/Markdown-Perl@1.14
 Markdown::Perl::Util                0.01  pkg:cpan/Markdown-Perl@1.14
 Markdown::Pod                      0.008  pkg:cpan/Markdown-Pod@0.008
+Markdown::Pod::Embed               1.013  pkg:cpan/Markdown-Pod-Embed@1.013
+Markdown::Pod::Embed::Constant     1.012  pkg:cpan/Markdown-Pod-Embed@1.013
+Markdown::Pod::Embed::Util         1.012  pkg:cpan/Markdown-Pod-Embed@1.013
 Markdown::Pod::Handler             0.008  pkg:cpan/Markdown-Pod@0.008
 Markdown::Pod::script              0.008  pkg:cpan/Markdown-Pod@0.008
+Markdown::Publish                  1.003  pkg:cpan/Markdown-Publish@1.003
+Markdown::Publish::Constant        1.003  pkg:cpan/Markdown-Publish@1.003
+Markdown::Publish::Docusaurus      1.003  pkg:cpan/Markdown-Publish@1.003
+Markdown::Publish::MkDocs          1.003  pkg:cpan/Markdown-Publish@1.003
+Markdown::Publish::Starlight       1.003  pkg:cpan/Markdown-Publish@1.003
+Markdown::Publish::VitePress       1.003  pkg:cpan/Markdown-Publish@1.003
 Markdown::Render                   v2.0.4  pkg:cpan/Markdown-Render@2.0.4
 Markdown::Simple                    0.22  pkg:cpan/Markdown-Simple@0.22
 Markdown::TOC                       0.01  pkg:cpan/Markdown-TOC@0.01
@@ -238873,17 +238903,17 @@ VOMS::Lite::RSAKey                  0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::SAMLHelper              0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::VOMS                    0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::X509                    0.20  pkg:cpan/VOMS-Lite@0.20
-VPNDetection                       3.003002  pkg:cpan/VPNDetection@3.3.2
-VPNDetection::Bogon                3.003002  pkg:cpan/VPNDetection@3.3.2
-VPNDetection::Bogons               undef  pkg:cpan/VPNDetection@3.3.2
-VPNDetection::Cache                3.003002  pkg:cpan/VPNDetection@3.3.2
-VPNDetection::Database             3.003002  pkg:cpan/VPNDetection@3.3.2
-VPNDetection::Error                3.003002  pkg:cpan/VPNDetection@3.3.2
-VPNDetection::Oauth                3.003002  pkg:cpan/VPNDetection@3.3.2
-VPNDetection::OauthAccessDeniedError 3.003002  pkg:cpan/VPNDetection@3.3.2
-VPNDetection::OauthError           3.003002  pkg:cpan/VPNDetection@3.3.2
-VPNDetection::OauthExpiredTokenError 3.003002  pkg:cpan/VPNDetection@3.3.2
-VPNDetection::Result               3.003002  pkg:cpan/VPNDetection@3.3.2
+VPNDetection                       3.003003  pkg:cpan/VPNDetection@3.3.3
+VPNDetection::Bogon                3.003003  pkg:cpan/VPNDetection@3.3.3
+VPNDetection::Bogons               undef  pkg:cpan/VPNDetection@3.3.3
+VPNDetection::Cache                3.003003  pkg:cpan/VPNDetection@3.3.3
+VPNDetection::Database             3.003003  pkg:cpan/VPNDetection@3.3.3
+VPNDetection::Error                3.003003  pkg:cpan/VPNDetection@3.3.3
+VPNDetection::Oauth                3.003003  pkg:cpan/VPNDetection@3.3.3
+VPNDetection::OauthAccessDeniedError 3.003003  pkg:cpan/VPNDetection@3.3.3
+VPNDetection::OauthError           3.003003  pkg:cpan/VPNDetection@3.3.3
+VPNDetection::OauthExpiredTokenError 3.003003  pkg:cpan/VPNDetection@3.3.3
+VPNDetection::Result               3.003003  pkg:cpan/VPNDetection@3.3.3
 VR::API                             1.06  pkg:cpan/VR-API@1.06
 VR::API::Partner                    1.01  pkg:cpan/VR-API@1.05
 VRML                                1.10  pkg:cpan/VRML@1.10
