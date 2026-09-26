@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 25 Sep 2026 22:59:40 GMT
+Last-Updated: Sat, 26 Sep 2026 02:57:06 GMT
 Line-Count: 261282
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -128236,7 +128236,7 @@ MathWorks::platformList            undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::product                 undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepItem          undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepList          undef  pkg:cpan/XML-Pastor@0.6.0
-Matplotlib::Simple                 0.314  pkg:cpan/Matplotlib-Simple@0.314
+Matplotlib::Simple                 0.315  pkg:cpan/Matplotlib-Simple@0.315
 Matrix::Simple                      1.04  pkg:cpan/Matrix-Simple@1.04
 Matts::Message                     undef  pkg:cpan/Matts-Message-Parser@1.0
 Matts::Message::Parser               1.0  pkg:cpan/Matts-Message-Parser@1.0
@@ -204799,22 +204799,22 @@ SPVM::HTTP::Tiny::Upload           undef  pkg:cpan/SPVM-HTTP-Tiny@0.012
 SPVM::HTTP::Tiny::Util             undef  pkg:cpan/SPVM-HTTP-Tiny@0.012
 SPVM::Hash                         undef  pkg:cpan/SPVM@0.990199
 SPVM::Hash::Entry                  undef  pkg:cpan/SPVM@0.990199
-SPVM::IO                           0.249  pkg:cpan/SPVM-IO@0.249
-SPVM::IO::Dir                      undef  pkg:cpan/SPVM-IO@0.249
-SPVM::IO::File                     undef  pkg:cpan/SPVM-IO@0.249
-SPVM::IO::Handle                   undef  pkg:cpan/SPVM-IO@0.249
+SPVM::IO                           0.250  pkg:cpan/SPVM-IO@0.250
+SPVM::IO::Dir                      undef  pkg:cpan/SPVM-IO@0.250
+SPVM::IO::File                     undef  pkg:cpan/SPVM-IO@0.250
+SPVM::IO::Handle                   undef  pkg:cpan/SPVM-IO@0.250
 SPVM::IO::Handle::Interface        undef  pkg:cpan/SPVM-IO@0.17
-SPVM::IO::Poll                     undef  pkg:cpan/SPVM-IO@0.249
-SPVM::IO::Select                   undef  pkg:cpan/SPVM-IO@0.249
-SPVM::IO::Socket                   undef  pkg:cpan/SPVM-IO@0.249
-SPVM::IO::Socket::INET             undef  pkg:cpan/SPVM-IO@0.249
-SPVM::IO::Socket::INET6            undef  pkg:cpan/SPVM-IO@0.249
-SPVM::IO::Socket::IP               undef  pkg:cpan/SPVM-IO@0.249
-SPVM::IO::Socket::IP::Import::IPv4 undef  pkg:cpan/SPVM-IO@0.249
-SPVM::IO::Socket::IP::Import::IPv6 undef  pkg:cpan/SPVM-IO@0.249
+SPVM::IO::Poll                     undef  pkg:cpan/SPVM-IO@0.250
+SPVM::IO::Select                   undef  pkg:cpan/SPVM-IO@0.250
+SPVM::IO::Socket                   undef  pkg:cpan/SPVM-IO@0.250
+SPVM::IO::Socket::INET             undef  pkg:cpan/SPVM-IO@0.250
+SPVM::IO::Socket::INET6            undef  pkg:cpan/SPVM-IO@0.250
+SPVM::IO::Socket::IP               undef  pkg:cpan/SPVM-IO@0.250
+SPVM::IO::Socket::IP::Import::IPv4 undef  pkg:cpan/SPVM-IO@0.250
+SPVM::IO::Socket::IP::Import::IPv6 undef  pkg:cpan/SPVM-IO@0.250
 SPVM::IO::Socket::Interface        undef  pkg:cpan/SPVM-IO@0.17
 SPVM::IO::Socket::SSL              0.019  pkg:cpan/SPVM-IO-Socket-SSL@0.019
-SPVM::IO::Socket::UNIX             undef  pkg:cpan/SPVM-IO@0.249
+SPVM::IO::Socket::UNIX             undef  pkg:cpan/SPVM-IO@0.250
 SPVM::IO::Util                     undef  pkg:cpan/SPVM-IO@0.17
 SPVM::Immutable::ByteList          undef  pkg:cpan/SPVM@0.990199
 SPVM::Immutable::DoubleList        undef  pkg:cpan/SPVM@0.990199
@@ -218015,10 +218015,10 @@ Statistics::GaussHelmertBlocks      0.05  pkg:cpan/Statistics-GaussHelmert@0.05
 Statistics::Gtest                   0.07  pkg:cpan/Statistics-Gtest@0.07
 Statistics::Hartigan                0.01  pkg:cpan/Statistics-Hartigan@0.01
 Statistics::Histogram                0.1  pkg:cpan/Statistics-Histogram@0.2
-Statistics::Kappa                   0.01  pkg:cpan/Statistics-Kappa@0.01
-Statistics::Kappa::Cohen            0.01  pkg:cpan/Statistics-Kappa@0.01
-Statistics::Kappa::Fleiss           0.01  pkg:cpan/Statistics-Kappa@0.01
-Statistics::Kappa::Weighted         0.01  pkg:cpan/Statistics-Kappa@0.01
+Statistics::Kappa                   0.02  pkg:cpan/Statistics-Kappa@0.02
+Statistics::Kappa::Cohen            0.02  pkg:cpan/Statistics-Kappa@0.02
+Statistics::Kappa::Fleiss           0.02  pkg:cpan/Statistics-Kappa@0.02
+Statistics::Kappa::Weighted         0.02  pkg:cpan/Statistics-Kappa@0.02
 Statistics::KernelEstimation        0.05  pkg:cpan/Statistics-KernelEstimation@0.05
 Statistics::Krippendorff            0.06  pkg:cpan/Statistics-Krippendorff@0.06
 Statistics::KruskalWallis           0.01  pkg:cpan/Statistics-KruskalWallis@0.01
