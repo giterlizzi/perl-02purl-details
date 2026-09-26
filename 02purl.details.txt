@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 26 Sep 2026 08:58:05 GMT
-Line-Count: 261312
+Last-Updated: Sat, 26 Sep 2026 13:59:28 GMT
+Line-Count: 261343
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5672,12 +5672,15 @@ Ambassador::API::V2::Error         0.001  pkg:cpan/Ambassador-API-V2@0.001
 Ambassador::API::V2::Result        0.001  pkg:cpan/Ambassador-API-V2@0.001
 Ambassador::API::V2::Role::HasJSON 0.001  pkg:cpan/Ambassador-API-V2@0.001
 Ambassador::API::V2::Role::Response 0.001  pkg:cpan/Ambassador-API-V2@0.001
-AmberDB                            5.025002  pkg:cpan/AmberDB@5.25.2
-AmberDB::Array                     5.025002  pkg:cpan/AmberDB@5.25.2
-AmberDB::Date                      5.025002  pkg:cpan/AmberDB@5.25.2
-AmberDB::Locale                    5.025002  pkg:cpan/AmberDB@5.25.2
+AmberDB                            5.026000  pkg:cpan/AmberDB@5.26.0
+AmberDB::Array                     5.026000  pkg:cpan/AmberDB@5.26.0
+AmberDB::Date                      5.026000  pkg:cpan/AmberDB@5.26.0
+AmberDB::Locale                    5.026000  pkg:cpan/AmberDB@5.26.0
 AmberDB::String                    5.024000  pkg:cpan/AmberDB@5.24.0
-AmberDB::Tools                     5.025002  pkg:cpan/AmberDB@5.25.2
+AmberDB::Tools                     5.026000  pkg:cpan/AmberDB@5.26.0
+AmberDB::Tools::Index              5.026000  pkg:cpan/AmberDB@5.26.0
+AmberDB::Tools::Maintain           5.026000  pkg:cpan/AmberDB@5.26.0
+AmberDB::Tools::Update             5.026000  pkg:cpan/AmberDB@5.26.0
 AmbientOrb::Serial                  0.02  pkg:cpan/AmbientOrb-Serial@0.02
 Ambrosia                            0.01  pkg:cpan/Ambrosia@0.010
 Ambrosia::Addons::Accessor          0.01  pkg:cpan/Ambrosia@0.010
@@ -33908,7 +33911,7 @@ CPAN::Local::Role::Inject          0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Local::Role::MetaCPAN::API   0.001  pkg:cpan/CPAN-Local-Role-MetaCPAN-API@0.001
 CPAN::Local::Role::Prune           0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Local::Role::Remove          0.010  pkg:cpan/CPAN-Local@0.010
-CPAN::Maker                        v2.0.8  pkg:cpan/CPAN-Maker@2.0.8
+CPAN::Maker                        v2.0.11  pkg:cpan/CPAN-Maker@2.0.11
 CPAN::Maker::Bootstrapper          v2.2.3  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
 CPAN::Maker::Bootstrapper::ConfigReader     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
 CPAN::Maker::Bootstrapper::Constants     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
@@ -33926,10 +33929,12 @@ CPAN::Maker::Bootstrapper::Role::LLM::Reviewer     0  pkg:cpan/CPAN-Maker-Bootst
 CPAN::Maker::Bootstrapper::Role::LLM::Utils     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
 CPAN::Maker::Bootstrapper::Role::ResolveVars     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
 CPAN::Maker::Bootstrapper::Role::ScaffoldImporter     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
-CPAN::Maker::Constants             v2.0.8  pkg:cpan/CPAN-Maker@2.0.8
-CPAN::Maker::Role::FileUtils       v2.0.8  pkg:cpan/CPAN-Maker@2.0.8
-CPAN::Maker::Role::ModuleUtils     v2.0.8  pkg:cpan/CPAN-Maker@2.0.8
-CPAN::Maker::Utils                 v2.0.8  pkg:cpan/CPAN-Maker@2.0.8
+CPAN::Maker::Bootstrapper::Role::Version     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.3
+CPAN::Maker::Constants             v2.0.11  pkg:cpan/CPAN-Maker@2.0.11
+CPAN::Maker::Role::FileUtils       v2.0.11  pkg:cpan/CPAN-Maker@2.0.11
+CPAN::Maker::Role::ModuleUtils     v2.0.11  pkg:cpan/CPAN-Maker@2.0.11
+CPAN::Maker::Role::Provides            0  pkg:cpan/CPAN-Maker@2.0.11
+CPAN::Maker::Utils                 v2.0.11  pkg:cpan/CPAN-Maker@2.0.11
 CPAN::Meta                         2.150015  pkg:cpan/CPAN-Meta@2.150015
 CPAN::Meta::Check                  0.018  pkg:cpan/CPAN-Meta-Check@0.018
 CPAN::Meta::Converter              2.150015  pkg:cpan/CPAN-Meta@2.150015
@@ -84816,7 +84821,7 @@ Git::Release::BranchManager        undef  pkg:cpan/Git-Release@0.05
 Git::Release::Config               undef  pkg:cpan/Git-Release@0.05
 Git::Release::Remote               undef  pkg:cpan/Git-Release@0.05
 Git::Release::RemoteManager        undef  pkg:cpan/Git-Release@0.05
-Git::ReleaseDiffs                      0  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
+Git::ReleaseDiffs                      0  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.3
 Git::ReleaseRepo                   0.006  pkg:cpan/Git-ReleaseRepo@0.006
 Git::ReleaseRepo::Command          0.006  pkg:cpan/Git-ReleaseRepo@0.006
 Git::ReleaseRepo::Command::add     0.006  pkg:cpan/Git-ReleaseRepo@0.006
@@ -114159,7 +114164,7 @@ LaTeX::PGF::Diagram2D::Xspline      1.00  pkg:cpan/LaTeX-PGF-Diagram2D@1.02
 LaTeX::Parser                      undef  pkg:cpan/LaTeX-Parser@0.01
 LaTeX::Pod                          0.23  pkg:cpan/LaTeX-Pod@0.23
 LaTeX::Recode                       0.05  pkg:cpan/LaTeX-Recode@0.05
-LaTeX::Replicase                   0.790  pkg:cpan/LaTeX-Replicase@0.790
+LaTeX::Replicase                   0.793  pkg:cpan/LaTeX-Replicase@0.793
 LaTeX::TOM                          1.06  pkg:cpan/LaTeX-TOM@1.06
 LaTeX::TOM::Node                    0.05  pkg:cpan/LaTeX-TOM@1.06
 LaTeX::TOM::Parser                  0.13  pkg:cpan/LaTeX-TOM@1.06
@@ -227348,7 +227353,7 @@ Text::ASCIIMathML::Node             0.81  pkg:cpan/Text-ASCIIMathML@0.81
 Text::ASCIIPipe                    1.001000  pkg:cpan/Text-ASCIIPipe@1.001000
 Text::ASCIITable                    0.22  pkg:cpan/Text-ASCIITable@0.22
 Text::ASCIITable::EasyTable        1.006  pkg:cpan/Text-ASCIITable-EasyTable@1.006
-Text::ASCIITable::FixANSI          v1.0.0  pkg:cpan/CPAN-Maker-Bootstrapper@2.2.3
+Text::ASCIITable::FixANSI          v1.0.0  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.3
 Text::ASCIITable::Wrap               0.2  pkg:cpan/Text-ASCIITable@0.22
 Text::Abbrev                        1.02  pkg:cpan/Text-Abbrev@1.02
 Text::Abbreviate                    0.01  pkg:cpan/Text-Abbreviate@0.01
@@ -227893,12 +227898,12 @@ Text::JSContact                     0.02  pkg:cpan/Text-JSContact@0.02
 Text::JSON::Nibble                  1.01  pkg:cpan/Text-JSON-Nibble@1.01
 Text::JaroWinkler                    0.1  pkg:cpan/Text-JaroWinkler@0.1
 Text::JavE                         0.000003  pkg:cpan/Text-JavE@0.0.3
-Text::KDL::XS                      0.001  pkg:cpan/Text-KDL-XS@0.001
-Text::KDL::XS::Document            undef  pkg:cpan/Text-KDL-XS@0.001
-Text::KDL::XS::Emitter             undef  pkg:cpan/Text-KDL-XS@0.001
-Text::KDL::XS::Node                undef  pkg:cpan/Text-KDL-XS@0.001
-Text::KDL::XS::Parser              undef  pkg:cpan/Text-KDL-XS@0.001
-Text::KDL::XS::Value               undef  pkg:cpan/Text-KDL-XS@0.001
+Text::KDL::XS                      0.002  pkg:cpan/Text-KDL-XS@0.002
+Text::KDL::XS::Document            undef  pkg:cpan/Text-KDL-XS@0.002
+Text::KDL::XS::Emitter             undef  pkg:cpan/Text-KDL-XS@0.002
+Text::KDL::XS::Node                undef  pkg:cpan/Text-KDL-XS@0.002
+Text::KDL::XS::Parser              undef  pkg:cpan/Text-KDL-XS@0.002
+Text::KDL::XS::Value               undef  pkg:cpan/Text-KDL-XS@0.002
 Text::Kakasi                        2.04  pkg:cpan/Text-Kakasi@2.04
 Text::Karma                         0.05  pkg:cpan/Text-Karma@0.05
 Text::Keywords                     0.900  pkg:cpan/Text-Keywords@0.900
@@ -231370,14 +231375,14 @@ Travel::Status::DE::DBWagenreihung::Section  0.14  pkg:cpan/Travel-Status-DE-DBW
 Travel::Status::DE::DBWagenreihung::Sector  0.18  pkg:cpan/Travel-Status-DE-DBWagenreihung@0.18
 Travel::Status::DE::DBWagenreihung::Wagon  0.14  pkg:cpan/Travel-Status-DE-DBWagenreihung@0.14
 Travel::Status::DE::DeutscheBahn    6.15  pkg:cpan/Travel-Status-DE-DeutscheBahn@6.15
-Travel::Status::DE::EFA             3.20  pkg:cpan/Travel-Status-DE-VRR@3.20
-Travel::Status::DE::EFA::Departure  3.20  pkg:cpan/Travel-Status-DE-VRR@3.20
-Travel::Status::DE::EFA::Info       3.20  pkg:cpan/Travel-Status-DE-VRR@3.20
-Travel::Status::DE::EFA::Line       3.20  pkg:cpan/Travel-Status-DE-VRR@3.20
+Travel::Status::DE::EFA             3.21  pkg:cpan/Travel-Status-DE-VRR@3.21
+Travel::Status::DE::EFA::Departure  3.21  pkg:cpan/Travel-Status-DE-VRR@3.21
+Travel::Status::DE::EFA::Info       3.21  pkg:cpan/Travel-Status-DE-VRR@3.21
+Travel::Status::DE::EFA::Line       3.21  pkg:cpan/Travel-Status-DE-VRR@3.21
 Travel::Status::DE::EFA::Result     2.02  pkg:cpan/Travel-Status-DE-VRR@2.02
-Travel::Status::DE::EFA::Services   3.20  pkg:cpan/Travel-Status-DE-VRR@3.20
-Travel::Status::DE::EFA::Stop       3.20  pkg:cpan/Travel-Status-DE-VRR@3.20
-Travel::Status::DE::EFA::Trip       3.20  pkg:cpan/Travel-Status-DE-VRR@3.20
+Travel::Status::DE::EFA::Services   3.21  pkg:cpan/Travel-Status-DE-VRR@3.21
+Travel::Status::DE::EFA::Stop       3.21  pkg:cpan/Travel-Status-DE-VRR@3.21
+Travel::Status::DE::EFA::Trip       3.21  pkg:cpan/Travel-Status-DE-VRR@3.21
 Travel::Status::DE::HAFAS           6.25  pkg:cpan/Travel-Status-DE-HAFAS@6.25
 Travel::Status::DE::HAFAS::Journey  6.25  pkg:cpan/Travel-Status-DE-HAFAS@6.25
 Travel::Status::DE::HAFAS::Location  6.25  pkg:cpan/Travel-Status-DE-HAFAS@6.25
@@ -231395,7 +231400,7 @@ Travel::Status::DE::MvgMainz        2.01  pkg:cpan/Travel-Status-DE-URA@2.01
 Travel::Status::DE::URA             2.01  pkg:cpan/Travel-Status-DE-URA@2.01
 Travel::Status::DE::URA::Result     2.01  pkg:cpan/Travel-Status-DE-URA@2.01
 Travel::Status::DE::URA::Stop       2.01  pkg:cpan/Travel-Status-DE-URA@2.01
-Travel::Status::DE::VRR             3.20  pkg:cpan/Travel-Status-DE-VRR@3.20
+Travel::Status::DE::VRR             3.21  pkg:cpan/Travel-Status-DE-VRR@3.21
 Travel::Status::GB::TFL             2.01  pkg:cpan/Travel-Status-DE-URA@2.01
 Travel::Status::MOTIS               0.04  pkg:cpan/Travel-Status-MOTIS@0.04
 Travel::Status::MOTIS::Polyline     0.04  pkg:cpan/Travel-Status-MOTIS@0.04
@@ -244724,6 +244729,32 @@ WebDyne::Cache                     3.029  pkg:cpan/WebDyne@3.029
 WebDyne::Chain                     3.029  pkg:cpan/WebDyne@3.029
 WebDyne::Chain::Constant           3.029  pkg:cpan/WebDyne@3.029
 WebDyne::Chain::VERSION            1.046  pkg:cpan/WebDyne-Chain@1.046
+WebDyne::Cloudflare                0.005  pkg:cpan/WebDyne-Cloudflare@0.005
+WebDyne::Cloudflare::D1            0.001  pkg:cpan/WebDyne-Cloudflare@0.005
+WebDyne::Cloudflare::D1::Blob      0.001  pkg:cpan/WebDyne-Cloudflare@0.005
+WebDyne::Cloudflare::D1::Error     0.001  pkg:cpan/WebDyne-Cloudflare@0.005
+WebDyne::Cloudflare::D1::Session   0.001  pkg:cpan/WebDyne-Cloudflare@0.005
+WebDyne::Cloudflare::D1::Statement 0.001  pkg:cpan/WebDyne-Cloudflare@0.005
+WebDyne::Cloudflare::DurableObject 0.001  pkg:cpan/WebDyne-Cloudflare@0.005
+WebDyne::Cloudflare::DurableObject::Bytes 0.001  pkg:cpan/WebDyne-Cloudflare@0.005
+WebDyne::Cloudflare::DurableObject::Context 0.001  pkg:cpan/WebDyne-Cloudflare@0.005
+WebDyne::Cloudflare::DurableObject::Error 0.001  pkg:cpan/WebDyne-Cloudflare@0.005
+WebDyne::Cloudflare::DurableObject::Handler 0.001  pkg:cpan/WebDyne-Cloudflare@0.005
+WebDyne::Cloudflare::Hyperdrive    0.001  pkg:cpan/WebDyne-Cloudflare@0.005
+WebDyne::Cloudflare::Hyperdrive::Blob 0.001  pkg:cpan/WebDyne-Cloudflare@0.005
+WebDyne::Cloudflare::Hyperdrive::Codec 0.001  pkg:cpan/WebDyne-Cloudflare@0.005
+WebDyne::Cloudflare::Hyperdrive::Error 0.001  pkg:cpan/WebDyne-Cloudflare@0.005
+WebDyne::Cloudflare::Hyperdrive::Statement 0.001  pkg:cpan/WebDyne-Cloudflare@0.005
+WebDyne::Cloudflare::Hyperdrive::Transport 0.001  pkg:cpan/WebDyne-Cloudflare@0.005
+WebDyne::Cloudflare::KV            0.001  pkg:cpan/WebDyne-Cloudflare@0.005
+WebDyne::Cloudflare::KV::Blob      0.001  pkg:cpan/WebDyne-Cloudflare@0.005
+WebDyne::Cloudflare::KV::Error     0.001  pkg:cpan/WebDyne-Cloudflare@0.005
+WebDyne::Cloudflare::R2            0.001  pkg:cpan/WebDyne-Cloudflare@0.005
+WebDyne::Cloudflare::R2::Blob      0.001  pkg:cpan/WebDyne-Cloudflare@0.005
+WebDyne::Cloudflare::R2::Error     0.001  pkg:cpan/WebDyne-Cloudflare@0.005
+WebDyne::Cloudflare::R2::Object    0.001  pkg:cpan/WebDyne-Cloudflare@0.005
+WebDyne::Cloudflare::SecretsStore  0.001  pkg:cpan/WebDyne-Cloudflare@0.005
+WebDyne::Cloudflare::SecretsStore::Error 0.001  pkg:cpan/WebDyne-Cloudflare@0.005
 WebDyne::Compile                   3.029  pkg:cpan/WebDyne@3.029
 WebDyne::Constant                  3.029  pkg:cpan/WebDyne@3.029
 WebDyne::Err                       3.029  pkg:cpan/WebDyne@3.029
