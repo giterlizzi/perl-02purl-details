@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 27 Sep 2026 00:05:09 GMT
-Line-Count: 261343
+Last-Updated: Sun, 27 Sep 2026 07:26:04 GMT
+Line-Count: 261349
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5283,6 +5283,7 @@ Alien::m4                           0.21  pkg:cpan/Alien-m4@0.21
 Alien::mpg123                      0.003  pkg:cpan/Alien-mpg123@0.003
 Alien::nasm                         0.23  pkg:cpan/Alien-nasm@0.23
 Alien::nghttp2                     0.003  pkg:cpan/Alien-nghttp2@0.003
+Alien::ngtcp2                       0.01  pkg:cpan/Alien-ngtcp2@0.01
 Alien::nragent                      0.08  pkg:cpan/Alien-nragent@0.08
 Alien::onnxruntime                 undef  pkg:cpan/Alien-onnxruntime@0.1
 Alien::pandoc                       0.01  pkg:cpan/Alien-pandoc@0.01
@@ -63009,8 +63010,8 @@ DataWarehouse::Aggregate            0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::Dimension            0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::ETL                  0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::Fact                 0.04  pkg:cpan/DataWarehouse@0.04
-Database::Abstraction               0.45  pkg:cpan/Database-Abstraction@0.45
-Database::Abstraction::Query        0.45  pkg:cpan/Database-Abstraction@0.45
+Database::Abstraction               0.46  pkg:cpan/Database-Abstraction@0.46
+Database::Abstraction::Query        0.46  pkg:cpan/Database-Abstraction@0.46
 Database::Async                    0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Backoff           0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Backoff::Exponential 0.019  pkg:cpan/Database-Async@0.019
@@ -66486,32 +66487,33 @@ Devel::XSHelper                     1.03  pkg:cpan/Module-Build-Pluggable-XSUtil
 Devel::bt                           0.06  pkg:cpan/Devel-bt@0.06
 Devel::callsfrom                   undef  pkg:cpan/UR@0.47
 Devel::cst                         0.012  pkg:cpan/Devel-cst@0.012
-Devel::ebug                         0.65  pkg:cpan/Devel-ebug@0.65
-Devel::ebug::Backend                0.65  pkg:cpan/Devel-ebug@0.65
-Devel::ebug::Backend::Plugin::ActionPoints  0.65  pkg:cpan/Devel-ebug@0.65
-Devel::ebug::Backend::Plugin::Basic  0.65  pkg:cpan/Devel-ebug@0.65
-Devel::ebug::Backend::Plugin::Codelines  0.65  pkg:cpan/Devel-ebug@0.65
-Devel::ebug::Backend::Plugin::Commands  0.65  pkg:cpan/Devel-ebug@0.65
-Devel::ebug::Backend::Plugin::Eval  0.65  pkg:cpan/Devel-ebug@0.65
-Devel::ebug::Backend::Plugin::Filenames  0.65  pkg:cpan/Devel-ebug@0.65
-Devel::ebug::Backend::Plugin::Output  0.65  pkg:cpan/Devel-ebug@0.65
-Devel::ebug::Backend::Plugin::Pad   0.65  pkg:cpan/Devel-ebug@0.65
-Devel::ebug::Backend::Plugin::Ping  0.65  pkg:cpan/Devel-ebug@0.65
-Devel::ebug::Backend::Plugin::Run   0.65  pkg:cpan/Devel-ebug@0.65
-Devel::ebug::Backend::Plugin::StackTrace  0.65  pkg:cpan/Devel-ebug@0.65
-Devel::ebug::Console                0.65  pkg:cpan/Devel-ebug@0.65
+Devel::ebug                         0.67  pkg:cpan/Devel-ebug@0.67
+Devel::ebug::Backend                0.67  pkg:cpan/Devel-ebug@0.67
+Devel::ebug::Backend::Plugin::ActionPoints  0.67  pkg:cpan/Devel-ebug@0.67
+Devel::ebug::Backend::Plugin::Basic  0.67  pkg:cpan/Devel-ebug@0.67
+Devel::ebug::Backend::Plugin::Codelines  0.67  pkg:cpan/Devel-ebug@0.67
+Devel::ebug::Backend::Plugin::Commands  0.67  pkg:cpan/Devel-ebug@0.67
+Devel::ebug::Backend::Plugin::Eval  0.67  pkg:cpan/Devel-ebug@0.67
+Devel::ebug::Backend::Plugin::Filenames  0.67  pkg:cpan/Devel-ebug@0.67
+Devel::ebug::Backend::Plugin::Output  0.67  pkg:cpan/Devel-ebug@0.67
+Devel::ebug::Backend::Plugin::Pad   0.67  pkg:cpan/Devel-ebug@0.67
+Devel::ebug::Backend::Plugin::Ping  0.67  pkg:cpan/Devel-ebug@0.67
+Devel::ebug::Backend::Plugin::Run   0.67  pkg:cpan/Devel-ebug@0.67
+Devel::ebug::Backend::Plugin::StackTrace  0.67  pkg:cpan/Devel-ebug@0.67
+Devel::ebug::Console                0.67  pkg:cpan/Devel-ebug@0.67
 Devel::ebug::HTTP                   0.37  pkg:cpan/Devel-ebug-HTTP@0.37
 Devel::ebug::HTTP::App              0.37  pkg:cpan/Devel-ebug-HTTP@0.37
 Devel::ebug::HTTP::Controller::Root  0.36  pkg:cpan/Devel-ebug-HTTP@0.36
-Devel::ebug::Plugin::ActionPoints   0.65  pkg:cpan/Devel-ebug@0.65
-Devel::ebug::Plugin::Basic          0.65  pkg:cpan/Devel-ebug@0.65
-Devel::ebug::Plugin::Codelines      0.65  pkg:cpan/Devel-ebug@0.65
-Devel::ebug::Plugin::Eval           0.65  pkg:cpan/Devel-ebug@0.65
-Devel::ebug::Plugin::Filenames      0.65  pkg:cpan/Devel-ebug@0.65
-Devel::ebug::Plugin::Output         0.65  pkg:cpan/Devel-ebug@0.65
-Devel::ebug::Plugin::Pad            0.65  pkg:cpan/Devel-ebug@0.65
-Devel::ebug::Plugin::Run            0.65  pkg:cpan/Devel-ebug@0.65
-Devel::ebug::Plugin::StackTrace     0.65  pkg:cpan/Devel-ebug@0.65
+Devel::ebug::Plugin::ActionPoints   0.67  pkg:cpan/Devel-ebug@0.67
+Devel::ebug::Plugin::Basic          0.67  pkg:cpan/Devel-ebug@0.67
+Devel::ebug::Plugin::Codelines      0.67  pkg:cpan/Devel-ebug@0.67
+Devel::ebug::Plugin::Eval           0.67  pkg:cpan/Devel-ebug@0.67
+Devel::ebug::Plugin::Filenames      0.67  pkg:cpan/Devel-ebug@0.67
+Devel::ebug::Plugin::Output         0.67  pkg:cpan/Devel-ebug@0.67
+Devel::ebug::Plugin::Pad            0.67  pkg:cpan/Devel-ebug@0.67
+Devel::ebug::Plugin::Run            0.67  pkg:cpan/Devel-ebug@0.67
+Devel::ebug::Plugin::StackTrace     0.67  pkg:cpan/Devel-ebug@0.67
+Devel::ebug::Wire                   0.67  pkg:cpan/Devel-ebug@0.67
 Devel::eps                         0.000003  pkg:cpan/Devel-TraceDeps@v0.0.3
 Devel::file                         0.01  pkg:cpan/Devel-file@0.01
 Devel::hdb                          0.25  pkg:cpan/Devel-hdb@0.25
@@ -81338,6 +81340,7 @@ Games::Cards::Tk::Hand             undef  pkg:cpan/Games-Cards@1.45
 Games::Cards::Tk::Pile             undef  pkg:cpan/Games-Cards@1.45
 Games::Cards::Tk::Queue            undef  pkg:cpan/Games-Cards@1.45
 Games::Cards::Tk::Stack            undef  pkg:cpan/Games-Cards@1.45
+Games::Cards::Troika::Util         0.001  pkg:cpan/Games-Cards-Troika-Util@0.001
 Games::Cellulo                      0.22  pkg:cpan/Games-Cellulo@0.22
 Games::Cellulo::Game                0.22  pkg:cpan/Games-Cellulo@0.22
 Games::Cellulo::Game::Particle      0.22  pkg:cpan/Games-Cellulo@0.22
@@ -108887,13 +108890,13 @@ Internals                            1.1  pkg:cpan/Internals@1.1
 Internals::CountObjects             0.05  pkg:cpan/Internals-CountObjects@0.05
 Internals::DumpArenas               0.12  pkg:cpan/Internals-DumpArenas@0.12
 Internals::GraphArenas              0.01  pkg:cpan/Internals-GraphArenas@0.01
-InternetData                       1.006001  pkg:cpan/InternetData@1.6.1
-InternetData::Database             1.006001  pkg:cpan/InternetData@1.6.1
-InternetData::Error                1.006001  pkg:cpan/InternetData@1.6.1
-InternetData::Oauth                1.006001  pkg:cpan/InternetData@1.6.1
-InternetData::OauthAccessDeniedError 1.006001  pkg:cpan/InternetData@1.6.1
-InternetData::OauthError           1.006001  pkg:cpan/InternetData@1.6.1
-InternetData::OauthExpiredTokenError 1.006001  pkg:cpan/InternetData@1.6.1
+InternetData                       1.007000  pkg:cpan/InternetData@1.7.0
+InternetData::Database             1.007000  pkg:cpan/InternetData@1.7.0
+InternetData::Error                1.007000  pkg:cpan/InternetData@1.7.0
+InternetData::Oauth                1.007000  pkg:cpan/InternetData@1.7.0
+InternetData::OauthAccessDeniedError 1.007000  pkg:cpan/InternetData@1.7.0
+InternetData::OauthError           1.007000  pkg:cpan/InternetData@1.7.0
+InternetData::OauthExpiredTokenError 1.007000  pkg:cpan/InternetData@1.7.0
 Interpolation                       0.74  pkg:cpan/Interpolation@0.74
 Interpolation::A2A                  0.71  pkg:cpan/Interpolation@0.71
 Interpolation::A2S                  0.71  pkg:cpan/Interpolation@0.71
@@ -121109,7 +121112,7 @@ Loctools::Net::OAuth2::Session     undef  pkg:cpan/Loctools-Net@1.0
 Loctools::Net::OAuth2::Session::Google undef  pkg:cpan/Loctools-Net@1.0
 LocusLinkAccessor                      1  pkg:cpan/Boulder@1.30
 Log4Perl::ImportHandle             0.033  pkg:cpan/Log4Perl-ImportHandle@0.033
-Log::Abstraction                    0.33  pkg:cpan/Log-Abstraction@0.33
+Log::Abstraction                    0.34  pkg:cpan/Log-Abstraction@0.34
 Log::Accounting                      0.3  pkg:cpan/Log-Accounting@0.3
 Log::Accounting::Sendmail            0.2  pkg:cpan/Log-Accounting-Sendmail@0.2
 Log::Agent                         1.005  pkg:cpan/Log-Agent@1.005
@@ -121147,7 +121150,7 @@ Log::AndError                       1.01  pkg:cpan/Log-AndError@1.01
 Log::AndError::Constants            0.01  pkg:cpan/Log-AndError@1.01
 Log::Any                           1.720  pkg:cpan/Log-Any@1.720
 Log::Any::Adapter                  1.720  pkg:cpan/Log-Any@1.720
-Log::Any::Adapter::Abstraction      0.33  pkg:cpan/Log-Abstraction@0.33
+Log::Any::Adapter::Abstraction      0.34  pkg:cpan/Log-Abstraction@0.34
 Log::Any::Adapter::AcmeLocal        0.11  pkg:cpan/Protocol-ACME@0.11
 Log::Any::Adapter::Apache2          0.02  pkg:cpan/Log-Any-Adapter-Apache2@0.02
 Log::Any::Adapter::Base            1.720  pkg:cpan/Log-Any@1.720
@@ -133994,7 +133997,7 @@ Mojolicious::Plugin::Directory      0.14  pkg:cpan/Mojolicious-Plugin-Directory@
 Mojolicious::Plugin::Directory::Stylish 1.006  pkg:cpan/Mojolicious-Plugin-Directory-Stylish@1.006
 Mojolicious::Plugin::DirectoryHandler undef  pkg:cpan/Mojo-Darkpan@0.09
 Mojolicious::Plugin::DirectoryQueue  0.01  pkg:cpan/Mojolicious-Plugin-DirectoryQueue@0.01
-Mojolicious::Plugin::DirectoryServer 1.005  pkg:cpan/Mojolicious-Plugin-DirectoryServer@1.005
+Mojolicious::Plugin::DirectoryServer 1.006  pkg:cpan/Mojolicious-Plugin-DirectoryServer@1.006
 Mojolicious::Plugin::Disqus         1.22  pkg:cpan/Mojolicious-Plugin-Disqus@1.22
 Mojolicious::Plugin::DomIdHelper    0.04  pkg:cpan/Mojolicious-Plugin-DomIdHelper@0.04
 Mojolicious::Plugin::Dotcloud       1.01  pkg:cpan/Mojolicious-Plugin-Dotcloud@1.01
@@ -143320,7 +143323,7 @@ Net::Firewall::BlockerHelper::backends::vyos 0.002000  pkg:cpan/Net-Firewall-Blo
 Net::Firewall::BlockerHelper::backends::xdp 0.002000  pkg:cpan/Net-Firewall-BlockerHelper@0.2.0
 Net::Fix::Checksum::XS              0.03  pkg:cpan/Net-Fix-Checksum-XS@0.03
 Net::FleetDB                        0.33  pkg:cpan/Net-FleetDB@0.33
-Net::Flickr::API                     1.7  pkg:cpan/Net-Flickr-API@1.7
+Net::Flickr::API                     1.8  pkg:cpan/Net-Flickr-API@1.8
 Net::Flickr::Backup                3.200  pkg:cpan/Net-Flickr-Backup@3.200
 Net::Flickr::Geo                    0.72  pkg:cpan/Net-Flickr-Geo@0.72
 Net::Flickr::Geo::GoogleMaps        0.72  pkg:cpan/Net-Flickr-Geo@0.72
@@ -189897,6 +189900,7 @@ Perl::Critic::Policy::Subroutines::ProhibitNestedSubs 1.156  pkg:cpan/Perl-Criti
 Perl::Critic::Policy::Subroutines::ProhibitQualifiedSubDeclarations  0.08  pkg:cpan/Perl-Critic-StricterSubs@0.08
 Perl::Critic::Policy::Subroutines::ProhibitReturnSort 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Subroutines::ProhibitSubroutinePrototypes 1.156  pkg:cpan/Perl-Critic@1.156
+Perl::Critic::Policy::Subroutines::ProhibitTailRecursion 0.001  pkg:cpan/Perl-Critic-Policy-Subroutines-ProhibitTailRecursion@0.001
 Perl::Critic::Policy::Subroutines::ProhibitUnusedPrivateSubroutines 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Subroutines::ProtectPrivateSubs 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Subroutines::RequireArgUnpacking 1.156  pkg:cpan/Perl-Critic@1.156
@@ -222241,6 +222245,8 @@ Task::Map::Tube::Bundle            1.000007  pkg:cpan/Task-Map-Tube-Bundle@v1.0.
 Task::Map::Tube::Metro              0.13  pkg:cpan/Task-Map-Tube-Metro@0.13
 Task::MapMetro::Dev                0.1201  pkg:cpan/Task-MapMetro-Dev@0.1201
 Task::MapMetro::Maps               0.1302  pkg:cpan/Task-MapMetro-Maps@0.1302
+Task::Markdown::Pod                0.001  pkg:cpan/Task-Markdown-Pod@0.001
+Task::Markdown::Publish            0.001  pkg:cpan/Task-Markdown-Publish@0.001
 Task::Math::Symbolic                1.01  pkg:cpan/Task-Math-Symbolic@1.01
 Task::MemManager                    0.10  pkg:cpan/Task-MemManager@0.10
 Task::MemManager::CMalloc           0.04  pkg:cpan/Task-MemManager-CMalloc@0.04
@@ -238908,17 +238914,17 @@ VOMS::Lite::RSAKey                  0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::SAMLHelper              0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::VOMS                    0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::X509                    0.20  pkg:cpan/VOMS-Lite@0.20
-VPNDetection                       3.003003  pkg:cpan/VPNDetection@3.3.3
-VPNDetection::Bogon                3.003003  pkg:cpan/VPNDetection@3.3.3
-VPNDetection::Bogons               undef  pkg:cpan/VPNDetection@3.3.3
-VPNDetection::Cache                3.003003  pkg:cpan/VPNDetection@3.3.3
-VPNDetection::Database             3.003003  pkg:cpan/VPNDetection@3.3.3
-VPNDetection::Error                3.003003  pkg:cpan/VPNDetection@3.3.3
-VPNDetection::Oauth                3.003003  pkg:cpan/VPNDetection@3.3.3
-VPNDetection::OauthAccessDeniedError 3.003003  pkg:cpan/VPNDetection@3.3.3
-VPNDetection::OauthError           3.003003  pkg:cpan/VPNDetection@3.3.3
-VPNDetection::OauthExpiredTokenError 3.003003  pkg:cpan/VPNDetection@3.3.3
-VPNDetection::Result               3.003003  pkg:cpan/VPNDetection@3.3.3
+VPNDetection                       3.004000  pkg:cpan/VPNDetection@3.4.0
+VPNDetection::Bogon                3.004000  pkg:cpan/VPNDetection@3.4.0
+VPNDetection::Bogons               undef  pkg:cpan/VPNDetection@3.4.0
+VPNDetection::Cache                3.004000  pkg:cpan/VPNDetection@3.4.0
+VPNDetection::Database             3.004000  pkg:cpan/VPNDetection@3.4.0
+VPNDetection::Error                3.004000  pkg:cpan/VPNDetection@3.4.0
+VPNDetection::Oauth                3.004000  pkg:cpan/VPNDetection@3.4.0
+VPNDetection::OauthAccessDeniedError 3.004000  pkg:cpan/VPNDetection@3.4.0
+VPNDetection::OauthError           3.004000  pkg:cpan/VPNDetection@3.4.0
+VPNDetection::OauthExpiredTokenError 3.004000  pkg:cpan/VPNDetection@3.4.0
+VPNDetection::Result               3.004000  pkg:cpan/VPNDetection@3.4.0
 VR::API                             1.06  pkg:cpan/VR-API@1.06
 VR::API::Partner                    1.01  pkg:cpan/VR-API@1.05
 VRML                                1.10  pkg:cpan/VRML@1.10
@@ -259737,7 +259743,7 @@ inc::Sereal::BuildTools            undef  pkg:cpan/Sereal-Path@4.003
 inc::latest                        0.500  pkg:cpan/inc-latest@0.500
 inc::latest::private               0.500  pkg:cpan/inc-latest@0.500
 indirect                            0.39  pkg:cpan/indirect@0.39
-iniweb                             undef  pkg:cpan/Mojolicious-Plugin-DirectoryServer@1.005
+iniweb                             undef  pkg:cpan/Mojolicious-Plugin-DirectoryServer@1.006
 inner_lazy                          0.12  pkg:cpan/Wraith@0.12
 input                               0.72  pkg:cpan/ObjStore@1.59
 install                             0.01  pkg:cpan/install@0.01
