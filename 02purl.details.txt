@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 26 Sep 2026 20:29:35 GMT
+Last-Updated: Sun, 27 Sep 2026 00:05:09 GMT
 Line-Count: 261343
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -84296,33 +84296,33 @@ Getopt::Module                     1.000000  pkg:cpan/Getopt-Module@v1.0.0
 Getopt::O2                         v1.1.0  pkg:cpan/Getopt-O2@v1.1.0
 Getopt::O2::Rule                   undef  pkg:cpan/Getopt-O2@v1.1.0
 Getopt::OO                          0.07  pkg:cpan/Getopt-OO@0.07
-Getopt::Pad                         0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::Completion             0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::Config                 0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::Config::Format         0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::Config::Format::Json   0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::Config::Format::Yaml   0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::Error                  0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::ExitRequest            0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::Help                   0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::Parser                 0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::Registry               0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::Result                 0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::Result::Generator      0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::Spec                   0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::Spec::Arg              0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::Spec::Config           0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::Spec::Level            0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::Spec::Option           0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::Type                   0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::Type::Dir              0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::Type::File             0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::Type::Float            0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::Type::Int              0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::Type::Number           0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::Type::Path             0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::Type::Url              0.03  pkg:cpan/Getopt-Pad@0.03
-Getopt::Pad::Util                   0.03  pkg:cpan/Getopt-Pad@0.03
+Getopt::Pad                         0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::Completion             0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::Config                 0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::Config::Format         0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::Config::Format::Json   0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::Config::Format::Yaml   0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::Error                  0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::ExitRequest            0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::Help                   0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::Parser                 0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::Registry               0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::Result                 0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::Result::Generator      0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::Spec                   0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::Spec::Arg              0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::Spec::Config           0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::Spec::Level            0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::Spec::Option           0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::Type                   0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::Type::Dir              0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::Type::File             0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::Type::Float            0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::Type::Int              0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::Type::Number           0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::Type::Path             0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::Type::Url              0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad::Util                   0.04  pkg:cpan/Getopt-Pad@0.04
 Getopt::Panjang                     0.04  pkg:cpan/Getopt-Panjang@0.04
 Getopt::Param                      0.000005  pkg:cpan/Getopt-Param@0.0.5
 Getopt::Param::Tiny                  0.5  pkg:cpan/Getopt-Param-Tiny@0.5
@@ -117806,16 +117806,16 @@ Linux::Event::Framer::LengthPrefix 0.117  pkg:cpan/Linux-Event@0.117
 Linux::Event::Framer::Netstring    0.117  pkg:cpan/Linux-Event@0.117
 Linux::Event::Framer::U32BE        0.117  pkg:cpan/Linux-Event@0.117
 Linux::Event::Framer::Varint       0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::HTTP                 0.002  pkg:cpan/Linux-Event-HTTP@0.002
-Linux::Event::HTTP::Body::Stream   0.002  pkg:cpan/Linux-Event-HTTP@0.002
-Linux::Event::HTTP::Client         0.002  pkg:cpan/Linux-Event-HTTP@0.002
-Linux::Event::HTTP::Client::Connection 0.002  pkg:cpan/Linux-Event-HTTP@0.002
-Linux::Event::HTTP::Client::Operation 0.002  pkg:cpan/Linux-Event-HTTP@0.002
-Linux::Event::HTTP::Request        0.002  pkg:cpan/Linux-Event-HTTP@0.002
-Linux::Event::HTTP::Response       0.002  pkg:cpan/Linux-Event-HTTP@0.002
-Linux::Event::HTTP::Server         0.002  pkg:cpan/Linux-Event-HTTP@0.002
-Linux::Event::HTTP::Server::Connection 0.002  pkg:cpan/Linux-Event-HTTP@0.002
-Linux::Event::HTTP::Transaction    0.002  pkg:cpan/Linux-Event-HTTP@0.002
+Linux::Event::HTTP                 0.003  pkg:cpan/Linux-Event-HTTP@0.003
+Linux::Event::HTTP::Body::Stream   0.003  pkg:cpan/Linux-Event-HTTP@0.003
+Linux::Event::HTTP::Client         0.003  pkg:cpan/Linux-Event-HTTP@0.003
+Linux::Event::HTTP::Client::Connection 0.003  pkg:cpan/Linux-Event-HTTP@0.003
+Linux::Event::HTTP::Client::Operation 0.003  pkg:cpan/Linux-Event-HTTP@0.003
+Linux::Event::HTTP::Request        0.003  pkg:cpan/Linux-Event-HTTP@0.003
+Linux::Event::HTTP::Response       0.003  pkg:cpan/Linux-Event-HTTP@0.003
+Linux::Event::HTTP::Server         0.003  pkg:cpan/Linux-Event-HTTP@0.003
+Linux::Event::HTTP::Server::Connection 0.003  pkg:cpan/Linux-Event-HTTP@0.003
+Linux::Event::HTTP::Transaction    0.003  pkg:cpan/Linux-Event-HTTP@0.003
 Linux::Event::IO                   0.117  pkg:cpan/Linux-Event@0.117
 Linux::Event::IO::Pipe             0.117  pkg:cpan/Linux-Event@0.117
 Linux::Event::IO::Sock             0.117  pkg:cpan/Linux-Event@0.117
@@ -222541,13 +222541,13 @@ Tcl                                 1.53  pkg:cpan/Tcl@1.53
 Tcl::Cmdbase                        1.53  pkg:cpan/Tcl@1.53
 Tcl::Code                           1.53  pkg:cpan/Tcl@1.53
 Tcl::List                           1.53  pkg:cpan/Tcl@1.53
-Tcl::Tk                             1.52  pkg:cpan/Tcl-Tk@1.52
+Tcl::Tk                             1.53  pkg:cpan/Tcl-Tk@1.53
 Tcl::Tk::Tkwidget::Tix             undef  pkg:cpan/Tcl-Tk-Tkwidget-Tix@8.4.3.0
 Tcl::Tk::Tkwidget::treectrl        undef  pkg:cpan/Tcl-Tk-Tkwidget-treectrl@2.4.2.7
-Tcl::Tk::Widget                     1.52  pkg:cpan/Tcl-Tk@1.52
-Tcl::Tk::Widget::Balloon           undef  pkg:cpan/Tcl-Tk@1.52
-Tcl::Tk::Widget::MainWindow         1.52  pkg:cpan/Tcl-Tk@1.52
-Tcl::Tk::Widget::Text              undef  pkg:cpan/Tcl-Tk@1.52
+Tcl::Tk::Widget                     1.53  pkg:cpan/Tcl-Tk@1.53
+Tcl::Tk::Widget::Balloon           undef  pkg:cpan/Tcl-Tk@1.53
+Tcl::Tk::Widget::MainWindow         1.53  pkg:cpan/Tcl-Tk@1.53
+Tcl::Tk::Widget::Text              undef  pkg:cpan/Tcl-Tk@1.53
 Tcl::Var                            1.53  pkg:cpan/Tcl@1.53
 Tcl::pTk                            1.11  pkg:cpan/Tcl-pTk@1.11
 Tcl::pTk::Adjuster                  1.11  pkg:cpan/Tcl-pTk@1.11
