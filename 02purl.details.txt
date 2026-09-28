@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 28 Sep 2026 10:22:20 GMT
-Line-Count: 261367
+Last-Updated: Mon, 28 Sep 2026 19:04:17 GMT
+Line-Count: 261370
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -1426,9 +1426,9 @@ ASPEER::MakeMaker::Markdown::Pod   1.014  pkg:cpan/ASPEER-MakeMaker-Markdown-Pod
 ASPEER::MakeMaker::Markdown::Pod::Constant 1.013  pkg:cpan/ASPEER-MakeMaker-Markdown-Pod@1.014
 ASPEER::MakeMaker::Markdown::Pod::MM 1.013  pkg:cpan/ASPEER-MakeMaker-Markdown-Pod@1.014
 ASPEER::MakeMaker::Markdown::Pod::MM::Constant 1.013  pkg:cpan/ASPEER-MakeMaker-Markdown-Pod@1.014
-ASPEER::MakeMaker::Markdown::Publish 1.003  pkg:cpan/ASPEER-MakeMaker-Markdown-Publish@1.003
-ASPEER::MakeMaker::Markdown::Publish::MM 1.003  pkg:cpan/ASPEER-MakeMaker-Markdown-Publish@1.003
-ASPEER::MakeMaker::Markdown::Publish::MM::Constant 1.003  pkg:cpan/ASPEER-MakeMaker-Markdown-Publish@1.003
+ASPEER::MakeMaker::Markdown::Publish 1.004  pkg:cpan/ASPEER-MakeMaker-Markdown-Publish@1.004
+ASPEER::MakeMaker::Markdown::Publish::MM 1.004  pkg:cpan/ASPEER-MakeMaker-Markdown-Publish@1.004
+ASPEER::MakeMaker::Markdown::Publish::MM::Constant 1.004  pkg:cpan/ASPEER-MakeMaker-Markdown-Publish@1.004
 AUBBC                               4.06  pkg:cpan/AUBBC@4.06
 AUDataCenter                       undef  pkg:cpan/ZZZ-SDK@0.0.2
 AVLTree                            0.001007  pkg:cpan/AVLTree@0.1.7
@@ -4202,10 +4202,10 @@ Aion::Pleroma                      undef  pkg:cpan/Aion@2.4
 Aion::Query                        v0.0.6  pkg:cpan/Aion-Query@0.0.6
 Aion::Query::Transaction           undef  pkg:cpan/Aion-Query@0.0.6
 Aion::Refmark                      undef  pkg:cpan/Aion-Telemetry@0.0.1
-Aion::Run                          v0.0.3  pkg:cpan/Aion-Run@0.0.3
-Aion::Run::RunRun                  undef  pkg:cpan/Aion-Run@0.0.3
-Aion::Run::Runner                  undef  pkg:cpan/Aion-Run@0.0.3
-Aion::Run::RunsRun                 undef  pkg:cpan/Aion-Run@0.0.3
+Aion::Run                          v0.0.4  pkg:cpan/Aion-Run@0.0.4
+Aion::Run::RunRun                  undef  pkg:cpan/Aion-Run@0.0.4
+Aion::Run::Runner                  undef  pkg:cpan/Aion-Run@0.0.4
+Aion::Run::RunsRun                 undef  pkg:cpan/Aion-Run@0.0.4
 Aion::Spirit                       v0.0.1  pkg:cpan/Aion-Spirit@0.0.1
 Aion::Surf                         v0.0.3  pkg:cpan/Aion-Surf@0.0.3
 Aion::Telemetry                    v0.0.1  pkg:cpan/Aion-Telemetry@0.0.1
@@ -5192,7 +5192,7 @@ Alien::Xrepo::MM                   v1.0.1  pkg:cpan/Alien-Xrepo@v1.0.1
 Alien::Xrepo::PackageInfo          v1.0.1  pkg:cpan/Alien-Xrepo@v1.0.1
 Alien::Xrepo::Runtime              v1.0.1  pkg:cpan/Alien-Xrepo@v1.0.1
 Alien::Xrepo::Runtime::Alt         v1.0.1  pkg:cpan/Alien-Xrepo@v1.0.1
-Alien::YAMLScript                  0.003001  pkg:cpan/Alien-YAMLScript@0.3.1
+Alien::YAMLScript                  0.003002  pkg:cpan/Alien-YAMLScript@0.3.2
 Alien::YARA                        v0.0.1  pkg:cpan/Alien-YARA@v0.0.6
 Alien::Z3                          0.002  pkg:cpan/Alien-Z3@0.002
 Alien::ZMQ                          0.06  pkg:cpan/Alien-ZMQ@0.06
@@ -5691,12 +5691,12 @@ Ambassador::API::V2::Error         0.001  pkg:cpan/Ambassador-API-V2@0.001
 Ambassador::API::V2::Result        0.001  pkg:cpan/Ambassador-API-V2@0.001
 Ambassador::API::V2::Role::HasJSON 0.001  pkg:cpan/Ambassador-API-V2@0.001
 Ambassador::API::V2::Role::Response 0.001  pkg:cpan/Ambassador-API-V2@0.001
-AmberDB                            5.026000  pkg:cpan/AmberDB@5.26.0
-AmberDB::Array                     5.026000  pkg:cpan/AmberDB@5.26.0
-AmberDB::Date                      5.026000  pkg:cpan/AmberDB@5.26.0
-AmberDB::Locale                    5.026000  pkg:cpan/AmberDB@5.26.0
+AmberDB                            5.026002  pkg:cpan/AmberDB@5.26.2
+AmberDB::Array                     5.026002  pkg:cpan/AmberDB@5.26.2
+AmberDB::Date                      5.026002  pkg:cpan/AmberDB@5.26.2
+AmberDB::Locale                    5.026002  pkg:cpan/AmberDB@5.26.2
 AmberDB::String                    5.024000  pkg:cpan/AmberDB@5.24.0
-AmberDB::Tools                     5.026000  pkg:cpan/AmberDB@5.26.0
+AmberDB::Tools                     5.026002  pkg:cpan/AmberDB@5.26.2
 AmberDB::Tools::Index              5.026000  pkg:cpan/AmberDB@5.26.0
 AmberDB::Tools::Maintain           5.026000  pkg:cpan/AmberDB@5.26.0
 AmberDB::Tools::Update             5.026000  pkg:cpan/AmberDB@5.26.0
@@ -8738,6 +8738,9 @@ App::ASCIIUtils                    0.003  pkg:cpan/App-ASCIIUtils@0.003
 App::AVR::Fuses                     0.01  pkg:cpan/App-AVR-Fuses@0.01
 App::AWS                               0  pkg:cpan/App-FargateStack@1.0.50
 App::AYCABTU                        0.13  pkg:cpan/App-AYCABTU@0.13
+App::Access2CSV                    0.001  pkg:cpan/App-Access2CSV@0.001.0
+App::Access2CSV::Exporter          0.001  pkg:cpan/App-Access2CSV@0.001.0
+App::Access2CSV::I18N              0.001  pkg:cpan/App-Access2CSV@0.001.0
 App::Ack                           3.010000  pkg:cpan/ack@v3.10.0
 App::Ack::ConfigDefault            undef  pkg:cpan/ack@v3.10.0
 App::Ack::ConfigFinder             undef  pkg:cpan/ack@v3.10.0
@@ -22736,13 +22739,13 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         v0.38.0  pkg:cpan/BarefootJS@0.38.0
-BarefootJS::Backend::Mojo          v0.38.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.38.0
-BarefootJS::Backend::Xslate        v0.38.0  pkg:cpan/BarefootJS-Backend-Xslate@0.38.0
-BarefootJS::Date                   v0.38.0  pkg:cpan/BarefootJS@0.38.0
-BarefootJS::DevReload              v0.38.0  pkg:cpan/BarefootJS@0.38.0
-BarefootJS::Evaluator              v0.38.0  pkg:cpan/BarefootJS@0.38.0
-BarefootJS::SearchParams           v0.38.0  pkg:cpan/BarefootJS@0.38.0
+BarefootJS                         v0.39.0  pkg:cpan/BarefootJS@0.39.0
+BarefootJS::Backend::Mojo          v0.39.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.39.0
+BarefootJS::Backend::Xslate        v0.39.0  pkg:cpan/BarefootJS-Backend-Xslate@0.39.0
+BarefootJS::Date                   v0.39.0  pkg:cpan/BarefootJS@0.39.0
+BarefootJS::DevReload              v0.39.0  pkg:cpan/BarefootJS@0.39.0
+BarefootJS::Evaluator              v0.39.0  pkg:cpan/BarefootJS@0.39.0
+BarefootJS::SearchParams           v0.39.0  pkg:cpan/BarefootJS@0.39.0
 BarefootJS::_TZProbe               0.029000  pkg:cpan/BarefootJS@0.29.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
@@ -28450,13 +28453,13 @@ BioX::Map::CLIS                    0.000012  pkg:cpan/BioX-Map@0.0.12
 BioX::Map::CLIS::Cmd::Compare      0.000012  pkg:cpan/BioX-Map@0.0.12
 BioX::Map::CLIS::Cmd::Map          0.000012  pkg:cpan/BioX-Map@0.0.12
 BioX::Map::CLIS::Cmd::MapCompare   0.000012  pkg:cpan/BioX-Map@0.0.12
-BioX::Seq                          0.008010  pkg:cpan/BioX-Seq@0.008010
-BioX::Seq::Fetch                   undef  pkg:cpan/BioX-Seq@0.008010
-BioX::Seq::Stream                  undef  pkg:cpan/BioX-Seq@0.008010
-BioX::Seq::Stream::FASTA           undef  pkg:cpan/BioX-Seq@0.008010
-BioX::Seq::Stream::FASTQ           undef  pkg:cpan/BioX-Seq@0.008010
-BioX::Seq::Stream::TwoBit          undef  pkg:cpan/BioX-Seq@0.008010
-BioX::Seq::Utils                   undef  pkg:cpan/BioX-Seq@0.008010
+BioX::Seq                          0.008012  pkg:cpan/BioX-Seq@0.008012
+BioX::Seq::Fetch                   undef  pkg:cpan/BioX-Seq@0.008012
+BioX::Seq::Stream                  undef  pkg:cpan/BioX-Seq@0.008012
+BioX::Seq::Stream::FASTA           undef  pkg:cpan/BioX-Seq@0.008012
+BioX::Seq::Stream::FASTQ           undef  pkg:cpan/BioX-Seq@0.008012
+BioX::Seq::Stream::TwoBit          undef  pkg:cpan/BioX-Seq@0.008012
+BioX::Seq::Utils                   undef  pkg:cpan/BioX-Seq@0.008012
 BioX::SeqUtils::Promoter           0.001001  pkg:cpan/BioX-SeqUtils-Promoter@0.1.1
 BioX::SeqUtils::Promoter::Alignment 0.001001  pkg:cpan/BioX-SeqUtils-Promoter@0.1.1
 BioX::SeqUtils::Promoter::Annotations 0.001001  pkg:cpan/BioX-SeqUtils-Promoter@0.1.1
@@ -45135,7 +45138,7 @@ Chef::REST::Client::sandboxes          1  pkg:cpan/Chef-REST-Client@1.2
 Chef::REST::Client::search             1  pkg:cpan/Chef-REST-Client@1.2
 Chef::Recipe                       undef  pkg:cpan/Chef@0.01
 Chef::Resource                     undef  pkg:cpan/Chef@0.01
-Chem::Structure::Parser            0.034  pkg:cpan/Chem-Structure-Parser@0.034
+Chem::Structure::Parser            0.035  pkg:cpan/Chem-Structure-Parser@0.035
 Chemistry::3DBuilder                0.10  pkg:cpan/Chemistry-3DBuilder@0.10
 Chemistry::Artificial::Graphics     0.01  pkg:cpan/Chemistry-Artificial-Graphics@0.01
 Chemistry::Artificial::SQL          0.01  pkg:cpan/Chemistry-Artificial-SQL@0.01
@@ -53922,22 +53925,22 @@ DBIx::EnumConstraints               0.05  pkg:cpan/DBIx-EnumConstraints@0.05
 DBIx::Error                        1.000001  pkg:cpan/DBIx-Error@1.0.1
 DBIx::Export                        0.01  pkg:cpan/DBIx-Export@0.01
 DBIx::Factory                       0.09  pkg:cpan/DBIx-Factory@0.09
-DBIx::Fast                          0.17  pkg:cpan/DBIx-Fast@0.17
-DBIx::Fast::Base                   undef  pkg:cpan/DBIx-Fast@0.17
-DBIx::Fast::Cache                  undef  pkg:cpan/DBIx-Fast@0.17
-DBIx::Fast::Cached                 undef  pkg:cpan/DBIx-Fast@0.17
-DBIx::Fast::Connector              undef  pkg:cpan/DBIx-Fast@0.17
-DBIx::Fast::Output                 undef  pkg:cpan/DBIx-Fast@0.17
-DBIx::Fast::Profile::Base          undef  pkg:cpan/DBIx-Fast@0.17
-DBIx::Fast::Profile::MariaDB       undef  pkg:cpan/DBIx-Fast@0.17
-DBIx::Fast::Profile::Pg            undef  pkg:cpan/DBIx-Fast@0.17
-DBIx::Fast::Profile::SQLite        undef  pkg:cpan/DBIx-Fast@0.17
-DBIx::Fast::Profile::mysql         undef  pkg:cpan/DBIx-Fast@0.17
-DBIx::Fast::Profiler               undef  pkg:cpan/DBIx-Fast@0.17
-DBIx::Fast::Result                 undef  pkg:cpan/DBIx-Fast@0.17
-DBIx::Fast::SQL                    undef  pkg:cpan/DBIx-Fast@0.17
-DBIx::Fast::Schema                 undef  pkg:cpan/DBIx-Fast@0.17
-DBIx::Fast::Transaction            undef  pkg:cpan/DBIx-Fast@0.17
+DBIx::Fast                          0.18  pkg:cpan/DBIx-Fast@0.18
+DBIx::Fast::Base                   undef  pkg:cpan/DBIx-Fast@0.18
+DBIx::Fast::Cache                  undef  pkg:cpan/DBIx-Fast@0.18
+DBIx::Fast::Cached                 undef  pkg:cpan/DBIx-Fast@0.18
+DBIx::Fast::Connector              undef  pkg:cpan/DBIx-Fast@0.18
+DBIx::Fast::Output                 undef  pkg:cpan/DBIx-Fast@0.18
+DBIx::Fast::Profile::Base          undef  pkg:cpan/DBIx-Fast@0.18
+DBIx::Fast::Profile::MariaDB       undef  pkg:cpan/DBIx-Fast@0.18
+DBIx::Fast::Profile::Pg            undef  pkg:cpan/DBIx-Fast@0.18
+DBIx::Fast::Profile::SQLite        undef  pkg:cpan/DBIx-Fast@0.18
+DBIx::Fast::Profile::mysql         undef  pkg:cpan/DBIx-Fast@0.18
+DBIx::Fast::Profiler               undef  pkg:cpan/DBIx-Fast@0.18
+DBIx::Fast::Result                 undef  pkg:cpan/DBIx-Fast@0.18
+DBIx::Fast::SQL                    undef  pkg:cpan/DBIx-Fast@0.18
+DBIx::Fast::Schema                 undef  pkg:cpan/DBIx-Fast@0.18
+DBIx::Fast::Transaction            undef  pkg:cpan/DBIx-Fast@0.18
 DBIx::FetchLoop                      0.6  pkg:cpan/DBIx-FetchLoop@0.6
 DBIx::FetchLoop::fetchrow_arrayref   0.6  pkg:cpan/DBIx-FetchLoop@0.6
 DBIx::FetchLoop::fetchrow_hashref    0.6  pkg:cpan/DBIx-FetchLoop@0.6
@@ -126101,12 +126104,12 @@ Markdown::Pod::Embed::Constant     1.012  pkg:cpan/Markdown-Pod-Embed@1.013
 Markdown::Pod::Embed::Util         1.012  pkg:cpan/Markdown-Pod-Embed@1.013
 Markdown::Pod::Handler             0.008  pkg:cpan/Markdown-Pod@0.008
 Markdown::Pod::script              0.008  pkg:cpan/Markdown-Pod@0.008
-Markdown::Publish                  1.003  pkg:cpan/Markdown-Publish@1.003
-Markdown::Publish::Constant        1.003  pkg:cpan/Markdown-Publish@1.003
-Markdown::Publish::Docusaurus      1.003  pkg:cpan/Markdown-Publish@1.003
-Markdown::Publish::MkDocs          1.003  pkg:cpan/Markdown-Publish@1.003
-Markdown::Publish::Starlight       1.003  pkg:cpan/Markdown-Publish@1.003
-Markdown::Publish::VitePress       1.003  pkg:cpan/Markdown-Publish@1.003
+Markdown::Publish                  1.004  pkg:cpan/Markdown-Publish@1.004
+Markdown::Publish::Constant        1.004  pkg:cpan/Markdown-Publish@1.004
+Markdown::Publish::Docusaurus      1.004  pkg:cpan/Markdown-Publish@1.004
+Markdown::Publish::MkDocs          1.004  pkg:cpan/Markdown-Publish@1.004
+Markdown::Publish::Starlight       1.004  pkg:cpan/Markdown-Publish@1.004
+Markdown::Publish::VitePress       1.004  pkg:cpan/Markdown-Publish@1.004
 Markdown::Render                   v2.0.4  pkg:cpan/Markdown-Render@2.0.4
 Markdown::Simple                    0.22  pkg:cpan/Markdown-Simple@0.22
 Markdown::TOC                       0.01  pkg:cpan/Markdown-TOC@0.01
@@ -133898,8 +133901,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    v0.38.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.38.0
-Mojolicious::Plugin::BarefootJS::DevReload v0.38.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.38.0
+Mojolicious::Plugin::BarefootJS    v0.39.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.39.0
+Mojolicious::Plugin::BarefootJS::DevReload v0.39.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.39.0
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus   1.0  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@1.0
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -145502,8 +145505,8 @@ Net::OpenSSH::Compat::SSH2::File    0.09  pkg:cpan/Net-OpenSSH-Compat@0.09
 Net::OpenSSH::Compat::SSH2::SFTP    0.09  pkg:cpan/Net-OpenSSH-Compat@0.09
 Net::OpenSSH::ConnectionCache      undef  pkg:cpan/Net-OpenSSH@0.84
 Net::OpenSSH::ModuleLoader         undef  pkg:cpan/Net-OpenSSH@0.84
-Net::OpenSSH::More                  1.04  pkg:cpan/Net-OpenSSH-More@1.04
-Net::OpenSSH::More::Linux           1.04  pkg:cpan/Net-OpenSSH-More@1.04
+Net::OpenSSH::More                  1.05  pkg:cpan/Net-OpenSSH-More@1.05
+Net::OpenSSH::More::Linux           1.05  pkg:cpan/Net-OpenSSH-More@1.05
 Net::OpenSSH::ObjectRemote         undef  pkg:cpan/Net-OpenSSH@0.84
 Net::OpenSSH::Parallel              0.14  pkg:cpan/Net-OpenSSH-Parallel@0.14
 Net::OpenSSH::Parallel::Constants   0.12  pkg:cpan/Net-OpenSSH-Parallel@0.14
@@ -255507,8 +255510,8 @@ YAML::XS                           v0.910.0  pkg:cpan/YAML-LibYAML@v0.910.0
 YAML::XS::LibYAML                  v0.910.0  pkg:cpan/YAML-LibYAML@v0.910.0
 YAML::YAML2ADoc                    0.001000  pkg:cpan/YAML-YAML2ADoc@0.1.0
 YAML::yq::Helper                   0.002000  pkg:cpan/YAML-yq-Helper@0.2.0
-YAMLScript                         0.003001  pkg:cpan/YAMLScript@0.3.1
-YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.3.1
+YAMLScript                         0.003002  pkg:cpan/YAMLScript@0.3.2
+YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.3.2
 YAMLScript::Base                   undef  pkg:cpan/YAMLScript@0.0.7
 YAMLScript::CLI                    undef  pkg:cpan/YAMLScript@0.1.3
 YAMLScript::Call                   undef  pkg:cpan/YAMLScript@0.0.16
