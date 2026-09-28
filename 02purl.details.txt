@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 27 Sep 2026 22:44:02 GMT
+Last-Updated: Mon, 28 Sep 2026 02:58:42 GMT
 Line-Count: 261366
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -72951,8 +72951,8 @@ Exception::Base                    0.2501  pkg:cpan/Exception-Base@0.2501
 Exception::CONFIRM                   0.3  pkg:cpan/Class-DBI-Factory@0.994
 Exception::Caught                  undef  pkg:cpan/Exception-Caught@0.01
 Exception::Chain                    0.11  pkg:cpan/Exception-Chain@0.11
-Exception::Class                    1.45  pkg:cpan/Exception-Class@1.45
-Exception::Class::Base              1.45  pkg:cpan/Exception-Class@1.45
+Exception::Class                    1.46  pkg:cpan/Exception-Class@1.46
+Exception::Class::Base              1.46  pkg:cpan/Exception-Class@1.46
 Exception::Class::DBI               1.04  pkg:cpan/Exception-Class-DBI@1.04
 Exception::Class::DBI::DBH          1.04  pkg:cpan/Exception-Class-DBI@1.04
 Exception::Class::DBI::H            1.04  pkg:cpan/Exception-Class-DBI@1.04
@@ -81357,7 +81357,7 @@ Games::Cards::Tk::Hand             undef  pkg:cpan/Games-Cards@1.45
 Games::Cards::Tk::Pile             undef  pkg:cpan/Games-Cards@1.45
 Games::Cards::Tk::Queue            undef  pkg:cpan/Games-Cards@1.45
 Games::Cards::Tk::Stack            undef  pkg:cpan/Games-Cards@1.45
-Games::Cards::Troika::Util         0.001  pkg:cpan/Games-Cards-Troika-Util@0.001
+Games::Cards::Troika::Util         0.002  pkg:cpan/Games-Cards-Troika-Util@0.002
 Games::Cellulo                      0.22  pkg:cpan/Games-Cellulo@0.22
 Games::Cellulo::Game                0.22  pkg:cpan/Games-Cellulo@0.22
 Games::Cellulo::Game::Particle      0.22  pkg:cpan/Games-Cellulo@0.22
@@ -204777,30 +204777,30 @@ SPVM::Format                       undef  pkg:cpan/SPVM@0.990199
 SPVM::Getopt::Long                 0.004  pkg:cpan/SPVM-Getopt-Long@0.004
 SPVM::Getopt::Long::Spec           undef  pkg:cpan/SPVM-Getopt-Long@0.004
 SPVM::Global                       undef  pkg:cpan/SPVM@0.990199
-SPVM::Go                           0.046  pkg:cpan/SPVM-Go@0.046
-SPVM::Go::Channel                  undef  pkg:cpan/SPVM-Go@0.046
-SPVM::Go::Channel::Wait            undef  pkg:cpan/SPVM-Go@0.046
-SPVM::Go::Context                  undef  pkg:cpan/SPVM-Go@0.046
-SPVM::Go::Context::CanncelCallback undef  pkg:cpan/SPVM-Go@0.046
-SPVM::Go::Context::Derived         undef  pkg:cpan/SPVM-Go@0.046
-SPVM::Go::Context::Error::Canceled undef  pkg:cpan/SPVM-Go@0.046
-SPVM::Go::Context::Error::DeadlineExceeded undef  pkg:cpan/SPVM-Go@0.046
-SPVM::Go::Context::Value           undef  pkg:cpan/SPVM-Go@0.046
+SPVM::Go                           0.047  pkg:cpan/SPVM-Go@0.047
+SPVM::Go::Channel                  undef  pkg:cpan/SPVM-Go@0.047
+SPVM::Go::Channel::Wait            undef  pkg:cpan/SPVM-Go@0.047
+SPVM::Go::Context                  undef  pkg:cpan/SPVM-Go@0.047
+SPVM::Go::Context::CanncelCallback undef  pkg:cpan/SPVM-Go@0.047
+SPVM::Go::Context::Derived         undef  pkg:cpan/SPVM-Go@0.047
+SPVM::Go::Context::Error::Canceled undef  pkg:cpan/SPVM-Go@0.047
+SPVM::Go::Context::Error::DeadlineExceeded undef  pkg:cpan/SPVM-Go@0.047
+SPVM::Go::Context::Value           undef  pkg:cpan/SPVM-Go@0.047
 SPVM::Go::Coroutine                undef  pkg:cpan/SPVM-Go@0.030
-SPVM::Go::Duration_1l              undef  pkg:cpan/SPVM-Go@0.046
-SPVM::Go::Error::IOTimeout         undef  pkg:cpan/SPVM-Go@0.046
-SPVM::Go::Goroutine                undef  pkg:cpan/SPVM-Go@0.046
-SPVM::Go::OS::Signal               undef  pkg:cpan/SPVM-Go@0.046
+SPVM::Go::Duration_1l              undef  pkg:cpan/SPVM-Go@0.047
+SPVM::Go::Error::IOTimeout         undef  pkg:cpan/SPVM-Go@0.047
+SPVM::Go::Goroutine                undef  pkg:cpan/SPVM-Go@0.047
+SPVM::Go::OS::Signal               undef  pkg:cpan/SPVM-Go@0.047
 SPVM::Go::Poll                     undef  pkg:cpan/SPVM-Go@0.030
 SPVM::Go::Resource::UV             undef  pkg:cpan/SPVM-Go@0.044
-SPVM::Go::Schedule                 undef  pkg:cpan/SPVM-Go@0.046
-SPVM::Go::Schedule::Info           undef  pkg:cpan/SPVM-Go@0.046
+SPVM::Go::Schedule                 undef  pkg:cpan/SPVM-Go@0.047
+SPVM::Go::Schedule::Info           undef  pkg:cpan/SPVM-Go@0.047
 SPVM::Go::Schedule::Task           undef  pkg:cpan/SPVM-Go@0.031
-SPVM::Go::Select                   undef  pkg:cpan/SPVM-Go@0.046
-SPVM::Go::Select::Case             undef  pkg:cpan/SPVM-Go@0.046
-SPVM::Go::Select::Result           undef  pkg:cpan/SPVM-Go@0.046
-SPVM::Go::Sync::WaitGroup          undef  pkg:cpan/SPVM-Go@0.046
-SPVM::Go::Time                     undef  pkg:cpan/SPVM-Go@0.046
+SPVM::Go::Select                   undef  pkg:cpan/SPVM-Go@0.047
+SPVM::Go::Select::Case             undef  pkg:cpan/SPVM-Go@0.047
+SPVM::Go::Select::Result           undef  pkg:cpan/SPVM-Go@0.047
+SPVM::Go::Sync::WaitGroup          undef  pkg:cpan/SPVM-Go@0.047
+SPVM::Go::Time                     undef  pkg:cpan/SPVM-Go@0.047
 SPVM::Go::UV                       undef  pkg:cpan/SPVM-Go@0.044
 SPVM::Go::UV::Callback::Async      undef  pkg:cpan/SPVM-Go@0.044
 SPVM::Go::UV::Callback::Close      undef  pkg:cpan/SPVM-Go@0.044
