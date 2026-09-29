@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 29 Sep 2026 00:05:54 GMT
+Last-Updated: Tue, 29 Sep 2026 07:44:28 GMT
 Line-Count: 261374
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -51165,7 +51165,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.1  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::NotNode  v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::OrNode   v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.156
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.157
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curl::Impersonate                   0.02  pkg:cpan/Curl-Impersonate@0.02
 Curl::Impersonate::Multi           undef  pkg:cpan/Curl-Impersonate@0.02
@@ -59652,15 +59652,15 @@ Data::ISO8583                       2.44  pkg:cpan/Data-ISO8583@2.44
 Data::ISO8583::VISA                 2.44  pkg:cpan/Data-ISO8583@2.44
 Data::Icon                          0.02  pkg:cpan/Data-Icon@0.02
 Data::IconText                     v0.8.0  pkg:cpan/Data-IconText@v0.08
-Data::Identifier                   v0.36.0  pkg:cpan/Data-Identifier@v0.36
-Data::Identifier::Cloudlet         v0.36.0  pkg:cpan/Data-Identifier@v0.36
-Data::Identifier::Generate         v0.36.0  pkg:cpan/Data-Identifier@v0.36
-Data::Identifier::Interface::Known v0.36.0  pkg:cpan/Data-Identifier@v0.36
-Data::Identifier::Interface::Simple v0.36.0  pkg:cpan/Data-Identifier@v0.36
-Data::Identifier::Interface::Subobjects v0.36.0  pkg:cpan/Data-Identifier@v0.36
-Data::Identifier::Interface::Userdata v0.36.0  pkg:cpan/Data-Identifier@v0.36
-Data::Identifier::Util             v0.36.0  pkg:cpan/Data-Identifier@v0.36
-Data::Identifier::Wellknown        v0.36.0  pkg:cpan/Data-Identifier@v0.36
+Data::Identifier                   v0.37.0  pkg:cpan/Data-Identifier@v0.37
+Data::Identifier::Cloudlet         v0.37.0  pkg:cpan/Data-Identifier@v0.37
+Data::Identifier::Generate         v0.37.0  pkg:cpan/Data-Identifier@v0.37
+Data::Identifier::Interface::Known v0.37.0  pkg:cpan/Data-Identifier@v0.37
+Data::Identifier::Interface::Simple v0.37.0  pkg:cpan/Data-Identifier@v0.37
+Data::Identifier::Interface::Subobjects v0.37.0  pkg:cpan/Data-Identifier@v0.37
+Data::Identifier::Interface::Userdata v0.37.0  pkg:cpan/Data-Identifier@v0.37
+Data::Identifier::Util             v0.37.0  pkg:cpan/Data-Identifier@v0.37
+Data::Identifier::Wellknown        v0.37.0  pkg:cpan/Data-Identifier@v0.37
 Data::Image                         0.06  pkg:cpan/Data-Image@0.06
 Data::Importer                     0.006  pkg:cpan/Data-Importer@0.006
 Data::Importer::Iterator           0.006  pkg:cpan/Data-Importer@0.006
@@ -63063,7 +63063,7 @@ Database::BI::Model::DataSource    0.009  pkg:cpan/Database-BI@0.009.0
 Database::Cassandra::Client            1  pkg:cpan/Database-Cassandra-Client@1
 Database::DumpTruck                  1.2  pkg:cpan/Database-DumpTruck@1.2
 Database::Format::Text              1.03  pkg:cpan/Database-Format-Text@1.03
-Database::Join                     0.007001  pkg:cpan/Database-Join@0.007.1
+Database::Join                     0.008  pkg:cpan/Database-Join@0.008.0
 Database::ManagedHandle            0.003  pkg:cpan/Database-ManagedHandle@0.003
 Database::Migrator                  0.14  pkg:cpan/Database-Migrator@0.14
 Database::Migrator::Core            0.14  pkg:cpan/Database-Migrator@0.14
@@ -67803,7 +67803,7 @@ Dist::Milla                        1.000022  pkg:cpan/Dist-Milla@v1.0.22
 Dist::Milla::App                   1.000022  pkg:cpan/Dist-Milla@v1.0.22
 Dist::PolicyFiles                   0.09  pkg:cpan/Dist-PolicyFiles@0.09
 Dist::Setup                         0.17  pkg:cpan/Dist-Setup@0.17
-Dist::Starter                      v0.2.1  pkg:cpan/Dist-Starter@v0.2.1
+Dist::Starter                      v0.3.0  pkg:cpan/Dist-Starter@v0.3.0
 Dist::Starter::Context             v0.1.0  pkg:cpan/Dist-Starter@v0.1.0
 Dist::Starter::Exception           v0.1.0  pkg:cpan/Dist-Starter@v0.1.0
 Dist::Surveyor                     0.023  pkg:cpan/Dist-Surveyor@0.023
@@ -108912,13 +108912,13 @@ Internals                            1.1  pkg:cpan/Internals@1.1
 Internals::CountObjects             0.05  pkg:cpan/Internals-CountObjects@0.05
 Internals::DumpArenas               0.12  pkg:cpan/Internals-DumpArenas@0.12
 Internals::GraphArenas              0.01  pkg:cpan/Internals-GraphArenas@0.01
-InternetData                       1.007000  pkg:cpan/InternetData@1.7.0
-InternetData::Database             1.007000  pkg:cpan/InternetData@1.7.0
-InternetData::Error                1.007000  pkg:cpan/InternetData@1.7.0
-InternetData::Oauth                1.007000  pkg:cpan/InternetData@1.7.0
-InternetData::OauthAccessDeniedError 1.007000  pkg:cpan/InternetData@1.7.0
-InternetData::OauthError           1.007000  pkg:cpan/InternetData@1.7.0
-InternetData::OauthExpiredTokenError 1.007000  pkg:cpan/InternetData@1.7.0
+InternetData                       1.007001  pkg:cpan/InternetData@1.7.1
+InternetData::Database             1.007001  pkg:cpan/InternetData@1.7.1
+InternetData::Error                1.007001  pkg:cpan/InternetData@1.7.1
+InternetData::Oauth                1.007001  pkg:cpan/InternetData@1.7.1
+InternetData::OauthAccessDeniedError 1.007001  pkg:cpan/InternetData@1.7.1
+InternetData::OauthError           1.007001  pkg:cpan/InternetData@1.7.1
+InternetData::OauthExpiredTokenError 1.007001  pkg:cpan/InternetData@1.7.1
 Interpolation                       0.74  pkg:cpan/Interpolation@0.74
 Interpolation::A2A                  0.71  pkg:cpan/Interpolation@0.71
 Interpolation::A2S                  0.71  pkg:cpan/Interpolation@0.71
@@ -238939,17 +238939,17 @@ VOMS::Lite::RSAKey                  0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::SAMLHelper              0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::VOMS                    0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::X509                    0.20  pkg:cpan/VOMS-Lite@0.20
-VPNDetection                       3.004000  pkg:cpan/VPNDetection@3.4.0
-VPNDetection::Bogon                3.004000  pkg:cpan/VPNDetection@3.4.0
-VPNDetection::Bogons               undef  pkg:cpan/VPNDetection@3.4.0
-VPNDetection::Cache                3.004000  pkg:cpan/VPNDetection@3.4.0
-VPNDetection::Database             3.004000  pkg:cpan/VPNDetection@3.4.0
-VPNDetection::Error                3.004000  pkg:cpan/VPNDetection@3.4.0
-VPNDetection::Oauth                3.004000  pkg:cpan/VPNDetection@3.4.0
-VPNDetection::OauthAccessDeniedError 3.004000  pkg:cpan/VPNDetection@3.4.0
-VPNDetection::OauthError           3.004000  pkg:cpan/VPNDetection@3.4.0
-VPNDetection::OauthExpiredTokenError 3.004000  pkg:cpan/VPNDetection@3.4.0
-VPNDetection::Result               3.004000  pkg:cpan/VPNDetection@3.4.0
+VPNDetection                       3.004001  pkg:cpan/VPNDetection@3.4.1
+VPNDetection::Bogon                3.004001  pkg:cpan/VPNDetection@3.4.1
+VPNDetection::Bogons               undef  pkg:cpan/VPNDetection@3.4.1
+VPNDetection::Cache                3.004001  pkg:cpan/VPNDetection@3.4.1
+VPNDetection::Database             3.004001  pkg:cpan/VPNDetection@3.4.1
+VPNDetection::Error                3.004001  pkg:cpan/VPNDetection@3.4.1
+VPNDetection::Oauth                3.004001  pkg:cpan/VPNDetection@3.4.1
+VPNDetection::OauthAccessDeniedError 3.004001  pkg:cpan/VPNDetection@3.4.1
+VPNDetection::OauthError           3.004001  pkg:cpan/VPNDetection@3.4.1
+VPNDetection::OauthExpiredTokenError 3.004001  pkg:cpan/VPNDetection@3.4.1
+VPNDetection::Result               3.004001  pkg:cpan/VPNDetection@3.4.1
 VR::API                             1.06  pkg:cpan/VR-API@1.06
 VR::API::Partner                    1.01  pkg:cpan/VR-API@1.05
 VRML                                1.10  pkg:cpan/VRML@1.10
