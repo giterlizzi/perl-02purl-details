@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 30 Sep 2026 00:56:15 GMT
-Line-Count: 261385
+Last-Updated: Wed, 30 Sep 2026 07:47:48 GMT
+Line-Count: 261394
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -7041,18 +7041,18 @@ Apache2::AMFTrace                   4.33  pkg:cpan/Apache2-ApacheMobileFilter@4.
 Apache2::AMFWURFLFilter             4.33  pkg:cpan/Apache2-ApacheMobileFilter@4.33
 Apache2::AMFWURFLFilterMemcached    4.33  pkg:cpan/Apache2-ApacheMobileFilter@4.33
 Apache2::AMFWebService              4.33  pkg:cpan/Apache2-ApacheMobileFilter@4.33
-Apache2::API                       0.005005  pkg:cpan/Apache2-API@v0.5.5
-Apache2::API::DateTime             0.001003  pkg:cpan/Apache2-API@v0.5.5
-Apache2::API::Headers::Accept      0.001000  pkg:cpan/Apache2-API@v0.5.5
-Apache2::API::Headers::AcceptCommon 0.001000  pkg:cpan/Apache2-API@v0.5.5
-Apache2::API::Headers::AcceptLanguage 0.001000  pkg:cpan/Apache2-API@v0.5.5
-Apache2::API::Password             0.005005  pkg:cpan/Apache2-API@v0.5.5
-Apache2::API::Query                0.001000  pkg:cpan/Apache2-API@v0.5.5
-Apache2::API::Request              0.004002  pkg:cpan/Apache2-API@v0.5.5
-Apache2::API::Request::Params      0.001001  pkg:cpan/Apache2-API@v0.5.5
-Apache2::API::Request::Upload      0.001000  pkg:cpan/Apache2-API@v0.5.5
-Apache2::API::Response             0.002000  pkg:cpan/Apache2-API@v0.5.5
-Apache2::API::Status               0.002001  pkg:cpan/Apache2-API@v0.5.5
+Apache2::API                       0.005006  pkg:cpan/Apache2-API@v0.5.6
+Apache2::API::DateTime             0.001003  pkg:cpan/Apache2-API@v0.5.6
+Apache2::API::Headers::Accept      0.001000  pkg:cpan/Apache2-API@v0.5.6
+Apache2::API::Headers::AcceptCommon 0.001000  pkg:cpan/Apache2-API@v0.5.6
+Apache2::API::Headers::AcceptLanguage 0.001000  pkg:cpan/Apache2-API@v0.5.6
+Apache2::API::Password             0.005006  pkg:cpan/Apache2-API@v0.5.6
+Apache2::API::Query                0.001000  pkg:cpan/Apache2-API@v0.5.6
+Apache2::API::Request              0.004003  pkg:cpan/Apache2-API@v0.5.6
+Apache2::API::Request::Params      0.001001  pkg:cpan/Apache2-API@v0.5.6
+Apache2::API::Request::Upload      0.001000  pkg:cpan/Apache2-API@v0.5.6
+Apache2::API::Response             0.002000  pkg:cpan/Apache2-API@v0.5.6
+Apache2::API::Status               0.002001  pkg:cpan/Apache2-API@v0.5.6
 Apache2::ASP                        2.46  pkg:cpan/Apache2-ASP@2.46
 Apache2::ASP::API                  undef  pkg:cpan/Apache2-ASP@2.46
 Apache2::ASP::ASPDOM::Document     undef  pkg:cpan/Apache2-ASP@2.46
@@ -58318,18 +58318,18 @@ Data::Bool                         2.98014  pkg:cpan/Data-Bool@2.98014
 Data::Bool::Impl                   2.98014  pkg:cpan/Data-Bool@2.98014
 Data::Bucketeer                    0.006  pkg:cpan/Data-Bucketeer@0.006
 Data::Buffer                        0.06  pkg:cpan/Data-Buffer@0.06
-Data::Buffer::Shared                0.08  pkg:cpan/Data-Buffer-Shared@0.08
-Data::Buffer::Shared::F32           0.08  pkg:cpan/Data-Buffer-Shared@0.08
-Data::Buffer::Shared::F64           0.08  pkg:cpan/Data-Buffer-Shared@0.08
-Data::Buffer::Shared::I16           0.08  pkg:cpan/Data-Buffer-Shared@0.08
-Data::Buffer::Shared::I32           0.08  pkg:cpan/Data-Buffer-Shared@0.08
-Data::Buffer::Shared::I64           0.08  pkg:cpan/Data-Buffer-Shared@0.08
-Data::Buffer::Shared::I8            0.08  pkg:cpan/Data-Buffer-Shared@0.08
-Data::Buffer::Shared::Str           0.08  pkg:cpan/Data-Buffer-Shared@0.08
-Data::Buffer::Shared::U16           0.08  pkg:cpan/Data-Buffer-Shared@0.08
-Data::Buffer::Shared::U32           0.08  pkg:cpan/Data-Buffer-Shared@0.08
-Data::Buffer::Shared::U64           0.08  pkg:cpan/Data-Buffer-Shared@0.08
-Data::Buffer::Shared::U8            0.08  pkg:cpan/Data-Buffer-Shared@0.08
+Data::Buffer::Shared                0.09  pkg:cpan/Data-Buffer-Shared@0.09
+Data::Buffer::Shared::F32           0.09  pkg:cpan/Data-Buffer-Shared@0.09
+Data::Buffer::Shared::F64           0.09  pkg:cpan/Data-Buffer-Shared@0.09
+Data::Buffer::Shared::I16           0.09  pkg:cpan/Data-Buffer-Shared@0.09
+Data::Buffer::Shared::I32           0.09  pkg:cpan/Data-Buffer-Shared@0.09
+Data::Buffer::Shared::I64           0.09  pkg:cpan/Data-Buffer-Shared@0.09
+Data::Buffer::Shared::I8            0.09  pkg:cpan/Data-Buffer-Shared@0.09
+Data::Buffer::Shared::Str           0.09  pkg:cpan/Data-Buffer-Shared@0.09
+Data::Buffer::Shared::U16           0.09  pkg:cpan/Data-Buffer-Shared@0.09
+Data::Buffer::Shared::U32           0.09  pkg:cpan/Data-Buffer-Shared@0.09
+Data::Buffer::Shared::U64           0.09  pkg:cpan/Data-Buffer-Shared@0.09
+Data::Buffer::Shared::U8            0.09  pkg:cpan/Data-Buffer-Shared@0.09
 Data::Bvec                          1.01  pkg:cpan/Data-Bvec@1.01
 Data::BytesLocker                  v1.0.8.0  pkg:cpan/Crypt-NaCl-Sodium@1.0.8.0
 Data::CEFACT::Unit                  0.01  pkg:cpan/Data-CEFACT-Unit@0.01
@@ -58628,8 +58628,8 @@ Data::CouchDB::Connection           0.14  pkg:cpan/Data-CouchDB@0.14
 Data::CouchDB::Exceptions           0.14  pkg:cpan/Data-CouchDB@0.14
 Data::CouchDB::Handler              0.14  pkg:cpan/Data-CouchDB@0.14
 Data::CouchDB::Role::VersionedData  0.14  pkg:cpan/Data-CouchDB@0.14
-Data::CountMinSketch::Shared        0.05  pkg:cpan/Data-CountMinSketch-Shared@0.05
-Data::CountingBloomFilter::Shared   0.03  pkg:cpan/Data-CountingBloomFilter-Shared@0.03
+Data::CountMinSketch::Shared        0.06  pkg:cpan/Data-CountMinSketch-Shared@0.06
+Data::CountingBloomFilter::Shared   0.04  pkg:cpan/Data-CountingBloomFilter-Shared@0.04
 Data::Couplet                      0.02004314  pkg:cpan/Data-Couplet@0.02004314
 Data::Couplet::Extension           0.02004314  pkg:cpan/Data-Couplet@0.02004314
 Data::Couplet::Plugin::BasicReorder 0.02004314  pkg:cpan/Data-Couplet@0.02004314
@@ -58954,8 +58954,8 @@ Data::Feed::Web::Content           undef  pkg:cpan/Data-Feed@0.00015
 Data::Feed::Web::Enclosure         undef  pkg:cpan/Data-Feed@0.00015
 Data::Feed::Web::Entry             undef  pkg:cpan/Data-Feed@0.00015
 Data::Feed::Web::Feed              undef  pkg:cpan/Data-Feed@0.00015
-Data::Fenwick2D::Shared             0.03  pkg:cpan/Data-Fenwick2D-Shared@0.03
-Data::Fenwick::Shared               0.04  pkg:cpan/Data-Fenwick-Shared@0.04
+Data::Fenwick2D::Shared             0.04  pkg:cpan/Data-Fenwick2D-Shared@0.04
+Data::Fenwick::Shared               0.05  pkg:cpan/Data-Fenwick-Shared@0.05
 Data::Fetch                         0.07  pkg:cpan/Data-Fetch@0.07
 Data::FetchPath                     0.02  pkg:cpan/Data-FetchPath@0.02
 Data::File::Map                     0.09  pkg:cpan/Data-File-Map@0.09
@@ -59677,7 +59677,7 @@ Data::InputMonster::Util::Catalyst 0.006  pkg:cpan/Data-InputMonster-Util-Cataly
 Data::Inspect                       0.05  pkg:cpan/Data-Inspect@0.05
 Data::Integer                      0.007  pkg:cpan/Data-Integer@0.007
 Data::Interactive::Inspect          0.07  pkg:cpan/Data-Interactive-Inspect@0.07
-Data::Intern::Shared                0.05  pkg:cpan/Data-Intern-Shared@0.05
+Data::Intern::Shared                0.06  pkg:cpan/Data-Intern-Shared@0.06
 Data::IntervalTree::Shared          0.03  pkg:cpan/Data-IntervalTree-Shared@0.03
 Data::Iter                           0.2  pkg:cpan/Data-Iter@0.2
 Data::Iterator                     0.021  pkg:cpan/Data-Iterator@0.021?ext=zip
@@ -62120,15 +62120,15 @@ Data::Structure::Util               0.16  pkg:cpan/Data-Structure-Util@0.16
 Data::Swap                          0.08  pkg:cpan/Data-Swap@0.08
 Data::Sync                          0.08  pkg:cpan/Data-Sync@0.08
 Data::Sync::Advanced               undef  pkg:cpan/Data-Sync@0.08
-Data::Sync::Shared                  0.09  pkg:cpan/Data-Sync-Shared@0.09
-Data::Sync::Shared::Barrier         0.09  pkg:cpan/Data-Sync-Shared@0.09
-Data::Sync::Shared::Condvar         0.09  pkg:cpan/Data-Sync-Shared@0.09
-Data::Sync::Shared::Condvar::Guard  0.09  pkg:cpan/Data-Sync-Shared@0.09
-Data::Sync::Shared::Once            0.09  pkg:cpan/Data-Sync-Shared@0.09
-Data::Sync::Shared::RWLock          0.09  pkg:cpan/Data-Sync-Shared@0.09
-Data::Sync::Shared::RWLock::Guard   0.09  pkg:cpan/Data-Sync-Shared@0.09
-Data::Sync::Shared::Semaphore       0.09  pkg:cpan/Data-Sync-Shared@0.09
-Data::Sync::Shared::Semaphore::Guard  0.09  pkg:cpan/Data-Sync-Shared@0.09
+Data::Sync::Shared                  0.10  pkg:cpan/Data-Sync-Shared@0.10
+Data::Sync::Shared::Barrier         0.10  pkg:cpan/Data-Sync-Shared@0.10
+Data::Sync::Shared::Condvar         0.10  pkg:cpan/Data-Sync-Shared@0.10
+Data::Sync::Shared::Condvar::Guard  0.10  pkg:cpan/Data-Sync-Shared@0.10
+Data::Sync::Shared::Once            0.10  pkg:cpan/Data-Sync-Shared@0.10
+Data::Sync::Shared::RWLock          0.10  pkg:cpan/Data-Sync-Shared@0.10
+Data::Sync::Shared::RWLock::Guard   0.10  pkg:cpan/Data-Sync-Shared@0.10
+Data::Sync::Shared::Semaphore       0.10  pkg:cpan/Data-Sync-Shared@0.10
+Data::Sync::Shared::Semaphore::Guard  0.10  pkg:cpan/Data-Sync-Shared@0.10
 Data::TDMA                         undef  pkg:cpan/Data-TDMA@0.2
 Data::TDMA::Constants              undef  pkg:cpan/Data-TDMA@0.2
 Data::TDMA::Day                    undef  pkg:cpan/Data-TDMA@0.2
@@ -64537,16 +64537,16 @@ DateTime::LazyInit::Constructor_new 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ex
 DateTime::LazyInit::Constructor_now 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ext=tgz
 DateTime::LazyInit::Constructor_today 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ext=tgz
 DateTime::LeapSecond                1.67  pkg:cpan/DateTime@1.67
-DateTime::Lite                     0.009000  pkg:cpan/DateTime-Lite@v0.9.0
-DateTime::Lite::Duration           0.001002  pkg:cpan/DateTime-Lite@v0.9.0
-DateTime::Lite::Exception          0.001000  pkg:cpan/DateTime-Lite@v0.9.0
-DateTime::Lite::Infinite           0.001000  pkg:cpan/DateTime-Lite@v0.9.0
-DateTime::Lite::Infinite::Future   0.001000  pkg:cpan/DateTime-Lite@v0.9.0
-DateTime::Lite::Infinite::Past     0.001000  pkg:cpan/DateTime-Lite@v0.9.0
-DateTime::Lite::PP                 0.001002  pkg:cpan/DateTime-Lite@v0.9.0
-DateTime::Lite::TimeZone           0.005009  pkg:cpan/DateTime-Lite@v0.9.0
-DateTime::Lite::_FakeLocale        0.001000  pkg:cpan/DateTime-Lite@v0.9.0
-DateTime::Lite::_Thawed            0.009000  pkg:cpan/DateTime-Lite@v0.9.0
+DateTime::Lite                     0.010000  pkg:cpan/DateTime-Lite@v0.10.0
+DateTime::Lite::Duration           0.001002  pkg:cpan/DateTime-Lite@v0.10.0
+DateTime::Lite::Exception          0.001000  pkg:cpan/DateTime-Lite@v0.10.0
+DateTime::Lite::Infinite           0.001000  pkg:cpan/DateTime-Lite@v0.10.0
+DateTime::Lite::Infinite::Future   0.001000  pkg:cpan/DateTime-Lite@v0.10.0
+DateTime::Lite::Infinite::Past     0.001000  pkg:cpan/DateTime-Lite@v0.10.0
+DateTime::Lite::PP                 0.001002  pkg:cpan/DateTime-Lite@v0.10.0
+DateTime::Lite::TimeZone           0.005009  pkg:cpan/DateTime-Lite@v0.10.0
+DateTime::Lite::_FakeLocale        0.001000  pkg:cpan/DateTime-Lite@v0.10.0
+DateTime::Lite::_Thawed            0.010000  pkg:cpan/DateTime-Lite@v0.10.0
 DateTime::Locale                    1.46  pkg:cpan/DateTime-Locale@1.46
 DateTime::Locale::Base              1.46  pkg:cpan/DateTime-Locale@1.46
 DateTime::Locale::Catalog           1.46  pkg:cpan/DateTime-Locale@1.46
@@ -108914,13 +108914,13 @@ Internals                            1.1  pkg:cpan/Internals@1.1
 Internals::CountObjects             0.05  pkg:cpan/Internals-CountObjects@0.05
 Internals::DumpArenas               0.12  pkg:cpan/Internals-DumpArenas@0.12
 Internals::GraphArenas              0.01  pkg:cpan/Internals-GraphArenas@0.01
-InternetData                       1.007001  pkg:cpan/InternetData@1.7.1
-InternetData::Database             1.007001  pkg:cpan/InternetData@1.7.1
-InternetData::Error                1.007001  pkg:cpan/InternetData@1.7.1
-InternetData::Oauth                1.007001  pkg:cpan/InternetData@1.7.1
-InternetData::OauthAccessDeniedError 1.007001  pkg:cpan/InternetData@1.7.1
-InternetData::OauthError           1.007001  pkg:cpan/InternetData@1.7.1
-InternetData::OauthExpiredTokenError 1.007001  pkg:cpan/InternetData@1.7.1
+InternetData                       1.008000  pkg:cpan/InternetData@1.8.0
+InternetData::Database             1.008000  pkg:cpan/InternetData@1.8.0
+InternetData::Error                1.008000  pkg:cpan/InternetData@1.8.0
+InternetData::Oauth                1.008000  pkg:cpan/InternetData@1.8.0
+InternetData::OauthAccessDeniedError 1.008000  pkg:cpan/InternetData@1.8.0
+InternetData::OauthError           1.008000  pkg:cpan/InternetData@1.8.0
+InternetData::OauthExpiredTokenError 1.008000  pkg:cpan/InternetData@1.8.0
 Interpolation                       0.74  pkg:cpan/Interpolation@0.74
 Interpolation::A2A                  0.71  pkg:cpan/Interpolation@0.71
 Interpolation::A2S                  0.71  pkg:cpan/Interpolation@0.71
@@ -145915,6 +145915,12 @@ Net::PulseMeter::Sensor::UniqCounter undef  pkg:cpan/Net-PulseMeter@0.07
 Net::Pushover                      0.021  pkg:cpan/Net-Pushover@0.021
 Net::QMQP                           0.01  pkg:cpan/Net-QMQP@0.01
 Net::QMTP                           0.06  pkg:cpan/Net-QMTP@0.06
+Net::QUIC                           0.01  pkg:cpan/Net-QUIC@0.01
+Net::QUIC::Connection               0.01  pkg:cpan/Net-QUIC@0.01
+Net::QUIC::Datagram                 0.01  pkg:cpan/Net-QUIC@0.01
+Net::QUIC::Driver                   0.01  pkg:cpan/Net-QUIC@0.01
+Net::QUIC::Endpoint                 0.01  pkg:cpan/Net-QUIC@0.01
+Net::QUIC::Stream                   0.01  pkg:cpan/Net-QUIC@0.01
 Net::RADSWrappers                   0.01  pkg:cpan/Net-RADSWrappers@0.01?ext=tgz
 Net::RBLClient                       0.4  pkg:cpan/Net-RBLClient@0.5
 Net::RCON                            1.0  pkg:cpan/Net-RCON@1.0
@@ -189891,6 +189897,7 @@ Perl::Critic::Policy::RegularExpressions::ProhibitEmptyAlternatives 0.006  pkg:c
 Perl::Critic::Policy::RegularExpressions::ProhibitEnumeratedClasses 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::RegularExpressions::ProhibitEscapedMetacharacters 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::RegularExpressions::ProhibitFixedStringMatches 1.156  pkg:cpan/Perl-Critic@1.156
+Perl::Critic::Policy::RegularExpressions::ProhibitRegexForStringEquality 0.001  pkg:cpan/Perl-Critic-Policy-RegularExpressions-ProhibitRegexForStringEquality@0.001
 Perl::Critic::Policy::RegularExpressions::ProhibitRegexToChomp 0.001  pkg:cpan/Perl-Critic-Policy-RegularExpressions-ProhibitRegexToChomp@0.001
 Perl::Critic::Policy::RegularExpressions::ProhibitRegexToStripAffix 0.001  pkg:cpan/Perl-Critic-Policy-RegularExpressions-ProhibitRegexToStripAffix@0.001
 Perl::Critic::Policy::RegularExpressions::ProhibitSingleCharAlternation 1.156  pkg:cpan/Perl-Critic@1.156
@@ -189924,8 +189931,10 @@ Perl::Critic::Policy::Subroutines::ProhibitManyArgs 1.156  pkg:cpan/Perl-Critic@
 Perl::Critic::Policy::Subroutines::ProhibitNestedSubs 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Subroutines::ProhibitQualifiedSubDeclarations  0.08  pkg:cpan/Perl-Critic-StricterSubs@0.08
 Perl::Critic::Policy::Subroutines::ProhibitReturnSort 1.156  pkg:cpan/Perl-Critic@1.156
+Perl::Critic::Policy::Subroutines::ProhibitSingleUseLexicalSubs 0.001  pkg:cpan/Perl-Critic-Policy-Subroutines-ProhibitSingleUseLexicalSubs@0.001
 Perl::Critic::Policy::Subroutines::ProhibitSubroutinePrototypes 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Subroutines::ProhibitTailRecursion 0.001  pkg:cpan/Perl-Critic-Policy-Subroutines-ProhibitTailRecursion@0.001
+Perl::Critic::Policy::Subroutines::ProhibitUnderscorePrivateSubs 0.001  pkg:cpan/Perl-Critic-Policy-Subroutines-ProhibitUnderscorePrivateSubs@0.001
 Perl::Critic::Policy::Subroutines::ProhibitUnusedPrivateSubroutines 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Subroutines::ProtectPrivateSubs 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Subroutines::RequireArgUnpacking 1.156  pkg:cpan/Perl-Critic@1.156
@@ -230275,7 +230284,7 @@ Time::Nanos                        0.001006  pkg:cpan/Time-Nanos@v0.1.6
 Time::Normalize                     0.09  pkg:cpan/Time-Normalize@0.09
 Time::Object                        1.00  pkg:cpan/Time-Object@1.00
 Time::OlsonTZ::Clustered           0.002  pkg:cpan/Time-OlsonTZ-Clustered@0.002
-Time::OlsonTZ::Data                0.202604  pkg:cpan/Time-OlsonTZ-Data@0.202604
+Time::OlsonTZ::Data                0.202605  pkg:cpan/Time-OlsonTZ-Data@0.202605
 Time::OlsonTZ::Download            0.009  pkg:cpan/Time-OlsonTZ-Download@0.009
 Time::Out                          v1.0.0  pkg:cpan/Time-Out@1.0.0
 Time::Out::Exception               v1.0.0  pkg:cpan/Time-Out@1.0.0
