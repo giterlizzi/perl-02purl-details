@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 02 Oct 2026 10:12:59 GMT
-Line-Count: 261557
+Last-Updated: Fri, 02 Oct 2026 17:12:32 GMT
+Line-Count: 261548
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5466,9 +5466,6 @@ Alzabo::Schema                         2  pkg:cpan/Alzabo@0.92
 Alzabo::Table                          2  pkg:cpan/Alzabo@0.92
 Alzabo::Utils                      undef  pkg:cpan/Alzabo@0.92
 Amazon::API                        v2.8.2  pkg:cpan/Amazon-API@2.8.2
-Amazon::API::Botocore              v2.4.6  pkg:cpan/Amazon-API@2.4.6
-Amazon::API::Botocore::Pod         v2.4.6  pkg:cpan/Amazon-API@2.4.6
-Amazon::API::Botocore::Services    v2.4.6  pkg:cpan/Amazon-API@2.4.6
 Amazon::API::Botocore::Shape       v2.8.2  pkg:cpan/Amazon-API@2.8.2
 Amazon::API::Botocore::Shape::Serializer v2.8.2  pkg:cpan/Amazon-API@2.8.2
 Amazon::API::Botocore::Shape::Utils v2.8.2  pkg:cpan/Amazon-API@2.8.2
@@ -5477,23 +5474,16 @@ Amazon::API::CHIME                 v1.2.7  pkg:cpan/Amazon-API@1.3.3
 Amazon::API::CLI                       0  pkg:cpan/Amazon-API@2.8.2
 Amazon::API::CloudSearch           v1.2.7  pkg:cpan/Amazon-API@1.3.3
 Amazon::API::CloudSearchDomain     v1.2.7  pkg:cpan/Amazon-API@1.3.3
-Amazon::API::CloudWatchLogs        v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::Constants             v2.8.2  pkg:cpan/Amazon-API@2.8.2
-Amazon::API::EC2                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
-Amazon::API::ECR                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
-Amazon::API::ECS                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::EndpointContext::Compiler     0  pkg:cpan/Amazon-API@2.8.2
 Amazon::API::EndpointResolver      v2.8.2  pkg:cpan/Amazon-API@2.8.2
 Amazon::API::Error                 v2.8.2  pkg:cpan/Amazon-API@2.8.2
 Amazon::API::HTTP::Response            0  pkg:cpan/Amazon-API@2.8.2
 Amazon::API::HTTP::UserAgent           0  pkg:cpan/Amazon-API@2.8.2
 Amazon::API::Help                  v1.0.3  pkg:cpan/Amazon-API-Help@1.0.3
-Amazon::API::ModuleNames               0  pkg:cpan/Amazon-API@2.4.6
 Amazon::API::NullLogger                0  pkg:cpan/Amazon-API@2.8.2
 Amazon::API::Paginator             v2.8.2  pkg:cpan/Amazon-API@2.8.2
 Amazon::API::Paginator::Compiler   v2.8.2  pkg:cpan/Amazon-API@2.8.2
-Amazon::API::Pod::Parser            0.01  pkg:cpan/Amazon-API@2.4.6
-Amazon::API::Pod::Simple::Text      0.01  pkg:cpan/Amazon-API@2.4.6
 Amazon::API::Provenance                0  pkg:cpan/Amazon-API@2.8.2
 Amazon::API::Provenance::Role::KMS     0  pkg:cpan/Amazon-API@2.8.2
 Amazon::API::Provenance::Role::Records     0  pkg:cpan/Amazon-API@2.8.2
@@ -5502,10 +5492,6 @@ Amazon::API::Role::Botocore            0  pkg:cpan/Amazon-API@2.8.2
 Amazon::API::Role::ModuleNames         0  pkg:cpan/Amazon-API@2.8.2
 Amazon::API::Role::Services            0  pkg:cpan/Amazon-API@2.8.2
 Amazon::API::S3::ServiceHook           0  pkg:cpan/Amazon-API@2.8.2
-Amazon::API::SQS                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
-Amazon::API::SSM                   v1.3.5  pkg:cpan/Amazon-API@1.3.5
-Amazon::API::STS                   v2011.6.15  pkg:cpan/Amazon-API@2.4.6
-Amazon::API::SecretsManager        v1.3.5  pkg:cpan/Amazon-API@1.3.5
 Amazon::API::ServiceHook               0  pkg:cpan/Amazon-API@2.8.2
 Amazon::API::Signature4            v2.8.2  pkg:cpan/Amazon-API@2.8.2
 Amazon::API::Template                  0  pkg:cpan/Amazon-API@2.8.2
@@ -15148,6 +15134,10 @@ App::Sysadmin::Log::Simple::File   0.009  pkg:cpan/App-Sysadmin-Log-Simple@0.009
 App::Sysadmin::Log::Simple::HTTP   0.009  pkg:cpan/App-Sysadmin-Log-Simple@0.009
 App::Sysadmin::Log::Simple::Twitter 0.009  pkg:cpan/App-Sysadmin-Log-Simple@0.009
 App::Sysadmin::Log::Simple::UDP    0.009  pkg:cpan/App-Sysadmin-Log-Simple@0.009
+App::Syslogd                       0.002  pkg:cpan/App-Syslogd@0.002.0
+App::Syslogd::Cache                0.002  pkg:cpan/App-Syslogd@0.002.0
+App::Syslogd::I18N                 0.002  pkg:cpan/App-Syslogd@0.002.0
+App::Syslogd::I18N::en             0.002  pkg:cpan/App-Syslogd@0.002.0
 App::SystemdUtils                  0.001  pkg:cpan/App-SystemdUtils@0.001
 App::TDWTF                         0.003  pkg:cpan/WebService-TDWTF@0.003
 App::TEWK::tt                       0.04  pkg:cpan/App-TEWK-tt@0.04
@@ -17050,13 +17040,13 @@ App::randskip                      0.0003  pkg:cpan/App-randskip@0.0003
 App::rank                          0.007  pkg:cpan/App-rank@0.007
 App::rbinperl                      0.700  pkg:cpan/App-rlibperl@0.700
 App::rcmd                          undef  pkg:cpan/App-rcmd@0.005
-App::rdapper                        1.25  pkg:cpan/App-rdapper@1.25
-App::rdapper::l10n                 undef  pkg:cpan/App-rdapper@1.25
-App::rdapper::l10n::de             undef  pkg:cpan/App-rdapper@1.25
-App::rdapper::l10n::en             undef  pkg:cpan/App-rdapper@1.25
-App::rdapper::l10n::es             undef  pkg:cpan/App-rdapper@1.25
-App::rdapper::l10n::fr             undef  pkg:cpan/App-rdapper@1.25
-App::rdapper::l10n::pt             undef  pkg:cpan/App-rdapper@1.25
+App::rdapper                        1.26  pkg:cpan/App-rdapper@1.26
+App::rdapper::l10n                 undef  pkg:cpan/App-rdapper@1.26
+App::rdapper::l10n::de             undef  pkg:cpan/App-rdapper@1.26
+App::rdapper::l10n::en             undef  pkg:cpan/App-rdapper@1.26
+App::rdapper::l10n::es             undef  pkg:cpan/App-rdapper@1.26
+App::rdapper::l10n::fr             undef  pkg:cpan/App-rdapper@1.26
+App::rdapper::l10n::pt             undef  pkg:cpan/App-rdapper@1.26
 App::rdfns                         20230619  pkg:cpan/RDF-NS@20230619
 App::readbuffer                     0.02  pkg:cpan/App-readbuffer@0.02
 App::realpath                      0.004  pkg:cpan/App-realpath@0.004
@@ -17583,7 +17573,7 @@ Archive::Any::Plugin::Zip          0.0946  pkg:cpan/Archive-Any@0.0946
 Archive::Any::Tar                  0.0946  pkg:cpan/Archive-Any@0.0946
 Archive::Any::Zip                  0.0946  pkg:cpan/Archive-Any@0.0946
 Archive::Ar                         2.02  pkg:cpan/Archive-Ar@2.02
-Archive::Ar::Libarchive             2.09  pkg:cpan/Archive-Ar-Libarchive@2.09
+Archive::Ar::Libarchive             2.10  pkg:cpan/Archive-Ar-Libarchive@2.10
 Archive::Ar::Ng                     2.04  pkg:cpan/Archive-Ar-Ng@2.04
 Archive::Asar                       0.02  pkg:cpan/Archive-Asar@0.02
 Archive::BagIt                     0.101  pkg:cpan/Archive-BagIt@0.101
@@ -32761,7 +32751,7 @@ CGI::IDS::Whitelist                1.0217  pkg:cpan/CGI-IDS@1.0217
 CGI::ImageMagick                   undef  pkg:cpan/Apache-ImageMagick@2.0b7
 CGI::ImageMagick::SubRequest       undef  pkg:cpan/Apache-ImageMagick@2.0b7
 CGI::Imagemap                          2  pkg:cpan/CGI-Imagemap@2.01?ext=tgz
-CGI::Info                           1.14  pkg:cpan/CGI-Info@1.14
+CGI::Info                           1.15  pkg:cpan/CGI-Info@1.15
 CGI::Inspect                         0.5  pkg:cpan/CGI-Inspect@0.5
 CGI::Inspect::Here                 undef  pkg:cpan/CGI-Inspect@0.5
 CGI::Inspect::Plugin               undef  pkg:cpan/CGI-Inspect@0.5
@@ -63072,7 +63062,7 @@ Database::BI::Model::DataSource    0.009  pkg:cpan/Database-BI@0.009.0
 Database::Cassandra::Client            1  pkg:cpan/Database-Cassandra-Client@1
 Database::DumpTruck                  1.2  pkg:cpan/Database-DumpTruck@1.2
 Database::Format::Text              1.03  pkg:cpan/Database-Format-Text@1.03
-Database::Join                     0.008001  pkg:cpan/Database-Join@0.008.1
+Database::Join                     0.008002  pkg:cpan/Database-Join@0.008.2
 Database::ManagedHandle            0.003  pkg:cpan/Database-ManagedHandle@0.003
 Database::Migrator                  0.14  pkg:cpan/Database-Migrator@0.14
 Database::Migrator::Core            0.14  pkg:cpan/Database-Migrator@0.14
@@ -65177,6 +65167,7 @@ Defaults::Mauke                     0.10  pkg:cpan/Defaults-Mauke@0.10
 Defaults::Modern                   0.011001  pkg:cpan/Defaults-Modern@0.011001
 Defaults::Modern::Define           0.011001  pkg:cpan/Defaults-Modern@0.011001
 Defined::KV                        0.001  pkg:cpan/Defined-KV@0.001
+Deflate::Faster                     0.01  pkg:cpan/Deflate-Faster@0.01
 DelayLine                           0.02  pkg:cpan/DelayLine@0.02
 DelayRequest                       undef  pkg:cpan/App-HTTP_Proxy_IMP@0.957
 Deliantra                           2.01  pkg:cpan/Deliantra@2.01
@@ -65286,7 +65277,7 @@ DesktopWorkspaceRole::Source::DefHash 0.001  pkg:cpan/DesktopWorkspaceRoles-Stan
 DesktopWorkspaceRole::Spec::Basic  v1.0.1  pkg:cpan/DesktopWorkspace@1.0.1
 DesktopWorkspaceRoles::Standard    0.001  pkg:cpan/DesktopWorkspaceRoles-Standard@0.001
 DestructAssign                     0.002007  pkg:cpan/DestructAssign@0.002007
-Destructure::Declare                1.00  pkg:cpan/Destructure-Declare@1.00
+Destructure::Declare                1.01  pkg:cpan/Destructure-Declare@1.01
 Detect::Module                       1.2  pkg:cpan/Detect-Module@1.2
 Detect::Module::Internal             1.2  pkg:cpan/Detect-Module@1.2
 Dev::Bollocks                       0.06  pkg:cpan/Dev-Bollocks@0.06
@@ -136285,7 +136276,7 @@ Moose::Meta::TypeConstraint::Enum  2.4001  pkg:cpan/Moose@2.4001
 Moose::Meta::TypeConstraint::Parameterizable 2.4001  pkg:cpan/Moose@2.4001
 Moose::Meta::TypeConstraint::Parameterized 2.4001  pkg:cpan/Moose@2.4001
 Moose::Meta::TypeConstraint::Registry 2.4001  pkg:cpan/Moose@2.4001
-Moose::Meta::TypeConstraint::Role  2.2207  pkg:cpan/Moose@2.2207
+Moose::Meta::TypeConstraint::Role  2.4001  pkg:cpan/Moose@2.4001
 Moose::Meta::TypeConstraint::TypeArray v0.1.0  pkg:cpan/MooseX-TypeArray@0.1.0
 Moose::Meta::TypeConstraint::Union 2.4001  pkg:cpan/Moose@2.4001
 Moose::Micro                       0.002  pkg:cpan/Moose-Micro@0.002
@@ -154768,14 +154759,14 @@ PHP                                 0.15  pkg:cpan/PHP@0.15
 PHP::Array                          0.15  pkg:cpan/PHP@0.15
 PHP::ArrayHandle                    0.15  pkg:cpan/PHP@0.15
 PHP::DateTime                       0.09  pkg:cpan/PHP-DateTime@0.09
-PHP::Decode                        0.302  pkg:cpan/PHP-Decode@0.302
-PHP::Decode::Array                  0.15  pkg:cpan/PHP-Decode@0.302
-PHP::Decode::Func                  undef  pkg:cpan/PHP-Decode@0.302
-PHP::Decode::Op                     0.41  pkg:cpan/PHP-Decode@0.302
-PHP::Decode::Parser                0.127  pkg:cpan/PHP-Decode@0.302
-PHP::Decode::Test                  0.301  pkg:cpan/PHP-Decode@0.302
-PHP::Decode::Tokenizer              1.47  pkg:cpan/PHP-Decode@0.302
-PHP::Decode::Transformer           0.301  pkg:cpan/PHP-Decode@0.302
+PHP::Decode                        0.303  pkg:cpan/PHP-Decode@0.303
+PHP::Decode::Array                  0.15  pkg:cpan/PHP-Decode@0.303
+PHP::Decode::Func                  0.132  pkg:cpan/PHP-Decode@0.303
+PHP::Decode::Op                     0.41  pkg:cpan/PHP-Decode@0.303
+PHP::Decode::Parser                0.130  pkg:cpan/PHP-Decode@0.303
+PHP::Decode::Test                  0.301  pkg:cpan/PHP-Decode@0.303
+PHP::Decode::Tokenizer              1.48  pkg:cpan/PHP-Decode@0.303
+PHP::Decode::Transformer           0.301  pkg:cpan/PHP-Decode@0.303
 PHP::Entity                         0.15  pkg:cpan/PHP@0.15
 PHP::Functions::File                0.04  pkg:cpan/PHP-Functions-File@0.04
 PHP::Functions::Mail                0.04  pkg:cpan/PHP-Functions-Mail@0.04
@@ -191685,8 +191676,8 @@ Physics::RayTransfer::Observer     0.003  pkg:cpan/Physics-RayTransfer@0.003
 Physics::RayTransfer::Space        0.003  pkg:cpan/Physics-RayTransfer@0.003
 Physics::Springs                    1.01  pkg:cpan/Physics-Springs@1.01
 Physics::Springs::Friction          1.01  pkg:cpan/Physics-Springs-Friction@1.01
-Physics::Terrain                    0.01  pkg:cpan/Physics-Terrain@0.01
-Physics::Terrain::Snapshot          0.01  pkg:cpan/Physics-Terrain@0.01
+Physics::Terrain                    0.02  pkg:cpan/Physics-Terrain@0.02
+Physics::Terrain::Snapshot          0.02  pkg:cpan/Physics-Terrain@0.02
 Physics::UEMColumn                 0.901  pkg:cpan/Physics-UEMColumn@0.901
 Physics::UEMColumn::Accelerator        0  pkg:cpan/Physics-UEMColumn@0.901
 Physics::UEMColumn::Auxiliary          0  pkg:cpan/Physics-UEMColumn@0.901
@@ -200859,7 +200850,7 @@ Redis::LeaderBoard::Member         undef  pkg:cpan/Redis-LeaderBoard@1.11
 Redis::LeaderBoardMulti             0.02  pkg:cpan/Redis-LeaderBoardMulti@0.02
 Redis::LeaderBoardMulti::Member    undef  pkg:cpan/Redis-LeaderBoardMulti@0.02
 Redis::List                        2.000  pkg:cpan/Redis@2.000
-Redis::Namespace                    0.14  pkg:cpan/Redis-Namespace@0.14
+Redis::Namespace                    0.15  pkg:cpan/Redis-Namespace@0.15
 Redis::OpenTracing                 0.003000  pkg:cpan/Redis-OpenTracing@v0.3.0
 Redis::Parser::XS                   0.02  pkg:cpan/Redis-Parser-XS@0.02
 Redis::Queue                        0.01  pkg:cpan/Redis-Queue@0.01
@@ -226412,7 +226403,7 @@ Test::Perl::Tags                    0.32  pkg:cpan/Perl-Tags@0.32
 Test::PerlTidy                     20260110  pkg:cpan/Test-PerlTidy@20260110
 Test::PerlTidy::Concurrent         undef  pkg:cpan/Test-PerlTidy-Concurrent@0.1.1
 Test::PerlTidy::XTFiles            0.001  pkg:cpan/Test-PerlTidy-XTFiles@0.001
-Test::Permissions                  0.001  pkg:cpan/Test-Permissions@0.001.0
+Test::Permissions                  0.001001  pkg:cpan/Test-Permissions@0.001.1
 Test::Ping                         0.210  pkg:cpan/Test-Ping@0.210
 Test::Ping::Ties::BIND             0.210  pkg:cpan/Test-Ping@0.210
 Test::Ping::Ties::HIRES            0.210  pkg:cpan/Test-Ping@0.210
@@ -249556,9 +249547,9 @@ Webservice::OVH::Order::Hosting     0.48  pkg:cpan/Webservice-OVH@0.48
 Webservice::OVH::Order::Hosting::Web  0.48  pkg:cpan/Webservice-OVH@0.48
 Webservice::Overleaf::API           0.06  pkg:cpan/Webservice-Overleaf-API@0.06
 Webservice::Purgomalum::API        1.001  pkg:cpan/Webservice-Purgomalum-API@1.001
-Webservice::Rosary::API            0.001007  pkg:cpan/Webservice-Rosary-API@0.1.7
-Webservice::Rosary::Stream         0.001007  pkg:cpan/Webservice-Rosary-API@0.1.7
-Webservice::Rosary::Tradition      undef  pkg:cpan/Webservice-Rosary-API@0.1.7
+Webservice::Rosary::API            0.001008  pkg:cpan/Webservice-Rosary-API@0.1.8
+Webservice::Rosary::Stream         0.001007  pkg:cpan/Webservice-Rosary-API@0.1.8
+Webservice::Rosary::Tradition      undef  pkg:cpan/Webservice-Rosary-API@0.1.8
 Webservice::Sendy::API               0.8  pkg:cpan/Webservice-Sendy-API@0.8
 Webservice::Shipment                0.06  pkg:cpan/Webservice-Shipment@0.06
 Webservice::Shipment::Carrier      undef  pkg:cpan/Webservice-Shipment@0.06
