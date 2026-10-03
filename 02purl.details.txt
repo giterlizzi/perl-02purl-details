@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 02 Oct 2026 21:40:43 GMT
-Line-Count: 261270
+Last-Updated: Sat, 03 Oct 2026 00:52:20 GMT
+Line-Count: 261272
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -63031,8 +63031,8 @@ DataWarehouse::Aggregate            0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::Dimension            0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::ETL                  0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::Fact                 0.04  pkg:cpan/DataWarehouse@0.04
-Database::Abstraction               0.46  pkg:cpan/Database-Abstraction@0.46
-Database::Abstraction::Query        0.46  pkg:cpan/Database-Abstraction@0.46
+Database::Abstraction               0.47  pkg:cpan/Database-Abstraction@0.47
+Database::Abstraction::Query        0.47  pkg:cpan/Database-Abstraction@0.47
 Database::Async                    0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Backoff           0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Backoff::Exponential 0.019  pkg:cpan/Database-Async@0.019
@@ -145814,12 +145814,12 @@ Net::PulseMeter::Sensor::UniqCounter undef  pkg:cpan/Net-PulseMeter@0.07
 Net::Pushover                      0.021  pkg:cpan/Net-Pushover@0.021
 Net::QMQP                           0.01  pkg:cpan/Net-QMQP@0.01
 Net::QMTP                           0.06  pkg:cpan/Net-QMTP@0.06
-Net::QUIC                           0.01  pkg:cpan/Net-QUIC@0.01
-Net::QUIC::Connection               0.01  pkg:cpan/Net-QUIC@0.01
-Net::QUIC::Datagram                 0.01  pkg:cpan/Net-QUIC@0.01
-Net::QUIC::Driver                   0.01  pkg:cpan/Net-QUIC@0.01
-Net::QUIC::Endpoint                 0.01  pkg:cpan/Net-QUIC@0.01
-Net::QUIC::Stream                   0.01  pkg:cpan/Net-QUIC@0.01
+Net::QUIC                           0.02  pkg:cpan/Net-QUIC@0.02
+Net::QUIC::Connection               0.02  pkg:cpan/Net-QUIC@0.02
+Net::QUIC::Datagram                 0.02  pkg:cpan/Net-QUIC@0.02
+Net::QUIC::Driver                   0.02  pkg:cpan/Net-QUIC@0.02
+Net::QUIC::Endpoint                 0.02  pkg:cpan/Net-QUIC@0.02
+Net::QUIC::Stream                   0.02  pkg:cpan/Net-QUIC@0.02
 Net::RADSWrappers                   0.01  pkg:cpan/Net-RADSWrappers@0.01?ext=tgz
 Net::RBLClient                       0.4  pkg:cpan/Net-RBLClient@0.5
 Net::RCON                            1.0  pkg:cpan/Net-RCON@1.0
@@ -234413,6 +234413,8 @@ Usergrid::Core                      0.11  pkg:cpan/Usergrid-Client@0.11
 Usergrid::Entity                   undef  pkg:cpan/Usergrid-Client@0.22
 Usergrid::Request                  undef  pkg:cpan/Usergrid-Client@0.22
 Users                              undef  pkg:cpan/WWW-SnipeIT@0.05
+Ushuffle                            1.00  pkg:cpan/Ushuffle@1.00
+Ushuffle::Shuffler                  1.00  pkg:cpan/Ushuffle@1.00
 Util::Any                           0.25  pkg:cpan/Util-Any@0.25
 Util::BLOB                           0.1  pkg:cpan/RDFStore@0.51
 Util::CommandLine                   1.10  pkg:cpan/Util-CommandLine@1.10
