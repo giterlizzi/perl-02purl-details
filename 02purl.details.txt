@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 03 Oct 2026 00:52:20 GMT
-Line-Count: 261272
+Last-Updated: Sat, 03 Oct 2026 07:24:38 GMT
+Line-Count: 261277
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5284,6 +5284,7 @@ Alien::m4                           0.21  pkg:cpan/Alien-m4@0.21
 Alien::mpg123                      0.003  pkg:cpan/Alien-mpg123@0.003
 Alien::nasm                         0.23  pkg:cpan/Alien-nasm@0.23
 Alien::nghttp2                     0.003  pkg:cpan/Alien-nghttp2@0.003
+Alien::nghttp3                      0.01  pkg:cpan/Alien-nghttp3@0.01
 Alien::ngtcp2                       0.03  pkg:cpan/Alien-ngtcp2@0.03
 Alien::nragent                      0.08  pkg:cpan/Alien-nragent@0.08
 Alien::onnxruntime                 undef  pkg:cpan/Alien-onnxruntime@0.1
@@ -8726,9 +8727,9 @@ App::ASCIIUtils                    0.003  pkg:cpan/App-ASCIIUtils@0.003
 App::AVR::Fuses                     0.01  pkg:cpan/App-AVR-Fuses@0.01
 App::AWS                               0  pkg:cpan/App-FargateStack@1.0.50
 App::AYCABTU                        0.13  pkg:cpan/App-AYCABTU@0.13
-App::Access2CSV                    0.001  pkg:cpan/App-Access2CSV@0.001.0
-App::Access2CSV::Exporter          0.001  pkg:cpan/App-Access2CSV@0.001.0
-App::Access2CSV::I18N              0.001  pkg:cpan/App-Access2CSV@0.001.0
+App::Access2CSV                    0.001001  pkg:cpan/App-Access2CSV@0.001.1
+App::Access2CSV::Exporter          0.001001  pkg:cpan/App-Access2CSV@0.001.1
+App::Access2CSV::I18N              0.001001  pkg:cpan/App-Access2CSV@0.001.1
 App::Ack                           3.010000  pkg:cpan/ack@v3.10.0
 App::Ack::ConfigDefault            undef  pkg:cpan/ack@v3.10.0
 App::Ack::ConfigFinder             undef  pkg:cpan/ack@v3.10.0
@@ -10313,22 +10314,22 @@ App::Egaz::Command::raxml          undef  pkg:cpan/App-Egaz@0.2.9
 App::Egaz::Command::repeatmasker   undef  pkg:cpan/App-Egaz@0.2.9
 App::Egaz::Command::template       undef  pkg:cpan/App-Egaz@0.2.9
 App::Egaz::Common                  undef  pkg:cpan/App-Egaz@0.2.9
-App::ElasticSearch::Utilities        9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
-App::ElasticSearch::Utilities::Aggregations undef  pkg:cpan/App-ElasticSearch-Utilities@9.0
-App::ElasticSearch::Utilities::Connection   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
-App::ElasticSearch::Utilities::HTTPRequest   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
-App::ElasticSearch::Utilities::Metrics   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
-App::ElasticSearch::Utilities::Query   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
-App::ElasticSearch::Utilities::QueryString   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
-App::ElasticSearch::Utilities::QueryString::BareWords   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
-App::ElasticSearch::Utilities::QueryString::FileExpansion   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
-App::ElasticSearch::Utilities::QueryString::IP   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
-App::ElasticSearch::Utilities::QueryString::Nested   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
-App::ElasticSearch::Utilities::QueryString::Plugin   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
-App::ElasticSearch::Utilities::QueryString::Ranges   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
-App::ElasticSearch::Utilities::QueryString::Text   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
-App::ElasticSearch::Utilities::QueryString::Underscored   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
-App::ElasticSearch::Utilities::VersionHacks   9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
+App::ElasticSearch::Utilities        9.1  pkg:cpan/App-ElasticSearch-Utilities@9.1
+App::ElasticSearch::Utilities::Aggregations undef  pkg:cpan/App-ElasticSearch-Utilities@9.1
+App::ElasticSearch::Utilities::Connection   9.1  pkg:cpan/App-ElasticSearch-Utilities@9.1
+App::ElasticSearch::Utilities::HTTPRequest   9.1  pkg:cpan/App-ElasticSearch-Utilities@9.1
+App::ElasticSearch::Utilities::Metrics   9.1  pkg:cpan/App-ElasticSearch-Utilities@9.1
+App::ElasticSearch::Utilities::Query   9.1  pkg:cpan/App-ElasticSearch-Utilities@9.1
+App::ElasticSearch::Utilities::QueryString   9.1  pkg:cpan/App-ElasticSearch-Utilities@9.1
+App::ElasticSearch::Utilities::QueryString::BareWords   9.1  pkg:cpan/App-ElasticSearch-Utilities@9.1
+App::ElasticSearch::Utilities::QueryString::FileExpansion   9.1  pkg:cpan/App-ElasticSearch-Utilities@9.1
+App::ElasticSearch::Utilities::QueryString::IP   9.1  pkg:cpan/App-ElasticSearch-Utilities@9.1
+App::ElasticSearch::Utilities::QueryString::Nested   9.1  pkg:cpan/App-ElasticSearch-Utilities@9.1
+App::ElasticSearch::Utilities::QueryString::Plugin   9.1  pkg:cpan/App-ElasticSearch-Utilities@9.1
+App::ElasticSearch::Utilities::QueryString::Ranges   9.1  pkg:cpan/App-ElasticSearch-Utilities@9.1
+App::ElasticSearch::Utilities::QueryString::Text   9.1  pkg:cpan/App-ElasticSearch-Utilities@9.1
+App::ElasticSearch::Utilities::QueryString::Underscored   9.1  pkg:cpan/App-ElasticSearch-Utilities@9.1
+App::ElasticSearch::Utilities::VersionHacks   9.1  pkg:cpan/App-ElasticSearch-Utilities@9.1
 App::ElbV2                             0  pkg:cpan/App-FargateStack@1.0.50
 App::Elog                           0.08  pkg:cpan/App-Elog@0.08
 App::EmacsLockfileUtils            0.001  pkg:cpan/App-EmacsLockfileUtils@0.001
@@ -111968,6 +111969,9 @@ Kubernetes::Comb::Endpoint         0.001  pkg:cpan/Kubernetes-Comb@0.001
 Kubernetes::Comb::Role::Client     0.001  pkg:cpan/Kubernetes-Comb@0.001
 Kubernetes::Comb::Role::Static     0.001  pkg:cpan/Kubernetes-Comb@0.001
 Kubernetes::Comb::Role::Upstream   0.001  pkg:cpan/Kubernetes-Comb@0.001
+Kubernetes::Comb::SVG              0.001  pkg:cpan/Kubernetes-Comb-SVG@0.001
+Kubernetes::Comb::SVG::Cell        0.001  pkg:cpan/Kubernetes-Comb-SVG@0.001
+Kubernetes::Comb::SVG::Layout      0.001  pkg:cpan/Kubernetes-Comb-SVG@0.001
 Kubernetes::Comb::Static           0.001  pkg:cpan/Kubernetes-Comb@0.001
 Kubernetes::Comb::Upstream::K8s    0.001  pkg:cpan/Kubernetes-Comb@0.001
 Kubernetes::Comb::Upstream::Static 0.001  pkg:cpan/Kubernetes-Comb@0.001
@@ -145814,12 +145818,12 @@ Net::PulseMeter::Sensor::UniqCounter undef  pkg:cpan/Net-PulseMeter@0.07
 Net::Pushover                      0.021  pkg:cpan/Net-Pushover@0.021
 Net::QMQP                           0.01  pkg:cpan/Net-QMQP@0.01
 Net::QMTP                           0.06  pkg:cpan/Net-QMTP@0.06
-Net::QUIC                           0.02  pkg:cpan/Net-QUIC@0.02
-Net::QUIC::Connection               0.02  pkg:cpan/Net-QUIC@0.02
-Net::QUIC::Datagram                 0.02  pkg:cpan/Net-QUIC@0.02
-Net::QUIC::Driver                   0.02  pkg:cpan/Net-QUIC@0.02
-Net::QUIC::Endpoint                 0.02  pkg:cpan/Net-QUIC@0.02
-Net::QUIC::Stream                   0.02  pkg:cpan/Net-QUIC@0.02
+Net::QUIC                           0.03  pkg:cpan/Net-QUIC@0.03
+Net::QUIC::Connection               0.03  pkg:cpan/Net-QUIC@0.03
+Net::QUIC::Datagram                 0.03  pkg:cpan/Net-QUIC@0.03
+Net::QUIC::Driver                   0.03  pkg:cpan/Net-QUIC@0.03
+Net::QUIC::Endpoint                 0.03  pkg:cpan/Net-QUIC@0.03
+Net::QUIC::Stream                   0.03  pkg:cpan/Net-QUIC@0.03
 Net::RADSWrappers                   0.01  pkg:cpan/Net-RADSWrappers@0.01?ext=tgz
 Net::RBLClient                       0.4  pkg:cpan/Net-RBLClient@0.5
 Net::RCON                            1.0  pkg:cpan/Net-RCON@1.0
@@ -158171,6 +158175,7 @@ Parse::CommandLine                  0.02  pkg:cpan/Parse-CommandLine@0.02
 Parse::CommandLine::Regexp         0.002  pkg:cpan/Parse-CommandLine-Regexp@0.002
 Parse::Constructor::Arguments      0.091570  pkg:cpan/Parse-Constructor-Arguments@0.091570
 Parse::Crontab                      0.05  pkg:cpan/Parse-Crontab@0.05
+Parse::Crontab::English             0.01  pkg:cpan/Parse-Crontab-English@0.01
 Parse::Crontab::Entry              undef  pkg:cpan/Parse-Crontab@0.05
 Parse::Crontab::Entry::Comment     undef  pkg:cpan/Parse-Crontab@0.05
 Parse::Crontab::Entry::Empty       undef  pkg:cpan/Parse-Crontab@0.05
@@ -215159,7 +215164,7 @@ SimpleDBI                           0.02  pkg:cpan/SimpleDBI@0.02
 SimpleDBI::mysql                   undef  pkg:cpan/SimpleDBI@0.02
 SimpleException                    0.103  pkg:cpan/Exceptions@0.103
 SimpleFlake                         0.11  pkg:cpan/SimpleFlake@0.11
-SimpleFlow                         0.191  pkg:cpan/SimpleFlow@0.191
+SimpleFlow                         0.192  pkg:cpan/SimpleFlow@0.192
 SimpleMock                          0.05  pkg:cpan/SimpleMock@0.05
 SimpleMock::Mocks::DBI              0.05  pkg:cpan/SimpleMock@0.05
 SimpleMock::Mocks::LWP::UserAgent   0.05  pkg:cpan/SimpleMock@0.05
@@ -232262,7 +232267,7 @@ Types::DateTime                    0.002  pkg:cpan/Types-DateTime@0.002
 Types::Digest                      v0.1.2  pkg:cpan/Types-Digest@0.1.2
 Types::Dist                         0.10  pkg:cpan/Types-RENEEB@0.10
 Types::DualVar                     0.001  pkg:cpan/Types-DualVar@0.001
-Types::ElasticSearch                 9.0  pkg:cpan/App-ElasticSearch-Utilities@9.0
+Types::ElasticSearch                 9.1  pkg:cpan/App-ElasticSearch-Utilities@9.1
 Types::Encodings                   0.003  pkg:cpan/Types-Encodings@0.003
 Types::Equal                        0.03  pkg:cpan/Types-Equal@0.03
 Types::Git                          0.04  pkg:cpan/Types-Git@0.04
