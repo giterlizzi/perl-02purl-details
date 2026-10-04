@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 04 Oct 2026 17:56:02 GMT
-Line-Count: 261324
+Last-Updated: Sun, 04 Oct 2026 20:48:12 GMT
+Line-Count: 261376
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -4214,6 +4214,22 @@ Aion::Type::DNF                    undef  pkg:cpan/Aion@2.4
 Aion::Type::Espresso               undef  pkg:cpan/Aion@2.4
 Aion::Type::Lim                    undef  pkg:cpan/Aion@2.4
 Aion::Types                        undef  pkg:cpan/Aion@2.4
+Airlock                            0.001  pkg:cpan/Airlock@0.001
+Airlock::Client                    0.001  pkg:cpan/Airlock@0.001
+Airlock::Code                      0.001  pkg:cpan/Airlock@0.001
+Airlock::Factor                    0.001  pkg:cpan/Airlock@0.001
+Airlock::Factor::Callback          0.001  pkg:cpan/Airlock@0.001
+Airlock::Factor::TOTP              0.001  pkg:cpan/Airlock@0.001
+Airlock::Factor::Upstream          0.001  pkg:cpan/Airlock@0.001
+Airlock::HTTPMessage               0.001  pkg:cpan/Airlock@0.001
+Airlock::Policy                    0.001  pkg:cpan/Airlock@0.001
+Airlock::QR                        0.001  pkg:cpan/Airlock@0.001
+Airlock::Result                    0.001  pkg:cpan/Airlock@0.001
+Airlock::Role::Endpoints           0.001  pkg:cpan/Airlock@0.001
+Airlock::Store::Memory             0.001  pkg:cpan/Airlock@0.001
+Airlock::Test::Store               0.001  pkg:cpan/Airlock@0.001
+Airlock::Upstream::Authentik       0.001  pkg:cpan/Airlock@0.001
+Airlock::Upstream::Keycloak        0.001  pkg:cpan/Airlock@0.001
 Aitextcleaner::FormattingResidue   0.002000  pkg:cpan/Aitextcleaner-FormattingResidue@0.2.0
 Akado::Account                     1.002000  pkg:cpan/Akado-Account@1.2.0
 Akamai::Edgegrid                   1.000005  pkg:cpan/Akamai-Edgegrid@1.0.5
@@ -124368,19 +124384,19 @@ Mail::Colander::Server::Util       0.004  pkg:cpan/Mail-Colander@0.004
 Mail::Colander::Session            0.004  pkg:cpan/Mail-Colander@0.004
 Mail::Convert::Mbox::ToEml          0.06  pkg:cpan/Mail-Convert-Mbox-ToEml@0.06
 Mail::DKIM                         1.20240923  pkg:cpan/Mail-DKIM@1.20240923
-Mail::DKIM2                         0.10  pkg:cpan/Mail-DKIM2@0.10
-Mail::DKIM2::Common                 0.10  pkg:cpan/Mail-DKIM2@0.10
-Mail::DKIM2::DSN                    0.10  pkg:cpan/Mail-DKIM2@0.10
-Mail::DKIM2::HeaderParser           0.10  pkg:cpan/Mail-DKIM2@0.10
-Mail::DKIM2::MessageInstance        0.10  pkg:cpan/Mail-DKIM2@0.10
-Mail::DKIM2::MessageStore           0.10  pkg:cpan/Mail-DKIM2@0.10
-Mail::DKIM2::Reflector              0.10  pkg:cpan/Mail-DKIM2@0.10
-Mail::DKIM2::Signature              0.10  pkg:cpan/Mail-DKIM2@0.10
-Mail::DKIM2::Signer                 0.10  pkg:cpan/Mail-DKIM2@0.10
-Mail::DKIM2::Split                  0.10  pkg:cpan/Mail-DKIM2@0.10
-Mail::DKIM2::TagValueList           0.10  pkg:cpan/Mail-DKIM2@0.10
-Mail::DKIM2::Validate               0.10  pkg:cpan/Mail-DKIM2@0.10
-Mail::DKIM2::Verifier               0.10  pkg:cpan/Mail-DKIM2@0.10
+Mail::DKIM2                         0.12  pkg:cpan/Mail-DKIM2@0.12
+Mail::DKIM2::Common                 0.12  pkg:cpan/Mail-DKIM2@0.12
+Mail::DKIM2::DSN                    0.12  pkg:cpan/Mail-DKIM2@0.12
+Mail::DKIM2::HeaderParser           0.12  pkg:cpan/Mail-DKIM2@0.12
+Mail::DKIM2::MessageInstance        0.12  pkg:cpan/Mail-DKIM2@0.12
+Mail::DKIM2::MessageStore           0.12  pkg:cpan/Mail-DKIM2@0.12
+Mail::DKIM2::Reflector              0.12  pkg:cpan/Mail-DKIM2@0.12
+Mail::DKIM2::Signature              0.12  pkg:cpan/Mail-DKIM2@0.12
+Mail::DKIM2::Signer                 0.12  pkg:cpan/Mail-DKIM2@0.12
+Mail::DKIM2::Split                  0.12  pkg:cpan/Mail-DKIM2@0.12
+Mail::DKIM2::TagValueList           0.12  pkg:cpan/Mail-DKIM2@0.12
+Mail::DKIM2::Validate               0.12  pkg:cpan/Mail-DKIM2@0.12
+Mail::DKIM2::Verifier               0.12  pkg:cpan/Mail-DKIM2@0.12
 Mail::DKIM::ARC::MessageSignature  1.20240923  pkg:cpan/Mail-DKIM@1.20240923
 Mail::DKIM::ARC::Seal              1.20240923  pkg:cpan/Mail-DKIM@1.20240923
 Mail::DKIM::ARC::Signer            1.20240923  pkg:cpan/Mail-DKIM@1.20240923
@@ -124829,8 +124845,8 @@ Mail::Milter::Authentication::Handler::BIMI 4.20261001  pkg:cpan/Mail-Milter-Aut
 Mail::Milter::Authentication::Handler::Blocker 4.20261001  pkg:cpan/Mail-Milter-Authentication@4.20261001
 Mail::Milter::Authentication::Handler::ClamAV 2.20180611  pkg:cpan/Mail-Milter-Authentication-Extra@2.20180611
 Mail::Milter::Authentication::Handler::DKIM 4.20261001  pkg:cpan/Mail-Milter-Authentication@4.20261001
-Mail::Milter::Authentication::Handler::DKIM2Sign  0.10  pkg:cpan/Mail-DKIM2@0.10
-Mail::Milter::Authentication::Handler::DKIM2Verify  0.10  pkg:cpan/Mail-DKIM2@0.10
+Mail::Milter::Authentication::Handler::DKIM2Sign  0.12  pkg:cpan/Mail-DKIM2@0.12
+Mail::Milter::Authentication::Handler::DKIM2Verify  0.12  pkg:cpan/Mail-DKIM2@0.12
 Mail::Milter::Authentication::Handler::DMARC 4.20261001  pkg:cpan/Mail-Milter-Authentication@4.20261001
 Mail::Milter::Authentication::Handler::IPRev 4.20261001  pkg:cpan/Mail-Milter-Authentication@4.20261001
 Mail::Milter::Authentication::Handler::LocalIP 4.20261001  pkg:cpan/Mail-Milter-Authentication@4.20261001
@@ -140439,6 +140455,14 @@ Net::Async::AMQP::Server::VHost    2.000  pkg:cpan/Net-Async-AMQP@2.000
 Net::Async::AMQP::Storage          2.000  pkg:cpan/Net-Async-AMQP@2.000
 Net::Async::AMQP::Utils            2.000  pkg:cpan/Net-Async-AMQP@2.000
 Net::Async::ArtNet                  0.04  pkg:cpan/Net-Async-ArtNet@0.04
+Net::Async::Authentik              0.001  pkg:cpan/Net-Async-Authentik@0.001
+Net::Async::Authentik::API         0.001  pkg:cpan/Net-Async-Authentik@0.001
+Net::Async::Authentik::Error       0.001  pkg:cpan/Net-Async-Authentik@0.001
+Net::Async::Authentik::Error::API  0.001  pkg:cpan/Net-Async-Authentik@0.001
+Net::Async::Authentik::Error::Network 0.001  pkg:cpan/Net-Async-Authentik@0.001
+Net::Async::Authentik::Error::Validation 0.001  pkg:cpan/Net-Async-Authentik@0.001
+Net::Async::Authentik::OIDC        0.001  pkg:cpan/Net-Async-Authentik@0.001
+Net::Async::Authentik::Role::HTTP  0.001  pkg:cpan/Net-Async-Authentik@0.001
 Net::Async::Beanstalk              0.002  pkg:cpan/Net-Async-Beanstalk@0.002
 Net::Async::Beanstalk::Constant    0.001  pkg:cpan/Net-Async-Beanstalk@0.002
 Net::Async::Beanstalk::Receive     0.001  pkg:cpan/Net-Async-Beanstalk@0.002
@@ -140505,6 +140529,15 @@ Net::Async::IMAP::Client           0.004  pkg:cpan/Net-Async-IMAP@0.004
 Net::Async::IMAP::Server           0.003  pkg:cpan/Net-Async-IMAP@0.004
 Net::Async::IRC                     0.12  pkg:cpan/Net-Async-IRC@0.12
 Net::Async::IRC::Protocol           0.12  pkg:cpan/Net-Async-IRC@0.12
+Net::Async::Keycloak               0.001  pkg:cpan/Net-Async-Keycloak@0.001
+Net::Async::Keycloak::Admin        0.001  pkg:cpan/Net-Async-Keycloak@0.001
+Net::Async::Keycloak::Auth         0.001  pkg:cpan/Net-Async-Keycloak@0.001
+Net::Async::Keycloak::Error        0.001  pkg:cpan/Net-Async-Keycloak@0.001
+Net::Async::Keycloak::Error::API   0.001  pkg:cpan/Net-Async-Keycloak@0.001
+Net::Async::Keycloak::Error::Network 0.001  pkg:cpan/Net-Async-Keycloak@0.001
+Net::Async::Keycloak::Error::Validation 0.001  pkg:cpan/Net-Async-Keycloak@0.001
+Net::Async::Keycloak::OIDC         0.001  pkg:cpan/Net-Async-Keycloak@0.001
+Net::Async::Keycloak::Role::HTTP   0.001  pkg:cpan/Net-Async-Keycloak@0.001
 Net::Async::Kubernetes             0.009  pkg:cpan/Net-Async-Kubernetes@0.009
 Net::Async::Kubernetes::Controller 0.009  pkg:cpan/Net-Async-Kubernetes@0.009
 Net::Async::Kubernetes::PortForwardSession 0.009  pkg:cpan/Net-Async-Kubernetes@0.009
@@ -233995,28 +234028,28 @@ UnRTF                              undef  pkg:cpan/UnRTF@0.003
 UnRTF::Test                        undef  pkg:cpan/UnRTF@0.003
 Unamerican::Truth                   1.08  pkg:cpan/Unamerican-Truth@1.08
 UnazuSan                            0.03  pkg:cpan/UnazuSan@0.03
-Unblock::HTTP1                      0.01  pkg:cpan/Unblock-HTTP1@0.01
-Unblock::HTTP1::Client              0.01  pkg:cpan/Unblock-HTTP1@0.01
-Unblock::HTTP1::Server              0.01  pkg:cpan/Unblock-HTTP1@0.01
-Unblock::HTTP1::Transaction         0.01  pkg:cpan/Unblock-HTTP1@0.01
-Unblock::HTTP1::_Engine            undef  pkg:cpan/Unblock-HTTP1@0.01
-Unblock::HTTP1::_Native            undef  pkg:cpan/Unblock-HTTP1@0.01
-Unblock::HTTP1::_Wire              undef  pkg:cpan/Unblock-HTTP1@0.01
+Unblock::HTTP1                      0.02  pkg:cpan/Unblock-HTTP1@0.02
+Unblock::HTTP1::Client              0.02  pkg:cpan/Unblock-HTTP1@0.02
+Unblock::HTTP1::Server              0.02  pkg:cpan/Unblock-HTTP1@0.02
+Unblock::HTTP1::Transaction         0.02  pkg:cpan/Unblock-HTTP1@0.02
+Unblock::HTTP1::_Engine            undef  pkg:cpan/Unblock-HTTP1@0.02
+Unblock::HTTP1::_Native            undef  pkg:cpan/Unblock-HTTP1@0.02
+Unblock::HTTP1::_Wire              undef  pkg:cpan/Unblock-HTTP1@0.02
 Unblock::HTTP2                      0.02  pkg:cpan/Unblock-HTTP2@0.02
 Unblock::HTTP2::Client              0.02  pkg:cpan/Unblock-HTTP2@0.02
 Unblock::HTTP2::Server              0.02  pkg:cpan/Unblock-HTTP2@0.02
 Unblock::HTTP2::Stream              0.02  pkg:cpan/Unblock-HTTP2@0.02
-Unblock::HTTP3                      0.01  pkg:cpan/Unblock-HTTP3@0.01
-Unblock::HTTP3::Body::Reader        0.01  pkg:cpan/Unblock-HTTP3@0.01
-Unblock::HTTP3::Body::Stream        0.01  pkg:cpan/Unblock-HTTP3@0.01
-Unblock::HTTP3::Capsule             0.01  pkg:cpan/Unblock-HTTP3@0.01
-Unblock::HTTP3::Capsule::Parser     0.01  pkg:cpan/Unblock-HTTP3@0.01
-Unblock::HTTP3::Capsule::Stream     0.01  pkg:cpan/Unblock-HTTP3@0.01
-Unblock::HTTP3::Connection          0.01  pkg:cpan/Unblock-HTTP3@0.01
-Unblock::HTTP3::Extension::Stream   0.01  pkg:cpan/Unblock-HTTP3@0.01
+Unblock::HTTP3                      0.02  pkg:cpan/Unblock-HTTP3@0.02
+Unblock::HTTP3::Body::Reader        0.02  pkg:cpan/Unblock-HTTP3@0.02
+Unblock::HTTP3::Body::Stream        0.02  pkg:cpan/Unblock-HTTP3@0.02
+Unblock::HTTP3::Capsule             0.02  pkg:cpan/Unblock-HTTP3@0.02
+Unblock::HTTP3::Capsule::Parser     0.02  pkg:cpan/Unblock-HTTP3@0.02
+Unblock::HTTP3::Capsule::Stream     0.02  pkg:cpan/Unblock-HTTP3@0.02
+Unblock::HTTP3::Connection          0.02  pkg:cpan/Unblock-HTTP3@0.02
+Unblock::HTTP3::Extension::Stream   0.02  pkg:cpan/Unblock-HTTP3@0.02
 Unblock::HTTP3::Request             0.01  pkg:cpan/Unblock-HTTP3@0.01
 Unblock::HTTP3::Response            0.01  pkg:cpan/Unblock-HTTP3@0.01
-Unblock::HTTP3::Transaction         0.01  pkg:cpan/Unblock-HTTP3@0.01
+Unblock::HTTP3::Transaction         0.02  pkg:cpan/Unblock-HTTP3@0.02
 UnclosedOpeningDelim               undef  pkg:cpan/Test-Subunits@0.000003
 UnderscoreJS                        0.07  pkg:cpan/UnderscoreJS@0.07
 Unexpected                         v1.0.1  pkg:cpan/Unexpected@1.0.1
@@ -240572,6 +240605,15 @@ WWW::Auth::Template                undef  pkg:cpan/WWW-Auth@1.01
 WWW::AuthTicket                     0.01  pkg:cpan/WWW-AuthTicket@0.01
 WWW::Authen::Simple                 1.22  pkg:cpan/WWW-Authen-Simple@1.22
 WWW::Authenticate                  0.006000  pkg:cpan/WWW-Authenticate@0.6-1
+WWW::Authentik                     0.001  pkg:cpan/WWW-Authentik@0.001
+WWW::Authentik::API                0.001  pkg:cpan/WWW-Authentik@0.001
+WWW::Authentik::Diff               0.001  pkg:cpan/WWW-Authentik@0.001
+WWW::Authentik::Error              0.001  pkg:cpan/WWW-Authentik@0.001
+WWW::Authentik::Error::API         0.001  pkg:cpan/WWW-Authentik@0.001
+WWW::Authentik::Error::Network     0.001  pkg:cpan/WWW-Authentik@0.001
+WWW::Authentik::Error::Validation  0.001  pkg:cpan/WWW-Authentik@0.001
+WWW::Authentik::OIDC               0.001  pkg:cpan/WWW-Authentik@0.001
+WWW::Authentik::Role::HTTP         0.001  pkg:cpan/WWW-Authentik@0.001
 WWW::Authy                         0.002  pkg:cpan/WWW-Authy@0.002
 WWW::Automate                       0.21  pkg:cpan/WWW-Automate@0.21
 WWW::Autosite                       1.08  pkg:cpan/WWW-Autosite@1.08
@@ -241648,6 +241690,16 @@ WWW::KeePassHttp                   0.020  pkg:cpan/WWW-KeePassHttp@0.020
 WWW::KeePassHttp::Entry            0.020  pkg:cpan/WWW-KeePassHttp@0.020
 WWW::KeePassRest                    0.01  pkg:cpan/WWW-KeePassRest@0.01
 WWW::KeenIO                         0.02  pkg:cpan/WWW-KeenIO@0.02
+WWW::Keycloak                      0.001  pkg:cpan/WWW-Keycloak@0.001
+WWW::Keycloak::Admin               0.001  pkg:cpan/WWW-Keycloak@0.001
+WWW::Keycloak::Auth                0.001  pkg:cpan/WWW-Keycloak@0.001
+WWW::Keycloak::Diff                0.001  pkg:cpan/WWW-Keycloak@0.001
+WWW::Keycloak::Error               0.001  pkg:cpan/WWW-Keycloak@0.001
+WWW::Keycloak::Error::API          0.001  pkg:cpan/WWW-Keycloak@0.001
+WWW::Keycloak::Error::Network      0.001  pkg:cpan/WWW-Keycloak@0.001
+WWW::Keycloak::Error::Validation   0.001  pkg:cpan/WWW-Keycloak@0.001
+WWW::Keycloak::OIDC                0.001  pkg:cpan/WWW-Keycloak@0.001
+WWW::Keycloak::Role::HTTP          0.001  pkg:cpan/WWW-Keycloak@0.001
 WWW::Kickstarter                   1.016000  pkg:cpan/WWW-Kickstarter@v1.16.0
 WWW::Kickstarter::Data             undef  pkg:cpan/WWW-Kickstarter@v1.16.0
 WWW::Kickstarter::Data::Categories undef  pkg:cpan/WWW-Kickstarter@v1.16.0
