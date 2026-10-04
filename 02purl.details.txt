@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 04 Oct 2026 07:38:21 GMT
-Line-Count: 261298
+Last-Updated: Sun, 04 Oct 2026 13:35:57 GMT
+Line-Count: 261312
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -62188,21 +62188,23 @@ Data::Tabulate                      0.09  pkg:cpan/Data-Tabulate@0.09
 Data::Tabulate::Plugin::ASCIITable  0.04  pkg:cpan/Data-Tabulate-Plugin-ASCIITable@0.04
 Data::Tabulate::Plugin::HTMLTable   0.06  pkg:cpan/Data-Tabulate-Plugin-HTMLTable@0.06
 Data::Tabulator                     0.03  pkg:cpan/Data-Tabulator@0.03
-Data::TagDB                        v0.13.0  pkg:cpan/Data-TagDB@v0.13
-Data::TagDB::Cache                 v0.13.0  pkg:cpan/Data-TagDB@v0.13
-Data::TagDB::Cloudlet              v0.13.0  pkg:cpan/Data-TagDB@v0.13
-Data::TagDB::Exporter              v0.13.0  pkg:cpan/Data-TagDB@v0.13
-Data::TagDB::Factory               v0.13.0  pkg:cpan/Data-TagDB@v0.13
-Data::TagDB::Iterator              v0.13.0  pkg:cpan/Data-TagDB@v0.13
-Data::TagDB::Link                  v0.13.0  pkg:cpan/Data-TagDB@v0.13
-Data::TagDB::LinkIterator          v0.13.0  pkg:cpan/Data-TagDB@v0.13
-Data::TagDB::Metadata              v0.13.0  pkg:cpan/Data-TagDB@v0.13
-Data::TagDB::Migration             v0.13.0  pkg:cpan/Data-TagDB@v0.13
-Data::TagDB::MultiIterator         v0.13.0  pkg:cpan/Data-TagDB@v0.13
-Data::TagDB::Relation              v0.13.0  pkg:cpan/Data-TagDB@v0.13
-Data::TagDB::Tag                   v0.13.0  pkg:cpan/Data-TagDB@v0.13
-Data::TagDB::WeakBaseObject        v0.13.0  pkg:cpan/Data-TagDB@v0.13
-Data::TagDB::WellKnown             v0.13.0  pkg:cpan/Data-TagDB@v0.13
+Data::TagDB                        v0.14.0  pkg:cpan/Data-TagDB@v0.14
+Data::TagDB::Cache                 v0.14.0  pkg:cpan/Data-TagDB@v0.14
+Data::TagDB::Cloudlet              v0.14.0  pkg:cpan/Data-TagDB@v0.14
+Data::TagDB::Exporter              v0.14.0  pkg:cpan/Data-TagDB@v0.14
+Data::TagDB::Factory               v0.14.0  pkg:cpan/Data-TagDB@v0.14
+Data::TagDB::Interface::Includeable v0.14.0  pkg:cpan/Data-TagDB@v0.14
+Data::TagDB::Interface::Plugin     v0.14.0  pkg:cpan/Data-TagDB@v0.14
+Data::TagDB::Iterator              v0.14.0  pkg:cpan/Data-TagDB@v0.14
+Data::TagDB::Link                  v0.14.0  pkg:cpan/Data-TagDB@v0.14
+Data::TagDB::LinkIterator          v0.14.0  pkg:cpan/Data-TagDB@v0.14
+Data::TagDB::Metadata              v0.14.0  pkg:cpan/Data-TagDB@v0.14
+Data::TagDB::Migration             v0.14.0  pkg:cpan/Data-TagDB@v0.14
+Data::TagDB::MultiIterator         v0.14.0  pkg:cpan/Data-TagDB@v0.14
+Data::TagDB::Relation              v0.14.0  pkg:cpan/Data-TagDB@v0.14
+Data::TagDB::Tag                   v0.14.0  pkg:cpan/Data-TagDB@v0.14
+Data::TagDB::WeakBaseObject        v0.14.0  pkg:cpan/Data-TagDB@v0.14
+Data::TagDB::WellKnown             v0.14.0  pkg:cpan/Data-TagDB@v0.14
 Data::TagHive                      0.005  pkg:cpan/Data-TagHive@0.005
 Data::TagMap                       v0.3.0  pkg:cpan/Data-TagMap@v0.03
 Data::Taxi                          0.96  pkg:cpan/Data-Taxi@0.96
@@ -108220,6 +108222,7 @@ Imager::File::JPEG                 1.006  pkg:cpan/Imager-File-JPEG@1.006
 Imager::File::PNG                  1.005  pkg:cpan/Imager-File-PNG@1.005
 Imager::File::QOI                  1.000  pkg:cpan/Imager-File-QOI@1.000
 Imager::File::SGI                   0.07  pkg:cpan/Imager@1.037
+Imager::File::SIXEL                1.001  pkg:cpan/Imager-File-SIXEL@1.001
 Imager::File::TIFF                 1.006  pkg:cpan/Imager-File-TIFF@1.006
 Imager::File::WEBP                 0.006  pkg:cpan/Imager-File-WEBP@0.006
 Imager::Fill                       1.013  pkg:cpan/Imager@1.037
@@ -126031,12 +126034,12 @@ Markdown::Pod::Embed::Constant     1.012  pkg:cpan/Markdown-Pod-Embed@1.013
 Markdown::Pod::Embed::Util         1.012  pkg:cpan/Markdown-Pod-Embed@1.013
 Markdown::Pod::Handler             0.008  pkg:cpan/Markdown-Pod@0.008
 Markdown::Pod::script              0.008  pkg:cpan/Markdown-Pod@0.008
-Markdown::Publish                  1.004  pkg:cpan/Markdown-Publish@1.004
-Markdown::Publish::Constant        1.004  pkg:cpan/Markdown-Publish@1.004
-Markdown::Publish::Docusaurus      1.004  pkg:cpan/Markdown-Publish@1.004
-Markdown::Publish::MkDocs          1.004  pkg:cpan/Markdown-Publish@1.004
-Markdown::Publish::Starlight       1.004  pkg:cpan/Markdown-Publish@1.004
-Markdown::Publish::VitePress       1.004  pkg:cpan/Markdown-Publish@1.004
+Markdown::Publish                  1.005  pkg:cpan/Markdown-Publish@1.005
+Markdown::Publish::Constant        1.004  pkg:cpan/Markdown-Publish@1.005
+Markdown::Publish::Docusaurus      1.004  pkg:cpan/Markdown-Publish@1.005
+Markdown::Publish::MkDocs          1.004  pkg:cpan/Markdown-Publish@1.005
+Markdown::Publish::Starlight       1.004  pkg:cpan/Markdown-Publish@1.005
+Markdown::Publish::VitePress       1.004  pkg:cpan/Markdown-Publish@1.005
 Markdown::Render                   v2.0.4  pkg:cpan/Markdown-Render@2.0.4
 Markdown::Simple                    0.22  pkg:cpan/Markdown-Simple@0.22
 Markdown::TOC                       0.01  pkg:cpan/Markdown-TOC@0.01
@@ -222186,8 +222189,8 @@ Task::Map::Tube::Bundle            1.000007  pkg:cpan/Task-Map-Tube-Bundle@v1.0.
 Task::Map::Tube::Metro              0.13  pkg:cpan/Task-Map-Tube-Metro@0.13
 Task::MapMetro::Dev                0.1201  pkg:cpan/Task-MapMetro-Dev@0.1201
 Task::MapMetro::Maps               0.1302  pkg:cpan/Task-MapMetro-Maps@0.1302
-Task::Markdown::Pod                0.001  pkg:cpan/Task-Markdown-Pod@0.001
-Task::Markdown::Publish            0.001  pkg:cpan/Task-Markdown-Publish@0.001
+Task::Markdown::Pod                0.003  pkg:cpan/Task-Markdown-Pod@0.003
+Task::Markdown::Publish            0.003  pkg:cpan/Task-Markdown-Publish@0.003
 Task::Math::Symbolic                1.01  pkg:cpan/Task-Math-Symbolic@1.01
 Task::MemManager                    0.10  pkg:cpan/Task-MemManager@0.10
 Task::MemManager::CMalloc           0.04  pkg:cpan/Task-MemManager-CMalloc@0.04
@@ -233992,6 +233995,17 @@ UnRTF                              undef  pkg:cpan/UnRTF@0.003
 UnRTF::Test                        undef  pkg:cpan/UnRTF@0.003
 Unamerican::Truth                   1.08  pkg:cpan/Unamerican-Truth@1.08
 UnazuSan                            0.03  pkg:cpan/UnazuSan@0.03
+Unblock::HTTP3                      0.01  pkg:cpan/Unblock-HTTP3@0.01
+Unblock::HTTP3::Body::Reader        0.01  pkg:cpan/Unblock-HTTP3@0.01
+Unblock::HTTP3::Body::Stream        0.01  pkg:cpan/Unblock-HTTP3@0.01
+Unblock::HTTP3::Capsule             0.01  pkg:cpan/Unblock-HTTP3@0.01
+Unblock::HTTP3::Capsule::Parser     0.01  pkg:cpan/Unblock-HTTP3@0.01
+Unblock::HTTP3::Capsule::Stream     0.01  pkg:cpan/Unblock-HTTP3@0.01
+Unblock::HTTP3::Connection          0.01  pkg:cpan/Unblock-HTTP3@0.01
+Unblock::HTTP3::Extension::Stream   0.01  pkg:cpan/Unblock-HTTP3@0.01
+Unblock::HTTP3::Request             0.01  pkg:cpan/Unblock-HTTP3@0.01
+Unblock::HTTP3::Response            0.01  pkg:cpan/Unblock-HTTP3@0.01
+Unblock::HTTP3::Transaction         0.01  pkg:cpan/Unblock-HTTP3@0.01
 UnclosedOpeningDelim               undef  pkg:cpan/Test-Subunits@0.000003
 UnderscoreJS                        0.07  pkg:cpan/UnderscoreJS@0.07
 Unexpected                         v1.0.1  pkg:cpan/Unexpected@1.0.1
@@ -234194,8 +234208,8 @@ Unicornify::URL                     1.07  pkg:cpan/Gravatar-URL@1.07
 Unicruft                            0.06  pkg:cpan/Unicruft@0.06
 Uniden::BC75XLT                    0.000004  pkg:cpan/Uniden-BC75XLT@0.0.4
 Unidexer                            0.02  pkg:cpan/Unidexer@0.02
-Uniform                             1.04  pkg:cpan/Uniform@1.04
-Uniform::Exceptions                 1.02  pkg:cpan/Uniform@1.04
+Uniform                             1.05  pkg:cpan/Uniform@1.05
+Uniform::Exceptions                 1.02  pkg:cpan/Uniform@1.05
 Uniform::HTMX                       0.16  pkg:cpan/Uniform-HTMX@0.16
 Uniform::HTMX::Dancer2              1.00  pkg:cpan/Uniform-HTMX-Dancer2@1.00
 Uniform::HTMX::Mojolicious          1.02  pkg:cpan/Uniform-HTMX-Mojolicious@1.02
@@ -234212,7 +234226,7 @@ Uniform::HTTP::Response             0.04  pkg:cpan/Uniform-HTTP@0.04
 Uniform::Upload                     0.02  pkg:cpan/Uniform-Upload@0.02
 Uniform::Upload::File               0.02  pkg:cpan/Uniform-Upload@0.02
 Uniform::Upload::PAGI               1.02  pkg:cpan/Uniform-Upload-PAGI@1.02
-Uniform::Utils                      1.02  pkg:cpan/Uniform@1.04
+Uniform::Utils                      1.02  pkg:cpan/Uniform@1.05
 UnigeneAccessor                    28051999  pkg:cpan/Boulder@1.15
 Uninets::Check                      0.04  pkg:cpan/Uninets-Check@0.04
 Uninets::Check::Modules::HTTP       0.03  pkg:cpan/Uninets-Check-Modules-HTTP@0.03
