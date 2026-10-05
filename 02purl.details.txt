@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 05 Oct 2026 08:03:45 GMT
-Line-Count: 261389
+Last-Updated: Mon, 05 Oct 2026 18:59:51 GMT
+Line-Count: 261390
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -16912,16 +16912,16 @@ App::perlfind::Plugin::SpecialPackages  2.07  pkg:cpan/App-perlfind@2.07
 App::perlfind::Plugin::UseModule    2.07  pkg:cpan/App-perlfind@2.07
 App::perlfind::Plugin::VersionSpecific  2.07  pkg:cpan/App-perlfind@2.07
 App::perlhl                        0.007  pkg:cpan/App-perlhl@0.007
-App::perlimports                   0.000065  pkg:cpan/App-perlimports@0.000065
-App::perlimports::Annotations      0.000065  pkg:cpan/App-perlimports@0.000065
-App::perlimports::CLI              0.000065  pkg:cpan/App-perlimports@0.000065
-App::perlimports::Config           0.000065  pkg:cpan/App-perlimports@0.000065
-App::perlimports::Document         0.000065  pkg:cpan/App-perlimports@0.000065
-App::perlimports::ExportInspector  0.000065  pkg:cpan/App-perlimports@0.000065
-App::perlimports::Include          0.000065  pkg:cpan/App-perlimports@0.000065
-App::perlimports::Role::Logger     0.000065  pkg:cpan/App-perlimports@0.000065
-App::perlimports::Sandbox          0.000065  pkg:cpan/App-perlimports@0.000065
-App::perlimports::Sorter           0.000065  pkg:cpan/App-perlimports@0.000065
+App::perlimports                   0.000066  pkg:cpan/App-perlimports@0.000066
+App::perlimports::Annotations      0.000066  pkg:cpan/App-perlimports@0.000066
+App::perlimports::CLI              0.000066  pkg:cpan/App-perlimports@0.000066
+App::perlimports::Config           0.000066  pkg:cpan/App-perlimports@0.000066
+App::perlimports::Document         0.000066  pkg:cpan/App-perlimports@0.000066
+App::perlimports::ExportInspector  0.000066  pkg:cpan/App-perlimports@0.000066
+App::perlimports::Include          0.000066  pkg:cpan/App-perlimports@0.000066
+App::perlimports::Role::Logger     0.000066  pkg:cpan/App-perlimports@0.000066
+App::perlimports::Sandbox          0.000066  pkg:cpan/App-perlimports@0.000066
+App::perlimports::Sorter           0.000066  pkg:cpan/App-perlimports@0.000066
 App::perlminlint                    0.24  pkg:cpan/App-perlminlint@0.24
 App::perlminlint::Object           undef  pkg:cpan/App-perlminlint@0.24
 App::perlminlint::Plugin           undef  pkg:cpan/App-perlminlint@0.24
@@ -32859,7 +32859,7 @@ CGI::Lazy::Widget::Composite       undef  pkg:cpan/CGI-Lazy@1.10
 CGI::Lazy::Widget::Controller      undef  pkg:cpan/CGI-Lazy@1.10
 CGI::Lazy::Widget::Dataset         undef  pkg:cpan/CGI-Lazy@1.10
 CGI::Lazy::Widget::DomLoader       undef  pkg:cpan/CGI-Lazy@1.10
-CGI::Lingua                         0.85  pkg:cpan/CGI-Lingua@0.85
+CGI::Lingua                         0.86  pkg:cpan/CGI-Lingua@0.86
 CGI::List                           0.05  pkg:cpan/CGI-List@0.05
 CGI::Listman                        0.05  pkg:cpan/CGI-Listman@0.05
 CGI::Listman::dictionary            0.02  pkg:cpan/CGI-Listman@0.02
@@ -45161,7 +45161,7 @@ Chef::REST::Client::sandboxes          1  pkg:cpan/Chef-REST-Client@1.2
 Chef::REST::Client::search             1  pkg:cpan/Chef-REST-Client@1.2
 Chef::Recipe                       undef  pkg:cpan/Chef@0.01
 Chef::Resource                     undef  pkg:cpan/Chef@0.01
-Chem::Structure::Parser            0.037  pkg:cpan/Chem-Structure-Parser@0.037
+Chem::Structure::Parser            0.038  pkg:cpan/Chem-Structure-Parser@0.038
 Chemistry::3DBuilder                0.10  pkg:cpan/Chemistry-3DBuilder@0.10
 Chemistry::Artificial::Graphics     0.01  pkg:cpan/Chemistry-Artificial-Graphics@0.01
 Chemistry::Artificial::SQL          0.01  pkg:cpan/Chemistry-Artificial-SQL@0.01
@@ -48593,9 +48593,9 @@ Config::Model::Backend::OpenSsh::Sshd 2.010002001  pkg:cpan/Config-Model-OpenSsh
 Config::Model::Backend::PerlFile   2.168  pkg:cpan/Config-Model@2.168
 Config::Model::Backend::PlainFile  2.168  pkg:cpan/Config-Model@2.168
 Config::Model::Backend::ShellVar   2.168  pkg:cpan/Config-Model@2.168
-Config::Model::Backend::Systemd    0.261002  pkg:cpan/Config-Model-Systemd@0.261.2
-Config::Model::Backend::Systemd::Layers 0.261002  pkg:cpan/Config-Model-Systemd@0.261.2
-Config::Model::Backend::Systemd::Unit 0.261002  pkg:cpan/Config-Model-Systemd@0.261.2
+Config::Model::Backend::Systemd    0.261003  pkg:cpan/Config-Model-Systemd@0.261.3
+Config::Model::Backend::Systemd::Layers 0.261003  pkg:cpan/Config-Model-Systemd@0.261.3
+Config::Model::Backend::Systemd::Unit 0.261003  pkg:cpan/Config-Model-Systemd@0.261.3
 Config::Model::Backend::Xorg       1.116  pkg:cpan/Config-Model-Xorg@1.116
 Config::Model::Backend::Xorg::Read 1.116  pkg:cpan/Config-Model-Xorg@1.116
 Config::Model::Backend::Xorg::Write 1.116  pkg:cpan/Config-Model-Xorg@1.116
@@ -48657,7 +48657,7 @@ Config::Model::Role::WarpMaster    2.168  pkg:cpan/Config-Model@2.168
 Config::Model::Role::WarpSubject   2.168  pkg:cpan/Config-Model@2.168
 Config::Model::SearchElement       2.168  pkg:cpan/Config-Model@2.168
 Config::Model::SimpleUI            2.168  pkg:cpan/Config-Model@2.168
-Config::Model::Systemd             0.261002  pkg:cpan/Config-Model-Systemd@0.261.2
+Config::Model::Systemd             0.261003  pkg:cpan/Config-Model-Systemd@0.261.3
 Config::Model::TermUI              2.168  pkg:cpan/Config-Model@2.168
 Config::Model::Tester              4.010  pkg:cpan/Config-Model-Tester@4.010
 Config::Model::Tester::Setup       4.010  pkg:cpan/Config-Model-Tester@4.010
@@ -84355,33 +84355,33 @@ Getopt::Module                     1.000000  pkg:cpan/Getopt-Module@v1.0.0
 Getopt::O2                         v1.1.0  pkg:cpan/Getopt-O2@v1.1.0
 Getopt::O2::Rule                   undef  pkg:cpan/Getopt-O2@v1.1.0
 Getopt::OO                          0.07  pkg:cpan/Getopt-OO@0.07
-Getopt::Pad                         0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::Completion             0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::Config                 0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::Config::Format         0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::Config::Format::Json   0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::Config::Format::Yaml   0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::Error                  0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::ExitRequest            0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::Help                   0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::Parser                 0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::Registry               0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::Result                 0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::Result::Generator      0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::Spec                   0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::Spec::Arg              0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::Spec::Config           0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::Spec::Level            0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::Spec::Option           0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::Type                   0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::Type::Dir              0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::Type::File             0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::Type::Float            0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::Type::Int              0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::Type::Number           0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::Type::Path             0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::Type::Url              0.04  pkg:cpan/Getopt-Pad@0.04
-Getopt::Pad::Util                   0.04  pkg:cpan/Getopt-Pad@0.04
+Getopt::Pad                         0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::Completion             0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::Config                 0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::Config::Format         0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::Config::Format::Json   0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::Config::Format::Yaml   0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::Error                  0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::ExitRequest            0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::Help                   0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::Parser                 0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::Registry               0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::Result                 0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::Result::Generator      0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::Spec                   0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::Spec::Arg              0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::Spec::Config           0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::Spec::Level            0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::Spec::Option           0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::Type                   0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::Type::Dir              0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::Type::File             0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::Type::Float            0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::Type::Int              0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::Type::Number           0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::Type::Path             0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::Type::Url              0.05  pkg:cpan/Getopt-Pad@0.05
+Getopt::Pad::Util                   0.05  pkg:cpan/Getopt-Pad@0.05
 Getopt::Panjang                     0.04  pkg:cpan/Getopt-Panjang@0.04
 Getopt::Param                      0.000005  pkg:cpan/Getopt-Param@0.0.5
 Getopt::Param::Tiny                  0.5  pkg:cpan/Getopt-Param-Tiny@0.5
@@ -121409,6 +121409,7 @@ Log::Log4perl::Appender::Lim::CLI   0.15  pkg:cpan/Log-Log4perl-Appender-Lim-CLI
 Log::Log4perl::Appender::Limit      1.53  pkg:cpan/Log-Log4perl@1.58
 Log::Log4perl::Appender::LogGer    0.001  pkg:cpan/Log-Log4perl-Appender-LogGer@0.001
 Log::Log4perl::Appender::Lumberjack  1.00  pkg:cpan/Log-Log4perl-Appender-Lumberjack@1.00
+Log::Log4perl::Appender::OpenTelemetry 0.001000  pkg:cpan/Log-Log4perl-Appender-OpenTelemetry@0.001000
 Log::Log4perl::Appender::RRDs      undef  pkg:cpan/Log-Log4perl@1.58
 Log::Log4perl::Appender::RabbitMQ  0.200002  pkg:cpan/Log-Log4perl-Appender-RabbitMQ@0.200002
 Log::Log4perl::Appender::Raven     0.006  pkg:cpan/Log-Log4perl-Appender-Raven@0.006
@@ -124001,12 +124002,12 @@ Mac::PopClip::Quick::Role::Regex   1.000002  pkg:cpan/Mac-PopClip-Quick@1.000002
 Mac::PopClip::Quick::Role::WritePlist 1.000002  pkg:cpan/Mac-PopClip-Quick@1.000002
 Mac::Processes                      1.06  pkg:cpan/Mac-Carbon@0.82
 Mac::Processes::_ProcessInfoMap     1.06  pkg:cpan/Mac-Carbon@0.82
-Mac::PropertyList                  1.606  pkg:cpan/Mac-PropertyList@1.606
-Mac::PropertyList::Boolean         1.606  pkg:cpan/Mac-PropertyList@1.606
-Mac::PropertyList::Container       1.606  pkg:cpan/Mac-PropertyList@1.606
-Mac::PropertyList::Item            1.606  pkg:cpan/Mac-PropertyList@1.606
-Mac::PropertyList::LineListSource  1.606  pkg:cpan/Mac-PropertyList@1.606
-Mac::PropertyList::ReadBinary      1.506  pkg:cpan/Mac-PropertyList@1.602
+Mac::PropertyList                  1.607  pkg:cpan/Mac-PropertyList@1.607
+Mac::PropertyList::Boolean         1.607  pkg:cpan/Mac-PropertyList@1.607
+Mac::PropertyList::Container       1.607  pkg:cpan/Mac-PropertyList@1.607
+Mac::PropertyList::Item            1.607  pkg:cpan/Mac-PropertyList@1.607
+Mac::PropertyList::LineListSource  1.607  pkg:cpan/Mac-PropertyList@1.607
+Mac::PropertyList::ReadBinary      1.607  pkg:cpan/Mac-PropertyList@1.607
 Mac::PropertyList::SAX             1.002  pkg:cpan/Mac-PropertyList-SAX@1.002
 Mac::PropertyList::SAX::Boolean    1.002  pkg:cpan/Mac-PropertyList-SAX@1.002
 Mac::PropertyList::SAX::Handler    1.002  pkg:cpan/Mac-PropertyList-SAX@1.002
@@ -124021,22 +124022,22 @@ Mac::PropertyList::SAX::real       1.002  pkg:cpan/Mac-PropertyList-SAX@1.002
 Mac::PropertyList::SAX::string     1.002  pkg:cpan/Mac-PropertyList-SAX@1.002
 Mac::PropertyList::SAX::true       1.002  pkg:cpan/Mac-PropertyList-SAX@1.002
 Mac::PropertyList::SAX::uid        1.002  pkg:cpan/Mac-PropertyList-SAX@1.002
-Mac::PropertyList::Scalar          1.606  pkg:cpan/Mac-PropertyList@1.606
-Mac::PropertyList::Source          1.606  pkg:cpan/Mac-PropertyList@1.606
-Mac::PropertyList::TextSource      1.606  pkg:cpan/Mac-PropertyList@1.606
-Mac::PropertyList::WriteBinary     1.505  pkg:cpan/Mac-PropertyList@1.602
+Mac::PropertyList::Scalar          1.607  pkg:cpan/Mac-PropertyList@1.607
+Mac::PropertyList::Source          1.607  pkg:cpan/Mac-PropertyList@1.607
+Mac::PropertyList::TextSource      1.607  pkg:cpan/Mac-PropertyList@1.607
+Mac::PropertyList::WriteBinary     1.607  pkg:cpan/Mac-PropertyList@1.607
 Mac::PropertyList::XS               0.06  pkg:cpan/Mac-PropertyList-XS@0.06
-Mac::PropertyList::array           1.606  pkg:cpan/Mac-PropertyList@1.606
-Mac::PropertyList::data            1.606  pkg:cpan/Mac-PropertyList@1.606
-Mac::PropertyList::date            1.606  pkg:cpan/Mac-PropertyList@1.606
-Mac::PropertyList::dict            1.606  pkg:cpan/Mac-PropertyList@1.606
-Mac::PropertyList::false           1.606  pkg:cpan/Mac-PropertyList@1.606
-Mac::PropertyList::integer         1.606  pkg:cpan/Mac-PropertyList@1.606
-Mac::PropertyList::real            1.606  pkg:cpan/Mac-PropertyList@1.606
-Mac::PropertyList::string          1.606  pkg:cpan/Mac-PropertyList@1.606
-Mac::PropertyList::true            1.606  pkg:cpan/Mac-PropertyList@1.606
-Mac::PropertyList::uid             1.606  pkg:cpan/Mac-PropertyList@1.606
-Mac::PropertyList::ustring         1.606  pkg:cpan/Mac-PropertyList@1.606
+Mac::PropertyList::array           1.607  pkg:cpan/Mac-PropertyList@1.607
+Mac::PropertyList::data            1.607  pkg:cpan/Mac-PropertyList@1.607
+Mac::PropertyList::date            1.607  pkg:cpan/Mac-PropertyList@1.607
+Mac::PropertyList::dict            1.607  pkg:cpan/Mac-PropertyList@1.607
+Mac::PropertyList::false           1.607  pkg:cpan/Mac-PropertyList@1.607
+Mac::PropertyList::integer         1.607  pkg:cpan/Mac-PropertyList@1.607
+Mac::PropertyList::real            1.607  pkg:cpan/Mac-PropertyList@1.607
+Mac::PropertyList::string          1.607  pkg:cpan/Mac-PropertyList@1.607
+Mac::PropertyList::true            1.607  pkg:cpan/Mac-PropertyList@1.607
+Mac::PropertyList::uid             1.607  pkg:cpan/Mac-PropertyList@1.607
+Mac::PropertyList::ustring         1.607  pkg:cpan/Mac-PropertyList@1.607
 Mac::PropertyListFilter             0.02  pkg:cpan/Mac-PropertyListFilter@0.02
 Mac::QuickBundle                    0.03  pkg:cpan/Mac-QuickBundle@0.03
 Mac::RecentDocuments                1.02  pkg:cpan/Mac-RecentDocuments@1.02
@@ -128248,7 +128249,7 @@ MathWorks::platformList            undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::product                 undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepItem          undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepList          undef  pkg:cpan/XML-Pastor@0.6.0
-Matplotlib::Simple                 0.318  pkg:cpan/Matplotlib-Simple@0.318
+Matplotlib::Simple                 0.319  pkg:cpan/Matplotlib-Simple@0.319
 Matrix::Simple                      1.04  pkg:cpan/Matrix-Simple@1.04
 Matts::Message                     undef  pkg:cpan/Matts-Message-Parser@1.0
 Matts::Message::Parser               1.0  pkg:cpan/Matts-Message-Parser@1.0
@@ -131711,10 +131712,10 @@ Mixin::Event::Dispatch             2.000  pkg:cpan/Mixin-Event-Dispatch@2.000
 Mixin::Event::Dispatch::Bus        2.000  pkg:cpan/Mixin-Event-Dispatch@2.000
 Mixin::Event::Dispatch::Event      2.000  pkg:cpan/Mixin-Event-Dispatch@2.000
 Mixin::Event::Dispatch::Methods    2.000  pkg:cpan/Mixin-Event-Dispatch@2.000
-Mixin::ExtraFields                 0.140003  pkg:cpan/Mixin-ExtraFields@0.140003
-Mixin::ExtraFields::Driver         0.140003  pkg:cpan/Mixin-ExtraFields@0.140003
+Mixin::ExtraFields                 0.140004  pkg:cpan/Mixin-ExtraFields@0.140004
+Mixin::ExtraFields::Driver         0.140004  pkg:cpan/Mixin-ExtraFields@0.140004
 Mixin::ExtraFields::Driver::DBIC   0.005  pkg:cpan/Mixin-ExtraFields-Driver-DBIC@0.005
-Mixin::ExtraFields::Driver::HashGuts 0.140003  pkg:cpan/Mixin-ExtraFields@0.140003
+Mixin::ExtraFields::Driver::HashGuts 0.140004  pkg:cpan/Mixin-ExtraFields@0.140004
 Mixin::ExtraFields::Hive           0.008  pkg:cpan/Mixin-ExtraFields-Hive@0.008
 Mixin::ExtraFields::Param          0.022  pkg:cpan/Mixin-ExtraFields-Param@0.022
 Mixin::Historian                   0.102001  pkg:cpan/Mixin-Historian@0.102001
@@ -137919,7 +137920,7 @@ Music::RhythmSet::Voice             0.06  pkg:cpan/Music-RhythmSet@0.06
 Music::Scala                        1.08  pkg:cpan/Music-Scala@1.08
 Music::ScaleNote                   0.0905  pkg:cpan/Music-ScaleNote@0.0905
 Music::Scales                       0.13  pkg:cpan/Music-Scales@0.13
-Music::SimpleDrumMachine           0.0701  pkg:cpan/Music-SimpleDrumMachine@0.0701
+Music::SimpleDrumMachine           0.0702  pkg:cpan/Music-SimpleDrumMachine@0.0702
 Music::Song                        undef  pkg:cpan/Gtk2-Ex-FormFactory@0.67
 Music::Tag                         0.4103  pkg:cpan/Music-Tag@0.4103
 Music::Tag::Amazon                 0.4101  pkg:cpan/Music-Tag-Amazon@0.4101
@@ -219291,7 +219292,7 @@ Sub::Pipe                           0.03  pkg:cpan/Sub-Pipe@0.03
 Sub::Pipeline                      0.011  pkg:cpan/Sub-Pipeline@0.011
 Sub::Prepend                        0.01  pkg:cpan/Sub-Prepend@0.01
 Sub::Private                        0.06  pkg:cpan/Sub-Private@0.06
-Sub::Protected                      0.02  pkg:cpan/Sub-Protected@0.02
+Sub::Protected                      0.03  pkg:cpan/Sub-Protected@0.03
 Sub::Prototype                      0.03  pkg:cpan/Sub-Prototype@0.03
 Sub::Prototype::Util                0.11  pkg:cpan/Sub-Prototype-Util@0.11
 Sub::Quote                         2.006009  pkg:cpan/Sub-Quote@2.006009
