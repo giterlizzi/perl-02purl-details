@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 04 Oct 2026 20:48:12 GMT
-Line-Count: 261376
+Last-Updated: Mon, 05 Oct 2026 00:21:28 GMT
+Line-Count: 261384
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5199,15 +5199,15 @@ Alien::Xmake::Project::Toolchain   v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xmake::Project::Util        v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xmake::Project::Xpack       v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xmake::Project::XpackComponent v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
-Alien::Xrepo                       v1.0.1  pkg:cpan/Alien-Xrepo@v1.0.1
-Alien::Xrepo::Build                v1.0.1  pkg:cpan/Alien-Xrepo@v1.0.1
-Alien::Xrepo::Build::Dist          v1.0.1  pkg:cpan/Alien-Xrepo@v1.0.1
-Alien::Xrepo::Build::Recipe        v1.0.1  pkg:cpan/Alien-Xrepo@v1.0.1
-Alien::Xrepo::MB                   v1.0.1  pkg:cpan/Alien-Xrepo@v1.0.1
-Alien::Xrepo::MM                   v1.0.1  pkg:cpan/Alien-Xrepo@v1.0.1
-Alien::Xrepo::PackageInfo          v1.0.1  pkg:cpan/Alien-Xrepo@v1.0.1
-Alien::Xrepo::Runtime              v1.0.1  pkg:cpan/Alien-Xrepo@v1.0.1
-Alien::Xrepo::Runtime::Alt         v1.0.1  pkg:cpan/Alien-Xrepo@v1.0.1
+Alien::Xrepo                       v1.0.2  pkg:cpan/Alien-Xrepo@v1.0.2
+Alien::Xrepo::Build                v1.0.2  pkg:cpan/Alien-Xrepo@v1.0.2
+Alien::Xrepo::Build::Dist          v1.0.2  pkg:cpan/Alien-Xrepo@v1.0.2
+Alien::Xrepo::Build::Recipe        v1.0.2  pkg:cpan/Alien-Xrepo@v1.0.2
+Alien::Xrepo::MB                   v1.0.2  pkg:cpan/Alien-Xrepo@v1.0.2
+Alien::Xrepo::MM                   v1.0.2  pkg:cpan/Alien-Xrepo@v1.0.2
+Alien::Xrepo::PackageInfo          v1.0.2  pkg:cpan/Alien-Xrepo@v1.0.2
+Alien::Xrepo::Runtime              v1.0.2  pkg:cpan/Alien-Xrepo@v1.0.2
+Alien::Xrepo::Runtime::Alt         v1.0.2  pkg:cpan/Alien-Xrepo@v1.0.2
 Alien::YAMLScript                  0.003004  pkg:cpan/Alien-YAMLScript@0.3.4
 Alien::YARA                        v0.0.1  pkg:cpan/Alien-YARA@v0.0.6
 Alien::Z3                          0.002  pkg:cpan/Alien-Z3@0.002
@@ -17600,10 +17600,16 @@ Archive::BagIt::App::Verify        0.049  pkg:cpan/Archive-BagIt-App@0.049
 Archive::BagIt::Base               0.101  pkg:cpan/Archive-BagIt@0.101
 Archive::BagIt::DotBagIt           0.070  pkg:cpan/Archive-BagIt@0.070
 Archive::BagIt::Fast               0.090  pkg:cpan/Archive-BagIt-Fast@0.090
+Archive::BagIt::Plugin::Algorithm::BLAKE3 0.002  pkg:cpan/Archive-BagIt-Plugin-BLAKE3@0.002
 Archive::BagIt::Plugin::Algorithm::MD5 0.101  pkg:cpan/Archive-BagIt@0.101
+Archive::BagIt::Plugin::Algorithm::SHA256 0.005  pkg:cpan/Archive-BagIt-Plugin-SHA256@0.005
 Archive::BagIt::Plugin::Algorithm::SHA512 0.101  pkg:cpan/Archive-BagIt@0.101
+Archive::BagIt::Plugin::BLAKE3     0.002  pkg:cpan/Archive-BagIt-Plugin-BLAKE3@0.002
+Archive::BagIt::Plugin::Manifest::BLAKE3 0.002  pkg:cpan/Archive-BagIt-Plugin-BLAKE3@0.002
 Archive::BagIt::Plugin::Manifest::MD5 0.101  pkg:cpan/Archive-BagIt@0.101
+Archive::BagIt::Plugin::Manifest::SHA256 0.005  pkg:cpan/Archive-BagIt-Plugin-SHA256@0.005
 Archive::BagIt::Plugin::Manifest::SHA512 0.101  pkg:cpan/Archive-BagIt@0.101
+Archive::BagIt::Plugin::SHA256     0.005  pkg:cpan/Archive-BagIt-Plugin-SHA256@0.005
 Archive::BagIt::Role::Algorithm    0.101  pkg:cpan/Archive-BagIt@0.101
 Archive::BagIt::Role::Manifest     0.101  pkg:cpan/Archive-BagIt@0.101
 Archive::BagIt::Role::OpenSSL      0.101  pkg:cpan/Archive-BagIt@0.101
@@ -124384,19 +124390,19 @@ Mail::Colander::Server::Util       0.004  pkg:cpan/Mail-Colander@0.004
 Mail::Colander::Session            0.004  pkg:cpan/Mail-Colander@0.004
 Mail::Convert::Mbox::ToEml          0.06  pkg:cpan/Mail-Convert-Mbox-ToEml@0.06
 Mail::DKIM                         1.20240923  pkg:cpan/Mail-DKIM@1.20240923
-Mail::DKIM2                         0.12  pkg:cpan/Mail-DKIM2@0.12
-Mail::DKIM2::Common                 0.12  pkg:cpan/Mail-DKIM2@0.12
-Mail::DKIM2::DSN                    0.12  pkg:cpan/Mail-DKIM2@0.12
-Mail::DKIM2::HeaderParser           0.12  pkg:cpan/Mail-DKIM2@0.12
-Mail::DKIM2::MessageInstance        0.12  pkg:cpan/Mail-DKIM2@0.12
-Mail::DKIM2::MessageStore           0.12  pkg:cpan/Mail-DKIM2@0.12
-Mail::DKIM2::Reflector              0.12  pkg:cpan/Mail-DKIM2@0.12
-Mail::DKIM2::Signature              0.12  pkg:cpan/Mail-DKIM2@0.12
-Mail::DKIM2::Signer                 0.12  pkg:cpan/Mail-DKIM2@0.12
-Mail::DKIM2::Split                  0.12  pkg:cpan/Mail-DKIM2@0.12
-Mail::DKIM2::TagValueList           0.12  pkg:cpan/Mail-DKIM2@0.12
-Mail::DKIM2::Validate               0.12  pkg:cpan/Mail-DKIM2@0.12
-Mail::DKIM2::Verifier               0.12  pkg:cpan/Mail-DKIM2@0.12
+Mail::DKIM2                         0.13  pkg:cpan/Mail-DKIM2@0.13
+Mail::DKIM2::Common                 0.13  pkg:cpan/Mail-DKIM2@0.13
+Mail::DKIM2::DSN                    0.13  pkg:cpan/Mail-DKIM2@0.13
+Mail::DKIM2::HeaderParser           0.13  pkg:cpan/Mail-DKIM2@0.13
+Mail::DKIM2::MessageInstance        0.13  pkg:cpan/Mail-DKIM2@0.13
+Mail::DKIM2::MessageStore           0.13  pkg:cpan/Mail-DKIM2@0.13
+Mail::DKIM2::Reflector              0.13  pkg:cpan/Mail-DKIM2@0.13
+Mail::DKIM2::Signature              0.13  pkg:cpan/Mail-DKIM2@0.13
+Mail::DKIM2::Signer                 0.13  pkg:cpan/Mail-DKIM2@0.13
+Mail::DKIM2::Split                  0.13  pkg:cpan/Mail-DKIM2@0.13
+Mail::DKIM2::TagValueList           0.13  pkg:cpan/Mail-DKIM2@0.13
+Mail::DKIM2::Validate               0.13  pkg:cpan/Mail-DKIM2@0.13
+Mail::DKIM2::Verifier               0.13  pkg:cpan/Mail-DKIM2@0.13
 Mail::DKIM::ARC::MessageSignature  1.20240923  pkg:cpan/Mail-DKIM@1.20240923
 Mail::DKIM::ARC::Seal              1.20240923  pkg:cpan/Mail-DKIM@1.20240923
 Mail::DKIM::ARC::Signer            1.20240923  pkg:cpan/Mail-DKIM@1.20240923
@@ -124845,8 +124851,8 @@ Mail::Milter::Authentication::Handler::BIMI 4.20261001  pkg:cpan/Mail-Milter-Aut
 Mail::Milter::Authentication::Handler::Blocker 4.20261001  pkg:cpan/Mail-Milter-Authentication@4.20261001
 Mail::Milter::Authentication::Handler::ClamAV 2.20180611  pkg:cpan/Mail-Milter-Authentication-Extra@2.20180611
 Mail::Milter::Authentication::Handler::DKIM 4.20261001  pkg:cpan/Mail-Milter-Authentication@4.20261001
-Mail::Milter::Authentication::Handler::DKIM2Sign  0.12  pkg:cpan/Mail-DKIM2@0.12
-Mail::Milter::Authentication::Handler::DKIM2Verify  0.12  pkg:cpan/Mail-DKIM2@0.12
+Mail::Milter::Authentication::Handler::DKIM2Sign  0.13  pkg:cpan/Mail-DKIM2@0.13
+Mail::Milter::Authentication::Handler::DKIM2Verify  0.13  pkg:cpan/Mail-DKIM2@0.13
 Mail::Milter::Authentication::Handler::DMARC 4.20261001  pkg:cpan/Mail-Milter-Authentication@4.20261001
 Mail::Milter::Authentication::Handler::IPRev 4.20261001  pkg:cpan/Mail-Milter-Authentication@4.20261001
 Mail::Milter::Authentication::Handler::LocalIP 4.20261001  pkg:cpan/Mail-Milter-Authentication@4.20261001
@@ -218884,7 +218890,7 @@ String::Gsub::Matcher              undef  pkg:cpan/String-Gsub@0.04
 String::HexConvert                  0.02  pkg:cpan/String-HexConvert@0.02
 String::IRC                         0.05  pkg:cpan/String-IRC@0.05
 String::Ident                       0.05  pkg:cpan/String-Ident@0.05
-String::Increment::Parts           0.001  pkg:cpan/String-Increment-Parts@0.001
+String::Increment::Parts           0.002  pkg:cpan/String-Increment-Parts@0.002
 String::Incremental                 0.01  pkg:cpan/String-Incremental@0.01
 String::Incremental::Char          undef  pkg:cpan/String-Incremental@0.01
 String::Incremental::FormatParser  undef  pkg:cpan/String-Incremental@0.01
@@ -234028,17 +234034,19 @@ UnRTF                              undef  pkg:cpan/UnRTF@0.003
 UnRTF::Test                        undef  pkg:cpan/UnRTF@0.003
 Unamerican::Truth                   1.08  pkg:cpan/Unamerican-Truth@1.08
 UnazuSan                            0.03  pkg:cpan/UnazuSan@0.03
-Unblock::HTTP1                      0.02  pkg:cpan/Unblock-HTTP1@0.02
-Unblock::HTTP1::Client              0.02  pkg:cpan/Unblock-HTTP1@0.02
-Unblock::HTTP1::Server              0.02  pkg:cpan/Unblock-HTTP1@0.02
-Unblock::HTTP1::Transaction         0.02  pkg:cpan/Unblock-HTTP1@0.02
-Unblock::HTTP1::_Engine            undef  pkg:cpan/Unblock-HTTP1@0.02
-Unblock::HTTP1::_Native            undef  pkg:cpan/Unblock-HTTP1@0.02
-Unblock::HTTP1::_Wire              undef  pkg:cpan/Unblock-HTTP1@0.02
-Unblock::HTTP2                      0.02  pkg:cpan/Unblock-HTTP2@0.02
-Unblock::HTTP2::Client              0.02  pkg:cpan/Unblock-HTTP2@0.02
-Unblock::HTTP2::Server              0.02  pkg:cpan/Unblock-HTTP2@0.02
+Unblock::HTTP1                      0.03  pkg:cpan/Unblock-HTTP1@0.03
+Unblock::HTTP1::Client              0.03  pkg:cpan/Unblock-HTTP1@0.03
+Unblock::HTTP1::NativeABI          undef  pkg:cpan/Unblock-HTTP1@0.03
+Unblock::HTTP1::Server              0.03  pkg:cpan/Unblock-HTTP1@0.03
+Unblock::HTTP1::Transaction         0.03  pkg:cpan/Unblock-HTTP1@0.03
+Unblock::HTTP1::_Engine            undef  pkg:cpan/Unblock-HTTP1@0.03
+Unblock::HTTP1::_Native            undef  pkg:cpan/Unblock-HTTP1@0.03
+Unblock::HTTP1::_Wire              undef  pkg:cpan/Unblock-HTTP1@0.03
+Unblock::HTTP2                      0.03  pkg:cpan/Unblock-HTTP2@0.03
+Unblock::HTTP2::Client              0.03  pkg:cpan/Unblock-HTTP2@0.03
+Unblock::HTTP2::Server              0.03  pkg:cpan/Unblock-HTTP2@0.03
 Unblock::HTTP2::Stream              0.02  pkg:cpan/Unblock-HTTP2@0.02
+Unblock::HTTP2::Transaction         0.03  pkg:cpan/Unblock-HTTP2@0.03
 Unblock::HTTP3                      0.02  pkg:cpan/Unblock-HTTP3@0.02
 Unblock::HTTP3::Body::Reader        0.02  pkg:cpan/Unblock-HTTP3@0.02
 Unblock::HTTP3::Body::Stream        0.02  pkg:cpan/Unblock-HTTP3@0.02
@@ -234259,15 +234267,15 @@ Uniform::HTMX::Dancer2              1.00  pkg:cpan/Uniform-HTMX-Dancer2@1.00
 Uniform::HTMX::Mojolicious          1.02  pkg:cpan/Uniform-HTMX-Mojolicious@1.02
 Uniform::HTMX::PAGI                 1.02  pkg:cpan/Uniform-HTMX-PAGI@1.02
 Uniform::HTMX::PSGI                 1.03  pkg:cpan/Uniform-HTMX-PSGI@1.03
-Uniform::HTTP                       0.05  pkg:cpan/Uniform-HTTP@0.05
-Uniform::HTTP::Auth                 0.05  pkg:cpan/Uniform-HTTP@0.05
-Uniform::HTTP::Auth::Basic          0.05  pkg:cpan/Uniform-HTTP@0.05
-Uniform::HTTP::Auth::Bearer         0.05  pkg:cpan/Uniform-HTTP@0.05
-Uniform::HTTP::Auth::Digest         0.05  pkg:cpan/Uniform-HTTP@0.05
-Uniform::HTTP::FastPath             0.05  pkg:cpan/Uniform-HTTP@0.05
-Uniform::HTTP::Message              0.05  pkg:cpan/Uniform-HTTP@0.05
-Uniform::HTTP::Request              0.05  pkg:cpan/Uniform-HTTP@0.05
-Uniform::HTTP::Response             0.05  pkg:cpan/Uniform-HTTP@0.05
+Uniform::HTTP                       0.06  pkg:cpan/Uniform-HTTP@0.06
+Uniform::HTTP::Auth                 0.06  pkg:cpan/Uniform-HTTP@0.06
+Uniform::HTTP::Auth::Basic          0.06  pkg:cpan/Uniform-HTTP@0.06
+Uniform::HTTP::Auth::Bearer         0.06  pkg:cpan/Uniform-HTTP@0.06
+Uniform::HTTP::Auth::Digest         0.06  pkg:cpan/Uniform-HTTP@0.06
+Uniform::HTTP::FastPath             0.06  pkg:cpan/Uniform-HTTP@0.06
+Uniform::HTTP::Message              0.06  pkg:cpan/Uniform-HTTP@0.06
+Uniform::HTTP::Request              0.06  pkg:cpan/Uniform-HTTP@0.06
+Uniform::HTTP::Response             0.06  pkg:cpan/Uniform-HTTP@0.06
 Uniform::Upload                     0.02  pkg:cpan/Uniform-Upload@0.02
 Uniform::Upload::File               0.02  pkg:cpan/Uniform-Upload@0.02
 Uniform::Upload::PAGI               1.02  pkg:cpan/Uniform-Upload-PAGI@1.02
