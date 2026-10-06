@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 06 Oct 2026 16:25:41 GMT
-Line-Count: 261394
+Last-Updated: Tue, 06 Oct 2026 22:06:53 GMT
+Line-Count: 261396
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -3769,7 +3769,7 @@ Acme::Snark                         0.04  pkg:cpan/Acme-Snark@0.04
 Acme::Snark::HONK                   0.04  pkg:cpan/Acme-Snark@0.04
 Acme::Sneeze                        0.02  pkg:cpan/Acme-Sneeze@0.02
 Acme::Sneeze::JP                    0.01  pkg:cpan/Acme-Sneeze-JP@0.01
-Acme::Songmu                       v0.1.0  pkg:cpan/Acme-Songmu@v0.1.0
+Acme::Songmu                       v0.1.4  pkg:cpan/Acme-Songmu@v0.1.4
 Acme::Sort::Bogosort                0.05  pkg:cpan/Acme-Sort-Bogosort@0.05
 Acme::Sort::Bozo                    0.05  pkg:cpan/Acme-Sort-Bozo@0.05
 Acme::Sort::Sleep                  undef  pkg:cpan/Acme-Sort-Sleep@0.001
@@ -33953,28 +33953,30 @@ CPAN::Local::Role::MetaCPAN::API   0.001  pkg:cpan/CPAN-Local-Role-MetaCPAN-API@
 CPAN::Local::Role::Prune           0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Local::Role::Remove          0.010  pkg:cpan/CPAN-Local@0.010
 CPAN::Maker                        v2.0.12  pkg:cpan/CPAN-Maker@2.0.12
-CPAN::Maker::Bootstrapper          v2.3.6  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.6
-CPAN::Maker::Bootstrapper::ConfigReader     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.6
-CPAN::Maker::Bootstrapper::Constants     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.6
-CPAN::Maker::Bootstrapper::Role::CreateConfig     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.6
-CPAN::Maker::Bootstrapper::Role::CreateDeps     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.6
-CPAN::Maker::Bootstrapper::Role::Critic     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.6
-CPAN::Maker::Bootstrapper::Role::DarkPANRequires     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.6
-CPAN::Maker::Bootstrapper::Role::DepsFilter     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.6
-CPAN::Maker::Bootstrapper::Role::ExtraFiles v2.3.6  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.6
-CPAN::Maker::Bootstrapper::Role::Filter     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.6
-CPAN::Maker::Bootstrapper::Role::Init     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.6
-CPAN::Maker::Bootstrapper::Role::Installer v2.3.6  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.6
-CPAN::Maker::Bootstrapper::Role::LLM::Annotator     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.6
-CPAN::Maker::Bootstrapper::Role::LLM::Models     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.6
-CPAN::Maker::Bootstrapper::Role::LLM::ReleaseNotes     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.6
-CPAN::Maker::Bootstrapper::Role::LLM::Reviewer     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.6
-CPAN::Maker::Bootstrapper::Role::LLM::Utils     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.6
-CPAN::Maker::Bootstrapper::Role::PAUSEUpload     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.6
-CPAN::Maker::Bootstrapper::Role::Provides     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.6
-CPAN::Maker::Bootstrapper::Role::ResolveVars     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.6
-CPAN::Maker::Bootstrapper::Role::ScaffoldImporter     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.6
-CPAN::Maker::Bootstrapper::Role::Version     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.6
+CPAN::Maker::Bootstrapper          v2.4.0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
+CPAN::Maker::Bootstrapper::ConfigReader     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
+CPAN::Maker::Bootstrapper::Constants     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
+CPAN::Maker::Bootstrapper::Role::CreateConfig     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
+CPAN::Maker::Bootstrapper::Role::CreateDeps     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
+CPAN::Maker::Bootstrapper::Role::Critic     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
+CPAN::Maker::Bootstrapper::Role::DarkPANRequires     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
+CPAN::Maker::Bootstrapper::Role::DepsFilter     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
+CPAN::Maker::Bootstrapper::Role::DistFile     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
+CPAN::Maker::Bootstrapper::Role::ExtraFiles v2.4.0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
+CPAN::Maker::Bootstrapper::Role::Filter     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
+CPAN::Maker::Bootstrapper::Role::Init     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
+CPAN::Maker::Bootstrapper::Role::Installer v2.4.0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
+CPAN::Maker::Bootstrapper::Role::LLM::Annotator     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
+CPAN::Maker::Bootstrapper::Role::LLM::Models     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
+CPAN::Maker::Bootstrapper::Role::LLM::ReleaseNotes     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
+CPAN::Maker::Bootstrapper::Role::LLM::Reviewer     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
+CPAN::Maker::Bootstrapper::Role::LLM::Utils     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
+CPAN::Maker::Bootstrapper::Role::PAUSEUpload     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
+CPAN::Maker::Bootstrapper::Role::Provides     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
+CPAN::Maker::Bootstrapper::Role::ResolveVars     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
+CPAN::Maker::Bootstrapper::Role::ScaffoldImporter     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
+CPAN::Maker::Bootstrapper::Role::ShowDefaults     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
+CPAN::Maker::Bootstrapper::Role::Version     0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
 CPAN::Maker::Constants             v2.0.12  pkg:cpan/CPAN-Maker@2.0.12
 CPAN::Maker::Role::FileUtils       v2.0.12  pkg:cpan/CPAN-Maker@2.0.12
 CPAN::Maker::Role::ModuleUtils     v2.0.12  pkg:cpan/CPAN-Maker@2.0.12
@@ -80043,17 +80045,17 @@ Game::CharacterSheetGenerator::DwarfNames undef  pkg:cpan/Game-CharacterSheetGen
 Game::CharacterSheetGenerator::ElfNames undef  pkg:cpan/Game-CharacterSheetGenerator@1.03
 Game::CharacterSheetGenerator::HalflingNames undef  pkg:cpan/Game-CharacterSheetGenerator@1.03
 Game::CharacterSheetGenerator::HumanNames undef  pkg:cpan/Game-CharacterSheetGenerator@1.03
-Game::Checkers                      0.01  pkg:cpan/Game-Checkers@0.01
-Game::Checkers::Board               0.01  pkg:cpan/Game-Checkers@0.01
-Game::Checkers::Bot                 0.01  pkg:cpan/Game-Checkers@0.01
-Game::Checkers::Error               0.01  pkg:cpan/Game-Checkers@0.01
-Game::Checkers::Move                0.01  pkg:cpan/Game-Checkers@0.01
-Game::Checkers::Notation            0.01  pkg:cpan/Game-Checkers@0.01
-Game::Checkers::Piece               0.01  pkg:cpan/Game-Checkers@0.01
-Game::Checkers::Result              0.01  pkg:cpan/Game-Checkers@0.01
-Game::Checkers::Rules               0.01  pkg:cpan/Game-Checkers@0.01
-Game::Checkers::Squares             0.01  pkg:cpan/Game-Checkers@0.01
-Game::Checkers::Terminal            0.01  pkg:cpan/Game-Checkers@0.01
+Game::Checkers                      0.02  pkg:cpan/Game-Checkers@0.02
+Game::Checkers::Board               0.02  pkg:cpan/Game-Checkers@0.02
+Game::Checkers::Bot                 0.02  pkg:cpan/Game-Checkers@0.02
+Game::Checkers::Error               0.02  pkg:cpan/Game-Checkers@0.02
+Game::Checkers::Move                0.02  pkg:cpan/Game-Checkers@0.02
+Game::Checkers::Notation            0.02  pkg:cpan/Game-Checkers@0.02
+Game::Checkers::Piece               0.02  pkg:cpan/Game-Checkers@0.02
+Game::Checkers::Result              0.02  pkg:cpan/Game-Checkers@0.02
+Game::Checkers::Rules               0.02  pkg:cpan/Game-Checkers@0.02
+Game::Checkers::Squares             0.02  pkg:cpan/Game-Checkers@0.02
+Game::Checkers::Terminal            0.02  pkg:cpan/Game-Checkers@0.02
 Game::Collisions                     0.5  pkg:cpan/Game-Collisions@0.5
 Game::Collisions::AABB               0.5  pkg:cpan/Game-Collisions@0.5
 Game::Collisions::UserData           0.5  pkg:cpan/Game-Collisions@0.5
@@ -84881,7 +84883,7 @@ Git::Release::BranchManager        undef  pkg:cpan/Git-Release@0.05
 Git::Release::Config               undef  pkg:cpan/Git-Release@0.05
 Git::Release::Remote               undef  pkg:cpan/Git-Release@0.05
 Git::Release::RemoteManager        undef  pkg:cpan/Git-Release@0.05
-Git::ReleaseDiffs                      0  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.6
+Git::ReleaseDiffs                      0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
 Git::ReleaseRepo                   0.006  pkg:cpan/Git-ReleaseRepo@0.006
 Git::ReleaseRepo::Command          0.006  pkg:cpan/Git-ReleaseRepo@0.006
 Git::ReleaseRepo::Command::add     0.006  pkg:cpan/Git-ReleaseRepo@0.006
@@ -102985,8 +102987,8 @@ Health::BladderDiary::GenTable     0.007  pkg:cpan/Health-BladderDiary-GenTable@
 Health::SHC                        0.006  pkg:cpan/Health-SHC@0.006
 Health::SHC::Extract               0.006  pkg:cpan/Health-SHC@0.006
 Health::SHC::Validate              0.006  pkg:cpan/Health-SHC@0.006
-HealthCheck                        v1.9.2  pkg:cpan/HealthCheck@v1.9.2
-HealthCheck::Diagnostic            v1.9.2  pkg:cpan/HealthCheck@v1.9.2
+HealthCheck                        v1.9.3  pkg:cpan/HealthCheck@v1.9.3
+HealthCheck::Diagnostic            v1.9.3  pkg:cpan/HealthCheck@v1.9.3
 HealthCheck::Diagnostic::DBHCheck  v1.0.1  pkg:cpan/HealthCheck-Diagnostic-DBHCheck@v1.0.1
 HealthCheck::Diagnostic::DBHPing   v1.2.5  pkg:cpan/HealthCheck-Diagnostic-DBHPing@v1.2.5
 HealthCheck::Diagnostic::FilePermissions v1.4.8  pkg:cpan/HealthCheck-Diagnostic-FilePermissions@v1.4.8
@@ -121071,7 +121073,7 @@ Loctools::Net::OAuth2::Session     undef  pkg:cpan/Loctools-Net@1.0
 Loctools::Net::OAuth2::Session::Google undef  pkg:cpan/Loctools-Net@1.0
 LocusLinkAccessor                      1  pkg:cpan/Boulder@1.30
 Log4Perl::ImportHandle             0.033  pkg:cpan/Log4Perl-ImportHandle@0.033
-Log::Abstraction                    0.37  pkg:cpan/Log-Abstraction@0.37
+Log::Abstraction                    0.38  pkg:cpan/Log-Abstraction@0.38
 Log::Accounting                      0.3  pkg:cpan/Log-Accounting@0.3
 Log::Accounting::Sendmail            0.2  pkg:cpan/Log-Accounting-Sendmail@0.2
 Log::Agent                         1.005  pkg:cpan/Log-Agent@1.005
@@ -121109,7 +121111,7 @@ Log::AndError                       1.01  pkg:cpan/Log-AndError@1.01
 Log::AndError::Constants            0.01  pkg:cpan/Log-AndError@1.01
 Log::Any                           1.720  pkg:cpan/Log-Any@1.720
 Log::Any::Adapter                  1.720  pkg:cpan/Log-Any@1.720
-Log::Any::Adapter::Abstraction      0.37  pkg:cpan/Log-Abstraction@0.37
+Log::Any::Adapter::Abstraction      0.38  pkg:cpan/Log-Abstraction@0.38
 Log::Any::Adapter::AcmeLocal        0.11  pkg:cpan/Protocol-ACME@0.11
 Log::Any::Adapter::Apache2          0.02  pkg:cpan/Log-Any-Adapter-Apache2@0.02
 Log::Any::Adapter::Base            1.720  pkg:cpan/Log-Any@1.720
@@ -227355,7 +227357,7 @@ Text::ASCIIMathML::Node             0.81  pkg:cpan/Text-ASCIIMathML@0.81
 Text::ASCIIPipe                    1.001000  pkg:cpan/Text-ASCIIPipe@1.001000
 Text::ASCIITable                    0.22  pkg:cpan/Text-ASCIITable@0.22
 Text::ASCIITable::EasyTable        1.006  pkg:cpan/Text-ASCIITable-EasyTable@1.006
-Text::ASCIITable::FixANSI          v1.0.0  pkg:cpan/CPAN-Maker-Bootstrapper@2.3.6
+Text::ASCIITable::FixANSI          v1.0.0  pkg:cpan/CPAN-Maker-Bootstrapper@2.4.0
 Text::ASCIITable::Wrap               0.2  pkg:cpan/Text-ASCIITable@0.22
 Text::Abbrev                        1.02  pkg:cpan/Text-Abbrev@1.02
 Text::Abbreviate                    0.01  pkg:cpan/Text-Abbreviate@0.01
@@ -231404,13 +231406,13 @@ Travel::Status::DE::URA::Result     2.01  pkg:cpan/Travel-Status-DE-URA@2.01
 Travel::Status::DE::URA::Stop       2.01  pkg:cpan/Travel-Status-DE-URA@2.01
 Travel::Status::DE::VRR             3.21  pkg:cpan/Travel-Status-DE-VRR@3.21
 Travel::Status::GB::TFL             2.01  pkg:cpan/Travel-Status-DE-URA@2.01
-Travel::Status::MOTIS               0.04  pkg:cpan/Travel-Status-MOTIS@0.04
-Travel::Status::MOTIS::Polyline     0.04  pkg:cpan/Travel-Status-MOTIS@0.04
-Travel::Status::MOTIS::Services     0.04  pkg:cpan/Travel-Status-MOTIS@0.04
-Travel::Status::MOTIS::Stop         0.04  pkg:cpan/Travel-Status-MOTIS@0.04
-Travel::Status::MOTIS::Stopover     0.04  pkg:cpan/Travel-Status-MOTIS@0.04
-Travel::Status::MOTIS::Trip         0.04  pkg:cpan/Travel-Status-MOTIS@0.04
-Travel::Status::MOTIS::TripAtStopover  0.04  pkg:cpan/Travel-Status-MOTIS@0.04
+Travel::Status::MOTIS               0.05  pkg:cpan/Travel-Status-MOTIS@0.05
+Travel::Status::MOTIS::Polyline     0.05  pkg:cpan/Travel-Status-MOTIS@0.05
+Travel::Status::MOTIS::Services     0.05  pkg:cpan/Travel-Status-MOTIS@0.05
+Travel::Status::MOTIS::Stop         0.05  pkg:cpan/Travel-Status-MOTIS@0.05
+Travel::Status::MOTIS::Stopover     0.05  pkg:cpan/Travel-Status-MOTIS@0.05
+Travel::Status::MOTIS::Trip         0.05  pkg:cpan/Travel-Status-MOTIS@0.05
+Travel::Status::MOTIS::TripAtStopover  0.05  pkg:cpan/Travel-Status-MOTIS@0.05
 Traveller::Hex                     undef  pkg:cpan/App-traveller@1.02
 Traveller::Mapper                  undef  pkg:cpan/App-traveller@1.02
 Traveller::Mapper::Classic         undef  pkg:cpan/App-traveller@1.02
