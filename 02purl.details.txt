@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 06 Oct 2026 22:06:53 GMT
+Last-Updated: Wed, 07 Oct 2026 03:41:52 GMT
 Line-Count: 261396
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -61433,7 +61433,7 @@ Data::SCORM::Manifest              undef  pkg:cpan/Data-SCORM@0.07
 Data::SCORM::Organization           0.01  pkg:cpan/Data-SCORM@0.07
 Data::SCORM::Resource               0.01  pkg:cpan/Data-SCORM@0.07
 Data::SCORM::Types                 undef  pkg:cpan/Data-SCORM@0.07
-Data::SCS::DefParser                0.11  pkg:cpan/Data-SCS-DefParser@0.11
+Data::SCS::DefParser                0.12  pkg:cpan/Data-SCS-DefParser@0.12
 Data::SExpression                   0.41  pkg:cpan/Data-SExpression@0.41
 Data::SExpression::Cons            undef  pkg:cpan/Data-SExpression@0.41
 Data::SExpression::Parser           1.05  pkg:cpan/Data-SExpression@0.41
@@ -121073,7 +121073,7 @@ Loctools::Net::OAuth2::Session     undef  pkg:cpan/Loctools-Net@1.0
 Loctools::Net::OAuth2::Session::Google undef  pkg:cpan/Loctools-Net@1.0
 LocusLinkAccessor                      1  pkg:cpan/Boulder@1.30
 Log4Perl::ImportHandle             0.033  pkg:cpan/Log4Perl-ImportHandle@0.033
-Log::Abstraction                    0.38  pkg:cpan/Log-Abstraction@0.38
+Log::Abstraction                    0.39  pkg:cpan/Log-Abstraction@0.39
 Log::Accounting                      0.3  pkg:cpan/Log-Accounting@0.3
 Log::Accounting::Sendmail            0.2  pkg:cpan/Log-Accounting-Sendmail@0.2
 Log::Agent                         1.005  pkg:cpan/Log-Agent@1.005
@@ -121111,7 +121111,7 @@ Log::AndError                       1.01  pkg:cpan/Log-AndError@1.01
 Log::AndError::Constants            0.01  pkg:cpan/Log-AndError@1.01
 Log::Any                           1.720  pkg:cpan/Log-Any@1.720
 Log::Any::Adapter                  1.720  pkg:cpan/Log-Any@1.720
-Log::Any::Adapter::Abstraction      0.38  pkg:cpan/Log-Abstraction@0.38
+Log::Any::Adapter::Abstraction      0.39  pkg:cpan/Log-Abstraction@0.39
 Log::Any::Adapter::AcmeLocal        0.11  pkg:cpan/Protocol-ACME@0.11
 Log::Any::Adapter::Apache2          0.02  pkg:cpan/Log-Any-Adapter-Apache2@0.02
 Log::Any::Adapter::Base            1.720  pkg:cpan/Log-Any@1.720
@@ -137898,14 +137898,14 @@ Music::MelodicDevice::Inversion    0.0504  pkg:cpan/Music-MelodicDevice-Inversio
 Music::MelodicDevice::Ornamentation 0.0706  pkg:cpan/Music-MelodicDevice-Ornamentation@0.0706
 Music::MelodicDevice::Transposition 0.0601  pkg:cpan/Music-MelodicDevice-Transposition@0.0601
 Music::ModalFunction               0.0600  pkg:cpan/Music-ModalFunction@0.0600
-Music::NWC2MusicXML                0.001001  pkg:cpan/Music-NWC2MusicXML@0.001.1
-Music::NWC2MusicXML::Diagnostics   0.001001  pkg:cpan/Music-NWC2MusicXML@0.001.1
-Music::NWC2MusicXML::Event         0.001001  pkg:cpan/Music-NWC2MusicXML@0.001.1
-Music::NWC2MusicXML::MusicXML      0.001001  pkg:cpan/Music-NWC2MusicXML@0.001.1
-Music::NWC2MusicXML::NWC           0.001001  pkg:cpan/Music-NWC2MusicXML@0.001.1
-Music::NWC2MusicXML::Parser        0.001001  pkg:cpan/Music-NWC2MusicXML@0.001.1
-Music::NWC2MusicXML::Score         0.001001  pkg:cpan/Music-NWC2MusicXML@0.001.1
-Music::NWC2MusicXML::Staff         0.001001  pkg:cpan/Music-NWC2MusicXML@0.001.1
+Music::NWC2MusicXML                0.001002  pkg:cpan/Music-NWC2MusicXML@0.001.2
+Music::NWC2MusicXML::Diagnostics   0.001002  pkg:cpan/Music-NWC2MusicXML@0.001.2
+Music::NWC2MusicXML::Event         0.001002  pkg:cpan/Music-NWC2MusicXML@0.001.2
+Music::NWC2MusicXML::MusicXML      0.001002  pkg:cpan/Music-NWC2MusicXML@0.001.2
+Music::NWC2MusicXML::NWC           0.001002  pkg:cpan/Music-NWC2MusicXML@0.001.2
+Music::NWC2MusicXML::Parser        0.001002  pkg:cpan/Music-NWC2MusicXML@0.001.2
+Music::NWC2MusicXML::Score         0.001002  pkg:cpan/Music-NWC2MusicXML@0.001.2
+Music::NWC2MusicXML::Staff         0.001002  pkg:cpan/Music-NWC2MusicXML@0.001.2
 Music::NeoRiemannianTonnetz         0.27  pkg:cpan/Music-NeoRiemannianTonnetz@0.27
 Music::Note                         0.01  pkg:cpan/Music-Note@0.01
 Music::Note::Frequency              0.05  pkg:cpan/Music-Note-Frequency@0.05
@@ -192019,7 +192019,7 @@ Plack::App::Gearman::Status        0.001001  pkg:cpan/Plack-App-Gearman-Status@0
 Plack::App::GitHub::WebHook          0.9  pkg:cpan/Plack-App-GitHub-WebHook@0.9
 Plack::App::GitHub::WebHook::Exception   0.9  pkg:cpan/Plack-App-GitHub-WebHook@0.9
 Plack::App::GitHub::WebHook::Logger   0.9  pkg:cpan/Plack-App-GitHub-WebHook@0.9
-Plack::App::GitHubPages::Faux       0.03  pkg:cpan/Plack-App-GitHubPages-Faux@0.03
+Plack::App::GitHubPages::Faux       0.04  pkg:cpan/Plack-App-GitHubPages-Faux@0.04
 Plack::App::GitSmartHttp            0.07  pkg:cpan/Plack-App-GitSmartHttp@0.07
 Plack::App::GraphEasy               0.01  pkg:cpan/Plack-App-GraphEasy@0.01
 Plack::App::GraphQL                0.003  pkg:cpan/Plack-App-GraphQL@0.003
@@ -218900,7 +218900,7 @@ String::Gsub::Matcher              undef  pkg:cpan/String-Gsub@0.04
 String::HexConvert                  0.02  pkg:cpan/String-HexConvert@0.02
 String::IRC                         0.05  pkg:cpan/String-IRC@0.05
 String::Ident                       0.05  pkg:cpan/String-Ident@0.05
-String::Increment::Parts           0.003  pkg:cpan/String-Increment-Parts@0.003
+String::Increment::Parts           0.004  pkg:cpan/String-Increment-Parts@0.004
 String::Incremental                 0.01  pkg:cpan/String-Incremental@0.01
 String::Incremental::Char          undef  pkg:cpan/String-Incremental@0.01
 String::Incremental::FormatParser  undef  pkg:cpan/String-Incremental@0.01
