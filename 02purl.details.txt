@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 08 Oct 2026 04:46:38 GMT
+Last-Updated: Thu, 08 Oct 2026 12:35:59 GMT
 Line-Count: 261425
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -33878,9 +33878,9 @@ CPAN::FTP                          5.5018  pkg:cpan/CPAN@2.41
 CPAN::FTP::netrc                    1.01  pkg:cpan/CPAN@2.41
 CPAN::Faker                        0.012  pkg:cpan/CPAN-Faker@0.012
 CPAN::Faker::HTTPD                 0.002  pkg:cpan/CPAN-Faker-HTTPD@0.002
-CPAN::FindDependencies              4.00  pkg:cpan/CPAN-FindDependencies@4.00
-CPAN::FindDependencies::Dependency  3.04  pkg:cpan/CPAN-FindDependencies@4.00
-CPAN::FindDependencies::MakeMaker    1.0  pkg:cpan/CPAN-FindDependencies@4.00
+CPAN::FindDependencies              4.01  pkg:cpan/CPAN-FindDependencies@4.01
+CPAN::FindDependencies::Dependency  3.04  pkg:cpan/CPAN-FindDependencies@4.01
+CPAN::FindDependencies::MakeMaker    1.0  pkg:cpan/CPAN-FindDependencies@4.01
 CPAN::FirstTime                    5.5319  pkg:cpan/CPAN@2.41
 CPAN::Flatten                       0.01  pkg:cpan/CPAN-Flatten@0.01
 CPAN::Flatten::CLI                 undef  pkg:cpan/CPAN-Flatten@0.01
@@ -80080,20 +80080,20 @@ Game::Cribbage::Score              undef  pkg:cpan/Game-Cribbage@0.16
 Game::Deckar                        0.02  pkg:cpan/Game-Deckar@0.02
 Game::Deckar::Card                 undef  pkg:cpan/Game-Deckar@0.02
 Game::DijkstraMap                   1.05  pkg:cpan/Game-DijkstraMap@1.05
-Game::Dominoes                      0.01  pkg:cpan/Game-Dominoes@0.01
-Game::Dominoes::Boneyard            0.01  pkg:cpan/Game-Dominoes@0.01
-Game::Dominoes::Bot                 0.01  pkg:cpan/Game-Dominoes@0.01
-Game::Dominoes::Error               0.01  pkg:cpan/Game-Dominoes@0.01
-Game::Dominoes::Hand                0.01  pkg:cpan/Game-Dominoes@0.01
-Game::Dominoes::Layout              0.01  pkg:cpan/Game-Dominoes@0.01
-Game::Dominoes::Notation            0.01  pkg:cpan/Game-Dominoes@0.01
-Game::Dominoes::Play                0.01  pkg:cpan/Game-Dominoes@0.01
-Game::Dominoes::Result              0.01  pkg:cpan/Game-Dominoes@0.01
-Game::Dominoes::Rules               0.01  pkg:cpan/Game-Dominoes@0.01
-Game::Dominoes::Scoring             0.01  pkg:cpan/Game-Dominoes@0.01
-Game::Dominoes::Set                 0.01  pkg:cpan/Game-Dominoes@0.01
-Game::Dominoes::Terminal            0.01  pkg:cpan/Game-Dominoes@0.01
-Game::Dominoes::Tile                0.01  pkg:cpan/Game-Dominoes@0.01
+Game::Dominoes                      0.02  pkg:cpan/Game-Dominoes@0.02
+Game::Dominoes::Boneyard            0.02  pkg:cpan/Game-Dominoes@0.02
+Game::Dominoes::Bot                 0.02  pkg:cpan/Game-Dominoes@0.02
+Game::Dominoes::Error               0.02  pkg:cpan/Game-Dominoes@0.02
+Game::Dominoes::Hand                0.02  pkg:cpan/Game-Dominoes@0.02
+Game::Dominoes::Layout              0.02  pkg:cpan/Game-Dominoes@0.02
+Game::Dominoes::Notation            0.02  pkg:cpan/Game-Dominoes@0.02
+Game::Dominoes::Play                0.02  pkg:cpan/Game-Dominoes@0.02
+Game::Dominoes::Result              0.02  pkg:cpan/Game-Dominoes@0.02
+Game::Dominoes::Rules               0.02  pkg:cpan/Game-Dominoes@0.02
+Game::Dominoes::Scoring             0.02  pkg:cpan/Game-Dominoes@0.02
+Game::Dominoes::Set                 0.02  pkg:cpan/Game-Dominoes@0.02
+Game::Dominoes::Terminal            0.02  pkg:cpan/Game-Dominoes@0.02
+Game::Dominoes::Tile                0.02  pkg:cpan/Game-Dominoes@0.02
 Game::Durak                         0.01  pkg:cpan/Game-Durak@0.01
 Game::Durak::Bot                    0.01  pkg:cpan/Game-Durak@0.01
 Game::Durak::Bout                   0.01  pkg:cpan/Game-Durak@0.01
@@ -226389,7 +226389,7 @@ Test::RestAPI::Endpoint            undef  pkg:cpan/Test-RestAPI@0.1.6
 Test::RestAPI::MojoGenerator       undef  pkg:cpan/Test-RestAPI@0.1.6
 Test::Resub                         2.03  pkg:cpan/Test-Resub@2.03
 Test::Retry                         0.01  pkg:cpan/Test-Retry@0.01
-Test::Returns                       0.04  pkg:cpan/Test-Returns@0.04
+Test::Returns                       0.05  pkg:cpan/Test-Returns@0.05
 Test::Reuse                        0.001  pkg:cpan/Test-Reuse@0.001
 Test::Rinci                        0.156  pkg:cpan/Test-Rinci@0.156
 Test::Rinci::CmdLine               0.001  pkg:cpan/Test-Rinci-CmdLine@0.001
