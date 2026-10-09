@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 08 Oct 2026 19:35:46 GMT
-Line-Count: 261427
+Last-Updated: Fri, 09 Oct 2026 00:04:34 GMT
+Line-Count: 261442
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -35597,23 +35597,23 @@ Call::Haskell::FFIGenerator        0.002001  pkg:cpan/Call-Haskell@v0.2.1
 Call::Haskell::ReadShow            0.001001  pkg:cpan/Call-Haskell@v0.2.1
 Call::Immediate                     0.01  pkg:cpan/Call-Immediate@0.01
 Call::Immediate::Call              undef  pkg:cpan/Call-Immediate@0.01
-CallBackery                        0.061001  pkg:cpan/CallBackery@0.61.1
-CallBackery::Config                undef  pkg:cpan/CallBackery@0.61.1
-CallBackery::Controller::RpcService undef  pkg:cpan/CallBackery@0.61.1
-CallBackery::Database              undef  pkg:cpan/CallBackery@0.61.1
-CallBackery::Exception             undef  pkg:cpan/CallBackery@0.61.1
-CallBackery::GuiPlugin::Abstract   undef  pkg:cpan/CallBackery@0.61.1
-CallBackery::GuiPlugin::AbstractAction undef  pkg:cpan/CallBackery@0.61.1
-CallBackery::GuiPlugin::AbstractCardlist undef  pkg:cpan/CallBackery@0.61.1
-CallBackery::GuiPlugin::AbstractForm undef  pkg:cpan/CallBackery@0.61.1
-CallBackery::GuiPlugin::AbstractHtml undef  pkg:cpan/CallBackery@0.61.1
-CallBackery::GuiPlugin::AbstractTable undef  pkg:cpan/CallBackery@0.61.1
-CallBackery::GuiPlugin::UserForm   undef  pkg:cpan/CallBackery@0.61.1
-CallBackery::GuiPlugin::Users      undef  pkg:cpan/CallBackery@0.61.1
-CallBackery::Model::ConfigJsonSchema undef  pkg:cpan/CallBackery@0.61.1
-CallBackery::Plugin::Doc           undef  pkg:cpan/CallBackery@0.61.1
-CallBackery::Translate             undef  pkg:cpan/CallBackery@0.61.1
-CallBackery::User                  undef  pkg:cpan/CallBackery@0.61.1
+CallBackery                        0.061002  pkg:cpan/CallBackery@0.61.2
+CallBackery::Config                undef  pkg:cpan/CallBackery@0.61.2
+CallBackery::Controller::RpcService undef  pkg:cpan/CallBackery@0.61.2
+CallBackery::Database              undef  pkg:cpan/CallBackery@0.61.2
+CallBackery::Exception             undef  pkg:cpan/CallBackery@0.61.2
+CallBackery::GuiPlugin::Abstract   undef  pkg:cpan/CallBackery@0.61.2
+CallBackery::GuiPlugin::AbstractAction undef  pkg:cpan/CallBackery@0.61.2
+CallBackery::GuiPlugin::AbstractCardlist undef  pkg:cpan/CallBackery@0.61.2
+CallBackery::GuiPlugin::AbstractForm undef  pkg:cpan/CallBackery@0.61.2
+CallBackery::GuiPlugin::AbstractHtml undef  pkg:cpan/CallBackery@0.61.2
+CallBackery::GuiPlugin::AbstractTable undef  pkg:cpan/CallBackery@0.61.2
+CallBackery::GuiPlugin::UserForm   undef  pkg:cpan/CallBackery@0.61.2
+CallBackery::GuiPlugin::Users      undef  pkg:cpan/CallBackery@0.61.2
+CallBackery::Model::ConfigJsonSchema undef  pkg:cpan/CallBackery@0.61.2
+CallBackery::Plugin::Doc           undef  pkg:cpan/CallBackery@0.61.2
+CallBackery::Translate             undef  pkg:cpan/CallBackery@0.61.2
+CallBackery::User                  undef  pkg:cpan/CallBackery@0.61.2
 CallGraph                           0.55  pkg:cpan/CallGraph@0.55
 CallGraph::Dumper                   0.55  pkg:cpan/CallGraph@0.55
 CallGraph::Lang::Fortran            0.55  pkg:cpan/CallGraph@0.55
@@ -51190,7 +51190,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.1  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::NotNode  v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::OrNode   v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.158
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.159
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curl::Impersonate                   0.02  pkg:cpan/Curl-Impersonate@0.02
 Curl::Impersonate::Multi           undef  pkg:cpan/Curl-Impersonate@0.02
@@ -57533,6 +57533,10 @@ Dancer2::Session::JSON             0.003  pkg:cpan/Dancer2-Session-JSON@0.003
 Dancer2::Session::Memcached        0.007  pkg:cpan/Dancer2-Session-Memcached@0.007
 Dancer2::Session::MongoDB          0.004  pkg:cpan/Dancer2-Session-MongoDB@0.004
 Dancer2::Session::PSGI             0.010  pkg:cpan/Dancer2-Session-PSGI@0.010
+Dancer2::Session::Pg               0.001  pkg:cpan/Dancer2-Session-Pg@0.001
+Dancer2::Session::Pg::Cipher       0.001  pkg:cpan/Dancer2-Session-Pg@0.001
+Dancer2::Session::Pg::Cipher::AESGCM 0.001  pkg:cpan/Dancer2-Session-Pg@0.001
+Dancer2::Session::Pg::Cipher::ChaCha20Poly1305 0.001  pkg:cpan/Dancer2-Session-Pg@0.001
 Dancer2::Session::Redis            0.008  pkg:cpan/Dancer2-Session-Redis@0.008
 Dancer2::Session::Redis::Serialization::Sereal 0.002  pkg:cpan/Dancer2-Session-Redis@0.008
 Dancer2::Session::Redis::SerializationRole 0.001  pkg:cpan/Dancer2-Session-Redis@0.008
@@ -73448,19 +73452,19 @@ ExtUtils::SVDmaker                  1.12  pkg:cpan/ExtUtils-SVDmaker@0.10
 ExtUtils::Scriptlet                1.132640  pkg:cpan/ExtUtils-Scriptlet@1.132640
 ExtUtils::TBone                    1.124  pkg:cpan/ExtUtils-TBone@1.124
 ExtUtils::Typemap                   1.00  pkg:cpan/ExtUtils-Typemap@1.00
-ExtUtils::Typemap::Basic            1.05  pkg:cpan/ExtUtils-Typemaps-Default@1.05
-ExtUtils::Typemap::Default          1.05  pkg:cpan/ExtUtils-Typemaps-Default@1.05
+ExtUtils::Typemap::Basic            1.06  pkg:cpan/ExtUtils-Typemaps-Default@1.06
+ExtUtils::Typemap::Default          1.06  pkg:cpan/ExtUtils-Typemaps-Default@1.06
 ExtUtils::Typemap::InputMap         1.00  pkg:cpan/ExtUtils-Typemap@1.00
-ExtUtils::Typemap::ObjectMap        1.05  pkg:cpan/ExtUtils-Typemaps-Default@1.05
+ExtUtils::Typemap::ObjectMap        1.06  pkg:cpan/ExtUtils-Typemaps-Default@1.06
 ExtUtils::Typemap::OutputMap        1.00  pkg:cpan/ExtUtils-Typemap@1.00
-ExtUtils::Typemap::STL              1.05  pkg:cpan/ExtUtils-Typemaps-Default@1.05
-ExtUtils::Typemap::STL::String      1.05  pkg:cpan/ExtUtils-Typemaps-Default@1.05
-ExtUtils::Typemap::STL::Vector      1.05  pkg:cpan/ExtUtils-Typemaps-Default@1.05
+ExtUtils::Typemap::STL              1.06  pkg:cpan/ExtUtils-Typemaps-Default@1.06
+ExtUtils::Typemap::STL::String      1.06  pkg:cpan/ExtUtils-Typemaps-Default@1.06
+ExtUtils::Typemap::STL::Vector      1.06  pkg:cpan/ExtUtils-Typemaps-Default@1.06
 ExtUtils::Typemap::Type             1.00  pkg:cpan/ExtUtils-Typemap@1.00
 ExtUtils::Typemaps                  3.64  pkg:cpan/ExtUtils-ParseXS@3.64
-ExtUtils::Typemaps::Basic           1.05  pkg:cpan/ExtUtils-Typemaps-Default@1.05
+ExtUtils::Typemaps::Basic           1.06  pkg:cpan/ExtUtils-Typemaps-Default@1.06
 ExtUtils::Typemaps::Cmd             3.64  pkg:cpan/ExtUtils-ParseXS@3.64
-ExtUtils::Typemaps::Default         1.05  pkg:cpan/ExtUtils-Typemaps-Default@1.05
+ExtUtils::Typemaps::Default         1.06  pkg:cpan/ExtUtils-Typemaps-Default@1.06
 ExtUtils::Typemaps::Excommunicated  0.01  pkg:cpan/ExtUtils-Typemaps-Excommunicated@0.01
 ExtUtils::Typemaps::InputMap        3.64  pkg:cpan/ExtUtils-ParseXS@3.64
 ExtUtils::Typemaps::IntObj         0.004  pkg:cpan/ExtUtils-Typemaps-Misc@0.004
@@ -73468,15 +73472,15 @@ ExtUtils::Typemaps::Magic          0.010  pkg:cpan/ExtUtils-Typemaps-Magic@0.010
 ExtUtils::Typemaps::MagicBuf       0.010  pkg:cpan/ExtUtils-Typemaps-Magic@0.010
 ExtUtils::Typemaps::MagicExt       0.010  pkg:cpan/ExtUtils-Typemaps-Magic@0.010
 ExtUtils::Typemaps::Misc           0.004  pkg:cpan/ExtUtils-Typemaps-Misc@0.004
-ExtUtils::Typemaps::ObjectMap       1.05  pkg:cpan/ExtUtils-Typemaps-Default@1.05
+ExtUtils::Typemaps::ObjectMap       1.06  pkg:cpan/ExtUtils-Typemaps-Default@1.06
 ExtUtils::Typemaps::OpaqueObj      0.004  pkg:cpan/ExtUtils-Typemaps-Misc@0.004
 ExtUtils::Typemaps::OutputMap       3.64  pkg:cpan/ExtUtils-ParseXS@3.64
 ExtUtils::Typemaps::PackedVal      0.004  pkg:cpan/ExtUtils-Typemaps-Misc@0.004
-ExtUtils::Typemaps::STL             1.05  pkg:cpan/ExtUtils-Typemaps-Default@1.05
+ExtUtils::Typemaps::STL             1.06  pkg:cpan/ExtUtils-Typemaps-Default@1.06
 ExtUtils::Typemaps::STL::Extra      0.01  pkg:cpan/ExtUtils-Typemaps-STL-Extra@0.001
-ExtUtils::Typemaps::STL::List       1.05  pkg:cpan/ExtUtils-Typemaps-Default@1.05
-ExtUtils::Typemaps::STL::String     1.05  pkg:cpan/ExtUtils-Typemaps-Default@1.05
-ExtUtils::Typemaps::STL::Vector     1.05  pkg:cpan/ExtUtils-Typemaps-Default@1.05
+ExtUtils::Typemaps::STL::List       1.06  pkg:cpan/ExtUtils-Typemaps-Default@1.06
+ExtUtils::Typemaps::STL::String     1.06  pkg:cpan/ExtUtils-Typemaps-Default@1.06
+ExtUtils::Typemaps::STL::Vector     1.06  pkg:cpan/ExtUtils-Typemaps-Default@1.06
 ExtUtils::Typemaps::SigSet         0.009  pkg:cpan/ExtUtils-Typemaps-Signal@0.009
 ExtUtils::Typemaps::Signal         0.009  pkg:cpan/ExtUtils-Typemaps-Signal@0.009
 ExtUtils::Typemaps::Signo          0.009  pkg:cpan/ExtUtils-Typemaps-Signal@0.009
@@ -80193,6 +80197,16 @@ Game::Mahjong::Terminal             0.01  pkg:cpan/Game-Mahjong@0.01
 Game::Mahjong::Tiles                0.01  pkg:cpan/Game-Mahjong@0.01
 Game::Mahjong::Wall                 0.01  pkg:cpan/Game-Mahjong@0.01
 Game::Marad                         0.07  pkg:cpan/Game-Marad@0.07
+Game::Merrills                      0.01  pkg:cpan/Game-Merrills@0.01
+Game::Merrills::Board               0.01  pkg:cpan/Game-Merrills@0.01
+Game::Merrills::Bot                 0.01  pkg:cpan/Game-Merrills@0.01
+Game::Merrills::Error               0.01  pkg:cpan/Game-Merrills@0.01
+Game::Merrills::Move                0.01  pkg:cpan/Game-Merrills@0.01
+Game::Merrills::Notation            0.01  pkg:cpan/Game-Merrills@0.01
+Game::Merrills::Points              0.01  pkg:cpan/Game-Merrills@0.01
+Game::Merrills::Result              0.01  pkg:cpan/Game-Merrills@0.01
+Game::Merrills::Rules               0.01  pkg:cpan/Game-Merrills@0.01
+Game::Merrills::Terminal            0.01  pkg:cpan/Game-Merrills@0.01
 Game::NURBS                        0.001001  pkg:cpan/Game-NURBS@0.1.13
 Game::Ninja                        0.001001  pkg:cpan/Game-Ninja@0.1.6
 Game::Oware                         0.02  pkg:cpan/Game-Oware@0.02
@@ -124401,20 +124415,20 @@ Mail::Colander::Server::Util       0.004  pkg:cpan/Mail-Colander@0.004
 Mail::Colander::Session            0.004  pkg:cpan/Mail-Colander@0.004
 Mail::Convert::Mbox::ToEml          0.06  pkg:cpan/Mail-Convert-Mbox-ToEml@0.06
 Mail::DKIM                         1.20240923  pkg:cpan/Mail-DKIM@1.20240923
-Mail::DKIM2                         0.14  pkg:cpan/Mail-DKIM2@0.14
-Mail::DKIM2::Common                 0.14  pkg:cpan/Mail-DKIM2@0.14
-Mail::DKIM2::DSN                    0.14  pkg:cpan/Mail-DKIM2@0.14
-Mail::DKIM2::Gate                   0.14  pkg:cpan/Mail-DKIM2@0.14
-Mail::DKIM2::HeaderParser           0.14  pkg:cpan/Mail-DKIM2@0.14
-Mail::DKIM2::MessageInstance        0.14  pkg:cpan/Mail-DKIM2@0.14
-Mail::DKIM2::MessageStore           0.14  pkg:cpan/Mail-DKIM2@0.14
-Mail::DKIM2::Reflector              0.14  pkg:cpan/Mail-DKIM2@0.14
-Mail::DKIM2::Signature              0.14  pkg:cpan/Mail-DKIM2@0.14
-Mail::DKIM2::Signer                 0.14  pkg:cpan/Mail-DKIM2@0.14
-Mail::DKIM2::Split                  0.14  pkg:cpan/Mail-DKIM2@0.14
-Mail::DKIM2::TagValueList           0.14  pkg:cpan/Mail-DKIM2@0.14
-Mail::DKIM2::Validate               0.14  pkg:cpan/Mail-DKIM2@0.14
-Mail::DKIM2::Verifier               0.14  pkg:cpan/Mail-DKIM2@0.14
+Mail::DKIM2                         0.15  pkg:cpan/Mail-DKIM2@0.15
+Mail::DKIM2::Common                 0.15  pkg:cpan/Mail-DKIM2@0.15
+Mail::DKIM2::DSN                    0.15  pkg:cpan/Mail-DKIM2@0.15
+Mail::DKIM2::Gate                   0.15  pkg:cpan/Mail-DKIM2@0.15
+Mail::DKIM2::HeaderParser           0.15  pkg:cpan/Mail-DKIM2@0.15
+Mail::DKIM2::MessageInstance        0.15  pkg:cpan/Mail-DKIM2@0.15
+Mail::DKIM2::MessageStore           0.15  pkg:cpan/Mail-DKIM2@0.15
+Mail::DKIM2::Reflector              0.15  pkg:cpan/Mail-DKIM2@0.15
+Mail::DKIM2::Signature              0.15  pkg:cpan/Mail-DKIM2@0.15
+Mail::DKIM2::Signer                 0.15  pkg:cpan/Mail-DKIM2@0.15
+Mail::DKIM2::Split                  0.15  pkg:cpan/Mail-DKIM2@0.15
+Mail::DKIM2::TagValueList           0.15  pkg:cpan/Mail-DKIM2@0.15
+Mail::DKIM2::Validate               0.15  pkg:cpan/Mail-DKIM2@0.15
+Mail::DKIM2::Verifier               0.15  pkg:cpan/Mail-DKIM2@0.15
 Mail::DKIM::ARC::MessageSignature  1.20240923  pkg:cpan/Mail-DKIM@1.20240923
 Mail::DKIM::ARC::Seal              1.20240923  pkg:cpan/Mail-DKIM@1.20240923
 Mail::DKIM::ARC::Signer            1.20240923  pkg:cpan/Mail-DKIM@1.20240923
@@ -124863,8 +124877,8 @@ Mail::Milter::Authentication::Handler::BIMI 4.20261001  pkg:cpan/Mail-Milter-Aut
 Mail::Milter::Authentication::Handler::Blocker 4.20261001  pkg:cpan/Mail-Milter-Authentication@4.20261001
 Mail::Milter::Authentication::Handler::ClamAV 2.20180611  pkg:cpan/Mail-Milter-Authentication-Extra@2.20180611
 Mail::Milter::Authentication::Handler::DKIM 4.20261001  pkg:cpan/Mail-Milter-Authentication@4.20261001
-Mail::Milter::Authentication::Handler::DKIM2Sign  0.14  pkg:cpan/Mail-DKIM2@0.14
-Mail::Milter::Authentication::Handler::DKIM2Verify  0.14  pkg:cpan/Mail-DKIM2@0.14
+Mail::Milter::Authentication::Handler::DKIM2Sign  0.15  pkg:cpan/Mail-DKIM2@0.15
+Mail::Milter::Authentication::Handler::DKIM2Verify  0.15  pkg:cpan/Mail-DKIM2@0.15
 Mail::Milter::Authentication::Handler::DMARC 4.20261001  pkg:cpan/Mail-Milter-Authentication@4.20261001
 Mail::Milter::Authentication::Handler::IPRev 4.20261001  pkg:cpan/Mail-Milter-Authentication@4.20261001
 Mail::Milter::Authentication::Handler::LocalIP 4.20261001  pkg:cpan/Mail-Milter-Authentication@4.20261001
@@ -126993,7 +127007,7 @@ Math::Cephes::Matrix               0.5308  pkg:cpan/Math-Cephes@0.5308
 Math::Cephes::Polynomial           0.5308  pkg:cpan/Math-Cephes@0.5308
 Math::Cephesc                      0.5308  pkg:cpan/Math-Cephes@0.5308
 Math::CheckDigits                   0.05  pkg:cpan/Math-CheckDigits@0.05
-Math::Clipper                       1.29  pkg:cpan/Math-Clipper@1.29
+Math::Clipper                       1.30  pkg:cpan/Math-Clipper@1.30
 Math::Combinatorics                 0.09  pkg:cpan/Math-Combinatorics@0.09
 Math::Complex                       1.59  pkg:cpan/Math-Complex@1.59
 Math::Complex_C                     0.16  pkg:cpan/Math-Complex_C@0.16
@@ -128056,10 +128070,10 @@ Math::Ryu                           1.09  pkg:cpan/Math-Ryu@1.09
 Math::SMA                           0.01  pkg:cpan/Math-SMA@0.01
 Math::SNAFU                        0.001  pkg:cpan/Math-SNAFU@0.001
 Math::SO3                           0.90  pkg:cpan/Math-SO3@0.90
-Math::SZaru                         0.01  pkg:cpan/Math-SZaru@0.01
-Math::SZaru::QuantileEstimator         0  pkg:cpan/Math-SZaru@0.01
-Math::SZaru::TopEstimator              0  pkg:cpan/Math-SZaru@0.01
-Math::SZaru::UniqueEstimator           0  pkg:cpan/Math-SZaru@0.01
+Math::SZaru                         0.02  pkg:cpan/Math-SZaru@0.02
+Math::SZaru::QuantileEstimator     undef  pkg:cpan/Math-SZaru@0.02
+Math::SZaru::TopEstimator          undef  pkg:cpan/Math-SZaru@0.02
+Math::SZaru::UniqueEstimator       undef  pkg:cpan/Math-SZaru@0.02
 Math::ScientificNotation::Util     0.003  pkg:cpan/Math-ScientificNotation-Util@0.003
 Math::SegmentedEnvelope             0.03  pkg:cpan/Math-SegmentedEnvelope@0.03
 Math::SegmentedEnvelope::Static     0.03  pkg:cpan/Math-SegmentedEnvelope@0.03
@@ -189620,6 +189634,7 @@ Perl::Critic::Policy::BuiltinFunctions::ProhibitChainingSameListSub 0.001  pkg:c
 Perl::Critic::Policy::BuiltinFunctions::ProhibitComplexMappings 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::BuiltinFunctions::ProhibitDeleteOnArrays  0.02  pkg:cpan/Perl-Critic-Policy-BuiltinFunctions-ProhibitDeleteOnArrays@0.02
 Perl::Critic::Policy::BuiltinFunctions::ProhibitForeach  0.02  pkg:cpan/Perl-Critic-Policy-BuiltinFunctions-ProhibitForeach@0.02
+Perl::Critic::Policy::BuiltinFunctions::ProhibitIndirectBooleanGrep 0.001  pkg:cpan/Perl-Critic-Policy-BuiltinFunctions-ProhibitIndirectBooleanGrep@0.001
 Perl::Critic::Policy::BuiltinFunctions::ProhibitLvalueSubstr 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::BuiltinFunctions::ProhibitReturnOr  0.01  pkg:cpan/Perl-Critic-Policy-BuiltinFunctions-ProhibitReturnOr@0.01
 Perl::Critic::Policy::BuiltinFunctions::ProhibitReverseSortBlock 1.156  pkg:cpan/Perl-Critic@1.156
@@ -189864,7 +189879,7 @@ Perl::Critic::Policy::ProhibitPipeOpen 1.000  pkg:cpan/perl-critic-policy-prohib
 Perl::Critic::Policy::ProhibitPrintSTDERR 1.000  pkg:cpan/perl-critic-policy-prohibitprintstderr@1.000
 Perl::Critic::Policy::ProhibitRegexForSimpleSubstring 1.001  pkg:cpan/perl-critic-policy-prohibitregexforsimplesubstring@1.001
 Perl::Critic::Policy::ProhibitSmartmatch   0.4  pkg:cpan/Perl-Critic-Policy-ProhibitSmartmatch@0.4
-Perl::Critic::Policy::ProhibitUnusedDefinitions 0.004  pkg:cpan/Perl-Critic-Policy-ProhibitUnusedDefinitions@0.004
+Perl::Critic::Policy::ProhibitUnusedDefinitions 0.005  pkg:cpan/Perl-Critic-Policy-ProhibitUnusedDefinitions@0.005
 Perl::Critic::Policy::ProhibitUnusedImports 1.001  pkg:cpan/perl-critic-policy-prohibitunusedimports@1.001
 Perl::Critic::Policy::ProhibitUsageSubs 1.000  pkg:cpan/perl-critic-policy-prohibitusagesubs@1.000
 Perl::Critic::Policy::ProhibitUseLib 1.000  pkg:cpan/perl-critic-policy-prohibituselib@1.000
