@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 10 Oct 2026 10:20:56 GMT
-Line-Count: 261500
+Last-Updated: Sat, 10 Oct 2026 16:44:32 GMT
+Line-Count: 261503
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -22758,13 +22758,13 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         v0.39.4  pkg:cpan/BarefootJS@0.39.4
-BarefootJS::Backend::Mojo          v0.39.4  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.39.4
-BarefootJS::Backend::Xslate        v0.39.4  pkg:cpan/BarefootJS-Backend-Xslate@0.39.4
-BarefootJS::Date                   v0.39.4  pkg:cpan/BarefootJS@0.39.4
-BarefootJS::DevReload              v0.39.4  pkg:cpan/BarefootJS@0.39.4
-BarefootJS::Evaluator              v0.39.4  pkg:cpan/BarefootJS@0.39.4
-BarefootJS::SearchParams           v0.39.4  pkg:cpan/BarefootJS@0.39.4
+BarefootJS                         v0.39.5  pkg:cpan/BarefootJS@0.39.5
+BarefootJS::Backend::Mojo          v0.39.5  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.39.5
+BarefootJS::Backend::Xslate        v0.39.5  pkg:cpan/BarefootJS-Backend-Xslate@0.39.5
+BarefootJS::Date                   v0.39.5  pkg:cpan/BarefootJS@0.39.5
+BarefootJS::DevReload              v0.39.5  pkg:cpan/BarefootJS@0.39.5
+BarefootJS::Evaluator              v0.39.5  pkg:cpan/BarefootJS@0.39.5
+BarefootJS::SearchParams           v0.39.5  pkg:cpan/BarefootJS@0.39.5
 BarefootJS::_TZProbe               0.029000  pkg:cpan/BarefootJS@0.29.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
@@ -80241,17 +80241,17 @@ Game::Pexeso::Spinner              undef  pkg:cpan/Game-Pexeso@0.01
 Game::PlatformsOfPeril              0.11  pkg:cpan/Game-PlatformsOfPeril@0.11
 Game::PseudoRand                    0.03  pkg:cpan/Game-PseudoRand@0.03
 Game::RaycastFOV                    2.03  pkg:cpan/Game-RaycastFOV@2.03
-Game::Reversi                       0.01  pkg:cpan/Game-Reversi@0.01
-Game::Reversi::Board                0.01  pkg:cpan/Game-Reversi@0.01
-Game::Reversi::Bot                  0.01  pkg:cpan/Game-Reversi@0.01
-Game::Reversi::Error                0.01  pkg:cpan/Game-Reversi@0.01
-Game::Reversi::Move                 0.01  pkg:cpan/Game-Reversi@0.01
-Game::Reversi::Notation             0.01  pkg:cpan/Game-Reversi@0.01
-Game::Reversi::Opening              0.01  pkg:cpan/Game-Reversi@0.01
-Game::Reversi::Result               0.01  pkg:cpan/Game-Reversi@0.01
-Game::Reversi::Rules                0.01  pkg:cpan/Game-Reversi@0.01
-Game::Reversi::Scoring              0.01  pkg:cpan/Game-Reversi@0.01
-Game::Reversi::Terminal             0.01  pkg:cpan/Game-Reversi@0.01
+Game::Reversi                       0.02  pkg:cpan/Game-Reversi@0.02
+Game::Reversi::Board                0.02  pkg:cpan/Game-Reversi@0.02
+Game::Reversi::Bot                  0.02  pkg:cpan/Game-Reversi@0.02
+Game::Reversi::Error                0.02  pkg:cpan/Game-Reversi@0.02
+Game::Reversi::Move                 0.02  pkg:cpan/Game-Reversi@0.02
+Game::Reversi::Notation             0.02  pkg:cpan/Game-Reversi@0.02
+Game::Reversi::Opening              0.02  pkg:cpan/Game-Reversi@0.02
+Game::Reversi::Result               0.02  pkg:cpan/Game-Reversi@0.02
+Game::Reversi::Rules                0.02  pkg:cpan/Game-Reversi@0.02
+Game::Reversi::Scoring              0.02  pkg:cpan/Game-Reversi@0.02
+Game::Reversi::Terminal             0.02  pkg:cpan/Game-Reversi@0.02
 Game::RockPaperScissor              0.01  pkg:cpan/Game-RockPaperScissor@0.01
 Game::RockPaperScissorsLizardSpock  0.01  pkg:cpan/Game-RockPaperScissorsLizardSpock@0.01
 Game::RoyalUr                       0.01  pkg:cpan/Game-RoyalUr@0.01
@@ -122933,7 +122933,7 @@ MIDI::RtMidi::FFI::Device           0.13  pkg:cpan/MIDI-RtMidi-FFI@0.13
 MIDI::RtMidi::FFI::Device::In       0.13  pkg:cpan/MIDI-RtMidi-FFI@0.13
 MIDI::RtMidi::FFI::Device::Out      0.13  pkg:cpan/MIDI-RtMidi-FFI@0.13
 MIDI::RtMidi::ScorePlayer          0.0303  pkg:cpan/MIDI-RtMidi-ScorePlayer@0.0303
-MIDI::RtMidi::Util                 0.0500  pkg:cpan/MIDI-RtMidi-Util@0.0500
+MIDI::RtMidi::Util                 0.0501  pkg:cpan/MIDI-RtMidi-Util@0.0501
 MIDI::SP404sx                      1.000000  pkg:cpan/MIDI-SP404sx@v1.0.0
 MIDI::SP404sx::Constants           undef  pkg:cpan/MIDI-SP404sx@v1.0.0
 MIDI::SP404sx::MIDIIO              undef  pkg:cpan/MIDI-SP404sx@v1.0.0
@@ -127529,6 +127529,8 @@ Math::Geometry::Construction::Types 0.024  pkg:cpan/Math-Geometry-Construction@0
 Math::Geometry::Construction::Vector 0.024  pkg:cpan/Math-Geometry-Construction@0.024
 Math::Geometry::Delaunay            0.21  pkg:cpan/Math-Geometry-Delaunay@0.21
 Math::Geometry::GPC                 1.03  pkg:cpan/Math-Geometry-GPC@1.03
+Math::Geometry::HexGrid             0.01  pkg:cpan/Math-Geometry-HexGrid@0.01
+Math::Geometry::HexGrid::Hex        0.01  pkg:cpan/Math-Geometry-HexGrid@0.01
 Math::Geometry::IntersectionArea    0.01  pkg:cpan/Math-Geometry-IntersectionArea@0.01
 Math::Geometry::Multidimensional    0.02  pkg:cpan/Math-Geometry-Multidimensional@0.02
 Math::Geometry::Planar              1.18  pkg:cpan/Math-Geometry-Planar@1.18
@@ -133910,8 +133912,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    v0.39.4  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.39.4
-Mojolicious::Plugin::BarefootJS::DevReload v0.39.4  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.39.4
+Mojolicious::Plugin::BarefootJS    v0.39.5  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.39.5
+Mojolicious::Plugin::BarefootJS::DevReload v0.39.5  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.39.5
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus   1.0  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@1.0
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -189636,7 +189638,7 @@ Perl::Critic::Exception::Parse     1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Freenode             v1.0.4  pkg:cpan/Perl-Critic-Freenode@v1.0.4
 Perl::Critic::Freenode::Utils      v1.0.4  pkg:cpan/Perl-Critic-Freenode@v1.0.4
 Perl::Critic::Git                  v1.3.1  pkg:cpan/Perl-Critic-Git@v1.3.1
-Perl::Critic::Grape                0.001000  pkg:cpan/Perl-Critic-Grape@0.1.0
+Perl::Critic::Grape                0.001001  pkg:cpan/Perl-Critic-Grape@0.1.1
 Perl::Critic::Itch                  0.07  pkg:cpan/Perl-Critic-Itch@0.07
 Perl::Critic::Lax                  0.014  pkg:cpan/Perl-Critic-Lax@0.014
 Perl::Critic::Mardem                0.06  pkg:cpan/Perl-Critic-Mardem@0.06
@@ -189704,7 +189706,7 @@ Perl::Critic::Policy::CodeLayout::RequireConsistentNewlines 1.156  pkg:cpan/Perl
 Perl::Critic::Policy::CodeLayout::RequireFinalSemicolon   100  pkg:cpan/Perl-Critic-Pulp@100
 Perl::Critic::Policy::CodeLayout::RequireKRBracing undef  pkg:cpan/Perl-Critic-PolicyBundle-SNEZ@0.03
 Perl::Critic::Policy::CodeLayout::RequireKRParens undef  pkg:cpan/Perl-Critic-PolicyBundle-SNEZ@0.03
-Perl::Critic::Policy::CodeLayout::RequireParensWithBuiltins 0.001000  pkg:cpan/Perl-Critic-Grape@0.1.0
+Perl::Critic::Policy::CodeLayout::RequireParensWithBuiltins 0.001001  pkg:cpan/Perl-Critic-Grape@0.1.1
 Perl::Critic::Policy::CodeLayout::RequireSpaceAroundBinaryOperators undef  pkg:cpan/Perl-Critic-PolicyBundle-SNEZ@0.03
 Perl::Critic::Policy::CodeLayout::RequireTidyCode 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::CodeLayout::RequireTrailingCommaAtNewline   100  pkg:cpan/Perl-Critic-Pulp@100
@@ -189753,7 +189755,7 @@ Perl::Critic::Policy::ControlStructures::ProhibitCStyleForLoops 1.156  pkg:cpan/
 Perl::Critic::Policy::ControlStructures::ProhibitCascadingIfElse 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ControlStructures::ProhibitDeepNests 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ControlStructures::ProhibitGotoIntoConstruct  0.07  pkg:cpan/Perl-Critic-PolicyBundle-LoopsAndLabels@0.07
-Perl::Critic::Policy::ControlStructures::ProhibitInlineDo 0.001000  pkg:cpan/Perl-Critic-Grape@0.1.0
+Perl::Critic::Policy::ControlStructures::ProhibitInlineDo 0.001001  pkg:cpan/Perl-Critic-Grape@0.1.1
 Perl::Critic::Policy::ControlStructures::ProhibitLabelsWithSpecialBlockNames 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ControlStructures::ProhibitMultipleSubscripts undef  pkg:cpan/Perl-Critic-PolicyBundle-SNEZ@0.03
 Perl::Critic::Policy::ControlStructures::ProhibitMutatingListFunctions 1.156  pkg:cpan/Perl-Critic@1.156
@@ -189921,8 +189923,9 @@ Perl::Critic::Policy::ProhibitUsageSubs 1.000  pkg:cpan/perl-critic-policy-prohi
 Perl::Critic::Policy::ProhibitUseLib 1.000  pkg:cpan/perl-critic-policy-prohibituselib@1.000
 Perl::Critic::Policy::References::ProhibitComplexDoubleSigils   0.2  pkg:cpan/Perl-Critic-Policy-References-ProhibitComplexDoubleSigils@0.2
 Perl::Critic::Policy::References::ProhibitDoubleSigils 1.156  pkg:cpan/Perl-Critic@1.156
-Perl::Critic::Policy::References::ProhibitRefChecks 0.001000  pkg:cpan/Perl-Critic-Grape@0.1.0
-Perl::Critic::Policy::References::RequireSigils 0.001000  pkg:cpan/Perl-Critic-Grape@0.1.0
+Perl::Critic::Policy::References::ProhibitRefChecks 0.001001  pkg:cpan/Perl-Critic-Grape@0.1.1
+Perl::Critic::Policy::References::ProhibitUnnecessaryRefs 0.001001  pkg:cpan/Perl-Critic-Grape@0.1.1
+Perl::Critic::Policy::References::RequireSigils 0.001001  pkg:cpan/Perl-Critic-Grape@0.1.1
 Perl::Critic::Policy::RegularExpressions::PreventUselessMetacharacterEscapes 1.000  pkg:cpan/Perl-Critic-Policy-RegularExpressions-PreventUselessMetacharacterEscapes@1.000
 Perl::Critic::Policy::RegularExpressions::ProhibitCaptureWithoutTest 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::RegularExpressions::ProhibitComplexRegexes 1.156  pkg:cpan/Perl-Critic@1.156
@@ -189971,9 +189974,9 @@ Perl::Critic::Policy::Subroutines::ProhibitUnderscorePrivateSubs 0.001  pkg:cpan
 Perl::Critic::Policy::Subroutines::ProhibitUnusedPrivateSubroutines 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Subroutines::ProtectPrivateSubs 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Subroutines::RequireArgUnpacking 1.156  pkg:cpan/Perl-Critic@1.156
-Perl::Critic::Policy::Subroutines::RequireConsistentReturn 0.001000  pkg:cpan/Perl-Critic-Grape@0.1.0
+Perl::Critic::Policy::Subroutines::RequireConsistentReturn 0.001001  pkg:cpan/Perl-Critic-Grape@0.1.1
 Perl::Critic::Policy::Subroutines::RequireFinalReturn 1.156  pkg:cpan/Perl-Critic@1.156
-Perl::Critic::Policy::Subroutines::RequireSubOrder 0.001000  pkg:cpan/Perl-Critic-Grape@0.1.0
+Perl::Critic::Policy::Subroutines::RequireSubOrder 0.001001  pkg:cpan/Perl-Critic-Grape@0.1.1
 Perl::Critic::Policy::TestingAndDebugging::ProhibitNoStrict 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::TestingAndDebugging::ProhibitNoWarnings 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::TestingAndDebugging::ProhibitProlongedStrictureOverride 1.156  pkg:cpan/Perl-Critic@1.156
@@ -190036,7 +190039,7 @@ Perl::Critic::Policy::ValuesAndExpressions::RequireInterpolationOfMetachars 1.15
 Perl::Critic::Policy::ValuesAndExpressions::RequireNumberSeparators 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ValuesAndExpressions::RequireNumericVersion   100  pkg:cpan/Perl-Critic-Pulp@100
 Perl::Critic::Policy::ValuesAndExpressions::RequireQuotedHeredocTerminator 1.156  pkg:cpan/Perl-Critic@1.156
-Perl::Critic::Policy::ValuesAndExpressions::RequireSlices 0.001000  pkg:cpan/Perl-Critic-Grape@0.1.0
+Perl::Critic::Policy::ValuesAndExpressions::RequireSlices 0.001001  pkg:cpan/Perl-Critic-Grape@0.1.1
 Perl::Critic::Policy::ValuesAndExpressions::RequireUpperCaseHeredocTerminator 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ValuesAndExpressions::RestrictLongStrings 1.003  pkg:cpan/Perl-Critic-More@1.003
 Perl::Critic::Policy::ValuesAndExpressions::UnexpandedSpecialLiteral   100  pkg:cpan/Perl-Critic-Pulp@100
@@ -190052,7 +190055,7 @@ Perl::Critic::Policy::Variables::ProhibitPackageVars 1.156  pkg:cpan/Perl-Critic
 Perl::Critic::Policy::Variables::ProhibitPerl4PackageNames 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Variables::ProhibitPunctuationVars 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Variables::ProhibitReusedNames 1.156  pkg:cpan/Perl-Critic@1.156
-Perl::Critic::Policy::Variables::ProhibitTopicIterator 0.001000  pkg:cpan/Perl-Critic-Grape@0.1.0
+Perl::Critic::Policy::Variables::ProhibitTopicIterator 0.001001  pkg:cpan/Perl-Critic-Grape@0.1.1
 Perl::Critic::Policy::Variables::ProhibitUnusedVariables 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Variables::ProhibitUnusedVarsStricter 0.116  pkg:cpan/Perl-Critic-Policy-Variables-ProhibitUnusedVarsStricter@0.116
 Perl::Critic::Policy::Variables::ProhibitUselessInitialization  0.02  pkg:cpan/Perl-Critic-PetPeeves-JTRAMMELL@0.04
@@ -202489,7 +202492,7 @@ Robotics::Tecan::Genesis::Liha     undef  pkg:cpan/Robotics@0.23?ext=tar.bz2
 Robotics::Tecan::Genesis::Roma     undef  pkg:cpan/Robotics@0.23?ext=tar.bz2
 Robotics::Tecan::Genesis::Session  undef  pkg:cpan/Robotics@0.23?ext=tar.bz2
 Robotics::Tecan::Server             0.22  pkg:cpan/Robotics@0.23?ext=tar.bz2
-Robots::Validate                   v0.4.7  pkg:cpan/Robots-Validate@v0.4.7
+Robots::Validate                   v0.4.8  pkg:cpan/Robots-Validate@v0.4.8
 RocksDB                             0.05  pkg:cpan/RocksDB@0.05
 Rodney::XML::QuickStruct             1.1  pkg:cpan/Rodney-XML-QuickStruct@1.1
 RogersMine::App                    undef  pkg:cpan/RogersMine@0.1.12
