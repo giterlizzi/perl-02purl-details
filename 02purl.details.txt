@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 10 Oct 2026 16:44:32 GMT
+Last-Updated: Sat, 10 Oct 2026 20:58:55 GMT
 Line-Count: 261503
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -80266,19 +80266,19 @@ Game::RoyalUr::Rules                0.01  pkg:cpan/Game-RoyalUr@0.01
 Game::RoyalUr::Terminal             0.01  pkg:cpan/Game-RoyalUr@0.01
 Game::RoyalUr::Variant              0.01  pkg:cpan/Game-RoyalUr@0.01
 Game::SDL                          0.001001  pkg:cpan/Game-SDL@0.1.1
-Game::Schnapsen                     0.01  pkg:cpan/Game-Schnapsen@0.01
-Game::Schnapsen::Bot                0.01  pkg:cpan/Game-Schnapsen@0.01
-Game::Schnapsen::Card               0.01  pkg:cpan/Game-Schnapsen@0.01
-Game::Schnapsen::Deal               0.01  pkg:cpan/Game-Schnapsen@0.01
-Game::Schnapsen::Deck               0.01  pkg:cpan/Game-Schnapsen@0.01
-Game::Schnapsen::Declare            0.01  pkg:cpan/Game-Schnapsen@0.01
-Game::Schnapsen::Error              0.01  pkg:cpan/Game-Schnapsen@0.01
-Game::Schnapsen::Hand               0.01  pkg:cpan/Game-Schnapsen@0.01
-Game::Schnapsen::Scoring            0.01  pkg:cpan/Game-Schnapsen@0.01
-Game::Schnapsen::Search             0.01  pkg:cpan/Game-Schnapsen@0.01
-Game::Schnapsen::Terminal           0.01  pkg:cpan/Game-Schnapsen@0.01
-Game::Schnapsen::Trick              0.01  pkg:cpan/Game-Schnapsen@0.01
-Game::Schnapsen::Variant            0.01  pkg:cpan/Game-Schnapsen@0.01
+Game::Schnapsen                     0.02  pkg:cpan/Game-Schnapsen@0.02
+Game::Schnapsen::Bot                0.02  pkg:cpan/Game-Schnapsen@0.02
+Game::Schnapsen::Card               0.02  pkg:cpan/Game-Schnapsen@0.02
+Game::Schnapsen::Deal               0.02  pkg:cpan/Game-Schnapsen@0.02
+Game::Schnapsen::Deck               0.02  pkg:cpan/Game-Schnapsen@0.02
+Game::Schnapsen::Declare            0.02  pkg:cpan/Game-Schnapsen@0.02
+Game::Schnapsen::Error              0.02  pkg:cpan/Game-Schnapsen@0.02
+Game::Schnapsen::Hand               0.02  pkg:cpan/Game-Schnapsen@0.02
+Game::Schnapsen::Scoring            0.02  pkg:cpan/Game-Schnapsen@0.02
+Game::Schnapsen::Search             0.02  pkg:cpan/Game-Schnapsen@0.02
+Game::Schnapsen::Terminal           0.02  pkg:cpan/Game-Schnapsen@0.02
+Game::Schnapsen::Trick              0.02  pkg:cpan/Game-Schnapsen@0.02
+Game::Schnapsen::Variant            0.02  pkg:cpan/Game-Schnapsen@0.02
 Game::Snake                         0.11  pkg:cpan/Game-Snake@0.11
 Game::Snake::Cell                   0.11  pkg:cpan/Game-Snake@0.11
 Game::Snake::Food                   0.11  pkg:cpan/Game-Snake@0.11
