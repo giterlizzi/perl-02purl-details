@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 11 Oct 2026 21:20:10 GMT
-Line-Count: 261768
+Last-Updated: Mon, 12 Oct 2026 00:53:14 GMT
+Line-Count: 261775
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -16946,7 +16946,7 @@ App::perlmv::scriptlet::to_random  0.001  pkg:cpan/App-perlmv-scriptlet-to_rando
 App::perlmv::scriptlet::to_random_ext 0.001  pkg:cpan/App-perlmv-scriptlet-to_random@0.001
 App::perlmv::scriptlet::to_uuid    0.001  pkg:cpan/App-perlmv-scriptlet-to_uuid@0.001
 App::perlmv::scriptlet::to_uuid_ext 0.001  pkg:cpan/App-perlmv-scriptlet-to_uuid@0.001
-App::perlmv::scriptlet::with_number 0.001  pkg:cpan/App-perlmv-scriptlet-with_number@0.001
+App::perlmv::scriptlet::with_number 0.002  pkg:cpan/App-perlmv-scriptlet-with_number@0.002
 App::perlmv::scriptlets::std       0.609  pkg:cpan/App-perlmv@0.609
 App::perlmv::u                     0.007  pkg:cpan/App-perlmv-u@0.007
 App::perlrdf                       0.006  pkg:cpan/App-perlrdf@0.006
@@ -152250,6 +152250,8 @@ OpenTelemetry::Logs::LogRecord::Processor 0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Logs::Logger        0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Logs::LoggerProvider 0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Processor           0.039  pkg:cpan/OpenTelemetry@0.039
+OpenTelemetry::Processor::Batch    0.100  pkg:cpan/OpenTelemetry-SDK@0.100
+OpenTelemetry::Processor::Simple   0.100  pkg:cpan/OpenTelemetry-SDK@0.100
 OpenTelemetry::Propagator          0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Propagator::Baggage 0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Propagator::Composite 0.039  pkg:cpan/OpenTelemetry@0.039
@@ -152260,23 +152262,28 @@ OpenTelemetry::Propagator::TraceContext::TraceFlags 0.039  pkg:cpan/OpenTelemetr
 OpenTelemetry::Propagator::TraceContext::TraceParent 0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Propagator::TraceContext::TraceState 0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Proto               0.021  pkg:cpan/OpenTelemetry-Exporter-OTLP@0.021
-OpenTelemetry::SDK                 0.028  pkg:cpan/OpenTelemetry-SDK@0.028
-OpenTelemetry::SDK::Exporter::Console 0.028  pkg:cpan/OpenTelemetry-SDK@0.028
-OpenTelemetry::SDK::InstrumentationScope 0.028  pkg:cpan/OpenTelemetry-SDK@0.028
-OpenTelemetry::SDK::Resource       0.028  pkg:cpan/OpenTelemetry-SDK@0.028
-OpenTelemetry::SDK::Trace::Sampler 0.028  pkg:cpan/OpenTelemetry-SDK@0.028
-OpenTelemetry::SDK::Trace::Sampler::AlwaysOff 0.028  pkg:cpan/OpenTelemetry-SDK@0.028
-OpenTelemetry::SDK::Trace::Sampler::AlwaysOn 0.028  pkg:cpan/OpenTelemetry-SDK@0.028
-OpenTelemetry::SDK::Trace::Sampler::ParentBased 0.028  pkg:cpan/OpenTelemetry-SDK@0.028
-OpenTelemetry::SDK::Trace::Sampler::Result 0.028  pkg:cpan/OpenTelemetry-SDK@0.028
-OpenTelemetry::SDK::Trace::Sampler::TraceIDRatioBased 0.028  pkg:cpan/OpenTelemetry-SDK@0.028
-OpenTelemetry::SDK::Trace::Span    0.028  pkg:cpan/OpenTelemetry-SDK@0.028
-OpenTelemetry::SDK::Trace::Span::Processor::Batch 0.028  pkg:cpan/OpenTelemetry-SDK@0.028
-OpenTelemetry::SDK::Trace::Span::Processor::Simple 0.028  pkg:cpan/OpenTelemetry-SDK@0.028
-OpenTelemetry::SDK::Trace::Span::Readable 0.028  pkg:cpan/OpenTelemetry-SDK@0.028
-OpenTelemetry::SDK::Trace::SpanLimits 0.028  pkg:cpan/OpenTelemetry-SDK@0.028
-OpenTelemetry::SDK::Trace::Tracer  0.028  pkg:cpan/OpenTelemetry-SDK@0.028
-OpenTelemetry::SDK::Trace::TracerProvider 0.028  pkg:cpan/OpenTelemetry-SDK@0.028
+OpenTelemetry::SDK                 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
+OpenTelemetry::SDK::Exporter::Console 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
+OpenTelemetry::SDK::InstrumentationScope 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
+OpenTelemetry::SDK::Logs::LogRecord 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
+OpenTelemetry::SDK::Logs::LogRecord::Processor::Batch 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
+OpenTelemetry::SDK::Logs::LogRecord::Processor::Simple 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
+OpenTelemetry::SDK::Logs::Logger   0.100  pkg:cpan/OpenTelemetry-SDK@0.100
+OpenTelemetry::SDK::Logs::LoggerProvider 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
+OpenTelemetry::SDK::Resource       0.100  pkg:cpan/OpenTelemetry-SDK@0.100
+OpenTelemetry::SDK::Trace::Sampler 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
+OpenTelemetry::SDK::Trace::Sampler::AlwaysOff 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
+OpenTelemetry::SDK::Trace::Sampler::AlwaysOn 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
+OpenTelemetry::SDK::Trace::Sampler::ParentBased 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
+OpenTelemetry::SDK::Trace::Sampler::Result 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
+OpenTelemetry::SDK::Trace::Sampler::TraceIDRatioBased 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
+OpenTelemetry::SDK::Trace::Span    0.100  pkg:cpan/OpenTelemetry-SDK@0.100
+OpenTelemetry::SDK::Trace::Span::Processor::Batch 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
+OpenTelemetry::SDK::Trace::Span::Processor::Simple 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
+OpenTelemetry::SDK::Trace::Span::Readable 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
+OpenTelemetry::SDK::Trace::SpanLimits 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
+OpenTelemetry::SDK::Trace::Tracer  0.100  pkg:cpan/OpenTelemetry-SDK@0.100
+OpenTelemetry::SDK::Trace::TracerProvider 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
 OpenTelemetry::Trace               0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Trace::Event        0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Trace::Link         0.039  pkg:cpan/OpenTelemetry@0.039
