@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 14 Oct 2026 09:11:19 GMT
-Line-Count: 261820
+Last-Updated: Wed, 14 Oct 2026 14:48:29 GMT
+Line-Count: 261822
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5209,7 +5209,7 @@ Alien::Xrepo::MM                   v1.0.4  pkg:cpan/Alien-Xrepo@v1.0.4
 Alien::Xrepo::PackageInfo          v1.0.4  pkg:cpan/Alien-Xrepo@v1.0.4
 Alien::Xrepo::Runtime              v1.0.4  pkg:cpan/Alien-Xrepo@v1.0.4
 Alien::Xrepo::Runtime::Alt         v1.0.4  pkg:cpan/Alien-Xrepo@v1.0.4
-Alien::YAMLScript                  0.003004  pkg:cpan/Alien-YAMLScript@0.3.4
+Alien::YAMLScript                  0.003005  pkg:cpan/Alien-YAMLScript@0.3.5
 Alien::YARA                        v0.0.1  pkg:cpan/Alien-YARA@v0.0.6
 Alien::Z3                          0.002  pkg:cpan/Alien-Z3@0.002
 Alien::ZMQ                          0.06  pkg:cpan/Alien-ZMQ@0.06
@@ -49673,8 +49673,9 @@ Courriel::Types                     0.49  pkg:cpan/Courriel@0.49
 Courriel::Types::Internal           0.49  pkg:cpan/Courriel@0.49
 Cow                                undef  pkg:cpan/Outthentic@0.4.7
 Coy                                 0.06  pkg:cpan/Coy@0.06
-Cpanel::JSON::XS                    4.53  pkg:cpan/Cpanel-JSON-XS@4.53
-Cpanel::JSON::XS::Type             undef  pkg:cpan/Cpanel-JSON-XS@4.53
+Cpanel::JSON::XS                    4.80  pkg:cpan/Cpanel-JSON-XS@4.80
+Cpanel::JSON::XS::Boolean           4.80  pkg:cpan/Cpanel-JSON-XS@4.80
+Cpanel::JSON::XS::Type              4.80  pkg:cpan/Cpanel-JSON-XS@4.80
 CracTools                          1.251  pkg:cpan/CracTools@1.251
 CracTools::Annotator               1.251  pkg:cpan/CracTools@1.251
 CracTools::App                     1.251  pkg:cpan/CracTools@1.251
@@ -124565,21 +124566,21 @@ Mail::Colander::Server::Util       0.004  pkg:cpan/Mail-Colander@0.004
 Mail::Colander::Session            0.004  pkg:cpan/Mail-Colander@0.004
 Mail::Convert::Mbox::ToEml          0.06  pkg:cpan/Mail-Convert-Mbox-ToEml@0.06
 Mail::DKIM                         1.20240923  pkg:cpan/Mail-DKIM@1.20240923
-Mail::DKIM2                         0.20  pkg:cpan/Mail-DKIM2@0.20
-Mail::DKIM2::Common                 0.20  pkg:cpan/Mail-DKIM2@0.20
-Mail::DKIM2::DSN                    0.20  pkg:cpan/Mail-DKIM2@0.20
-Mail::DKIM2::Gate                   0.20  pkg:cpan/Mail-DKIM2@0.20
-Mail::DKIM2::HeaderParser           0.20  pkg:cpan/Mail-DKIM2@0.20
-Mail::DKIM2::MessageInstance        0.20  pkg:cpan/Mail-DKIM2@0.20
-Mail::DKIM2::MessageStore           0.20  pkg:cpan/Mail-DKIM2@0.20
-Mail::DKIM2::Reflector              0.20  pkg:cpan/Mail-DKIM2@0.20
-Mail::DKIM2::Signature              0.20  pkg:cpan/Mail-DKIM2@0.20
-Mail::DKIM2::Signer                 0.20  pkg:cpan/Mail-DKIM2@0.20
-Mail::DKIM2::Split                  0.20  pkg:cpan/Mail-DKIM2@0.20
-Mail::DKIM2::TagValueList           0.20  pkg:cpan/Mail-DKIM2@0.20
-Mail::DKIM2::Validate               0.20  pkg:cpan/Mail-DKIM2@0.20
-Mail::DKIM2::Verifier               0.20  pkg:cpan/Mail-DKIM2@0.20
-Mail::DKIM2::Wrap                   0.20  pkg:cpan/Mail-DKIM2@0.20
+Mail::DKIM2                         0.21  pkg:cpan/Mail-DKIM2@0.21
+Mail::DKIM2::Common                 0.21  pkg:cpan/Mail-DKIM2@0.21
+Mail::DKIM2::DSN                    0.21  pkg:cpan/Mail-DKIM2@0.21
+Mail::DKIM2::Gate                   0.21  pkg:cpan/Mail-DKIM2@0.21
+Mail::DKIM2::HeaderParser           0.21  pkg:cpan/Mail-DKIM2@0.21
+Mail::DKIM2::MessageInstance        0.21  pkg:cpan/Mail-DKIM2@0.21
+Mail::DKIM2::MessageStore           0.21  pkg:cpan/Mail-DKIM2@0.21
+Mail::DKIM2::Reflector              0.21  pkg:cpan/Mail-DKIM2@0.21
+Mail::DKIM2::Signature              0.21  pkg:cpan/Mail-DKIM2@0.21
+Mail::DKIM2::Signer                 0.21  pkg:cpan/Mail-DKIM2@0.21
+Mail::DKIM2::Split                  0.21  pkg:cpan/Mail-DKIM2@0.21
+Mail::DKIM2::TagValueList           0.21  pkg:cpan/Mail-DKIM2@0.21
+Mail::DKIM2::Validate               0.21  pkg:cpan/Mail-DKIM2@0.21
+Mail::DKIM2::Verifier               0.21  pkg:cpan/Mail-DKIM2@0.21
+Mail::DKIM2::Wrap                   0.21  pkg:cpan/Mail-DKIM2@0.21
 Mail::DKIM::ARC::MessageSignature  1.20240923  pkg:cpan/Mail-DKIM@1.20240923
 Mail::DKIM::ARC::Seal              1.20240923  pkg:cpan/Mail-DKIM@1.20240923
 Mail::DKIM::ARC::Signer            1.20240923  pkg:cpan/Mail-DKIM@1.20240923
@@ -125028,8 +125029,8 @@ Mail::Milter::Authentication::Handler::BIMI 4.20261001  pkg:cpan/Mail-Milter-Aut
 Mail::Milter::Authentication::Handler::Blocker 4.20261001  pkg:cpan/Mail-Milter-Authentication@4.20261001
 Mail::Milter::Authentication::Handler::ClamAV 2.20180611  pkg:cpan/Mail-Milter-Authentication-Extra@2.20180611
 Mail::Milter::Authentication::Handler::DKIM 4.20261001  pkg:cpan/Mail-Milter-Authentication@4.20261001
-Mail::Milter::Authentication::Handler::DKIM2Sign  0.20  pkg:cpan/Mail-DKIM2@0.20
-Mail::Milter::Authentication::Handler::DKIM2Verify  0.20  pkg:cpan/Mail-DKIM2@0.20
+Mail::Milter::Authentication::Handler::DKIM2Sign  0.21  pkg:cpan/Mail-DKIM2@0.21
+Mail::Milter::Authentication::Handler::DKIM2Verify  0.21  pkg:cpan/Mail-DKIM2@0.21
 Mail::Milter::Authentication::Handler::DMARC 4.20261001  pkg:cpan/Mail-Milter-Authentication@4.20261001
 Mail::Milter::Authentication::Handler::IPRev 4.20261001  pkg:cpan/Mail-Milter-Authentication@4.20261001
 Mail::Milter::Authentication::Handler::LocalIP 4.20261001  pkg:cpan/Mail-Milter-Authentication@4.20261001
@@ -234946,6 +234947,7 @@ Ushuffle::Shuffler                  1.00  pkg:cpan/Ushuffle@1.00
 Util::Any                           0.25  pkg:cpan/Util-Any@0.25
 Util::BLOB                           0.1  pkg:cpan/RDFStore@0.51
 Util::CommandLine                   1.10  pkg:cpan/Util-CommandLine@1.10
+Util::Con                           0.01  pkg:cpan/Util-Con@0.01
 Util::EvalSnippet                   0.02  pkg:cpan/Util-EvalSnippet@0.02
 Util::H2O                           0.24  pkg:cpan/Util-H2O@0.24
 Util::H2O::More                    0.004006  pkg:cpan/Util-H2O-More@0.4.6
@@ -255958,8 +255960,8 @@ YAML::XS                           v0.910.0  pkg:cpan/YAML-LibYAML@v0.910.0
 YAML::XS::LibYAML                  v0.910.0  pkg:cpan/YAML-LibYAML@v0.910.0
 YAML::YAML2ADoc                    0.001000  pkg:cpan/YAML-YAML2ADoc@0.1.0
 YAML::yq::Helper                   0.002000  pkg:cpan/YAML-yq-Helper@0.2.0
-YAMLScript                         0.003004  pkg:cpan/YAMLScript@0.3.4
-YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.3.4
+YAMLScript                         0.003005  pkg:cpan/YAMLScript@0.3.5
+YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.3.5
 YAMLScript::Base                   undef  pkg:cpan/YAMLScript@0.0.7
 YAMLScript::CLI                    undef  pkg:cpan/YAMLScript@0.1.3
 YAMLScript::Call                   undef  pkg:cpan/YAMLScript@0.0.16
