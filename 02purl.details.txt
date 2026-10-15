@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 15 Oct 2026 19:36:15 GMT
-Line-Count: 261888
+Last-Updated: Thu, 15 Oct 2026 22:48:54 GMT
+Line-Count: 261890
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5200,15 +5200,15 @@ Alien::Xmake::Project::Toolchain   v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xmake::Project::Util        v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xmake::Project::Xpack       v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xmake::Project::XpackComponent v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
-Alien::Xrepo                       v1.0.7  pkg:cpan/Alien-Xrepo@v1.0.7
-Alien::Xrepo::Build                v1.0.7  pkg:cpan/Alien-Xrepo@v1.0.7
-Alien::Xrepo::Build::Dist          v1.0.7  pkg:cpan/Alien-Xrepo@v1.0.7
-Alien::Xrepo::Build::Recipe        v1.0.7  pkg:cpan/Alien-Xrepo@v1.0.7
-Alien::Xrepo::MB                   v1.0.7  pkg:cpan/Alien-Xrepo@v1.0.7
-Alien::Xrepo::MM                   v1.0.7  pkg:cpan/Alien-Xrepo@v1.0.7
-Alien::Xrepo::PackageInfo          v1.0.7  pkg:cpan/Alien-Xrepo@v1.0.7
-Alien::Xrepo::Runtime              v1.0.7  pkg:cpan/Alien-Xrepo@v1.0.7
-Alien::Xrepo::Runtime::Alt         v1.0.7  pkg:cpan/Alien-Xrepo@v1.0.7
+Alien::Xrepo                       v1.0.8  pkg:cpan/Alien-Xrepo@v1.0.8
+Alien::Xrepo::Build                v1.0.8  pkg:cpan/Alien-Xrepo@v1.0.8
+Alien::Xrepo::Build::Dist          v1.0.8  pkg:cpan/Alien-Xrepo@v1.0.8
+Alien::Xrepo::Build::Recipe        v1.0.8  pkg:cpan/Alien-Xrepo@v1.0.8
+Alien::Xrepo::MB                   v1.0.8  pkg:cpan/Alien-Xrepo@v1.0.8
+Alien::Xrepo::MM                   v1.0.8  pkg:cpan/Alien-Xrepo@v1.0.8
+Alien::Xrepo::PackageInfo          v1.0.8  pkg:cpan/Alien-Xrepo@v1.0.8
+Alien::Xrepo::Runtime              v1.0.8  pkg:cpan/Alien-Xrepo@v1.0.8
+Alien::Xrepo::Runtime::Alt         v1.0.8  pkg:cpan/Alien-Xrepo@v1.0.8
 Alien::YAMLScript                  0.003005  pkg:cpan/Alien-YAMLScript@0.3.5
 Alien::YARA                        v0.0.1  pkg:cpan/Alien-YARA@v0.0.6
 Alien::Z3                          0.002  pkg:cpan/Alien-Z3@0.002
@@ -16810,7 +16810,7 @@ App::palien                         0.18  pkg:cpan/App-af@0.18
 App::pandoc::preprocess            0.009010  pkg:cpan/App-pandoc-preprocess@v0.9.10
 App::pandoc::preprocess::File      v0.3.1  pkg:cpan/App-pandoc-preprocess@0.3.1
 App::paperback                      1.42  pkg:cpan/app-paperback@1.42
-App::papersway                     3.002  pkg:cpan/App-papersway@3.002
+App::papersway                     3.003  pkg:cpan/App-papersway@3.003
 App::part                           0.07  pkg:cpan/App-part@0.07
 App::pathed                         0.07  pkg:cpan/App-pathed@0.07
 App::pause                         0.662  pkg:cpan/App-pause@0.662
@@ -17601,29 +17601,31 @@ Archive::Ar                         2.02  pkg:cpan/Archive-Ar@2.02
 Archive::Ar::Libarchive             2.10  pkg:cpan/Archive-Ar-Libarchive@2.10
 Archive::Ar::Ng                     2.04  pkg:cpan/Archive-Ar-Ng@2.04
 Archive::Asar                       0.02  pkg:cpan/Archive-Asar@0.02
-Archive::BagIt                     0.101  pkg:cpan/Archive-BagIt@0.101
+Archive::BagIt                     0.102  pkg:cpan/Archive-BagIt@0.102
 Archive::BagIt::App                0.049  pkg:cpan/Archive-BagIt-App@0.049
 Archive::BagIt::App::Verify        0.049  pkg:cpan/Archive-BagIt-App@0.049
-Archive::BagIt::Base               0.101  pkg:cpan/Archive-BagIt@0.101
+Archive::BagIt::Base               0.102  pkg:cpan/Archive-BagIt@0.102
 Archive::BagIt::DotBagIt           0.070  pkg:cpan/Archive-BagIt@0.070
 Archive::BagIt::Fast               0.090  pkg:cpan/Archive-BagIt-Fast@0.090
 Archive::BagIt::Plugin::Algorithm::BLAKE3 0.002  pkg:cpan/Archive-BagIt-Plugin-BLAKE3@0.002
 Archive::BagIt::Plugin::Algorithm::MD5 0.101  pkg:cpan/Archive-BagIt@0.101
 Archive::BagIt::Plugin::Algorithm::SHA256 0.005  pkg:cpan/Archive-BagIt-Plugin-SHA256@0.005
 Archive::BagIt::Plugin::Algorithm::SHA512 0.101  pkg:cpan/Archive-BagIt@0.101
-Archive::BagIt::Plugin::BLAKE3     0.002  pkg:cpan/Archive-BagIt-Plugin-BLAKE3@0.002
+Archive::BagIt::Plugin::BLAKE3     0.003  pkg:cpan/Archive-BagIt-Plugin-BLAKE3@0.003
+Archive::BagIt::Plugin::MD5        0.102  pkg:cpan/Archive-BagIt@0.102
 Archive::BagIt::Plugin::Manifest::BLAKE3 0.002  pkg:cpan/Archive-BagIt-Plugin-BLAKE3@0.002
 Archive::BagIt::Plugin::Manifest::MD5 0.101  pkg:cpan/Archive-BagIt@0.101
 Archive::BagIt::Plugin::Manifest::SHA256 0.005  pkg:cpan/Archive-BagIt-Plugin-SHA256@0.005
 Archive::BagIt::Plugin::Manifest::SHA512 0.101  pkg:cpan/Archive-BagIt@0.101
 Archive::BagIt::Plugin::SHA256     0.005  pkg:cpan/Archive-BagIt-Plugin-SHA256@0.005
-Archive::BagIt::Role::Algorithm    0.101  pkg:cpan/Archive-BagIt@0.101
-Archive::BagIt::Role::Manifest     0.101  pkg:cpan/Archive-BagIt@0.101
-Archive::BagIt::Role::OpenSSL      0.101  pkg:cpan/Archive-BagIt@0.101
-Archive::BagIt::Role::OpenSSL::Async 0.101  pkg:cpan/Archive-BagIt@0.101
-Archive::BagIt::Role::OpenSSL::Sync 0.101  pkg:cpan/Archive-BagIt@0.101
-Archive::BagIt::Role::Plugin       0.101  pkg:cpan/Archive-BagIt@0.101
-Archive::BagIt::Role::Portability  0.101  pkg:cpan/Archive-BagIt@0.101
+Archive::BagIt::Plugin::SHA512     0.102  pkg:cpan/Archive-BagIt@0.102
+Archive::BagIt::Role::Algorithm    0.102  pkg:cpan/Archive-BagIt@0.102
+Archive::BagIt::Role::Manifest     0.102  pkg:cpan/Archive-BagIt@0.102
+Archive::BagIt::Role::OpenSSL      0.102  pkg:cpan/Archive-BagIt@0.102
+Archive::BagIt::Role::OpenSSL::Async 0.102  pkg:cpan/Archive-BagIt@0.102
+Archive::BagIt::Role::OpenSSL::Sync 0.102  pkg:cpan/Archive-BagIt@0.102
+Archive::BagIt::Role::Plugin       0.102  pkg:cpan/Archive-BagIt@0.102
+Archive::BagIt::Role::Portability  0.102  pkg:cpan/Archive-BagIt@0.102
 Archive::Builder                    1.16  pkg:cpan/Archive-Builder@1.16
 Archive::Builder::Archive           1.16  pkg:cpan/Archive-Builder@1.16
 Archive::Builder::File              1.16  pkg:cpan/Archive-Builder@1.16
@@ -109891,7 +109893,7 @@ JSON::Schema::Helper               0.016  pkg:cpan/JSON-Schema@0.016
 JSON::Schema::Modern               0.651  pkg:cpan/JSON-Schema-Modern@0.651
 JSON::Schema::Modern::Annotation   0.651  pkg:cpan/JSON-Schema-Modern@0.651
 JSON::Schema::Modern::Document     0.651  pkg:cpan/JSON-Schema-Modern@0.651
-JSON::Schema::Modern::Document::OpenAPI 0.149  pkg:cpan/OpenAPI-Modern@0.149
+JSON::Schema::Modern::Document::OpenAPI 0.150  pkg:cpan/OpenAPI-Modern@0.150
 JSON::Schema::Modern::Error        0.651  pkg:cpan/JSON-Schema-Modern@0.651
 JSON::Schema::Modern::Result       0.651  pkg:cpan/JSON-Schema-Modern@0.651
 JSON::Schema::Modern::ResultNode   0.651  pkg:cpan/JSON-Schema-Modern@0.651
@@ -109903,8 +109905,8 @@ JSON::Schema::Modern::Vocabulary::Core 0.651  pkg:cpan/JSON-Schema-Modern@0.651
 JSON::Schema::Modern::Vocabulary::FormatAnnotation 0.651  pkg:cpan/JSON-Schema-Modern@0.651
 JSON::Schema::Modern::Vocabulary::FormatAssertion 0.651  pkg:cpan/JSON-Schema-Modern@0.651
 JSON::Schema::Modern::Vocabulary::MetaData 0.651  pkg:cpan/JSON-Schema-Modern@0.651
-JSON::Schema::Modern::Vocabulary::OpenAPI 0.149  pkg:cpan/OpenAPI-Modern@0.149
-JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.149  pkg:cpan/OpenAPI-Modern@0.149
+JSON::Schema::Modern::Vocabulary::OpenAPI 0.150  pkg:cpan/OpenAPI-Modern@0.150
+JSON::Schema::Modern::Vocabulary::OpenAPI_3_0 0.150  pkg:cpan/OpenAPI-Modern@0.150
 JSON::Schema::Modern::Vocabulary::Unevaluated 0.651  pkg:cpan/JSON-Schema-Modern@0.651
 JSON::Schema::Modern::Vocabulary::Validation 0.651  pkg:cpan/JSON-Schema-Modern@0.651
 JSON::Schema::Null                 0.016  pkg:cpan/JSON-Schema@0.016
@@ -128463,7 +128465,7 @@ MathWorks::platformList            undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::product                 undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepItem          undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepList          undef  pkg:cpan/XML-Pastor@0.6.0
-Matplotlib::Simple                  0.32  pkg:cpan/Matplotlib-Simple@0.32
+Matplotlib::Simple                 0.321  pkg:cpan/Matplotlib-Simple@0.321
 Matrix::Simple                      1.04  pkg:cpan/Matrix-Simple@1.04
 Matts::Message                     undef  pkg:cpan/Matts-Message-Parser@1.0
 Matts::Message::Parser               1.0  pkg:cpan/Matts-Message-Parser@1.0
@@ -134489,7 +134491,7 @@ Mojolicious::Plugin::Obrazi         0.15  pkg:cpan/Mojolicious-Plugin-Obrazi@0.1
 Mojolicious::Plugin::OnFork        0.006  pkg:cpan/Mojolicious-Plugin-OnFork@0.006
 Mojolicious::Plugin::OpenAPI        5.12  pkg:cpan/Mojolicious-Plugin-OpenAPI@5.12
 Mojolicious::Plugin::OpenAPI::Cors undef  pkg:cpan/Mojolicious-Plugin-OpenAPI@5.12
-Mojolicious::Plugin::OpenAPI::Modern 0.021  pkg:cpan/Mojolicious-Plugin-OpenAPI-Modern@0.021
+Mojolicious::Plugin::OpenAPI::Modern 0.022  pkg:cpan/Mojolicious-Plugin-OpenAPI-Modern@0.022
 Mojolicious::Plugin::OpenAPI::Parameters undef  pkg:cpan/Mojolicious-Plugin-OpenAPI@5.12
 Mojolicious::Plugin::OpenAPI::Security undef  pkg:cpan/Mojolicious-Plugin-OpenAPI@5.12
 Mojolicious::Plugin::OpenAPI::SpecRenderer undef  pkg:cpan/Mojolicious-Plugin-OpenAPI@5.12
@@ -151559,8 +151561,8 @@ OpenAPI::Generator::From::Pod      undef  pkg:cpan/OpenAPI-Generator@0.06
 OpenAPI::Generator::Util           undef  pkg:cpan/OpenAPI-Generator@0.06
 OpenAPI::Linter                     0.19  pkg:cpan/OpenAPI-Linter@0.19
 OpenAPI::Linter::Location           0.19  pkg:cpan/OpenAPI-Linter@0.19
-OpenAPI::Modern                    0.149  pkg:cpan/OpenAPI-Modern@0.149
-OpenAPI::Modern::Utilities         0.149  pkg:cpan/OpenAPI-Modern@0.149
+OpenAPI::Modern                    0.150  pkg:cpan/OpenAPI-Modern@0.150
+OpenAPI::Modern::Utilities         0.150  pkg:cpan/OpenAPI-Modern@0.150
 OpenAPI::PerlGenerator              0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
 OpenAPI::PerlGenerator::Template    0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
 OpenAPI::PerlGenerator::Template::Mojo  0.02  pkg:cpan/OpenAPI-PerlGenerator@0.02
@@ -152306,11 +152308,11 @@ OpenTelemetry::Constants           0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Context             0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Context::Key        0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Exporter            0.039  pkg:cpan/OpenTelemetry@0.039
-OpenTelemetry::Exporter::OTLP      0.021  pkg:cpan/OpenTelemetry-Exporter-OTLP@0.021
-OpenTelemetry::Exporter::OTLP::Encoder::JSON 0.021  pkg:cpan/OpenTelemetry-Exporter-OTLP@0.021
-OpenTelemetry::Exporter::OTLP::Encoder::Protobuf 0.021  pkg:cpan/OpenTelemetry-Exporter-OTLP@0.021
-OpenTelemetry::Exporter::OTLP::Logs 0.021  pkg:cpan/OpenTelemetry-Exporter-OTLP@0.021
-OpenTelemetry::Exporter::OTLP::Traces 0.021  pkg:cpan/OpenTelemetry-Exporter-OTLP@0.021
+OpenTelemetry::Exporter::OTLP      0.022  pkg:cpan/OpenTelemetry-Exporter-OTLP@0.022
+OpenTelemetry::Exporter::OTLP::Encoder::JSON 0.022  pkg:cpan/OpenTelemetry-Exporter-OTLP@0.022
+OpenTelemetry::Exporter::OTLP::Encoder::Protobuf 0.022  pkg:cpan/OpenTelemetry-Exporter-OTLP@0.022
+OpenTelemetry::Exporter::OTLP::Logs 0.022  pkg:cpan/OpenTelemetry-Exporter-OTLP@0.022
+OpenTelemetry::Exporter::OTLP::Traces 0.022  pkg:cpan/OpenTelemetry-Exporter-OTLP@0.022
 OpenTelemetry::Instrumentation     0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Instrumentation::DBI 0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Instrumentation::HTTP::Tiny 0.039  pkg:cpan/OpenTelemetry@0.039
@@ -152340,7 +152342,7 @@ OpenTelemetry::Propagator::TraceContext 0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Propagator::TraceContext::TraceFlags 0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Propagator::TraceContext::TraceParent 0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Propagator::TraceContext::TraceState 0.039  pkg:cpan/OpenTelemetry@0.039
-OpenTelemetry::Proto               0.021  pkg:cpan/OpenTelemetry-Exporter-OTLP@0.021
+OpenTelemetry::Proto               0.022  pkg:cpan/OpenTelemetry-Exporter-OTLP@0.022
 OpenTelemetry::SDK                 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
 OpenTelemetry::SDK::Exporter::Console 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
 OpenTelemetry::SDK::InstrumentationScope 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
@@ -240800,7 +240802,7 @@ WFA::Client                         0.01  pkg:cpan/WFA-Client@0.01
 WFA::Job                           undef  pkg:cpan/WFA-Client@0.01
 WFA::Role::Response                undef  pkg:cpan/WFA-Client@0.01
 WFA::Workflow                      undef  pkg:cpan/WFA-Client@0.01
-WFC                                2.1.1  pkg:cpan/WFC@2.1.1
+WFC                                v2.2.0  pkg:cpan/WFC@2.2.0
 WG::API                            v0.13.0  pkg:cpan/WG-API@v0.13
 WG::API::Accounts                  v0.5.0  pkg:cpan/WG-API@v0.05
 WG::API::Auth                      v0.13.0  pkg:cpan/WG-API@v0.13
@@ -245336,7 +245338,7 @@ WebFetch::Output::Dump             0.015009  pkg:cpan/WebFetch@0.15.9
 WebFetch::Output::TT               0.001000  pkg:cpan/WebFetch-Output-TT@0.1.0
 WebFetch::Output::TWiki            0.001000  pkg:cpan/WebFetch-Output-TWiki@0.1.0
 WebFetch::RSS                      0.003002  pkg:cpan/WebFetch-RSS@0.3.2
-WebForms                           2.1.1  pkg:cpan/WFC@2.1.1
+WebForms                           v2.2.0  pkg:cpan/WFC@2.2.0
 WebGPU::Direct                      0.16  pkg:cpan/WebGPU-Direct@0.16
 WebGPU::Direct::Adapter            undef  pkg:cpan/WebGPU-Direct@0.16
 WebGPU::Direct::AdapterInfo        undef  pkg:cpan/WebGPU-Direct@0.16
@@ -257327,8 +257329,8 @@ ZOOM::Record                       undef  pkg:cpan/Net-Z3950-ZOOM@1.32
 ZOOM::ResultSet                    undef  pkg:cpan/Net-Z3950-ZOOM@1.32
 ZOOM::ScanSet                      undef  pkg:cpan/Net-Z3950-ZOOM@1.32
 ZWave::Protocol                     0.04  pkg:cpan/ZWave-Protocol@0.04
-ZX81                               0.001  pkg:cpan/ZX81@0.001
-ZX81::Tokenize                     0.003  pkg:cpan/ZX81-Tokenize@0.003
+ZX81                               0.002  pkg:cpan/ZX81@0.002
+ZX81::Tokenize                     0.004  pkg:cpan/ZX81-Tokenize@0.004
 ZZZ::SDK                           v0.0.1  pkg:cpan/ZZZ-SDK@0.0.1
 Zabbix2::API                       0.014  pkg:cpan/Zabbix2-API@0.014
 Zabbix2::API::Action               undef  pkg:cpan/Zabbix2-API@0.014
