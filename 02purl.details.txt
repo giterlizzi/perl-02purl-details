@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 14 Oct 2026 22:54:52 GMT
-Line-Count: 261843
+Last-Updated: Thu, 15 Oct 2026 02:41:49 GMT
+Line-Count: 261865
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5200,15 +5200,15 @@ Alien::Xmake::Project::Toolchain   v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xmake::Project::Util        v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xmake::Project::Xpack       v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xmake::Project::XpackComponent v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
-Alien::Xrepo                       v1.0.5  pkg:cpan/Alien-Xrepo@v1.0.5
-Alien::Xrepo::Build                v1.0.5  pkg:cpan/Alien-Xrepo@v1.0.5
-Alien::Xrepo::Build::Dist          v1.0.5  pkg:cpan/Alien-Xrepo@v1.0.5
-Alien::Xrepo::Build::Recipe        v1.0.5  pkg:cpan/Alien-Xrepo@v1.0.5
-Alien::Xrepo::MB                   v1.0.5  pkg:cpan/Alien-Xrepo@v1.0.5
-Alien::Xrepo::MM                   v1.0.5  pkg:cpan/Alien-Xrepo@v1.0.5
-Alien::Xrepo::PackageInfo          v1.0.5  pkg:cpan/Alien-Xrepo@v1.0.5
-Alien::Xrepo::Runtime              v1.0.5  pkg:cpan/Alien-Xrepo@v1.0.5
-Alien::Xrepo::Runtime::Alt         v1.0.5  pkg:cpan/Alien-Xrepo@v1.0.5
+Alien::Xrepo                       v1.0.6  pkg:cpan/Alien-Xrepo@v1.0.6
+Alien::Xrepo::Build                v1.0.6  pkg:cpan/Alien-Xrepo@v1.0.6
+Alien::Xrepo::Build::Dist          v1.0.6  pkg:cpan/Alien-Xrepo@v1.0.6
+Alien::Xrepo::Build::Recipe        v1.0.6  pkg:cpan/Alien-Xrepo@v1.0.6
+Alien::Xrepo::MB                   v1.0.6  pkg:cpan/Alien-Xrepo@v1.0.6
+Alien::Xrepo::MM                   v1.0.6  pkg:cpan/Alien-Xrepo@v1.0.6
+Alien::Xrepo::PackageInfo          v1.0.6  pkg:cpan/Alien-Xrepo@v1.0.6
+Alien::Xrepo::Runtime              v1.0.6  pkg:cpan/Alien-Xrepo@v1.0.6
+Alien::Xrepo::Runtime::Alt         v1.0.6  pkg:cpan/Alien-Xrepo@v1.0.6
 Alien::YAMLScript                  0.003005  pkg:cpan/Alien-YAMLScript@0.3.5
 Alien::YARA                        v0.0.1  pkg:cpan/Alien-YARA@v0.0.6
 Alien::Z3                          0.002  pkg:cpan/Alien-Z3@0.002
@@ -63165,9 +63165,10 @@ Database::Async::SQLite            0.001  pkg:cpan/Database-Async-SQLite@0.001
 Database::Async::StatementHandle   0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Test              0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Transaction       0.019  pkg:cpan/Database-Async@0.019
-Database::BI                       0.011  pkg:cpan/Database-BI@0.011.0
-Database::BI::Controller::Dashboard 0.011  pkg:cpan/Database-BI@0.011.0
-Database::BI::Model::DataSource    0.011  pkg:cpan/Database-BI@0.011.0
+Database::BI                       0.012  pkg:cpan/Database-BI@0.012.0
+Database::BI::Calc                 0.012  pkg:cpan/Database-BI@0.012.0
+Database::BI::Controller::Dashboard 0.012  pkg:cpan/Database-BI@0.012.0
+Database::BI::Model::DataSource    0.012  pkg:cpan/Database-BI@0.012.0
 Database::Cassandra::Client            1  pkg:cpan/Database-Cassandra-Client@1
 Database::DumpTruck                  1.2  pkg:cpan/Database-DumpTruck@1.2
 Database::Format::Text              1.03  pkg:cpan/Database-Format-Text@1.03
@@ -99435,7 +99436,7 @@ HTML::Content::TokeParserTokenizer undef  pkg:cpan/HTML-Content-Extractor@0.01
 HTML::ContentExtractor              0.03  pkg:cpan/HTML-ContentExtractor@0.03
 HTML::Copy                          1.31  pkg:cpan/HTML-Copy@1.31
 HTML::CruftText                     0.02  pkg:cpan/HTML-CruftText@0.02
-HTML::D3                            0.19  pkg:cpan/HTML-D3@0.19
+HTML::D3                            0.20  pkg:cpan/HTML-D3@0.20
 HTML::DBForm                        1.05  pkg:cpan/HTML-DBForm@1.05
 HTML::DBForm::Search                1.05  pkg:cpan/HTML-DBForm@1.05
 HTML::DBForm::Search::DropDown      1.05  pkg:cpan/HTML-DBForm@1.05
@@ -128442,7 +128443,7 @@ MathWorks::platformList            undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::product                 undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepItem          undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepList          undef  pkg:cpan/XML-Pastor@0.6.0
-Matplotlib::Simple                 0.319  pkg:cpan/Matplotlib-Simple@0.319
+Matplotlib::Simple                  0.32  pkg:cpan/Matplotlib-Simple@0.32
 Matrix::Simple                      1.04  pkg:cpan/Matrix-Simple@1.04
 Matts::Message                     undef  pkg:cpan/Matts-Message-Parser@1.0
 Matts::Message::Parser               1.0  pkg:cpan/Matts-Message-Parser@1.0
@@ -260614,39 +260615,60 @@ oCLI::Plugin::Validate             undef  pkg:cpan/oCLI@0.001
 oCLI::Request                      undef  pkg:cpan/oCLI@0.001
 oCLI::View::JSON                   undef  pkg:cpan/oCLI@0.001
 oCLI::View::Text                   undef  pkg:cpan/oCLI@0.001
-oEdtk                              2.1109  pkg:cpan/oEdtk@2.1109
-oEdtk::AddrField                    0.01  pkg:cpan/oEdtk@2.1109
+oEdtk                              2.1120  pkg:cpan/oEdtk@2.1120
+oEdtk::AddrField                    0.01  pkg:cpan/oEdtk@2.1120
 oEdtk::C7Doc                        0.04  pkg:cpan/oEdtk@2.1109
 oEdtk::C7Tag                        0.05  pkg:cpan/oEdtk@2.1109
-oEdtk::Config                      2.1109  pkg:cpan/oEdtk@2.1109
-oEdtk::DBAdmin                     2.1109  pkg:cpan/oEdtk@2.1109
-oEdtk::DateField                    0.14  pkg:cpan/oEdtk@2.1109
-oEdtk::Dict                        2.1109  pkg:cpan/oEdtk@2.1109
-oEdtk::Doc                         2.1109  pkg:cpan/oEdtk@2.1109
-oEdtk::EDMS                        2.1109  pkg:cpan/oEdtk@2.1109
-oEdtk::FPField                      0.01  pkg:cpan/oEdtk@2.1109
-oEdtk::Field                        0.01  pkg:cpan/oEdtk@2.1109
-oEdtk::Main                        2.1109  pkg:cpan/oEdtk@2.1109
-oEdtk::Messenger                   2.1109  pkg:cpan/oEdtk@2.1109
-oEdtk::OmgrIdxDoc                  2.1109  pkg:cpan/oEdtk@2.1109
-oEdtk::Outmngr                     2.1109  pkg:cpan/oEdtk@2.1109
-oEdtk::Record                      2.1109  pkg:cpan/oEdtk@2.1109
-oEdtk::RecordParser                2.1109  pkg:cpan/oEdtk@2.1109
-oEdtk::Run                         2.1109  pkg:cpan/oEdtk@2.1109
-oEdtk::SignedField                 2.1109  pkg:cpan/oEdtk@2.1109
-oEdtk::Spool                       2.1109  pkg:cpan/oEdtk@2.1109
-oEdtk::TexDoc                      2.1109  pkg:cpan/oEdtk@2.1109
-oEdtk::TexTag                      2.1109  pkg:cpan/oEdtk@2.1109
-oEdtk::Tracking                    2.1109  pkg:cpan/oEdtk@2.1109
-oEdtk::Util                        2.1109  pkg:cpan/oEdtk@2.1109
-oEdtk::XPath                       2.1109  pkg:cpan/oEdtk@2.1109
+oEdtk::Config                      2.1116  pkg:cpan/oEdtk@2.1120
+oEdtk::Constants                   2.1111  pkg:cpan/oEdtk@2.1120
+oEdtk::DBAdmin                     2.112  pkg:cpan/oEdtk@2.1120
+oEdtk::DateField                    0.14  pkg:cpan/oEdtk@2.1120
+oEdtk::Dict                        2.1109  pkg:cpan/oEdtk@2.1120
+oEdtk::DisseminationPlan           2.1111  pkg:cpan/oEdtk@2.1120
+oEdtk::Doc                         2.1109  pkg:cpan/oEdtk@2.1120
+oEdtk::ECM                         2.1111  pkg:cpan/oEdtk@2.1120
+oEdtk::EDMS                        2.1115  pkg:cpan/oEdtk@2.1120
+oEdtk::Emailing                    2.1111  pkg:cpan/oEdtk@2.1120
+oEdtk::Ext                         2.1111  pkg:cpan/oEdtk@2.1120
+oEdtk::FPField                      0.01  pkg:cpan/oEdtk@2.1120
+oEdtk::FatalsToEmail               undef  pkg:cpan/oEdtk@2.1120
+oEdtk::Field                        0.01  pkg:cpan/oEdtk@2.1120
+oEdtk::FixIdx                          1  pkg:cpan/oEdtk@2.1120
+oEdtk::IBAN                        undef  pkg:cpan/oEdtk@2.1120
+oEdtk::Infinite                    2.1111  pkg:cpan/oEdtk@2.1120
+oEdtk::Keycloak                    2.1111  pkg:cpan/oEdtk@2.1120
+oEdtk::LaTeX                       undef  pkg:cpan/oEdtk@2.1120
+oEdtk::Main                        2.1109  pkg:cpan/oEdtk@2.1120
+oEdtk::Messenger                   2.1109  pkg:cpan/oEdtk@2.1120
+oEdtk::Net                         2.1111  pkg:cpan/oEdtk@2.1120
+oEdtk::OmgrIdxDoc                  2.1109  pkg:cpan/oEdtk@2.1120
+oEdtk::Outmngr                     2.1115  pkg:cpan/oEdtk@2.1120
+oEdtk::Record                      2.1109  pkg:cpan/oEdtk@2.1120
+oEdtk::RecordParser                2.1109  pkg:cpan/oEdtk@2.1120
+oEdtk::Restitution                 undef  pkg:cpan/oEdtk@2.1120
+oEdtk::Run                         2.1109  pkg:cpan/oEdtk@2.1120
+oEdtk::SchemaScan                  2.1114  pkg:cpan/oEdtk@2.1120
+oEdtk::SignedField                 2.1109  pkg:cpan/oEdtk@2.1120
+oEdtk::Spool                       2.1109  pkg:cpan/oEdtk@2.1120
+oEdtk::TexDoc                      2.1109  pkg:cpan/oEdtk@2.1120
+oEdtk::TexTag                      2.1109  pkg:cpan/oEdtk@2.1120
+oEdtk::Tracking                    2.112  pkg:cpan/oEdtk@2.1120
+oEdtk::Util                        2.1109  pkg:cpan/oEdtk@2.1120
+oEdtk::Utils                       2.1111  pkg:cpan/oEdtk@2.1120
+oEdtk::XML::DTD                    undef  pkg:cpan/oEdtk@2.1120
+oEdtk::XML::DTD::Utils             undef  pkg:cpan/oEdtk@2.1120
+oEdtk::XML::Default                 0.02  pkg:cpan/oEdtk@2.1120
+oEdtk::XML::Generic                 0.01  pkg:cpan/oEdtk@2.1120
+oEdtk::XML::XSD                    undef  pkg:cpan/oEdtk@2.1120
+oEdtk::XPath                       2.1109  pkg:cpan/oEdtk@2.1120
+oEdtk::dataEdtk                    2.1109  pkg:cpan/oEdtk@2.1120
 oEdtk::libC7                       0.0056  pkg:cpan/oEdtk@2.1109
-oEdtk::libDev                      0.316  pkg:cpan/oEdtk@2.1109
-oEdtk::libXls                      2.1109  pkg:cpan/oEdtk@2.1109
-oEdtk::logger                      2.1109  pkg:cpan/oEdtk@2.1109
+oEdtk::libDev                      0.316  pkg:cpan/oEdtk@2.1120
+oEdtk::libXls                      2.1109  pkg:cpan/oEdtk@2.1120
+oEdtk::logger                      2.1109  pkg:cpan/oEdtk@2.1120
 oEdtk::logger2                     1.8083  pkg:cpan/oEdtk@1.8123
-oEdtk::trackEdtk                   2.1109  pkg:cpan/oEdtk@2.1109
-oEdtk::tuiEdtk                     2.1109  pkg:cpan/oEdtk@2.1109
+oEdtk::trackEdtk                   2.1109  pkg:cpan/oEdtk@2.1120
+oEdtk::tuiEdtk                     2.1109  pkg:cpan/oEdtk@2.1120
 obogaf::parser                     1.373  pkg:cpan/obogaf-parser@1.373
 odern::Perl                        1.20250607  pkg:cpan/Modern-Perl@1.20250607
 of                                 undef  pkg:cpan/perl@5.6.1
