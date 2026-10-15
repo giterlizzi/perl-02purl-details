@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 15 Oct 2026 14:35:31 GMT
-Line-Count: 261866
+Last-Updated: Thu, 15 Oct 2026 19:36:15 GMT
+Line-Count: 261888
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -51262,7 +51262,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.1  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::NotNode  v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::OrNode   v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.163
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.164
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curl::Impersonate                   0.02  pkg:cpan/Curl-Impersonate@0.02
 Curl::Impersonate::Multi           undef  pkg:cpan/Curl-Impersonate@0.02
@@ -64340,10 +64340,10 @@ Date::Manip::TZ::z00                7.00  pkg:cpan/Date-Manip@7.00
 Date::Manip::TZ_Base                7.00  pkg:cpan/Date-Manip@7.00
 Date::Manip::TZdata                 7.00  pkg:cpan/Date-Manip@7.00
 Date::Manip::Zones                  7.00  pkg:cpan/Date-Manip@7.00
-Date::ManipX::Almanac              0.004  pkg:cpan/Date-ManipX-Almanac@0.004
-Date::ManipX::Almanac::Date        0.004  pkg:cpan/Date-ManipX-Almanac@0.004
-Date::ManipX::Almanac::Lang        0.004  pkg:cpan/Date-ManipX-Almanac@0.004
-Date::ManipX::Almanac::Lang::english 0.004  pkg:cpan/Date-ManipX-Almanac@0.004
+Date::ManipX::Almanac              0.005  pkg:cpan/Date-ManipX-Almanac@0.005
+Date::ManipX::Almanac::Date        0.005  pkg:cpan/Date-ManipX-Almanac@0.005
+Date::ManipX::Almanac::Lang        0.005  pkg:cpan/Date-ManipX-Almanac@0.005
+Date::ManipX::Almanac::Lang::english 0.005  pkg:cpan/Date-ManipX-Almanac@0.005
 Date::Maya                         2010011301  pkg:cpan/Date-Maya@2010011301
 Date::MonthSet                       0.2  pkg:cpan/Date-MonthSet@0.2
 Date::Namedays::Simple              0.01  pkg:cpan/Date-Namedays-Simple@0.01
@@ -80367,6 +80367,16 @@ Game::Schnapsen::Search             0.04  pkg:cpan/Game-Schnapsen@0.04
 Game::Schnapsen::Terminal           0.04  pkg:cpan/Game-Schnapsen@0.04
 Game::Schnapsen::Trick              0.04  pkg:cpan/Game-Schnapsen@0.04
 Game::Schnapsen::Variant            0.04  pkg:cpan/Game-Schnapsen@0.04
+Game::Shogi                         0.01  pkg:cpan/Game-Shogi@0.01
+Game::Shogi::Bot                    0.01  pkg:cpan/Game-Shogi@0.01
+Game::Shogi::Engine                 0.01  pkg:cpan/Game-Shogi@0.01
+Game::Shogi::Error                  0.01  pkg:cpan/Game-Shogi@0.01
+Game::Shogi::Handicap               0.01  pkg:cpan/Game-Shogi@0.01
+Game::Shogi::Move                   0.01  pkg:cpan/Game-Shogi@0.01
+Game::Shogi::Notation               0.01  pkg:cpan/Game-Shogi@0.01
+Game::Shogi::Result                 0.01  pkg:cpan/Game-Shogi@0.01
+Game::Shogi::Terminal               0.01  pkg:cpan/Game-Shogi@0.01
+Game::Shogi::USI                    0.01  pkg:cpan/Game-Shogi@0.01
 Game::Snake                         0.13  pkg:cpan/Game-Snake@0.13
 Game::Snake::Bot                    0.13  pkg:cpan/Game-Snake@0.13
 Game::Snake::Cell                   0.11  pkg:cpan/Game-Snake@0.11
@@ -80380,6 +80390,14 @@ Game::Snake::Tail                   0.11  pkg:cpan/Game-Snake@0.11
 Game::Snake::Terminal               0.13  pkg:cpan/Game-Snake@0.13
 Game::Snake::Text                   0.11  pkg:cpan/Game-Snake@0.11
 Game::Snake::Ticker                 0.12  pkg:cpan/Game-Snake@0.12
+Game::Sternhalma                    0.01  pkg:cpan/Game-Sternhalma@0.01
+Game::Sternhalma::Bot               0.01  pkg:cpan/Game-Sternhalma@0.01
+Game::Sternhalma::Engine            0.01  pkg:cpan/Game-Sternhalma@0.01
+Game::Sternhalma::Error             0.01  pkg:cpan/Game-Sternhalma@0.01
+Game::Sternhalma::Layout            0.01  pkg:cpan/Game-Sternhalma@0.01
+Game::Sternhalma::Notation          0.01  pkg:cpan/Game-Sternhalma@0.01
+Game::Sternhalma::Result            0.01  pkg:cpan/Game-Sternhalma@0.01
+Game::Sternhalma::Terminal          0.01  pkg:cpan/Game-Sternhalma@0.01
 Game::Terminal                      0.02  pkg:cpan/Game-Terminal@0.02
 Game::Terminal::Kit                 0.05  pkg:cpan/Game-Terminal-Kit@0.05
 Game::Terminal::Kit::Canvas         0.05  pkg:cpan/Game-Terminal-Kit@0.05
@@ -83383,24 +83401,25 @@ Geo::Coder::Canada::Response        0.01  pkg:cpan/Geo-Coder-Canada@0.01
 Geo::Coder::Cloudmade                0.7  pkg:cpan/Geo-Coder-Cloudmade@0.7
 Geo::Coder::DAMS                    0.01  pkg:cpan/Geo-Coder-DAMS@0.01
 Geo::Coder::DataScienceToolkit      0.02  pkg:cpan/Geo-Coder-DataScienceToolkit@0.02
-Geo::Coder::Free                    0.44  pkg:cpan/Geo-Coder-Free@0.44
-Geo::Coder::Free::Allow            undef  pkg:cpan/Geo-Coder-Free@0.44
-Geo::Coder::Free::Config            0.44  pkg:cpan/Geo-Coder-Free@0.44
-Geo::Coder::Free::DB::MaxMind::admin  0.44  pkg:cpan/Geo-Coder-Free@0.44
-Geo::Coder::Free::DB::MaxMind::admin1  0.44  pkg:cpan/Geo-Coder-Free@0.44
-Geo::Coder::Free::DB::MaxMind::admin2  0.44  pkg:cpan/Geo-Coder-Free@0.44
-Geo::Coder::Free::DB::MaxMind::cities  0.44  pkg:cpan/Geo-Coder-Free@0.44
-Geo::Coder::Free::DB::OpenAddr      0.44  pkg:cpan/Geo-Coder-Free@0.44
-Geo::Coder::Free::DB::openaddresses  0.44  pkg:cpan/Geo-Coder-Free@0.44
-Geo::Coder::Free::DB::vwf_log       0.44  pkg:cpan/Geo-Coder-Free@0.44
-Geo::Coder::Free::Display           0.44  pkg:cpan/Geo-Coder-Free@0.44
-Geo::Coder::Free::Display::index    0.44  pkg:cpan/Geo-Coder-Free@0.44
-Geo::Coder::Free::Display::meta_data  0.44  pkg:cpan/Geo-Coder-Free@0.44
-Geo::Coder::Free::Display::query    0.44  pkg:cpan/Geo-Coder-Free@0.44
-Geo::Coder::Free::Local             0.44  pkg:cpan/Geo-Coder-Free@0.44
-Geo::Coder::Free::MaxMind           0.44  pkg:cpan/Geo-Coder-Free@0.44
-Geo::Coder::Free::OpenAddresses     0.44  pkg:cpan/Geo-Coder-Free@0.44
-Geo::Coder::Free::Utils             0.44  pkg:cpan/Geo-Coder-Free@0.44
+Geo::Coder::Free                    0.45  pkg:cpan/Geo-Coder-Free@0.45
+Geo::Coder::Free::Allow            undef  pkg:cpan/Geo-Coder-Free@0.45
+Geo::Coder::Free::Config            0.45  pkg:cpan/Geo-Coder-Free@0.45
+Geo::Coder::Free::DB::MaxMind::admin  0.45  pkg:cpan/Geo-Coder-Free@0.45
+Geo::Coder::Free::DB::MaxMind::admin1  0.45  pkg:cpan/Geo-Coder-Free@0.45
+Geo::Coder::Free::DB::MaxMind::admin2  0.45  pkg:cpan/Geo-Coder-Free@0.45
+Geo::Coder::Free::DB::MaxMind::cities  0.45  pkg:cpan/Geo-Coder-Free@0.45
+Geo::Coder::Free::DB::OpenAddr      0.45  pkg:cpan/Geo-Coder-Free@0.45
+Geo::Coder::Free::DB::openaddresses  0.45  pkg:cpan/Geo-Coder-Free@0.45
+Geo::Coder::Free::DB::vwf_log       0.45  pkg:cpan/Geo-Coder-Free@0.45
+Geo::Coder::Free::Display           0.45  pkg:cpan/Geo-Coder-Free@0.45
+Geo::Coder::Free::Display::index    0.45  pkg:cpan/Geo-Coder-Free@0.45
+Geo::Coder::Free::Display::meta_data  0.45  pkg:cpan/Geo-Coder-Free@0.45
+Geo::Coder::Free::Display::query    0.45  pkg:cpan/Geo-Coder-Free@0.45
+Geo::Coder::Free::Local             0.45  pkg:cpan/Geo-Coder-Free@0.45
+Geo::Coder::Free::MaxMind           0.45  pkg:cpan/Geo-Coder-Free@0.45
+Geo::Coder::Free::OpenAddresses     0.45  pkg:cpan/Geo-Coder-Free@0.45
+Geo::Coder::Free::Provenance        0.45  pkg:cpan/Geo-Coder-Free@0.45
+Geo::Coder::Free::Utils             0.45  pkg:cpan/Geo-Coder-Free@0.45
 Geo::Coder::GeoApify                0.02  pkg:cpan/Geo-Coder-GeoApify@0.02
 Geo::Coder::GeocodeFarm            0.0500  pkg:cpan/Geo-Coder-GeocodeFarm@0.0500
 Geo::Coder::Google                  0.20  pkg:cpan/Geo-Coder-Google@0.20
@@ -100202,7 +100221,7 @@ HTML::GUI::tag                      0.01  pkg:cpan/HTML-GUI@0.04
 HTML::GUI::text                     0.01  pkg:cpan/HTML-GUI@0.04
 HTML::GUI::widget                   0.04  pkg:cpan/HTML-GUI@0.04
 HTML::GenToc                        3.20  pkg:cpan/HTML-GenToc@3.20
-HTML::Genealogy::Map                0.04  pkg:cpan/HTML-Genealogy-Map@0.04
+HTML::Genealogy::Map                0.05  pkg:cpan/HTML-Genealogy-Map@0.05
 HTML::GenerateUtil                  1.21  pkg:cpan/HTML-GenerateUtil@1.21
 HTML::GenerateUtil::Escape          1.21  pkg:cpan/HTML-GenerateUtil@1.21
 HTML::GoogleMaps                      10  pkg:cpan/HTML-GoogleMaps@10
@@ -141541,7 +141560,7 @@ Net::Camera::Sercomm::ICamera2      0.02  pkg:cpan/Net-Camera-Sercomm-ICamera2@0
 Net::CampaignMonitor               2.002002  pkg:cpan/Net-CampaignMonitor@v2.2.2
 Net::Canopy::BAM                    0.04  pkg:cpan/Net-Canopy-BAM@0.04?ext=tgz
 Net::CapsuleCRM                    1.151910  pkg:cpan/Net-CapsuleCRM@1.151910
-Net::CardDAVTalk                    0.12  pkg:cpan/Net-CardDAVTalk@0.12
+Net::CardDAVTalk                    0.13  pkg:cpan/Net-CardDAVTalk@0.13
 Net::CardDAVTalk::VCard            undef  pkg:cpan/Net-CardDAVTalk@0.09
 Net::CascadeCopy                   0.002006  pkg:cpan/Net-CascadeCopy@0.2.6
 Net::Cassandra                      0.35  pkg:cpan/Net-Cassandra@0.35
@@ -194765,6 +194784,9 @@ Power::Outlet::iBootBar             0.54  pkg:cpan/Power-Outlet@0.54
 Power::Outlet::iBootBarGroup        0.54  pkg:cpan/Power-Outlet@0.54
 PowerBuilder::DataWindow            0.01  pkg:cpan/PowerBuilder-DataWindow@0.01
 PowerBuilder::ORCA                  0.05  pkg:cpan/PowerBuilder-ORCA@0.05
+PowerDNS::API::ACL                 0.002  pkg:cpan/PowerDNS-API-ACL@0.002
+PowerDNS::API::ACL::Proxy          0.002  pkg:cpan/PowerDNS-API-ACL@0.002
+PowerDNS::API::ACL::Store          0.002  pkg:cpan/PowerDNS-API-ACL@0.002
 PowerDNS::API::Client               0.10  pkg:cpan/PowerDNS-API-Client@0.10
 PowerDNS::API::Client::Request      0.10  pkg:cpan/PowerDNS-API-Client@0.10
 PowerDNS::API::Client::Response     0.10  pkg:cpan/PowerDNS-API-Client@0.10
