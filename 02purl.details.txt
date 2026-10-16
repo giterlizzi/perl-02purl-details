@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 16 Oct 2026 02:37:43 GMT
+Last-Updated: Fri, 16 Oct 2026 08:39:34 GMT
 Line-Count: 261893
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -49135,8 +49135,8 @@ Context::Singleton::Frame::Promise::Builder v1.0.9  pkg:cpan/Context-Singleton@1
 Context::Singleton::Frame::Promise::Rule v1.0.9  pkg:cpan/Context-Singleton@1.0.9
 Context::Singleton::Frame::Result  v1.0.5  pkg:cpan/Context-Singleton@1.0.5
 Context::Singleton::Singleton      v1.0.9  pkg:cpan/Context-Singleton@1.0.9
-Context::Vars                       0.04  pkg:cpan/Context-Vars@0.04
-Context::Vars::Context              0.04  pkg:cpan/Context-Vars@0.04
+Context::Vars                       0.05  pkg:cpan/Context-Vars@0.05
+Context::Vars::Context              0.05  pkg:cpan/Context-Vars@0.05
 Contextual::Call                    0.01  pkg:cpan/Contextual-Call@0.01
 Contextual::Diag                    0.04  pkg:cpan/Contextual-Diag@0.04
 Contextual::Diag::Value             0.04  pkg:cpan/Contextual-Diag@0.04
@@ -51264,7 +51264,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.1  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::NotNode  v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::OrNode   v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.165
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.166
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curl::Impersonate                   0.02  pkg:cpan/Curl-Impersonate@0.02
 Curl::Impersonate::Multi           undef  pkg:cpan/Curl-Impersonate@0.02
@@ -68038,7 +68038,7 @@ Dist::Zilla::MintingProfile::Author::JACQUESG  0.02  pkg:cpan/Dist-Zilla-PluginB
 Dist::Zilla::MintingProfile::Author::KENTNL 2.025021  pkg:cpan/Dist-Zilla-PluginBundle-Author-KENTNL@2.025021
 Dist::Zilla::MintingProfile::Author::LESPEA 1.008000  pkg:cpan/Dist-Zilla-PluginBundle-Author-LESPEA@1.008000
 Dist::Zilla::MintingProfile::Author::MINTLAB  0.02  pkg:cpan/Dist-Zilla-PluginBundle-Author-MINTLAB@0.02
-Dist::Zilla::MintingProfile::Author::Plicease  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
+Dist::Zilla::MintingProfile::Author::Plicease  2.81  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.81
 Dist::Zilla::MintingProfile::Author::RWSTAUNER 6.002  pkg:cpan/Dist-Zilla-PluginBundle-Author-RWSTAUNER@6.002
 Dist::Zilla::MintingProfile::Author::TABULO 1.000014  pkg:cpan/Dist-Zilla-PluginBundle-Author-TABULO@1.000014
 Dist::Zilla::MintingProfile::Author::WATERKIP   3.3  pkg:cpan/Dist-Zilla-PluginBundle-Author-WATERKIP@3.3
@@ -68108,18 +68108,18 @@ Dist::Zilla::Plugin::Author::KENTNL::MinimumPerl 2.025021  pkg:cpan/Dist-Zilla-P
 Dist::Zilla::Plugin::Author::KENTNL::Prereqs::Latest::Selective 1.001001  pkg:cpan/Dist-Zilla-Plugin-Author-KENTNL-Prereqs-Latest-Selective@1.001001
 Dist::Zilla::Plugin::Author::KENTNL::RecommendFixes 0.005004  pkg:cpan/Dist-Zilla-Plugin-Author-KENTNL-RecommendFixes@0.005004
 Dist::Zilla::Plugin::Author::KENTNL::TravisCI 0.001004  pkg:cpan/Dist-Zilla-Plugin-Author-KENTNL-TravisCI@0.001004
-Dist::Zilla::Plugin::Author::Plicease  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
-Dist::Zilla::Plugin::Author::Plicease::Cleaner  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
-Dist::Zilla::Plugin::Author::Plicease::Core  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
-Dist::Zilla::Plugin::Author::Plicease::Init2  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
-Dist::Zilla::Plugin::Author::Plicease::MakeMaker  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
-Dist::Zilla::Plugin::Author::Plicease::NoUnsafeInc  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
-Dist::Zilla::Plugin::Author::Plicease::PkgVersionBlock  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
-Dist::Zilla::Plugin::Author::Plicease::ReadmeAnyFromPod  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
-Dist::Zilla::Plugin::Author::Plicease::SpecialPrereqs  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
-Dist::Zilla::Plugin::Author::Plicease::Tests  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
-Dist::Zilla::Plugin::Author::Plicease::Thanks  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
-Dist::Zilla::Plugin::Author::Plicease::Upload  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
+Dist::Zilla::Plugin::Author::Plicease  2.81  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.81
+Dist::Zilla::Plugin::Author::Plicease::Cleaner  2.81  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.81
+Dist::Zilla::Plugin::Author::Plicease::Core  2.81  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.81
+Dist::Zilla::Plugin::Author::Plicease::Init2  2.81  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.81
+Dist::Zilla::Plugin::Author::Plicease::MakeMaker  2.81  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.81
+Dist::Zilla::Plugin::Author::Plicease::NoUnsafeInc  2.81  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.81
+Dist::Zilla::Plugin::Author::Plicease::PkgVersionBlock  2.81  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.81
+Dist::Zilla::Plugin::Author::Plicease::ReadmeAnyFromPod  2.81  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.81
+Dist::Zilla::Plugin::Author::Plicease::SpecialPrereqs  2.81  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.81
+Dist::Zilla::Plugin::Author::Plicease::Tests  2.81  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.81
+Dist::Zilla::Plugin::Author::Plicease::Thanks  2.81  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.81
+Dist::Zilla::Plugin::Author::Plicease::Upload  2.81  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.81
 Dist::Zilla::Plugin::Author::VDB::Hg::Commit v0.11.3  pkg:cpan/Dist-Zilla-PluginBundle-Author-VDB@v0.11.3
 Dist::Zilla::Plugin::Author::VDB::Hg::Push v0.11.3  pkg:cpan/Dist-Zilla-PluginBundle-Author-VDB@v0.11.3
 Dist::Zilla::Plugin::Author::VDB::Hg::Status v0.11.3  pkg:cpan/Dist-Zilla-PluginBundle-Author-VDB@v0.11.3
@@ -68890,7 +68890,7 @@ Dist::Zilla::PluginBundle::Author::PERLANCAR 0.610  pkg:cpan/Dist-Zilla-PluginBu
 Dist::Zilla::PluginBundle::Author::PERLANCAR::NonCPAN 0.610  pkg:cpan/Dist-Zilla-PluginBundle-Author-PERLANCAR@0.610
 Dist::Zilla::PluginBundle::Author::PERLANCAR::NonCPAN::Task 0.610  pkg:cpan/Dist-Zilla-PluginBundle-Author-PERLANCAR@0.610
 Dist::Zilla::PluginBundle::Author::PERLANCAR::Task 0.610  pkg:cpan/Dist-Zilla-PluginBundle-Author-PERLANCAR@0.610
-Dist::Zilla::PluginBundle::Author::Plicease  2.80  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.80
+Dist::Zilla::PluginBundle::Author::Plicease  2.81  pkg:cpan/Dist-Zilla-PluginBundle-Author-Plicease@2.81
 Dist::Zilla::PluginBundle::Author::RAYM 0.002  pkg:cpan/Dist-Zilla-PluginBundle-Author-RAYM@0.002
 Dist::Zilla::PluginBundle::Author::REFECO 0.007  pkg:cpan/Dist-Zilla-PluginBundle-Author-REFECO@0.007
 Dist::Zilla::PluginBundle::Author::RHOELZ  0.07  pkg:cpan/Dist-Zilla-PluginBundle-Author-RHOELZ@0.07
@@ -80400,7 +80400,7 @@ Game::Sternhalma::Layout            0.01  pkg:cpan/Game-Sternhalma@0.01
 Game::Sternhalma::Notation          0.01  pkg:cpan/Game-Sternhalma@0.01
 Game::Sternhalma::Result            0.01  pkg:cpan/Game-Sternhalma@0.01
 Game::Sternhalma::Terminal          0.01  pkg:cpan/Game-Sternhalma@0.01
-Game::Terminal                      0.02  pkg:cpan/Game-Terminal@0.02
+Game::Terminal                      0.03  pkg:cpan/Game-Terminal@0.03
 Game::Terminal::Kit                 0.05  pkg:cpan/Game-Terminal-Kit@0.05
 Game::Terminal::Kit::Canvas         0.05  pkg:cpan/Game-Terminal-Kit@0.05
 Game::Terminal::Kit::Choose         0.05  pkg:cpan/Game-Terminal-Kit@0.05
@@ -80419,7 +80419,7 @@ Game::Terminal::Kit::Test::Handle   0.05  pkg:cpan/Game-Terminal-Kit@0.05
 Game::Terminal::Kit::Test::Screen   0.05  pkg:cpan/Game-Terminal-Kit@0.05
 Game::Terminal::Kit::Ticker         0.05  pkg:cpan/Game-Terminal-Kit@0.05
 Game::Terminal::Kit::Widget         0.05  pkg:cpan/Game-Terminal-Kit@0.05
-Game::Terminal::Menu                0.02  pkg:cpan/Game-Terminal@0.02
+Game::Terminal::Menu                0.03  pkg:cpan/Game-Terminal@0.03
 Game::TextMapper                    1.09  pkg:cpan/Game-TextMapper@1.09
 Game::TextMapper::Apocalypse       undef  pkg:cpan/Game-TextMapper@1.09
 Game::TextMapper::Command::random  undef  pkg:cpan/Game-TextMapper@1.09
@@ -108924,13 +108924,13 @@ Internals                            1.1  pkg:cpan/Internals@1.1
 Internals::CountObjects             0.05  pkg:cpan/Internals-CountObjects@0.05
 Internals::DumpArenas               0.12  pkg:cpan/Internals-DumpArenas@0.12
 Internals::GraphArenas              0.01  pkg:cpan/Internals-GraphArenas@0.01
-InternetData                       1.009004  pkg:cpan/InternetData@1.9.4
-InternetData::Database             1.009004  pkg:cpan/InternetData@1.9.4
-InternetData::Error                1.009004  pkg:cpan/InternetData@1.9.4
-InternetData::Oauth                1.009004  pkg:cpan/InternetData@1.9.4
-InternetData::OauthAccessDeniedError 1.009004  pkg:cpan/InternetData@1.9.4
-InternetData::OauthError           1.009004  pkg:cpan/InternetData@1.9.4
-InternetData::OauthExpiredTokenError 1.009004  pkg:cpan/InternetData@1.9.4
+InternetData                       1.009005  pkg:cpan/InternetData@1.9.5
+InternetData::Database             1.009005  pkg:cpan/InternetData@1.9.5
+InternetData::Error                1.009005  pkg:cpan/InternetData@1.9.5
+InternetData::Oauth                1.009005  pkg:cpan/InternetData@1.9.5
+InternetData::OauthAccessDeniedError 1.009005  pkg:cpan/InternetData@1.9.5
+InternetData::OauthError           1.009005  pkg:cpan/InternetData@1.9.5
+InternetData::OauthExpiredTokenError 1.009005  pkg:cpan/InternetData@1.9.5
 Interpolation                       0.74  pkg:cpan/Interpolation@0.74
 Interpolation::A2A                  0.71  pkg:cpan/Interpolation@0.71
 Interpolation::A2S                  0.71  pkg:cpan/Interpolation@0.71
@@ -138125,7 +138125,7 @@ Music::NeoRiemannianTonnetz         0.27  pkg:cpan/Music-NeoRiemannianTonnetz@0.
 Music::Note                         0.01  pkg:cpan/Music-Note@0.01
 Music::Note::Frequency              0.05  pkg:cpan/Music-Note-Frequency@0.05
 Music::Note::Role::Operators        0.04  pkg:cpan/Music-Note-Role-Operators@0.04
-Music::Percussion::Tabla           0.0711  pkg:cpan/Music-Percussion-Tabla@0.0711
+Music::Percussion::Tabla           0.0803  pkg:cpan/Music-Percussion-Tabla@0.0803
 Music::PitchNum                     0.09  pkg:cpan/Music-PitchNum@0.09
 Music::PitchNum::ABC                0.09  pkg:cpan/Music-PitchNum@0.09
 Music::PitchNum::ASPN               0.09  pkg:cpan/Music-PitchNum@0.09
@@ -205101,7 +205101,7 @@ SPVM::IO::Socket::IP               undef  pkg:cpan/SPVM-IO@0.255
 SPVM::IO::Socket::IP::Import::IPv4 undef  pkg:cpan/SPVM-IO@0.255
 SPVM::IO::Socket::IP::Import::IPv6 undef  pkg:cpan/SPVM-IO@0.255
 SPVM::IO::Socket::Interface        undef  pkg:cpan/SPVM-IO@0.17
-SPVM::IO::Socket::SSL              0.020  pkg:cpan/SPVM-IO-Socket-SSL@0.020
+SPVM::IO::Socket::SSL              0.021  pkg:cpan/SPVM-IO-Socket-SSL@0.021
 SPVM::IO::Socket::UNIX             undef  pkg:cpan/SPVM-IO@0.255
 SPVM::IO::Util                     undef  pkg:cpan/SPVM-IO@0.17
 SPVM::Immutable::ByteList          undef  pkg:cpan/SPVM@0.990199
@@ -239412,17 +239412,17 @@ VOMS::Lite::RSAKey                  0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::SAMLHelper              0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::VOMS                    0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::X509                    0.20  pkg:cpan/VOMS-Lite@0.20
-VPNDetection                       3.005004  pkg:cpan/VPNDetection@3.5.4
-VPNDetection::Bogon                3.005004  pkg:cpan/VPNDetection@3.5.4
-VPNDetection::Bogons               undef  pkg:cpan/VPNDetection@3.5.4
-VPNDetection::Cache                3.005004  pkg:cpan/VPNDetection@3.5.4
-VPNDetection::Database             3.005004  pkg:cpan/VPNDetection@3.5.4
-VPNDetection::Error                3.005004  pkg:cpan/VPNDetection@3.5.4
-VPNDetection::Oauth                3.005004  pkg:cpan/VPNDetection@3.5.4
-VPNDetection::OauthAccessDeniedError 3.005004  pkg:cpan/VPNDetection@3.5.4
-VPNDetection::OauthError           3.005004  pkg:cpan/VPNDetection@3.5.4
-VPNDetection::OauthExpiredTokenError 3.005004  pkg:cpan/VPNDetection@3.5.4
-VPNDetection::Result               3.005004  pkg:cpan/VPNDetection@3.5.4
+VPNDetection                       3.005005  pkg:cpan/VPNDetection@3.5.5
+VPNDetection::Bogon                3.005005  pkg:cpan/VPNDetection@3.5.5
+VPNDetection::Bogons               undef  pkg:cpan/VPNDetection@3.5.5
+VPNDetection::Cache                3.005005  pkg:cpan/VPNDetection@3.5.5
+VPNDetection::Database             3.005005  pkg:cpan/VPNDetection@3.5.5
+VPNDetection::Error                3.005005  pkg:cpan/VPNDetection@3.5.5
+VPNDetection::Oauth                3.005005  pkg:cpan/VPNDetection@3.5.5
+VPNDetection::OauthAccessDeniedError 3.005005  pkg:cpan/VPNDetection@3.5.5
+VPNDetection::OauthError           3.005005  pkg:cpan/VPNDetection@3.5.5
+VPNDetection::OauthExpiredTokenError 3.005005  pkg:cpan/VPNDetection@3.5.5
+VPNDetection::Result               3.005005  pkg:cpan/VPNDetection@3.5.5
 VR::API                             1.06  pkg:cpan/VR-API@1.06
 VR::API::Partner                    1.01  pkg:cpan/VR-API@1.05
 VRML                                1.10  pkg:cpan/VRML@1.10
