@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 17 Oct 2026 02:29:35 GMT
+Last-Updated: Sat, 17 Oct 2026 08:10:32 GMT
 Line-Count: 261915
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -108940,13 +108940,13 @@ Internals                            1.1  pkg:cpan/Internals@1.1
 Internals::CountObjects             0.05  pkg:cpan/Internals-CountObjects@0.05
 Internals::DumpArenas               0.12  pkg:cpan/Internals-DumpArenas@0.12
 Internals::GraphArenas              0.01  pkg:cpan/Internals-GraphArenas@0.01
-InternetData                       1.009005  pkg:cpan/InternetData@1.9.5
-InternetData::Database             1.009005  pkg:cpan/InternetData@1.9.5
-InternetData::Error                1.009005  pkg:cpan/InternetData@1.9.5
-InternetData::Oauth                1.009005  pkg:cpan/InternetData@1.9.5
-InternetData::OauthAccessDeniedError 1.009005  pkg:cpan/InternetData@1.9.5
-InternetData::OauthError           1.009005  pkg:cpan/InternetData@1.9.5
-InternetData::OauthExpiredTokenError 1.009005  pkg:cpan/InternetData@1.9.5
+InternetData                       1.010001  pkg:cpan/InternetData@1.10.1
+InternetData::Database             1.010001  pkg:cpan/InternetData@1.10.1
+InternetData::Error                1.010001  pkg:cpan/InternetData@1.10.1
+InternetData::Oauth                1.010001  pkg:cpan/InternetData@1.10.1
+InternetData::OauthAccessDeniedError 1.010001  pkg:cpan/InternetData@1.10.1
+InternetData::OauthError           1.010001  pkg:cpan/InternetData@1.10.1
+InternetData::OauthExpiredTokenError 1.010001  pkg:cpan/InternetData@1.10.1
 Interpolation                       0.74  pkg:cpan/Interpolation@0.74
 Interpolation::A2A                  0.71  pkg:cpan/Interpolation@0.71
 Interpolation::A2S                  0.71  pkg:cpan/Interpolation@0.71
