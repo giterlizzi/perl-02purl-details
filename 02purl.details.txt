@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 17 Oct 2026 21:56:44 GMT
-Line-Count: 261918
+Last-Updated: Sat, 17 Oct 2026 23:43:49 GMT
+Line-Count: 261919
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -118448,7 +118448,7 @@ List::Range::Search::Liner         undef  pkg:cpan/List-Range@0.02
 List::Range::Set                   undef  pkg:cpan/List-Range@0.02
 List::Rank                         0.004  pkg:cpan/List-Rank@0.004
 List::Regexp                        1.05  pkg:cpan/List-Regexp@1.05
-List::RewriteElements               0.10  pkg:cpan/List-RewriteElements@0.10
+List::RewriteElements               0.11  pkg:cpan/List-RewriteElements@0.11
 List::Rotation                     1.010  pkg:cpan/List-Rotation@1.010
 List::Rotation::Alternate          1.010  pkg:cpan/List-Rotation@1.010
 List::Rotation::Cycle              1.009  pkg:cpan/List-Rotation-Cycle@1.009
@@ -189825,7 +189825,7 @@ Perl::Critic::Exception::Parse     1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Freenode             v1.0.4  pkg:cpan/Perl-Critic-Freenode@v1.0.4
 Perl::Critic::Freenode::Utils      v1.0.4  pkg:cpan/Perl-Critic-Freenode@v1.0.4
 Perl::Critic::Git                  v1.3.1  pkg:cpan/Perl-Critic-Git@v1.3.1
-Perl::Critic::Grape                0.001002  pkg:cpan/Perl-Critic-Grape@0.1.2
+Perl::Critic::Grape                0.001003  pkg:cpan/Perl-Critic-Grape@0.1.3
 Perl::Critic::Itch                  0.07  pkg:cpan/Perl-Critic-Itch@0.07
 Perl::Critic::Lax                  0.014  pkg:cpan/Perl-Critic-Lax@0.014
 Perl::Critic::Mardem                0.06  pkg:cpan/Perl-Critic-Mardem@0.06
@@ -189893,7 +189893,7 @@ Perl::Critic::Policy::CodeLayout::RequireConsistentNewlines 1.156  pkg:cpan/Perl
 Perl::Critic::Policy::CodeLayout::RequireFinalSemicolon   100  pkg:cpan/Perl-Critic-Pulp@100
 Perl::Critic::Policy::CodeLayout::RequireKRBracing undef  pkg:cpan/Perl-Critic-PolicyBundle-SNEZ@0.03
 Perl::Critic::Policy::CodeLayout::RequireKRParens undef  pkg:cpan/Perl-Critic-PolicyBundle-SNEZ@0.03
-Perl::Critic::Policy::CodeLayout::RequireParensWithBuiltins 0.001002  pkg:cpan/Perl-Critic-Grape@0.1.2
+Perl::Critic::Policy::CodeLayout::RequireParensWithBuiltins 0.001003  pkg:cpan/Perl-Critic-Grape@0.1.3
 Perl::Critic::Policy::CodeLayout::RequireSpaceAroundBinaryOperators undef  pkg:cpan/Perl-Critic-PolicyBundle-SNEZ@0.03
 Perl::Critic::Policy::CodeLayout::RequireTidyCode 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::CodeLayout::RequireTrailingCommaAtNewline   100  pkg:cpan/Perl-Critic-Pulp@100
@@ -189942,7 +189942,7 @@ Perl::Critic::Policy::ControlStructures::ProhibitCStyleForLoops 1.156  pkg:cpan/
 Perl::Critic::Policy::ControlStructures::ProhibitCascadingIfElse 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ControlStructures::ProhibitDeepNests 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ControlStructures::ProhibitGotoIntoConstruct  0.07  pkg:cpan/Perl-Critic-PolicyBundle-LoopsAndLabels@0.07
-Perl::Critic::Policy::ControlStructures::ProhibitInlineDo 0.001002  pkg:cpan/Perl-Critic-Grape@0.1.2
+Perl::Critic::Policy::ControlStructures::ProhibitInlineDo 0.001003  pkg:cpan/Perl-Critic-Grape@0.1.3
 Perl::Critic::Policy::ControlStructures::ProhibitLabelsWithSpecialBlockNames 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ControlStructures::ProhibitMultipleSubscripts undef  pkg:cpan/Perl-Critic-PolicyBundle-SNEZ@0.03
 Perl::Critic::Policy::ControlStructures::ProhibitMutatingListFunctions 1.156  pkg:cpan/Perl-Critic@1.156
@@ -190110,9 +190110,9 @@ Perl::Critic::Policy::ProhibitUsageSubs 1.000  pkg:cpan/perl-critic-policy-prohi
 Perl::Critic::Policy::ProhibitUseLib 1.000  pkg:cpan/perl-critic-policy-prohibituselib@1.000
 Perl::Critic::Policy::References::ProhibitComplexDoubleSigils   0.2  pkg:cpan/Perl-Critic-Policy-References-ProhibitComplexDoubleSigils@0.2
 Perl::Critic::Policy::References::ProhibitDoubleSigils 1.156  pkg:cpan/Perl-Critic@1.156
-Perl::Critic::Policy::References::ProhibitRefChecks 0.001002  pkg:cpan/Perl-Critic-Grape@0.1.2
-Perl::Critic::Policy::References::ProhibitUnnecessaryRefs 0.001002  pkg:cpan/Perl-Critic-Grape@0.1.2
-Perl::Critic::Policy::References::RequireSigils 0.001002  pkg:cpan/Perl-Critic-Grape@0.1.2
+Perl::Critic::Policy::References::ProhibitRefChecks 0.001003  pkg:cpan/Perl-Critic-Grape@0.1.3
+Perl::Critic::Policy::References::ProhibitUnnecessaryRefs 0.001003  pkg:cpan/Perl-Critic-Grape@0.1.3
+Perl::Critic::Policy::References::RequireSigils 0.001003  pkg:cpan/Perl-Critic-Grape@0.1.3
 Perl::Critic::Policy::RegularExpressions::PreventUselessMetacharacterEscapes 1.000  pkg:cpan/Perl-Critic-Policy-RegularExpressions-PreventUselessMetacharacterEscapes@1.000
 Perl::Critic::Policy::RegularExpressions::ProhibitCaptureWithoutTest 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::RegularExpressions::ProhibitComplexRegexes 1.156  pkg:cpan/Perl-Critic@1.156
@@ -190161,9 +190161,9 @@ Perl::Critic::Policy::Subroutines::ProhibitUnderscorePrivateSubs 0.001  pkg:cpan
 Perl::Critic::Policy::Subroutines::ProhibitUnusedPrivateSubroutines 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Subroutines::ProtectPrivateSubs 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Subroutines::RequireArgUnpacking 1.156  pkg:cpan/Perl-Critic@1.156
-Perl::Critic::Policy::Subroutines::RequireConsistentReturn 0.001002  pkg:cpan/Perl-Critic-Grape@0.1.2
+Perl::Critic::Policy::Subroutines::RequireConsistentReturn 0.001003  pkg:cpan/Perl-Critic-Grape@0.1.3
 Perl::Critic::Policy::Subroutines::RequireFinalReturn 1.156  pkg:cpan/Perl-Critic@1.156
-Perl::Critic::Policy::Subroutines::RequireSubOrder 0.001002  pkg:cpan/Perl-Critic-Grape@0.1.2
+Perl::Critic::Policy::Subroutines::RequireSubOrder 0.001003  pkg:cpan/Perl-Critic-Grape@0.1.3
 Perl::Critic::Policy::TestingAndDebugging::ProhibitNoStrict 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::TestingAndDebugging::ProhibitNoWarnings 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::TestingAndDebugging::ProhibitProlongedStrictureOverride 1.156  pkg:cpan/Perl-Critic@1.156
@@ -190226,7 +190226,7 @@ Perl::Critic::Policy::ValuesAndExpressions::RequireInterpolationOfMetachars 1.15
 Perl::Critic::Policy::ValuesAndExpressions::RequireNumberSeparators 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ValuesAndExpressions::RequireNumericVersion   100  pkg:cpan/Perl-Critic-Pulp@100
 Perl::Critic::Policy::ValuesAndExpressions::RequireQuotedHeredocTerminator 1.156  pkg:cpan/Perl-Critic@1.156
-Perl::Critic::Policy::ValuesAndExpressions::RequireSlices 0.001002  pkg:cpan/Perl-Critic-Grape@0.1.2
+Perl::Critic::Policy::ValuesAndExpressions::RequireSlices 0.001003  pkg:cpan/Perl-Critic-Grape@0.1.3
 Perl::Critic::Policy::ValuesAndExpressions::RequireUpperCaseHeredocTerminator 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ValuesAndExpressions::RestrictLongStrings 1.003  pkg:cpan/Perl-Critic-More@1.003
 Perl::Critic::Policy::ValuesAndExpressions::UnexpandedSpecialLiteral   100  pkg:cpan/Perl-Critic-Pulp@100
@@ -190234,6 +190234,7 @@ Perl::Critic::Policy::Variables::NameReuse v0.1.0  pkg:cpan/Perl-Critic-Policy-V
 Perl::Critic::Policy::Variables::ProhibitAugmentedAssignmentInDeclaration 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Variables::ProhibitConditionalDeclarations 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Variables::ProhibitEvilVariables 1.156  pkg:cpan/Perl-Critic@1.156
+Perl::Critic::Policy::Variables::ProhibitExcessiveNames 0.001003  pkg:cpan/Perl-Critic-Grape@0.1.3
 Perl::Critic::Policy::Variables::ProhibitLocalVars 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Variables::ProhibitLoopOnHash 0.009  pkg:cpan/Perl-Critic-Policy-Variables-ProhibitLoopOnHash@0.009
 Perl::Critic::Policy::Variables::ProhibitMatchVars 1.156  pkg:cpan/Perl-Critic@1.156
@@ -190242,7 +190243,7 @@ Perl::Critic::Policy::Variables::ProhibitPackageVars 1.156  pkg:cpan/Perl-Critic
 Perl::Critic::Policy::Variables::ProhibitPerl4PackageNames 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Variables::ProhibitPunctuationVars 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Variables::ProhibitReusedNames 1.156  pkg:cpan/Perl-Critic@1.156
-Perl::Critic::Policy::Variables::ProhibitTopicIterator 0.001002  pkg:cpan/Perl-Critic-Grape@0.1.2
+Perl::Critic::Policy::Variables::ProhibitTopicIterator 0.001003  pkg:cpan/Perl-Critic-Grape@0.1.3
 Perl::Critic::Policy::Variables::ProhibitUnusedVariables 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::Variables::ProhibitUnusedVarsStricter 0.116  pkg:cpan/Perl-Critic-Policy-Variables-ProhibitUnusedVarsStricter@0.116
 Perl::Critic::Policy::Variables::ProhibitUselessInitialization  0.02  pkg:cpan/Perl-Critic-PetPeeves-JTRAMMELL@0.04
@@ -230697,10 +230698,10 @@ Time::Human                         1.03  pkg:cpan/Time-Human@1.03
 Time::Implementation               undef  pkg:cpan/Froody@42.034
 Time::Interval                     1.234  pkg:cpan/Time-Interval@1.234
 Time::JulianDay                    2026.033  pkg:cpan/Time-ParseDate@2026.033
-Time::Keeper                        0.01  pkg:cpan/Time-Keeper@0.01
-Time::Keeper::Duration              0.01  pkg:cpan/Time-Keeper@0.01
-Time::Keeper::Locale                0.01  pkg:cpan/Time-Keeper@0.01
-Time::Keeper::Zone                  0.02  pkg:cpan/Time-Keeper-Zone@0.02
+Time::Keeper                        0.02  pkg:cpan/Time-Keeper@0.02
+Time::Keeper::Duration              0.02  pkg:cpan/Time-Keeper@0.02
+Time::Keeper::Locale                0.02  pkg:cpan/Time-Keeper@0.02
+Time::Keeper::Zone                  0.03  pkg:cpan/Time-Keeper-Zone@0.03
 Time::LeapSecond                    0.92  pkg:cpan/Time-Str@0.92
 Time::Left                         1.000  pkg:cpan/Time-Left@1.000
 Time::Limit                        0.003  pkg:cpan/Time-Limit@0.003
