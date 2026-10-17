@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 17 Oct 2026 13:23:41 GMT
-Line-Count: 261916
+Last-Updated: Sat, 17 Oct 2026 16:46:10 GMT
+Line-Count: 261917
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -249514,6 +249514,7 @@ WebService::Upcoming::Object::State  0.05  pkg:cpan/WebService-Upcoming@0.05
 WebService::Upcoming::Object::User  0.05  pkg:cpan/WebService-Upcoming@0.05
 WebService::Upcoming::Object::Venue  0.05  pkg:cpan/WebService-Upcoming@0.05
 WebService::Upcoming::Object::Watchlist  0.05  pkg:cpan/WebService-Upcoming@0.05
+WebService::UptimeKuma::Push       0.002  pkg:cpan/WebService-UptimeKuma-Push@0.002
 WebService::Uptrack                v0.0.2  pkg:cpan/WebService-Uptrack@v0.0.2
 WebService::UrbanAirship            0.04  pkg:cpan/WebService-UrbanAirship@0.04
 WebService::UrbanAirship::APNS      0.02  pkg:cpan/WebService-UrbanAirship@0.04
