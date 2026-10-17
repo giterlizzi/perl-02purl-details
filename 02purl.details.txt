@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 16 Oct 2026 22:22:35 GMT
-Line-Count: 261914
+Last-Updated: Sat, 17 Oct 2026 02:29:35 GMT
+Line-Count: 261915
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5200,15 +5200,15 @@ Alien::Xmake::Project::Toolchain   v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xmake::Project::Util        v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xmake::Project::Xpack       v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
 Alien::Xmake::Project::XpackComponent v1.0.0  pkg:cpan/Alien-Xmake-Project@v1.0.0
-Alien::Xrepo                       v1.0.8  pkg:cpan/Alien-Xrepo@v1.0.8
-Alien::Xrepo::Build                v1.0.8  pkg:cpan/Alien-Xrepo@v1.0.8
-Alien::Xrepo::Build::Dist          v1.0.8  pkg:cpan/Alien-Xrepo@v1.0.8
-Alien::Xrepo::Build::Recipe        v1.0.8  pkg:cpan/Alien-Xrepo@v1.0.8
-Alien::Xrepo::MB                   v1.0.8  pkg:cpan/Alien-Xrepo@v1.0.8
-Alien::Xrepo::MM                   v1.0.8  pkg:cpan/Alien-Xrepo@v1.0.8
-Alien::Xrepo::PackageInfo          v1.0.8  pkg:cpan/Alien-Xrepo@v1.0.8
-Alien::Xrepo::Runtime              v1.0.8  pkg:cpan/Alien-Xrepo@v1.0.8
-Alien::Xrepo::Runtime::Alt         v1.0.8  pkg:cpan/Alien-Xrepo@v1.0.8
+Alien::Xrepo                       v1.0.9  pkg:cpan/Alien-Xrepo@v1.0.9
+Alien::Xrepo::Build                v1.0.9  pkg:cpan/Alien-Xrepo@v1.0.9
+Alien::Xrepo::Build::Dist          v1.0.9  pkg:cpan/Alien-Xrepo@v1.0.9
+Alien::Xrepo::Build::Recipe        v1.0.9  pkg:cpan/Alien-Xrepo@v1.0.9
+Alien::Xrepo::MB                   v1.0.9  pkg:cpan/Alien-Xrepo@v1.0.9
+Alien::Xrepo::MM                   v1.0.9  pkg:cpan/Alien-Xrepo@v1.0.9
+Alien::Xrepo::PackageInfo          v1.0.9  pkg:cpan/Alien-Xrepo@v1.0.9
+Alien::Xrepo::Runtime              v1.0.9  pkg:cpan/Alien-Xrepo@v1.0.9
+Alien::Xrepo::Runtime::Alt         v1.0.9  pkg:cpan/Alien-Xrepo@v1.0.9
 Alien::YAMLScript                  0.003005  pkg:cpan/Alien-YAMLScript@0.3.5
 Alien::YARA                        v0.0.1  pkg:cpan/Alien-YARA@v0.0.6
 Alien::Z3                          0.002  pkg:cpan/Alien-Z3@0.002
@@ -83419,26 +83419,26 @@ Geo::Coder::Canada::Response        0.01  pkg:cpan/Geo-Coder-Canada@0.01
 Geo::Coder::Cloudmade                0.7  pkg:cpan/Geo-Coder-Cloudmade@0.7
 Geo::Coder::DAMS                    0.01  pkg:cpan/Geo-Coder-DAMS@0.01
 Geo::Coder::DataScienceToolkit      0.02  pkg:cpan/Geo-Coder-DataScienceToolkit@0.02
-Geo::Coder::Free                    0.46  pkg:cpan/Geo-Coder-Free@0.46
-Geo::Coder::Free::Allow             0.46  pkg:cpan/Geo-Coder-Free@0.46
-Geo::Coder::Free::Config            0.46  pkg:cpan/Geo-Coder-Free@0.46
-Geo::Coder::Free::DB::MaxMind::admin  0.46  pkg:cpan/Geo-Coder-Free@0.46
-Geo::Coder::Free::DB::MaxMind::admin1  0.46  pkg:cpan/Geo-Coder-Free@0.46
-Geo::Coder::Free::DB::MaxMind::admin2  0.46  pkg:cpan/Geo-Coder-Free@0.46
-Geo::Coder::Free::DB::MaxMind::cities  0.46  pkg:cpan/Geo-Coder-Free@0.46
-Geo::Coder::Free::DB::OpenAddr      0.46  pkg:cpan/Geo-Coder-Free@0.46
-Geo::Coder::Free::DB::openaddresses  0.46  pkg:cpan/Geo-Coder-Free@0.46
-Geo::Coder::Free::DB::vwf_log       0.46  pkg:cpan/Geo-Coder-Free@0.46
-Geo::Coder::Free::Display           0.46  pkg:cpan/Geo-Coder-Free@0.46
-Geo::Coder::Free::Display::index    0.46  pkg:cpan/Geo-Coder-Free@0.46
-Geo::Coder::Free::Display::meta_data  0.46  pkg:cpan/Geo-Coder-Free@0.46
-Geo::Coder::Free::Display::query    0.46  pkg:cpan/Geo-Coder-Free@0.46
-Geo::Coder::Free::Local             0.46  pkg:cpan/Geo-Coder-Free@0.46
-Geo::Coder::Free::MaxMind           0.46  pkg:cpan/Geo-Coder-Free@0.46
-Geo::Coder::Free::OpenAddresses     0.46  pkg:cpan/Geo-Coder-Free@0.46
-Geo::Coder::Free::Provenance        0.46  pkg:cpan/Geo-Coder-Free@0.46
-Geo::Coder::Free::Utils             0.46  pkg:cpan/Geo-Coder-Free@0.46
-Geo::Coder::Free::Validate          0.46  pkg:cpan/Geo-Coder-Free@0.46
+Geo::Coder::Free                    0.47  pkg:cpan/Geo-Coder-Free@0.47
+Geo::Coder::Free::Allow             0.47  pkg:cpan/Geo-Coder-Free@0.47
+Geo::Coder::Free::Config            0.47  pkg:cpan/Geo-Coder-Free@0.47
+Geo::Coder::Free::DB::MaxMind::admin  0.47  pkg:cpan/Geo-Coder-Free@0.47
+Geo::Coder::Free::DB::MaxMind::admin1  0.47  pkg:cpan/Geo-Coder-Free@0.47
+Geo::Coder::Free::DB::MaxMind::admin2  0.47  pkg:cpan/Geo-Coder-Free@0.47
+Geo::Coder::Free::DB::MaxMind::cities  0.47  pkg:cpan/Geo-Coder-Free@0.47
+Geo::Coder::Free::DB::OpenAddr      0.47  pkg:cpan/Geo-Coder-Free@0.47
+Geo::Coder::Free::DB::openaddresses  0.47  pkg:cpan/Geo-Coder-Free@0.47
+Geo::Coder::Free::DB::vwf_log       0.47  pkg:cpan/Geo-Coder-Free@0.47
+Geo::Coder::Free::Display           0.47  pkg:cpan/Geo-Coder-Free@0.47
+Geo::Coder::Free::Display::index    0.47  pkg:cpan/Geo-Coder-Free@0.47
+Geo::Coder::Free::Display::meta_data  0.47  pkg:cpan/Geo-Coder-Free@0.47
+Geo::Coder::Free::Display::query    0.47  pkg:cpan/Geo-Coder-Free@0.47
+Geo::Coder::Free::Local             0.47  pkg:cpan/Geo-Coder-Free@0.47
+Geo::Coder::Free::MaxMind           0.47  pkg:cpan/Geo-Coder-Free@0.47
+Geo::Coder::Free::OpenAddresses     0.47  pkg:cpan/Geo-Coder-Free@0.47
+Geo::Coder::Free::Provenance        0.47  pkg:cpan/Geo-Coder-Free@0.47
+Geo::Coder::Free::Utils             0.47  pkg:cpan/Geo-Coder-Free@0.47
+Geo::Coder::Free::Validate          0.47  pkg:cpan/Geo-Coder-Free@0.47
 Geo::Coder::GeoApify                0.02  pkg:cpan/Geo-Coder-GeoApify@0.02
 Geo::Coder::GeocodeFarm            0.0500  pkg:cpan/Geo-Coder-GeocodeFarm@0.0500
 Geo::Coder::Google                  0.20  pkg:cpan/Geo-Coder-Google@0.20
@@ -83885,7 +83885,7 @@ Geo::Location::IP::Role::HasLocales 0.005  pkg:cpan/Geo-Location-IP@0.005
 Geo::Location::IP::Role::Record::HasConfidence 0.005  pkg:cpan/Geo-Location-IP@0.005
 Geo::Location::IP::Role::Record::HasGeoNameId 0.005  pkg:cpan/Geo-Location-IP@0.005
 Geo::Location::IP::Role::Record::HasNames 0.005  pkg:cpan/Geo-Location-IP@0.005
-Geo::Location::Point                0.16  pkg:cpan/Geo-Location-Point@0.16
+Geo::Location::Point                0.17  pkg:cpan/Geo-Location-Point@0.17
 Geo::Location::TimeZone              0.1  pkg:cpan/Geo-Location-TimeZone@0.1
 Geo::Location::TimeZone::A         undef  pkg:cpan/Geo-Location-TimeZone@0.1
 Geo::Location::TimeZone::B         undef  pkg:cpan/Geo-Location-TimeZone@0.1
@@ -99475,7 +99475,7 @@ HTML::Content::TokeParserTokenizer undef  pkg:cpan/HTML-Content-Extractor@0.01
 HTML::ContentExtractor              0.03  pkg:cpan/HTML-ContentExtractor@0.03
 HTML::Copy                          1.31  pkg:cpan/HTML-Copy@1.31
 HTML::CruftText                     0.02  pkg:cpan/HTML-CruftText@0.02
-HTML::D3                            0.20  pkg:cpan/HTML-D3@0.20
+HTML::D3                            0.21  pkg:cpan/HTML-D3@0.21
 HTML::DBForm                        1.05  pkg:cpan/HTML-DBForm@1.05
 HTML::DBForm::Search                1.05  pkg:cpan/HTML-DBForm@1.05
 HTML::DBForm::Search::DropDown      1.05  pkg:cpan/HTML-DBForm@1.05
@@ -144135,8 +144135,8 @@ Net::HTTP2::Response               undef  pkg:cpan/Net-HTTP2@0.02
 Net::HTTP2::X                      undef  pkg:cpan/Net-HTTP2@0.02
 Net::HTTP2::X::Base                undef  pkg:cpan/Net-HTTP2@0.02
 Net::HTTP2::X::HTTP2               undef  pkg:cpan/Net-HTTP2@0.02
-Net::HTTP2::nghttp2                0.011  pkg:cpan/Net-HTTP2-nghttp2@0.011
-Net::HTTP2::nghttp2::Session       undef  pkg:cpan/Net-HTTP2-nghttp2@0.011
+Net::HTTP2::nghttp2                0.012  pkg:cpan/Net-HTTP2-nghttp2@0.012
+Net::HTTP2::nghttp2::Session       undef  pkg:cpan/Net-HTTP2-nghttp2@0.012
 Net::HTTP::API                      0.11  pkg:cpan/Net-HTTP-API@0.14
 Net::HTTP::API::Error               0.14  pkg:cpan/Net-HTTP-API@0.14
 Net::HTTP::API::Meta::Class         0.14  pkg:cpan/Net-HTTP-API@0.14
@@ -225652,6 +225652,7 @@ Test::Config::IOD::Common          0.345  pkg:cpan/Config-IOD-Reader@0.345
 Test::Config::System                0.63  pkg:cpan/Test-Config-System@0.63
 Test::ConsistentVersion            v0.3.1  pkg:cpan/Test-ConsistentVersion@v0.3.1
 Test::Consul                       0.017  pkg:cpan/Test-Consul@0.017
+Test::Consumer::Contract            0.01  pkg:cpan/Test-Consumer-Contract@0.01
 Test::Continuous                    0.76  pkg:cpan/Test-Continuous@0.76
 Test::Continuous::Formatter        0.000002  pkg:cpan/Test-Continuous@0.76
 Test::Continuous::Formatter::Session undef  pkg:cpan/Test-Continuous@0.76
