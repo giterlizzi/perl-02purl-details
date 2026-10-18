@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 17 Oct 2026 23:43:49 GMT
-Line-Count: 261919
+Last-Updated: Sun, 18 Oct 2026 02:30:25 GMT
+Line-Count: 261920
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -12897,6 +12897,7 @@ App::ParseHosts                    0.003  pkg:cpan/App-ParseHosts@0.003
 App::ParseNetstat                  0.150  pkg:cpan/App-ParseNetstat@0.150
 App::ParseSearchStringFromURL      0.004  pkg:cpan/App-ParseSearchStringFromURL@0.004
 App::ParseServices                 0.002  pkg:cpan/App-ParseServices@0.002
+App::PartitionUtils                0.001  pkg:cpan/App-PartitionUtils@0.001
 App::Pasar                          0.02  pkg:cpan/App-Pasar@0.02
 App::PassManager                   1.113580  pkg:cpan/App-passmanager@1.113580
 App::PassManager::Command::init    1.113580  pkg:cpan/App-passmanager@1.113580
@@ -83413,14 +83414,14 @@ Geo::Coder::All::TomTom            undef  pkg:cpan/Geo-Coder-All@0.06
 Geo::Coder::ArcGIS                  0.01  pkg:cpan/Geo-Coder-ArcGIS@0.01
 Geo::Coder::Bing                    0.13  pkg:cpan/Geo-Coder-Bing@0.13
 Geo::Coder::Bing::Bulk              0.04  pkg:cpan/Geo-Coder-Bing-Bulk@0.04
-Geo::Coder::CA                      0.15  pkg:cpan/Geo-Coder-CA@0.15
+Geo::Coder::CA                      0.16  pkg:cpan/Geo-Coder-CA@0.16
 Geo::Coder::Cache                   0.07  pkg:cpan/Geo-Coder-Cache@0.07
 Geo::Coder::Canada                  0.01  pkg:cpan/Geo-Coder-Canada@0.01
 Geo::Coder::Canada::Error           0.01  pkg:cpan/Geo-Coder-Canada@0.01
 Geo::Coder::Canada::Response        0.01  pkg:cpan/Geo-Coder-Canada@0.01
 Geo::Coder::Cloudmade                0.7  pkg:cpan/Geo-Coder-Cloudmade@0.7
 Geo::Coder::DAMS                    0.01  pkg:cpan/Geo-Coder-DAMS@0.01
-Geo::Coder::DataScienceToolkit      0.02  pkg:cpan/Geo-Coder-DataScienceToolkit@0.02
+Geo::Coder::DataScienceToolkit      0.03  pkg:cpan/Geo-Coder-DataScienceToolkit@0.03
 Geo::Coder::Free                    0.47  pkg:cpan/Geo-Coder-Free@0.47
 Geo::Coder::Free::Allow             0.47  pkg:cpan/Geo-Coder-Free@0.47
 Geo::Coder::Free::Config            0.47  pkg:cpan/Geo-Coder-Free@0.47
@@ -83887,7 +83888,7 @@ Geo::Location::IP::Role::HasLocales 0.005  pkg:cpan/Geo-Location-IP@0.005
 Geo::Location::IP::Role::Record::HasConfidence 0.005  pkg:cpan/Geo-Location-IP@0.005
 Geo::Location::IP::Role::Record::HasGeoNameId 0.005  pkg:cpan/Geo-Location-IP@0.005
 Geo::Location::IP::Role::Record::HasNames 0.005  pkg:cpan/Geo-Location-IP@0.005
-Geo::Location::Point                0.18  pkg:cpan/Geo-Location-Point@0.18
+Geo::Location::Point                0.19  pkg:cpan/Geo-Location-Point@0.19
 Geo::Location::TimeZone              0.1  pkg:cpan/Geo-Location-TimeZone@0.1
 Geo::Location::TimeZone::A         undef  pkg:cpan/Geo-Location-TimeZone@0.1
 Geo::Location::TimeZone::B         undef  pkg:cpan/Geo-Location-TimeZone@0.1
@@ -225655,7 +225656,7 @@ Test::Config::IOD::Common          0.345  pkg:cpan/Config-IOD-Reader@0.345
 Test::Config::System                0.63  pkg:cpan/Test-Config-System@0.63
 Test::ConsistentVersion            v0.3.1  pkg:cpan/Test-ConsistentVersion@v0.3.1
 Test::Consul                       0.017  pkg:cpan/Test-Consul@0.017
-Test::Consumer::Contract            0.02  pkg:cpan/Test-Consumer-Contract@0.02
+Test::Consumer::Contract            0.03  pkg:cpan/Test-Consumer-Contract@0.03
 Test::Continuous                    0.76  pkg:cpan/Test-Continuous@0.76
 Test::Continuous::Formatter        0.000002  pkg:cpan/Test-Continuous@0.76
 Test::Continuous::Formatter::Session undef  pkg:cpan/Test-Continuous@0.76
