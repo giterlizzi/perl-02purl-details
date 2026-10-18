@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 18 Oct 2026 17:01:13 GMT
-Line-Count: 261939
+Last-Updated: Sun, 18 Oct 2026 19:56:05 GMT
+Line-Count: 261940
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -6279,7 +6279,7 @@ Antispam::Toolkit::Role::UsernameChecker  0.08  pkg:cpan/Antispam-Toolkit@0.08
 Antispam::Toolkit::Types            0.08  pkg:cpan/Antispam-Toolkit@0.08
 Antispam::Toolkit::Types::Internal  0.08  pkg:cpan/Antispam-Toolkit@0.08
 Antispam::httpBL                    0.02  pkg:cpan/Antispam-httpBL@0.02
-Antsy                              0.907  pkg:cpan/Antsy@0.907
+Antsy                              0.908  pkg:cpan/Antsy@0.908
 Antybrowser                        1.000002  pkg:cpan/Antybrowser@1.0.2
 Antybrowser::SDK                   1.000002  pkg:cpan/Antybrowser-SDK@1.0.2
 Any::Daemon                         0.96  pkg:cpan/Any-Daemon@0.96
@@ -10706,18 +10706,18 @@ App::FuguVM::Proxy::Cache          0.003001  pkg:cpan/App-FuguVM@0.3.1
 App::FuguVM::QMP                   0.003001  pkg:cpan/App-FuguVM@0.3.1
 App::FuguVM::Remote                0.003001  pkg:cpan/App-FuguVM@0.3.1
 App::FuguVM::State                 0.003001  pkg:cpan/App-FuguVM@0.3.1
-App::FuguWeb                       0.009000  pkg:cpan/App-FuguWeb@0.9.0
-App::FuguWeb::CLI                  0.009000  pkg:cpan/App-FuguWeb@0.9.0
-App::FuguWeb::Check                0.009000  pkg:cpan/App-FuguWeb@0.9.0
-App::FuguWeb::Config               0.009000  pkg:cpan/App-FuguWeb@0.9.0
-App::FuguWeb::Config::Group        0.009000  pkg:cpan/App-FuguWeb@0.9.0
-App::FuguWeb::Index                0.009000  pkg:cpan/App-FuguWeb@0.9.0
-App::FuguWeb::Keys                 0.009000  pkg:cpan/App-FuguWeb@0.9.0
-App::FuguWeb::Manual               0.009000  pkg:cpan/App-FuguWeb@0.9.0
-App::FuguWeb::Page                 0.009000  pkg:cpan/App-FuguWeb@0.9.0
-App::FuguWeb::Render               0.009000  pkg:cpan/App-FuguWeb@0.9.0
-App::FuguWeb::Rotate               0.009000  pkg:cpan/App-FuguWeb@0.9.0
-App::FuguWeb::Site                 0.009000  pkg:cpan/App-FuguWeb@0.9.0
+App::FuguWeb                       0.010000  pkg:cpan/App-FuguWeb@0.10.0
+App::FuguWeb::CLI                  0.010000  pkg:cpan/App-FuguWeb@0.10.0
+App::FuguWeb::Check                0.010000  pkg:cpan/App-FuguWeb@0.10.0
+App::FuguWeb::Config               0.010000  pkg:cpan/App-FuguWeb@0.10.0
+App::FuguWeb::Config::Group        0.010000  pkg:cpan/App-FuguWeb@0.10.0
+App::FuguWeb::Index                0.010000  pkg:cpan/App-FuguWeb@0.10.0
+App::FuguWeb::Keys                 0.010000  pkg:cpan/App-FuguWeb@0.10.0
+App::FuguWeb::Manual               0.010000  pkg:cpan/App-FuguWeb@0.10.0
+App::FuguWeb::Page                 0.010000  pkg:cpan/App-FuguWeb@0.10.0
+App::FuguWeb::Render               0.010000  pkg:cpan/App-FuguWeb@0.10.0
+App::FuguWeb::Rotate               0.010000  pkg:cpan/App-FuguWeb@0.10.0
+App::FuguWeb::Site                 0.010000  pkg:cpan/App-FuguWeb@0.10.0
 App::FzfUtils                      0.004  pkg:cpan/App-FzfUtils@0.004
 App::GHGen                          0.11  pkg:cpan/App-GHGen@0.11
 App::GHGen::Analyzer                0.11  pkg:cpan/App-GHGen@0.11
@@ -20683,7 +20683,7 @@ AtomBus                            1.0405  pkg:cpan/AtomBus@1.0405
 AtomBus::Schema                    undef  pkg:cpan/AtomBus@1.0405
 AtomBus::Schema::Result::AtomBusEntry undef  pkg:cpan/AtomBus@1.0405
 AtomBus::Schema::Result::AtomBusFeed undef  pkg:cpan/AtomBus@1.0405
-Atomic::Pipe                       0.032  pkg:cpan/Atomic-Pipe@0.032
+Atomic::Pipe                       0.033  pkg:cpan/Atomic-Pipe@0.033
 AtomicParsley::Command             1.153400  pkg:cpan/AtomicParsley-Command@1.153400
 AtomicParsley::Command::Tags       1.153400  pkg:cpan/AtomicParsley-Command@1.153400
 Atompub                            0.003007  pkg:cpan/Atompub@0.3.7
@@ -146137,12 +146137,12 @@ Net::PulseMeter::Sensor::UniqCounter undef  pkg:cpan/Net-PulseMeter@0.07
 Net::Pushover                      0.021  pkg:cpan/Net-Pushover@0.021
 Net::QMQP                           0.01  pkg:cpan/Net-QMQP@0.01
 Net::QMTP                           0.06  pkg:cpan/Net-QMTP@0.06
-Net::QUIC                           0.04  pkg:cpan/Net-QUIC@0.04
-Net::QUIC::Connection               0.04  pkg:cpan/Net-QUIC@0.04
-Net::QUIC::Datagram                 0.04  pkg:cpan/Net-QUIC@0.04
-Net::QUIC::Driver                   0.04  pkg:cpan/Net-QUIC@0.04
-Net::QUIC::Endpoint                 0.04  pkg:cpan/Net-QUIC@0.04
-Net::QUIC::Stream                   0.04  pkg:cpan/Net-QUIC@0.04
+Net::QUIC                           0.05  pkg:cpan/Net-QUIC@0.05
+Net::QUIC::Connection               0.05  pkg:cpan/Net-QUIC@0.05
+Net::QUIC::Datagram                 0.05  pkg:cpan/Net-QUIC@0.05
+Net::QUIC::Driver                   0.05  pkg:cpan/Net-QUIC@0.05
+Net::QUIC::Endpoint                 0.05  pkg:cpan/Net-QUIC@0.05
+Net::QUIC::Stream                   0.05  pkg:cpan/Net-QUIC@0.05
 Net::RADSWrappers                   0.01  pkg:cpan/Net-RADSWrappers@0.01?ext=tgz
 Net::RBLClient                       0.4  pkg:cpan/Net-RBLClient@0.5
 Net::RCON                            1.0  pkg:cpan/Net-RCON@1.0
@@ -232611,6 +232611,7 @@ Tripletail::Validator::Filter::Wide undef  pkg:cpan/Tripletail@0.69
 Tripletail::Validator::Filter::ZipCode undef  pkg:cpan/Tripletail@0.69
 Tripletail::Validator::FilterFactory undef  pkg:cpan/Tripletail@0.69
 Tripletail::Value                  undef  pkg:cpan/Tripletail@0.69
+Trog::SQLite                       0.001  pkg:cpan/Trog-SQLite@0.001
 Trog::TOTP                         1.007  pkg:cpan/Trog-TOTP@1.007
 Tropo                               0.16  pkg:cpan/Tropo@0.16
 Tropo::RestAPI::Base                0.03  pkg:cpan/Tropo@0.16
@@ -257375,10 +257376,10 @@ ZOOM::ResultSet                    undef  pkg:cpan/Net-Z3950-ZOOM@1.32
 ZOOM::ScanSet                      undef  pkg:cpan/Net-Z3950-ZOOM@1.32
 ZWave::Protocol                     0.04  pkg:cpan/ZWave-Protocol@0.04
 ZX81                               0.002  pkg:cpan/ZX81@0.002
-ZX81::Tape                         0.003  pkg:cpan/ZX81-Tape@0.003
-ZX81::Tape::Line                   0.003  pkg:cpan/ZX81-Tape@0.003
-ZX81::Tape::Memory                 0.003  pkg:cpan/ZX81-Tape@0.003
-ZX81::Tape::Var                    0.003  pkg:cpan/ZX81-Tape@0.003
+ZX81::Tape                         0.004  pkg:cpan/ZX81-Tape@0.004
+ZX81::Tape::Line                   0.004  pkg:cpan/ZX81-Tape@0.004
+ZX81::Tape::Memory                 0.004  pkg:cpan/ZX81-Tape@0.004
+ZX81::Tape::Var                    0.004  pkg:cpan/ZX81-Tape@0.004
 ZX81::Tokenize                     0.005  pkg:cpan/ZX81-Tokenize@0.005
 ZZZ::SDK                           v0.0.1  pkg:cpan/ZZZ-SDK@0.0.1
 Zabbix2::API                       0.014  pkg:cpan/Zabbix2-API@0.014
