@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 18 Oct 2026 13:42:19 GMT
-Line-Count: 261935
+Last-Updated: Sun, 18 Oct 2026 17:01:13 GMT
+Line-Count: 261939
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -1494,12 +1494,12 @@ AWS::SNS::Verify                   0.0105  pkg:cpan/AWS-SNS-Verify@0.0105
 AWS::SQS::Simple                    0.02  pkg:cpan/AWS-SQS-Simple@0.02
 AWS::Signature4                     1.02  pkg:cpan/AWS-Signature4@1.02
 AWS::Signature::V2                  0.01  pkg:cpan/AWS-Signature-V2@0.01
-AWS::Signature::V4                 0.001  pkg:cpan/AWS-Signature-V4@0.001
-AWS::Signature::V4::Checksum       undef  pkg:cpan/AWS-Signature-V4@0.001
-AWS::Signature::V4::Chunker        undef  pkg:cpan/AWS-Signature-V4@0.001
-AWS::Signature::V4::Credentials    undef  pkg:cpan/AWS-Signature-V4@0.001
-AWS::Signature::V4::Error          undef  pkg:cpan/AWS-Signature-V4@0.001
-AWS::Signature::V4::X509           undef  pkg:cpan/AWS-Signature-V4@0.001
+AWS::Signature::V4                 0.004  pkg:cpan/AWS-Signature-V4@0.004
+AWS::Signature::V4::Checksum       undef  pkg:cpan/AWS-Signature-V4@0.004
+AWS::Signature::V4::Chunker        undef  pkg:cpan/AWS-Signature-V4@0.004
+AWS::Signature::V4::Credentials    undef  pkg:cpan/AWS-Signature-V4@0.004
+AWS::Signature::V4::Error          undef  pkg:cpan/AWS-Signature-V4@0.004
+AWS::Signature::V4::X509           undef  pkg:cpan/AWS-Signature-V4@0.004
 AWS::XRay                           0.12  pkg:cpan/AWS-XRay@0.12
 AWS::XRay::Buffer                  undef  pkg:cpan/AWS-XRay@0.12
 AWS::XRay::Plugin::EC2             undef  pkg:cpan/AWS-XRay@0.12
@@ -80430,7 +80430,7 @@ Game::Sternhalma::Layout            0.01  pkg:cpan/Game-Sternhalma@0.01
 Game::Sternhalma::Notation          0.01  pkg:cpan/Game-Sternhalma@0.01
 Game::Sternhalma::Result            0.01  pkg:cpan/Game-Sternhalma@0.01
 Game::Sternhalma::Terminal          0.01  pkg:cpan/Game-Sternhalma@0.01
-Game::Terminal                      0.03  pkg:cpan/Game-Terminal@0.03
+Game::Terminal                      0.04  pkg:cpan/Game-Terminal@0.04
 Game::Terminal::Kit                 0.05  pkg:cpan/Game-Terminal-Kit@0.05
 Game::Terminal::Kit::Canvas         0.05  pkg:cpan/Game-Terminal-Kit@0.05
 Game::Terminal::Kit::Choose         0.05  pkg:cpan/Game-Terminal-Kit@0.05
@@ -80449,7 +80449,7 @@ Game::Terminal::Kit::Test::Handle   0.05  pkg:cpan/Game-Terminal-Kit@0.05
 Game::Terminal::Kit::Test::Screen   0.05  pkg:cpan/Game-Terminal-Kit@0.05
 Game::Terminal::Kit::Ticker         0.05  pkg:cpan/Game-Terminal-Kit@0.05
 Game::Terminal::Kit::Widget         0.05  pkg:cpan/Game-Terminal-Kit@0.05
-Game::Terminal::Menu                0.03  pkg:cpan/Game-Terminal@0.03
+Game::Terminal::Menu                0.04  pkg:cpan/Game-Terminal@0.04
 Game::TextMapper                    1.09  pkg:cpan/Game-TextMapper@1.09
 Game::TextMapper::Apocalypse       undef  pkg:cpan/Game-TextMapper@1.09
 Game::TextMapper::Command::random  undef  pkg:cpan/Game-TextMapper@1.09
@@ -83900,6 +83900,7 @@ Geo::Location::IP::Role::Record::HasConfidence 0.005  pkg:cpan/Geo-Location-IP@0
 Geo::Location::IP::Role::Record::HasGeoNameId 0.005  pkg:cpan/Geo-Location-IP@0.005
 Geo::Location::IP::Role::Record::HasNames 0.005  pkg:cpan/Geo-Location-IP@0.005
 Geo::Location::Point                0.19  pkg:cpan/Geo-Location-Point@0.19
+Geo::Location::Predicate            0.01  pkg:cpan/Geo-Location-Predicate@0.01
 Geo::Location::TimeZone              0.1  pkg:cpan/Geo-Location-TimeZone@0.1
 Geo::Location::TimeZone::A         undef  pkg:cpan/Geo-Location-TimeZone@0.1
 Geo::Location::TimeZone::B         undef  pkg:cpan/Geo-Location-TimeZone@0.1
@@ -108954,13 +108955,13 @@ Internals                            1.1  pkg:cpan/Internals@1.1
 Internals::CountObjects             0.05  pkg:cpan/Internals-CountObjects@0.05
 Internals::DumpArenas               0.12  pkg:cpan/Internals-DumpArenas@0.12
 Internals::GraphArenas              0.01  pkg:cpan/Internals-GraphArenas@0.01
-InternetData                       1.011000  pkg:cpan/InternetData@1.11.0
-InternetData::Database             1.011000  pkg:cpan/InternetData@1.11.0
-InternetData::Error                1.011000  pkg:cpan/InternetData@1.11.0
-InternetData::Oauth                1.011000  pkg:cpan/InternetData@1.11.0
-InternetData::OauthAccessDeniedError 1.011000  pkg:cpan/InternetData@1.11.0
-InternetData::OauthError           1.011000  pkg:cpan/InternetData@1.11.0
-InternetData::OauthExpiredTokenError 1.011000  pkg:cpan/InternetData@1.11.0
+InternetData                       1.011001  pkg:cpan/InternetData@1.11.1
+InternetData::Database             1.011001  pkg:cpan/InternetData@1.11.1
+InternetData::Error                1.011001  pkg:cpan/InternetData@1.11.1
+InternetData::Oauth                1.011001  pkg:cpan/InternetData@1.11.1
+InternetData::OauthAccessDeniedError 1.011001  pkg:cpan/InternetData@1.11.1
+InternetData::OauthError           1.011001  pkg:cpan/InternetData@1.11.1
+InternetData::OauthExpiredTokenError 1.011001  pkg:cpan/InternetData@1.11.1
 Interpolation                       0.74  pkg:cpan/Interpolation@0.74
 Interpolation::A2A                  0.71  pkg:cpan/Interpolation@0.71
 Interpolation::A2S                  0.71  pkg:cpan/Interpolation@0.71
@@ -192798,9 +192799,9 @@ Plack::Middleware::OAuth::UserInfo::GitHub undef  pkg:cpan/Plack-Middleware-OAut
 Plack::Middleware::OAuth::UserInfo::Google undef  pkg:cpan/Plack-Middleware-OAuth@0.10
 Plack::Middleware::OAuth::UserInfo::Live undef  pkg:cpan/Plack-Middleware-OAuth@0.10
 Plack::Middleware::OAuth::UserInfo::Twitter undef  pkg:cpan/Plack-Middleware-OAuth@0.10
-Plack::Middleware::OIDC             1.00  pkg:cpan/Plack-Middleware-OIDC@1.00
-Plack::Middleware::OIDC::Logger     1.00  pkg:cpan/Plack-Middleware-OIDC@1.00
-Plack::Middleware::OIDC::Redirect   1.00  pkg:cpan/Plack-Middleware-OIDC@1.00
+Plack::Middleware::OIDC             1.01  pkg:cpan/Plack-Middleware-OIDC@1.01
+Plack::Middleware::OIDC::Logger     1.01  pkg:cpan/Plack-Middleware-OIDC@1.01
+Plack::Middleware::OIDC::Redirect   1.01  pkg:cpan/Plack-Middleware-OIDC@1.01
 Plack::Middleware::OpenTelemetry   0.262410  pkg:cpan/Plack-Middleware-OpenTelemetry@0.262410
 Plack::Middleware::Openqq::SelfTalkForbid undef  pkg:cpan/Webqq-Client@8.5.3
 Plack::Middleware::Options          0.01  pkg:cpan/Plack-Middleware-Options@0.01
@@ -228184,7 +228185,7 @@ Text::FIGlet::Control               2.15  pkg:cpan/Text-FIGlet@2.19.4?ext=tgz
 Text::FIGlet::Font                 2.019003  pkg:cpan/Text-FIGlet@2.19.4?ext=tgz
 Text::FIGlet::Illuminated           2.19  pkg:cpan/Text-FIGlet@2.19.4?ext=tgz
 Text::FIGlet::Ransom                2.17  pkg:cpan/Text-FIGlet@2.19.4?ext=tgz
-Text::Fab                           0.04  pkg:cpan/Text-Fab@0.03
+Text::Fab                           0.05  pkg:cpan/Text-Fab@0.05
 Text::FakeXML                       0.02  pkg:cpan/Text-FakeXML@0.02
 Text::FastTemplate                  0.95  pkg:cpan/Text-FastTemplate@0.95
 Text::FileTree                      0.24  pkg:cpan/Text-FileTree@0.24
@@ -230710,13 +230711,14 @@ Time::Human                         1.03  pkg:cpan/Time-Human@1.03
 Time::Implementation               undef  pkg:cpan/Froody@42.034
 Time::Interval                     1.234  pkg:cpan/Time-Interval@1.234
 Time::JulianDay                    2026.033  pkg:cpan/Time-ParseDate@2026.033
-Time::Keeper                        0.04  pkg:cpan/Time-Keeper@0.04
-Time::Keeper::Date                  0.04  pkg:cpan/Time-Keeper@0.04
-Time::Keeper::Duration              0.04  pkg:cpan/Time-Keeper@0.04
-Time::Keeper::Locale                0.04  pkg:cpan/Time-Keeper@0.04
-Time::Keeper::MonthDay              0.04  pkg:cpan/Time-Keeper@0.04
-Time::Keeper::Time                  0.04  pkg:cpan/Time-Keeper@0.04
-Time::Keeper::YearMonth             0.04  pkg:cpan/Time-Keeper@0.04
+Time::Keeper                        0.05  pkg:cpan/Time-Keeper@0.05
+Time::Keeper::Calendar              0.05  pkg:cpan/Time-Keeper@0.05
+Time::Keeper::Date                  0.05  pkg:cpan/Time-Keeper@0.05
+Time::Keeper::Duration              0.05  pkg:cpan/Time-Keeper@0.05
+Time::Keeper::Locale                0.05  pkg:cpan/Time-Keeper@0.05
+Time::Keeper::MonthDay              0.05  pkg:cpan/Time-Keeper@0.05
+Time::Keeper::Time                  0.05  pkg:cpan/Time-Keeper@0.05
+Time::Keeper::YearMonth             0.05  pkg:cpan/Time-Keeper@0.05
 Time::Keeper::Zone                  0.04  pkg:cpan/Time-Keeper-Zone@0.04
 Time::LeapSecond                    0.92  pkg:cpan/Time-Str@0.92
 Time::Left                         1.000  pkg:cpan/Time-Left@1.000
@@ -257373,8 +257375,10 @@ ZOOM::ResultSet                    undef  pkg:cpan/Net-Z3950-ZOOM@1.32
 ZOOM::ScanSet                      undef  pkg:cpan/Net-Z3950-ZOOM@1.32
 ZWave::Protocol                     0.04  pkg:cpan/ZWave-Protocol@0.04
 ZX81                               0.002  pkg:cpan/ZX81@0.002
-ZX81::Tape                         0.002  pkg:cpan/ZX81-Tape@0.002
-ZX81::Tape::Line                   0.002  pkg:cpan/ZX81-Tape@0.002
+ZX81::Tape                         0.003  pkg:cpan/ZX81-Tape@0.003
+ZX81::Tape::Line                   0.003  pkg:cpan/ZX81-Tape@0.003
+ZX81::Tape::Memory                 0.003  pkg:cpan/ZX81-Tape@0.003
+ZX81::Tape::Var                    0.003  pkg:cpan/ZX81-Tape@0.003
 ZX81::Tokenize                     0.005  pkg:cpan/ZX81-Tokenize@0.005
 ZZZ::SDK                           v0.0.1  pkg:cpan/ZZZ-SDK@0.0.1
 Zabbix2::API                       0.014  pkg:cpan/Zabbix2-API@0.014
