@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 18 Oct 2026 22:10:43 GMT
-Line-Count: 262002
+Last-Updated: Mon, 19 Oct 2026 02:45:20 GMT
+Line-Count: 262007
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -47647,6 +47647,7 @@ Cmd::Interpreter                   v0.3.3  pkg:cpan/Cmd-Interpreter@0.3.3
 CmdArguments                        1.00  pkg:cpan/CmdArguments@1.00
 Cmenu                               1.01  pkg:cpan/Cmenu@1.1?ext=tgz
 CmpDOM                             undef  pkg:cpan/XML-DOM@1.46
+Cn::Util                           0.022  pkg:cpan/Cn-Util@0.022
 Cnutt::Feed                          1.1  pkg:cpan/cnutt-feed@1.21
 Cnutt::Feed::Actions::Fetch          1.0  pkg:cpan/cnutt-feed@1.21
 Cnutt::Feed::Actions::Get            1.0  pkg:cpan/cnutt-feed@1.21
@@ -83426,14 +83427,14 @@ Geo::Coder::All::TomTom            undef  pkg:cpan/Geo-Coder-All@0.06
 Geo::Coder::ArcGIS                  0.01  pkg:cpan/Geo-Coder-ArcGIS@0.01
 Geo::Coder::Bing                    0.13  pkg:cpan/Geo-Coder-Bing@0.13
 Geo::Coder::Bing::Bulk              0.04  pkg:cpan/Geo-Coder-Bing-Bulk@0.04
-Geo::Coder::CA                      0.16  pkg:cpan/Geo-Coder-CA@0.16
+Geo::Coder::CA                      0.17  pkg:cpan/Geo-Coder-CA@0.17
 Geo::Coder::Cache                   0.07  pkg:cpan/Geo-Coder-Cache@0.07
 Geo::Coder::Canada                  0.01  pkg:cpan/Geo-Coder-Canada@0.01
 Geo::Coder::Canada::Error           0.01  pkg:cpan/Geo-Coder-Canada@0.01
 Geo::Coder::Canada::Response        0.01  pkg:cpan/Geo-Coder-Canada@0.01
 Geo::Coder::Cloudmade                0.7  pkg:cpan/Geo-Coder-Cloudmade@0.7
 Geo::Coder::DAMS                    0.01  pkg:cpan/Geo-Coder-DAMS@0.01
-Geo::Coder::DataScienceToolkit      0.03  pkg:cpan/Geo-Coder-DataScienceToolkit@0.03
+Geo::Coder::DataScienceToolkit      0.04  pkg:cpan/Geo-Coder-DataScienceToolkit@0.04
 Geo::Coder::Free                    0.47  pkg:cpan/Geo-Coder-Free@0.47
 Geo::Coder::Free::Allow             0.47  pkg:cpan/Geo-Coder-Free@0.47
 Geo::Coder::Free::Config            0.47  pkg:cpan/Geo-Coder-Free@0.47
@@ -83454,7 +83455,7 @@ Geo::Coder::Free::OpenAddresses     0.47  pkg:cpan/Geo-Coder-Free@0.47
 Geo::Coder::Free::Provenance        0.47  pkg:cpan/Geo-Coder-Free@0.47
 Geo::Coder::Free::Utils             0.47  pkg:cpan/Geo-Coder-Free@0.47
 Geo::Coder::Free::Validate          0.47  pkg:cpan/Geo-Coder-Free@0.47
-Geo::Coder::GeoApify                0.02  pkg:cpan/Geo-Coder-GeoApify@0.02
+Geo::Coder::GeoApify                0.03  pkg:cpan/Geo-Coder-GeoApify@0.03
 Geo::Coder::GeocodeFarm            0.0500  pkg:cpan/Geo-Coder-GeocodeFarm@0.0500
 Geo::Coder::Google                  0.20  pkg:cpan/Geo-Coder-Google@0.20
 Geo::Coder::Google::V2              0.20  pkg:cpan/Geo-Coder-Google@0.20
@@ -83901,7 +83902,7 @@ Geo::Location::IP::Role::Record::HasConfidence 0.005  pkg:cpan/Geo-Location-IP@0
 Geo::Location::IP::Role::Record::HasGeoNameId 0.005  pkg:cpan/Geo-Location-IP@0.005
 Geo::Location::IP::Role::Record::HasNames 0.005  pkg:cpan/Geo-Location-IP@0.005
 Geo::Location::Point                0.19  pkg:cpan/Geo-Location-Point@0.19
-Geo::Location::Predicate            0.01  pkg:cpan/Geo-Location-Predicate@0.01
+Geo::Location::Predicate            0.02  pkg:cpan/Geo-Location-Predicate@0.02
 Geo::Location::TimeZone              0.1  pkg:cpan/Geo-Location-TimeZone@0.1
 Geo::Location::TimeZone::A         undef  pkg:cpan/Geo-Location-TimeZone@0.1
 Geo::Location::TimeZone::B         undef  pkg:cpan/Geo-Location-TimeZone@0.1
@@ -124637,21 +124638,24 @@ Mail::Colander::Server::Util       0.004  pkg:cpan/Mail-Colander@0.004
 Mail::Colander::Session            0.004  pkg:cpan/Mail-Colander@0.004
 Mail::Convert::Mbox::ToEml          0.06  pkg:cpan/Mail-Convert-Mbox-ToEml@0.06
 Mail::DKIM                         1.20240923  pkg:cpan/Mail-DKIM@1.20240923
-Mail::DKIM2                         0.21  pkg:cpan/Mail-DKIM2@0.21
-Mail::DKIM2::Common                 0.21  pkg:cpan/Mail-DKIM2@0.21
-Mail::DKIM2::DSN                    0.21  pkg:cpan/Mail-DKIM2@0.21
-Mail::DKIM2::Gate                   0.21  pkg:cpan/Mail-DKIM2@0.21
-Mail::DKIM2::HeaderParser           0.21  pkg:cpan/Mail-DKIM2@0.21
-Mail::DKIM2::MessageInstance        0.21  pkg:cpan/Mail-DKIM2@0.21
-Mail::DKIM2::MessageStore           0.21  pkg:cpan/Mail-DKIM2@0.21
-Mail::DKIM2::Reflector              0.21  pkg:cpan/Mail-DKIM2@0.21
-Mail::DKIM2::Signature              0.21  pkg:cpan/Mail-DKIM2@0.21
-Mail::DKIM2::Signer                 0.21  pkg:cpan/Mail-DKIM2@0.21
-Mail::DKIM2::Split                  0.21  pkg:cpan/Mail-DKIM2@0.21
-Mail::DKIM2::TagValueList           0.21  pkg:cpan/Mail-DKIM2@0.21
-Mail::DKIM2::Validate               0.21  pkg:cpan/Mail-DKIM2@0.21
-Mail::DKIM2::Verifier               0.21  pkg:cpan/Mail-DKIM2@0.21
-Mail::DKIM2::Wrap                   0.21  pkg:cpan/Mail-DKIM2@0.21
+Mail::DKIM2                         0.22  pkg:cpan/Mail-DKIM2@0.22
+Mail::DKIM2::BodyPlan               0.22  pkg:cpan/Mail-DKIM2@0.22
+Mail::DKIM2::Common                 0.22  pkg:cpan/Mail-DKIM2@0.22
+Mail::DKIM2::DSN                    0.22  pkg:cpan/Mail-DKIM2@0.22
+Mail::DKIM2::Digest                 0.22  pkg:cpan/Mail-DKIM2@0.22
+Mail::DKIM2::Gate                   0.22  pkg:cpan/Mail-DKIM2@0.22
+Mail::DKIM2::HeaderParser           0.22  pkg:cpan/Mail-DKIM2@0.22
+Mail::DKIM2::HeaderPlan             0.22  pkg:cpan/Mail-DKIM2@0.22
+Mail::DKIM2::MessageInstance        0.22  pkg:cpan/Mail-DKIM2@0.22
+Mail::DKIM2::MessageStore           0.22  pkg:cpan/Mail-DKIM2@0.22
+Mail::DKIM2::Reflector              0.22  pkg:cpan/Mail-DKIM2@0.22
+Mail::DKIM2::Signature              0.22  pkg:cpan/Mail-DKIM2@0.22
+Mail::DKIM2::Signer                 0.22  pkg:cpan/Mail-DKIM2@0.22
+Mail::DKIM2::Split                  0.22  pkg:cpan/Mail-DKIM2@0.22
+Mail::DKIM2::TagValueList           0.22  pkg:cpan/Mail-DKIM2@0.22
+Mail::DKIM2::Validate               0.22  pkg:cpan/Mail-DKIM2@0.22
+Mail::DKIM2::Verifier               0.22  pkg:cpan/Mail-DKIM2@0.22
+Mail::DKIM2::Wrap                   0.22  pkg:cpan/Mail-DKIM2@0.22
 Mail::DKIM::ARC::MessageSignature  1.20240923  pkg:cpan/Mail-DKIM@1.20240923
 Mail::DKIM::ARC::Seal              1.20240923  pkg:cpan/Mail-DKIM@1.20240923
 Mail::DKIM::ARC::Signer            1.20240923  pkg:cpan/Mail-DKIM@1.20240923
@@ -125100,8 +125104,8 @@ Mail::Milter::Authentication::Handler::BIMI 4.20261001  pkg:cpan/Mail-Milter-Aut
 Mail::Milter::Authentication::Handler::Blocker 4.20261001  pkg:cpan/Mail-Milter-Authentication@4.20261001
 Mail::Milter::Authentication::Handler::ClamAV 2.20180611  pkg:cpan/Mail-Milter-Authentication-Extra@2.20180611
 Mail::Milter::Authentication::Handler::DKIM 4.20261001  pkg:cpan/Mail-Milter-Authentication@4.20261001
-Mail::Milter::Authentication::Handler::DKIM2Sign  0.21  pkg:cpan/Mail-DKIM2@0.21
-Mail::Milter::Authentication::Handler::DKIM2Verify  0.21  pkg:cpan/Mail-DKIM2@0.21
+Mail::Milter::Authentication::Handler::DKIM2Sign  0.22  pkg:cpan/Mail-DKIM2@0.22
+Mail::Milter::Authentication::Handler::DKIM2Verify  0.22  pkg:cpan/Mail-DKIM2@0.22
 Mail::Milter::Authentication::Handler::DMARC 4.20261001  pkg:cpan/Mail-Milter-Authentication@4.20261001
 Mail::Milter::Authentication::Handler::IPRev 4.20261001  pkg:cpan/Mail-Milter-Authentication@4.20261001
 Mail::Milter::Authentication::Handler::LocalIP 4.20261001  pkg:cpan/Mail-Milter-Authentication@4.20261001
@@ -140803,12 +140807,13 @@ Net::Async::Kubernetes             0.009  pkg:cpan/Net-Async-Kubernetes@0.009
 Net::Async::Kubernetes::Controller 0.009  pkg:cpan/Net-Async-Kubernetes@0.009
 Net::Async::Kubernetes::PortForwardSession 0.009  pkg:cpan/Net-Async-Kubernetes@0.009
 Net::Async::Kubernetes::Watcher    0.009  pkg:cpan/Net-Async-Kubernetes@0.009
-Net::Async::MCP                    0.004  pkg:cpan/Net-Async-MCP@0.004
-Net::Async::MCP::Server            0.001  pkg:cpan/Net-Async-MCP-Server@0.001
-Net::Async::MCP::Server::Transport::Stdio 0.001  pkg:cpan/Net-Async-MCP-Server@0.001
-Net::Async::MCP::Transport::HTTP   0.004  pkg:cpan/Net-Async-MCP@0.004
-Net::Async::MCP::Transport::InProcess 0.004  pkg:cpan/Net-Async-MCP@0.004
-Net::Async::MCP::Transport::Stdio  0.004  pkg:cpan/Net-Async-MCP@0.004
+Net::Async::MCP                    0.006  pkg:cpan/Net-Async-MCP@0.006
+Net::Async::MCP::Server            0.003  pkg:cpan/Net-Async-MCP-Server@0.003
+Net::Async::MCP::Server::Transport::Stdio 0.003  pkg:cpan/Net-Async-MCP-Server@0.003
+Net::Async::MCP::Server::Transport::StreamableHTTP 0.003  pkg:cpan/Net-Async-MCP-Server@0.003
+Net::Async::MCP::Transport::HTTP   0.006  pkg:cpan/Net-Async-MCP@0.006
+Net::Async::MCP::Transport::InProcess 0.006  pkg:cpan/Net-Async-MCP@0.006
+Net::Async::MCP::Transport::Stdio  0.006  pkg:cpan/Net-Async-MCP@0.006
 Net::Async::MPD                    0.005  pkg:cpan/Net-Async-MPD@0.005
 Net::Async::Matrix                  0.19  pkg:cpan/Net-Async-Matrix@0.19
 Net::Async::Matrix::Room            0.19  pkg:cpan/Net-Async-Matrix@0.19
@@ -228262,7 +228267,7 @@ Text::FixedLength                   0.12  pkg:cpan/Text-FixedLength@0.12
 Text::FixedLength::Extra             1.1  pkg:cpan/Text-FixedLength-Extra@1.1
 Text::FixedLengthMultiline         0.071  pkg:cpan/Text-FixedLengthMultiline@0.071
 Text::FixedWidth                    0.13  pkg:cpan/Text-FixedWidth@0.13
-Text::FixedWidth::Helper            0.02  pkg:cpan/Text-FixedWidth-Helper@0.02
+Text::FixedWidth::Helper            0.03  pkg:cpan/Text-FixedWidth-Helper@0.03
 Text::FixedWidth::Parser             0.6  pkg:cpan/Text-FixedWidth-Parser@0.6
 Text::Flow                          0.01  pkg:cpan/Text-Flow@0.01
 Text::Flow::Wrap                    0.01  pkg:cpan/Text-Flow@0.01
