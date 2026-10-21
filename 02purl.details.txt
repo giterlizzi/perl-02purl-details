@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 21 Oct 2026 09:01:34 GMT
+Last-Updated: Wed, 21 Oct 2026 14:47:15 GMT
 Line-Count: 262117
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -1445,18 +1445,18 @@ AWS::CloudFront::Logging           undef  pkg:cpan/AWS-CloudFront@0.003
 AWS::CloudFront::Request::DistributionRequest undef  pkg:cpan/AWS-CloudFront@0.003
 AWS::CloudFront::S3Origin          undef  pkg:cpan/AWS-CloudFront@0.003
 AWS::IP                             0.04  pkg:cpan/AWS-IP@0.04
-AWS::Lambda                        v0.11.0  pkg:cpan/AWS-Lambda@0.11.0
-AWS::Lambda::AL                    v0.11.0  pkg:cpan/AWS-Lambda@0.11.0
-AWS::Lambda::AL2                   v0.11.0  pkg:cpan/AWS-Lambda@0.11.0
-AWS::Lambda::AL2023                v0.11.0  pkg:cpan/AWS-Lambda@0.11.0
-AWS::Lambda::Bootstrap             undef  pkg:cpan/AWS-Lambda@0.11.0
-AWS::Lambda::Context               undef  pkg:cpan/AWS-Lambda@0.11.0
-AWS::Lambda::PSGI                  undef  pkg:cpan/AWS-Lambda@0.11.0
+AWS::Lambda                        v0.11.1  pkg:cpan/AWS-Lambda@0.11.1
+AWS::Lambda::AL                    v0.11.1  pkg:cpan/AWS-Lambda@0.11.1
+AWS::Lambda::AL2                   v0.11.1  pkg:cpan/AWS-Lambda@0.11.1
+AWS::Lambda::AL2023                v0.11.1  pkg:cpan/AWS-Lambda@0.11.1
+AWS::Lambda::Bootstrap             undef  pkg:cpan/AWS-Lambda@0.11.1
+AWS::Lambda::Context               undef  pkg:cpan/AWS-Lambda@0.11.1
+AWS::Lambda::PSGI                  undef  pkg:cpan/AWS-Lambda@0.11.1
 AWS::Lambda::Quick                 1.0002  pkg:cpan/AWS-Lambda-Quick@1.0002
 AWS::Lambda::Quick::CreateZip      1.0002  pkg:cpan/AWS-Lambda-Quick@1.0002
 AWS::Lambda::Quick::Processor      1.0002  pkg:cpan/AWS-Lambda-Quick@1.0002
 AWS::Lambda::Quick::Upload         1.0002  pkg:cpan/AWS-Lambda-Quick@1.0002
-AWS::Lambda::ResponseWriter        undef  pkg:cpan/AWS-Lambda@0.11.0
+AWS::Lambda::ResponseWriter        undef  pkg:cpan/AWS-Lambda@0.11.1
 AWS::Networks                       0.01  pkg:cpan/AWS-Networks@0.01
 AWS::S3                             2.00  pkg:cpan/AWS-S3@2.00
 AWS::S3::Bucket                    undef  pkg:cpan/AWS-S3@2.00
@@ -58779,7 +58779,7 @@ Data::Cube                          0.02  pkg:cpan/Data-Cube@0.02
 Data::CuckooFilter::Shared          0.07  pkg:cpan/Data-CuckooFilter-Shared@0.07
 Data::Cuid                          0.07  pkg:cpan/Data-Cuid@0.07
 Data::Currency                     0.06000  pkg:cpan/Data-Currency@0.06000
-Data::DDSketch::Shared              0.04  pkg:cpan/Data-DDSketch-Shared@0.04
+Data::DDSketch::Shared              0.05  pkg:cpan/Data-DDSketch-Shared@0.05
 Data::DEC                           0.03  pkg:cpan/Data-DEC@0.03
 Data::DEC::Declaration             undef  pkg:cpan/Data-DEC@0.03
 Data::DFA                          20201031  pkg:cpan/Data-DFA@20201031
@@ -58830,7 +58830,7 @@ Data::Define                        1.03  pkg:cpan/Data-Define@1.03
 Data::Delete                        0.07  pkg:cpan/Data-Skeleton@0.07
 Data::Demos                        0.000002  pkg:cpan/Data-Demos@0.0.2
 Data::Denter                        0.15  pkg:cpan/Data-Denter@0.15
-Data::Deque::Shared                 0.11  pkg:cpan/Data-Deque-Shared@0.11
+Data::Deque::Shared                 0.12  pkg:cpan/Data-Deque-Shared@0.12
 Data::Describe                      1.03  pkg:cpan/Data-Describe@1.03
 Data::Dict                         0.003  pkg:cpan/Data-Dict@0.003
 Data::Diff                          0.01  pkg:cpan/Data-Diff@0.01
@@ -58843,7 +58843,7 @@ Data::Dimensions                    0.05  pkg:cpan/Data-Dimensions@0.05
 Data::Dimensions::Map              undef  pkg:cpan/Data-Dimensions@0.05
 Data::Dimensions::SickTie          undef  pkg:cpan/Data-Dimensions@0.05
 Data::Direct                        0.05  pkg:cpan/Data-Direct@0.05
-Data::DisjointSet::Shared           0.06  pkg:cpan/Data-DisjointSet-Shared@0.06
+Data::DisjointSet::Shared           0.07  pkg:cpan/Data-DisjointSet-Shared@0.07
 Data::Display                       0.02  pkg:cpan/Data-Display@0.02
 Data::Displaycolour                v0.8.0  pkg:cpan/Data-Displaycolour@v0.08
 Data::Displaycolour::Data          v0.8.0  pkg:cpan/Data-Displaycolour@v0.08
@@ -59086,8 +59086,8 @@ Data::Feed::Web::Content           undef  pkg:cpan/Data-Feed@0.00015
 Data::Feed::Web::Enclosure         undef  pkg:cpan/Data-Feed@0.00015
 Data::Feed::Web::Entry             undef  pkg:cpan/Data-Feed@0.00015
 Data::Feed::Web::Feed              undef  pkg:cpan/Data-Feed@0.00015
-Data::Fenwick2D::Shared             0.04  pkg:cpan/Data-Fenwick2D-Shared@0.04
-Data::Fenwick::Shared               0.05  pkg:cpan/Data-Fenwick-Shared@0.05
+Data::Fenwick2D::Shared             0.05  pkg:cpan/Data-Fenwick2D-Shared@0.05
+Data::Fenwick::Shared               0.06  pkg:cpan/Data-Fenwick-Shared@0.06
 Data::Fetch                         0.07  pkg:cpan/Data-Fetch@0.07
 Data::FetchPath                     0.02  pkg:cpan/Data-FetchPath@0.02
 Data::File::Map                     0.09  pkg:cpan/Data-File-Map@0.09
@@ -59216,7 +59216,7 @@ Data::Gimei::Random                undef  pkg:cpan/Data-Gimei@v0.5.0
 Data::Gimei::Word                  undef  pkg:cpan/Data-Gimei@v0.5.0
 Data::Google::Visualization::DataSource  0.01  pkg:cpan/Data-Google-Visualization-DataSource@0.01
 Data::Google::Visualization::DataTable  0.11  pkg:cpan/Data-Google-Visualization-DataTable@0.11
-Data::Graph::Shared                 0.08  pkg:cpan/Data-Graph-Shared@0.08
+Data::Graph::Shared                 0.09  pkg:cpan/Data-Graph-Shared@0.09
 Data::Graph::Util                  0.007  pkg:cpan/Data-Graph-Util@0.007
 Data::Grid                          0.07  pkg:cpan/Data-Grid@0.07
 Data::Grid::CSV                     0.07  pkg:cpan/Data-Grid@0.07
@@ -59304,7 +59304,7 @@ Data::HashMap::Shared::SI32         0.23  pkg:cpan/Data-HashMap-Shared@0.23
 Data::HashMap::Shared::SS           0.23  pkg:cpan/Data-HashMap-Shared@0.23
 Data::HashType                      0.07  pkg:cpan/Data-HashType@0.07
 Data::Header::Fields                0.05  pkg:cpan/Data-Header-Fields@0.05
-Data::Heap::Shared                  0.10  pkg:cpan/Data-Heap-Shared@0.10
+Data::Heap::Shared                  0.11  pkg:cpan/Data-Heap-Shared@0.11
 Data::HexConverter                  0.65  pkg:cpan/Data-HexConverter@0.65
 Data::HexDump                       0.04  pkg:cpan/Data-HexDump@0.04
 Data::HexDump::Range                0.13  pkg:cpan/Data-HexDump-Range@0.13.72
@@ -70761,19 +70761,19 @@ EV::Telegram::TDLib::WebApps        0.04  pkg:cpan/EV-Telegram-TDLib@0.04
 EV::Timer                          undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Watcher                        undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Watcher::Bind                  0.00001  pkg:cpan/EV-Watcher-Bind@0.00001
-EV::WebKit                          0.04  pkg:cpan/EV-WebKit@0.04
-EV::WebKit::Auth                    0.04  pkg:cpan/EV-WebKit@0.04
-EV::WebKit::Client                  0.04  pkg:cpan/EV-WebKit@0.04
-EV::WebKit::Client::Element         0.04  pkg:cpan/EV-WebKit@0.04
-EV::WebKit::Control                 0.04  pkg:cpan/EV-WebKit@0.04
-EV::WebKit::Dialog                  0.04  pkg:cpan/EV-WebKit@0.04
-EV::WebKit::Download                0.04  pkg:cpan/EV-WebKit@0.04
-EV::WebKit::Element                 0.04  pkg:cpan/EV-WebKit@0.04
-EV::WebKit::FileChooser             0.04  pkg:cpan/EV-WebKit@0.04
-EV::WebKit::Fingerprint             0.04  pkg:cpan/EV-WebKit@0.04
-EV::WebKit::Policy                  0.04  pkg:cpan/EV-WebKit@0.04
-EV::WebKit::Protocol                0.04  pkg:cpan/EV-WebKit@0.04
-EV::WebKit::UserContent             0.04  pkg:cpan/EV-WebKit@0.04
+EV::WebKit                          0.05  pkg:cpan/EV-WebKit@0.05
+EV::WebKit::Auth                    0.05  pkg:cpan/EV-WebKit@0.05
+EV::WebKit::Client                  0.05  pkg:cpan/EV-WebKit@0.05
+EV::WebKit::Client::Element         0.05  pkg:cpan/EV-WebKit@0.05
+EV::WebKit::Control                 0.05  pkg:cpan/EV-WebKit@0.05
+EV::WebKit::Dialog                  0.05  pkg:cpan/EV-WebKit@0.05
+EV::WebKit::Download                0.05  pkg:cpan/EV-WebKit@0.05
+EV::WebKit::Element                 0.05  pkg:cpan/EV-WebKit@0.05
+EV::WebKit::FileChooser             0.05  pkg:cpan/EV-WebKit@0.05
+EV::WebKit::Fingerprint             0.05  pkg:cpan/EV-WebKit@0.05
+EV::WebKit::Policy                  0.05  pkg:cpan/EV-WebKit@0.05
+EV::WebKit::Protocol                0.05  pkg:cpan/EV-WebKit@0.05
+EV::WebKit::UserContent             0.05  pkg:cpan/EV-WebKit@0.05
 EV::Websockets                      0.10  pkg:cpan/EV-Websockets@0.10
 EV::Websockets::Connection          0.05  pkg:cpan/EV-Websockets@0.05
 EV::Websockets::Context             0.05  pkg:cpan/EV-Websockets@0.05
@@ -212698,19 +212698,19 @@ Sepia::Xref                         0.65  pkg:cpan/Sepia@0.992
 Seq::Iter                          0.001  pkg:cpan/Seq-Iter@0.001
 SeqDiff                            undef  pkg:cpan/SeqDiff@v0.1
 Ser::BinRPC                         0.01  pkg:cpan/Ser-BinRPC@0.01
-Sereal                             5.010  pkg:cpan/Sereal@5.010
+Sereal                             5.011  pkg:cpan/Sereal@5.011
 Sereal::Dclone                     0.003  pkg:cpan/Sereal-Dclone@0.003
-Sereal::Decoder                    5.010  pkg:cpan/Sereal-Decoder@5.010
-Sereal::Decoder::Constants         5.010  pkg:cpan/Sereal-Decoder@5.010
-Sereal::Encoder                    5.010  pkg:cpan/Sereal-Encoder@5.010
-Sereal::Encoder::Constants         5.010  pkg:cpan/Sereal-Encoder@5.010
+Sereal::Decoder                    5.011  pkg:cpan/Sereal-Decoder@5.011
+Sereal::Decoder::Constants         5.011  pkg:cpan/Sereal-Decoder@5.011
+Sereal::Encoder                    5.011  pkg:cpan/Sereal-Encoder@5.011
+Sereal::Encoder::Constants         5.011  pkg:cpan/Sereal-Encoder@5.011
 Sereal::Merger                     0.001  pkg:cpan/Sereal-Merger@0.001
 Sereal::Merger::Constants          0.001  pkg:cpan/Sereal-Merger@0.001
 Sereal::Path                       4.004  pkg:cpan/Sereal-Path@4.004
 Sereal::Path::Constants            4.004  pkg:cpan/Sereal-Path@4.004
 Sereal::Path::Iterator             4.004  pkg:cpan/Sereal-Path@4.004
 Sereal::Path::Tie                  4.004  pkg:cpan/Sereal-Path@4.004
-Sereal::Performance                undef  pkg:cpan/Sereal-Decoder@5.010
+Sereal::Performance                undef  pkg:cpan/Sereal-Decoder@5.011
 Sereal::Splitter                   0.840  pkg:cpan/Sereal-Splitter@0.840
 Sereal::Splitter::Constants        0.830  pkg:cpan/Sereal-Splitter@0.840
 SerealX::Store                     0.003  pkg:cpan/SerealX-Store@0.003
@@ -218693,9 +218693,9 @@ Stats::Fermi::FermiDiracStats      undef  pkg:cpan/Stats-Fermi@0.1.7
 Stats::Hawking                     0.001003  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HTRandom           undef  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HawkingTemperature undef  pkg:cpan/Stats-Hawking@0.1.3
-Stats::LikeR                        0.33  pkg:cpan/Stats-LikeR@0.33
+Stats::LikeR                       0.331  pkg:cpan/Stats-LikeR@0.331
 Stats::LikeR::Pred                  0.16  pkg:cpan/Stats-LikeR@0.16
-Stats::LikeR::Usage                 0.33  pkg:cpan/Stats-LikeR@0.33
+Stats::LikeR::Usage                0.331  pkg:cpan/Stats-LikeR@0.331
 Stats::LikeR::col                   0.28  pkg:cpan/Stats-LikeR@0.28
 StatsView::Graph                    1.15  pkg:cpan/StatsView@1.4
 StatsView::Graph::Iost             undef  pkg:cpan/StatsView@1.4
@@ -221249,7 +221249,7 @@ TAP::Formatter::TextMate             0.1  pkg:cpan/TAP-Formatter-TextMate@0.1
 TAP::Formatter::TextMate::Session    0.1  pkg:cpan/TAP-Formatter-TextMate@0.1
 TAP::Harness                        3.52  pkg:cpan/Test-Harness@3.52
 TAP::Harness::Archive               0.18  pkg:cpan/TAP-Harness-Archive@0.18
-TAP::Harness::Archive::MultipleHarnesses  0.06  pkg:cpan/TAP-Harness-Multiple@0.07
+TAP::Harness::Archive::MultipleHarnesses  0.08  pkg:cpan/TAP-Harness-Multiple@0.08
 TAP::Harness::Async                0.001  pkg:cpan/TAP-Harness-Async@0.001
 TAP::Harness::BailOnFail            0.02  pkg:cpan/TAP-Harness-BailOnFail@0.02
 TAP::Harness::Env                   3.52  pkg:cpan/Test-Harness@3.52
@@ -221260,7 +221260,7 @@ TAP::Harness::Metrics              0.000004  pkg:cpan/App-Prove-Plugin-Metrics@0
 TAP::Harness::MultipleConfig       undef  pkg:cpan/App-Prove-Plugin-MultipleConfig@0.02
 TAP::Harness::Remote                1.10  pkg:cpan/TAP-Harness-Remote@1.10
 TAP::Harness::Remote::EC2           1.00  pkg:cpan/TAP-Harness-Remote-EC2@1.00
-TAP::Harness::ReportByDescription   0.06  pkg:cpan/TAP-Harness-Multiple@0.07
+TAP::Harness::ReportByDescription   0.08  pkg:cpan/TAP-Harness-Multiple@0.08
 TAP::Harness::Restricted           0.004  pkg:cpan/TAP-Harness-Restricted@0.004
 TAP::Object                         3.52  pkg:cpan/Test-Harness@3.52
 TAP::Parser                         3.52  pkg:cpan/Test-Harness@3.52
