@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 23 Oct 2026 02:52:07 GMT
+Last-Updated: Fri, 23 Oct 2026 08:58:46 GMT
 Line-Count: 262387
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -24518,7 +24518,7 @@ Bigtop::ScriptHelp::Style::Pg8Live undef  pkg:cpan/Bigtop@0.38
 Bigtop::TentMaker                  undef  pkg:cpan/Bigtop@0.38
 Bigtop::TentMakerPath              undef  pkg:cpan/Bigtop@0.38
 Bijection                           1.03  pkg:cpan/Bijection@1.03
-Bijection::XS                       0.10  pkg:cpan/Bijection-XS@0.10
+Bijection::XS                       0.11  pkg:cpan/Bijection-XS@0.11
 BikePower                           0.33  pkg:cpan/BikePower@0.33
 BikePower::HTML                     0.02  pkg:cpan/BikePower@0.33
 BikePower::Tk                       0.04  pkg:cpan/BikePower@0.33
@@ -59953,7 +59953,7 @@ Data::Library::ManyPerFile           0.2  pkg:cpan/Data-Library@0.2
 Data::Library::OnePerFile            0.2  pkg:cpan/Data-Library@0.2
 Data::LineBuffer                    0.01  pkg:cpan/Data-LineBuffer@0.01
 Data::LnArray                       0.06  pkg:cpan/Data-LnArray@0.06
-Data::LnArray::XS                   0.11  pkg:cpan/Data-LnArray-XS@0.11
+Data::LnArray::XS                   0.12  pkg:cpan/Data-LnArray-XS@0.12
 Data::Localize                     0.00028  pkg:cpan/Data-Localize@0.00028
 Data::Localize::Auto               undef  pkg:cpan/Data-Localize@0.00028
 Data::Localize::Format             undef  pkg:cpan/Data-Localize@0.00028
@@ -120952,12 +120952,12 @@ Locale::Tie                         0.03  pkg:cpan/Locale-Tie@0.03
 Locale::Tie::SCALAR                 0.03  pkg:cpan/Locale-Tie@0.03
 Locale::US                          3.04  pkg:cpan/Locale-US@3.04
 Locale::US::CensusDivisions        1.001000  pkg:cpan/Locale-US-CensusDivisions@1.1.0
-Locale::Unicode                    0.004005  pkg:cpan/Locale-Unicode@v0.4.5
-Locale::Unicode::Boolean           0.004005  pkg:cpan/Locale-Unicode@v0.4.5
+Locale::Unicode                    0.004006  pkg:cpan/Locale-Unicode@v0.4.6
+Locale::Unicode::Boolean           0.004006  pkg:cpan/Locale-Unicode@v0.4.6
 Locale::Unicode::Data              1.009000  pkg:cpan/Locale-Unicode-Data@v1.9.0
 Locale::Unicode::Data::Boolean     1.009000  pkg:cpan/Locale-Unicode-Data@v1.9.0
 Locale::Unicode::Data::Exception   1.009000  pkg:cpan/Locale-Unicode-Data@v1.9.0
-Locale::Unicode::Exception         0.004005  pkg:cpan/Locale-Unicode@v0.4.5
+Locale::Unicode::Exception         0.004006  pkg:cpan/Locale-Unicode@v0.4.6
 Locale::Util                       undef  pkg:cpan/libintl-perl@1.37
 Locale::Utils::Autotranslator      1.016  pkg:cpan/Locale-Utils-Autotranslator@1.016
 Locale::Utils::Autotranslator::ApiMymemoryTranslatedNet 1.010  pkg:cpan/Locale-Utils-Autotranslator@1.016
@@ -127293,7 +127293,7 @@ Math::BaseCnv                       1.14  pkg:cpan/Math-BaseCnv@1.14?ext=tgz
 Math::BaseConvert                    1.8  pkg:cpan/Math-BaseConvert@1.8
 Math::BaseMulti                     1.01  pkg:cpan/Math-BaseMulti@1.01
 Math::Basic                         1.01  pkg:cpan/Math-Basic@1.01
-Math::Basic::XS                     0.05  pkg:cpan/Math-Basic-XS@0.05
+Math::Basic::XS                     0.06  pkg:cpan/Math-Basic-XS@0.06
 Math::Bezier                        0.01  pkg:cpan/Math-Bezier@0.01
 Math::Bezier::Convert               0.02  pkg:cpan/Math-Bezier-Convert@0.02
 Math::Big                           1.16  pkg:cpan/Math-Big@1.16
