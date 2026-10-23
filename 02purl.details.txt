@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 23 Oct 2026 08:58:46 GMT
-Line-Count: 262387
+Last-Updated: Fri, 23 Oct 2026 14:34:06 GMT
+Line-Count: 262391
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -51376,7 +51376,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.1  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::NotNode  v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::OrNode   v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.168
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.169
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curl::Impersonate                   0.03  pkg:cpan/Curl-Impersonate@0.03
 Curl::Impersonate::Multi           undef  pkg:cpan/Curl-Impersonate@0.03
@@ -63283,13 +63283,17 @@ Database::Async::SQLite            0.001  pkg:cpan/Database-Async-SQLite@0.001
 Database::Async::StatementHandle   0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Test              0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Transaction       0.019  pkg:cpan/Database-Async@0.019
-Database::BI                       0.015  pkg:cpan/Database-BI@0.015.0
-Database::BI::Calc                 0.015  pkg:cpan/Database-BI@0.015.0
-Database::BI::Controller::Dashboard 0.015  pkg:cpan/Database-BI@0.015.0
-Database::BI::Extract              0.015  pkg:cpan/Database-BI@0.015.0
-Database::BI::Model::DataSource    0.015  pkg:cpan/Database-BI@0.015.0
-Database::BI::Model::Geocode       0.015  pkg:cpan/Database-BI@0.015.0
-Database::BI::Tutorial             0.015  pkg:cpan/Database-BI@0.015.0
+Database::BI                       0.016  pkg:cpan/Database-BI@0.016.0
+Database::BI::Ask                  0.016  pkg:cpan/Database-BI@0.016.0
+Database::BI::Calc                 0.016  pkg:cpan/Database-BI@0.016.0
+Database::BI::Controller::Dashboard 0.016  pkg:cpan/Database-BI@0.016.0
+Database::BI::Extract              0.016  pkg:cpan/Database-BI@0.016.0
+Database::BI::Insights             0.016  pkg:cpan/Database-BI@0.016.0
+Database::BI::Model::DataSource    0.016  pkg:cpan/Database-BI@0.016.0
+Database::BI::Model::Geocode       0.016  pkg:cpan/Database-BI@0.016.0
+Database::BI::Summary              0.016  pkg:cpan/Database-BI@0.016.0
+Database::BI::Tutorial             0.016  pkg:cpan/Database-BI@0.016.0
+Database::BI::Util                 0.016  pkg:cpan/Database-BI@0.016.0
 Database::Cassandra::Client            1  pkg:cpan/Database-Cassandra-Client@1
 Database::DumpTruck                  1.2  pkg:cpan/Database-DumpTruck@1.2
 Database::Format::Text              1.03  pkg:cpan/Database-Format-Text@1.03
@@ -78050,28 +78054,28 @@ Forest::Tree::Writer::ASCIIWithBranches  0.10  pkg:cpan/Forest@0.10
 Forest::Tree::Writer::SimpleASCII   0.10  pkg:cpan/Forest@0.10
 Forest::Tree::Writer::SimpleHTML    0.10  pkg:cpan/Forest@0.10
 Forex                                1.3  pkg:cpan/Forex@1.3
-ForgeOps::Tracker                  0.016000  pkg:cpan/ForgeOps-Tracker@0.16.0
-ForgeOps::Tracker::ChangeDelivery  undef  pkg:cpan/ForgeOps-Tracker@0.16.0
-ForgeOps::Tracker::Changes         undef  pkg:cpan/ForgeOps-Tracker@0.16.0
-ForgeOps::Tracker::Client          undef  pkg:cpan/ForgeOps-Tracker@0.16.0
-ForgeOps::Tracker::Configuration   undef  pkg:cpan/ForgeOps-Tracker@0.16.0
-ForgeOps::Tracker::DeliveryQueue   undef  pkg:cpan/ForgeOps-Tracker@0.16.0
-ForgeOps::Tracker::DeliveryStatus  undef  pkg:cpan/ForgeOps-Tracker@0.16.0
-ForgeOps::Tracker::EventBuilder    undef  pkg:cpan/ForgeOps-Tracker@0.16.0
-ForgeOps::Tracker::HistogramBucketer undef  pkg:cpan/ForgeOps-Tracker@0.16.0
-ForgeOps::Tracker::Integrations::Dancer2 undef  pkg:cpan/ForgeOps-Tracker@0.16.0
-ForgeOps::Tracker::Integrations::Dancer2Performance undef  pkg:cpan/ForgeOps-Tracker@0.16.0
-ForgeOps::Tracker::Integrations::PSGI undef  pkg:cpan/ForgeOps-Tracker@0.16.0
-ForgeOps::Tracker::Integrations::PSGIPerformance undef  pkg:cpan/ForgeOps-Tracker@0.16.0
-ForgeOps::Tracker::MetricBuffer    undef  pkg:cpan/ForgeOps-Tracker@0.16.0
-ForgeOps::Tracker::PerformanceFlusher undef  pkg:cpan/ForgeOps-Tracker@0.16.0
-ForgeOps::Tracker::PiiScrubber     undef  pkg:cpan/ForgeOps-Tracker@0.16.0
-ForgeOps::Tracker::Reporter        undef  pkg:cpan/ForgeOps-Tracker@0.16.0
-ForgeOps::Tracker::SpanBuffer      undef  pkg:cpan/ForgeOps-Tracker@0.16.0
-ForgeOps::Tracker::SpanDelivery    undef  pkg:cpan/ForgeOps-Tracker@0.16.0
-ForgeOps::Tracker::SqlStatement    undef  pkg:cpan/ForgeOps-Tracker@0.16.0
-ForgeOps::Tracker::StrictPrivacy   undef  pkg:cpan/ForgeOps-Tracker@0.16.0
-ForgeOps::Tracker::TraceParent     undef  pkg:cpan/ForgeOps-Tracker@0.16.0
+ForgeOps::Tracker                  0.017000  pkg:cpan/ForgeOps-Tracker@0.17.0
+ForgeOps::Tracker::ChangeDelivery  undef  pkg:cpan/ForgeOps-Tracker@0.17.0
+ForgeOps::Tracker::Changes         undef  pkg:cpan/ForgeOps-Tracker@0.17.0
+ForgeOps::Tracker::Client          undef  pkg:cpan/ForgeOps-Tracker@0.17.0
+ForgeOps::Tracker::Configuration   undef  pkg:cpan/ForgeOps-Tracker@0.17.0
+ForgeOps::Tracker::DeliveryQueue   undef  pkg:cpan/ForgeOps-Tracker@0.17.0
+ForgeOps::Tracker::DeliveryStatus  undef  pkg:cpan/ForgeOps-Tracker@0.17.0
+ForgeOps::Tracker::EventBuilder    undef  pkg:cpan/ForgeOps-Tracker@0.17.0
+ForgeOps::Tracker::HistogramBucketer undef  pkg:cpan/ForgeOps-Tracker@0.17.0
+ForgeOps::Tracker::Integrations::Dancer2 undef  pkg:cpan/ForgeOps-Tracker@0.17.0
+ForgeOps::Tracker::Integrations::Dancer2Performance undef  pkg:cpan/ForgeOps-Tracker@0.17.0
+ForgeOps::Tracker::Integrations::PSGI undef  pkg:cpan/ForgeOps-Tracker@0.17.0
+ForgeOps::Tracker::Integrations::PSGIPerformance undef  pkg:cpan/ForgeOps-Tracker@0.17.0
+ForgeOps::Tracker::MetricBuffer    undef  pkg:cpan/ForgeOps-Tracker@0.17.0
+ForgeOps::Tracker::PerformanceFlusher undef  pkg:cpan/ForgeOps-Tracker@0.17.0
+ForgeOps::Tracker::PiiScrubber     undef  pkg:cpan/ForgeOps-Tracker@0.17.0
+ForgeOps::Tracker::Reporter        undef  pkg:cpan/ForgeOps-Tracker@0.17.0
+ForgeOps::Tracker::SpanBuffer      undef  pkg:cpan/ForgeOps-Tracker@0.17.0
+ForgeOps::Tracker::SpanDelivery    undef  pkg:cpan/ForgeOps-Tracker@0.17.0
+ForgeOps::Tracker::SqlStatement    undef  pkg:cpan/ForgeOps-Tracker@0.17.0
+ForgeOps::Tracker::StrictPrivacy   undef  pkg:cpan/ForgeOps-Tracker@0.17.0
+ForgeOps::Tracker::TraceParent     undef  pkg:cpan/ForgeOps-Tracker@0.17.0
 Fork::Promise                      v0.1.0  pkg:cpan/Fork-Promise@0.1.0
 Fork::Utils                         0.07  pkg:cpan/Fork-Utils@0.08
 Forks::Queue                        0.15  pkg:cpan/Forks-Queue@0.15
@@ -102192,27 +102196,27 @@ HTTP::Handy                         1.07  pkg:cpan/HTTP-Handy@1.07
 HTTP::Handy::Input                  1.07  pkg:cpan/HTTP-Handy@1.07
 HTTP::HeaderParser::XS              0.20  pkg:cpan/HTTP-HeaderParser-XS@0.20
 HTTP::Headers                       7.04  pkg:cpan/HTTP-Message@7.04
-HTTP::Headers::ActionPack           0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
-HTTP::Headers::ActionPack::AcceptCharset  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
-HTTP::Headers::ActionPack::AcceptLanguage  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
-HTTP::Headers::ActionPack::AuthenticationInfo  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
-HTTP::Headers::ActionPack::Authorization  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
-HTTP::Headers::ActionPack::Authorization::Basic  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
-HTTP::Headers::ActionPack::Authorization::Digest  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
-HTTP::Headers::ActionPack::ContentNegotiation  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
-HTTP::Headers::ActionPack::Core::Base  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
-HTTP::Headers::ActionPack::Core::BaseAuthHeader  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
-HTTP::Headers::ActionPack::Core::BaseHeaderList  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
-HTTP::Headers::ActionPack::Core::BaseHeaderType  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
-HTTP::Headers::ActionPack::Core::BaseHeaderWithParams  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
-HTTP::Headers::ActionPack::DateHeader  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
-HTTP::Headers::ActionPack::LinkHeader  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
-HTTP::Headers::ActionPack::LinkList  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
-HTTP::Headers::ActionPack::MediaType  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
-HTTP::Headers::ActionPack::MediaTypeList  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
-HTTP::Headers::ActionPack::PriorityList  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
-HTTP::Headers::ActionPack::Util     0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
-HTTP::Headers::ActionPack::WWWAuthenticate  0.09  pkg:cpan/HTTP-Headers-ActionPack@0.09
+HTTP::Headers::ActionPack           0.10  pkg:cpan/HTTP-Headers-ActionPack@0.10
+HTTP::Headers::ActionPack::AcceptCharset  0.10  pkg:cpan/HTTP-Headers-ActionPack@0.10
+HTTP::Headers::ActionPack::AcceptLanguage  0.10  pkg:cpan/HTTP-Headers-ActionPack@0.10
+HTTP::Headers::ActionPack::AuthenticationInfo  0.10  pkg:cpan/HTTP-Headers-ActionPack@0.10
+HTTP::Headers::ActionPack::Authorization  0.10  pkg:cpan/HTTP-Headers-ActionPack@0.10
+HTTP::Headers::ActionPack::Authorization::Basic  0.10  pkg:cpan/HTTP-Headers-ActionPack@0.10
+HTTP::Headers::ActionPack::Authorization::Digest  0.10  pkg:cpan/HTTP-Headers-ActionPack@0.10
+HTTP::Headers::ActionPack::ContentNegotiation  0.10  pkg:cpan/HTTP-Headers-ActionPack@0.10
+HTTP::Headers::ActionPack::Core::Base  0.10  pkg:cpan/HTTP-Headers-ActionPack@0.10
+HTTP::Headers::ActionPack::Core::BaseAuthHeader  0.10  pkg:cpan/HTTP-Headers-ActionPack@0.10
+HTTP::Headers::ActionPack::Core::BaseHeaderList  0.10  pkg:cpan/HTTP-Headers-ActionPack@0.10
+HTTP::Headers::ActionPack::Core::BaseHeaderType  0.10  pkg:cpan/HTTP-Headers-ActionPack@0.10
+HTTP::Headers::ActionPack::Core::BaseHeaderWithParams  0.10  pkg:cpan/HTTP-Headers-ActionPack@0.10
+HTTP::Headers::ActionPack::DateHeader  0.10  pkg:cpan/HTTP-Headers-ActionPack@0.10
+HTTP::Headers::ActionPack::LinkHeader  0.10  pkg:cpan/HTTP-Headers-ActionPack@0.10
+HTTP::Headers::ActionPack::LinkList  0.10  pkg:cpan/HTTP-Headers-ActionPack@0.10
+HTTP::Headers::ActionPack::MediaType  0.10  pkg:cpan/HTTP-Headers-ActionPack@0.10
+HTTP::Headers::ActionPack::MediaTypeList  0.10  pkg:cpan/HTTP-Headers-ActionPack@0.10
+HTTP::Headers::ActionPack::PriorityList  0.10  pkg:cpan/HTTP-Headers-ActionPack@0.10
+HTTP::Headers::ActionPack::Util     0.10  pkg:cpan/HTTP-Headers-ActionPack@0.10
+HTTP::Headers::ActionPack::WWWAuthenticate  0.10  pkg:cpan/HTTP-Headers-ActionPack@0.10
 HTTP::Headers::Auth                 7.04  pkg:cpan/HTTP-Message@7.04
 HTTP::Headers::ETag                 7.04  pkg:cpan/HTTP-Message@7.04
 HTTP::Headers::Fancy               1.001  pkg:cpan/HTTP-Headers-Fancy@1.001
@@ -128660,7 +128664,7 @@ MathWorks::platformList            undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::product                 undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepItem          undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepList          undef  pkg:cpan/XML-Pastor@0.6.0
-Matplotlib::Simple                 0.321  pkg:cpan/Matplotlib-Simple@0.321
+Matplotlib::Simple                 0.322  pkg:cpan/Matplotlib-Simple@0.322
 Matrix::Simple                      1.04  pkg:cpan/Matrix-Simple@1.04
 Matts::Message                     undef  pkg:cpan/Matts-Message-Parser@1.0
 Matts::Message::Parser               1.0  pkg:cpan/Matts-Message-Parser@1.0
@@ -221302,12 +221306,12 @@ TAM::Admin::User                   undef  pkg:cpan/TAM-Admin@0.35
 TAP3::Tap3edit                      0.35  pkg:cpan/TAP3-Tap3edit@0.35
 TAP::Base                           3.52  pkg:cpan/Test-Harness@3.52
 TAP::Convert::TET                  0.002001  pkg:cpan/TAP-Convert-TET@0.2.1
-TAP::DOM                           1.001  pkg:cpan/TAP-DOM@1.001
-TAP::DOM::Archive                  1.001  pkg:cpan/TAP-DOM@1.001
-TAP::DOM::Config                   1.001  pkg:cpan/TAP-DOM@1.001
-TAP::DOM::DocumentData             1.001  pkg:cpan/TAP-DOM@1.001
-TAP::DOM::Entry                    1.001  pkg:cpan/TAP-DOM@1.001
-TAP::DOM::Summary                  1.001  pkg:cpan/TAP-DOM@1.001
+TAP::DOM                           1.002  pkg:cpan/TAP-DOM@1.002
+TAP::DOM::Archive                  1.002  pkg:cpan/TAP-DOM@1.002
+TAP::DOM::Config                   1.002  pkg:cpan/TAP-DOM@1.002
+TAP::DOM::DocumentData             1.002  pkg:cpan/TAP-DOM@1.002
+TAP::DOM::Entry                    1.002  pkg:cpan/TAP-DOM@1.002
+TAP::DOM::Summary                  1.002  pkg:cpan/TAP-DOM@1.002
 TAP::DOM::Waivers                  0.003  pkg:cpan/TAP-DOM-Waivers@0.003
 TAP::DOM::Waivers::Formatter       0.003  pkg:cpan/TAP-DOM-Waivers@0.003
 TAP::DOM::Waivers::Formatter::Session 0.003  pkg:cpan/TAP-DOM-Waivers@0.003
