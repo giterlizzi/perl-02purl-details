@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 22 Oct 2026 22:54:07 GMT
-Line-Count: 262377
+Last-Updated: Fri, 23 Oct 2026 02:52:07 GMT
+Line-Count: 262387
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -70806,8 +70806,8 @@ EV::Cron                           0.123600  pkg:cpan/EV-Cron@0.123600
 EV::Embed                          undef  pkg:cpan/App-SimpleBackuper@0.2.22
 EV::Etcd                            0.11  pkg:cpan/EV-Etcd@0.11
 EV::Fork                           undef  pkg:cpan/App-SimpleBackuper@0.2.22
-EV::Future                          0.07  pkg:cpan/EV-Future@0.07
-EV::Future::Handle                  0.07  pkg:cpan/EV-Future@0.07
+EV::Future                          0.08  pkg:cpan/EV-Future@0.08
+EV::Future::Handle                  0.08  pkg:cpan/EV-Future@0.08
 EV::Gearman                         0.03  pkg:cpan/EV-Gearman@0.03
 EV::Gearman::Job                    0.03  pkg:cpan/EV-Gearman@0.03
 EV::Glib                            2.01  pkg:cpan/EV-Glib@2.01
@@ -78564,7 +78564,7 @@ FreeRADIUS::Database::Storage::Result::Radcheck undef  pkg:cpan/FreeRADIUS-Datab
 Freecell::App                       0.03  pkg:cpan/Freecell-App@0.03
 Freecell::App::Tableau              0.03  pkg:cpan/Freecell-App@0.03
 Freecell::Deal::MS                 v0.6.0  pkg:cpan/Freecell-Deal-MS@0.6.0
-FreezeThaw                         0.5001  pkg:cpan/FreezeThaw@0.5001
+FreezeThaw                          1.00  pkg:cpan/FreezeThaw@1.00
 FrenchTextGenerator                2.003041  pkg:cpan/FamilyTreeInfo@2.3.41
 Freq                                0.22  pkg:cpan/Freq@0.22
 Freq::Isr                           0.14  pkg:cpan/Freq@0.14
@@ -120952,12 +120952,12 @@ Locale::Tie                         0.03  pkg:cpan/Locale-Tie@0.03
 Locale::Tie::SCALAR                 0.03  pkg:cpan/Locale-Tie@0.03
 Locale::US                          3.04  pkg:cpan/Locale-US@3.04
 Locale::US::CensusDivisions        1.001000  pkg:cpan/Locale-US-CensusDivisions@1.1.0
-Locale::Unicode                    0.004004  pkg:cpan/Locale-Unicode@v0.4.4
-Locale::Unicode::Boolean           0.004004  pkg:cpan/Locale-Unicode@v0.4.4
+Locale::Unicode                    0.004005  pkg:cpan/Locale-Unicode@v0.4.5
+Locale::Unicode::Boolean           0.004005  pkg:cpan/Locale-Unicode@v0.4.5
 Locale::Unicode::Data              1.009000  pkg:cpan/Locale-Unicode-Data@v1.9.0
 Locale::Unicode::Data::Boolean     1.009000  pkg:cpan/Locale-Unicode-Data@v1.9.0
 Locale::Unicode::Data::Exception   1.009000  pkg:cpan/Locale-Unicode-Data@v1.9.0
-Locale::Unicode::Exception         0.004004  pkg:cpan/Locale-Unicode@v0.4.4
+Locale::Unicode::Exception         0.004005  pkg:cpan/Locale-Unicode@v0.4.5
 Locale::Util                       undef  pkg:cpan/libintl-perl@1.37
 Locale::Utils::Autotranslator      1.016  pkg:cpan/Locale-Utils-Autotranslator@1.016
 Locale::Utils::Autotranslator::ApiMymemoryTranslatedNet 1.010  pkg:cpan/Locale-Utils-Autotranslator@1.016
@@ -190121,6 +190121,7 @@ Perl::Critic::Policy::ControlStructures::ProhibitBareBlockLoopControls  0.07  pk
 Perl::Critic::Policy::ControlStructures::ProhibitCStyleForLoops 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ControlStructures::ProhibitCascadingIfElse 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ControlStructures::ProhibitDeepNests 1.156  pkg:cpan/Perl-Critic@1.156
+Perl::Critic::Policy::ControlStructures::ProhibitEmptyConditionalBlocks 0.001  pkg:cpan/Perl-Critic-Policy-ControlStructures-ProhibitEmptyConditionalBlocks@0.001
 Perl::Critic::Policy::ControlStructures::ProhibitGotoIntoConstruct  0.07  pkg:cpan/Perl-Critic-PolicyBundle-LoopsAndLabels@0.07
 Perl::Critic::Policy::ControlStructures::ProhibitInlineDo 0.001003  pkg:cpan/Perl-Critic-Grape@0.1.3
 Perl::Critic::Policy::ControlStructures::ProhibitLabelsWithSpecialBlockNames 1.156  pkg:cpan/Perl-Critic@1.156
@@ -203335,7 +203336,7 @@ Router::PathInfo::Static           undef  pkg:cpan/Router-PathInfo@0.05
 Router::Pygmy                       0.05  pkg:cpan/Router-Pygmy@0.05
 Router::Pygmy::Route                0.05  pkg:cpan/Router-Pygmy@0.05
 Router::R3                         0.011001  pkg:cpan/Router-R3@0.011001
-Router::Ragel                       0.05  pkg:cpan/Router-Ragel@0.05
+Router::Ragel                       0.06  pkg:cpan/Router-Ragel@0.06
 Router::Resource                    0.22  pkg:cpan/Router-Resource@0.22
 Router::Simple                      0.17  pkg:cpan/Router-Simple@0.17
 Router::Simple::Declare            undef  pkg:cpan/Router-Simple@0.17
@@ -224614,7 +224615,7 @@ Term::GDBUI                         0.84  pkg:cpan/GDBUI@0.84
 Term::GentooFunctions              1.3700  pkg:cpan/Term-GentooFunctions@1.3700
 Term::GetKey                           1  pkg:cpan/LibTerm-GetKey@1.02
 Term::Getch                         0.20  pkg:cpan/Term-Getch@0.20?ext=zip
-Term::Ghostty                       0.01  pkg:cpan/Term-Ghostty@0.01
+Term::Ghostty                       0.02  pkg:cpan/Term-Ghostty@0.02
 Term::GnuScreen                     0.06  pkg:cpan/Term-GnuScreen@0.06
 Term::GnuScreen::WindowArrayLike    0.01  pkg:cpan/Term-GnuScreen-WindowArrayLike@0.01
 Term::Gnuplot                      0.90380906  pkg:cpan/Term-Gnuplot@0.90380906?ext=zip
@@ -228456,7 +228457,7 @@ Text::FIGlet::Control               2.15  pkg:cpan/Text-FIGlet@2.19.4?ext=tgz
 Text::FIGlet::Font                 2.019003  pkg:cpan/Text-FIGlet@2.19.4?ext=tgz
 Text::FIGlet::Illuminated           2.19  pkg:cpan/Text-FIGlet@2.19.4?ext=tgz
 Text::FIGlet::Ransom                2.17  pkg:cpan/Text-FIGlet@2.19.4?ext=tgz
-Text::Fab                           0.06  pkg:cpan/Text-Fab@0.06
+Text::Fab                          0.0601  pkg:cpan/Text-Fab@0.0601
 Text::FakeXML                       0.02  pkg:cpan/Text-FakeXML@0.02
 Text::FastTemplate                  0.95  pkg:cpan/Text-FastTemplate@0.95
 Text::FileTree                      0.24  pkg:cpan/Text-FileTree@0.24
@@ -229360,7 +229361,7 @@ Text::Statistics::Devanagari        0.04  pkg:cpan/Text-Statistics-Devanagari@0.
 Text::Statistics::GreekAndCoptic    0.05  pkg:cpan/Text-Statistics-GreekAndCoptic@0.05
 Text::Statistics::Latin             0.06  pkg:cpan/Text-Statistics-Latin@0.06
 Text::StemTagPOS                    0.61  pkg:cpan/Text-StemTagPOS@0.61
-Text::Stencil                       0.03  pkg:cpan/Text-Stencil@0.03
+Text::Stencil                       0.04  pkg:cpan/Text-Stencil@0.04
 Text::StripAccents                  0.11  pkg:cpan/Text-StripAccents@0.11
 Text::Striphigh                     0.02  pkg:cpan/Text-Striphigh@0.02
 Text::Stripper                      1.16  pkg:cpan/Text-Stripper@1.16
@@ -234845,6 +234846,7 @@ UnRTF                              undef  pkg:cpan/UnRTF@0.003
 UnRTF::Test                        undef  pkg:cpan/UnRTF@0.003
 Unamerican::Truth                   1.08  pkg:cpan/Unamerican-Truth@1.08
 UnazuSan                            0.03  pkg:cpan/UnazuSan@0.03
+Unblock::HTTP                       0.02  pkg:cpan/Unblock-HTTP@0.02
 Unblock::HTTP1                      0.12  pkg:cpan/Unblock-HTTP1@0.12
 Unblock::HTTP1::Client              0.12  pkg:cpan/Unblock-HTTP1@0.12
 Unblock::HTTP1::Integration         0.12  pkg:cpan/Unblock-HTTP1@0.12
@@ -234876,6 +234878,14 @@ Unblock::HTTP3::Request             0.01  pkg:cpan/Unblock-HTTP3@0.01
 Unblock::HTTP3::Response            0.01  pkg:cpan/Unblock-HTTP3@0.01
 Unblock::HTTP3::Server              0.13  pkg:cpan/Unblock-HTTP3@0.13
 Unblock::HTTP3::Transaction         0.13  pkg:cpan/Unblock-HTTP3@0.13
+Unblock::HTTP::Client               0.02  pkg:cpan/Unblock-HTTP@0.02
+Unblock::HTTP::Integration          0.02  pkg:cpan/Unblock-HTTP@0.02
+Unblock::HTTP::QUIC                 0.02  pkg:cpan/Unblock-HTTP@0.02
+Unblock::HTTP::Server               0.02  pkg:cpan/Unblock-HTTP@0.02
+Unblock::WebSocket                  0.02  pkg:cpan/Unblock-WebSocket@0.02
+Unblock::WebSocket::Client          0.02  pkg:cpan/Unblock-WebSocket@0.02
+Unblock::WebSocket::Handshake       0.02  pkg:cpan/Unblock-WebSocket@0.02
+Unblock::WebSocket::Server          0.02  pkg:cpan/Unblock-WebSocket@0.02
 UnclosedOpeningDelim               undef  pkg:cpan/Test-Subunits@0.000003
 UnderscoreJS                        0.07  pkg:cpan/UnderscoreJS@0.07
 Unexpected                         v1.0.1  pkg:cpan/Unexpected@1.0.1
@@ -254835,7 +254845,7 @@ XML::Perl2SAX                       0.08  pkg:cpan/libxml-perl@0.08
 XML::Printer::ESCPOS                0.06  pkg:cpan/XML-Printer-ESCPOS@0.06
 XML::Printer::ESCPOS::Debug         0.06  pkg:cpan/XML-Printer-ESCPOS@0.06
 XML::Printer::ESCPOS::Tags          0.06  pkg:cpan/XML-Printer-ESCPOS@0.06
-XML::PugiXML                        0.09  pkg:cpan/XML-PugiXML@0.09
+XML::PugiXML                        0.10  pkg:cpan/XML-PugiXML@0.10
 XML::QL                             0.07  pkg:cpan/XML-QL@0.07
 XML::QL::Search                     0.07  pkg:cpan/XML-QL@0.07
 XML::QL::Where                      0.07  pkg:cpan/XML-QL@0.07
