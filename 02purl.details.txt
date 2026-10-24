@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 23 Oct 2026 22:48:22 GMT
-Line-Count: 262411
+Last-Updated: Sat, 24 Oct 2026 02:48:55 GMT
+Line-Count: 262428
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -49062,14 +49062,14 @@ ConfigReader::Spec                   0.5  pkg:cpan/ConfigReader@0.5
 ConfigReader::Values                 0.5  pkg:cpan/ConfigReader@0.5
 Config_mO                          undef  pkg:cpan/Win32-GUI@1.06
 Config_u                           undef  pkg:cpan/ExtUtils-FakeConfig@0.12?ext=zip
-Configd                            0.003  pkg:cpan/Configd@0.003
-Configd::Language                  0.003  pkg:cpan/Configd@0.003
-Configd::Language::opendkim        0.003  pkg:cpan/Configd@0.003
-Configd::Language::opendmarc       0.003  pkg:cpan/Configd@0.003
-Configd::Language::postfix         0.003  pkg:cpan/Configd@0.003
-Configd::Language::redis           0.003  pkg:cpan/Configd@0.003
-Configd::Syntax::Spaced            0.003  pkg:cpan/Configd@0.003
-Configd::Unit                      0.003  pkg:cpan/Configd@0.003
+Configd                            0.004  pkg:cpan/Configd@0.004
+Configd::Language                  0.004  pkg:cpan/Configd@0.004
+Configd::Language::opendkim        0.004  pkg:cpan/Configd@0.004
+Configd::Language::opendmarc       0.004  pkg:cpan/Configd@0.004
+Configd::Language::postfix         0.004  pkg:cpan/Configd@0.004
+Configd::Language::redis           0.004  pkg:cpan/Configd@0.004
+Configd::Syntax::Spaced            0.004  pkg:cpan/Configd@0.004
+Configd::Unit                      0.004  pkg:cpan/Configd@0.004
 Confluence::Client::XMLRPC           2.5  pkg:cpan/Confluence-Client-XMLRPC@2.5
 Confluent::SchemaRegistry          1.000000  pkg:cpan/Confluent-SchemaRegistry@v1.0.0
 Confman                             0.04  pkg:cpan/Confman@0.04
@@ -77264,10 +77264,7 @@ FindApp::Utils::Carp               undef  pkg:cpan/FindApp@v0.0.7
 FindApp::Utils::Debug                  1  pkg:cpan/FindApp@v0.0.7
 FindApp::Utils::Package::Object    undef  pkg:cpan/FindApp@v0.0.7
 FindBin                             1.54  pkg:cpan/FindBin@1.54
-FindBin::Bin                       1.000000  pkg:cpan/FindBin-libs@v4.2.0
-FindBin::Parents                   0.001000  pkg:cpan/FindBin-libs@v4.2.0
 FindBin::Real                       1.05  pkg:cpan/FindBin-Real@1.05
-FindBin::libs                      4.002000  pkg:cpan/FindBin-libs@v4.2.0
 FindBinNew                          1.51  pkg:cpan/Bio-Grid-Run-SGE@0.066
 FindEvent                           0.01  pkg:cpan/Video-Manip@0.02
 FindEvent::Field                   undef  pkg:cpan/Video-Manip@0.02
@@ -100818,7 +100815,7 @@ HTML::Notebook                     0.004  pkg:cpan/HTML-Notebook@0.004
 HTML::Notebook::Cell               undef  pkg:cpan/HTML-Notebook@0.004
 HTML::Notebook::Multiple           0.004  pkg:cpan/HTML-Notebook@0.004
 HTML::Notebook::Style              undef  pkg:cpan/HTML-Notebook@0.004
-HTML::OSM                           0.11  pkg:cpan/HTML-OSM@0.11
+HTML::OSM                           0.12  pkg:cpan/HTML-OSM@0.12
 HTML::Obj2HTML                      0.13  pkg:cpan/HTML-Obj2HTML@0.13
 HTML::Obj2HTML::Plugin::SemanticUI undef  pkg:cpan/HTML-Obj2HTML@0.13
 HTML::Object                       0.006003  pkg:cpan/HTML-Object@v0.6.3
@@ -120982,6 +120979,24 @@ Locale::Unicode::Data              1.009000  pkg:cpan/Locale-Unicode-Data@v1.9.0
 Locale::Unicode::Data::Boolean     1.009000  pkg:cpan/Locale-Unicode-Data@v1.9.0
 Locale::Unicode::Data::Exception   1.009000  pkg:cpan/Locale-Unicode-Data@v1.9.0
 Locale::Unicode::Exception         0.004006  pkg:cpan/Locale-Unicode@v0.4.6
+Locale::Unicode::RBNF              0.001000  pkg:cpan/Locale-Unicode-RBNF@v0.1.0
+Locale::Unicode::RBNF::CLDR        0.001000  pkg:cpan/Locale-Unicode-RBNF@v0.1.0
+Locale::Unicode::RBNF::DecimalFormat 0.001000  pkg:cpan/Locale-Unicode-RBNF@v0.1.0
+Locale::Unicode::RBNF::Exception   0.001000  pkg:cpan/Locale-Unicode-RBNF@v0.1.0
+Locale::Unicode::RBNF::PP          0.001000  pkg:cpan/Locale-Unicode-RBNF@v0.1.0
+Locale::Unicode::RBNF::PluralFormat 0.001000  pkg:cpan/Locale-Unicode-RBNF@v0.1.0
+Locale::Unicode::RBNF::PluralRules 0.001000  pkg:cpan/Locale-Unicode-RBNF@v0.1.0
+Locale::Unicode::RBNF::Rule        0.001000  pkg:cpan/Locale-Unicode-RBNF@v0.1.0
+Locale::Unicode::RBNF::RuleSet     0.001000  pkg:cpan/Locale-Unicode-RBNF@v0.1.0
+Locale::Unicode::RBNF::Substitution 0.001000  pkg:cpan/Locale-Unicode-RBNF@v0.1.0
+Locale::Unicode::RBNF::Substitution::AbsoluteValue 0.001000  pkg:cpan/Locale-Unicode-RBNF@v0.1.0
+Locale::Unicode::RBNF::Substitution::FractionalPart 0.001000  pkg:cpan/Locale-Unicode-RBNF@v0.1.0
+Locale::Unicode::RBNF::Substitution::IntegralPart 0.001000  pkg:cpan/Locale-Unicode-RBNF@v0.1.0
+Locale::Unicode::RBNF::Substitution::Modulus 0.001000  pkg:cpan/Locale-Unicode-RBNF@v0.1.0
+Locale::Unicode::RBNF::Substitution::Multiplier 0.001000  pkg:cpan/Locale-Unicode-RBNF@v0.1.0
+Locale::Unicode::RBNF::Substitution::Numerator 0.001000  pkg:cpan/Locale-Unicode-RBNF@v0.1.0
+Locale::Unicode::RBNF::Substitution::SameValue 0.001000  pkg:cpan/Locale-Unicode-RBNF@v0.1.0
+Locale::Unicode::RBNF::Util        0.001000  pkg:cpan/Locale-Unicode-RBNF@v0.1.0
 Locale::Util                       undef  pkg:cpan/libintl-perl@1.37
 Locale::Utils::Autotranslator      1.016  pkg:cpan/Locale-Utils-Autotranslator@1.016
 Locale::Utils::Autotranslator::ApiMymemoryTranslatedNet 1.010  pkg:cpan/Locale-Utils-Autotranslator@1.016
@@ -140991,13 +141006,14 @@ Net::Async::Kubernetes::Controller 0.011  pkg:cpan/Net-Async-Kubernetes@0.011
 Net::Async::Kubernetes::PortForwardListener 0.011  pkg:cpan/Net-Async-Kubernetes@0.011
 Net::Async::Kubernetes::PortForwardSession 0.011  pkg:cpan/Net-Async-Kubernetes@0.011
 Net::Async::Kubernetes::Watcher    0.011  pkg:cpan/Net-Async-Kubernetes@0.011
-Net::Async::MCP                    0.006  pkg:cpan/Net-Async-MCP@0.006
+Net::Async::MCP                    0.007  pkg:cpan/Net-Async-MCP@0.007
+Net::Async::MCP::JSONRPC           0.007  pkg:cpan/Net-Async-MCP@0.007
 Net::Async::MCP::Server            0.003  pkg:cpan/Net-Async-MCP-Server@0.003
 Net::Async::MCP::Server::Transport::Stdio 0.003  pkg:cpan/Net-Async-MCP-Server@0.003
 Net::Async::MCP::Server::Transport::StreamableHTTP 0.003  pkg:cpan/Net-Async-MCP-Server@0.003
-Net::Async::MCP::Transport::HTTP   0.006  pkg:cpan/Net-Async-MCP@0.006
-Net::Async::MCP::Transport::InProcess 0.006  pkg:cpan/Net-Async-MCP@0.006
-Net::Async::MCP::Transport::Stdio  0.006  pkg:cpan/Net-Async-MCP@0.006
+Net::Async::MCP::Transport::HTTP   0.007  pkg:cpan/Net-Async-MCP@0.007
+Net::Async::MCP::Transport::InProcess 0.007  pkg:cpan/Net-Async-MCP@0.007
+Net::Async::MCP::Transport::Stdio  0.007  pkg:cpan/Net-Async-MCP@0.007
 Net::Async::MPD                    0.005  pkg:cpan/Net-Async-MPD@0.005
 Net::Async::Matrix                  0.19  pkg:cpan/Net-Async-Matrix@0.19
 Net::Async::Matrix::Room            0.19  pkg:cpan/Net-Async-Matrix@0.19
@@ -194097,7 +194113,7 @@ Pod::MinimumVersion                   50  pkg:cpan/Pod-MinimumVersion@50
 Pod::MinimumVersion::Parser           50  pkg:cpan/Pod-MinimumVersion@50
 Pod::MinimumVersion::Report           50  pkg:cpan/Pod-MinimumVersion@50
 Pod::Modifier                          1  pkg:cpan/Pod-Modifier@1
-Pod::Multi                          0.10  pkg:cpan/Pod-Multi@0.10
+Pod::Multi                          0.11  pkg:cpan/Pod-Multi@0.11
 Pod::MultiLang                      0.14  pkg:cpan/Pod-MultiLang@0.14
 Pod::MultiLang::Dict                0.01  pkg:cpan/Pod-MultiLang@0.14
 Pod::MultiLang::Dict::ja            0.01  pkg:cpan/Pod-MultiLang@0.14
@@ -230363,6 +230379,7 @@ Tickit::StringPos                   0.77  pkg:cpan/Tickit@0.77
 Tickit::Style                       0.60  pkg:cpan/Tickit-Widgets@0.42
 Tickit::Style::Parser               0.56  pkg:cpan/Tickit-Widgets@0.42
 Tickit::Term                        0.77  pkg:cpan/Tickit@0.77
+Tickit::Terminal::Prompt           0.002  pkg:cpan/Tickit-Terminal-Prompt@0.002
 Tickit::Test                        0.77  pkg:cpan/Tickit@0.77
 Tickit::Test::MockTerm              0.77  pkg:cpan/Tickit@0.77
 Tickit::Utils                       0.77  pkg:cpan/Tickit@0.77
