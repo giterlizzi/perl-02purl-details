@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 24 Oct 2026 13:46:08 GMT
-Line-Count: 262498
+Last-Updated: Sat, 24 Oct 2026 17:08:09 GMT
+Line-Count: 262504
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -4855,7 +4855,7 @@ Alien::Bit                          0.09  pkg:cpan/Alien-Bit@0.09
 Alien::Boost::Headers                1.9  pkg:cpan/Alien-Boost-Headers@1.9
 Alien::Boost::ProgramOptions         1.7  pkg:cpan/Alien-Boost-ProgramOptions@1.7
 Alien::Box2D                       0.106  pkg:cpan/Alien-Box2D@0.106
-Alien::Brotli                      v0.2.2  pkg:cpan/Alien-Brotli@v0.2.2
+Alien::Brotli                      v0.2.3  pkg:cpan/Alien-Brotli@v0.2.3
 Alien::Build                        2.88  pkg:cpan/Alien-Build@2.88
 Alien::Build::CommandSequence       2.88  pkg:cpan/Alien-Build@2.88
 Alien::Build::Git                   0.10  pkg:cpan/Alien-Build-Git@0.10
@@ -10580,25 +10580,32 @@ App::FileSummoner::CreateFile      0.005  pkg:cpan/App-FileSummoner@0.005
 App::FileSummoner::Register        0.005  pkg:cpan/App-FileSummoner@0.005
 App::FileSummoner::Register::Rules 0.005  pkg:cpan/App-FileSummoner@0.005
 App::FileSummoner::SkeletonDirsFinder 0.005  pkg:cpan/App-FileSummoner@0.005
-App::FileSync                      0.001  pkg:cpan/App-FileSync@0.001.0
-App::FileSync::Admin               undef  pkg:cpan/App-FileSync@0.001.0
-App::FileSync::CLI                 undef  pkg:cpan/App-FileSync@0.001.0
-App::FileSync::Client              undef  pkg:cpan/App-FileSync@0.001.0
-App::FileSync::Config              undef  pkg:cpan/App-FileSync@0.001.0
-App::FileSync::Delta               undef  pkg:cpan/App-FileSync@0.001.0
-App::FileSync::Ignore              undef  pkg:cpan/App-FileSync@0.001.0
-App::FileSync::Lock                undef  pkg:cpan/App-FileSync@0.001.0
-App::FileSync::Merge               undef  pkg:cpan/App-FileSync@0.001.0
-App::FileSync::Protocol            undef  pkg:cpan/App-FileSync@0.001.0
-App::FileSync::Scan                undef  pkg:cpan/App-FileSync@0.001.0
-App::FileSync::Server              undef  pkg:cpan/App-FileSync@0.001.0
-App::FileSync::Settings            undef  pkg:cpan/App-FileSync@0.001.0
-App::FileSync::Snapshot            undef  pkg:cpan/App-FileSync@0.001.0
-App::FileSync::Store               undef  pkg:cpan/App-FileSync@0.001.0
-App::FileSync::Transport::Local    undef  pkg:cpan/App-FileSync@0.001.0
-App::FileSync::Transport::SSH      undef  pkg:cpan/App-FileSync@0.001.0
-App::FileSync::Trash               undef  pkg:cpan/App-FileSync@0.001.0
-App::FileSync::Verify              undef  pkg:cpan/App-FileSync@0.001.0
+App::FileSync                      0.001001  pkg:cpan/App-FileSync@0.001.1
+App::FileSync::Admin               0.001001  pkg:cpan/App-FileSync@0.001.1
+App::FileSync::Args                0.001001  pkg:cpan/App-FileSync@0.001.1
+App::FileSync::Base                0.001001  pkg:cpan/App-FileSync@0.001.1
+App::FileSync::CLI                 0.001001  pkg:cpan/App-FileSync@0.001.1
+App::FileSync::Client              0.001001  pkg:cpan/App-FileSync@0.001.1
+App::FileSync::Config              0.001001  pkg:cpan/App-FileSync@0.001.1
+App::FileSync::Constants           0.001001  pkg:cpan/App-FileSync@0.001.1
+App::FileSync::Delta               0.001001  pkg:cpan/App-FileSync@0.001.1
+App::FileSync::I18N                0.001001  pkg:cpan/App-FileSync@0.001.1
+App::FileSync::I18N::en            0.001001  pkg:cpan/App-FileSync@0.001.1
+App::FileSync::IO                  0.001001  pkg:cpan/App-FileSync@0.001.1
+App::FileSync::Ignore              0.001001  pkg:cpan/App-FileSync@0.001.1
+App::FileSync::Lock                0.001001  pkg:cpan/App-FileSync@0.001.1
+App::FileSync::Merge               0.001001  pkg:cpan/App-FileSync@0.001.1
+App::FileSync::Platform            0.001001  pkg:cpan/App-FileSync@0.001.1
+App::FileSync::Protocol            0.001001  pkg:cpan/App-FileSync@0.001.1
+App::FileSync::Scan                0.001001  pkg:cpan/App-FileSync@0.001.1
+App::FileSync::Server              0.001001  pkg:cpan/App-FileSync@0.001.1
+App::FileSync::Settings            0.001001  pkg:cpan/App-FileSync@0.001.1
+App::FileSync::Snapshot            0.001001  pkg:cpan/App-FileSync@0.001.1
+App::FileSync::Store               0.001001  pkg:cpan/App-FileSync@0.001.1
+App::FileSync::Transport::Local    0.001001  pkg:cpan/App-FileSync@0.001.1
+App::FileSync::Transport::SSH      0.001001  pkg:cpan/App-FileSync@0.001.1
+App::FileSync::Trash               0.001001  pkg:cpan/App-FileSync@0.001.1
+App::FileSync::Verify              0.001001  pkg:cpan/App-FileSync@0.001.1
 App::FileTestUtils                 0.005  pkg:cpan/App-FileTestUtils@0.005
 App::FileTools::BulkRename::Common  0.07  pkg:cpan/App-FileTools-BulkRename@0.07
 App::FileTools::BulkRename::Docs    0.07  pkg:cpan/App-FileTools-BulkRename@0.07
@@ -15964,10 +15971,10 @@ App::annex_review_unused           0.006  pkg:cpan/Git-Annex@0.006
 App::annex_to_annex                0.008  pkg:cpan/Git-Annex@0.008
 App::annex_to_annex_dropunused     0.008  pkg:cpan/Git-Annex@0.008
 App::annex_to_annex_reinject       0.008  pkg:cpan/Git-Annex@0.008
-App::ansicolumn                     1.58  pkg:cpan/App-ansicolumn@1.58
-App::ansicolumn::Border            undef  pkg:cpan/App-ansicolumn@1.58
-App::ansicolumn::Command           undef  pkg:cpan/App-ansicolumn@1.58
-App::ansicolumn::default           undef  pkg:cpan/App-ansicolumn@1.58
+App::ansicolumn                    1.5801  pkg:cpan/App-ansicolumn@1.5801
+App::ansicolumn::Border            undef  pkg:cpan/App-ansicolumn@1.5801
+App::ansicolumn::Command           undef  pkg:cpan/App-ansicolumn@1.5801
+App::ansicolumn::default           undef  pkg:cpan/App-ansicolumn@1.5801
 App::ansiecho                       1.10  pkg:cpan/App-ansiecho@1.10
 App::ansiecho::Util                undef  pkg:cpan/App-ansiecho@1.10
 App::ansiexpand                     1.06  pkg:cpan/App-ansiexpand@1.06
@@ -83581,7 +83588,6 @@ Geo::Coder::Free::MissCache         0.51  pkg:cpan/Geo-Coder-Free@0.51
 Geo::Coder::Free::OpenAddresses     0.51  pkg:cpan/Geo-Coder-Free@0.51
 Geo::Coder::Free::Provenance        0.51  pkg:cpan/Geo-Coder-Free@0.51
 Geo::Coder::Free::Utils             0.51  pkg:cpan/Geo-Coder-Free@0.51
-Geo::Coder::Free::Validate          0.47  pkg:cpan/Geo-Coder-Free@0.47
 Geo::Coder::GeoApify                0.03  pkg:cpan/Geo-Coder-GeoApify@0.03
 Geo::Coder::GeocodeFarm            0.0500  pkg:cpan/Geo-Coder-GeocodeFarm@0.0500
 Geo::Coder::Google                  0.20  pkg:cpan/Geo-Coder-Google@0.20
@@ -127281,25 +127287,25 @@ MassSpec::CUtilities                0.05  pkg:cpan/MassSpec-CUtilities@0.05
 MassSpec::ViewSpectrum              0.08  pkg:cpan/MassSpec-ViewSpectrum@0.08
 MassSpec::ViewSpectrum::RealVsHypPeptide  0.02  pkg:cpan/MassSpec-ViewSpectrum-RealVsHypPeptide@0.02
 Masscan::Client                     0.21  pkg:cpan/Masscan-Client@0.21
-Mastodon::Client                   0.017  pkg:cpan/Mastodon-Client@0.017
-Mastodon::Entity::Account          0.017  pkg:cpan/Mastodon-Client@0.017
-Mastodon::Entity::Application      0.017  pkg:cpan/Mastodon-Client@0.017
-Mastodon::Entity::Attachment       0.017  pkg:cpan/Mastodon-Client@0.017
-Mastodon::Entity::Card             0.017  pkg:cpan/Mastodon-Client@0.017
-Mastodon::Entity::Context          0.017  pkg:cpan/Mastodon-Client@0.017
-Mastodon::Entity::Error            0.017  pkg:cpan/Mastodon-Client@0.017
-Mastodon::Entity::Instance         0.017  pkg:cpan/Mastodon-Client@0.017
-Mastodon::Entity::Mention          0.017  pkg:cpan/Mastodon-Client@0.017
-Mastodon::Entity::Notification     0.017  pkg:cpan/Mastodon-Client@0.017
-Mastodon::Entity::Relationship     0.017  pkg:cpan/Mastodon-Client@0.017
-Mastodon::Entity::Report           0.017  pkg:cpan/Mastodon-Client@0.017
-Mastodon::Entity::Results          0.017  pkg:cpan/Mastodon-Client@0.017
-Mastodon::Entity::Status           0.017  pkg:cpan/Mastodon-Client@0.017
-Mastodon::Entity::Tag              0.017  pkg:cpan/Mastodon-Client@0.017
-Mastodon::Listener                 0.017  pkg:cpan/Mastodon-Client@0.017
-Mastodon::Role::Entity             0.017  pkg:cpan/Mastodon-Client@0.017
-Mastodon::Role::UserAgent          0.017  pkg:cpan/Mastodon-Client@0.017
-Mastodon::Types                    0.017  pkg:cpan/Mastodon-Client@0.017
+Mastodon::Client                   0.019  pkg:cpan/Mastodon-Client@0.019
+Mastodon::Entity::Account          0.019  pkg:cpan/Mastodon-Client@0.019
+Mastodon::Entity::Application      0.019  pkg:cpan/Mastodon-Client@0.019
+Mastodon::Entity::Attachment       0.019  pkg:cpan/Mastodon-Client@0.019
+Mastodon::Entity::Card             0.019  pkg:cpan/Mastodon-Client@0.019
+Mastodon::Entity::Context          0.019  pkg:cpan/Mastodon-Client@0.019
+Mastodon::Entity::Error            0.019  pkg:cpan/Mastodon-Client@0.019
+Mastodon::Entity::Instance         0.019  pkg:cpan/Mastodon-Client@0.019
+Mastodon::Entity::Mention          0.019  pkg:cpan/Mastodon-Client@0.019
+Mastodon::Entity::Notification     0.019  pkg:cpan/Mastodon-Client@0.019
+Mastodon::Entity::Relationship     0.019  pkg:cpan/Mastodon-Client@0.019
+Mastodon::Entity::Report           0.019  pkg:cpan/Mastodon-Client@0.019
+Mastodon::Entity::Results          0.019  pkg:cpan/Mastodon-Client@0.019
+Mastodon::Entity::Status           0.019  pkg:cpan/Mastodon-Client@0.019
+Mastodon::Entity::Tag              0.019  pkg:cpan/Mastodon-Client@0.019
+Mastodon::Listener                 0.019  pkg:cpan/Mastodon-Client@0.019
+Mastodon::Role::Entity             0.019  pkg:cpan/Mastodon-Client@0.019
+Mastodon::Role::UserAgent          0.019  pkg:cpan/Mastodon-Client@0.019
+Mastodon::Types                    0.019  pkg:cpan/Mastodon-Client@0.019
 Match                              undef  pkg:cpan/STD@20101111
 MatchingBETier                      0.11  pkg:cpan/Tk-EntrySet@0.11
 Math::3Space                       0.008  pkg:cpan/Math-3Space@0.008
@@ -141971,10 +141977,10 @@ Net::CloudStack                    0.01005  pkg:cpan/Net-CloudStack@0.01005
 Net::CloudStack::API                0.02  pkg:cpan/Net-CloudStack-API@0.02
 Net::Cloudflare::DNS                0.22  pkg:cpan/Net-Cloudflare-DNS@0.22?ext=tgz
 Net::Cloudflare::DNS::Teal          0.05  pkg:cpan/Net-Cloudflare-DNS-Teal@0.05
-Net::Cmd                            3.15  pkg:cpan/libnet@3.15
+Net::Cmd                            3.16  pkg:cpan/libnet@3.16
 Net::Comcast::Customer               1.2  pkg:cpan/Net-Comcast-Customer@1.2
 Net::Compare                        0.04  pkg:cpan/Net-Compare@0.04
-Net::Config                         3.15  pkg:cpan/libnet@3.15
+Net::Config                         3.16  pkg:cpan/libnet@3.16
 Net::Connection                    0.003000  pkg:cpan/Net-Connection@0.3.0
 Net::Connection::FreeBSD_sockstat    1.0  pkg:cpan/Net-Connection-FreeBSD_sockstat@1.0.0
 Net::Connection::Linux_ss          0.000001  pkg:cpan/Net-Connection-Linux_ss@0.0.1
@@ -142980,7 +142986,7 @@ Net::Divert                         0.01  pkg:cpan/Net-Divert@0.01?ext=tgz
 Net::Dnet                           0.73  pkg:cpan/Net-Dnet@0.73
 Net::Docker                        0.002005  pkg:cpan/Net-Docker@0.002005
 Net::Dogstatsd                     v1.0.3  pkg:cpan/Net-Dogstatsd@1.0.3
-Net::Domain                         3.15  pkg:cpan/libnet@3.15
+Net::Domain                         3.16  pkg:cpan/libnet@3.16
 Net::Domain::ES::ccTLD              0.05  pkg:cpan/Net-Domain-ES-ccTLD@0.05
 Net::Domain::ExpireDate             1.20  pkg:cpan/Net-Domain-ExpireDate@1.20-fixed
 Net::Domain::Info                   0.02  pkg:cpan/Net-Domain-Info@0.02
@@ -143647,16 +143653,16 @@ Net::FSP::Handle                       0  pkg:cpan/Net-FSP@0.15
 Net::FSP::Handle::Read                 0  pkg:cpan/Net-FSP@0.15
 Net::FSP::Handle::Write                0  pkg:cpan/Net-FSP@0.15
 Net::FSP::Util                         0  pkg:cpan/Net-FSP@0.16
-Net::FTP                            3.15  pkg:cpan/libnet@3.15
-Net::FTP::A                         3.15  pkg:cpan/libnet@3.15
+Net::FTP                            3.16  pkg:cpan/libnet@3.16
+Net::FTP::A                         3.16  pkg:cpan/libnet@3.16
 Net::FTP::AutoReconnect              0.3  pkg:cpan/Net-FTP-AutoReconnect@0.3
 Net::FTP::Common                     7.0  pkg:cpan/Net-FTP-Common@7.0.d
-Net::FTP::E                         3.15  pkg:cpan/libnet@3.15
+Net::FTP::E                         3.16  pkg:cpan/libnet@3.16
 Net::FTP::File                      0.06  pkg:cpan/Net-FTP-File@0.06
 Net::FTP::Find                     0.041  pkg:cpan/Net-FTP-Find@0.041
 Net::FTP::Find::Mixin              0.041  pkg:cpan/Net-FTP-Find@0.041
-Net::FTP::I                         3.15  pkg:cpan/libnet@3.15
-Net::FTP::L                         3.15  pkg:cpan/libnet@3.15
+Net::FTP::I                         3.16  pkg:cpan/libnet@3.16
+Net::FTP::L                         3.16  pkg:cpan/libnet@3.16
 Net::FTP::Mock                     0.103300  pkg:cpan/Net-FTP-Mock@0.103300
 Net::FTP::Path::Iter                0.07  pkg:cpan/Net-FTP-Path-Iter@0.07
 Net::FTP::Path::Iter::Dir           0.07  pkg:cpan/Net-FTP-Path-Iter@0.07
@@ -143671,7 +143677,7 @@ Net::FTP::Throttle                  0.32  pkg:cpan/Net-FTP-Throttle@0.32
 Net::FTP::Tiny                     0.002  pkg:cpan/Net-FTP-Tiny@0.002
 Net::FTP::Versioning                0.01  pkg:cpan/Net-FTP-Versioning@0.01
 Net::FTP::blat                      0.03  pkg:cpan/Net-FTP-blat@0.03
-Net::FTP::dataconn                  3.15  pkg:cpan/libnet@3.15
+Net::FTP::dataconn                  3.16  pkg:cpan/libnet@3.16
 Net::FTPSSL                         0.42  pkg:cpan/Net-FTPSSL@0.42
 Net::FTPSSL::Robust                 0.06  pkg:cpan/Net-FTPSSL-Robust@0.06
 Net::FTPServer                     1.125  pkg:cpan/Net-FTPServer@1.125
@@ -145473,13 +145479,13 @@ Net::NISPlus::Group                undef  pkg:cpan/NISPlus@0.06-alpha
 Net::NISPlus::Object               undef  pkg:cpan/NISPlus@0.06-alpha
 Net::NISPlus::Table                undef  pkg:cpan/NISPlus@0.06-alpha
 Net::NISplusTied                    0.02  pkg:cpan/Net-NISplusTied@0.02?ext=tgz
-Net::NNTP                           3.15  pkg:cpan/libnet@3.15
+Net::NNTP                           3.16  pkg:cpan/libnet@3.16
 Net::NNTP2                           0.6  pkg:cpan/newslib@0.84
 Net::NNTP::Auth                        1  pkg:cpan/newslib@0.84
 Net::NNTP::Client                    0.6  pkg:cpan/newslib@0.84
 Net::NNTP::Functions                0.21  pkg:cpan/newslib@0.84
 Net::NNTP::Proxy                    0.54  pkg:cpan/newslib@0.84
-Net::NNTP::_SSL                     3.15  pkg:cpan/libnet@3.15
+Net::NNTP::_SSL                     3.16  pkg:cpan/libnet@3.16
 Net::NSCA::Client                  0.009002  pkg:cpan/Net-NSCA-Client@0.009002
 Net::NSCA::Client::Connection      0.009002  pkg:cpan/Net-NSCA-Client@0.009002
 Net::NSCA::Client::Connection::TLS 0.009002  pkg:cpan/Net-NSCA-Client@0.009002
@@ -145541,7 +145547,7 @@ Net::Netfilter::NetFlow::Utils     1.113260  pkg:cpan/Net-Netfilter-NetFlow@1.11
 Net::Netflix                        0.05  pkg:cpan/Net-Netflix@0.05
 Net::Netid                          0.02  pkg:cpan/Net-Netid@0.02
 Net::Netmask                       2.0003  pkg:cpan/Net-Netmask@2.0003
-Net::Netrc                          3.15  pkg:cpan/libnet@3.15
+Net::Netrc                          3.16  pkg:cpan/libnet@3.16
 Net::NfDump                         1.33  pkg:cpan/Net-NfDump@1.33
 Net::NfDump::Fields                undef  pkg:cpan/Net-NfDump@1.33
 Net::NicoVideo                      0.28  pkg:cpan/Net-NicoVideo@0.28
@@ -146067,13 +146073,13 @@ Net::PMP::Profile::TypeConstraints 0.102  pkg:cpan/Net-PMP-Profile@0.102
 Net::PMP::Profile::Video           0.102  pkg:cpan/Net-PMP-Profile@0.102
 Net::PMP::Schema                   0.006  pkg:cpan/Net-PMP@0.006
 Net::PMP::TypeConstraints          0.006  pkg:cpan/Net-PMP@0.006
-Net::POP3                           3.15  pkg:cpan/libnet@3.15
+Net::POP3                           3.16  pkg:cpan/libnet@3.16
 Net::POP3::PerMsgHandler            0.03  pkg:cpan/Net-POP3-PerMsgHandler@0.03
 Net::POP3::PerMsgHandler::Control   0.01  pkg:cpan/Net-POP3-PerMsgHandler@0.03
 Net::POP3::PerMsgHandler::Message   0.01  pkg:cpan/Net-POP3-PerMsgHandler@0.03
 Net::POP3::SSLWrapper               0.06  pkg:cpan/Net-POP3-SSLWrapper@0.06
 Net::POP3::XOAuth2                 v0.0.2  pkg:cpan/Net-POP3-XOAuth2@0.0.2
-Net::POP3::_SSL                     3.15  pkg:cpan/libnet@3.15
+Net::POP3::_SSL                     3.16  pkg:cpan/libnet@3.16
 Net::POP3::_SSL_Socket              0.91  pkg:cpan/Net-SSLGlue@1.053
 Net::POP3::_SSLified                0.91  pkg:cpan/Net-SSLGlue@1.053
 Net::POP3S                          0.12  pkg:cpan/Net-POP3S@0.12
@@ -146906,7 +146912,7 @@ Net::SMS::Web                      0.015  pkg:cpan/Net-SMS-Web@0.015
 Net::SMS::Web::Action              0.015  pkg:cpan/Net-SMS-Web@0.015
 Net::SMS::WorldText                  1.3  pkg:cpan/Net-SMS-WorldText@1.3
 Net::SMS::WorldText::Group           1.3  pkg:cpan/Net-SMS-WorldText@1.3
-Net::SMTP                           3.15  pkg:cpan/libnet@3.15
+Net::SMTP                           3.16  pkg:cpan/libnet@3.16
 Net::SMTP::BetterConnecting         1.00  pkg:cpan/TheSchwartz-Worker-SendEmail@1.00
 Net::SMTP::Bulk                     0.24  pkg:cpan/Net-SMTP-Bulk@0.24
 Net::SMTP::Bulk::AnyEvent           0.24  pkg:cpan/Net-SMTP-Bulk@0.24
@@ -146928,7 +146934,7 @@ Net::SMTP::Verify                   1.04  pkg:cpan/Net-SMTP-Verify@1.04
 Net::SMTP::Verify::App              1.04  pkg:cpan/Net-SMTP-Verify@1.04
 Net::SMTP::Verify::Result           1.04  pkg:cpan/Net-SMTP-Verify@1.04
 Net::SMTP::Verify::ResultSet        1.04  pkg:cpan/Net-SMTP-Verify@1.04
-Net::SMTP::_SSL                     3.15  pkg:cpan/libnet@3.15
+Net::SMTP::_SSL                     3.16  pkg:cpan/libnet@3.16
 Net::SMTP::_SSL_Socket                 1  pkg:cpan/Net-SSLGlue@1.053
 Net::SMTP::_SSLified                   1  pkg:cpan/Net-SSLGlue@1.053
 Net::SMTPS                          0.10  pkg:cpan/Net-SMTPS@0.10
@@ -147742,7 +147748,7 @@ Net::Thumper                        0.03  pkg:cpan/Net-Thumper@0.03
 Net::TiVo                           0.11  pkg:cpan/Net-TiVo@0.11
 Net::TiVo::Folder                  undef  pkg:cpan/Net-TiVo@0.11
 Net::TiVo::Show                    undef  pkg:cpan/Net-TiVo@0.11
-Net::Time                           3.15  pkg:cpan/libnet@3.15
+Net::Time                           3.16  pkg:cpan/libnet@3.16
 Net::TinyERP                        0.09  pkg:cpan/Net-TinyERP@0.09
 Net::TinyERP::NotaFiscal           undef  pkg:cpan/Net-TinyERP@0.09
 Net::TinyERP::NotaFiscalServicos   undef  pkg:cpan/Net-TinyERP@0.09
@@ -152981,7 +152987,7 @@ Org::Parser::Tiny::Node            0.005  pkg:cpan/Org-Parser-Tiny@0.005
 Org::Parser::Tiny::Node::Document  0.005  pkg:cpan/Org-Parser-Tiny@0.005
 Org::Parser::Tiny::Node::HasPreamble 0.005  pkg:cpan/Org-Parser-Tiny@0.005
 Org::Parser::Tiny::Node::Headline  0.005  pkg:cpan/Org-Parser-Tiny@0.005
-Org::ReadTables                    0.000002  pkg:cpan/Org-ReadTables@v0.0.2
+Org::ReadTables                    0.000003  pkg:cpan/Org-ReadTables@v0.0.3
 Org::Shell                         0.001  pkg:cpan/Org-Shell@0.001
 Org::Shell::Commands               0.001  pkg:cpan/Org-Shell@0.001
 Org::To::ANSIText                  0.001  pkg:cpan/Org-To-ANSIText@0.001
@@ -206928,7 +206934,7 @@ SVG::VCD::Taxon                    undef  pkg:cpan/SVG-VCD@0.4
 SVG::XML                            2.89  pkg:cpan/SVG@2.89
 SVGExtension                        1.06  pkg:cpan/svg-svg2zinc@0.10
 SVGGraph                            0.07  pkg:cpan/SVGGraph@0.07
-SVGPDF                             1.000  pkg:cpan/SVGPDF@1.000
+SVGPDF                             1.001  pkg:cpan/SVGPDF@1.001
 SVGraph                             0.02  pkg:cpan/SVGraph@0.02
 SVK                                v2.2.3  pkg:cpan/SVK@v2.2.3
 SVK::Accessor                      undef  pkg:cpan/SVK@v2.2.3
