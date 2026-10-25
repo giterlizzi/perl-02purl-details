@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 25 Oct 2026 18:39:00 GMT
+Last-Updated: Sun, 25 Oct 2026 22:13:02 GMT
 Line-Count: 262430
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -31589,10 +31589,10 @@ Business::TrueLayer::User          undef  pkg:cpan/Business-TrueLayer@0.05
 Business::TrueLayer::Webhook       undef  pkg:cpan/Business-TrueLayer@0.05
 Business::TrueLayer::Webhook::Mandate undef  pkg:cpan/Business-TrueLayer@0.05
 Business::TrueLayer::Webhook::Resource undef  pkg:cpan/Business-TrueLayer@0.05
-Business::UDC                        0.1  pkg:cpan/Business-UDC@0.10
-Business::UDC::Grammar               0.1  pkg:cpan/Business-UDC@0.10
-Business::UDC::Parser                0.1  pkg:cpan/Business-UDC@0.10
-Business::UDC::Tokenizer             0.1  pkg:cpan/Business-UDC@0.10
+Business::UDC                       0.11  pkg:cpan/Business-UDC@0.11
+Business::UDC::Grammar              0.11  pkg:cpan/Business-UDC@0.11
+Business::UDC::Parser               0.11  pkg:cpan/Business-UDC@0.11
+Business::UDC::Tokenizer            0.11  pkg:cpan/Business-UDC@0.11
 Business::UPC                       0.06  pkg:cpan/Business-UPC@0.06
 Business::UPS                       2.04  pkg:cpan/Business-UPS@2.04
 Business::UPS::Tracking             1.13  pkg:cpan/Business-UPS-Tracking@1.13
@@ -68427,10 +68427,10 @@ Dist::Zilla::Plugin::DistINI       6.040  pkg:cpan/Dist-Zilla@6.040
 Dist::Zilla::Plugin::DistIller::MetaGeneratedBy 0.1411  pkg:cpan/Dist-Iller@0.1411
 Dist::Zilla::Plugin::DistManifestTests 2.000006  pkg:cpan/Dist-Zilla-Plugin-Test-DistManifest@2.000006
 Dist::Zilla::Plugin::Docker         0.01  pkg:cpan/Dist-Zilla-Plugin-Docker@0.01
-Dist::Zilla::Plugin::Docker::API   0.104  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.104
-Dist::Zilla::Plugin::Docker::API::Client 0.104  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.104
-Dist::Zilla::Plugin::Docker::API::Result 0.104  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.104
-Dist::Zilla::Plugin::Docker::API::TagTemplate 0.104  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.104
+Dist::Zilla::Plugin::Docker::API   0.105  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.105
+Dist::Zilla::Plugin::Docker::API::Client 0.105  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.105
+Dist::Zilla::Plugin::Docker::API::Result 0.105  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.105
+Dist::Zilla::Plugin::Docker::API::TagTemplate 0.105  pkg:cpan/Dist-Zilla-Plugin-Docker-API@0.105
 Dist::Zilla::Plugin::Docker::DockerClient  0.01  pkg:cpan/Dist-Zilla-Plugin-Docker@0.01
 Dist::Zilla::Plugin::Documentation::SQL  0.03  pkg:cpan/Dist-Zilla-Plugin-Documentation-SQL@0.03
 Dist::Zilla::Plugin::Doppelgaenger 0.008  pkg:cpan/Dist-Zilla-Plugin-Doppelgaenger@0.008
@@ -68475,7 +68475,7 @@ Dist::Zilla::Plugin::For::App::shcompgen  0.04  pkg:cpan/Dist-Zilla-Plugin-For-A
 Dist::Zilla::Plugin::For::Data::Sah 0.004  pkg:cpan/Dist-Zilla-Plugin-For-Data-Sah@0.004
 Dist::Zilla::Plugin::For::DefHash::Examples 0.001  pkg:cpan/Dist-Zilla-Plugin-For-DefHash-Examples@0.001
 Dist::Zilla::Plugin::FullFaker     1.002  pkg:cpan/Dist-Zilla-Plugin-FullFaker@1.002
-Dist::Zilla::Plugin::GatherAgentContext 0.001  pkg:cpan/Dist-Zilla-Plugin-GatherAgentContext@0.001
+Dist::Zilla::Plugin::GatherAgentContext 0.002  pkg:cpan/Dist-Zilla-Plugin-GatherAgentContext@0.002
 Dist::Zilla::Plugin::GatherDir     6.040  pkg:cpan/Dist-Zilla@6.040
 Dist::Zilla::Plugin::GatherDir::Template 6.040  pkg:cpan/Dist-Zilla@6.040
 Dist::Zilla::Plugin::GatherFile    6.040  pkg:cpan/Dist-Zilla@6.040
@@ -118127,7 +118127,7 @@ LinkEmbedder::Link::oEmbed         undef  pkg:cpan/LinkEmbedder@1.20
 LinkedList::Single                 2.000000  pkg:cpan/LinkedList-Single@v2.0.0
 LinkedList::Single::Doc            2.000000  pkg:cpan/LinkedList-Single@v2.0.0
 LinkedList::Single::TestUtil       2.000000  pkg:cpan/LinkedList-Single@v2.0.0
-Linode::API                        0.002  pkg:cpan/Linode-API@0.002
+Linode::API                        0.003  pkg:cpan/Linode-API@0.003
 Linux::ACL                          0.05  pkg:cpan/Linux-ACL@0.05
 Linux::AIO                           1.9  pkg:cpan/Linux-AIO@1.9
 Linux::APT                          0.02  pkg:cpan/Linux-APT@0.02
@@ -122940,27 +122940,27 @@ MARC::Transform                    0.003009  pkg:cpan/MARC-Transform@0.003009
 MARC::Utils::MARC2Ini               0.02  pkg:cpan/MARC-Utils-MARC2Ini@0.02
 MARC::Utils::MARC2MARC_in_JSON      0.05  pkg:cpan/MARC-Utils-MARC2MARC_in_JSON@0.05
 MARC::Utils::MARC2Pairs             0.02  pkg:cpan/MARC-Utils-MARC2Pairs@0.02
-MARC::Validator                     0.24  pkg:cpan/MARC-Validator@0.24
-MARC::Validator::Abstract           0.24  pkg:cpan/MARC-Validator@0.24
-MARC::Validator::Const              0.24  pkg:cpan/MARC-Validator@0.24
+MARC::Validator                     0.25  pkg:cpan/MARC-Validator@0.25
+MARC::Validator::Abstract           0.25  pkg:cpan/MARC-Validator@0.25
+MARC::Validator::Const              0.25  pkg:cpan/MARC-Validator@0.25
 MARC::Validator::Filter             0.01  pkg:cpan/MARC-Validator-Filter@0.01
 MARC::Validator::Filter::Abstract   0.01  pkg:cpan/MARC-Validator-Filter@0.01
 MARC::Validator::Filter::Plugin::AACR2  0.01  pkg:cpan/MARC-Validator-Filter@0.01
 MARC::Validator::Filter::Plugin::Material  0.01  pkg:cpan/MARC-Validator-Filter@0.01
 MARC::Validator::Filter::Plugin::RDA  0.01  pkg:cpan/MARC-Validator-Filter@0.01
-MARC::Validator::Plugin::Field008   0.24  pkg:cpan/MARC-Validator@0.24
-MARC::Validator::Plugin::Field020   0.24  pkg:cpan/MARC-Validator@0.24
-MARC::Validator::Plugin::Field035   0.24  pkg:cpan/MARC-Validator@0.24
-MARC::Validator::Plugin::Field040   0.24  pkg:cpan/MARC-Validator@0.24
-MARC::Validator::Plugin::Field045   0.24  pkg:cpan/MARC-Validator@0.24
-MARC::Validator::Plugin::Field080   0.24  pkg:cpan/MARC-Validator@0.24
-MARC::Validator::Plugin::Field260   0.24  pkg:cpan/MARC-Validator@0.24
-MARC::Validator::Plugin::Field264   0.24  pkg:cpan/MARC-Validator@0.24
-MARC::Validator::Plugin::Field300   0.24  pkg:cpan/MARC-Validator@0.24
-MARC::Validator::Plugin::Field500   0.24  pkg:cpan/MARC-Validator@0.24
-MARC::Validator::Plugin::Field504   0.24  pkg:cpan/MARC-Validator@0.24
-MARC::Validator::Plugin::Field655   0.24  pkg:cpan/MARC-Validator@0.24
-MARC::Validator::Utils              0.24  pkg:cpan/MARC-Validator@0.24
+MARC::Validator::Plugin::Field008   0.25  pkg:cpan/MARC-Validator@0.25
+MARC::Validator::Plugin::Field020   0.25  pkg:cpan/MARC-Validator@0.25
+MARC::Validator::Plugin::Field035   0.25  pkg:cpan/MARC-Validator@0.25
+MARC::Validator::Plugin::Field040   0.25  pkg:cpan/MARC-Validator@0.25
+MARC::Validator::Plugin::Field045   0.25  pkg:cpan/MARC-Validator@0.25
+MARC::Validator::Plugin::Field080   0.25  pkg:cpan/MARC-Validator@0.25
+MARC::Validator::Plugin::Field260   0.25  pkg:cpan/MARC-Validator@0.25
+MARC::Validator::Plugin::Field264   0.25  pkg:cpan/MARC-Validator@0.25
+MARC::Validator::Plugin::Field300   0.25  pkg:cpan/MARC-Validator@0.25
+MARC::Validator::Plugin::Field500   0.25  pkg:cpan/MARC-Validator@0.25
+MARC::Validator::Plugin::Field504   0.25  pkg:cpan/MARC-Validator@0.25
+MARC::Validator::Plugin::Field655   0.25  pkg:cpan/MARC-Validator@0.25
+MARC::Validator::Utils              0.25  pkg:cpan/MARC-Validator@0.25
 MARC::Xform                         0.02  pkg:cpan/MARC-Xform@0.02
 MARC::Xform::AddRDA33x             undef  pkg:cpan/MARC-Xform@0.02
 MAS::TIFF::Compression::LZW        undef  pkg:cpan/MAS-TIFF@0.4
@@ -228497,7 +228497,7 @@ Text::FIGlet::Control               2.15  pkg:cpan/Text-FIGlet@2.19.4?ext=tgz
 Text::FIGlet::Font                 2.019003  pkg:cpan/Text-FIGlet@2.19.4?ext=tgz
 Text::FIGlet::Illuminated           2.19  pkg:cpan/Text-FIGlet@2.19.4?ext=tgz
 Text::FIGlet::Ransom                2.17  pkg:cpan/Text-FIGlet@2.19.4?ext=tgz
-Text::Fab                           0.08  pkg:cpan/Text-Fab@0.08
+Text::Fab                           0.09  pkg:cpan/Text-Fab@0.09
 Text::FakeXML                       0.02  pkg:cpan/Text-FakeXML@0.02
 Text::FastTemplate                  0.95  pkg:cpan/Text-FastTemplate@0.95
 Text::FileTree                      0.24  pkg:cpan/Text-FileTree@0.24
