@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 25 Oct 2026 02:40:47 GMT
+Last-Updated: Sun, 25 Oct 2026 08:51:38 GMT
 Line-Count: 262428
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -11121,8 +11121,8 @@ App::Greple::git                    1.00  pkg:cpan/App-Greple-git@1.00
 App::Greple::ical                   1.00  pkg:cpan/App-Greple-ical@1.00
 App::Greple::jq                     0.06  pkg:cpan/App-Greple-jq@0.06
 App::Greple::line                  undef  pkg:cpan/App-Greple@9.23
-App::Greple::md                     1.08  pkg:cpan/App-mdee@1.08
-App::Greple::md::Step              undef  pkg:cpan/App-mdee@1.08
+App::Greple::md                     1.09  pkg:cpan/App-mdee@1.09
+App::Greple::md::Step              undef  pkg:cpan/App-mdee@1.09
 App::Greple::msdoc                  1.07  pkg:cpan/App-Greple-msdoc@1.07
 App::Greple::perl                  undef  pkg:cpan/App-Greple@10.05
 App::Greple::pgp                   undef  pkg:cpan/App-Greple@10.05
@@ -15971,10 +15971,10 @@ App::annex_review_unused           0.006  pkg:cpan/Git-Annex@0.006
 App::annex_to_annex                0.008  pkg:cpan/Git-Annex@0.008
 App::annex_to_annex_dropunused     0.008  pkg:cpan/Git-Annex@0.008
 App::annex_to_annex_reinject       0.008  pkg:cpan/Git-Annex@0.008
-App::ansicolumn                    1.5801  pkg:cpan/App-ansicolumn@1.5801
-App::ansicolumn::Border            undef  pkg:cpan/App-ansicolumn@1.5801
-App::ansicolumn::Command           undef  pkg:cpan/App-ansicolumn@1.5801
-App::ansicolumn::default           undef  pkg:cpan/App-ansicolumn@1.5801
+App::ansicolumn                     1.59  pkg:cpan/App-ansicolumn@1.59
+App::ansicolumn::Border            undef  pkg:cpan/App-ansicolumn@1.59
+App::ansicolumn::Command           undef  pkg:cpan/App-ansicolumn@1.59
+App::ansicolumn::default           undef  pkg:cpan/App-ansicolumn@1.59
 App::ansiecho                       1.10  pkg:cpan/App-ansiecho@1.10
 App::ansiecho::Util                undef  pkg:cpan/App-ansiecho@1.10
 App::ansiexpand                     1.06  pkg:cpan/App-ansiexpand@1.06
@@ -16786,7 +16786,7 @@ App::manwrap::pm                   0.006  pkg:cpan/App-manwrap-pm@0.006
 App::matrixpack                    0.0014  pkg:cpan/App-matrixpack@0.0014
 App::mbxilinx                       0.13  pkg:cpan/Module-Build-Xilinx@0.13
 App::md2html                       0.001001  pkg:cpan/App-md2html@0.01.1
-App::mdee                           1.08  pkg:cpan/App-mdee@1.08
+App::mdee                           1.09  pkg:cpan/App-mdee@1.09
 App::merge_cpanfile                 0.01  pkg:cpan/App-merge_cpanfile@0.01
 App::metacpansearch                undef  pkg:cpan/App-metacpansearch@0.01
 App::metastasize                   0.002  pkg:cpan/App-metastasize@0.002
@@ -99324,8 +99324,8 @@ HP200LX::DBgui                      0.09  pkg:cpan/hp200lx-db@0.09
 HP200LX::DBgui::card                0.09  pkg:cpan/hp200lx-db@0.09
 HP200LX::DBgui::list                0.09  pkg:cpan/hp200lx-db@0.09
 HP200LX::DBgui::vpt                 0.09  pkg:cpan/hp200lx-db@0.09
-HP::Handy                           0.01  pkg:cpan/HP-Handy@0.01
-HP::Handy::SafeString               0.01  pkg:cpan/HP-Handy@0.01
+HP::Handy                           0.02  pkg:cpan/HP-Handy@0.02
+HP::Handy::SafeString               0.02  pkg:cpan/HP-Handy@0.02
 HPC::Runner                         2.48  pkg:cpan/HPC-Runner@2.48
 HPC::Runner::Command               3.002014  pkg:cpan/HPC-Runner-Command@3.2.14
 HPC::Runner::Command::Logger::JSON undef  pkg:cpan/HPC-Runner-Command@3.2.14
@@ -133422,8 +133422,8 @@ Mojo::DB::Results::Role::Struct    v0.1.1  pkg:cpan/Mojo-DB-Results-Role-Struct@
 Mojo::DB::Role::DBIx::Class        undef  pkg:cpan/Mojo-DB-Role-DBIx-Class@0.002
 Mojo::DB::Role::ResultsRoles       v0.1.1  pkg:cpan/Mojo-DB-Role-ResultsRoles@v0.1.1
 Mojo::DOM                          undef  pkg:cpan/Mojolicious@9.53
-Mojo::DOM58                        3.002  pkg:cpan/Mojo-DOM58@3.002
-Mojo::DOM58::Entities              3.002  pkg:cpan/Mojo-DOM58@3.002
+Mojo::DOM58                        3.003  pkg:cpan/Mojo-DOM58@3.003
+Mojo::DOM58::Entities              3.003  pkg:cpan/Mojo-DOM58@3.003
 Mojo::DOM::CSS                     undef  pkg:cpan/Mojolicious@9.53
 Mojo::DOM::HTML                    undef  pkg:cpan/Mojolicious@9.53
 Mojo::DOM::Role::Analyzer          0.015  pkg:cpan/Mojo-DOM-Role-Analyzer@0.015
@@ -228495,7 +228495,7 @@ Text::FIGlet::Control               2.15  pkg:cpan/Text-FIGlet@2.19.4?ext=tgz
 Text::FIGlet::Font                 2.019003  pkg:cpan/Text-FIGlet@2.19.4?ext=tgz
 Text::FIGlet::Illuminated           2.19  pkg:cpan/Text-FIGlet@2.19.4?ext=tgz
 Text::FIGlet::Ransom                2.17  pkg:cpan/Text-FIGlet@2.19.4?ext=tgz
-Text::Fab                           0.07  pkg:cpan/Text-Fab@0.07
+Text::Fab                           0.08  pkg:cpan/Text-Fab@0.08
 Text::FakeXML                       0.02  pkg:cpan/Text-FakeXML@0.02
 Text::FastTemplate                  0.95  pkg:cpan/Text-FastTemplate@0.95
 Text::FileTree                      0.24  pkg:cpan/Text-FileTree@0.24
