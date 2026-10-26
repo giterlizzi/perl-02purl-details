@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 26 Oct 2026 09:33:01 GMT
+Last-Updated: Mon, 26 Oct 2026 16:23:52 GMT
 Line-Count: 262467
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -11154,8 +11154,8 @@ App::Greple::git                    1.00  pkg:cpan/App-Greple-git@1.00
 App::Greple::ical                   1.00  pkg:cpan/App-Greple-ical@1.00
 App::Greple::jq                     0.06  pkg:cpan/App-Greple-jq@0.06
 App::Greple::line                  undef  pkg:cpan/App-Greple@9.23
-App::Greple::md                     1.11  pkg:cpan/App-mdee@1.11
-App::Greple::md::Step              undef  pkg:cpan/App-mdee@1.11
+App::Greple::md                     1.12  pkg:cpan/App-mdee@1.12
+App::Greple::md::Step              undef  pkg:cpan/App-mdee@1.12
 App::Greple::msdoc                  1.07  pkg:cpan/App-Greple-msdoc@1.07
 App::Greple::perl                  undef  pkg:cpan/App-Greple@10.05
 App::Greple::pgp                   undef  pkg:cpan/App-Greple@10.05
@@ -16004,10 +16004,10 @@ App::annex_review_unused           0.006  pkg:cpan/Git-Annex@0.006
 App::annex_to_annex                0.008  pkg:cpan/Git-Annex@0.008
 App::annex_to_annex_dropunused     0.008  pkg:cpan/Git-Annex@0.008
 App::annex_to_annex_reinject       0.008  pkg:cpan/Git-Annex@0.008
-App::ansicolumn                     1.59  pkg:cpan/App-ansicolumn@1.59
-App::ansicolumn::Border            undef  pkg:cpan/App-ansicolumn@1.59
-App::ansicolumn::Command           undef  pkg:cpan/App-ansicolumn@1.59
-App::ansicolumn::default           undef  pkg:cpan/App-ansicolumn@1.59
+App::ansicolumn                     1.60  pkg:cpan/App-ansicolumn@1.60
+App::ansicolumn::Border            undef  pkg:cpan/App-ansicolumn@1.60
+App::ansicolumn::Command           undef  pkg:cpan/App-ansicolumn@1.60
+App::ansicolumn::default           undef  pkg:cpan/App-ansicolumn@1.60
 App::ansiecho                       1.10  pkg:cpan/App-ansiecho@1.10
 App::ansiecho::Util                undef  pkg:cpan/App-ansiecho@1.10
 App::ansiexpand                     1.06  pkg:cpan/App-ansiexpand@1.06
@@ -16819,7 +16819,7 @@ App::manwrap::pm                   0.006  pkg:cpan/App-manwrap-pm@0.006
 App::matrixpack                    0.0014  pkg:cpan/App-matrixpack@0.0014
 App::mbxilinx                       0.13  pkg:cpan/Module-Build-Xilinx@0.13
 App::md2html                       0.001001  pkg:cpan/App-md2html@0.01.1
-App::mdee                           1.11  pkg:cpan/App-mdee@1.11
+App::mdee                           1.12  pkg:cpan/App-mdee@1.12
 App::merge_cpanfile                 0.01  pkg:cpan/App-merge_cpanfile@0.01
 App::metacpansearch                undef  pkg:cpan/App-metacpansearch@0.01
 App::metastasize                   0.002  pkg:cpan/App-metastasize@0.002
@@ -60215,7 +60215,7 @@ Data::Money::Converter              0.07  pkg:cpan/Data-Money-Converter@0.07
 Data::Money::Converter::WebserviceX  0.07  pkg:cpan/Data-Money-Converter-WebserviceX@0.07
 Data::Money::Exception             undef  pkg:cpan/Data-Money@0.06
 Data::Money::Types                  0.04  pkg:cpan/Data-Money@0.07
-Data::MoneyCurrency                 0.31  pkg:cpan/Data-MoneyCurrency@0.31
+Data::MoneyCurrency                 0.32  pkg:cpan/Data-MoneyCurrency@0.32
 Data::Morph                        1.140400  pkg:cpan/Data-Morph@1.140400
 Data::Morph::Backend::DBIC         1.140400  pkg:cpan/Data-Morph@1.140400
 Data::Morph::Backend::Object       1.140400  pkg:cpan/Data-Morph@1.140400
@@ -84373,7 +84373,7 @@ Geo::WebService::OpenCellID::Response::measure  0.06  pkg:cpan/Geo-WebService-Op
 Geo::WebService::OpenCellID::Response::measure::add  0.06  pkg:cpan/Geo-WebService-OpenCellID@0.06
 Geo::WebService::OpenCellID::cell   0.06  pkg:cpan/Geo-WebService-OpenCellID@0.06
 Geo::WebService::OpenCellID::measure  0.06  pkg:cpan/Geo-WebService-OpenCellID@0.06
-Geo::What3Words                    v3.0.4  pkg:cpan/Geo-What3Words@3.0.4
+Geo::What3Words                    v3.0.6  pkg:cpan/Geo-What3Words@3.0.6
 Geo::Yandex                          0.3  pkg:cpan/Geo-Yandex@0.3
 Geo::Yandex::Location                0.3  pkg:cpan/Geo-Yandex@0.3
 Geo::iArea                         0.000001  pkg:cpan/Geo-iArea@0.0.1
@@ -219815,7 +219815,7 @@ String::ZeroButTrue                  0.2  pkg:cpan/String-ZeroButTrue@0.2
 StringEvolver                       0.03  pkg:cpan/Algorithm-Evolve@0.03
 StringHandle                        0.20  pkg:cpan/Chess-PGN-Parse@0.20
 Stringify::Deep                     0.03  pkg:cpan/Stringify-Deep@0.03
-Strong::Random                      0.94  pkg:cpan/Strong-Random@0.94
+Strong::Random                      0.95  pkg:cpan/Strong-Random@0.95
 Struct::Codec                       0.10  pkg:cpan/Struct-Codec@0.10
 Struct::Compare                      1.0  pkg:cpan/Struct-Compare@1.0.1
 Struct::Conditional                 1.04  pkg:cpan/Struct-Conditional@1.04
