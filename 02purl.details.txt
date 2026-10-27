@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 27 Oct 2026 09:30:03 GMT
+Last-Updated: Tue, 27 Oct 2026 15:38:58 GMT
 Line-Count: 262487
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -16248,7 +16248,7 @@ App::dirstrata1                    0.051  pkg:cpan/App-dirstrata1@0.051
 App::distfind                      1.101400  pkg:cpan/App-distfind@1.101400
 App::dnsq                          v1.1.0  pkg:cpan/App-dnsq@1.1.0
 App::docsisious                     0.10  pkg:cpan/App-docsisious@0.10
-App::dozo                           1.01  pkg:cpan/App-dozo@1.01
+App::dozo                           1.02  pkg:cpan/App-dozo@1.02
 App::dropboxapi                     2.13  pkg:cpan/App-dropboxapi@2.13
 App::dt                            0.007  pkg:cpan/App-dt@0.007
 App::dufolder                      0.031  pkg:cpan/App-dufolder@0.031
@@ -33957,7 +33957,7 @@ CPAN::02Packages::Search           v1.0.0  pkg:cpan/CPAN-02Packages-Search@v1.0.
 CPAN::API::BuildPL                 0.002  pkg:cpan/CPAN-API-BuildPL@0.002
 CPAN::Admin                        5.501  pkg:cpan/CPAN@2.41
 CPAN::Audit                        20261013.002  pkg:cpan/CPAN-Audit@20261013.002
-CPAN::Audit::DB                    20261025.002  pkg:cpan/CPANSA-DB@20261025.002
+CPAN::Audit::DB                    20261027.001  pkg:cpan/CPANSA-DB@20261027.001
 CPAN::Audit::Discover              1.001  pkg:cpan/CPAN-Audit@20261013.002
 CPAN::Audit::Discover::Cpanfile    1.001  pkg:cpan/CPAN-Audit@20261013.002
 CPAN::Audit::Discover::CpanfileSnapshot 1.001  pkg:cpan/CPAN-Audit@20261013.002
@@ -34747,7 +34747,7 @@ CPANPLUS::YACSmoke::ReAssemble      1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::SortVers        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::YACSmoke::locallib        1.08  pkg:cpan/CPANPLUS-YACSmoke@1.08
 CPANPLUS::inc                      undef  pkg:cpan/CPANPLUS@0.84
-CPANSA::DB                         20261025.002  pkg:cpan/CPANSA-DB@20261025.002
+CPANSA::DB                         20261027.001  pkg:cpan/CPANSA-DB@20261027.001
 CPANSEC::Admin                     0.001  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command            undef  pkg:cpan/CPANSec-Admin@0.001
 CPANSEC::Admin::Command::Amend     undef  pkg:cpan/CPANSec-Admin@0.001
@@ -72705,7 +72705,7 @@ Erlang::Parser::Parser             undef  pkg:cpan/Erlang-Parser@0.6
 Erlang::Port                        0.04  pkg:cpan/Erlang-Port@0.04
 Err                                 0.02  pkg:cpan/Err@0.02
 Errno::AnyString                    1.03  pkg:cpan/Errno-AnyString@1.03
-Error                              0.17030  pkg:cpan/Error@0.17030
+Error                              0.17031  pkg:cpan/Error@0.17031
 Error::Base                        v1.0.2  pkg:cpan/Error-Base@v1.0.2
 Error::Base::Cookbook              v1.0.2  pkg:cpan/Error-Base@v1.0.2
 Error::Base::Late                      0  pkg:cpan/Error-Base@v1.0.2
@@ -72785,7 +72785,7 @@ Error::RRDs                        1.015  pkg:cpan/rrdpoller@1.5.0
 Error::Return                      1.110510  pkg:cpan/Error-Return@1.110510
 Error::Show                        0.005001  pkg:cpan/Error-Show@v0.5.1
 Error::Show::Exception             0.005001  pkg:cpan/Error-Show@v0.5.1
-Error::Simple                      0.17030  pkg:cpan/Error@0.17030
+Error::Simple                      0.17031  pkg:cpan/Error@0.17031
 Error::SystemException              0.05  pkg:cpan/Error-Subclasses@0.05
 Error::Tiny                         0.03  pkg:cpan/Error-Tiny@0.03
 Error::Tiny::Catch                 undef  pkg:cpan/Error-Tiny@0.03
@@ -72798,8 +72798,8 @@ Error::TypeTiny::Compilation       2.010001  pkg:cpan/Type-Tiny@2.010001
 Error::TypeTiny::WrongNumberOfParameters 2.010001  pkg:cpan/Type-Tiny@2.010001
 Error::Unhandled                    1.02  pkg:cpan/Error-Unhandled@1.02
 Error::Wait                         0.05  pkg:cpan/Error-Wait@0.05
-Error::WarnDie                     0.17030  pkg:cpan/Error@0.17030
-Error::subs                        0.17030  pkg:cpan/Error@0.17030
+Error::WarnDie                     0.17031  pkg:cpan/Error@0.17031
+Error::subs                        0.17031  pkg:cpan/Error@0.17031
 Errors::Errors                      1.26  pkg:cpan/WebTools@1.27
 Escape::Houdini                    v0.3.3  pkg:cpan/Escape-Houdini@0.3.3
 Eshu                                0.14  pkg:cpan/Eshu@0.14
@@ -103298,7 +103298,7 @@ Hash::Typed                         0.07  pkg:cpan/Hash-Typed@0.07
 Hash::Union                         0.03  pkg:cpan/Hash-Union@0.03
 Hash::Unique                        0.06  pkg:cpan/Hash-Unique@0.06
 Hash::Util                          0.32  pkg:cpan/perl@5.42.3
-Hash::Util::Exists::Tiny            1.03  pkg:cpan/Hash-Util-Exists-Tiny@1.03
+Hash::Util::Exists::Tiny            1.04  pkg:cpan/Hash-Util-Exists-Tiny@1.04
 Hash::Util::FieldHash               1.27  pkg:cpan/perl@5.42.3
 Hash::Util::FieldHash::Compat       0.11  pkg:cpan/Hash-Util-FieldHash-Compat@0.11
 Hash::Util::FieldHash::Compat::Heavy  0.11  pkg:cpan/Hash-Util-FieldHash-Compat@0.11
@@ -220033,7 +220033,7 @@ Sub::PatternMatching                1.04  pkg:cpan/Sub-PatternMatching@1.04
 Sub::Pipe                           0.03  pkg:cpan/Sub-Pipe@0.03
 Sub::Pipeline                      0.011  pkg:cpan/Sub-Pipeline@0.011
 Sub::Prepend                        0.01  pkg:cpan/Sub-Prepend@0.01
-Sub::Private                        0.07  pkg:cpan/Sub-Private@0.07
+Sub::Private                        0.08  pkg:cpan/Sub-Private@0.08
 Sub::Protected                      0.03  pkg:cpan/Sub-Protected@0.03
 Sub::Prototype                      0.03  pkg:cpan/Sub-Prototype@0.03
 Sub::Prototype::Util                0.11  pkg:cpan/Sub-Prototype-Util@0.11
