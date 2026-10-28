@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 28 Oct 2026 00:51:12 GMT
-Line-Count: 262536
+Last-Updated: Wed, 28 Oct 2026 07:48:05 GMT
+Line-Count: 262540
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -77313,10 +77313,10 @@ FindApp::Utils::Carp               undef  pkg:cpan/FindApp@v0.0.7
 FindApp::Utils::Debug                  1  pkg:cpan/FindApp@v0.0.7
 FindApp::Utils::Package::Object    undef  pkg:cpan/FindApp@v0.0.7
 FindBin                             1.54  pkg:cpan/FindBin@1.54
-FindBin::Bin                       2.000000  pkg:cpan/FindBin-libs@v5.0.1
-FindBin::Parents                   0.001000  pkg:cpan/FindBin-libs@v5.0.1
+FindBin::Bin                       2.000000  pkg:cpan/FindBin-libs@v5.0.3
+FindBin::Parents                   0.001000  pkg:cpan/FindBin-libs@v5.0.3
 FindBin::Real                       1.05  pkg:cpan/FindBin-Real@1.05
-FindBin::libs                      5.000001  pkg:cpan/FindBin-libs@v5.0.1
+FindBin::libs                      5.000003  pkg:cpan/FindBin-libs@v5.0.3
 FindBinNew                          1.51  pkg:cpan/Bio-Grid-Run-SGE@0.066
 FindEvent                           0.01  pkg:cpan/Video-Manip@0.02
 FindEvent::Field                   undef  pkg:cpan/Video-Manip@0.02
@@ -123413,7 +123413,7 @@ MHonArc::UTF8::VISCII              2.006024  pkg:cpan/MHonArc@2.6.24
 MIDI                                0.84  pkg:cpan/MIDI-Perl@0.84
 MIDI::ALSA                          1.22  pkg:cpan/MIDI-ALSA@1.22
 MIDI::Chord::Guitar                0.0706  pkg:cpan/MIDI-Chord-Guitar@0.0706
-MIDI::Device                       0.0102  pkg:cpan/MIDI-Device@0.0102
+MIDI::Device                       0.0200  pkg:cpan/MIDI-Device@0.0200
 MIDI::Device::DX7                  0.0101  pkg:cpan/MIDI-Device-DX7@0.0101
 MIDI::Drummer::Tiny                0.7102  pkg:cpan/MIDI-Drummer-Tiny@0.7102
 MIDI::Drummer::Tiny::Grooves       0.7102  pkg:cpan/MIDI-Drummer-Tiny@0.7102
@@ -205886,26 +205886,30 @@ SPVM::Time::HiRes::Util            undef  pkg:cpan/SPVM-Time-HiRes@0.003
 SPVM::Time::Local                  0.118  pkg:cpan/SPVM-Time-Local@0.118
 SPVM::Time::Piece                  0.012  pkg:cpan/SPVM-Time-Piece@0.012
 SPVM::Time::Seconds                undef  pkg:cpan/SPVM-Time-Piece@0.012
-SPVM::UV                           0.003  pkg:cpan/SPVM-UV@0.003
-SPVM::UV::Callback::Async          undef  pkg:cpan/SPVM-UV@0.003
-SPVM::UV::Callback::Close          undef  pkg:cpan/SPVM-UV@0.003
-SPVM::UV::Callback::Idle           undef  pkg:cpan/SPVM-UV@0.003
-SPVM::UV::Callback::Poll           undef  pkg:cpan/SPVM-UV@0.003
-SPVM::UV::Callback::Read           undef  pkg:cpan/SPVM-UV@0.003
-SPVM::UV::Callback::Timer          undef  pkg:cpan/SPVM-UV@0.003
-SPVM::UV::Callback::Write          undef  pkg:cpan/SPVM-UV@0.003
-SPVM::UV::ConfigBuilder            undef  pkg:cpan/SPVM-UV@0.003
-SPVM::UV::Handle                   undef  pkg:cpan/SPVM-UV@0.003
-SPVM::UV::Handle::Async            undef  pkg:cpan/SPVM-UV@0.003
-SPVM::UV::Handle::Idle             undef  pkg:cpan/SPVM-UV@0.003
-SPVM::UV::Handle::Pipe             undef  pkg:cpan/SPVM-UV@0.003
-SPVM::UV::Handle::Poll             undef  pkg:cpan/SPVM-UV@0.003
-SPVM::UV::Handle::Stream           undef  pkg:cpan/SPVM-UV@0.003
-SPVM::UV::Handle::Timer            undef  pkg:cpan/SPVM-UV@0.003
-SPVM::UV::Loop                     undef  pkg:cpan/SPVM-UV@0.003
-SPVM::UV::Request                  undef  pkg:cpan/SPVM-UV@0.003
-SPVM::UV::Request::Write           undef  pkg:cpan/SPVM-UV@0.003
-SPVM::UV::Resource::UV             undef  pkg:cpan/SPVM-UV@0.003
+SPVM::UV                           0.004  pkg:cpan/SPVM-UV@0.004
+SPVM::UV::Callback::Async          undef  pkg:cpan/SPVM-UV@0.004
+SPVM::UV::Callback::Close          undef  pkg:cpan/SPVM-UV@0.004
+SPVM::UV::Callback::Exit           undef  pkg:cpan/SPVM-UV@0.004
+SPVM::UV::Callback::Idle           undef  pkg:cpan/SPVM-UV@0.004
+SPVM::UV::Callback::Poll           undef  pkg:cpan/SPVM-UV@0.004
+SPVM::UV::Callback::Read           undef  pkg:cpan/SPVM-UV@0.004
+SPVM::UV::Callback::Timer          undef  pkg:cpan/SPVM-UV@0.004
+SPVM::UV::Callback::Write          undef  pkg:cpan/SPVM-UV@0.004
+SPVM::UV::ConfigBuilder            undef  pkg:cpan/SPVM-UV@0.004
+SPVM::UV::Handle                   undef  pkg:cpan/SPVM-UV@0.004
+SPVM::UV::Handle::Async            undef  pkg:cpan/SPVM-UV@0.004
+SPVM::UV::Handle::Idle             undef  pkg:cpan/SPVM-UV@0.004
+SPVM::UV::Handle::Pipe             undef  pkg:cpan/SPVM-UV@0.004
+SPVM::UV::Handle::Poll             undef  pkg:cpan/SPVM-UV@0.004
+SPVM::UV::Handle::Process          undef  pkg:cpan/SPVM-UV@0.004
+SPVM::UV::Handle::Stream           undef  pkg:cpan/SPVM-UV@0.004
+SPVM::UV::Handle::Timer            undef  pkg:cpan/SPVM-UV@0.004
+SPVM::UV::Loop                     undef  pkg:cpan/SPVM-UV@0.004
+SPVM::UV::ProcessOptions           undef  pkg:cpan/SPVM-UV@0.004
+SPVM::UV::Request                  undef  pkg:cpan/SPVM-UV@0.004
+SPVM::UV::Request::Write           undef  pkg:cpan/SPVM-UV@0.004
+SPVM::UV::Resource::UV             undef  pkg:cpan/SPVM-UV@0.004
+SPVM::UV::StdioContainer           undef  pkg:cpan/SPVM-UV@0.004
 SPVM::Unicode                      0.058  pkg:cpan/SPVM-Unicode@0.058
 SPVM::Unicode::Normalize           0.011  pkg:cpan/SPVM-Unicode-Normalize@0.011
 SQ                                 v0.0.6  pkg:cpan/SQ@0.0.6
@@ -220084,7 +220088,7 @@ Sub::PatternMatching                1.04  pkg:cpan/Sub-PatternMatching@1.04
 Sub::Pipe                           0.03  pkg:cpan/Sub-Pipe@0.03
 Sub::Pipeline                      0.011  pkg:cpan/Sub-Pipeline@0.011
 Sub::Prepend                        0.01  pkg:cpan/Sub-Prepend@0.01
-Sub::Private                        0.08  pkg:cpan/Sub-Private@0.08
+Sub::Private                        0.09  pkg:cpan/Sub-Private@0.09
 Sub::Protected                      0.03  pkg:cpan/Sub-Protected@0.03
 Sub::Prototype                      0.03  pkg:cpan/Sub-Prototype@0.03
 Sub::Prototype::Util                0.11  pkg:cpan/Sub-Prototype-Util@0.11
