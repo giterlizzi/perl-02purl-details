@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 27 Oct 2026 20:21:02 GMT
-Line-Count: 262538
+Last-Updated: Wed, 28 Oct 2026 00:51:12 GMT
+Line-Count: 262536
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -3587,42 +3587,42 @@ Acme::PSON                          0.05  pkg:cpan/Acme-PSON@0.05
 Acme::Padre::PlayCode               0.13  pkg:cpan/Acme-Padre-PlayCode@0.13
 Acme::Palindrome                     0.1  pkg:cpan/Acme-Palindrome@0.1
 Acme::Pano::Util                   0.011  pkg:cpan/Acme-Pano-Util@0.011
-Acme::Parataxis                    v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Actor             v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Blocking          v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::CancellationToken v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Channel           v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Compat            v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Driver            v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Driver::IOAsync   v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Driver::Mojo      v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Error             v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Error::Cancelled  v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Error::Nursery    v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Error::STM_Retry  v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Error::Supervisor v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Error::Timeout    v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Future            v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Generator         v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Local             v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Monitor           v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Nursery           v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::RateLimiter       v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Semaphore         v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Semaphore::Guard  v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Signal            v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Stream            v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Supervisor        v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Sync              v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Sync::Barrier     v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Sync::Mutex       v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Sync::Mutex::Guard v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Sync::Once        v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Sync::RwLock      v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Sync::RwLock::Guard v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Sync::WaitGroup   v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::TVar              v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
-Acme::Parataxis::Ticker            v0.1.1  pkg:cpan/Acme-Parataxis@v0.1.1
+Acme::Parataxis                    v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Actor             v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Blocking          v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::CancellationToken v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Channel           v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Compat            v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Driver            v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Driver::IOAsync   v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Driver::Mojo      v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Error             v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Error::Cancelled  v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Error::Nursery    v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Error::STM_Retry  v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Error::Supervisor v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Error::Timeout    v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Future            v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Generator         v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Local             v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Monitor           v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Nursery           v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::RateLimiter       v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Semaphore         v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Semaphore::Guard  v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Signal            v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Stream            v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Supervisor        v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Sync              v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Sync::Barrier     v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Sync::Mutex       v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Sync::Mutex::Guard v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Sync::Once        v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Sync::RwLock      v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Sync::RwLock::Guard v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Sync::WaitGroup   v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::TVar              v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
+Acme::Parataxis::Ticker            v0.1.2  pkg:cpan/Acme-Parataxis@v0.1.2
 Acme::Partitioner                   0.01  pkg:cpan/Acme-Partitioner@0.01
 Acme::Partitioner::Actor            0.01  pkg:cpan/Acme-Partitioner@0.01
 Acme::People::Happy                 0.05  pkg:cpan/Acme-People-Happy@0.05
@@ -15606,7 +15606,7 @@ App::UpdateCPANfile                v1.1.1  pkg:cpan/App-UpdateCPANfile@1.1.1
 App::UpdateCPANfile::CPANfileSnapshotParser undef  pkg:cpan/App-UpdateCPANfile@1.1.1
 App::UpdateCPANfile::Change        undef  pkg:cpan/App-UpdateCPANfile@1.1.1
 App::UpdateCPANfile::PackageDetails undef  pkg:cpan/App-UpdateCPANfile@1.1.1
-App::UpdateConfig                   1.01  pkg:cpan/App-UpdateConfig@1.01
+App::UpdateConfig                   1.02  pkg:cpan/App-UpdateConfig@1.02
 App::UpfUtils                      0.060  pkg:cpan/App-UpfUtils@0.060
 App::Upfiles                          16  pkg:cpan/upfiles@16
 App::Upfiles::Conf                    16  pkg:cpan/upfiles@16
@@ -68111,7 +68111,7 @@ Dist::Mgr::Git                      1.16  pkg:cpan/Dist-Mgr@1.16
 Dist::Milla                        1.000022  pkg:cpan/Dist-Milla@v1.0.22
 Dist::Milla::App                   1.000022  pkg:cpan/Dist-Milla@v1.0.22
 Dist::PolicyFiles                   0.09  pkg:cpan/Dist-PolicyFiles@0.09
-Dist::Setup                         0.17  pkg:cpan/Dist-Setup@0.17
+Dist::Setup                         0.18  pkg:cpan/Dist-Setup@0.18
 Dist::Starter                      v0.3.0  pkg:cpan/Dist-Starter@v0.3.0
 Dist::Starter::Context             v0.1.0  pkg:cpan/Dist-Starter@v0.1.0
 Dist::Starter::Exception           v0.1.0  pkg:cpan/Dist-Starter@v0.1.0
@@ -77313,10 +77313,10 @@ FindApp::Utils::Carp               undef  pkg:cpan/FindApp@v0.0.7
 FindApp::Utils::Debug                  1  pkg:cpan/FindApp@v0.0.7
 FindApp::Utils::Package::Object    undef  pkg:cpan/FindApp@v0.0.7
 FindBin                             1.54  pkg:cpan/FindBin@1.54
-FindBin::Bin                       2.000000  pkg:cpan/FindBin-libs@v5.0.0
-FindBin::Parents                   0.001000  pkg:cpan/FindBin-libs@v5.0.0
+FindBin::Bin                       2.000000  pkg:cpan/FindBin-libs@v5.0.1
+FindBin::Parents                   0.001000  pkg:cpan/FindBin-libs@v5.0.1
 FindBin::Real                       1.05  pkg:cpan/FindBin-Real@1.05
-FindBin::libs                      5.000000  pkg:cpan/FindBin-libs@v5.0.0
+FindBin::libs                      5.000001  pkg:cpan/FindBin-libs@v5.0.1
 FindBinNew                          1.51  pkg:cpan/Bio-Grid-Run-SGE@0.066
 FindEvent                           0.01  pkg:cpan/Video-Manip@0.02
 FindEvent::Field                   undef  pkg:cpan/Video-Manip@0.02
@@ -225393,7 +225393,7 @@ Test2::Plugin::TermEncoding        0.000002  pkg:cpan/Test2-Plugin-TermEncoding@
 Test2::Plugin::Times               1.302226  pkg:cpan/Test-Simple@1.302226
 Test2::Plugin::TodoFailOnSuccess   v0.0.2  pkg:cpan/Test2-Plugin-TodoFailOnSuccess@0.0.2
 Test2::Plugin::UTF8                1.302226  pkg:cpan/Test-Simple@1.302226
-Test2::Plugin::UUID                0.002010  pkg:cpan/Test2-Plugin-UUID@0.002010
+Test2::Plugin::UUID                0.002011  pkg:cpan/Test2-Plugin-UUID@0.002011
 Test2::Plugin::Wasm                 0.24  pkg:cpan/Wasm@0.24
 Test2::Plugin::Wrap2ndArgumentOfFailedCompareTestWithString undef  pkg:cpan/App-MigrateToTest2V0@0.02
 Test2::Plugin::pgTAP               0.001105  pkg:cpan/Test2-Plugin-pgTAP@0.001105
@@ -225517,7 +225517,7 @@ Test2::Util::Table::LineBreak      1.302226  pkg:cpan/Test-Simple@1.302226
 Test2::Util::Term                  1.302226  pkg:cpan/Test-Simple@1.302226
 Test2::Util::Times                 1.302226  pkg:cpan/Test-Simple@1.302226
 Test2::Util::Trace                 1.302226  pkg:cpan/Test-Simple@1.302226
-Test2::Util::UUID                  0.002010  pkg:cpan/Test2-Plugin-UUID@0.002010
+Test2::Util::UUID                  0.002011  pkg:cpan/Test2-Plugin-UUID@0.002011
 Test2::V0                          1.302226  pkg:cpan/Test-Simple@1.302226
 Test2::V1                          1.302226  pkg:cpan/Test-Simple@1.302226
 Test2::V1::Base                    1.302226  pkg:cpan/Test-Simple@1.302226
@@ -231975,8 +231975,6 @@ Tk::TextVi                         0.015  pkg:cpan/Tk-TextVi@0.015
 Tk::Thumbnail                        1.3  pkg:cpan/Tk-Thumbnail@1.3
 Tk::Tickit::Bridge                 0.003  pkg:cpan/Tk-Tickit-Bridge@0.003
 Tk::Tickit::Bridge::Loop           0.001  pkg:cpan/Tk-Tickit-Bridge@0.003
-Tk::TickitBridge                   0.001  pkg:cpan/Tk-Tickit-Bridge@0.002
-Tk::TickitBridge::Loop             0.001  pkg:cpan/Tk-Tickit-Bridge@0.002
 Tk::TiedListbox                      2.5  pkg:cpan/Tk-Contrib@0.08
 Tk::Tiler                          4.013  pkg:cpan/Tk@804.036
 Tk::TimePick                        0.02  pkg:cpan/Tk-TimePick@0.02
