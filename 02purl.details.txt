@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 29 Oct 2026 01:27:50 GMT
+Last-Updated: Thu, 29 Oct 2026 07:53:40 GMT
 Line-Count: 262544
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -4100,10 +4100,10 @@ Advanced::Config::Examples          1.15  pkg:cpan/Advanced-Config@1.15
 Advanced::Config::Options           1.15  pkg:cpan/Advanced-Config@1.15
 Advanced::Config::Reader            1.15  pkg:cpan/Advanced-Config@1.15
 Advent::Bundles                     0.05  pkg:cpan/Advent-Bundles@0.05
-Affix                              v1.2.7  pkg:cpan/Affix@v1.2.7
-Affix::Build                       v1.2.7  pkg:cpan/Affix@v1.2.7
+Affix                              v1.2.8  pkg:cpan/Affix@v1.2.8
+Affix::Build                       v1.2.8  pkg:cpan/Affix@v1.2.8
 Affix::Infix2Postfix                0.03  pkg:cpan/Affix-Infix2Postfix@0.03
-Affix::Wrap                        v1.2.7  pkg:cpan/Affix@v1.2.7
+Affix::Wrap                        v1.2.8  pkg:cpan/Affix@v1.2.8
 AfterAwhileClass                   undef  pkg:cpan/Reflex@0.100
 AfterAwhileRole                    undef  pkg:cpan/Reflex@0.100
 AfterAwhileSubclass                undef  pkg:cpan/Reflex@0.100
@@ -11154,8 +11154,8 @@ App::Greple::git                    1.00  pkg:cpan/App-Greple-git@1.00
 App::Greple::ical                   1.00  pkg:cpan/App-Greple-ical@1.00
 App::Greple::jq                     0.06  pkg:cpan/App-Greple-jq@0.06
 App::Greple::line                  undef  pkg:cpan/App-Greple@9.23
-App::Greple::md                     1.12  pkg:cpan/App-mdee@1.12
-App::Greple::md::Step              undef  pkg:cpan/App-mdee@1.12
+App::Greple::md                     1.13  pkg:cpan/App-mdee@1.13
+App::Greple::md::Step              undef  pkg:cpan/App-mdee@1.13
 App::Greple::msdoc                  1.07  pkg:cpan/App-Greple-msdoc@1.07
 App::Greple::perl                  undef  pkg:cpan/App-Greple@10.05
 App::Greple::pgp                   undef  pkg:cpan/App-Greple@10.05
@@ -16006,10 +16006,10 @@ App::annex_review_unused           0.006  pkg:cpan/Git-Annex@0.006
 App::annex_to_annex                0.008  pkg:cpan/Git-Annex@0.008
 App::annex_to_annex_dropunused     0.008  pkg:cpan/Git-Annex@0.008
 App::annex_to_annex_reinject       0.008  pkg:cpan/Git-Annex@0.008
-App::ansicolumn                    1.6101  pkg:cpan/App-ansicolumn@1.6101
-App::ansicolumn::Border            undef  pkg:cpan/App-ansicolumn@1.6101
-App::ansicolumn::Command           undef  pkg:cpan/App-ansicolumn@1.6101
-App::ansicolumn::default           undef  pkg:cpan/App-ansicolumn@1.6101
+App::ansicolumn                     1.62  pkg:cpan/App-ansicolumn@1.62
+App::ansicolumn::Border            undef  pkg:cpan/App-ansicolumn@1.62
+App::ansicolumn::Command           undef  pkg:cpan/App-ansicolumn@1.62
+App::ansicolumn::default           undef  pkg:cpan/App-ansicolumn@1.62
 App::ansiecho                       1.10  pkg:cpan/App-ansiecho@1.10
 App::ansiecho::Util                undef  pkg:cpan/App-ansiecho@1.10
 App::ansiexpand                     1.06  pkg:cpan/App-ansiexpand@1.06
@@ -16821,7 +16821,7 @@ App::manwrap::pm                   0.006  pkg:cpan/App-manwrap-pm@0.006
 App::matrixpack                    0.0014  pkg:cpan/App-matrixpack@0.0014
 App::mbxilinx                       0.13  pkg:cpan/Module-Build-Xilinx@0.13
 App::md2html                       0.001001  pkg:cpan/App-md2html@0.01.1
-App::mdee                           1.12  pkg:cpan/App-mdee@1.12
+App::mdee                           1.13  pkg:cpan/App-mdee@1.13
 App::merge_cpanfile                 0.01  pkg:cpan/App-merge_cpanfile@0.01
 App::metacpansearch                undef  pkg:cpan/App-metacpansearch@0.01
 App::metastasize                   0.002  pkg:cpan/App-metastasize@0.002
@@ -16890,7 +16890,7 @@ App::nrand                         0.002  pkg:cpan/App-nrand@0.002
 App::numero2bgc                    0.021  pkg:cpan/App-numero2bgc@0.021
 App::numseq                        0.002  pkg:cpan/App-numseq@0.002
 App::numspeed                      0.001  pkg:cpan/App-numspeed@0.001
-App::nup                            1.08  pkg:cpan/App-nup@1.08
+App::nup                            1.09  pkg:cpan/App-nup@1.09
 App::oaf                           undef  pkg:cpan/App-oaf@0.04
 App::olson                             0  pkg:cpan/App-olson@0.000
 App::olson::LocalDateTime              0  pkg:cpan/App-olson@0.000
@@ -16925,7 +16925,7 @@ App::optex::textconv::pandoc        1.08  pkg:cpan/App-optex-textconv@1.08
 App::optex::textconv::pdf           1.08  pkg:cpan/App-optex-textconv@1.08
 App::optex::textconv::tika          1.08  pkg:cpan/App-optex-textconv@1.08
 App::optex::textconv::xls           1.08  pkg:cpan/App-optex-textconv@1.08
-App::optex::up                      1.08  pkg:cpan/App-nup@1.08
+App::optex::up                      1.09  pkg:cpan/App-nup@1.09
 App::optex::util                   undef  pkg:cpan/App-optex@1.07
 App::optex::util::argv             undef  pkg:cpan/App-optex@1.07
 App::optex::util::filter           undef  pkg:cpan/App-optex@1.07
@@ -22901,13 +22901,13 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         v0.40.0  pkg:cpan/BarefootJS@0.40.0
-BarefootJS::Backend::Mojo          v0.40.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.40.0
-BarefootJS::Backend::Xslate        v0.40.0  pkg:cpan/BarefootJS-Backend-Xslate@0.40.0
-BarefootJS::Date                   v0.40.0  pkg:cpan/BarefootJS@0.40.0
-BarefootJS::DevReload              v0.40.0  pkg:cpan/BarefootJS@0.40.0
-BarefootJS::Evaluator              v0.40.0  pkg:cpan/BarefootJS@0.40.0
-BarefootJS::SearchParams           v0.40.0  pkg:cpan/BarefootJS@0.40.0
+BarefootJS                         v0.40.1  pkg:cpan/BarefootJS@0.40.1
+BarefootJS::Backend::Mojo          v0.40.1  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.40.1
+BarefootJS::Backend::Xslate        v0.40.1  pkg:cpan/BarefootJS-Backend-Xslate@0.40.1
+BarefootJS::Date                   v0.40.1  pkg:cpan/BarefootJS@0.40.1
+BarefootJS::DevReload              v0.40.1  pkg:cpan/BarefootJS@0.40.1
+BarefootJS::Evaluator              v0.40.1  pkg:cpan/BarefootJS@0.40.1
+BarefootJS::SearchParams           v0.40.1  pkg:cpan/BarefootJS@0.40.1
 BarefootJS::_TZProbe               0.029000  pkg:cpan/BarefootJS@0.29.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
@@ -34069,11 +34069,11 @@ CPAN::Flatten::Tree                undef  pkg:cpan/CPAN-Flatten@0.01
 CPAN::HTTP::Client                 1.9602  pkg:cpan/CPAN@2.41
 CPAN::HTTP::Credentials            1.9601  pkg:cpan/CPAN@2.41
 CPAN::HandleConfig                 5.5013  pkg:cpan/CPAN@2.41
-CPAN::InGit                        0.004  pkg:cpan/CPAN-InGit@0.004
-CPAN::InGit::ArchiveTree           0.004  pkg:cpan/CPAN-InGit@0.004
-CPAN::InGit::MirrorTree            0.004  pkg:cpan/CPAN-InGit@0.004
-CPAN::InGit::MutableTree           0.004  pkg:cpan/CPAN-InGit@0.004
-CPAN::InGit::Server                0.004  pkg:cpan/CPAN-InGit@0.004
+CPAN::InGit                        0.005  pkg:cpan/CPAN-InGit@0.005
+CPAN::InGit::ArchiveTree           0.005  pkg:cpan/CPAN-InGit@0.005
+CPAN::InGit::MirrorTree            0.005  pkg:cpan/CPAN-InGit@0.005
+CPAN::InGit::MutableTree           0.005  pkg:cpan/CPAN-InGit@0.005
+CPAN::InGit::Server                0.005  pkg:cpan/CPAN-InGit@0.005
 CPAN::Index                         2.29  pkg:cpan/CPAN@2.41
 CPAN::Index::API                   0.008  pkg:cpan/CPAN-Index-API@0.008
 CPAN::Index::API::File             0.005  pkg:cpan/CPAN-Index-API@0.005
@@ -102437,8 +102437,8 @@ HTTP::OAIPMH::Validator             1.06  pkg:cpan/HTTP-OAIPMH-Validator@1.06
 HTTP::Online                        0.02  pkg:cpan/HTTP-Online@0.02
 HTTP::Parser                        0.06  pkg:cpan/HTTP-Parser@0.06
 HTTP::Parser2::XS                   0.01  pkg:cpan/HTTP-Parser2-XS@0.01
-HTTP::Parser::XS                    0.17  pkg:cpan/HTTP-Parser-XS@0.17
-HTTP::Parser::XS::PP               undef  pkg:cpan/HTTP-Parser-XS@0.17
+HTTP::Parser::XS                    0.18  pkg:cpan/HTTP-Parser-XS@0.18
+HTTP::Parser::XS::PP               undef  pkg:cpan/HTTP-Parser-XS@0.18
 HTTP::Promise                      0.007004  pkg:cpan/HTTP-Promise@v0.7.4
 HTTP::Promise::Body                0.001000  pkg:cpan/HTTP-Promise@v0.7.4
 HTTP::Promise::Body::File          0.001000  pkg:cpan/HTTP-Promise@v0.7.4
@@ -109126,13 +109126,13 @@ Internals                            1.1  pkg:cpan/Internals@1.1
 Internals::CountObjects             0.05  pkg:cpan/Internals-CountObjects@0.05
 Internals::DumpArenas               0.12  pkg:cpan/Internals-DumpArenas@0.12
 Internals::GraphArenas              0.01  pkg:cpan/Internals-GraphArenas@0.01
-InternetData                       1.011003  pkg:cpan/InternetData@1.11.3
-InternetData::Database             1.011003  pkg:cpan/InternetData@1.11.3
-InternetData::Error                1.011003  pkg:cpan/InternetData@1.11.3
-InternetData::Oauth                1.011003  pkg:cpan/InternetData@1.11.3
-InternetData::OauthAccessDeniedError 1.011003  pkg:cpan/InternetData@1.11.3
-InternetData::OauthError           1.011003  pkg:cpan/InternetData@1.11.3
-InternetData::OauthExpiredTokenError 1.011003  pkg:cpan/InternetData@1.11.3
+InternetData                       1.011004  pkg:cpan/InternetData@1.11.4
+InternetData::Database             1.011004  pkg:cpan/InternetData@1.11.4
+InternetData::Error                1.011004  pkg:cpan/InternetData@1.11.4
+InternetData::Oauth                1.011004  pkg:cpan/InternetData@1.11.4
+InternetData::OauthAccessDeniedError 1.011004  pkg:cpan/InternetData@1.11.4
+InternetData::OauthError           1.011004  pkg:cpan/InternetData@1.11.4
+InternetData::OauthExpiredTokenError 1.011004  pkg:cpan/InternetData@1.11.4
 Interpolation                       0.74  pkg:cpan/Interpolation@0.74
 Interpolation::A2A                  0.71  pkg:cpan/Interpolation@0.71
 Interpolation::A2S                  0.71  pkg:cpan/Interpolation@0.71
@@ -123413,7 +123413,7 @@ MHonArc::UTF8::VISCII              2.006024  pkg:cpan/MHonArc@2.6.24
 MIDI                                0.84  pkg:cpan/MIDI-Perl@0.84
 MIDI::ALSA                          1.22  pkg:cpan/MIDI-ALSA@1.22
 MIDI::Chord::Guitar                0.0706  pkg:cpan/MIDI-Chord-Guitar@0.0706
-MIDI::Device                       0.0201  pkg:cpan/MIDI-Device@0.0201
+MIDI::Device                       0.0300  pkg:cpan/MIDI-Device@0.0300
 MIDI::Device::DX7                  0.0101  pkg:cpan/MIDI-Device-DX7@0.0101
 MIDI::Drummer::Tiny                0.7102  pkg:cpan/MIDI-Drummer-Tiny@0.7102
 MIDI::Drummer::Tiny::Grooves       0.7102  pkg:cpan/MIDI-Drummer-Tiny@0.7102
@@ -124793,25 +124793,25 @@ Mail::Audit::PGP                   1.702  pkg:cpan/Mail-Audit-PGP@1.702
 Mail::Audit::Razor                 1.802  pkg:cpan/Mail-Audit-Razor@1.802
 Mail::Audit::Util::Tempdir         2.228  pkg:cpan/Mail-Audit@2.228
 Mail::Audit::Vacation              2.228  pkg:cpan/Mail-Audit@2.228
-Mail::AuthenticationResults        2.20260216  pkg:cpan/Mail-AuthenticationResults@2.20260216
-Mail::AuthenticationResults::FoldableHeader 2.20260216  pkg:cpan/Mail-AuthenticationResults@2.20260216
-Mail::AuthenticationResults::Header 2.20260216  pkg:cpan/Mail-AuthenticationResults@2.20260216
-Mail::AuthenticationResults::Header::AuthServID 2.20260216  pkg:cpan/Mail-AuthenticationResults@2.20260216
-Mail::AuthenticationResults::Header::Base 2.20260216  pkg:cpan/Mail-AuthenticationResults@2.20260216
-Mail::AuthenticationResults::Header::Comment 2.20260216  pkg:cpan/Mail-AuthenticationResults@2.20260216
-Mail::AuthenticationResults::Header::Entry 2.20260216  pkg:cpan/Mail-AuthenticationResults@2.20260216
-Mail::AuthenticationResults::Header::Group 2.20260216  pkg:cpan/Mail-AuthenticationResults@2.20260216
-Mail::AuthenticationResults::Header::SubEntry 2.20260216  pkg:cpan/Mail-AuthenticationResults@2.20260216
-Mail::AuthenticationResults::Header::Version 2.20260216  pkg:cpan/Mail-AuthenticationResults@2.20260216
-Mail::AuthenticationResults::Parser 2.20260216  pkg:cpan/Mail-AuthenticationResults@2.20260216
+Mail::AuthenticationResults        2.20261029  pkg:cpan/Mail-AuthenticationResults@2.20261029
+Mail::AuthenticationResults::FoldableHeader 2.20261029  pkg:cpan/Mail-AuthenticationResults@2.20261029
+Mail::AuthenticationResults::Header 2.20261029  pkg:cpan/Mail-AuthenticationResults@2.20261029
+Mail::AuthenticationResults::Header::AuthServID 2.20261029  pkg:cpan/Mail-AuthenticationResults@2.20261029
+Mail::AuthenticationResults::Header::Base 2.20261029  pkg:cpan/Mail-AuthenticationResults@2.20261029
+Mail::AuthenticationResults::Header::Comment 2.20261029  pkg:cpan/Mail-AuthenticationResults@2.20261029
+Mail::AuthenticationResults::Header::Entry 2.20261029  pkg:cpan/Mail-AuthenticationResults@2.20261029
+Mail::AuthenticationResults::Header::Group 2.20261029  pkg:cpan/Mail-AuthenticationResults@2.20261029
+Mail::AuthenticationResults::Header::SubEntry 2.20261029  pkg:cpan/Mail-AuthenticationResults@2.20261029
+Mail::AuthenticationResults::Header::Version 2.20261029  pkg:cpan/Mail-AuthenticationResults@2.20261029
+Mail::AuthenticationResults::Parser 2.20261029  pkg:cpan/Mail-AuthenticationResults@2.20261029
 Mail::AuthenticationResults::SpamAssassin 1.20200220  pkg:cpan/Mail-AuthenticationResults-SpamAssassin@1.20200220
-Mail::AuthenticationResults::Token 2.20260216  pkg:cpan/Mail-AuthenticationResults@2.20260216
-Mail::AuthenticationResults::Token::Assignment 2.20260216  pkg:cpan/Mail-AuthenticationResults@2.20260216
-Mail::AuthenticationResults::Token::Comment 2.20260216  pkg:cpan/Mail-AuthenticationResults@2.20260216
-Mail::AuthenticationResults::Token::QuotedString 2.20260216  pkg:cpan/Mail-AuthenticationResults@2.20260216
-Mail::AuthenticationResults::Token::Separator 2.20260216  pkg:cpan/Mail-AuthenticationResults@2.20260216
-Mail::AuthenticationResults::Token::Space 2.20260216  pkg:cpan/Mail-AuthenticationResults@2.20260216
-Mail::AuthenticationResults::Token::String 2.20260216  pkg:cpan/Mail-AuthenticationResults@2.20260216
+Mail::AuthenticationResults::Token 2.20261029  pkg:cpan/Mail-AuthenticationResults@2.20261029
+Mail::AuthenticationResults::Token::Assignment 2.20261029  pkg:cpan/Mail-AuthenticationResults@2.20261029
+Mail::AuthenticationResults::Token::Comment 2.20261029  pkg:cpan/Mail-AuthenticationResults@2.20261029
+Mail::AuthenticationResults::Token::QuotedString 2.20261029  pkg:cpan/Mail-AuthenticationResults@2.20261029
+Mail::AuthenticationResults::Token::Separator 2.20261029  pkg:cpan/Mail-AuthenticationResults@2.20261029
+Mail::AuthenticationResults::Token::Space 2.20261029  pkg:cpan/Mail-AuthenticationResults@2.20261029
+Mail::AuthenticationResults::Token::String 2.20261029  pkg:cpan/Mail-AuthenticationResults@2.20261029
 Mail::BIMI                         3.20260824  pkg:cpan/Mail-BIMI@3.20260824
 Mail::BIMI::App                    3.20260824  pkg:cpan/Mail-BIMI@3.20260824
 Mail::BIMI::App::Command::checkdomain 3.20260824  pkg:cpan/Mail-BIMI@3.20260824
@@ -134426,8 +134426,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    v0.40.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.40.0
-Mojolicious::Plugin::BarefootJS::DevReload v0.40.0  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.40.0
+Mojolicious::Plugin::BarefootJS    v0.40.1  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.40.1
+Mojolicious::Plugin::BarefootJS::DevReload v0.40.1  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.40.1
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus   1.0  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@1.0
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -192877,7 +192877,7 @@ Plack::Handler::Porbo              undef  pkg:cpan/Porbo@0.01
 Plack::Handler::SCGI                0.02  pkg:cpan/Plack-Handler-SCGI@0.02
 Plack::Handler::Shuvgey            undef  pkg:cpan/Shuvgey@0.09
 Plack::Handler::Standalone         undef  pkg:cpan/Plack@1.0057
-Plack::Handler::Starlet            undef  pkg:cpan/Starlet@0.32
+Plack::Handler::Starlet            undef  pkg:cpan/Starlet@0.33
 Plack::Handler::Starlight          0.0503  pkg:cpan/Starlight@0.0503
 Plack::Handler::Starman            undef  pkg:cpan/Starman@0.4019
 Plack::Handler::Starman::ModCluster undef  pkg:cpan/Starman-ModCluster@0.09
@@ -218626,8 +218626,8 @@ Stardust::Controllers               0.08  pkg:cpan/Stardust@0.08
 Stardust::Demo                     undef  pkg:cpan/Stardust@0.08
 Stardust::Demo::Controllers        undef  pkg:cpan/Stardust@0.08
 Stardust::Demo::Views              undef  pkg:cpan/Stardust@0.08
-Starlet                             0.32  pkg:cpan/Starlet@0.32
-Starlet::Server                    undef  pkg:cpan/Starlet@0.32
+Starlet                             0.33  pkg:cpan/Starlet@0.33
+Starlet::Server                    undef  pkg:cpan/Starlet@0.33
 Starlight                          0.0503  pkg:cpan/Starlight@0.0503
 Starlight::Server                  0.0503  pkg:cpan/Starlight@0.0503
 Starlink::AST                       3.05  pkg:cpan/Starlink-AST@3.05
@@ -219051,9 +219051,9 @@ Stats::Fermi::FermiDiracStats      undef  pkg:cpan/Stats-Fermi@0.1.7
 Stats::Hawking                     0.001003  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HTRandom           undef  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HawkingTemperature undef  pkg:cpan/Stats-Hawking@0.1.3
-Stats::LikeR                       0.341  pkg:cpan/Stats-LikeR@0.341
+Stats::LikeR                       0.3411  pkg:cpan/Stats-LikeR@0.3411
 Stats::LikeR::Pred                  0.16  pkg:cpan/Stats-LikeR@0.16
-Stats::LikeR::Usage                0.341  pkg:cpan/Stats-LikeR@0.341
+Stats::LikeR::Usage                0.3411  pkg:cpan/Stats-LikeR@0.3411
 Stats::LikeR::col                   0.28  pkg:cpan/Stats-LikeR@0.28
 StatsView::Graph                    1.15  pkg:cpan/StatsView@1.4
 StatsView::Graph::Iost             undef  pkg:cpan/StatsView@1.4
@@ -228246,10 +228246,10 @@ Text::AI::CRM114                    0.06  pkg:cpan/Text-AI-CRM114@0.06b
 Text::AI::CRM114::libcrm114         0.06  pkg:cpan/Text-AI-CRM114@0.06b
 Text::AI::libcrm114                 0.04  pkg:cpan/Text-AI-CRM114@0.04
 Text::ANSI::BaseUtil               0.234  pkg:cpan/Text-ANSI-Util@0.234
-Text::ANSI::Fold                    2.34  pkg:cpan/Text-ANSI-Fold@2.34
-Text::ANSI::Fold::Japanese::W3C    undef  pkg:cpan/Text-ANSI-Fold@2.34
-Text::ANSI::Fold::Japanese::Wikipedia undef  pkg:cpan/Text-ANSI-Fold@2.34
-Text::ANSI::Fold::Util              1.05  pkg:cpan/Text-ANSI-Fold-Util@1.05
+Text::ANSI::Fold                    2.35  pkg:cpan/Text-ANSI-Fold@2.35
+Text::ANSI::Fold::Japanese::W3C    undef  pkg:cpan/Text-ANSI-Fold@2.35
+Text::ANSI::Fold::Japanese::Wikipedia undef  pkg:cpan/Text-ANSI-Fold@2.35
+Text::ANSI::Fold::Util              1.06  pkg:cpan/Text-ANSI-Fold-Util@1.06
 Text::ANSI::Printf                  2.07  pkg:cpan/Text-ANSI-Printf@2.07
 Text::ANSI::Tabs                    1.06  pkg:cpan/Text-ANSI-Tabs@1.06
 Text::ANSI::Util                   0.234  pkg:cpan/Text-ANSI-Util@0.234
