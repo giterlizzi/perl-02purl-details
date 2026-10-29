@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 28 Oct 2026 20:42:30 GMT
-Line-Count: 262543
+Last-Updated: Thu, 29 Oct 2026 01:27:50 GMT
+Line-Count: 262544
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -63351,17 +63351,17 @@ Database::Async::SQLite            0.001  pkg:cpan/Database-Async-SQLite@0.001
 Database::Async::StatementHandle   0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Test              0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Transaction       0.019  pkg:cpan/Database-Async@0.019
-Database::BI                       0.017001  pkg:cpan/Database-BI@0.017.1
-Database::BI::Ask                  0.017  pkg:cpan/Database-BI@0.017.1
-Database::BI::Calc                 0.017  pkg:cpan/Database-BI@0.017.1
-Database::BI::Controller::Dashboard 0.017  pkg:cpan/Database-BI@0.017.1
-Database::BI::Extract              0.017  pkg:cpan/Database-BI@0.017.1
-Database::BI::Insights             0.017  pkg:cpan/Database-BI@0.017.1
-Database::BI::Model::DataSource    0.017  pkg:cpan/Database-BI@0.017.1
-Database::BI::Model::Geocode       0.017  pkg:cpan/Database-BI@0.017.1
-Database::BI::Summary              0.017  pkg:cpan/Database-BI@0.017.1
-Database::BI::Tutorial             0.017  pkg:cpan/Database-BI@0.017.1
-Database::BI::Util                 0.017  pkg:cpan/Database-BI@0.017.1
+Database::BI                       0.018000  pkg:cpan/Database-BI@0.018.0
+Database::BI::Ask                  0.018  pkg:cpan/Database-BI@0.018.0
+Database::BI::Calc                 0.018  pkg:cpan/Database-BI@0.018.0
+Database::BI::Controller::Dashboard 0.018  pkg:cpan/Database-BI@0.018.0
+Database::BI::Extract              0.018  pkg:cpan/Database-BI@0.018.0
+Database::BI::Insights             0.018  pkg:cpan/Database-BI@0.018.0
+Database::BI::Model::DataSource    0.018  pkg:cpan/Database-BI@0.018.0
+Database::BI::Model::Geocode       0.018  pkg:cpan/Database-BI@0.018.0
+Database::BI::Summary              0.018  pkg:cpan/Database-BI@0.018.0
+Database::BI::Tutorial             0.018  pkg:cpan/Database-BI@0.018.0
+Database::BI::Util                 0.018  pkg:cpan/Database-BI@0.018.0
 Database::Cassandra::Client            1  pkg:cpan/Database-Cassandra-Client@1
 Database::DumpTruck                  1.2  pkg:cpan/Database-DumpTruck@1.2
 Database::Format::Text              1.03  pkg:cpan/Database-Format-Text@1.03
@@ -64839,16 +64839,16 @@ DateTime::LazyInit::Constructor_new 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ex
 DateTime::LazyInit::Constructor_now 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ext=tgz
 DateTime::LazyInit::Constructor_today 1.0200  pkg:cpan/DateTime-LazyInit@1.0200?ext=tgz
 DateTime::LeapSecond                1.67  pkg:cpan/DateTime@1.67
-DateTime::Lite                     0.010000  pkg:cpan/DateTime-Lite@v0.10.0
-DateTime::Lite::Duration           0.001002  pkg:cpan/DateTime-Lite@v0.10.0
-DateTime::Lite::Exception          0.001000  pkg:cpan/DateTime-Lite@v0.10.0
-DateTime::Lite::Infinite           0.001000  pkg:cpan/DateTime-Lite@v0.10.0
-DateTime::Lite::Infinite::Future   0.001000  pkg:cpan/DateTime-Lite@v0.10.0
-DateTime::Lite::Infinite::Past     0.001000  pkg:cpan/DateTime-Lite@v0.10.0
-DateTime::Lite::PP                 0.001002  pkg:cpan/DateTime-Lite@v0.10.0
-DateTime::Lite::TimeZone           0.005009  pkg:cpan/DateTime-Lite@v0.10.0
-DateTime::Lite::_FakeLocale        0.001000  pkg:cpan/DateTime-Lite@v0.10.0
-DateTime::Lite::_Thawed            0.010000  pkg:cpan/DateTime-Lite@v0.10.0
+DateTime::Lite                     0.011000  pkg:cpan/DateTime-Lite@v0.11.0
+DateTime::Lite::Duration           0.001002  pkg:cpan/DateTime-Lite@v0.11.0
+DateTime::Lite::Exception          0.001000  pkg:cpan/DateTime-Lite@v0.11.0
+DateTime::Lite::Infinite           0.001000  pkg:cpan/DateTime-Lite@v0.11.0
+DateTime::Lite::Infinite::Future   0.001000  pkg:cpan/DateTime-Lite@v0.11.0
+DateTime::Lite::Infinite::Past     0.001000  pkg:cpan/DateTime-Lite@v0.11.0
+DateTime::Lite::PP                 0.001002  pkg:cpan/DateTime-Lite@v0.11.0
+DateTime::Lite::TimeZone           0.005009  pkg:cpan/DateTime-Lite@v0.11.0
+DateTime::Lite::_FakeLocale        0.001000  pkg:cpan/DateTime-Lite@v0.11.0
+DateTime::Lite::_Thawed            0.011000  pkg:cpan/DateTime-Lite@v0.11.0
 DateTime::Locale                    1.46  pkg:cpan/DateTime-Locale@1.46
 DateTime::Locale::Base              1.46  pkg:cpan/DateTime-Locale@1.46
 DateTime::Locale::Catalog           1.46  pkg:cpan/DateTime-Locale@1.46
@@ -118295,14 +118295,14 @@ Linux::Event::Framer::LengthPrefix 0.117  pkg:cpan/Linux-Event@0.117
 Linux::Event::Framer::Netstring    0.117  pkg:cpan/Linux-Event@0.117
 Linux::Event::Framer::U32BE        0.117  pkg:cpan/Linux-Event@0.117
 Linux::Event::Framer::Varint       0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::HTTP                 0.003  pkg:cpan/Linux-Event-HTTP@0.003
+Linux::Event::HTTP                 0.004  pkg:cpan/Linux-Event-HTTP@0.004
 Linux::Event::HTTP::Body::Stream   0.003  pkg:cpan/Linux-Event-HTTP@0.003
-Linux::Event::HTTP::Client         0.003  pkg:cpan/Linux-Event-HTTP@0.003
+Linux::Event::HTTP::Client         0.004  pkg:cpan/Linux-Event-HTTP@0.004
 Linux::Event::HTTP::Client::Connection 0.003  pkg:cpan/Linux-Event-HTTP@0.003
 Linux::Event::HTTP::Client::Operation 0.003  pkg:cpan/Linux-Event-HTTP@0.003
 Linux::Event::HTTP::Request        0.003  pkg:cpan/Linux-Event-HTTP@0.003
 Linux::Event::HTTP::Response       0.003  pkg:cpan/Linux-Event-HTTP@0.003
-Linux::Event::HTTP::Server         0.003  pkg:cpan/Linux-Event-HTTP@0.003
+Linux::Event::HTTP::Server         0.004  pkg:cpan/Linux-Event-HTTP@0.004
 Linux::Event::HTTP::Server::Connection 0.003  pkg:cpan/Linux-Event-HTTP@0.003
 Linux::Event::HTTP::Transaction    0.003  pkg:cpan/Linux-Event-HTTP@0.003
 Linux::Event::IO                   0.117  pkg:cpan/Linux-Event@0.117
@@ -118341,12 +118341,12 @@ Linux::Event::TLS                  0.117  pkg:cpan/Linux-Event@0.117
 Linux::Event::Timer                0.105  pkg:cpan/Linux-Event@0.105
 Linux::Event::Wakeup               0.105  pkg:cpan/Linux-Event@0.105
 Linux::Event::Watcher              0.012  pkg:cpan/Linux-Event@0.012
-Linux::Event::WebSocket            0.002  pkg:cpan/Linux-Event-WebSocket@0.002
-Linux::Event::WebSocket::Client    0.002  pkg:cpan/Linux-Event-WebSocket@0.002
-Linux::Event::WebSocket::Client::Connection 0.002  pkg:cpan/Linux-Event-WebSocket@0.002
-Linux::Event::WebSocket::Connection 0.002  pkg:cpan/Linux-Event-WebSocket@0.002
-Linux::Event::WebSocket::Server    0.002  pkg:cpan/Linux-Event-WebSocket@0.002
-Linux::Event::WebSocket::Server::Connection 0.002  pkg:cpan/Linux-Event-WebSocket@0.002
+Linux::Event::WebSocket            0.003  pkg:cpan/Linux-Event-WebSocket@0.003
+Linux::Event::WebSocket::Client    0.003  pkg:cpan/Linux-Event-WebSocket@0.003
+Linux::Event::WebSocket::Client::Connection 0.003  pkg:cpan/Linux-Event-WebSocket@0.003
+Linux::Event::WebSocket::Connection 0.003  pkg:cpan/Linux-Event-WebSocket@0.003
+Linux::Event::WebSocket::Server    0.003  pkg:cpan/Linux-Event-WebSocket@0.003
+Linux::Event::WebSocket::Server::Connection 0.003  pkg:cpan/Linux-Event-WebSocket@0.003
 Linux::Event::XS                   0.012  pkg:cpan/Linux-Event@0.012
 Linux::Ext2::Attributes             0.20  pkg:cpan/Linux-Ext2-Attributes@0.20
 Linux::Ext2::FileAttributes         0.01  pkg:cpan/Linux-Ext2-FileAttributes@0.01
@@ -123413,7 +123413,7 @@ MHonArc::UTF8::VISCII              2.006024  pkg:cpan/MHonArc@2.6.24
 MIDI                                0.84  pkg:cpan/MIDI-Perl@0.84
 MIDI::ALSA                          1.22  pkg:cpan/MIDI-ALSA@1.22
 MIDI::Chord::Guitar                0.0706  pkg:cpan/MIDI-Chord-Guitar@0.0706
-MIDI::Device                       0.0200  pkg:cpan/MIDI-Device@0.0200
+MIDI::Device                       0.0201  pkg:cpan/MIDI-Device@0.0201
 MIDI::Device::DX7                  0.0101  pkg:cpan/MIDI-Device-DX7@0.0101
 MIDI::Drummer::Tiny                0.7102  pkg:cpan/MIDI-Drummer-Tiny@0.7102
 MIDI::Drummer::Tiny::Grooves       0.7102  pkg:cpan/MIDI-Drummer-Tiny@0.7102
@@ -219051,9 +219051,9 @@ Stats::Fermi::FermiDiracStats      undef  pkg:cpan/Stats-Fermi@0.1.7
 Stats::Hawking                     0.001003  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HTRandom           undef  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HawkingTemperature undef  pkg:cpan/Stats-Hawking@0.1.3
-Stats::LikeR                        0.34  pkg:cpan/Stats-LikeR@0.34
+Stats::LikeR                       0.341  pkg:cpan/Stats-LikeR@0.341
 Stats::LikeR::Pred                  0.16  pkg:cpan/Stats-LikeR@0.16
-Stats::LikeR::Usage                 0.34  pkg:cpan/Stats-LikeR@0.34
+Stats::LikeR::Usage                0.341  pkg:cpan/Stats-LikeR@0.341
 Stats::LikeR::col                   0.28  pkg:cpan/Stats-LikeR@0.28
 StatsView::Graph                    1.15  pkg:cpan/StatsView@1.4
 StatsView::Graph::Iost             undef  pkg:cpan/StatsView@1.4
@@ -259025,6 +259025,7 @@ bulkwrite::Resource                undef  pkg:cpan/ZZZ-SDK@0.0.2
 bulkwrite::Result                  undef  pkg:cpan/ZZZ-SDK@0.0.2
 bulkwrite::SuccessResponse         undef  pkg:cpan/ZZZ-SDK@0.0.2
 bulkwrite::UploadFileHeader        undef  pkg:cpan/ZZZ-SDK@0.0.2
+byterazor::HiD::LLMS                 0.1  pkg:cpan/byterazor-HiD-LLMS@0.1.0
 byterazor::HiD::Sitemap              0.1  pkg:cpan/byterazor-HiD-Sitemap@0.2
 bytes                               1.09  pkg:cpan/perl@5.42.3
 c                                   0.04  pkg:cpan/Catalyst-View-Template-Declare@0.04
