@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 29 Oct 2026 20:46:24 GMT
+Last-Updated: Fri, 30 Oct 2026 01:29:04 GMT
 Line-Count: 262567
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -17124,7 +17124,7 @@ App::perlrocks::Search             undef  pkg:cpan/perlrocks@0.02
 App::perlsh                         0.02  pkg:cpan/App-perlsh@0.02
 App::perluse                       0.0301  pkg:cpan/App-perluse@0.0301
 App::perlutils                     undef  pkg:cpan/App-perlutils@0.034
-App::perlvars                      0.000008  pkg:cpan/App-perlvars@0.000008
+App::perlvars                      0.000009  pkg:cpan/App-perlvars@0.000009
 App::perlzonji                      2.07  pkg:cpan/App-perlfind@2.07
 App::pfswatch                       0.08  pkg:cpan/App-pfswatch@0.08
 App::ph                             0.09  pkg:cpan/ph@0.09
@@ -34070,11 +34070,11 @@ CPAN::Flatten::Tree                undef  pkg:cpan/CPAN-Flatten@0.01
 CPAN::HTTP::Client                 1.9602  pkg:cpan/CPAN@2.41
 CPAN::HTTP::Credentials            1.9601  pkg:cpan/CPAN@2.41
 CPAN::HandleConfig                 5.5013  pkg:cpan/CPAN@2.41
-CPAN::InGit                        0.005  pkg:cpan/CPAN-InGit@0.005
-CPAN::InGit::ArchiveTree           0.005  pkg:cpan/CPAN-InGit@0.005
-CPAN::InGit::MirrorTree            0.005  pkg:cpan/CPAN-InGit@0.005
-CPAN::InGit::MutableTree           0.005  pkg:cpan/CPAN-InGit@0.005
-CPAN::InGit::Server                0.005  pkg:cpan/CPAN-InGit@0.005
+CPAN::InGit                        0.006  pkg:cpan/CPAN-InGit@0.006
+CPAN::InGit::ArchiveTree           0.006  pkg:cpan/CPAN-InGit@0.006
+CPAN::InGit::MirrorTree            0.006  pkg:cpan/CPAN-InGit@0.006
+CPAN::InGit::MutableTree           0.006  pkg:cpan/CPAN-InGit@0.006
+CPAN::InGit::Server                0.006  pkg:cpan/CPAN-InGit@0.006
 CPAN::Index                         2.29  pkg:cpan/CPAN@2.41
 CPAN::Index::API                   0.008  pkg:cpan/CPAN-Index-API@0.008
 CPAN::Index::API::File             0.005  pkg:cpan/CPAN-Index-API@0.005
@@ -152711,8 +152711,8 @@ OpenTelemetry::Logs::LogRecord::Processor 0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Logs::Logger        0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Logs::LoggerProvider 0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Processor           0.039  pkg:cpan/OpenTelemetry@0.039
-OpenTelemetry::Processor::Batch    0.100  pkg:cpan/OpenTelemetry-SDK@0.100
-OpenTelemetry::Processor::Simple   0.100  pkg:cpan/OpenTelemetry-SDK@0.100
+OpenTelemetry::Processor::Batch    0.101  pkg:cpan/OpenTelemetry-SDK@0.101
+OpenTelemetry::Processor::Simple   0.101  pkg:cpan/OpenTelemetry-SDK@0.101
 OpenTelemetry::Propagator          0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Propagator::Baggage 0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Propagator::Composite 0.039  pkg:cpan/OpenTelemetry@0.039
@@ -152723,28 +152723,28 @@ OpenTelemetry::Propagator::TraceContext::TraceFlags 0.039  pkg:cpan/OpenTelemetr
 OpenTelemetry::Propagator::TraceContext::TraceParent 0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Propagator::TraceContext::TraceState 0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Proto               0.022  pkg:cpan/OpenTelemetry-Exporter-OTLP@0.022
-OpenTelemetry::SDK                 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
-OpenTelemetry::SDK::Exporter::Console 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
-OpenTelemetry::SDK::InstrumentationScope 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
-OpenTelemetry::SDK::Logs::LogRecord 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
-OpenTelemetry::SDK::Logs::LogRecord::Processor::Batch 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
-OpenTelemetry::SDK::Logs::LogRecord::Processor::Simple 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
-OpenTelemetry::SDK::Logs::Logger   0.100  pkg:cpan/OpenTelemetry-SDK@0.100
-OpenTelemetry::SDK::Logs::LoggerProvider 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
-OpenTelemetry::SDK::Resource       0.100  pkg:cpan/OpenTelemetry-SDK@0.100
-OpenTelemetry::SDK::Trace::Sampler 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
-OpenTelemetry::SDK::Trace::Sampler::AlwaysOff 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
-OpenTelemetry::SDK::Trace::Sampler::AlwaysOn 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
-OpenTelemetry::SDK::Trace::Sampler::ParentBased 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
-OpenTelemetry::SDK::Trace::Sampler::Result 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
-OpenTelemetry::SDK::Trace::Sampler::TraceIDRatioBased 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
-OpenTelemetry::SDK::Trace::Span    0.100  pkg:cpan/OpenTelemetry-SDK@0.100
-OpenTelemetry::SDK::Trace::Span::Processor::Batch 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
-OpenTelemetry::SDK::Trace::Span::Processor::Simple 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
-OpenTelemetry::SDK::Trace::Span::Readable 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
-OpenTelemetry::SDK::Trace::SpanLimits 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
-OpenTelemetry::SDK::Trace::Tracer  0.100  pkg:cpan/OpenTelemetry-SDK@0.100
-OpenTelemetry::SDK::Trace::TracerProvider 0.100  pkg:cpan/OpenTelemetry-SDK@0.100
+OpenTelemetry::SDK                 0.101  pkg:cpan/OpenTelemetry-SDK@0.101
+OpenTelemetry::SDK::Exporter::Console 0.101  pkg:cpan/OpenTelemetry-SDK@0.101
+OpenTelemetry::SDK::InstrumentationScope 0.101  pkg:cpan/OpenTelemetry-SDK@0.101
+OpenTelemetry::SDK::Logs::LogRecord 0.101  pkg:cpan/OpenTelemetry-SDK@0.101
+OpenTelemetry::SDK::Logs::LogRecord::Processor::Batch 0.101  pkg:cpan/OpenTelemetry-SDK@0.101
+OpenTelemetry::SDK::Logs::LogRecord::Processor::Simple 0.101  pkg:cpan/OpenTelemetry-SDK@0.101
+OpenTelemetry::SDK::Logs::Logger   0.101  pkg:cpan/OpenTelemetry-SDK@0.101
+OpenTelemetry::SDK::Logs::LoggerProvider 0.101  pkg:cpan/OpenTelemetry-SDK@0.101
+OpenTelemetry::SDK::Resource       0.101  pkg:cpan/OpenTelemetry-SDK@0.101
+OpenTelemetry::SDK::Trace::Sampler 0.101  pkg:cpan/OpenTelemetry-SDK@0.101
+OpenTelemetry::SDK::Trace::Sampler::AlwaysOff 0.101  pkg:cpan/OpenTelemetry-SDK@0.101
+OpenTelemetry::SDK::Trace::Sampler::AlwaysOn 0.101  pkg:cpan/OpenTelemetry-SDK@0.101
+OpenTelemetry::SDK::Trace::Sampler::ParentBased 0.101  pkg:cpan/OpenTelemetry-SDK@0.101
+OpenTelemetry::SDK::Trace::Sampler::Result 0.101  pkg:cpan/OpenTelemetry-SDK@0.101
+OpenTelemetry::SDK::Trace::Sampler::TraceIDRatioBased 0.101  pkg:cpan/OpenTelemetry-SDK@0.101
+OpenTelemetry::SDK::Trace::Span    0.101  pkg:cpan/OpenTelemetry-SDK@0.101
+OpenTelemetry::SDK::Trace::Span::Processor::Batch 0.101  pkg:cpan/OpenTelemetry-SDK@0.101
+OpenTelemetry::SDK::Trace::Span::Processor::Simple 0.101  pkg:cpan/OpenTelemetry-SDK@0.101
+OpenTelemetry::SDK::Trace::Span::Readable 0.101  pkg:cpan/OpenTelemetry-SDK@0.101
+OpenTelemetry::SDK::Trace::SpanLimits 0.101  pkg:cpan/OpenTelemetry-SDK@0.101
+OpenTelemetry::SDK::Trace::Tracer  0.101  pkg:cpan/OpenTelemetry-SDK@0.101
+OpenTelemetry::SDK::Trace::TracerProvider 0.101  pkg:cpan/OpenTelemetry-SDK@0.101
 OpenTelemetry::Trace               0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Trace::Event        0.039  pkg:cpan/OpenTelemetry@0.039
 OpenTelemetry::Trace::Link         0.039  pkg:cpan/OpenTelemetry@0.039
@@ -218383,10 +218383,10 @@ Spreadsheet::WriteExcelXML::Utility  0.15  pkg:cpan/Spreadsheet-WriteExcelXML@0.
 Spreadsheet::WriteExcelXML::Workbook  0.15  pkg:cpan/Spreadsheet-WriteExcelXML@0.15
 Spreadsheet::WriteExcelXML::Worksheet  0.15  pkg:cpan/Spreadsheet-WriteExcelXML@0.15
 Spreadsheet::WriteExcelXML::XMLwriter  0.15  pkg:cpan/Spreadsheet-WriteExcelXML@0.15
-Spreadsheet::XLSX                   0.18  pkg:cpan/Spreadsheet-XLSX@0.18
+Spreadsheet::XLSX                   0.20  pkg:cpan/Spreadsheet-XLSX@0.20
 Spreadsheet::XLSX::Assist           0.01  pkg:cpan/Spreadsheet-ParseExcel-Assist?ext=zip
-Spreadsheet::XLSX::Fmt2007          0.18  pkg:cpan/Spreadsheet-XLSX@0.18
-Spreadsheet::XLSX::Utility2007      0.18  pkg:cpan/Spreadsheet-XLSX@0.18
+Spreadsheet::XLSX::Fmt2007          0.20  pkg:cpan/Spreadsheet-XLSX@0.20
+Spreadsheet::XLSX::Utility2007      0.20  pkg:cpan/Spreadsheet-XLSX@0.20
 Spreadsheet::XLSX::XLSXConvert      1.12  pkg:cpan/Spreadsheet-BasicRead@1.12
 Spreadsheet::XML_to_XLS             0.02  pkg:cpan/Spreadsheet-XML_to_XLS@0.03
 Spreadsheet::XlateExcel             0.03  pkg:cpan/Spreadsheet-XlateExcel@0.03
@@ -231773,7 +231773,7 @@ Tk::MMutil                         4.026  pkg:cpan/Tk@804.036
 Tk::MTDial                         0.001  pkg:cpan/Tk-MTDial@0.001
 Tk::MainWindow                     4.015  pkg:cpan/Tk@804.036
 Tk::MakeDepend                     4.016  pkg:cpan/Tk@804.036
-Tk::Markdown                        0.08  pkg:cpan/Tk-Markdown@0.08
+Tk::Markdown                        0.09  pkg:cpan/Tk-Markdown@0.09
 Tk::MarkdownTk                      0.07  pkg:cpan/Tk-MarkdownTk@0.07
 Tk::MatchEntry                       0.5  pkg:cpan/Tk-MatchEntry@0.5
 Tk::MatchingBE                      0.11  pkg:cpan/Tk-EntrySet@0.11
@@ -232319,10 +232319,10 @@ Transmission::Utils                undef  pkg:cpan/Transmission-Client@0.0806
 Trash::Park                         0.03  pkg:cpan/Trash-Park@0.03
 Trash::Park::Element                0.03  pkg:cpan/Trash-Park@0.03
 Trav::Dir                           0.02  pkg:cpan/Trav-Dir@0.02
-Travel::Routing::DE::DBRIS          0.15  pkg:cpan/Travel-Routing-DE-DBRIS@0.15
-Travel::Routing::DE::DBRIS::Connection  0.15  pkg:cpan/Travel-Routing-DE-DBRIS@0.15
-Travel::Routing::DE::DBRIS::Connection::Segment  0.15  pkg:cpan/Travel-Routing-DE-DBRIS@0.15
-Travel::Routing::DE::DBRIS::Offer   0.15  pkg:cpan/Travel-Routing-DE-DBRIS@0.15
+Travel::Routing::DE::DBRIS          0.16  pkg:cpan/Travel-Routing-DE-DBRIS@0.16
+Travel::Routing::DE::DBRIS::Connection  0.16  pkg:cpan/Travel-Routing-DE-DBRIS@0.16
+Travel::Routing::DE::DBRIS::Connection::Segment  0.16  pkg:cpan/Travel-Routing-DE-DBRIS@0.16
+Travel::Routing::DE::DBRIS::Offer   0.16  pkg:cpan/Travel-Routing-DE-DBRIS@0.16
 Travel::Routing::DE::EFA            2.25  pkg:cpan/Travel-Routing-DE-VRR@2.25
 Travel::Routing::DE::EFA::Route     2.25  pkg:cpan/Travel-Routing-DE-VRR@2.25
 Travel::Routing::DE::EFA::Route::Message  2.25  pkg:cpan/Travel-Routing-DE-VRR@2.25
@@ -232334,15 +232334,15 @@ Travel::Routing::DE::HAFAS::Location  0.01  pkg:cpan/Travel-Routing-DE-HAFAS@0.0
 Travel::Routing::DE::HAFAS::Utils   0.11  pkg:cpan/Travel-Routing-DE-HAFAS@0.11
 Travel::Routing::DE::VRR            2.25  pkg:cpan/Travel-Routing-DE-VRR@2.25
 Travel::Status::DE::ASEAG           2.01  pkg:cpan/Travel-Status-DE-URA@2.01
-Travel::Status::DE::DBRIS           0.35  pkg:cpan/Travel-Status-DE-DBRIS@0.35
-Travel::Status::DE::DBRIS::Formation  0.35  pkg:cpan/Travel-Status-DE-DBRIS@0.35
-Travel::Status::DE::DBRIS::Formation::Carriage  0.35  pkg:cpan/Travel-Status-DE-DBRIS@0.35
-Travel::Status::DE::DBRIS::Formation::Group  0.35  pkg:cpan/Travel-Status-DE-DBRIS@0.35
-Travel::Status::DE::DBRIS::Formation::Sector  0.35  pkg:cpan/Travel-Status-DE-DBRIS@0.35
-Travel::Status::DE::DBRIS::Journey  0.35  pkg:cpan/Travel-Status-DE-DBRIS@0.35
-Travel::Status::DE::DBRIS::JourneyAtStop  0.35  pkg:cpan/Travel-Status-DE-DBRIS@0.35
-Travel::Status::DE::DBRIS::Location  0.35  pkg:cpan/Travel-Status-DE-DBRIS@0.35
-Travel::Status::DE::DBRIS::Operators  0.35  pkg:cpan/Travel-Status-DE-DBRIS@0.35
+Travel::Status::DE::DBRIS           0.37  pkg:cpan/Travel-Status-DE-DBRIS@0.37
+Travel::Status::DE::DBRIS::Formation  0.37  pkg:cpan/Travel-Status-DE-DBRIS@0.37
+Travel::Status::DE::DBRIS::Formation::Carriage  0.37  pkg:cpan/Travel-Status-DE-DBRIS@0.37
+Travel::Status::DE::DBRIS::Formation::Group  0.37  pkg:cpan/Travel-Status-DE-DBRIS@0.37
+Travel::Status::DE::DBRIS::Formation::Sector  0.37  pkg:cpan/Travel-Status-DE-DBRIS@0.37
+Travel::Status::DE::DBRIS::Journey  0.37  pkg:cpan/Travel-Status-DE-DBRIS@0.37
+Travel::Status::DE::DBRIS::JourneyAtStop  0.37  pkg:cpan/Travel-Status-DE-DBRIS@0.37
+Travel::Status::DE::DBRIS::Location  0.37  pkg:cpan/Travel-Status-DE-DBRIS@0.37
+Travel::Status::DE::DBRIS::Operators  0.37  pkg:cpan/Travel-Status-DE-DBRIS@0.37
 Travel::Status::DE::DBWagenreihung  0.18  pkg:cpan/Travel-Status-DE-DBWagenreihung@0.18
 Travel::Status::DE::DBWagenreihung::Carriage  0.18  pkg:cpan/Travel-Status-DE-DBWagenreihung@0.18
 Travel::Status::DE::DBWagenreihung::Group  0.18  pkg:cpan/Travel-Status-DE-DBWagenreihung@0.18
