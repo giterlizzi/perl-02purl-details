@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 31 Oct 2026 07:51:08 GMT
+Last-Updated: Sat, 31 Oct 2026 14:09:17 GMT
 Line-Count: 262589
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -213027,19 +213027,19 @@ Sepia::Xref                         0.65  pkg:cpan/Sepia@0.992
 Seq::Iter                          0.001  pkg:cpan/Seq-Iter@0.001
 SeqDiff                            undef  pkg:cpan/SeqDiff@v0.1
 Ser::BinRPC                         0.01  pkg:cpan/Ser-BinRPC@0.01
-Sereal                             6.002  pkg:cpan/Sereal@6.002
+Sereal                             6.003  pkg:cpan/Sereal@6.003
 Sereal::Dclone                     0.003  pkg:cpan/Sereal-Dclone@0.003
-Sereal::Decoder                    6.002  pkg:cpan/Sereal-Decoder@6.002
-Sereal::Decoder::Constants         6.002  pkg:cpan/Sereal-Decoder@6.002
-Sereal::Encoder                    6.002  pkg:cpan/Sereal-Encoder@6.002
-Sereal::Encoder::Constants         6.002  pkg:cpan/Sereal-Encoder@6.002
+Sereal::Decoder                    6.003  pkg:cpan/Sereal-Decoder@6.003
+Sereal::Decoder::Constants         6.003  pkg:cpan/Sereal-Decoder@6.003
+Sereal::Encoder                    6.003  pkg:cpan/Sereal-Encoder@6.003
+Sereal::Encoder::Constants         6.003  pkg:cpan/Sereal-Encoder@6.003
 Sereal::Merger                     0.001  pkg:cpan/Sereal-Merger@0.001
 Sereal::Merger::Constants          0.001  pkg:cpan/Sereal-Merger@0.001
 Sereal::Path                       4.004  pkg:cpan/Sereal-Path@4.004
 Sereal::Path::Constants            4.004  pkg:cpan/Sereal-Path@4.004
 Sereal::Path::Iterator             4.004  pkg:cpan/Sereal-Path@4.004
 Sereal::Path::Tie                  4.004  pkg:cpan/Sereal-Path@4.004
-Sereal::Performance                undef  pkg:cpan/Sereal-Decoder@6.002
+Sereal::Performance                undef  pkg:cpan/Sereal-Decoder@6.003
 Sereal::Splitter                   0.840  pkg:cpan/Sereal-Splitter@0.840
 Sereal::Splitter::Constants        0.830  pkg:cpan/Sereal-Splitter@0.840
 SerealX::Store                     0.003  pkg:cpan/SerealX-Store@0.003
