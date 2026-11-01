@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 01 Nov 2026 03:43:08 GMT
+Last-Updated: Sun, 01 Nov 2026 10:56:34 GMT
 Line-Count: 262589
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -201352,10 +201352,10 @@ Redis::DistLock                     0.07  pkg:cpan/Redis-DistLock@0.07
 Redis::Dump                        0.016  pkg:cpan/Redis-Dump@0.016
 Redis::Dump::Config                0.016  pkg:cpan/Redis-Dump@0.016
 Redis::Dump::Restore               0.016  pkg:cpan/Redis-Dump@0.016
-Redis::Fast                         0.39  pkg:cpan/Redis-Fast@0.39
-Redis::Fast::Hash                  undef  pkg:cpan/Redis-Fast@0.39
-Redis::Fast::List                  undef  pkg:cpan/Redis-Fast@0.39
-Redis::Fast::Sentinel              undef  pkg:cpan/Redis-Fast@0.39
+Redis::Fast                         0.40  pkg:cpan/Redis-Fast@0.40
+Redis::Fast::Hash                  undef  pkg:cpan/Redis-Fast@0.40
+Redis::Fast::List                  undef  pkg:cpan/Redis-Fast@0.40
+Redis::Fast::Sentinel              undef  pkg:cpan/Redis-Fast@0.40
 Redis::Handle                      0.002000  pkg:cpan/Redis-Handle@0.2.0
 Redis::Hash                        2.000  pkg:cpan/Redis@2.000
 Redis::Jet                          0.09  pkg:cpan/Redis-Jet@0.09
@@ -239938,17 +239938,17 @@ VOMS::Lite::RSAKey                  0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::SAMLHelper              0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::VOMS                    0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::X509                    0.20  pkg:cpan/VOMS-Lite@0.20
-VPNDetection                       3.010001  pkg:cpan/VPNDetection@3.10.1
-VPNDetection::Bogon                3.010001  pkg:cpan/VPNDetection@3.10.1
-VPNDetection::Bogons               undef  pkg:cpan/VPNDetection@3.10.1
-VPNDetection::Cache                3.010001  pkg:cpan/VPNDetection@3.10.1
-VPNDetection::Database             3.010001  pkg:cpan/VPNDetection@3.10.1
-VPNDetection::Error                3.010001  pkg:cpan/VPNDetection@3.10.1
-VPNDetection::Oauth                3.010001  pkg:cpan/VPNDetection@3.10.1
-VPNDetection::OauthAccessDeniedError 3.010001  pkg:cpan/VPNDetection@3.10.1
-VPNDetection::OauthError           3.010001  pkg:cpan/VPNDetection@3.10.1
-VPNDetection::OauthExpiredTokenError 3.010001  pkg:cpan/VPNDetection@3.10.1
-VPNDetection::Result               3.010001  pkg:cpan/VPNDetection@3.10.1
+VPNDetection                       3.010002  pkg:cpan/VPNDetection@3.10.2
+VPNDetection::Bogon                3.010002  pkg:cpan/VPNDetection@3.10.2
+VPNDetection::Bogons               undef  pkg:cpan/VPNDetection@3.10.2
+VPNDetection::Cache                3.010002  pkg:cpan/VPNDetection@3.10.2
+VPNDetection::Database             3.010002  pkg:cpan/VPNDetection@3.10.2
+VPNDetection::Error                3.010002  pkg:cpan/VPNDetection@3.10.2
+VPNDetection::Oauth                3.010002  pkg:cpan/VPNDetection@3.10.2
+VPNDetection::OauthAccessDeniedError 3.010002  pkg:cpan/VPNDetection@3.10.2
+VPNDetection::OauthError           3.010002  pkg:cpan/VPNDetection@3.10.2
+VPNDetection::OauthExpiredTokenError 3.010002  pkg:cpan/VPNDetection@3.10.2
+VPNDetection::Result               3.010002  pkg:cpan/VPNDetection@3.10.2
 VR::API                             1.06  pkg:cpan/VR-API@1.06
 VR::API::Partner                    1.01  pkg:cpan/VR-API@1.05
 VRML                                1.10  pkg:cpan/VRML@1.10
