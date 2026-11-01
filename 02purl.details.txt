@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 01 Nov 2026 17:28:53 GMT
-Line-Count: 262590
+Last-Updated: Sun, 01 Nov 2026 21:33:30 GMT
+Line-Count: 262587
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -31234,7 +31234,7 @@ Business::IS::PIN                   0.06  pkg:cpan/Business-IS-PIN@0.06
 Business::ISBN                     3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN10                   3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN13                   3.014  pkg:cpan/Business-ISBN@3.014
-Business::ISBN::Data               20261020.001  pkg:cpan/Business-ISBN-Data@20261020.001
+Business::ISBN::Data               20261031.001  pkg:cpan/Business-ISBN-Data@20261031.001
 Business::ISIN                      0.20  pkg:cpan/Business-ISIN@0.20?ext=tgz
 Business::ISMN                     1.205  pkg:cpan/Business-ISMN@1.205
 Business::ISMN::Data               1.205  pkg:cpan/Business-ISMN@1.205
@@ -72878,9 +72878,6 @@ EvasEventMouseMovePtr              undef  pkg:cpan/pEFL@0.79
 EvasEventMouseOutPtr               undef  pkg:cpan/pEFL@0.79
 EvasEventMouseUpPtr                undef  pkg:cpan/pEFL@0.79
 EvasEventMouseWheelPtr             undef  pkg:cpan/pEFL@0.79
-EvasEventSignalExitPtr             undef  pkg:cpan/pEFL@0.76
-EvasEventSignalRealtimePtr         undef  pkg:cpan/pEFL@0.76
-EvasEventSignalUserPtr             undef  pkg:cpan/pEFL@0.76
 EvasGridPtr                        undef  pkg:cpan/pEFL@0.79
 EvasImagePtr                       undef  pkg:cpan/pEFL@0.79
 EvasLinePtr                        undef  pkg:cpan/pEFL@0.79
@@ -83585,7 +83582,7 @@ Geo::Address::Parser::Rules::IRL    0.08  pkg:cpan/Geo-Address-Parser@0.08
 Geo::Address::Parser::Rules::NZ     0.08  pkg:cpan/Geo-Address-Parser@0.08
 Geo::Address::Parser::Rules::UK     0.08  pkg:cpan/Geo-Address-Parser@0.08
 Geo::Address::Parser::Rules::US     0.08  pkg:cpan/Geo-Address-Parser@0.08
-Geo::AnomalyDetector                0.02  pkg:cpan/Geo-AnomalyDetector@0.02
+Geo::AnomalyDetector                0.03  pkg:cpan/Geo-AnomalyDetector@0.03
 Geo::Approx                          0.8  pkg:cpan/Geo-Approx@0.8
 Geo::BUFR                           1.42  pkg:cpan/Geo-BUFR@1.42
 Geo::CEP                             1.0  pkg:cpan/Geo-CEP@1.0
@@ -128831,11 +128828,11 @@ MathWorks::platformList            undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::product                 undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepItem          undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepList          undef  pkg:cpan/XML-Pastor@0.6.0
-Matplotlib::Simple                 0.333  pkg:cpan/Matplotlib-Simple@0.333
-Matplotlib::Simple::Colors         0.333  pkg:cpan/Matplotlib-Simple@0.333
-Matplotlib::Simple::Ggplot2        0.333  pkg:cpan/Matplotlib-Simple@0.333
-Matplotlib::Simple::Gnuplot        0.333  pkg:cpan/Matplotlib-Simple@0.333
-Matplotlib::Simple::Matplotlib     0.333  pkg:cpan/Matplotlib-Simple@0.333
+Matplotlib::Simple                 0.334  pkg:cpan/Matplotlib-Simple@0.334
+Matplotlib::Simple::Colors         0.334  pkg:cpan/Matplotlib-Simple@0.334
+Matplotlib::Simple::Ggplot2        0.334  pkg:cpan/Matplotlib-Simple@0.334
+Matplotlib::Simple::Gnuplot        0.334  pkg:cpan/Matplotlib-Simple@0.334
+Matplotlib::Simple::Matplotlib     0.334  pkg:cpan/Matplotlib-Simple@0.334
 Matrix::Simple                      1.04  pkg:cpan/Matrix-Simple@1.04
 Matts::Message                     undef  pkg:cpan/Matts-Message-Parser@1.0
 Matts::Message::Parser               1.0  pkg:cpan/Matts-Message-Parser@1.0
@@ -134142,18 +134139,18 @@ MojoX::Aliyun                       0.02  pkg:cpan/App-Aliyun@0.02
 MojoX::AlmostJSON                  1.151250  pkg:cpan/MojoX-AlmostJSON@1.151250
 MojoX::AlmostJSON::_Bool           1.151250  pkg:cpan/MojoX-AlmostJSON@1.151250
 MojoX::Auth::Simple                0.004002  pkg:cpan/MojoX-Auth-Simple@0.04.03
-MojoX::Authentication              0.008  pkg:cpan/MojoX-Authentication@0.008
-MojoX::Authentication::Model       0.008  pkg:cpan/MojoX-Authentication@0.008
-MojoX::Authentication::Model::Db   0.008  pkg:cpan/MojoX-Authentication@0.008
-MojoX::Authentication::Model::Hash 0.008  pkg:cpan/MojoX-Authentication@0.008
-MojoX::Authentication::Model::Role::Creator 0.008  pkg:cpan/MojoX-Authentication@0.008
-MojoX::Authentication::Model::Role::Local 0.008  pkg:cpan/MojoX-Authentication@0.008
-MojoX::Authentication::Model::Role::MojoDbWrap 0.008  pkg:cpan/MojoX-Authentication@0.008
-MojoX::Authentication::Model::Role::Remap 0.008  pkg:cpan/MojoX-Authentication@0.008
-MojoX::Authentication::Model::SAML2 0.008  pkg:cpan/MojoX-Authentication@0.008
-MojoX::Authentication::Model::SAML2::Db 0.008  pkg:cpan/MojoX-Authentication@0.008
-MojoX::Authentication::Model::SAML2::Hash 0.008  pkg:cpan/MojoX-Authentication@0.008
-MojoX::Authentication::Util        undef  pkg:cpan/MojoX-Authentication@0.008
+MojoX::Authentication              0.010  pkg:cpan/MojoX-Authentication@0.010
+MojoX::Authentication::Model       0.010  pkg:cpan/MojoX-Authentication@0.010
+MojoX::Authentication::Model::Db   0.010  pkg:cpan/MojoX-Authentication@0.010
+MojoX::Authentication::Model::Hash 0.010  pkg:cpan/MojoX-Authentication@0.010
+MojoX::Authentication::Model::Role::Creator 0.010  pkg:cpan/MojoX-Authentication@0.010
+MojoX::Authentication::Model::Role::Local 0.010  pkg:cpan/MojoX-Authentication@0.010
+MojoX::Authentication::Model::Role::MojoDbWrap 0.010  pkg:cpan/MojoX-Authentication@0.010
+MojoX::Authentication::Model::Role::Remap 0.010  pkg:cpan/MojoX-Authentication@0.010
+MojoX::Authentication::Model::SAML2 0.010  pkg:cpan/MojoX-Authentication@0.010
+MojoX::Authentication::Model::SAML2::Db 0.010  pkg:cpan/MojoX-Authentication@0.010
+MojoX::Authentication::Model::SAML2::Hash 0.010  pkg:cpan/MojoX-Authentication@0.010
+MojoX::Authentication::Util        undef  pkg:cpan/MojoX-Authentication@0.010
 MojoX::CPAN::Uploader              0.034  pkg:cpan/MojoX-CPAN-Uploader@0.034
 MojoX::CloudFlare::Simple           0.04  pkg:cpan/MojoX-CloudFlare-Simple@0.04
 MojoX::ConfigAppStart               1.06  pkg:cpan/MojoX-ConfigAppStart@1.06
@@ -196870,7 +196867,7 @@ Punk::ClamAV                        0.02  pkg:cpan/Punk-ClamAV@0.02
 Punk::Command                       0.68  pkg:cpan/Punk@0.68
 Punk::Command::Apikey               0.02  pkg:cpan/Punk-APIKey@0.02
 Punk::Command::Challenge            0.01  pkg:cpan/Punk-Challenge@0.01
-Punk::Command::Mcp                  0.01  pkg:cpan/Punk-MCP@0.01
+Punk::Command::Mcp                  0.02  pkg:cpan/Punk-MCP@0.02
 Punk::Command::Push                 0.03  pkg:cpan/Punk-Push@0.03
 Punk::Command::Queue                0.11  pkg:cpan/Punk-Queue@0.11
 Punk::Command::SAML                undef  pkg:cpan/Punk-SAML@0.03
@@ -196888,7 +196885,7 @@ Punk::Generate                      0.68  pkg:cpan/Punk@0.68
 Punk::GraphQL                       0.02  pkg:cpan/Punk-GraphQL@0.02
 Punk::Headers                       0.68  pkg:cpan/Punk@0.68
 Punk::Logger                        0.68  pkg:cpan/Punk@0.68
-Punk::MCP                           0.01  pkg:cpan/Punk-MCP@0.01
+Punk::MCP                           0.02  pkg:cpan/Punk-MCP@0.02
 Punk::Mailer                        0.06  pkg:cpan/Punk-Mailer@0.06
 Punk::Mailer::Job                   0.06  pkg:cpan/Punk-Mailer@0.06
 Punk::Mailer::Result                0.06  pkg:cpan/Punk-Mailer@0.06
@@ -196982,7 +196979,7 @@ Punk::Plugin::GraphQL               0.02  pkg:cpan/Punk-GraphQL@0.02
 Punk::Plugin::Health                0.68  pkg:cpan/Punk@0.68
 Punk::Plugin::I18n                  0.68  pkg:cpan/Punk@0.68
 Punk::Plugin::Idempotency           0.68  pkg:cpan/Punk@0.68
-Punk::Plugin::MCP                   0.01  pkg:cpan/Punk-MCP@0.01
+Punk::Plugin::MCP                   0.02  pkg:cpan/Punk-MCP@0.02
 Punk::Plugin::Mailer                0.06  pkg:cpan/Punk-Mailer@0.06
 Punk::Plugin::Metrics               0.68  pkg:cpan/Punk@0.68
 Punk::Plugin::OAuth2                0.08  pkg:cpan/Punk-OAuth2@0.08
