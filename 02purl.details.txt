@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 01 Nov 2026 21:33:30 GMT
+Last-Updated: Mon, 02 Nov 2026 01:09:23 GMT
 Line-Count: 262587
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -107776,7 +107776,7 @@ IRC::Toolkit::Parser               0.092002  pkg:cpan/IRC-Toolkit@0.092002
 IRC::Toolkit::Role::CaseMap        0.092002  pkg:cpan/IRC-Toolkit@0.092002
 IRC::Toolkit::TS6                  0.092002  pkg:cpan/IRC-Toolkit@0.092002
 IRC::Utils                          0.12  pkg:cpan/IRC-Utils@0.12
-IRI                                 0.15  pkg:cpan/IRI@0.15
+IRI                                 0.16  pkg:cpan/IRI@0.16
 IS::Conf                            0.01  pkg:cpan/IS-Conf@0.01
 IS::Init                            0.93  pkg:cpan/IS-Init@0.93
 ISAL::Crypto                        0.01  pkg:cpan/ISAL-Crypto@0.01
@@ -118290,48 +118290,48 @@ Linux::Epoll                       0.019  pkg:cpan/Linux-Epoll@0.019
 Linux::Ethtool                      0.11  pkg:cpan/Linux-Ethtool@0.11
 Linux::Ethtool::Settings            0.11  pkg:cpan/Linux-Ethtool@0.11
 Linux::Ethtool::WOL                 0.11  pkg:cpan/Linux-Ethtool@0.11
-Linux::Event                       0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::Address              0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event                       0.118  pkg:cpan/Linux-Event@0.118
+Linux::Event::Address              0.118  pkg:cpan/Linux-Event@0.118
 Linux::Event::Backend              0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Backend::Epoll       0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Bench                0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Datagram             0.105  pkg:cpan/Linux-Event@0.105
-Linux::Event::Error                0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::Framer               0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::Framer::DecimalLength 0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::Framer::Delimiter    0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::Framer::Fixed        0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::Framer::LengthPrefix 0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::Framer::Netstring    0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::Framer::U32BE        0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::Framer::Varint       0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::HTTP                 0.004  pkg:cpan/Linux-Event-HTTP@0.004
+Linux::Event::Error                0.118  pkg:cpan/Linux-Event@0.118
+Linux::Event::Framer               0.118  pkg:cpan/Linux-Event@0.118
+Linux::Event::Framer::DecimalLength 0.118  pkg:cpan/Linux-Event@0.118
+Linux::Event::Framer::Delimiter    0.118  pkg:cpan/Linux-Event@0.118
+Linux::Event::Framer::Fixed        0.118  pkg:cpan/Linux-Event@0.118
+Linux::Event::Framer::LengthPrefix 0.118  pkg:cpan/Linux-Event@0.118
+Linux::Event::Framer::Netstring    0.118  pkg:cpan/Linux-Event@0.118
+Linux::Event::Framer::U32BE        0.118  pkg:cpan/Linux-Event@0.118
+Linux::Event::Framer::Varint       0.118  pkg:cpan/Linux-Event@0.118
+Linux::Event::HTTP                 0.005  pkg:cpan/Linux-Event-HTTP@0.005
 Linux::Event::HTTP::Body::Stream   0.003  pkg:cpan/Linux-Event-HTTP@0.003
-Linux::Event::HTTP::Client         0.004  pkg:cpan/Linux-Event-HTTP@0.004
+Linux::Event::HTTP::Client         0.005  pkg:cpan/Linux-Event-HTTP@0.005
 Linux::Event::HTTP::Client::Connection 0.003  pkg:cpan/Linux-Event-HTTP@0.003
 Linux::Event::HTTP::Client::Operation 0.003  pkg:cpan/Linux-Event-HTTP@0.003
 Linux::Event::HTTP::Request        0.003  pkg:cpan/Linux-Event-HTTP@0.003
 Linux::Event::HTTP::Response       0.003  pkg:cpan/Linux-Event-HTTP@0.003
-Linux::Event::HTTP::Server         0.004  pkg:cpan/Linux-Event-HTTP@0.004
+Linux::Event::HTTP::Server         0.005  pkg:cpan/Linux-Event-HTTP@0.005
 Linux::Event::HTTP::Server::Connection 0.003  pkg:cpan/Linux-Event-HTTP@0.003
 Linux::Event::HTTP::Transaction    0.003  pkg:cpan/Linux-Event-HTTP@0.003
-Linux::Event::IO                   0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::IO::Pipe             0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::IO::Sock             0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::IO::Sock::Dgram      0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::IO::Sock::Listener   0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::IO::Sock::Stream     0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::IO::TTY              0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::Kernel               0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::Kernel::Event        0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::Kernel::Inotify      0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::Kernel::Inotify::Event 0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::Kernel::Inotify::Watch 0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::Kernel::Process      0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::Kernel::Signal       0.117  pkg:cpan/Linux-Event@0.117
-Linux::Event::Kernel::Timer        0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::IO                   0.118  pkg:cpan/Linux-Event@0.118
+Linux::Event::IO::Pipe             0.118  pkg:cpan/Linux-Event@0.118
+Linux::Event::IO::Sock             0.118  pkg:cpan/Linux-Event@0.118
+Linux::Event::IO::Sock::Dgram      0.118  pkg:cpan/Linux-Event@0.118
+Linux::Event::IO::Sock::Listener   0.118  pkg:cpan/Linux-Event@0.118
+Linux::Event::IO::Sock::Stream     0.118  pkg:cpan/Linux-Event@0.118
+Linux::Event::IO::TTY              0.118  pkg:cpan/Linux-Event@0.118
+Linux::Event::Kernel               0.118  pkg:cpan/Linux-Event@0.118
+Linux::Event::Kernel::Event        0.118  pkg:cpan/Linux-Event@0.118
+Linux::Event::Kernel::Inotify      0.118  pkg:cpan/Linux-Event@0.118
+Linux::Event::Kernel::Inotify::Event 0.118  pkg:cpan/Linux-Event@0.118
+Linux::Event::Kernel::Inotify::Watch 0.118  pkg:cpan/Linux-Event@0.118
+Linux::Event::Kernel::Process      0.118  pkg:cpan/Linux-Event@0.118
+Linux::Event::Kernel::Signal       0.118  pkg:cpan/Linux-Event@0.118
+Linux::Event::Kernel::Timer        0.118  pkg:cpan/Linux-Event@0.118
 Linux::Event::Listener             0.105  pkg:cpan/Linux-Event@0.105
-Linux::Event::Loop                 0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::Loop                 0.118  pkg:cpan/Linux-Event@0.118
 Linux::Event::Operation            0.010  pkg:cpan/Linux-Event@0.010
 Linux::Event::Pid                  0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Pid::Subscription    0.012  pkg:cpan/Linux-Event@0.012
@@ -118347,7 +118347,7 @@ Linux::Event::Scheduler            0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Signal               0.105  pkg:cpan/Linux-Event@0.105
 Linux::Event::Signal::Subscription 0.012  pkg:cpan/Linux-Event@0.012
 Linux::Event::Stream               0.105  pkg:cpan/Linux-Event@0.105
-Linux::Event::TLS                  0.117  pkg:cpan/Linux-Event@0.117
+Linux::Event::TLS                  0.118  pkg:cpan/Linux-Event@0.118
 Linux::Event::Timer                0.105  pkg:cpan/Linux-Event@0.105
 Linux::Event::Wakeup               0.105  pkg:cpan/Linux-Event@0.105
 Linux::Event::Watcher              0.012  pkg:cpan/Linux-Event@0.012
