@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 02 Nov 2026 01:09:23 GMT
-Line-Count: 262587
+Last-Updated: Mon, 02 Nov 2026 08:42:29 GMT
+Line-Count: 262589
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5238,7 +5238,7 @@ Alien::Xrepo::MM                   v1.0.10  pkg:cpan/Alien-Xrepo@v1.0.10
 Alien::Xrepo::PackageInfo          v1.0.10  pkg:cpan/Alien-Xrepo@v1.0.10
 Alien::Xrepo::Runtime              v1.0.10  pkg:cpan/Alien-Xrepo@v1.0.10
 Alien::Xrepo::Runtime::Alt         v1.0.10  pkg:cpan/Alien-Xrepo@v1.0.10
-Alien::YAMLScript                  0.003006  pkg:cpan/Alien-YAMLScript@0.3.6
+Alien::YAMLScript                  0.003007  pkg:cpan/Alien-YAMLScript@0.3.7
 Alien::YARA                        v0.0.1  pkg:cpan/Alien-YARA@v0.0.6
 Alien::Z3                          0.002  pkg:cpan/Alien-Z3@0.002
 Alien::ZMQ                          0.06  pkg:cpan/Alien-ZMQ@0.06
@@ -16016,7 +16016,7 @@ App::ansicolumn::default           undef  pkg:cpan/App-ansicolumn@1.62
 App::ansiecho                       1.10  pkg:cpan/App-ansiecho@1.10
 App::ansiecho::Util                undef  pkg:cpan/App-ansiecho@1.10
 App::ansiexpand                     1.06  pkg:cpan/App-ansiexpand@1.06
-App::ansifold                       1.35  pkg:cpan/App-ansifold@1.35
+App::ansifold                       1.36  pkg:cpan/App-ansifold@1.36
 App::ansiprintf                     2.07  pkg:cpan/Text-ANSI-Printf@2.07
 App::ansiprintf::Util              undef  pkg:cpan/Text-ANSI-Printf@2.07
 App::ape                           0.001  pkg:cpan/App-Prove-Plugin-Elasticsearch@0.001
@@ -22904,13 +22904,13 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         v0.40.1  pkg:cpan/BarefootJS@0.40.1
-BarefootJS::Backend::Mojo          v0.40.1  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.40.1
-BarefootJS::Backend::Xslate        v0.40.1  pkg:cpan/BarefootJS-Backend-Xslate@0.40.1
-BarefootJS::Date                   v0.40.1  pkg:cpan/BarefootJS@0.40.1
-BarefootJS::DevReload              v0.40.1  pkg:cpan/BarefootJS@0.40.1
-BarefootJS::Evaluator              v0.40.1  pkg:cpan/BarefootJS@0.40.1
-BarefootJS::SearchParams           v0.40.1  pkg:cpan/BarefootJS@0.40.1
+BarefootJS                         v0.40.2  pkg:cpan/BarefootJS@0.40.2
+BarefootJS::Backend::Mojo          v0.40.2  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.40.2
+BarefootJS::Backend::Xslate        v0.40.2  pkg:cpan/BarefootJS-Backend-Xslate@0.40.2
+BarefootJS::Date                   v0.40.2  pkg:cpan/BarefootJS@0.40.2
+BarefootJS::DevReload              v0.40.2  pkg:cpan/BarefootJS@0.40.2
+BarefootJS::Evaluator              v0.40.2  pkg:cpan/BarefootJS@0.40.2
+BarefootJS::SearchParams           v0.40.2  pkg:cpan/BarefootJS@0.40.2
 BarefootJS::_TZProbe               0.029000  pkg:cpan/BarefootJS@0.29.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
@@ -57579,7 +57579,7 @@ Dancer2::Plugin::Emailesque         0.03  pkg:cpan/Dancer2-Plugin-Emailesque@0.0
 Dancer2::Plugin::EncryptID          0.03  pkg:cpan/Dancer2-Plugin-EncryptID@0.03
 Dancer2::Plugin::Etcd              0.011  pkg:cpan/Dancer2-Plugin-Etcd@0.011
 Dancer2::Plugin::Etcd::CLI         0.011  pkg:cpan/Dancer2-Plugin-Etcd@0.011
-Dancer2::Plugin::Feed              1.263050  pkg:cpan/Dancer2-Plugin-Feed@1.263050
+Dancer2::Plugin::Feed              1.263060  pkg:cpan/Dancer2-Plugin-Feed@1.263060
 Dancer2::Plugin::Flash              0.03  pkg:cpan/Dancer2-Plugin-Flash@0.03
 Dancer2::Plugin::FlashNote          0.03  pkg:cpan/Dancer2-Plugin-FlashNote@0.03
 Dancer2::Plugin::FontSubset        v0.0.1  pkg:cpan/Dancer2-Plugin-FontSubset@0.0.1
@@ -63368,7 +63368,7 @@ Database::BI::Util                 0.018  pkg:cpan/Database-BI@0.018.0
 Database::Cassandra::Client            1  pkg:cpan/Database-Cassandra-Client@1
 Database::DumpTruck                  1.2  pkg:cpan/Database-DumpTruck@1.2
 Database::Format::Text              1.03  pkg:cpan/Database-Format-Text@1.03
-Database::Join                     0.010  pkg:cpan/Database-Join@0.010.0
+Database::Join                     0.010001  pkg:cpan/Database-Join@0.010.1
 Database::ManagedHandle            0.003  pkg:cpan/Database-ManagedHandle@0.003
 Database::Migrator                  0.14  pkg:cpan/Database-Migrator@0.14
 Database::Migrator::Core            0.14  pkg:cpan/Database-Migrator@0.14
@@ -77279,12 +77279,14 @@ Finance::Tax::Aruba::Income::2023  0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::Tax::Aruba::Income::2025  0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::Tax::Aruba::Role::Income::TaxYear 0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::TickerSymbols              3.11  pkg:cpan/Finance-TickerSymbols@3.11?ext=zip
-Finance::Tiller2QIF                 1.10  pkg:cpan/Finance-Tiller2QIF@1.10
-Finance::Tiller2QIF::DB             1.10  pkg:cpan/Finance-Tiller2QIF@1.10
-Finance::Tiller2QIF::Map            1.10  pkg:cpan/Finance-Tiller2QIF@1.10
-Finance::Tiller2QIF::ReadCSV        1.10  pkg:cpan/Finance-Tiller2QIF@1.10
-Finance::Tiller2QIF::Util           1.10  pkg:cpan/Finance-Tiller2QIF@1.10
-Finance::Tiller2QIF::WriteQIF       1.10  pkg:cpan/Finance-Tiller2QIF@1.10
+Finance::Tiller2QIF                 1.20  pkg:cpan/Finance-Tiller2QIF@1.20
+Finance::Tiller2QIF::DB             1.20  pkg:cpan/Finance-Tiller2QIF@1.20
+Finance::Tiller2QIF::Interactive    1.20  pkg:cpan/Finance-Tiller2QIF@1.20
+Finance::Tiller2QIF::Interactive::_DatabaseGuard  1.20  pkg:cpan/Finance-Tiller2QIF@1.20
+Finance::Tiller2QIF::Map            1.20  pkg:cpan/Finance-Tiller2QIF@1.20
+Finance::Tiller2QIF::ReadCSV        1.20  pkg:cpan/Finance-Tiller2QIF@1.20
+Finance::Tiller2QIF::Util           1.20  pkg:cpan/Finance-Tiller2QIF@1.20
+Finance::Tiller2QIF::WriteQIF       1.20  pkg:cpan/Finance-Tiller2QIF@1.20
 Finance::USDX                       0.03  pkg:cpan/Finance-USDX@0.03
 Finance::Wesabe                     0.02  pkg:cpan/Finance-Wesabe@0.02
 Finance::Wesabe::Account           undef  pkg:cpan/Finance-Wesabe@0.02
@@ -126409,21 +126411,21 @@ Map::Tube::Singapore                0.05  pkg:cpan/Map-Tube-Singapore@0.05
 Map::Tube::Sofia                     0.1  pkg:cpan/Map-Tube-Sofia@0.10
 Map::Tube::Stockholm               v0.1.4  pkg:cpan/Map-Tube-Stockholm@v0.1.4
 Map::Tube::Stuttgart               v0.1.3  pkg:cpan/Map-Tube-Stuttgart@v0.1.3
-Map::Tube::Sydney                   1.01  pkg:cpan/Map-Tube-Sydney@1.0.1
-Map::Tube::Sydney::Line::L1         1.01  pkg:cpan/Map-Tube-Sydney@1.0.1
-Map::Tube::Sydney::Line::L2         1.01  pkg:cpan/Map-Tube-Sydney@1.0.1
-Map::Tube::Sydney::Line::L3         1.01  pkg:cpan/Map-Tube-Sydney@1.0.1
-Map::Tube::Sydney::Line::L4         1.01  pkg:cpan/Map-Tube-Sydney@1.0.1
-Map::Tube::Sydney::Line::M1         1.01  pkg:cpan/Map-Tube-Sydney@1.0.1
-Map::Tube::Sydney::Line::T1         1.01  pkg:cpan/Map-Tube-Sydney@1.0.1
-Map::Tube::Sydney::Line::T2         1.01  pkg:cpan/Map-Tube-Sydney@1.0.1
-Map::Tube::Sydney::Line::T3         1.01  pkg:cpan/Map-Tube-Sydney@1.0.1
-Map::Tube::Sydney::Line::T4         1.01  pkg:cpan/Map-Tube-Sydney@1.0.1
-Map::Tube::Sydney::Line::T5         1.01  pkg:cpan/Map-Tube-Sydney@1.0.1
-Map::Tube::Sydney::Line::T6         1.01  pkg:cpan/Map-Tube-Sydney@1.0.1
-Map::Tube::Sydney::Line::T7         1.01  pkg:cpan/Map-Tube-Sydney@1.0.1
-Map::Tube::Sydney::Line::T8         1.01  pkg:cpan/Map-Tube-Sydney@1.0.1
-Map::Tube::Sydney::Line::T9         1.01  pkg:cpan/Map-Tube-Sydney@1.0.1
+Map::Tube::Sydney                   1.01  pkg:cpan/Map-Tube-Sydney@1.0.2
+Map::Tube::Sydney::Line::L1         1.01  pkg:cpan/Map-Tube-Sydney@1.0.2
+Map::Tube::Sydney::Line::L2         1.01  pkg:cpan/Map-Tube-Sydney@1.0.2
+Map::Tube::Sydney::Line::L3         1.01  pkg:cpan/Map-Tube-Sydney@1.0.2
+Map::Tube::Sydney::Line::L4         1.01  pkg:cpan/Map-Tube-Sydney@1.0.2
+Map::Tube::Sydney::Line::M1         1.01  pkg:cpan/Map-Tube-Sydney@1.0.2
+Map::Tube::Sydney::Line::T1         1.01  pkg:cpan/Map-Tube-Sydney@1.0.2
+Map::Tube::Sydney::Line::T2         1.01  pkg:cpan/Map-Tube-Sydney@1.0.2
+Map::Tube::Sydney::Line::T3         1.01  pkg:cpan/Map-Tube-Sydney@1.0.2
+Map::Tube::Sydney::Line::T4         1.01  pkg:cpan/Map-Tube-Sydney@1.0.2
+Map::Tube::Sydney::Line::T5         1.01  pkg:cpan/Map-Tube-Sydney@1.0.2
+Map::Tube::Sydney::Line::T6         1.01  pkg:cpan/Map-Tube-Sydney@1.0.2
+Map::Tube::Sydney::Line::T7         1.01  pkg:cpan/Map-Tube-Sydney@1.0.2
+Map::Tube::Sydney::Line::T8         1.01  pkg:cpan/Map-Tube-Sydney@1.0.2
+Map::Tube::Sydney::Line::T9         1.01  pkg:cpan/Map-Tube-Sydney@1.0.2
 Map::Tube::Table                   v5.1.1  pkg:cpan/Map-Tube@v5.1.1
 Map::Tube::Tbilisi                  0.05  pkg:cpan/Map-Tube-Tbilisi@0.05
 Map::Tube::Text::Shortest           0.02  pkg:cpan/Map-Tube-Text-Shortest@0.02
@@ -134440,8 +134442,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    v0.40.1  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.40.1
-Mojolicious::Plugin::BarefootJS::DevReload v0.40.1  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.40.1
+Mojolicious::Plugin::BarefootJS    v0.40.2  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.40.2
+Mojolicious::Plugin::BarefootJS::DevReload v0.40.2  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.40.2
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus   1.0  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@1.0
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -256675,8 +256677,8 @@ YAML::XS                           v0.910.0  pkg:cpan/YAML-LibYAML@v0.910.0
 YAML::XS::LibYAML                  v0.910.0  pkg:cpan/YAML-LibYAML@v0.910.0
 YAML::YAML2ADoc                    0.001000  pkg:cpan/YAML-YAML2ADoc@0.1.0
 YAML::yq::Helper                   0.002000  pkg:cpan/YAML-yq-Helper@0.2.0
-YAMLScript                         0.003006  pkg:cpan/YAMLScript@0.3.6
-YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.3.6
+YAMLScript                         0.003007  pkg:cpan/YAMLScript@0.3.7
+YAMLScript::Alien                  undef  pkg:cpan/YAMLScript@0.3.7
 YAMLScript::Base                   undef  pkg:cpan/YAMLScript@0.0.7
 YAMLScript::CLI                    undef  pkg:cpan/YAMLScript@0.1.3
 YAMLScript::Call                   undef  pkg:cpan/YAMLScript@0.0.16
