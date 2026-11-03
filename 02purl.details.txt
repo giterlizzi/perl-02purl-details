@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 03 Nov 2026 08:57:11 GMT
-Line-Count: 262660
+Last-Updated: Tue, 03 Nov 2026 17:27:20 GMT
+Line-Count: 262692
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -10068,7 +10068,7 @@ App::CryptoCurrencyUtils           0.012  pkg:cpan/App-CryptoCurrencyUtils@0.012
 App::CveClient                     1.001001  pkg:cpan/App-CveClient@v1.1.1
 App::D                             1.003002  pkg:cpan/App-D@1.3.2
 App::DAVThis                       0.001  pkg:cpan/App-DAVThis@0.001
-App::DBBrowser                     2.445  pkg:cpan/App-DBBrowser@2.445
+App::DBBrowser                     2.447  pkg:cpan/App-DBBrowser@2.447
 App::DBCritic                      0.023  pkg:cpan/App-DBCritic@0.023
 App::DBCritic::Loader              0.023  pkg:cpan/App-DBCritic@0.023
 App::DBCritic::Policy              0.023  pkg:cpan/App-DBCritic@0.023
@@ -11156,8 +11156,9 @@ App::Greple::git                    1.00  pkg:cpan/App-Greple-git@1.00
 App::Greple::ical                   1.00  pkg:cpan/App-Greple-ical@1.00
 App::Greple::jq                     0.06  pkg:cpan/App-Greple-jq@0.06
 App::Greple::line                  undef  pkg:cpan/App-Greple@9.23
-App::Greple::md                     1.14  pkg:cpan/App-mdee@1.14
-App::Greple::md::Step              undef  pkg:cpan/App-mdee@1.14
+App::Greple::md                     1.15  pkg:cpan/App-mdee@1.15
+App::Greple::md::Blocks             1.15  pkg:cpan/App-mdee@1.15
+App::Greple::md::Step              undef  pkg:cpan/App-mdee@1.15
 App::Greple::msdoc                  1.07  pkg:cpan/App-Greple-msdoc@1.07
 App::Greple::perl                  undef  pkg:cpan/App-Greple@10.05
 App::Greple::pgp                   undef  pkg:cpan/App-Greple@10.05
@@ -16824,7 +16825,7 @@ App::manwrap::pm                   0.006  pkg:cpan/App-manwrap-pm@0.006
 App::matrixpack                    0.0014  pkg:cpan/App-matrixpack@0.0014
 App::mbxilinx                       0.13  pkg:cpan/Module-Build-Xilinx@0.13
 App::md2html                       0.001001  pkg:cpan/App-md2html@0.01.1
-App::mdee                           1.14  pkg:cpan/App-mdee@1.14
+App::mdee                           1.15  pkg:cpan/App-mdee@1.15
 App::merge_cpanfile                 0.01  pkg:cpan/App-merge_cpanfile@0.01
 App::metacpansearch                undef  pkg:cpan/App-metacpansearch@0.01
 App::metastasize                   0.002  pkg:cpan/App-metastasize@0.002
@@ -31234,7 +31235,7 @@ Business::IS::PIN                   0.06  pkg:cpan/Business-IS-PIN@0.06
 Business::ISBN                     3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN10                   3.014  pkg:cpan/Business-ISBN@3.014
 Business::ISBN13                   3.014  pkg:cpan/Business-ISBN@3.014
-Business::ISBN::Data               20261031.001  pkg:cpan/Business-ISBN-Data@20261031.001
+Business::ISBN::Data               20261103.001  pkg:cpan/Business-ISBN-Data@20261103.001
 Business::ISIN                      0.20  pkg:cpan/Business-ISIN@0.20?ext=tgz
 Business::ISMN                     1.205  pkg:cpan/Business-ISMN@1.205
 Business::ISMN::Data               1.205  pkg:cpan/Business-ISMN@1.205
@@ -32405,7 +32406,7 @@ CDent                               0.01  pkg:cpan/CDent@0.01
 CEDict::Pinyin                     0.02004  pkg:cpan/CEDict-Pinyin@0.02004
 CEFACT::Unit                        0.02  pkg:cpan/CEFACT-Unit@0.02
 CFG                                0.000001  pkg:cpan/App-SeismicUnixGui@0.87.6
-CGI                                 4.72  pkg:cpan/CGI@4.72
+CGI                                 5.02  pkg:cpan/CGI@5.02
 CGI::ACL                            0.10  pkg:cpan/CGI-ACL@0.10
 CGI::AIS::Session                   0.02  pkg:cpan/CGI-AIS-Session@0.02
 CGI::Ajax                          0.707  pkg:cpan/CGI-Ajax@0.707
@@ -32753,7 +32754,7 @@ CGI::Cache::CatchSTDOUT            1.4214  pkg:cpan/CGI-Cache@1.4214
 CGI::Cache::MonitorSTDERR          1.4214  pkg:cpan/CGI-Cache@1.4214
 CGI::Capture                        1.15  pkg:cpan/CGI-Capture@1.15
 CGI::Capture::TieSTDIN              1.15  pkg:cpan/CGI-Capture@1.15
-CGI::Carp                           4.72  pkg:cpan/CGI@4.72
+CGI::Carp                           5.02  pkg:cpan/CGI@5.02
 CGI::Carp::DebugScreen              0.16  pkg:cpan/CGI-Carp-DebugScreen@0.16
 CGI::Carp::DebugScreen::DefaultView  0.15  pkg:cpan/CGI-Carp-DebugScreen@0.16
 CGI::Carp::DebugScreen::Dumper      0.15  pkg:cpan/CGI-Carp-DebugScreen@0.16
@@ -32782,7 +32783,7 @@ CGI::ConvertParam::OnsetShiftJIS   undef  pkg:cpan/CGI-ConvertParam@0.05
 CGI::ConvertParam::OnsetUTF8       undef  pkg:cpan/CGI-ConvertParam@0.05
 CGI::ConvertParam::ShiftJIS        undef  pkg:cpan/CGI-ConvertParam@0.05
 CGI::ConvertParam::UTF8            undef  pkg:cpan/CGI-ConvertParam@0.05
-CGI::Cookie                         4.59  pkg:cpan/CGI@4.72
+CGI::Cookie                         5.02  pkg:cpan/CGI@5.02
 CGI::Cookie::Splitter               0.05  pkg:cpan/CGI-Cookie-Splitter@0.05
 CGI::Cookie::XS                     0.18  pkg:cpan/CGI-Cookie-XS@0.18
 CGI::CookieSerial                   0.06  pkg:cpan/CGI-CookieSerial@0.06
@@ -32876,7 +32877,7 @@ CGI::ExtDirect                      3.24  pkg:cpan/CGI-ExtDirect@3.24
 CGI::FCKeditor                      0.02  pkg:cpan/CGI-FCKeditor@0.02
 CGI::Fast                           2.17  pkg:cpan/CGI-Fast@2.17
 CGI::FastTemplate                   1.09  pkg:cpan/CGI-FastTemplate@1.09
-CGI::File::Temp                     4.72  pkg:cpan/CGI@4.72
+CGI::File::Temp                     5.02  pkg:cpan/CGI@5.02
 CGI::FileManager                    0.06  pkg:cpan/CGI-FileManager@0.06
 CGI::FileManager::Auth             undef  pkg:cpan/CGI-FileManager@0.06
 CGI::FileManager::Templates        undef  pkg:cpan/CGI-FileManager@0.06
@@ -32945,7 +32946,7 @@ CGI::Graph::Plot::points           undef  pkg:cpan/CGIGraph@0.93
 CGI::Graph::Plot::points::numerical undef  pkg:cpan/CGIGraph@0.93
 CGI::Graph::Plot::points::string   undef  pkg:cpan/CGIGraph@0.93
 CGI::GuruMeditation                 1.10  pkg:cpan/CGI-GuruMeditation@1.10
-CGI::HTML::Functions               undef  pkg:cpan/CGI@4.72
+CGI::HTML::Functions               undef  pkg:cpan/CGI@5.02
 CGI::HTMLError                      1.00  pkg:cpan/CGI-HTMLError@1.00
 CGI::Header                         0.63  pkg:cpan/CGI-Header@0.63
 CGI::Header::Adapter               undef  pkg:cpan/CGI-Header@0.63
@@ -33062,7 +33063,7 @@ CGI::Maypole                        2.13  pkg:cpan/Maypole@2.13
 CGI::MiniFramework                  0.01  pkg:cpan/CGI-MiniFramework@0.01
 CGI::Minimal                        1.30  pkg:cpan/CGI-Minimal@1.30
 CGI::MultiValuedHash                1.09  pkg:cpan/CGI-MultiValuedHash@1.09
-CGI::MultipartBuffer                4.72  pkg:cpan/CGI@4.72
+CGI::MultipartBuffer                5.02  pkg:cpan/CGI@5.02
 CGI::Mungo                           1.9  pkg:cpan/CGI-Mungo@1.9
 CGI::Mungo::Base                   undef  pkg:cpan/CGI-Mungo@1.9
 CGI::Mungo::Log                    undef  pkg:cpan/CGI-Mungo@1.9
@@ -33163,7 +33164,7 @@ CGI::Portal::Scripts::logon         0.12  pkg:cpan/CGI-Portal@0.12
 CGI::Portal::Scripts::profile       0.12  pkg:cpan/CGI-Portal@0.12
 CGI::Portal::Scripts::register      0.12  pkg:cpan/CGI-Portal@0.12
 CGI::Portal::Sessions               0.12  pkg:cpan/CGI-Portal@0.12
-CGI::Pretty                         4.72  pkg:cpan/CGI@4.72
+CGI::Pretty                         5.02  pkg:cpan/CGI@5.02
 CGI::PrintWrapper                    0.8  pkg:cpan/CGI-PrintWrapper@0.8
 CGI::ProgressBar                    0.05  pkg:cpan/CGI-ProgressBar@0.05
 CGI::Prototype                     0.9054  pkg:cpan/CGI-Prototype@0.9054
@@ -33173,7 +33174,7 @@ CGI::Prototype::Mecha               0.21  pkg:cpan/CGI-Prototype-Mecha@0.21
 CGI::Pure                           0.09  pkg:cpan/CGI-Pure@0.09
 CGI::Pure::Fast                     0.09  pkg:cpan/CGI-Pure-Fast@0.09
 CGI::Pure::Save                     0.09  pkg:cpan/CGI-Pure@0.09
-CGI::Push                           4.72  pkg:cpan/CGI@4.72
+CGI::Push                           5.02  pkg:cpan/CGI@5.02
 CGI::QuickForm                      1.93  pkg:cpan/CGI-QuickForm@1.93
 CGI::RSS                           0.9660  pkg:cpan/CGI-RSS@0.9660
 CGI::SHTML                          1.29  pkg:cpan/CGI-SHTML@1.29
@@ -33369,7 +33370,7 @@ CGI::UploadEasy                     1.00  pkg:cpan/CGI-UploadEasy@1.00
 CGI::UploadEngine                  0.009003  pkg:cpan/CGI-UploadEngine@0.93
 CGI::Uploader                       2.18  pkg:cpan/CGI-Uploader@2.18
 CGI::Uploader::Transform::ImageMagick  2.18  pkg:cpan/CGI-Uploader@2.18
-CGI::Util                           4.72  pkg:cpan/CGI@4.72
+CGI::Util                           5.02  pkg:cpan/CGI@5.02
 CGI::Utils                          0.12  pkg:cpan/CGI-Utils@0.12
 CGI::Utils::UploadFile              1.06  pkg:cpan/CGI-Utils@0.12
 CGI::Validate                      2.000  pkg:cpan/CGI-Validate@2.000
@@ -51446,7 +51447,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.1  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::NotNode  v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::OrNode   v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.172
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.173
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curl::Impersonate                   0.03  pkg:cpan/Curl-Impersonate@0.03
 Curl::Impersonate::Multi           undef  pkg:cpan/Curl-Impersonate@0.03
@@ -57579,7 +57580,7 @@ Dancer2::Plugin::Emailesque         0.03  pkg:cpan/Dancer2-Plugin-Emailesque@0.0
 Dancer2::Plugin::EncryptID          0.03  pkg:cpan/Dancer2-Plugin-EncryptID@0.03
 Dancer2::Plugin::Etcd              0.011  pkg:cpan/Dancer2-Plugin-Etcd@0.011
 Dancer2::Plugin::Etcd::CLI         0.011  pkg:cpan/Dancer2-Plugin-Etcd@0.011
-Dancer2::Plugin::Feed              1.263060  pkg:cpan/Dancer2-Plugin-Feed@1.263060
+Dancer2::Plugin::Feed              1.263070  pkg:cpan/Dancer2-Plugin-Feed@1.263070
 Dancer2::Plugin::Flash              0.03  pkg:cpan/Dancer2-Plugin-Flash@0.03
 Dancer2::Plugin::FlashNote          0.03  pkg:cpan/Dancer2-Plugin-FlashNote@0.03
 Dancer2::Plugin::FontSubset        v0.0.1  pkg:cpan/Dancer2-Plugin-FontSubset@0.0.1
@@ -63354,17 +63355,17 @@ Database::Async::SQLite            0.001  pkg:cpan/Database-Async-SQLite@0.001
 Database::Async::StatementHandle   0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Test              0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Transaction       0.019  pkg:cpan/Database-Async@0.019
-Database::BI                       0.018000  pkg:cpan/Database-BI@0.018.0
-Database::BI::Ask                  0.018  pkg:cpan/Database-BI@0.018.0
-Database::BI::Calc                 0.018  pkg:cpan/Database-BI@0.018.0
-Database::BI::Controller::Dashboard 0.018  pkg:cpan/Database-BI@0.018.0
-Database::BI::Extract              0.018  pkg:cpan/Database-BI@0.018.0
-Database::BI::Insights             0.018  pkg:cpan/Database-BI@0.018.0
-Database::BI::Model::DataSource    0.018  pkg:cpan/Database-BI@0.018.0
-Database::BI::Model::Geocode       0.018  pkg:cpan/Database-BI@0.018.0
-Database::BI::Summary              0.018  pkg:cpan/Database-BI@0.018.0
-Database::BI::Tutorial             0.018  pkg:cpan/Database-BI@0.018.0
-Database::BI::Util                 0.018  pkg:cpan/Database-BI@0.018.0
+Database::BI                       0.019000  pkg:cpan/Database-BI@0.019.0
+Database::BI::Ask                  0.019  pkg:cpan/Database-BI@0.019.0
+Database::BI::Calc                 0.019  pkg:cpan/Database-BI@0.019.0
+Database::BI::Controller::Dashboard 0.019  pkg:cpan/Database-BI@0.019.0
+Database::BI::Extract              0.019  pkg:cpan/Database-BI@0.019.0
+Database::BI::Insights             0.019  pkg:cpan/Database-BI@0.019.0
+Database::BI::Model::DataSource    0.019  pkg:cpan/Database-BI@0.019.0
+Database::BI::Model::Geocode       0.019  pkg:cpan/Database-BI@0.019.0
+Database::BI::Summary              0.019  pkg:cpan/Database-BI@0.019.0
+Database::BI::Tutorial             0.019  pkg:cpan/Database-BI@0.019.0
+Database::BI::Util                 0.019  pkg:cpan/Database-BI@0.019.0
 Database::Cassandra::Client            1  pkg:cpan/Database-Cassandra-Client@1
 Database::DumpTruck                  1.2  pkg:cpan/Database-DumpTruck@1.2
 Database::Format::Text              1.03  pkg:cpan/Database-Format-Text@1.03
@@ -65880,6 +65881,7 @@ Devel::Cover::Report::Text          1.52  pkg:cpan/Devel-Cover@1.52
 Devel::Cover::Report::Text2         1.52  pkg:cpan/Devel-Cover@1.52
 Devel::Cover::Report::Vim           1.52  pkg:cpan/Devel-Cover@1.52
 Devel::Cover::Report::Vim::Template::Provider  1.51  pkg:cpan/Devel-Cover@1.51
+Devel::Cover::Report::XSCover       0.02  pkg:cpan/Devel-XSCover@0.02
 Devel::Cover::Statement             1.52  pkg:cpan/Devel-Cover@1.52
 Devel::Cover::Subroutine            1.52  pkg:cpan/Devel-Cover@1.52
 Devel::Cover::Test                  1.52  pkg:cpan/Devel-Cover@1.52
@@ -66813,6 +66815,13 @@ Devel::WxProf::Treemap             0.000001  pkg:cpan/Devel-WxProf@0.0.1
 Devel::WxProf::Treemap::Output::Imager 0.000001  pkg:cpan/Devel-WxProf@0.0.1
 Devel::WxProf::Treemap::Squarified 0.000001  pkg:cpan/Devel-WxProf@0.0.1
 Devel::XRay                         0.95  pkg:cpan/Devel-XRay@0.95
+Devel::XSCover                      0.02  pkg:cpan/Devel-XSCover@0.02
+Devel::XSCover::Build               0.02  pkg:cpan/Devel-XSCover@0.02
+Devel::XSCover::DB                  0.02  pkg:cpan/Devel-XSCover@0.02
+Devel::XSCover::Deparse             0.02  pkg:cpan/Devel-XSCover@0.02
+Devel::XSCover::Gcov                0.02  pkg:cpan/Devel-XSCover@0.02
+Devel::XSCover::Test                0.02  pkg:cpan/Devel-XSCover@0.02
+Devel::XSCover::XS                  0.02  pkg:cpan/Devel-XSCover@0.02
 Devel::XSHelper                     1.03  pkg:cpan/Module-Build-Pluggable-XSUtil@1.03
 Devel::bt                           0.06  pkg:cpan/Devel-bt@0.06
 Devel::callsfrom                   undef  pkg:cpan/UR@0.47
@@ -68019,6 +68028,26 @@ Dist::Build::XS::Import            0.028  pkg:cpan/Dist-Build@0.028
 Dist::Build::XS::PkgConfig         0.002  pkg:cpan/Dist-Build-XS-PkgConfig@0.002
 Dist::Build::XS::WriteConstants    0.028  pkg:cpan/Dist-Build@0.028
 Dist::CheckConflicts                0.11  pkg:cpan/Dist-CheckConflicts@0.11
+Dist::Conformance                  0.001  pkg:cpan/Dist-Conformance@0.001
+Dist::Conformance::Check           0.001  pkg:cpan/Dist-Conformance@0.001
+Dist::Conformance::Check::ClaudeMd 0.001  pkg:cpan/Dist-Conformance@0.001
+Dist::Conformance::Check::ClaudeSettings 0.001  pkg:cpan/Dist-Conformance@0.001
+Dist::Conformance::Check::CriticProfile 0.001  pkg:cpan/Dist-Conformance@0.001
+Dist::Conformance::Check::DataSchema 0.001  pkg:cpan/Dist-Conformance@0.001
+Dist::Conformance::Check::DistFiles 0.001  pkg:cpan/Dist-Conformance@0.001
+Dist::Conformance::Check::GitHooks 0.001  pkg:cpan/Dist-Conformance@0.001
+Dist::Conformance::Check::ToolConfiguration 0.001  pkg:cpan/Dist-Conformance@0.001
+Dist::Conformance::Check::Workflows 0.001  pkg:cpan/Dist-Conformance@0.001
+Dist::Conformance::Config          0.001  pkg:cpan/Dist-Conformance@0.001
+Dist::Conformance::Flavor          0.001  pkg:cpan/Dist-Conformance@0.001
+Dist::Conformance::Schema          0.001  pkg:cpan/Dist-Conformance@0.001
+Dist::Conformance::Snapshot        0.001  pkg:cpan/Dist-Conformance@0.001
+Dist::Conformance::Snapshot::Directory 0.001  pkg:cpan/Dist-Conformance@0.001
+Dist::Conformance::Snapshot::Tree  0.001  pkg:cpan/Dist-Conformance@0.001
+Dist::Conformance::Source          0.001  pkg:cpan/Dist-Conformance@0.001
+Dist::Conformance::Source::Directory 0.001  pkg:cpan/Dist-Conformance@0.001
+Dist::Conformance::Source::Git     0.001  pkg:cpan/Dist-Conformance@0.001
+Dist::Conformance::Update          0.001  pkg:cpan/Dist-Conformance@0.001
 Dist::Data                         0.007  pkg:cpan/Dist-Data@0.007
 Dist::Dzpl                         0.0020  pkg:cpan/Dist-Dzpl@0.0020
 Dist::Dzpl::App                    undef  pkg:cpan/Dist-Dzpl@0.0020
@@ -75412,7 +75441,7 @@ FeyX::Active::SQL::Select           0.03  pkg:cpan/FeyX-Active@0.03
 FeyX::Active::SQL::Update           0.03  pkg:cpan/FeyX-Active@0.03
 FeyX::Active::Schema                0.03  pkg:cpan/FeyX-Active@0.03
 FeyX::Active::Table                 0.03  pkg:cpan/FeyX-Active@0.03
-Fh                                  4.72  pkg:cpan/CGI@4.72
+Fh                                  5.02  pkg:cpan/CGI@5.02
 Fierce::Parser                      0.08  pkg:cpan/Fierce-Parser@0.08
 Fierce::Parser::Domain              0.01  pkg:cpan/Fierce-Parser@0.08
 Fierce::Parser::Domain::ARIN        0.01  pkg:cpan/Fierce-Parser@0.08
@@ -110098,33 +110127,35 @@ JSON::Schema::AsType::Draft7::Types v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
 JSON::Schema::AsType::Registry     v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
 JSON::Schema::AsType::Type         v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
 JSON::Schema::AsType::Visit        v1.0.0  pkg:cpan/JSON-Schema-AsType@1.0.0
-JSON::Schema::Corvus               0.001000  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::CodeGen      undef  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::Collecting   undef  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::Compiler     undef  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::Dialect      undef  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::Document     0.001000  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::Error        undef  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::Error::Compilation undef  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::Error::Depth undef  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::Error::InvalidJson undef  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::Error::PatternMatchLimit undef  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::Error::PatternTooLarge undef  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::Formats      undef  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::Json         undef  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::Loader       undef  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::Metaschemas  undef  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::Node         undef  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::Pattern      undef  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::Regex::Charset undef  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::Regex::Linear undef  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::Regex::Parse undef  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::Regex::Unicode undef  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::Regex::Vm    undef  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::ResultsCollector undef  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::Runtime      undef  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::Uri          undef  pkg:cpan/JSON-Schema-Corvus@v0.1.0
-JSON::Schema::Corvus::Validator    0.001000  pkg:cpan/JSON-Schema-Corvus@v0.1.0
+JSON::Schema::Corvus               0.001001  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::CodeGen      undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Collecting   undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Compiler     undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Dialect      undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Document     0.001001  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Error        undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Error::Compilation undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Error::Depth undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Error::InvalidJson undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Error::PatternMatchLimit undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Error::PatternTooLarge undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Formats      undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Json         undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Loader       undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Metaschemas  undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Node         undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Pattern      undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Regex::Charset undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Regex::Linear undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Regex::Parse undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Regex::Unicode undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Regex::Vm    undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::ResultsCollector undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Runtime      undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Uri          undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Uts46        undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Uts46Data    undef  pkg:cpan/JSON-Schema-Corvus@v0.1.1
+JSON::Schema::Corvus::Validator    0.001001  pkg:cpan/JSON-Schema-Corvus@v0.1.1
 JSON::Schema::Corvus::XS           0.001000  pkg:cpan/JSON-Schema-Corvus-XS@v0.1.0
 JSON::Schema::Corvus::XS::Error    0.001000  pkg:cpan/JSON-Schema-Corvus-XS@v0.1.0
 JSON::Schema::Corvus::XS::Error::Compilation 0.001000  pkg:cpan/JSON-Schema-Corvus-XS@v0.1.0
@@ -195970,17 +196001,18 @@ Proc::Safetynet::RpcSession::Simple undef  pkg:cpan/Proc-Safetynet@0.04
 Proc::Safetynet::Supervisor        undef  pkg:cpan/Proc-Safetynet@0.04
 Proc::Scoreboard                     1.1  pkg:cpan/Proc-Application@0.01
 Proc::Scoreboard::Dir                1.1  pkg:cpan/Proc-Application@0.01
-Proc::ShellSpawn                    0.02  pkg:cpan/Proc-Spawner@0.02?ext=zip
-Proc::ShellSpawn::Large             0.02  pkg:cpan/Proc-Spawner@0.02?ext=zip
-Proc::ShellSubset                   0.02  pkg:cpan/Proc-Spawner@0.02?ext=zip
-Proc::ShellSubset::Large            0.02  pkg:cpan/Proc-Spawner@0.02?ext=zip
-Proc::ShellSubset::Small            0.02  pkg:cpan/Proc-Spawner@0.02?ext=zip
+Proc::ShellSpawn                    0.03  pkg:cpan/Proc-Spawner@0.03?ext=zip
+Proc::ShellSpawn::Builtins          0.03  pkg:cpan/Proc-Spawner@0.03?ext=zip
+Proc::ShellSpawn::Large             0.03  pkg:cpan/Proc-Spawner@0.03?ext=zip
+Proc::ShellSubset                   0.03  pkg:cpan/Proc-Spawner@0.03?ext=zip
+Proc::ShellSubset::Large            0.03  pkg:cpan/Proc-Spawner@0.03?ext=zip
+Proc::ShellSubset::Small            0.03  pkg:cpan/Proc-Spawner@0.03?ext=zip
 Proc::Short                         0.01  pkg:cpan/Proc-Short@0.01
 Proc::Simple                        1.32  pkg:cpan/Proc-Simple@1.32
 Proc::Simple::Async                 0.03  pkg:cpan/Proc-Simple-Async@0.03
 Proc::Spawn                         1.03  pkg:cpan/Proc-Spawn@1.03
-Proc::Spawner                       0.02  pkg:cpan/Proc-Spawner@0.02?ext=zip
-Proc::Spawner::Graph                0.02  pkg:cpan/Proc-Spawner@0.02?ext=zip
+Proc::Spawner                       0.03  pkg:cpan/Proc-Spawner@0.03?ext=zip
+Proc::Spawner::Graph                0.03  pkg:cpan/Proc-Spawner@0.03?ext=zip
 Proc::Stat                          0.03  pkg:cpan/Proc-Stat@0.03
 Proc::Supervised::Convenience       1.01  pkg:cpan/Proc-Supervised-Convenience@1.01
 Proc::Swarm                        1.161060  pkg:cpan/Proc-Swarm@1.161060
