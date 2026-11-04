@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Wed, 04 Nov 2026 13:35:51 GMT
-Line-Count: 262714
+Last-Updated: Wed, 04 Nov 2026 20:37:36 GMT
+Line-Count: 262715
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -51447,7 +51447,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.1  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::NotNode  v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::OrNode   v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.174
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.175
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curl::Impersonate                   0.03  pkg:cpan/Curl-Impersonate@0.03
 Curl::Impersonate::Multi           undef  pkg:cpan/Curl-Impersonate@0.03
@@ -65881,7 +65881,7 @@ Devel::Cover::Report::Text          1.52  pkg:cpan/Devel-Cover@1.52
 Devel::Cover::Report::Text2         1.52  pkg:cpan/Devel-Cover@1.52
 Devel::Cover::Report::Vim           1.52  pkg:cpan/Devel-Cover@1.52
 Devel::Cover::Report::Vim::Template::Provider  1.51  pkg:cpan/Devel-Cover@1.51
-Devel::Cover::Report::XSCover       0.06  pkg:cpan/Devel-XSCover@0.06
+Devel::Cover::Report::XSCover       0.07  pkg:cpan/Devel-XSCover@0.07
 Devel::Cover::Statement             1.52  pkg:cpan/Devel-Cover@1.52
 Devel::Cover::Subroutine            1.52  pkg:cpan/Devel-Cover@1.52
 Devel::Cover::Test                  1.52  pkg:cpan/Devel-Cover@1.52
@@ -66815,14 +66815,14 @@ Devel::WxProf::Treemap             0.000001  pkg:cpan/Devel-WxProf@0.0.1
 Devel::WxProf::Treemap::Output::Imager 0.000001  pkg:cpan/Devel-WxProf@0.0.1
 Devel::WxProf::Treemap::Squarified 0.000001  pkg:cpan/Devel-WxProf@0.0.1
 Devel::XRay                         0.95  pkg:cpan/Devel-XRay@0.95
-Devel::XSCover                      0.06  pkg:cpan/Devel-XSCover@0.06
-Devel::XSCover::Build               0.06  pkg:cpan/Devel-XSCover@0.06
-Devel::XSCover::DB                  0.06  pkg:cpan/Devel-XSCover@0.06
-Devel::XSCover::Deparse             0.06  pkg:cpan/Devel-XSCover@0.06
-Devel::XSCover::Flow                0.06  pkg:cpan/Devel-XSCover@0.06
-Devel::XSCover::Gcov                0.06  pkg:cpan/Devel-XSCover@0.06
-Devel::XSCover::Test                0.06  pkg:cpan/Devel-XSCover@0.06
-Devel::XSCover::XS                  0.06  pkg:cpan/Devel-XSCover@0.06
+Devel::XSCover                      0.07  pkg:cpan/Devel-XSCover@0.07
+Devel::XSCover::Build               0.07  pkg:cpan/Devel-XSCover@0.07
+Devel::XSCover::DB                  0.07  pkg:cpan/Devel-XSCover@0.07
+Devel::XSCover::Deparse             0.07  pkg:cpan/Devel-XSCover@0.07
+Devel::XSCover::Flow                0.07  pkg:cpan/Devel-XSCover@0.07
+Devel::XSCover::Gcov                0.07  pkg:cpan/Devel-XSCover@0.07
+Devel::XSCover::Test                0.07  pkg:cpan/Devel-XSCover@0.07
+Devel::XSCover::XS                  0.07  pkg:cpan/Devel-XSCover@0.07
 Devel::XSHelper                     1.03  pkg:cpan/Module-Build-Pluggable-XSUtil@1.03
 Devel::bt                           0.06  pkg:cpan/Devel-bt@0.06
 Devel::callsfrom                   undef  pkg:cpan/UR@0.47
@@ -73189,7 +73189,7 @@ Ewindows1254                        1.23  pkg:cpan/Windows1254@1.23
 Ewindows1257                        1.23  pkg:cpan/Windows1257@1.23
 Ewindows1258                        1.22  pkg:cpan/Windows1258@1.22
 Ex1::Storage                       1.003  pkg:cpan/UMMF@1.02
-Ex::Op                              0.04  pkg:cpan/Ex-Op@0.04
+Ex::Op                              0.05  pkg:cpan/Ex-Op@0.05
 Example                            undef  pkg:cpan/Class-Classgen-classgen@3.03
 Example1                           undef  pkg:cpan/DBIx-DBObj@1.00
 Example::ClassA                     1.01  pkg:cpan/Pod-Autopod@1.206
@@ -100927,7 +100927,7 @@ HTML::Notebook                     0.004  pkg:cpan/HTML-Notebook@0.004
 HTML::Notebook::Cell               undef  pkg:cpan/HTML-Notebook@0.004
 HTML::Notebook::Multiple           0.004  pkg:cpan/HTML-Notebook@0.004
 HTML::Notebook::Style              undef  pkg:cpan/HTML-Notebook@0.004
-HTML::OSM                           0.12  pkg:cpan/HTML-OSM@0.12
+HTML::OSM                           0.13  pkg:cpan/HTML-OSM@0.13
 HTML::Obj2HTML                      0.13  pkg:cpan/HTML-Obj2HTML@0.13
 HTML::Obj2HTML::Plugin::SemanticUI undef  pkg:cpan/HTML-Obj2HTML@0.13
 HTML::Object                       0.006003  pkg:cpan/HTML-Object@v0.6.3
@@ -128883,11 +128883,11 @@ MathWorks::platformList            undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::product                 undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepItem          undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepList          undef  pkg:cpan/XML-Pastor@0.6.0
-Matplotlib::Simple                 0.334  pkg:cpan/Matplotlib-Simple@0.334
-Matplotlib::Simple::Colors         0.334  pkg:cpan/Matplotlib-Simple@0.334
-Matplotlib::Simple::Ggplot2        0.334  pkg:cpan/Matplotlib-Simple@0.334
-Matplotlib::Simple::Gnuplot        0.334  pkg:cpan/Matplotlib-Simple@0.334
-Matplotlib::Simple::Matplotlib     0.334  pkg:cpan/Matplotlib-Simple@0.334
+Matplotlib::Simple                 0.3341  pkg:cpan/Matplotlib-Simple@0.3341
+Matplotlib::Simple::Colors         0.3341  pkg:cpan/Matplotlib-Simple@0.3341
+Matplotlib::Simple::Ggplot2        0.3341  pkg:cpan/Matplotlib-Simple@0.3341
+Matplotlib::Simple::Gnuplot        0.3341  pkg:cpan/Matplotlib-Simple@0.3341
+Matplotlib::Simple::Matplotlib     0.3341  pkg:cpan/Matplotlib-Simple@0.3341
 Matrix::Simple                      1.04  pkg:cpan/Matrix-Simple@1.04
 Matts::Message                     undef  pkg:cpan/Matts-Message-Parser@1.0
 Matts::Message::Parser               1.0  pkg:cpan/Matts-Message-Parser@1.0
@@ -142269,15 +142269,15 @@ Net::Country                       undef  pkg:cpan/Logfile@0.300
 Net::CoverArtArchive                1.02  pkg:cpan/Net-CoverArtArchive@1.02
 Net::CoverArtArchive::CoverArt      1.02  pkg:cpan/Net-CoverArtArchive@1.02
 Net::CronIO                         0.01  pkg:cpan/Net-CronIO@0.01
-Net::Curl                           0.59  pkg:cpan/Net-Curl@0.59
-Net::Curl::Compat                   4.15  pkg:cpan/Net-Curl@0.59
+Net::Curl                           0.60  pkg:cpan/Net-Curl@0.60
+Net::Curl::Compat                   4.15  pkg:cpan/Net-Curl@0.60
 Net::Curl::Easier                   0.01  pkg:cpan/Net-Curl-Easier@0.01
-Net::Curl::Easy                     0.59  pkg:cpan/Net-Curl@0.59
-Net::Curl::Easy::Code               0.59  pkg:cpan/Net-Curl@0.59
-Net::Curl::Form                     0.59  pkg:cpan/Net-Curl@0.59
-Net::Curl::Form::Code               0.59  pkg:cpan/Net-Curl@0.59
-Net::Curl::Multi                    0.59  pkg:cpan/Net-Curl@0.59
-Net::Curl::Multi::Code              0.59  pkg:cpan/Net-Curl@0.59
+Net::Curl::Easy                     0.60  pkg:cpan/Net-Curl@0.60
+Net::Curl::Easy::Code               0.60  pkg:cpan/Net-Curl@0.60
+Net::Curl::Form                     0.60  pkg:cpan/Net-Curl@0.60
+Net::Curl::Form::Code               0.60  pkg:cpan/Net-Curl@0.60
+Net::Curl::Multi                    0.60  pkg:cpan/Net-Curl@0.60
+Net::Curl::Multi::Code              0.60  pkg:cpan/Net-Curl@0.60
 Net::Curl::Multi::EV                0.08  pkg:cpan/curl_ev@0.08
 Net::Curl::Parallel                v2.0.0  pkg:cpan/Net-Curl-Parallel@2.0.0
 Net::Curl::Parallel::Response      v2.0.0  pkg:cpan/Net-Curl-Parallel@2.0.0
@@ -142297,8 +142297,8 @@ Net::Curl::Promiser::LoopBase      undef  pkg:cpan/Net-Curl-Promiser@0.21
 Net::Curl::Promiser::Mojo          undef  pkg:cpan/Net-Curl-Promiser@0.21
 Net::Curl::Promiser::Mojo::FDFHStore undef  pkg:cpan/Net-Curl-Promiser@0.06
 Net::Curl::Promiser::Select        undef  pkg:cpan/Net-Curl-Promiser@0.21
-Net::Curl::Share                    0.59  pkg:cpan/Net-Curl@0.59
-Net::Curl::Share::Code              0.59  pkg:cpan/Net-Curl@0.59
+Net::Curl::Share                    0.60  pkg:cpan/Net-Curl@0.60
+Net::Curl::Share::Code              0.60  pkg:cpan/Net-Curl@0.60
 Net::Curl::Simple                   0.13  pkg:cpan/Net-Curl-Simple@0.13
 Net::Curl::Simple::Async            0.13  pkg:cpan/Net-Curl-Simple@0.13
 Net::Curl::Simple::Async::AnyEvent undef  pkg:cpan/Net-Curl-Simple@0.13
@@ -151654,7 +151654,7 @@ Object::Pluggable::Pipeline         1.29  pkg:cpan/Object-Pluggable@1.29
 Object::Previous                   1.1012  pkg:cpan/Object-Previous@1.1012
 Object::Properties                 1.003  pkg:cpan/Object-Properties@1.003
 Object::Properties::Base           1.003  pkg:cpan/Object-Properties@1.003
-Object::Proto                       1.03  pkg:cpan/Object-Proto@1.03
+Object::Proto                       1.04  pkg:cpan/Object-Proto@1.04
 Object::Proto::Install::Files      undef  pkg:cpan/Object-Proto@0.19
 Object::Proto::Sugar                1.01  pkg:cpan/Object-Proto-Sugar@1.01
 Object::Prototype                   0.02  pkg:cpan/Object-Prototype@0.02
@@ -190675,6 +190675,7 @@ Perl::Critic::Policy::ValuesAndExpressions::ProhibitCommaSeparatedStatements 1.1
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitComplexVersion 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitConstantPragma 1.156  pkg:cpan/Perl-Critic@1.156
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitDefinedBeforeLength 0.002  pkg:cpan/Perl-Critic-Policy-ValuesAndExpressions-ProhibitDefinedBeforeLength@0.002
+Perl::Critic::Policy::ValuesAndExpressions::ProhibitDescendingRanges 0.001  pkg:cpan/Perl-Critic-Policy-ValuesAndExpressions-ProhibitDescendingRanges@0.001
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitDuplicateHashKeys   100  pkg:cpan/Perl-Critic-Pulp@100
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitEmptyCommas   100  pkg:cpan/Perl-Critic-Pulp@100
 Perl::Critic::Policy::ValuesAndExpressions::ProhibitEmptyPostfixLoop 0.001  pkg:cpan/Perl-Critic-Policy-ValuesAndExpressions-ProhibitEmptyPostfixLoop@0.001
@@ -220036,7 +220037,7 @@ String::ZeroButTrue                  0.2  pkg:cpan/String-ZeroButTrue@0.2
 StringEvolver                       0.03  pkg:cpan/Algorithm-Evolve@0.03
 StringHandle                        0.20  pkg:cpan/Chess-PGN-Parse@0.20
 Stringify::Deep                     0.03  pkg:cpan/Stringify-Deep@0.03
-Strong::Random                      0.95  pkg:cpan/Strong-Random@0.95
+Strong::Random                      0.96  pkg:cpan/Strong-Random@0.96
 Struct::Codec                       0.10  pkg:cpan/Struct-Codec@0.10
 Struct::Compare                      1.0  pkg:cpan/Struct-Compare@1.0.1
 Struct::Conditional                 1.04  pkg:cpan/Struct-Conditional@1.04
