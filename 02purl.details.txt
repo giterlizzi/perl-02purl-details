@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 03 Nov 2026 22:45:04 GMT
+Last-Updated: Wed, 04 Nov 2026 04:19:44 GMT
 Line-Count: 262713
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -28640,7 +28640,7 @@ BioX::SeqUtils::Promoter::SaveTypes::Text 0.001001  pkg:cpan/BioX-SeqUtils-Promo
 BioX::SeqUtils::Promoter::Sequence 0.001001  pkg:cpan/BioX-SeqUtils-Promoter@0.1.1
 BioX::SeqUtils::Promoter::Sequences 0.001001  pkg:cpan/BioX-SeqUtils-Promoter@0.1.1
 BioX::SeqUtils::RandomSequence     0.009004  pkg:cpan/BioX-SeqUtils-RandomSequence@0.94
-BioX::Tax::Kraken                  0.002001  pkg:cpan/BioX-Tax-Kraken@0.002001
+BioX::Tax::Kraken                  0.002002  pkg:cpan/BioX-Tax-Kraken@0.002002
 BioX::Workflow                      1.10  pkg:cpan/BioX-Workflow@1.10
 BioX::Workflow::Command            2.004001  pkg:cpan/BioX-Workflow-Command@2.4.1
 BioX::Workflow::Command::Exceptions undef  pkg:cpan/BioX-Workflow-Command@2.4.1
@@ -51447,7 +51447,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.1  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::NotNode  v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::OrNode   v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.173
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.174
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curl::Impersonate                   0.03  pkg:cpan/Curl-Impersonate@0.03
 Curl::Impersonate::Multi           undef  pkg:cpan/Curl-Impersonate@0.03
@@ -77328,14 +77328,14 @@ Finance::Tax::Aruba::Income::2023  0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::Tax::Aruba::Income::2025  0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::Tax::Aruba::Role::Income::TaxYear 0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::TickerSymbols              3.11  pkg:cpan/Finance-TickerSymbols@3.11?ext=zip
-Finance::Tiller2QIF                 1.20  pkg:cpan/Finance-Tiller2QIF@1.20
-Finance::Tiller2QIF::DB             1.20  pkg:cpan/Finance-Tiller2QIF@1.20
-Finance::Tiller2QIF::Interactive    1.20  pkg:cpan/Finance-Tiller2QIF@1.20
-Finance::Tiller2QIF::Interactive::_DatabaseGuard  1.20  pkg:cpan/Finance-Tiller2QIF@1.20
-Finance::Tiller2QIF::Map            1.20  pkg:cpan/Finance-Tiller2QIF@1.20
-Finance::Tiller2QIF::ReadCSV        1.20  pkg:cpan/Finance-Tiller2QIF@1.20
-Finance::Tiller2QIF::Util           1.20  pkg:cpan/Finance-Tiller2QIF@1.20
-Finance::Tiller2QIF::WriteQIF       1.20  pkg:cpan/Finance-Tiller2QIF@1.20
+Finance::Tiller2QIF                 1.21  pkg:cpan/Finance-Tiller2QIF@1.21
+Finance::Tiller2QIF::DB             1.21  pkg:cpan/Finance-Tiller2QIF@1.21
+Finance::Tiller2QIF::Interactive    1.21  pkg:cpan/Finance-Tiller2QIF@1.21
+Finance::Tiller2QIF::Interactive::_DatabaseGuard  1.21  pkg:cpan/Finance-Tiller2QIF@1.21
+Finance::Tiller2QIF::Map            1.21  pkg:cpan/Finance-Tiller2QIF@1.21
+Finance::Tiller2QIF::ReadCSV        1.21  pkg:cpan/Finance-Tiller2QIF@1.21
+Finance::Tiller2QIF::Util           1.21  pkg:cpan/Finance-Tiller2QIF@1.21
+Finance::Tiller2QIF::WriteQIF       1.21  pkg:cpan/Finance-Tiller2QIF@1.21
 Finance::USDX                       0.03  pkg:cpan/Finance-USDX@0.03
 Finance::Wesabe                     0.02  pkg:cpan/Finance-Wesabe@0.02
 Finance::Wesabe::Account           undef  pkg:cpan/Finance-Wesabe@0.02
@@ -83702,7 +83702,7 @@ Geo::Coder::GooglePlaces::V3        0.06  pkg:cpan/Geo-Coder-GooglePlaces@0.06
 Geo::Coder::Googlev3                0.17  pkg:cpan/Geo-Coder-Googlev3@0.17
 Geo::Coder::HostIP                  0.07  pkg:cpan/Geo-Coder-HostIP@0.08
 Geo::Coder::Ja                      0.03  pkg:cpan/Geo-Coder-Ja@0.03
-Geo::Coder::List                    0.39  pkg:cpan/Geo-Coder-List@0.39
+Geo::Coder::List                    0.40  pkg:cpan/Geo-Coder-List@0.40
 Geo::Coder::Many                    0.46  pkg:cpan/Geo-Coder-Many@0.46-5
 Geo::Coder::Many::Bing              0.02  pkg:cpan/Geo-Coder-Many@0.46-5
 Geo::Coder::Many::Generic           0.01  pkg:cpan/Geo-Coder-Many@0.46-5
@@ -125344,25 +125344,25 @@ Mail::Log::Trace                   1.0101  pkg:cpan/Mail-Log-Trace@1.0101
 Mail::Log::Trace::Postfix          1.0001  pkg:cpan/Mail-Log-Trace@1.0101
 Mail::MBX                           0.01  pkg:cpan/Mail-MBX@0.01
 Mail::MBX::Message                 undef  pkg:cpan/Mail-MBX@0.01
-Mail::MIMEDefang                   3.007001  pkg:cpan/Mail-MIMEDefang@3.7.1
-Mail::MIMEDefang::Actions          undef  pkg:cpan/Mail-MIMEDefang@3.7.1
-Mail::MIMEDefang::Antispam         undef  pkg:cpan/Mail-MIMEDefang@3.7.1
-Mail::MIMEDefang::Antivirus        undef  pkg:cpan/Mail-MIMEDefang@3.7.1
-Mail::MIMEDefang::Async              1.0  pkg:cpan/Mail-MIMEDefang@3.7.1
-Mail::MIMEDefang::Async::Checks      1.0  pkg:cpan/Mail-MIMEDefang@3.7.1
-Mail::MIMEDefang::Async::Results     1.0  pkg:cpan/Mail-MIMEDefang@3.7.1
-Mail::MIMEDefang::Authres          undef  pkg:cpan/Mail-MIMEDefang@3.7.1
-Mail::MIMEDefang::BIMI             undef  pkg:cpan/Mail-MIMEDefang@3.7.1
-Mail::MIMEDefang::DKIM             undef  pkg:cpan/Mail-MIMEDefang@3.7.1
-Mail::MIMEDefang::DKIM::ARC        undef  pkg:cpan/Mail-MIMEDefang@3.7.1
-Mail::MIMEDefang::MIME             undef  pkg:cpan/Mail-MIMEDefang@3.7.1
-Mail::MIMEDefang::Mail             undef  pkg:cpan/Mail-MIMEDefang@3.7.1
-Mail::MIMEDefang::Net              undef  pkg:cpan/Mail-MIMEDefang@3.7.1
-Mail::MIMEDefang::RFC2822          undef  pkg:cpan/Mail-MIMEDefang@3.7.1
-Mail::MIMEDefang::SPF              undef  pkg:cpan/Mail-MIMEDefang@3.7.1
-Mail::MIMEDefang::TLSPolicy        undef  pkg:cpan/Mail-MIMEDefang@3.7.1
-Mail::MIMEDefang::Unit             undef  pkg:cpan/Mail-MIMEDefang@3.7.1
-Mail::MIMEDefang::Utils            undef  pkg:cpan/Mail-MIMEDefang@3.7.1
+Mail::MIMEDefang                   3.007002  pkg:cpan/Mail-MIMEDefang@3.7.2
+Mail::MIMEDefang::Actions          undef  pkg:cpan/Mail-MIMEDefang@3.7.2
+Mail::MIMEDefang::Antispam         undef  pkg:cpan/Mail-MIMEDefang@3.7.2
+Mail::MIMEDefang::Antivirus        undef  pkg:cpan/Mail-MIMEDefang@3.7.2
+Mail::MIMEDefang::Async              1.0  pkg:cpan/Mail-MIMEDefang@3.7.2
+Mail::MIMEDefang::Async::Checks      1.0  pkg:cpan/Mail-MIMEDefang@3.7.2
+Mail::MIMEDefang::Async::Results     1.0  pkg:cpan/Mail-MIMEDefang@3.7.2
+Mail::MIMEDefang::Authres          undef  pkg:cpan/Mail-MIMEDefang@3.7.2
+Mail::MIMEDefang::BIMI             undef  pkg:cpan/Mail-MIMEDefang@3.7.2
+Mail::MIMEDefang::DKIM             undef  pkg:cpan/Mail-MIMEDefang@3.7.2
+Mail::MIMEDefang::DKIM::ARC        undef  pkg:cpan/Mail-MIMEDefang@3.7.2
+Mail::MIMEDefang::MIME             undef  pkg:cpan/Mail-MIMEDefang@3.7.2
+Mail::MIMEDefang::Mail             undef  pkg:cpan/Mail-MIMEDefang@3.7.2
+Mail::MIMEDefang::Net              undef  pkg:cpan/Mail-MIMEDefang@3.7.2
+Mail::MIMEDefang::RFC2822          undef  pkg:cpan/Mail-MIMEDefang@3.7.2
+Mail::MIMEDefang::SPF              undef  pkg:cpan/Mail-MIMEDefang@3.7.2
+Mail::MIMEDefang::TLSPolicy        undef  pkg:cpan/Mail-MIMEDefang@3.7.2
+Mail::MIMEDefang::Unit             undef  pkg:cpan/Mail-MIMEDefang@3.7.2
+Mail::MIMEDefang::Utils            undef  pkg:cpan/Mail-MIMEDefang@3.7.2
 Mail::MXplus                        0.02  pkg:cpan/Mail-MXplus@0.02
 Mail::Maildir::Is::A                 0.0  pkg:cpan/Mail-Maildir-Is-A@0.0.0
 Mail::Mailer                        2.22  pkg:cpan/MailTools@2.22
