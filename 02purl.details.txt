@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 05 Nov 2026 23:06:14 GMT
-Line-Count: 262755
+Last-Updated: Fri, 06 Nov 2026 04:36:54 GMT
+Line-Count: 262761
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -63332,8 +63332,8 @@ DataWarehouse::Aggregate            0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::Dimension            0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::ETL                  0.01  pkg:cpan/DataWarehouse@0.04
 DataWarehouse::Fact                 0.04  pkg:cpan/DataWarehouse@0.04
-Database::Abstraction               0.54  pkg:cpan/Database-Abstraction@0.54
-Database::Abstraction::Query        0.54  pkg:cpan/Database-Abstraction@0.54
+Database::Abstraction               0.55  pkg:cpan/Database-Abstraction@0.55
+Database::Abstraction::Query        0.55  pkg:cpan/Database-Abstraction@0.55
 Database::Async                    0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Backoff           0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Backoff::Exponential 0.019  pkg:cpan/Database-Async@0.019
@@ -63371,7 +63371,9 @@ Database::BI::Util                 0.020  pkg:cpan/Database-BI@0.020.0
 Database::Cassandra::Client            1  pkg:cpan/Database-Cassandra-Client@1
 Database::DumpTruck                  1.2  pkg:cpan/Database-DumpTruck@1.2
 Database::Format::Text              1.03  pkg:cpan/Database-Format-Text@1.03
-Database::Join                     0.010001  pkg:cpan/Database-Join@0.010.1
+Database::Join                     0.011001  pkg:cpan/Database-Join@0.011.1
+Database::Join::Catalog            0.011001  pkg:cpan/Database-Join@0.011.1
+Database::Join::Catalog::Error     0.011001  pkg:cpan/Database-Join@0.011.1
 Database::ManagedHandle            0.003  pkg:cpan/Database-ManagedHandle@0.003
 Database::Migrator                  0.14  pkg:cpan/Database-Migrator@0.14
 Database::Migrator::Core            0.14  pkg:cpan/Database-Migrator@0.14
@@ -118283,35 +118285,35 @@ LinkEmbedder::Link::Xkcd           undef  pkg:cpan/LinkEmbedder@1.20
 LinkEmbedder::Link::oEmbed         undef  pkg:cpan/LinkEmbedder@1.20
 LinkedList::Single                 2.000000  pkg:cpan/LinkedList-Single@v2.1.0
 LinkedList::Single::Doc            2.000001  pkg:cpan/LinkedList-Single@v2.1.0
-LinkedList::Single::Example::Bench 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::Handoff 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::Handoff::Array 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::Handoff::Marked 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::Handoff::POD 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::LRU   2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::LRU::Array 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::LRU::Lazy 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::LRU::Order 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::LRU::POD 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::Latency 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::Lock  2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::Ordered 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::Ordered::Buckets 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::Ordered::Hash 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::Ordered::POD 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::Ordered::Sorted 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::POD   2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::Probe 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::SlidingWindow 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::SlidingWindow::Array 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::SlidingWindow::POD 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::SortedMerge 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::SortedMerge::Array 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::SortedMerge::POD 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::Timer 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::Timer::Array 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Example::Timer::POD 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
-LinkedList::Single::Examples       2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.0
+LinkedList::Single::Example::Bench 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::Handoff 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::Handoff::Array 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::Handoff::Marked 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::Handoff::POD 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::LRU   2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::LRU::Array 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::LRU::Lazy 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::LRU::Order 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::LRU::POD 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::Latency 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::Lock  2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::Ordered 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::Ordered::Buckets 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::Ordered::Hash 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::Ordered::POD 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::Ordered::Sorted 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::POD   2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::Probe 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::SlidingWindow 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::SlidingWindow::Array 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::SlidingWindow::POD 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::SortedMerge 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::SortedMerge::Array 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::SortedMerge::POD 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::Timer 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::Timer::Array 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Example::Timer::POD 2.000000  pkg:cpan/LinkedList-Single-Examples@v2.0.1
+LinkedList::Single::Examples       2.000001  pkg:cpan/LinkedList-Single-Examples@v2.0.1
 LinkedList::Single::TestUtil       2.000000  pkg:cpan/LinkedList-Single@v2.1.0
 Linode::API                        0.003  pkg:cpan/Linode-API@0.003
 Linux::ACL                          0.05  pkg:cpan/Linux-ACL@0.05
@@ -126483,8 +126485,8 @@ Map::Tube::Pluggable               v5.1.1  pkg:cpan/Map-Tube@v5.1.1
 Map::Tube::Plugin::Formatter        0.17  pkg:cpan/Map-Tube-Plugin-Formatter@0.17
 Map::Tube::Plugin::Formatter::Utils  0.17  pkg:cpan/Map-Tube-Plugin-Formatter@0.17
 Map::Tube::Plugin::FuzzyFind       v0.82.1  pkg:cpan/Map-Tube-Plugin-FuzzyFind@v0.82.1
-Map::Tube::Plugin::Graph           v1.2.2  pkg:cpan/Map-Tube-Plugin-Graph@v1.2.2
-Map::Tube::Plugin::Graph::Utils    v1.2.2  pkg:cpan/Map-Tube-Plugin-Graph@v1.2.2
+Map::Tube::Plugin::Graph           v1.3.0  pkg:cpan/Map-Tube-Plugin-Graph@v1.3.0
+Map::Tube::Plugin::Graph::Utils    v1.3.0  pkg:cpan/Map-Tube-Plugin-Graph@v1.3.0
 Map::Tube::Prague                   0.16  pkg:cpan/Map-Tube-Prague@0.16
 Map::Tube::RheinRuhr               v0.2.5  pkg:cpan/Map-Tube-RheinRuhr@v0.2.5
 Map::Tube::Rome                     1.03  pkg:cpan/Map-Tube-Rome@1.03
@@ -154857,7 +154859,7 @@ PDL::Demos                         undef  pkg:cpan/PDL@2.106
 PDL::Demos::BAD_demo               undef  pkg:cpan/PDL@2.106
 PDL::Demos::Cartography_demo       undef  pkg:cpan/PDL@2.106
 PDL::Demos::DSPWindows             0.103  pkg:cpan/PDL-DSP-Windows@0.103
-PDL::Demos::Ellipsometry           undef  pkg:cpan/Physics-Ellipsometry-VASE@1.03
+PDL::Demos::Ellipsometry           undef  pkg:cpan/Physics-Ellipsometry-VASE@1.04
 PDL::Demos::Func_demo              undef  pkg:cpan/PDL@2.106
 PDL::Demos::GSL_CDF                undef  pkg:cpan/PDL-GSL@2.103
 PDL::Demos::GSL_RNG                undef  pkg:cpan/PDL-GSL@2.103
@@ -192319,13 +192321,16 @@ Physics::Electrodeposition          1.01  pkg:cpan/Physics-Electrodeposition@1.0
 Physics::Electrodeposition::CopperPlating  0.01  pkg:cpan/Physics-Electrodeposition@1.01
 Physics::Electrodeposition::GDSII   1.00  pkg:cpan/Physics-Electrodeposition@1.01
 Physics::Electrodeposition::Pattern  1.00  pkg:cpan/Physics-Electrodeposition@1.01
-Physics::Ellipsometry::VASE         1.03  pkg:cpan/Physics-Ellipsometry-VASE@1.03
-Physics::Ellipsometry::VASE::Dispersion  1.03  pkg:cpan/Physics-Ellipsometry-VASE@1.03
-Physics::Ellipsometry::VASE::EMA    1.03  pkg:cpan/Physics-Ellipsometry-VASE@1.03
-Physics::Ellipsometry::VASE::Materials  1.03  pkg:cpan/Physics-Ellipsometry-VASE@1.03
-Physics::Ellipsometry::VASE::Optimizer  1.03  pkg:cpan/Physics-Ellipsometry-VASE@1.03
-Physics::Ellipsometry::VASE::Parameter  1.03  pkg:cpan/Physics-Ellipsometry-VASE@1.03
-Physics::Ellipsometry::VASE::TMM    1.03  pkg:cpan/Physics-Ellipsometry-VASE@1.03
+Physics::Ellipsometry::VASE         1.04  pkg:cpan/Physics-Ellipsometry-VASE@1.04
+Physics::Ellipsometry::VASE::Anisotropy  1.04  pkg:cpan/Physics-Ellipsometry-VASE@1.04
+Physics::Ellipsometry::VASE::Dispersion  1.04  pkg:cpan/Physics-Ellipsometry-VASE@1.04
+Physics::Ellipsometry::VASE::EMA    1.04  pkg:cpan/Physics-Ellipsometry-VASE@1.04
+Physics::Ellipsometry::VASE::MagnetoOptic  1.04  pkg:cpan/Physics-Ellipsometry-VASE@1.04
+Physics::Ellipsometry::VASE::Materials  1.04  pkg:cpan/Physics-Ellipsometry-VASE@1.04
+Physics::Ellipsometry::VASE::Optimizer  1.04  pkg:cpan/Physics-Ellipsometry-VASE@1.04
+Physics::Ellipsometry::VASE::Parameter  1.04  pkg:cpan/Physics-Ellipsometry-VASE@1.04
+Physics::Ellipsometry::VASE::TMM    1.04  pkg:cpan/Physics-Ellipsometry-VASE@1.04
+Physics::Ellipsometry::VASE::Temperature  1.04  pkg:cpan/Physics-Ellipsometry-VASE@1.04
 Physics::Etch                       0.02  pkg:cpan/Physics-Etch@0.02
 Physics::Etch::Chamber              0.02  pkg:cpan/Physics-Etch@0.02
 Physics::Etch::DryEtch              0.02  pkg:cpan/Physics-Etch@0.02
@@ -224713,12 +224718,12 @@ Teradata::BTET                      0.02  pkg:cpan/Teradata-BTET@0.02
 Teradata::SQL                       0.14  pkg:cpan/Teradata-SQL@0.14
 Term::ANSI::Sprintf                 0.11  pkg:cpan/Term-ANSI-Sprintf@0.11
 Term::ANSIColor                     5.01  pkg:cpan/Term-ANSIColor@5.01
-Term::ANSIColor::Concise            3.03  pkg:cpan/Term-ANSIColor-Concise@3.03
-Term::ANSIColor::Concise::Color     3.03  pkg:cpan/Term-ANSIColor-Concise@3.03
-Term::ANSIColor::Concise::ColorObject  3.03  pkg:cpan/Term-ANSIColor-Concise@3.03
-Term::ANSIColor::Concise::ColorUtils  3.03  pkg:cpan/Term-ANSIColor-Concise@3.03
-Term::ANSIColor::Concise::Table     3.03  pkg:cpan/Term-ANSIColor-Concise@3.03
-Term::ANSIColor::Concise::Transform  3.03  pkg:cpan/Term-ANSIColor-Concise@3.03
+Term::ANSIColor::Concise            3.04  pkg:cpan/Term-ANSIColor-Concise@3.04
+Term::ANSIColor::Concise::Color     3.04  pkg:cpan/Term-ANSIColor-Concise@3.04
+Term::ANSIColor::Concise::ColorObject  3.04  pkg:cpan/Term-ANSIColor-Concise@3.04
+Term::ANSIColor::Concise::ColorUtils  3.04  pkg:cpan/Term-ANSIColor-Concise@3.04
+Term::ANSIColor::Concise::Table     3.04  pkg:cpan/Term-ANSIColor-Concise@3.04
+Term::ANSIColor::Concise::Transform  3.04  pkg:cpan/Term-ANSIColor-Concise@3.04
 Term::ANSIColor::Conditional       0.009  pkg:cpan/Term-ANSIColor-Conditional@0.009
 Term::ANSIColor::Gradients          0.10  pkg:cpan/Term-ANSIColor-Gradients@0.10
 Term::ANSIColor::Gradients::Accessibility  0.10  pkg:cpan/Term-ANSIColor-Gradients@0.10
@@ -234977,6 +234982,7 @@ UUID::Random::Secure               0.004  pkg:cpan/UUID-Random-Secure@0.004
 UUID::Tiny                          1.04  pkg:cpan/UUID-Tiny@1.04
 UUID::Tiny::Patch::UseMRS          0.002  pkg:cpan/UUID-Tiny-Patch-UseMRS@0.002
 UUID::URandom                      0.001  pkg:cpan/UUID-URandom@0.001
+UUID::V7                           0.001  pkg:cpan/UUID-V7@0.001
 UV                                 2.002  pkg:cpan/UV@2.002
 UV::Async                          2.002  pkg:cpan/UV@2.002
 UV::Check                          2.002  pkg:cpan/UV@2.002
