@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 07 Nov 2026 01:29:15 GMT
-Line-Count: 262778
+Last-Updated: Sat, 07 Nov 2026 08:06:16 GMT
+Line-Count: 262779
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -68063,26 +68063,27 @@ Dist::Build::XS::Import            0.028  pkg:cpan/Dist-Build@0.028
 Dist::Build::XS::PkgConfig         0.002  pkg:cpan/Dist-Build-XS-PkgConfig@0.002
 Dist::Build::XS::WriteConstants    0.028  pkg:cpan/Dist-Build@0.028
 Dist::CheckConflicts                0.11  pkg:cpan/Dist-CheckConflicts@0.11
-Dist::Conformance                  0.002  pkg:cpan/Dist-Conformance@0.002
-Dist::Conformance::Check           0.002  pkg:cpan/Dist-Conformance@0.002
-Dist::Conformance::Check::ClaudeMd 0.002  pkg:cpan/Dist-Conformance@0.002
-Dist::Conformance::Check::ClaudeSettings 0.002  pkg:cpan/Dist-Conformance@0.002
-Dist::Conformance::Check::CriticProfile 0.002  pkg:cpan/Dist-Conformance@0.002
-Dist::Conformance::Check::DataSchema 0.002  pkg:cpan/Dist-Conformance@0.002
-Dist::Conformance::Check::DistFiles 0.002  pkg:cpan/Dist-Conformance@0.002
-Dist::Conformance::Check::GitHooks 0.002  pkg:cpan/Dist-Conformance@0.002
-Dist::Conformance::Check::ToolConfiguration 0.002  pkg:cpan/Dist-Conformance@0.002
-Dist::Conformance::Check::Workflows 0.002  pkg:cpan/Dist-Conformance@0.002
-Dist::Conformance::Config          0.002  pkg:cpan/Dist-Conformance@0.002
-Dist::Conformance::Flavor          0.002  pkg:cpan/Dist-Conformance@0.002
-Dist::Conformance::Schema          0.002  pkg:cpan/Dist-Conformance@0.002
-Dist::Conformance::Snapshot        0.002  pkg:cpan/Dist-Conformance@0.002
-Dist::Conformance::Snapshot::Directory 0.002  pkg:cpan/Dist-Conformance@0.002
-Dist::Conformance::Snapshot::Tree  0.002  pkg:cpan/Dist-Conformance@0.002
-Dist::Conformance::Source          0.002  pkg:cpan/Dist-Conformance@0.002
-Dist::Conformance::Source::Directory 0.002  pkg:cpan/Dist-Conformance@0.002
-Dist::Conformance::Source::Git     0.002  pkg:cpan/Dist-Conformance@0.002
-Dist::Conformance::Update          0.002  pkg:cpan/Dist-Conformance@0.002
+Dist::Conformance                  0.003  pkg:cpan/Dist-Conformance@0.003
+Dist::Conformance::Check           0.003  pkg:cpan/Dist-Conformance@0.003
+Dist::Conformance::Check::ClaudeMd 0.003  pkg:cpan/Dist-Conformance@0.003
+Dist::Conformance::Check::ClaudeSettings 0.003  pkg:cpan/Dist-Conformance@0.003
+Dist::Conformance::Check::CriticProfile 0.003  pkg:cpan/Dist-Conformance@0.003
+Dist::Conformance::Check::DataSchema 0.003  pkg:cpan/Dist-Conformance@0.003
+Dist::Conformance::Check::DistFiles 0.003  pkg:cpan/Dist-Conformance@0.003
+Dist::Conformance::Check::GitHooks 0.003  pkg:cpan/Dist-Conformance@0.003
+Dist::Conformance::Check::SystemPackages 0.003  pkg:cpan/Dist-Conformance@0.003
+Dist::Conformance::Check::ToolConfiguration 0.003  pkg:cpan/Dist-Conformance@0.003
+Dist::Conformance::Check::Workflows 0.003  pkg:cpan/Dist-Conformance@0.003
+Dist::Conformance::Config          0.003  pkg:cpan/Dist-Conformance@0.003
+Dist::Conformance::Flavor          0.003  pkg:cpan/Dist-Conformance@0.003
+Dist::Conformance::Schema          0.003  pkg:cpan/Dist-Conformance@0.003
+Dist::Conformance::Snapshot        0.003  pkg:cpan/Dist-Conformance@0.003
+Dist::Conformance::Snapshot::Directory 0.003  pkg:cpan/Dist-Conformance@0.003
+Dist::Conformance::Snapshot::Tree  0.003  pkg:cpan/Dist-Conformance@0.003
+Dist::Conformance::Source          0.003  pkg:cpan/Dist-Conformance@0.003
+Dist::Conformance::Source::Directory 0.003  pkg:cpan/Dist-Conformance@0.003
+Dist::Conformance::Source::Git     0.003  pkg:cpan/Dist-Conformance@0.003
+Dist::Conformance::Update          0.003  pkg:cpan/Dist-Conformance@0.003
 Dist::Data                         0.007  pkg:cpan/Dist-Data@0.007
 Dist::Dzpl                         0.0020  pkg:cpan/Dist-Dzpl@0.0020
 Dist::Dzpl::App                    undef  pkg:cpan/Dist-Dzpl@0.0020
@@ -110299,7 +110300,7 @@ JSON::Validator::Schema::Draft6    undef  pkg:cpan/JSON-Validator@5.19
 JSON::Validator::Schema::Draft7    undef  pkg:cpan/JSON-Validator@5.19
 JSON::Validator::Schema::OpenAPIv2 undef  pkg:cpan/JSON-Validator@5.19
 JSON::Validator::Schema::OpenAPIv3 undef  pkg:cpan/JSON-Validator@5.19
-JSON::Validator::Schema::Troglodyne 1.000  pkg:cpan/json-validator-schema-troglodyne@1.000
+JSON::Validator::Schema::Troglodyne 1.001  pkg:cpan/json-validator-schema-troglodyne@1.001
 JSON::Validator::Store             undef  pkg:cpan/JSON-Validator@5.19
 JSON::Validator::URI               undef  pkg:cpan/JSON-Validator@5.19
 JSON::Validator::Util              undef  pkg:cpan/JSON-Validator@5.19
