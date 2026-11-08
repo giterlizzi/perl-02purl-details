@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 07 Nov 2026 21:17:04 GMT
-Line-Count: 262786
+Last-Updated: Sun, 08 Nov 2026 00:59:03 GMT
+Line-Count: 262791
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -203854,7 +203854,7 @@ Rule::Engine::Filter               undef  pkg:cpan/Rule-Engine@0.06
 Rule::Engine::Rule                 undef  pkg:cpan/Rule-Engine@0.06
 Rule::Engine::RuleSet              undef  pkg:cpan/Rule-Engine@0.06
 Rule::Engine::Session              undef  pkg:cpan/Rule-Engine@0.06
-Run                                 0.03  pkg:cpan/Run@0.03
+Run                                 0.07  pkg:cpan/Run@0.07?ext=zip
 Run::Env                            0.08  pkg:cpan/Run-Env@0.08
 Run::Parts                          0.09  pkg:cpan/Run-Parts@0.09
 Run::Parts::Common                  0.09  pkg:cpan/Run-Parts@0.09
@@ -219265,7 +219265,7 @@ Stats::Fermi::FermiDiracStats      undef  pkg:cpan/Stats-Fermi@0.1.7
 Stats::Hawking                     0.001003  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HTRandom           undef  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HawkingTemperature undef  pkg:cpan/Stats-Hawking@0.1.3
-Stats::LikeR                       0.3416  pkg:cpan/Stats-LikeR@0.3416
+Stats::LikeR                       0.3417  pkg:cpan/Stats-LikeR@0.3417
 Stats::LikeR::Pred                  0.16  pkg:cpan/Stats-LikeR@0.16
 Stats::LikeR::Usage                0.3413  pkg:cpan/Stats-LikeR@0.3413
 Stats::LikeR::col                   0.28  pkg:cpan/Stats-LikeR@0.28
@@ -240522,15 +240522,20 @@ Validator::Declarative::Rules::ParametrizedType 1.201307222105  pkg:cpan/Validat
 Validator::Declarative::Rules::SimpleType 1.201307222105  pkg:cpan/Validator-Declarative@1.20130722.2105
 Validator::Example                 undef  pkg:cpan/Mojolicious-Plugin-FormValidator@0.01
 Validator::Group                    0.03  pkg:cpan/Validator-Var@0.03
-Validator::LIVR                      2.1  pkg:cpan/Validator-LIVR@2.1
-Validator::LIVR::Rules::Common       2.1  pkg:cpan/Validator-LIVR@2.1
+Validator::LIVR                      2.2  pkg:cpan/Validator-LIVR@2.2
+Validator::LIVR::Rules::Collection   2.2  pkg:cpan/Validator-LIVR@2.2
+Validator::LIVR::Rules::Common       2.2  pkg:cpan/Validator-LIVR@2.2
+Validator::LIVR::Rules::Conditional   2.2  pkg:cpan/Validator-LIVR@2.2
+Validator::LIVR::Rules::DateTime     2.2  pkg:cpan/Validator-LIVR@2.2
 Validator::LIVR::Rules::Filters     0.09  pkg:cpan/Validator-LIVR@0.09
+Validator::LIVR::Rules::Format       2.2  pkg:cpan/Validator-LIVR@2.2
 Validator::LIVR::Rules::Helpers     0.09  pkg:cpan/Validator-LIVR@0.09
-Validator::LIVR::Rules::Meta         2.1  pkg:cpan/Validator-LIVR@2.1
-Validator::LIVR::Rules::Modifiers    2.1  pkg:cpan/Validator-LIVR@2.1
-Validator::LIVR::Rules::Numeric      2.1  pkg:cpan/Validator-LIVR@2.1
-Validator::LIVR::Rules::Special      2.1  pkg:cpan/Validator-LIVR@2.1
-Validator::LIVR::Rules::String       2.1  pkg:cpan/Validator-LIVR@2.1
+Validator::LIVR::Rules::Meta         2.2  pkg:cpan/Validator-LIVR@2.2
+Validator::LIVR::Rules::Modifiers    2.2  pkg:cpan/Validator-LIVR@2.2
+Validator::LIVR::Rules::Numeric      2.2  pkg:cpan/Validator-LIVR@2.2
+Validator::LIVR::Rules::Special      2.2  pkg:cpan/Validator-LIVR@2.2
+Validator::LIVR::Rules::String       2.2  pkg:cpan/Validator-LIVR@2.2
+Validator::LIVR::Rules::Types        2.2  pkg:cpan/Validator-LIVR@2.2
 Validator::Lazy                     0.03  pkg:cpan/Validator-Lazy@0.03
 Validator::Lazy::Role::Check        0.03  pkg:cpan/Validator-Lazy@0.03
 Validator::Lazy::Role::Check::Case  0.03  pkg:cpan/Validator-Lazy@0.03
