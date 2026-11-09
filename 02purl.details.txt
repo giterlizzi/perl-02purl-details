@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 09 Nov 2026 01:20:09 GMT
+Last-Updated: Mon, 09 Nov 2026 08:55:32 GMT
 Line-Count: 262984
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -47824,7 +47824,7 @@ Cmd::Interpreter                   v0.3.3  pkg:cpan/Cmd-Interpreter@0.3.3
 CmdArguments                        1.00  pkg:cpan/CmdArguments@1.00
 Cmenu                               1.01  pkg:cpan/Cmenu@1.1?ext=tgz
 CmpDOM                             undef  pkg:cpan/XML-DOM@1.46
-Cn::Util                           0.023  pkg:cpan/Cn-Util@0.023
+Cn::Util                           0.024  pkg:cpan/Cn-Util@0.024
 Cnutt::Feed                          1.1  pkg:cpan/cnutt-feed@1.21
 Cnutt::Feed::Actions::Fetch          1.0  pkg:cpan/cnutt-feed@1.21
 Cnutt::Feed::Actions::Get            1.0  pkg:cpan/cnutt-feed@1.21
@@ -77540,14 +77540,14 @@ Finance::Tax::Aruba::Income::2023  0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::Tax::Aruba::Income::2025  0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::Tax::Aruba::Role::Income::TaxYear 0.013  pkg:cpan/Finance-Tax-Aruba@0.013
 Finance::TickerSymbols              3.11  pkg:cpan/Finance-TickerSymbols@3.11?ext=zip
-Finance::Tiller2QIF                 1.22  pkg:cpan/Finance-Tiller2QIF@1.22
-Finance::Tiller2QIF::DB             1.22  pkg:cpan/Finance-Tiller2QIF@1.22
-Finance::Tiller2QIF::Interactive    1.22  pkg:cpan/Finance-Tiller2QIF@1.22
-Finance::Tiller2QIF::Interactive::_DatabaseGuard  1.22  pkg:cpan/Finance-Tiller2QIF@1.22
-Finance::Tiller2QIF::Map            1.22  pkg:cpan/Finance-Tiller2QIF@1.22
-Finance::Tiller2QIF::ReadCSV        1.22  pkg:cpan/Finance-Tiller2QIF@1.22
-Finance::Tiller2QIF::Util           1.22  pkg:cpan/Finance-Tiller2QIF@1.22
-Finance::Tiller2QIF::WriteQIF       1.22  pkg:cpan/Finance-Tiller2QIF@1.22
+Finance::Tiller2QIF                 1.23  pkg:cpan/Finance-Tiller2QIF@1.23
+Finance::Tiller2QIF::DB             1.23  pkg:cpan/Finance-Tiller2QIF@1.23
+Finance::Tiller2QIF::Interactive    1.23  pkg:cpan/Finance-Tiller2QIF@1.23
+Finance::Tiller2QIF::Interactive::_DatabaseGuard  1.23  pkg:cpan/Finance-Tiller2QIF@1.23
+Finance::Tiller2QIF::Map            1.23  pkg:cpan/Finance-Tiller2QIF@1.23
+Finance::Tiller2QIF::ReadCSV        1.23  pkg:cpan/Finance-Tiller2QIF@1.23
+Finance::Tiller2QIF::Util           1.23  pkg:cpan/Finance-Tiller2QIF@1.23
+Finance::Tiller2QIF::WriteQIF       1.23  pkg:cpan/Finance-Tiller2QIF@1.23
 Finance::USDX                       0.03  pkg:cpan/Finance-USDX@0.03
 Finance::Wesabe                     0.02  pkg:cpan/Finance-Wesabe@0.02
 Finance::Wesabe::Account           undef  pkg:cpan/Finance-Wesabe@0.02
@@ -109402,13 +109402,13 @@ Internals                            1.1  pkg:cpan/Internals@1.1
 Internals::CountObjects             0.05  pkg:cpan/Internals-CountObjects@0.05
 Internals::DumpArenas               0.12  pkg:cpan/Internals-DumpArenas@0.12
 Internals::GraphArenas              0.01  pkg:cpan/Internals-GraphArenas@0.01
-InternetData                       1.012000  pkg:cpan/InternetData@1.12.0
-InternetData::Database             1.012000  pkg:cpan/InternetData@1.12.0
-InternetData::Error                1.012000  pkg:cpan/InternetData@1.12.0
-InternetData::Oauth                1.012000  pkg:cpan/InternetData@1.12.0
-InternetData::OauthAccessDeniedError 1.012000  pkg:cpan/InternetData@1.12.0
-InternetData::OauthError           1.012000  pkg:cpan/InternetData@1.12.0
-InternetData::OauthExpiredTokenError 1.012000  pkg:cpan/InternetData@1.12.0
+InternetData                       1.012001  pkg:cpan/InternetData@1.12.1
+InternetData::Database             1.012001  pkg:cpan/InternetData@1.12.1
+InternetData::Error                1.012001  pkg:cpan/InternetData@1.12.1
+InternetData::Oauth                1.012001  pkg:cpan/InternetData@1.12.1
+InternetData::OauthAccessDeniedError 1.012001  pkg:cpan/InternetData@1.12.1
+InternetData::OauthError           1.012001  pkg:cpan/InternetData@1.12.1
+InternetData::OauthExpiredTokenError 1.012001  pkg:cpan/InternetData@1.12.1
 Interpolation                       0.74  pkg:cpan/Interpolation@0.74
 Interpolation::A2A                  0.71  pkg:cpan/Interpolation@0.71
 Interpolation::A2S                  0.71  pkg:cpan/Interpolation@0.71
@@ -136061,8 +136061,8 @@ Monkey::Patch::Action::Handle      0.061  pkg:cpan/Monkey-Patch-Action@0.061
 Monkey::Patch::Handle               0.03  pkg:cpan/Monkey-Patch@0.03
 Monkey::Patch::Handle::Class        0.03  pkg:cpan/Monkey-Patch@0.03
 Monkey::Patch::Handle::Object       0.03  pkg:cpan/Monkey-Patch@0.03
-Monoceros                           0.29  pkg:cpan/Monoceros@0.29
-Monoceros::Server                  undef  pkg:cpan/Monoceros@0.29
+Monoceros                           0.30  pkg:cpan/Monoceros@0.30
+Monoceros::Server                  undef  pkg:cpan/Monoceros@0.30
 Monorail                             0.4  pkg:cpan/Monorail@0.4
 Monorail::Bootstrapper               0.4  pkg:cpan/Monorail@0.4
 Monorail::Change::AddField           0.4  pkg:cpan/Monorail@0.4
@@ -193257,7 +193257,7 @@ Plack::Handler::HTTP::Server::Simple::PSGIServer  0.16  pkg:cpan/HTTP-Server-Sim
 Plack::Handler::Hyperman            0.68  pkg:cpan/Hyperman@0.68
 Plack::Handler::Martian             0.08  pkg:cpan/Martian@0.08
 Plack::Handler::Message::Passing   undef  pkg:cpan/Message-Passing-PSGI@0.001
-Plack::Handler::Monoceros          undef  pkg:cpan/Monoceros@0.29
+Plack::Handler::Monoceros          undef  pkg:cpan/Monoceros@0.30
 Plack::Handler::Net::Async::FastCGI  0.26  pkg:cpan/Net-Async-FastCGI@0.26
 Plack::Handler::Net::Async::HTTP::Server  0.15  pkg:cpan/Net-Async-HTTP-Server@0.15
 Plack::Handler::Net::FastCGI        0.01  pkg:cpan/Plack-Handler-Net-FastCGI@0.01
@@ -193558,7 +193558,7 @@ Plack::Middleware::Method_Allow     0.01  pkg:cpan/Plack-Middleware-Method_Allow
 Plack::Middleware::Mirror          0.401  pkg:cpan/Plack-Middleware-Mirror@0.401
 Plack::Middleware::MockProxyFrontend 0.005  pkg:cpan/Plack-Middleware-MockProxyFrontend@0.005
 Plack::Middleware::ModuleInfo       0.04  pkg:cpan/Plack-Middleware-ModuleInfo@0.04
-Plack::Middleware::MonocerosStatus undef  pkg:cpan/Monoceros@0.29
+Plack::Middleware::MonocerosStatus undef  pkg:cpan/Monoceros@0.30
 Plack::Middleware::Negotiate        0.20  pkg:cpan/Plack-Middleware-Negotiate@0.20
 Plack::Middleware::NeverExpire     1.201  pkg:cpan/Plack-Middleware-NeverExpire@1.201
 Plack::Middleware::NewRelic        0.0502  pkg:cpan/Plack-Middleware-NewRelic@0.0502
@@ -194612,7 +194612,7 @@ Pod::LaTeX                          0.61  pkg:cpan/Pod-LaTeX@0.61
 Pod::LaTeX::Book                   0.000001  pkg:cpan/pod2book@0.0.1
 Pod::Licensizer                     0.03  pkg:cpan/Pod-Licensizer@0.03
 Pod::List                           1.67  pkg:cpan/Pod-Parser@1.67
-Pod::Literate                      0.000001  pkg:cpan/Pod-Literate@0.0.1
+Pod::Literate                      0.000002  pkg:cpan/Pod-Literate@0.0.2
 Pod::Loom                           0.08  pkg:cpan/Pod-Loom@0.08
 Pod::Loom::Parser                   0.05  pkg:cpan/Pod-Loom@0.08
 Pod::Loom::Role::Extender           0.03  pkg:cpan/Pod-Loom@0.08
@@ -240328,17 +240328,17 @@ VOMS::Lite::RSAKey                  0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::SAMLHelper              0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::VOMS                    0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::X509                    0.20  pkg:cpan/VOMS-Lite@0.20
-VPNDetection                       3.011000  pkg:cpan/VPNDetection@3.11.0
-VPNDetection::Bogon                3.011000  pkg:cpan/VPNDetection@3.11.0
-VPNDetection::Bogons               undef  pkg:cpan/VPNDetection@3.11.0
-VPNDetection::Cache                3.011000  pkg:cpan/VPNDetection@3.11.0
-VPNDetection::Database             3.011000  pkg:cpan/VPNDetection@3.11.0
-VPNDetection::Error                3.011000  pkg:cpan/VPNDetection@3.11.0
-VPNDetection::Oauth                3.011000  pkg:cpan/VPNDetection@3.11.0
-VPNDetection::OauthAccessDeniedError 3.011000  pkg:cpan/VPNDetection@3.11.0
-VPNDetection::OauthError           3.011000  pkg:cpan/VPNDetection@3.11.0
-VPNDetection::OauthExpiredTokenError 3.011000  pkg:cpan/VPNDetection@3.11.0
-VPNDetection::Result               3.011000  pkg:cpan/VPNDetection@3.11.0
+VPNDetection                       3.011001  pkg:cpan/VPNDetection@3.11.1
+VPNDetection::Bogon                3.011001  pkg:cpan/VPNDetection@3.11.1
+VPNDetection::Bogons               undef  pkg:cpan/VPNDetection@3.11.1
+VPNDetection::Cache                3.011001  pkg:cpan/VPNDetection@3.11.1
+VPNDetection::Database             3.011001  pkg:cpan/VPNDetection@3.11.1
+VPNDetection::Error                3.011001  pkg:cpan/VPNDetection@3.11.1
+VPNDetection::Oauth                3.011001  pkg:cpan/VPNDetection@3.11.1
+VPNDetection::OauthAccessDeniedError 3.011001  pkg:cpan/VPNDetection@3.11.1
+VPNDetection::OauthError           3.011001  pkg:cpan/VPNDetection@3.11.1
+VPNDetection::OauthExpiredTokenError 3.011001  pkg:cpan/VPNDetection@3.11.1
+VPNDetection::Result               3.011001  pkg:cpan/VPNDetection@3.11.1
 VR::API                             1.06  pkg:cpan/VR-API@1.06
 VR::API::Partner                    1.01  pkg:cpan/VR-API@1.05
 VRML                                1.10  pkg:cpan/VRML@1.10
@@ -249450,7 +249450,7 @@ WebService::MIAB                    0.03  pkg:cpan/WebService-MIAB@0.03
 WebService::MODIS                    2.0  pkg:cpan/WebService-MODIS@2.0
 WebService::Mackerel                0.05  pkg:cpan/WebService-Mackerel@0.05
 WebService::MailJet                0.0003  pkg:cpan/WebService-MailJet@0.003
-WebService::Mailgun                 0.17  pkg:cpan/WebService-Mailgun@0.17
+WebService::Mailgun                v1.0.0  pkg:cpan/WebService-Mailgun@1.0.0
 WebService::Mandrill                 0.8  pkg:cpan/WebService-Mandrill@0.8
 WebService::Mappoint                 0.3  pkg:cpan/WebService-Mappoint@0.30
 WebService::Mappoint::Common         0.3  pkg:cpan/WebService-Mappoint@0.30
