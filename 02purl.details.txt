@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Mon, 09 Nov 2026 08:55:32 GMT
-Line-Count: 262984
+Last-Updated: Mon, 09 Nov 2026 20:19:27 GMT
+Line-Count: 262986
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -11158,9 +11158,10 @@ App::Greple::git                    1.00  pkg:cpan/App-Greple-git@1.00
 App::Greple::ical                   1.00  pkg:cpan/App-Greple-ical@1.00
 App::Greple::jq                     0.06  pkg:cpan/App-Greple-jq@0.06
 App::Greple::line                  undef  pkg:cpan/App-Greple@9.23
-App::Greple::md                     1.16  pkg:cpan/App-mdee@1.16
-App::Greple::md::Blocks             1.16  pkg:cpan/App-mdee@1.16
-App::Greple::md::Step              undef  pkg:cpan/App-mdee@1.16
+App::Greple::md                     1.17  pkg:cpan/App-mdee@1.17
+App::Greple::md::Blocks             1.17  pkg:cpan/App-mdee@1.17
+App::Greple::md::Step              undef  pkg:cpan/App-mdee@1.17
+App::Greple::md::widen              1.17  pkg:cpan/App-mdee@1.17
 App::Greple::msdoc                  1.07  pkg:cpan/App-Greple-msdoc@1.07
 App::Greple::perl                  undef  pkg:cpan/App-Greple@10.05
 App::Greple::pgp                   undef  pkg:cpan/App-Greple@10.05
@@ -16838,7 +16839,7 @@ App::manwrap::pm                   0.006  pkg:cpan/App-manwrap-pm@0.006
 App::matrixpack                    0.0014  pkg:cpan/App-matrixpack@0.0014
 App::mbxilinx                       0.13  pkg:cpan/Module-Build-Xilinx@0.13
 App::md2html                       0.001001  pkg:cpan/App-md2html@0.01.1
-App::mdee                           1.16  pkg:cpan/App-mdee@1.16
+App::mdee                           1.17  pkg:cpan/App-mdee@1.17
 App::merge_cpanfile                 0.01  pkg:cpan/App-merge_cpanfile@0.01
 App::metacpansearch                undef  pkg:cpan/App-metacpansearch@0.01
 App::metastasize                   0.002  pkg:cpan/App-metastasize@0.002
@@ -48502,7 +48503,7 @@ Compress::Raw::Lzma                2.225  pkg:cpan/Compress-Raw-Lzma@2.225
 Compress::Raw::Lzma::Decoder       undef  pkg:cpan/App-SimpleBackuper@0.2.22
 Compress::Raw::Lzma::Encoder       undef  pkg:cpan/App-SimpleBackuper@0.2.22
 Compress::Raw::Lzma::Options       undef  pkg:cpan/App-SimpleBackuper@0.2.22
-Compress::Raw::Zlib                2.225  pkg:cpan/Compress-Raw-Zlib@2.225
+Compress::Raw::Zlib                2.226  pkg:cpan/Compress-Raw-Zlib@2.226
 Compress::SelfExtracting            0.04  pkg:cpan/Compress-SelfExtracting@0.04?ext=tgz
 Compress::SelfExtracting::Filter   undef  pkg:cpan/Compress-SelfExtracting@0.04?ext=tgz
 Compress::SelfExtracting::LZ77      0.04  pkg:cpan/Compress-SelfExtracting@0.04?ext=tgz
@@ -49872,9 +49873,9 @@ Courriel::Types                     0.49  pkg:cpan/Courriel@0.49
 Courriel::Types::Internal           0.49  pkg:cpan/Courriel@0.49
 Cow                                undef  pkg:cpan/Outthentic@0.4.7
 Coy                                 0.06  pkg:cpan/Coy@0.06
-Cpanel::JSON::XS                    4.80  pkg:cpan/Cpanel-JSON-XS@4.80
-Cpanel::JSON::XS::Boolean           4.80  pkg:cpan/Cpanel-JSON-XS@4.80
-Cpanel::JSON::XS::Type              4.80  pkg:cpan/Cpanel-JSON-XS@4.80
+Cpanel::JSON::XS                    4.81  pkg:cpan/Cpanel-JSON-XS@4.81
+Cpanel::JSON::XS::Boolean           4.81  pkg:cpan/Cpanel-JSON-XS@4.81
+Cpanel::JSON::XS::Type              4.81  pkg:cpan/Cpanel-JSON-XS@4.81
 CracTools                          1.251  pkg:cpan/CracTools@1.251
 CracTools::Annotator               1.251  pkg:cpan/CracTools@1.251
 CracTools::App                     1.251  pkg:cpan/CracTools@1.251
@@ -140194,17 +140195,17 @@ Net::API::Gett::User                1.06  pkg:cpan/Net-API-Gett@1.06
 Net::API::Nominatim                 0.03  pkg:cpan/Net-API-Nominatim@0.03
 Net::API::Nominatim::Model::Address  0.03  pkg:cpan/Net-API-Nominatim@0.03
 Net::API::Nominatim::Model::BoundingBox  0.03  pkg:cpan/Net-API-Nominatim@0.03
-Net::API::REST                     1.002006  pkg:cpan/Net-API-REST@v1.2.6
-Net::API::REST::Cookie             1.000000  pkg:cpan/Net-API-REST@v1.2.6
-Net::API::REST::Cookies            1.000000  pkg:cpan/Net-API-REST@v1.2.6
-Net::API::REST::DateTime           1.000000  pkg:cpan/Net-API-REST@v1.2.6
-Net::API::REST::Endpoint           1.002006  pkg:cpan/Net-API-REST@v1.2.6
-Net::API::REST::JWT                0.100004  pkg:cpan/Net-API-REST@v1.2.6
-Net::API::REST::Query              1.000000  pkg:cpan/Net-API-REST@v1.2.6
-Net::API::REST::RC                 1.002006  pkg:cpan/Net-API-REST@v1.2.6
-Net::API::REST::Request            1.001000  pkg:cpan/Net-API-REST@v1.2.6
-Net::API::REST::Response           1.000000  pkg:cpan/Net-API-REST@v1.2.6
-Net::API::REST::Status             1.000000  pkg:cpan/Net-API-REST@v1.2.6
+Net::API::REST                     1.002007  pkg:cpan/Net-API-REST@v1.2.7
+Net::API::REST::Cookie             1.000000  pkg:cpan/Net-API-REST@v1.2.7
+Net::API::REST::Cookies            1.000000  pkg:cpan/Net-API-REST@v1.2.7
+Net::API::REST::DateTime           1.000000  pkg:cpan/Net-API-REST@v1.2.7
+Net::API::REST::Endpoint           1.002007  pkg:cpan/Net-API-REST@v1.2.7
+Net::API::REST::JWT                0.100004  pkg:cpan/Net-API-REST@v1.2.7
+Net::API::REST::Query              1.000000  pkg:cpan/Net-API-REST@v1.2.7
+Net::API::REST::RC                 1.002007  pkg:cpan/Net-API-REST@v1.2.7
+Net::API::REST::Request            1.001000  pkg:cpan/Net-API-REST@v1.2.7
+Net::API::REST::Response           1.000000  pkg:cpan/Net-API-REST@v1.2.7
+Net::API::REST::Status             1.000000  pkg:cpan/Net-API-REST@v1.2.7
 Net::API::RPX                      1.000001  pkg:cpan/Net-API-RPX@1.000001
 Net::API::RPX::Exception           1.000001  pkg:cpan/Net-API-RPX@1.000001
 Net::API::RPX::Exception::Network  1.000001  pkg:cpan/Net-API-RPX@1.000001
@@ -148341,20 +148342,21 @@ Net::UPS::Package                   0.16  pkg:cpan/Net-UPS@0.16
 Net::UPS::Rate                      0.16  pkg:cpan/Net-UPS@0.16
 Net::UPS::Service                   0.16  pkg:cpan/Net-UPS@0.16
 Net::UPS::Tutorial                  1.00  pkg:cpan/Net-UPS@0.04
-Net::UPnP                          1.004006  pkg:cpan/Net-UPnP@1.4.6
-Net::UPnP::AV::Container           undef  pkg:cpan/Net-UPnP@1.4.6
-Net::UPnP::AV::Content             undef  pkg:cpan/Net-UPnP@1.4.6
-Net::UPnP::AV::Item                undef  pkg:cpan/Net-UPnP@1.4.6
-Net::UPnP::AV::MediaRenderer       undef  pkg:cpan/Net-UPnP@1.4.6
-Net::UPnP::AV::MediaServer         undef  pkg:cpan/Net-UPnP@1.4.6
-Net::UPnP::ActionResponse          undef  pkg:cpan/Net-UPnP@1.4.6
-Net::UPnP::ControlPoint            undef  pkg:cpan/Net-UPnP@1.4.6
-Net::UPnP::Device                  undef  pkg:cpan/Net-UPnP@1.4.6
-Net::UPnP::GW::Gateway             undef  pkg:cpan/Net-UPnP@1.4.6
-Net::UPnP::HTTP                    undef  pkg:cpan/Net-UPnP@1.4.6
-Net::UPnP::HTTPResponse            undef  pkg:cpan/Net-UPnP@1.4.6
-Net::UPnP::QueryResponse           undef  pkg:cpan/Net-UPnP@1.4.6
-Net::UPnP::Service                 undef  pkg:cpan/Net-UPnP@1.4.6
+Net::UPnP                          1.004007  pkg:cpan/Net-UPnP@1.4.7
+Net::UPnP::AV::Container           undef  pkg:cpan/Net-UPnP@1.4.7
+Net::UPnP::AV::Content             undef  pkg:cpan/Net-UPnP@1.4.7
+Net::UPnP::AV::Item                undef  pkg:cpan/Net-UPnP@1.4.7
+Net::UPnP::AV::MediaRenderer       undef  pkg:cpan/Net-UPnP@1.4.7
+Net::UPnP::AV::MediaServer         undef  pkg:cpan/Net-UPnP@1.4.7
+Net::UPnP::AV::RSS                 undef  pkg:cpan/Net-UPnP@1.4.7
+Net::UPnP::ActionResponse          undef  pkg:cpan/Net-UPnP@1.4.7
+Net::UPnP::ControlPoint            undef  pkg:cpan/Net-UPnP@1.4.7
+Net::UPnP::Device                  undef  pkg:cpan/Net-UPnP@1.4.7
+Net::UPnP::GW::Gateway             undef  pkg:cpan/Net-UPnP@1.4.7
+Net::UPnP::HTTP                    undef  pkg:cpan/Net-UPnP@1.4.7
+Net::UPnP::HTTPResponse            undef  pkg:cpan/Net-UPnP@1.4.7
+Net::UPnP::QueryResponse           undef  pkg:cpan/Net-UPnP@1.4.7
+Net::UPnP::Service                 undef  pkg:cpan/Net-UPnP@1.4.7
 Net::UpYun                         0.001  pkg:cpan/Net-UpYun@0.001
 Net::UploadMirror                   0.13  pkg:cpan/Net-UploadMirror@0.13
 Net::UploadMirror::FileName         0.13  pkg:cpan/Net-UploadMirror@0.13
