@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 10 Nov 2026 19:29:49 GMT
-Line-Count: 262994
+Last-Updated: Wed, 11 Nov 2026 00:21:22 GMT
+Line-Count: 262995
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -22264,11 +22264,11 @@ B::Tree                            undef  pkg:cpan/B-Tree@0.02
 B::TypeCheck                       undef  pkg:cpan/Devel-TypeCheck@1.2.2
 B::UNOP                            undef  pkg:cpan/App-SimpleBackuper@0.2.22
 B::UNOP_AUX                        undef  pkg:cpan/App-SimpleBackuper@0.2.22
-B::Utils                            0.28  pkg:cpan/B-Utils@0.28
+B::Utils                            0.29  pkg:cpan/B-Utils@0.29
 B::Utils1                           1.05  pkg:cpan/B-Utils1@1.05
 B::Utils1::Install::Files          undef  pkg:cpan/B-Utils1@1.05
 B::Utils1::OP                       1.05  pkg:cpan/B-Utils1@1.05
-B::Utils::OP                        0.28  pkg:cpan/B-Utils@0.28
+B::Utils::OP                        0.29  pkg:cpan/B-Utils@0.29
 B::Walker                           0.11  pkg:cpan/rpm-build-perl@0.82
 B::XPath                            0.01  pkg:cpan/B-XPath@0.01
 B::XSUB::Dumber                     0.01  pkg:cpan/B-XSUB-Dumber@0.01
@@ -49100,10 +49100,10 @@ Config::Writer::BIRD               undef  pkg:cpan/Config-Writer@0.0.4
 Config::XMLPerl                     0.01  pkg:cpan/Config-XMLPerl@0.01
 Config::XPath                       0.16  pkg:cpan/Config-XPath@0.16
 Config::XPath::Reloadable           0.16  pkg:cpan/Config-XPath@0.16
-Config::XrmDatabase                 0.08  pkg:cpan/Config-XrmDatabase@0.08
-Config::XrmDatabase::Failure        0.08  pkg:cpan/Config-XrmDatabase@0.08
-Config::XrmDatabase::Types          0.08  pkg:cpan/Config-XrmDatabase@0.08
-Config::XrmDatabase::Util           0.08  pkg:cpan/Config-XrmDatabase@0.08
+Config::XrmDatabase                 0.09  pkg:cpan/Config-XrmDatabase@0.09
+Config::XrmDatabase::Failure        0.09  pkg:cpan/Config-XrmDatabase@0.09
+Config::XrmDatabase::Types          0.09  pkg:cpan/Config-XrmDatabase@0.09
+Config::XrmDatabase::Util           0.09  pkg:cpan/Config-XrmDatabase@0.09
 Config::YAARG                      0.023  pkg:cpan/Config-YAARG@0.023
 Config::YAML                        1.42  pkg:cpan/Config-YAML@1.42
 Config::YAML::Modern                0.36  pkg:cpan/Config-YAML-Modern@0.36
@@ -57735,7 +57735,7 @@ Dancer2::Plugin::CSRF               1.01  pkg:cpan/Dancer2-Plugin-CSRF@1.01
 Dancer2::Plugin::CSRF::SPA          1.01  pkg:cpan/App-Mxpress-PDF@0.22
 Dancer2::Plugin::CSRFI              1.03  pkg:cpan/Dancer2-Plugin-CSRFI@1.03
 Dancer2::Plugin::Cache::CHI        v2.0.1  pkg:cpan/Dancer2-Plugin-Cache-CHI@2.0.1
-Dancer2::Plugin::Captcha            0.14  pkg:cpan/Dancer2-Plugin-Captcha@0.14
+Dancer2::Plugin::Captcha           1.000000  pkg:cpan/Dancer2-Plugin-Captcha@v1.0.0
 Dancer2::Plugin::Cart              1.0001  pkg:cpan/Dancer2-Plugin-Cart@1.0001
 Dancer2::Plugin::Cart::Email       0.0001  pkg:cpan/Dancer2-Plugin-Cart@0.0004
 Dancer2::Plugin::Cart::Ext::Email  0.0002  pkg:cpan/Dancer2-Plugin-Cart@0.0005
@@ -60137,15 +60137,15 @@ Data::ISO8583                       2.44  pkg:cpan/Data-ISO8583@2.44
 Data::ISO8583::VISA                 2.44  pkg:cpan/Data-ISO8583@2.44
 Data::Icon                          0.02  pkg:cpan/Data-Icon@0.02
 Data::IconText                     v0.8.0  pkg:cpan/Data-IconText@v0.08
-Data::Identifier                   v0.37.0  pkg:cpan/Data-Identifier@v0.37
-Data::Identifier::Cloudlet         v0.37.0  pkg:cpan/Data-Identifier@v0.37
-Data::Identifier::Generate         v0.37.0  pkg:cpan/Data-Identifier@v0.37
-Data::Identifier::Interface::Known v0.37.0  pkg:cpan/Data-Identifier@v0.37
-Data::Identifier::Interface::Simple v0.37.0  pkg:cpan/Data-Identifier@v0.37
-Data::Identifier::Interface::Subobjects v0.37.0  pkg:cpan/Data-Identifier@v0.37
-Data::Identifier::Interface::Userdata v0.37.0  pkg:cpan/Data-Identifier@v0.37
-Data::Identifier::Util             v0.37.0  pkg:cpan/Data-Identifier@v0.37
-Data::Identifier::Wellknown        v0.37.0  pkg:cpan/Data-Identifier@v0.37
+Data::Identifier                   v0.38.0  pkg:cpan/Data-Identifier@v0.38
+Data::Identifier::Cloudlet         v0.38.0  pkg:cpan/Data-Identifier@v0.38
+Data::Identifier::Generate         v0.38.0  pkg:cpan/Data-Identifier@v0.38
+Data::Identifier::Interface::Known v0.38.0  pkg:cpan/Data-Identifier@v0.38
+Data::Identifier::Interface::Simple v0.38.0  pkg:cpan/Data-Identifier@v0.38
+Data::Identifier::Interface::Subobjects v0.38.0  pkg:cpan/Data-Identifier@v0.38
+Data::Identifier::Interface::Userdata v0.38.0  pkg:cpan/Data-Identifier@v0.38
+Data::Identifier::Util             v0.38.0  pkg:cpan/Data-Identifier@v0.38
+Data::Identifier::Wellknown        v0.38.0  pkg:cpan/Data-Identifier@v0.38
 Data::Image                         0.06  pkg:cpan/Data-Image@0.06
 Data::Importer                     0.006  pkg:cpan/Data-Importer@0.006
 Data::Importer::Iterator           0.006  pkg:cpan/Data-Importer@0.006
@@ -60173,8 +60173,8 @@ Data::JPack::App                   0.001002  pkg:cpan/Data-JPack@v0.3.2
 Data::JPack::Container             0.001000  pkg:cpan/Data-JPack@v0.1.0
 Data::JPack::Packer                undef  pkg:cpan/Data-JPack@v0.1.0
 Data::JPack::TimeSeries            undef  pkg:cpan/Data-JPack@v0.1.0
-Data::JSEmail                       0.06  pkg:cpan/Data-JSEmail@0.06
-Data::JSEmail::MIMEPart             0.06  pkg:cpan/Data-JSEmail@0.06
+Data::JSEmail                       0.07  pkg:cpan/Data-JSEmail@0.07
+Data::JSEmail::MIMEPart             0.07  pkg:cpan/Data-JSEmail@0.07
 Data::JSONSchema::Ajv               0.09  pkg:cpan/Data-JSONSchema-Ajv@0.09
 Data::JSONSchema::Ajv::Types        0.04  pkg:cpan/Data-JSONSchema-Ajv@0.04
 Data::JSONSchema::Ajv::Validator    0.09  pkg:cpan/Data-JSONSchema-Ajv@0.09
@@ -63550,24 +63550,25 @@ Database::Async::SQLite            0.001  pkg:cpan/Database-Async-SQLite@0.001
 Database::Async::StatementHandle   0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Test              0.019  pkg:cpan/Database-Async@0.019
 Database::Async::Transaction       0.019  pkg:cpan/Database-Async@0.019
-Database::BI                       0.022000  pkg:cpan/Database-BI@0.022.0
-Database::BI::Ask                  0.022  pkg:cpan/Database-BI@0.022.0
-Database::BI::CacheDir             0.022000  pkg:cpan/Database-BI@0.022.0
-Database::BI::Calc                 0.022  pkg:cpan/Database-BI@0.022.0
-Database::BI::Command::password    0.022  pkg:cpan/Database-BI@0.022.0
-Database::BI::Controller::Dashboard 0.022  pkg:cpan/Database-BI@0.022.0
-Database::BI::Extract              0.022  pkg:cpan/Database-BI@0.022.0
-Database::BI::I18N                 0.022  pkg:cpan/Database-BI@0.022.0
-Database::BI::I18N::en_us          0.022  pkg:cpan/Database-BI@0.022.0
-Database::BI::Insights             0.022  pkg:cpan/Database-BI@0.022.0
-Database::BI::Model::DataSource    0.022  pkg:cpan/Database-BI@0.022.0
-Database::BI::Model::Geocode       0.022  pkg:cpan/Database-BI@0.022.0
-Database::BI::Password             0.022  pkg:cpan/Database-BI@0.022.0
-Database::BI::SafeUA               0.022  pkg:cpan/Database-BI@0.022.0
-Database::BI::Sessions             0.022  pkg:cpan/Database-BI@0.022.0
-Database::BI::Summary              0.022  pkg:cpan/Database-BI@0.022.0
-Database::BI::Tutorial             0.022  pkg:cpan/Database-BI@0.022.0
-Database::BI::Util                 0.022  pkg:cpan/Database-BI@0.022.0
+Database::BI                       0.023000  pkg:cpan/Database-BI@0.023.0
+Database::BI::Ask                  0.023  pkg:cpan/Database-BI@0.023.0
+Database::BI::CacheDir             0.023000  pkg:cpan/Database-BI@0.023.0
+Database::BI::Calc                 0.023  pkg:cpan/Database-BI@0.023.0
+Database::BI::Command::password    0.023  pkg:cpan/Database-BI@0.023.0
+Database::BI::Controller::Dashboard 0.023  pkg:cpan/Database-BI@0.023.0
+Database::BI::Extract              0.023  pkg:cpan/Database-BI@0.023.0
+Database::BI::I18N                 0.023  pkg:cpan/Database-BI@0.023.0
+Database::BI::I18N::en_us          0.023  pkg:cpan/Database-BI@0.023.0
+Database::BI::Insights             0.023  pkg:cpan/Database-BI@0.023.0
+Database::BI::Model::Boundary      0.023  pkg:cpan/Database-BI@0.023.0
+Database::BI::Model::DataSource    0.023  pkg:cpan/Database-BI@0.023.0
+Database::BI::Model::Geocode       0.023  pkg:cpan/Database-BI@0.023.0
+Database::BI::Password             0.023  pkg:cpan/Database-BI@0.023.0
+Database::BI::SafeUA               0.023  pkg:cpan/Database-BI@0.023.0
+Database::BI::Sessions             0.023  pkg:cpan/Database-BI@0.023.0
+Database::BI::Summary              0.023  pkg:cpan/Database-BI@0.023.0
+Database::BI::Tutorial             0.023  pkg:cpan/Database-BI@0.023.0
+Database::BI::Util                 0.023  pkg:cpan/Database-BI@0.023.0
 Database::Cassandra::Client            1  pkg:cpan/Database-Cassandra-Client@1
 Database::DumpTruck                  1.2  pkg:cpan/Database-DumpTruck@1.2
 Database::Format::Text              1.03  pkg:cpan/Database-Format-Text@1.03
@@ -126627,7 +126628,7 @@ Map::Tube::Exception::MissingSupportedMap  3.24  pkg:cpan/Map-Tube-Exception@3.2
 Map::Tube::Exception::MissingSupportedObject  3.24  pkg:cpan/Map-Tube-Exception@3.25
 Map::Tube::Exception::RouteNotFound  3.24  pkg:cpan/Map-Tube-Exception@3.25
 Map::Tube::Frankfurt                0.04  pkg:cpan/Map-Tube-Frankfurt@0.04
-Map::Tube::Generic                 v0.1.0  pkg:cpan/Map-Tube-Generic@v0.1.0
+Map::Tube::Generic                 v0.2.0  pkg:cpan/Map-Tube-Generic@v0.2.0
 Map::Tube::Glasgow                 v0.72.4  pkg:cpan/Map-Tube-Glasgow@v0.72.4
 Map::Tube::Graph                    0.06  pkg:cpan/Map-Tube-Graph@0.06
 Map::Tube::GraphViz                 0.07  pkg:cpan/Map-Tube-GraphViz@0.07
@@ -129134,11 +129135,11 @@ MathWorks::platformList            undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::product                 undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepItem          undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepList          undef  pkg:cpan/XML-Pastor@0.6.0
-Matplotlib::Simple                 0.3341  pkg:cpan/Matplotlib-Simple@0.3341
-Matplotlib::Simple::Colors         0.3341  pkg:cpan/Matplotlib-Simple@0.3341
-Matplotlib::Simple::Ggplot2        0.3341  pkg:cpan/Matplotlib-Simple@0.3341
-Matplotlib::Simple::Gnuplot        0.3341  pkg:cpan/Matplotlib-Simple@0.3341
-Matplotlib::Simple::Matplotlib     0.3341  pkg:cpan/Matplotlib-Simple@0.3341
+Matplotlib::Simple                 0.3343  pkg:cpan/Matplotlib-Simple@0.3343
+Matplotlib::Simple::Colors         0.3343  pkg:cpan/Matplotlib-Simple@0.3343
+Matplotlib::Simple::Ggplot2        0.3343  pkg:cpan/Matplotlib-Simple@0.3343
+Matplotlib::Simple::Gnuplot        0.3343  pkg:cpan/Matplotlib-Simple@0.3343
+Matplotlib::Simple::Matplotlib     0.3343  pkg:cpan/Matplotlib-Simple@0.3343
 Matrix::Simple                      1.04  pkg:cpan/Matrix-Simple@1.04
 Matts::Message                     undef  pkg:cpan/Matts-Message-Parser@1.0
 Matts::Message::Parser               1.0  pkg:cpan/Matts-Message-Parser@1.0
@@ -219468,7 +219469,7 @@ Stats::Fermi::FermiDiracStats      undef  pkg:cpan/Stats-Fermi@0.1.7
 Stats::Hawking                     0.001003  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HTRandom           undef  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HawkingTemperature undef  pkg:cpan/Stats-Hawking@0.1.3
-Stats::LikeR                       0.3419  pkg:cpan/Stats-LikeR@0.3419
+Stats::LikeR                       0.342  pkg:cpan/Stats-LikeR@0.342
 Stats::LikeR::Pred                  0.16  pkg:cpan/Stats-LikeR@0.16
 Stats::LikeR::Usage                0.3413  pkg:cpan/Stats-LikeR@0.3413
 Stats::LikeR::col                   0.28  pkg:cpan/Stats-LikeR@0.28
@@ -229239,9 +229240,9 @@ Text::Info::Readability            undef  pkg:cpan/Text-Info@0.01
 Text::Info::Sentence               undef  pkg:cpan/Text-Info@0.01
 Text::Info::Utils                  undef  pkg:cpan/Text-Info@0.01
 Text::Ispell                        0.04  pkg:cpan/Text-Ispell@0.04
-Text::JSCalendar                    0.10  pkg:cpan/Text-JSCalendar@0.10
-Text::JSCalendar::TimeZones        undef  pkg:cpan/Text-JSCalendar@0.10
-Text::JSContact                     0.06  pkg:cpan/Text-JSContact@0.06
+Text::JSCalendar                    0.11  pkg:cpan/Text-JSCalendar@0.11
+Text::JSCalendar::TimeZones        undef  pkg:cpan/Text-JSCalendar@0.11
+Text::JSContact                     0.07  pkg:cpan/Text-JSContact@0.07
 Text::JSON::Nibble                  1.01  pkg:cpan/Text-JSON-Nibble@1.01
 Text::JaroWinkler                    0.1  pkg:cpan/Text-JaroWinkler@0.1
 Text::JavE                         0.000003  pkg:cpan/Text-JavE@0.0.3
