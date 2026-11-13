@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Thu, 12 Nov 2026 21:59:15 GMT
+Last-Updated: Fri, 13 Nov 2026 02:28:35 GMT
 Line-Count: 263893
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -51472,7 +51472,7 @@ Cucumber::TagExpressions::LiteralNode v11.0.1  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::NotNode  v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
 Cucumber::TagExpressions::OrNode   v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.179
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.181
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curl::Impersonate                   0.03  pkg:cpan/Curl-Impersonate@0.03
 Curl::Impersonate::Multi           undef  pkg:cpan/Curl-Impersonate@0.03
@@ -65410,7 +65410,7 @@ DateTime::TimeZone::Local           2.72  pkg:cpan/DateTime-TimeZone@2.72
 DateTime::TimeZone::Local::Android  2.72  pkg:cpan/DateTime-TimeZone@2.72
 DateTime::TimeZone::Local::Unix     2.72  pkg:cpan/DateTime-TimeZone@2.72
 DateTime::TimeZone::Local::VMS      2.72  pkg:cpan/DateTime-TimeZone@2.72
-DateTime::TimeZone::Local::Win32    2.06  pkg:cpan/DateTime-TimeZone-Local-Win32@2.06
+DateTime::TimeZone::Local::Win32    2.07  pkg:cpan/DateTime-TimeZone-Local-Win32@2.07
 DateTime::TimeZone::Local::hpux    undef  pkg:cpan/DateTime-TimeZone-HPUX@1.04
 DateTime::TimeZone::MET             2.62  pkg:cpan/DateTime-TimeZone@2.62
 DateTime::TimeZone::MST             2.62  pkg:cpan/DateTime-TimeZone@2.62
@@ -126605,8 +126605,8 @@ Map::Tube::Bielefeld               2020.0330  pkg:cpan/Map-Tube-Bielefeld@2020.0
 Map::Tube::Brussels                v0.2.2  pkg:cpan/Map-Tube-Brussels@v0.2.2
 Map::Tube::Bucharest                0.12  pkg:cpan/Map-Tube-Bucharest@0.12
 Map::Tube::Budapest                 0.07  pkg:cpan/Map-Tube-Budapest@0.07
-Map::Tube::CLI                     v1.2.0  pkg:cpan/Map-Tube-CLI@v1.2.0
-Map::Tube::CLI::Option             v1.2.0  pkg:cpan/Map-Tube-CLI@v1.2.0
+Map::Tube::CLI                     v1.2.1  pkg:cpan/Map-Tube-CLI@v1.2.1
+Map::Tube::CLI::Option             v1.2.1  pkg:cpan/Map-Tube-CLI@v1.2.1
 Map::Tube::Chicago                 v0.2.3  pkg:cpan/Map-Tube-Chicago@v0.2.3
 Map::Tube::Cookbook                v5.2.0  pkg:cpan/Map-Tube@v5.2.0
 Map::Tube::Copenhagen               0.04  pkg:cpan/Map-Tube-Copenhagen@0.04
@@ -142345,16 +142345,16 @@ Net::CUPS::PPD                      0.61  pkg:cpan/Net-CUPS@0.65
 Net::CVE                           0.010  pkg:cpan/Net-CVE@0.010?ext=tgz
 Net::CalDAV::FindEntry              0.01  pkg:cpan/Net-CalDAV-FindEntry@0.01
 Net::CalDAV::Utils                  0.01  pkg:cpan/Net-CalDAV-FindEntry@0.01
-Net::CalDAVTalk                     0.18  pkg:cpan/Net-CalDAVTalk@0.18
+Net::CalDAVTalk                     0.19  pkg:cpan/Net-CalDAVTalk@0.19
 Net::CalDAVTalk::Extended           0.01  pkg:cpan/Net-CalDAV-FindEntry@0.01
-Net::CalDAVTalk::TimeZones         undef  pkg:cpan/Net-CalDAVTalk@0.18
+Net::CalDAVTalk::TimeZones         undef  pkg:cpan/Net-CalDAVTalk@0.19
 Net::Calais                         1.02  pkg:cpan/Net-Calais@1.02
 Net::Camera::Edimax::IC1500        1.008  pkg:cpan/Net-Camera-Edimax-IC1500@1.008
 Net::Camera::Sercomm::ICamera2      0.02  pkg:cpan/Net-Camera-Sercomm-ICamera2@0.02
 Net::CampaignMonitor               2.002002  pkg:cpan/Net-CampaignMonitor@v2.2.2
 Net::Canopy::BAM                    0.04  pkg:cpan/Net-Canopy-BAM@0.04?ext=tgz
 Net::CapsuleCRM                    1.151910  pkg:cpan/Net-CapsuleCRM@1.151910
-Net::CardDAVTalk                    0.13  pkg:cpan/Net-CardDAVTalk@0.13
+Net::CardDAVTalk                    0.14  pkg:cpan/Net-CardDAVTalk@0.14
 Net::CardDAVTalk::VCard            undef  pkg:cpan/Net-CardDAVTalk@0.09
 Net::CascadeCopy                   0.002006  pkg:cpan/Net-CascadeCopy@0.2.6
 Net::Cassandra                      0.35  pkg:cpan/Net-Cassandra@0.35
@@ -142644,8 +142644,8 @@ Net::DAV::LockManager::DB          1.305  pkg:cpan/Net-DAV-Server@1.305
 Net::DAV::LockManager::Simple      1.305  pkg:cpan/Net-DAV-Server@1.305
 Net::DAV::Server                   1.304  pkg:cpan/Net-DAV-Server@1.304
 Net::DAV::UUID                     1.305  pkg:cpan/Net-DAV-Server@1.305
-Net::DAVTalk                        0.25  pkg:cpan/Net-DAVTalk@0.25
-Net::DAVTalk::XMLParser            undef  pkg:cpan/Net-DAVTalk@0.25
+Net::DAVTalk                        0.26  pkg:cpan/Net-DAVTalk@0.26
+Net::DAVTalk::XMLParser            undef  pkg:cpan/Net-DAVTalk@0.26
 Net::DBus                          1.002000  pkg:cpan/Net-DBus@1.2.0
 Net::DBus::ASyncReply              undef  pkg:cpan/Net-DBus@1.2.0
 Net::DBus::Annotation              undef  pkg:cpan/Net-DBus@1.2.0
@@ -225363,7 +225363,7 @@ Term::Graille::Interact              0.1  pkg:cpan/Term-Graille@0.10
 Term::Graille::Menu                  0.1  pkg:cpan/Term-Graille@0.10
 Term::Graille::Selector              0.1  pkg:cpan/Term-Graille@0.10
 Term::Graille::Textarea              0.1  pkg:cpan/Term-Graille@0.10
-Term::Highlight                    2.003000  pkg:cpan/Term-Highlight@2.3.0
+Term::Highlight                    2.003001  pkg:cpan/Term-Highlight@2.3.1
 Term::HiliteDiff                    0.10  pkg:cpan/Term-HiliteDiff@0.10
 Term::HiliteDiff::_impl             0.10  pkg:cpan/Term-HiliteDiff@0.10
 Term::InKey                         1.04  pkg:cpan/Term-InKey@1.04
@@ -232568,7 +232568,7 @@ Tk::Zinc::TraceUtils                1.07  pkg:cpan/Tk-Zinc@3.307
 Tk::__ButtonContainer               0.02  pkg:cpan/Tk-DKW@0.03
 Tk::__ListContainer                 0.02  pkg:cpan/Tk-DKW@0.03
 Tk::autobind                         1.2  pkg:cpan/Tk-autobind@1.2
-Tk::eText                           2.08  pkg:cpan/etext@2.08?ext=zip
+Tk::eText                           2.09  pkg:cpan/etext@2.09?ext=zip
 Tk::install                        4.004  pkg:cpan/Tk@804.036
 Tk::mySplashScreen                   1.0  pkg:cpan/Tk-mySplashScreen@1.0.3
 Tk::waitVariableX                    1.0  pkg:cpan/Tk-Splashscreen@1.0
