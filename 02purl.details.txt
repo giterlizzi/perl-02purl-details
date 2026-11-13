@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 13 Nov 2026 11:46:07 GMT
-Line-Count: 263898
+Last-Updated: Fri, 13 Nov 2026 19:01:27 GMT
+Line-Count: 263905
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -5609,11 +5609,11 @@ Amazon::MWS::XML::Response::OrderReport::Item undef  pkg:cpan/Amazon-MWS@0.150
 Amazon::MWS::XML::ShippedOrder     undef  pkg:cpan/Amazon-MWS@0.150
 Amazon::PAApi5::Payload            undef  pkg:cpan/Amazon-PAApi5-Signature@0.05
 Amazon::PAApi5::Signature           0.05  pkg:cpan/Amazon-PAApi5-Signature@0.05
-Amazon::S3                         2.1.3  pkg:cpan/Amazon-S3@2.1.3
-Amazon::S3::Bucket                 2.1.3  pkg:cpan/Amazon-S3@2.1.3
-Amazon::S3::BucketV2               2.1.3  pkg:cpan/Amazon-S3@2.1.3
-Amazon::S3::CLI                        0  pkg:cpan/Amazon-S3@2.1.3
-Amazon::S3::Constants              2.1.3  pkg:cpan/Amazon-S3@2.1.3
+Amazon::S3                         2.1.4  pkg:cpan/Amazon-S3@2.1.4
+Amazon::S3::Bucket                 2.1.4  pkg:cpan/Amazon-S3@2.1.4
+Amazon::S3::BucketV2               2.1.4  pkg:cpan/Amazon-S3@2.1.4
+Amazon::S3::CLI                        0  pkg:cpan/Amazon-S3@2.1.4
+Amazon::S3::Constants              2.1.4  pkg:cpan/Amazon-S3@2.1.4
 Amazon::S3::FastUploader            0.08  pkg:cpan/Amazon-S3-FastUploader@0.08
 Amazon::S3::FastUploader::File      0.05  pkg:cpan/Amazon-S3-FastUploader@0.08
 Amazon::S3::Lite                   v1.3.3  pkg:cpan/Amazon-S3-Lite@1.3.3
@@ -5623,8 +5623,8 @@ Amazon::S3::Lite::Lock             v1.3.3  pkg:cpan/Amazon-S3-Lite@1.3.3
 Amazon::S3::Lite::Lock::Guard          0  pkg:cpan/Amazon-S3-Lite@1.3.3
 Amazon::S3::Lite::Logger           v1.3.3  pkg:cpan/Amazon-S3-Lite@1.3.3
 Amazon::S3::Lite::Policies             0  pkg:cpan/Amazon-S3-Lite@1.3.3
-Amazon::S3::Logger                 2.1.3  pkg:cpan/Amazon-S3@2.1.3
-Amazon::S3::Signature::V4          2.1.3  pkg:cpan/Amazon-S3@2.1.3
+Amazon::S3::Logger                 2.1.4  pkg:cpan/Amazon-S3@2.1.4
+Amazon::S3::Signature::V4          2.1.4  pkg:cpan/Amazon-S3@2.1.4
 Amazon::S3::SignedURLGenerator      0.02  pkg:cpan/Amazon-S3-SignedURLGenerator@0.02
 Amazon::S3::Thin                    0.32  pkg:cpan/Amazon-S3-Thin@0.32
 Amazon::S3::Thin::Credentials      undef  pkg:cpan/Amazon-S3-Thin@0.32
@@ -5634,7 +5634,7 @@ Amazon::S3::Thin::Signer           undef  pkg:cpan/Amazon-S3-Thin@0.08
 Amazon::S3::Thin::Signer::V2       undef  pkg:cpan/Amazon-S3-Thin@0.32
 Amazon::S3::Thin::Signer::V4       undef  pkg:cpan/Amazon-S3-Thin@0.32
 Amazon::S3::Thin::SignerV2         undef  pkg:cpan/Amazon-S3-Thin@0.16
-Amazon::S3::Util                   2.1.3  pkg:cpan/Amazon-S3@2.1.3
+Amazon::S3::Util                   2.1.4  pkg:cpan/Amazon-S3@2.1.4
 Amazon::S3Curl::PurePerl           0.054  pkg:cpan/Amazon-S3Curl-PurePerl@0.054
 Amazon::SES                         0.06  pkg:cpan/Amazon-SES@0.06
 Amazon::SES::Response               0.06  pkg:cpan/Amazon-SES@0.06
@@ -5726,12 +5726,12 @@ Ambassador::API::V2::Error         0.001  pkg:cpan/Ambassador-API-V2@0.001
 Ambassador::API::V2::Result        0.001  pkg:cpan/Ambassador-API-V2@0.001
 Ambassador::API::V2::Role::HasJSON 0.001  pkg:cpan/Ambassador-API-V2@0.001
 Ambassador::API::V2::Role::Response 0.001  pkg:cpan/Ambassador-API-V2@0.001
-AmberDB                            5.026005  pkg:cpan/AmberDB@5.26.5
-AmberDB::Array                     5.026005  pkg:cpan/AmberDB@5.26.5
-AmberDB::Date                      5.026005  pkg:cpan/AmberDB@5.26.5
-AmberDB::Locale                    5.026005  pkg:cpan/AmberDB@5.26.5
+AmberDB                            5.026006  pkg:cpan/AmberDB@5.26.6
+AmberDB::Array                     5.026006  pkg:cpan/AmberDB@5.26.6
+AmberDB::Date                      5.026006  pkg:cpan/AmberDB@5.26.6
+AmberDB::Locale                    5.026006  pkg:cpan/AmberDB@5.26.6
 AmberDB::String                    5.024000  pkg:cpan/AmberDB@5.24.0
-AmberDB::Tools                     5.026005  pkg:cpan/AmberDB@5.26.5
+AmberDB::Tools                     5.026006  pkg:cpan/AmberDB@5.26.6
 AmberDB::Tools::Index              5.026000  pkg:cpan/AmberDB@5.26.0
 AmberDB::Tools::Maintain           5.026000  pkg:cpan/AmberDB@5.26.0
 AmberDB::Tools::Update             5.026000  pkg:cpan/AmberDB@5.26.0
@@ -6658,29 +6658,29 @@ AnyEvent::Log::Ctx                 undef  pkg:cpan/AnyEvent@7.17
 AnyEvent::Log::FILTER              undef  pkg:cpan/AnyEvent@7.17
 AnyEvent::Log::LOG                 undef  pkg:cpan/AnyEvent@7.17
 AnyEvent::Loop                     undef  pkg:cpan/AnyEvent@7.17
-AnyEvent::MCP                        0.9  pkg:cpan/AnyEvent-MCP@0.9
-AnyEvent::MCP::Base                  0.9  pkg:cpan/AnyEvent-MCP@0.9
-AnyEvent::MCP::Client              undef  pkg:cpan/AnyEvent-MCP@0.9
-AnyEvent::MCP::Client::HTTP        undef  pkg:cpan/AnyEvent-MCP@0.9
-AnyEvent::MCP::Client::JSONL       undef  pkg:cpan/AnyEvent-MCP@0.9
-AnyEvent::MCP::Client::Request     undef  pkg:cpan/AnyEvent-MCP@0.9
-AnyEvent::MCP::Config              undef  pkg:cpan/AnyEvent-MCP@0.9
-AnyEvent::MCP::Extension           undef  pkg:cpan/AnyEvent-MCP@0.9
+AnyEvent::MCP                       0.91  pkg:cpan/AnyEvent-MCP@0.91
+AnyEvent::MCP::Base                 0.91  pkg:cpan/AnyEvent-MCP@0.91
+AnyEvent::MCP::Client              undef  pkg:cpan/AnyEvent-MCP@0.91
+AnyEvent::MCP::Client::HTTP        undef  pkg:cpan/AnyEvent-MCP@0.91
+AnyEvent::MCP::Client::JSONL       undef  pkg:cpan/AnyEvent-MCP@0.91
+AnyEvent::MCP::Client::Request     undef  pkg:cpan/AnyEvent-MCP@0.91
+AnyEvent::MCP::Config              undef  pkg:cpan/AnyEvent-MCP@0.91
+AnyEvent::MCP::Extension           undef  pkg:cpan/AnyEvent-MCP@0.91
 AnyEvent::MCP::File                undef  pkg:cpan/AnyEvent-MCP@0.82
-AnyEvent::MCP::Helper              undef  pkg:cpan/AnyEvent-MCP@0.9
-AnyEvent::MCP::IMAP::OAuth2        undef  pkg:cpan/AnyEvent-MCP@0.9
-AnyEvent::MCP::IMAP::Providers     undef  pkg:cpan/AnyEvent-MCP@0.9
-AnyEvent::MCP::Permissions::Ask    undef  pkg:cpan/AnyEvent-MCP@0.9
-AnyEvent::MCP::Server              undef  pkg:cpan/AnyEvent-MCP@0.9
-AnyEvent::MCP::Server::Connect     undef  pkg:cpan/AnyEvent-MCP@0.9
-AnyEvent::MCP::Server::HTTP        undef  pkg:cpan/AnyEvent-MCP@0.9
-AnyEvent::MCP::Server::JSONL       undef  pkg:cpan/AnyEvent-MCP@0.9
-AnyEvent::MCP::Server::Permissions undef  pkg:cpan/AnyEvent-MCP@0.9
-AnyEvent::MCP::Server::Request     undef  pkg:cpan/AnyEvent-MCP@0.9
-AnyEvent::MCP::Server::Simple      undef  pkg:cpan/AnyEvent-MCP@0.9
-AnyEvent::MCP::Server::Toolset     undef  pkg:cpan/AnyEvent-MCP@0.9
-AnyEvent::MCP::Workdirs            undef  pkg:cpan/AnyEvent-MCP@0.9
-AnyEvent::MCP::Worker::IMAP        undef  pkg:cpan/AnyEvent-MCP@0.9
+AnyEvent::MCP::Helper              undef  pkg:cpan/AnyEvent-MCP@0.91
+AnyEvent::MCP::IMAP::OAuth2        undef  pkg:cpan/AnyEvent-MCP@0.91
+AnyEvent::MCP::IMAP::Providers     undef  pkg:cpan/AnyEvent-MCP@0.91
+AnyEvent::MCP::Permissions::Ask    undef  pkg:cpan/AnyEvent-MCP@0.91
+AnyEvent::MCP::Server              undef  pkg:cpan/AnyEvent-MCP@0.91
+AnyEvent::MCP::Server::Connect     undef  pkg:cpan/AnyEvent-MCP@0.91
+AnyEvent::MCP::Server::HTTP        undef  pkg:cpan/AnyEvent-MCP@0.91
+AnyEvent::MCP::Server::JSONL       undef  pkg:cpan/AnyEvent-MCP@0.91
+AnyEvent::MCP::Server::Permissions undef  pkg:cpan/AnyEvent-MCP@0.91
+AnyEvent::MCP::Server::Request     undef  pkg:cpan/AnyEvent-MCP@0.91
+AnyEvent::MCP::Server::Simple      undef  pkg:cpan/AnyEvent-MCP@0.91
+AnyEvent::MCP::Server::Toolset     undef  pkg:cpan/AnyEvent-MCP@0.91
+AnyEvent::MCP::Workdirs            undef  pkg:cpan/AnyEvent-MCP@0.91
+AnyEvent::MCP::Worker::IMAP        undef  pkg:cpan/AnyEvent-MCP@0.91
 AnyEvent::MP                        2.02  pkg:cpan/AnyEvent-MP@2.02
 AnyEvent::MP::Config                2.02  pkg:cpan/AnyEvent-MP@2.02
 AnyEvent::MP::DataConn             undef  pkg:cpan/AnyEvent-MP@2.02
@@ -51466,13 +51466,13 @@ Cucumber::Messages::TestStepResult v35.0.0  pkg:cpan/Cucumber-Messages@35.0.0
 Cucumber::Messages::TestStepStarted v35.0.0  pkg:cpan/Cucumber-Messages@35.0.0
 Cucumber::Messages::Timestamp      v35.0.0  pkg:cpan/Cucumber-Messages@35.0.0
 Cucumber::Messages::UndefinedParameterType v35.0.0  pkg:cpan/Cucumber-Messages@35.0.0
-Cucumber::TagExpressions           v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
-Cucumber::TagExpressions::AndNode  v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
-Cucumber::TagExpressions::ExpressionNode v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
-Cucumber::TagExpressions::LiteralNode v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
-Cucumber::TagExpressions::Node     v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
-Cucumber::TagExpressions::NotNode  v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
-Cucumber::TagExpressions::OrNode   v11.0.1  pkg:cpan/Cucumber-TagExpressions@11.0.1
+Cucumber::TagExpressions           v11.1.0  pkg:cpan/Cucumber-TagExpressions@11.1.0
+Cucumber::TagExpressions::AndNode  v11.1.0  pkg:cpan/Cucumber-TagExpressions@11.1.0
+Cucumber::TagExpressions::ExpressionNode v11.1.0  pkg:cpan/Cucumber-TagExpressions@11.1.0
+Cucumber::TagExpressions::LiteralNode v11.1.0  pkg:cpan/Cucumber-TagExpressions@11.1.0
+Cucumber::TagExpressions::Node     v11.1.0  pkg:cpan/Cucumber-TagExpressions@11.1.0
+Cucumber::TagExpressions::NotNode  v11.1.0  pkg:cpan/Cucumber-TagExpressions@11.1.0
+Cucumber::TagExpressions::OrNode   v11.1.0  pkg:cpan/Cucumber-TagExpressions@11.1.0
 Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.181
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curl::Impersonate                   0.03  pkg:cpan/Curl-Impersonate@0.03
@@ -67968,7 +67968,7 @@ Digest::Bcrypt                     1.212  pkg:cpan/Digest-Bcrypt@1.212
 Digest::BubbleBabble                0.02  pkg:cpan/Digest-BubbleBabble@0.02
 Digest::CMAC                        0.04  pkg:cpan/Digest-CMAC@0.04
 Digest::CRC                         0.24  pkg:cpan/Digest-CRC@0.24
-Digest::CRC64NVME                      0  pkg:cpan/Amazon-S3@2.1.3
+Digest::CRC64NVME                      0  pkg:cpan/Amazon-S3@2.1.4
 Digest::Crc32                       0.01  pkg:cpan/Digest-Crc32@0.01
 Digest::CubeHash::XS                0.05  pkg:cpan/Digest-CubeHash-XS@0.05
 Digest::DJB                         1.00  pkg:cpan/Digest-DJB@1.00
@@ -109437,13 +109437,19 @@ Internals                            1.1  pkg:cpan/Internals@1.1
 Internals::CountObjects             0.05  pkg:cpan/Internals-CountObjects@0.05
 Internals::DumpArenas               0.12  pkg:cpan/Internals-DumpArenas@0.12
 Internals::GraphArenas              0.01  pkg:cpan/Internals-GraphArenas@0.01
-InternetData                       1.012001  pkg:cpan/InternetData@1.12.1
-InternetData::Database             1.012001  pkg:cpan/InternetData@1.12.1
-InternetData::Error                1.012001  pkg:cpan/InternetData@1.12.1
-InternetData::Oauth                1.012001  pkg:cpan/InternetData@1.12.1
-InternetData::OauthAccessDeniedError 1.012001  pkg:cpan/InternetData@1.12.1
-InternetData::OauthError           1.012001  pkg:cpan/InternetData@1.12.1
-InternetData::OauthExpiredTokenError 1.012001  pkg:cpan/InternetData@1.12.1
+InternetData                       1.013000  pkg:cpan/InternetData@1.13.0
+InternetData::AsnResult            1.013000  pkg:cpan/InternetData@1.13.0
+InternetData::Bogon                1.013000  pkg:cpan/InternetData@1.13.0
+InternetData::Bogons               undef  pkg:cpan/InternetData@1.13.0
+InternetData::Cache                1.013000  pkg:cpan/InternetData@1.13.0
+InternetData::Database             1.013000  pkg:cpan/InternetData@1.13.0
+InternetData::DomainResult         1.013000  pkg:cpan/InternetData@1.13.0
+InternetData::Error                1.013000  pkg:cpan/InternetData@1.13.0
+InternetData::Oauth                1.013000  pkg:cpan/InternetData@1.13.0
+InternetData::OauthAccessDeniedError 1.013000  pkg:cpan/InternetData@1.13.0
+InternetData::OauthError           1.013000  pkg:cpan/InternetData@1.13.0
+InternetData::OauthExpiredTokenError 1.013000  pkg:cpan/InternetData@1.13.0
+InternetData::Result               1.013000  pkg:cpan/InternetData@1.13.0
 Interpolation                       0.74  pkg:cpan/Interpolation@0.74
 Interpolation::A2A                  0.71  pkg:cpan/Interpolation@0.71
 Interpolation::A2S                  0.71  pkg:cpan/Interpolation@0.71
@@ -134539,6 +134545,7 @@ MojoX::Mysql::DB                   undef  pkg:cpan/MojoX-Mysql@0.22
 MojoX::Mysql::Result               undef  pkg:cpan/MojoX-Mysql@0.22
 MojoX::Mysql::Util                 undef  pkg:cpan/MojoX-Mysql@0.22
 MojoX::NetstringStream              0.06  pkg:cpan/MojoX-NetstringStream@0.06
+MojoX::Pg::Migrations::Env         0.002000  pkg:cpan/MojoX-Pg-Migrations-Env@0.2.0
 MojoX::Ping                        0.512  pkg:cpan/MojoX-Ping@0.512
 MojoX::Plugin::AnyCache             0.04  pkg:cpan/MojoX-Plugin-AnyCache@0.04
 MojoX::Plugin::AnyCache::Backend   undef  pkg:cpan/MojoX-Plugin-AnyCache@0.04
@@ -191586,8 +191593,8 @@ Perl::Tags::Tag::Role               0.32  pkg:cpan/Perl-Tags@0.32
 Perl::Tags::Tag::Stub               0.32  pkg:cpan/Perl-Tags@0.32
 Perl::Tags::Tag::Sub                0.32  pkg:cpan/Perl-Tags@0.32
 Perl::Tags::Tag::Var                0.32  pkg:cpan/Perl-Tags@0.32
-Perl::Tests::Covering              0.002  pkg:cpan/Perl-Tests-Covering@0.002
-Perl::Tests::Covering::Recorder    0.002  pkg:cpan/Perl-Tests-Covering@0.002
+Perl::Tests::Covering              0.003  pkg:cpan/Perl-Tests-Covering@0.003
+Perl::Tests::Covering::Recorder    0.003  pkg:cpan/Perl-Tests-Covering@0.003
 Perl::Tidy                         20260826  pkg:cpan/Perl-Tidy@20260826
 Perl::Tidy::Debugger               20260826  pkg:cpan/Perl-Tidy@20260826
 Perl::Tidy::DevNull                20230701  pkg:cpan/Perl-Tidy@20230701
@@ -200343,7 +200350,7 @@ RT::Extension::AI::Provider        undef  pkg:cpan/RT-Extension-AI@0.07
 RT::Extension::AI::Provider::Claude undef  pkg:cpan/RT-Extension-AI@0.07
 RT::Extension::AI::Provider::Gemini undef  pkg:cpan/RT-Extension-AI@0.07
 RT::Extension::AI::Provider::OpenAI undef  pkg:cpan/RT-Extension-AI@0.07
-RT::Extension::AWS::Assets          0.09  pkg:cpan/RT-Extension-AWS-Assets@0.09
+RT::Extension::AWS::Assets          0.10  pkg:cpan/RT-Extension-AWS-Assets@0.10
 RT::Extension::ActivityReports      2.00  pkg:cpan/RT-Extension-ActivityReports@2.00
 RT::Extension::AddAdminCcsOnQueueChange  1.01  pkg:cpan/RT-Extension-AddAdminCcsOnQueueChange@1.01
 RT::Extension::AddAttachmentsFromTransactions  2.10  pkg:cpan/RT-Extension-AddAttachmentsFromTransactions@2.10
@@ -219548,7 +219555,7 @@ Stats::Fermi::FermiDiracStats      undef  pkg:cpan/Stats-Fermi@0.1.7
 Stats::Hawking                     0.001003  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HTRandom           undef  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HawkingTemperature undef  pkg:cpan/Stats-Hawking@0.1.3
-Stats::LikeR                       0.342  pkg:cpan/Stats-LikeR@0.342
+Stats::LikeR                       0.3421  pkg:cpan/Stats-LikeR@0.3421
 Stats::LikeR::Pred                  0.16  pkg:cpan/Stats-LikeR@0.16
 Stats::LikeR::Usage                0.3413  pkg:cpan/Stats-LikeR@0.3413
 Stats::LikeR::col                   0.28  pkg:cpan/Stats-LikeR@0.28
@@ -227268,7 +227275,7 @@ Test::LocalFunctions::Receptor     undef  pkg:cpan/Test-LocalFunctions@0.23
 Test::LocalFunctions::Util         undef  pkg:cpan/Test-LocalFunctions@0.23
 Test::Locale::PO                    1.02  pkg:cpan/Test-Locale-PO@1.02
 Test::Log4perl                     0.1001  pkg:cpan/Test-Log4perl@0.1001
-Test::Log::Abstraction             0.002001  pkg:cpan/Test-Log-Abstraction@0.002.1
+Test::Log::Abstraction             0.002002  pkg:cpan/Test-Log-Abstraction@0.002.2
 Test::Log::Dispatch                 0.03  pkg:cpan/Test-Log-Dispatch@0.03
 Test::Log::Log4perl                 0.32  pkg:cpan/Test-Log-Log4perl@0.32
 Test::LogFile                       0.04  pkg:cpan/Test-LogFile@0.04
