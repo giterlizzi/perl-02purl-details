@@ -5,7 +5,7 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 14 Nov 2026 08:24:59 GMT
+Last-Updated: Sat, 14 Nov 2026 16:17:24 GMT
 Line-Count: 263975
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
@@ -22941,14 +22941,14 @@ Barcode::DataMatrix::PNG            0.04  pkg:cpan/Barcode-DataMatrix-PNG@0.04
 Barcode::DataMatrix::Reed          undef  pkg:cpan/Barcode-DataMatrix@0.10
 Barcode::ZBar                       0.10  pkg:cpan/Barcode-ZBar@0.10
 Barcode::ZBar::Error                0.10  pkg:cpan/Barcode-ZBar@0.10
-BarefootJS                         v0.41.1  pkg:cpan/BarefootJS@0.41.1
-BarefootJS::Backend::Mojo          v0.41.1  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.41.1
-BarefootJS::Backend::Xslate        v0.41.1  pkg:cpan/BarefootJS-Backend-Xslate@0.41.1
-BarefootJS::Date                   v0.41.1  pkg:cpan/BarefootJS@0.41.1
-BarefootJS::DevReload              v0.41.1  pkg:cpan/BarefootJS@0.41.1
-BarefootJS::Evaluator              v0.41.1  pkg:cpan/BarefootJS@0.41.1
-BarefootJS::SearchParams           v0.41.1  pkg:cpan/BarefootJS@0.41.1
-BarefootJS::Undefined              v0.41.1  pkg:cpan/BarefootJS@0.41.1
+BarefootJS                         v0.41.2  pkg:cpan/BarefootJS@0.41.2
+BarefootJS::Backend::Mojo          v0.41.2  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.41.2
+BarefootJS::Backend::Xslate        v0.41.2  pkg:cpan/BarefootJS-Backend-Xslate@0.41.2
+BarefootJS::Date                   v0.41.2  pkg:cpan/BarefootJS@0.41.2
+BarefootJS::DevReload              v0.41.2  pkg:cpan/BarefootJS@0.41.2
+BarefootJS::Evaluator              v0.41.2  pkg:cpan/BarefootJS@0.41.2
+BarefootJS::SearchParams           v0.41.2  pkg:cpan/BarefootJS@0.41.2
+BarefootJS::Undefined              v0.41.2  pkg:cpan/BarefootJS@0.41.2
 BarefootJS::_TZProbe               0.029000  pkg:cpan/BarefootJS@0.29.0
 Barracuda::Api                      0.03  pkg:cpan/Barracuda-Api@0.03
 BaseLib                             0.05  pkg:cpan/BaseLib@0.05
@@ -134854,8 +134854,8 @@ Mojolicious::Plugin::AutoRoutePm    0.23  pkg:cpan/Mojolicious-Plugin-AutoRouteP
 Mojolicious::Plugin::AutoSecrets   0.006  pkg:cpan/Mojolicious-Plugin-AutoSecrets@0.006
 Mojolicious::Plugin::BModel          0.1  pkg:cpan/Mojolicious-Plugin-BModel@0.1
 Mojolicious::Plugin::Badge          1.12  pkg:cpan/Mojolicious-Plugin-Badge@1.12
-Mojolicious::Plugin::BarefootJS    v0.41.1  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.41.1
-Mojolicious::Plugin::BarefootJS::DevReload v0.41.1  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.41.1
+Mojolicious::Plugin::BarefootJS    v0.41.2  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.41.2
+Mojolicious::Plugin::BarefootJS::DevReload v0.41.2  pkg:cpan/Mojolicious-Plugin-BarefootJS@0.41.2
 Mojolicious::Plugin::BasicAuth      0.08  pkg:cpan/Mojolicious-Plugin-BasicAuth@0.08
 Mojolicious::Plugin::BasicAuthPlus   1.0  pkg:cpan/Mojolicious-Plugin-BasicAuthPlus@1.0
 Mojolicious::Plugin::Bcrypt         0.14  pkg:cpan/Mojolicious-Plugin-Bcrypt@0.14
@@ -232898,15 +232898,15 @@ Travel::Routing::DE::HAFAS::Location  0.01  pkg:cpan/Travel-Routing-DE-HAFAS@0.0
 Travel::Routing::DE::HAFAS::Utils   0.11  pkg:cpan/Travel-Routing-DE-HAFAS@0.11
 Travel::Routing::DE::VRR            2.25  pkg:cpan/Travel-Routing-DE-VRR@2.25
 Travel::Status::DE::ASEAG           2.01  pkg:cpan/Travel-Status-DE-URA@2.01
-Travel::Status::DE::DBRIS           0.39  pkg:cpan/Travel-Status-DE-DBRIS@0.39
-Travel::Status::DE::DBRIS::Formation  0.39  pkg:cpan/Travel-Status-DE-DBRIS@0.39
-Travel::Status::DE::DBRIS::Formation::Carriage  0.39  pkg:cpan/Travel-Status-DE-DBRIS@0.39
-Travel::Status::DE::DBRIS::Formation::Group  0.39  pkg:cpan/Travel-Status-DE-DBRIS@0.39
-Travel::Status::DE::DBRIS::Formation::Sector  0.39  pkg:cpan/Travel-Status-DE-DBRIS@0.39
-Travel::Status::DE::DBRIS::Journey  0.39  pkg:cpan/Travel-Status-DE-DBRIS@0.39
-Travel::Status::DE::DBRIS::JourneyAtStop  0.39  pkg:cpan/Travel-Status-DE-DBRIS@0.39
-Travel::Status::DE::DBRIS::Location  0.39  pkg:cpan/Travel-Status-DE-DBRIS@0.39
-Travel::Status::DE::DBRIS::Operators  0.39  pkg:cpan/Travel-Status-DE-DBRIS@0.39
+Travel::Status::DE::DBRIS           0.40  pkg:cpan/Travel-Status-DE-DBRIS@0.40
+Travel::Status::DE::DBRIS::Formation  0.40  pkg:cpan/Travel-Status-DE-DBRIS@0.40
+Travel::Status::DE::DBRIS::Formation::Carriage  0.40  pkg:cpan/Travel-Status-DE-DBRIS@0.40
+Travel::Status::DE::DBRIS::Formation::Group  0.40  pkg:cpan/Travel-Status-DE-DBRIS@0.40
+Travel::Status::DE::DBRIS::Formation::Sector  0.40  pkg:cpan/Travel-Status-DE-DBRIS@0.40
+Travel::Status::DE::DBRIS::Journey  0.40  pkg:cpan/Travel-Status-DE-DBRIS@0.40
+Travel::Status::DE::DBRIS::JourneyAtStop  0.40  pkg:cpan/Travel-Status-DE-DBRIS@0.40
+Travel::Status::DE::DBRIS::Location  0.40  pkg:cpan/Travel-Status-DE-DBRIS@0.40
+Travel::Status::DE::DBRIS::Operators  0.40  pkg:cpan/Travel-Status-DE-DBRIS@0.40
 Travel::Status::DE::DBWagenreihung  0.18  pkg:cpan/Travel-Status-DE-DBWagenreihung@0.18
 Travel::Status::DE::DBWagenreihung::Carriage  0.18  pkg:cpan/Travel-Status-DE-DBWagenreihung@0.18
 Travel::Status::DE::DBWagenreihung::Group  0.18  pkg:cpan/Travel-Status-DE-DBWagenreihung@0.18
@@ -241299,17 +241299,17 @@ VOMS::Lite::RSAKey                  0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::SAMLHelper              0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::VOMS                    0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::X509                    0.20  pkg:cpan/VOMS-Lite@0.20
-VPNDetection                       3.013002  pkg:cpan/VPNDetection@3.13.2
-VPNDetection::Bogon                3.013002  pkg:cpan/VPNDetection@3.13.2
-VPNDetection::Bogons               undef  pkg:cpan/VPNDetection@3.13.2
-VPNDetection::Cache                3.013002  pkg:cpan/VPNDetection@3.13.2
-VPNDetection::Database             3.013002  pkg:cpan/VPNDetection@3.13.2
-VPNDetection::Error                3.013002  pkg:cpan/VPNDetection@3.13.2
-VPNDetection::Oauth                3.013002  pkg:cpan/VPNDetection@3.13.2
-VPNDetection::OauthAccessDeniedError 3.013002  pkg:cpan/VPNDetection@3.13.2
-VPNDetection::OauthError           3.013002  pkg:cpan/VPNDetection@3.13.2
-VPNDetection::OauthExpiredTokenError 3.013002  pkg:cpan/VPNDetection@3.13.2
-VPNDetection::Result               3.013002  pkg:cpan/VPNDetection@3.13.2
+VPNDetection                       3.014000  pkg:cpan/VPNDetection@3.14.0
+VPNDetection::Bogon                3.014000  pkg:cpan/VPNDetection@3.14.0
+VPNDetection::Bogons               undef  pkg:cpan/VPNDetection@3.14.0
+VPNDetection::Cache                3.014000  pkg:cpan/VPNDetection@3.14.0
+VPNDetection::Database             3.014000  pkg:cpan/VPNDetection@3.14.0
+VPNDetection::Error                3.014000  pkg:cpan/VPNDetection@3.14.0
+VPNDetection::Oauth                3.014000  pkg:cpan/VPNDetection@3.14.0
+VPNDetection::OauthAccessDeniedError 3.014000  pkg:cpan/VPNDetection@3.14.0
+VPNDetection::OauthError           3.014000  pkg:cpan/VPNDetection@3.14.0
+VPNDetection::OauthExpiredTokenError 3.014000  pkg:cpan/VPNDetection@3.14.0
+VPNDetection::Result               3.014000  pkg:cpan/VPNDetection@3.14.0
 VR::API                             1.06  pkg:cpan/VR-API@1.06
 VR::API::Partner                    1.01  pkg:cpan/VR-API@1.05
 VRML                                1.10  pkg:cpan/VRML@1.10
