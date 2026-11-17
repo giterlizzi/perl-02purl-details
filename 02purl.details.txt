@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Tue, 17 Nov 2026 06:12:16 GMT
-Line-Count: 264113
+Last-Updated: Tue, 17 Nov 2026 17:16:11 GMT
+Line-Count: 264120
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -11174,10 +11174,10 @@ App::Greple::git                    1.00  pkg:cpan/App-Greple-git@1.00
 App::Greple::ical                   1.00  pkg:cpan/App-Greple-ical@1.00
 App::Greple::jq                     0.06  pkg:cpan/App-Greple-jq@0.06
 App::Greple::line                  undef  pkg:cpan/App-Greple@9.23
-App::Greple::md                     1.19  pkg:cpan/App-mdee@1.19
-App::Greple::md::Blocks             1.19  pkg:cpan/App-mdee@1.19
-App::Greple::md::Step              undef  pkg:cpan/App-mdee@1.19
-App::Greple::md::widen              1.19  pkg:cpan/App-mdee@1.19
+App::Greple::md                     1.20  pkg:cpan/App-mdee@1.20
+App::Greple::md::Blocks             1.20  pkg:cpan/App-mdee@1.20
+App::Greple::md::Step              undef  pkg:cpan/App-mdee@1.20
+App::Greple::md::widen              1.20  pkg:cpan/App-mdee@1.20
 App::Greple::msdoc                  1.07  pkg:cpan/App-Greple-msdoc@1.07
 App::Greple::perl                  undef  pkg:cpan/App-Greple@10.05
 App::Greple::pgp                   undef  pkg:cpan/App-Greple@10.05
@@ -16054,11 +16054,11 @@ App::annex_review_unused           0.006  pkg:cpan/Git-Annex@0.006
 App::annex_to_annex                0.008  pkg:cpan/Git-Annex@0.008
 App::annex_to_annex_dropunused     0.008  pkg:cpan/Git-Annex@0.008
 App::annex_to_annex_reinject       0.008  pkg:cpan/Git-Annex@0.008
-App::ansicolumn                     1.65  pkg:cpan/App-ansicolumn@1.65
-App::ansicolumn::Border            undef  pkg:cpan/App-ansicolumn@1.65
-App::ansicolumn::Command           undef  pkg:cpan/App-ansicolumn@1.65
-App::ansicolumn::Document          undef  pkg:cpan/App-ansicolumn@1.65
-App::ansicolumn::default           undef  pkg:cpan/App-ansicolumn@1.65
+App::ansicolumn                     1.66  pkg:cpan/App-ansicolumn@1.66
+App::ansicolumn::Border            undef  pkg:cpan/App-ansicolumn@1.66
+App::ansicolumn::Command           undef  pkg:cpan/App-ansicolumn@1.66
+App::ansicolumn::Document          undef  pkg:cpan/App-ansicolumn@1.66
+App::ansicolumn::default           undef  pkg:cpan/App-ansicolumn@1.66
 App::ansiecho                       1.10  pkg:cpan/App-ansiecho@1.10
 App::ansiecho::Util                undef  pkg:cpan/App-ansiecho@1.10
 App::ansiexpand                     1.06  pkg:cpan/App-ansiexpand@1.06
@@ -16093,7 +16093,7 @@ App::cal::idn                      0.137  pkg:cpan/App-cal-idn@0.137
 App::calendr                        0.26  pkg:cpan/App-calendr@0.26
 App::calendr::Option                0.26  pkg:cpan/App-calendr@0.26
 App::calx                          0.009  pkg:cpan/App-calx@0.009
-App::cat::v                         1.05  pkg:cpan/App-cat-v@1.05
+App::cat::v                         1.06  pkg:cpan/App-cat-v@1.06
 App::ccdiff                         0.35  pkg:cpan/App-ccdiff@0.35?ext=tgz
 App::cdbookmark                    0.001  pkg:cpan/App-cdbookmark@0.001
 App::cdif::Command                 undef  pkg:cpan/App-sdif@4.49
@@ -16870,7 +16870,7 @@ App::manwrap::pm                   0.006  pkg:cpan/App-manwrap-pm@0.006
 App::matrixpack                    0.0014  pkg:cpan/App-matrixpack@0.0014
 App::mbxilinx                       0.13  pkg:cpan/Module-Build-Xilinx@0.13
 App::md2html                       0.001001  pkg:cpan/App-md2html@0.01.1
-App::mdee                           1.19  pkg:cpan/App-mdee@1.19
+App::mdee                           1.20  pkg:cpan/App-mdee@1.20
 App::merge_cpanfile                 0.01  pkg:cpan/App-merge_cpanfile@0.01
 App::metacpansearch                undef  pkg:cpan/App-metacpansearch@0.01
 App::metastasize                   0.002  pkg:cpan/App-metastasize@0.002
@@ -16939,7 +16939,7 @@ App::nrand                         0.002  pkg:cpan/App-nrand@0.002
 App::numero2bgc                    0.021  pkg:cpan/App-numero2bgc@0.021
 App::numseq                        0.002  pkg:cpan/App-numseq@0.002
 App::numspeed                      0.001  pkg:cpan/App-numspeed@0.001
-App::nup                            1.18  pkg:cpan/App-nup@1.18
+App::nup                            1.19  pkg:cpan/App-nup@1.19
 App::oaf                           undef  pkg:cpan/App-oaf@0.04
 App::olson                             0  pkg:cpan/App-olson@0.000
 App::olson::LocalDateTime              0  pkg:cpan/App-olson@0.000
@@ -16974,7 +16974,7 @@ App::optex::textconv::pandoc        1.08  pkg:cpan/App-optex-textconv@1.08
 App::optex::textconv::pdf           1.08  pkg:cpan/App-optex-textconv@1.08
 App::optex::textconv::tika          1.08  pkg:cpan/App-optex-textconv@1.08
 App::optex::textconv::xls           1.08  pkg:cpan/App-optex-textconv@1.08
-App::optex::up                      1.18  pkg:cpan/App-nup@1.18
+App::optex::up                      1.19  pkg:cpan/App-nup@1.19
 App::optex::util                   undef  pkg:cpan/App-optex@1.07
 App::optex::util::argv             undef  pkg:cpan/App-optex@1.07
 App::optex::util::filter           undef  pkg:cpan/App-optex@1.07
@@ -48632,7 +48632,7 @@ Config::AST                         1.07  pkg:cpan/Config-AST@1.07
 Config::AWS                         0.12  pkg:cpan/Config-AWS@0.12
 Config::Abstract                    0.16  pkg:cpan/Config-Abstract@0.16
 Config::Abstract::Ini               0.16  pkg:cpan/Config-Abstract@0.16
-Config::Abstraction                 0.42  pkg:cpan/Config-Abstraction@0.42
+Config::Abstraction                 0.43  pkg:cpan/Config-Abstraction@0.43
 Config::Access::Driver               1.0  pkg:cpan/Config-Access-Driver@1.0.0
 Config::Ant                         0.01  pkg:cpan/Config-Ant@0.01
 Config::Any                         0.33  pkg:cpan/Config-Any@0.33
@@ -48732,15 +48732,15 @@ Config::From::Backend::File         0.08  pkg:cpan/Config-From@0.08
 Config::FromHash                   0.0800  pkg:cpan/Config-FromHash@0.0800
 Config::Frontend                    0.18  pkg:cpan/Config-Frontend@0.18
 Config::Frontend::Tie               0.02  pkg:cpan/Config-Frontend-Tie@0.02
-Config::General                     2.67  pkg:cpan/Config-General@2.67
-Config::General::Extended           2.07  pkg:cpan/Config-General@2.67
+Config::General                     2.68  pkg:cpan/Config-General@2.68
+Config::General::Extended           2.07  pkg:cpan/Config-General@2.68
 Config::General::Hierarchical       0.07  pkg:cpan/Config-General-Hierarchical@0.07
 Config::General::Hierarchical::Dump  0.07  pkg:cpan/Config-General-Hierarchical@0.07
 Config::General::Hierarchical::DumpTest  0.07  pkg:cpan/Config-General-Hierarchical@0.07
 Config::General::Hierarchical::Options  0.07  pkg:cpan/Config-General-Hierarchical@0.07
 Config::General::Hierarchical::Test  0.07  pkg:cpan/Config-General-Hierarchical@0.07
 Config::General::Hierarchical::Value  0.07  pkg:cpan/Config-General-Hierarchical@0.07
-Config::General::Interpolated       2.16  pkg:cpan/Config-General@2.67
+Config::General::Interpolated       2.16  pkg:cpan/Config-General@2.68
 Config::General::Match              0.05  pkg:cpan/Config-General-Match@0.05
 Config::Generator                    1.1  pkg:cpan/Config-Generator@1.1
 Config::Generator::Config            1.1  pkg:cpan/Config-Generator@1.1
@@ -54537,11 +54537,11 @@ DBIx::Librarian::Statement           0.4  pkg:cpan/DBIx-Librarian@0.6
 DBIx::Librarian::Statement::SelectExactlyOne   0.4  pkg:cpan/DBIx-Librarian@0.6
 DBIx::Librarian::Statement::SelectMany   0.4  pkg:cpan/DBIx-Librarian@0.6
 DBIx::Librarian::Statement::SelectOne   0.4  pkg:cpan/DBIx-Librarian@0.6
-DBIx::Lite                          0.40  pkg:cpan/DBIx-Lite@0.40
-DBIx::Lite::ResultSet               0.40  pkg:cpan/DBIx-Lite@0.40
-DBIx::Lite::Row                     0.40  pkg:cpan/DBIx-Lite@0.40
-DBIx::Lite::Schema                  0.40  pkg:cpan/DBIx-Lite@0.40
-DBIx::Lite::Schema::Table           0.40  pkg:cpan/DBIx-Lite@0.40
+DBIx::Lite                          0.41  pkg:cpan/DBIx-Lite@0.41
+DBIx::Lite::ResultSet               0.41  pkg:cpan/DBIx-Lite@0.41
+DBIx::Lite::Row                     0.41  pkg:cpan/DBIx-Lite@0.41
+DBIx::Lite::Schema                  0.41  pkg:cpan/DBIx-Lite@0.41
+DBIx::Lite::Schema::Table           0.41  pkg:cpan/DBIx-Lite@0.41
 DBIx::Locker                       1.103  pkg:cpan/DBIx-Locker@1.103
 DBIx::Locker::Lock                 1.103  pkg:cpan/DBIx-Locker@1.103
 DBIx::Log4perl                      0.26  pkg:cpan/DBIx-Log4perl@0.26
@@ -62525,21 +62525,21 @@ Data::Session::Serialize::FreezeThaw  1.18  pkg:cpan/Data-Session@1.18?ext=tgz
 Data::Session::Serialize::JSON      1.18  pkg:cpan/Data-Session@1.18?ext=tgz
 Data::Session::Serialize::Storable  1.18  pkg:cpan/Data-Session@1.18?ext=tgz
 Data::Session::Serialize::YAML      1.18  pkg:cpan/Data-Session@1.18?ext=tgz
-Data::Shared                        0.01  pkg:cpan/Data-Shared@0.01
-Data::Shared::Adapter               0.01  pkg:cpan/Data-Shared@0.01
-Data::Shared::Adapter::Indexed      0.01  pkg:cpan/Data-Shared@0.01
-Data::Shared::Adapter::Keyed        0.01  pkg:cpan/Data-Shared@0.01
-Data::Shared::Adapter::Map          0.01  pkg:cpan/Data-Shared@0.01
-Data::Shared::Adapter::Queue        0.01  pkg:cpan/Data-Shared@0.01
-Data::Shared::Adapter::Set          0.01  pkg:cpan/Data-Shared@0.01
-Data::Shared::Adapter::Sketch       0.01  pkg:cpan/Data-Shared@0.01
-Data::Shared::Adapter::Sync         0.01  pkg:cpan/Data-Shared@0.01
-Data::Shared::Compiled              0.01  pkg:cpan/Data-Shared@0.01
-Data::Shared::Composite             0.01  pkg:cpan/Data-Shared@0.01
-Data::Shared::Manifest              0.01  pkg:cpan/Data-Shared@0.01
-Data::Shared::Node                  0.01  pkg:cpan/Data-Shared@0.01
-Data::Shared::Registry              0.01  pkg:cpan/Data-Shared@0.01
-Data::Shared::Storage               0.01  pkg:cpan/Data-Shared@0.01
+Data::Shared                        0.02  pkg:cpan/Data-Shared@0.02
+Data::Shared::Adapter               0.02  pkg:cpan/Data-Shared@0.02
+Data::Shared::Adapter::Indexed      0.02  pkg:cpan/Data-Shared@0.02
+Data::Shared::Adapter::Keyed        0.02  pkg:cpan/Data-Shared@0.02
+Data::Shared::Adapter::Map          0.02  pkg:cpan/Data-Shared@0.02
+Data::Shared::Adapter::Queue        0.02  pkg:cpan/Data-Shared@0.02
+Data::Shared::Adapter::Set          0.02  pkg:cpan/Data-Shared@0.02
+Data::Shared::Adapter::Sketch       0.02  pkg:cpan/Data-Shared@0.02
+Data::Shared::Adapter::Sync         0.02  pkg:cpan/Data-Shared@0.02
+Data::Shared::Compiled              0.02  pkg:cpan/Data-Shared@0.02
+Data::Shared::Composite             0.02  pkg:cpan/Data-Shared@0.02
+Data::Shared::Manifest              0.02  pkg:cpan/Data-Shared@0.02
+Data::Shared::Node                  0.02  pkg:cpan/Data-Shared@0.02
+Data::Shared::Registry              0.02  pkg:cpan/Data-Shared@0.02
+Data::Shared::Storage               0.02  pkg:cpan/Data-Shared@0.02
 Data::Shark                         v2.1  pkg:cpan/Data-Shark@v2.1.0
 Data::Shark::DBI                    v2.1  pkg:cpan/Data-Shark@v2.1.0
 Data::Shark::DIO                    v2.2  pkg:cpan/Data-Shark@v2.1.0
@@ -109493,19 +109493,19 @@ Internals                            1.1  pkg:cpan/Internals@1.1
 Internals::CountObjects             0.05  pkg:cpan/Internals-CountObjects@0.05
 Internals::DumpArenas               0.12  pkg:cpan/Internals-DumpArenas@0.12
 Internals::GraphArenas              0.01  pkg:cpan/Internals-GraphArenas@0.01
-InternetData                       1.015000  pkg:cpan/InternetData@1.15.0
-InternetData::AsnResult            1.015000  pkg:cpan/InternetData@1.15.0
-InternetData::Bogon                1.015000  pkg:cpan/InternetData@1.15.0
-InternetData::Bogons               undef  pkg:cpan/InternetData@1.15.0
-InternetData::Cache                1.015000  pkg:cpan/InternetData@1.15.0
-InternetData::Database             1.015000  pkg:cpan/InternetData@1.15.0
-InternetData::DomainResult         1.015000  pkg:cpan/InternetData@1.15.0
-InternetData::Error                1.015000  pkg:cpan/InternetData@1.15.0
-InternetData::Oauth                1.015000  pkg:cpan/InternetData@1.15.0
-InternetData::OauthAccessDeniedError 1.015000  pkg:cpan/InternetData@1.15.0
-InternetData::OauthError           1.015000  pkg:cpan/InternetData@1.15.0
-InternetData::OauthExpiredTokenError 1.015000  pkg:cpan/InternetData@1.15.0
-InternetData::Result               1.015000  pkg:cpan/InternetData@1.15.0
+InternetData                       1.016000  pkg:cpan/InternetData@1.16.0
+InternetData::AsnResult            1.016000  pkg:cpan/InternetData@1.16.0
+InternetData::Bogon                1.016000  pkg:cpan/InternetData@1.16.0
+InternetData::Bogons               undef  pkg:cpan/InternetData@1.16.0
+InternetData::Cache                1.016000  pkg:cpan/InternetData@1.16.0
+InternetData::Database             1.016000  pkg:cpan/InternetData@1.16.0
+InternetData::DomainResult         1.016000  pkg:cpan/InternetData@1.16.0
+InternetData::Error                1.016000  pkg:cpan/InternetData@1.16.0
+InternetData::Oauth                1.016000  pkg:cpan/InternetData@1.16.0
+InternetData::OauthAccessDeniedError 1.016000  pkg:cpan/InternetData@1.16.0
+InternetData::OauthError           1.016000  pkg:cpan/InternetData@1.16.0
+InternetData::OauthExpiredTokenError 1.016000  pkg:cpan/InternetData@1.16.0
+InternetData::Result               1.016000  pkg:cpan/InternetData@1.16.0
 Interpolation                       0.74  pkg:cpan/Interpolation@0.74
 Interpolation::A2A                  0.71  pkg:cpan/Interpolation@0.71
 Interpolation::A2S                  0.71  pkg:cpan/Interpolation@0.71
@@ -129349,11 +129349,11 @@ MathWorks::platformList            undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::product                 undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepItem          undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepList          undef  pkg:cpan/XML-Pastor@0.6.0
-Matplotlib::Simple                 0.3343  pkg:cpan/Matplotlib-Simple@0.3343
-Matplotlib::Simple::Colors         0.3343  pkg:cpan/Matplotlib-Simple@0.3343
-Matplotlib::Simple::Ggplot2        0.3343  pkg:cpan/Matplotlib-Simple@0.3343
-Matplotlib::Simple::Gnuplot        0.3343  pkg:cpan/Matplotlib-Simple@0.3343
-Matplotlib::Simple::Matplotlib     0.3343  pkg:cpan/Matplotlib-Simple@0.3343
+Matplotlib::Simple                 0.3344  pkg:cpan/Matplotlib-Simple@0.3344
+Matplotlib::Simple::Colors         0.3344  pkg:cpan/Matplotlib-Simple@0.3344
+Matplotlib::Simple::Ggplot2        0.3344  pkg:cpan/Matplotlib-Simple@0.3344
+Matplotlib::Simple::Gnuplot        0.3344  pkg:cpan/Matplotlib-Simple@0.3344
+Matplotlib::Simple::Matplotlib     0.3344  pkg:cpan/Matplotlib-Simple@0.3344
 Matrix::Simple                      1.04  pkg:cpan/Matrix-Simple@1.04
 Matts::Message                     undef  pkg:cpan/Matts-Message-Parser@1.0
 Matts::Message::Parser               1.0  pkg:cpan/Matts-Message-Parser@1.0
@@ -195914,7 +195914,7 @@ Prancer::Session::Store::Memory     1.05  pkg:cpan/Prancer@1.05
 Prancer::Session::Store::Storable   1.05  pkg:cpan/Prancer@1.05
 Prancer::Session::Store::YAML      undef  pkg:cpan/Prancer@0.09
 PrankCall                          0.004  pkg:cpan/PrankCall@0.004
-Praxo::Core                        v0.6.0  pkg:cpan/Praxo-Core@0.6.0
+Praxo::Core                        v0.6.1  pkg:cpan/Praxo-Core@0.6.1
 Predicate                          undef  pkg:cpan/SemMed-Interface@0.05
 PrefixCompiler                         0  pkg:cpan/SVN-TeamTools-Indexer@0.002
 PrefixMatcher                          0  pkg:cpan/SVN-TeamTools-Indexer@0.002
@@ -203783,7 +203783,7 @@ Robotics::Tecan::Genesis::Liha     undef  pkg:cpan/Robotics@0.23?ext=tar.bz2
 Robotics::Tecan::Genesis::Roma     undef  pkg:cpan/Robotics@0.23?ext=tar.bz2
 Robotics::Tecan::Genesis::Session  undef  pkg:cpan/Robotics@0.23?ext=tar.bz2
 Robotics::Tecan::Server             0.22  pkg:cpan/Robotics@0.23?ext=tar.bz2
-Robots::Validate                   v0.4.15  pkg:cpan/Robots-Validate@v0.4.15
+Robots::Validate                   v0.4.16  pkg:cpan/Robots-Validate@v0.4.16
 RocksDB                             0.05  pkg:cpan/RocksDB@0.05
 Rodney::XML::QuickStruct             1.1  pkg:cpan/Rodney-XML-QuickStruct@1.1
 RogersMine::App                    undef  pkg:cpan/RogersMine@0.1.12
@@ -207566,6 +207566,13 @@ STIX::Tool                         undef  pkg:cpan/STIX@1.01
 STIX::Util                         undef  pkg:cpan/STIX@1.01
 STIX::Vulnerability                undef  pkg:cpan/STIX@1.01
 STRING_PTR                          2.08  pkg:cpan/Tuxedo@2.08
+STRling                            4.000001  pkg:cpan/STRling@4.0.1
+STRling::InteropProtocolError      undef  pkg:cpan/STRling@4.0.1
+STRling::NativeAdapterError        undef  pkg:cpan/STRling@4.0.1
+STRling::NativeClient              undef  pkg:cpan/STRling@4.0.1
+STRling::Requests                  undef  pkg:cpan/STRling@4.0.1
+STRling::StdlibGenerated           undef  pkg:cpan/STRling@4.0.1
+STRling::StrictJSON                undef  pkg:cpan/STRling@4.0.1
 STUN::Attributes                    0.01  pkg:cpan/STUN-Attributes@0.01
 STUN::Client                        0.04  pkg:cpan/STUN-Client@0.04
 STUN::RFC_5389                       0.1  pkg:cpan/STUN-RFC_5389@0.1
@@ -229903,10 +229910,10 @@ Text::PDF::TTFont                  undef  pkg:cpan/Text-PDF@0.31
 Text::PDF::TTFont0                 undef  pkg:cpan/Text-PDF@0.31
 Text::PDF::TTIOString              undef  pkg:cpan/Text-PDF@0.31
 Text::PDF::Utils                   undef  pkg:cpan/Text-PDF@0.31
-Text::PO                           1.000002  pkg:cpan/Text-PO@v1.0.2
-Text::PO::Element                  0.004002  pkg:cpan/Text-PO@v1.0.2
-Text::PO::Gettext                  1.000000  pkg:cpan/Text-PO@v1.0.2
-Text::PO::MO                       0.004000  pkg:cpan/Text-PO@v1.0.2
+Text::PO                           1.000003  pkg:cpan/Text-PO@v1.0.3
+Text::PO::Element                  0.004002  pkg:cpan/Text-PO@v1.0.3
+Text::PO::Gettext                  1.000001  pkg:cpan/Text-PO@v1.0.3
+Text::PO::MO                       0.004000  pkg:cpan/Text-PO@v1.0.3
 Text::PO::Parser                   0.000001  pkg:cpan/Text-PO-Parser@0.0.1?ext=tar.bz2
 Text::PORE                          1.02  pkg:cpan/Text-PORE@1.02
 Text::PORE::Globals                undef  pkg:cpan/Text-PORE@1.02
