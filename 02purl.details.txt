@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Fri, 20 Nov 2026 18:11:38 GMT
-Line-Count: 264261
+Last-Updated: Sat, 21 Nov 2026 01:00:08 GMT
+Line-Count: 264263
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -10852,15 +10852,15 @@ App::FuguWeb::Rotate               0.011002  pkg:cpan/App-FuguWeb@0.11.2
 App::FuguWeb::Site                 0.011002  pkg:cpan/App-FuguWeb@0.11.2
 App::FuguWeb::Status               0.011002  pkg:cpan/App-FuguWeb@0.11.2
 App::FzfUtils                      0.004  pkg:cpan/App-FzfUtils@0.004
-App::GHGen                          0.12  pkg:cpan/App-GHGen@0.12
-App::GHGen::Analyzer                0.12  pkg:cpan/App-GHGen@0.12
-App::GHGen::CostEstimator           0.12  pkg:cpan/App-GHGen@0.12
-App::GHGen::Detector                0.12  pkg:cpan/App-GHGen@0.12
-App::GHGen::Fixer                   0.12  pkg:cpan/App-GHGen@0.12
-App::GHGen::Generator               0.12  pkg:cpan/App-GHGen@0.12
-App::GHGen::Interactive             0.12  pkg:cpan/App-GHGen@0.12
-App::GHGen::PerlCustomizer          0.12  pkg:cpan/App-GHGen@0.12
-App::GHGen::Reporter                0.12  pkg:cpan/App-GHGen@0.12
+App::GHGen                          0.13  pkg:cpan/App-GHGen@0.13
+App::GHGen::Analyzer                0.13  pkg:cpan/App-GHGen@0.13
+App::GHGen::CostEstimator           0.13  pkg:cpan/App-GHGen@0.13
+App::GHGen::Detector                0.13  pkg:cpan/App-GHGen@0.13
+App::GHGen::Fixer                   0.13  pkg:cpan/App-GHGen@0.13
+App::GHGen::Generator               0.13  pkg:cpan/App-GHGen@0.13
+App::GHGen::Interactive             0.13  pkg:cpan/App-GHGen@0.13
+App::GHGen::PerlCustomizer          0.13  pkg:cpan/App-GHGen@0.13
+App::GHGen::Reporter                0.13  pkg:cpan/App-GHGen@0.13
 App::GHPT                          2.000001  pkg:cpan/App-GHPT@2.000001
 App::GHPT::Types                   2.000001  pkg:cpan/App-GHPT@2.000001
 App::GHPT::WorkSubmitter           2.000001  pkg:cpan/App-GHPT@2.000001
@@ -28910,7 +28910,7 @@ Bitcoin::Crypto::Util::Internal    4.005  pkg:cpan/Bitcoin-Crypto@4.005
 Bitcoin::Mnemonic                  0.003  pkg:cpan/Bitcoin-BIP39@0.003
 Bitcoin::RPC::Client                0.12  pkg:cpan/Bitcoin-RPC-Client@0.12
 Bitcoin::RPC::Client::API           0.06  pkg:cpan/Bitcoin-RPC-Client@0.06
-Bitcoin::Secp256k1                 0.011  pkg:cpan/Bitcoin-Secp256k1@0.011
+Bitcoin::Secp256k1                 0.012  pkg:cpan/Bitcoin-Secp256k1@0.012
 Bitmask::Data                      2.050  pkg:cpan/Bitmask-Data@2.05
 BlankOnDev                         0.1005  pkg:cpan/BlankOnDev@0.1005
 BlankOnDev::DataDev                0.1005  pkg:cpan/BlankOnDev@0.1005
@@ -51506,7 +51506,7 @@ Cucumber::TagExpressions::LiteralNode v11.2.0  pkg:cpan/Cucumber-TagExpressions@
 Cucumber::TagExpressions::Node     v11.2.0  pkg:cpan/Cucumber-TagExpressions@11.2.0
 Cucumber::TagExpressions::NotNode  v11.2.0  pkg:cpan/Cucumber-TagExpressions@11.2.0
 Cucumber::TagExpressions::OrNode   v11.2.0  pkg:cpan/Cucumber-TagExpressions@11.2.0
-Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.182
+Cucumber::Test::Release::Automation undef  pkg:cpan/Cucumber-Test-Release-Automation@v0.0.183
 Curia                                1.0  pkg:cpan/qdbm-perl@1.8.14
 Curl::Impersonate                   0.03  pkg:cpan/Curl-Impersonate@0.03
 Curl::Impersonate::Multi           undef  pkg:cpan/Curl-Impersonate@0.03
@@ -62735,26 +62735,26 @@ Data::Tabulate                      0.09  pkg:cpan/Data-Tabulate@0.09
 Data::Tabulate::Plugin::ASCIITable  0.04  pkg:cpan/Data-Tabulate-Plugin-ASCIITable@0.04
 Data::Tabulate::Plugin::HTMLTable   0.06  pkg:cpan/Data-Tabulate-Plugin-HTMLTable@0.06
 Data::Tabulator                     0.03  pkg:cpan/Data-Tabulator@0.03
-Data::TagDB                        v0.15.0  pkg:cpan/Data-TagDB@v0.15
-Data::TagDB::Base                  v0.15.0  pkg:cpan/Data-TagDB@v0.15
-Data::TagDB::Cache                 v0.15.0  pkg:cpan/Data-TagDB@v0.15
-Data::TagDB::Cloudlet              v0.15.0  pkg:cpan/Data-TagDB@v0.15
-Data::TagDB::Exporter              v0.15.0  pkg:cpan/Data-TagDB@v0.15
-Data::TagDB::Factory               v0.15.0  pkg:cpan/Data-TagDB@v0.15
-Data::TagDB::Interface::Includeable v0.15.0  pkg:cpan/Data-TagDB@v0.15
-Data::TagDB::Interface::Plugin     v0.15.0  pkg:cpan/Data-TagDB@v0.15
-Data::TagDB::Iterator              v0.15.0  pkg:cpan/Data-TagDB@v0.15
-Data::TagDB::Link                  v0.15.0  pkg:cpan/Data-TagDB@v0.15
-Data::TagDB::LinkIterator          v0.15.0  pkg:cpan/Data-TagDB@v0.15
-Data::TagDB::Metadata              v0.15.0  pkg:cpan/Data-TagDB@v0.15
-Data::TagDB::Migration             v0.15.0  pkg:cpan/Data-TagDB@v0.15
-Data::TagDB::MultiIterator         v0.15.0  pkg:cpan/Data-TagDB@v0.15
+Data::TagDB                        v0.16.0  pkg:cpan/Data-TagDB@v0.16
+Data::TagDB::Base                  v0.16.0  pkg:cpan/Data-TagDB@v0.16
+Data::TagDB::Cache                 v0.16.0  pkg:cpan/Data-TagDB@v0.16
+Data::TagDB::Cloudlet              v0.16.0  pkg:cpan/Data-TagDB@v0.16
+Data::TagDB::Exporter              v0.16.0  pkg:cpan/Data-TagDB@v0.16
+Data::TagDB::Factory               v0.16.0  pkg:cpan/Data-TagDB@v0.16
+Data::TagDB::Interface::Includeable v0.16.0  pkg:cpan/Data-TagDB@v0.16
+Data::TagDB::Interface::Plugin     v0.16.0  pkg:cpan/Data-TagDB@v0.16
+Data::TagDB::Iterator              v0.16.0  pkg:cpan/Data-TagDB@v0.16
+Data::TagDB::Link                  v0.16.0  pkg:cpan/Data-TagDB@v0.16
+Data::TagDB::LinkIterator          v0.16.0  pkg:cpan/Data-TagDB@v0.16
+Data::TagDB::Metadata              v0.16.0  pkg:cpan/Data-TagDB@v0.16
+Data::TagDB::Migration             v0.16.0  pkg:cpan/Data-TagDB@v0.16
+Data::TagDB::MultiIterator         v0.16.0  pkg:cpan/Data-TagDB@v0.16
 Data::TagDB::Plugin::Gamebook      v0.2.0  pkg:cpan/Data-TagDB-Plugin-Gamebook@v0.02
 Data::TagDB::Plugin::Gamebook::Exit v0.2.0  pkg:cpan/Data-TagDB-Plugin-Gamebook@v0.02
-Data::TagDB::Relation              v0.15.0  pkg:cpan/Data-TagDB@v0.15
-Data::TagDB::Tag                   v0.15.0  pkg:cpan/Data-TagDB@v0.15
-Data::TagDB::WeakBaseObject        v0.15.0  pkg:cpan/Data-TagDB@v0.15
-Data::TagDB::WellKnown             v0.15.0  pkg:cpan/Data-TagDB@v0.15
+Data::TagDB::Relation              v0.16.0  pkg:cpan/Data-TagDB@v0.16
+Data::TagDB::Tag                   v0.16.0  pkg:cpan/Data-TagDB@v0.16
+Data::TagDB::WeakBaseObject        v0.16.0  pkg:cpan/Data-TagDB@v0.16
+Data::TagDB::WellKnown             v0.16.0  pkg:cpan/Data-TagDB@v0.16
 Data::TagHive                      0.005  pkg:cpan/Data-TagHive@0.005
 Data::TagListMatcher               v0.2.0  pkg:cpan/Data-TagListMatcher@v0.02
 Data::TagMap                       v0.3.0  pkg:cpan/Data-TagMap@v0.03
@@ -68614,10 +68614,10 @@ Dist::Zilla::Plugin::Author::CSSON::GithubActions 0.0107  pkg:cpan/Dist-Zilla-Pl
 Dist::Zilla::Plugin::Author::CSSON::GithubActions::BaseWorkflow 0.0103  pkg:cpan/Dist-Zilla-Plugin-Author-CSSON-GithubActions@0.0103
 Dist::Zilla::Plugin::Author::CSSON::GithubActions::Role::Workflow 0.0103  pkg:cpan/Dist-Zilla-Plugin-Author-CSSON-GithubActions@0.0103
 Dist::Zilla::Plugin::Author::CSSON::GithubActions::Workflow::TestWithMakefile 0.0107  pkg:cpan/Dist-Zilla-Plugin-Author-CSSON-GithubActions@0.0107
-Dist::Zilla::Plugin::Author::GETTY::Binary 0.328  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.328
-Dist::Zilla::Plugin::Author::GETTY::GitHubRelease 0.328  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.328
-Dist::Zilla::Plugin::Author::GETTY::GiteaMeta 0.328  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.328
-Dist::Zilla::Plugin::Author::GETTY::InstallCheck 0.328  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.328
+Dist::Zilla::Plugin::Author::GETTY::Binary 0.329  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.329
+Dist::Zilla::Plugin::Author::GETTY::GitHubRelease 0.329  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.329
+Dist::Zilla::Plugin::Author::GETTY::GiteaMeta 0.329  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.329
+Dist::Zilla::Plugin::Author::GETTY::InstallCheck 0.329  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.329
 Dist::Zilla::Plugin::Author::GSG   v0.6.2  pkg:cpan/Dist-Zilla-PluginBundle-Author-GSG@v0.6.2
 Dist::Zilla::Plugin::Author::GSG::HasVersionTests v0.6.2  pkg:cpan/Dist-Zilla-PluginBundle-Author-GSG@v0.6.2
 Dist::Zilla::Plugin::Author::HAYOBAAN::LinkCheck 0.016  pkg:cpan/Dist-Zilla-PluginBundle-Author-HAYOBAAN@0.016
@@ -68856,6 +68856,7 @@ Dist::Zilla::Plugin::Generate::ManifestSkip v0.1.7  pkg:cpan/Dist-Zilla-Plugin-G
 Dist::Zilla::Plugin::GenerateFile  6.040  pkg:cpan/Dist-Zilla@6.040
 Dist::Zilla::Plugin::GenerateFile::FromShareDir 0.016  pkg:cpan/Dist-Zilla-Plugin-GenerateFile-FromShareDir@0.016
 Dist::Zilla::Plugin::Git           2.052  pkg:cpan/Dist-Zilla-Plugin-Git@2.052
+Dist::Zilla::Plugin::Git::ChangelogFromTrailers 0.001  pkg:cpan/Dist-Zilla-Plugin-Git-ChangelogFromTrailers@0.001
 Dist::Zilla::Plugin::Git::Check    2.052  pkg:cpan/Dist-Zilla-Plugin-Git@2.052
 Dist::Zilla::Plugin::Git::CheckFor::CorrectBranch 0.015  pkg:cpan/Dist-Zilla-PluginBundle-Git-CheckFor@0.015
 Dist::Zilla::Plugin::Git::CheckFor::Fixups 0.015  pkg:cpan/Dist-Zilla-PluginBundle-Git-CheckFor@0.015
@@ -69385,9 +69386,9 @@ Dist::Zilla::PluginBundle::Author::DOMM 0.912  pkg:cpan/Dist-Zilla-PluginBundle-
 Dist::Zilla::PluginBundle::Author::ETHER 0.174  pkg:cpan/Dist-Zilla-PluginBundle-Author-ETHER@0.174
 Dist::Zilla::PluginBundle::Author::FERREIRA v0.4.0  pkg:cpan/Dist-Zilla-PluginBundle-Author-FERREIRA@0.4.0
 Dist::Zilla::PluginBundle::Author::GABRIEL  0.01  pkg:cpan/Dist-Zilla-PluginBundle-Author-GABRIEL@0.01
-Dist::Zilla::PluginBundle::Author::GETTY 0.328  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.328
-Dist::Zilla::PluginBundle::Author::GETTY::Binary 0.328  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.328
-Dist::Zilla::PluginBundle::Author::GETTY::Docker 0.328  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.328
+Dist::Zilla::PluginBundle::Author::GETTY 0.329  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.329
+Dist::Zilla::PluginBundle::Author::GETTY::Binary 0.329  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.329
+Dist::Zilla::PluginBundle::Author::GETTY::Docker 0.329  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.329
 Dist::Zilla::PluginBundle::Author::GSG v0.6.2  pkg:cpan/Dist-Zilla-PluginBundle-Author-GSG@v0.6.2
 Dist::Zilla::PluginBundle::Author::GTERMARS  0.06  pkg:cpan/Dist-Zilla-PluginBundle-Author-GTERMARS@0.06
 Dist::Zilla::PluginBundle::Author::HAYOBAAN 0.016  pkg:cpan/Dist-Zilla-PluginBundle-Author-HAYOBAAN@0.016
@@ -122324,6 +122325,7 @@ Log::Dispatch::Desktop::Notify     v0.0.2  pkg:cpan/Log-Dispatch-Desktop-Notify@
 Log::Dispatch::DesktopNotification  0.03  pkg:cpan/Log-Dispatch-DesktopNotification@0.03
 Log::Dispatch::Dir                 0.160  pkg:cpan/Log-Dispatch-Dir@0.160
 Log::Dispatch::Email                2.71  pkg:cpan/Log-Dispatch@2.71
+Log::Dispatch::Email::DKIM         0.001000  pkg:cpan/Log-Dispatch-Email-DKIM@0.001.0
 Log::Dispatch::Email::EmailSend     0.03  pkg:cpan/Log-Dispatch-Email-EmailSend@0.03
 Log::Dispatch::Email::MIMELite      2.71  pkg:cpan/Log-Dispatch@2.71
 Log::Dispatch::Email::MailSend      2.71  pkg:cpan/Log-Dispatch@2.71
@@ -123982,7 +123984,7 @@ MIDI::RtMidi::FFI::Device           0.14  pkg:cpan/MIDI-RtMidi-FFI@0.14
 MIDI::RtMidi::FFI::Device::In       0.14  pkg:cpan/MIDI-RtMidi-FFI@0.14
 MIDI::RtMidi::FFI::Device::Out      0.14  pkg:cpan/MIDI-RtMidi-FFI@0.14
 MIDI::RtMidi::ScorePlayer          0.0303  pkg:cpan/MIDI-RtMidi-ScorePlayer@0.0303
-MIDI::RtMidi::Util                 0.0504  pkg:cpan/MIDI-RtMidi-Util@0.0504
+MIDI::RtMidi::Util                 0.0601  pkg:cpan/MIDI-RtMidi-Util@0.0601
 MIDI::SP404sx                      1.000000  pkg:cpan/MIDI-SP404sx@v1.0.0
 MIDI::SP404sx::Constants           undef  pkg:cpan/MIDI-SP404sx@v1.0.0
 MIDI::SP404sx::MIDIIO              undef  pkg:cpan/MIDI-SP404sx@v1.0.0
@@ -124021,7 +124023,7 @@ MIDI::Track                         0.84  pkg:cpan/MIDI-Perl@0.84
 MIDI::Trans                         0.15  pkg:cpan/MIDI-Trans@0.15?ext=zip
 MIDI::Tweaks                        1.01  pkg:cpan/MIDI-Tweaks@1.01
 MIDI::Tweaks::Opus                  1.01  pkg:cpan/MIDI-Tweaks@1.01
-MIDI::Util                         0.1312  pkg:cpan/MIDI-Util@0.1312
+MIDI::Util                         0.1313  pkg:cpan/MIDI-Util@0.1313
 MIDI::XML                           0.03  pkg:cpan/MIDI-XML@0.03
 MIDI::XML::Absolute                 0.03  pkg:cpan/MIDI-XML@0.03
 MIDI::XML::ActiveSensing            0.03  pkg:cpan/MIDI-XML@0.03
@@ -129374,11 +129376,11 @@ MathWorks::platformList            undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::product                 undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepItem          undef  pkg:cpan/XML-Pastor@0.6.0
 MathWorks::productDepList          undef  pkg:cpan/XML-Pastor@0.6.0
-Matplotlib::Simple                 0.3344  pkg:cpan/Matplotlib-Simple@0.3344
-Matplotlib::Simple::Colors         0.3344  pkg:cpan/Matplotlib-Simple@0.3344
-Matplotlib::Simple::Ggplot2        0.3344  pkg:cpan/Matplotlib-Simple@0.3344
-Matplotlib::Simple::Gnuplot        0.3344  pkg:cpan/Matplotlib-Simple@0.3344
-Matplotlib::Simple::Matplotlib     0.3344  pkg:cpan/Matplotlib-Simple@0.3344
+Matplotlib::Simple                 0.3345  pkg:cpan/Matplotlib-Simple@0.3345
+Matplotlib::Simple::Colors         0.3345  pkg:cpan/Matplotlib-Simple@0.3345
+Matplotlib::Simple::Ggplot2        0.3345  pkg:cpan/Matplotlib-Simple@0.3345
+Matplotlib::Simple::Gnuplot        0.3345  pkg:cpan/Matplotlib-Simple@0.3345
+Matplotlib::Simple::Matplotlib     0.3345  pkg:cpan/Matplotlib-Simple@0.3345
 Matrix::Simple                      1.04  pkg:cpan/Matrix-Simple@1.04
 Matts::Message                     undef  pkg:cpan/Matts-Message-Parser@1.0
 Matts::Message::Parser               1.0  pkg:cpan/Matts-Message-Parser@1.0
@@ -146702,8 +146704,8 @@ Net::OpenSSH::Compat::SSH2::File    0.09  pkg:cpan/Net-OpenSSH-Compat@0.09
 Net::OpenSSH::Compat::SSH2::SFTP    0.09  pkg:cpan/Net-OpenSSH-Compat@0.09
 Net::OpenSSH::ConnectionCache      undef  pkg:cpan/Net-OpenSSH@0.84
 Net::OpenSSH::ModuleLoader         undef  pkg:cpan/Net-OpenSSH@0.84
-Net::OpenSSH::More                  1.06  pkg:cpan/Net-OpenSSH-More@1.06
-Net::OpenSSH::More::Linux           1.06  pkg:cpan/Net-OpenSSH-More@1.06
+Net::OpenSSH::More                  1.07  pkg:cpan/Net-OpenSSH-More@1.07
+Net::OpenSSH::More::Linux           1.07  pkg:cpan/Net-OpenSSH-More@1.07
 Net::OpenSSH::ObjectRemote         undef  pkg:cpan/Net-OpenSSH@0.84
 Net::OpenSSH::Parallel              0.14  pkg:cpan/Net-OpenSSH-Parallel@0.14
 Net::OpenSSH::Parallel::Constants   0.12  pkg:cpan/Net-OpenSSH-Parallel@0.14
@@ -194774,7 +194776,7 @@ Pod::Elemental::Paragraph          0.103006  pkg:cpan/Pod-Elemental@0.103006
 Pod::Elemental::PerlMunger         0.200007  pkg:cpan/Pod-Elemental-PerlMunger@0.200007
 Pod::Elemental::Selectors          0.103006  pkg:cpan/Pod-Elemental@0.103006
 Pod::Elemental::Transformer        0.103006  pkg:cpan/Pod-Elemental@0.103006
-Pod::Elemental::Transformer::Author::GETTY 0.328  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.328
+Pod::Elemental::Transformer::Author::GETTY 0.329  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.329
 Pod::Elemental::Transformer::Codebox 0.101001  pkg:cpan/Pod-Elemental-Transformer-SynHi@0.101001
 Pod::Elemental::Transformer::Cowl_GenDoc undef  pkg:cpan/RDF-Cowl@1.0.0
 Pod::Elemental::Transformer::Ditaa 0.001006  pkg:cpan/Pod-Weaver-Plugin-Ditaa@0.001006
@@ -195288,7 +195290,7 @@ Pod::Weaver::PluginBundle::Author::CCM 0.012  pkg:cpan/Dist-Zilla-PluginBundle-A
 Pod::Weaver::PluginBundle::Author::CSSON 0.1101  pkg:cpan/Pod-Weaver-PluginBundle-Author-CSSON@0.1101
 Pod::Weaver::PluginBundle::Author::DOHERTY 0.010  pkg:cpan/Pod-Weaver-PluginBundle-Author-DOHERTY@0.010
 Pod::Weaver::PluginBundle::Author::ETHER 0.174  pkg:cpan/Dist-Zilla-PluginBundle-Author-ETHER@0.174
-Pod::Weaver::PluginBundle::Author::GETTY 0.328  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.328
+Pod::Weaver::PluginBundle::Author::GETTY 0.329  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.329
 Pod::Weaver::PluginBundle::Author::HAYOBAAN 0.016  pkg:cpan/Dist-Zilla-PluginBundle-Author-HAYOBAAN@0.016
 Pod::Weaver::PluginBundle::Author::IOANR 1.230480  pkg:cpan/Dist-Zilla-PluginBundle-Author-IOANR@1.230480
 Pod::Weaver::PluginBundle::Author::KENTNL 0.001003  pkg:cpan/Pod-Weaver-PluginBundle-Author-KENTNL@0.001003
@@ -195363,8 +195365,8 @@ Pod::Weaver::Role::SortSections     0.02  pkg:cpan/Pod-Weaver-Role-SortSections@
 Pod::Weaver::Role::StringFromComment 4.022  pkg:cpan/Pod-Weaver@4.022
 Pod::Weaver::Role::Transformer     4.022  pkg:cpan/Pod-Weaver@4.022
 Pod::Weaver::Section::AllowOverride  0.05  pkg:cpan/Pod-Weaver-Section-AllowOverride@0.05
-Pod::Weaver::Section::Author::GETTY::Legal 0.328  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.328
-Pod::Weaver::Section::Author::GETTY::Support 0.328  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.328
+Pod::Weaver::Section::Author::GETTY::Legal 0.329  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.329
+Pod::Weaver::Section::Author::GETTY::Support 0.329  pkg:cpan/Dist-Zilla-PluginBundle-Author-GETTY@0.329
 Pod::Weaver::Section::Author::HAYOBAAN::Bugs 0.016  pkg:cpan/Dist-Zilla-PluginBundle-Author-HAYOBAAN@0.016
 Pod::Weaver::Section::Authors      4.022  pkg:cpan/Pod-Weaver@4.022
 Pod::Weaver::Section::AutoDoc      0.001  pkg:cpan/Method-Signatures-WithDocumentation@0.001
@@ -219790,7 +219792,7 @@ Stats::Fermi::FermiDiracStats      undef  pkg:cpan/Stats-Fermi@0.1.7
 Stats::Hawking                     0.001003  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HTRandom           undef  pkg:cpan/Stats-Hawking@0.1.3
 Stats::Hawking::HawkingTemperature undef  pkg:cpan/Stats-Hawking@0.1.3
-Stats::LikeR                       0.3425  pkg:cpan/Stats-LikeR@0.3425
+Stats::LikeR                       0.3426  pkg:cpan/Stats-LikeR@0.3426
 Stats::LikeR::Pred                  0.16  pkg:cpan/Stats-LikeR@0.16
 Stats::LikeR::Usage                0.3413  pkg:cpan/Stats-LikeR@0.3413
 Stats::LikeR::col                   0.28  pkg:cpan/Stats-LikeR@0.28
