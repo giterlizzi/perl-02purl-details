@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sat, 21 Nov 2026 09:01:32 GMT
-Line-Count: 264280
+Last-Updated: Sat, 21 Nov 2026 17:01:27 GMT
+Line-Count: 264284
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -16064,11 +16064,11 @@ App::annex_review_unused           0.006  pkg:cpan/Git-Annex@0.006
 App::annex_to_annex                0.008  pkg:cpan/Git-Annex@0.008
 App::annex_to_annex_dropunused     0.008  pkg:cpan/Git-Annex@0.008
 App::annex_to_annex_reinject       0.008  pkg:cpan/Git-Annex@0.008
-App::ansicolumn                     1.69  pkg:cpan/App-ansicolumn@1.69
-App::ansicolumn::Border            undef  pkg:cpan/App-ansicolumn@1.69
-App::ansicolumn::Command           undef  pkg:cpan/App-ansicolumn@1.69
-App::ansicolumn::Document          undef  pkg:cpan/App-ansicolumn@1.69
-App::ansicolumn::default           undef  pkg:cpan/App-ansicolumn@1.69
+App::ansicolumn                     1.70  pkg:cpan/App-ansicolumn@1.70
+App::ansicolumn::Border            undef  pkg:cpan/App-ansicolumn@1.70
+App::ansicolumn::Command           undef  pkg:cpan/App-ansicolumn@1.70
+App::ansicolumn::Document          undef  pkg:cpan/App-ansicolumn@1.70
+App::ansicolumn::default           undef  pkg:cpan/App-ansicolumn@1.70
 App::ansiecho                       1.10  pkg:cpan/App-ansiecho@1.10
 App::ansiecho::Util                undef  pkg:cpan/App-ansiecho@1.10
 App::ansiexpand                     1.06  pkg:cpan/App-ansiexpand@1.06
@@ -28797,12 +28797,12 @@ Bit::Set::OO                        0.13  pkg:cpan/Bit-Set@0.13
 Bit::ShiftReg                        2.0  pkg:cpan/Bit-ShiftReg@2.0
 Bit::Twiddling                      0.10  pkg:cpan/Bit-Twiddling@0.10
 Bit::Util                           0.02  pkg:cpan/Bit-Util@0.02
-Bit::Vector                          7.4  pkg:cpan/Bit-Vector@7.4
+Bit::Vector                          7.5  pkg:cpan/Bit-Vector@7.5
 Bit::Vector::Array                  0.02  pkg:cpan/Bit-Vector-Array@0.02
 Bit::Vector::Array::Tie             0.02  pkg:cpan/Bit-Vector-Array@0.02
 Bit::Vector::Minimal                 1.3  pkg:cpan/Bit-Vector-Minimal@1.3
-Bit::Vector::Overload                7.4  pkg:cpan/Bit-Vector@7.4
-Bit::Vector::String                  7.4  pkg:cpan/Bit-Vector@7.4
+Bit::Vector::Overload                7.5  pkg:cpan/Bit-Vector@7.5
+Bit::Vector::String                  7.5  pkg:cpan/Bit-Vector@7.5
 BitArray                            0.01  pkg:cpan/BitArray1@0
 BitTorrent                          0.10  pkg:cpan/BitTorrent@V0.1?ext=zip
 BitTorrent::Simple                  0.03  pkg:cpan/BitTorrent-Simple@0.03
@@ -46594,8 +46594,8 @@ Class::Easy::Timer                 undef  pkg:cpan/Class-Easy@0.18
 Class::Entity                        0.5  pkg:cpan/Class-Entity@0.5
 Class::Enum                         0.05  pkg:cpan/Class-Enum@0.05
 Class::Enumemon                     0.01  pkg:cpan/Class-Enumemon@0.01
-Class::Enumeration                 v1.3.1  pkg:cpan/Class-Enumeration@v1.3.1
-Class::Enumeration::Builder        v1.3.1  pkg:cpan/Class-Enumeration@v1.3.1
+Class::Enumeration                 v1.3.2  pkg:cpan/Class-Enumeration@v1.3.2
+Class::Enumeration::Builder        v1.3.2  pkg:cpan/Class-Enumeration@v1.3.2
 Class::Error                        2.41  pkg:cpan/OOTools@2.41
 Class::ErrorHandler                 0.04  pkg:cpan/Class-ErrorHandler@0.04
 Class::Exception                   0.001002  pkg:cpan/Class-Generic@v0.1.1
@@ -84606,7 +84606,10 @@ Geo::Postcode                       0.17  pkg:cpan/Geo-Postcode@0.17
 Geo::Postcode::Location             0.12  pkg:cpan/Geo-Postcode@0.17
 Geo::Postcodes                      0.32  pkg:cpan/Geo-Postcodes@0.32
 Geo::Postcodes::DK                  0.32  pkg:cpan/Geo-Postcodes-DK@0.32
-Geo::Postcodes::NO                  0.31  pkg:cpan/Geo-Postcodes-NO@0.31
+Geo::Postcodes::NO                  1.00  pkg:cpan/Geo-Postcodes-NO@1.00
+Geo::Postcodes::NO::Check           1.00  pkg:cpan/Geo-Postcodes-NO@1.00
+Geo::Postcodes::NO::Selection      undef  pkg:cpan/Geo-Postcodes-NO@1.00
+Geo::Postcodes::NO::Tutorial       undef  pkg:cpan/Geo-Postcodes-NO@1.00
 Geo::Postcodes::Update             0.311  pkg:cpan/Geo-Postcodes@0.32
 Geo::Privacy                        0.01  pkg:cpan/Geo-Privacy@0.01
 Geo::Proj                           0.99  pkg:cpan/Geo-Point@0.99
@@ -142724,10 +142727,10 @@ Net::CloudStack                    0.01005  pkg:cpan/Net-CloudStack@0.01005
 Net::CloudStack::API                0.02  pkg:cpan/Net-CloudStack-API@0.02
 Net::Cloudflare::DNS                0.22  pkg:cpan/Net-Cloudflare-DNS@0.22?ext=tgz
 Net::Cloudflare::DNS::Teal          0.05  pkg:cpan/Net-Cloudflare-DNS-Teal@0.05
-Net::Cmd                            3.16  pkg:cpan/libnet@3.16
+Net::Cmd                            3.17  pkg:cpan/libnet@3.17
 Net::Comcast::Customer               1.2  pkg:cpan/Net-Comcast-Customer@1.2
 Net::Compare                        0.04  pkg:cpan/Net-Compare@0.04
-Net::Config                         3.16  pkg:cpan/libnet@3.16
+Net::Config                         3.17  pkg:cpan/libnet@3.17
 Net::Connection                    0.003000  pkg:cpan/Net-Connection@0.3.0
 Net::Connection::FreeBSD_sockstat    1.0  pkg:cpan/Net-Connection-FreeBSD_sockstat@1.0.0
 Net::Connection::Linux_ss          0.000001  pkg:cpan/Net-Connection-Linux_ss@0.0.1
@@ -143733,7 +143736,7 @@ Net::Divert                         0.01  pkg:cpan/Net-Divert@0.01?ext=tgz
 Net::Dnet                           0.73  pkg:cpan/Net-Dnet@0.73
 Net::Docker                        0.002005  pkg:cpan/Net-Docker@0.002005
 Net::Dogstatsd                     v1.0.3  pkg:cpan/Net-Dogstatsd@1.0.3
-Net::Domain                         3.16  pkg:cpan/libnet@3.16
+Net::Domain                         3.17  pkg:cpan/libnet@3.17
 Net::Domain::ES::ccTLD              0.05  pkg:cpan/Net-Domain-ES-ccTLD@0.05
 Net::Domain::ExpireDate             1.20  pkg:cpan/Net-Domain-ExpireDate@1.20-fixed
 Net::Domain::Info                   0.02  pkg:cpan/Net-Domain-Info@0.02
@@ -144400,16 +144403,16 @@ Net::FSP::Handle                       0  pkg:cpan/Net-FSP@0.15
 Net::FSP::Handle::Read                 0  pkg:cpan/Net-FSP@0.15
 Net::FSP::Handle::Write                0  pkg:cpan/Net-FSP@0.15
 Net::FSP::Util                         0  pkg:cpan/Net-FSP@0.16
-Net::FTP                            3.16  pkg:cpan/libnet@3.16
-Net::FTP::A                         3.16  pkg:cpan/libnet@3.16
+Net::FTP                            3.17  pkg:cpan/libnet@3.17
+Net::FTP::A                         3.17  pkg:cpan/libnet@3.17
 Net::FTP::AutoReconnect              0.3  pkg:cpan/Net-FTP-AutoReconnect@0.3
 Net::FTP::Common                     7.0  pkg:cpan/Net-FTP-Common@7.0.d
-Net::FTP::E                         3.16  pkg:cpan/libnet@3.16
+Net::FTP::E                         3.17  pkg:cpan/libnet@3.17
 Net::FTP::File                      0.06  pkg:cpan/Net-FTP-File@0.06
 Net::FTP::Find                     0.041  pkg:cpan/Net-FTP-Find@0.041
 Net::FTP::Find::Mixin              0.041  pkg:cpan/Net-FTP-Find@0.041
-Net::FTP::I                         3.16  pkg:cpan/libnet@3.16
-Net::FTP::L                         3.16  pkg:cpan/libnet@3.16
+Net::FTP::I                         3.17  pkg:cpan/libnet@3.17
+Net::FTP::L                         3.17  pkg:cpan/libnet@3.17
 Net::FTP::Mock                     0.103300  pkg:cpan/Net-FTP-Mock@0.103300
 Net::FTP::Path::Iter                0.07  pkg:cpan/Net-FTP-Path-Iter@0.07
 Net::FTP::Path::Iter::Dir           0.07  pkg:cpan/Net-FTP-Path-Iter@0.07
@@ -144424,7 +144427,7 @@ Net::FTP::Throttle                  0.32  pkg:cpan/Net-FTP-Throttle@0.32
 Net::FTP::Tiny                     0.002  pkg:cpan/Net-FTP-Tiny@0.002
 Net::FTP::Versioning                0.01  pkg:cpan/Net-FTP-Versioning@0.01
 Net::FTP::blat                      0.03  pkg:cpan/Net-FTP-blat@0.03
-Net::FTP::dataconn                  3.16  pkg:cpan/libnet@3.16
+Net::FTP::dataconn                  3.17  pkg:cpan/libnet@3.17
 Net::FTPSSL                         0.42  pkg:cpan/Net-FTPSSL@0.42
 Net::FTPSSL::Robust                 0.06  pkg:cpan/Net-FTPSSL-Robust@0.06
 Net::FTPServer                     1.125  pkg:cpan/Net-FTPServer@1.125
@@ -145128,8 +145131,8 @@ Net::HTTP2::Response               undef  pkg:cpan/Net-HTTP2@0.02
 Net::HTTP2::X                      undef  pkg:cpan/Net-HTTP2@0.02
 Net::HTTP2::X::Base                undef  pkg:cpan/Net-HTTP2@0.02
 Net::HTTP2::X::HTTP2               undef  pkg:cpan/Net-HTTP2@0.02
-Net::HTTP2::nghttp2                0.013  pkg:cpan/Net-HTTP2-nghttp2@0.013
-Net::HTTP2::nghttp2::Session       undef  pkg:cpan/Net-HTTP2-nghttp2@0.013
+Net::HTTP2::nghttp2                0.014  pkg:cpan/Net-HTTP2-nghttp2@0.014
+Net::HTTP2::nghttp2::Session       undef  pkg:cpan/Net-HTTP2-nghttp2@0.014
 Net::HTTP::API                      0.11  pkg:cpan/Net-HTTP-API@0.14
 Net::HTTP::API::Error               0.14  pkg:cpan/Net-HTTP-API@0.14
 Net::HTTP::API::Meta::Class         0.14  pkg:cpan/Net-HTTP-API@0.14
@@ -146226,13 +146229,13 @@ Net::NISPlus::Group                undef  pkg:cpan/NISPlus@0.06-alpha
 Net::NISPlus::Object               undef  pkg:cpan/NISPlus@0.06-alpha
 Net::NISPlus::Table                undef  pkg:cpan/NISPlus@0.06-alpha
 Net::NISplusTied                    0.02  pkg:cpan/Net-NISplusTied@0.02?ext=tgz
-Net::NNTP                           3.16  pkg:cpan/libnet@3.16
+Net::NNTP                           3.17  pkg:cpan/libnet@3.17
 Net::NNTP2                           0.6  pkg:cpan/newslib@0.84
 Net::NNTP::Auth                        1  pkg:cpan/newslib@0.84
 Net::NNTP::Client                    0.6  pkg:cpan/newslib@0.84
 Net::NNTP::Functions                0.21  pkg:cpan/newslib@0.84
 Net::NNTP::Proxy                    0.54  pkg:cpan/newslib@0.84
-Net::NNTP::_SSL                     3.16  pkg:cpan/libnet@3.16
+Net::NNTP::_SSL                     3.17  pkg:cpan/libnet@3.17
 Net::NSCA::Client                  0.009002  pkg:cpan/Net-NSCA-Client@0.009002
 Net::NSCA::Client::Connection      0.009002  pkg:cpan/Net-NSCA-Client@0.009002
 Net::NSCA::Client::Connection::TLS 0.009002  pkg:cpan/Net-NSCA-Client@0.009002
@@ -146294,7 +146297,7 @@ Net::Netfilter::NetFlow::Utils     1.113260  pkg:cpan/Net-Netfilter-NetFlow@1.11
 Net::Netflix                        0.05  pkg:cpan/Net-Netflix@0.05
 Net::Netid                          0.02  pkg:cpan/Net-Netid@0.02
 Net::Netmask                       2.0003  pkg:cpan/Net-Netmask@2.0003
-Net::Netrc                          3.16  pkg:cpan/libnet@3.16
+Net::Netrc                          3.17  pkg:cpan/libnet@3.17
 Net::NfDump                         1.33  pkg:cpan/Net-NfDump@1.33
 Net::NfDump::Fields                undef  pkg:cpan/Net-NfDump@1.33
 Net::NicoVideo                      0.28  pkg:cpan/Net-NicoVideo@0.28
@@ -146820,13 +146823,13 @@ Net::PMP::Profile::TypeConstraints 0.102  pkg:cpan/Net-PMP-Profile@0.102
 Net::PMP::Profile::Video           0.102  pkg:cpan/Net-PMP-Profile@0.102
 Net::PMP::Schema                   0.006  pkg:cpan/Net-PMP@0.006
 Net::PMP::TypeConstraints          0.006  pkg:cpan/Net-PMP@0.006
-Net::POP3                           3.16  pkg:cpan/libnet@3.16
+Net::POP3                           3.17  pkg:cpan/libnet@3.17
 Net::POP3::PerMsgHandler            0.03  pkg:cpan/Net-POP3-PerMsgHandler@0.03
 Net::POP3::PerMsgHandler::Control   0.01  pkg:cpan/Net-POP3-PerMsgHandler@0.03
 Net::POP3::PerMsgHandler::Message   0.01  pkg:cpan/Net-POP3-PerMsgHandler@0.03
 Net::POP3::SSLWrapper               0.06  pkg:cpan/Net-POP3-SSLWrapper@0.06
 Net::POP3::XOAuth2                 v0.0.2  pkg:cpan/Net-POP3-XOAuth2@0.0.2
-Net::POP3::_SSL                     3.16  pkg:cpan/libnet@3.16
+Net::POP3::_SSL                     3.17  pkg:cpan/libnet@3.17
 Net::POP3::_SSL_Socket              0.91  pkg:cpan/Net-SSLGlue@1.053
 Net::POP3::_SSLified                0.91  pkg:cpan/Net-SSLGlue@1.053
 Net::POP3S                          0.12  pkg:cpan/Net-POP3S@0.12
@@ -147659,7 +147662,7 @@ Net::SMS::Web                      0.015  pkg:cpan/Net-SMS-Web@0.015
 Net::SMS::Web::Action              0.015  pkg:cpan/Net-SMS-Web@0.015
 Net::SMS::WorldText                  1.3  pkg:cpan/Net-SMS-WorldText@1.3
 Net::SMS::WorldText::Group           1.3  pkg:cpan/Net-SMS-WorldText@1.3
-Net::SMTP                           3.16  pkg:cpan/libnet@3.16
+Net::SMTP                           3.17  pkg:cpan/libnet@3.17
 Net::SMTP::BetterConnecting         1.00  pkg:cpan/TheSchwartz-Worker-SendEmail@1.00
 Net::SMTP::Bulk                     0.24  pkg:cpan/Net-SMTP-Bulk@0.24
 Net::SMTP::Bulk::AnyEvent           0.24  pkg:cpan/Net-SMTP-Bulk@0.24
@@ -147681,7 +147684,7 @@ Net::SMTP::Verify                   1.04  pkg:cpan/Net-SMTP-Verify@1.04
 Net::SMTP::Verify::App              1.04  pkg:cpan/Net-SMTP-Verify@1.04
 Net::SMTP::Verify::Result           1.04  pkg:cpan/Net-SMTP-Verify@1.04
 Net::SMTP::Verify::ResultSet        1.04  pkg:cpan/Net-SMTP-Verify@1.04
-Net::SMTP::_SSL                     3.16  pkg:cpan/libnet@3.16
+Net::SMTP::_SSL                     3.17  pkg:cpan/libnet@3.17
 Net::SMTP::_SSL_Socket                 1  pkg:cpan/Net-SSLGlue@1.053
 Net::SMTP::_SSLified                   1  pkg:cpan/Net-SSLGlue@1.053
 Net::SMTPS                          0.10  pkg:cpan/Net-SMTPS@0.10
@@ -148495,7 +148498,7 @@ Net::Thumper                        0.03  pkg:cpan/Net-Thumper@0.03
 Net::TiVo                           0.11  pkg:cpan/Net-TiVo@0.11
 Net::TiVo::Folder                  undef  pkg:cpan/Net-TiVo@0.11
 Net::TiVo::Show                    undef  pkg:cpan/Net-TiVo@0.11
-Net::Time                           3.16  pkg:cpan/libnet@3.16
+Net::Time                           3.17  pkg:cpan/libnet@3.17
 Net::TinyERP                        0.09  pkg:cpan/Net-TinyERP@0.09
 Net::TinyERP::NotaFiscal           undef  pkg:cpan/Net-TinyERP@0.09
 Net::TinyERP::NotaFiscalServicos   undef  pkg:cpan/Net-TinyERP@0.09
@@ -195947,7 +195950,7 @@ Prancer::Session::Store::Memory     1.05  pkg:cpan/Prancer@1.05
 Prancer::Session::Store::Storable   1.05  pkg:cpan/Prancer@1.05
 Prancer::Session::Store::YAML      undef  pkg:cpan/Prancer@0.09
 PrankCall                          0.004  pkg:cpan/PrankCall@0.004
-Praxo::Core                        v0.7.0  pkg:cpan/Praxo-Core@0.7.0
+Praxo::Core                        v0.7.1  pkg:cpan/Praxo-Core@0.7.1
 Predicate                          undef  pkg:cpan/SemMed-Interface@0.05
 PrefixCompiler                         0  pkg:cpan/SVN-TeamTools-Indexer@0.002
 PrefixMatcher                          0  pkg:cpan/SVN-TeamTools-Indexer@0.002
@@ -225866,7 +225869,8 @@ Test2::API::InterceptResult::Facet 1.302226  pkg:cpan/Test-Simple@1.302226
 Test2::API::InterceptResult::Hub   1.302226  pkg:cpan/Test-Simple@1.302226
 Test2::API::InterceptResult::Squasher 1.302226  pkg:cpan/Test-Simple@1.302226
 Test2::API::Stack                  1.302226  pkg:cpan/Test-Simple@1.302226
-Test2::Aggregate                    0.17  pkg:cpan/Test2-Aggregate@0.17
+Test2::Aggregate                    1.00  pkg:cpan/Test2-Aggregate@1.00
+Test2::Aggregate::Helper            1.00  pkg:cpan/Test2-Aggregate@1.00
 Test2::AsyncSubtest                1.302226  pkg:cpan/Test-Simple@1.302226
 Test2::AsyncSubtest::Event::Attach 1.302226  pkg:cpan/Test-Simple@1.302226
 Test2::AsyncSubtest::Event::Detach 1.302226  pkg:cpan/Test-Simple@1.302226
