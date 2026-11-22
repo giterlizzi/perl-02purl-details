@@ -5,8 +5,8 @@ Description: PURL for CPAN distributions
 Disallow-Alpha-Versions: 0
 File: 02purl.details.txt
 Intended-For: PURL compatible CPAN clients
-Last-Updated: Sun, 22 Nov 2026 04:30:40 GMT
-Line-Count: 264342
+Last-Updated: Sun, 22 Nov 2026 13:52:53 GMT
+Line-Count: 264364
 URL: https://cpan.metacpan.org/modules/02purl.details.txt
 Written-By: util/packages-to-purl using CPAN::PackageDetails 0.265
 
@@ -11183,10 +11183,10 @@ App::Greple::git                    1.00  pkg:cpan/App-Greple-git@1.00
 App::Greple::ical                   1.00  pkg:cpan/App-Greple-ical@1.00
 App::Greple::jq                     0.06  pkg:cpan/App-Greple-jq@0.06
 App::Greple::line                  undef  pkg:cpan/App-Greple@9.23
-App::Greple::md                     1.24  pkg:cpan/App-mdee@1.24
-App::Greple::md::Blocks             1.24  pkg:cpan/App-mdee@1.24
-App::Greple::md::Step              undef  pkg:cpan/App-mdee@1.24
-App::Greple::md::widen              1.24  pkg:cpan/App-mdee@1.24
+App::Greple::md                     1.25  pkg:cpan/App-mdee@1.25
+App::Greple::md::Blocks             1.25  pkg:cpan/App-mdee@1.25
+App::Greple::md::Step              undef  pkg:cpan/App-mdee@1.25
+App::Greple::md::widen              1.25  pkg:cpan/App-mdee@1.25
 App::Greple::msdoc                  1.07  pkg:cpan/App-Greple-msdoc@1.07
 App::Greple::perl                  undef  pkg:cpan/App-Greple@10.05
 App::Greple::pgp                   undef  pkg:cpan/App-Greple@10.05
@@ -16881,7 +16881,7 @@ App::manwrap::pm                   0.006  pkg:cpan/App-manwrap-pm@0.006
 App::matrixpack                    0.0014  pkg:cpan/App-matrixpack@0.0014
 App::mbxilinx                       0.13  pkg:cpan/Module-Build-Xilinx@0.13
 App::md2html                       0.001001  pkg:cpan/App-md2html@0.01.1
-App::mdee                           1.24  pkg:cpan/App-mdee@1.24
+App::mdee                           1.25  pkg:cpan/App-mdee@1.25
 App::merge_cpanfile                 0.01  pkg:cpan/App-merge_cpanfile@0.01
 App::metacpansearch                undef  pkg:cpan/App-metacpansearch@0.01
 App::metastasize                   0.002  pkg:cpan/App-metastasize@0.002
@@ -16950,7 +16950,7 @@ App::nrand                         0.002  pkg:cpan/App-nrand@0.002
 App::numero2bgc                    0.021  pkg:cpan/App-numero2bgc@0.021
 App::numseq                        0.002  pkg:cpan/App-numseq@0.002
 App::numspeed                      0.001  pkg:cpan/App-numspeed@0.001
-App::nup                            1.21  pkg:cpan/App-nup@1.21
+App::nup                            1.22  pkg:cpan/App-nup@1.22
 App::oaf                           undef  pkg:cpan/App-oaf@0.04
 App::olson                             0  pkg:cpan/App-olson@0.000
 App::olson::LocalDateTime              0  pkg:cpan/App-olson@0.000
@@ -16985,7 +16985,7 @@ App::optex::textconv::pandoc        1.08  pkg:cpan/App-optex-textconv@1.08
 App::optex::textconv::pdf           1.08  pkg:cpan/App-optex-textconv@1.08
 App::optex::textconv::tika          1.08  pkg:cpan/App-optex-textconv@1.08
 App::optex::textconv::xls           1.08  pkg:cpan/App-optex-textconv@1.08
-App::optex::up                      1.21  pkg:cpan/App-nup@1.21
+App::optex::up                      1.22  pkg:cpan/App-nup@1.22
 App::optex::util                   undef  pkg:cpan/App-optex@1.07
 App::optex::util::argv             undef  pkg:cpan/App-optex@1.07
 App::optex::util::filter           undef  pkg:cpan/App-optex@1.07
@@ -109518,19 +109518,19 @@ Internals                            1.1  pkg:cpan/Internals@1.1
 Internals::CountObjects             0.05  pkg:cpan/Internals-CountObjects@0.05
 Internals::DumpArenas               0.12  pkg:cpan/Internals-DumpArenas@0.12
 Internals::GraphArenas              0.01  pkg:cpan/Internals-GraphArenas@0.01
-InternetData                       1.017001  pkg:cpan/InternetData@1.17.1
-InternetData::AsnResult            1.017001  pkg:cpan/InternetData@1.17.1
-InternetData::Bogon                1.017001  pkg:cpan/InternetData@1.17.1
-InternetData::Bogons               undef  pkg:cpan/InternetData@1.17.1
-InternetData::Cache                1.017001  pkg:cpan/InternetData@1.17.1
-InternetData::Database             1.017001  pkg:cpan/InternetData@1.17.1
-InternetData::DomainResult         1.017001  pkg:cpan/InternetData@1.17.1
-InternetData::Error                1.017001  pkg:cpan/InternetData@1.17.1
-InternetData::Oauth                1.017001  pkg:cpan/InternetData@1.17.1
-InternetData::OauthAccessDeniedError 1.017001  pkg:cpan/InternetData@1.17.1
-InternetData::OauthError           1.017001  pkg:cpan/InternetData@1.17.1
-InternetData::OauthExpiredTokenError 1.017001  pkg:cpan/InternetData@1.17.1
-InternetData::Result               1.017001  pkg:cpan/InternetData@1.17.1
+InternetData                       1.018000  pkg:cpan/InternetData@1.18.0
+InternetData::AsnResult            1.018000  pkg:cpan/InternetData@1.18.0
+InternetData::Bogon                1.018000  pkg:cpan/InternetData@1.18.0
+InternetData::Bogons               undef  pkg:cpan/InternetData@1.18.0
+InternetData::Cache                1.018000  pkg:cpan/InternetData@1.18.0
+InternetData::Database             1.018000  pkg:cpan/InternetData@1.18.0
+InternetData::DomainResult         1.018000  pkg:cpan/InternetData@1.18.0
+InternetData::Error                1.018000  pkg:cpan/InternetData@1.18.0
+InternetData::Oauth                1.018000  pkg:cpan/InternetData@1.18.0
+InternetData::OauthAccessDeniedError 1.018000  pkg:cpan/InternetData@1.18.0
+InternetData::OauthError           1.018000  pkg:cpan/InternetData@1.18.0
+InternetData::OauthExpiredTokenError 1.018000  pkg:cpan/InternetData@1.18.0
+InternetData::Result               1.018000  pkg:cpan/InternetData@1.18.0
 Interpolation                       0.74  pkg:cpan/Interpolation@0.74
 Interpolation::A2A                  0.71  pkg:cpan/Interpolation@0.71
 Interpolation::A2S                  0.71  pkg:cpan/Interpolation@0.71
@@ -125840,25 +125840,47 @@ Mail::Log::Trace                   1.0101  pkg:cpan/Mail-Log-Trace@1.0101
 Mail::Log::Trace::Postfix          1.0001  pkg:cpan/Mail-Log-Trace@1.0101
 Mail::MBX                           0.01  pkg:cpan/Mail-MBX@0.01
 Mail::MBX::Message                 undef  pkg:cpan/Mail-MBX@0.01
-Mail::MIMEDefang                   3.007003  pkg:cpan/Mail-MIMEDefang@3.7.3
-Mail::MIMEDefang::Actions          undef  pkg:cpan/Mail-MIMEDefang@3.7.3
-Mail::MIMEDefang::Antispam         undef  pkg:cpan/Mail-MIMEDefang@3.7.3
-Mail::MIMEDefang::Antivirus        undef  pkg:cpan/Mail-MIMEDefang@3.7.3
-Mail::MIMEDefang::Async              1.0  pkg:cpan/Mail-MIMEDefang@3.7.3
-Mail::MIMEDefang::Async::Checks      1.0  pkg:cpan/Mail-MIMEDefang@3.7.3
-Mail::MIMEDefang::Async::Results     1.0  pkg:cpan/Mail-MIMEDefang@3.7.3
-Mail::MIMEDefang::Authres          undef  pkg:cpan/Mail-MIMEDefang@3.7.3
-Mail::MIMEDefang::BIMI             undef  pkg:cpan/Mail-MIMEDefang@3.7.3
-Mail::MIMEDefang::DKIM             undef  pkg:cpan/Mail-MIMEDefang@3.7.3
-Mail::MIMEDefang::DKIM::ARC        undef  pkg:cpan/Mail-MIMEDefang@3.7.3
-Mail::MIMEDefang::MIME             undef  pkg:cpan/Mail-MIMEDefang@3.7.3
-Mail::MIMEDefang::Mail             undef  pkg:cpan/Mail-MIMEDefang@3.7.3
-Mail::MIMEDefang::Net              undef  pkg:cpan/Mail-MIMEDefang@3.7.3
-Mail::MIMEDefang::RFC2822          undef  pkg:cpan/Mail-MIMEDefang@3.7.3
-Mail::MIMEDefang::SPF              undef  pkg:cpan/Mail-MIMEDefang@3.7.3
-Mail::MIMEDefang::TLSPolicy        undef  pkg:cpan/Mail-MIMEDefang@3.7.3
-Mail::MIMEDefang::Unit             undef  pkg:cpan/Mail-MIMEDefang@3.7.3
-Mail::MIMEDefang::Utils            undef  pkg:cpan/Mail-MIMEDefang@3.7.3
+Mail::MIMEDefang                   3.008000  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Actions          undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Antispam         undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Antivirus        undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Antivirus::ClamAV undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Antivirus::Legacy::BDC undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Antivirus::Legacy::CSAV undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Antivirus::Legacy::CarrierScan undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Antivirus::Legacy::FProt undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Antivirus::Legacy::FSAV undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Antivirus::Legacy::HBEDV undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Antivirus::Legacy::Kaspersky undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Antivirus::Legacy::NOD32 undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Antivirus::Legacy::NVCC undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Antivirus::Legacy::Sophos undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Antivirus::Legacy::Trend undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Antivirus::Legacy::Vexira undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Antivirus::NAI   undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Async              1.0  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Async::Checks      1.0  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Async::Results     1.0  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Authres          undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::BIMI             undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::DKIM             undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::DKIM::ARC        undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::MIME             undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::MIME::Base64     undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::MIME::Base64::Tap undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::ML               undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::ML::GLiClass     undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::ML::Laya         undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::ML::OpenAI       undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Mail             undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Net              undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Net::CachingResolver undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::RFC2822          undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::SPF              undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::TLSPolicy        undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Unit             undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Unit::ChunkedIn  undef  pkg:cpan/Mail-MIMEDefang@3.8.0
+Mail::MIMEDefang::Utils            undef  pkg:cpan/Mail-MIMEDefang@3.8.0
 Mail::MXplus                        0.02  pkg:cpan/Mail-MXplus@0.02
 Mail::Maildir::Is::A                 0.0  pkg:cpan/Mail-Maildir-Is-A@0.0.0
 Mail::Mailer                        2.22  pkg:cpan/MailTools@2.22
@@ -195511,7 +195533,7 @@ Podcast::ESLPodcast::Splitter      v0.0.1  pkg:cpan/Podcast-ESLPodcast-Splitter@
 Podcast::LoggerInterface            0.51  pkg:cpan/Podcast-Publisher@0.51
 Podcast::Publisher                  0.51  pkg:cpan/Podcast-Publisher@0.51
 Podcast::UploadManager              0.51  pkg:cpan/Podcast-Publisher@0.51
-Podlite                             1.00  pkg:cpan/Podlite@1.00
+Podlite                             2.00  pkg:cpan/Podlite@2.00
 Podman                             20220203.0  pkg:cpan/Podman@20220203.0
 Podman::Client                     20220211.0  pkg:cpan/Podman@20220211.0
 Podman::Container                  undef  pkg:cpan/Podman@20220211.0
@@ -241664,17 +241686,17 @@ VOMS::Lite::RSAKey                  0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::SAMLHelper              0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::VOMS                    0.20  pkg:cpan/VOMS-Lite@0.20
 VOMS::Lite::X509                    0.20  pkg:cpan/VOMS-Lite@0.20
-VPNDetection                       3.017000  pkg:cpan/VPNDetection@3.17.0
-VPNDetection::Bogon                3.017000  pkg:cpan/VPNDetection@3.17.0
-VPNDetection::Bogons               undef  pkg:cpan/VPNDetection@3.17.0
-VPNDetection::Cache                3.017000  pkg:cpan/VPNDetection@3.17.0
-VPNDetection::Database             3.017000  pkg:cpan/VPNDetection@3.17.0
-VPNDetection::Error                3.017000  pkg:cpan/VPNDetection@3.17.0
-VPNDetection::Oauth                3.017000  pkg:cpan/VPNDetection@3.17.0
-VPNDetection::OauthAccessDeniedError 3.017000  pkg:cpan/VPNDetection@3.17.0
-VPNDetection::OauthError           3.017000  pkg:cpan/VPNDetection@3.17.0
-VPNDetection::OauthExpiredTokenError 3.017000  pkg:cpan/VPNDetection@3.17.0
-VPNDetection::Result               3.017000  pkg:cpan/VPNDetection@3.17.0
+VPNDetection                       3.018000  pkg:cpan/VPNDetection@3.18.0
+VPNDetection::Bogon                3.018000  pkg:cpan/VPNDetection@3.18.0
+VPNDetection::Bogons               undef  pkg:cpan/VPNDetection@3.18.0
+VPNDetection::Cache                3.018000  pkg:cpan/VPNDetection@3.18.0
+VPNDetection::Database             3.018000  pkg:cpan/VPNDetection@3.18.0
+VPNDetection::Error                3.018000  pkg:cpan/VPNDetection@3.18.0
+VPNDetection::Oauth                3.018000  pkg:cpan/VPNDetection@3.18.0
+VPNDetection::OauthAccessDeniedError 3.018000  pkg:cpan/VPNDetection@3.18.0
+VPNDetection::OauthError           3.018000  pkg:cpan/VPNDetection@3.18.0
+VPNDetection::OauthExpiredTokenError 3.018000  pkg:cpan/VPNDetection@3.18.0
+VPNDetection::Result               3.018000  pkg:cpan/VPNDetection@3.18.0
 VR::API                             1.06  pkg:cpan/VR-API@1.06
 VR::API::Partner                    1.01  pkg:cpan/VR-API@1.05
 VRML                                1.10  pkg:cpan/VRML@1.10
